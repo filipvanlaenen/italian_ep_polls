@@ -69,7 +69,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 22 | 21–23 | 20–24 | 20–24 | 19–25 |
 | [3–8 February 2018](2018-02-08-TermometroPolitico.html) | Termometro Politico | 22 | 21–23 | 20–23 | 20–23 | 20–24 |
 | [8 February 2018](2018-02-08-Index.html) | Index | 21 | 20–23 | 20–23 | 19–24 | 19–25 |
-| [6–7 February 2018](2018-02-07-Tecnè.html) | Tecnè | 22 | 20–24 | 20–24 | 20–25 | 19–25 |
+| [6–7 February 2018](2018-02-07-Tecnè.html) | Tecnè | 22 | 20–24 | 20–24 | 20–24 | 19–25 |
 | [5–7 February 2018](2018-02-07-SWG.html) | SWG | 22 | 21–24 | 21–24 | 20–25 | 20–25 |
 
 ### Probability Mass Function
@@ -103,10 +103,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 20 | 7% | 98.6% |  |
 | 21 | 27% | 91% |  |
 | 22 | 36% | 64% | Median |
-| 23 | 20% | 28% |  |
+| 23 | 21% | 28% |  |
 | 24 | 6% | 8% |  |
 | 25 | 2% | 2% |  |
-| 26 | 0.2% | 0.2% |  |
+| 26 | 0.1% | 0.2% |  |
 | 27 | 0% | 0% |  |
 
 

@@ -42,7 +42,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–3 |
 | [3–8 February 2018](2018-02-08-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [8 February 2018](2018-02-08-Index.html) | Index | 0 | 0 | 0 | 0 | 0–3 |
-| [6–7 February 2018](2018-02-07-Tecnè.html) | Tecnè | 0 | 0 | 0 | 0–3 | 0–4 |
+| [6–7 February 2018](2018-02-07-Tecnè.html) | Tecnè | 0 | 0 | 0 | 0–3 | 0–3 |
 | [5–7 February 2018](2018-02-07-SWG.html) | SWG | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
