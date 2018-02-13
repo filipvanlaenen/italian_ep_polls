@@ -52,7 +52,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 10–13 | 9–13 | 9–13 | 9–13 |
+| N/A | [Poll Average](average.html) | 11 | 10–13 | 9–13 | 9–13 | 9–14 |
 | [3–8 February 2018](2018-02-08-TermometroPolitico.html) | Termometro Politico | 12 | 11–13 | 11–13 | 11–13 | 11–14 |
 | [8 February 2018](2018-02-08-Index.html) | Index | 11 | 10–13 | 10–13 | 9–13 | 9–14 |
 | [6–7 February 2018](2018-02-07-Tecnè.html) | Tecnè | 11 | 9–12 | 9–12 | 9–12 | 8–13 |
@@ -77,10 +77,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0.4% | 100% |  |
 | 9 | 7% | 99.6% |  |
 | 10 | 22% | 92% |  |
-| 11 | 35% | 71% | Median |
-| 12 | 23% | 35% |  |
+| 11 | 34% | 70% | Median |
+| 12 | 24% | 36% |  |
 | 13 | 12% | 12% |  |
-| 14 | 0.4% | 0.4% |  |
+| 14 | 0.6% | 0.6% |  |
 | 15 | 0% | 0% |  |
 
 
