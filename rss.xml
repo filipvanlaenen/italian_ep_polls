@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 12 Feb 2018 19:58:41 +0100</pubDate>
+    <pubDate>Mon, 12 Feb 2018 20:28:10 +0100</pubDate>
     <item>
       <title>Opinion Poll by Termometro Politico, 3–8 February 2018 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-02-08-TermometroPolitico.html#seats</link>
@@ -42,22 +42,22 @@
     <item>
       <title>Opinion Poll by Index, 8 February 2018 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-02-08-Index.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 16–20 seats&lt;/li&gt;&lt;li&gt;Più Europa (—): 0 seats&lt;/li&gt;&lt;li&gt;Insieme (—): 0 seats&lt;/li&gt;&lt;li&gt;Civica Popolare (—): 0 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 11–15 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 9–13 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (—): 0–5 seats&lt;/li&gt;&lt;li&gt;Noi con l’Italia (—): 0 seats&lt;/li&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 19–24 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 4–6 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 15–20 seats&lt;/li&gt;&lt;li&gt;Più Europa (—): 0 seats&lt;/li&gt;&lt;li&gt;Insieme (—): 0 seats&lt;/li&gt;&lt;li&gt;Civica Popolare (—): 0 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 10–15 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 9–13 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (—): 0–5 seats&lt;/li&gt;&lt;li&gt;Noi con l’Italia (—): 0 seats&lt;/li&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 19–24 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 4–6 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-02-08-Index-seats.png"
-        length="207224"
+        length="223441"
         type="image/png"/>
-      <pubDate>Sun, 11 Feb 2018 16:25:13 +0100</pubDate>
-      <dc:date>2018-02-11T16:25:13.0895+01:00</dc:date>
+      <pubDate>Mon, 12 Feb 2018 20:28:10 +0100</pubDate>
+      <dc:date>2018-02-12T20:28:10.417123+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Index, 8 February 2018 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-02-08-Index.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-02-08-Index-coalitions-seats.png"
-        length="139517"
+        length="149778"
         type="image/png"/>
-      <pubDate>Sun, 11 Feb 2018 16:25:13 +0100</pubDate>
-      <dc:date>2018-02-11T16:25:13.0895+01:00</dc:date>
+      <pubDate>Mon, 12 Feb 2018 20:28:10 +0100</pubDate>
+      <dc:date>2018-02-12T20:28:10.417123+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Index, 8 February 2018 – Voting Intentions</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-02-08-Index.png"
         length="229948"
         type="image/png"/>
-      <pubDate>Sun, 11 Feb 2018 16:25:13 +0100</pubDate>
-      <dc:date>2018-02-11T16:25:13.0895+01:00</dc:date>
+      <pubDate>Mon, 12 Feb 2018 20:28:10 +0100</pubDate>
+      <dc:date>2018-02-12T20:28:10.417123+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Tecnè, 6–7 February 2018 – Seat Projections</title>
@@ -129,6 +129,6 @@
       <pubDate>Sun, 11 Feb 2018 18:07:53 +0100</pubDate>
       <dc:date>2018-02-11T18:07:53.732786+01:00</dc:date>
     </item>
-    <dc:date>2018-02-12T19:58:41.155289+01:00</dc:date>
+    <dc:date>2018-02-12T20:28:10.417123+01:00</dc:date>
   </channel>
 </rss>
