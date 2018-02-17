@@ -10,7 +10,21 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.9% | 1.7–2.2% | 1.6–2.3% | 1.5–2.4% | 1.4–2.6% |
+| N/A | [Poll Average](average.html) | 0.8% | 0.4–1.9% | 0.4–2.0% | 0.3–2.1% | 0.2–2.3% |
+| [12–16 February 2018](2018-02-16-TermometroPolitico.html) | Termometro Politico | 1.8% | 1.6–2.1% | 1.5–2.2% | 1.4–2.2% | 1.3–2.4% |
+| [14–15 February 2018](2018-02-15-Demopolis.html) | Demopolis | 0.0% | N/A | N/A | N/A | N/A |
+| [12–14 February 2018](2018-02-14-SWG.html) | SWG | 0.0% | N/A | N/A | N/A | N/A |
+| [13–14 February 2018](2018-02-14-Piepoli.html) | Piepoli | 0.6% | 0.3–1.3% | 0.3–1.5% | 0.2–1.7% | 0.1–2.2% |
+| [12–14 February 2018](2018-02-14-Ixè.html) | Ixè <br> Huffington Post | 0.0% | N/A | N/A | N/A | N/A |
+| [12–14 February 2018](2018-02-14-Index.html) | Index | 0.0% | N/A | N/A | N/A | N/A |
+| [14 February 2018](2018-02-14-Euromedia.html) | Euromedia | 0.6% | 0.4–1.2% | 0.3–1.3% | 0.3–1.5% | 0.2–1.8% |
+| [12–14 February 2018](2018-02-14-DemosPi.html) | Demos & Pi <br> La Repubblica | 0.0% | N/A | N/A | N/A | N/A |
+| [5–14 February 2018](2018-02-14-Demetra.html) | Demetra | 0.6% | 0.5–0.8% | 0.5–0.8% | 0.4–0.8% | 0.4–0.9% |
+| [12–13 February 2018](2018-02-13-Tecnè.html) | Tecnè | 0.0% | N/A | N/A | N/A | N/A |
+| [12 February 2018](2018-02-12-Euromedia.html) | Euromedia | 0.8% | N/A | N/A | N/A | N/A |
+| [8–12 February 2018](2018-02-12-Bidimedia.html) | Bidimedia | 1.1% | N/A | N/A | N/A | N/A |
+| [8–11 February 2018](2018-02-11-LorienConsulting.html) | Lorien Consulting | 1.5% | N/A | N/A | N/A | N/A |
+| [9–11 February 2018](2018-02-11-EMG.html) | EMG <br> TG LA7 | 0.6% | N/A | N/A | N/A | N/A |
 | [3–8 February 2018](2018-02-08-TermometroPolitico.html) | Termometro Politico | 1.9% | 1.6–2.3% | 1.6–2.3% | 1.5–2.4% | 1.4–2.6% |
 | [8 February 2018](2018-02-08-Index.html) | Index | 0.0% | N/A | N/A | N/A | N/A |
 | [6–7 February 2018](2018-02-07-Tecnè.html) | Tecnè | 0.0% | N/A | N/A | N/A | N/A |
@@ -22,10 +36,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 4% | 100% |  |
-| 1.5–2.5% | 95% | 96% | Median |
-| 2.5–3.5% | 0.8% | 0.8% |  |
+| 0.0–0.5% | 21% | 100% | Last Result |
+| 0.5–1.5% | 55% | 79% | Median |
+| 1.5–2.5% | 24% | 24% |  |
+| 2.5–3.5% | 0% | 0% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -38,6 +52,20 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [12–16 February 2018](2018-02-16-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
+| [14–15 February 2018](2018-02-15-Demopolis.html) | Demopolis |  |  |  |  |  |
+| [12–14 February 2018](2018-02-14-SWG.html) | SWG |  |  |  |  |  |
+| [13–14 February 2018](2018-02-14-Piepoli.html) | Piepoli | 0 | 0 | 0 | 0 | 0 |
+| [12–14 February 2018](2018-02-14-Ixè.html) | Ixè <br> Huffington Post |  |  |  |  |  |
+| [12–14 February 2018](2018-02-14-Index.html) | Index |  |  |  |  |  |
+| [14 February 2018](2018-02-14-Euromedia.html) | Euromedia | 0 | 0 | 0 | 0 | 0 |
+| [12–14 February 2018](2018-02-14-DemosPi.html) | Demos & Pi <br> La Repubblica |  |  |  |  |  |
+| [5–14 February 2018](2018-02-14-Demetra.html) | Demetra | 0 | 0 | 0 | 0 | 0 |
+| [12–13 February 2018](2018-02-13-Tecnè.html) | Tecnè |  |  |  |  |  |
+| [12 February 2018](2018-02-12-Euromedia.html) | Euromedia |  |  |  |  |  |
+| [8–12 February 2018](2018-02-12-Bidimedia.html) | Bidimedia |  |  |  |  |  |
+| [8–11 February 2018](2018-02-11-LorienConsulting.html) | Lorien Consulting |  |  |  |  |  |
+| [9–11 February 2018](2018-02-11-EMG.html) | EMG <br> TG LA7 |  |  |  |  |  |
 | [3–8 February 2018](2018-02-08-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [8 February 2018](2018-02-08-Index.html) | Index |  |  |  |  |  |
 | [6–7 February 2018](2018-02-07-Tecnè.html) | Tecnè |  |  |  |  |  |
