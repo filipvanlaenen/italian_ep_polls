@@ -70,7 +70,7 @@ Last result: **13** seats (General Election of 25 May 2014)
 | [12–14 February 2018](2018-02-14-DemosPi.html) | Demos & Pi <br> La Repubblica | 12 | 11–13 | 11–14 | 10–14 | 10–15 |
 | [5–14 February 2018](2018-02-14-Demetra.html) | Demetra | 12 | 12 | 12–13 | 12–13 | 12–13 |
 | [12–13 February 2018](2018-02-13-Tecnè.html) | Tecnè | 15 | 13–16 | 13–16 | 13–17 | 12–17 |
-| [12 February 2018](2018-02-12-Euromedia.html) | Euromedia | 16 | 16 | 16 | 16 | 15–17 |
+| [12 February 2018](2018-02-12-Euromedia.html) | Euromedia | 14 | 13–16 | 12–16 | 12–17 | 11–17 |
 | [8–12 February 2018](2018-02-12-Bidimedia.html) | Bidimedia | 16 | 16 | 16 | 16 | 16 |
 | [8–11 February 2018](2018-02-11-LorienConsulting.html) | Lorien Consulting | 14 | 13–15 | 13–16 | 12–16 | 12–17 |
 | [9–11 February 2018](2018-02-11-EMG.html) | EMG <br> TG LA7 | 13 | 13–14 | 13–14 | 13–14 | 11–14 |
