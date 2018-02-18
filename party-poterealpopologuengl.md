@@ -52,7 +52,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–4 |
 | [12–16 February 2018](2018-02-16-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [14–15 February 2018](2018-02-15-Demopolis.html) | Demopolis |  |  |  |  |  |
 | [12–14 February 2018](2018-02-14-SWG.html) | SWG | 0 | 0 | 0 | 0 | 0 |
@@ -65,7 +65,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [12–13 February 2018](2018-02-13-Tecnè.html) | Tecnè |  |  |  |  |  |
 | [12 February 2018](2018-02-12-Euromedia.html) | Euromedia |  |  |  |  |  |
 | [8–12 February 2018](2018-02-12-Bidimedia.html) | Bidimedia | 0 | 0 | 0 | 0 | 0 |
-| [8–11 February 2018](2018-02-11-LorienConsulting.html) | Lorien Consulting | 0 | 0 | 0 | 0 | 0–3 |
+| [8–11 February 2018](2018-02-11-LorienConsulting.html) | Lorien Consulting | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | [9–11 February 2018](2018-02-11-EMG.html) | EMG <br> TG LA7 | 0 | 0 | 0 | 0 | 0 |
 | [3–8 February 2018](2018-02-08-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [8 February 2018](2018-02-08-Index.html) | Index |  |  |  |  |  |
@@ -80,10 +80,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.9% | 100% | Last Result, Median |
-| 1 | 0% | 0.1% |  |
-| 2 | 0% | 0.1% |  |
-| 3 | 0.1% | 0.1% |  |
-| 4 | 0% | 0% |  |
+| 0 | 98.8% | 100% | Last Result, Median |
+| 1 | 0% | 1.2% |  |
+| 2 | 0% | 1.2% |  |
+| 3 | 0.7% | 1.2% |  |
+| 4 | 0.6% | 0.6% |  |
+| 5 | 0% | 0% |  |
 
 

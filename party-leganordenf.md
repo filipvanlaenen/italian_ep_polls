@@ -4,7 +4,7 @@
 
 ## Voting Intentions
 
-Last result: **0.0%** (General Election of 25 May 2014)
+Last result: **6.2%** (General Election of 25 May 2014)
 
 ### Confidence Intervals
 
@@ -36,13 +36,7 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0% | 100% |  |
+| 5.5–6.5% | 0% | 100% | Last Result |
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0.7% | 100% |  |
@@ -60,26 +54,26 @@ The following table shows the probability mass function per percentage block of 
 
 ## Seats
 
-Last result: **0** seats (General Election of 25 May 2014)
+Last result: **5** seats (General Election of 25 May 2014)
 
 ### Confidence Intervals
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 9–13 | 8–13 | 8–13 | 7–14 |
+| N/A | [Poll Average](average.html) | 11 | 9–13 | 9–13 | 9–13 | 8–14 |
 | [12–16 February 2018](2018-02-16-TermometroPolitico.html) | Termometro Politico | 12 | 12–13 | 12–13 | 12–13 | 11–14 |
 | [14–15 February 2018](2018-02-15-Demopolis.html) | Demopolis | 12 | 12 | 12 | 12 | 12–13 |
 | [12–14 February 2018](2018-02-14-SWG.html) | SWG | 13 | 13 | 13 | 11–13 | 9–13 |
-| [13–14 February 2018](2018-02-14-Piepoli.html) | Piepoli | 12 | 12 | 12 | 8–12 | 8–14 |
+| [13–14 February 2018](2018-02-14-Piepoli.html) | Piepoli | 11 | 10–12 | 9–13 | 8–13 | 8–14 |
 | [12–14 February 2018](2018-02-14-Ixè.html) | Ixè <br> Huffington Post | 9 | 9 | 9 | 9 | 9 |
 | [12–14 February 2018](2018-02-14-Index.html) | Index | 13 | 12–13 | 11–13 | 11–13 | 10–13 |
-| [14 February 2018](2018-02-14-Euromedia.html) | Euromedia | 10 | 10–12 | 10–12 | 9–12 | 8–12 |
+| [14 February 2018](2018-02-14-Euromedia.html) | Euromedia | 11 | 11–13 | 10–13 | 10–14 | 9–14 |
 | [12–14 February 2018](2018-02-14-DemosPi.html) | Demos & Pi <br> La Repubblica | 9 | 9–12 | 9–12 | 9–12 | 8–12 |
 | [5–14 February 2018](2018-02-14-Demetra.html) | Demetra | 12 | 11–12 | 11–12 | 11–12 | 11–12 |
 | [12–13 February 2018](2018-02-13-Tecnè.html) | Tecnè | 10 | 10–11 | 10–11 | 9–14 | 9–14 |
 | [12 February 2018](2018-02-12-Euromedia.html) | Euromedia | 11 | 11 | 11 | 11 | 10–11 |
 | [8–12 February 2018](2018-02-12-Bidimedia.html) | Bidimedia | 13 | 13 | 13 | 11–13 | 11–13 |
-| [8–11 February 2018](2018-02-11-LorienConsulting.html) | Lorien Consulting | 8 | 7–11 | 7–13 | 7–14 | 7–14 |
+| [8–11 February 2018](2018-02-11-LorienConsulting.html) | Lorien Consulting | 10 | 9–11 | 9–11 | 8–12 | 8–12 |
 | [9–11 February 2018](2018-02-11-EMG.html) | EMG <br> TG LA7 | 11 | 11 | 11 | 11 | 10–11 |
 | [3–8 February 2018](2018-02-08-TermometroPolitico.html) | Termometro Politico | 12 | 11–13 | 11–13 | 11–13 | 11–14 |
 | [8 February 2018](2018-02-08-Index.html) | Index | 11 | 10–13 | 10–13 | 9–13 | 9–14 |
@@ -94,20 +88,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 0% | 100% |  |
-| 3 | 0% | 100% |  |
-| 4 | 0% | 100% |  |
-| 5 | 0% | 100% |  |
+| 5 | 0% | 100% | Last Result |
 | 6 | 0% | 100% |  |
-| 7 | 2% | 100% |  |
-| 8 | 4% | 98% |  |
-| 9 | 16% | 94% |  |
-| 10 | 12% | 79% |  |
-| 11 | 12% | 66% |  |
-| 12 | 32% | 55% | Median |
-| 13 | 22% | 23% |  |
+| 7 | 0.1% | 100% |  |
+| 8 | 0.6% | 99.9% |  |
+| 9 | 18% | 99.3% |  |
+| 10 | 11% | 81% |  |
+| 11 | 21% | 70% | Median |
+| 12 | 26% | 49% |  |
+| 13 | 23% | 24% |  |
 | 14 | 0.8% | 0.8% |  |
 | 15 | 0% | 0% |  |
 

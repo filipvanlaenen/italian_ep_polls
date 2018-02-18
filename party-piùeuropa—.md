@@ -58,7 +58,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [12–16 February 2018](2018-02-16-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [14–15 February 2018](2018-02-15-Demopolis.html) | Demopolis | 0 | 0 | 0 | 0 | 0 |
 | [12–14 February 2018](2018-02-14-SWG.html) | SWG | 0 | 0 | 0 | 0 | 0–3 |
-| [13–14 February 2018](2018-02-14-Piepoli.html) | Piepoli | 0 | 0 | 0 | 0 | 0–4 |
+| [13–14 February 2018](2018-02-14-Piepoli.html) | Piepoli | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [12–14 February 2018](2018-02-14-Ixè.html) | Ixè <br> Huffington Post | 0 | 0 | 0–3 | 0–3 | 0–3 |
 | [12–14 February 2018](2018-02-14-Index.html) | Index | 0 | 0 | 0 | 0 | 0 |
 | [14 February 2018](2018-02-14-Euromedia.html) | Euromedia | 0 | 0 | 0 | 0 | 0 |
@@ -82,11 +82,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.1% | 100% | Last Result, Median |
-| 1 | 0% | 0.9% |  |
-| 2 | 0% | 0.9% |  |
-| 3 | 0.7% | 0.9% |  |
-| 4 | 0.2% | 0.2% |  |
+| 0 | 98% | 100% | Last Result, Median |
+| 1 | 0% | 2% |  |
+| 2 | 0% | 2% |  |
+| 3 | 1.4% | 2% |  |
+| 4 | 0.4% | 0.4% |  |
 | 5 | 0% | 0% |  |
 
 
