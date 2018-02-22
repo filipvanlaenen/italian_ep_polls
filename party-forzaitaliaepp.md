@@ -63,14 +63,14 @@ Last result: **13** seats (General Election of 25 May 2014)
 | [12–16 February 2018](2018-02-16-TermometroPolitico.html) | Termometro Politico | 13 | 12–13 | 12–14 | 12–14 | 12–14 |
 | [14–15 February 2018](2018-02-15-Demopolis.html) | Demopolis | 13 | 12–14 | 12–14 | 12–14 | 11–15 |
 | [12–14 February 2018](2018-02-14-SWG.html) | SWG | 13 | 12–13 | 12–13 | 11–14 | 11–14 |
-| [13–14 February 2018](2018-02-14-Piepoli.html) | Piepoli | 14 | 11–14 | 11–15 | 10–16 | 10–17 |
-| [12–14 February 2018](2018-02-14-Ixè.html) | Ixè <br> Huffington Post | 15 | 13–16 | 13–16 | 13–17 | 12–17 |
+| [13–14 February 2018](2018-02-14-Piepoli.html) | Piepoli | 12 | 11–14 | 11–15 | 10–16 | 10–16 |
+| [12–14 February 2018](2018-02-14-Ixè.html) | Ixè <br> Huffington Post | 15 | 13–16 | 13–16 | 13–17 | 12–18 |
 | [12–14 February 2018](2018-02-14-Index.html) | Index | 13 | 12–14 | 11–15 | 11–15 | 11–16 |
-| [14 February 2018](2018-02-14-Euromedia.html) | Euromedia | 14 | 13–15 | 12–15 | 12–16 | 12–17 |
+| [14 February 2018](2018-02-14-Euromedia.html) | Euromedia | 14 | 13–15 | 12–16 | 12–16 | 11–17 |
 | [12–14 February 2018](2018-02-14-DemosPi.html) | Demos & Pi <br> La Repubblica | 12 | 11–13 | 11–14 | 10–14 | 10–15 |
 | [5–14 February 2018](2018-02-14-Demetra.html) | Demetra | 12 | 12 | 11–12 | 11–12 | 11–13 |
 | [12–13 February 2018](2018-02-13-Tecnè.html) | Tecnè | 15 | 13–16 | 13–16 | 13–17 | 12–17 |
-| [12 February 2018](2018-02-12-Euromedia.html) | Euromedia | 14 | 13–16 | 12–16 | 12–17 | 11–17 |
+| [12 February 2018](2018-02-12-Euromedia.html) | Euromedia | 14 | 13–15 | 12–16 | 12–16 | 11–17 |
 | [8–12 February 2018](2018-02-12-Bidimedia.html) | Bidimedia | 14 | 13–16 | 12–16 | 12–16 | 12–16 |
 | [8–11 February 2018](2018-02-11-LorienConsulting.html) | Lorien Consulting | 14 | 13–15 | 13–16 | 12–16 | 12–17 |
 | [9–11 February 2018](2018-02-11-EMG.html) | EMG <br> TG LA7 | 13 | 12–14 | 12–15 | 12–15 | 11–15 |
@@ -89,12 +89,12 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.5% | 100% |  |
 | 11 | 4% | 99.5% |  |
-| 12 | 22% | 96% |  |
-| 13 | 35% | 74% | Last Result, Median |
-| 14 | 21% | 39% |  |
+| 12 | 23% | 96% |  |
+| 13 | 35% | 73% | Last Result, Median |
+| 14 | 20% | 38% |  |
 | 15 | 12% | 17% |  |
-| 16 | 5% | 5% |  |
-| 17 | 0.6% | 0.7% |  |
+| 16 | 5% | 6% |  |
+| 17 | 0.8% | 0.8% |  |
 | 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
 
