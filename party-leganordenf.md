@@ -62,8 +62,8 @@ Last result: **5** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11 | 9–12 | 9–13 | 8–13 | 8–14 |
 | [12–16 February 2018](2018-02-16-TermometroPolitico.html) | Termometro Politico | 12 | 12–13 | 12–13 | 12–13 | 11–13 |
-| [14–15 February 2018](2018-02-15-Demopolis.html) | Demopolis | 11 | 10–12 | 10–12 | 10–12 | 10–13 |
-| [12–14 February 2018](2018-02-14-SWG.html) | SWG | 11 | 10–12 | 10–12 | 10–12 | 9–12 |
+| [14–15 February 2018](2018-02-15-Demopolis.html) | Demopolis | 11 | 10–12 | 10–12 | 10–13 | 10–13 |
+| [12–14 February 2018](2018-02-14-SWG.html) | SWG | 11 | 10–12 | 10–12 | 10–12 | 9–13 |
 | [13–14 February 2018](2018-02-14-Piepoli.html) | Piepoli | 10 | 9–12 | 8–12 | 8–13 | 8–13 |
 | [12–14 February 2018](2018-02-14-Ixè.html) | Ixè <br> Huffington Post | 9 | 8–10 | 8–10 | 7–10 | 7–11 |
 | [12–14 February 2018](2018-02-14-Index.html) | Index | 11 | 10–12 | 10–13 | 9–13 | 9–14 |
@@ -95,8 +95,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 11% | 96% |  |
 | 10 | 19% | 85% |  |
 | 11 | 32% | 66% | Median |
-| 12 | 27% | 34% |  |
-| 13 | 6% | 7% |  |
+| 12 | 28% | 34% |  |
+| 13 | 6% | 6% |  |
 | 14 | 0.5% | 0.6% |  |
 | 15 | 0.1% | 0.1% |  |
 | 16 | 0% | 0% |  |

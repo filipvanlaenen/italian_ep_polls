@@ -71,10 +71,10 @@ Last result: **31** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 15–19 | 15–19 | 15–20 | 14–22 |
+| N/A | [Poll Average](average.html) | 17 | 15–19 | 15–20 | 15–20 | 14–22 |
 | [12–16 February 2018](2018-02-16-TermometroPolitico.html) | Termometro Politico | 17 | 16–17 | 16–17 | 15–17 | 15–18 |
 | [14–15 February 2018](2018-02-15-Demopolis.html) | Demopolis | 17 | 16–18 | 16–18 | 15–18 | 15–19 |
-| [12–14 February 2018](2018-02-14-SWG.html) | SWG | 18 | 16–19 | 16–19 | 16–19 | 16–20 |
+| [12–14 February 2018](2018-02-14-SWG.html) | SWG | 18 | 17–19 | 16–19 | 16–19 | 16–20 |
 | [13–14 February 2018](2018-02-14-Piepoli.html) | Piepoli | 18 | 16–20 | 16–20 | 16–22 | 15–23 |
 | [12–14 February 2018](2018-02-14-Ixè.html) | Ixè <br> Huffington Post | 17 | 15–18 | 15–18 | 14–19 | 14–20 |
 | [12–14 February 2018](2018-02-14-Index.html) | Index | 17 | 16–19 | 16–19 | 15–20 | 14–20 |
@@ -83,7 +83,7 @@ Last result: **31** seats (General Election of 25 May 2014)
 | [5–14 February 2018](2018-02-14-Demetra.html) | Demetra | 18 | 17–18 | 17–18 | 17–18 | 16–19 |
 | [12–13 February 2018](2018-02-13-Tecnè.html) | Tecnè | 16 | 15–18 | 14–18 | 14–19 | 14–19 |
 | [12 February 2018](2018-02-12-Euromedia.html) | Euromedia | 17 | 15–18 | 15–19 | 15–19 | 14–20 |
-| [8–12 February 2018](2018-02-12-Bidimedia.html) | Bidimedia | 19 | 17–21 | 17–22 | 17–22 | 16–22 |
+| [8–12 February 2018](2018-02-12-Bidimedia.html) | Bidimedia | 20 | 18–21 | 17–21 | 17–22 | 17–22 |
 | [8–11 February 2018](2018-02-11-LorienConsulting.html) | Lorien Consulting | 18 | 16–19 | 15–20 | 15–20 | 15–21 |
 | [9–11 February 2018](2018-02-11-EMG.html) | EMG <br> TG LA7 | 18 | 17–19 | 17–19 | 17–19 | 16–20 |
 | [3–8 February 2018](2018-02-08-TermometroPolitico.html) | Termometro Politico | 17 | 16–18 | 16–18 | 15–18 | 15–19 |
@@ -102,13 +102,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0.3% | 100% |  |
 | 14 | 2% | 99.7% |  |
 | 15 | 8% | 98% |  |
-| 16 | 19% | 90% |  |
+| 16 | 18% | 90% |  |
 | 17 | 29% | 71% | Median |
-| 18 | 27% | 42% |  |
-| 19 | 10% | 15% |  |
-| 20 | 2% | 5% |  |
-| 21 | 1.3% | 2% |  |
-| 22 | 1.0% | 1.0% |  |
+| 18 | 26% | 43% |  |
+| 19 | 10% | 16% |  |
+| 20 | 4% | 6% |  |
+| 21 | 0.9% | 2% |  |
+| 22 | 0.6% | 0.7% |  |
 | 23 | 0.1% | 0.1% |  |
 | 24 | 0% | 0% |  |
 | 25 | 0% | 0% |  |
