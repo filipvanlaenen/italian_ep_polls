@@ -63,7 +63,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [12–14 February 2018](2018-02-14-SWG.html) | SWG | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [13–14 February 2018](2018-02-14-Piepoli.html) | Piepoli | 5 | 4–6 | 4–6 | 3–6 | 0–7 |
 | [12–14 February 2018](2018-02-14-Ixè.html) | Ixè <br> Huffington Post | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
-| [12–14 February 2018](2018-02-14-Index.html) | Index | 5 | 4–5 | 4–6 | 4–6 | 3–7 |
+| [12–14 February 2018](2018-02-14-Index.html) | Index | 5 | 4–6 | 4–6 | 4–6 | 0–7 |
 | [14 February 2018](2018-02-14-Euromedia.html) | Euromedia | 5 | 4–5 | 4–6 | 4–6 | 3–7 |
 | [12–14 February 2018](2018-02-14-DemosPi.html) | Demos & Pi <br> La Repubblica | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
 | [5–14 February 2018](2018-02-14-Demetra.html) | Demetra | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -71,7 +71,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [12 February 2018](2018-02-12-Euromedia.html) | Euromedia | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
 | [8–12 February 2018](2018-02-12-Bidimedia.html) | Bidimedia | 4 | 3–5 | 0–5 | 0–5 | 0–5 |
 | [8–11 February 2018](2018-02-11-LorienConsulting.html) | Lorien Consulting | 4 | 3–5 | 0–5 | 0–5 | 0–6 |
-| [9–11 February 2018](2018-02-11-EMG.html) | EMG <br> TG LA7 | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
+| [9–11 February 2018](2018-02-11-EMG.html) | EMG <br> TG LA7 | 4 | 4–5 | 3–5 | 3–5 | 0–5 |
 | [3–8 February 2018](2018-02-08-TermometroPolitico.html) | Termometro Politico | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
 | [8 February 2018](2018-02-08-Index.html) | Index | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
 | [6–7 February 2018](2018-02-07-Tecnè.html) | Tecnè | 5 | 4–5 | 4–6 | 3–6 | 3–6 |
@@ -89,8 +89,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 98% |  |
 | 2 | 0% | 98% |  |
 | 3 | 3% | 98% |  |
-| 4 | 48% | 96% | Median |
-| 5 | 42% | 48% |  |
+| 4 | 46% | 95% | Median |
+| 5 | 43% | 49% |  |
 | 6 | 5% | 6% |  |
 | 7 | 0.4% | 0.4% |  |
 | 8 | 0% | 0% |  |

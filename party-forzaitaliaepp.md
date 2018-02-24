@@ -73,7 +73,7 @@ Last result: **13** seats (General Election of 25 May 2014)
 | [12 February 2018](2018-02-12-Euromedia.html) | Euromedia | 14 | 13–15 | 12–16 | 12–16 | 11–17 |
 | [8–12 February 2018](2018-02-12-Bidimedia.html) | Bidimedia | 14 | 13–15 | 12–16 | 12–16 | 12–16 |
 | [8–11 February 2018](2018-02-11-LorienConsulting.html) | Lorien Consulting | 14 | 13–16 | 13–17 | 13–17 | 12–17 |
-| [9–11 February 2018](2018-02-11-EMG.html) | EMG <br> TG LA7 | 13 | 12–14 | 12–15 | 12–15 | 11–15 |
+| [9–11 February 2018](2018-02-11-EMG.html) | EMG <br> TG LA7 | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
 | [3–8 February 2018](2018-02-08-TermometroPolitico.html) | Termometro Politico | 13 | 12–13 | 12–13 | 12–13 | 11–14 |
 | [8 February 2018](2018-02-08-Index.html) | Index | 13 | 11–14 | 11–14 | 10–15 | 10–15 |
 | [6–7 February 2018](2018-02-07-Tecnè.html) | Tecnè | 14 | 13–16 | 13–16 | 13–17 | 12–17 |
@@ -89,10 +89,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.5% | 100% |  |
 | 11 | 4% | 99.5% |  |
-| 12 | 24% | 95% |  |
-| 13 | 35% | 72% | Last Result, Median |
-| 14 | 19% | 37% |  |
-| 15 | 12% | 18% |  |
+| 12 | 23% | 95% |  |
+| 13 | 34% | 72% | Last Result, Median |
+| 14 | 21% | 38% |  |
+| 15 | 12% | 17% |  |
 | 16 | 4% | 6% |  |
 | 17 | 1.3% | 1.4% |  |
 | 18 | 0.1% | 0.1% |  |
