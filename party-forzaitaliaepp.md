@@ -60,7 +60,7 @@ Last result: **13** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 12–15 | 12–16 | 11–16 | 11–17 |
-| [12–16 February 2018](2018-02-16-TermometroPolitico.html) | Termometro Politico | 13 | 12–13 | 12–14 | 12–14 | 12–14 |
+| [12–16 February 2018](2018-02-16-TermometroPolitico.html) | Termometro Politico | 13 | 13–14 | 12–14 | 12–14 | 12–14 |
 | [14–15 February 2018](2018-02-15-Demopolis.html) | Demopolis | 13 | 12–14 | 12–14 | 12–14 | 11–15 |
 | [12–14 February 2018](2018-02-14-SWG.html) | SWG | 12 | 11–13 | 11–14 | 11–14 | 11–14 |
 | [13–14 February 2018](2018-02-14-Piepoli.html) | Piepoli | 12 | 11–14 | 11–15 | 10–16 | 10–16 |
@@ -91,7 +91,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 4% | 99.5% |  |
 | 12 | 23% | 95% |  |
 | 13 | 34% | 72% | Last Result, Median |
-| 14 | 21% | 38% |  |
+| 14 | 21% | 39% |  |
 | 15 | 12% | 17% |  |
 | 16 | 4% | 6% |  |
 | 17 | 1.3% | 1.4% |  |

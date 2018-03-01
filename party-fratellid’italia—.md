@@ -55,7 +55,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
-| [12–16 February 2018](2018-02-16-TermometroPolitico.html) | Termometro Politico | 4 | 4 | 4–5 | 4–5 | 3–5 |
+| [12–16 February 2018](2018-02-16-TermometroPolitico.html) | Termometro Politico | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [14–15 February 2018](2018-02-15-Demopolis.html) | Demopolis | 4 | 3–4 | 3–5 | 3–5 | 0–5 |
 | [12–14 February 2018](2018-02-14-SWG.html) | SWG | 3 | 3–4 | 0–4 | 0–4 | 0–5 |
 | [13–14 February 2018](2018-02-14-Piepoli.html) | Piepoli | 4 | 3–5 | 3–5 | 0–6 | 0–6 |
@@ -87,8 +87,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 88% |  |
 | 3 | 22% | 88% |  |
 | 4 | 56% | 66% | Median |
-| 5 | 10% | 10% |  |
-| 6 | 0.4% | 0.5% |  |
+| 5 | 10% | 11% |  |
+| 6 | 0.4% | 0.4% |  |
 | 7 | 0% | 0% |  |
 
 
