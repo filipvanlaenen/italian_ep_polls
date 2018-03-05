@@ -22,7 +22,7 @@ The table below lists all polls registered and analyzed so far.
 | [3–8 February 2018](2018-02-08-TermometroPolitico.html) | Termometro Politico | 21–23% <br> 15–18 | 25–28% <br> 20–23 | 14–17% <br> 12–13 | 14–16% <br> 11–13 | 5–6% <br> 4–5 | N/A <br> N/A | 2% <br> 0 | 0–1% <br> 0 | 0–1% <br> 0 | 2–3% <br> 0 | 2–3% <br> 0 | 5–6% <br> 3–5 | 1–2% <br> 0 |
 | [8 February 2018](2018-02-08-Index.html) | Index | 21–27% <br> 15–20 | 24–30% <br> 19–24 | 13–18% <br> 10–15 | 12–17% <br> 9–13 | 4–7% <br> 0–5 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 1–3% <br> 0 | 2–4% <br> 0 | 1–3% <br> 0 | 5–8% <br> 4–6 | N/A <br> N/A |
 | [6–7 February 2018](2018-02-07-Tecnè.html) | Tecnè | 20–25% <br> 14–19 | 25–31% <br> 20–24 | 16–21% <br> 13–17 | 11–15% <br> 9–12 | 4–6% <br> 0–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0–3 | 1–3% <br> 0 | 4–7% <br> 3–6 | N/A <br> N/A |
-| [5–7 February 2018](2018-02-07-SWG.html) | SWG | 21–25% <br> 16–19 | 26–30% <br> 20–25 | 14–18% <br> 11–14 | 11–15% <br> 9–12 | 4–6% <br> 0–5 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 0–1% <br> 0 | 1–3% <br> 0 | 2–4% <br> 0 | 5–8% <br> 4–6 | 0–1% <br> 0 |
+| [5–7 February 2018](2018-02-07-SWG.html) | SWG | 21–25% <br> 16–20 | 26–30% <br> 20–25 | 14–18% <br> 11–14 | 11–15% <br> 9–12 | 4–6% <br> 0–5 | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 0–1% <br> 0 | 1–3% <br> 0 | 2–4% <br> 0 | 5–8% <br> 4–6 | 0–1% <br> 0 |
 | 25 May 2014 | General Election | 40.8% <br> 31 | 21.1% <br> 17 | 16.8% <br> 13 | 6.2% <br> 5 | 3.7% <br> 0 | 0.5% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
