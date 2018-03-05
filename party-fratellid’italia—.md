@@ -63,7 +63,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [12–14 February 2018](2018-02-14-Index.html) | Index | 4 | 4–5 | 3–5 | 0–5 | 0–5 |
 | [14 February 2018](2018-02-14-Euromedia.html) | Euromedia | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [12–14 February 2018](2018-02-14-DemosPi.html) | Demos & Pi <br> La Repubblica | 4 | 3–4 | 0–5 | 0–5 | 0–5 |
-| [5–14 February 2018](2018-02-14-Demetra.html) | Demetra | 3 | 3–4 | 3–4 | 3–4 | 0–4 |
+| [5–14 February 2018](2018-02-14-Demetra.html) | Demetra | 3 | 3–4 | 3–4 | 0–4 | 0–4 |
 | [12–13 February 2018](2018-02-13-Tecnè.html) | Tecnè | 4 | 3–5 | 0–5 | 0–5 | 0–6 |
 | [12 February 2018](2018-02-12-Euromedia.html) | Euromedia | 4 | 3–5 | 0–5 | 0–5 | 0–5 |
 | [8–12 February 2018](2018-02-12-Bidimedia.html) | Bidimedia | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
@@ -85,8 +85,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 12% | 100% | Last Result |
 | 1 | 0% | 88% |  |
 | 2 | 0% | 88% |  |
-| 3 | 22% | 88% |  |
-| 4 | 56% | 66% | Median |
+| 3 | 23% | 88% |  |
+| 4 | 55% | 66% | Median |
 | 5 | 10% | 11% |  |
 | 6 | 0.4% | 0.4% |  |
 | 7 | 0% | 0% |  |
