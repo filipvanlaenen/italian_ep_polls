@@ -77,7 +77,7 @@ Last result: **13** seats (General Election of 25 May 2014)
 | [3–8 February 2018](2018-02-08-TermometroPolitico.html) | Termometro Politico | 13 | 12–13 | 12–13 | 12–13 | 11–14 |
 | [8 February 2018](2018-02-08-Index.html) | Index | 13 | 11–14 | 11–14 | 10–15 | 10–15 |
 | [6–7 February 2018](2018-02-07-Tecnè.html) | Tecnè | 14 | 13–16 | 13–16 | 13–17 | 12–17 |
-| [5–7 February 2018](2018-02-07-SWG.html) | SWG | 12 | 11–14 | 11–14 | 11–14 | 11–15 |
+| [5–7 February 2018](2018-02-07-SWG.html) | SWG | 13 | 11–13 | 11–14 | 11–14 | 11–15 |
 
 ### Probability Mass Function
 
