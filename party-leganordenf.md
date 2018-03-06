@@ -75,7 +75,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [8–12 February 2018](2018-02-12-Bidimedia.html) | Bidimedia | 12 | 11–13 | 11–13 | 11–14 | 10–15 |
 | [8–11 February 2018](2018-02-11-LorienConsulting.html) | Lorien Consulting | 10 | 9–11 | 9–12 | 9–12 | 8–12 |
 | [9–11 February 2018](2018-02-11-EMG.html) | EMG <br> TG LA7 | 11 | 11–12 | 10–12 | 10–13 | 10–13 |
-| [3–8 February 2018](2018-02-08-TermometroPolitico.html) | Termometro Politico | 12 | 11–13 | 11–13 | 11–13 | 11–14 |
+| [3–8 February 2018](2018-02-08-TermometroPolitico.html) | Termometro Politico | 12 | 12–13 | 11–13 | 11–13 | 11–14 |
 | [8 February 2018](2018-02-08-Index.html) | Index | 11 | 10–13 | 10–13 | 9–13 | 9–14 |
 | [6–7 February 2018](2018-02-07-Tecnè.html) | Tecnè | 11 | 9–12 | 9–12 | 9–12 | 8–13 |
 | [5–7 February 2018](2018-02-07-SWG.html) | SWG | 10 | 10–11 | 9–12 | 9–12 | 9–12 |
