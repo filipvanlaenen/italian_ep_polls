@@ -10,3 +10,91 @@ Last result: **16.8%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| N/A | [Poll Average](average.html) | 16.2% | 14.7–18.3% | 14.3–19.0% | 14.0–19.5% | 13.3–20.5% |
+| [12–16 February 2018](2018-02-16-TermometroPolitico.html) | Termometro Politico | 15.9% | 15.2–16.6% | 15.0–16.8% | 14.9–17.0% | 14.5–17.4% |
+| [14–15 February 2018](2018-02-15-Demopolis.html) | Demopolis | 16.5% | 15.5–17.6% | 15.2–17.9% | 14.9–18.2% | 14.4–18.7% |
+| [12–14 February 2018](2018-02-14-SWG.html) | SWG | 15.2% | 14.2–16.3% | 13.9–16.6% | 13.7–16.8% | 13.2–17.4% |
+| [13–14 February 2018](2018-02-14-Piepoli.html) | Piepoli | 16.0% | 14.1–18.3% | 13.5–18.9% | 13.1–19.5% | 12.2–20.6% |
+| [12–14 February 2018](2018-02-14-Ixè.html) | Ixè <br> Huffington Post | 18.0% | 16.5–19.6% | 16.1–20.1% | 15.7–20.5% | 15.0–21.3% |
+| [12–14 February 2018](2018-02-14-Index.html) | Index | 16.4% | 14.8–18.2% | 14.3–18.7% | 14.0–19.1% | 13.2–20.0% |
+| [14 February 2018](2018-02-14-Euromedia.html) | Euromedia | 17.4% | 15.7–19.2% | 15.3–19.7% | 14.9–20.2% | 14.2–21.1% |
+| [12–14 February 2018](2018-02-14-DemosPi.html) | Demos & Pi <br> La Repubblica | 16.3% | 14.9–17.8% | 14.5–18.3% | 14.1–18.7% | 13.5–19.4% |
+| [5–14 February 2018](2018-02-14-Demetra.html) | Demetra | 15.0% | 14.4–15.6% | 14.2–15.8% | 14.1–16.0% | 13.8–16.2% |
+| [12–13 February 2018](2018-02-13-Tecnè.html) | Tecnè | 18.3% | N/A | N/A | N/A | N/A |
+| [12 February 2018](2018-02-12-Euromedia.html) | Euromedia | 17.5% | N/A | N/A | N/A | N/A |
+| [8–12 February 2018](2018-02-12-Bidimedia.html) | Bidimedia | 16.3% | N/A | N/A | N/A | N/A |
+| [8–11 February 2018](2018-02-11-LorienConsulting.html) | Lorien Consulting | 17.9% | N/A | N/A | N/A | N/A |
+| [9–11 February 2018](2018-02-11-EMG.html) | EMG <br> TG LA7 | 16.1% | N/A | N/A | N/A | N/A |
+| [3–8 February 2018](2018-02-08-TermometroPolitico.html) | Termometro Politico | 15.3% | N/A | N/A | N/A | N/A |
+| [8 February 2018](2018-02-08-Index.html) | Index | 15.8% | N/A | N/A | N/A | N/A |
+| [6–7 February 2018](2018-02-07-Tecnè.html) | Tecnè | 18.3% | N/A | N/A | N/A | N/A |
+| [5–7 February 2018](2018-02-07-SWG.html) | SWG | 15.7% | N/A | N/A | N/A | N/A |
+
+### Probability Mass Function
+
+The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Forza Italia (EPP).
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 10.5–11.5% | 0% | 100% |  |
+| 11.5–12.5% | 0.1% | 100% |  |
+| 12.5–13.5% | 0.8% | 99.9% |  |
+| 13.5–14.5% | 6% | 99.1% |  |
+| 14.5–15.5% | 24% | 93% |  |
+| 15.5–16.5% | 29% | 69% | Median |
+| 16.5–17.5% | 20% | 40% | Last Result |
+| 17.5–18.5% | 12% | 20% |  |
+| 18.5–19.5% | 6% | 8% |  |
+| 19.5–20.5% | 2% | 2% |  |
+| 20.5–21.5% | 0.4% | 0.5% |  |
+| 21.5–22.5% | 0.1% | 0.1% |  |
+| 22.5–23.5% | 0% | 0% |  |
+
+
+## Seats
+
+Last result: **13** seats (General Election of 25 May 2014)
+
+### Confidence Intervals
+
+| Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| N/A | [Poll Average](average.html) | 14 | 12–16 | 12–16 | 12–16 | 11–16 |
+| [12–16 February 2018](2018-02-16-TermometroPolitico.html) | Termometro Politico | 14 | 14 | 12–14 | 12–14 | 12–14 |
+| [14–15 February 2018](2018-02-15-Demopolis.html) | Demopolis | 12 | 12 | 12 | 12 | 12–13 |
+| [12–14 February 2018](2018-02-14-SWG.html) | SWG | 13 | 13 | 13 | 13 | 11–14 |
+| [13–14 February 2018](2018-02-14-Piepoli.html) | Piepoli | 15 | 15 | 15 | 13–15 | 12–17 |
+| [12–14 February 2018](2018-02-14-Ixè.html) | Ixè <br> Huffington Post | 15 | 15 | 15 | 15 | 15–16 |
+| [12–14 February 2018](2018-02-14-Index.html) | Index | 16 | 16 | 15–16 | 13–16 | 12–16 |
+| [14 February 2018](2018-02-14-Euromedia.html) | Euromedia | 16 | 13–16 | 13–16 | 13–16 | 13–16 |
+| [12–14 February 2018](2018-02-14-DemosPi.html) | Demos & Pi <br> La Repubblica | 12 | 12 | 12 | 11–13 | 10–13 |
+| [5–14 February 2018](2018-02-14-Demetra.html) | Demetra |  |  |  |  |  |
+| [12–13 February 2018](2018-02-13-Tecnè.html) | Tecnè |  |  |  |  |  |
+| [12 February 2018](2018-02-12-Euromedia.html) | Euromedia |  |  |  |  |  |
+| [8–12 February 2018](2018-02-12-Bidimedia.html) | Bidimedia |  |  |  |  |  |
+| [8–11 February 2018](2018-02-11-LorienConsulting.html) | Lorien Consulting |  |  |  |  |  |
+| [9–11 February 2018](2018-02-11-EMG.html) | EMG <br> TG LA7 |  |  |  |  |  |
+| [3–8 February 2018](2018-02-08-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [8 February 2018](2018-02-08-Index.html) | Index |  |  |  |  |  |
+| [6–7 February 2018](2018-02-07-Tecnè.html) | Tecnè |  |  |  |  |  |
+| [5–7 February 2018](2018-02-07-SWG.html) | SWG |  |  |  |  |  |
+
+### Probability Mass Function
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-forzaitaliaepp.png "Seats Probability Mass Function")
+
+The following table shows the probability mass function per seat for the [poll average](average.html) for Forza Italia (EPP).
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 10 | 0.1% | 100% |  |
+| 11 | 0.6% | 99.9% |  |
+| 12 | 25% | 99.3% |  |
+| 13 | 17% | 74% | Last Result |
+| 14 | 12% | 57% | Median |
+| 15 | 24% | 45% |  |
+| 16 | 21% | 21% |  |
+| 17 | 0.4% | 0.4% |  |
+| 18 | 0% | 0% |  |
+
+
