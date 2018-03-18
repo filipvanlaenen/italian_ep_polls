@@ -10,7 +10,7 @@ Last result: **16.8%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.5% | 14.8–18.7% | 14.5–19.5% | 14.2–20.4% | 13.4–20.7% |
+| N/A | [Poll Average](average.html) | 16.5% | 14.8–18.7% | 14.5–19.3% | 14.2–19.8% | 13.4–20.8% |
 | [12–16 February 2018](2018-02-16-TermometroPolitico.html) | Termometro Politico | 15.9% | 15.2–16.6% | 15.0–16.8% | 14.9–17.0% | 14.5–17.4% |
 | [14–15 February 2018](2018-02-15-Demopolis.html) | Demopolis | 16.5% | 15.5–17.6% | 15.2–17.9% | 14.9–18.2% | 14.4–18.7% |
 | [12–14 February 2018](2018-02-14-SWG.html) | SWG | 15.2% | 14.2–16.3% | 13.9–16.6% | 13.7–16.8% | 13.2–17.4% |
@@ -23,12 +23,12 @@ Last result: **16.8%** (General Election of 25 May 2014)
 | [12–13 February 2018](2018-02-13-Tecnè.html) | Tecnè | 18.3% | 16.8–19.9% | 16.4–20.4% | 16.0–20.8% | 15.3–21.6% |
 | [12 February 2018](2018-02-12-Euromedia.html) | Euromedia | 17.5% | 15.9–19.3% | 15.4–19.8% | 15.0–20.3% | 14.3–21.2% |
 | [8–12 February 2018](2018-02-12-Bidimedia.html) | Bidimedia | 16.3% | 15.0–17.7% | 14.7–18.1% | 14.4–18.4% | 13.8–19.1% |
-| [8–11 February 2018](2018-02-11-LorienConsulting.html) | Lorien Consulting | 17.9% | 16.4–19.6% | 16.0–20.0% | 15.6–20.4% | 15.0–21.2% |
-| [9–11 February 2018](2018-02-11-EMG.html) | EMG <br> TG LA7 | 16.1% | N/A | N/A | N/A | N/A |
-| [3–8 February 2018](2018-02-08-TermometroPolitico.html) | Termometro Politico | 15.3% | N/A | N/A | N/A | N/A |
-| [8 February 2018](2018-02-08-Index.html) | Index | 15.8% | N/A | N/A | N/A | N/A |
-| [6–7 February 2018](2018-02-07-Tecnè.html) | Tecnè | 18.3% | N/A | N/A | N/A | N/A |
-| [5–7 February 2018](2018-02-07-SWG.html) | SWG | 15.7% | N/A | N/A | N/A | N/A |
+| [8–11 February 2018](2018-02-11-LorienConsulting.html) | Lorien Consulting | 17.9% | 16.4–19.5% | 16.0–20.0% | 15.6–20.4% | 15.0–21.2% |
+| [9–11 February 2018](2018-02-11-EMG.html) | EMG <br> TG LA7 | 16.1% | 15.0–17.3% | 14.7–17.7% | 14.4–18.0% | 13.9–18.6% |
+| [3–8 February 2018](2018-02-08-TermometroPolitico.html) | Termometro Politico | 15.3% | 14.6–16.1% | 14.3–16.4% | 14.2–16.6% | 13.8–16.9% |
+| [8 February 2018](2018-02-08-Index.html) | Index | 15.8% | 14.2–17.5% | 13.8–18.0% | 13.4–18.4% | 12.7–19.3% |
+| [6–7 February 2018](2018-02-07-Tecnè.html) | Tecnè | 18.3% | 16.8–20.0% | 16.4–20.5% | 16.1–20.9% | 15.4–21.7% |
+| [5–7 February 2018](2018-02-07-SWG.html) | SWG | 15.7% | 14.5–16.9% | 14.2–17.3% | 13.9–17.6% | 13.4–18.2% |
 
 ### Probability Mass Function
 
@@ -41,12 +41,12 @@ The following table shows the probability mass function per percentage block of 
 | 12.5–13.5% | 0.6% | 99.9% |  |
 | 13.5–14.5% | 5% | 99.3% |  |
 | 14.5–15.5% | 20% | 94% |  |
-| 15.5–16.5% | 25% | 74% |  |
-| 16.5–17.5% | 26% | 49% | Last Result, Median |
-| 17.5–18.5% | 12% | 24% |  |
-| 18.5–19.5% | 7% | 11% |  |
-| 19.5–20.5% | 4% | 5% |  |
-| 20.5–21.5% | 0.6% | 0.7% |  |
+| 15.5–16.5% | 27% | 74% | Median |
+| 16.5–17.5% | 21% | 47% | Last Result |
+| 17.5–18.5% | 14% | 26% |  |
+| 18.5–19.5% | 8% | 11% |  |
+| 19.5–20.5% | 3% | 4% |  |
+| 20.5–21.5% | 0.7% | 0.8% |  |
 | 21.5–22.5% | 0.1% | 0.1% |  |
 | 22.5–23.5% | 0% | 0% |  |
 
@@ -59,7 +59,7 @@ Last result: **13** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–16 | 12–18 | 12–18 | 11–18 |
+| N/A | [Poll Average](average.html) | 14 | 12–16 | 12–17 | 12–18 | 12–18 |
 | [12–16 February 2018](2018-02-16-TermometroPolitico.html) | Termometro Politico | 14 | 14 | 12–14 | 12–14 | 12–14 |
 | [14–15 February 2018](2018-02-15-Demopolis.html) | Demopolis | 12 | 12 | 12 | 12 | 12–13 |
 | [12–14 February 2018](2018-02-14-SWG.html) | SWG | 13 | 13 | 13 | 13 | 11–14 |
@@ -72,12 +72,12 @@ Last result: **13** seats (General Election of 25 May 2014)
 | [12–13 February 2018](2018-02-13-Tecnè.html) | Tecnè | 18 | 12–18 | 12–18 | 12–18 | 12–19 |
 | [12 February 2018](2018-02-12-Euromedia.html) | Euromedia | 17 | 17 | 17 | 17 | 15–18 |
 | [8–12 February 2018](2018-02-12-Bidimedia.html) | Bidimedia | 16 | 16 | 16 | 16 | 16 |
-| [8–11 February 2018](2018-02-11-LorienConsulting.html) | Lorien Consulting |  |  |  |  |  |
-| [9–11 February 2018](2018-02-11-EMG.html) | EMG <br> TG LA7 |  |  |  |  |  |
-| [3–8 February 2018](2018-02-08-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [8 February 2018](2018-02-08-Index.html) | Index |  |  |  |  |  |
-| [6–7 February 2018](2018-02-07-Tecnè.html) | Tecnè |  |  |  |  |  |
-| [5–7 February 2018](2018-02-07-SWG.html) | SWG |  |  |  |  |  |
+| [8–11 February 2018](2018-02-11-LorienConsulting.html) | Lorien Consulting | 15 | 12–17 | 12–17 | 12–17 | 12–18 |
+| [9–11 February 2018](2018-02-11-EMG.html) | EMG <br> TG LA7 | 13 | 13–15 | 13–15 | 13–15 | 12–15 |
+| [3–8 February 2018](2018-02-08-TermometroPolitico.html) | Termometro Politico | 14 | 13–14 | 13–14 | 12–14 | 11–14 |
+| [8 February 2018](2018-02-08-Index.html) | Index | 13 | 13 | 13 | 13 | 11–14 |
+| [6–7 February 2018](2018-02-07-Tecnè.html) | Tecnè | 14 | 13–15 | 13–15 | 13–16 | 13–16 |
+| [5–7 February 2018](2018-02-07-SWG.html) | SWG | 13 | 13 | 13 | 13 | 13–14 |
 
 ### Probability Mass Function
 
@@ -88,15 +88,15 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.1% | 100% |  |
-| 11 | 0.5% | 99.9% |  |
-| 12 | 20% | 99.4% |  |
-| 13 | 22% | 80% | Last Result |
-| 14 | 9% | 57% | Median |
-| 15 | 18% | 48% |  |
-| 16 | 24% | 30% |  |
-| 17 | 0.3% | 6% |  |
-| 18 | 5% | 5% |  |
-| 19 | 0.2% | 0.2% |  |
+| 11 | 0.4% | 99.9% |  |
+| 12 | 19% | 99.5% |  |
+| 13 | 26% | 81% | Last Result |
+| 14 | 9% | 55% | Median |
+| 15 | 20% | 46% |  |
+| 16 | 21% | 27% |  |
+| 17 | 1.2% | 6% |  |
+| 18 | 4% | 5% |  |
+| 19 | 0.1% | 0.1% |  |
 | 20 | 0% | 0% |  |
 
 
