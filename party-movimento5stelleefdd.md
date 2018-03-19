@@ -60,7 +60,7 @@ Last result: **17** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23 | 21–24 | 19–24 | 19–24 | 19–26 |
+| N/A | [Poll Average](average.html) | 23 | 21–24 | 19–24 | 19–25 | 19–26 |
 | [12–16 February 2018](2018-02-16-TermometroPolitico.html) | Termometro Politico | 22 | 22 | 22–24 | 22–24 | 22–24 |
 | [14–15 February 2018](2018-02-15-Demopolis.html) | Demopolis | 23 | 23 | 23 | 23 | 23 |
 | [12–14 February 2018](2018-02-14-SWG.html) | SWG | 24 | 24 | 24 | 22–24 | 21–24 |
@@ -73,7 +73,7 @@ Last result: **17** seats (General Election of 25 May 2014)
 | [12–13 February 2018](2018-02-13-Tecnè.html) | Tecnè | 21 | 21–24 | 21–24 | 21–24 | 20–27 |
 | [12 February 2018](2018-02-12-Euromedia.html) | Euromedia | 22 | 22 | 22 | 22 | 22 |
 | [8–12 February 2018](2018-02-12-Bidimedia.html) | Bidimedia | 24 | 24 | 24 | 24–26 | 24–26 |
-| [8–11 February 2018](2018-02-11-LorienConsulting.html) | Lorien Consulting | 23 | 22–24 | 22–24 | 22–24 | 18–27 |
+| [8–11 February 2018](2018-02-11-LorienConsulting.html) | Lorien Consulting | 24 | 22–25 | 21–25 | 21–26 | 20–26 |
 | [9–11 February 2018](2018-02-11-EMG.html) | EMG <br> TG LA7 | 23 | 23–24 | 23–24 | 23–24 | 23–24 |
 | [3–8 February 2018](2018-02-08-TermometroPolitico.html) | Termometro Politico | 22 | 22–23 | 22–23 | 22–23 | 22–23 |
 | [8 February 2018](2018-02-08-Index.html) | Index | 22 | 22 | 22 | 21–22 | 21–22 |
@@ -90,16 +90,16 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 16 | 0.1% | 100% |  |
 | 17 | 0% | 99.9% | Last Result |
-| 18 | 0.1% | 99.9% |  |
-| 19 | 7% | 99.8% |  |
-| 20 | 0.6% | 93% |  |
-| 21 | 18% | 92% |  |
-| 22 | 12% | 74% |  |
-| 23 | 31% | 61% | Median |
-| 24 | 28% | 30% |  |
-| 25 | 1.0% | 2% |  |
-| 26 | 0.4% | 0.8% |  |
-| 27 | 0.2% | 0.4% |  |
+| 18 | 0% | 99.9% |  |
+| 19 | 7% | 99.9% |  |
+| 20 | 0.7% | 93% |  |
+| 21 | 19% | 92% |  |
+| 22 | 12% | 73% |  |
+| 23 | 30% | 62% | Median |
+| 24 | 27% | 32% |  |
+| 25 | 4% | 5% |  |
+| 26 | 0.6% | 0.9% |  |
+| 27 | 0.1% | 0.3% |  |
 | 28 | 0.2% | 0.2% |  |
 | 29 | 0% | 0% |  |
 
