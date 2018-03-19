@@ -60,17 +60,17 @@ Last result: **5** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 9–14 | 9–14 | 9–14 | 9–14 |
+| N/A | [Poll Average](average.html) | 12 | 10–14 | 9–14 | 9–14 | 8–14 |
 | [12–16 February 2018](2018-02-16-TermometroPolitico.html) | Termometro Politico | 13 | 13 | 13 | 13 | 11–14 |
 | [14–15 February 2018](2018-02-15-Demopolis.html) | Demopolis | 13 | 13 | 13 | 13 | 13 |
 | [12–14 February 2018](2018-02-14-SWG.html) | SWG | 13 | 13 | 13 | 11–13 | 9–13 |
-| [13–14 February 2018](2018-02-14-Piepoli.html) | Piepoli | 13 | 13 | 13 | 9–13 | 8–14 |
-| [12–14 February 2018](2018-02-14-Ixè.html) | Ixè <br> Huffington Post | 9 | 9 | 9–10 | 9–10 | 9–10 |
+| [13–14 February 2018](2018-02-14-Piepoli.html) | Piepoli | 10 | 9–12 | 9–13 | 9–13 | 8–14 |
+| [12–14 February 2018](2018-02-14-Ixè.html) | Ixè <br> Huffington Post | 9 | 8–10 | 8–10 | 8–11 | 7–12 |
 | [12–14 February 2018](2018-02-14-Index.html) | Index | 14 | 13–14 | 11–14 | 11–14 | 10–14 |
-| [14 February 2018](2018-02-14-Euromedia.html) | Euromedia | 10 | 10–13 | 10–13 | 10–13 | 8–13 |
-| [12–14 February 2018](2018-02-14-DemosPi.html) | Demos & Pi <br> La Repubblica | 9 | 9–13 | 9–13 | 9–13 | 9–13 |
+| [14 February 2018](2018-02-14-Euromedia.html) | Euromedia | 12 | 11–13 | 11–14 | 10–14 | 9–15 |
+| [12–14 February 2018](2018-02-14-DemosPi.html) | Demos & Pi <br> La Repubblica | 10 | 9–11 | 9–12 | 9–12 | 8–13 |
 | [5–14 February 2018](2018-02-14-Demetra.html) | Demetra | 12 | 12 | 11–12 | 11–13 | 11–13 |
-| [12–13 February 2018](2018-02-13-Tecnè.html) | Tecnè | 11 | 10–12 | 10–12 | 9–14 | 9–14 |
+| [12–13 February 2018](2018-02-13-Tecnè.html) | Tecnè | 11 | 10–12 | 9–12 | 9–12 | 8–13 |
 | [12 February 2018](2018-02-12-Euromedia.html) | Euromedia | 12 | 12 | 12 | 12 | 11–12 |
 | [8–12 February 2018](2018-02-12-Bidimedia.html) | Bidimedia | 14 | 14 | 14 | 11–14 | 11–14 |
 | [8–11 February 2018](2018-02-11-LorienConsulting.html) | Lorien Consulting | 10 | 9–11 | 9–11 | 9–12 | 9–12 |
@@ -90,14 +90,15 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0% | 100% | Last Result |
 | 6 | 0% | 100% |  |
-| 7 | 0% | 100% |  |
-| 8 | 0.4% | 100% |  |
-| 9 | 15% | 99.6% |  |
-| 10 | 11% | 85% |  |
-| 11 | 11% | 74% |  |
-| 12 | 14% | 63% | Median |
-| 13 | 35% | 48% |  |
+| 7 | 0.1% | 100% |  |
+| 8 | 2% | 99.9% |  |
+| 9 | 8% | 98% |  |
+| 10 | 16% | 90% |  |
+| 11 | 16% | 75% |  |
+| 12 | 19% | 59% | Median |
+| 13 | 28% | 41% |  |
 | 14 | 13% | 13% |  |
-| 15 | 0% | 0% |  |
+| 15 | 0.1% | 0.1% |  |
+| 16 | 0% | 0% |  |
 
 
