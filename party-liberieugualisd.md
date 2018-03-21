@@ -59,7 +59,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 0–6 | 0–6 | 0–7 |
 | [12–16 February 2018](2018-02-16-TermometroPolitico.html) | Termometro Politico | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [14–15 February 2018](2018-02-15-Demopolis.html) | Demopolis | 5 | 5 | 5 | 5 | 4–5 |
+| [14–15 February 2018](2018-02-15-Demopolis.html) | Demopolis | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [12–14 February 2018](2018-02-14-SWG.html) | SWG | 6 | 6 | 6 | 5–6 | 5–6 |
 | [13–14 February 2018](2018-02-14-Piepoli.html) | Piepoli | 5 | 4–6 | 4–6 | 4–7 | 0–7 |
 | [12–14 February 2018](2018-02-14-Ixè.html) | Ixè <br> Huffington Post | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
@@ -73,7 +73,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [8–11 February 2018](2018-02-11-LorienConsulting.html) | Lorien Consulting | 5 | 4–5 | 4–5 | 3–5 | 0–6 |
 | [9–11 February 2018](2018-02-11-EMG.html) | EMG <br> TG LA7 | 5 | 5 | 5 | 5 | 4–5 |
 | [3–8 February 2018](2018-02-08-TermometroPolitico.html) | Termometro Politico | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [8 February 2018](2018-02-08-Index.html) | Index | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
+| [8 February 2018](2018-02-08-Index.html) | Index | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
 | [6–7 February 2018](2018-02-07-Tecnè.html) | Tecnè | 4 | 4–5 | 4–7 | 4–7 | 3–7 |
 | [5–7 February 2018](2018-02-07-SWG.html) | SWG | 6 | 6 | 6 | 6 | 6–7 |
 
@@ -89,8 +89,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 92% |  |
 | 2 | 0% | 92% |  |
 | 3 | 0.7% | 92% |  |
-| 4 | 30% | 91% |  |
-| 5 | 45% | 62% | Median |
+| 4 | 31% | 91% |  |
+| 5 | 43% | 61% | Median |
 | 6 | 16% | 17% |  |
 | 7 | 0.7% | 0.7% |  |
 | 8 | 0.1% | 0.1% |  |

@@ -73,7 +73,7 @@ Last result: **31** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18 | 16–20 | 15–21 | 15–21 | 14–22 |
 | [12–16 February 2018](2018-02-16-TermometroPolitico.html) | Termometro Politico | 18 | 17–18 | 17–18 | 16–18 | 16–18 |
-| [14–15 February 2018](2018-02-15-Demopolis.html) | Demopolis | 18 | 18 | 18 | 18 | 18 |
+| [14–15 February 2018](2018-02-15-Demopolis.html) | Demopolis | 17 | 17–18 | 16–19 | 16–19 | 15–20 |
 | [12–14 February 2018](2018-02-14-SWG.html) | SWG | 19 | 19 | 19 | 19–20 | 18–21 |
 | [13–14 February 2018](2018-02-14-Piepoli.html) | Piepoli | 19 | 18–20 | 17–21 | 16–22 | 15–24 |
 | [12–14 February 2018](2018-02-14-Ixè.html) | Ixè <br> Huffington Post | 17 | 16–19 | 15–19 | 14–20 | 14–20 |
@@ -87,7 +87,7 @@ Last result: **31** seats (General Election of 25 May 2014)
 | [8–11 February 2018](2018-02-11-LorienConsulting.html) | Lorien Consulting | 19 | 16–20 | 16–21 | 16–21 | 15–22 |
 | [9–11 February 2018](2018-02-11-EMG.html) | EMG <br> TG LA7 | 18 | 15–18 | 15–18 | 15–19 | 15–19 |
 | [3–8 February 2018](2018-02-08-TermometroPolitico.html) | Termometro Politico | 18 | 16–18 | 16–18 | 16–18 | 16–18 |
-| [8 February 2018](2018-02-08-Index.html) | Index | 18 | 18 | 18 | 18 | 17–20 |
+| [8 February 2018](2018-02-08-Index.html) | Index | 18 | 17–20 | 17–20 | 16–21 | 16–22 |
 | [6–7 February 2018](2018-02-07-Tecnè.html) | Tecnè | 16 | 15–18 | 15–18 | 15–19 | 14–20 |
 | [5–7 February 2018](2018-02-07-SWG.html) | SWG | 18 | 18 | 18 | 18 | 17–19 |
 
@@ -102,11 +102,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0.1% | 100% |  |
 | 14 | 0.8% | 99.9% |  |
 | 15 | 4% | 99.1% |  |
-| 16 | 9% | 95% |  |
-| 17 | 13% | 85% |  |
-| 18 | 28% | 72% | Median |
-| 19 | 33% | 44% |  |
-| 20 | 2% | 12% |  |
+| 16 | 10% | 95% |  |
+| 17 | 17% | 85% |  |
+| 18 | 23% | 68% | Median |
+| 19 | 33% | 45% |  |
+| 20 | 3% | 12% |  |
 | 21 | 9% | 9% |  |
 | 22 | 0.4% | 0.5% |  |
 | 23 | 0.1% | 0.2% |  |
