@@ -54,25 +54,25 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
+| N/A | [Poll Average](average.html) | 4 | 3–5 | 0–5 | 0–5 | 0–6 |
 | [12–16 February 2018](2018-02-16-TermometroPolitico.html) | Termometro Politico | 4 | 4 | 4 | 4 | 4–5 |
 | [14–15 February 2018](2018-02-15-Demopolis.html) | Demopolis | 4 | 4–5 | 4–5 | 3–5 | 0–5 |
-| [12–14 February 2018](2018-02-14-SWG.html) | SWG | 0 | 0 | 0 | 0–3 | 0–4 |
+| [12–14 February 2018](2018-02-14-SWG.html) | SWG | 4 | 4 | 0–4 | 0–5 | 0–5 |
 | [13–14 February 2018](2018-02-14-Piepoli.html) | Piepoli | 4 | 4–5 | 0–6 | 0–6 | 0–7 |
 | [12–14 February 2018](2018-02-14-Ixè.html) | Ixè <br> Huffington Post | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
-| [12–14 February 2018](2018-02-14-Index.html) | Index | 0 | 0 | 0–4 | 0–4 | 0–5 |
+| [12–14 February 2018](2018-02-14-Index.html) | Index | 4 | 4–5 | 3–5 | 0–5 | 0–6 |
 | [14 February 2018](2018-02-14-Euromedia.html) | Euromedia | 4 | 3–5 | 3–5 | 0–5 | 0–6 |
 | [12–14 February 2018](2018-02-14-DemosPi.html) | Demos & Pi <br> La Repubblica | 4 | 3–5 | 0–5 | 0–5 | 0–5 |
 | [5–14 February 2018](2018-02-14-Demetra.html) | Demetra | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [12–13 February 2018](2018-02-13-Tecnè.html) | Tecnè | 4 | 3–5 | 0–5 | 0–5 | 0–6 |
 | [12 February 2018](2018-02-12-Euromedia.html) | Euromedia | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
-| [8–12 February 2018](2018-02-12-Bidimedia.html) | Bidimedia | 0 | 0 | 0 | 0 | 0 |
+| [8–12 February 2018](2018-02-12-Bidimedia.html) | Bidimedia | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [8–11 February 2018](2018-02-11-LorienConsulting.html) | Lorien Consulting | 4 | 3–4 | 3–5 | 0–5 | 0–6 |
 | [9–11 February 2018](2018-02-11-EMG.html) | EMG <br> TG LA7 | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [3–8 February 2018](2018-02-08-TermometroPolitico.html) | Termometro Politico | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [8 February 2018](2018-02-08-Index.html) | Index | 4 | 3–5 | 3–5 | 0–6 | 0–6 |
 | [6–7 February 2018](2018-02-07-Tecnè.html) | Tecnè | 5 | 4–5 | 3–5 | 3–5 | 0–6 |
-| [5–7 February 2018](2018-02-07-SWG.html) | SWG | 4 | 4 | 4 | 4 | 4 |
+| [5–7 February 2018](2018-02-07-SWG.html) | SWG | 4 | 3–5 | 0–5 | 0–5 | 0–5 |
 
 ### Probability Mass Function
 
@@ -82,13 +82,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 25% | 100% | Last Result |
-| 1 | 0% | 75% |  |
-| 2 | 0% | 75% |  |
-| 3 | 8% | 75% |  |
-| 4 | 55% | 67% | Median |
-| 5 | 11% | 12% |  |
-| 6 | 0.8% | 0.9% |  |
-| 7 | 0% | 0% |  |
+| 0 | 8% | 100% | Last Result |
+| 1 | 0% | 92% |  |
+| 2 | 0% | 92% |  |
+| 3 | 8% | 92% |  |
+| 4 | 68% | 84% | Median |
+| 5 | 15% | 16% |  |
+| 6 | 1.0% | 1.0% |  |
+| 7 | 0% | 0.1% |  |
+| 8 | 0% | 0% |  |
 
 
