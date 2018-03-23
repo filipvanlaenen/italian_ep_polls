@@ -10,7 +10,12 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.4% | 1.5–3.3% | 1.3–3.7% | 1.1–4.1% | 0.8–4.7% |
+| N/A | [Poll Average](average.html) | 2.3% | 1.5–3.1% | 1.2–3.5% | 1.1–3.9% | 0.8–4.6% |
+| [19–21 March 2018](2018-03-21-SWG.html) | SWG | 1.7% | 1.4–2.1% | 1.3–2.3% | 1.2–2.4% | 1.1–2.6% |
+| [20 March 2018](2018-03-20-Tecnè.html) | Tecnè <br> Canale 5 | 2.2% | 1.7–3.1% | 1.6–3.3% | 1.4–3.5% | 1.2–4.0% |
+| [19 March 2018](2018-03-19-Piepoli.html) | Piepoli | 2.0% | 1.4–3.0% | 1.2–3.3% | 1.1–3.6% | 0.9–4.2% |
+| [19 March 2018](2018-03-19-Euromedia.html) | Euromedia | 1.6% | N/A | N/A | N/A | N/A |
+| [15 March 2018](2018-03-15-Piepoli.html) | Piepoli <br> La Stampa | 2.5% | N/A | N/A | N/A | N/A |
 | [12–15 March 2018](2018-03-15-DemosPi.html) | Demos & Pi <br> La Repubblica | 2.2% | 1.7–2.8% | 1.6–3.0% | 1.5–3.1% | 1.3–3.5% |
 | [12–14 March 2018](2018-03-14-SWG.html) | SWG <br> Il Messaggero | 1.7% | 1.3–2.4% | 1.2–2.5% | 1.1–2.7% | 0.9–3.1% |
 | [12–16 February 2018](2018-02-16-TermometroPolitico.html) | Termometro Politico | 2.8% | 2.5–3.2% | 2.4–3.2% | 2.3–3.3% | 2.2–3.5% |
@@ -39,13 +44,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 11% | 100% |  |
-| 1.5–2.5% | 47% | 89% | Median |
-| 2.5–3.5% | 35% | 42% |  |
-| 3.5–4.5% | 6% | 7% |  |
-| 4.5–5.5% | 0.8% | 0.8% |  |
+| 0.5–1.5% | 13% | 100% |  |
+| 1.5–2.5% | 51% | 87% | Median |
+| 2.5–3.5% | 31% | 36% |  |
+| 3.5–4.5% | 4% | 5% |  |
+| 4.5–5.5% | 0.5% | 0.5% |  |
 | 5.5–6.5% | 0% | 0% |  |
-| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -56,7 +60,12 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–3 | 0–4 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–4 |
+| [19–21 March 2018](2018-03-21-SWG.html) | SWG | 0 | 0 | 0 | 0 | 0 |
+| [20 March 2018](2018-03-20-Tecnè.html) | Tecnè <br> Canale 5 | 0 | 0 | 0 | 0 | 0 |
+| [19 March 2018](2018-03-19-Piepoli.html) | Piepoli | 0 | 0 | 0 | 0 | 0 |
+| [19 March 2018](2018-03-19-Euromedia.html) | Euromedia |  |  |  |  |  |
+| [15 March 2018](2018-03-15-Piepoli.html) | Piepoli <br> La Stampa |  |  |  |  |  |
 | [12–15 March 2018](2018-03-15-DemosPi.html) | Demos & Pi <br> La Repubblica | 0 | 0 | 0 | 0 | 0 |
 | [12–14 March 2018](2018-03-14-SWG.html) | SWG <br> Il Messaggero | 0 | 0 | 0 | 0 | 0 |
 | [12–16 February 2018](2018-02-16-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
@@ -86,12 +95,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 97% | 100% | Last Result, Median |
-| 1 | 0% | 3% |  |
-| 2 | 0% | 3% |  |
-| 3 | 2% | 3% |  |
-| 4 | 1.0% | 1.0% |  |
-| 5 | 0.1% | 0.1% |  |
-| 6 | 0% | 0% |  |
+| 0 | 98% | 100% | Last Result, Median |
+| 1 | 0% | 2% |  |
+| 2 | 0% | 2% |  |
+| 3 | 2% | 2% |  |
+| 4 | 0.8% | 0.8% |  |
+| 5 | 0% | 0% |  |
 
 
