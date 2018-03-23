@@ -10,7 +10,9 @@ Last result: **3.7%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.7% | 3.9–5.7% | 3.7–6.0% | 3.5–6.3% | 3.1–7.0% |
+| N/A | [Poll Average](average.html) | 4.7% | 3.6–5.7% | 3.2–6.0% | 2.9–6.3% | 2.4–7.0% |
+| [12–15 March 2018](2018-03-15-DemosPi.html) | Demos & Pi <br> La Repubblica | 4.8% | 4.1–5.7% | 3.9–5.9% | 3.7–6.2% | 3.4–6.6% |
+| [12–14 March 2018](2018-03-14-SWG.html) | SWG <br> Il Messaggero | 3.1% | 2.5–3.9% | 2.3–4.2% | 2.2–4.4% | 1.9–4.8% |
 | [12–16 February 2018](2018-02-16-TermometroPolitico.html) | Termometro Politico | 5.0% | 4.6–5.4% | 4.5–5.6% | 4.4–5.7% | 4.2–5.9% |
 | [14–15 February 2018](2018-02-15-Demopolis.html) | Demopolis | 5.0% | 4.4–5.7% | 4.3–5.9% | 4.1–6.1% | 3.9–6.4% |
 | [12–14 February 2018](2018-02-14-SWG.html) | SWG | 4.4% | 3.9–5.0% | 3.7–5.2% | 3.6–5.4% | 3.3–5.7% |
@@ -36,11 +38,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 3% | 100% |  |
-| 3.5–4.5% | 36% | 97% | Last Result |
-| 4.5–5.5% | 48% | 61% | Median |
-| 5.5–6.5% | 12% | 13% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 0.9% | 100% |  |
+| 2.5–3.5% | 8% | 99.1% |  |
+| 3.5–4.5% | 33% | 91% | Last Result |
+| 4.5–5.5% | 45% | 58% | Median |
+| 5.5–6.5% | 11% | 13% |  |
 | 6.5–7.5% | 1.3% | 1.4% |  |
 | 7.5–8.5% | 0.1% | 0.1% |  |
 | 8.5–9.5% | 0% | 0% |  |
@@ -54,7 +57,9 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–5 | 0–5 | 0–5 | 0–6 |
+| N/A | [Poll Average](average.html) | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
+| [12–15 March 2018](2018-03-15-DemosPi.html) | Demos & Pi <br> La Repubblica | 4 | 3–4 | 0–5 | 0–5 | 0–5 |
+| [12–14 March 2018](2018-03-14-SWG.html) | SWG <br> Il Messaggero | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | [12–16 February 2018](2018-02-16-TermometroPolitico.html) | Termometro Politico | 4 | 4 | 4 | 4 | 4–5 |
 | [14–15 February 2018](2018-02-15-Demopolis.html) | Demopolis | 4 | 4–5 | 4–5 | 3–5 | 0–5 |
 | [12–14 February 2018](2018-02-14-SWG.html) | SWG | 4 | 4 | 0–4 | 0–5 | 0–5 |
@@ -63,7 +68,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [12–14 February 2018](2018-02-14-Index.html) | Index | 4 | 4–5 | 3–5 | 0–5 | 0–6 |
 | [14 February 2018](2018-02-14-Euromedia.html) | Euromedia | 4 | 3–5 | 3–5 | 0–5 | 0–6 |
 | [12–14 February 2018](2018-02-14-DemosPi.html) | Demos & Pi <br> La Repubblica | 4 | 3–5 | 0–5 | 0–5 | 0–5 |
-| [5–14 February 2018](2018-02-14-Demetra.html) | Demetra | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [5–14 February 2018](2018-02-14-Demetra.html) | Demetra | 4 | 4 | 4 | 3–4 | 0–4 |
 | [12–13 February 2018](2018-02-13-Tecnè.html) | Tecnè | 4 | 3–5 | 0–5 | 0–5 | 0–6 |
 | [12 February 2018](2018-02-12-Euromedia.html) | Euromedia | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [8–12 February 2018](2018-02-12-Bidimedia.html) | Bidimedia | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
@@ -82,13 +87,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 8% | 100% | Last Result |
-| 1 | 0% | 92% |  |
-| 2 | 0% | 92% |  |
-| 3 | 8% | 92% |  |
-| 4 | 68% | 84% | Median |
-| 5 | 15% | 16% |  |
-| 6 | 1.0% | 1.0% |  |
+| 0 | 14% | 100% | Last Result |
+| 1 | 0% | 86% |  |
+| 2 | 0% | 86% |  |
+| 3 | 8% | 86% |  |
+| 4 | 63% | 78% | Median |
+| 5 | 14% | 15% |  |
+| 6 | 0.9% | 1.0% |  |
 | 7 | 0% | 0.1% |  |
 | 8 | 0% | 0% |  |
 

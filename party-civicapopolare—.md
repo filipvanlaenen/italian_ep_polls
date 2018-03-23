@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.0% | 0.5–1.6% | 0.4–1.8% | 0.3–2.0% | 0.2–2.4% |
+| N/A | [Poll Average](average.html) | 1.0% | 0.5–1.6% | 0.4–1.9% | 0.3–2.0% | 0.2–2.4% |
+| [12–15 March 2018](2018-03-15-DemosPi.html) | Demos & Pi <br> La Repubblica | 0.0% | N/A | N/A | N/A | N/A |
+| [12–14 March 2018](2018-03-14-SWG.html) | SWG <br> Il Messaggero | 0.0% | N/A | N/A | N/A | N/A |
 | [12–16 February 2018](2018-02-16-TermometroPolitico.html) | Termometro Politico | 0.9% | 0.7–1.1% | 0.7–1.2% | 0.7–1.2% | 0.6–1.4% |
 | [14–15 February 2018](2018-02-15-Demopolis.html) | Demopolis | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.6–1.5% | 0.5–1.7% |
 | [12–14 February 2018](2018-02-14-SWG.html) | SWG | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.6–1.5% | 0.5–1.7% |
@@ -36,9 +38,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 11% | 100% | Last Result |
-| 0.5–1.5% | 77% | 89% | Median |
-| 1.5–2.5% | 12% | 12% |  |
+| 0.0–0.5% | 12% | 100% | Last Result |
+| 0.5–1.5% | 75% | 88% | Median |
+| 1.5–2.5% | 13% | 13% |  |
 | 2.5–3.5% | 0.3% | 0.3% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
@@ -52,6 +54,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [12–15 March 2018](2018-03-15-DemosPi.html) | Demos & Pi <br> La Repubblica |  |  |  |  |  |
+| [12–14 March 2018](2018-03-14-SWG.html) | SWG <br> Il Messaggero |  |  |  |  |  |
 | [12–16 February 2018](2018-02-16-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [14–15 February 2018](2018-02-15-Demopolis.html) | Demopolis | 0 | 0 | 0 | 0 | 0 |
 | [12–14 February 2018](2018-02-14-SWG.html) | SWG | 0 | 0 | 0 | 0 | 0 |
