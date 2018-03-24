@@ -10,12 +10,12 @@ Last result: **3.7%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.6% | 3.7–5.5% | 3.4–5.7% | 3.2–6.0% | 2.8–6.6% |
+| N/A | [Poll Average](average.html) | 4.5% | 3.7–5.5% | 3.4–5.7% | 3.2–6.0% | 2.8–6.5% |
 | [19–21 March 2018](2018-03-21-SWG.html) | SWG | 3.9% | 3.4–4.5% | 3.2–4.7% | 3.1–4.8% | 2.9–5.2% |
 | [20 March 2018](2018-03-20-Tecnè.html) | Tecnè <br> Canale 5 | 4.2% | 3.4–5.3% | 3.2–5.6% | 3.0–5.9% | 2.7–6.4% |
 | [19 March 2018](2018-03-19-Piepoli.html) | Piepoli | 3.9% | 3.0–5.3% | 2.8–5.7% | 2.6–6.0% | 2.2–6.7% |
-| [19 March 2018](2018-03-19-Euromedia.html) | Euromedia | 4.2% | N/A | N/A | N/A | N/A |
-| [15 March 2018](2018-03-15-Piepoli.html) | Piepoli <br> La Stampa | 3.9% | N/A | N/A | N/A | N/A |
+| [19 March 2018](2018-03-19-Euromedia.html) | Euromedia | 4.2% | 3.5–5.3% | 3.2–5.6% | 3.0–5.9% | 2.7–6.4% |
+| [15 March 2018](2018-03-15-Piepoli.html) | Piepoli <br> La Stampa | 3.9% | 3.0–5.2% | 2.8–5.6% | 2.5–6.0% | 2.2–6.7% |
 | [12–15 March 2018](2018-03-15-DemosPi.html) | Demos & Pi <br> La Repubblica | 4.8% | 4.1–5.7% | 3.9–5.9% | 3.7–6.2% | 3.4–6.6% |
 | [12–14 March 2018](2018-03-14-SWG.html) | SWG <br> Il Messaggero | 3.1% | 2.5–3.9% | 2.3–4.2% | 2.2–4.4% | 1.9–4.8% |
 | [12–16 February 2018](2018-02-16-TermometroPolitico.html) | Termometro Politico | 5.0% | 4.6–5.4% | 4.5–5.6% | 4.4–5.7% | 4.2–5.9% |
@@ -45,10 +45,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0.2% | 100% |  |
-| 2.5–3.5% | 7% | 99.8% |  |
-| 3.5–4.5% | 42% | 93% | Last Result |
-| 4.5–5.5% | 42% | 51% | Median |
-| 5.5–6.5% | 8% | 8% |  |
+| 2.5–3.5% | 8% | 99.8% |  |
+| 3.5–4.5% | 42% | 92% | Last Result |
+| 4.5–5.5% | 42% | 50% | Median |
+| 5.5–6.5% | 7% | 8% |  |
 | 6.5–7.5% | 0.5% | 0.5% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
@@ -61,12 +61,12 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 0–4 | 0–5 | 0–5 | 0–6 |
+| N/A | [Poll Average](average.html) | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [19–21 March 2018](2018-03-21-SWG.html) | SWG | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [20 March 2018](2018-03-20-Tecnè.html) | Tecnè <br> Canale 5 | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [19 March 2018](2018-03-19-Piepoli.html) | Piepoli | 4 | 4 | 4–5 | 4–6 | 4–6 |
-| [19 March 2018](2018-03-19-Euromedia.html) | Euromedia |  |  |  |  |  |
-| [15 March 2018](2018-03-15-Piepoli.html) | Piepoli <br> La Stampa |  |  |  |  |  |
+| [19 March 2018](2018-03-19-Piepoli.html) | Piepoli | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
+| [19 March 2018](2018-03-19-Euromedia.html) | Euromedia | 3 | 0–3 | 0–3 | 0–3 | 0–5 |
+| [15 March 2018](2018-03-15-Piepoli.html) | Piepoli <br> La Stampa | 4 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [12–15 March 2018](2018-03-15-DemosPi.html) | Demos & Pi <br> La Repubblica | 4 | 3–4 | 0–5 | 0–5 | 0–5 |
 | [12–14 March 2018](2018-03-14-SWG.html) | SWG <br> Il Messaggero | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | [12–16 February 2018](2018-02-16-TermometroPolitico.html) | Termometro Politico | 4 | 4 | 4 | 4 | 4–5 |
@@ -96,13 +96,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 15% | 100% | Last Result |
-| 1 | 0% | 85% |  |
-| 2 | 0% | 85% |  |
-| 3 | 13% | 85% |  |
-| 4 | 62% | 72% | Median |
-| 5 | 9% | 10% |  |
-| 6 | 0.6% | 0.6% |  |
+| 0 | 21% | 100% | Last Result |
+| 1 | 0% | 79% |  |
+| 2 | 0% | 79% |  |
+| 3 | 18% | 79% |  |
+| 4 | 52% | 61% | Median |
+| 5 | 8% | 9% |  |
+| 6 | 0.2% | 0.2% |  |
 | 7 | 0% | 0% |  |
 
 
