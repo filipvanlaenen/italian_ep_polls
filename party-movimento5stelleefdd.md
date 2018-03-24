@@ -73,12 +73,12 @@ Last result: **17** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25 | 22–30 | 21–31 | 21–31 | 20–31 |
+| N/A | [Poll Average](average.html) | 25 | 22–29 | 21–31 | 21–31 | 20–31 |
 | [19–21 March 2018](2018-03-21-SWG.html) | SWG | 31 | 30–31 | 30–31 | 30–31 | 29–31 |
-| [20 March 2018](2018-03-20-Tecnè.html) | Tecnè <br> Canale 5 | 30 | 29–31 | 29–31 | 27–31 | 23–31 |
+| [20 March 2018](2018-03-20-Tecnè.html) | Tecnè <br> Canale 5 | 28 | 26–29 | 25–30 | 25–31 | 24–32 |
 | [19 March 2018](2018-03-19-Piepoli.html) | Piepoli | 27 | 25–30 | 24–30 | 24–31 | 23–32 |
 | [19 March 2018](2018-03-19-Euromedia.html) | Euromedia | 27 | 25–28 | 25–28 | 25–28 | 25–31 |
-| [15 March 2018](2018-03-15-Piepoli.html) | Piepoli <br> La Stampa | 27 | 27–28 | 27–28 | 27–28 | 25–30 |
+| [15 March 2018](2018-03-15-Piepoli.html) | Piepoli <br> La Stampa | 28 | 25–30 | 25–31 | 24–32 | 23–33 |
 | [12–15 March 2018](2018-03-15-DemosPi.html) | Demos & Pi <br> La Repubblica | 27 | 25–28 | 25–29 | 24–29 | 24–30 |
 | [12–14 March 2018](2018-03-14-SWG.html) | SWG <br> Il Messaggero | 30 | 29–32 | 28–32 | 27–33 | 27–34 |
 | [12–16 February 2018](2018-02-16-TermometroPolitico.html) | Termometro Politico | 22 | 22 | 22–24 | 22–24 | 22–24 |
@@ -116,14 +116,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 22 | 15% | 95% |  |
 | 23 | 15% | 80% |  |
 | 24 | 15% | 65% |  |
-| 25 | 15% | 50% | Median |
-| 26 | 5% | 35% |  |
-| 27 | 6% | 30% |  |
-| 28 | 5% | 23% |  |
-| 29 | 3% | 18% |  |
-| 30 | 8% | 15% |  |
-| 31 | 7% | 7% |  |
-| 32 | 0.1% | 0.1% |  |
+| 25 | 16% | 50% | Median |
+| 26 | 6% | 34% |  |
+| 27 | 8% | 28% |  |
+| 28 | 7% | 20% |  |
+| 29 | 3% | 12% |  |
+| 30 | 4% | 9% |  |
+| 31 | 5% | 5% |  |
+| 32 | 0.2% | 0.2% |  |
 | 33 | 0% | 0% |  |
 
 

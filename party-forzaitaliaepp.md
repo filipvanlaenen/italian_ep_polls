@@ -70,10 +70,10 @@ Last result: **13** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 10–15 | 9–16 | 8–16 | 8–17 |
 | [19–21 March 2018](2018-03-21-SWG.html) | SWG | 11 | 8–11 | 8–11 | 8–11 | 8–11 |
-| [20 March 2018](2018-03-20-Tecnè.html) | Tecnè <br> Canale 5 | 10 | 8–10 | 8–12 | 8–12 | 8–15 |
+| [20 March 2018](2018-03-20-Tecnè.html) | Tecnè <br> Canale 5 | 11 | 10–12 | 9–13 | 9–13 | 9–14 |
 | [19 March 2018](2018-03-19-Piepoli.html) | Piepoli | 11 | 10–13 | 9–13 | 9–14 | 8–15 |
 | [19 March 2018](2018-03-19-Euromedia.html) | Euromedia | 10 | 10–13 | 10–13 | 10–13 | 10–13 |
-| [15 March 2018](2018-03-15-Piepoli.html) | Piepoli <br> La Stampa | 10 | 10–11 | 10–11 | 10–11 | 10–13 |
+| [15 March 2018](2018-03-15-Piepoli.html) | Piepoli <br> La Stampa | 12 | 10–13 | 10–14 | 9–14 | 9–15 |
 | [12–15 March 2018](2018-03-15-DemosPi.html) | Demos & Pi <br> La Repubblica | 10 | 9–11 | 9–11 | 9–12 | 8–12 |
 | [12–14 March 2018](2018-03-14-SWG.html) | SWG <br> Il Messaggero | 9 | 8–10 | 8–11 | 8–11 | 7–12 |
 | [12–16 February 2018](2018-02-16-TermometroPolitico.html) | Termometro Politico | 14 | 14 | 12–14 | 12–14 | 12–14 |
@@ -103,12 +103,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 8 | 4% | 100% |  |
-| 9 | 3% | 96% |  |
-| 10 | 15% | 93% |  |
-| 11 | 10% | 78% |  |
-| 12 | 12% | 68% |  |
-| 13 | 18% | 56% | Last Result, Median |
+| 8 | 3% | 100% |  |
+| 9 | 3% | 97% |  |
+| 10 | 12% | 94% |  |
+| 11 | 12% | 82% |  |
+| 12 | 13% | 70% |  |
+| 13 | 18% | 57% | Last Result, Median |
 | 14 | 22% | 38% |  |
 | 15 | 7% | 16% |  |
 | 16 | 7% | 10% |  |
