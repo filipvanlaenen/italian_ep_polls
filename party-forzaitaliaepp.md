@@ -68,14 +68,14 @@ Last result: **13** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 9–15 | 9–16 | 8–16 | 8–17 |
-| [19–21 March 2018](2018-03-21-SWG.html) | SWG | 9 | 8–10 | 8–10 | 7–10 | 7–10 |
-| [20 March 2018](2018-03-20-Tecnè.html) | Tecnè <br> Canale 5 | 11 | 10–12 | 9–13 | 9–13 | 9–14 |
-| [19 March 2018](2018-03-19-Piepoli.html) | Piepoli | 11 | 10–13 | 9–13 | 9–14 | 8–15 |
-| [19 March 2018](2018-03-19-Euromedia.html) | Euromedia | 11 | 10–12 | 9–13 | 9–13 | 8–14 |
-| [15 March 2018](2018-03-15-Piepoli.html) | Piepoli <br> La Stampa | 12 | 10–13 | 10–14 | 9–14 | 9–15 |
-| [12–15 March 2018](2018-03-15-DemosPi.html) | Demos & Pi <br> La Repubblica | 10 | 9–11 | 9–11 | 9–12 | 8–12 |
-| [12–14 March 2018](2018-03-14-SWG.html) | SWG <br> Il Messaggero | 9 | 8–10 | 8–11 | 8–11 | 7–12 |
+| N/A | [Poll Average](average.html) | 13 | 10–15 | 9–16 | 8–16 | 8–17 |
+| [19–21 March 2018](2018-03-21-SWG.html) | SWG | 11 | 8–11 | 8–11 | 8–11 | 8–11 |
+| [20 March 2018](2018-03-20-Tecnè.html) | Tecnè <br> Canale 5 | 10 | 8–10 | 8–12 | 8–12 | 8–15 |
+| [19 March 2018](2018-03-19-Piepoli.html) | Piepoli | 13 | 10–14 | 10–14 | 10–14 | 10–14 |
+| [19 March 2018](2018-03-19-Euromedia.html) | Euromedia | 10 | 10–13 | 10–13 | 10–13 | 10–13 |
+| [15 March 2018](2018-03-15-Piepoli.html) | Piepoli <br> La Stampa | 10 | 10–11 | 10–11 | 10–11 | 10–13 |
+| [12–15 March 2018](2018-03-15-DemosPi.html) | Demos & Pi <br> La Repubblica | 9 | 9–12 | 9–12 | 9–12 | 8–12 |
+| [12–14 March 2018](2018-03-14-SWG.html) | SWG <br> Il Messaggero | 9 | 9 | 9 | 9 | 9–11 |
 | [12–16 February 2018](2018-02-16-TermometroPolitico.html) | Termometro Politico | 14 | 14 | 12–14 | 12–14 | 12–14 |
 | [14–15 February 2018](2018-02-15-Demopolis.html) | Demopolis | 14 | 13–14 | 12–15 | 12–15 | 12–15 |
 | [12–14 February 2018](2018-02-14-SWG.html) | SWG | 13 | 12–14 | 12–14 | 12–14 | 11–14 |
@@ -103,14 +103,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 0.3% | 100% |  |
-| 8 | 3% | 99.7% |  |
-| 9 | 7% | 96% |  |
-| 10 | 10% | 90% |  |
-| 11 | 11% | 79% |  |
-| 12 | 15% | 69% |  |
-| 13 | 16% | 54% | Last Result, Median |
-| 14 | 22% | 38% |  |
+| 8 | 4% | 100% |  |
+| 9 | 5% | 96% |  |
+| 10 | 12% | 91% |  |
+| 11 | 7% | 79% |  |
+| 12 | 11% | 72% |  |
+| 13 | 18% | 60% | Last Result, Median |
+| 14 | 25% | 42% |  |
 | 15 | 7% | 16% |  |
 | 16 | 7% | 10% |  |
 | 17 | 2% | 2% |  |

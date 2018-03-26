@@ -66,11 +66,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 4 | 0–5 | 0–5 | 0–6 | 0–6 |
 | [19–21 March 2018](2018-03-21-SWG.html) | SWG | 0 | 0 | 0 | 0 | 0 |
 | [20 March 2018](2018-03-20-Tecnè.html) | Tecnè <br> Canale 5 | 0 | 0 | 0 | 0 | 0–3 |
-| [19 March 2018](2018-03-19-Piepoli.html) | Piepoli | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
-| [19 March 2018](2018-03-19-Euromedia.html) | Euromedia | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
-| [15 March 2018](2018-03-15-Piepoli.html) | Piepoli <br> La Stampa | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
-| [12–15 March 2018](2018-03-15-DemosPi.html) | Demos & Pi <br> La Repubblica | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [12–14 March 2018](2018-03-14-SWG.html) | SWG <br> Il Messaggero | 0 | 0 | 0 | 0 | 0–4 |
+| [19 March 2018](2018-03-19-Piepoli.html) | Piepoli | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
+| [19 March 2018](2018-03-19-Euromedia.html) | Euromedia | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [15 March 2018](2018-03-15-Piepoli.html) | Piepoli <br> La Stampa | 0 | 0 | 0 | 0 | 0 |
+| [12–15 March 2018](2018-03-15-DemosPi.html) | Demos & Pi <br> La Repubblica | 4 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [12–14 March 2018](2018-03-14-SWG.html) | SWG <br> Il Messaggero | 0 | 0 | 0 | 0 | 0 |
 | [12–16 February 2018](2018-02-16-TermometroPolitico.html) | Termometro Politico | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [14–15 February 2018](2018-02-15-Demopolis.html) | Demopolis | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [12–14 February 2018](2018-02-14-SWG.html) | SWG | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
@@ -98,11 +98,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 33% | 100% | Last Result |
-| 1 | 0% | 67% |  |
-| 2 | 0% | 67% |  |
-| 3 | 4% | 67% |  |
-| 4 | 33% | 63% | Median |
+| 0 | 31% | 100% | Last Result |
+| 1 | 0% | 69% |  |
+| 2 | 0% | 69% |  |
+| 3 | 3% | 69% |  |
+| 4 | 36% | 66% | Median |
 | 5 | 26% | 30% |  |
 | 6 | 4% | 4% |  |
 | 7 | 0.3% | 0.3% |  |
