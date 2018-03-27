@@ -30,7 +30,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [12–13 February 2018](2018-02-13-Tecnè.html) | Tecnè | 0.0% | N/A | N/A | N/A | N/A |
 | [12 February 2018](2018-02-12-Euromedia.html) | Euromedia | 0.0% | N/A | N/A | N/A | N/A |
 | [8–12 February 2018](2018-02-12-Bidimedia.html) | Bidimedia | 1.2% | 0.9–1.7% | 0.8–1.9% | 0.8–2.0% | 0.6–2.3% |
-| [8–11 February 2018](2018-02-11-LorienConsulting.html) | Lorien Consulting | 2.7% | 2.1–3.5% | 2.0–3.7% | 1.9–3.9% | 1.6–4.3% |
+| [8–11 February 2018](2018-02-11-LorienConsulting.html) | Lorien Consulting | 2.7% | 2.1–3.5% | 2.0–3.7% | 1.8–3.9% | 1.6–4.3% |
 | [9–11 February 2018](2018-02-11-EMG.html) | EMG <br> TG LA7 | 0.8% | 0.6–1.2% | 0.5–1.3% | 0.5–1.4% | 0.4–1.6% |
 | [3–8 February 2018](2018-02-08-TermometroPolitico.html) | Termometro Politico | 1.5% | 1.3–1.8% | 1.2–1.9% | 1.2–2.0% | 1.1–2.1% |
 | [8 February 2018](2018-02-08-Index.html) | Index | 0.0% | N/A | N/A | N/A | N/A |
