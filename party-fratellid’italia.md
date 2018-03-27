@@ -10,7 +10,7 @@ Last result: **3.7%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.5% | 3.5–5.4% | 3.2–5.6% | 3.0–5.9% | 2.6–6.4% |
+| N/A | [Poll Average](average.html) | 4.6% | 3.7–5.5% | 3.4–5.8% | 3.2–6.0% | 2.7–6.6% |
 | [19–21 March 2018](2018-03-21-SWG.html) | SWG | 3.9% | 3.4–4.5% | 3.2–4.7% | 3.1–4.8% | 2.9–5.2% |
 | [20 March 2018](2018-03-20-Tecnè.html) | Tecnè <br> Canale 5 | 4.2% | 3.4–5.3% | 3.2–5.6% | 3.0–5.9% | 2.7–6.4% |
 | [19 March 2018](2018-03-19-Piepoli.html) | Piepoli | 3.9% | 3.0–5.3% | 2.8–5.7% | 2.6–6.0% | 2.2–6.7% |
@@ -19,14 +19,14 @@ Last result: **3.7%** (General Election of 25 May 2014)
 | [12–15 March 2018](2018-03-15-DemosPi.html) | Demos & Pi <br> La Repubblica | 4.8% | 4.1–5.7% | 3.9–5.9% | 3.7–6.2% | 3.4–6.6% |
 | [12–14 March 2018](2018-03-14-SWG.html) | SWG <br> Il Messaggero | 3.1% | 2.5–3.9% | 2.3–4.2% | 2.2–4.4% | 1.9–4.8% |
 | [12–16 February 2018](2018-02-16-TermometroPolitico.html) | Termometro Politico | 5.0% | 4.6–5.4% | 4.5–5.6% | 4.4–5.7% | 4.2–5.9% |
-| [14–15 February 2018](2018-02-15-Demopolis.html) | Demopolis | 5.0% | N/A | N/A | N/A | N/A |
-| [12–14 February 2018](2018-02-14-SWG.html) | SWG | 4.4% | N/A | N/A | N/A | N/A |
-| [13–14 February 2018](2018-02-14-Piepoli.html) | Piepoli | 5.0% | N/A | N/A | N/A | N/A |
-| [12–14 February 2018](2018-02-14-Ixè.html) | Ixè <br> Huffington Post | 4.7% | N/A | N/A | N/A | N/A |
-| [12–14 February 2018](2018-02-14-Index.html) | Index | 4.9% | N/A | N/A | N/A | N/A |
-| [14 February 2018](2018-02-14-Euromedia.html) | Euromedia | 4.9% | N/A | N/A | N/A | N/A |
-| [12–14 February 2018](2018-02-14-DemosPi.html) | Demos & Pi <br> La Repubblica | 4.8% | N/A | N/A | N/A | N/A |
-| [5–14 February 2018](2018-02-14-Demetra.html) | Demetra | 4.4% | N/A | N/A | N/A | N/A |
+| [14–15 February 2018](2018-02-15-Demopolis.html) | Demopolis | 5.0% | 4.4–5.7% | 4.3–5.9% | 4.1–6.1% | 3.9–6.4% |
+| [12–14 February 2018](2018-02-14-SWG.html) | SWG | 4.4% | 3.9–5.0% | 3.7–5.2% | 3.6–5.4% | 3.3–5.7% |
+| [13–14 February 2018](2018-02-14-Piepoli.html) | Piepoli | 5.0% | 3.9–6.4% | 3.6–6.8% | 3.4–7.2% | 2.9–8.0% |
+| [12–14 February 2018](2018-02-14-Ixè.html) | Ixè <br> Huffington Post | 4.7% | 3.9–5.7% | 3.7–6.0% | 3.6–6.2% | 3.2–6.7% |
+| [12–14 February 2018](2018-02-14-Index.html) | Index | 4.9% | 4.0–6.0% | 3.8–6.3% | 3.6–6.6% | 3.2–7.2% |
+| [14 February 2018](2018-02-14-Euromedia.html) | Euromedia | 4.9% | 4.0–6.0% | 3.8–6.3% | 3.6–6.6% | 3.2–7.2% |
+| [12–14 February 2018](2018-02-14-DemosPi.html) | Demos & Pi <br> La Repubblica | 4.8% | 4.1–5.8% | 3.9–6.1% | 3.7–6.3% | 3.3–6.8% |
+| [5–14 February 2018](2018-02-14-Demetra.html) | Demetra | 4.4% | 4.1–4.8% | 4.0–4.9% | 3.9–5.0% | 3.7–5.1% |
 | [12–13 February 2018](2018-02-13-Tecnè.html) | Tecnè | 5.0% | N/A | N/A | N/A | N/A |
 | [12 February 2018](2018-02-12-Euromedia.html) | Euromedia | 4.8% | N/A | N/A | N/A | N/A |
 | [8–12 February 2018](2018-02-12-Bidimedia.html) | Bidimedia | 3.9% | N/A | N/A | N/A | N/A |
@@ -44,12 +44,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.4% | 100% |  |
-| 2.5–3.5% | 12% | 99.6% |  |
-| 3.5–4.5% | 42% | 88% | Last Result, Median |
-| 4.5–5.5% | 40% | 46% |  |
-| 5.5–6.5% | 6% | 6% |  |
-| 6.5–7.5% | 0.3% | 0.3% |  |
+| 1.5–2.5% | 0.3% | 100% |  |
+| 2.5–3.5% | 7% | 99.7% |  |
+| 3.5–4.5% | 41% | 92% | Last Result |
+| 4.5–5.5% | 43% | 52% | Median |
+| 5.5–6.5% | 8% | 9% |  |
+| 6.5–7.5% | 0.6% | 0.6% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -70,13 +70,13 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [12–15 March 2018](2018-03-15-DemosPi.html) | Demos & Pi <br> La Repubblica | 4 | 4 | 4 | 4 | 3–5 |
 | [12–14 March 2018](2018-03-14-SWG.html) | SWG <br> Il Messaggero | 0 | 0 | 0 | 0 | 0–4 |
 | [12–16 February 2018](2018-02-16-TermometroPolitico.html) | Termometro Politico | 4 | 4 | 4 | 4 | 4–5 |
-| [14–15 February 2018](2018-02-15-Demopolis.html) | Demopolis |  |  |  |  |  |
-| [12–14 February 2018](2018-02-14-SWG.html) | SWG |  |  |  |  |  |
-| [13–14 February 2018](2018-02-14-Piepoli.html) | Piepoli |  |  |  |  |  |
-| [12–14 February 2018](2018-02-14-Ixè.html) | Ixè <br> Huffington Post |  |  |  |  |  |
-| [12–14 February 2018](2018-02-14-Index.html) | Index |  |  |  |  |  |
-| [14 February 2018](2018-02-14-Euromedia.html) | Euromedia |  |  |  |  |  |
-| [12–14 February 2018](2018-02-14-DemosPi.html) | Demos & Pi <br> La Repubblica |  |  |  |  |  |
+| [14–15 February 2018](2018-02-15-Demopolis.html) | Demopolis | 4 | 4 | 4 | 4 | 4 |
+| [12–14 February 2018](2018-02-14-SWG.html) | SWG | 0 | 0 | 0 | 0–3 | 0–4 |
+| [13–14 February 2018](2018-02-14-Piepoli.html) | Piepoli | 4 | 4 | 4 | 0–6 | 0–6 |
+| [12–14 February 2018](2018-02-14-Ixè.html) | Ixè <br> Huffington Post | 4 | 4 | 0–4 | 0–4 | 0–4 |
+| [12–14 February 2018](2018-02-14-Index.html) | Index | 0 | 0 | 0–4 | 0–4 | 0–5 |
+| [14 February 2018](2018-02-14-Euromedia.html) | Euromedia | 6 | 0–6 | 0–6 | 0–6 | 0–6 |
+| [12–14 February 2018](2018-02-14-DemosPi.html) | Demos & Pi <br> La Repubblica | 4 | 4 | 4 | 3–5 | 3–5 |
 | [5–14 February 2018](2018-02-14-Demetra.html) | Demetra |  |  |  |  |  |
 | [12–13 February 2018](2018-02-13-Tecnè.html) | Tecnè |  |  |  |  |  |
 | [12 February 2018](2018-02-12-Euromedia.html) | Euromedia |  |  |  |  |  |
@@ -96,13 +96,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 23% | 100% | Last Result |
-| 1 | 0% | 77% |  |
-| 2 | 0% | 77% |  |
-| 3 | 23% | 77% |  |
-| 4 | 52% | 54% | Median |
-| 5 | 1.5% | 2% |  |
-| 6 | 0.8% | 0.8% |  |
+| 0 | 27% | 100% | Last Result |
+| 1 | 0% | 73% |  |
+| 2 | 0% | 73% |  |
+| 3 | 15% | 73% |  |
+| 4 | 56% | 58% | Median |
+| 5 | 1.1% | 2% |  |
+| 6 | 0.5% | 0.5% |  |
 | 7 | 0% | 0% |  |
 
 

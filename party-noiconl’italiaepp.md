@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.3% | 0.7–2.0% | 0.6–2.1% | 0.5–2.2% | 0.4–2.5% |
+| N/A | [Poll Average](average.html) | 1.6% | 0.6–2.5% | 0.6–2.8% | 0.5–3.0% | 0.4–3.5% |
 | [19–21 March 2018](2018-03-21-SWG.html) | SWG | 0.8% | 0.6–1.1% | 0.5–1.2% | 0.5–1.3% | 0.4–1.5% |
 | [20 March 2018](2018-03-20-Tecnè.html) | Tecnè <br> Canale 5 | 0.0% | N/A | N/A | N/A | N/A |
 | [19 March 2018](2018-03-19-Piepoli.html) | Piepoli | 1.0% | 0.6–1.8% | 0.5–2.1% | 0.4–2.3% | 0.3–2.8% |
@@ -19,14 +19,14 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [12–15 March 2018](2018-03-15-DemosPi.html) | Demos & Pi <br> La Repubblica | 0.0% | N/A | N/A | N/A | N/A |
 | [12–14 March 2018](2018-03-14-SWG.html) | SWG <br> Il Messaggero | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [12–16 February 2018](2018-02-16-TermometroPolitico.html) | Termometro Politico | 1.8% | 1.6–2.1% | 1.5–2.2% | 1.4–2.2% | 1.3–2.4% |
-| [14–15 February 2018](2018-02-15-Demopolis.html) | Demopolis | 2.3% | N/A | N/A | N/A | N/A |
-| [12–14 February 2018](2018-02-14-SWG.html) | SWG | 2.2% | N/A | N/A | N/A | N/A |
-| [13–14 February 2018](2018-02-14-Piepoli.html) | Piepoli | 3.0% | N/A | N/A | N/A | N/A |
-| [12–14 February 2018](2018-02-14-Ixè.html) | Ixè <br> Huffington Post | 1.8% | N/A | N/A | N/A | N/A |
-| [12–14 February 2018](2018-02-14-Index.html) | Index | 2.4% | N/A | N/A | N/A | N/A |
-| [14 February 2018](2018-02-14-Euromedia.html) | Euromedia | 2.2% | N/A | N/A | N/A | N/A |
+| [14–15 February 2018](2018-02-15-Demopolis.html) | Demopolis | 2.3% | 1.9–2.8% | 1.8–2.9% | 1.7–3.1% | 1.6–3.3% |
+| [12–14 February 2018](2018-02-14-SWG.html) | SWG | 2.2% | 1.8–2.7% | 1.7–2.8% | 1.6–2.9% | 1.5–3.2% |
+| [13–14 February 2018](2018-02-14-Piepoli.html) | Piepoli | 3.0% | 2.2–4.2% | 2.0–4.5% | 1.8–4.8% | 1.5–5.5% |
+| [12–14 February 2018](2018-02-14-Ixè.html) | Ixè <br> Huffington Post | 1.8% | 1.4–2.5% | 1.2–2.7% | 1.1–2.8% | 1.0–3.2% |
+| [12–14 February 2018](2018-02-14-Index.html) | Index | 2.4% | 1.8–3.2% | 1.6–3.5% | 1.5–3.7% | 1.3–4.1% |
+| [14 February 2018](2018-02-14-Euromedia.html) | Euromedia | 2.2% | 1.7–3.1% | 1.6–3.3% | 1.4–3.5% | 1.2–4.0% |
 | [12–14 February 2018](2018-02-14-DemosPi.html) | Demos & Pi <br> La Repubblica | 0.0% | N/A | N/A | N/A | N/A |
-| [5–14 February 2018](2018-02-14-Demetra.html) | Demetra | 0.6% | N/A | N/A | N/A | N/A |
+| [5–14 February 2018](2018-02-14-Demetra.html) | Demetra | 0.6% | 0.5–0.8% | 0.5–0.8% | 0.4–0.9% | 0.4–0.9% |
 | [12–13 February 2018](2018-02-13-Tecnè.html) | Tecnè | 2.9% | N/A | N/A | N/A | N/A |
 | [12 February 2018](2018-02-12-Euromedia.html) | Euromedia | 2.2% | N/A | N/A | N/A | N/A |
 | [8–12 February 2018](2018-02-12-Bidimedia.html) | Bidimedia | 2.5% | N/A | N/A | N/A | N/A |
@@ -43,11 +43,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 3% | 100% | Last Result |
-| 0.5–1.5% | 62% | 97% | Median |
-| 1.5–2.5% | 35% | 35% |  |
-| 2.5–3.5% | 0.5% | 0.5% |  |
-| 3.5–4.5% | 0% | 0% |  |
+| 0.0–0.5% | 5% | 100% | Last Result |
+| 0.5–1.5% | 43% | 95% |  |
+| 1.5–2.5% | 42% | 52% | Median |
+| 2.5–3.5% | 9% | 10% |  |
+| 3.5–4.5% | 0.5% | 0.5% |  |
+| 4.5–5.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -67,12 +68,12 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [12–15 March 2018](2018-03-15-DemosPi.html) | Demos & Pi <br> La Repubblica |  |  |  |  |  |
 | [12–14 March 2018](2018-03-14-SWG.html) | SWG <br> Il Messaggero | 0 | 0 | 0 | 0 | 0 |
 | [12–16 February 2018](2018-02-16-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
-| [14–15 February 2018](2018-02-15-Demopolis.html) | Demopolis |  |  |  |  |  |
-| [12–14 February 2018](2018-02-14-SWG.html) | SWG |  |  |  |  |  |
-| [13–14 February 2018](2018-02-14-Piepoli.html) | Piepoli |  |  |  |  |  |
-| [12–14 February 2018](2018-02-14-Ixè.html) | Ixè <br> Huffington Post |  |  |  |  |  |
-| [12–14 February 2018](2018-02-14-Index.html) | Index |  |  |  |  |  |
-| [14 February 2018](2018-02-14-Euromedia.html) | Euromedia |  |  |  |  |  |
+| [14–15 February 2018](2018-02-15-Demopolis.html) | Demopolis | 0 | 0 | 0 | 0 | 0 |
+| [12–14 February 2018](2018-02-14-SWG.html) | SWG | 0 | 0 | 0 | 0 | 0 |
+| [13–14 February 2018](2018-02-14-Piepoli.html) | Piepoli | 3 | 3 | 3 | 0–3 | 0–5 |
+| [12–14 February 2018](2018-02-14-Ixè.html) | Ixè <br> Huffington Post | 0 | 0 | 0 | 0 | 0 |
+| [12–14 February 2018](2018-02-14-Index.html) | Index | 0 | 0 | 0 | 0 | 0 |
+| [14 February 2018](2018-02-14-Euromedia.html) | Euromedia | 0 | 0 | 0 | 0 | 0 |
 | [12–14 February 2018](2018-02-14-DemosPi.html) | Demos & Pi <br> La Repubblica |  |  |  |  |  |
 | [5–14 February 2018](2018-02-14-Demetra.html) | Demetra |  |  |  |  |  |
 | [12–13 February 2018](2018-02-13-Tecnè.html) | Tecnè |  |  |  |  |  |

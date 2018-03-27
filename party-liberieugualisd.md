@@ -49,7 +49,7 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 15% | 89% |  |
 | 3.5–4.5% | 15% | 74% |  |
 | 4.5–5.5% | 32% | 58% | Median |
-| 5.5–6.5% | 20% | 26% |  |
+| 5.5–6.5% | 21% | 26% |  |
 | 6.5–7.5% | 5% | 5% |  |
 | 7.5–8.5% | 0.6% | 0.6% |  |
 | 8.5–9.5% | 0% | 0% |  |
@@ -63,7 +63,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 0–5 | 0–5 | 0–6 | 0–6 |
+| N/A | [Poll Average](average.html) | 4 | 0–6 | 0–6 | 0–6 | 0–6 |
 | [19–21 March 2018](2018-03-21-SWG.html) | SWG | 0 | 0 | 0 | 0 | 0 |
 | [20 March 2018](2018-03-20-Tecnè.html) | Tecnè <br> Canale 5 | 0 | 0 | 0 | 0 | 0–3 |
 | [19 March 2018](2018-03-19-Piepoli.html) | Piepoli | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
@@ -72,13 +72,13 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [12–15 March 2018](2018-03-15-DemosPi.html) | Demos & Pi <br> La Repubblica | 4 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [12–14 March 2018](2018-03-14-SWG.html) | SWG <br> Il Messaggero | 0 | 0 | 0 | 0 | 0 |
 | [12–16 February 2018](2018-02-16-TermometroPolitico.html) | Termometro Politico | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [14–15 February 2018](2018-02-15-Demopolis.html) | Demopolis | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
-| [12–14 February 2018](2018-02-14-SWG.html) | SWG | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
-| [13–14 February 2018](2018-02-14-Piepoli.html) | Piepoli | 5 | 4–6 | 4–6 | 4–7 | 0–7 |
-| [12–14 February 2018](2018-02-14-Ixè.html) | Ixè <br> Huffington Post | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
-| [12–14 February 2018](2018-02-14-Index.html) | Index | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
-| [14 February 2018](2018-02-14-Euromedia.html) | Euromedia | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
-| [12–14 February 2018](2018-02-14-DemosPi.html) | Demos & Pi <br> La Repubblica | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
+| [14–15 February 2018](2018-02-15-Demopolis.html) | Demopolis | 5 | 5 | 5 | 5 | 4–5 |
+| [12–14 February 2018](2018-02-14-SWG.html) | SWG | 6 | 6 | 6 | 5–6 | 5–6 |
+| [13–14 February 2018](2018-02-14-Piepoli.html) | Piepoli | 6 | 6 | 6 | 4–6 | 0–7 |
+| [12–14 February 2018](2018-02-14-Ixè.html) | Ixè <br> Huffington Post | 6 | 6 | 5–6 | 5–6 | 5–6 |
+| [12–14 February 2018](2018-02-14-Index.html) | Index | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
+| [14 February 2018](2018-02-14-Euromedia.html) | Euromedia | 4 | 4–6 | 4–6 | 4–6 | 0–6 |
+| [12–14 February 2018](2018-02-14-DemosPi.html) | Demos & Pi <br> La Repubblica | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
 | [5–14 February 2018](2018-02-14-Demetra.html) | Demetra | 4 | 4 | 4–5 | 4–5 | 4–5 |
 | [12–13 February 2018](2018-02-13-Tecnè.html) | Tecnè | 4 | 4–5 | 3–5 | 3–6 | 0–6 |
 | [12 February 2018](2018-02-12-Euromedia.html) | Euromedia | 5 | 4–6 | 4–6 | 3–7 | 3–7 |
@@ -102,10 +102,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 69% |  |
 | 2 | 0% | 69% |  |
 | 3 | 3% | 69% |  |
-| 4 | 36% | 66% | Median |
-| 5 | 26% | 30% |  |
-| 6 | 4% | 4% |  |
-| 7 | 0.3% | 0.3% |  |
-| 8 | 0% | 0% |  |
+| 4 | 32% | 66% | Median |
+| 5 | 23% | 34% |  |
+| 6 | 11% | 11% |  |
+| 7 | 0% | 0% |  |
 
 
