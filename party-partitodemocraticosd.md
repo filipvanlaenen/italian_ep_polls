@@ -30,7 +30,7 @@ Last result: **40.8%** (General Election of 25 May 2014)
 | [12–13 February 2018](2018-02-13-Tecnè.html) | Tecnè | 21.8% | 20.2–23.5% | 19.7–24.0% | 19.3–24.4% | 18.6–25.3% |
 | [12 February 2018](2018-02-12-Euromedia.html) | Euromedia | 22.4% | 20.6–24.4% | 20.1–24.9% | 19.6–25.4% | 18.8–26.4% |
 | [8–12 February 2018](2018-02-12-Bidimedia.html) | Bidimedia | 24.4% | 22.9–26.0% | 22.5–26.4% | 22.1–26.8% | 21.4–27.6% |
-| [8–11 February 2018](2018-02-11-LorienConsulting.html) | Lorien Consulting | 23.6% | 21.9–25.4% | 21.4–25.9% | 21.0–26.3% | 20.3–27.2% |
+| [8–11 February 2018](2018-02-11-LorienConsulting.html) | Lorien Consulting | 23.6% | 21.9–25.4% | 21.5–25.9% | 21.1–26.3% | 20.3–27.2% |
 | [9–11 February 2018](2018-02-11-EMG.html) | EMG <br> TG LA7 | 22.8% | 21.5–24.2% | 21.1–24.6% | 20.8–24.9% | 20.2–25.6% |
 | [3–8 February 2018](2018-02-08-TermometroPolitico.html) | Termometro Politico | 21.9% | 21.0–22.8% | 20.8–23.1% | 20.6–23.3% | 20.1–23.8% |
 | [8 February 2018](2018-02-08-Index.html) | Index | 23.5% | 21.7–25.5% | 21.1–26.1% | 20.7–26.6% | 19.8–27.6% |
@@ -82,7 +82,7 @@ Last result: **31** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 13–19 | 12–21 | 11–21 | 11–21 |
+| N/A | [Poll Average](average.html) | 17 | 13–21 | 12–21 | 11–22 | 11–23 |
 | [19–21 March 2018](2018-03-21-SWG.html) | SWG | 15 | 14–15 | 14–15 | 14–15 | 14–15 |
 | [20 March 2018](2018-03-20-Tecnè.html) | Tecnè <br> Canale 5 | 15 | 14–15 | 14–15 | 14–15 | 13–17 |
 | [19 March 2018](2018-03-19-Piepoli.html) | Piepoli | 13 | 12–13 | 11–13 | 11–13 | 11–16 |
@@ -98,16 +98,16 @@ Last result: **31** seats (General Election of 25 May 2014)
 | [12–14 February 2018](2018-02-14-Index.html) | Index | 19 | 19 | 18–19 | 18–19 | 16–19 |
 | [14 February 2018](2018-02-14-Euromedia.html) | Euromedia | 16 | 16–21 | 16–21 | 16–21 | 15–21 |
 | [12–14 February 2018](2018-02-14-DemosPi.html) | Demos & Pi <br> La Repubblica | 18 | 14–18 | 14–18 | 14–18 | 14–19 |
-| [5–14 February 2018](2018-02-14-Demetra.html) | Demetra | 18 | 18–19 | 18–19 | 17–19 | 17–20 |
+| [5–14 February 2018](2018-02-14-Demetra.html) | Demetra | 19 | 18–19 | 18–19 | 18–19 | 18–19 |
 | [12–13 February 2018](2018-02-13-Tecnè.html) | Tecnè | 18 | 18–20 | 17–20 | 17–20 | 15–20 |
 | [12 February 2018](2018-02-12-Euromedia.html) | Euromedia | 15 | 15 | 15 | 15 | 15–18 |
 | [8–12 February 2018](2018-02-12-Bidimedia.html) | Bidimedia | 21 | 21 | 21 | 21–22 | 21–22 |
-| [8–11 February 2018](2018-02-11-LorienConsulting.html) | Lorien Consulting | 19 | 16–20 | 16–21 | 16–21 | 15–22 |
-| [9–11 February 2018](2018-02-11-EMG.html) | EMG <br> TG LA7 | 19 | 18–19 | 17–19 | 17–20 | 16–21 |
-| [3–8 February 2018](2018-02-08-TermometroPolitico.html) | Termometro Politico | 17 | 17–19 | 16–19 | 16–19 | 16–19 |
-| [8 February 2018](2018-02-08-Index.html) | Index | 18 | 17–20 | 17–20 | 16–21 | 16–22 |
-| [6–7 February 2018](2018-02-07-Tecnè.html) | Tecnè | 17 | 16–19 | 15–19 | 15–19 | 14–20 |
-| [5–7 February 2018](2018-02-07-SWG.html) | SWG | 18 | 17–19 | 17–20 | 17–20 | 16–21 |
+| [8–11 February 2018](2018-02-11-LorienConsulting.html) | Lorien Consulting | 18 | 17–23 | 15–24 | 15–24 | 15–24 |
+| [9–11 February 2018](2018-02-11-EMG.html) | EMG <br> TG LA7 | 18 | 15–18 | 15–18 | 15–19 | 15–19 |
+| [3–8 February 2018](2018-02-08-TermometroPolitico.html) | Termometro Politico | 18 | 16–18 | 16–18 | 16–18 | 16–18 |
+| [8 February 2018](2018-02-08-Index.html) | Index | 18 | 18 | 18 | 18 | 17–20 |
+| [6–7 February 2018](2018-02-07-Tecnè.html) | Tecnè | 16 | 15–18 | 15–18 | 15–19 | 14–20 |
+| [5–7 February 2018](2018-02-07-SWG.html) | SWG | 18 | 18 | 18 | 18 | 17–19 |
 
 ### Probability Mass Function
 
@@ -121,17 +121,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 5% | 99.9% |  |
 | 12 | 4% | 95% |  |
 | 13 | 6% | 92% |  |
-| 14 | 10% | 85% |  |
-| 15 | 10% | 75% |  |
-| 16 | 6% | 65% |  |
-| 17 | 10% | 59% | Median |
-| 18 | 23% | 49% |  |
-| 19 | 16% | 26% |  |
-| 20 | 0.7% | 10% |  |
-| 21 | 9% | 9% |  |
-| 22 | 0.3% | 0.3% |  |
-| 23 | 0% | 0% |  |
-| 24 | 0% | 0% |  |
+| 14 | 11% | 85% |  |
+| 15 | 11% | 75% |  |
+| 16 | 4% | 63% |  |
+| 17 | 12% | 60% | Median |
+| 18 | 22% | 47% |  |
+| 19 | 14% | 25% |  |
+| 20 | 0.1% | 11% |  |
+| 21 | 8% | 11% |  |
+| 22 | 0.4% | 3% |  |
+| 23 | 2% | 2% |  |
+| 24 | 0.5% | 0.5% |  |
 | 25 | 0% | 0% |  |
 | 26 | 0% | 0% |  |
 | 27 | 0% | 0% |  |
