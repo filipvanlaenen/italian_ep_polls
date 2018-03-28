@@ -73,7 +73,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 9–16 | 9–18 | 9–18 | 8–18 |
+| N/A | [Poll Average](average.html) | 13 | 10–16 | 9–18 | 9–18 | 9–18 |
 | [19–21 March 2018](2018-03-21-SWG.html) | SWG | 18 | 16–18 | 16–18 | 16–18 | 16–18 |
 | [20 March 2018](2018-03-20-Tecnè.html) | Tecnè <br> Canale 5 | 13 | 13–17 | 13–17 | 13–18 | 13–18 |
 | [19 March 2018](2018-03-19-Piepoli.html) | Piepoli | 12 | 12–15 | 12–15 | 12–15 | 11–15 |
@@ -93,7 +93,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [12–13 February 2018](2018-02-13-Tecnè.html) | Tecnè | 11 | 10–12 | 10–12 | 9–14 | 9–14 |
 | [12 February 2018](2018-02-12-Euromedia.html) | Euromedia | 12 | 12 | 12 | 12 | 11–12 |
 | [8–12 February 2018](2018-02-12-Bidimedia.html) | Bidimedia | 14 | 14 | 14 | 11–14 | 11–14 |
-| [8–11 February 2018](2018-02-11-LorienConsulting.html) | Lorien Consulting | 9 | 8–11 | 8–13 | 8–15 | 8–15 |
+| [8–11 February 2018](2018-02-11-LorienConsulting.html) | Lorien Consulting | 10 | 9–11 | 9–11 | 9–12 | 9–12 |
 | [9–11 February 2018](2018-02-11-EMG.html) | EMG <br> TG LA7 | 12 | 11–12 | 11–12 | 11–12 | 11–12 |
 | [3–8 February 2018](2018-02-08-TermometroPolitico.html) | Termometro Politico | 12 | 12 | 12 | 12–13 | 12–14 |
 | [8 February 2018](2018-02-08-Index.html) | Index | 11 | 11 | 11 | 11–12 | 9–14 |
@@ -111,14 +111,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% | Last Result |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 2% | 100% |  |
-| 9 | 11% | 98% |  |
-| 10 | 1.0% | 86% |  |
-| 11 | 3% | 85% |  |
+| 8 | 0.1% | 100% |  |
+| 9 | 8% | 99.9% |  |
+| 10 | 4% | 92% |  |
+| 11 | 6% | 88% |  |
 | 12 | 18% | 82% |  |
-| 13 | 23% | 64% | Median |
+| 13 | 22% | 63% | Median |
 | 14 | 20% | 41% |  |
-| 15 | 9% | 22% |  |
+| 15 | 9% | 21% |  |
 | 16 | 6% | 13% |  |
 | 17 | 0.9% | 6% |  |
 | 18 | 5% | 5% |  |
