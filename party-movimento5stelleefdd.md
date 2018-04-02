@@ -84,16 +84,16 @@ Last result: **17** seats (General Election of 25 May 2014)
 | [12–16 February 2018](2018-02-16-TermometroPolitico.html) | Termometro Politico | 22 | 22 | 22–24 | 22–24 | 22–24 |
 | [14–15 February 2018](2018-02-15-Demopolis.html) | Demopolis | 23 | 23 | 23 | 23 | 23 |
 | [12–14 February 2018](2018-02-14-SWG.html) | SWG | 24 | 24 | 24 | 22–24 | 21–24 |
-| [13–14 February 2018](2018-02-14-Piepoli.html) | Piepoli | 19 | 19 | 19–20 | 19–22 | 16–24 |
+| [13–14 February 2018](2018-02-14-Piepoli.html) | Piepoli | 20 | 19–23 | 19–25 | 19–25 | 18–25 |
 | [12–14 February 2018](2018-02-14-Ixè.html) | Ixè <br> Huffington Post | 24 | 24 | 21–24 | 21–24 | 21–28 |
 | [12–14 February 2018](2018-02-14-Index.html) | Index | 21 | 21 | 21–22 | 21–23 | 21–24 |
-| [14 February 2018](2018-02-14-Euromedia.html) | Euromedia | 23 | 22–23 | 22–24 | 22–26 | 21–28 |
+| [14 February 2018](2018-02-14-Euromedia.html) | Euromedia | 24 | 21–24 | 21–24 | 21–24 | 20–25 |
 | [12–14 February 2018](2018-02-14-DemosPi.html) | Demos & Pi <br> La Repubblica | 21 | 21–23 | 21–23 | 20–23 | 20–23 |
 | [5–14 February 2018](2018-02-14-Demetra.html) | Demetra | 23 | 23–25 | 23–25 | 23–25 | 23–25 |
 | [12–13 February 2018](2018-02-13-Tecnè.html) | Tecnè | 21 | 21–24 | 21–24 | 21–24 | 20–27 |
 | [12 February 2018](2018-02-12-Euromedia.html) | Euromedia | 22 | 22 | 22 | 22 | 22 |
 | [8–12 February 2018](2018-02-12-Bidimedia.html) | Bidimedia | 24 | 24 | 24 | 24–26 | 24–26 |
-| [8–11 February 2018](2018-02-11-LorienConsulting.html) | Lorien Consulting | 24 | 22–25 | 21–25 | 21–26 | 20–26 |
+| [8–11 February 2018](2018-02-11-LorienConsulting.html) | Lorien Consulting | 23 | 21–25 | 21–26 | 20–26 | 20–27 |
 | [9–11 February 2018](2018-02-11-EMG.html) | EMG <br> TG LA7 | 23 | 23–24 | 23–24 | 23–24 | 23–24 |
 | [3–8 February 2018](2018-02-08-TermometroPolitico.html) | Termometro Politico | 22 | 22–23 | 22–23 | 22–23 | 22–23 |
 | [8 February 2018](2018-02-08-Index.html) | Index | 22 | 22 | 22 | 21–22 | 21–22 |
@@ -111,12 +111,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 0% | 100% | Last Result |
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
-| 20 | 0.1% | 100% |  |
-| 21 | 8% | 99.9% |  |
-| 22 | 7% | 92% |  |
+| 20 | 0.3% | 100% |  |
+| 21 | 8% | 99.6% |  |
+| 22 | 8% | 91% |  |
 | 23 | 24% | 84% |  |
-| 24 | 18% | 61% | Median |
-| 25 | 8% | 42% |  |
+| 24 | 18% | 60% | Median |
+| 25 | 7% | 42% |  |
 | 26 | 3% | 35% |  |
 | 27 | 12% | 32% |  |
 | 28 | 4% | 20% |  |
