@@ -76,7 +76,7 @@ Last result: **17** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 24 | 22–30 | 21–31 | 21–31 | 21–31 |
 | [19–21 March 2018](2018-03-21-SWG.html) | SWG | 31 | 30–31 | 30–31 | 30–31 | 29–31 |
 | [20 March 2018](2018-03-20-Tecnè.html) | Tecnè <br> Canale 5 | 30 | 29–31 | 29–31 | 27–31 | 23–31 |
-| [19 March 2018](2018-03-19-Piepoli.html) | Piepoli | 27 | 26–27 | 26–28 | 26–29 | 23–29 |
+| [19 March 2018](2018-03-19-Piepoli.html) | Piepoli | 27 | 25–30 | 24–30 | 24–31 | 23–32 |
 | [19 March 2018](2018-03-19-Euromedia.html) | Euromedia | 27 | 25–28 | 25–28 | 25–28 | 25–31 |
 | [15 March 2018](2018-03-15-Piepoli.html) | Piepoli <br> La Stampa | 27 | 27–28 | 27–28 | 27–28 | 25–30 |
 | [12–15 March 2018](2018-03-15-DemosPi.html) | Demos & Pi <br> La Repubblica | 27 | 25–28 | 25–28 | 25–29 | 24–30 |
@@ -85,10 +85,10 @@ Last result: **17** seats (General Election of 25 May 2014)
 | [14–15 February 2018](2018-02-15-Demopolis.html) | Demopolis | 23 | 23 | 23 | 23 | 23 |
 | [12–14 February 2018](2018-02-14-SWG.html) | SWG | 24 | 24 | 24 | 22–24 | 21–24 |
 | [13–14 February 2018](2018-02-14-Piepoli.html) | Piepoli | 20 | 19–23 | 19–25 | 19–25 | 18–25 |
-| [12–14 February 2018](2018-02-14-Ixè.html) | Ixè <br> Huffington Post | 24 | 24 | 21–24 | 21–24 | 21–28 |
+| [12–14 February 2018](2018-02-14-Ixè.html) | Ixè <br> Huffington Post | 24 | 21–25 | 21–26 | 21–27 | 21–28 |
 | [12–14 February 2018](2018-02-14-Index.html) | Index | 21 | 21 | 21–22 | 21–23 | 21–24 |
 | [14 February 2018](2018-02-14-Euromedia.html) | Euromedia | 24 | 21–24 | 21–24 | 21–24 | 20–25 |
-| [12–14 February 2018](2018-02-14-DemosPi.html) | Demos & Pi <br> La Repubblica | 21 | 21–23 | 21–23 | 20–23 | 20–23 |
+| [12–14 February 2018](2018-02-14-DemosPi.html) | Demos & Pi <br> La Repubblica | 22 | 20–23 | 20–24 | 19–24 | 19–25 |
 | [5–14 February 2018](2018-02-14-Demetra.html) | Demetra | 23 | 23–25 | 23–25 | 23–25 | 23–25 |
 | [12–13 February 2018](2018-02-13-Tecnè.html) | Tecnè | 24 | 22–25 | 21–25 | 21–26 | 20–27 |
 | [12 February 2018](2018-02-12-Euromedia.html) | Euromedia | 22 | 22 | 22 | 22 | 22 |
@@ -111,18 +111,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 0% | 100% | Last Result |
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
-| 20 | 0.3% | 100% |  |
-| 21 | 8% | 99.6% |  |
-| 22 | 8% | 91% |  |
-| 23 | 24% | 84% |  |
-| 24 | 18% | 60% | Median |
-| 25 | 7% | 42% |  |
-| 26 | 3% | 35% |  |
-| 27 | 12% | 32% |  |
-| 28 | 4% | 20% |  |
-| 29 | 1.3% | 16% |  |
-| 30 | 7% | 14% |  |
+| 20 | 0.4% | 100% |  |
+| 21 | 9% | 99.6% |  |
+| 22 | 8% | 90% |  |
+| 23 | 25% | 82% |  |
+| 24 | 14% | 57% | Median |
+| 25 | 9% | 43% |  |
+| 26 | 3% | 34% |  |
+| 27 | 8% | 31% |  |
+| 28 | 6% | 23% |  |
+| 29 | 2% | 17% |  |
+| 30 | 8% | 15% |  |
 | 31 | 7% | 7% |  |
-| 32 | 0% | 0% |  |
+| 32 | 0.1% | 0.1% |  |
+| 33 | 0% | 0% |  |
 
 
