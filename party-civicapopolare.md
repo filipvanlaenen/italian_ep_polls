@@ -10,8 +10,13 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.0% | 0.6–1.7% | 0.5–1.9% | 0.5–2.1% | 0.4–2.5% |
+| N/A | [Poll Average](average.html) | 1.0% | 0.6–1.6% | 0.5–1.9% | 0.5–2.1% | 0.4–2.5% |
+| [26–28 March 2018](2018-03-28-SWG.html) | SWG | 0.0% | N/A | N/A | N/A | N/A |
+| [27–28 March 2018](2018-03-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.0% | N/A | N/A | N/A | N/A |
+| [28 March 2018](2018-03-28-IndexResearch.html) | Index Research <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
+| [21–25 March 2018](2018-03-25-Bidimedia.html) | Bidimedia | 0.0% | N/A | N/A | N/A | N/A |
 | [19–21 March 2018](2018-03-21-SWG.html) | SWG | 0.0% | N/A | N/A | N/A | N/A |
+| [21 March 2018](2018-03-21-IndexResearch.html) | Index Research <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
 | [20 March 2018](2018-03-20-Tecnè.html) | Tecnè <br> Canale 5 | 0.0% | N/A | N/A | N/A | N/A |
 | [19 March 2018](2018-03-19-Piepoli.html) | Piepoli | 0.0% | N/A | N/A | N/A | N/A |
 | [19 March 2018](2018-03-19-Euromedia.html) | Euromedia | 0.0% | N/A | N/A | N/A | N/A |
@@ -43,10 +48,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 6% | 100% | Last Result |
-| 0.5–1.5% | 79% | 94% | Median |
-| 1.5–2.5% | 15% | 16% |  |
-| 2.5–3.5% | 0.3% | 0.3% |  |
+| 0.0–0.5% | 7% | 100% | Last Result |
+| 0.5–1.5% | 81% | 93% | Median |
+| 1.5–2.5% | 12% | 13% |  |
+| 2.5–3.5% | 0.4% | 0.4% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -59,7 +64,12 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [26–28 March 2018](2018-03-28-SWG.html) | SWG |  |  |  |  |  |
+| [27–28 March 2018](2018-03-28-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
+| [28 March 2018](2018-03-28-IndexResearch.html) | Index Research <br> LA7 |  |  |  |  |  |
+| [21–25 March 2018](2018-03-25-Bidimedia.html) | Bidimedia |  |  |  |  |  |
 | [19–21 March 2018](2018-03-21-SWG.html) | SWG |  |  |  |  |  |
+| [21 March 2018](2018-03-21-IndexResearch.html) | Index Research <br> LA7 |  |  |  |  |  |
 | [20 March 2018](2018-03-20-Tecnè.html) | Tecnè <br> Canale 5 |  |  |  |  |  |
 | [19 March 2018](2018-03-19-Piepoli.html) | Piepoli |  |  |  |  |  |
 | [19 March 2018](2018-03-19-Euromedia.html) | Euromedia |  |  |  |  |  |
