@@ -81,11 +81,11 @@ Last result: **5** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 10–18 | 9–19 | 9–19 | 8–19 |
+| N/A | [Poll Average](average.html) | 14 | 10–18 | 9–18 | 9–19 | 8–21 |
 | [26–28 March 2018](2018-03-28-SWG.html) | SWG | 18 | 18 | 18 | 17–18 | 15–18 |
 | [27–28 March 2018](2018-03-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 18 | 17–18 | 15–18 | 15–18 | 14–18 |
-| [28 March 2018](2018-03-28-IndexResearch.html) | Index Research <br> LA7 | 18 | 18–19 | 17–19 | 17–23 | 17–23 |
-| [21–25 March 2018](2018-03-25-Bidimedia.html) | Bidimedia | 19 | 19 | 19 | 19 | 14–19 |
+| [28 March 2018](2018-03-28-IndexResearch.html) | Index Research <br> LA7 | 19 | 17–20 | 17–21 | 16–21 | 16–22 |
+| [21–25 March 2018](2018-03-25-Bidimedia.html) | Bidimedia | 17 | 15–18 | 15–19 | 14–19 | 14–20 |
 | [19–21 March 2018](2018-03-21-SWG.html) | SWG | 18 | 16–18 | 16–18 | 16–18 | 16–18 |
 | [21 March 2018](2018-03-21-IndexResearch.html) | Index Research <br> LA7 | 19 | 18–19 | 18–19 | 18–19 | 18–21 |
 | [20 March 2018](2018-03-20-Tecnè.html) | Tecnè <br> Canale 5 | 13 | 13–17 | 13–17 | 13–18 | 13–18 |
@@ -131,15 +131,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 12% | 85% |  |
 | 13 | 20% | 73% |  |
 | 14 | 12% | 53% | Median |
-| 15 | 9% | 41% |  |
-| 16 | 5% | 32% |  |
-| 17 | 3% | 27% |  |
-| 18 | 17% | 24% |  |
-| 19 | 7% | 8% |  |
-| 20 | 0% | 0.2% |  |
-| 21 | 0% | 0.2% |  |
-| 22 | 0% | 0.2% |  |
-| 23 | 0.2% | 0.2% |  |
-| 24 | 0% | 0% |  |
+| 15 | 10% | 41% |  |
+| 16 | 7% | 31% |  |
+| 17 | 5% | 24% |  |
+| 18 | 15% | 19% |  |
+| 19 | 2% | 4% |  |
+| 20 | 1.4% | 2% |  |
+| 21 | 0.5% | 0.6% |  |
+| 22 | 0.1% | 0.1% |  |
+| 23 | 0% | 0% |  |
 
 

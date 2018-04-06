@@ -78,11 +78,11 @@ Last result: **17** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25 | 22–28 | 21–30 | 21–31 | 21–31 |
+| N/A | [Poll Average](average.html) | 25 | 22–29 | 21–30 | 21–31 | 21–32 |
 | [26–28 March 2018](2018-03-28-SWG.html) | SWG | 28 | 28 | 28 | 28–29 | 28–30 |
 | [27–28 March 2018](2018-03-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 28 | 27–28 | 27–28 | 27–28 | 27–28 |
-| [28 March 2018](2018-03-28-IndexResearch.html) | Index Research <br> LA7 | 27 | 27–28 | 27–31 | 25–31 | 24–31 |
-| [21–25 March 2018](2018-03-25-Bidimedia.html) | Bidimedia | 27 | 27 | 27 | 27 | 27–29 |
+| [28 March 2018](2018-03-28-IndexResearch.html) | Index Research <br> LA7 | 28 | 26–29 | 25–30 | 25–30 | 24–31 |
+| [21–25 March 2018](2018-03-25-Bidimedia.html) | Bidimedia | 28 | 26–31 | 26–32 | 26–32 | 24–33 |
 | [19–21 March 2018](2018-03-21-SWG.html) | SWG | 31 | 30–31 | 30–31 | 30–31 | 29–31 |
 | [21 March 2018](2018-03-21-IndexResearch.html) | Index Research <br> LA7 | 28 | 28 | 28–29 | 28–29 | 26–30 |
 | [20 March 2018](2018-03-20-Tecnè.html) | Tecnè <br> Canale 5 | 30 | 29–31 | 29–31 | 27–31 | 23–31 |
@@ -127,13 +127,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 23 | 22% | 85% |  |
 | 24 | 6% | 63% |  |
 | 25 | 8% | 57% | Median |
-| 26 | 3% | 49% |  |
-| 27 | 20% | 47% |  |
-| 28 | 17% | 27% |  |
-| 29 | 2% | 9% |  |
-| 30 | 5% | 7% |  |
-| 31 | 2% | 3% |  |
-| 32 | 0.1% | 0.1% |  |
-| 33 | 0% | 0% |  |
+| 26 | 4% | 49% |  |
+| 27 | 11% | 45% |  |
+| 28 | 21% | 34% |  |
+| 29 | 5% | 13% |  |
+| 30 | 5% | 8% |  |
+| 31 | 3% | 3% |  |
+| 32 | 0.4% | 0.5% |  |
+| 33 | 0.1% | 0.1% |  |
+| 34 | 0% | 0% |  |
 
 

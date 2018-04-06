@@ -87,11 +87,11 @@ Last result: **31** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 12–19 | 12–19 | 11–19 | 11–21 |
+| N/A | [Poll Average](average.html) | 16 | 13–19 | 12–19 | 11–19 | 11–21 |
 | [26–28 March 2018](2018-03-28-SWG.html) | SWG | 14 | 14 | 14 | 14–15 | 13–15 |
 | [27–28 March 2018](2018-03-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 14 | 13–15 | 13–15 | 13–15 | 13–16 |
-| [28 March 2018](2018-03-28-IndexResearch.html) | Index Research <br> LA7 | 12 | 12 | 12 | 12–15 | 12–16 |
-| [21–25 March 2018](2018-03-25-Bidimedia.html) | Bidimedia | 14 | 14 | 14 | 14 | 13–14 |
+| [28 March 2018](2018-03-28-IndexResearch.html) | Index Research <br> LA7 | 13 | 12–15 | 11–15 | 11–15 | 10–16 |
+| [21–25 March 2018](2018-03-25-Bidimedia.html) | Bidimedia | 14 | 13–16 | 12–17 | 12–17 | 11–18 |
 | [19–21 March 2018](2018-03-21-SWG.html) | SWG | 15 | 14–15 | 14–15 | 14–15 | 14–15 |
 | [21 March 2018](2018-03-21-IndexResearch.html) | Index Research <br> LA7 | 12 | 11–12 | 11–13 | 11–13 | 11–13 |
 | [20 March 2018](2018-03-20-Tecnè.html) | Tecnè <br> Canale 5 | 15 | 14–15 | 14–15 | 14–15 | 13–17 |
@@ -127,13 +127,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.1% | 100% |  |
-| 11 | 4% | 99.9% |  |
-| 12 | 9% | 96% |  |
-| 13 | 4% | 87% |  |
-| 14 | 26% | 83% |  |
-| 15 | 8% | 57% | Median |
-| 16 | 6% | 49% |  |
+| 10 | 0.2% | 100% |  |
+| 11 | 4% | 99.8% |  |
+| 12 | 5% | 96% |  |
+| 13 | 8% | 91% |  |
+| 14 | 22% | 83% |  |
+| 15 | 10% | 60% |  |
+| 16 | 7% | 50% | Median |
 | 17 | 5% | 43% |  |
 | 18 | 21% | 38% |  |
 | 19 | 15% | 16% |  |

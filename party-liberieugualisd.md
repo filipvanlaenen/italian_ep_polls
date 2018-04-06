@@ -72,7 +72,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [26–28 March 2018](2018-03-28-SWG.html) | SWG | 0 | 0 | 0 | 0 | 0 |
 | [27–28 March 2018](2018-03-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
 | [28 March 2018](2018-03-28-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0 | 0 | 0 |
-| [21–25 March 2018](2018-03-25-Bidimedia.html) | Bidimedia | 0 | 0 | 0 | 0 | 0–3 |
+| [21–25 March 2018](2018-03-25-Bidimedia.html) | Bidimedia | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [19–21 March 2018](2018-03-21-SWG.html) | SWG | 0 | 0 | 0 | 0 | 0 |
 | [21 March 2018](2018-03-21-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0 | 0 | 0 |
 | [20 March 2018](2018-03-20-Tecnè.html) | Tecnè <br> Canale 5 | 0 | 0 | 0 | 0 | 0–3 |
@@ -112,7 +112,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 55% |  |
 | 2 | 0% | 55% |  |
 | 3 | 3% | 55% |  |
-| 4 | 21% | 52% | Median |
+| 4 | 22% | 53% | Median |
 | 5 | 27% | 31% |  |
 | 6 | 4% | 4% |  |
 | 7 | 0.1% | 0.2% |  |
