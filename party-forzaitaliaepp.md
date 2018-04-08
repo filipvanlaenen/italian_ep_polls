@@ -80,27 +80,27 @@ Last result: **13** seats (General Election of 25 May 2014)
 | [20 March 2018](2018-03-20-Tecnè.html) | Tecnè <br> Canale 5 | 11 | 10–12 | 9–13 | 9–13 | 9–14 |
 | [19 March 2018](2018-03-19-Piepoli.html) | Piepoli | 11 | 10–13 | 9–13 | 9–14 | 8–15 |
 | [19 March 2018](2018-03-19-Euromedia.html) | Euromedia | 11 | 10–12 | 9–13 | 9–13 | 8–14 |
-| [15 March 2018](2018-03-15-Piepoli.html) | Piepoli <br> La Stampa | 10 | 10–11 | 10–11 | 10–11 | 10–13 |
+| [15 March 2018](2018-03-15-Piepoli.html) | Piepoli <br> La Stampa | 12 | 10–13 | 10–13 | 9–14 | 8–15 |
 | [12–15 March 2018](2018-03-15-DemosPi.html) | Demos & Pi <br> La Repubblica | 10 | 9–11 | 9–11 | 9–12 | 8–12 |
 | [12–14 March 2018](2018-03-14-SWG.html) | SWG <br> Il Messaggero | 9 | 8–10 | 8–11 | 8–11 | 7–12 |
 | [12–16 February 2018](2018-02-16-TermometroPolitico.html) | Termometro Politico | 14 | 14 | 12–14 | 12–14 | 12–14 |
-| [14–15 February 2018](2018-02-15-Demopolis.html) | Demopolis | 12 | 12 | 12 | 12 | 12–13 |
-| [12–14 February 2018](2018-02-14-SWG.html) | SWG | 13 | 13 | 13 | 13 | 11–14 |
+| [14–15 February 2018](2018-02-15-Demopolis.html) | Demopolis | 14 | 12–14 | 12–15 | 12–15 | 12–15 |
+| [12–14 February 2018](2018-02-14-SWG.html) | SWG | 13 | 12–14 | 12–14 | 12–14 | 11–14 |
 | [13–14 February 2018](2018-02-14-Piepoli.html) | Piepoli | 14 | 11–16 | 11–16 | 11–16 | 10–16 |
 | [12–14 February 2018](2018-02-14-Ixè.html) | Ixè <br> Huffington Post | 16 | 14–17 | 14–17 | 13–17 | 13–18 |
-| [12–14 February 2018](2018-02-14-Index.html) | Index | 16 | 16 | 15–16 | 13–16 | 12–16 |
+| [12–14 February 2018](2018-02-14-Index.html) | Index | 13 | 12–14 | 12–15 | 12–15 | 11–16 |
 | [14 February 2018](2018-02-14-Euromedia.html) | Euromedia | 14 | 14–15 | 13–16 | 13–16 | 12–17 |
 | [12–14 February 2018](2018-02-14-DemosPi.html) | Demos & Pi <br> La Repubblica | 13 | 11–14 | 11–14 | 11–15 | 10–15 |
-| [5–14 February 2018](2018-02-14-Demetra.html) | Demetra | 13 | 13 | 13 | 12–13 | 12–13 |
+| [5–14 February 2018](2018-02-14-Demetra.html) | Demetra | 12 | 12 | 12–13 | 11–13 | 11–13 |
 | [12–13 February 2018](2018-02-13-Tecnè.html) | Tecnè | 15 | 14–17 | 13–17 | 13–17 | 13–18 |
 | [12 February 2018](2018-02-12-Euromedia.html) | Euromedia | 15 | 13–17 | 13–17 | 13–17 | 12–18 |
-| [8–12 February 2018](2018-02-12-Bidimedia.html) | Bidimedia | 16 | 16 | 16 | 16 | 16 |
+| [8–12 February 2018](2018-02-12-Bidimedia.html) | Bidimedia | 14 | 13–15 | 13–16 | 12–16 | 12–17 |
 | [8–11 February 2018](2018-02-11-LorienConsulting.html) | Lorien Consulting | 15 | 13–16 | 13–16 | 13–17 | 12–18 |
 | [9–11 February 2018](2018-02-11-EMG.html) | EMG <br> TG LA7 | 13 | 13–15 | 13–15 | 13–15 | 12–15 |
 | [3–8 February 2018](2018-02-08-TermometroPolitico.html) | Termometro Politico | 14 | 13–14 | 13–14 | 12–14 | 11–14 |
-| [8 February 2018](2018-02-08-Index.html) | Index | 13 | 13 | 13 | 13 | 11–14 |
+| [8 February 2018](2018-02-08-Index.html) | Index | 14 | 12–15 | 11–15 | 11–15 | 10–16 |
 | [6–7 February 2018](2018-02-07-Tecnè.html) | Tecnè | 14 | 13–15 | 13–15 | 13–16 | 13–16 |
-| [5–7 February 2018](2018-02-07-SWG.html) | SWG | 13 | 13 | 13 | 13 | 13–14 |
+| [5–7 February 2018](2018-02-07-SWG.html) | SWG | 13 | 12–14 | 12–15 | 12–15 | 11–15 |
 
 ### Probability Mass Function
 
