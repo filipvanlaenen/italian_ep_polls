@@ -87,9 +87,9 @@ Last result: **31** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–15 | 12–16 | 12–16 | 11–17 |
+| N/A | [Poll Average](average.html) | 14 | 12–16 | 12–16 | 12–17 | 11–18 |
 | [26–28 March 2018](2018-03-28-SWG.html) | SWG | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
-| [27–28 March 2018](2018-03-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 14 | 13–15 | 13–15 | 13–15 | 13–16 |
+| [27–28 March 2018](2018-03-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 15 | 13–16 | 13–16 | 12–17 | 12–18 |
 | [28 March 2018](2018-03-28-IndexResearch.html) | Index Research <br> LA7 | 13 | 12–15 | 11–15 | 11–15 | 10–16 |
 | [21–25 March 2018](2018-03-25-Bidimedia.html) | Bidimedia | 14 | 13–16 | 12–17 | 12–17 | 11–18 |
 | [19–21 March 2018](2018-03-21-SWG.html) | SWG | 15 | 14–17 | 14–17 | 13–17 | 13–18 |
@@ -110,7 +110,7 @@ Last result: **31** seats (General Election of 25 May 2014)
 | [12–14 February 2018](2018-02-14-DemosPi.html) | Demos & Pi <br> La Repubblica | 16 | 15–17 | 14–18 | 14–18 | 13–19 |
 | [5–14 February 2018](2018-02-14-Demetra.html) | Demetra | 19 | 18–19 | 18–19 | 18–19 | 18–19 |
 | [12–13 February 2018](2018-02-13-Tecnè.html) | Tecnè | 17 | 16–18 | 15–19 | 15–19 | 14–20 |
-| [12 February 2018](2018-02-12-Euromedia.html) | Euromedia | 15 | 15 | 15 | 15 | 15–18 |
+| [12 February 2018](2018-02-12-Euromedia.html) | Euromedia | 17 | 16–20 | 15–20 | 15–20 | 15–21 |
 | [8–12 February 2018](2018-02-12-Bidimedia.html) | Bidimedia | 21 | 21 | 21 | 21–22 | 21–22 |
 | [8–11 February 2018](2018-02-11-LorienConsulting.html) | Lorien Consulting | 19 | 16–21 | 16–21 | 16–21 | 16–22 |
 | [9–11 February 2018](2018-02-11-EMG.html) | EMG <br> TG LA7 | 18 | 15–18 | 15–18 | 15–19 | 15–19 |
@@ -130,12 +130,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0.2% | 100% |  |
 | 11 | 2% | 99.8% |  |
 | 12 | 10% | 98% |  |
-| 13 | 24% | 88% |  |
-| 14 | 33% | 64% | Median |
-| 15 | 22% | 32% |  |
-| 16 | 8% | 10% |  |
-| 17 | 2% | 2% |  |
-| 18 | 0.4% | 0.4% |  |
+| 13 | 24% | 87% |  |
+| 14 | 28% | 63% | Median |
+| 15 | 23% | 35% |  |
+| 16 | 9% | 12% |  |
+| 17 | 2% | 3% |  |
+| 18 | 0.5% | 0.5% |  |
 | 19 | 0% | 0% |  |
 | 20 | 0% | 0% |  |
 | 21 | 0% | 0% |  |

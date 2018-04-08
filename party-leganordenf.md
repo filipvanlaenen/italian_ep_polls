@@ -84,7 +84,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16 | 14–19 | 13–19 | 13–20 | 12–21 |
 | [26–28 March 2018](2018-03-28-SWG.html) | SWG | 18 | 17–19 | 16–20 | 16–20 | 16–20 |
-| [27–28 March 2018](2018-03-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 18 | 17–18 | 15–18 | 15–18 | 14–18 |
+| [27–28 March 2018](2018-03-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 16 | 14–17 | 14–18 | 14–18 | 13–19 |
 | [28 March 2018](2018-03-28-IndexResearch.html) | Index Research <br> LA7 | 19 | 17–20 | 17–21 | 16–21 | 16–22 |
 | [21–25 March 2018](2018-03-25-Bidimedia.html) | Bidimedia | 17 | 15–18 | 15–19 | 14–19 | 14–20 |
 | [19–21 March 2018](2018-03-21-SWG.html) | SWG | 18 | 17–20 | 17–20 | 17–20 | 16–21 |
@@ -105,7 +105,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [12–14 February 2018](2018-02-14-DemosPi.html) | Demos & Pi <br> La Repubblica | 10 | 9–11 | 9–12 | 9–12 | 8–13 |
 | [5–14 February 2018](2018-02-14-Demetra.html) | Demetra | 12 | 12 | 11–12 | 11–13 | 11–13 |
 | [12–13 February 2018](2018-02-13-Tecnè.html) | Tecnè | 11 | 10–12 | 9–12 | 9–12 | 8–13 |
-| [12 February 2018](2018-02-12-Euromedia.html) | Euromedia | 12 | 12 | 12 | 12 | 11–12 |
+| [12 February 2018](2018-02-12-Euromedia.html) | Euromedia | 12 | 10–13 | 10–14 | 10–14 | 9–15 |
 | [8–12 February 2018](2018-02-12-Bidimedia.html) | Bidimedia | 14 | 14 | 14 | 11–14 | 11–14 |
 | [8–11 February 2018](2018-02-11-LorienConsulting.html) | Lorien Consulting | 10 | 9–11 | 9–12 | 9–12 | 8–13 |
 | [9–11 February 2018](2018-02-11-EMG.html) | EMG <br> TG LA7 | 12 | 11–12 | 11–12 | 11–12 | 11–12 |
@@ -131,11 +131,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0.1% | 100% |  |
 | 12 | 1.1% | 99.8% |  |
 | 13 | 5% | 98.8% |  |
-| 14 | 13% | 94% |  |
-| 15 | 17% | 80% |  |
-| 16 | 15% | 63% | Median |
-| 17 | 13% | 48% |  |
-| 18 | 20% | 34% |  |
+| 14 | 14% | 94% |  |
+| 15 | 19% | 79% |  |
+| 16 | 20% | 60% | Median |
+| 17 | 12% | 40% |  |
+| 18 | 13% | 27% |  |
 | 19 | 9% | 14% |  |
 | 20 | 4% | 5% |  |
 | 21 | 0.9% | 1.1% |  |

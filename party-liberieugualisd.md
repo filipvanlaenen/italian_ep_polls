@@ -68,7 +68,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [26–28 March 2018](2018-03-28-SWG.html) | SWG | 0 | 0 | 0 | 0 | 0 |
-| [27–28 March 2018](2018-03-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
+| [27–28 March 2018](2018-03-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0–3 | 0–3 | 0–4 |
 | [28 March 2018](2018-03-28-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0 | 0 | 0 |
 | [21–25 March 2018](2018-03-25-Bidimedia.html) | Bidimedia | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [19–21 March 2018](2018-03-21-SWG.html) | SWG | 0 | 0 | 0 | 0 | 0 |
@@ -89,7 +89,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [12–14 February 2018](2018-02-14-DemosPi.html) | Demos & Pi <br> La Repubblica | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
 | [5–14 February 2018](2018-02-14-Demetra.html) | Demetra | 4 | 4 | 4–5 | 4–5 | 4–5 |
 | [12–13 February 2018](2018-02-13-Tecnè.html) | Tecnè | 4 | 4–5 | 3–5 | 3–6 | 0–6 |
-| [12 February 2018](2018-02-12-Euromedia.html) | Euromedia | 5 | 5 | 5 | 5 | 5 |
+| [12 February 2018](2018-02-12-Euromedia.html) | Euromedia | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
 | [8–12 February 2018](2018-02-12-Bidimedia.html) | Bidimedia | 0 | 0 | 0 | 0 | 0 |
 | [8–11 February 2018](2018-02-11-LorienConsulting.html) | Lorien Consulting | 4 | 4–5 | 3–5 | 0–5 | 0–6 |
 | [9–11 February 2018](2018-02-11-EMG.html) | EMG <br> TG LA7 | 5 | 5 | 5 | 5 | 4–5 |
@@ -106,10 +106,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 87% | 100% | Last Result, Median |
-| 1 | 0% | 13% |  |
-| 2 | 0% | 13% |  |
-| 3 | 7% | 13% |  |
+| 0 | 86% | 100% | Last Result, Median |
+| 1 | 0% | 14% |  |
+| 2 | 0% | 14% |  |
+| 3 | 7% | 14% |  |
 | 4 | 7% | 7% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |

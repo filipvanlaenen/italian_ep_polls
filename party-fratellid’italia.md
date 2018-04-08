@@ -66,9 +66,9 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
+| N/A | [Poll Average](average.html) | 3 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [26–28 March 2018](2018-03-28-SWG.html) | SWG | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [27–28 March 2018](2018-03-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [27–28 March 2018](2018-03-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [28 March 2018](2018-03-28-IndexResearch.html) | Index Research <br> LA7 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [21–25 March 2018](2018-03-25-Bidimedia.html) | Bidimedia | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [19–21 March 2018](2018-03-21-SWG.html) | SWG | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
@@ -89,7 +89,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [12–14 February 2018](2018-02-14-DemosPi.html) | Demos & Pi <br> La Repubblica | 4 | 3–5 | 0–5 | 0–5 | 0–5 |
 | [5–14 February 2018](2018-02-14-Demetra.html) | Demetra | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [12–13 February 2018](2018-02-13-Tecnè.html) | Tecnè | 4 | 3–5 | 0–5 | 0–5 | 0–6 |
-| [12 February 2018](2018-02-12-Euromedia.html) | Euromedia | 4 | 4 | 4 | 4 | 4 |
+| [12 February 2018](2018-02-12-Euromedia.html) | Euromedia | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [8–12 February 2018](2018-02-12-Bidimedia.html) | Bidimedia | 0 | 0 | 0 | 0 | 0 |
 | [8–11 February 2018](2018-02-11-LorienConsulting.html) | Lorien Consulting | 4 | 3–5 | 0–5 | 0–5 | 0–5 |
 | [9–11 February 2018](2018-02-11-EMG.html) | EMG <br> TG LA7 | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -106,11 +106,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 35% | 100% | Last Result |
-| 1 | 0% | 65% |  |
-| 2 | 0% | 65% |  |
-| 3 | 15% | 65% | Median |
-| 4 | 45% | 50% |  |
+| 0 | 41% | 100% | Last Result |
+| 1 | 0% | 59% |  |
+| 2 | 0% | 59% |  |
+| 3 | 16% | 59% | Median |
+| 4 | 38% | 43% |  |
 | 5 | 5% | 5% |  |
 | 6 | 0.2% | 0.2% |  |
 | 7 | 0% | 0% |  |
