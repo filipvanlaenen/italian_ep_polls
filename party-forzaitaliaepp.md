@@ -96,10 +96,10 @@ Last result: **13** seats (General Election of 25 May 2014)
 | [12 February 2018](2018-02-12-Euromedia.html) | Euromedia | 15 | 13–17 | 13–17 | 13–17 | 12–18 |
 | [8–12 February 2018](2018-02-12-Bidimedia.html) | Bidimedia | 14 | 13–15 | 13–16 | 12–16 | 12–17 |
 | [8–11 February 2018](2018-02-11-LorienConsulting.html) | Lorien Consulting | 15 | 13–16 | 13–16 | 13–17 | 12–18 |
-| [9–11 February 2018](2018-02-11-EMG.html) | EMG <br> TG LA7 | 13 | 13–15 | 13–15 | 13–15 | 12–15 |
-| [3–8 February 2018](2018-02-08-TermometroPolitico.html) | Termometro Politico | 14 | 13–14 | 13–14 | 12–14 | 11–14 |
+| [9–11 February 2018](2018-02-11-EMG.html) | EMG <br> TG LA7 | 13 | 13–15 | 12–16 | 12–16 | 12–16 |
+| [3–8 February 2018](2018-02-08-TermometroPolitico.html) | Termometro Politico | 13 | 12–14 | 12–14 | 12–14 | 12–14 |
 | [8 February 2018](2018-02-08-Index.html) | Index | 14 | 12–15 | 11–15 | 11–15 | 10–16 |
-| [6–7 February 2018](2018-02-07-Tecnè.html) | Tecnè | 14 | 13–15 | 13–15 | 13–16 | 13–16 |
+| [6–7 February 2018](2018-02-07-Tecnè.html) | Tecnè | 15 | 13–16 | 13–16 | 13–17 | 12–18 |
 | [5–7 February 2018](2018-02-07-SWG.html) | SWG | 13 | 12–14 | 12–15 | 12–15 | 11–15 |
 
 ### Probability Mass Function
