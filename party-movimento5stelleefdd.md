@@ -97,7 +97,7 @@ Last result: **17** seats (General Election of 25 May 2014)
 | [12–14 February 2018](2018-02-14-SWG.html) | SWG | 23 | 23–25 | 22–25 | 22–25 | 21–26 |
 | [13–14 February 2018](2018-02-14-Piepoli.html) | Piepoli | 20 | 19–23 | 19–25 | 19–25 | 18–25 |
 | [12–14 February 2018](2018-02-14-Ixè.html) | Ixè <br> Huffington Post | 24 | 21–25 | 21–26 | 21–27 | 21–28 |
-| [12–14 February 2018](2018-02-14-Index.html) | Index | 24 | 21–24 | 21–24 | 21–25 | 21–25 |
+| [12–14 February 2018](2018-02-14-Index.html) | Index | 24 | 21–25 | 21–25 | 21–25 | 20–27 |
 | [14 February 2018](2018-02-14-Euromedia.html) | Euromedia | 24 | 21–24 | 21–24 | 21–24 | 20–25 |
 | [12–14 February 2018](2018-02-14-DemosPi.html) | Demos & Pi <br> La Repubblica | 22 | 20–23 | 20–24 | 19–24 | 19–25 |
 | [5–14 February 2018](2018-02-14-Demetra.html) | Demetra | 25 | 25 | 24–25 | 24–25 | 23–25 |
@@ -107,7 +107,7 @@ Last result: **17** seats (General Election of 25 May 2014)
 | [8–11 February 2018](2018-02-11-LorienConsulting.html) | Lorien Consulting | 23 | 21–25 | 21–26 | 20–26 | 20–27 |
 | [9–11 February 2018](2018-02-11-EMG.html) | EMG <br> TG LA7 | 23 | 23–24 | 21–24 | 21–24 | 21–24 |
 | [3–8 February 2018](2018-02-08-TermometroPolitico.html) | Termometro Politico | 23 | 22–24 | 22–25 | 21–25 | 21–25 |
-| [8 February 2018](2018-02-08-Index.html) | Index | 22 | 21–24 | 21–24 | 20–25 | 19–27 |
+| [8 February 2018](2018-02-08-Index.html) | Index | 22 | 21–24 | 21–25 | 20–25 | 19–26 |
 | [6–7 February 2018](2018-02-07-Tecnè.html) | Tecnè | 23 | 21–25 | 21–25 | 20–26 | 19–27 |
 | [5–7 February 2018](2018-02-07-SWG.html) | SWG | 24 | 23–25 | 22–25 | 22–26 | 21–26 |
 

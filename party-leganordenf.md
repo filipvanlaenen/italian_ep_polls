@@ -100,7 +100,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [12–14 February 2018](2018-02-14-SWG.html) | SWG | 11 | 10–12 | 10–12 | 10–13 | 10–13 |
 | [13–14 February 2018](2018-02-14-Piepoli.html) | Piepoli | 11 | 10–12 | 10–13 | 9–13 | 8–14 |
 | [12–14 February 2018](2018-02-14-Ixè.html) | Ixè <br> Huffington Post | 9 | 8–10 | 8–10 | 8–11 | 7–12 |
-| [12–14 February 2018](2018-02-14-Index.html) | Index | 11 | 10–13 | 10–13 | 10–14 | 9–14 |
+| [12–14 February 2018](2018-02-14-Index.html) | Index | 12 | 10–13 | 10–14 | 10–14 | 9–14 |
 | [14 February 2018](2018-02-14-Euromedia.html) | Euromedia | 12 | 11–13 | 11–13 | 10–13 | 10–15 |
 | [12–14 February 2018](2018-02-14-DemosPi.html) | Demos & Pi <br> La Repubblica | 10 | 9–11 | 9–12 | 9–12 | 8–13 |
 | [5–14 February 2018](2018-02-14-Demetra.html) | Demetra | 12 | 12 | 12 | 12–13 | 11–13 |
