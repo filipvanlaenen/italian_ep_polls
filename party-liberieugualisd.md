@@ -82,7 +82,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [12–16 February 2018](2018-02-16-TermometroPolitico.html) | Termometro Politico | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [14–15 February 2018](2018-02-15-Demopolis.html) | Demopolis | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [12–14 February 2018](2018-02-14-SWG.html) | SWG | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
-| [13–14 February 2018](2018-02-14-Piepoli.html) | Piepoli | 5 | 4–6 | 3–6 | 0–6 | 0–7 |
+| [13–14 February 2018](2018-02-14-Piepoli.html) | Piepoli | 5 | 4–6 | 4–6 | 4–7 | 0–7 |
 | [12–14 February 2018](2018-02-14-Ixè.html) | Ixè <br> Huffington Post | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [12–14 February 2018](2018-02-14-Index.html) | Index | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
 | [14 February 2018](2018-02-14-Euromedia.html) | Euromedia | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
@@ -95,7 +95,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [9–11 February 2018](2018-02-11-EMG.html) | EMG <br> TG LA7 | 4 | 4 | 4 | 4 | 4–5 |
 | [3–8 February 2018](2018-02-08-TermometroPolitico.html) | Termometro Politico | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [8 February 2018](2018-02-08-Index.html) | Index | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
-| [6–7 February 2018](2018-02-07-Tecnè.html) | Tecnè | 5 | 4–6 | 4–6 | 4–6 | 0–7 |
+| [6–7 February 2018](2018-02-07-Tecnè.html) | Tecnè | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
 | [5–7 February 2018](2018-02-07-SWG.html) | SWG | 6 | 5–6 | 4–6 | 4–7 | 4–7 |
 
 ### Probability Mass Function
