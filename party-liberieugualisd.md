@@ -10,10 +10,12 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.0% | 2.1–4.2% | 1.8–4.5% | 1.6–4.8% | 1.3–5.4% |
+| N/A | [Poll Average](average.html) | 2.9% | 2.0–4.2% | 1.8–4.5% | 1.6–4.8% | 1.3–5.3% |
 | [26–28 March 2018](2018-03-28-SWG.html) | SWG | 2.6% | 2.2–3.2% | 2.1–3.3% | 2.0–3.5% | 1.8–3.7% |
+| [28 March 2018](2018-03-28-Piepoli.html) | Piepoli | 2.5% | 1.9–3.7% | 1.7–4.0% | 1.5–4.3% | 1.2–4.9% |
 | [27–28 March 2018](2018-03-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [28 March 2018](2018-03-28-IndexResearch.html) | Index Research <br> LA7 | 2.0% | 1.5–2.8% | 1.4–3.0% | 1.2–3.2% | 1.0–3.7% |
+| [28 March 2018](2018-03-28-Euromedia.html) | Euromedia | 3.2% | 2.6–4.2% | 2.4–4.5% | 2.2–4.7% | 1.9–5.2% |
 | [21–25 March 2018](2018-03-25-Bidimedia.html) | Bidimedia | 3.0% | 2.4–3.9% | 2.2–4.2% | 2.1–4.4% | 1.8–4.9% |
 | [19–21 March 2018](2018-03-21-SWG.html) | SWG | 2.4% | 2.0–2.9% | 1.9–3.0% | 1.8–3.2% | 1.6–3.4% |
 | [21 March 2018](2018-03-21-IndexResearch.html) | Index Research <br> LA7 | 2.1% | 1.6–2.9% | 1.4–3.2% | 1.3–3.4% | 1.1–3.8% |
@@ -50,11 +52,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 2% | 100% |  |
-| 1.5–2.5% | 27% | 98% |  |
-| 2.5–3.5% | 46% | 72% | Median |
-| 3.5–4.5% | 21% | 25% |  |
-| 4.5–5.5% | 5% | 5% |  |
-| 5.5–6.5% | 0.3% | 0.3% |  |
+| 1.5–2.5% | 29% | 98% |  |
+| 2.5–3.5% | 45% | 69% | Median |
+| 3.5–4.5% | 19% | 24% |  |
+| 4.5–5.5% | 4% | 5% |  |
+| 5.5–6.5% | 0.2% | 0.2% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -68,8 +70,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [26–28 March 2018](2018-03-28-SWG.html) | SWG | 0 | 0 | 0 | 0 | 0 |
+| [28 March 2018](2018-03-28-Piepoli.html) | Piepoli | 0 | 0 | 0–3 | 0–3 | 0–4 |
 | [27–28 March 2018](2018-03-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0–3 | 0–3 | 0–4 |
 | [28 March 2018](2018-03-28-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0 | 0 | 0 |
+| [28 March 2018](2018-03-28-Euromedia.html) | Euromedia | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [21–25 March 2018](2018-03-25-Bidimedia.html) | Bidimedia | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [19–21 March 2018](2018-03-21-SWG.html) | SWG | 0 | 0 | 0 | 0 | 0 |
 | [21 March 2018](2018-03-21-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0 | 0 | 0 |
@@ -90,13 +94,13 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [5–14 February 2018](2018-02-14-Demetra.html) | Demetra | 4 | 4 | 4 | 4–5 | 4–5 |
 | [12–13 February 2018](2018-02-13-Tecnè.html) | Tecnè | 4 | 4–5 | 3–5 | 3–6 | 0–6 |
 | [12 February 2018](2018-02-12-Euromedia.html) | Euromedia | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
-| [8–12 February 2018](2018-02-12-Bidimedia.html) | Bidimedia | 4 | 0–4 | 0–4 | 0–5 | 0–6 |
+| [8–12 February 2018](2018-02-12-Bidimedia.html) | Bidimedia | 4 | 0–5 | 0–6 | 0–6 | 0–6 |
 | [8–11 February 2018](2018-02-11-LorienConsulting.html) | Lorien Consulting | 4 | 4–5 | 3–5 | 0–5 | 0–6 |
-| [9–11 February 2018](2018-02-11-EMG.html) | EMG <br> TG LA7 | 4 | 4 | 4 | 4 | 4–5 |
+| [9–11 February 2018](2018-02-11-EMG.html) | EMG <br> TG LA7 | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [3–8 February 2018](2018-02-08-TermometroPolitico.html) | Termometro Politico | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [8 February 2018](2018-02-08-Index.html) | Index | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
 | [6–7 February 2018](2018-02-07-Tecnè.html) | Tecnè | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
-| [5–7 February 2018](2018-02-07-SWG.html) | SWG | 6 | 5–6 | 4–6 | 4–7 | 4–7 |
+| [5–7 February 2018](2018-02-07-SWG.html) | SWG | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
 
 ### Probability Mass Function
 
@@ -106,11 +110,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 86% | 100% | Last Result, Median |
-| 1 | 0% | 14% |  |
-| 2 | 0% | 14% |  |
-| 3 | 7% | 14% |  |
-| 4 | 7% | 7% |  |
+| 0 | 87% | 100% | Last Result, Median |
+| 1 | 0% | 13% |  |
+| 2 | 0% | 13% |  |
+| 3 | 7% | 13% |  |
+| 4 | 6% | 6% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 

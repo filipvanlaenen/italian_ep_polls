@@ -12,8 +12,10 @@ Last result: **0.0%** (General Election of 25 May 2014)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.1% | 0.7–1.6% | 0.6–1.8% | 0.6–2.0% | 0.4–2.3% |
 | [26–28 March 2018](2018-03-28-SWG.html) | SWG | 0.0% | N/A | N/A | N/A | N/A |
+| [28 March 2018](2018-03-28-Piepoli.html) | Piepoli | 0.0% | N/A | N/A | N/A | N/A |
 | [27–28 March 2018](2018-03-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.0% | N/A | N/A | N/A | N/A |
 | [28 March 2018](2018-03-28-IndexResearch.html) | Index Research <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
+| [28 March 2018](2018-03-28-Euromedia.html) | Euromedia | 0.0% | N/A | N/A | N/A | N/A |
 | [21–25 March 2018](2018-03-25-Bidimedia.html) | Bidimedia | 1.0% | 0.7–1.6% | 0.6–1.8% | 0.5–2.0% | 0.4–2.3% |
 | [19–21 March 2018](2018-03-21-SWG.html) | SWG | 0.0% | N/A | N/A | N/A | N/A |
 | [21 March 2018](2018-03-21-IndexResearch.html) | Index Research <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
@@ -65,8 +67,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [26–28 March 2018](2018-03-28-SWG.html) | SWG |  |  |  |  |  |
+| [28 March 2018](2018-03-28-Piepoli.html) | Piepoli |  |  |  |  |  |
 | [27–28 March 2018](2018-03-28-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
 | [28 March 2018](2018-03-28-IndexResearch.html) | Index Research <br> LA7 |  |  |  |  |  |
+| [28 March 2018](2018-03-28-Euromedia.html) | Euromedia |  |  |  |  |  |
 | [21–25 March 2018](2018-03-25-Bidimedia.html) | Bidimedia | 0 | 0 | 0 | 0 | 0 |
 | [19–21 March 2018](2018-03-21-SWG.html) | SWG |  |  |  |  |  |
 | [21 March 2018](2018-03-21-IndexResearch.html) | Index Research <br> LA7 |  |  |  |  |  |

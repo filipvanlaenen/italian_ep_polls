@@ -10,10 +10,12 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.1% | 1.5–2.8% | 1.3–3.1% | 1.2–3.3% | 0.9–3.8% |
+| N/A | [Poll Average](average.html) | 2.1% | 1.4–2.8% | 1.2–3.1% | 1.0–3.3% | 0.8–3.8% |
 | [26–28 March 2018](2018-03-28-SWG.html) | SWG | 2.0% | 1.6–2.5% | 1.6–2.6% | 1.5–2.7% | 1.3–3.0% |
+| [28 March 2018](2018-03-28-Piepoli.html) | Piepoli | 2.0% | 1.4–3.0% | 1.2–3.3% | 1.1–3.6% | 0.8–4.1% |
 | [27–28 March 2018](2018-03-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
 | [28 March 2018](2018-03-28-IndexResearch.html) | Index Research <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
+| [28 March 2018](2018-03-28-Euromedia.html) | Euromedia | 1.4% | 1.0–2.1% | 0.9–2.3% | 0.8–2.5% | 0.6–2.8% |
 | [21–25 March 2018](2018-03-25-Bidimedia.html) | Bidimedia | 1.9% | 1.4–2.6% | 1.2–2.8% | 1.1–3.0% | 1.0–3.4% |
 | [19–21 March 2018](2018-03-21-SWG.html) | SWG | 1.7% | 1.4–2.1% | 1.3–2.3% | 1.2–2.4% | 1.1–2.6% |
 | [21 March 2018](2018-03-21-IndexResearch.html) | Index Research <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
@@ -49,8 +51,8 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 13% | 100% |  |
-| 1.5–2.5% | 67% | 87% | Median |
+| 0.5–1.5% | 16% | 100% |  |
+| 1.5–2.5% | 64% | 84% | Median |
 | 2.5–3.5% | 19% | 20% |  |
 | 3.5–4.5% | 1.0% | 1.0% |  |
 | 4.5–5.5% | 0% | 0% |  |
@@ -66,8 +68,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [26–28 March 2018](2018-03-28-SWG.html) | SWG | 0 | 0 | 0 | 0 | 0 |
+| [28 March 2018](2018-03-28-Piepoli.html) | Piepoli | 0 | 0 | 0 | 0 | 0–3 |
 | [27–28 March 2018](2018-03-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
 | [28 March 2018](2018-03-28-IndexResearch.html) | Index Research <br> LA7 |  |  |  |  |  |
+| [28 March 2018](2018-03-28-Euromedia.html) | Euromedia | 0 | 0 | 0 | 0 | 0 |
 | [21–25 March 2018](2018-03-25-Bidimedia.html) | Bidimedia | 0 | 0 | 0 | 0 | 0 |
 | [19–21 March 2018](2018-03-21-SWG.html) | SWG | 0 | 0 | 0 | 0 | 0 |
 | [21 March 2018](2018-03-21-IndexResearch.html) | Index Research <br> LA7 |  |  |  |  |  |
@@ -79,7 +83,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [12–14 March 2018](2018-03-14-SWG.html) | SWG <br> Il Messaggero | 0 | 0 | 0 | 0 | 0 |
 | [12–16 February 2018](2018-02-16-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [14–15 February 2018](2018-02-15-Demopolis.html) | Demopolis | 0 | 0 | 0 | 0 | 0 |
-| [12–14 February 2018](2018-02-14-SWG.html) | SWG | 0 | 0 | 0–3 | 0–3 | 0–4 |
+| [12–14 February 2018](2018-02-14-SWG.html) | SWG | 0 | 0 | 0 | 0 | 0–3 |
 | [13–14 February 2018](2018-02-14-Piepoli.html) | Piepoli | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | [12–14 February 2018](2018-02-14-Ixè.html) | Ixè <br> Huffington Post | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [12–14 February 2018](2018-02-14-Index.html) | Index | 0 | 0 | 0 | 0 | 0 |
