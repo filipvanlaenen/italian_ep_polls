@@ -98,7 +98,7 @@ Last result: **17** seats (General Election of 25 May 2014)
 | [12–14 March 2018](2018-03-14-SWG.html) | SWG <br> Il Messaggero | 30 | 29–32 | 28–32 | 27–33 | 27–34 |
 | [12–16 February 2018](2018-02-16-TermometroPolitico.html) | Termometro Politico | 23 | 22–23 | 22–23 | 21–23 | 21–24 |
 | [14–15 February 2018](2018-02-15-Demopolis.html) | Demopolis | 23 | 22–24 | 22–24 | 22–24 | 21–25 |
-| [12–14 February 2018](2018-02-14-SWG.html) | SWG | 24 | 22–25 | 22–25 | 22–25 | 21–26 |
+| [12–14 February 2018](2018-02-14-SWG.html) | SWG | 23 | 23–25 | 22–25 | 22–25 | 22–26 |
 | [13–14 February 2018](2018-02-14-Piepoli.html) | Piepoli | 22 | 20–23 | 19–25 | 19–26 | 18–27 |
 | [12–14 February 2018](2018-02-14-Ixè.html) | Ixè <br> Huffington Post | 24 | 21–25 | 21–26 | 21–27 | 21–28 |
 | [12–14 February 2018](2018-02-14-Index.html) | Index | 24 | 21–25 | 21–25 | 21–25 | 20–27 |
