@@ -86,7 +86,7 @@ Last result: **17** seats (General Election of 25 May 2014)
 | [28 March 2018](2018-03-28-Piepoli.html) | Piepoli | 28 | 25–30 | 25–31 | 24–31 | 23–32 |
 | [27–28 March 2018](2018-03-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 28 | 26–30 | 25–31 | 25–31 | 24–32 |
 | [28 March 2018](2018-03-28-IndexResearch.html) | Index Research <br> LA7 | 28 | 26–29 | 25–30 | 25–30 | 24–31 |
-| [28 March 2018](2018-03-28-Euromedia.html) | Euromedia | 27 | 26–29 | 25–30 | 25–30 | 24–31 |
+| [28 March 2018](2018-03-28-Euromedia.html) | Euromedia | 28 | 26–30 | 25–30 | 25–31 | 24–32 |
 | [21–25 March 2018](2018-03-25-Bidimedia.html) | Bidimedia | 28 | 26–31 | 26–32 | 26–32 | 24–33 |
 | [19–21 March 2018](2018-03-21-SWG.html) | SWG | 30 | 28–32 | 28–33 | 27–33 | 27–33 |
 | [21 March 2018](2018-03-21-IndexResearch.html) | Index Research <br> LA7 | 28 | 26–30 | 26–30 | 25–31 | 24–31 |
@@ -104,13 +104,13 @@ Last result: **17** seats (General Election of 25 May 2014)
 | [12–14 February 2018](2018-02-14-Index.html) | Index | 24 | 21–25 | 21–25 | 21–25 | 20–27 |
 | [14 February 2018](2018-02-14-Euromedia.html) | Euromedia | 24 | 21–24 | 21–24 | 21–24 | 20–25 |
 | [12–14 February 2018](2018-02-14-DemosPi.html) | Demos & Pi <br> La Repubblica | 22 | 20–23 | 20–24 | 19–24 | 19–25 |
-| [5–14 February 2018](2018-02-14-Demetra.html) | Demetra | 25 | 25 | 24–25 | 24–25 | 23–25 |
+| [5–14 February 2018](2018-02-14-Demetra.html) | Demetra | 24 | 23–25 | 23–25 | 23–25 | 23–26 |
 | [12–13 February 2018](2018-02-13-Tecnè.html) | Tecnè | 24 | 22–25 | 21–25 | 21–26 | 20–27 |
 | [12 February 2018](2018-02-12-Euromedia.html) | Euromedia | 22 | 20–24 | 20–24 | 20–25 | 19–26 |
 | [8–12 February 2018](2018-02-12-Bidimedia.html) | Bidimedia | 22 | 21–24 | 20–24 | 20–24 | 19–25 |
 | [8–11 February 2018](2018-02-11-LorienConsulting.html) | Lorien Consulting | 23 | 21–25 | 21–26 | 20–26 | 20–27 |
 | [9–11 February 2018](2018-02-11-EMG.html) | EMG <br> TG LA7 | 23 | 22–25 | 22–27 | 21–27 | 21–27 |
-| [3–8 February 2018](2018-02-08-TermometroPolitico.html) | Termometro Politico | 23 | 22–24 | 22–25 | 21–25 | 21–25 |
+| [3–8 February 2018](2018-02-08-TermometroPolitico.html) | Termometro Politico | 22 | 22–23 | 22–24 | 21–24 | 21–25 |
 | [8 February 2018](2018-02-08-Index.html) | Index | 22 | 21–24 | 21–24 | 20–25 | 19–26 |
 | [6–7 February 2018](2018-02-07-Tecnè.html) | Tecnè | 23 | 21–24 | 21–25 | 20–25 | 20–26 |
 | [5–7 February 2018](2018-02-07-SWG.html) | SWG | 23 | 22–25 | 22–25 | 21–26 | 21–26 |
@@ -132,12 +132,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 23 | 0.2% | 100% |  |
 | 24 | 2% | 99.7% |  |
 | 25 | 6% | 98% |  |
-| 26 | 15% | 92% |  |
-| 27 | 21% | 77% |  |
-| 28 | 22% | 56% | Median |
-| 29 | 18% | 34% |  |
+| 26 | 14% | 92% |  |
+| 27 | 20% | 78% |  |
+| 28 | 23% | 58% | Median |
+| 29 | 18% | 35% |  |
 | 30 | 11% | 17% |  |
-| 31 | 4% | 5% |  |
+| 31 | 4% | 6% |  |
 | 32 | 1.3% | 2% |  |
 | 33 | 0.3% | 0.3% |  |
 | 34 | 0% | 0% |  |

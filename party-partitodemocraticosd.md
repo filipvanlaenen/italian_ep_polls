@@ -90,12 +90,12 @@ Last result: **31** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–16 | 12–16 | 11–17 | 10–17 |
+| N/A | [Poll Average](average.html) | 14 | 12–16 | 12–16 | 11–17 | 11–17 |
 | [26–28 March 2018](2018-03-28-SWG.html) | SWG | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
 | [28 March 2018](2018-03-28-Piepoli.html) | Piepoli | 13 | 11–15 | 11–15 | 11–16 | 10–17 |
 | [27–28 March 2018](2018-03-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 15 | 13–16 | 13–16 | 12–17 | 12–18 |
 | [28 March 2018](2018-03-28-IndexResearch.html) | Index Research <br> LA7 | 13 | 12–15 | 11–15 | 11–15 | 10–16 |
-| [28 March 2018](2018-03-28-Euromedia.html) | Euromedia | 13 | 11–14 | 11–14 | 11–15 | 10–16 |
+| [28 March 2018](2018-03-28-Euromedia.html) | Euromedia | 13 | 12–15 | 11–15 | 11–15 | 10–16 |
 | [21–25 March 2018](2018-03-25-Bidimedia.html) | Bidimedia | 14 | 13–16 | 12–17 | 12–17 | 11–18 |
 | [19–21 March 2018](2018-03-21-SWG.html) | SWG | 15 | 14–17 | 14–17 | 13–17 | 13–18 |
 | [21 March 2018](2018-03-21-IndexResearch.html) | Index Research <br> LA7 | 13 | 12–15 | 11–15 | 11–15 | 10–16 |
@@ -113,13 +113,13 @@ Last result: **31** seats (General Election of 25 May 2014)
 | [12–14 February 2018](2018-02-14-Index.html) | Index | 18 | 17–19 | 16–20 | 15–20 | 15–21 |
 | [14 February 2018](2018-02-14-Euromedia.html) | Euromedia | 17 | 16–19 | 16–19 | 15–20 | 15–20 |
 | [12–14 February 2018](2018-02-14-DemosPi.html) | Demos & Pi <br> La Repubblica | 16 | 15–17 | 14–18 | 14–18 | 13–19 |
-| [5–14 February 2018](2018-02-14-Demetra.html) | Demetra | 18 | 18 | 18–19 | 18–19 | 17–20 |
+| [5–14 February 2018](2018-02-14-Demetra.html) | Demetra | 18 | 18–19 | 18–19 | 18–19 | 17–20 |
 | [12–13 February 2018](2018-02-13-Tecnè.html) | Tecnè | 17 | 16–18 | 15–19 | 15–19 | 14–20 |
 | [12 February 2018](2018-02-12-Euromedia.html) | Euromedia | 17 | 16–20 | 15–20 | 15–20 | 15–21 |
 | [8–12 February 2018](2018-02-12-Bidimedia.html) | Bidimedia | 20 | 18–22 | 18–23 | 18–23 | 17–23 |
 | [8–11 February 2018](2018-02-11-LorienConsulting.html) | Lorien Consulting | 19 | 16–21 | 16–21 | 16–21 | 16–22 |
 | [9–11 February 2018](2018-02-11-EMG.html) | EMG <br> TG LA7 | 19 | 18–19 | 17–19 | 17–20 | 16–21 |
-| [3–8 February 2018](2018-02-08-TermometroPolitico.html) | Termometro Politico | 18 | 17–19 | 17–19 | 17–19 | 16–20 |
+| [3–8 February 2018](2018-02-08-TermometroPolitico.html) | Termometro Politico | 17 | 17–19 | 16–19 | 16–19 | 16–19 |
 | [8 February 2018](2018-02-08-Index.html) | Index | 18 | 17–20 | 17–20 | 16–21 | 16–22 |
 | [6–7 February 2018](2018-02-07-Tecnè.html) | Tecnè | 17 | 16–19 | 15–19 | 15–19 | 14–20 |
 | [5–7 February 2018](2018-02-07-SWG.html) | SWG | 18 | 17–20 | 17–20 | 16–20 | 16–21 |
@@ -132,12 +132,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.5% | 100% |  |
-| 11 | 4% | 99.5% |  |
-| 12 | 12% | 96% |  |
-| 13 | 25% | 83% |  |
-| 14 | 26% | 59% | Median |
-| 15 | 21% | 32% |  |
+| 10 | 0.4% | 100% |  |
+| 11 | 3% | 99.6% |  |
+| 12 | 12% | 97% |  |
+| 13 | 24% | 85% |  |
+| 14 | 28% | 61% | Median |
+| 15 | 22% | 33% |  |
 | 16 | 8% | 11% |  |
 | 17 | 2% | 3% |  |
 | 18 | 0.4% | 0.4% |  |
