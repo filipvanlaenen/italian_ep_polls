@@ -70,7 +70,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [26–28 March 2018](2018-03-28-SWG.html) | SWG | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [28 March 2018](2018-03-28-Piepoli.html) | Piepoli | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
+| [28 March 2018](2018-03-28-Piepoli.html) | Piepoli | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [27–28 March 2018](2018-03-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [28 March 2018](2018-03-28-IndexResearch.html) | Index Research <br> LA7 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [28 March 2018](2018-03-28-Euromedia.html) | Euromedia | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
@@ -89,7 +89,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [13–14 February 2018](2018-02-14-Piepoli.html) | Piepoli | 4 | 4–5 | 0–6 | 0–6 | 0–7 |
 | [12–14 February 2018](2018-02-14-Ixè.html) | Ixè <br> Huffington Post | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [12–14 February 2018](2018-02-14-Index.html) | Index | 4 | 4–5 | 3–5 | 0–5 | 0–6 |
-| [14 February 2018](2018-02-14-Euromedia.html) | Euromedia | 4 | 3–5 | 0–5 | 0–5 | 0–6 |
+| [14 February 2018](2018-02-14-Euromedia.html) | Euromedia | 4 | 3–5 | 3–5 | 0–5 | 0–6 |
 | [12–14 February 2018](2018-02-14-DemosPi.html) | Demos & Pi <br> La Repubblica | 4 | 3–5 | 0–5 | 0–5 | 0–5 |
 | [5–14 February 2018](2018-02-14-Demetra.html) | Demetra | 4 | 3–4 | 3–4 | 3–4 | 0–4 |
 | [12–13 February 2018](2018-02-13-Tecnè.html) | Tecnè | 4 | 3–5 | 0–5 | 0–5 | 0–6 |
@@ -113,10 +113,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 40% | 100% | Last Result |
 | 1 | 0% | 60% |  |
 | 2 | 0% | 60% |  |
-| 3 | 15% | 60% | Median |
-| 4 | 39% | 45% |  |
-| 5 | 6% | 7% |  |
-| 6 | 0.2% | 0.3% |  |
+| 3 | 16% | 60% | Median |
+| 4 | 38% | 44% |  |
+| 5 | 6% | 6% |  |
+| 6 | 0.2% | 0.2% |  |
 | 7 | 0% | 0% |  |
 
 

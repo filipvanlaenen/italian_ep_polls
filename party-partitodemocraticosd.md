@@ -92,7 +92,7 @@ Last result: **31** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14 | 12–16 | 12–16 | 11–17 | 11–17 |
 | [26–28 March 2018](2018-03-28-SWG.html) | SWG | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
-| [28 March 2018](2018-03-28-Piepoli.html) | Piepoli | 13 | 11–15 | 11–15 | 11–16 | 10–17 |
+| [28 March 2018](2018-03-28-Piepoli.html) | Piepoli | 13 | 11–15 | 11–16 | 11–16 | 10–17 |
 | [27–28 March 2018](2018-03-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 15 | 13–16 | 13–16 | 12–17 | 12–18 |
 | [28 March 2018](2018-03-28-IndexResearch.html) | Index Research <br> LA7 | 13 | 12–15 | 11–15 | 11–15 | 10–16 |
 | [28 March 2018](2018-03-28-Euromedia.html) | Euromedia | 13 | 12–15 | 11–15 | 11–15 | 10–16 |
@@ -110,8 +110,8 @@ Last result: **31** seats (General Election of 25 May 2014)
 | [12–14 February 2018](2018-02-14-SWG.html) | SWG | 19 | 17–20 | 17–20 | 17–20 | 17–21 |
 | [13–14 February 2018](2018-02-14-Piepoli.html) | Piepoli | 19 | 18–20 | 17–21 | 16–22 | 15–24 |
 | [12–14 February 2018](2018-02-14-Ixè.html) | Ixè <br> Huffington Post | 17 | 16–19 | 15–19 | 14–20 | 14–20 |
-| [12–14 February 2018](2018-02-14-Index.html) | Index | 18 | 17–19 | 16–20 | 15–20 | 15–21 |
-| [14 February 2018](2018-02-14-Euromedia.html) | Euromedia | 17 | 16–19 | 16–19 | 15–20 | 15–20 |
+| [12–14 February 2018](2018-02-14-Index.html) | Index | 18 | 17–19 | 16–20 | 16–21 | 15–21 |
+| [14 February 2018](2018-02-14-Euromedia.html) | Euromedia | 17 | 16–19 | 16–20 | 15–20 | 15–20 |
 | [12–14 February 2018](2018-02-14-DemosPi.html) | Demos & Pi <br> La Repubblica | 16 | 15–17 | 14–18 | 14–18 | 13–19 |
 | [5–14 February 2018](2018-02-14-Demetra.html) | Demetra | 18 | 18–19 | 18–19 | 18–19 | 17–20 |
 | [12–13 February 2018](2018-02-13-Tecnè.html) | Tecnè | 17 | 16–18 | 15–19 | 15–19 | 14–20 |
@@ -134,11 +134,11 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.4% | 100% |  |
 | 11 | 3% | 99.6% |  |
-| 12 | 12% | 97% |  |
-| 13 | 24% | 85% |  |
-| 14 | 28% | 61% | Median |
+| 12 | 11% | 96% |  |
+| 13 | 25% | 85% |  |
+| 14 | 27% | 60% | Median |
 | 15 | 22% | 33% |  |
-| 16 | 8% | 11% |  |
+| 16 | 9% | 11% |  |
 | 17 | 2% | 3% |  |
 | 18 | 0.4% | 0.4% |  |
 | 19 | 0% | 0% |  |

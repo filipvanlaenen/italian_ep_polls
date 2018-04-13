@@ -101,8 +101,8 @@ Last result: **17** seats (General Election of 25 May 2014)
 | [12–14 February 2018](2018-02-14-SWG.html) | SWG | 23 | 23–25 | 22–25 | 22–25 | 22–26 |
 | [13–14 February 2018](2018-02-14-Piepoli.html) | Piepoli | 22 | 20–23 | 19–25 | 19–26 | 18–27 |
 | [12–14 February 2018](2018-02-14-Ixè.html) | Ixè <br> Huffington Post | 24 | 21–25 | 21–26 | 21–27 | 21–28 |
-| [12–14 February 2018](2018-02-14-Index.html) | Index | 24 | 21–25 | 21–25 | 21–25 | 20–27 |
-| [14 February 2018](2018-02-14-Euromedia.html) | Euromedia | 24 | 21–24 | 21–24 | 21–24 | 20–25 |
+| [12–14 February 2018](2018-02-14-Index.html) | Index | 23 | 21–25 | 21–25 | 21–25 | 20–27 |
+| [14 February 2018](2018-02-14-Euromedia.html) | Euromedia | 23 | 21–24 | 21–24 | 20–24 | 19–25 |
 | [12–14 February 2018](2018-02-14-DemosPi.html) | Demos & Pi <br> La Repubblica | 22 | 20–23 | 20–24 | 19–24 | 19–25 |
 | [5–14 February 2018](2018-02-14-Demetra.html) | Demetra | 24 | 23–25 | 23–25 | 23–25 | 23–26 |
 | [12–13 February 2018](2018-02-13-Tecnè.html) | Tecnè | 24 | 22–25 | 21–25 | 21–26 | 20–27 |
@@ -135,7 +135,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 26 | 14% | 92% |  |
 | 27 | 20% | 78% |  |
 | 28 | 23% | 58% | Median |
-| 29 | 18% | 35% |  |
+| 29 | 18% | 36% |  |
 | 30 | 11% | 17% |  |
 | 31 | 4% | 6% |  |
 | 32 | 1.3% | 2% |  |

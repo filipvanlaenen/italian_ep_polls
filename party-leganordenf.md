@@ -84,9 +84,9 @@ Last result: **5** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 14–19 | 14–20 | 13–20 | 13–21 |
+| N/A | [Poll Average](average.html) | 16 | 14–19 | 14–19 | 13–20 | 12–21 |
 | [26–28 March 2018](2018-03-28-SWG.html) | SWG | 18 | 17–19 | 16–20 | 16–20 | 16–20 |
-| [28 March 2018](2018-03-28-Piepoli.html) | Piepoli | 15 | 14–17 | 13–18 | 13–19 | 12–20 |
+| [28 March 2018](2018-03-28-Piepoli.html) | Piepoli | 16 | 14–17 | 13–18 | 13–18 | 12–19 |
 | [27–28 March 2018](2018-03-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 16 | 14–17 | 14–18 | 14–18 | 13–19 |
 | [28 March 2018](2018-03-28-IndexResearch.html) | Index Research <br> LA7 | 19 | 17–20 | 17–21 | 16–21 | 16–22 |
 | [28 March 2018](2018-03-28-Euromedia.html) | Euromedia | 16 | 14–17 | 14–18 | 14–18 | 13–19 |
@@ -104,8 +104,8 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [12–14 February 2018](2018-02-14-SWG.html) | SWG | 11 | 11–12 | 10–12 | 10–12 | 10–13 |
 | [13–14 February 2018](2018-02-14-Piepoli.html) | Piepoli | 10 | 9–12 | 9–13 | 9–13 | 8–14 |
 | [12–14 February 2018](2018-02-14-Ixè.html) | Ixè <br> Huffington Post | 9 | 8–10 | 8–10 | 8–11 | 7–12 |
-| [12–14 February 2018](2018-02-14-Index.html) | Index | 12 | 10–13 | 10–14 | 10–14 | 9–14 |
-| [14 February 2018](2018-02-14-Euromedia.html) | Euromedia | 12 | 11–13 | 11–13 | 10–13 | 10–15 |
+| [12–14 February 2018](2018-02-14-Index.html) | Index | 11 | 10–13 | 10–13 | 10–14 | 9–14 |
+| [14 February 2018](2018-02-14-Euromedia.html) | Euromedia | 12 | 11–13 | 11–14 | 10–14 | 9–15 |
 | [12–14 February 2018](2018-02-14-DemosPi.html) | Demos & Pi <br> La Repubblica | 10 | 9–11 | 9–12 | 9–12 | 8–13 |
 | [5–14 February 2018](2018-02-14-Demetra.html) | Demetra | 12 | 12–13 | 11–13 | 11–13 | 11–13 |
 | [12–13 February 2018](2018-02-13-Tecnè.html) | Tecnè | 11 | 10–12 | 9–12 | 9–12 | 8–13 |
@@ -137,10 +137,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 4% | 99.5% |  |
 | 14 | 12% | 96% |  |
 | 15 | 20% | 84% |  |
-| 16 | 21% | 64% | Median |
-| 17 | 14% | 43% |  |
-| 18 | 14% | 29% |  |
-| 19 | 10% | 15% |  |
+| 16 | 22% | 64% | Median |
+| 17 | 14% | 42% |  |
+| 18 | 14% | 28% |  |
+| 19 | 9% | 14% |  |
 | 20 | 4% | 5% |  |
 | 21 | 0.9% | 1.1% |  |
 | 22 | 0.2% | 0.2% |  |
