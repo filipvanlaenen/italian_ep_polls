@@ -11,6 +11,13 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.1% | 0.7–1.6% | 0.6–1.8% | 0.6–2.0% | 0.4–2.3% |
+| [12 April 2018](2018-04-12-SWG.html) | SWG | 0.0% | N/A | N/A | N/A | N/A |
+| [11 April 2018](2018-04-11-IndexResearch.html) | Index Research <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
+| [9 April 2018](2018-04-09-Euromedia.html) | Euromedia | 0.0% | N/A | N/A | N/A | N/A |
+| [5 April 2018](2018-04-05-IndexResearch.html) | Index Research <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
+| [3–4 April 2018](2018-04-04-SWG.html) | SWG | 0.0% | N/A | N/A | N/A | N/A |
+| [3 April 2018](2018-04-03-Tecnè.html) | Tecnè <br> Canale 5 | 0.0% | N/A | N/A | N/A | N/A |
+| [2–3 April 2018](2018-04-03-Demopolis.html) | Demopolis <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
 | [26–28 March 2018](2018-03-28-SWG.html) | SWG | 0.0% | N/A | N/A | N/A | N/A |
 | [28 March 2018](2018-03-28-Piepoli.html) | Piepoli | 0.0% | N/A | N/A | N/A | N/A |
 | [27–28 March 2018](2018-03-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.0% | N/A | N/A | N/A | N/A |
@@ -66,6 +73,13 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [12 April 2018](2018-04-12-SWG.html) | SWG |  |  |  |  |  |
+| [11 April 2018](2018-04-11-IndexResearch.html) | Index Research <br> LA7 |  |  |  |  |  |
+| [9 April 2018](2018-04-09-Euromedia.html) | Euromedia |  |  |  |  |  |
+| [5 April 2018](2018-04-05-IndexResearch.html) | Index Research <br> LA7 |  |  |  |  |  |
+| [3–4 April 2018](2018-04-04-SWG.html) | SWG |  |  |  |  |  |
+| [3 April 2018](2018-04-03-Tecnè.html) | Tecnè <br> Canale 5 |  |  |  |  |  |
+| [2–3 April 2018](2018-04-03-Demopolis.html) | Demopolis <br> LA7 |  |  |  |  |  |
 | [26–28 March 2018](2018-03-28-SWG.html) | SWG |  |  |  |  |  |
 | [28 March 2018](2018-03-28-Piepoli.html) | Piepoli |  |  |  |  |  |
 | [27–28 March 2018](2018-03-28-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |

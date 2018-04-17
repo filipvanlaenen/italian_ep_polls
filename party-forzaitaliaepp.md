@@ -10,7 +10,14 @@ Last result: **16.8%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.8% | 11.2–14.5% | 10.7–15.1% | 10.2–15.6% | 9.4–16.7% |
+| N/A | [Poll Average](average.html) | 12.6% | 10.5–14.3% | 9.9–14.9% | 9.6–15.4% | 9.0–16.5% |
+| [12 April 2018](2018-04-12-SWG.html) | SWG | 10.1% | 9.3–11.0% | 9.1–11.3% | 8.9–11.5% | 8.5–12.0% |
+| [11 April 2018](2018-04-11-IndexResearch.html) | Index Research <br> LA7 | 11.8% | 10.4–13.3% | 10.0–13.8% | 9.7–14.2% | 9.1–15.0% |
+| [9 April 2018](2018-04-09-Euromedia.html) | Euromedia | 12.5% | 11.2–13.9% | 10.9–14.3% | 10.6–14.7% | 10.0–15.4% |
+| [5 April 2018](2018-04-05-IndexResearch.html) | Index Research <br> LA7 | 11.6% | 10.3–13.2% | 9.9–13.6% | 9.6–14.0% | 9.0–14.8% |
+| [3–4 April 2018](2018-04-04-SWG.html) | SWG | 9.9% | 9.1–10.8% | 8.9–11.1% | 8.7–11.3% | 8.3–11.8% |
+| [3 April 2018](2018-04-03-Tecnè.html) | Tecnè <br> Canale 5 | 13.2% | 11.9–14.7% | 11.6–15.1% | 11.3–15.5% | 10.7–16.2% |
+| [2–3 April 2018](2018-04-03-Demopolis.html) | Demopolis <br> LA7 | 12.5% | 11.5–13.7% | 11.2–14.0% | 10.9–14.3% | 10.5–14.9% |
 | [26–28 March 2018](2018-03-28-SWG.html) | SWG | 12.2% | 11.4–13.2% | 11.1–13.5% | 10.9–13.8% | 10.5–14.3% |
 | [28 March 2018](2018-03-28-Piepoli.html) | Piepoli | 13.5% | 11.8–15.7% | 11.2–16.2% | 10.8–16.8% | 10.0–17.8% |
 | [27–28 March 2018](2018-03-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 13.1% | 11.8–14.6% | 11.4–15.0% | 11.1–15.3% | 10.6–16.1% |
@@ -50,16 +57,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0.6% | 100% |  |
-| 9.5–10.5% | 3% | 99.3% |  |
-| 10.5–11.5% | 12% | 96% |  |
-| 11.5–12.5% | 27% | 84% |  |
-| 12.5–13.5% | 29% | 57% | Median |
-| 13.5–14.5% | 18% | 28% |  |
-| 14.5–15.5% | 7% | 10% |  |
-| 15.5–16.5% | 2% | 3% |  |
-| 16.5–17.5% | 0.5% | 0.6% | Last Result |
+| 6.5–7.5% | 0% | 100% |  |
+| 7.5–8.5% | 0.1% | 100% |  |
+| 8.5–9.5% | 2% | 99.9% |  |
+| 9.5–10.5% | 8% | 98% |  |
+| 10.5–11.5% | 12% | 90% |  |
+| 11.5–12.5% | 24% | 77% |  |
+| 12.5–13.5% | 29% | 53% | Median |
+| 13.5–14.5% | 17% | 24% |  |
+| 14.5–15.5% | 6% | 8% |  |
+| 15.5–16.5% | 1.5% | 2% |  |
+| 16.5–17.5% | 0.3% | 0.4% | Last Result |
 | 17.5–18.5% | 0.1% | 0.1% |  |
 | 18.5–19.5% | 0% | 0% |  |
 
@@ -72,7 +80,14 @@ Last result: **13** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 9–12 | 9–13 | 8–13 | 7–14 |
+| N/A | [Poll Average](average.html) | 10 | 9–12 | 8–12 | 8–13 | 8–14 |
+| [12 April 2018](2018-04-12-SWG.html) | SWG | 9 | 8–10 | 8–10 | 8–10 | 7–10 |
+| [11 April 2018](2018-04-11-IndexResearch.html) | Index Research <br> LA7 | 9 | 8–11 | 8–11 | 8–11 | 7–12 |
+| [9 April 2018](2018-04-09-Euromedia.html) | Euromedia | 10 | 9–11 | 9–12 | 9–12 | 8–13 |
+| [5 April 2018](2018-04-05-IndexResearch.html) | Index Research <br> LA7 | 9 | 8–11 | 8–11 | 8–11 | 7–12 |
+| [3–4 April 2018](2018-04-04-SWG.html) | SWG | 9 | 8–10 | 7–10 | 7–10 | 7–10 |
+| [3 April 2018](2018-04-03-Tecnè.html) | Tecnè <br> Canale 5 | 11 | 10–12 | 9–12 | 9–13 | 9–13 |
+| [2–3 April 2018](2018-04-03-Demopolis.html) | Demopolis <br> LA7 | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
 | [26–28 March 2018](2018-03-28-SWG.html) | SWG | 11 | 10–11 | 9–12 | 9–12 | 9–12 |
 | [28 March 2018](2018-03-28-Piepoli.html) | Piepoli | 12 | 10–13 | 9–13 | 9–14 | 8–15 |
 | [27–28 March 2018](2018-03-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 11 | 10–12 | 9–12 | 9–13 | 9–14 |
@@ -114,14 +129,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 0.5% | 100% |  |
-| 8 | 4% | 99.5% |  |
-| 9 | 14% | 95% |  |
-| 10 | 30% | 81% |  |
-| 11 | 31% | 51% | Median |
-| 12 | 14% | 20% |  |
-| 13 | 4% | 6% | Last Result |
-| 14 | 1.0% | 1.1% |  |
+| 7 | 0.4% | 100% |  |
+| 8 | 7% | 99.6% |  |
+| 9 | 20% | 93% |  |
+| 10 | 32% | 73% | Median |
+| 11 | 25% | 41% |  |
+| 12 | 11% | 16% |  |
+| 13 | 4% | 4% | Last Result |
+| 14 | 0.8% | 0.9% |  |
 | 15 | 0.1% | 0.1% |  |
 | 16 | 0% | 0% |  |
 

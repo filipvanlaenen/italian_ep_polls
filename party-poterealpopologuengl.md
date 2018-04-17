@@ -10,7 +10,14 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.4% | 0.8–1.9% | 0.7–2.0% | 0.6–2.2% | 0.5–2.4% |
+| N/A | [Poll Average](average.html) | 1.5% | 0.8–2.1% | 0.7–2.2% | 0.6–2.4% | 0.5–2.6% |
+| [12 April 2018](2018-04-12-SWG.html) | SWG | 1.8% | 1.5–2.3% | 1.4–2.4% | 1.3–2.5% | 1.2–2.7% |
+| [11 April 2018](2018-04-11-IndexResearch.html) | Index Research <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
+| [9 April 2018](2018-04-09-Euromedia.html) | Euromedia | 0.0% | N/A | N/A | N/A | N/A |
+| [5 April 2018](2018-04-05-IndexResearch.html) | Index Research <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
+| [3–4 April 2018](2018-04-04-SWG.html) | SWG | 1.7% | 1.4–2.1% | 1.3–2.3% | 1.2–2.4% | 1.1–2.6% |
+| [3 April 2018](2018-04-03-Tecnè.html) | Tecnè <br> Canale 5 | 0.0% | N/A | N/A | N/A | N/A |
+| [2–3 April 2018](2018-04-03-Demopolis.html) | Demopolis <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
 | [26–28 March 2018](2018-03-28-SWG.html) | SWG | 1.6% | 1.3–2.0% | 1.2–2.1% | 1.1–2.3% | 1.0–2.5% |
 | [28 March 2018](2018-03-28-Piepoli.html) | Piepoli | 0.0% | N/A | N/A | N/A | N/A |
 | [27–28 March 2018](2018-03-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.0% | N/A | N/A | N/A | N/A |
@@ -51,9 +58,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 1.1% | 100% | Last Result |
-| 0.5–1.5% | 61% | 98.9% | Median |
-| 1.5–2.5% | 37% | 37% |  |
-| 2.5–3.5% | 0.2% | 0.2% |  |
+| 0.5–1.5% | 50% | 98.9% |  |
+| 1.5–2.5% | 48% | 49% | Median |
+| 2.5–3.5% | 0.9% | 0.9% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -66,6 +73,13 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [12 April 2018](2018-04-12-SWG.html) | SWG | 0 | 0 | 0 | 0 | 0 |
+| [11 April 2018](2018-04-11-IndexResearch.html) | Index Research <br> LA7 |  |  |  |  |  |
+| [9 April 2018](2018-04-09-Euromedia.html) | Euromedia |  |  |  |  |  |
+| [5 April 2018](2018-04-05-IndexResearch.html) | Index Research <br> LA7 |  |  |  |  |  |
+| [3–4 April 2018](2018-04-04-SWG.html) | SWG | 0 | 0 | 0 | 0 | 0 |
+| [3 April 2018](2018-04-03-Tecnè.html) | Tecnè <br> Canale 5 |  |  |  |  |  |
+| [2–3 April 2018](2018-04-03-Demopolis.html) | Demopolis <br> LA7 |  |  |  |  |  |
 | [26–28 March 2018](2018-03-28-SWG.html) | SWG | 0 | 0 | 0 | 0 | 0 |
 | [28 March 2018](2018-03-28-Piepoli.html) | Piepoli |  |  |  |  |  |
 | [27–28 March 2018](2018-03-28-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
