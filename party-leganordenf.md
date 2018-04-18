@@ -93,9 +93,9 @@ Last result: **5** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 16 | 14–20 | 14–20 | 13–21 | 13–22 |
 | [12 April 2018](2018-04-12-SWG.html) | SWG | 20 | 19–22 | 18–22 | 18–22 | 18–23 |
 | [11 April 2018](2018-04-11-IndexResearch.html) | Index Research <br> LA7 | 18 | 17–20 | 16–20 | 16–21 | 15–21 |
-| [9 April 2018](2018-04-09-Euromedia.html) | Euromedia | 16 | 15–18 | 14–18 | 14–18 | 13–19 |
+| [9 April 2018](2018-04-09-Euromedia.html) | Euromedia | 16 | 15–17 | 14–18 | 14–18 | 13–19 |
 | [5 April 2018](2018-04-05-IndexResearch.html) | Index Research <br> LA7 | 18 | 17–20 | 16–20 | 16–21 | 15–22 |
-| [3–4 April 2018](2018-04-04-SWG.html) | SWG | 19 | 18–20 | 18–20 | 18–20 | 17–21 |
+| [3–4 April 2018](2018-04-04-SWG.html) | SWG | 19 | 18–20 | 18–21 | 18–21 | 17–22 |
 | [3 April 2018](2018-04-03-Tecnè.html) | Tecnè <br> Canale 5 | 16 | 15–17 | 14–18 | 14–18 | 13–19 |
 | [2–3 April 2018](2018-04-03-Demopolis.html) | Demopolis <br> LA7 | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
 | [26–28 March 2018](2018-03-28-SWG.html) | SWG | 18 | 17–19 | 16–20 | 16–20 | 16–20 |
@@ -148,7 +148,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0.4% | 100% |  |
 | 13 | 3% | 99.6% |  |
-| 14 | 10% | 96% |  |
+| 14 | 10% | 97% |  |
 | 15 | 20% | 87% |  |
 | 16 | 25% | 67% | Median |
 | 17 | 15% | 42% |  |
