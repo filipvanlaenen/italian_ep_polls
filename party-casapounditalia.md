@@ -10,8 +10,12 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.1% | 0.7–1.6% | 0.6–1.8% | 0.6–2.0% | 0.4–2.3% |
-| [12 April 2018](2018-04-12-SWG.html) | SWG | 0.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 1.1% | 0.5–1.9% | 0.5–2.1% | 0.4–2.2% | 0.3–2.5% |
+| [18–19 April 2018](2018-04-19-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.0% | N/A | N/A | N/A | N/A |
+| [16–18 April 2018](2018-04-18-SWG.html) | SWG | 0.0% | N/A | N/A | N/A | N/A |
+| [13 April 2018](2018-04-13-Euromedia.html) | Euromedia <br> Rete 4 | 0.0% | N/A | N/A | N/A | N/A |
+| [9–11 April 2018](2018-04-11-SWG.html) | SWG | 0.0% | N/A | N/A | N/A | N/A |
+| [9–11 April 2018](2018-04-11-Ixè.html) | Ixè <br> Huffington Post | 0.0% | N/A | N/A | N/A | N/A |
 | [11 April 2018](2018-04-11-IndexResearch.html) | Index Research <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
 | [9 April 2018](2018-04-09-Euromedia.html) | Euromedia | 0.0% | N/A | N/A | N/A | N/A |
 | [5 April 2018](2018-04-05-IndexResearch.html) | Index Research <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
@@ -57,10 +61,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 2% | 100% | Last Result |
-| 0.5–1.5% | 84% | 98% | Median |
-| 1.5–2.5% | 14% | 14% |  |
-| 2.5–3.5% | 0.1% | 0.1% |  |
+| 0.0–0.5% | 11% | 100% | Last Result |
+| 0.5–1.5% | 57% | 89% | Median |
+| 1.5–2.5% | 31% | 31% |  |
+| 2.5–3.5% | 0.4% | 0.4% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -73,7 +77,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [12 April 2018](2018-04-12-SWG.html) | SWG |  |  |  |  |  |
+| [18–19 April 2018](2018-04-19-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
+| [16–18 April 2018](2018-04-18-SWG.html) | SWG |  |  |  |  |  |
+| [13 April 2018](2018-04-13-Euromedia.html) | Euromedia <br> Rete 4 |  |  |  |  |  |
+| [9–11 April 2018](2018-04-11-SWG.html) | SWG |  |  |  |  |  |
+| [9–11 April 2018](2018-04-11-Ixè.html) | Ixè <br> Huffington Post |  |  |  |  |  |
 | [11 April 2018](2018-04-11-IndexResearch.html) | Index Research <br> LA7 |  |  |  |  |  |
 | [9 April 2018](2018-04-09-Euromedia.html) | Euromedia |  |  |  |  |  |
 | [5 April 2018](2018-04-05-IndexResearch.html) | Index Research <br> LA7 |  |  |  |  |  |
