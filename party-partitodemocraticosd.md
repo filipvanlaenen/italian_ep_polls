@@ -101,9 +101,9 @@ Last result: **31** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 15 | 12–19 | 12–19 | 12–19 | 11–21 |
-| [18–19 April 2018](2018-04-19-Ipsos.html) | Ipsos <br> Corriere della Sera | 15 | 14–17 | 14–17 | 13–18 | 12–18 |
+| [18–19 April 2018](2018-04-19-Ipsos.html) | Ipsos <br> Corriere della Sera | 15 | 14–17 | 13–17 | 13–17 | 12–18 |
 | [16–18 April 2018](2018-04-18-SWG.html) | SWG | 15 | 14–16 | 14–16 | 13–16 | 13–17 |
-| [13 April 2018](2018-04-13-Euromedia.html) | Euromedia <br> Rete 4 | 14 | 13–15 | 12–15 | 12–15 | 11–16 |
+| [13 April 2018](2018-04-13-Euromedia.html) | Euromedia <br> Rete 4 | 14 | 12–15 | 12–16 | 12–16 | 11–16 |
 | [9–11 April 2018](2018-04-11-SWG.html) | SWG | 16 | 15–17 | 14–17 | 14–17 | 13–18 |
 | [9–11 April 2018](2018-04-11-Ixè.html) | Ixè <br> Huffington Post | 13 | 12–13 | 12–14 | 11–14 | 11–16 |
 | [11 April 2018](2018-04-11-IndexResearch.html) | Index Research <br> LA7 | 13 | 12–15 | 12–15 | 11–16 | 11–17 |
@@ -154,11 +154,11 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.2% | 100% |  |
-| 11 | 1.4% | 99.8% |  |
-| 12 | 8% | 98% |  |
-| 13 | 20% | 90% |  |
-| 14 | 18% | 70% |  |
-| 15 | 14% | 52% | Median |
+| 11 | 2% | 99.8% |  |
+| 12 | 9% | 98% |  |
+| 13 | 20% | 89% |  |
+| 14 | 17% | 70% |  |
+| 15 | 14% | 53% | Median |
 | 16 | 6% | 39% |  |
 | 17 | 6% | 33% |  |
 | 18 | 16% | 27% |  |

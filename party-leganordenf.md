@@ -95,7 +95,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 15 | 11–19 | 10–20 | 10–20 | 9–21 |
-| [18–19 April 2018](2018-04-19-Ipsos.html) | Ipsos <br> Corriere della Sera | 16 | 15–18 | 15–18 | 15–19 | 13–19 |
+| [18–19 April 2018](2018-04-19-Ipsos.html) | Ipsos <br> Corriere della Sera | 16 | 15–18 | 15–18 | 14–18 | 13–19 |
 | [16–18 April 2018](2018-04-18-SWG.html) | SWG | 20 | 19–20 | 18–21 | 18–21 | 17–22 |
 | [13 April 2018](2018-04-13-Euromedia.html) | Euromedia <br> Rete 4 | 17 | 16–18 | 15–19 | 15–19 | 14–20 |
 | [9–11 April 2018](2018-04-11-SWG.html) | SWG | 20 | 19–21 | 19–22 | 18–22 | 18–22 |
@@ -156,11 +156,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 7% | 95% |  |
 | 12 | 17% | 88% |  |
 | 13 | 6% | 71% |  |
-| 14 | 5% | 65% |  |
+| 14 | 6% | 65% |  |
 | 15 | 12% | 60% | Median |
-| 16 | 16% | 48% |  |
-| 17 | 11% | 32% |  |
-| 18 | 10% | 22% |  |
+| 16 | 14% | 47% |  |
+| 17 | 11% | 33% |  |
+| 18 | 11% | 22% |  |
 | 19 | 6% | 11% |  |
 | 20 | 5% | 6% |  |
 | 21 | 0.7% | 0.8% |  |
