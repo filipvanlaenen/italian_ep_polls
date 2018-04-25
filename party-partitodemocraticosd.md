@@ -105,7 +105,7 @@ Last result: **31** seats (General Election of 25 May 2014)
 | [16–18 April 2018](2018-04-18-SWG.html) | SWG | 15 | 14–16 | 14–16 | 13–16 | 13–17 |
 | [13 April 2018](2018-04-13-Euromedia.html) | Euromedia <br> Rete 4 | 14 | 12–15 | 12–16 | 12–16 | 11–16 |
 | [9–11 April 2018](2018-04-11-SWG.html) | SWG | 16 | 15–17 | 14–17 | 14–17 | 13–18 |
-| [9–11 April 2018](2018-04-11-Ixè.html) | Ixè <br> Huffington Post | 13 | 12–13 | 12–14 | 11–14 | 11–16 |
+| [9–11 April 2018](2018-04-11-Ixè.html) | Ixè <br> Huffington Post | 13 | 12–15 | 11–15 | 11–15 | 10–16 |
 | [11 April 2018](2018-04-11-IndexResearch.html) | Index Research <br> LA7 | 13 | 12–15 | 12–15 | 11–16 | 11–17 |
 | [9 April 2018](2018-04-09-Euromedia.html) | Euromedia | 13 | 12–15 | 12–15 | 12–16 | 11–16 |
 | [5 April 2018](2018-04-05-IndexResearch.html) | Index Research <br> LA7 | 13 | 12–15 | 12–15 | 11–16 | 11–17 |
@@ -155,10 +155,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.2% | 100% |  |
 | 11 | 2% | 99.8% |  |
-| 12 | 9% | 98% |  |
-| 13 | 20% | 89% |  |
-| 14 | 17% | 70% |  |
-| 15 | 14% | 53% | Median |
+| 12 | 8% | 98% |  |
+| 13 | 19% | 90% |  |
+| 14 | 18% | 71% |  |
+| 15 | 15% | 54% | Median |
 | 16 | 6% | 39% |  |
 | 17 | 6% | 33% |  |
 | 18 | 16% | 27% |  |
