@@ -81,7 +81,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [18–19 April 2018](2018-04-19-Ipsos.html) | Ipsos <br> Corriere della Sera | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
-| [16–18 April 2018](2018-04-18-SWG.html) | SWG | 4 | 3–4 | 0–4 | 0–5 | 0–5 |
+| [16–18 April 2018](2018-04-18-SWG.html) | SWG | 4 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [13 April 2018](2018-04-13-Euromedia.html) | Euromedia <br> Rete 4 | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [9–11 April 2018](2018-04-11-SWG.html) | SWG | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [9–11 April 2018](2018-04-11-Ixè.html) | Ixè <br> Huffington Post | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
@@ -132,11 +132,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 23% | 100% | Last Result |
-| 1 | 0% | 77% |  |
-| 2 | 0% | 77% |  |
-| 3 | 15% | 77% |  |
-| 4 | 53% | 62% | Median |
+| 0 | 24% | 100% | Last Result |
+| 1 | 0% | 76% |  |
+| 2 | 0% | 76% |  |
+| 3 | 15% | 76% |  |
+| 4 | 52% | 61% | Median |
 | 5 | 9% | 9% |  |
 | 6 | 0.3% | 0.3% |  |
 | 7 | 0% | 0% |  |
