@@ -94,9 +94,9 @@ Last result: **17** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26 | 23–30 | 22–30 | 22–31 | 21–32 |
-| [23–25 April 2018](2018-04-25-SWG.html) | SWG | 30 | 29–32 | 29–32 | 28–32 | 27–32 |
-| [20 April 2018](2018-04-20-Tecnè.html) | Tecnè <br> TGcom24 | 26 | 25–28 | 24–28 | 24–29 | 23–30 |
+| N/A | [Poll Average](average.html) | 27 | 23–30 | 22–30 | 22–31 | 21–32 |
+| [23–25 April 2018](2018-04-25-SWG.html) | SWG | 30 | 28–31 | 27–32 | 27–32 | 26–32 |
+| [20 April 2018](2018-04-20-Tecnè.html) | Tecnè <br> TGcom24 | 26 | 25–28 | 24–29 | 24–29 | 23–30 |
 | [18–19 April 2018](2018-04-19-Ipsos.html) | Ipsos <br> Corriere della Sera | 27 | 26–29 | 25–30 | 25–30 | 24–32 |
 | [16–18 April 2018](2018-04-18-SWG.html) | SWG | 28 | 27–29 | 26–29 | 25–30 | 25–31 |
 | [18 April 2018](2018-04-18-IndexResearch.html) | Index Research <br> LA7 | 27 | 25–29 | 25–29 | 24–30 | 23–31 |
@@ -159,13 +159,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 23 | 13% | 94% |  |
 | 24 | 10% | 81% |  |
 | 25 | 9% | 71% |  |
-| 26 | 12% | 61% | Median |
-| 27 | 15% | 49% |  |
-| 28 | 13% | 34% |  |
-| 29 | 10% | 22% |  |
-| 30 | 6% | 11% |  |
-| 31 | 3% | 5% |  |
-| 32 | 2% | 2% |  |
+| 26 | 11% | 62% |  |
+| 27 | 16% | 50% | Median |
+| 28 | 14% | 35% |  |
+| 29 | 10% | 21% |  |
+| 30 | 6% | 10% |  |
+| 31 | 3% | 4% |  |
+| 32 | 1.2% | 1.4% |  |
 | 33 | 0.2% | 0.2% |  |
 | 34 | 0% | 0% |  |
 

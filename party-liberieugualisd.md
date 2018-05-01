@@ -86,7 +86,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [23–25 April 2018](2018-04-25-SWG.html) | SWG | 0 | 0 | 0 | 0 | 0 |
-| [20 April 2018](2018-04-20-Tecnè.html) | Tecnè <br> TGcom24 | 0 | 0 | 0 | 0 | 0–3 |
+| [20 April 2018](2018-04-20-Tecnè.html) | Tecnè <br> TGcom24 | 0 | 0 | 0 | 0–3 | 0–3 |
 | [18–19 April 2018](2018-04-19-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0–3 |
 | [16–18 April 2018](2018-04-18-SWG.html) | SWG | 0 | 0 | 0 | 0 | 0 |
 | [18 April 2018](2018-04-18-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0 | 0 | 0 |
