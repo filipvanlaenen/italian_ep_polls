@@ -11,8 +11,11 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.0% | 0.6–1.8% | 0.5–2.0% | 0.5–2.2% | 0.4–2.6% |
+| [23–25 April 2018](2018-04-25-SWG.html) | SWG | 0.0% | N/A | N/A | N/A | N/A |
+| [20 April 2018](2018-04-20-Tecnè.html) | Tecnè <br> TGcom24 | 0.0% | N/A | N/A | N/A | N/A |
 | [18–19 April 2018](2018-04-19-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.0% | N/A | N/A | N/A | N/A |
 | [16–18 April 2018](2018-04-18-SWG.html) | SWG | 0.0% | N/A | N/A | N/A | N/A |
+| [18 April 2018](2018-04-18-IndexResearch.html) | Index Research <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
 | [13 April 2018](2018-04-13-Euromedia.html) | Euromedia <br> Rete 4 | 0.0% | N/A | N/A | N/A | N/A |
 | [9–11 April 2018](2018-04-11-SWG.html) | SWG | 0.0% | N/A | N/A | N/A | N/A |
 | [9–11 April 2018](2018-04-11-Ixè.html) | Ixè <br> Huffington Post | 0.0% | N/A | N/A | N/A | N/A |
@@ -77,8 +80,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [23–25 April 2018](2018-04-25-SWG.html) | SWG |  |  |  |  |  |
+| [20 April 2018](2018-04-20-Tecnè.html) | Tecnè <br> TGcom24 |  |  |  |  |  |
 | [18–19 April 2018](2018-04-19-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
 | [16–18 April 2018](2018-04-18-SWG.html) | SWG |  |  |  |  |  |
+| [18 April 2018](2018-04-18-IndexResearch.html) | Index Research <br> LA7 |  |  |  |  |  |
 | [13 April 2018](2018-04-13-Euromedia.html) | Euromedia <br> Rete 4 |  |  |  |  |  |
 | [9–11 April 2018](2018-04-11-SWG.html) | SWG |  |  |  |  |  |
 | [9–11 April 2018](2018-04-11-Ixè.html) | Ixè <br> Huffington Post |  |  |  |  |  |

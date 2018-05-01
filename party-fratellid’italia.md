@@ -10,9 +10,12 @@ Last result: **3.7%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.5% | 3.6–5.4% | 3.3–5.6% | 3.1–5.9% | 2.6–6.5% |
+| N/A | [Poll Average](average.html) | 4.5% | 3.6–5.4% | 3.3–5.6% | 3.1–5.9% | 2.7–6.5% |
+| [23–25 April 2018](2018-04-25-SWG.html) | SWG | 3.9% | 3.4–4.5% | 3.2–4.7% | 3.1–4.8% | 2.9–5.2% |
+| [20 April 2018](2018-04-20-Tecnè.html) | Tecnè <br> TGcom24 | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
 | [18–19 April 2018](2018-04-19-Ipsos.html) | Ipsos <br> Corriere della Sera | 4.3% | 3.6–5.3% | 3.4–5.5% | 3.2–5.8% | 2.9–6.2% |
 | [16–18 April 2018](2018-04-18-SWG.html) | SWG | 4.4% | 3.9–5.0% | 3.7–5.2% | 3.6–5.4% | 3.3–5.7% |
+| [18 April 2018](2018-04-18-IndexResearch.html) | Index Research <br> LA7 | 3.8% | 3.0–4.8% | 2.8–5.1% | 2.6–5.3% | 2.3–5.8% |
 | [13 April 2018](2018-04-13-Euromedia.html) | Euromedia <br> Rete 4 | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
 | [9–11 April 2018](2018-04-11-SWG.html) | SWG | 4.1% | 3.6–4.7% | 3.4–4.9% | 3.3–5.1% | 3.1–5.4% |
 | [9–11 April 2018](2018-04-11-Ixè.html) | Ixè <br> Huffington Post | 4.6% | 3.9–5.6% | 3.6–5.9% | 3.5–6.1% | 3.1–6.6% |
@@ -63,9 +66,9 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0.3% | 100% |  |
-| 2.5–3.5% | 9% | 99.7% |  |
-| 3.5–4.5% | 45% | 91% | Last Result, Median |
-| 4.5–5.5% | 39% | 46% |  |
+| 2.5–3.5% | 10% | 99.7% |  |
+| 3.5–4.5% | 46% | 90% | Last Result, Median |
+| 4.5–5.5% | 38% | 44% |  |
 | 5.5–6.5% | 6% | 6% |  |
 | 6.5–7.5% | 0.4% | 0.4% |  |
 | 7.5–8.5% | 0% | 0% |  |
@@ -80,8 +83,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
+| [23–25 April 2018](2018-04-25-SWG.html) | SWG | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [20 April 2018](2018-04-20-Tecnè.html) | Tecnè <br> TGcom24 | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [18–19 April 2018](2018-04-19-Ipsos.html) | Ipsos <br> Corriere della Sera | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [16–18 April 2018](2018-04-18-SWG.html) | SWG | 4 | 0–4 | 0–4 | 0–5 | 0–5 |
+| [18 April 2018](2018-04-18-IndexResearch.html) | Index Research <br> LA7 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [13 April 2018](2018-04-13-Euromedia.html) | Euromedia <br> Rete 4 | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [9–11 April 2018](2018-04-11-SWG.html) | SWG | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [9–11 April 2018](2018-04-11-Ixè.html) | Ixè <br> Huffington Post | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
@@ -135,8 +141,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 24% | 100% | Last Result |
 | 1 | 0% | 76% |  |
 | 2 | 0% | 76% |  |
-| 3 | 15% | 76% |  |
-| 4 | 52% | 61% | Median |
+| 3 | 17% | 76% |  |
+| 4 | 50% | 59% | Median |
 | 5 | 9% | 9% |  |
 | 6 | 0.3% | 0.3% |  |
 | 7 | 0% | 0% |  |
