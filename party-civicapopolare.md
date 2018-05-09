@@ -11,15 +11,24 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.0% | 0.6–1.8% | 0.5–2.0% | 0.5–2.2% | 0.4–2.6% |
+| [30 April 2018](2018-04-30-Tecnè.html) | Tecnè <br> Canale 5 | 0.0% | N/A | N/A | N/A | N/A |
+| [30 April 2018](2018-04-30-Piepoli.html) | Piepoli <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
+| [30 April 2018](2018-04-30-Euromedia.html) | Euromedia <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
+| [24–30 April 2018](2018-04-30-Bidimedia.html) | Bidimedia | 0.0% | N/A | N/A | N/A | N/A |
+| [26–27 April 2018](2018-04-27-DemosPi.html) | Demos & Pi <br> La Repubblica | 0.0% | N/A | N/A | N/A | N/A |
+| [24–26 April 2018](2018-04-26-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
 | [23–25 April 2018](2018-04-25-SWG.html) | SWG | 0.0% | N/A | N/A | N/A | N/A |
+| [23 April 2018](2018-04-23-Piepoli.html) | Piepoli | 0.0% | N/A | N/A | N/A | N/A |
 | [20 April 2018](2018-04-20-Tecnè.html) | Tecnè <br> TGcom24 | 0.0% | N/A | N/A | N/A | N/A |
 | [18–19 April 2018](2018-04-19-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.0% | N/A | N/A | N/A | N/A |
 | [16–18 April 2018](2018-04-18-SWG.html) | SWG | 0.0% | N/A | N/A | N/A | N/A |
 | [18 April 2018](2018-04-18-IndexResearch.html) | Index Research <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
+| [16 April 2018](2018-04-16-Piepoli.html) | Piepoli | 0.0% | N/A | N/A | N/A | N/A |
 | [13 April 2018](2018-04-13-Euromedia.html) | Euromedia <br> Rete 4 | 0.0% | N/A | N/A | N/A | N/A |
 | [9–11 April 2018](2018-04-11-SWG.html) | SWG | 0.0% | N/A | N/A | N/A | N/A |
 | [9–11 April 2018](2018-04-11-Ixè.html) | Ixè <br> Huffington Post | 0.0% | N/A | N/A | N/A | N/A |
 | [11 April 2018](2018-04-11-IndexResearch.html) | Index Research <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
+| [9 April 2018](2018-04-09-Piepoli.html) | Piepoli | 0.0% | N/A | N/A | N/A | N/A |
 | [9 April 2018](2018-04-09-Euromedia.html) | Euromedia | 0.0% | N/A | N/A | N/A | N/A |
 | [5 April 2018](2018-04-05-IndexResearch.html) | Index Research <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
 | [3–4 April 2018](2018-04-04-SWG.html) | SWG | 0.0% | N/A | N/A | N/A | N/A |
@@ -80,15 +89,24 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [30 April 2018](2018-04-30-Tecnè.html) | Tecnè <br> Canale 5 |  |  |  |  |  |
+| [30 April 2018](2018-04-30-Piepoli.html) | Piepoli <br> Rai 1 |  |  |  |  |  |
+| [30 April 2018](2018-04-30-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
+| [24–30 April 2018](2018-04-30-Bidimedia.html) | Bidimedia |  |  |  |  |  |
+| [26–27 April 2018](2018-04-27-DemosPi.html) | Demos & Pi <br> La Repubblica |  |  |  |  |  |
+| [24–26 April 2018](2018-04-26-EMGAcqua.html) | EMG Acqua <br> Rai 3 |  |  |  |  |  |
 | [23–25 April 2018](2018-04-25-SWG.html) | SWG |  |  |  |  |  |
+| [23 April 2018](2018-04-23-Piepoli.html) | Piepoli |  |  |  |  |  |
 | [20 April 2018](2018-04-20-Tecnè.html) | Tecnè <br> TGcom24 |  |  |  |  |  |
 | [18–19 April 2018](2018-04-19-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
 | [16–18 April 2018](2018-04-18-SWG.html) | SWG |  |  |  |  |  |
 | [18 April 2018](2018-04-18-IndexResearch.html) | Index Research <br> LA7 |  |  |  |  |  |
+| [16 April 2018](2018-04-16-Piepoli.html) | Piepoli |  |  |  |  |  |
 | [13 April 2018](2018-04-13-Euromedia.html) | Euromedia <br> Rete 4 |  |  |  |  |  |
 | [9–11 April 2018](2018-04-11-SWG.html) | SWG |  |  |  |  |  |
 | [9–11 April 2018](2018-04-11-Ixè.html) | Ixè <br> Huffington Post |  |  |  |  |  |
 | [11 April 2018](2018-04-11-IndexResearch.html) | Index Research <br> LA7 |  |  |  |  |  |
+| [9 April 2018](2018-04-09-Piepoli.html) | Piepoli |  |  |  |  |  |
 | [9 April 2018](2018-04-09-Euromedia.html) | Euromedia |  |  |  |  |  |
 | [5 April 2018](2018-04-05-IndexResearch.html) | Index Research <br> LA7 |  |  |  |  |  |
 | [3–4 April 2018](2018-04-04-SWG.html) | SWG |  |  |  |  |  |
