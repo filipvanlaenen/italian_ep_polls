@@ -101,9 +101,9 @@ Last result: **13** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11 | 9–14 | 8–15 | 8–15 | 8–16 |
 | [30 April 2018](2018-04-30-Tecnè.html) | Tecnè <br> Canale 5 | 9 | 9–11 | 9–11 | 9–12 | 9–12 |
-| [30 April 2018](2018-04-30-Piepoli.html) | Piepoli <br> Rai 1 | 11 | 10–11 | 10–11 | 9–11 | 9–12 |
+| [30 April 2018](2018-04-30-Piepoli.html) | Piepoli <br> Rai 1 | 11 | 9–12 | 9–13 | 8–13 | 8–14 |
 | [30 April 2018](2018-04-30-Euromedia.html) | Euromedia <br> Rai 1 | 10 | 9–12 | 8–12 | 8–12 | 8–12 |
-| [24–30 April 2018](2018-04-30-Bidimedia.html) | Bidimedia | 9 | 8–11 | 8–11 | 8–11 | 8–11 |
+| [24–30 April 2018](2018-04-30-Bidimedia.html) | Bidimedia | 10 | 9–11 | 9–11 | 9–12 | 8–12 |
 | [26–27 April 2018](2018-04-27-DemosPi.html) | Demos & Pi <br> La Repubblica | 10 | 10–12 | 9–12 | 8–12 | 7–12 |
 | [24–26 April 2018](2018-04-26-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 10 | 9–10 | 9–10 | 9–10 | 9–11 |
 | [23–25 April 2018](2018-04-25-SWG.html) | SWG | 9 | 8–10 | 8–10 | 7–10 | 7–10 |

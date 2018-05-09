@@ -95,7 +95,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [30 April 2018](2018-04-30-Tecnè.html) | Tecnè <br> Canale 5 | 4 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [30 April 2018](2018-04-30-Piepoli.html) | Piepoli <br> Rai 1 | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [30 April 2018](2018-04-30-Euromedia.html) | Euromedia <br> Rai 1 | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [24–30 April 2018](2018-04-30-Bidimedia.html) | Bidimedia | 4 | 3–5 | 3–7 | 0–7 | 0–7 |
+| [24–30 April 2018](2018-04-30-Bidimedia.html) | Bidimedia | 4 | 3–4 | 3–5 | 0–5 | 0–5 |
 | [26–27 April 2018](2018-04-27-DemosPi.html) | Demos & Pi <br> La Repubblica | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | [24–26 April 2018](2018-04-26-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [23–25 April 2018](2018-04-25-SWG.html) | SWG | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
