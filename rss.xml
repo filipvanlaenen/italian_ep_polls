@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 10 May 2018 10:35:06 +0200</pubDate>
+    <pubDate>Thu, 10 May 2018 12:11:48 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Tecnè for Canale 5, 30 April 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-04-30-Tecnè.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 23–27 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 11–15 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 16–20 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 9–11 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (*): 0–4 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-04-30-Tecnè-seats.png"
+        length="160473"
+        type="image/png"/>
+      <pubDate>Thu, 10 May 2018 11:32:04 +0200</pubDate>
+      <dc:date>2018-05-10T11:32:04.274112+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Tecnè for Canale 5, 30 April 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-04-30-Tecnè.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-04-30-Tecnè-coalitions-seats.png"
+        length="125957"
+        type="image/png"/>
+      <pubDate>Thu, 10 May 2018 11:32:04 +0200</pubDate>
+      <dc:date>2018-05-10T11:32:04.274112+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Tecnè for Canale 5, 30 April 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-04-30-Tecnè.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-04-30-Tecnè.png"
         length="159652"
         type="image/png"/>
-      <pubDate>Wed, 09 May 2018 21:59:36 +0200</pubDate>
-      <dc:date>2018-05-09T21:59:36.696468+02:00</dc:date>
+      <pubDate>Thu, 10 May 2018 11:32:04 +0200</pubDate>
+      <dc:date>2018-05-10T11:32:04.274112+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Piepoli for Rai 1, 30 April 2018 – Seat Projections</title>
@@ -80,14 +100,54 @@
       <dc:date>2018-05-10T09:12:15.592756+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Bidimedia, 24–30 April 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-04-30-Bidimedia.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 27–32 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 12–16 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 16–20 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 8–12 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (*): 0–5 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Noi con l’Italia (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Potere al Popolo (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;CasaPound Italia (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-04-30-Bidimedia-seats.png"
+        length="207223"
+        type="image/png"/>
+      <pubDate>Thu, 10 May 2018 11:54:33 +0200</pubDate>
+      <dc:date>2018-05-10T11:54:33.820641+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Bidimedia, 24–30 April 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-04-30-Bidimedia.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-04-30-Bidimedia-coalitions-seats.png"
+        length="145880"
+        type="image/png"/>
+      <pubDate>Thu, 10 May 2018 11:54:33 +0200</pubDate>
+      <dc:date>2018-05-10T11:54:33.820641+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Bidimedia, 24–30 April 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-04-30-Bidimedia.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 31.4–37.6%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 14.8–19.7%&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 18.2–23.5%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 9.7–13.9%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (*): 3.4–6.2%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 1.6–3.7%&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 1.3–3.1%&lt;/li&gt;&lt;li&gt;Noi con l’Italia (EPP): 0.7–2.2%&lt;/li&gt;&lt;li&gt;Potere al Popolo (GUE/NGL): 1.1–2.9%&lt;/li&gt;&lt;li&gt;CasaPound Italia (*): 0.4–1.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-04-30-Bidimedia.png"
         length="262972"
         type="image/png"/>
-      <pubDate>Wed, 09 May 2018 21:25:34 +0200</pubDate>
-      <dc:date>2018-05-09T21:25:34.973513+02:00</dc:date>
+      <pubDate>Thu, 10 May 2018 11:54:33 +0200</pubDate>
+      <dc:date>2018-05-10T11:54:33.820641+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demos &amp; Pi for La Repubblica, 26–27 April 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-04-27-DemosPi.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 24–30 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 12–16 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 16–20 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 9–12 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (*): 0–4 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0–3 seats&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-04-27-DemosPi-seats.png"
+        length="162392"
+        type="image/png"/>
+      <pubDate>Thu, 10 May 2018 10:52:50 +0200</pubDate>
+      <dc:date>2018-05-10T10:52:50.724209+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demos &amp; Pi for La Repubblica, 26–27 April 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-04-27-DemosPi.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-04-27-DemosPi-coalitions-seats.png"
+        length="136257"
+        type="image/png"/>
+      <pubDate>Thu, 10 May 2018 10:52:50 +0200</pubDate>
+      <dc:date>2018-05-10T10:52:50.724209+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Demos &amp; Pi for La Repubblica, 26–27 April 2018 – Voting Intentions</title>
@@ -96,8 +156,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-04-27-DemosPi.png"
         length="181948"
         type="image/png"/>
-      <pubDate>Thu, 10 May 2018 10:35:06 +0200</pubDate>
-      <dc:date>2018-05-10T10:35:06.255007+02:00</dc:date>
+      <pubDate>Thu, 10 May 2018 10:52:50 +0200</pubDate>
+      <dc:date>2018-05-10T10:52:50.724209+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by EMG Acqua for Rai 3, 24–26 April 2018 – Seat Projections</title>
@@ -460,14 +520,34 @@
       <dc:date>2018-04-17T19:26:46.702933+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Piepoli, 9 April 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-04-09-Piepoli.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 25–32 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 11–16 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 13–19 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 9–14 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (*): 0–4 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Noi con l’Italia (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-04-09-Piepoli-seats.png"
+        length="180347"
+        type="image/png"/>
+      <pubDate>Thu, 10 May 2018 12:11:48 +0200</pubDate>
+      <dc:date>2018-05-10T12:11:48.709064+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Piepoli, 9 April 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-04-09-Piepoli.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-04-09-Piepoli-coalitions-seats.png"
+        length="148551"
+        type="image/png"/>
+      <pubDate>Thu, 10 May 2018 12:11:48 +0200</pubDate>
+      <dc:date>2018-05-10T12:11:48.709064+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Piepoli, 9 April 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-04-09-Piepoli.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 31.0–39.3%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 14.5–21.1%&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 16.3–23.2%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 11.2–17.3%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (*): 2.3–5.5%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 1.1–3.6%&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 1.1–3.6%&lt;/li&gt;&lt;li&gt;Noi con l’Italia (EPP): 0.4–2.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-04-09-Piepoli.png"
         length="207575"
         type="image/png"/>
-      <pubDate>Wed, 09 May 2018 21:50:11 +0200</pubDate>
-      <dc:date>2018-05-09T21:50:11.647758+02:00</dc:date>
+      <pubDate>Thu, 10 May 2018 12:11:48 +0200</pubDate>
+      <dc:date>2018-05-10T12:11:48.709064+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Euromedia, 9 April 2018 – Seat Projections</title>
@@ -1579,6 +1659,6 @@
       <pubDate>Tue, 10 Apr 2018 21:24:48 +0200</pubDate>
       <dc:date>2018-04-10T21:24:48.959229+02:00</dc:date>
     </item>
-    <dc:date>2018-05-10T10:35:06.255007+02:00</dc:date>
+    <dc:date>2018-05-10T12:11:48.709064+02:00</dc:date>
   </channel>
 </rss>
