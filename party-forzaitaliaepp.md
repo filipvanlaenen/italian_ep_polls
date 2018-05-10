@@ -10,7 +10,7 @@ Last result: **16.8%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.1% | 10.9–16.7% | 10.1–17.7% | 9.7–18.5% | 9.0–19.8% |
+| N/A | [Poll Average](average.html) | 12.4% | 10.4–13.9% | 9.9–14.4% | 9.5–14.8% | 8.9–15.9% |
 | [30 April 2018](2018-04-30-Tecnè.html) | Tecnè <br> Canale 5 | 12.6% | 11.6–13.7% | 11.3–14.1% | 11.1–14.4% | 10.6–14.9% |
 | [30 April 2018](2018-04-30-Piepoli.html) | Piepoli <br> Rai 1 | 13.1% | 11.3–15.2% | 10.8–15.8% | 10.4–16.3% | 9.6–17.4% |
 | [30 April 2018](2018-04-30-Euromedia.html) | Euromedia <br> Rai 1 | 12.4% | 11.0–14.0% | 10.6–14.4% | 10.3–14.8% | 9.6–15.7% |
@@ -74,21 +74,17 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0.1% | 100% |  |
-| 8.5–9.5% | 2% | 99.9% |  |
-| 9.5–10.5% | 5% | 98% |  |
-| 10.5–11.5% | 11% | 92% |  |
-| 11.5–12.5% | 20% | 82% |  |
-| 12.5–13.5% | 19% | 61% | Median |
-| 13.5–14.5% | 10% | 42% |  |
-| 14.5–15.5% | 11% | 32% |  |
-| 15.5–16.5% | 10% | 22% |  |
-| 16.5–17.5% | 6% | 11% | Last Result |
-| 17.5–18.5% | 3% | 6% |  |
-| 18.5–19.5% | 2% | 2% |  |
-| 19.5–20.5% | 0.5% | 0.7% |  |
-| 20.5–21.5% | 0.1% | 0.1% |  |
-| 21.5–22.5% | 0% | 0% |  |
+| 7.5–8.5% | 0.2% | 100% |  |
+| 8.5–9.5% | 3% | 99.8% |  |
+| 9.5–10.5% | 8% | 97% |  |
+| 10.5–11.5% | 16% | 89% |  |
+| 11.5–12.5% | 30% | 74% | Median |
+| 12.5–13.5% | 28% | 44% |  |
+| 13.5–14.5% | 12% | 16% |  |
+| 14.5–15.5% | 3% | 4% |  |
+| 15.5–16.5% | 0.7% | 0.8% |  |
+| 16.5–17.5% | 0.1% | 0.2% | Last Result |
+| 17.5–18.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -99,11 +95,11 @@ Last result: **13** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 9–14 | 9–15 | 8–15 | 8–16 |
+| N/A | [Poll Average](average.html) | 10 | 9–11 | 8–12 | 8–12 | 7–13 |
 | [30 April 2018](2018-04-30-Tecnè.html) | Tecnè <br> Canale 5 | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
 | [30 April 2018](2018-04-30-Piepoli.html) | Piepoli <br> Rai 1 | 11 | 9–12 | 9–13 | 8–13 | 8–14 |
 | [30 April 2018](2018-04-30-Euromedia.html) | Euromedia <br> Rai 1 | 10 | 9–11 | 9–12 | 8–12 | 8–13 |
-| [24–30 April 2018](2018-04-30-Bidimedia.html) | Bidimedia | 10 | 9–11 | 9–11 | 9–12 | 8–12 |
+| [24–30 April 2018](2018-04-30-Bidimedia.html) | Bidimedia | 10 | 9–11 | 9–11 | 8–12 | 8–12 |
 | [26–27 April 2018](2018-04-27-DemosPi.html) | Demos & Pi <br> La Repubblica | 10 | 9–11 | 9–12 | 9–12 | 8–13 |
 | [24–26 April 2018](2018-04-26-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 10 | 10–12 | 9–12 | 9–12 | 9–13 |
 | [23–25 April 2018](2018-04-25-SWG.html) | SWG | 9 | 8–10 | 8–10 | 7–10 | 7–10 |
@@ -117,7 +113,7 @@ Last result: **13** seats (General Election of 25 May 2014)
 | [9–11 April 2018](2018-04-11-SWG.html) | SWG | 9 | 8–10 | 8–10 | 8–10 | 7–10 |
 | [9–11 April 2018](2018-04-11-Ixè.html) | Ixè <br> Huffington Post | 10 | 9–11 | 9–12 | 9–12 | 8–13 |
 | [11 April 2018](2018-04-11-IndexResearch.html) | Index Research <br> LA7 | 9 | 8–11 | 8–11 | 8–11 | 7–12 |
-| [9 April 2018](2018-04-09-Piepoli.html) | Piepoli | 11 | 10–13 | 9–14 | 9–14 | 8–15 |
+| [9 April 2018](2018-04-09-Piepoli.html) | Piepoli | 12 | 10–13 | 10–14 | 9–14 | 8–15 |
 | [9 April 2018](2018-04-09-Euromedia.html) | Euromedia | 10 | 9–11 | 9–12 | 9–12 | 8–13 |
 | [5 April 2018](2018-04-05-IndexResearch.html) | Index Research <br> LA7 | 9 | 8–11 | 8–11 | 8–11 | 7–12 |
 | [3–4 April 2018](2018-04-04-SWG.html) | SWG | 9 | 8–9 | 8–10 | 7–10 | 7–10 |
@@ -164,18 +160,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 0.4% | 100% |  |
-| 8 | 4% | 99.6% |  |
-| 9 | 14% | 95% |  |
-| 10 | 26% | 81% |  |
-| 11 | 18% | 55% | Median |
-| 12 | 11% | 37% |  |
-| 13 | 15% | 26% | Last Result |
-| 14 | 6% | 11% |  |
-| 15 | 3% | 5% |  |
-| 16 | 2% | 2% |  |
-| 17 | 0.3% | 0.3% |  |
-| 18 | 0% | 0.1% |  |
-| 19 | 0% | 0% |  |
+| 7 | 0.6% | 100% |  |
+| 8 | 6% | 99.4% |  |
+| 9 | 21% | 93% |  |
+| 10 | 38% | 72% | Median |
+| 11 | 26% | 34% |  |
+| 12 | 7% | 9% |  |
+| 13 | 1.1% | 1.3% | Last Result |
+| 14 | 0.2% | 0.2% |  |
+| 15 | 0% | 0% |  |
 
 
