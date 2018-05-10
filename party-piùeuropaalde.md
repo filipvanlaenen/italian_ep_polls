@@ -97,7 +97,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [26–27 April 2018](2018-04-27-DemosPi.html) | Demos & Pi <br> La Repubblica | 0 | 0 | 0 | 0 | 0 |
 | [24–26 April 2018](2018-04-26-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [23–25 April 2018](2018-04-25-SWG.html) | SWG | 0 | 0 | 0 | 0 | 0 |
-| [23 April 2018](2018-04-23-Piepoli.html) | Piepoli | 0 | 0 | 0 | 0 | 0 |
+| [23 April 2018](2018-04-23-Piepoli.html) | Piepoli | 0 | 0 | 0 | 0 | 0–3 |
 | [20 April 2018](2018-04-20-Tecnè.html) | Tecnè <br> TGcom24 |  |  |  |  |  |
 | [18–19 April 2018](2018-04-19-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
 | [16–18 April 2018](2018-04-18-SWG.html) | SWG | 0 | 0 | 0 | 0 | 0 |
@@ -107,7 +107,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [9–11 April 2018](2018-04-11-SWG.html) | SWG | 0 | 0 | 0 | 0 | 0 |
 | [9–11 April 2018](2018-04-11-Ixè.html) | Ixè <br> Huffington Post | 0 | 0 | 0 | 0 | 0 |
 | [11 April 2018](2018-04-11-IndexResearch.html) | Index Research <br> LA7 |  |  |  |  |  |
-| [9 April 2018](2018-04-09-Piepoli.html) | Piepoli | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
+| [9 April 2018](2018-04-09-Piepoli.html) | Piepoli | 0 | 0 | 0 | 0 | 0–3 |
 | [9 April 2018](2018-04-09-Euromedia.html) | Euromedia | 0 | 0 | 0 | 0 | 0 |
 | [5 April 2018](2018-04-05-IndexResearch.html) | Index Research <br> LA7 |  |  |  |  |  |
 | [3–4 April 2018](2018-04-04-SWG.html) | SWG | 0 | 0 | 0 | 0 | 0 |
@@ -157,7 +157,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 99.9% | 100% | Last Result, Median |
 | 1 | 0% | 0.1% |  |
 | 2 | 0% | 0.1% |  |
-| 3 | 0% | 0.1% |  |
+| 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
 

@@ -94,19 +94,19 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
-| [30 April 2018](2018-04-30-Tecnè.html) | Tecnè <br> Canale 5 | 0 | 0 | 0 | 0 | 0 |
+| [30 April 2018](2018-04-30-Tecnè.html) | Tecnè <br> Canale 5 | 0 | 0 | 0–3 | 0–3 | 0–4 |
 | [30 April 2018](2018-04-30-Piepoli.html) | Piepoli <br> Rai 1 | 0 | 0 | 0 | 0–3 | 0–4 |
-| [30 April 2018](2018-04-30-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [30 April 2018](2018-04-30-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [24–30 April 2018](2018-04-30-Bidimedia.html) | Bidimedia | 0 | 0 | 0 | 0 | 0–4 |
-| [26–27 April 2018](2018-04-27-DemosPi.html) | Demos & Pi <br> La Repubblica | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
-| [24–26 April 2018](2018-04-26-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0 | 0 | 0 | 0 | 0–4 |
+| [26–27 April 2018](2018-04-27-DemosPi.html) | Demos & Pi <br> La Repubblica | 0 | 0 | 0–3 | 0–3 | 0–4 |
+| [24–26 April 2018](2018-04-26-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0 | 0 | 0–3 | 0–3 | 0–4 |
 | [23–25 April 2018](2018-04-25-SWG.html) | SWG | 0 | 0 | 0 | 0 | 0 |
-| [23 April 2018](2018-04-23-Piepoli.html) | Piepoli | 0 | 0 | 0 | 0 | 0 |
+| [23 April 2018](2018-04-23-Piepoli.html) | Piepoli | 0 | 0 | 0 | 0 | 0–3 |
 | [20 April 2018](2018-04-20-Tecnè.html) | Tecnè <br> TGcom24 | 0 | 0 | 0 | 0–3 | 0–3 |
 | [18–19 April 2018](2018-04-19-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0–3 |
 | [16–18 April 2018](2018-04-18-SWG.html) | SWG | 0 | 0 | 0 | 0 | 0 |
 | [18 April 2018](2018-04-18-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0 | 0 | 0 |
-| [16 April 2018](2018-04-16-Piepoli.html) | Piepoli | 0 | 0 | 0 | 0 | 0 |
+| [16 April 2018](2018-04-16-Piepoli.html) | Piepoli | 0 | 0 | 0 | 0 | 0–3 |
 | [13 April 2018](2018-04-13-Euromedia.html) | Euromedia <br> Rete 4 | 0 | 0 | 0 | 0–3 | 0–4 |
 | [9–11 April 2018](2018-04-11-SWG.html) | SWG | 0 | 0 | 0 | 0 | 0 |
 | [9–11 April 2018](2018-04-11-Ixè.html) | Ixè <br> Huffington Post | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
@@ -158,11 +158,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 64% | 100% | Last Result, Median |
-| 1 | 0% | 36% |  |
-| 2 | 0% | 36% |  |
-| 3 | 0.9% | 36% |  |
-| 4 | 18% | 35% |  |
+| 0 | 65% | 100% | Last Result, Median |
+| 1 | 0% | 35% |  |
+| 2 | 0% | 35% |  |
+| 3 | 3% | 35% |  |
+| 4 | 15% | 32% |  |
 | 5 | 16% | 17% |  |
 | 6 | 0.9% | 1.0% |  |
 | 7 | 0.1% | 0.1% |  |

@@ -103,25 +103,25 @@ Last result: **17** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26 | 23–30 | 22–30 | 22–31 | 21–32 |
-| [30 April 2018](2018-04-30-Tecnè.html) | Tecnè <br> Canale 5 | 25 | 25–27 | 24–27 | 24–27 | 24–27 |
-| [30 April 2018](2018-04-30-Piepoli.html) | Piepoli <br> Rai 1 | 27 | 25–29 | 24–30 | 23–30 | 23–31 |
-| [30 April 2018](2018-04-30-Euromedia.html) | Euromedia <br> Rai 1 | 26 | 26–30 | 26–30 | 26–30 | 22–30 |
+| N/A | [Poll Average](average.html) | 27 | 23–30 | 22–30 | 22–31 | 21–32 |
+| [30 April 2018](2018-04-30-Tecnè.html) | Tecnè <br> Canale 5 | 25 | 24–26 | 23–27 | 23–27 | 22–28 |
+| [30 April 2018](2018-04-30-Piepoli.html) | Piepoli <br> Rai 1 | 27 | 25–29 | 24–30 | 23–31 | 22–32 |
+| [30 April 2018](2018-04-30-Euromedia.html) | Euromedia <br> Rai 1 | 27 | 25–29 | 24–29 | 24–30 | 23–31 |
 | [24–30 April 2018](2018-04-30-Bidimedia.html) | Bidimedia | 29 | 28–31 | 28–31 | 27–32 | 26–33 |
-| [26–27 April 2018](2018-04-27-DemosPi.html) | Demos & Pi <br> La Repubblica | 27 | 26–30 | 26–30 | 25–30 | 24–30 |
-| [24–26 April 2018](2018-04-26-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 28 | 28–30 | 28–30 | 28–31 | 26–31 |
+| [26–27 April 2018](2018-04-27-DemosPi.html) | Demos & Pi <br> La Repubblica | 27 | 25–29 | 25–29 | 24–30 | 23–30 |
+| [24–26 April 2018](2018-04-26-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 29 | 27–30 | 27–31 | 27–32 | 26–32 |
 | [23–25 April 2018](2018-04-25-SWG.html) | SWG | 30 | 28–31 | 27–32 | 27–32 | 26–32 |
-| [23 April 2018](2018-04-23-Piepoli.html) | Piepoli | 27 | 27 | 27 | 26–27 | 25–28 |
+| [23 April 2018](2018-04-23-Piepoli.html) | Piepoli | 28 | 25–30 | 25–31 | 24–31 | 23–32 |
 | [20 April 2018](2018-04-20-Tecnè.html) | Tecnè <br> TGcom24 | 26 | 25–28 | 24–29 | 24–29 | 23–30 |
 | [18–19 April 2018](2018-04-19-Ipsos.html) | Ipsos <br> Corriere della Sera | 27 | 26–29 | 25–30 | 25–30 | 24–32 |
 | [16–18 April 2018](2018-04-18-SWG.html) | SWG | 28 | 27–29 | 26–29 | 25–30 | 25–31 |
 | [18 April 2018](2018-04-18-IndexResearch.html) | Index Research <br> LA7 | 27 | 25–29 | 25–29 | 24–30 | 23–31 |
-| [16 April 2018](2018-04-16-Piepoli.html) | Piepoli | 27 | 27 | 26–27 | 25–27 | 25–27 |
+| [16 April 2018](2018-04-16-Piepoli.html) | Piepoli | 28 | 26–31 | 25–31 | 24–31 | 23–33 |
 | [13 April 2018](2018-04-13-Euromedia.html) | Euromedia <br> Rete 4 | 27 | 26–30 | 25–30 | 25–31 | 25–32 |
 | [9–11 April 2018](2018-04-11-SWG.html) | SWG | 28 | 26–30 | 26–31 | 26–31 | 25–31 |
 | [9–11 April 2018](2018-04-11-Ixè.html) | Ixè <br> Huffington Post | 29 | 27–31 | 26–32 | 26–32 | 25–33 |
 | [11 April 2018](2018-04-11-IndexResearch.html) | Index Research <br> LA7 | 27 | 25–29 | 25–29 | 24–30 | 23–31 |
-| [9 April 2018](2018-04-09-Piepoli.html) | Piepoli | 29 | 27–29 | 27–29 | 27–29 | 23–31 |
+| [9 April 2018](2018-04-09-Piepoli.html) | Piepoli | 28 | 26–31 | 25–32 | 25–32 | 24–34 |
 | [9 April 2018](2018-04-09-Euromedia.html) | Euromedia | 28 | 26–30 | 26–30 | 25–31 | 24–31 |
 | [5 April 2018](2018-04-05-IndexResearch.html) | Index Research <br> LA7 | 27 | 25–29 | 25–30 | 24–30 | 24–31 |
 | [3–4 April 2018](2018-04-04-SWG.html) | SWG | 30 | 28–31 | 28–31 | 27–32 | 26–32 |
@@ -173,18 +173,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 0% | 100% |  |
 | 20 | 0.4% | 100% |  |
 | 21 | 2% | 99.6% |  |
-| 22 | 3% | 98% |  |
-| 23 | 12% | 94% |  |
-| 24 | 9% | 82% |  |
-| 25 | 11% | 73% |  |
-| 26 | 13% | 61% | Median |
-| 27 | 9% | 48% |  |
-| 28 | 13% | 39% |  |
-| 29 | 13% | 26% |  |
-| 30 | 9% | 12% |  |
+| 22 | 4% | 98% |  |
+| 23 | 13% | 94% |  |
+| 24 | 11% | 81% |  |
+| 25 | 10% | 70% |  |
+| 26 | 10% | 60% |  |
+| 27 | 13% | 50% | Median |
+| 28 | 12% | 37% |  |
+| 29 | 14% | 25% |  |
+| 30 | 6% | 10% |  |
 | 31 | 3% | 4% |  |
-| 32 | 0.7% | 0.9% |  |
-| 33 | 0.1% | 0.1% |  |
+| 32 | 1.1% | 1.3% |  |
+| 33 | 0.2% | 0.2% |  |
 | 34 | 0% | 0% |  |
 
 

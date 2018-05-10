@@ -112,25 +112,25 @@ Last result: **31** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 12–18 | 12–19 | 12–19 | 11–21 |
-| [30 April 2018](2018-04-30-Tecnè.html) | Tecnè <br> Canale 5 | 12 | 12 | 12–13 | 12–13 | 11–13 |
-| [30 April 2018](2018-04-30-Piepoli.html) | Piepoli <br> Rai 1 | 14 | 12–15 | 12–16 | 11–16 | 10–18 |
-| [30 April 2018](2018-04-30-Euromedia.html) | Euromedia <br> Rai 1 | 14 | 12–16 | 12–16 | 12–16 | 12–16 |
+| N/A | [Poll Average](average.html) | 14 | 12–18 | 12–19 | 12–19 | 11–21 |
+| [30 April 2018](2018-04-30-Tecnè.html) | Tecnè <br> Canale 5 | 13 | 12–14 | 12–14 | 11–15 | 11–15 |
+| [30 April 2018](2018-04-30-Piepoli.html) | Piepoli <br> Rai 1 | 14 | 12–15 | 11–16 | 11–17 | 10–18 |
+| [30 April 2018](2018-04-30-Euromedia.html) | Euromedia <br> Rai 1 | 14 | 12–15 | 12–16 | 11–16 | 11–17 |
 | [24–30 April 2018](2018-04-30-Bidimedia.html) | Bidimedia | 13 | 12–14 | 12–15 | 12–16 | 12–16 |
-| [26–27 April 2018](2018-04-27-DemosPi.html) | Demos & Pi <br> La Repubblica | 14 | 11–14 | 11–15 | 11–15 | 10–16 |
-| [24–26 April 2018](2018-04-26-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 15 | 14–15 | 13–15 | 12–15 | 12–15 |
+| [26–27 April 2018](2018-04-27-DemosPi.html) | Demos & Pi <br> La Repubblica | 13 | 12–15 | 12–15 | 12–16 | 11–16 |
+| [24–26 April 2018](2018-04-26-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
 | [23–25 April 2018](2018-04-25-SWG.html) | SWG | 14 | 13–15 | 13–16 | 13–16 | 12–17 |
-| [23 April 2018](2018-04-23-Piepoli.html) | Piepoli | 12 | 12 | 12 | 11–12 | 11–12 |
+| [23 April 2018](2018-04-23-Piepoli.html) | Piepoli | 13 | 12–15 | 11–16 | 11–16 | 10–17 |
 | [20 April 2018](2018-04-20-Tecnè.html) | Tecnè <br> TGcom24 | 13 | 12–15 | 12–15 | 11–15 | 11–16 |
 | [18–19 April 2018](2018-04-19-Ipsos.html) | Ipsos <br> Corriere della Sera | 15 | 14–17 | 13–17 | 13–17 | 12–18 |
 | [16–18 April 2018](2018-04-18-SWG.html) | SWG | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
 | [18 April 2018](2018-04-18-IndexResearch.html) | Index Research <br> LA7 | 13 | 12–15 | 11–15 | 11–15 | 10–16 |
-| [16 April 2018](2018-04-16-Piepoli.html) | Piepoli | 13 | 13 | 12–13 | 12–13 | 11–13 |
+| [16 April 2018](2018-04-16-Piepoli.html) | Piepoli | 13 | 11–15 | 11–16 | 11–16 | 10–17 |
 | [13 April 2018](2018-04-13-Euromedia.html) | Euromedia <br> Rete 4 | 14 | 12–15 | 12–16 | 12–16 | 11–16 |
 | [9–11 April 2018](2018-04-11-SWG.html) | SWG | 15 | 15–17 | 14–17 | 14–17 | 13–18 |
 | [9–11 April 2018](2018-04-11-Ixè.html) | Ixè <br> Huffington Post | 13 | 12–15 | 11–15 | 11–15 | 10–16 |
 | [11 April 2018](2018-04-11-IndexResearch.html) | Index Research <br> LA7 | 13 | 12–15 | 12–15 | 11–16 | 11–17 |
-| [9 April 2018](2018-04-09-Piepoli.html) | Piepoli | 12 | 12–14 | 12–14 | 12–14 | 12–15 |
+| [9 April 2018](2018-04-09-Piepoli.html) | Piepoli | 13 | 12–15 | 11–16 | 11–16 | 10–18 |
 | [9 April 2018](2018-04-09-Euromedia.html) | Euromedia | 13 | 12–15 | 12–15 | 12–16 | 11–16 |
 | [5 April 2018](2018-04-05-IndexResearch.html) | Index Research <br> LA7 | 13 | 12–15 | 12–15 | 11–16 | 11–17 |
 | [3–4 April 2018](2018-04-04-SWG.html) | SWG | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
@@ -177,14 +177,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 0.1% | 100% |  |
-| 10 | 0.1% | 99.9% |  |
+| 10 | 0.1% | 100% |  |
 | 11 | 2% | 99.8% |  |
-| 12 | 16% | 98% |  |
-| 13 | 12% | 82% |  |
-| 14 | 18% | 70% |  |
-| 15 | 11% | 52% | Median |
-| 16 | 11% | 41% |  |
+| 12 | 11% | 98% |  |
+| 13 | 21% | 87% |  |
+| 14 | 20% | 66% | Median |
+| 15 | 11% | 46% |  |
+| 16 | 5% | 36% |  |
 | 17 | 5% | 30% |  |
 | 18 | 15% | 25% |  |
 | 19 | 8% | 10% |  |
