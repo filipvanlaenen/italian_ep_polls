@@ -11,6 +11,9 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.9% | 1.5–2.7% | 1.3–2.9% | 1.2–3.2% | 1.0–3.6% |
+| [2–3 May 2018](2018-05-03-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.0% | N/A | N/A | N/A | N/A |
+| [2–3 May 2018](2018-05-03-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
+| [2 May 2018](2018-05-02-IndexResearch.html) | Index Research | 0.0% | N/A | N/A | N/A | N/A |
 | [30 April 2018](2018-04-30-Tecnè.html) | Tecnè <br> Canale 5 | 0.0% | N/A | N/A | N/A | N/A |
 | [30 April 2018](2018-04-30-Piepoli.html) | Piepoli <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
 | [30 April 2018](2018-04-30-Euromedia.html) | Euromedia <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
@@ -90,6 +93,9 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [2–3 May 2018](2018-05-03-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
+| [2–3 May 2018](2018-05-03-EMGAcqua.html) | EMG Acqua <br> Rai 3 |  |  |  |  |  |
+| [2 May 2018](2018-05-02-IndexResearch.html) | Index Research |  |  |  |  |  |
 | [30 April 2018](2018-04-30-Tecnè.html) | Tecnè <br> Canale 5 |  |  |  |  |  |
 | [30 April 2018](2018-04-30-Piepoli.html) | Piepoli <br> Rai 1 |  |  |  |  |  |
 | [30 April 2018](2018-04-30-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |

@@ -11,6 +11,9 @@ Last result: **6.2%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 21.6% | 19.3–23.8% | 18.7–24.4% | 18.2–24.9% | 17.3–25.8% |
+| [2–3 May 2018](2018-05-03-Ipsos.html) | Ipsos <br> Corriere della Sera | 21.2% | 19.6–22.9% | 19.2–23.4% | 18.8–23.9% | 18.0–24.7% |
+| [2–3 May 2018](2018-05-03-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 23.5% | 22.2–24.9% | 21.9–25.3% | 21.6–25.6% | 21.0–26.3% |
+| [2 May 2018](2018-05-02-IndexResearch.html) | Index Research | 24.1% | 22.3–26.2% | 21.7–26.7% | 21.3–27.2% | 20.4–28.2% |
 | [30 April 2018](2018-04-30-Tecnè.html) | Tecnè <br> Canale 5 | 22.8% | 21.5–24.2% | 21.1–24.6% | 20.8–24.9% | 20.2–25.6% |
 | [30 April 2018](2018-04-30-Piepoli.html) | Piepoli <br> Rai 1 | 21.0% | 18.8–23.5% | 18.2–24.2% | 17.7–24.8% | 16.7–26.0% |
 | [30 April 2018](2018-04-30-Euromedia.html) | Euromedia <br> Rai 1 | 21.8% | 20.0–23.7% | 19.4–24.3% | 19.0–24.8% | 18.2–25.7% |
@@ -107,6 +110,9 @@ Last result: **5** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18 | 15–20 | 15–21 | 15–21 | 14–22 |
+| [2–3 May 2018](2018-05-03-Ipsos.html) | Ipsos <br> Corriere della Sera | 18 | 16–19 | 16–20 | 16–20 | 15–21 |
+| [2–3 May 2018](2018-05-03-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 19 | 18–20 | 17–21 | 17–21 | 17–22 |
+| [2 May 2018](2018-05-02-IndexResearch.html) | Index Research | 20 | 18–21 | 17–22 | 17–22 | 16–23 |
 | [30 April 2018](2018-04-30-Tecnè.html) | Tecnè <br> Canale 5 | 18 | 17–19 | 17–20 | 16–20 | 16–20 |
 | [30 April 2018](2018-04-30-Piepoli.html) | Piepoli <br> Rai 1 | 17 | 15–19 | 15–20 | 14–20 | 13–21 |
 | [30 April 2018](2018-04-30-Euromedia.html) | Euromedia <br> Rai 1 | 18 | 16–19 | 16–20 | 15–20 | 15–21 |
