@@ -8,7 +8,7 @@ The table below lists the polls on which the average is based. They are the most
 
 | Period     | Polling firm/Commissioner(s) | PD | M5S | FI | LN | FdI | SVP | CPI | CP | I | NcI | +E | LeU | PaP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 25 May 2014 | General Election | 40.8% <br> 31 | 21.1% <br> 17 | 16.8% <br> 13 | 6.2% <br> 5 | 3.7% <br> 0 | 0.5% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| 25 May 2014 | General Election | 40.8% <br> 31 | 21.2% <br> 17 | 16.8% <br> 13 | 6.2% <br> 5 | 3.7% <br> 0 | 0.5% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 15–21% <br> 11–16 | 30–37% <br> 24–31 | 10–15% <br> 8–12 | 18–25% <br> 15–21 | 3–6% <br> 0–5 | N/A <br> N/A | 0–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | 0–2% <br> 0 | 1–3% <br> 0 | 2–4% <br> 0–3 | 1–3% <br> 0 |
 | [30 April 2018](2018-04-30-Tecnè.html) | Tecnè <br> Canale 5 | 16–20% <br> 11–15 | 30–34% <br> 23–27 | 11–14% <br> 9–11 | 21–25% <br> 16–20 | 3–6% <br> 0–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–4% <br> 0–3 | N/A <br> N/A |
 | [30 April 2018](2018-04-30-Piepoli.html) | Piepoli <br> Rai 1 | 15–22% <br> 11–17 | 29–37% <br> 23–31 | 10–16% <br> 8–13 | 18–25% <br> 14–20 | 3–6% <br> 0–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–2% <br> 0 | 1–4% <br> 0 | 2–4% <br> 0–3 | N/A <br> N/A |
@@ -21,7 +21,7 @@ The table below lists the polls on which the average is based. They are the most
 | [18 April 2018](2018-04-18-IndexResearch.html) | Index Research <br> LA7 | 15–21% <br> 11–15 | 31–37% <br> 24–30 | 10–14% <br> 8–12 | 20–26% <br> 16–20 | 3–5% <br> 0–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A |
 | [9–11 April 2018](2018-04-11-Ixè.html) | Ixè <br> Huffington Post | 14–19% <br> 11–15 | 31–37% <br> 26–32 | 10–14% <br> 9–12 | 19–24% <br> 15–20 | 3–6% <br> 0–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | 1–2% <br> 0 | 3–5% <br> 0–4 | 2–4% <br> 0 |
 | [2–3 April 2018](2018-04-03-Demopolis.html) | Demopolis <br> LA7 | 16–20% <br> 11–15 | 33–37% <br> 25–30 | 11–14% <br> 9–11 | 18–22% <br> 14–17 | 4–6% <br> 0–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A |
-| 25 May 2014 | General Election | 40.8% <br> 31 | 21.1% <br> 17 | 16.8% <br> 13 | 6.2% <br> 5 | 3.7% <br> 0 | 0.5% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| 25 May 2014 | General Election | 40.8% <br> 31 | 21.2% <br> 17 | 16.8% <br> 13 | 6.2% <br> 5 | 3.7% <br> 0 | 0.5% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
 
@@ -53,7 +53,7 @@ Only polls for which at least the sample size has been published are included in
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#partito-democratico-(s&d)">Partito Democratico (S&D)</a> | 40.8% | 17.8% | 16.2–19.7% |15.7–20.3% | 15.2–20.9% | 14.4–22.0% |
-| <a href="#movimento-5-stelle-(efdd)">Movimento 5 Stelle (EFDD)</a> | 21.1% | 33.8% | 31.4–35.9% |30.7–36.4% | 30.2–36.9% | 29.1–38.0% |
+| <a href="#movimento-5-stelle-(efdd)">Movimento 5 Stelle (EFDD)</a> | 21.2% | 33.8% | 31.4–35.9% |30.7–36.4% | 30.2–36.9% | 29.1–38.0% |
 | <a href="#forza-italia-(epp)">Forza Italia (EPP)</a> | 16.8% | 12.4% | 10.4–13.9% |9.9–14.4% | 9.5–14.8% | 8.9–15.9% |
 | <a href="#lega-nord-(enf)">Lega Nord (ENF)</a> | 6.2% | 21.6% | 19.3–23.8% |18.7–24.4% | 18.2–24.9% | 17.3–25.8% |
 | <a href="#fratelli-d’italia-(*)">Fratelli d’Italia (*)</a> | 3.7% | 4.3% | 3.4–5.2% |3.2–5.5% | 3.0–5.8% | 2.6–6.3% |
