@@ -11,6 +11,15 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.9% | 1.5–2.7% | 1.3–2.9% | 1.2–3.2% | 1.0–3.6% |
+| [9–13 May 2018](2018-05-13-SWG.html) | SWG <br> LA7 | 1.6% | 1.2–2.1% | 1.2–2.3% | 1.1–2.4% | 0.9–2.6% |
+| [10–11 May 2018](2018-05-11-Ixè.html) | Ixè | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
+| [9–10 May 2018](2018-05-10-Euromedia.html) | Euromedia | 0.0% | N/A | N/A | N/A | N/A |
+| [8–10 May 2018](2018-05-10-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 2.4% | 2.0–3.0% | 1.9–3.2% | 1.8–3.3% | 1.6–3.6% |
+| [9–10 May 2018](2018-05-10-Demopolis.html) | Demopolis <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
+| [8 May 2018](2018-05-08-Tecnè.html) | Tecnè <br> Canale 5 | 0.0% | N/A | N/A | N/A | N/A |
+| [7 May 2018](2018-05-07-Piepoli.html) | Piepoli <br> Sky TG 24 | 0.0% | N/A | N/A | N/A | N/A |
+| [5–6 May 2018](2018-05-06-Tecnè.html) | Tecnè <br> TGcom24 | 0.0% | N/A | N/A | N/A | N/A |
+| [3–6 May 2018](2018-05-06-SWG.html) | SWG | 1.5% | 1.2–2.0% | 1.1–2.2% | 1.0–2.3% | 0.9–2.6% |
 | [2–3 May 2018](2018-05-03-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.0% | N/A | N/A | N/A | N/A |
 | [2–3 May 2018](2018-05-03-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
 | [2 May 2018](2018-05-02-IndexResearch.html) | Index Research | 0.0% | N/A | N/A | N/A | N/A |
@@ -93,6 +102,15 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [9–13 May 2018](2018-05-13-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
+| [10–11 May 2018](2018-05-11-Ixè.html) | Ixè | 0 | 0 | 0 | 0 | 0 |
+| [9–10 May 2018](2018-05-10-Euromedia.html) | Euromedia |  |  |  |  |  |
+| [8–10 May 2018](2018-05-10-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
+| [9–10 May 2018](2018-05-10-Demopolis.html) | Demopolis <br> LA7 |  |  |  |  |  |
+| [8 May 2018](2018-05-08-Tecnè.html) | Tecnè <br> Canale 5 |  |  |  |  |  |
+| [7 May 2018](2018-05-07-Piepoli.html) | Piepoli <br> Sky TG 24 |  |  |  |  |  |
+| [5–6 May 2018](2018-05-06-Tecnè.html) | Tecnè <br> TGcom24 |  |  |  |  |  |
+| [3–6 May 2018](2018-05-06-SWG.html) | SWG | 0 | 0 | 0 | 0 | 0 |
 | [2–3 May 2018](2018-05-03-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
 | [2–3 May 2018](2018-05-03-EMGAcqua.html) | EMG Acqua <br> Rai 3 |  |  |  |  |  |
 | [2 May 2018](2018-05-02-IndexResearch.html) | Index Research |  |  |  |  |  |

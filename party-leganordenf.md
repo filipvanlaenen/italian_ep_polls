@@ -11,6 +11,15 @@ Last result: **6.2%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 21.6% | 19.3–23.8% | 18.7–24.4% | 18.2–24.9% | 17.3–25.8% |
+| [9–13 May 2018](2018-05-13-SWG.html) | SWG <br> LA7 | 25.5% | 24.1–27.0% | 23.7–27.5% | 23.4–27.8% | 22.7–28.5% |
+| [10–11 May 2018](2018-05-11-Ixè.html) | Ixè | 22.0% | 20.4–23.7% | 19.9–24.2% | 19.5–24.7% | 18.8–25.5% |
+| [9–10 May 2018](2018-05-10-Euromedia.html) | Euromedia | 22.8% | 20.9–24.7% | 20.4–25.3% | 20.0–25.8% | 19.1–26.8% |
+| [8–10 May 2018](2018-05-10-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 23.2% | 21.9–24.6% | 21.5–25.0% | 21.2–25.3% | 20.6–26.0% |
+| [9–10 May 2018](2018-05-10-Demopolis.html) | Demopolis <br> LA7 | 23.0% | 21.6–24.4% | 21.3–24.8% | 20.9–25.2% | 20.3–25.9% |
+| [8 May 2018](2018-05-08-Tecnè.html) | Tecnè <br> Canale 5 | 22.6% | 21.0–24.4% | 20.5–24.9% | 20.1–25.3% | 19.4–26.2% |
+| [7 May 2018](2018-05-07-Piepoli.html) | Piepoli <br> Sky TG 24 | 21.0% | 18.8–23.5% | 18.2–24.2% | 17.7–24.8% | 16.7–26.0% |
+| [5–6 May 2018](2018-05-06-Tecnè.html) | Tecnè <br> TGcom24 | 22.3% | 21.0–23.8% | 20.6–24.2% | 20.3–24.5% | 19.7–25.2% |
+| [3–6 May 2018](2018-05-06-SWG.html) | SWG | 24.4% | 23.0–25.9% | 22.6–26.3% | 22.3–26.6% | 21.6–27.4% |
 | [2–3 May 2018](2018-05-03-Ipsos.html) | Ipsos <br> Corriere della Sera | 21.2% | 19.6–22.9% | 19.2–23.4% | 18.8–23.9% | 18.0–24.7% |
 | [2–3 May 2018](2018-05-03-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 23.5% | 22.2–24.9% | 21.9–25.3% | 21.6–25.6% | 21.0–26.3% |
 | [2 May 2018](2018-05-02-IndexResearch.html) | Index Research | 24.1% | 22.3–26.2% | 21.7–26.7% | 21.3–27.2% | 20.4–28.2% |
@@ -110,6 +119,15 @@ Last result: **5** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18 | 15–20 | 15–21 | 15–21 | 14–22 |
+| [9–13 May 2018](2018-05-13-SWG.html) | SWG <br> LA7 | 22 | 21–24 | 20–24 | 20–24 | 19–25 |
+| [10–11 May 2018](2018-05-11-Ixè.html) | Ixè | 19 | 17–20 | 16–21 | 16–21 | 15–22 |
+| [9–10 May 2018](2018-05-10-Euromedia.html) | Euromedia | 18 | 17–20 | 17–21 | 16–21 | 15–22 |
+| [8–10 May 2018](2018-05-10-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 19 | 18–20 | 18–21 | 17–21 | 17–22 |
+| [9–10 May 2018](2018-05-10-Demopolis.html) | Demopolis <br> LA7 | 18 | 17–19 | 17–20 | 17–20 | 16–21 |
+| [8 May 2018](2018-05-08-Tecnè.html) | Tecnè <br> Canale 5 | 18 | 17–20 | 16–20 | 16–20 | 15–21 |
+| [7 May 2018](2018-05-07-Piepoli.html) | Piepoli <br> Sky TG 24 | 17 | 15–19 | 15–20 | 14–20 | 13–21 |
+| [5–6 May 2018](2018-05-06-Tecnè.html) | Tecnè <br> TGcom24 | 18 | 17–19 | 16–19 | 16–20 | 15–20 |
+| [3–6 May 2018](2018-05-06-SWG.html) | SWG | 20 | 19–22 | 19–22 | 18–23 | 17–23 |
 | [2–3 May 2018](2018-05-03-Ipsos.html) | Ipsos <br> Corriere della Sera | 18 | 16–19 | 16–20 | 16–20 | 15–21 |
 | [2–3 May 2018](2018-05-03-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 19 | 18–20 | 17–21 | 17–21 | 17–22 |
 | [2 May 2018](2018-05-02-IndexResearch.html) | Index Research | 20 | 18–21 | 17–22 | 17–22 | 16–23 |
