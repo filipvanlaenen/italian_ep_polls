@@ -10,7 +10,7 @@ Last result: **3.7%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.3% | 3.4–5.2% | 3.2–5.5% | 3.0–5.8% | 2.6–6.3% |
+| N/A | [Poll Average](average.html) | 4.1% | 3.3–5.1% | 3.0–5.4% | 2.9–5.7% | 2.5–6.3% |
 | [9–13 May 2018](2018-05-13-SWG.html) | SWG <br> LA7 | 3.8% | 3.2–4.5% | 3.1–4.7% | 2.9–4.9% | 2.7–5.3% |
 | [10–11 May 2018](2018-05-11-Ixè.html) | Ixè | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–6.0% |
 | [9–10 May 2018](2018-05-10-Euromedia.html) | Euromedia | 3.9% | 3.1–4.9% | 2.9–5.2% | 2.7–5.5% | 2.4–6.0% |
@@ -86,11 +86,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.4% | 100% |  |
-| 2.5–3.5% | 13% | 99.6% |  |
-| 3.5–4.5% | 51% | 86% | Last Result, Median |
-| 4.5–5.5% | 30% | 35% |  |
-| 5.5–6.5% | 4% | 4% |  |
+| 1.5–2.5% | 0.6% | 100% |  |
+| 2.5–3.5% | 20% | 99.4% |  |
+| 3.5–4.5% | 52% | 79% | Last Result, Median |
+| 4.5–5.5% | 24% | 28% |  |
+| 5.5–6.5% | 3% | 4% |  |
 | 6.5–7.5% | 0.2% | 0.2% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
@@ -109,7 +109,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [9–10 May 2018](2018-05-10-Euromedia.html) | Euromedia | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [8–10 May 2018](2018-05-10-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 4 | 3–5 | 0–5 | 0–5 | 0–5 |
 | [9–10 May 2018](2018-05-10-Demopolis.html) | Demopolis <br> LA7 | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
-| [8 May 2018](2018-05-08-Tecnè.html) | Tecnè <br> Canale 5 | 0 | 0–3 | 0–4 | 0–4 | 0–5 |
+| [8 May 2018](2018-05-08-Tecnè.html) | Tecnè <br> Canale 5 | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [7 May 2018](2018-05-07-Piepoli.html) | Piepoli <br> Sky TG 24 | 3 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [5–6 May 2018](2018-05-06-Tecnè.html) | Tecnè <br> TGcom24 | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [3–6 May 2018](2018-05-06-SWG.html) | SWG | 4 | 0–4 | 0–4 | 0–5 | 0–5 |
@@ -180,13 +180,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 34% | 100% | Last Result |
-| 1 | 0% | 66% |  |
-| 2 | 0% | 66% |  |
-| 3 | 18% | 66% | Median |
-| 4 | 43% | 48% |  |
-| 5 | 4% | 5% |  |
-| 6 | 0.2% | 0.2% |  |
+| 0 | 45% | 100% | Last Result |
+| 1 | 0% | 55% |  |
+| 2 | 0% | 55% |  |
+| 3 | 16% | 55% | Median |
+| 4 | 35% | 39% |  |
+| 5 | 4% | 4% |  |
+| 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
 
 
