@@ -11,6 +11,14 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.8% | 0.5–1.3% | 0.4–1.4% | 0.4–1.6% | 0.3–1.9% |
+| [22–23 May 2018](2018-05-23-Demopolis.html) | Demopolis | 0.0% | N/A | N/A | N/A | N/A |
+| [16–20 May 2018](2018-05-20-SWG.html) | SWG <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
+| [16–18 May 2018](2018-05-18-Tecnè.html) | Tecnè <br> TGcom24 | 0.0% | N/A | N/A | N/A | N/A |
+| [17–18 May 2018](2018-05-18-DemosPi.html) | Demos & Pi | 0.0% | N/A | N/A | N/A | N/A |
+| [16–17 May 2018](2018-05-17-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.0% | N/A | N/A | N/A | N/A |
+| [15–17 May 2018](2018-05-17-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
+| [16 May 2018](2018-05-16-IndexResearch.html) | Index Research <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
+| [16 May 2018](2018-05-16-Euromedia.html) | Euromedia <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
 | [9–13 May 2018](2018-05-13-SWG.html) | SWG <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
 | [10–11 May 2018](2018-05-11-Ixè.html) | Ixè | 0.0% | N/A | N/A | N/A | N/A |
 | [9–10 May 2018](2018-05-10-Euromedia.html) | Euromedia | 0.0% | N/A | N/A | N/A | N/A |
@@ -100,6 +108,14 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [22–23 May 2018](2018-05-23-Demopolis.html) | Demopolis |  |  |  |  |  |
+| [16–20 May 2018](2018-05-20-SWG.html) | SWG <br> LA7 |  |  |  |  |  |
+| [16–18 May 2018](2018-05-18-Tecnè.html) | Tecnè <br> TGcom24 |  |  |  |  |  |
+| [17–18 May 2018](2018-05-18-DemosPi.html) | Demos & Pi |  |  |  |  |  |
+| [16–17 May 2018](2018-05-17-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
+| [15–17 May 2018](2018-05-17-EMGAcqua.html) | EMG Acqua <br> Rai 3 |  |  |  |  |  |
+| [16 May 2018](2018-05-16-IndexResearch.html) | Index Research <br> LA7 |  |  |  |  |  |
+| [16 May 2018](2018-05-16-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
 | [9–13 May 2018](2018-05-13-SWG.html) | SWG <br> LA7 |  |  |  |  |  |
 | [10–11 May 2018](2018-05-11-Ixè.html) | Ixè |  |  |  |  |  |
 | [9–10 May 2018](2018-05-10-Euromedia.html) | Euromedia |  |  |  |  |  |
