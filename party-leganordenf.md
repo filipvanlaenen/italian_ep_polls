@@ -128,12 +128,12 @@ Last result: **5** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 16–20 | 16–21 | 15–21 | 14–23 |
+| N/A | [Poll Average](average.html) | 18 | 16–21 | 16–22 | 15–22 | 14–23 |
 | [22–23 May 2018](2018-05-23-Demopolis.html) | Demopolis | 19 | 18–20 | 18–21 | 17–21 | 17–22 |
 | [16–20 May 2018](2018-05-20-SWG.html) | SWG <br> LA7 | 20 | 19–22 | 19–22 | 19–23 | 18–23 |
 | [16–18 May 2018](2018-05-18-Tecnè.html) | Tecnè <br> TGcom24 | 19 | 18–20 | 17–20 | 17–20 | 16–21 |
 | [17–18 May 2018](2018-05-18-DemosPi.html) | Demos & Pi | 18 | 17–20 | 16–20 | 16–20 | 15–21 |
-| [16–17 May 2018](2018-05-17-Ipsos.html) | Ipsos <br> Corriere della Sera | 20 | 20 | 20 | 20 | 19–25 |
+| [16–17 May 2018](2018-05-17-Ipsos.html) | Ipsos <br> Corriere della Sera | 21 | 20–23 | 19–23 | 19–24 | 18–25 |
 | [15–17 May 2018](2018-05-17-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 17 | 16–18 | 16–19 | 16–19 | 15–20 |
 | [16 May 2018](2018-05-16-IndexResearch.html) | Index Research <br> LA7 | 17 | 16–19 | 15–19 | 15–20 | 14–20 |
 | [16 May 2018](2018-05-16-Euromedia.html) | Euromedia <br> Rai 1 | 18 | 16–19 | 16–20 | 16–20 | 15–21 |
@@ -228,12 +228,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 18% | 86% |  |
 | 18 | 22% | 69% | Median |
 | 19 | 21% | 47% |  |
-| 20 | 20% | 26% |  |
-| 21 | 5% | 6% |  |
-| 22 | 1.0% | 2% |  |
-| 23 | 0.4% | 0.5% |  |
-| 24 | 0% | 0.1% |  |
-| 25 | 0.1% | 0.1% |  |
+| 20 | 13% | 26% |  |
+| 21 | 8% | 13% |  |
+| 22 | 4% | 5% |  |
+| 23 | 1.1% | 2% |  |
+| 24 | 0.4% | 0.4% |  |
+| 25 | 0% | 0.1% |  |
 | 26 | 0% | 0% |  |
 
 

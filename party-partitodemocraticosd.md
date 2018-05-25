@@ -137,7 +137,7 @@ Last result: **31** seats (General Election of 25 May 2014)
 | [16–20 May 2018](2018-05-20-SWG.html) | SWG <br> LA7 | 15 | 14–16 | 13–16 | 13–17 | 13–18 |
 | [16–18 May 2018](2018-05-18-Tecnè.html) | Tecnè <br> TGcom24 | 13 | 13–15 | 12–15 | 12–15 | 12–15 |
 | [17–18 May 2018](2018-05-18-DemosPi.html) | Demos & Pi | 13 | 12–15 | 12–15 | 11–15 | 11–16 |
-| [16–17 May 2018](2018-05-17-Ipsos.html) | Ipsos <br> Corriere della Sera | 14 | 14 | 14–15 | 13–15 | 12–16 |
+| [16–17 May 2018](2018-05-17-Ipsos.html) | Ipsos <br> Corriere della Sera | 15 | 13–16 | 13–16 | 12–16 | 11–17 |
 | [15–17 May 2018](2018-05-17-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 14 | 12–14 | 12–15 | 12–15 | 12–16 |
 | [16 May 2018](2018-05-16-IndexResearch.html) | Index Research <br> LA7 | 14 | 13–15 | 12–16 | 12–16 | 11–17 |
 | [16 May 2018](2018-05-16-Euromedia.html) | Euromedia <br> Rai 1 | 13 | 12–15 | 11–15 | 11–16 | 10–16 |
@@ -220,12 +220,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0.2% | 100% |  |
 | 11 | 2% | 99.8% |  |
 | 12 | 12% | 98% |  |
-| 13 | 27% | 86% |  |
-| 14 | 36% | 59% | Median |
-| 15 | 16% | 23% |  |
-| 16 | 5% | 7% |  |
-| 17 | 1.4% | 2% |  |
-| 18 | 0.2% | 0.3% |  |
+| 13 | 27% | 85% |  |
+| 14 | 30% | 58% | Median |
+| 15 | 20% | 28% |  |
+| 16 | 6% | 8% |  |
+| 17 | 2% | 2% |  |
+| 18 | 0.3% | 0.3% |  |
 | 19 | 0.1% | 0.1% |  |
 | 20 | 0% | 0% |  |
 | 21 | 0% | 0% |  |
