@@ -14,7 +14,7 @@ The table below lists the polls on which the average is based. They are the most
 | [16–20 May 2018](2018-05-20-SWG.html) | SWG <br> LA7 | 17–21% <br> 13–17 | 29–34% <br> 24–28 | 8–11% <br> 7–9 | 22–27% <br> 19–23 | 4–6% <br> 0–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | 1–3% <br> 0 | 2–4% <br> 0 | 1–3% <br> 0 |
 | [16–18 May 2018](2018-05-18-Tecnè.html) | Tecnè <br> TGcom24 | 17–20% <br> 12–15 | 30–34% <br> 23–27 | 11–14% <br> 9–12 | 21–25% <br> 17–20 | 3–5% <br> 0–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A |
 | [17–18 May 2018](2018-05-18-DemosPi.html) | Demos & Pi | 15–20% <br> 11–15 | 28–34% <br> 23–28 | 11–15% <br> 9–13 | 20–25% <br> 16–20 | 3–5% <br> 0–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | 2–4% <br> 0 | N/A <br> N/A |
-| [16–17 May 2018](2018-05-17-Ipsos.html) | Ipsos <br> Corriere della Sera | 16–21% <br> 12–16 | 30–36% <br> 25–30 | 10–14% <br> 8–12 | 23–28% <br> 19–24 | 2–5% <br> 0–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | 1–3% <br> 0 | 2–4% <br> 0 | N/A <br> N/A |
+| [16–17 May 2018](2018-05-17-Ipsos.html) | Ipsos <br> Corriere della Sera | 16–21% <br> 12–16 | 30–36% <br> 24–30 | 10–14% <br> 8–12 | 23–28% <br> 19–24 | 2–5% <br> 0–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | 1–3% <br> 0 | 2–4% <br> 0 | N/A <br> N/A |
 | [15–17 May 2018](2018-05-17-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 16–20% <br> 12–15 | 30–34% <br> 23–28 | 11–15% <br> 9–12 | 20–24% <br> 16–19 | 4–6% <br> 0–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | 1–2% <br> 0 | 3–5% <br> 0–4 | N/A <br> N/A |
 | [16 May 2018](2018-05-16-IndexResearch.html) | Index Research <br> LA7 | 16–22% <br> 12–16 | 27–33% <br> 21–26 | 11–16% <br> 9–13 | 19–25% <br> 15–20 | 3–6% <br> 0–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A |
 | [16 May 2018](2018-05-16-Euromedia.html) | Euromedia <br> Rai 1 | 15–20% <br> 11–16 | 28–35% <br> 23–28 | 12–16% <br> 9–13 | 19–25% <br> 16–20 | 3–6% <br> 0–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | 1–3% <br> 0 | 2–4% <br> 0–3 | N/A <br> N/A |
@@ -295,10 +295,10 @@ Only polls for which at least the sample size has been published are included in
 | 12 | 12% | 98% |  |
 | 13 | 27% | 85% |  |
 | 14 | 30% | 58% | Median |
-| 15 | 20% | 28% |  |
-| 16 | 6% | 8% |  |
+| 15 | 19% | 28% |  |
+| 16 | 7% | 8% |  |
 | 17 | 2% | 2% |  |
-| 18 | 0.3% | 0.3% |  |
+| 18 | 0.2% | 0.3% |  |
 | 19 | 0.1% | 0.1% |  |
 | 20 | 0% | 0% |  |
 | 21 | 0% | 0% |  |
@@ -331,7 +331,7 @@ Only polls for which at least the sample size has been published are included in
 | 24 | 13% | 93% |  |
 | 25 | 21% | 80% |  |
 | 26 | 23% | 59% | Median |
-| 27 | 15% | 36% |  |
+| 27 | 16% | 36% |  |
 | 28 | 9% | 20% |  |
 | 29 | 5% | 11% |  |
 | 30 | 4% | 6% |  |
@@ -383,11 +383,11 @@ Only polls for which at least the sample size has been published are included in
 | 18 | 22% | 69% | Median |
 | 19 | 21% | 47% |  |
 | 20 | 13% | 26% |  |
-| 21 | 8% | 13% |  |
-| 22 | 4% | 5% |  |
-| 23 | 1.1% | 2% |  |
+| 21 | 7% | 13% |  |
+| 22 | 3% | 5% |  |
+| 23 | 1.4% | 2% |  |
 | 24 | 0.4% | 0.4% |  |
-| 25 | 0% | 0.1% |  |
+| 25 | 0.1% | 0.1% |  |
 | 26 | 0% | 0% |  |
 
 ### Fratelli d’Italia (*)
@@ -401,7 +401,7 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 40% | 100% | Last Result |
 | 1 | 0% | 60% |  |
 | 2 | 0% | 60% |  |
-| 3 | 16% | 60% | Median |
+| 3 | 17% | 60% | Median |
 | 4 | 39% | 43% |  |
 | 5 | 4% | 5% |  |
 | 6 | 0.2% | 0.2% |  |
@@ -497,7 +497,7 @@ Only polls for which at least the sample size has been published are included in
 | 24 | 13% | 93% |  |
 | 25 | 21% | 80% |  |
 | 26 | 23% | 59% | Median |
-| 27 | 15% | 36% |  |
+| 27 | 16% | 36% |  |
 | 28 | 9% | 20% |  |
 | 29 | 5% | 11% |  |
 | 30 | 4% | 6% |  |
@@ -527,11 +527,11 @@ Only polls for which at least the sample size has been published are included in
 | 18 | 22% | 69% | Median |
 | 19 | 21% | 47% |  |
 | 20 | 13% | 26% |  |
-| 21 | 8% | 13% |  |
-| 22 | 4% | 5% |  |
-| 23 | 1.1% | 2% |  |
+| 21 | 7% | 13% |  |
+| 22 | 3% | 5% |  |
+| 23 | 1.4% | 2% |  |
 | 24 | 0.4% | 0.4% |  |
-| 25 | 0% | 0.1% |  |
+| 25 | 0.1% | 0.1% |  |
 | 26 | 0% | 0% |  |
 
 ### Partito Democratico (S&D) – Liberi e Uguali (S&D)
@@ -542,8 +542,8 @@ Only polls for which at least the sample size has been published are included in
 | 11 | 2% | 99.9% |  |
 | 12 | 11% | 98% |  |
 | 13 | 25% | 87% |  |
-| 14 | 29% | 62% | Median |
-| 15 | 21% | 32% |  |
+| 14 | 29% | 61% | Median |
+| 15 | 20% | 32% |  |
 | 16 | 8% | 12% |  |
 | 17 | 3% | 4% |  |
 | 18 | 0.8% | 1.1% |  |
@@ -582,7 +582,7 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 40% | 100% | Last Result |
 | 1 | 0% | 60% |  |
 | 2 | 0% | 60% |  |
-| 3 | 16% | 60% | Median |
+| 3 | 17% | 60% | Median |
 | 4 | 39% | 43% |  |
 | 5 | 4% | 5% |  |
 | 6 | 0.2% | 0.2% |  |
