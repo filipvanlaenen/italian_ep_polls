@@ -121,7 +121,7 @@ Last result: **13** seats (General Election of 25 May 2014)
 | [16–20 May 2018](2018-05-20-SWG.html) | SWG <br> LA7 | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | [16–18 May 2018](2018-05-18-Tecnè.html) | Tecnè <br> TGcom24 | 10 | 9–11 | 9–11 | 9–12 | 9–12 |
 | [17–18 May 2018](2018-05-18-DemosPi.html) | Demos & Pi | 11 | 10–12 | 9–12 | 9–13 | 9–13 |
-| [16–17 May 2018](2018-05-17-Ipsos.html) | Ipsos <br> Corriere della Sera | 10 | 9–11 | 9–12 | 8–12 | 8–12 |
+| [16–17 May 2018](2018-05-17-Ipsos.html) | Ipsos <br> Corriere della Sera | 10 | 9–11 | 9–12 | 8–12 | 8–13 |
 | [15–17 May 2018](2018-05-17-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 10 | 9–11 | 9–11 | 9–12 | 9–12 |
 | [16 May 2018](2018-05-16-IndexResearch.html) | Index Research <br> LA7 | 11 | 9–12 | 9–12 | 9–13 | 8–13 |
 | [16 May 2018](2018-05-16-Euromedia.html) | Euromedia <br> Rai 1 | 11 | 10–12 | 9–13 | 9–13 | 9–14 |
