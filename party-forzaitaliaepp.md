@@ -10,7 +10,15 @@ Last result: **16.8%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.5% | 10.3–14.3% | 9.7–14.9% | 9.3–15.4% | 8.6–16.5% |
+| N/A | [Poll Average](average.html) | 11.8% | 8.6–14.0% | 7.9–14.5% | 7.6–15.0% | 7.1–16.0% |
+| [30–31 May 2018](2018-05-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
+| [29–30 May 2018](2018-05-30-Demopolis.html) | Demopolis | 11.0% | 10.0–12.1% | 9.7–12.4% | 9.5–12.7% | 9.1–13.2% |
+| [29 May 2018](2018-05-29-TermometroPolitico.html) | Termometro Politico | 9.9% | 9.4–10.4% | 9.3–10.6% | 9.2–10.7% | 8.9–10.9% |
+| [29 May 2018](2018-05-29-Tecnè.html) | Tecnè <br> TGcom24 | 12.5% | 11.1–14.1% | 10.7–14.6% | 10.4–15.0% | 9.8–15.8% |
+| [29 May 2018](2018-05-29-Euromedia.html) | Euromedia <br> Rai 1 | 12.5% | 11.1–14.1% | 10.7–14.6% | 10.4–15.0% | 9.8–15.8% |
+| [23–28 May 2018](2018-05-28-SWG.html) | SWG <br> LA7 | 8.0% | 7.3–8.8% | 7.1–9.0% | 6.9–9.3% | 6.6–9.6% |
+| [22–24 May 2018](2018-05-24-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 13.4% | 12.4–14.6% | 12.1–14.9% | 11.8–15.2% | 11.3–15.8% |
+| [23 May 2018](2018-05-23-IndexResearch.html) | Index Research <br> LA7 | 13.2% | 11.8–14.9% | 11.4–15.4% | 11.1–15.8% | 10.4–16.6% |
 | [22–23 May 2018](2018-05-23-Demopolis.html) | Demopolis | 11.0% | 10.0–12.1% | 9.7–12.4% | 9.5–12.7% | 9.1–13.2% |
 | [16–20 May 2018](2018-05-20-SWG.html) | SWG <br> LA7 | 9.7% | 8.8–10.8% | 8.6–11.1% | 8.3–11.3% | 7.9–11.9% |
 | [16–18 May 2018](2018-05-18-Tecnè.html) | Tecnè <br> TGcom24 | 12.8% | 11.9–13.8% | 11.6–14.1% | 11.4–14.3% | 11.0–14.8% |
@@ -93,19 +101,19 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0.5% | 100% |  |
-| 8.5–9.5% | 4% | 99.5% |  |
-| 9.5–10.5% | 9% | 96% |  |
-| 10.5–11.5% | 15% | 87% |  |
-| 11.5–12.5% | 23% | 72% |  |
-| 12.5–13.5% | 26% | 49% | Median |
-| 13.5–14.5% | 15% | 23% |  |
-| 14.5–15.5% | 6% | 8% |  |
-| 15.5–16.5% | 2% | 2% |  |
-| 16.5–17.5% | 0.4% | 0.4% | Last Result |
-| 17.5–18.5% | 0.1% | 0.1% |  |
-| 18.5–19.5% | 0% | 0% |  |
+| 5.5–6.5% | 0% | 100% |  |
+| 6.5–7.5% | 2% | 100% |  |
+| 7.5–8.5% | 8% | 98% |  |
+| 8.5–9.5% | 8% | 90% |  |
+| 9.5–10.5% | 14% | 82% |  |
+| 10.5–11.5% | 14% | 69% |  |
+| 11.5–12.5% | 19% | 55% | Median |
+| 12.5–13.5% | 19% | 36% |  |
+| 13.5–14.5% | 12% | 17% |  |
+| 14.5–15.5% | 4% | 5% |  |
+| 15.5–16.5% | 0.9% | 1.1% |  |
+| 16.5–17.5% | 0.2% | 0.2% | Last Result |
+| 17.5–18.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -116,7 +124,15 @@ Last result: **13** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 8–12 | 8–12 | 8–12 | 7–13 |
+| N/A | [Poll Average](average.html) | 9 | 7–12 | 7–13 | 6–13 | 6–13 |
+| [30–31 May 2018](2018-05-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 8 | 6–8 | 6–8 | 6–9 | 6–9 |
+| [29–30 May 2018](2018-05-30-Demopolis.html) | Demopolis | 9 | 8–9 | 8–9 | 8–10 | 7–10 |
+| [29 May 2018](2018-05-29-TermometroPolitico.html) | Termometro Politico | 9 | 9 | 8–9 | 8–9 | 8–9 |
+| [29 May 2018](2018-05-29-Tecnè.html) | Tecnè <br> TGcom24 | 9 | 9–10 | 8–10 | 8–10 | 8–12 |
+| [29 May 2018](2018-05-29-Euromedia.html) | Euromedia <br> Rai 1 | 13 | 10–13 | 9–13 | 9–13 | 9–13 |
+| [23–28 May 2018](2018-05-28-SWG.html) | SWG <br> LA7 | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
+| [22–24 May 2018](2018-05-24-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 10 | 10–12 | 10–12 | 9–12 | 8–13 |
+| [23 May 2018](2018-05-23-IndexResearch.html) | Index Research <br> LA7 | 10 | 10 | 9–10 | 9–10 | 9–14 |
 | [22–23 May 2018](2018-05-23-Demopolis.html) | Demopolis | 9 | 8–10 | 8–10 | 7–10 | 7–11 |
 | [16–20 May 2018](2018-05-20-SWG.html) | SWG <br> LA7 | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | [16–18 May 2018](2018-05-18-Tecnè.html) | Tecnè <br> TGcom24 | 10 | 9–11 | 9–11 | 9–12 | 9–12 |
@@ -201,14 +217,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 1.2% | 100% |  |
-| 8 | 10% | 98.7% |  |
-| 9 | 17% | 89% |  |
-| 10 | 33% | 72% | Median |
-| 11 | 27% | 39% |  |
-| 12 | 9% | 12% |  |
-| 13 | 2% | 2% | Last Result |
-| 14 | 0.3% | 0.3% |  |
+| 6 | 4% | 100% |  |
+| 7 | 6% | 96% |  |
+| 8 | 14% | 90% |  |
+| 9 | 26% | 76% | Median |
+| 10 | 23% | 49% |  |
+| 11 | 12% | 27% |  |
+| 12 | 7% | 14% |  |
+| 13 | 8% | 8% | Last Result |
+| 14 | 0.1% | 0.2% |  |
 | 15 | 0% | 0% |  |
 
 
