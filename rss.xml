@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 03 Jun 2018 20:45:14 +0200</pubDate>
+    <pubDate>Mon, 04 Jun 2018 20:31:25 +0200</pubDate>
     <item>
       <title>Opinion Poll by Ipsos for Corriere della Sera, 30–31 May 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-05-31-Ipsos.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-05-31-Ipsos.png"
         length="192604"
         type="image/png"/>
-      <pubDate>Sun, 03 Jun 2018 18:36:01 +0200</pubDate>
-      <dc:date>2018-06-03T18:36:01.421044+02:00</dc:date>
+      <pubDate>Mon, 04 Jun 2018 20:31:25 +0200</pubDate>
+      <dc:date>2018-06-04T20:31:25.827236+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Demopolis, 29–30 May 2018 – Voting Intentions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-05-29-Euromedia.png"
         length="197563"
         type="image/png"/>
-      <pubDate>Sun, 03 Jun 2018 19:45:53 +0200</pubDate>
-      <dc:date>2018-06-03T19:45:53.976321+02:00</dc:date>
+      <pubDate>Mon, 04 Jun 2018 17:45:31 +0200</pubDate>
+      <dc:date>2018-06-04T17:45:31.941648+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SWG for LA7, 23–28 May 2018 – Voting Intentions</title>
@@ -2339,6 +2339,6 @@
       <pubDate>Tue, 10 Apr 2018 21:24:48 +0200</pubDate>
       <dc:date>2018-04-10T21:24:48.959229+02:00</dc:date>
     </item>
-    <dc:date>2018-06-03T20:45:14.10062+02:00</dc:date>
+    <dc:date>2018-06-04T20:31:25.827236+02:00</dc:date>
   </channel>
 </rss>
