@@ -10,7 +10,7 @@ Last result: **16.8%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.8% | 8.6–14.0% | 7.9–14.5% | 7.6–15.0% | 7.1–16.0% |
+| N/A | [Poll Average](average.html) | 12.0% | 8.7–14.1% | 8.0–14.7% | 7.6–15.1% | 7.1–16.1% |
 | [30–31 May 2018](2018-05-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
 | [29–30 May 2018](2018-05-30-Demopolis.html) | Demopolis | 11.0% | 10.0–12.1% | 9.7–12.4% | 9.5–12.7% | 9.1–13.2% |
 | [29 May 2018](2018-05-29-TermometroPolitico.html) | Termometro Politico | 9.9% | 9.4–10.4% | 9.3–10.6% | 9.2–10.7% | 8.9–10.9% |
@@ -103,15 +103,15 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 2% | 100% |  |
-| 7.5–8.5% | 8% | 98% |  |
-| 8.5–9.5% | 8% | 90% |  |
-| 9.5–10.5% | 14% | 82% |  |
-| 10.5–11.5% | 14% | 69% |  |
-| 11.5–12.5% | 19% | 55% | Median |
-| 12.5–13.5% | 19% | 36% |  |
-| 13.5–14.5% | 12% | 17% |  |
-| 14.5–15.5% | 4% | 5% |  |
-| 15.5–16.5% | 0.9% | 1.1% |  |
+| 7.5–8.5% | 7% | 98% |  |
+| 8.5–9.5% | 7% | 91% |  |
+| 9.5–10.5% | 13% | 84% |  |
+| 10.5–11.5% | 13% | 71% |  |
+| 11.5–12.5% | 19% | 58% | Median |
+| 12.5–13.5% | 20% | 39% |  |
+| 13.5–14.5% | 13% | 19% |  |
+| 14.5–15.5% | 5% | 6% |  |
+| 15.5–16.5% | 1.1% | 1.3% |  |
 | 16.5–17.5% | 0.2% | 0.2% | Last Result |
 | 17.5–18.5% | 0% | 0% |  |
 
@@ -124,12 +124,12 @@ Last result: **13** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 7–12 | 7–13 | 6–13 | 6–13 |
-| [30–31 May 2018](2018-05-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 8 | 6–8 | 6–8 | 6–9 | 6–9 |
+| N/A | [Poll Average](average.html) | 10 | 7–11 | 7–12 | 6–12 | 6–13 |
+| [30–31 May 2018](2018-05-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 7 | 6–8 | 6–9 | 6–9 | 6–10 |
 | [29–30 May 2018](2018-05-30-Demopolis.html) | Demopolis | 9 | 8–9 | 8–9 | 8–10 | 7–10 |
 | [29 May 2018](2018-05-29-TermometroPolitico.html) | Termometro Politico | 9 | 9 | 8–9 | 8–9 | 8–9 |
 | [29 May 2018](2018-05-29-Tecnè.html) | Tecnè <br> TGcom24 | 9 | 9–10 | 8–10 | 8–10 | 8–12 |
-| [29 May 2018](2018-05-29-Euromedia.html) | Euromedia <br> Rai 1 | 13 | 10–13 | 9–13 | 9–13 | 9–13 |
+| [29 May 2018](2018-05-29-Euromedia.html) | Euromedia <br> Rai 1 | 10 | 9–12 | 9–12 | 8–13 | 8–13 |
 | [23–28 May 2018](2018-05-28-SWG.html) | SWG <br> LA7 | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [22–24 May 2018](2018-05-24-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 10 | 10–12 | 10–12 | 9–12 | 8–13 |
 | [23 May 2018](2018-05-23-IndexResearch.html) | Index Research <br> LA7 | 10 | 10 | 9–10 | 9–10 | 9–14 |
@@ -217,15 +217,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 4% | 100% |  |
-| 7 | 6% | 96% |  |
-| 8 | 14% | 90% |  |
-| 9 | 26% | 76% | Median |
-| 10 | 23% | 49% |  |
-| 11 | 12% | 27% |  |
-| 12 | 7% | 14% |  |
-| 13 | 8% | 8% | Last Result |
-| 14 | 0.1% | 0.2% |  |
+| 6 | 3% | 100% |  |
+| 7 | 10% | 96% |  |
+| 8 | 8% | 86% |  |
+| 9 | 26% | 78% |  |
+| 10 | 30% | 52% | Median |
+| 11 | 13% | 21% |  |
+| 12 | 7% | 8% |  |
+| 13 | 1.3% | 2% | Last Result |
+| 14 | 0.2% | 0.2% |  |
 | 15 | 0% | 0% |  |
 
 

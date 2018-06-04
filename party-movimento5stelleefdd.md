@@ -131,12 +131,12 @@ Last result: **17** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26 | 23–29 | 23–30 | 22–30 | 22–32 |
-| [30–31 May 2018](2018-05-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 23 | 23 | 23 | 23–25 | 23–25 |
+| N/A | [Poll Average](average.html) | 26 | 24–29 | 23–30 | 22–30 | 22–32 |
+| [30–31 May 2018](2018-05-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 25 | 23–27 | 23–27 | 22–28 | 22–29 |
 | [29–30 May 2018](2018-05-30-Demopolis.html) | Demopolis | 24 | 22–26 | 22–26 | 22–26 | 22–26 |
 | [29 May 2018](2018-05-29-TermometroPolitico.html) | Termometro Politico | 27 | 27–29 | 27–29 | 27–29 | 27–29 |
 | [29 May 2018](2018-05-29-Tecnè.html) | Tecnè <br> TGcom24 | 26 | 26 | 25–26 | 25–27 | 22–27 |
-| [29 May 2018](2018-05-29-Euromedia.html) | Euromedia <br> Rai 1 | 25 | 25–29 | 25–29 | 25–29 | 25–32 |
+| [29 May 2018](2018-05-29-Euromedia.html) | Euromedia <br> Rai 1 | 27 | 25–29 | 25–30 | 24–30 | 24–31 |
 | [23–28 May 2018](2018-05-28-SWG.html) | SWG <br> LA7 | 24 | 24–26 | 24–26 | 24–26 | 24–26 |
 | [22–24 May 2018](2018-05-24-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 27 | 26–27 | 25–28 | 25–28 | 23–28 |
 | [23 May 2018](2018-05-23-IndexResearch.html) | Index Research <br> LA7 | 24 | 24–25 | 24–25 | 24–25 | 22–25 |
@@ -230,16 +230,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 20 | 0% | 100% |  |
 | 21 | 0.1% | 100% |  |
 | 22 | 3% | 99.9% |  |
-| 23 | 11% | 97% |  |
-| 24 | 15% | 86% |  |
-| 25 | 14% | 71% |  |
-| 26 | 20% | 58% | Median |
-| 27 | 18% | 38% |  |
-| 28 | 6% | 19% |  |
-| 29 | 8% | 14% |  |
+| 23 | 3% | 96% |  |
+| 24 | 19% | 94% |  |
+| 25 | 13% | 75% |  |
+| 26 | 23% | 62% | Median |
+| 27 | 19% | 40% |  |
+| 28 | 7% | 20% |  |
+| 29 | 8% | 13% |  |
 | 30 | 3% | 6% |  |
 | 31 | 2% | 2% |  |
-| 32 | 0.5% | 0.7% |  |
+| 32 | 0.4% | 0.6% |  |
 | 33 | 0.1% | 0.2% |  |
 | 34 | 0.1% | 0.1% |  |
 | 35 | 0% | 0% |  |
