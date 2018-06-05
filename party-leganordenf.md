@@ -139,14 +139,14 @@ Last result: **5** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 16–23 | 16–24 | 16–25 | 15–26 |
-| [30–31 May 2018](2018-05-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 24 | 22–25 | 21–26 | 21–26 | 21–27 |
-| [29–30 May 2018](2018-05-30-Demopolis.html) | Demopolis | 21 | 20–22 | 19–22 | 19–23 | 18–23 |
+| N/A | [Poll Average](average.html) | 19 | 16–24 | 16–24 | 15–25 | 15–26 |
+| [30–31 May 2018](2018-05-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 24 | 22–26 | 21–26 | 21–27 | 20–27 |
+| [29–30 May 2018](2018-05-30-Demopolis.html) | Demopolis | 21 | 19–22 | 19–22 | 19–23 | 18–23 |
 | [29 May 2018](2018-05-29-TermometroPolitico.html) | Termometro Politico | 23 | 22–24 | 22–24 | 22–24 | 22–24 |
 | [29 May 2018](2018-05-29-Tecnè.html) | Tecnè <br> TGcom24 | 20 | 18–22 | 18–22 | 18–23 | 17–23 |
-| [29 May 2018](2018-05-29-Euromedia.html) | Euromedia <br> Rai 1 | 19 | 18–21 | 17–21 | 17–22 | 16–23 |
-| [23–28 May 2018](2018-05-28-SWG.html) | SWG <br> LA7 | 23 | 22–25 | 22–25 | 22–25 | 21–26 |
-| [22–24 May 2018](2018-05-24-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 17 | 16–18 | 15–19 | 15–19 | 15–20 |
+| [29 May 2018](2018-05-29-Euromedia.html) | Euromedia <br> Rai 1 | 19 | 18–21 | 17–22 | 17–22 | 16–23 |
+| [23–28 May 2018](2018-05-28-SWG.html) | SWG <br> LA7 | 24 | 22–25 | 22–25 | 21–26 | 21–26 |
+| [22–24 May 2018](2018-05-24-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 17 | 16–19 | 15–19 | 15–19 | 15–20 |
 | [23 May 2018](2018-05-23-IndexResearch.html) | Index Research <br> LA7 | 18 | 16–19 | 16–20 | 15–20 | 15–21 |
 | [22–23 May 2018](2018-05-23-Demopolis.html) | Demopolis | 19 | 18–20 | 18–21 | 17–21 | 17–22 |
 | [16–20 May 2018](2018-05-20-SWG.html) | SWG <br> LA7 | 20 | 19–22 | 19–22 | 19–23 | 18–23 |
@@ -243,18 +243,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0.1% | 100% |  |
 | 14 | 0.4% | 99.9% |  |
 | 15 | 2% | 99.6% |  |
-| 16 | 9% | 98% |  |
+| 16 | 9% | 97% |  |
 | 17 | 13% | 89% |  |
 | 18 | 15% | 76% |  |
 | 19 | 15% | 61% | Median |
-| 20 | 10% | 46% |  |
+| 20 | 11% | 47% |  |
 | 21 | 8% | 36% |  |
-| 22 | 8% | 28% |  |
-| 23 | 10% | 19% |  |
-| 24 | 5% | 10% |  |
-| 25 | 4% | 4% |  |
-| 26 | 0.7% | 0.9% |  |
-| 27 | 0.1% | 0.2% |  |
+| 22 | 7% | 28% |  |
+| 23 | 9% | 21% |  |
+| 24 | 6% | 11% |  |
+| 25 | 4% | 5% |  |
+| 26 | 1.1% | 1.4% |  |
+| 27 | 0.2% | 0.3% |  |
 | 28 | 0% | 0% |  |
 
 

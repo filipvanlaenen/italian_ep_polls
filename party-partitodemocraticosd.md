@@ -140,15 +140,15 @@ Last result: **31** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–16 | 12–17 | 11–17 | 11–18 |
-| [30–31 May 2018](2018-05-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 16 | 13–17 | 13–18 | 12–18 | 12–18 |
-| [29–30 May 2018](2018-05-30-Demopolis.html) | Demopolis | 14 | 13–15 | 13–16 | 13–16 | 12–16 |
-| [29 May 2018](2018-05-29-TermometroPolitico.html) | Termometro Politico | 16 | 15–16 | 15–16 | 15–16 | 14–17 |
+| N/A | [Poll Average](average.html) | 14 | 12–16 | 12–16 | 11–17 | 11–18 |
+| [30–31 May 2018](2018-05-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 15 | 14–17 | 13–17 | 13–18 | 12–18 |
+| [29–30 May 2018](2018-05-30-Demopolis.html) | Demopolis | 14 | 13–15 | 13–16 | 12–16 | 12–16 |
+| [29 May 2018](2018-05-29-TermometroPolitico.html) | Termometro Politico | 16 | 15–16 | 15–16 | 14–16 | 14–17 |
 | [29 May 2018](2018-05-29-Tecnè.html) | Tecnè <br> TGcom24 | 13 | 11–14 | 11–15 | 11–15 | 10–16 |
-| [29 May 2018](2018-05-29-Euromedia.html) | Euromedia <br> Rai 1 | 13 | 11–14 | 11–15 | 11–15 | 10–16 |
-| [23–28 May 2018](2018-05-28-SWG.html) | SWG <br> LA7 | 15 | 14–17 | 14–17 | 14–17 | 14–18 |
-| [22–24 May 2018](2018-05-24-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 14 | 12–15 | 12–16 | 12–16 | 11–16 |
-| [23 May 2018](2018-05-23-IndexResearch.html) | Index Research <br> LA7 | 13 | 12–15 | 12–15 | 12–16 | 11–17 |
+| [29 May 2018](2018-05-29-Euromedia.html) | Euromedia <br> Rai 1 | 13 | 12–14 | 11–15 | 11–15 | 10–16 |
+| [23–28 May 2018](2018-05-28-SWG.html) | SWG <br> LA7 | 15 | 15–17 | 14–17 | 14–17 | 14–18 |
+| [22–24 May 2018](2018-05-24-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
+| [23 May 2018](2018-05-23-IndexResearch.html) | Index Research <br> LA7 | 14 | 12–15 | 12–16 | 12–16 | 11–17 |
 | [22–23 May 2018](2018-05-23-Demopolis.html) | Demopolis | 13 | 11–14 | 11–14 | 11–14 | 11–15 |
 | [16–20 May 2018](2018-05-20-SWG.html) | SWG <br> LA7 | 15 | 14–16 | 13–16 | 13–17 | 13–18 |
 | [16–18 May 2018](2018-05-18-Tecnè.html) | Tecnè <br> TGcom24 | 13 | 13–15 | 12–15 | 12–15 | 12–15 |
@@ -233,15 +233,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.2% | 100% |  |
-| 11 | 4% | 99.7% |  |
-| 12 | 12% | 96% |  |
-| 13 | 21% | 84% |  |
-| 14 | 24% | 63% | Median |
-| 15 | 22% | 39% |  |
-| 16 | 12% | 18% |  |
-| 17 | 5% | 6% |  |
-| 18 | 0.6% | 0.7% |  |
+| 10 | 0.3% | 100% |  |
+| 11 | 2% | 99.7% |  |
+| 12 | 11% | 97% |  |
+| 13 | 22% | 86% |  |
+| 14 | 26% | 64% | Median |
+| 15 | 23% | 38% |  |
+| 16 | 12% | 16% |  |
+| 17 | 3% | 3% |  |
+| 18 | 0.5% | 0.6% |  |
 | 19 | 0.1% | 0.1% |  |
 | 20 | 0% | 0% |  |
 | 21 | 0% | 0% |  |
