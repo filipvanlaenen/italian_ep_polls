@@ -120,12 +120,12 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–3 | 0–3 | 0–4 |
 | [30–31 May 2018](2018-05-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0–3 | 0–3 | 0–4 |
-| [29–30 May 2018](2018-05-30-Demopolis.html) | Demopolis | 0 | 0 | 0 | 0–3 | 0–3 |
+| [29–30 May 2018](2018-05-30-Demopolis.html) | Demopolis | 0 | 0 | 0 | 0 | 0–3 |
 | [29 May 2018](2018-05-29-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
-| [29 May 2018](2018-05-29-Tecnè.html) | Tecnè <br> TGcom24 | 0 | 0 | 0 | 0 | 0–4 |
+| [29 May 2018](2018-05-29-Tecnè.html) | Tecnè <br> TGcom24 | 0 | 0 | 0 | 0–3 | 0–4 |
 | [29 May 2018](2018-05-29-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
 | [23–28 May 2018](2018-05-28-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
-| [22–24 May 2018](2018-05-24-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 3 | 0–3 | 0–3 | 0–3 | 0–4 |
+| [22–24 May 2018](2018-05-24-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [23 May 2018](2018-05-23-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0 | 0 | 0 |
 | [22–23 May 2018](2018-05-23-Demopolis.html) | Demopolis | 0 | 0 | 0 | 0 | 0–3 |
 | [16–20 May 2018](2018-05-20-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
@@ -211,11 +211,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 91% | 100% | Last Result, Median |
-| 1 | 0% | 9% |  |
-| 2 | 0% | 9% |  |
-| 3 | 8% | 9% |  |
-| 4 | 1.4% | 1.4% |  |
+| 0 | 95% | 100% | Last Result, Median |
+| 1 | 0% | 5% |  |
+| 2 | 0% | 5% |  |
+| 3 | 3% | 5% |  |
+| 4 | 2% | 2% |  |
 | 5 | 0% | 0% |  |
 
 
