@@ -12,9 +12,11 @@ Last result: **0.0%** (General Election of 25 May 2014)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.8% | 0.9–2.5% | 0.8–2.7% | 0.8–2.9% | 0.7–3.3% |
 | [30–31 May 2018](2018-05-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.0% | N/A | N/A | N/A | N/A |
+| [30–31 May 2018](2018-05-31-IndexResearch.html) | Index Research <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
 | [29–30 May 2018](2018-05-30-Demopolis.html) | Demopolis | 0.0% | N/A | N/A | N/A | N/A |
 | [29 May 2018](2018-05-29-TermometroPolitico.html) | Termometro Politico | 0.9% | 0.8–1.1% | 0.7–1.1% | 0.7–1.2% | 0.6–1.3% |
 | [29 May 2018](2018-05-29-Tecnè.html) | Tecnè <br> TGcom24 | 0.0% | N/A | N/A | N/A | N/A |
+| [29 May 2018](2018-05-29-Piepoli.html) | Piepoli <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
 | [29 May 2018](2018-05-29-Euromedia.html) | Euromedia <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
 | [23–28 May 2018](2018-05-28-SWG.html) | SWG <br> LA7 | 1.9% | 1.6–2.3% | 1.5–2.5% | 1.4–2.6% | 1.2–2.8% |
 | [22–24 May 2018](2018-05-24-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
@@ -119,9 +121,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [30–31 May 2018](2018-05-31-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
+| [30–31 May 2018](2018-05-31-IndexResearch.html) | Index Research <br> LA7 |  |  |  |  |  |
 | [29–30 May 2018](2018-05-30-Demopolis.html) | Demopolis |  |  |  |  |  |
 | [29 May 2018](2018-05-29-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [29 May 2018](2018-05-29-Tecnè.html) | Tecnè <br> TGcom24 |  |  |  |  |  |
+| [29 May 2018](2018-05-29-Piepoli.html) | Piepoli <br> Rai 1 |  |  |  |  |  |
 | [29 May 2018](2018-05-29-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
 | [23–28 May 2018](2018-05-28-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
 | [22–24 May 2018](2018-05-24-EMGAcqua.html) | EMG Acqua <br> Rai 3 |  |  |  |  |  |
