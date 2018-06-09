@@ -142,13 +142,13 @@ Last result: **31** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–16 | 12–16 | 12–17 | 11–17 |
+| N/A | [Poll Average](average.html) | 14 | 12–16 | 12–16 | 11–17 | 11–18 |
 | [30–31 May 2018](2018-05-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 15 | 13–17 | 13–17 | 13–17 | 12–18 |
 | [30–31 May 2018](2018-05-31-IndexResearch.html) | Index Research <br> LA7 | 14 | 13–16 | 12–16 | 12–17 | 12–17 |
 | [29–30 May 2018](2018-05-30-Demopolis.html) | Demopolis | 14 | 13–15 | 13–16 | 12–16 | 12–16 |
 | [29 May 2018](2018-05-29-TermometroPolitico.html) | Termometro Politico | 16 | 15–16 | 15–16 | 14–16 | 14–17 |
 | [29 May 2018](2018-05-29-Tecnè.html) | Tecnè <br> TGcom24 | 13 | 11–14 | 11–15 | 11–15 | 10–16 |
-| [29 May 2018](2018-05-29-Piepoli.html) | Piepoli <br> Rai 1 | 14 | 12–17 | 12–17 | 12–17 | 11–18 |
+| [29 May 2018](2018-05-29-Piepoli.html) | Piepoli <br> Rai 1 | 14 | 12–16 | 12–17 | 12–17 | 11–18 |
 | [29 May 2018](2018-05-29-Euromedia.html) | Euromedia <br> Rai 1 | 13 | 12–14 | 11–15 | 11–15 | 10–16 |
 | [23–28 May 2018](2018-05-28-SWG.html) | SWG <br> LA7 | 15 | 15–17 | 14–17 | 14–17 | 14–18 |
 | [22–24 May 2018](2018-05-24-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
@@ -237,16 +237,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.2% | 100% |  |
+| 10 | 0.3% | 100% |  |
 | 11 | 2% | 99.7% |  |
-| 12 | 11% | 98% |  |
-| 13 | 22% | 86% |  |
+| 12 | 11% | 97% |  |
+| 13 | 22% | 87% |  |
 | 14 | 25% | 65% | Median |
-| 15 | 22% | 39% |  |
+| 15 | 23% | 40% |  |
 | 16 | 12% | 17% |  |
 | 17 | 4% | 5% |  |
 | 18 | 0.5% | 0.5% |  |
-| 19 | 0% | 0% |  |
+| 19 | 0.1% | 0.1% |  |
 | 20 | 0% | 0% |  |
 | 21 | 0% | 0% |  |
 | 22 | 0% | 0% |  |

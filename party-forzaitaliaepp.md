@@ -129,11 +129,11 @@ Last result: **13** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10 | 7–11 | 7–12 | 7–12 | 6–13 |
 | [30–31 May 2018](2018-05-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
-| [30–31 May 2018](2018-05-31-IndexResearch.html) | Index Research <br> LA7 | 8 | 7–9 | 7–9 | 6–10 | 6–10 |
+| [30–31 May 2018](2018-05-31-IndexResearch.html) | Index Research <br> LA7 | 8 | 7–9 | 7–10 | 6–10 | 6–10 |
 | [29–30 May 2018](2018-05-30-Demopolis.html) | Demopolis | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
 | [29 May 2018](2018-05-29-TermometroPolitico.html) | Termometro Politico | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
 | [29 May 2018](2018-05-29-Tecnè.html) | Tecnè <br> TGcom24 | 10 | 9–11 | 9–12 | 8–12 | 8–13 |
-| [29 May 2018](2018-05-29-Piepoli.html) | Piepoli <br> Rai 1 | 11 | 9–12 | 9–13 | 9–13 | 8–14 |
+| [29 May 2018](2018-05-29-Piepoli.html) | Piepoli <br> Rai 1 | 11 | 9–13 | 9–13 | 9–14 | 8–15 |
 | [29 May 2018](2018-05-29-Euromedia.html) | Euromedia <br> Rai 1 | 10 | 9–12 | 9–12 | 8–12 | 8–13 |
 | [23–28 May 2018](2018-05-28-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [22–24 May 2018](2018-05-24-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 11 | 10–12 | 10–12 | 9–12 | 9–13 |
@@ -225,13 +225,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0.1% | 100% |  |
 | 6 | 2% | 99.9% |  |
 | 7 | 11% | 98% |  |
-| 8 | 14% | 86% |  |
-| 9 | 22% | 72% |  |
-| 10 | 22% | 50% | Median |
-| 11 | 20% | 29% |  |
+| 8 | 15% | 87% |  |
+| 9 | 21% | 72% |  |
+| 10 | 22% | 51% | Median |
+| 11 | 19% | 29% |  |
 | 12 | 7% | 9% |  |
-| 13 | 1.3% | 1.4% | Last Result |
-| 14 | 0.1% | 0.1% |  |
-| 15 | 0% | 0% |  |
+| 13 | 2% | 2% | Last Result |
+| 14 | 0.3% | 0.4% |  |
+| 15 | 0% | 0.1% |  |
+| 16 | 0% | 0% |  |
 
 
