@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 09 Jun 2018 20:31:42 +0200</pubDate>
+    <pubDate>Sat, 09 Jun 2018 21:59:06 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for Corriere della Sera, 30–31 May 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-05-31-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 22–28 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 13–18 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 21–27 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6–9 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (*): 0–4 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0–4 seats&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Noi con l’Italia (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-05-31-Ipsos-seats.png"
+        length="181114"
+        type="image/png"/>
+      <pubDate>Sat, 09 Jun 2018 21:59:06 +0200</pubDate>
+      <dc:date>2018-06-09T21:59:06.234407+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Corriere della Sera, 30–31 May 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-05-31-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-05-31-Ipsos-coalitions-seats.png"
+        length="143989"
+        type="image/png"/>
+      <pubDate>Sat, 09 Jun 2018 21:59:06 +0200</pubDate>
+      <dc:date>2018-06-09T21:59:06.234407+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for Corriere della Sera, 30–31 May 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-05-31-Ipsos.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-05-31-Ipsos.png"
         length="192810"
         type="image/png"/>
-      <pubDate>Wed, 06 Jun 2018 22:58:07 +0200</pubDate>
-      <dc:date>2018-06-06T22:58:07.73742+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 21:59:06 +0200</pubDate>
+      <dc:date>2018-06-09T21:59:06.234407+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Index Research for LA7, 30–31 May 2018 – Seat Projections for the Parties</title>
@@ -2539,6 +2559,6 @@
       <pubDate>Tue, 10 Apr 2018 21:24:48 +0200</pubDate>
       <dc:date>2018-04-10T21:24:48.959229+02:00</dc:date>
     </item>
-    <dc:date>2018-06-09T20:31:42.15733+02:00</dc:date>
+    <dc:date>2018-06-09T21:59:06.234407+02:00</dc:date>
   </channel>
 </rss>
