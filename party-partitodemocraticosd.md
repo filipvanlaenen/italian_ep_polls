@@ -143,7 +143,7 @@ Last result: **31** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14 | 12–16 | 12–16 | 11–17 | 11–18 |
-| [30–31 May 2018](2018-05-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 15 | 13–17 | 13–17 | 13–17 | 12–18 |
+| [30–31 May 2018](2018-05-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 15 | 14–17 | 13–17 | 13–18 | 12–19 |
 | [30–31 May 2018](2018-05-31-IndexResearch.html) | Index Research <br> LA7 | 14 | 13–16 | 12–16 | 12–17 | 12–17 |
 | [29–30 May 2018](2018-05-30-Demopolis.html) | Demopolis | 14 | 13–15 | 13–16 | 12–16 | 12–16 |
 | [29 May 2018](2018-05-29-TermometroPolitico.html) | Termometro Politico | 16 | 15–16 | 15–16 | 14–16 | 14–17 |
@@ -243,9 +243,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 22% | 87% |  |
 | 14 | 25% | 65% | Median |
 | 15 | 23% | 40% |  |
-| 16 | 12% | 17% |  |
-| 17 | 4% | 5% |  |
-| 18 | 0.5% | 0.5% |  |
+| 16 | 13% | 17% |  |
+| 17 | 3% | 4% |  |
+| 18 | 0.5% | 0.6% |  |
 | 19 | 0.1% | 0.1% |  |
 | 20 | 0% | 0% |  |
 | 21 | 0% | 0% |  |
