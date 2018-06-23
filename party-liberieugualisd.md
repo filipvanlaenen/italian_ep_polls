@@ -11,6 +11,20 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.7% | 1.6–3.7% | 1.4–4.0% | 1.3–4.3% | 1.0–4.7% |
+| [20 June 2018](2018-06-20-Tecnè.html) | Tecnè <br> TGcom24 | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.0–4.1% | 1.8–4.6% |
+| [19–20 June 2018](2018-06-20-Euromedia.html) | Euromedia <br> Rai 1 | 3.0% | 2.3–3.9% | 2.2–4.2% | 2.0–4.4% | 1.8–4.9% |
+| [19–20 June 2018](2018-06-20-Demopolis.html) | Demopolis <br> LA7 | 2.5% | 2.1–3.1% | 2.0–3.3% | 1.8–3.5% | 1.6–3.8% |
+| [18–19 June 2018](2018-06-19-Piepoli.html) | Piepoli <br> Rai 1 | 2.0% | 1.4–3.0% | 1.2–3.3% | 1.1–3.6% | 0.9–4.2% |
+| [13–18 June 2018](2018-06-18-SWG.html) | SWG <br> LA7 | 2.2% | 1.8–2.8% | 1.7–2.9% | 1.6–3.1% | 1.4–3.4% |
+| [14–16 June 2018](2018-06-16-Ixè.html) | Ixè <br> Huffington Post | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
+| [11–15 June 2018](2018-06-15-TermometroPolitico.html) | Termometro Politico | 2.3% | 2.0–2.8% | 1.8–2.9% | 1.8–3.0% | 1.6–3.2% |
+| [12–13 June 2018](2018-06-13-Euromedia.html) | Euromedia <br> Rai 1 | 2.2% | 1.7–3.1% | 1.6–3.3% | 1.4–3.5% | 1.2–4.0% |
+| [12 June 2018](2018-06-12-Tecnè.html) | Tecnè <br> Canale 5 | 3.1% | 2.5–3.9% | 2.3–4.2% | 2.2–4.4% | 1.9–4.8% |
+| [11–12 June 2018](2018-06-12-Piepoli.html) | Piepoli <br> Rai 1 | 1.6% | 1.1–2.6% | 0.9–2.8% | 0.8–3.1% | 0.6–3.6% |
+| [6–11 June 2018](2018-06-11-SWG.html) | SWG <br> LA7 | 2.3% | 1.8–2.9% | 1.7–3.0% | 1.6–3.2% | 1.4–3.5% |
+| [6 June 2018](2018-06-06-IndexResearch.html) | Index Research <br> LA7 | 2.2% | 1.7–3.1% | 1.6–3.3% | 1.4–3.5% | 1.2–4.0% |
+| [30 May–4 June 2018](2018-06-04-SWG.html) | SWG <br> LA7 | 2.3% | 1.9–2.9% | 1.8–3.1% | 1.7–3.2% | 1.5–3.5% |
+| [4 June 2018](2018-06-04-Piepoli.html) | Piepoli <br> Sky TG 24 | 1.5% | 1.0–2.3% | 0.9–2.5% | 0.8–2.8% | 0.6–3.2% |
 | [1–3 June 2018](2018-06-03-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 3.6% | 3.1–4.2% | 2.9–4.4% | 2.8–4.6% | 2.6–4.9% |
 | [30–31 May 2018](2018-05-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 3.1% | 2.5–3.9% | 2.3–4.2% | 2.2–4.4% | 1.9–4.8% |
 | [30–31 May 2018](2018-05-31-IndexResearch.html) | Index Research <br> LA7 | 1.9% | 1.4–2.7% | 1.2–2.9% | 1.1–3.1% | 0.9–3.5% |
@@ -32,7 +46,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [16 May 2018](2018-05-16-IndexResearch.html) | Index Research <br> LA7 | 2.1% | 1.6–2.9% | 1.4–3.2% | 1.3–3.4% | 1.1–3.8% |
 | [16 May 2018](2018-05-16-Euromedia.html) | Euromedia <br> Rai 1 | 3.0% | 2.3–3.9% | 2.2–4.2% | 2.0–4.4% | 1.8–4.9% |
 | [9–13 May 2018](2018-05-13-SWG.html) | SWG <br> LA7 | 2.8% | 2.3–3.4% | 2.2–3.6% | 2.1–3.8% | 1.9–4.1% |
-| [10–11 May 2018](2018-05-11-Ixè.html) | Ixè | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
+| [10–11 May 2018](2018-05-11-Ixè.html) | Ixè <br> Huffington Post | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
 | [9–10 May 2018](2018-05-10-Euromedia.html) | Euromedia | 2.9% | 2.2–3.8% | 2.1–4.1% | 1.9–4.3% | 1.7–4.8% |
 | [8–10 May 2018](2018-05-10-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 4.3% | 3.7–5.0% | 3.5–5.2% | 3.4–5.4% | 3.1–5.8% |
 | [9–10 May 2018](2018-05-10-Demopolis.html) | Demopolis <br> LA7 | 2.8% | 2.3–3.4% | 2.2–3.6% | 2.1–3.8% | 1.9–4.1% |
@@ -123,6 +137,20 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–3 | 0–3 | 0–4 |
+| [20 June 2018](2018-06-20-Tecnè.html) | Tecnè <br> TGcom24 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [19–20 June 2018](2018-06-20-Euromedia.html) | Euromedia <br> Rai 1 | 4 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [19–20 June 2018](2018-06-20-Demopolis.html) | Demopolis <br> LA7 | 0 | 0 | 0 | 0 | 0–3 |
+| [18–19 June 2018](2018-06-19-Piepoli.html) | Piepoli <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
+| [13–18 June 2018](2018-06-18-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
+| [14–16 June 2018](2018-06-16-Ixè.html) | Ixè <br> Huffington Post | 0 | 0 | 0 | 0–3 | 0–3 |
+| [11–15 June 2018](2018-06-15-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
+| [12–13 June 2018](2018-06-13-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
+| [12 June 2018](2018-06-12-Tecnè.html) | Tecnè <br> Canale 5 | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
+| [11–12 June 2018](2018-06-12-Piepoli.html) | Piepoli <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
+| [6–11 June 2018](2018-06-11-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
+| [6 June 2018](2018-06-06-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0 | 0 | 0 |
+| [30 May–4 June 2018](2018-06-04-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
+| [4 June 2018](2018-06-04-Piepoli.html) | Piepoli <br> Sky TG 24 | 0 | 0 | 0 | 0 | 0 |
 | [1–3 June 2018](2018-06-03-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 3 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [30–31 May 2018](2018-05-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | [30–31 May 2018](2018-05-31-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0 | 0 | 0 |
@@ -144,7 +172,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [16 May 2018](2018-05-16-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0 | 0 | 0 |
 | [16 May 2018](2018-05-16-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0–3 | 0–3 | 0–4 |
 | [9–13 May 2018](2018-05-13-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0–3 |
-| [10–11 May 2018](2018-05-11-Ixè.html) | Ixè | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [10–11 May 2018](2018-05-11-Ixè.html) | Ixè <br> Huffington Post | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [9–10 May 2018](2018-05-10-Euromedia.html) | Euromedia | 0 | 0 | 0 | 0–3 | 0–4 |
 | [8–10 May 2018](2018-05-10-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 4 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [9–10 May 2018](2018-05-10-Demopolis.html) | Demopolis <br> LA7 | 0 | 0 | 0 | 0 | 0–3 |
