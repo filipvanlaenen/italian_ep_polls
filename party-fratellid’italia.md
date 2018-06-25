@@ -10,7 +10,7 @@ Last result: **3.7%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.9% | 3.0–5.0% | 2.8–5.3% | 2.7–5.6% | 2.3–6.1% |
+| N/A | [Poll Average](average.html) | 3.8% | 2.8–5.1% | 2.6–5.4% | 2.4–5.7% | 2.0–6.3% |
 | [20 June 2018](2018-06-20-Tecnè.html) | Tecnè <br> TGcom24 | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
 | [19–20 June 2018](2018-06-20-Euromedia.html) | Euromedia <br> Rai 1 | 4.2% | 3.5–5.3% | 3.2–5.6% | 3.0–5.9% | 2.7–6.4% |
 | [19–20 June 2018](2018-06-20-Demopolis.html) | Demopolis <br> LA7 | 3.8% | 3.2–4.5% | 3.1–4.7% | 2.9–4.9% | 2.7–5.3% |
@@ -119,13 +119,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 32% | 98% |  |
-| 3.5–4.5% | 46% | 66% | Last Result, Median |
-| 4.5–5.5% | 18% | 21% |  |
-| 5.5–6.5% | 3% | 3% |  |
-| 6.5–7.5% | 0.1% | 0.1% |  |
+| 0.5–1.5% | 0.1% | 100% |  |
+| 1.5–2.5% | 5% | 99.9% |  |
+| 2.5–3.5% | 32% | 95% |  |
+| 3.5–4.5% | 41% | 64% | Last Result, Median |
+| 4.5–5.5% | 18% | 22% |  |
+| 5.5–6.5% | 4% | 4% |  |
+| 6.5–7.5% | 0.2% | 0.2% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -137,21 +137,21 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
-| [20 June 2018](2018-06-20-Tecnè.html) | Tecnè <br> TGcom24 | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
-| [19–20 June 2018](2018-06-20-Euromedia.html) | Euromedia <br> Rai 1 | 4 | 0–4 | 0–4 | 0–4 | 0–6 |
-| [19–20 June 2018](2018-06-20-Demopolis.html) | Demopolis <br> LA7 | 0 | 0 | 0 | 0 | 0–3 |
-| [18–19 June 2018](2018-06-19-Piepoli.html) | Piepoli <br> Rai 1 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
-| [13–18 June 2018](2018-06-18-SWG.html) | SWG <br> LA7 | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
+| N/A | [Poll Average](average.html) | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
+| [20 June 2018](2018-06-20-Tecnè.html) | Tecnè <br> TGcom24 | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
+| [19–20 June 2018](2018-06-20-Euromedia.html) | Euromedia <br> Rai 1 | 3 | 0–4 | 0–5 | 0–5 | 0–5 |
+| [19–20 June 2018](2018-06-20-Demopolis.html) | Demopolis <br> LA7 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [18–19 June 2018](2018-06-19-Piepoli.html) | Piepoli <br> Rai 1 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [13–18 June 2018](2018-06-18-SWG.html) | SWG <br> LA7 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [14–16 June 2018](2018-06-16-Ixè.html) | Ixè <br> Huffington Post | 4 | 4 | 0–4 | 0–4 | 0–4 |
-| [11–15 June 2018](2018-06-15-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0–3 |
-| [12–13 June 2018](2018-06-13-Euromedia.html) | Euromedia <br> Rai 1 | 5 | 4–5 | 4–5 | 4–5 | 0–5 |
+| [11–15 June 2018](2018-06-15-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
+| [12–13 June 2018](2018-06-13-Euromedia.html) | Euromedia <br> Rai 1 | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [12 June 2018](2018-06-12-Tecnè.html) | Tecnè <br> Canale 5 | 0 | 0 | 0–3 | 0–3 | 0–5 |
-| [11–12 June 2018](2018-06-12-Piepoli.html) | Piepoli <br> Rai 1 | 4 | 3–4 | 0–4 | 0–4 | 0–4 |
-| [6–11 June 2018](2018-06-11-SWG.html) | SWG <br> LA7 | 4 | 0–4 | 0–4 | 0–4 | 0–4 |
-| [6 June 2018](2018-06-06-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0 | 0 | 0–3 |
+| [11–12 June 2018](2018-06-12-Piepoli.html) | Piepoli <br> Rai 1 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [6–11 June 2018](2018-06-11-SWG.html) | SWG <br> LA7 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [6 June 2018](2018-06-06-IndexResearch.html) | Index Research <br> LA7 | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [30 May–4 June 2018](2018-06-04-SWG.html) | SWG <br> LA7 | 3 | 3 | 3 | 3 | 0–4 |
-| [4 June 2018](2018-06-04-Piepoli.html) | Piepoli <br> Sky TG 24 | 0 | 0 | 0 | 0 | 0 |
+| [4 June 2018](2018-06-04-Piepoli.html) | Piepoli <br> Sky TG 24 | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | [1–3 June 2018](2018-06-03-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [30–31 May 2018](2018-05-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [30–31 May 2018](2018-05-31-IndexResearch.html) | Index Research <br> LA7 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
@@ -161,7 +161,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [29 May 2018](2018-05-29-Piepoli.html) | Piepoli <br> Rai 1 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [29 May 2018](2018-05-29-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [23–28 May 2018](2018-05-28-SWG.html) | SWG <br> LA7 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
-| [23–28 May 2018](2018-05-28-BiDiMedia.html) | BiDiMedia | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [23–28 May 2018](2018-05-28-BiDiMedia.html) | BiDiMedia | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [22–24 May 2018](2018-05-24-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 4 | 3–5 | 3–5 | 0–5 | 0–5 |
 | [23 May 2018](2018-05-23-IndexResearch.html) | Index Research <br> LA7 | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [22–23 May 2018](2018-05-23-Demopolis.html) | Demopolis | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
@@ -248,12 +248,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 59% | 100% | Last Result, Median |
-| 1 | 0% | 41% |  |
-| 2 | 0% | 41% |  |
-| 3 | 12% | 41% |  |
-| 4 | 26% | 29% |  |
-| 5 | 3% | 3% |  |
+| 0 | 57% | 100% | Last Result, Median |
+| 1 | 0% | 43% |  |
+| 2 | 0% | 43% |  |
+| 3 | 8% | 43% |  |
+| 4 | 27% | 34% |  |
+| 5 | 8% | 8% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
 

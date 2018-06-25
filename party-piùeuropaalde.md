@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.9% | 1.3–2.7% | 1.2–2.9% | 1.1–3.2% | 0.9–3.6% |
+| N/A | [Poll Average](average.html) | 2.0% | 1.5–2.7% | 1.3–3.0% | 1.2–3.2% | 1.0–3.7% |
 | [20 June 2018](2018-06-20-Tecnè.html) | Tecnè <br> TGcom24 | 0.0% | N/A | N/A | N/A | N/A |
 | [19–20 June 2018](2018-06-20-Euromedia.html) | Euromedia <br> Rai 1 | 1.8% | 1.3–2.5% | 1.1–2.7% | 1.1–2.9% | 0.9–3.3% |
 | [19–20 June 2018](2018-06-20-Demopolis.html) | Demopolis <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
@@ -120,10 +120,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 24% | 100% |  |
-| 1.5–2.5% | 60% | 76% | Median |
-| 2.5–3.5% | 16% | 16% |  |
-| 3.5–4.5% | 0.6% | 0.6% |  |
+| 0.5–1.5% | 16% | 100% |  |
+| 1.5–2.5% | 69% | 84% | Median |
+| 2.5–3.5% | 15% | 15% |  |
+| 3.5–4.5% | 0.8% | 0.8% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -145,7 +145,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [11–15 June 2018](2018-06-15-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [12–13 June 2018](2018-06-13-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
 | [12 June 2018](2018-06-12-Tecnè.html) | Tecnè <br> Canale 5 |  |  |  |  |  |
-| [11–12 June 2018](2018-06-12-Piepoli.html) | Piepoli <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
+| [11–12 June 2018](2018-06-12-Piepoli.html) | Piepoli <br> Rai 1 | 0 | 0 | 0 | 0 | 0–3 |
 | [6–11 June 2018](2018-06-11-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
 | [6 June 2018](2018-06-06-IndexResearch.html) | Index Research <br> LA7 |  |  |  |  |  |
 | [30 May–4 June 2018](2018-06-04-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
