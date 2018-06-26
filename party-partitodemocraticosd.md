@@ -164,16 +164,16 @@ Last result: **31** seats (General Election of 25 May 2014)
 | [19–20 June 2018](2018-06-20-Demopolis.html) | Demopolis <br> LA7 | 14 | 13–15 | 13–16 | 12–16 | 12–16 |
 | [18–19 June 2018](2018-06-19-Piepoli.html) | Piepoli <br> Rai 1 | 14 | 12–15 | 12–16 | 11–17 | 10–18 |
 | [13–18 June 2018](2018-06-18-SWG.html) | SWG <br> LA7 | 15 | 13–16 | 13–16 | 13–17 | 12–18 |
-| [14–16 June 2018](2018-06-16-Ixè.html) | Ixè <br> Huffington Post | 14 | 13–14 | 13–14 | 13–16 | 13–18 |
+| [14–16 June 2018](2018-06-16-Ixè.html) | Ixè <br> Huffington Post | 16 | 14–17 | 14–18 | 14–18 | 13–18 |
 | [11–15 June 2018](2018-06-15-TermometroPolitico.html) | Termometro Politico | 17 | 16–18 | 16–19 | 16–19 | 15–20 |
 | [12–13 June 2018](2018-06-13-Euromedia.html) | Euromedia <br> Rai 1 | 13 | 12–14 | 11–15 | 11–15 | 10–16 |
-| [12 June 2018](2018-06-12-Tecnè.html) | Tecnè <br> Canale 5 | 17 | 14–17 | 13–17 | 12–17 | 12–17 |
+| [12 June 2018](2018-06-12-Tecnè.html) | Tecnè <br> Canale 5 | 14 | 13–16 | 13–16 | 13–17 | 12–17 |
 | [11–12 June 2018](2018-06-12-Piepoli.html) | Piepoli <br> Rai 1 | 14 | 12–16 | 12–17 | 11–17 | 11–18 |
 | [6–11 June 2018](2018-06-11-SWG.html) | SWG <br> LA7 | 14 | 13–16 | 13–16 | 13–16 | 12–17 |
 | [6 June 2018](2018-06-06-IndexResearch.html) | Index Research <br> LA7 | 14 | 13–16 | 13–16 | 13–17 | 12–17 |
-| [30 May–4 June 2018](2018-06-04-SWG.html) | SWG <br> LA7 | 15 | 15 | 15 | 14–15 | 14–15 |
+| [30 May–4 June 2018](2018-06-04-SWG.html) | SWG <br> LA7 | 14 | 14–16 | 13–16 | 13–16 | 13–17 |
 | [4 June 2018](2018-06-04-Piepoli.html) | Piepoli <br> Sky TG 24 | 14 | 13–16 | 12–16 | 12–17 | 11–18 |
-| [1–3 June 2018](2018-06-03-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 14 | 14–18 | 14–18 | 14–18 | 14–18 |
+| [1–3 June 2018](2018-06-03-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 16 | 14–17 | 14–17 | 14–17 | 13–17 |
 | [30–31 May 2018](2018-05-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 15 | 14–17 | 13–17 | 13–18 | 12–19 |
 | [30–31 May 2018](2018-05-31-IndexResearch.html) | Index Research <br> LA7 | 14 | 13–16 | 12–16 | 12–17 | 12–17 |
 | [29–30 May 2018](2018-05-30-Demopolis.html) | Demopolis | 14 | 13–15 | 13–16 | 12–16 | 12–16 |
@@ -272,14 +272,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0.2% | 100% |  |
 | 11 | 2% | 99.8% |  |
 | 12 | 6% | 97% |  |
-| 13 | 17% | 91% |  |
-| 14 | 33% | 74% | Median |
-| 15 | 20% | 42% |  |
-| 16 | 11% | 22% |  |
-| 17 | 6% | 11% |  |
-| 18 | 4% | 5% |  |
+| 13 | 15% | 91% |  |
+| 14 | 26% | 76% | Median |
+| 15 | 21% | 49% |  |
+| 16 | 14% | 29% |  |
+| 17 | 11% | 15% |  |
+| 18 | 3% | 4% |  |
 | 19 | 0.7% | 0.8% |  |
-| 20 | 0.1% | 0.1% |  |
+| 20 | 0% | 0% |  |
 | 21 | 0% | 0% |  |
 | 22 | 0% | 0% |  |
 | 23 | 0% | 0% |  |
