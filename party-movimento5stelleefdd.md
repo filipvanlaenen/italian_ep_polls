@@ -148,22 +148,22 @@ Last result: **17** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25 | 22–28 | 21–30 | 21–31 | 20–32 |
+| N/A | [Poll Average](average.html) | 25 | 22–28 | 21–30 | 21–30 | 20–32 |
 | [20 June 2018](2018-06-20-Tecnè.html) | Tecnè <br> TGcom24 | 22 | 21–24 | 20–24 | 20–24 | 19–25 |
 | [19–20 June 2018](2018-06-20-Euromedia.html) | Euromedia <br> Rai 1 | 23 | 21–24 | 20–25 | 20–26 | 19–26 |
 | [19–20 June 2018](2018-06-20-Demopolis.html) | Demopolis <br> LA7 | 23 | 22–25 | 21–25 | 21–25 | 20–26 |
-| [18–19 June 2018](2018-06-19-Piepoli.html) | Piepoli <br> Rai 1 | 24 | 21–27 | 21–27 | 20–27 | 19–28 |
+| [18–19 June 2018](2018-06-19-Piepoli.html) | Piepoli <br> Rai 1 | 24 | 21–26 | 21–27 | 20–27 | 19–28 |
 | [13–18 June 2018](2018-06-18-SWG.html) | SWG <br> LA7 | 24 | 22–25 | 22–26 | 22–26 | 21–27 |
 | [14–16 June 2018](2018-06-16-Ixè.html) | Ixè <br> Huffington Post | 25 | 23–26 | 22–26 | 22–26 | 21–28 |
 | [11–15 June 2018](2018-06-15-TermometroPolitico.html) | Termometro Politico | 25 | 24–27 | 24–27 | 24–27 | 23–28 |
-| [12–13 June 2018](2018-06-13-Euromedia.html) | Euromedia <br> Rai 1 | 23 | 22–25 | 21–25 | 21–25 | 20–26 |
+| [12–13 June 2018](2018-06-13-Euromedia.html) | Euromedia <br> Rai 1 | 23 | 22–25 | 21–25 | 21–26 | 20–27 |
 | [12 June 2018](2018-06-12-Tecnè.html) | Tecnè <br> Canale 5 | 23 | 21–24 | 21–25 | 20–25 | 20–26 |
 | [11–12 June 2018](2018-06-12-Piepoli.html) | Piepoli <br> Rai 1 | 24 | 22–28 | 22–28 | 21–29 | 20–29 |
 | [6–11 June 2018](2018-06-11-SWG.html) | SWG <br> LA7 | 26 | 25–28 | 24–28 | 24–30 | 23–30 |
 | [6 June 2018](2018-06-06-IndexResearch.html) | Index Research <br> LA7 | 23 | 22–25 | 21–25 | 21–26 | 20–27 |
 | [30 May–4 June 2018](2018-06-04-SWG.html) | SWG <br> LA7 | 25 | 25–26 | 25–27 | 24–27 | 23–29 |
 | [4 June 2018](2018-06-04-Piepoli.html) | Piepoli <br> Sky TG 24 | 25 | 23–28 | 23–28 | 22–29 | 22–30 |
-| [1–3 June 2018](2018-06-03-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 26 | 26–28 | 25–28 | 25–29 | 24–29 |
+| [1–3 June 2018](2018-06-03-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 26 | 25–28 | 25–28 | 24–28 | 24–29 |
 | [30–31 May 2018](2018-05-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 25 | 23–27 | 23–28 | 22–28 | 22–29 |
 | [30–31 May 2018](2018-05-31-IndexResearch.html) | Index Research <br> LA7 | 23 | 21–25 | 21–25 | 20–26 | 20–27 |
 | [29–30 May 2018](2018-05-30-Demopolis.html) | Demopolis | 24 | 22–25 | 22–26 | 22–26 | 21–27 |
@@ -172,7 +172,7 @@ Last result: **17** seats (General Election of 25 May 2014)
 | [29 May 2018](2018-05-29-Piepoli.html) | Piepoli <br> Rai 1 | 25 | 23–28 | 22–28 | 22–29 | 21–30 |
 | [29 May 2018](2018-05-29-Euromedia.html) | Euromedia <br> Rai 1 | 28 | 26–30 | 25–30 | 25–31 | 24–32 |
 | [23–28 May 2018](2018-05-28-SWG.html) | SWG <br> LA7 | 25 | 24–27 | 23–27 | 23–28 | 22–28 |
-| [23–28 May 2018](2018-05-28-BiDiMedia.html) | BiDiMedia | 28 | 25–31 | 25–31 | 25–31 | 24–32 |
+| [23–28 May 2018](2018-05-28-BiDiMedia.html) | BiDiMedia | 28 | 26–30 | 26–30 | 25–31 | 24–32 |
 | [22–24 May 2018](2018-05-24-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 26 | 25–28 | 24–29 | 24–29 | 23–30 |
 | [23 May 2018](2018-05-23-IndexResearch.html) | Index Research <br> LA7 | 24 | 22–26 | 21–26 | 21–26 | 20–27 |
 | [22–23 May 2018](2018-05-23-Demopolis.html) | Demopolis | 26 | 24–27 | 24–28 | 24–28 | 23–29 |
@@ -264,16 +264,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 0.3% | 100% |  |
 | 20 | 1.3% | 99.7% |  |
 | 21 | 4% | 98% |  |
-| 22 | 9% | 94% |  |
+| 22 | 10% | 94% |  |
 | 23 | 14% | 85% |  |
 | 24 | 17% | 71% |  |
-| 25 | 17% | 55% | Median |
-| 26 | 17% | 38% |  |
-| 27 | 7% | 21% |  |
-| 28 | 5% | 14% |  |
-| 29 | 3% | 9% |  |
-| 30 | 3% | 6% |  |
-| 31 | 2% | 3% |  |
+| 25 | 16% | 53% | Median |
+| 26 | 14% | 37% |  |
+| 27 | 10% | 23% |  |
+| 28 | 4% | 13% |  |
+| 29 | 4% | 9% |  |
+| 30 | 3% | 5% |  |
+| 31 | 1.5% | 2% |  |
 | 32 | 0.4% | 0.6% |  |
 | 33 | 0.1% | 0.2% |  |
 | 34 | 0.1% | 0.1% |  |

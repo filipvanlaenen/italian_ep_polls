@@ -140,7 +140,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [20 June 2018](2018-06-20-Tecnè.html) | Tecnè <br> TGcom24 | 0 | 0 | 0 | 0–3 | 0–4 |
 | [19–20 June 2018](2018-06-20-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0–3 | 0–3 | 0–4 |
 | [19–20 June 2018](2018-06-20-Demopolis.html) | Demopolis <br> LA7 | 0 | 0 | 0 | 0 | 0 |
-| [18–19 June 2018](2018-06-19-Piepoli.html) | Piepoli <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
+| [18–19 June 2018](2018-06-19-Piepoli.html) | Piepoli <br> Rai 1 | 0 | 0 | 0 | 0 | 0–3 |
 | [13–18 June 2018](2018-06-18-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
 | [14–16 June 2018](2018-06-16-Ixè.html) | Ixè <br> Huffington Post | 0 | 0 | 0 | 0 | 0–4 |
 | [11–15 June 2018](2018-06-15-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
@@ -151,7 +151,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [6 June 2018](2018-06-06-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0 | 0 | 0–3 |
 | [30 May–4 June 2018](2018-06-04-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
 | [4 June 2018](2018-06-04-Piepoli.html) | Piepoli <br> Sky TG 24 | 0 | 0 | 0 | 0 | 0 |
-| [1–3 June 2018](2018-06-03-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
+| [1–3 June 2018](2018-06-03-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [30–31 May 2018](2018-05-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | [30–31 May 2018](2018-05-31-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0 | 0 | 0 |
 | [29–30 May 2018](2018-05-30-Demopolis.html) | Demopolis | 0 | 0 | 0 | 0 | 0–3 |
@@ -251,7 +251,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 4% |  |
 | 2 | 0% | 4% |  |
 | 3 | 3% | 4% |  |
-| 4 | 0.9% | 0.9% |  |
+| 4 | 1.1% | 1.1% |  |
 | 5 | 0% | 0% |  |
 
 
