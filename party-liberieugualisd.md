@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.7% | 1.9–3.7% | 1.7–3.9% | 1.6–4.1% | 1.2–4.6% |
+| N/A | [Poll Average](average.html) | 2.6% | 1.9–3.4% | 1.7–3.7% | 1.5–3.9% | 1.2–4.4% |
+| [20–25 June 2018](2018-06-25-SWG.html) | SWG <br> LA7 | 2.4% | 2.0–3.0% | 1.8–3.2% | 1.7–3.3% | 1.5–3.6% |
+| [23–24 June 2018](2018-06-24-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 3.4% | N/A | N/A | N/A | N/A |
 | [20 June 2018](2018-06-20-Tecnè.html) | Tecnè <br> TGcom24 | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.0–4.1% | 1.8–4.6% |
 | [19–20 June 2018](2018-06-20-Euromedia.html) | Euromedia <br> Rai 1 | 3.0% | 2.3–3.9% | 2.2–4.2% | 2.0–4.4% | 1.8–4.9% |
 | [19–20 June 2018](2018-06-20-Demopolis.html) | Demopolis <br> LA7 | 2.5% | 2.1–3.1% | 2.0–3.3% | 1.8–3.5% | 1.6–3.8% |
@@ -18,6 +20,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [13–18 June 2018](2018-06-18-SWG.html) | SWG <br> LA7 | 2.2% | 1.8–2.8% | 1.7–2.9% | 1.6–3.1% | 1.4–3.4% |
 | [14–16 June 2018](2018-06-16-Ixè.html) | Ixè <br> Huffington Post | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [11–15 June 2018](2018-06-15-TermometroPolitico.html) | Termometro Politico | 2.3% | 2.0–2.8% | 1.8–2.9% | 1.8–3.0% | 1.6–3.2% |
+| [12–13 June 2018](2018-06-13-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.0% | N/A | N/A | N/A | N/A |
 | [12–13 June 2018](2018-06-13-Euromedia.html) | Euromedia <br> Rai 1 | 2.2% | 1.7–3.1% | 1.6–3.3% | 1.4–3.5% | 1.2–4.0% |
 | [12 June 2018](2018-06-12-Tecnè.html) | Tecnè <br> Canale 5 | 3.1% | 2.5–3.9% | 2.3–4.2% | 2.2–4.4% | 1.9–4.8% |
 | [11–12 June 2018](2018-06-12-Piepoli.html) | Piepoli <br> Rai 1 | 1.6% | 1.1–2.6% | 0.9–2.8% | 0.8–3.1% | 0.6–3.6% |
@@ -120,11 +123,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 2% | 100% |  |
-| 1.5–2.5% | 40% | 98% |  |
-| 2.5–3.5% | 45% | 57% | Median |
-| 3.5–4.5% | 12% | 12% |  |
-| 4.5–5.5% | 0.5% | 0.6% |  |
+| 0.5–1.5% | 3% | 100% |  |
+| 1.5–2.5% | 45% | 97% |  |
+| 2.5–3.5% | 45% | 52% | Median |
+| 3.5–4.5% | 7% | 7% |  |
+| 4.5–5.5% | 0.3% | 0.3% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -136,14 +139,17 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–3 | 0–4 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–4 |
+| [20–25 June 2018](2018-06-25-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
+| [23–24 June 2018](2018-06-24-EMGAcqua.html) | EMG Acqua <br> Rai 3 |  |  |  |  |  |
 | [20 June 2018](2018-06-20-Tecnè.html) | Tecnè <br> TGcom24 | 0 | 0 | 0 | 0–3 | 0–4 |
 | [19–20 June 2018](2018-06-20-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0–3 | 0–3 | 0–4 |
 | [19–20 June 2018](2018-06-20-Demopolis.html) | Demopolis <br> LA7 | 0 | 0 | 0 | 0 | 0 |
 | [18–19 June 2018](2018-06-19-Piepoli.html) | Piepoli <br> Rai 1 | 0 | 0 | 0 | 0 | 0–3 |
 | [13–18 June 2018](2018-06-18-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
-| [14–16 June 2018](2018-06-16-Ixè.html) | Ixè <br> Huffington Post | 0 | 0 | 0 | 0 | 0–4 |
+| [14–16 June 2018](2018-06-16-Ixè.html) | Ixè <br> Huffington Post | 0 | 0 | 0 | 0–3 | 0–4 |
 | [11–15 June 2018](2018-06-15-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
+| [12–13 June 2018](2018-06-13-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
 | [12–13 June 2018](2018-06-13-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
 | [12 June 2018](2018-06-12-Tecnè.html) | Tecnè <br> Canale 5 | 0 | 0 | 0–3 | 0–3 | 0–4 |
 | [11–12 June 2018](2018-06-12-Piepoli.html) | Piepoli <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
@@ -247,11 +253,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 96% | 100% | Last Result, Median |
-| 1 | 0% | 4% |  |
-| 2 | 0% | 4% |  |
-| 3 | 3% | 4% |  |
-| 4 | 1.1% | 1.1% |  |
+| 0 | 98% | 100% | Last Result, Median |
+| 1 | 0% | 2% |  |
+| 2 | 0% | 2% |  |
+| 3 | 1.3% | 2% |  |
+| 4 | 0.6% | 0.6% |  |
 | 5 | 0% | 0% |  |
 
 
