@@ -164,9 +164,9 @@ Last result: **5** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 22 | 18–25 | 17–26 | 16–26 | 16–27 |
 | [20–25 June 2018](2018-06-25-SWG.html) | SWG <br> LA7 | 25 | 23–27 | 23–28 | 22–28 | 22–28 |
-| [23–24 June 2018](2018-06-24-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 24 | 22–24 | 22–25 | 21–25 | 21–26 |
+| [23–24 June 2018](2018-06-24-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 23 | 22–25 | 21–25 | 21–26 | 20–26 |
 | [20 June 2018](2018-06-20-Tecnè.html) | Tecnè <br> TGcom24 | 22 | 21–24 | 20–24 | 20–25 | 19–26 |
-| [19–20 June 2018](2018-06-20-Euromedia.html) | Euromedia <br> Rai 1 | 22 | 20–24 | 20–25 | 20–26 | 19–27 |
+| [19–20 June 2018](2018-06-20-Euromedia.html) | Euromedia <br> Rai 1 | 23 | 21–25 | 20–25 | 20–26 | 19–26 |
 | [19–20 June 2018](2018-06-20-Demopolis.html) | Demopolis <br> LA7 | 22 | 21–24 | 21–24 | 20–24 | 20–25 |
 | [18–19 June 2018](2018-06-19-Piepoli.html) | Piepoli <br> Rai 1 | 22 | 20–24 | 19–25 | 19–25 | 18–26 |
 | [13–18 June 2018](2018-06-18-SWG.html) | SWG <br> LA7 | 24 | 23–25 | 23–26 | 22–27 | 21–28 |
@@ -175,7 +175,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [12–13 June 2018](2018-06-13-Ipsos.html) | Ipsos <br> Corriere della Sera | 23 | 21–24 | 21–25 | 21–25 | 20–26 |
 | [12–13 June 2018](2018-06-13-Euromedia.html) | Euromedia <br> Rai 1 | 22 | 20–24 | 20–24 | 19–25 | 19–25 |
 | [12 June 2018](2018-06-12-Tecnè.html) | Tecnè <br> Canale 5 | 20 | 19–22 | 19–22 | 18–23 | 17–24 |
-| [11–12 June 2018](2018-06-12-Piepoli.html) | Piepoli <br> Rai 1 | 21 | 19–23 | 18–24 | 18–24 | 16–25 |
+| [11–12 June 2018](2018-06-12-Piepoli.html) | Piepoli <br> Rai 1 | 21 | 19–23 | 18–24 | 17–24 | 17–25 |
 | [6–11 June 2018](2018-06-11-SWG.html) | SWG <br> LA7 | 23 | 21–24 | 21–24 | 20–25 | 20–25 |
 | [6 June 2018](2018-06-06-IndexResearch.html) | Index Research <br> LA7 | 22 | 20–23 | 19–23 | 19–24 | 18–24 |
 | [30 May–4 June 2018](2018-06-04-SWG.html) | SWG <br> LA7 | 22 | 22–23 | 22–23 | 22–24 | 21–25 |
@@ -292,11 +292,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 5% | 93% |  |
 | 19 | 5% | 89% |  |
 | 20 | 6% | 84% |  |
-| 21 | 9% | 78% |  |
-| 22 | 19% | 69% | Median |
-| 23 | 16% | 50% |  |
-| 24 | 17% | 34% |  |
-| 25 | 10% | 16% |  |
+| 21 | 10% | 78% |  |
+| 22 | 19% | 68% | Median |
+| 23 | 18% | 49% |  |
+| 24 | 15% | 31% |  |
+| 25 | 11% | 17% |  |
 | 26 | 4% | 6% |  |
 | 27 | 2% | 2% |  |
 | 28 | 0.5% | 0.5% |  |

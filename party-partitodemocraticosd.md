@@ -161,9 +161,9 @@ Last result: **31** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–17 | 12–17 | 11–18 | 11–19 |
+| N/A | [Poll Average](average.html) | 14 | 12–17 | 12–17 | 12–18 | 11–19 |
 | [20–25 June 2018](2018-06-25-SWG.html) | SWG <br> LA7 | 15 | 14–16 | 13–16 | 13–17 | 13–18 |
-| [23–24 June 2018](2018-06-24-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 14 | 13–15 | 13–15 | 13–16 | 12–16 |
+| [23–24 June 2018](2018-06-24-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 14 | 13–15 | 13–16 | 12–16 | 12–16 |
 | [20 June 2018](2018-06-20-Tecnè.html) | Tecnè <br> TGcom24 | 15 | 13–16 | 13–17 | 13–17 | 12–17 |
 | [19–20 June 2018](2018-06-20-Euromedia.html) | Euromedia <br> Rai 1 | 12 | 11–14 | 11–14 | 11–15 | 10–16 |
 | [19–20 June 2018](2018-06-20-Demopolis.html) | Demopolis <br> LA7 | 14 | 13–15 | 13–16 | 12–16 | 12–16 |
@@ -275,12 +275,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.2% | 100% |  |
-| 11 | 3% | 99.7% |  |
-| 12 | 8% | 97% |  |
+| 10 | 0.3% | 100% |  |
+| 11 | 2% | 99.7% |  |
+| 12 | 9% | 98% |  |
 | 13 | 20% | 89% |  |
-| 14 | 25% | 69% | Median |
-| 15 | 22% | 44% |  |
+| 14 | 27% | 69% | Median |
+| 15 | 21% | 43% |  |
 | 16 | 11% | 22% |  |
 | 17 | 7% | 11% |  |
 | 18 | 3% | 4% |  |
