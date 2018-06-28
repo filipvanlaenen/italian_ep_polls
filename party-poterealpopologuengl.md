@@ -10,9 +10,9 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.7% | 1.2–2.3% | 1.0–2.5% | 1.0–2.7% | 0.8–3.0% |
+| N/A | [Poll Average](average.html) | 1.7% | 1.2–2.3% | 1.1–2.5% | 1.0–2.7% | 0.8–3.0% |
 | [20–25 June 2018](2018-06-25-SWG.html) | SWG <br> LA7 | 1.9% | 1.5–2.4% | 1.4–2.6% | 1.3–2.7% | 1.1–3.0% |
-| [23–24 June 2018](2018-06-24-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 1.9% | N/A | N/A | N/A | N/A |
+| [23–24 June 2018](2018-06-24-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 1.9% | 1.5–2.4% | 1.4–2.5% | 1.4–2.7% | 1.2–2.9% |
 | [20 June 2018](2018-06-20-Tecnè.html) | Tecnè <br> TGcom24 | 0.0% | N/A | N/A | N/A | N/A |
 | [19–20 June 2018](2018-06-20-Euromedia.html) | Euromedia <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
 | [19–20 June 2018](2018-06-20-Demopolis.html) | Demopolis <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
@@ -123,8 +123,8 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 39% | 100% |  |
-| 1.5–2.5% | 57% | 61% | Median |
+| 0.5–1.5% | 34% | 100% |  |
+| 1.5–2.5% | 62% | 66% | Median |
 | 2.5–3.5% | 4% | 4% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
@@ -139,7 +139,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [20–25 June 2018](2018-06-25-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
-| [23–24 June 2018](2018-06-24-EMGAcqua.html) | EMG Acqua <br> Rai 3 |  |  |  |  |  |
+| [23–24 June 2018](2018-06-24-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [20 June 2018](2018-06-20-Tecnè.html) | Tecnè <br> TGcom24 |  |  |  |  |  |
 | [19–20 June 2018](2018-06-20-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
 | [19–20 June 2018](2018-06-20-Demopolis.html) | Demopolis <br> LA7 |  |  |  |  |  |
