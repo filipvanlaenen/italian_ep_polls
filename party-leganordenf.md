@@ -163,13 +163,13 @@ Last result: **5** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 22 | 18–25 | 17–26 | 16–26 | 16–27 |
-| [20–25 June 2018](2018-06-25-SWG.html) | SWG <br> LA7 | 25 | 23–27 | 23–28 | 22–28 | 22–28 |
+| [20–25 June 2018](2018-06-25-SWG.html) | SWG <br> LA7 | 25 | 23–27 | 23–27 | 22–28 | 22–28 |
 | [23–24 June 2018](2018-06-24-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 23 | 22–25 | 21–25 | 21–26 | 20–26 |
 | [20 June 2018](2018-06-20-Tecnè.html) | Tecnè <br> TGcom24 | 22 | 21–24 | 20–24 | 20–25 | 19–26 |
 | [19–20 June 2018](2018-06-20-Euromedia.html) | Euromedia <br> Rai 1 | 23 | 21–25 | 20–25 | 20–26 | 19–26 |
 | [19–20 June 2018](2018-06-20-Demopolis.html) | Demopolis <br> LA7 | 22 | 21–24 | 21–24 | 20–24 | 20–25 |
 | [18–19 June 2018](2018-06-19-Piepoli.html) | Piepoli <br> Rai 1 | 22 | 20–24 | 19–25 | 19–25 | 18–26 |
-| [13–18 June 2018](2018-06-18-SWG.html) | SWG <br> LA7 | 24 | 23–25 | 23–26 | 22–27 | 21–28 |
+| [13–18 June 2018](2018-06-18-SWG.html) | SWG <br> LA7 | 24 | 23–26 | 22–27 | 22–27 | 21–28 |
 | [14–16 June 2018](2018-06-16-Ixè.html) | Ixè <br> Huffington Post | 24 | 22–26 | 22–26 | 21–27 | 21–27 |
 | [11–15 June 2018](2018-06-15-TermometroPolitico.html) | Termometro Politico | 25 | 24–27 | 24–27 | 23–27 | 23–27 |
 | [12–13 June 2018](2018-06-13-Ipsos.html) | Ipsos <br> Corriere della Sera | 23 | 21–24 | 21–25 | 21–25 | 20–26 |
@@ -178,7 +178,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [11–12 June 2018](2018-06-12-Piepoli.html) | Piepoli <br> Rai 1 | 21 | 19–23 | 18–24 | 17–24 | 17–25 |
 | [6–11 June 2018](2018-06-11-SWG.html) | SWG <br> LA7 | 23 | 21–24 | 21–24 | 20–25 | 20–25 |
 | [6 June 2018](2018-06-06-IndexResearch.html) | Index Research <br> LA7 | 22 | 20–23 | 19–23 | 19–24 | 18–24 |
-| [30 May–4 June 2018](2018-06-04-SWG.html) | SWG <br> LA7 | 22 | 22–23 | 22–23 | 22–24 | 21–25 |
+| [30 May–4 June 2018](2018-06-04-SWG.html) | SWG <br> LA7 | 22 | 21–23 | 21–25 | 21–26 | 20–27 |
 | [4 June 2018](2018-06-04-Piepoli.html) | Piepoli <br> Sky TG 24 | 19 | 17–21 | 17–22 | 17–22 | 16–23 |
 | [1–3 June 2018](2018-06-03-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 18 | 17–19 | 17–20 | 17–20 | 16–21 |
 | [30–31 May 2018](2018-05-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 24 | 22–26 | 22–26 | 21–27 | 20–28 |
@@ -296,10 +296,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 22 | 19% | 68% | Median |
 | 23 | 18% | 49% |  |
 | 24 | 15% | 31% |  |
-| 25 | 11% | 17% |  |
+| 25 | 10% | 16% |  |
 | 26 | 4% | 6% |  |
 | 27 | 2% | 2% |  |
-| 28 | 0.5% | 0.5% |  |
+| 28 | 0.3% | 0.3% |  |
 | 29 | 0% | 0% |  |
 
 
