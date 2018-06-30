@@ -10,8 +10,9 @@ Last result: **3.7%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.8% | 2.8–4.8% | 2.5–5.2% | 2.4–5.4% | 2.0–6.1% |
+| N/A | [Poll Average](average.html) | 3.8% | 2.8–4.8% | 2.5–5.2% | 2.3–5.4% | 2.0–6.1% |
 | [20–25 June 2018](2018-06-25-SWG.html) | SWG <br> LA7 | 3.8% | 3.2–4.5% | 3.1–4.7% | 2.9–4.9% | 2.7–5.3% |
+| [25 June 2018](2018-06-25-Piepoli.html) | Piepoli <br> Sky TG 24 | 3.0% | 2.2–4.2% | 2.0–4.5% | 1.8–4.8% | 1.5–5.5% |
 | [23–24 June 2018](2018-06-24-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 4.3% | 3.7–5.0% | 3.6–5.2% | 3.5–5.4% | 3.2–5.7% |
 | [20 June 2018](2018-06-20-Tecnè.html) | Tecnè <br> TGcom24 | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
 | [19–20 June 2018](2018-06-20-Euromedia.html) | Euromedia <br> Rai 1 | 4.2% | 3.5–5.3% | 3.2–5.6% | 3.0–5.9% | 2.7–6.4% |
@@ -142,6 +143,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [20–25 June 2018](2018-06-25-SWG.html) | SWG <br> LA7 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [25 June 2018](2018-06-25-Piepoli.html) | Piepoli <br> Sky TG 24 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [23–24 June 2018](2018-06-24-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 4 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [20 June 2018](2018-06-20-Tecnè.html) | Tecnè <br> TGcom24 | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [19–20 June 2018](2018-06-20-Euromedia.html) | Euromedia <br> Rai 1 | 3 | 0–4 | 0–5 | 0–5 | 0–5 |

@@ -12,6 +12,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.8% | 0.5–1.3% | 0.4–1.4% | 0.4–1.5% | 0.3–1.8% |
 | [20–25 June 2018](2018-06-25-SWG.html) | SWG <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
+| [25 June 2018](2018-06-25-Piepoli.html) | Piepoli <br> Sky TG 24 | 0.0% | N/A | N/A | N/A | N/A |
 | [23–24 June 2018](2018-06-24-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
 | [20 June 2018](2018-06-20-Tecnè.html) | Tecnè <br> TGcom24 | 0.0% | N/A | N/A | N/A | N/A |
 | [19–20 June 2018](2018-06-20-Euromedia.html) | Euromedia <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
@@ -138,6 +139,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [20–25 June 2018](2018-06-25-SWG.html) | SWG <br> LA7 |  |  |  |  |  |
+| [25 June 2018](2018-06-25-Piepoli.html) | Piepoli <br> Sky TG 24 |  |  |  |  |  |
 | [23–24 June 2018](2018-06-24-EMGAcqua.html) | EMG Acqua <br> Rai 3 |  |  |  |  |  |
 | [20 June 2018](2018-06-20-Tecnè.html) | Tecnè <br> TGcom24 |  |  |  |  |  |
 | [19–20 June 2018](2018-06-20-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
