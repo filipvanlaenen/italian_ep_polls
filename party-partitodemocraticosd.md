@@ -10,7 +10,8 @@ Last result: **40.8%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.6% | 16.5–20.9% | 15.9–21.5% | 15.4–22.0% | 14.5–22.8% |
+| N/A | [Poll Average](average.html) | 18.7% | 16.7–21.0% | 16.1–21.6% | 15.6–22.0% | 14.6–22.9% |
+| [28–29 June 2018](2018-06-29-Ipsos.html) | Ipsos <br> Corriere della Sera | 18.9% | 17.4–20.6% | 16.9–21.0% | 16.6–21.5% | 15.9–22.3% |
 | [20–25 June 2018](2018-06-25-SWG.html) | SWG <br> LA7 | 18.8% | 17.5–20.1% | 17.2–20.5% | 16.9–20.9% | 16.3–21.5% |
 | [25 June 2018](2018-06-25-Piepoli.html) | Piepoli <br> Sky TG 24 | 17.9% | 15.9–20.3% | 15.3–20.9% | 14.8–21.5% | 13.9–22.6% |
 | [23–24 June 2018](2018-06-24-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 17.7% | 16.6–18.9% | 16.3–19.3% | 16.0–19.6% | 15.5–20.1% |
@@ -124,16 +125,16 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 12.5–13.5% | 0.1% | 100% |  |
-| 13.5–14.5% | 0.5% | 99.9% |  |
-| 14.5–15.5% | 2% | 99.4% |  |
-| 15.5–16.5% | 8% | 97% |  |
-| 16.5–17.5% | 16% | 89% |  |
-| 17.5–18.5% | 23% | 74% |  |
-| 18.5–19.5% | 22% | 51% | Median |
-| 19.5–20.5% | 15% | 29% |  |
-| 20.5–21.5% | 9% | 14% |  |
+| 13.5–14.5% | 0.4% | 99.9% |  |
+| 14.5–15.5% | 2% | 99.5% |  |
+| 15.5–16.5% | 6% | 98% |  |
+| 16.5–17.5% | 14% | 91% |  |
+| 17.5–18.5% | 22% | 77% |  |
+| 18.5–19.5% | 23% | 55% | Median |
+| 19.5–20.5% | 16% | 32% |  |
+| 20.5–21.5% | 10% | 15% |  |
 | 21.5–22.5% | 4% | 5% |  |
-| 22.5–23.5% | 0.8% | 0.9% |  |
+| 22.5–23.5% | 0.9% | 1.0% |  |
 | 23.5–24.5% | 0.1% | 0.1% |  |
 | 24.5–25.5% | 0% | 0% |  |
 | 25.5–26.5% | 0% | 0% |  |
@@ -162,9 +163,10 @@ Last result: **31** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–17 | 12–17 | 12–18 | 11–19 |
+| N/A | [Poll Average](average.html) | 14 | 13–17 | 12–17 | 12–18 | 11–19 |
+| [28–29 June 2018](2018-06-29-Ipsos.html) | Ipsos <br> Corriere della Sera | 15 | 13–16 | 13–17 | 13–17 | 12–18 |
 | [20–25 June 2018](2018-06-25-SWG.html) | SWG <br> LA7 | 15 | 14–16 | 13–17 | 13–17 | 13–17 |
-| [25 June 2018](2018-06-25-Piepoli.html) | Piepoli <br> Sky TG 24 | 14 | 12–16 | 12–16 | 11–17 | 11–17 |
+| [25 June 2018](2018-06-25-Piepoli.html) | Piepoli <br> Sky TG 24 | 14 | 12–16 | 12–16 | 11–17 | 10–18 |
 | [23–24 June 2018](2018-06-24-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 14 | 13–15 | 13–16 | 12–16 | 12–16 |
 | [20 June 2018](2018-06-20-Tecnè.html) | Tecnè <br> TGcom24 | 15 | 13–16 | 13–17 | 13–17 | 12–17 |
 | [19–20 June 2018](2018-06-20-Euromedia.html) | Euromedia <br> Rai 1 | 12 | 11–14 | 11–14 | 11–15 | 10–16 |
@@ -172,13 +174,13 @@ Last result: **31** seats (General Election of 25 May 2014)
 | [18–19 June 2018](2018-06-19-Piepoli.html) | Piepoli <br> Rai 1 | 14 | 12–16 | 11–16 | 11–17 | 10–18 |
 | [13–18 June 2018](2018-06-18-SWG.html) | SWG <br> LA7 | 15 | 13–16 | 13–16 | 13–17 | 12–17 |
 | [14–16 June 2018](2018-06-16-Ixè.html) | Ixè <br> Huffington Post | 16 | 14–17 | 14–18 | 14–18 | 13–19 |
-| [11–15 June 2018](2018-06-15-TermometroPolitico.html) | Termometro Politico | 17 | 16–18 | 16–19 | 16–19 | 15–20 |
-| [12–13 June 2018](2018-06-13-Ipsos.html) | Ipsos <br> Corriere della Sera | 13 | 12–14 | 12–15 | 11–15 | 11–16 |
+| [11–15 June 2018](2018-06-15-TermometroPolitico.html) | Termometro Politico | 17 | 16–18 | 16–19 | 16–19 | 15–19 |
+| [12–13 June 2018](2018-06-13-Ipsos.html) | Ipsos <br> Corriere della Sera | 14 | 13–16 | 13–16 | 12–17 | 12–17 |
 | [12–13 June 2018](2018-06-13-Euromedia.html) | Euromedia <br> Rai 1 | 13 | 12–14 | 11–15 | 11–15 | 10–16 |
 | [12 June 2018](2018-06-12-Tecnè.html) | Tecnè <br> Canale 5 | 14 | 13–16 | 13–16 | 13–17 | 12–17 |
 | [11–12 June 2018](2018-06-12-Piepoli.html) | Piepoli <br> Rai 1 | 14 | 12–16 | 12–17 | 11–17 | 11–18 |
 | [6–11 June 2018](2018-06-11-SWG.html) | SWG <br> LA7 | 14 | 13–16 | 13–16 | 13–16 | 12–17 |
-| [6 June 2018](2018-06-06-IndexResearch.html) | Index Research <br> LA7 | 14 | 13–16 | 13–16 | 13–17 | 12–17 |
+| [6 June 2018](2018-06-06-IndexResearch.html) | Index Research <br> LA7 | 14 | 13–16 | 13–16 | 12–17 | 12–18 |
 | [30 May–4 June 2018](2018-06-04-SWG.html) | SWG <br> LA7 | 15 | 14–16 | 13–16 | 13–17 | 12–17 |
 | [4 June 2018](2018-06-04-Piepoli.html) | Piepoli <br> Sky TG 24 | 14 | 12–16 | 12–16 | 12–17 | 11–18 |
 | [1–3 June 2018](2018-06-03-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 15 | 14–17 | 14–17 | 14–17 | 13–17 |
@@ -277,15 +279,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.2% | 100% |  |
+| 10 | 0.3% | 100% |  |
 | 11 | 2% | 99.7% |  |
-| 12 | 8% | 98% |  |
-| 13 | 19% | 89% |  |
-| 14 | 28% | 71% | Median |
-| 15 | 21% | 42% |  |
-| 16 | 11% | 22% |  |
-| 17 | 7% | 11% |  |
-| 18 | 3% | 4% |  |
+| 12 | 6% | 98% |  |
+| 13 | 16% | 92% |  |
+| 14 | 27% | 76% | Median |
+| 15 | 23% | 49% |  |
+| 16 | 13% | 25% |  |
+| 17 | 8% | 12% |  |
+| 18 | 4% | 4% |  |
 | 19 | 0.8% | 0.8% |  |
 | 20 | 0% | 0% |  |
 | 21 | 0% | 0% |  |
