@@ -8,36 +8,276 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 01 Jul 2018 19:53:58 +0200</pubDate>
+    <pubDate>Wed, 01 Aug 2018 18:12:14 +0200</pubDate>
     <item>
-      <title>Opinion Poll by Ipsos for Corriere della Sera, 28–29 June 2018 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-06-29-Ipsos.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 22–28 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 13–17 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 24–29 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6–9 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (*): 0 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Noi con l’Italia (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-06-29-Ipsos-seats.png"
-        length="165965"
+      <title>Opinion Poll by SWG for LA7, 25–30 July 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-07-30-SWG.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 27.5–32.1%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 15.6–19.4%&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 28.1–32.7%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 7.3–10.1%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (*): 2.9–4.8%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 1.7–3.3%&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 1.5–3.0%&lt;/li&gt;&lt;li&gt;Potere al Popolo (GUE/NGL): 1.8–3.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-07-30-SWG.png"
+        length="224978"
         type="image/png"/>
-      <pubDate>Sun, 01 Jul 2018 18:11:54 +0200</pubDate>
-      <dc:date>2018-07-01T18:11:54.111614+02:00</dc:date>
+      <pubDate>Wed, 01 Aug 2018 14:23:24 +0200</pubDate>
+      <dc:date>2018-08-01T14:23:24.464663+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ipsos for Corriere della Sera, 28–29 June 2018 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-06-29-Ipsos.html#coalitions</link>
+      <title>Opinion Poll by Demopolis, 24–25 July 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-07-25-Demopolis.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 23–27 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 12–15 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 21–25 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6–9 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (*): 0–4 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-07-25-Demopolis-seats.png"
+        length="145821"
+        type="image/png"/>
+      <pubDate>Wed, 01 Aug 2018 17:54:23 +0200</pubDate>
+      <dc:date>2018-08-01T17:54:23.987008+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demopolis, 24–25 July 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-07-25-Demopolis.html#coalitions</link>
       <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-06-29-Ipsos-coalitions-seats.png"
-        length="130239"
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-07-25-Demopolis-coalitions-seats.png"
+        length="121060"
         type="image/png"/>
-      <pubDate>Sun, 01 Jul 2018 18:11:54 +0200</pubDate>
-      <dc:date>2018-07-01T18:11:54.111614+02:00</dc:date>
+      <pubDate>Wed, 01 Aug 2018 17:54:23 +0200</pubDate>
+      <dc:date>2018-08-01T17:54:23.987008+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ipsos for Corriere della Sera, 28–29 June 2018 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-06-29-Ipsos.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 27.0–32.7%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 16.6–21.5%&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 28.4–34.1%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6.7–10.2%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (*): 1.5–3.4%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 1.5–3.4%&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 1.9–4.0%&lt;/li&gt;&lt;li&gt;Noi con l’Italia (EPP): 0.2–1.0%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-06-29-Ipsos.png"
-        length="193944"
+      <title>Opinion Poll by Demopolis, 24–25 July 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-07-25-Demopolis.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 28.4–33.7%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 15.8–20.1%&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 26.5–31.6%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 8.0–11.3%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (*): 2.6–4.7%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 1.8–3.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-07-25-Demopolis.png"
+        length="164235"
         type="image/png"/>
-      <pubDate>Sun, 01 Jul 2018 18:11:54 +0200</pubDate>
-      <dc:date>2018-07-01T18:11:54.111614+02:00</dc:date>
+      <pubDate>Wed, 01 Aug 2018 17:54:23 +0200</pubDate>
+      <dc:date>2018-08-01T17:54:23.987008+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SWG for LA7, 18–23 July 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-07-23-SWG.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 23–27 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 13–16 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 24–29 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (*): 0–4 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Potere al Popolo (GUE/NGL): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-07-23-SWG-seats.png"
+        length="178686"
+        type="image/png"/>
+      <pubDate>Wed, 01 Aug 2018 17:43:08 +0200</pubDate>
+      <dc:date>2018-08-01T17:43:08.109365+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SWG for LA7, 18–23 July 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-07-23-SWG.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-07-23-SWG-coalitions-seats.png"
+        length="125251"
+        type="image/png"/>
+      <pubDate>Wed, 01 Aug 2018 17:43:08 +0200</pubDate>
+      <dc:date>2018-08-01T17:43:08.109365+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SWG for LA7, 18–23 July 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-07-23-SWG.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 27.0–31.6%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 16.3–20.2%&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 28.4–33.1%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6.6–9.3%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (*): 3.2–5.2%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 1.9–3.5%&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 1.3–2.7%&lt;/li&gt;&lt;li&gt;Potere al Popolo (GUE/NGL): 1.4–2.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-07-23-SWG.png"
+        length="222366"
+        type="image/png"/>
+      <pubDate>Wed, 01 Aug 2018 17:43:08 +0200</pubDate>
+      <dc:date>2018-08-01T17:43:08.109365+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Corriere della Sera, 17–18 July 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-07-18-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 24–29 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 11–15 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 23–29 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 5–8 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (*): 0–3 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 0–3 seats&lt;/li&gt;&lt;li&gt;Noi con l’Italia (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-07-18-Ipsos-seats.png"
+        length="176004"
+        type="image/png"/>
+      <pubDate>Wed, 01 Aug 2018 14:49:00 +0200</pubDate>
+      <dc:date>2018-08-01T14:49:00.115875+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Corriere della Sera, 17–18 July 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-07-18-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-07-18-Ipsos-coalitions-seats.png"
+        length="140668"
+        type="image/png"/>
+      <pubDate>Wed, 01 Aug 2018 14:49:00 +0200</pubDate>
+      <dc:date>2018-08-01T14:49:00.115875+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Corriere della Sera, 17–18 July 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-07-18-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 28.7–34.5%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 14.8–19.5%&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 28.2–33.9%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6.2–9.5%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (*): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 1.7–3.7%&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 1.9–4.0%&lt;/li&gt;&lt;li&gt;Noi con l’Italia (EPP): 0.1–0.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-07-18-Ipsos.png"
+        length="191942"
+        type="image/png"/>
+      <pubDate>Wed, 01 Aug 2018 14:49:00 +0200</pubDate>
+      <dc:date>2018-08-01T14:49:00.115875+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SWG for LA7, 11–16 July 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-07-16-SWG.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 27.4–32.0%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 16.1–20.0%&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 27.8–32.4%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 7.1–9.9%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (*): 3.0–5.0%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 1.8–3.4%&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 1.2–2.6%&lt;/li&gt;&lt;li&gt;Potere al Popolo (GUE/NGL): 1.3–2.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-07-16-SWG.png"
+        length="222005"
+        type="image/png"/>
+      <pubDate>Wed, 01 Aug 2018 17:15:26 +0200</pubDate>
+      <dc:date>2018-08-01T17:15:26.892653+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Termometro Politico, 5–13 July 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-07-13-TermometroPolitico.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 27.5–30.6%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 17.2–19.8%&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 28.8–31.9%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 7.0–8.9%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (*): 2.5–3.7%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 1.6–2.5%&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 1.5–2.4%&lt;/li&gt;&lt;li&gt;Noi con l’Italia (EPP): 1.1–1.9%&lt;/li&gt;&lt;li&gt;Potere al Popolo (GUE/NGL): 1.1–2.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-07-13-TermometroPolitico.png"
+        length="216649"
+        type="image/png"/>
+      <pubDate>Wed, 01 Aug 2018 14:18:42 +0200</pubDate>
+      <dc:date>2018-08-01T14:18:42.599202+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by BiDiMedia, 7–13 July 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-07-13-BiDiMedia.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 22–29 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 12–18 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 21–27 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 5–9 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (*): 0–5 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0–4 seats&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Noi con l’Italia (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Potere al Popolo (GUE/NGL): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-07-13-BiDiMedia-seats.png"
+        length="214064"
+        type="image/png"/>
+      <pubDate>Wed, 01 Aug 2018 18:12:14 +0200</pubDate>
+      <dc:date>2018-08-01T18:12:14.234011+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by BiDiMedia, 7–13 July 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-07-13-BiDiMedia.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-07-13-BiDiMedia-coalitions-seats.png"
+        length="149295"
+        type="image/png"/>
+      <pubDate>Wed, 01 Aug 2018 18:12:14 +0200</pubDate>
+      <dc:date>2018-08-01T18:12:14.234011+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by BiDiMedia, 7–13 July 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-07-13-BiDiMedia.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 25.9–32.3%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 16.2–21.8%&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 25.1–31.5%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6.6–10.5%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (*): 2.9–5.7%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 1.9–4.3%&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 1.3–3.4%&lt;/li&gt;&lt;li&gt;Noi con l’Italia (EPP): 0.5–2.0%&lt;/li&gt;&lt;li&gt;Potere al Popolo (GUE/NGL): 0.9–2.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-07-13-BiDiMedia.png"
+        length="249721"
+        type="image/png"/>
+      <pubDate>Wed, 01 Aug 2018 18:12:14 +0200</pubDate>
+      <dc:date>2018-08-01T18:12:14.234011+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SWG, 4–9 July 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-07-09-SWG.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 26.7–31.4%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 15.9–19.8%&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 28.2–32.9%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6.5–9.2%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (*): 3.4–5.5%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 1.6–3.2%&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 1.6–3.2%&lt;/li&gt;&lt;li&gt;Potere al Popolo (GUE/NGL): 1.3–2.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-07-09-SWG.png"
+        length="223335"
+        type="image/png"/>
+      <pubDate>Wed, 01 Aug 2018 15:29:02 +0200</pubDate>
+      <dc:date>2018-08-01T15:29:02.185608+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Piepoli for Sky TG 24, 9 July 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-07-09-Piepoli.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 20–27 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 11–16 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 20–26 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 8–12 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (*): 0–4 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Noi con l’Italia (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-07-09-Piepoli-seats.png"
+        length="186996"
+        type="image/png"/>
+      <pubDate>Wed, 01 Aug 2018 17:28:16 +0200</pubDate>
+      <dc:date>2018-08-01T17:28:16.732689+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Piepoli for Sky TG 24, 9 July 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-07-09-Piepoli.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-07-09-Piepoli-coalitions-seats.png"
+        length="154646"
+        type="image/png"/>
+      <pubDate>Wed, 01 Aug 2018 17:28:16 +0200</pubDate>
+      <dc:date>2018-08-01T17:28:16.732689+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Piepoli for Sky TG 24, 9 July 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-07-09-Piepoli.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 25.3–33.2%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 14.9–21.6%&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 24.3–32.1%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 9.5–15.2%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (*): 1.8–4.8%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 1.1–3.6%&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 1.1–3.6%&lt;/li&gt;&lt;li&gt;Noi con l’Italia (EPP): 0.2–1.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-07-09-Piepoli.png"
+        length="208023"
+        type="image/png"/>
+      <pubDate>Wed, 01 Aug 2018 17:28:16 +0200</pubDate>
+      <dc:date>2018-08-01T17:28:16.732689+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by EMG Acqua for Rai 3, 6–8 July 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-07-08-EMGAcqua.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 27.8–32.4%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 15.7–19.5%&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 25.3–29.8%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 8.8–11.9%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (*): 3.5–5.5%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 2.7–4.5%&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 1.1–2.3%&lt;/li&gt;&lt;li&gt;Noi con l’Italia (EPP): 0.5–1.5%&lt;/li&gt;&lt;li&gt;Potere al Popolo (GUE/NGL): 1.2–2.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-07-08-EMGAcqua.png"
+        length="237832"
+        type="image/png"/>
+      <pubDate>Wed, 01 Aug 2018 14:06:52 +0200</pubDate>
+      <dc:date>2018-08-01T14:06:52.135081+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SWG for LA7, 27 June–2 July 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-07-02-SWG.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 22–27 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 12–16 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 23–28 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (*): 0–5 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Potere al Popolo (GUE/NGL): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-07-02-SWG-seats.png"
+        length="182889"
+        type="image/png"/>
+      <pubDate>Wed, 01 Aug 2018 17:13:48 +0200</pubDate>
+      <dc:date>2018-08-01T17:13:48.391025+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SWG for LA7, 27 June–2 July 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-07-02-SWG.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-07-02-SWG-coalitions-seats.png"
+        length="130223"
+        type="image/png"/>
+      <pubDate>Wed, 01 Aug 2018 17:13:48 +0200</pubDate>
+      <dc:date>2018-08-01T17:13:48.391025+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SWG for LA7, 27 June–2 July 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-07-02-SWG.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 26.5–31.1%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 15.9–19.8%&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 27.5–32.2%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6.9–9.7%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (*): 3.4–5.5%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 2.0–3.7%&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 1.5–3.0%&lt;/li&gt;&lt;li&gt;Potere al Popolo (GUE/NGL): 1.5–3.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-07-02-SWG.png"
+        length="224637"
+        type="image/png"/>
+      <pubDate>Wed, 01 Aug 2018 17:13:48 +0200</pubDate>
+      <dc:date>2018-08-01T17:13:48.391025+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Quorum and YouTrend for Sky TG 24, 7 June–2 July 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-07-02-QuorumandYouTrend.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 26.2–30.0%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 17.7–21.0%&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 25.8–29.6%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 8.7–11.2%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (*): 3.2–4.9%&lt;/li&gt;&lt;li&gt;Noi con l’Italia (EPP): 0.6–1.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-07-02-QuorumandYouTrend.png"
+        length="153032"
+        type="image/png"/>
+      <pubDate>Wed, 01 Aug 2018 14:28:13 +0200</pubDate>
+      <dc:date>2018-08-01T14:28:13.136644+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Corriere della Sera, 26–27 June 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-06-27-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 22–28 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 13–17 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 24–29 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6–9 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (*): 0 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 0–3 seats&lt;/li&gt;&lt;li&gt;Noi con l’Italia (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-06-27-Ipsos-seats.png"
+        length="168546"
+        type="image/png"/>
+      <pubDate>Wed, 01 Aug 2018 15:22:21 +0200</pubDate>
+      <dc:date>2018-08-01T15:22:21.669853+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Corriere della Sera, 26–27 June 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-06-27-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-06-27-Ipsos-coalitions-seats.png"
+        length="133030"
+        type="image/png"/>
+      <pubDate>Wed, 01 Aug 2018 15:22:21 +0200</pubDate>
+      <dc:date>2018-08-01T15:22:21.669853+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Corriere della Sera, 26–27 June 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-06-27-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 27.0–32.7%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 16.5–21.4%&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 28.4–34.1%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6.8–10.2%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (*): 1.5–3.4%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 1.5–3.4%&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 2.0–4.0%&lt;/li&gt;&lt;li&gt;Noi con l’Italia (EPP): 0.2–1.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-06-27-Ipsos.png"
+        length="194273"
+        type="image/png"/>
+      <pubDate>Wed, 01 Aug 2018 15:22:21 +0200</pubDate>
+      <dc:date>2018-08-01T15:22:21.669853+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SWG for LA7, 20–25 June 2018 – Seat Projections for the Parties</title>
@@ -128,6 +368,36 @@
         type="image/png"/>
       <pubDate>Thu, 28 Jun 2018 11:41:22 +0200</pubDate>
       <dc:date>2018-06-28T11:41:22.052891+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by BiDiMedia, 19–24 June 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-06-24-BiDiMedia.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 21–26 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 13–17 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 20–26 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6–9 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (*): 0–5 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Noi con l’Italia (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Potere al Popolo (GUE/NGL): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-06-24-BiDiMedia-seats.png"
+        length="194132"
+        type="image/png"/>
+      <pubDate>Wed, 01 Aug 2018 15:06:28 +0200</pubDate>
+      <dc:date>2018-08-01T15:06:28.843419+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by BiDiMedia, 19–24 June 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-06-24-BiDiMedia.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-06-24-BiDiMedia-coalitions-seats.png"
+        length="139014"
+        type="image/png"/>
+      <pubDate>Wed, 01 Aug 2018 15:06:28 +0200</pubDate>
+      <dc:date>2018-08-01T15:06:28.843419+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by BiDiMedia, 19–24 June 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-06-24-BiDiMedia.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 25.7–31.6%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 16.8–21.9%&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 24.8–30.7%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 7.2–11.0%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (*): 2.9–5.5%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 1.5–3.6%&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 1.0–2.7%&lt;/li&gt;&lt;li&gt;Noi con l’Italia (EPP): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Potere al Popolo (GUE/NGL): 1.0–2.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-06-24-BiDiMedia.png"
+        length="244924"
+        type="image/png"/>
+      <pubDate>Wed, 01 Aug 2018 15:06:28 +0200</pubDate>
+      <dc:date>2018-08-01T15:06:28.843419+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Tecnè for TGcom24, 20 June 2018 – Seat Projections for the Parties</title>
@@ -3189,6 +3459,6 @@
       <pubDate>Tue, 10 Apr 2018 21:24:48 +0200</pubDate>
       <dc:date>2018-04-10T21:24:48.959229+02:00</dc:date>
     </item>
-    <dc:date>2018-07-01T19:53:58.093066+02:00</dc:date>
+    <dc:date>2018-08-01T18:12:14.234011+02:00</dc:date>
   </channel>
 </rss>
