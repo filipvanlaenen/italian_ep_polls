@@ -10,11 +10,24 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.6% | 1.9–3.5% | 1.7–3.8% | 1.6–4.0% | 1.2–4.5% |
-| [28–29 June 2018](2018-06-29-Ipsos.html) | Ipsos <br> Corriere della Sera | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
+| N/A | [Poll Average](average.html) | 2.7% | 1.9–3.6% | 1.7–3.9% | 1.6–4.1% | 1.2–4.6% |
+| [25–30 July 2018](2018-07-30-SWG.html) | SWG <br> LA7 | 2.4% | 2.0–3.0% | 1.8–3.2% | 1.7–3.3% | 1.5–3.6% |
+| [24–25 July 2018](2018-07-25-Demopolis.html) | Demopolis | 2.6% | 2.1–3.3% | 1.9–3.5% | 1.8–3.7% | 1.6–4.0% |
+| [18–23 July 2018](2018-07-23-SWG.html) | SWG <br> LA7 | 2.6% | 2.1–3.2% | 2.0–3.4% | 1.9–3.5% | 1.7–3.9% |
+| [17–18 July 2018](2018-07-18-Ipsos.html) | Ipsos <br> Corriere della Sera | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
+| [11–16 July 2018](2018-07-16-SWG.html) | SWG <br> LA7 | 2.5% | 2.0–3.1% | 1.9–3.2% | 1.8–3.4% | 1.6–3.7% |
+| [5–13 July 2018](2018-07-13-TermometroPolitico.html) | Termometro Politico | 2.0% | 1.7–2.3% | 1.6–2.5% | 1.6–2.5% | 1.4–2.7% |
+| [7–13 July 2018](2018-07-13-BiDiMedia.html) | BiDiMedia | 2.9% | 2.2–3.8% | 2.0–4.1% | 1.9–4.3% | 1.6–4.8% |
+| [4–9 July 2018](2018-07-09-SWG.html) | SWG | 2.3% | 1.8–2.9% | 1.7–3.0% | 1.6–3.2% | 1.4–3.5% |
+| [9 July 2018](2018-07-09-Piepoli.html) | Piepoli <br> Sky TG 24 | 2.0% | 1.4–3.0% | 1.2–3.3% | 1.1–3.6% | 0.9–4.2% |
+| [6–8 July 2018](2018-07-08-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 3.5% | 2.9–4.2% | 2.8–4.3% | 2.7–4.5% | 2.4–4.9% |
+| [27 June–2 July 2018](2018-07-02-SWG.html) | SWG <br> LA7 | 2.7% | 2.3–3.4% | 2.1–3.5% | 2.0–3.7% | 1.8–4.0% |
+| [7 June–2 July 2018](2018-07-02-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 0.0% | N/A | N/A | N/A | N/A |
+| [26–27 June 2018](2018-06-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 2.3% | 1.8–3.0% | 1.7–3.3% | 1.5–3.4% | 1.3–3.8% |
 | [20–25 June 2018](2018-06-25-SWG.html) | SWG <br> LA7 | 2.4% | 2.0–3.0% | 1.8–3.2% | 1.7–3.3% | 1.5–3.6% |
 | [25 June 2018](2018-06-25-Piepoli.html) | Piepoli <br> Sky TG 24 | 2.0% | 1.4–3.0% | 1.2–3.3% | 1.1–3.6% | 0.9–4.2% |
 | [23–24 June 2018](2018-06-24-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 3.4% | 2.9–4.0% | 2.8–4.2% | 2.7–4.4% | 2.5–4.7% |
+| [19–24 June 2018](2018-06-24-BiDiMedia.html) | BiDiMedia | 2.3% | 1.8–3.1% | 1.7–3.4% | 1.5–3.6% | 1.3–4.0% |
 | [20 June 2018](2018-06-20-Tecnè.html) | Tecnè <br> TGcom24 | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.0–4.1% | 1.8–4.6% |
 | [19–20 June 2018](2018-06-20-Euromedia.html) | Euromedia <br> Rai 1 | 3.0% | 2.3–3.9% | 2.2–4.2% | 2.0–4.4% | 1.8–4.9% |
 | [19–20 June 2018](2018-06-20-Demopolis.html) | Demopolis <br> LA7 | 2.5% | 2.1–3.1% | 2.0–3.3% | 1.8–3.5% | 1.6–3.8% |
@@ -126,10 +139,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 2% | 100% |  |
-| 1.5–2.5% | 42% | 98% |  |
-| 2.5–3.5% | 45% | 55% | Median |
-| 3.5–4.5% | 10% | 10% |  |
-| 4.5–5.5% | 0.4% | 0.4% |  |
+| 1.5–2.5% | 39% | 98% |  |
+| 2.5–3.5% | 47% | 59% | Median |
+| 3.5–4.5% | 12% | 12% |  |
+| 4.5–5.5% | 0.5% | 0.6% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -142,10 +155,23 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–3 | 0–4 |
-| [28–29 June 2018](2018-06-29-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
+| [25–30 July 2018](2018-07-30-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
+| [24–25 July 2018](2018-07-25-Demopolis.html) | Demopolis | 0 | 0 | 0 | 0 | 0 |
+| [18–23 July 2018](2018-07-23-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
+| [17–18 July 2018](2018-07-18-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0–3 |
+| [11–16 July 2018](2018-07-16-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
+| [5–13 July 2018](2018-07-13-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
+| [7–13 July 2018](2018-07-13-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0–3 | 0–4 | 0–4 |
+| [4–9 July 2018](2018-07-09-SWG.html) | SWG | 0 | 0 | 0 | 0 | 0 |
+| [9 July 2018](2018-07-09-Piepoli.html) | Piepoli <br> Sky TG 24 | 0 | 0 | 0 | 0 | 0–3 |
+| [6–8 July 2018](2018-07-08-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [27 June–2 July 2018](2018-07-02-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0–3 |
+| [7 June–2 July 2018](2018-07-02-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 |  |  |  |  |  |
+| [26–27 June 2018](2018-06-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
 | [20–25 June 2018](2018-06-25-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
 | [25 June 2018](2018-06-25-Piepoli.html) | Piepoli <br> Sky TG 24 | 0 | 0 | 0 | 0 | 0–3 |
 | [23–24 June 2018](2018-06-24-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
+| [19–24 June 2018](2018-06-24-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
 | [20 June 2018](2018-06-20-Tecnè.html) | Tecnè <br> TGcom24 | 0 | 0 | 0 | 0–3 | 0–4 |
 | [19–20 June 2018](2018-06-20-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0–3 | 0–3 | 0–4 |
 | [19–20 June 2018](2018-06-20-Demopolis.html) | Demopolis <br> LA7 | 0 | 0 | 0 | 0 | 0 |
@@ -257,11 +283,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 97% | 100% | Last Result, Median |
-| 1 | 0% | 3% |  |
-| 2 | 0% | 3% |  |
-| 3 | 2% | 3% |  |
-| 4 | 0.9% | 0.9% |  |
+| 0 | 96% | 100% | Last Result, Median |
+| 1 | 0% | 4% |  |
+| 2 | 0% | 4% |  |
+| 3 | 2% | 4% |  |
+| 4 | 1.2% | 1.2% |  |
 | 5 | 0% | 0% |  |
 
 
