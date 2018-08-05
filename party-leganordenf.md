@@ -179,16 +179,16 @@ Last result: **5** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 23 | 20–26 | 19–27 | 18–28 | 16–28 |
-| [25–30 July 2018](2018-07-30-SWG.html) | SWG <br> LA7 | 26 | 25–28 | 24–28 | 24–28 | 23–29 |
+| [25–30 July 2018](2018-07-30-SWG.html) | SWG <br> LA7 | 26 | 25–28 | 24–28 | 24–29 | 23–29 |
 | [24–25 July 2018](2018-07-25-Demopolis.html) | Demopolis | 23 | 22–25 | 21–25 | 21–25 | 20–26 |
 | [18–23 July 2018](2018-07-23-SWG.html) | SWG <br> LA7 | 26 | 24–28 | 24–28 | 24–29 | 23–29 |
 | [17–18 July 2018](2018-07-18-Ipsos.html) | Ipsos <br> Corriere della Sera | 26 | 24–28 | 24–28 | 23–29 | 22–30 |
-| [11–16 July 2018](2018-07-16-SWG.html) | SWG <br> LA7 | 25 | 24–27 | 24–27 | 23–28 | 22–29 |
+| [11–16 July 2018](2018-07-16-SWG.html) | SWG <br> LA7 | 25 | 24–27 | 23–28 | 23–28 | 22–29 |
 | [5–13 July 2018](2018-07-13-TermometroPolitico.html) | Termometro Politico | 26 | 25–26 | 25–27 | 24–28 | 24–28 |
 | [7–13 July 2018](2018-07-13-BiDiMedia.html) | BiDiMedia | 24 | 22–26 | 21–27 | 21–27 | 20–28 |
 | [4–9 July 2018](2018-07-09-SWG.html) | SWG | 25 | 24–27 | 23–28 | 23–28 | 23–29 |
 | [9 July 2018](2018-07-09-Piepoli.html) | Piepoli <br> Sky TG 24 | 23 | 21–25 | 20–26 | 20–26 | 19–27 |
-| [6–8 July 2018](2018-07-08-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 23 | 22–25 | 22–25 | 22–26 | 21–27 |
+| [6–8 July 2018](2018-07-08-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 23 | 22–25 | 22–26 | 21–26 | 21–27 |
 | [27 June–2 July 2018](2018-07-02-SWG.html) | SWG <br> LA7 | 25 | 23–27 | 23–28 | 23–28 | 22–29 |
 | [7 June–2 July 2018](2018-07-02-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 22 | 20–23 | 20–23 | 20–23 | 19–24 |
 | [26–27 June 2018](2018-06-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 26 | 24–28 | 24–29 | 24–29 | 23–30 |
@@ -325,13 +325,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 20 | 4% | 92% |  |
 | 21 | 9% | 88% |  |
 | 22 | 17% | 79% |  |
-| 23 | 17% | 62% | Median |
-| 24 | 14% | 46% |  |
-| 25 | 13% | 32% |  |
+| 23 | 16% | 62% | Median |
+| 24 | 15% | 46% |  |
+| 25 | 12% | 32% |  |
 | 26 | 12% | 19% |  |
 | 27 | 4% | 7% |  |
-| 28 | 3% | 3% |  |
-| 29 | 0.4% | 0.4% |  |
+| 28 | 2% | 3% |  |
+| 29 | 0.4% | 0.5% |  |
 | 30 | 0.1% | 0.1% |  |
 | 31 | 0% | 0% |  |
 

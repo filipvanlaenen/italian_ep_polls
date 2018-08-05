@@ -169,7 +169,7 @@ Last result: **17** seats (General Election of 25 May 2014)
 | [24–25 July 2018](2018-07-25-Demopolis.html) | Demopolis | 25 | 23–26 | 23–27 | 23–27 | 22–28 |
 | [18–23 July 2018](2018-07-23-SWG.html) | SWG <br> LA7 | 25 | 23–27 | 23–27 | 23–27 | 22–28 |
 | [17–18 July 2018](2018-07-18-Ipsos.html) | Ipsos <br> Corriere della Sera | 26 | 24–28 | 24–29 | 24–29 | 23–30 |
-| [11–16 July 2018](2018-07-16-SWG.html) | SWG <br> LA7 | 25 | 24–26 | 23–27 | 23–27 | 22–28 |
+| [11–16 July 2018](2018-07-16-SWG.html) | SWG <br> LA7 | 25 | 23–27 | 23–27 | 23–28 | 22–28 |
 | [5–13 July 2018](2018-07-13-TermometroPolitico.html) | Termometro Politico | 24 | 24–26 | 23–26 | 23–27 | 23–27 |
 | [7–13 July 2018](2018-07-13-BiDiMedia.html) | BiDiMedia | 25 | 22–27 | 22–28 | 22–29 | 21–29 |
 | [4–9 July 2018](2018-07-09-SWG.html) | SWG | 24 | 23–26 | 22–26 | 22–27 | 22–27 |
@@ -300,12 +300,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 21 | 6% | 98% |  |
 | 22 | 12% | 92% |  |
 | 23 | 15% | 80% |  |
-| 24 | 19% | 65% | Median |
-| 25 | 21% | 46% |  |
+| 24 | 17% | 65% | Median |
+| 25 | 22% | 48% |  |
 | 26 | 14% | 26% |  |
 | 27 | 8% | 12% |  |
-| 28 | 2% | 4% |  |
-| 29 | 1.0% | 1.1% |  |
+| 28 | 3% | 4% |  |
+| 29 | 0.9% | 1.0% |  |
 | 30 | 0.1% | 0.1% |  |
 | 31 | 0% | 0% |  |
 

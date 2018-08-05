@@ -165,12 +165,12 @@ Last result: **13** seats (General Election of 25 May 2014)
 | [24–25 July 2018](2018-07-25-Demopolis.html) | Demopolis | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | [18–23 July 2018](2018-07-23-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | [17–18 July 2018](2018-07-18-Ipsos.html) | Ipsos <br> Corriere della Sera | 7 | 6–7 | 5–8 | 5–8 | 5–9 |
-| [11–16 July 2018](2018-07-16-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
+| [11–16 July 2018](2018-07-16-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
 | [5–13 July 2018](2018-07-13-TermometroPolitico.html) | Termometro Politico | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [7–13 July 2018](2018-07-13-BiDiMedia.html) | BiDiMedia | 7 | 6–8 | 6–9 | 5–9 | 5–10 |
 | [4–9 July 2018](2018-07-09-SWG.html) | SWG | 6 | 6–7 | 6–7 | 6–8 | 5–8 |
 | [9 July 2018](2018-07-09-Piepoli.html) | Piepoli <br> Sky TG 24 | 10 | 8–12 | 8–12 | 8–12 | 7–13 |
-| [6–8 July 2018](2018-07-08-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 9 | 8–10 | 8–10 | 7–10 | 7–10 |
+| [6–8 July 2018](2018-07-08-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 9 | 8–10 | 8–10 | 7–10 | 7–11 |
 | [27 June–2 July 2018](2018-07-02-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [7 June–2 July 2018](2018-07-02-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
 | [26–27 June 2018](2018-06-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
@@ -293,8 +293,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 8% | 99.1% |  |
 | 7 | 25% | 91% |  |
 | 8 | 26% | 66% | Median |
-| 9 | 19% | 40% |  |
-| 10 | 11% | 21% |  |
+| 9 | 19% | 39% |  |
+| 10 | 10% | 21% |  |
 | 11 | 7% | 10% |  |
 | 12 | 3% | 3% |  |
 | 13 | 0.5% | 0.6% | Last Result |
