@@ -13,7 +13,7 @@ The table below lists the polls on which the average is based. They are the most
 | [25–30 July 2018](2018-07-30-SWG.html) | SWG <br> LA7 | 16–19% <br> 12–16 | 27–32% <br> 24–28 | 7–10% <br> 6–9 | 28–33% <br> 24–29 | 3–5% <br> 0–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–3% <br> 0 | 2–3% <br> 0 | 2–3% <br> 0 |
 | [24–25 July 2018](2018-07-25-Demopolis.html) | Demopolis | 16–20% <br> 12–15 | 28–34% <br> 23–27 | 8–11% <br> 6–9 | 26–32% <br> 21–25 | 3–5% <br> 0–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A |
 | [17–18 July 2018](2018-07-18-Ipsos.html) | Ipsos <br> Corriere della Sera | 15–19% <br> 11–15 | 29–34% <br> 24–29 | 6–10% <br> 5–8 | 28–34% <br> 23–29 | 2–4% <br> 0–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | 2–4% <br> 0–3 | 2–4% <br> 0 | N/A <br> N/A |
-| [5–13 July 2018](2018-07-13-TermometroPolitico.html) | Termometro Politico | 17–20% <br> 14–16 | 27–31% <br> 23–27 | 7–9% <br> 6–8 | 29–32% <br> 24–28 | 3–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 1–2% <br> 0 | 2–3% <br> 0 | 1–2% <br> 0 |
+| [5–13 July 2018](2018-07-13-TermometroPolitico.html) | Termometro Politico | 17–20% <br> 13–16 | 27–31% <br> 23–26 | 7–9% <br> 6–8 | 29–32% <br> 24–28 | 3–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 1–2% <br> 0 | 2–3% <br> 0 | 1–2% <br> 0 |
 | [7–13 July 2018](2018-07-13-BiDiMedia.html) | BiDiMedia | 16–22% <br> 12–18 | 26–32% <br> 22–29 | 7–11% <br> 5–9 | 25–32% <br> 21–27 | 3–6% <br> 0–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 1–3% <br> 0 | 2–4% <br> 0–4 | 1–3% <br> 0 |
 | [9 July 2018](2018-07-09-Piepoli.html) | Piepoli <br> Sky TG 24 | 15–22% <br> 11–16 | 25–33% <br> 20–27 | 9–15% <br> 8–12 | 24–32% <br> 20–26 | 2–5% <br> 0–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–2% <br> 0 | 1–4% <br> 0 | 1–4% <br> 0 | N/A <br> N/A |
 | [6–8 July 2018](2018-07-08-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 16–19% <br> 12–16 | 28–32% <br> 23–28 | 9–12% <br> 7–10 | 25–30% <br> 21–26 | 3–6% <br> 0–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 1–2% <br> 0 | 3–5% <br> 0–4 | 1–3% <br> 0 |
@@ -288,9 +288,9 @@ Only polls for which at least the sample size has been published are included in
 | 11 | 2% | 99.7% |  |
 | 12 | 9% | 97% |  |
 | 13 | 21% | 88% |  |
-| 14 | 32% | 67% | Median |
-| 15 | 21% | 34% |  |
-| 16 | 9% | 14% |  |
+| 14 | 30% | 67% | Median |
+| 15 | 23% | 36% |  |
+| 16 | 9% | 13% |  |
 | 17 | 3% | 4% |  |
 | 18 | 0.9% | 1.1% |  |
 | 19 | 0.2% | 0.2% |  |
@@ -378,9 +378,9 @@ Only polls for which at least the sample size has been published are included in
 | 22 | 17% | 79% |  |
 | 23 | 16% | 62% | Median |
 | 24 | 15% | 46% |  |
-| 25 | 12% | 32% |  |
-| 26 | 12% | 19% |  |
-| 27 | 4% | 7% |  |
+| 25 | 13% | 32% |  |
+| 26 | 10% | 18% |  |
+| 27 | 5% | 8% |  |
 | 28 | 2% | 3% |  |
 | 29 | 0.4% | 0.5% |  |
 | 30 | 0.1% | 0.1% |  |
@@ -394,10 +394,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 67% | 100% | Last Result, Median |
-| 1 | 0% | 33% |  |
-| 2 | 0% | 33% |  |
-| 3 | 12% | 33% |  |
+| 0 | 66% | 100% | Last Result, Median |
+| 1 | 0% | 34% |  |
+| 2 | 0% | 34% |  |
+| 3 | 12% | 34% |  |
 | 4 | 20% | 22% |  |
 | 5 | 1.3% | 1.3% |  |
 | 6 | 0% | 0% |  |
@@ -513,9 +513,9 @@ Only polls for which at least the sample size has been published are included in
 | 22 | 17% | 79% |  |
 | 23 | 16% | 62% | Median |
 | 24 | 15% | 46% |  |
-| 25 | 12% | 32% |  |
-| 26 | 12% | 19% |  |
-| 27 | 4% | 7% |  |
+| 25 | 13% | 32% |  |
+| 26 | 10% | 18% |  |
+| 27 | 5% | 8% |  |
 | 28 | 2% | 3% |  |
 | 29 | 0.4% | 0.5% |  |
 | 30 | 0.1% | 0.1% |  |
@@ -529,8 +529,8 @@ Only polls for which at least the sample size has been published are included in
 | 11 | 2% | 99.7% |  |
 | 12 | 9% | 98% |  |
 | 13 | 20% | 89% |  |
-| 14 | 32% | 69% | Median |
-| 15 | 21% | 37% |  |
+| 14 | 30% | 69% | Median |
+| 15 | 23% | 39% |  |
 | 16 | 10% | 16% |  |
 | 17 | 4% | 6% |  |
 | 18 | 1.5% | 2% |  |
@@ -567,10 +567,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 67% | 100% | Last Result, Median |
-| 1 | 0% | 33% |  |
-| 2 | 0% | 33% |  |
-| 3 | 12% | 33% |  |
+| 0 | 66% | 100% | Last Result, Median |
+| 1 | 0% | 34% |  |
+| 2 | 0% | 34% |  |
+| 3 | 12% | 34% |  |
 | 4 | 20% | 22% |  |
 | 5 | 1.3% | 1.3% |  |
 | 6 | 0% | 0% |  |
