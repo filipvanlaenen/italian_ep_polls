@@ -184,7 +184,7 @@ Last result: **31** seats (General Election of 25 May 2014)
 | [11–16 July 2018](2018-07-16-SWG.html) | SWG <br> LA7 | 14 | 13–16 | 13–16 | 12–16 | 12–17 |
 | [5–13 July 2018](2018-07-13-TermometroPolitico.html) | Termometro Politico | 15 | 14–16 | 14–16 | 13–16 | 13–16 |
 | [7–13 July 2018](2018-07-13-BiDiMedia.html) | BiDiMedia | 15 | 13–17 | 13–17 | 12–18 | 12–19 |
-| [4–9 July 2018](2018-07-09-SWG.html) | SWG | 14 | 13–15 | 12–16 | 12–16 | 12–16 |
+| [4–9 July 2018](2018-07-09-SWG.html) | SWG | 14 | 13–15 | 12–15 | 12–16 | 12–16 |
 | [9 July 2018](2018-07-09-Piepoli.html) | Piepoli <br> Sky TG 24 | 14 | 12–16 | 11–16 | 11–16 | 10–17 |
 | [6–8 July 2018](2018-07-08-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 14 | 13–15 | 12–15 | 12–16 | 12–16 |
 | [27 June–2 July 2018](2018-07-02-SWG.html) | SWG <br> LA7 | 14 | 13–15 | 12–16 | 12–16 | 12–16 |
@@ -309,7 +309,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 2% | 99.7% |  |
 | 12 | 9% | 97% |  |
 | 13 | 21% | 88% |  |
-| 14 | 30% | 67% | Median |
+| 14 | 31% | 67% | Median |
 | 15 | 23% | 36% |  |
 | 16 | 9% | 13% |  |
 | 17 | 3% | 4% |  |

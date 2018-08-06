@@ -168,7 +168,7 @@ Last result: **13** seats (General Election of 25 May 2014)
 | [11–16 July 2018](2018-07-16-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
 | [5–13 July 2018](2018-07-13-TermometroPolitico.html) | Termometro Politico | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [7–13 July 2018](2018-07-13-BiDiMedia.html) | BiDiMedia | 7 | 6–8 | 6–9 | 5–9 | 5–10 |
-| [4–9 July 2018](2018-07-09-SWG.html) | SWG | 6 | 6–7 | 6–7 | 6–8 | 5–8 |
+| [4–9 July 2018](2018-07-09-SWG.html) | SWG | 6 | 6–7 | 5–8 | 5–8 | 5–8 |
 | [9 July 2018](2018-07-09-Piepoli.html) | Piepoli <br> Sky TG 24 | 10 | 8–12 | 8–12 | 8–12 | 7–13 |
 | [6–8 July 2018](2018-07-08-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 9 | 8–10 | 8–10 | 7–10 | 7–11 |
 | [27 June–2 July 2018](2018-07-02-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
