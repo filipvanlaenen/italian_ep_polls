@@ -172,7 +172,7 @@ Last result: **13** seats (General Election of 25 May 2014)
 | [9 July 2018](2018-07-09-Piepoli.html) | Piepoli <br> Sky TG 24 | 10 | 8–12 | 8–12 | 8–12 | 7–13 |
 | [6–8 July 2018](2018-07-08-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 9 | 8–10 | 8–10 | 7–10 | 7–11 |
 | [27 June–2 July 2018](2018-07-02-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
-| [7 June–2 July 2018](2018-07-02-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
+| [7 June–2 July 2018](2018-07-02-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
 | [26–27 June 2018](2018-06-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | [20–25 June 2018](2018-06-25-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
 | [25 June 2018](2018-06-25-Piepoli.html) | Piepoli <br> Sky TG 24 | 11 | 9–12 | 9–13 | 8–13 | 7–14 |

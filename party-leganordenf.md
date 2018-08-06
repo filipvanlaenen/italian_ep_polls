@@ -184,7 +184,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [18–23 July 2018](2018-07-23-SWG.html) | SWG <br> LA7 | 26 | 24–28 | 24–28 | 24–29 | 23–29 |
 | [17–18 July 2018](2018-07-18-Ipsos.html) | Ipsos <br> Corriere della Sera | 26 | 24–28 | 24–28 | 23–29 | 22–30 |
 | [11–16 July 2018](2018-07-16-SWG.html) | SWG <br> LA7 | 25 | 24–27 | 23–28 | 23–28 | 22–29 |
-| [5–13 July 2018](2018-07-13-TermometroPolitico.html) | Termometro Politico | 26 | 25–26 | 25–27 | 24–28 | 24–28 |
+| [5–13 July 2018](2018-07-13-TermometroPolitico.html) | Termometro Politico | 26 | 25–27 | 25–27 | 24–28 | 24–28 |
 | [7–13 July 2018](2018-07-13-BiDiMedia.html) | BiDiMedia | 24 | 22–26 | 21–27 | 21–27 | 20–28 |
 | [4–9 July 2018](2018-07-09-SWG.html) | SWG | 25 | 24–27 | 23–28 | 23–28 | 23–29 |
 | [9 July 2018](2018-07-09-Piepoli.html) | Piepoli <br> Sky TG 24 | 23 | 21–25 | 20–26 | 20–26 | 19–27 |
@@ -327,9 +327,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 22 | 17% | 79% |  |
 | 23 | 16% | 62% | Median |
 | 24 | 15% | 46% |  |
-| 25 | 12% | 32% |  |
-| 26 | 12% | 19% |  |
-| 27 | 4% | 7% |  |
+| 25 | 13% | 32% |  |
+| 26 | 10% | 18% |  |
+| 27 | 5% | 8% |  |
 | 28 | 2% | 3% |  |
 | 29 | 0.4% | 0.5% |  |
 | 30 | 0.1% | 0.1% |  |

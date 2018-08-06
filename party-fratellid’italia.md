@@ -167,7 +167,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [9 July 2018](2018-07-09-Piepoli.html) | Piepoli <br> Sky TG 24 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [6–8 July 2018](2018-07-08-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 4 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [27 June–2 July 2018](2018-07-02-SWG.html) | SWG <br> LA7 | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
-| [7 June–2 July 2018](2018-07-02-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [7 June–2 July 2018](2018-07-02-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [26–27 June 2018](2018-06-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
 | [20–25 June 2018](2018-06-25-SWG.html) | SWG <br> LA7 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [25 June 2018](2018-06-25-Piepoli.html) | Piepoli <br> Sky TG 24 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
@@ -284,10 +284,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 67% | 100% | Last Result, Median |
-| 1 | 0% | 33% |  |
-| 2 | 0% | 33% |  |
-| 3 | 12% | 33% |  |
+| 0 | 66% | 100% | Last Result, Median |
+| 1 | 0% | 34% |  |
+| 2 | 0% | 34% |  |
+| 3 | 12% | 34% |  |
 | 4 | 20% | 22% |  |
 | 5 | 1.3% | 1.3% |  |
 | 6 | 0% | 0% |  |
