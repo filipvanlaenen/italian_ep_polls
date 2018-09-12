@@ -237,6 +237,8 @@
 
 ### Movimento 5 Stelle (EFDD)
 
+![Graph with seats probability mass function not yet produced](2018-04-30-Bidimedia-coalitions-seats-pmf-m5s.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 17 | 0% | 100% | Last Result |
@@ -262,6 +264,8 @@
 
 ### Lega Nord (ENF)
 
+![Graph with seats probability mass function not yet produced](2018-04-30-Bidimedia-coalitions-seats-pmf-ln.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0% | 100% | Last Result |
@@ -285,6 +289,8 @@
 | 23 | 0% | 0% |  |
 
 ### Partito Democratico (S&D) – Liberi e Uguali (S&D)
+
+![Graph with seats probability mass function not yet produced](2018-04-30-Bidimedia-coalitions-seats-pmf-pd–leu.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -313,11 +319,15 @@
 
 ### Più Europa (ALDE)
 
+![Graph with seats probability mass function not yet produced](2018-04-30-Bidimedia-coalitions-seats-pmf-e.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Last Result, Median |
 
 ### Potere al Popolo (GUE/NGL)
+
+![Graph with seats probability mass function not yet produced](2018-04-30-Bidimedia-coalitions-seats-pmf-pap.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

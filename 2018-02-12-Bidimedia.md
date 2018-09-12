@@ -246,6 +246,8 @@
 
 ### Partito Democratico (S&D) – Liberi e Uguali (S&D)
 
+![Graph with seats probability mass function not yet produced](2018-02-12-Bidimedia-coalitions-seats-pmf-pd–leu.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 18 | 0.2% | 100% |  |
@@ -265,6 +267,8 @@
 
 ### Movimento 5 Stelle (EFDD)
 
+![Graph with seats probability mass function not yet produced](2018-02-12-Bidimedia-coalitions-seats-pmf-m5s.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 17 | 0% | 100% | Last Result |
@@ -280,6 +284,8 @@
 | 27 | 0% | 0% |  |
 
 ### Lega Nord (ENF)
+
+![Graph with seats probability mass function not yet produced](2018-02-12-Bidimedia-coalitions-seats-pmf-ln.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -299,6 +305,8 @@
 
 ### Fratelli d’Italia (*) – Civica Popolare (*) – CasaPound Italia (*) – Insieme (*)
 
+![Graph with seats probability mass function not yet produced](2018-02-12-Bidimedia-coalitions-seats-pmf-fdi–cp–cpi–i.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 47% | 100% | Last Result |
@@ -312,11 +320,15 @@
 
 ### Più Europa (ALDE)
 
+![Graph with seats probability mass function not yet produced](2018-02-12-Bidimedia-coalitions-seats-pmf-e.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Last Result, Median |
 
 ### Potere al Popolo (GUE/NGL)
+
+![Graph with seats probability mass function not yet produced](2018-02-12-Bidimedia-coalitions-seats-pmf-pap.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

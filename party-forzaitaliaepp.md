@@ -10,7 +10,8 @@ Last result: **16.8%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.9% | 7.8–12.9% | 7.4–13.7% | 7.1–14.3% | 6.4–15.3% |
+| N/A | [Poll Average](average.html) | 9.6% | 7.7–12.2% | 7.3–13.0% | 7.0–13.6% | 6.3–14.9% |
+| [24–27 August 2018](2018-08-27-LorienConsulting.html) | Lorien Consulting | 8.8% | 7.4–10.6% | 7.0–11.2% | 6.6–11.6% | 6.0–12.6% |
 | [25–30 July 2018](2018-07-30-SWG.html) | SWG <br> LA7 | 8.6% | 7.7–9.6% | 7.5–9.9% | 7.3–10.1% | 6.9–10.6% |
 | [24–25 July 2018](2018-07-25-Demopolis.html) | Demopolis | 9.5% | 8.5–10.7% | 8.2–11.0% | 8.0–11.3% | 7.5–11.9% |
 | [18–23 July 2018](2018-07-23-SWG.html) | SWG <br> LA7 | 7.9% | 7.0–8.8% | 6.8–9.1% | 6.6–9.3% | 6.2–9.8% |
@@ -138,17 +139,17 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.7% | 100% |  |
-| 6.5–7.5% | 6% | 99.3% |  |
-| 7.5–8.5% | 17% | 93% |  |
-| 8.5–9.5% | 19% | 76% |  |
-| 9.5–10.5% | 21% | 57% | Median |
-| 10.5–11.5% | 14% | 36% |  |
-| 11.5–12.5% | 9% | 22% |  |
-| 12.5–13.5% | 7% | 13% |  |
-| 13.5–14.5% | 4% | 6% |  |
-| 14.5–15.5% | 1.4% | 2% |  |
-| 15.5–16.5% | 0.3% | 0.3% |  |
+| 5.5–6.5% | 0.8% | 100% |  |
+| 6.5–7.5% | 7% | 99.1% |  |
+| 7.5–8.5% | 19% | 92% |  |
+| 8.5–9.5% | 22% | 73% |  |
+| 9.5–10.5% | 22% | 52% | Median |
+| 10.5–11.5% | 14% | 29% |  |
+| 11.5–12.5% | 8% | 15% |  |
+| 12.5–13.5% | 5% | 7% |  |
+| 13.5–14.5% | 2% | 3% |  |
+| 14.5–15.5% | 0.6% | 0.8% |  |
+| 15.5–16.5% | 0.1% | 0.2% |  |
 | 16.5–17.5% | 0% | 0% | Last Result |
 
 
@@ -160,7 +161,8 @@ Last result: **13** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 7–11 | 6–11 | 6–12 | 5–13 |
+| N/A | [Poll Average](average.html) | 8 | 6–10 | 6–11 | 6–11 | 5–12 |
+| [24–27 August 2018](2018-08-27-LorienConsulting.html) | Lorien Consulting | 7 | 6–9 | 6–10 | 5–10 | 5–11 |
 | [25–30 July 2018](2018-07-30-SWG.html) | SWG <br> LA7 | 7 | 7–8 | 6–9 | 6–9 | 6–9 |
 | [24–25 July 2018](2018-07-25-Demopolis.html) | Demopolis | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | [18–23 July 2018](2018-07-23-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
@@ -289,15 +291,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 0.9% | 100% |  |
-| 6 | 8% | 99.1% |  |
-| 7 | 25% | 91% |  |
-| 8 | 26% | 66% | Median |
-| 9 | 19% | 39% |  |
-| 10 | 10% | 21% |  |
-| 11 | 7% | 10% |  |
-| 12 | 3% | 3% |  |
-| 13 | 0.5% | 0.6% | Last Result |
+| 5 | 1.1% | 100% |  |
+| 6 | 10% | 98.9% |  |
+| 7 | 28% | 89% |  |
+| 8 | 29% | 62% | Median |
+| 9 | 19% | 33% |  |
+| 10 | 9% | 14% |  |
+| 11 | 4% | 5% |  |
+| 12 | 1.0% | 1.3% |  |
+| 13 | 0.2% | 0.2% | Last Result |
 | 14 | 0% | 0% |  |
 
 

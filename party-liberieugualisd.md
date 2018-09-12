@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.7% | 1.9–3.6% | 1.7–3.9% | 1.6–4.1% | 1.2–4.6% |
+| N/A | [Poll Average](average.html) | 2.8% | 1.9–3.8% | 1.7–4.2% | 1.6–4.6% | 1.2–5.4% |
+| [24–27 August 2018](2018-08-27-LorienConsulting.html) | Lorien Consulting | 3.8% | 2.9–5.1% | 2.7–5.5% | 2.5–5.9% | 2.1–6.6% |
 | [25–30 July 2018](2018-07-30-SWG.html) | SWG <br> LA7 | 2.4% | 2.0–3.0% | 1.8–3.2% | 1.7–3.3% | 1.5–3.6% |
 | [24–25 July 2018](2018-07-25-Demopolis.html) | Demopolis | 2.6% | 2.1–3.3% | 1.9–3.5% | 1.8–3.7% | 1.6–4.0% |
 | [18–23 July 2018](2018-07-23-SWG.html) | SWG <br> LA7 | 2.6% | 2.1–3.2% | 2.0–3.4% | 1.9–3.5% | 1.7–3.9% |
@@ -139,11 +140,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 2% | 100% |  |
-| 1.5–2.5% | 39% | 98% |  |
-| 2.5–3.5% | 47% | 59% | Median |
-| 3.5–4.5% | 12% | 12% |  |
-| 4.5–5.5% | 0.5% | 0.6% |  |
-| 5.5–6.5% | 0% | 0% |  |
+| 1.5–2.5% | 37% | 98% |  |
+| 2.5–3.5% | 44% | 61% | Median |
+| 3.5–4.5% | 14% | 17% |  |
+| 4.5–5.5% | 2% | 3% |  |
+| 5.5–6.5% | 0.4% | 0.4% |  |
+| 6.5–7.5% | 0% | 0% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -154,7 +157,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–3 | 0–4 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0–3 | 0–4 | 0–4 |
+| [24–27 August 2018](2018-08-27-LorienConsulting.html) | Lorien Consulting | 0 | 0–4 | 0–4 | 0–5 | 0–6 |
 | [25–30 July 2018](2018-07-30-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
 | [24–25 July 2018](2018-07-25-Demopolis.html) | Demopolis | 0 | 0 | 0 | 0 | 0 |
 | [18–23 July 2018](2018-07-23-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
@@ -283,11 +287,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 96% | 100% | Last Result, Median |
-| 1 | 0% | 4% |  |
-| 2 | 0% | 4% |  |
-| 3 | 2% | 4% |  |
-| 4 | 1.2% | 1.2% |  |
-| 5 | 0% | 0% |  |
+| 0 | 93% | 100% | Last Result, Median |
+| 1 | 0% | 7% |  |
+| 2 | 0% | 7% |  |
+| 3 | 3% | 7% |  |
+| 4 | 4% | 4% |  |
+| 5 | 0.3% | 0.3% |  |
+| 6 | 0% | 0% |  |
 
 

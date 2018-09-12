@@ -168,6 +168,8 @@
 
 ### Movimento 5 Stelle (EFDD)
 
+![Graph with seats probability mass function not yet produced](2018-07-02-QuorumandYouTrend-coalitions-seats-pmf-m5s.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 17 | 0% | 100% | Last Result |
@@ -182,6 +184,8 @@
 | 26 | 0% | 0% |  |
 
 ### Lega Nord (ENF)
+
+![Graph with seats probability mass function not yet produced](2018-07-02-QuorumandYouTrend-coalitions-seats-pmf-ln.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
