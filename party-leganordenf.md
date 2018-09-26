@@ -11,6 +11,17 @@ Last result: **6.2%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 28.7% | 26.4–31.5% | 25.7–32.4% | 25.2–33.3% | 24.0–35.1% |
+| [5–10 September 2018](2018-09-10-SWG.html) | SWG <br> LA7 | 32.1% | N/A | N/A | N/A | N/A |
+| [10 September 2018](2018-09-10-Piepoli.html) | Piepoli <br> Rai 1 | 30.0% | N/A | N/A | N/A | N/A |
+| [10 September 2018](2018-09-10-Euromedia.html) | Euromedia <br> Rai 1 | 32.0% | N/A | N/A | N/A | N/A |
+| [7–9 September 2018](2018-09-09-EMGAcqua.html) | EMG Acqua | 30.5% | N/A | N/A | N/A | N/A |
+| [6–7 September 2018](2018-09-07-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 35.0% | N/A | N/A | N/A | N/A |
+| [5–6 September 2018](2018-09-06-Tecnè.html) | Tecnè <br> TGcom24 | 30.3% | 28.5–32.2% | 28.0–32.8% | 27.5–33.2% | 26.7–34.2% |
+| [6 September 2018](2018-09-06-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 34.0% | 32.1–36.0% | 31.6–36.5% | 31.1–37.0% | 30.2–38.0% |
+| [4–6 September 2018](2018-09-06-Ipsos.html) | Ipsos <br> Corriere della Sera | 33.5% | 31.6–35.5% | 31.1–36.0% | 30.6–36.5% | 29.8–37.4% |
+| [3–4 September 2018](2018-09-04-Tecnè.html) | Tecnè | 30.1% | 28.1–32.3% | 27.5–32.9% | 27.0–33.4% | 26.1–34.4% |
+| [29 August–3 September 2018](2018-09-03-SWG.html) | SWG <br> LA7 | 32.2% | 30.7–33.8% | 30.2–34.2% | 29.9–34.6% | 29.2–35.4% |
+| [30 August–2 September 2018](2018-09-02-BiDiMedia.html) | BiDiMedia | 29.5% | 27.6–31.6% | 27.1–32.1% | 26.6–32.6% | 25.7–33.6% |
 | [24–27 August 2018](2018-08-27-LorienConsulting.html) | Lorien Consulting | 31.8% | 29.2–34.6% | 28.5–35.3% | 27.9–36.0% | 26.7–37.4% |
 | [25–30 July 2018](2018-07-30-SWG.html) | SWG <br> LA7 | 30.3% | 28.8–31.9% | 28.4–32.3% | 28.1–32.7% | 27.3–33.5% |
 | [24–25 July 2018](2018-07-25-Demopolis.html) | Demopolis | 29.0% | 27.4–30.7% | 26.9–31.2% | 26.5–31.6% | 25.7–32.5% |
@@ -182,6 +193,17 @@ Last result: **5** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 24 | 21–27 | 21–28 | 20–28 | 19–30 |
+| [5–10 September 2018](2018-09-10-SWG.html) | SWG <br> LA7 |  |  |  |  |  |
+| [10 September 2018](2018-09-10-Piepoli.html) | Piepoli <br> Rai 1 |  |  |  |  |  |
+| [10 September 2018](2018-09-10-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
+| [7–9 September 2018](2018-09-09-EMGAcqua.html) | EMG Acqua |  |  |  |  |  |
+| [6–7 September 2018](2018-09-07-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll |  |  |  |  |  |
+| [5–6 September 2018](2018-09-06-Tecnè.html) | Tecnè <br> TGcom24 | 24 | 22–26 | 22–26 | 22–26 | 21–27 |
+| [6 September 2018](2018-09-06-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 29 | 27–31 | 26–32 | 25–32 | 25–33 |
+| [4–6 September 2018](2018-09-06-Ipsos.html) | Ipsos <br> Corriere della Sera | 29 | 27–30 | 26–30 | 26–31 | 25–31 |
+| [3–4 September 2018](2018-09-04-Tecnè.html) | Tecnè | 24 | 22–26 | 22–26 | 21–26 | 20–27 |
+| [29 August–3 September 2018](2018-09-03-SWG.html) | SWG <br> LA7 | 28 | 26–29 | 26–30 | 25–30 | 25–31 |
+| [30 August–2 September 2018](2018-09-02-BiDiMedia.html) | BiDiMedia | 25 | 23–27 | 23–28 | 22–28 | 22–29 |
 | [24–27 August 2018](2018-08-27-LorienConsulting.html) | Lorien Consulting | 27 | 24–29 | 23–30 | 23–31 | 22–32 |
 | [25–30 July 2018](2018-07-30-SWG.html) | SWG <br> LA7 | 26 | 25–28 | 24–28 | 24–29 | 23–29 |
 | [24–25 July 2018](2018-07-25-Demopolis.html) | Demopolis | 23 | 22–25 | 21–25 | 21–25 | 20–26 |
