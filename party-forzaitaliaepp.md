@@ -11,11 +11,22 @@ Last result: **16.8%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9.6% | 7.7–12.2% | 7.3–13.0% | 7.0–13.6% | 6.3–14.9% |
-| [5–10 September 2018](2018-09-10-SWG.html) | SWG <br> LA7 | 7.6% | N/A | N/A | N/A | N/A |
-| [10 September 2018](2018-09-10-Piepoli.html) | Piepoli <br> Rai 1 | 10.0% | N/A | N/A | N/A | N/A |
-| [10 September 2018](2018-09-10-Euromedia.html) | Euromedia <br> Rai 1 | 10.8% | N/A | N/A | N/A | N/A |
-| [7–9 September 2018](2018-09-09-EMGAcqua.html) | EMG Acqua | 8.5% | N/A | N/A | N/A | N/A |
-| [6–7 September 2018](2018-09-07-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 7.2% | N/A | N/A | N/A | N/A |
+| [19–24 September 2018](2018-09-24-SWG.html) | SWG <br> LA7 | 8.3% | 7.5–9.3% | 7.2–9.6% | 7.0–9.8% | 6.6–10.3% |
+| [22–23 September 2018](2018-09-23-Tecnè.html) | Tecnè <br> Quarta Repubblica | 10.9% | 9.7–12.3% | 9.4–12.7% | 9.1–13.0% | 8.6–13.7% |
+| [21–22 September 2018](2018-09-22-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 8.0% | 7.2–9.0% | 6.9–9.3% | 6.7–9.5% | 6.3–10.0% |
+| [19–21 September 2018](2018-09-21-Ixè.html) | Ixè <br> Huffington Post | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
+| [18–19 September 2018](2018-09-19-IndexResearch.html) | Index Research <br> LA7 | 8.8% | 7.6–10.2% | 7.3–10.6% | 7.0–10.9% | 6.5–11.6% |
+| [12–17 September 2018](2018-09-17-SWG.html) | SWG <br> LA7 | 7.0% | 6.2–7.9% | 6.0–8.2% | 5.8–8.4% | 5.5–8.9% |
+| [17 September 2018](2018-09-17-Piepoli.html) | Piepoli <br> Rai 1 | 10.6% | 9.0–12.5% | 8.6–13.1% | 8.2–13.6% | 7.5–14.6% |
+| [17 September 2018](2018-09-17-Euromedia.html) | Euromedia <br> Rai 1 | 10.5% | 9.2–12.0% | 8.9–12.5% | 8.6–12.8% | 8.0–13.6% |
+| [14–15 September 2018](2018-09-15-Tecnè.html) | Tecnè <br> Quarta Repubblica | 10.8% | 9.6–12.2% | 9.3–12.5% | 9.0–12.9% | 8.5–13.6% |
+| [11–13 September 2018](2018-09-13-DemosPi.html) | Demos & Pi | 8.7% | 7.6–9.9% | 7.3–10.3% | 7.1–10.6% | 6.6–11.2% |
+| [11–12 September 2018](2018-09-12-Demopolis.html) | Demopolis | 8.5% | 7.7–9.5% | 7.4–9.8% | 7.2–10.1% | 6.8–10.6% |
+| [5–10 September 2018](2018-09-10-SWG.html) | SWG <br> LA7 | 7.6% | 6.8–8.6% | 6.6–8.8% | 6.4–9.1% | 6.0–9.5% |
+| [10 September 2018](2018-09-10-Piepoli.html) | Piepoli <br> Rai 1 | 10.0% | 8.5–11.9% | 8.0–12.4% | 7.7–12.9% | 7.0–13.9% |
+| [10 September 2018](2018-09-10-Euromedia.html) | Euromedia <br> Rai 1 | 10.8% | 9.4–12.3% | 9.1–12.7% | 8.8–13.1% | 8.2–13.9% |
+| [7–9 September 2018](2018-09-09-EMGAcqua.html) | EMG Acqua | 8.5% | 7.6–9.5% | 7.4–9.8% | 7.2–10.0% | 6.8–10.5% |
+| [6–7 September 2018](2018-09-07-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 7.2% | 6.4–8.1% | 6.2–8.4% | 6.0–8.6% | 5.6–9.1% |
 | [5–6 September 2018](2018-09-06-Tecnè.html) | Tecnè <br> TGcom24 | 11.0% | 9.8–12.4% | 9.5–12.8% | 9.2–13.1% | 8.7–13.8% |
 | [6 September 2018](2018-09-06-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
 | [4–6 September 2018](2018-09-06-Ipsos.html) | Ipsos <br> Corriere della Sera | 8.7% | 7.7–10.0% | 7.3–10.3% | 7.1–10.6% | 6.6–11.2% |
@@ -173,11 +184,22 @@ Last result: **13** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 6–10 | 6–11 | 6–11 | 5–12 |
-| [5–10 September 2018](2018-09-10-SWG.html) | SWG <br> LA7 |  |  |  |  |  |
-| [10 September 2018](2018-09-10-Piepoli.html) | Piepoli <br> Rai 1 |  |  |  |  |  |
-| [10 September 2018](2018-09-10-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
-| [7–9 September 2018](2018-09-09-EMGAcqua.html) | EMG Acqua |  |  |  |  |  |
-| [6–7 September 2018](2018-09-07-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll |  |  |  |  |  |
+| [19–24 September 2018](2018-09-24-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
+| [22–23 September 2018](2018-09-23-Tecnè.html) | Tecnè <br> Quarta Repubblica | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
+| [21–22 September 2018](2018-09-22-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 7 | 6–7 | 6–8 | 5–8 | 5–8 |
+| [19–21 September 2018](2018-09-21-Ixè.html) | Ixè <br> Huffington Post | 8 | 7–8 | 7–9 | 7–9 | 6–10 |
+| [18–19 September 2018](2018-09-19-IndexResearch.html) | Index Research <br> LA7 | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
+| [12–17 September 2018](2018-09-17-SWG.html) | SWG <br> LA7 | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
+| [17 September 2018](2018-09-17-Piepoli.html) | Piepoli <br> Rai 1 | 9 | 7–10 | 7–11 | 7–11 | 6–12 |
+| [17 September 2018](2018-09-17-Euromedia.html) | Euromedia <br> Rai 1 | 9 | 8–10 | 7–10 | 7–11 | 7–12 |
+| [14–15 September 2018](2018-09-15-Tecnè.html) | Tecnè <br> Quarta Repubblica | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
+| [11–13 September 2018](2018-09-13-DemosPi.html) | Demos & Pi | 7 | 6–8 | 6–9 | 6–9 | 6–10 |
+| [11–12 September 2018](2018-09-12-Demopolis.html) | Demopolis | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
+| [5–10 September 2018](2018-09-10-SWG.html) | SWG <br> LA7 | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
+| [10 September 2018](2018-09-10-Piepoli.html) | Piepoli <br> Rai 1 | 8 | 7–10 | 7–10 | 6–10 | 6–11 |
+| [10 September 2018](2018-09-10-Euromedia.html) | Euromedia <br> Rai 1 | 9 | 8–10 | 8–11 | 7–11 | 7–12 |
+| [7–9 September 2018](2018-09-09-EMGAcqua.html) | EMG Acqua | 7 | 6–9 | 6–9 | 6–9 | 6–9 |
+| [6–7 September 2018](2018-09-07-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [5–6 September 2018](2018-09-06-Tecnè.html) | Tecnè <br> TGcom24 | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
 | [6 September 2018](2018-09-06-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
 | [4–6 September 2018](2018-09-06-Ipsos.html) | Ipsos <br> Corriere della Sera | 7 | 7–8 | 6–9 | 6–9 | 6–9 |
