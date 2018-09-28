@@ -190,15 +190,15 @@ Last result: **13** seats (General Election of 25 May 2014)
 | [19–21 September 2018](2018-09-21-Ixè.html) | Ixè <br> Huffington Post | 8 | 7–8 | 7–9 | 7–9 | 6–10 |
 | [18–19 September 2018](2018-09-19-IndexResearch.html) | Index Research <br> LA7 | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | [12–17 September 2018](2018-09-17-SWG.html) | SWG <br> LA7 | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
-| [17 September 2018](2018-09-17-Piepoli.html) | Piepoli <br> Rai 1 | 9 | 7–10 | 7–11 | 7–11 | 6–12 |
-| [17 September 2018](2018-09-17-Euromedia.html) | Euromedia <br> Rai 1 | 9 | 8–10 | 7–10 | 7–11 | 7–12 |
+| [17 September 2018](2018-09-17-Piepoli.html) | Piepoli <br> Rai 1 | 9 | 7–10 | 7–11 | 7–12 | 6–12 |
+| [17 September 2018](2018-09-17-Euromedia.html) | Euromedia <br> Rai 1 | 9 | 8–10 | 7–11 | 7–11 | 7–12 |
 | [14–15 September 2018](2018-09-15-Tecnè.html) | Tecnè <br> Quarta Repubblica | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
 | [11–13 September 2018](2018-09-13-DemosPi.html) | Demos & Pi | 7 | 6–8 | 6–9 | 6–9 | 6–10 |
 | [11–12 September 2018](2018-09-12-Demopolis.html) | Demopolis | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | [5–10 September 2018](2018-09-10-SWG.html) | SWG <br> LA7 | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
 | [10 September 2018](2018-09-10-Piepoli.html) | Piepoli <br> Rai 1 | 8 | 7–10 | 7–10 | 6–10 | 6–11 |
 | [10 September 2018](2018-09-10-Euromedia.html) | Euromedia <br> Rai 1 | 9 | 8–10 | 8–11 | 7–11 | 7–12 |
-| [7–9 September 2018](2018-09-09-EMGAcqua.html) | EMG Acqua | 7 | 6–9 | 6–9 | 6–9 | 6–9 |
+| [7–9 September 2018](2018-09-09-EMGAcqua.html) | EMG Acqua | 7 | 7–8 | 6–9 | 6–9 | 6–9 |
 | [6–7 September 2018](2018-09-07-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [5–6 September 2018](2018-09-06-Tecnè.html) | Tecnè <br> TGcom24 | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
 | [6 September 2018](2018-09-06-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 8 | 7–9 | 6–9 | 6–9 | 6–10 |

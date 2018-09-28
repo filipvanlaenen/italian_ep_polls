@@ -210,15 +210,15 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [19–21 September 2018](2018-09-21-Ixè.html) | Ixè <br> Huffington Post | 28 | 26–29 | 25–29 | 24–29 | 23–30 |
 | [18–19 September 2018](2018-09-19-IndexResearch.html) | Index Research <br> LA7 | 25 | 23–27 | 23–27 | 22–28 | 22–29 |
 | [12–17 September 2018](2018-09-17-SWG.html) | SWG <br> LA7 | 26 | 25–29 | 25–29 | 25–29 | 24–30 |
-| [17 September 2018](2018-09-17-Piepoli.html) | Piepoli <br> Rai 1 | 25 | 23–28 | 22–29 | 22–29 | 20–30 |
+| [17 September 2018](2018-09-17-Piepoli.html) | Piepoli <br> Rai 1 | 25 | 23–27 | 22–28 | 21–29 | 20–30 |
 | [17 September 2018](2018-09-17-Euromedia.html) | Euromedia <br> Rai 1 | 27 | 25–29 | 25–30 | 24–31 | 24–32 |
-| [14–15 September 2018](2018-09-15-Tecnè.html) | Tecnè <br> Quarta Repubblica | 25 | 23–26 | 23–27 | 23–27 | 22–28 |
+| [14–15 September 2018](2018-09-15-Tecnè.html) | Tecnè <br> Quarta Repubblica | 25 | 23–26 | 23–27 | 22–27 | 22–28 |
 | [11–13 September 2018](2018-09-13-DemosPi.html) | Demos & Pi | 26 | 24–28 | 24–28 | 23–29 | 22–29 |
 | [11–12 September 2018](2018-09-12-Demopolis.html) | Demopolis | 26 | 24–27 | 24–27 | 24–28 | 23–28 |
 | [5–10 September 2018](2018-09-10-SWG.html) | SWG <br> LA7 | 27 | 25–29 | 25–30 | 25–30 | 24–30 |
 | [10 September 2018](2018-09-10-Piepoli.html) | Piepoli <br> Rai 1 | 24 | 22–27 | 21–27 | 21–28 | 20–29 |
 | [10 September 2018](2018-09-10-Euromedia.html) | Euromedia <br> Rai 1 | 27 | 25–29 | 24–30 | 24–30 | 23–31 |
-| [7–9 September 2018](2018-09-09-EMGAcqua.html) | EMG Acqua | 26 | 24–28 | 24–28 | 24–28 | 23–30 |
+| [7–9 September 2018](2018-09-09-EMGAcqua.html) | EMG Acqua | 26 | 25–28 | 24–28 | 24–29 | 23–30 |
 | [6–7 September 2018](2018-09-07-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 29 | 28–30 | 27–31 | 27–31 | 26–32 |
 | [5–6 September 2018](2018-09-06-Tecnè.html) | Tecnè <br> TGcom24 | 24 | 22–26 | 22–26 | 22–26 | 21–27 |
 | [6 September 2018](2018-09-06-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 29 | 27–31 | 26–32 | 25–32 | 25–33 |

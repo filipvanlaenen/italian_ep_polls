@@ -207,15 +207,15 @@ Last result: **31** seats (General Election of 25 May 2014)
 | [19–21 September 2018](2018-09-21-Ixè.html) | Ixè <br> Huffington Post | 15 | 14–17 | 13–17 | 12–17 | 12–18 |
 | [18–19 September 2018](2018-09-19-IndexResearch.html) | Index Research <br> LA7 | 14 | 12–15 | 12–15 | 11–15 | 11–17 |
 | [12–17 September 2018](2018-09-17-SWG.html) | SWG <br> LA7 | 14 | 12–14 | 12–15 | 12–15 | 11–16 |
-| [17 September 2018](2018-09-17-Piepoli.html) | Piepoli <br> Rai 1 | 13 | 11–15 | 10–16 | 10–16 | 10–18 |
-| [17 September 2018](2018-09-17-Euromedia.html) | Euromedia <br> Rai 1 | 13 | 12–14 | 11–15 | 11–15 | 10–16 |
-| [14–15 September 2018](2018-09-15-Tecnè.html) | Tecnè <br> Quarta Repubblica | 13 | 12–14 | 11–14 | 11–15 | 11–15 |
+| [17 September 2018](2018-09-17-Piepoli.html) | Piepoli <br> Rai 1 | 13 | 11–15 | 11–16 | 10–16 | 10–17 |
+| [17 September 2018](2018-09-17-Euromedia.html) | Euromedia <br> Rai 1 | 13 | 12–15 | 11–15 | 11–15 | 10–16 |
+| [14–15 September 2018](2018-09-15-Tecnè.html) | Tecnè <br> Quarta Repubblica | 13 | 12–14 | 11–15 | 11–15 | 10–16 |
 | [11–13 September 2018](2018-09-13-DemosPi.html) | Demos & Pi | 14 | 12–16 | 12–16 | 12–16 | 11–17 |
 | [11–12 September 2018](2018-09-12-Demopolis.html) | Demopolis | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
 | [5–10 September 2018](2018-09-10-SWG.html) | SWG <br> LA7 | 14 | 12–15 | 12–15 | 12–15 | 11–16 |
 | [10 September 2018](2018-09-10-Piepoli.html) | Piepoli <br> Rai 1 | 13 | 11–15 | 11–15 | 10–16 | 10–17 |
 | [10 September 2018](2018-09-10-Euromedia.html) | Euromedia <br> Rai 1 | 13 | 12–15 | 11–15 | 11–15 | 10–16 |
-| [7–9 September 2018](2018-09-09-EMGAcqua.html) | EMG Acqua | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
+| [7–9 September 2018](2018-09-09-EMGAcqua.html) | EMG Acqua | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
 | [6–7 September 2018](2018-09-07-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 17 | 15–17 | 15–18 | 14–18 | 14–19 |
 | [5–6 September 2018](2018-09-06-Tecnè.html) | Tecnè <br> TGcom24 | 13 | 12–14 | 11–15 | 11–15 | 11–16 |
 | [6 September 2018](2018-09-06-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 13 | 12–15 | 12–16 | 11–16 | 11–17 |
