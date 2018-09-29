@@ -190,7 +190,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [17 September 2018](2018-09-17-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [14–15 September 2018](2018-09-15-Tecnè.html) | Tecnè <br> Quarta Repubblica | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [11–13 September 2018](2018-09-13-DemosPi.html) | Demos & Pi | 0 | 0 | 0 | 0 | 0–4 |
-| [11–12 September 2018](2018-09-12-Demopolis.html) | Demopolis | 0 | 0 | 0 | 0–3 | 0–3 |
+| [11–12 September 2018](2018-09-12-Demopolis.html) | Demopolis | 0 | 0 | 0 | 0 | 0–3 |
 | [5–10 September 2018](2018-09-10-SWG.html) | SWG <br> LA7 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [10 September 2018](2018-09-10-Piepoli.html) | Piepoli <br> Rai 1 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [10 September 2018](2018-09-10-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
@@ -331,11 +331,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 79% | 100% | Last Result, Median |
-| 1 | 0% | 21% |  |
-| 2 | 0% | 21% |  |
-| 3 | 8% | 21% |  |
-| 4 | 11% | 12% |  |
+| 0 | 80% | 100% | Last Result, Median |
+| 1 | 0% | 20% |  |
+| 2 | 0% | 20% |  |
+| 3 | 8% | 20% |  |
+| 4 | 10% | 12% |  |
 | 5 | 2% | 2% |  |
 | 6 | 0.2% | 0.2% |  |
 | 7 | 0% | 0% |  |

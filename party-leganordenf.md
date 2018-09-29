@@ -204,11 +204,11 @@ Last result: **5** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26 | 23–29 | 22–30 | 21–31 | 20–32 |
+| N/A | [Poll Average](average.html) | 26 | 23–29 | 22–30 | 21–30 | 20–32 |
 | [19–24 September 2018](2018-09-24-SWG.html) | SWG <br> LA7 | 27 | 26–29 | 25–30 | 25–30 | 24–31 |
 | [22–23 September 2018](2018-09-23-Tecnè.html) | Tecnè <br> Quarta Repubblica | 26 | 24–28 | 24–28 | 23–28 | 23–29 |
 | [21–22 September 2018](2018-09-22-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 29 | 27–31 | 27–31 | 27–31 | 26–32 |
-| [19–21 September 2018](2018-09-21-Ixè.html) | Ixè <br> Huffington Post | 28 | 26–29 | 25–29 | 24–29 | 23–30 |
+| [19–21 September 2018](2018-09-21-Ixè.html) | Ixè <br> Huffington Post | 27 | 26–29 | 25–29 | 25–30 | 24–30 |
 | [18–19 September 2018](2018-09-19-IndexResearch.html) | Index Research <br> LA7 | 25 | 23–27 | 23–27 | 22–28 | 21–28 |
 | [12–17 September 2018](2018-09-17-SWG.html) | SWG <br> LA7 | 27 | 25–29 | 25–29 | 25–30 | 24–30 |
 | [17 September 2018](2018-09-17-Piepoli.html) | Piepoli <br> Rai 1 | 25 | 23–27 | 22–28 | 21–29 | 20–30 |
@@ -216,7 +216,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [14–15 September 2018](2018-09-15-Tecnè.html) | Tecnè <br> Quarta Repubblica | 25 | 23–26 | 23–27 | 22–27 | 22–28 |
 | [11–13 September 2018](2018-09-13-DemosPi.html) | Demos & Pi | 26 | 24–28 | 24–28 | 23–29 | 22–30 |
 | [11–12 September 2018](2018-09-12-Demopolis.html) | Demopolis | 26 | 24–27 | 24–27 | 24–28 | 23–28 |
-| [5–10 September 2018](2018-09-10-SWG.html) | SWG <br> LA7 | 27 | 25–29 | 25–29 | 25–30 | 24–31 |
+| [5–10 September 2018](2018-09-10-SWG.html) | SWG <br> LA7 | 27 | 25–29 | 25–30 | 25–30 | 24–31 |
 | [10 September 2018](2018-09-10-Piepoli.html) | Piepoli <br> Rai 1 | 24 | 22–27 | 21–27 | 21–28 | 20–29 |
 | [10 September 2018](2018-09-10-Euromedia.html) | Euromedia <br> Rai 1 | 27 | 25–29 | 24–30 | 24–30 | 23–31 |
 | [7–9 September 2018](2018-09-09-EMGAcqua.html) | EMG Acqua | 26 | 25–28 | 24–28 | 24–29 | 23–30 |
@@ -376,14 +376,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 22 | 3% | 97% |  |
 | 23 | 4% | 94% |  |
 | 24 | 8% | 90% |  |
-| 25 | 15% | 82% |  |
+| 25 | 16% | 82% |  |
 | 26 | 19% | 66% | Median |
-| 27 | 17% | 47% |  |
-| 28 | 14% | 31% |  |
-| 29 | 9% | 17% |  |
-| 30 | 5% | 7% |  |
-| 31 | 2% | 3% |  |
-| 32 | 0.4% | 0.5% |  |
+| 27 | 18% | 47% |  |
+| 28 | 13% | 29% |  |
+| 29 | 10% | 16% |  |
+| 30 | 4% | 6% |  |
+| 31 | 2% | 2% |  |
+| 32 | 0.5% | 0.6% |  |
 | 33 | 0.1% | 0.1% |  |
 | 34 | 0% | 0% |  |
 

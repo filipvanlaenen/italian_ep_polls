@@ -204,15 +204,15 @@ Last result: **31** seats (General Election of 25 May 2014)
 | [19–24 September 2018](2018-09-24-SWG.html) | SWG <br> LA7 | 13 | 12–14 | 11–14 | 11–15 | 11–15 |
 | [22–23 September 2018](2018-09-23-Tecnè.html) | Tecnè <br> Quarta Repubblica | 13 | 11–14 | 11–14 | 11–15 | 10–15 |
 | [21–22 September 2018](2018-09-22-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 15 | 14–17 | 14–17 | 14–17 | 13–18 |
-| [19–21 September 2018](2018-09-21-Ixè.html) | Ixè <br> Huffington Post | 15 | 14–17 | 13–17 | 12–17 | 12–18 |
+| [19–21 September 2018](2018-09-21-Ixè.html) | Ixè <br> Huffington Post | 15 | 14–16 | 13–17 | 13–17 | 12–18 |
 | [18–19 September 2018](2018-09-19-IndexResearch.html) | Index Research <br> LA7 | 14 | 12–15 | 12–15 | 11–16 | 11–17 |
 | [12–17 September 2018](2018-09-17-SWG.html) | SWG <br> LA7 | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
 | [17 September 2018](2018-09-17-Piepoli.html) | Piepoli <br> Rai 1 | 13 | 11–15 | 11–16 | 10–16 | 10–17 |
 | [17 September 2018](2018-09-17-Euromedia.html) | Euromedia <br> Rai 1 | 13 | 12–15 | 11–15 | 11–15 | 10–16 |
 | [14–15 September 2018](2018-09-15-Tecnè.html) | Tecnè <br> Quarta Repubblica | 13 | 12–14 | 11–15 | 11–15 | 10–16 |
-| [11–13 September 2018](2018-09-13-DemosPi.html) | Demos & Pi | 14 | 12–15 | 12–16 | 12–16 | 11–17 |
+| [11–13 September 2018](2018-09-13-DemosPi.html) | Demos & Pi | 14 | 13–15 | 12–16 | 12–16 | 11–17 |
 | [11–12 September 2018](2018-09-12-Demopolis.html) | Demopolis | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
-| [5–10 September 2018](2018-09-10-SWG.html) | SWG <br> LA7 | 14 | 12–15 | 12–15 | 12–15 | 11–16 |
+| [5–10 September 2018](2018-09-10-SWG.html) | SWG <br> LA7 | 14 | 12–15 | 12–15 | 12–16 | 11–16 |
 | [10 September 2018](2018-09-10-Piepoli.html) | Piepoli <br> Rai 1 | 13 | 11–15 | 11–15 | 10–16 | 10–17 |
 | [10 September 2018](2018-09-10-Euromedia.html) | Euromedia <br> Rai 1 | 13 | 12–15 | 11–15 | 11–15 | 10–16 |
 | [7–9 September 2018](2018-09-09-EMGAcqua.html) | EMG Acqua | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
@@ -356,11 +356,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 4% | 99.4% |  |
 | 12 | 14% | 95% |  |
 | 13 | 27% | 81% |  |
-| 14 | 26% | 54% | Median |
-| 15 | 18% | 28% |  |
+| 14 | 25% | 54% | Median |
+| 15 | 20% | 28% |  |
 | 16 | 6% | 9% |  |
-| 17 | 3% | 3% |  |
-| 18 | 0.3% | 0.3% |  |
+| 17 | 2% | 3% |  |
+| 18 | 0.2% | 0.2% |  |
 | 19 | 0% | 0% |  |
 | 20 | 0% | 0% |  |
 | 21 | 0% | 0% |  |
