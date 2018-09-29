@@ -10,7 +10,7 @@ Last result: **3.7%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.8% | 2.8–4.9% | 2.6–5.2% | 2.4–5.6% | 2.0–6.4% |
+| N/A | [Poll Average](average.html) | 3.3% | 2.4–4.4% | 2.2–4.8% | 2.0–5.2% | 1.7–6.2% |
 | [19–24 September 2018](2018-09-24-SWG.html) | SWG <br> LA7 | 3.7% | 3.1–4.4% | 3.0–4.6% | 2.8–4.8% | 2.6–5.1% |
 | [22–23 September 2018](2018-09-23-Tecnè.html) | Tecnè <br> Quarta Repubblica | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
 | [21–22 September 2018](2018-09-22-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 3.8% | 3.2–4.5% | 3.1–4.7% | 2.9–4.9% | 2.7–5.3% |
@@ -160,13 +160,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.5–1.5% | 0.1% | 100% |  |
-| 1.5–2.5% | 4% | 99.9% |  |
-| 2.5–3.5% | 36% | 96% |  |
-| 3.5–4.5% | 42% | 59% | Last Result, Median |
-| 4.5–5.5% | 14% | 17% |  |
-| 5.5–6.5% | 2% | 3% |  |
-| 6.5–7.5% | 0.3% | 0.4% |  |
+| 0.0–0.5% | 0% | 100% |  |
+| 0.5–1.5% | 0.2% | 100% |  |
+| 1.5–2.5% | 13% | 99.8% |  |
+| 2.5–3.5% | 48% | 87% | Median |
+| 3.5–4.5% | 32% | 39% | Last Result |
+| 4.5–5.5% | 6% | 7% |  |
+| 5.5–6.5% | 1.2% | 1.5% |  |
+| 6.5–7.5% | 0.2% | 0.3% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -178,19 +179,19 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
+| N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [19–24 September 2018](2018-09-24-SWG.html) | SWG <br> LA7 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [22–23 September 2018](2018-09-23-Tecnè.html) | Tecnè <br> Quarta Repubblica | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [21–22 September 2018](2018-09-22-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [19–21 September 2018](2018-09-21-Ixè.html) | Ixè <br> Huffington Post | 0 | 0 | 0 | 0 | 0 |
-| [18–19 September 2018](2018-09-19-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0–3 | 0–4 | 0–4 |
-| [12–17 September 2018](2018-09-17-SWG.html) | SWG <br> LA7 | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
+| [18–19 September 2018](2018-09-19-IndexResearch.html) | Index Research <br> LA7 | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
+| [12–17 September 2018](2018-09-17-SWG.html) | SWG <br> LA7 | 4 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [17 September 2018](2018-09-17-Piepoli.html) | Piepoli <br> Rai 1 | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [17 September 2018](2018-09-17-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [14–15 September 2018](2018-09-15-Tecnè.html) | Tecnè <br> Quarta Repubblica | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [11–13 September 2018](2018-09-13-DemosPi.html) | Demos & Pi | 0 | 0 | 0 | 0 | 0–4 |
 | [11–12 September 2018](2018-09-12-Demopolis.html) | Demopolis | 0 | 0 | 0 | 0–3 | 0–3 |
-| [5–10 September 2018](2018-09-10-SWG.html) | SWG <br> LA7 | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [5–10 September 2018](2018-09-10-SWG.html) | SWG <br> LA7 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [10 September 2018](2018-09-10-Piepoli.html) | Piepoli <br> Rai 1 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [10 September 2018](2018-09-10-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [7–9 September 2018](2018-09-09-EMGAcqua.html) | EMG Acqua | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
@@ -330,13 +331,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 63% | 100% | Last Result, Median |
-| 1 | 0% | 37% |  |
-| 2 | 0% | 37% |  |
-| 3 | 12% | 37% |  |
-| 4 | 22% | 26% |  |
-| 5 | 3% | 3% |  |
-| 6 | 0.3% | 0.3% |  |
+| 0 | 79% | 100% | Last Result, Median |
+| 1 | 0% | 21% |  |
+| 2 | 0% | 21% |  |
+| 3 | 8% | 21% |  |
+| 4 | 11% | 12% |  |
+| 5 | 2% | 2% |  |
+| 6 | 0.2% | 0.2% |  |
 | 7 | 0% | 0% |  |
 
 

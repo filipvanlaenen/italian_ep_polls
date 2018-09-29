@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.1% | 1.5–3.1% | 1.3–3.4% | 1.2–3.7% | 1.0–4.3% |
+| N/A | [Poll Average](average.html) | 2.2% | 1.4–3.1% | 1.1–3.4% | 0.9–3.6% | 0.6–4.2% |
 | [19–24 September 2018](2018-09-24-SWG.html) | SWG <br> LA7 | 2.5% | 2.0–3.1% | 1.9–3.2% | 1.8–3.4% | 1.6–3.7% |
 | [22–23 September 2018](2018-09-23-Tecnè.html) | Tecnè <br> Quarta Repubblica | 0.0% | N/A | N/A | N/A | N/A |
 | [21–22 September 2018](2018-09-22-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 2.1% | 1.7–2.7% | 1.6–2.9% | 1.5–3.0% | 1.3–3.3% |
@@ -160,10 +160,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 13% | 100% |  |
-| 1.5–2.5% | 62% | 87% | Median |
-| 2.5–3.5% | 22% | 25% |  |
+| 0.0–0.5% | 0.2% | 100% | Last Result |
+| 0.5–1.5% | 14% | 99.8% |  |
+| 1.5–2.5% | 54% | 86% | Median |
+| 2.5–3.5% | 28% | 31% |  |
 | 3.5–4.5% | 3% | 3% |  |
 | 4.5–5.5% | 0.2% | 0.2% |  |
 | 5.5–6.5% | 0% | 0% |  |
@@ -177,7 +177,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–4 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–3 |
 | [19–24 September 2018](2018-09-24-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
 | [22–23 September 2018](2018-09-23-Tecnè.html) | Tecnè <br> Quarta Repubblica |  |  |  |  |  |
 | [21–22 September 2018](2018-09-22-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 0 | 0 | 0 | 0 | 0 |
@@ -187,7 +187,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [17 September 2018](2018-09-17-Piepoli.html) | Piepoli <br> Rai 1 | 0 | 0 | 0 | 0 | 0–3 |
 | [17 September 2018](2018-09-17-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
 | [14–15 September 2018](2018-09-15-Tecnè.html) | Tecnè <br> Quarta Repubblica |  |  |  |  |  |
-| [11–13 September 2018](2018-09-13-DemosPi.html) | Demos & Pi | 0 | 0 | 0 | 0 | 0–4 |
+| [11–13 September 2018](2018-09-13-DemosPi.html) | Demos & Pi | 0 | 0 | 0 | 0 | 0–3 |
 | [11–12 September 2018](2018-09-12-Demopolis.html) | Demopolis |  |  |  |  |  |
 | [5–10 September 2018](2018-09-10-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
 | [10 September 2018](2018-09-10-Piepoli.html) | Piepoli <br> Rai 1 | 0 | 0 | 0 | 0 | 0–3 |
@@ -329,11 +329,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98.8% | 100% | Last Result, Median |
-| 1 | 0% | 1.2% |  |
-| 2 | 0% | 1.2% |  |
-| 3 | 0.6% | 1.2% |  |
-| 4 | 0.6% | 0.6% |  |
+| 0 | 99.2% | 100% | Last Result, Median |
+| 1 | 0% | 0.8% |  |
+| 2 | 0% | 0.8% |  |
+| 3 | 0.3% | 0.8% |  |
+| 4 | 0.5% | 0.5% |  |
 | 5 | 0% | 0% |  |
 
 
