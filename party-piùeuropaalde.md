@@ -10,9 +10,12 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.2% | 1.4–3.1% | 1.1–3.4% | 0.9–3.6% | 0.6–4.2% |
+| N/A | [Poll Average](average.html) | 2.2% | 1.3–3.1% | 1.0–3.4% | 0.9–3.6% | 0.6–4.2% |
+| [26 September 2018](2018-09-26-IndexResearch.html) | Index Research <br> LA7 | 2.0% | 1.5–2.8% | 1.4–3.0% | 1.2–3.2% | 1.0–3.7% |
 | [19–24 September 2018](2018-09-24-SWG.html) | SWG <br> LA7 | 2.5% | 2.0–3.1% | 1.9–3.2% | 1.8–3.4% | 1.6–3.7% |
 | [22–23 September 2018](2018-09-23-Tecnè.html) | Tecnè <br> Quarta Repubblica | 0.0% | N/A | N/A | N/A | N/A |
+| [21–23 September 2018](2018-09-23-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 2.2% | 1.7–3.1% | 1.6–3.3% | 1.4–3.5% | 1.2–4.0% |
+| [21–23 September 2018](2018-09-23-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 1.2% | 0.9–1.7% | 0.8–1.8% | 0.8–1.9% | 0.7–2.2% |
 | [21–22 September 2018](2018-09-22-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 2.1% | 1.7–2.7% | 1.6–2.9% | 1.5–3.0% | 1.3–3.3% |
 | [19–21 September 2018](2018-09-21-Ixè.html) | Ixè <br> Huffington Post | 2.6% | 2.1–3.4% | 1.9–3.6% | 1.8–3.8% | 1.6–4.2% |
 | [18–19 September 2018](2018-09-19-IndexResearch.html) | Index Research <br> LA7 | 2.0% | 1.5–2.8% | 1.4–3.0% | 1.2–3.2% | 1.0–3.7% |
@@ -161,11 +164,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0.2% | 100% | Last Result |
-| 0.5–1.5% | 14% | 99.8% |  |
-| 1.5–2.5% | 54% | 86% | Median |
-| 2.5–3.5% | 28% | 31% |  |
+| 0.5–1.5% | 16% | 99.8% |  |
+| 1.5–2.5% | 52% | 84% | Median |
+| 2.5–3.5% | 29% | 32% |  |
 | 3.5–4.5% | 3% | 3% |  |
-| 4.5–5.5% | 0.2% | 0.2% |  |
+| 4.5–5.5% | 0.1% | 0.2% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -177,9 +180,12 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–4 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–3 |
+| [26 September 2018](2018-09-26-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0 | 0 | 0 |
 | [19–24 September 2018](2018-09-24-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
 | [22–23 September 2018](2018-09-23-Tecnè.html) | Tecnè <br> Quarta Repubblica |  |  |  |  |  |
+| [21–23 September 2018](2018-09-23-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 0 | 0 | 0 | 0 | 0 |
+| [21–23 September 2018](2018-09-23-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [21–22 September 2018](2018-09-22-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 0 | 0 | 0 | 0 | 0 |
 | [19–21 September 2018](2018-09-21-Ixè.html) | Ixè <br> Huffington Post | 0 | 0 | 0 | 0 | 0–4 |
 | [18–19 September 2018](2018-09-19-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0 | 0 | 0 |

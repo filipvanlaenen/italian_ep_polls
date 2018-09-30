@@ -10,9 +10,12 @@ Last result: **3.7%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.3% | 2.4–4.4% | 2.2–4.8% | 2.0–5.2% | 1.7–6.2% |
+| N/A | [Poll Average](average.html) | 3.4% | 2.5–4.6% | 2.2–5.1% | 2.0–5.5% | 1.7–6.4% |
+| [26 September 2018](2018-09-26-IndexResearch.html) | Index Research <br> LA7 | 3.1% | 2.5–4.1% | 2.3–4.3% | 2.1–4.6% | 1.8–5.1% |
 | [19–24 September 2018](2018-09-24-SWG.html) | SWG <br> LA7 | 3.7% | 3.1–4.4% | 3.0–4.6% | 2.8–4.8% | 2.6–5.1% |
 | [22–23 September 2018](2018-09-23-Tecnè.html) | Tecnè <br> Quarta Repubblica | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
+| [21–23 September 2018](2018-09-23-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 4.7% | 3.9–5.9% | 3.7–6.2% | 3.5–6.4% | 3.1–7.0% |
+| [21–23 September 2018](2018-09-23-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 3.4% | 2.9–4.1% | 2.7–4.3% | 2.6–4.5% | 2.3–4.8% |
 | [21–22 September 2018](2018-09-22-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 3.8% | 3.2–4.5% | 3.1–4.7% | 2.9–4.9% | 2.7–5.3% |
 | [19–21 September 2018](2018-09-21-Ixè.html) | Ixè <br> Huffington Post | 2.4% | 1.9–3.2% | 1.7–3.4% | 1.6–3.6% | 1.4–3.9% |
 | [18–19 September 2018](2018-09-19-IndexResearch.html) | Index Research <br> LA7 | 3.1% | 2.5–4.1% | 2.3–4.3% | 2.1–4.6% | 1.8–5.1% |
@@ -162,12 +165,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
 | 0.5–1.5% | 0.2% | 100% |  |
-| 1.5–2.5% | 13% | 99.8% |  |
-| 2.5–3.5% | 48% | 87% | Median |
-| 3.5–4.5% | 32% | 39% | Last Result |
-| 4.5–5.5% | 6% | 7% |  |
-| 5.5–6.5% | 1.2% | 1.5% |  |
-| 6.5–7.5% | 0.2% | 0.3% |  |
+| 1.5–2.5% | 12% | 99.8% |  |
+| 2.5–3.5% | 46% | 87% | Median |
+| 3.5–4.5% | 31% | 41% | Last Result |
+| 4.5–5.5% | 8% | 10% |  |
+| 5.5–6.5% | 2% | 2% |  |
+| 6.5–7.5% | 0.3% | 0.4% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -180,8 +183,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [26 September 2018](2018-09-26-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | [19–24 September 2018](2018-09-24-SWG.html) | SWG <br> LA7 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [22–23 September 2018](2018-09-23-Tecnè.html) | Tecnè <br> Quarta Repubblica | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
+| [21–23 September 2018](2018-09-23-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 4 | 4 | 4 | 4 | 4 |
+| [21–23 September 2018](2018-09-23-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 4 | 4 | 4 | 4 | 0–4 |
 | [21–22 September 2018](2018-09-22-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [19–21 September 2018](2018-09-21-Ixè.html) | Ixè <br> Huffington Post | 0 | 0 | 0 | 0 | 0 |
 | [18–19 September 2018](2018-09-19-IndexResearch.html) | Index Research <br> LA7 | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
@@ -331,12 +337,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 80% | 100% | Last Result, Median |
-| 1 | 0% | 20% |  |
-| 2 | 0% | 20% |  |
-| 3 | 8% | 20% |  |
-| 4 | 10% | 12% |  |
-| 5 | 2% | 2% |  |
+| 0 | 71% | 100% | Last Result, Median |
+| 1 | 0% | 29% |  |
+| 2 | 0% | 29% |  |
+| 3 | 7% | 29% |  |
+| 4 | 20% | 22% |  |
+| 5 | 1.4% | 2% |  |
 | 6 | 0.2% | 0.2% |  |
 | 7 | 0% | 0% |  |
 

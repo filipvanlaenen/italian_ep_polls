@@ -10,9 +10,12 @@ Last result: **6.2%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31.4% | 28.5–34.5% | 27.7–35.3% | 27.1–35.9% | 26.1–37.0% |
+| N/A | [Poll Average](average.html) | 31.5% | 28.5–34.5% | 27.7–35.2% | 27.1–35.9% | 26.1–37.0% |
+| [26 September 2018](2018-09-26-IndexResearch.html) | Index Research <br> LA7 | 31.2% | 29.2–33.4% | 28.6–34.0% | 28.1–34.6% | 27.2–35.6% |
 | [19–24 September 2018](2018-09-24-SWG.html) | SWG <br> LA7 | 32.0% | 30.5–33.6% | 30.1–34.0% | 29.7–34.4% | 29.0–35.2% |
 | [22–23 September 2018](2018-09-23-Tecnè.html) | Tecnè <br> Quarta Repubblica | 32.2% | 30.3–34.1% | 29.8–34.7% | 29.4–35.2% | 28.5–36.1% |
+| [21–23 September 2018](2018-09-23-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 29.8% | 27.8–32.0% | 27.3–32.6% | 26.8–33.1% | 25.8–34.1% |
+| [21–23 September 2018](2018-09-23-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 32.3% | 30.7–33.9% | 30.3–34.3% | 29.9–34.7% | 29.2–35.5% |
 | [21–22 September 2018](2018-09-22-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 34.7% | 33.2–36.3% | 32.7–36.8% | 32.4–37.2% | 31.6–38.0% |
 | [19–21 September 2018](2018-09-21-Ixè.html) | Ixè <br> Huffington Post | 31.2% | 29.4–33.1% | 28.8–33.7% | 28.4–34.1% | 27.5–35.1% |
 | [18–19 September 2018](2018-09-19-IndexResearch.html) | Index Research <br> LA7 | 30.5% | 28.5–32.6% | 27.9–33.3% | 27.4–33.8% | 26.4–34.8% |
@@ -179,19 +182,19 @@ The following table shows the probability mass function per percentage block of 
 | 21.5–22.5% | 0% | 100% |  |
 | 22.5–23.5% | 0% | 100% |  |
 | 23.5–24.5% | 0% | 100% |  |
-| 24.5–25.5% | 0.1% | 100% |  |
+| 24.5–25.5% | 0.2% | 100% |  |
 | 25.5–26.5% | 1.0% | 99.8% |  |
 | 26.5–27.5% | 3% | 98.8% |  |
 | 27.5–28.5% | 6% | 95% |  |
 | 28.5–29.5% | 9% | 90% |  |
-| 29.5–30.5% | 15% | 80% |  |
-| 30.5–31.5% | 18% | 65% | Median |
-| 31.5–32.5% | 16% | 48% |  |
-| 32.5–33.5% | 13% | 32% |  |
-| 33.5–34.5% | 9% | 19% |  |
-| 34.5–35.5% | 6% | 10% |  |
+| 29.5–30.5% | 14% | 81% |  |
+| 30.5–31.5% | 17% | 67% |  |
+| 31.5–32.5% | 17% | 50% | Median |
+| 32.5–33.5% | 14% | 33% |  |
+| 33.5–34.5% | 10% | 19% |  |
+| 34.5–35.5% | 6% | 9% |  |
 | 35.5–36.5% | 3% | 4% |  |
-| 36.5–37.5% | 0.9% | 1.1% |  |
+| 36.5–37.5% | 0.8% | 1.0% |  |
 | 37.5–38.5% | 0.2% | 0.2% |  |
 | 38.5–39.5% | 0% | 0% |  |
 
@@ -204,9 +207,12 @@ Last result: **5** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26 | 23–29 | 22–30 | 21–30 | 20–32 |
+| N/A | [Poll Average](average.html) | 26 | 24–29 | 22–30 | 21–30 | 20–32 |
+| [26 September 2018](2018-09-26-IndexResearch.html) | Index Research <br> LA7 | 25 | 24–26 | 24–26 | 24–26 | 24–27 |
 | [19–24 September 2018](2018-09-24-SWG.html) | SWG <br> LA7 | 27 | 26–29 | 25–30 | 25–30 | 24–31 |
 | [22–23 September 2018](2018-09-23-Tecnè.html) | Tecnè <br> Quarta Repubblica | 26 | 24–28 | 24–28 | 23–28 | 23–29 |
+| [21–23 September 2018](2018-09-23-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 24 | 24 | 24 | 24 | 22–24 |
+| [21–23 September 2018](2018-09-23-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 29 | 29 | 28–29 | 28–29 | 28–31 |
 | [21–22 September 2018](2018-09-22-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 29 | 27–31 | 27–31 | 27–31 | 26–32 |
 | [19–21 September 2018](2018-09-21-Ixè.html) | Ixè <br> Huffington Post | 27 | 26–29 | 25–29 | 25–30 | 24–30 |
 | [18–19 September 2018](2018-09-19-IndexResearch.html) | Index Research <br> LA7 | 25 | 23–27 | 23–27 | 22–28 | 21–28 |
@@ -372,18 +378,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0.6% | 100% |  |
-| 21 | 2% | 99.3% |  |
+| 21 | 2% | 99.4% |  |
 | 22 | 3% | 97% |  |
-| 23 | 4% | 94% |  |
-| 24 | 8% | 90% |  |
-| 25 | 16% | 82% |  |
-| 26 | 19% | 66% | Median |
-| 27 | 18% | 47% |  |
-| 28 | 13% | 29% |  |
-| 29 | 10% | 16% |  |
+| 23 | 3% | 94% |  |
+| 24 | 12% | 91% |  |
+| 25 | 16% | 79% |  |
+| 26 | 17% | 64% | Median |
+| 27 | 15% | 47% |  |
+| 28 | 12% | 32% |  |
+| 29 | 14% | 20% |  |
 | 30 | 4% | 6% |  |
 | 31 | 2% | 2% |  |
-| 32 | 0.5% | 0.6% |  |
+| 32 | 0.5% | 0.5% |  |
 | 33 | 0.1% | 0.1% |  |
 | 34 | 0% | 0% |  |
 
