@@ -205,11 +205,11 @@ Last result: **31** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 12–15 | 11–16 | 11–16 | 10–17 |
-| [26 September 2018](2018-09-26-IndexResearch.html) | Index Research <br> LA7 | 13 | 11–14 | 11–14 | 10–14 | 10–15 |
+| [26 September 2018](2018-09-26-IndexResearch.html) | Index Research <br> LA7 | 13 | 12–14 | 11–14 | 11–15 | 10–16 |
 | [19–24 September 2018](2018-09-24-SWG.html) | SWG <br> LA7 | 13 | 12–14 | 11–14 | 11–15 | 11–15 |
 | [22–23 September 2018](2018-09-23-Tecnè.html) | Tecnè <br> Quarta Repubblica | 13 | 11–14 | 11–14 | 11–15 | 10–15 |
-| [21–23 September 2018](2018-09-23-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 12 | 12 | 12 | 12 | 11–12 |
-| [21–23 September 2018](2018-09-23-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 12 | 12 | 10–12 | 10–12 | 10–12 |
+| [21–23 September 2018](2018-09-23-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 12 | 11–13 | 11–13 | 10–13 | 9–14 |
+| [21–23 September 2018](2018-09-23-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 12 | 12–14 | 12–15 | 11–15 | 11–15 |
 | [21–22 September 2018](2018-09-22-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 15 | 14–17 | 14–17 | 14–17 | 13–18 |
 | [19–21 September 2018](2018-09-21-Ixè.html) | Ixè <br> Huffington Post | 15 | 14–16 | 13–17 | 13–17 | 12–18 |
 | [18–19 September 2018](2018-09-19-IndexResearch.html) | Index Research <br> LA7 | 14 | 12–15 | 12–15 | 11–16 | 11–17 |
@@ -359,13 +359,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 1.3% | 100% |  |
-| 11 | 4% | 98.7% |  |
-| 12 | 25% | 94% |  |
-| 13 | 24% | 70% | Median |
-| 14 | 22% | 46% |  |
-| 15 | 16% | 24% |  |
-| 16 | 5% | 8% |  |
+| 9 | 0.1% | 100% |  |
+| 10 | 0.8% | 99.9% |  |
+| 11 | 6% | 99.1% |  |
+| 12 | 20% | 93% |  |
+| 13 | 27% | 73% | Median |
+| 14 | 21% | 46% |  |
+| 15 | 17% | 25% |  |
+| 16 | 6% | 8% |  |
 | 17 | 2% | 2% |  |
 | 18 | 0.2% | 0.2% |  |
 | 19 | 0% | 0% |  |

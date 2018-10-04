@@ -208,11 +208,11 @@ Last result: **5** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 26 | 24–29 | 22–30 | 21–30 | 20–32 |
-| [26 September 2018](2018-09-26-IndexResearch.html) | Index Research <br> LA7 | 25 | 24–26 | 24–26 | 24–26 | 24–27 |
+| [26 September 2018](2018-09-26-IndexResearch.html) | Index Research <br> LA7 | 26 | 25–28 | 24–28 | 24–29 | 22–29 |
 | [19–24 September 2018](2018-09-24-SWG.html) | SWG <br> LA7 | 27 | 26–29 | 25–30 | 25–30 | 24–31 |
 | [22–23 September 2018](2018-09-23-Tecnè.html) | Tecnè <br> Quarta Repubblica | 26 | 24–28 | 24–28 | 23–28 | 23–29 |
-| [21–23 September 2018](2018-09-23-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 24 | 24 | 24 | 24 | 22–24 |
-| [21–23 September 2018](2018-09-23-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 29 | 29 | 28–29 | 28–29 | 28–31 |
+| [21–23 September 2018](2018-09-23-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 25 | 24–27 | 24–27 | 23–27 | 22–28 |
+| [21–23 September 2018](2018-09-23-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 27 | 26–30 | 26–30 | 26–31 | 25–31 |
 | [21–22 September 2018](2018-09-22-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 29 | 27–31 | 27–31 | 27–31 | 26–32 |
 | [19–21 September 2018](2018-09-21-Ixè.html) | Ixè <br> Huffington Post | 27 | 26–29 | 25–29 | 25–30 | 24–30 |
 | [18–19 September 2018](2018-09-19-IndexResearch.html) | Index Research <br> LA7 | 25 | 23–27 | 23–27 | 22–28 | 21–28 |
@@ -381,15 +381,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 21 | 2% | 99.4% |  |
 | 22 | 3% | 97% |  |
 | 23 | 3% | 94% |  |
-| 24 | 12% | 91% |  |
-| 25 | 16% | 79% |  |
-| 26 | 17% | 64% | Median |
-| 27 | 15% | 47% |  |
-| 28 | 12% | 32% |  |
-| 29 | 14% | 20% |  |
-| 30 | 4% | 6% |  |
+| 24 | 7% | 91% |  |
+| 25 | 16% | 84% |  |
+| 26 | 19% | 68% | Median |
+| 27 | 20% | 50% |  |
+| 28 | 14% | 30% |  |
+| 29 | 9% | 16% |  |
+| 30 | 4% | 7% |  |
 | 31 | 2% | 2% |  |
-| 32 | 0.5% | 0.5% |  |
+| 32 | 0.5% | 0.6% |  |
 | 33 | 0.1% | 0.1% |  |
 | 34 | 0% | 0% |  |
 

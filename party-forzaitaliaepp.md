@@ -187,11 +187,11 @@ Last result: **13** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 6–9 | 6–10 | 6–10 | 5–11 |
-| [26 September 2018](2018-09-26-IndexResearch.html) | Index Research <br> LA7 | 10 | 8–10 | 8–10 | 8–10 | 7–10 |
+| [26 September 2018](2018-09-26-IndexResearch.html) | Index Research <br> LA7 | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | [19–24 September 2018](2018-09-24-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [22–23 September 2018](2018-09-23-Tecnè.html) | Tecnè <br> Quarta Repubblica | 9 | 8–10 | 8–10 | 7–10 | 7–11 |
-| [21–23 September 2018](2018-09-23-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 9 | 9 | 9 | 9 | 9 |
-| [21–23 September 2018](2018-09-23-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 6 | 6 | 6 | 6 | 6–9 |
+| [21–23 September 2018](2018-09-23-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
+| [21–23 September 2018](2018-09-23-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [21–22 September 2018](2018-09-22-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | [19–21 September 2018](2018-09-21-Ixè.html) | Ixè <br> Huffington Post | 8 | 7–9 | 7–9 | 6–10 | 6–10 |
 | [18–19 September 2018](2018-09-19-IndexResearch.html) | Index Research <br> LA7 | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
@@ -341,13 +341,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 0.5% | 100% |  |
-| 6 | 17% | 99.5% |  |
-| 7 | 28% | 83% |  |
-| 8 | 26% | 54% | Median |
-| 9 | 21% | 29% |  |
-| 10 | 7% | 8% |  |
-| 11 | 0.9% | 1.1% |  |
+| 5 | 0.6% | 100% |  |
+| 6 | 13% | 99.4% |  |
+| 7 | 34% | 87% |  |
+| 8 | 30% | 53% | Median |
+| 9 | 16% | 22% |  |
+| 10 | 5% | 6% |  |
+| 11 | 0.9% | 1.2% |  |
 | 12 | 0.2% | 0.2% |  |
 | 13 | 0% | 0% | Last Result |
 
