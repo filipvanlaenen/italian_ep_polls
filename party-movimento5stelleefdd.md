@@ -10,7 +10,10 @@ Last result: **21.2%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28.8% | 26.5–31.2% | 25.8–32.0% | 25.2–32.7% | 23.9–34.1% |
+| N/A | [Poll Average](average.html) | 28.8% | 26.4–31.3% | 25.7–32.0% | 25.1–32.8% | 23.9–34.2% |
+| [26 September–1 October 2018](2018-10-01-SWG.html) | SWG <br> LA7 | 29.8% | 28.3–31.4% | 27.9–31.8% | 27.5–32.2% | 26.8–32.9% |
+| [30 September–1 October 2018](2018-10-01-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 32.1% | 29.8–34.6% | 29.1–35.3% | 28.5–35.9% | 27.5–37.2% |
+| [24–28 September 2018](2018-09-28-BiDiMedia.html) | BiDiMedia | 28.4% | 26.5–30.4% | 25.9–31.0% | 25.5–31.5% | 24.6–32.5% |
 | [26 September 2018](2018-09-26-IndexResearch.html) | Index Research <br> LA7 | 28.8% | 26.8–30.9% | 26.2–31.5% | 25.7–32.0% | 24.8–33.0% |
 | [19–24 September 2018](2018-09-24-SWG.html) | SWG <br> LA7 | 28.6% | 27.1–30.1% | 26.7–30.6% | 26.4–30.9% | 25.7–31.7% |
 | [22–23 September 2018](2018-09-23-Tecnè.html) | Tecnè <br> Quarta Repubblica | 29.2% | 27.4–31.1% | 26.9–31.6% | 26.5–32.1% | 25.6–33.0% |
@@ -167,16 +170,16 @@ The following table shows the probability mass function per percentage block of 
 | 21.5–22.5% | 0.1% | 100% |  |
 | 22.5–23.5% | 0.2% | 99.9% |  |
 | 23.5–24.5% | 0.9% | 99.7% |  |
-| 24.5–25.5% | 3% | 98.8% |  |
+| 24.5–25.5% | 3% | 98.7% |  |
 | 25.5–26.5% | 7% | 96% |  |
-| 26.5–27.5% | 14% | 89% |  |
-| 27.5–28.5% | 20% | 75% |  |
-| 28.5–29.5% | 22% | 55% | Median |
-| 29.5–30.5% | 16% | 33% |  |
-| 30.5–31.5% | 9% | 17% |  |
-| 31.5–32.5% | 5% | 7% |  |
+| 26.5–27.5% | 13% | 88% |  |
+| 27.5–28.5% | 19% | 75% |  |
+| 28.5–29.5% | 22% | 56% | Median |
+| 29.5–30.5% | 16% | 34% |  |
+| 30.5–31.5% | 10% | 18% |  |
+| 31.5–32.5% | 5% | 8% |  |
 | 32.5–33.5% | 2% | 3% |  |
-| 33.5–34.5% | 0.7% | 1.0% |  |
+| 33.5–34.5% | 0.8% | 1.1% |  |
 | 34.5–35.5% | 0.2% | 0.3% |  |
 | 35.5–36.5% | 0.1% | 0.1% |  |
 | 36.5–37.5% | 0% | 0% |  |
@@ -191,6 +194,9 @@ Last result: **17** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 24 | 22–26 | 21–27 | 21–27 | 20–28 |
+| [26 September–1 October 2018](2018-10-01-SWG.html) | SWG <br> LA7 | 24 | 24–25 | 24–27 | 24–29 | 23–29 |
+| [30 September–1 October 2018](2018-10-01-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 25 | 24–27 | 24–29 | 24–29 | 23–29 |
+| [24–28 September 2018](2018-09-28-BiDiMedia.html) | BiDiMedia | 26 | 26 | 25–27 | 25–27 | 23–27 |
 | [26 September 2018](2018-09-26-IndexResearch.html) | Index Research <br> LA7 | 23 | 21–24 | 21–24 | 21–25 | 20–26 |
 | [19–24 September 2018](2018-09-24-SWG.html) | SWG <br> LA7 | 24 | 23–26 | 23–26 | 22–27 | 21–28 |
 | [22–23 September 2018](2018-09-23-Tecnè.html) | Tecnè <br> Quarta Repubblica | 23 | 22–25 | 21–25 | 21–26 | 20–27 |
@@ -348,15 +354,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 0% | 100% | Last Result |
 | 18 | 0.1% | 100% |  |
 | 19 | 0.4% | 99.9% |  |
-| 20 | 1.4% | 99.5% |  |
-| 21 | 6% | 98% |  |
-| 22 | 12% | 92% |  |
-| 23 | 19% | 81% |  |
-| 24 | 22% | 62% | Median |
-| 25 | 22% | 40% |  |
-| 26 | 12% | 18% |  |
+| 20 | 1.2% | 99.5% |  |
+| 21 | 4% | 98% |  |
+| 22 | 9% | 94% |  |
+| 23 | 17% | 85% |  |
+| 24 | 22% | 68% | Median |
+| 25 | 22% | 45% |  |
+| 26 | 17% | 23% |  |
 | 27 | 5% | 6% |  |
-| 28 | 1.4% | 2% |  |
+| 28 | 1.3% | 2% |  |
 | 29 | 0.3% | 0.4% |  |
 | 30 | 0.1% | 0.1% |  |
 | 31 | 0% | 0% |  |

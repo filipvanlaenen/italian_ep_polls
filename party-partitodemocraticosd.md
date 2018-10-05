@@ -10,7 +10,10 @@ Last result: **40.8%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.3% | 15.3–19.5% | 14.8–20.1% | 14.3–20.6% | 13.3–21.5% |
+| N/A | [Poll Average](average.html) | 17.2% | 15.3–19.3% | 14.7–19.9% | 14.2–20.5% | 13.2–21.5% |
+| [26 September–1 October 2018](2018-10-01-SWG.html) | SWG <br> LA7 | 15.7% | 14.6–17.0% | 14.3–17.4% | 14.0–17.7% | 13.4–18.3% |
+| [30 September–1 October 2018](2018-10-01-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 15.5% | 13.7–17.5% | 13.3–18.1% | 12.8–18.6% | 12.1–19.6% |
+| [24–28 September 2018](2018-09-28-BiDiMedia.html) | BiDiMedia | 17.6% | 16.1–19.4% | 15.6–19.9% | 15.2–20.3% | 14.5–21.2% |
 | [26 September 2018](2018-09-26-IndexResearch.html) | Index Research <br> LA7 | 17.5% | 15.9–19.3% | 15.4–19.8% | 15.0–20.3% | 14.3–21.2% |
 | [19–24 September 2018](2018-09-24-SWG.html) | SWG <br> LA7 | 16.3% | 15.1–17.5% | 14.8–17.9% | 14.5–18.2% | 13.9–18.9% |
 | [22–23 September 2018](2018-09-23-Tecnè.html) | Tecnè <br> Quarta Repubblica | 16.9% | 15.5–18.5% | 15.0–19.0% | 14.7–19.4% | 14.0–20.1% |
@@ -166,16 +169,16 @@ The following table shows the probability mass function per percentage block of 
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0.1% | 100% |  |
 | 12.5–13.5% | 0.7% | 99.9% |  |
-| 13.5–14.5% | 3% | 99.2% |  |
-| 14.5–15.5% | 9% | 96% |  |
-| 15.5–16.5% | 19% | 87% |  |
-| 16.5–17.5% | 23% | 68% | Median |
-| 17.5–18.5% | 21% | 45% |  |
-| 18.5–19.5% | 15% | 24% |  |
-| 19.5–20.5% | 7% | 10% |  |
-| 20.5–21.5% | 2% | 3% |  |
-| 21.5–22.5% | 0.4% | 0.5% |  |
-| 22.5–23.5% | 0% | 0% |  |
+| 13.5–14.5% | 3% | 99.1% |  |
+| 14.5–15.5% | 10% | 96% |  |
+| 15.5–16.5% | 20% | 86% |  |
+| 16.5–17.5% | 25% | 66% | Median |
+| 17.5–18.5% | 21% | 41% |  |
+| 18.5–19.5% | 13% | 20% |  |
+| 19.5–20.5% | 5% | 8% |  |
+| 20.5–21.5% | 2% | 2% |  |
+| 21.5–22.5% | 0.4% | 0.4% |  |
+| 22.5–23.5% | 0% | 0.1% |  |
 | 23.5–24.5% | 0% | 0% |  |
 | 24.5–25.5% | 0% | 0% |  |
 | 25.5–26.5% | 0% | 0% |  |
@@ -205,6 +208,9 @@ Last result: **31** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 12–15 | 11–16 | 11–16 | 10–17 |
+| [26 September–1 October 2018](2018-10-01-SWG.html) | SWG <br> LA7 | 14 | 11–14 | 11–14 | 11–15 | 11–15 |
+| [30 September–1 October 2018](2018-10-01-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 12 | 11–12 | 10–12 | 10–13 | 10–15 |
+| [24–28 September 2018](2018-09-28-BiDiMedia.html) | BiDiMedia | 13 | 13 | 12–15 | 11–15 | 11–15 |
 | [26 September 2018](2018-09-26-IndexResearch.html) | Index Research <br> LA7 | 13 | 12–14 | 11–14 | 11–15 | 10–16 |
 | [19–24 September 2018](2018-09-24-SWG.html) | SWG <br> LA7 | 13 | 12–14 | 11–14 | 11–15 | 11–15 |
 | [22–23 September 2018](2018-09-23-Tecnè.html) | Tecnè <br> Quarta Repubblica | 13 | 11–14 | 11–14 | 11–15 | 10–15 |
@@ -362,11 +368,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0.1% | 100% |  |
 | 10 | 0.8% | 99.9% |  |
 | 11 | 6% | 99.1% |  |
-| 12 | 20% | 93% |  |
-| 13 | 27% | 73% | Median |
-| 14 | 21% | 46% |  |
-| 15 | 17% | 25% |  |
-| 16 | 6% | 8% |  |
+| 12 | 21% | 93% |  |
+| 13 | 31% | 72% | Median |
+| 14 | 18% | 40% |  |
+| 15 | 15% | 22% |  |
+| 16 | 5% | 7% |  |
 | 17 | 2% | 2% |  |
 | 18 | 0.2% | 0.2% |  |
 | 19 | 0% | 0% |  |
