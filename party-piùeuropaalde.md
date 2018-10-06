@@ -185,7 +185,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–3 |
 | [26 September–1 October 2018](2018-10-01-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
-| [30 September–1 October 2018](2018-10-01-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 0 | 0 | 0 | 0 | 0 |
+| [30 September–1 October 2018](2018-10-01-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 0 | 0 | 0 | 0 | 0–3 |
 | [24–28 September 2018](2018-09-28-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
 | [26 September 2018](2018-09-26-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0 | 0 | 0 |
 | [19–24 September 2018](2018-09-24-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
@@ -345,7 +345,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 0.8% |  |
 | 2 | 0% | 0.8% |  |
 | 3 | 0.3% | 0.8% |  |
-| 4 | 0.4% | 0.5% |  |
+| 4 | 0.5% | 0.5% |  |
 | 5 | 0% | 0% |  |
 
 

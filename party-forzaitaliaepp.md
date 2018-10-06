@@ -191,8 +191,8 @@ Last result: **13** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 6–9 | 6–10 | 6–10 | 5–11 |
 | [26 September–1 October 2018](2018-10-01-SWG.html) | SWG <br> LA7 | 8 | 6–8 | 5–8 | 5–8 | 5–8 |
-| [30 September–1 October 2018](2018-10-01-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 9 | 8–9 | 8–10 | 7–10 | 7–11 |
-| [24–28 September 2018](2018-09-28-BiDiMedia.html) | BiDiMedia | 7 | 7 | 6–8 | 5–8 | 5–8 |
+| [30 September–1 October 2018](2018-10-01-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 8 | 7–9 | 7–10 | 7–11 | 6–11 |
+| [24–28 September 2018](2018-09-28-BiDiMedia.html) | BiDiMedia | 7 | 6–8 | 6–9 | 6–9 | 5–10 |
 | [26 September 2018](2018-09-26-IndexResearch.html) | Index Research <br> LA7 | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | [19–24 September 2018](2018-09-24-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [22–23 September 2018](2018-09-23-Tecnè.html) | Tecnè <br> Quarta Repubblica | 9 | 8–10 | 8–10 | 7–10 | 7–11 |
@@ -347,11 +347,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 0.7% | 100% |  |
-| 6 | 12% | 99.2% |  |
-| 7 | 37% | 88% |  |
-| 8 | 27% | 50% | Median |
-| 9 | 16% | 23% |  |
+| 5 | 0.5% | 100% |  |
+| 6 | 14% | 99.4% |  |
+| 7 | 34% | 86% |  |
+| 8 | 29% | 52% | Median |
+| 9 | 17% | 23% |  |
 | 10 | 5% | 6% |  |
 | 11 | 1.0% | 1.2% |  |
 | 12 | 0.2% | 0.2% |  |
