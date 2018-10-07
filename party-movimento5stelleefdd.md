@@ -193,15 +193,15 @@ Last result: **17** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24 | 22–26 | 21–27 | 21–27 | 20–28 |
-| [26 September–1 October 2018](2018-10-01-SWG.html) | SWG <br> LA7 | 25 | 24–27 | 23–27 | 22–28 | 22–29 |
+| N/A | [Poll Average](average.html) | 24 | 22–26 | 21–27 | 21–27 | 20–29 |
+| [26 September–1 October 2018](2018-10-01-SWG.html) | SWG <br> LA7 | 25 | 24–27 | 23–28 | 23–28 | 22–29 |
 | [30 September–1 October 2018](2018-10-01-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 26 | 24–28 | 24–29 | 23–30 | 22–31 |
-| [24–28 September 2018](2018-09-28-BiDiMedia.html) | BiDiMedia | 24 | 23–26 | 22–26 | 22–27 | 20–28 |
-| [26 September 2018](2018-09-26-IndexResearch.html) | Index Research <br> LA7 | 23 | 21–24 | 21–24 | 21–25 | 20–26 |
+| [24–28 September 2018](2018-09-28-BiDiMedia.html) | BiDiMedia | 24 | 22–27 | 22–27 | 21–27 | 21–28 |
+| [26 September 2018](2018-09-26-IndexResearch.html) | Index Research <br> LA7 | 23 | 22–25 | 21–25 | 21–26 | 20–27 |
 | [19–24 September 2018](2018-09-24-SWG.html) | SWG <br> LA7 | 24 | 23–26 | 23–26 | 22–27 | 21–28 |
 | [22–23 September 2018](2018-09-23-Tecnè.html) | Tecnè <br> Quarta Repubblica | 23 | 22–25 | 21–25 | 21–26 | 20–27 |
-| [21–23 September 2018](2018-09-23-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 26 | 24–27 | 24–27 | 23–28 | 23–29 |
-| [21–23 September 2018](2018-09-23-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 25 | 24–26 | 23–27 | 23–27 | 22–28 |
+| [21–23 September 2018](2018-09-23-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 26 | 24–28 | 24–28 | 23–29 | 22–30 |
+| [21–23 September 2018](2018-09-23-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 25 | 24–27 | 23–27 | 23–28 | 22–28 |
 | [21–22 September 2018](2018-09-22-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 23 | 21–24 | 21–24 | 20–25 | 20–26 |
 | [19–21 September 2018](2018-09-21-Ixè.html) | Ixè <br> Huffington Post | 24 | 23–25 | 22–26 | 22–27 | 21–27 |
 | [18–19 September 2018](2018-09-19-IndexResearch.html) | Index Research <br> LA7 | 24 | 22–25 | 21–26 | 21–26 | 20–27 |
@@ -358,12 +358,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 21 | 4% | 98% |  |
 | 22 | 10% | 94% |  |
 | 23 | 18% | 84% |  |
-| 24 | 25% | 66% | Median |
-| 25 | 22% | 41% |  |
-| 26 | 13% | 19% |  |
-| 27 | 4% | 6% |  |
-| 28 | 1.4% | 2% |  |
-| 29 | 0.3% | 0.4% |  |
+| 24 | 24% | 67% | Median |
+| 25 | 22% | 42% |  |
+| 26 | 12% | 20% |  |
+| 27 | 6% | 8% |  |
+| 28 | 2% | 2% |  |
+| 29 | 0.5% | 0.6% |  |
 | 30 | 0.1% | 0.1% |  |
 | 31 | 0% | 0% |  |
 

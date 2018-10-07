@@ -213,12 +213,12 @@ Last result: **5** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 27 | 24–29 | 24–30 | 23–31 | 22–32 |
 | [26 September–1 October 2018](2018-10-01-SWG.html) | SWG <br> LA7 | 27 | 26–29 | 25–30 | 25–30 | 24–31 |
 | [30 September–1 October 2018](2018-10-01-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 24 | 22–27 | 22–28 | 22–28 | 21–29 |
-| [24–28 September 2018](2018-09-28-BiDiMedia.html) | BiDiMedia | 26 | 24–27 | 24–28 | 23–29 | 22–30 |
-| [26 September 2018](2018-09-26-IndexResearch.html) | Index Research <br> LA7 | 26 | 25–28 | 24–28 | 24–29 | 22–29 |
+| [24–28 September 2018](2018-09-28-BiDiMedia.html) | BiDiMedia | 26 | 24–28 | 24–29 | 23–29 | 22–30 |
+| [26 September 2018](2018-09-26-IndexResearch.html) | Index Research <br> LA7 | 26 | 24–27 | 24–28 | 23–28 | 22–29 |
 | [19–24 September 2018](2018-09-24-SWG.html) | SWG <br> LA7 | 27 | 26–29 | 25–30 | 25–30 | 24–31 |
 | [22–23 September 2018](2018-09-23-Tecnè.html) | Tecnè <br> Quarta Repubblica | 26 | 24–28 | 24–28 | 23–28 | 23–29 |
-| [21–23 September 2018](2018-09-23-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 25 | 24–27 | 24–27 | 23–27 | 22–28 |
-| [21–23 September 2018](2018-09-23-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 27 | 26–30 | 26–30 | 26–31 | 25–31 |
+| [21–23 September 2018](2018-09-23-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 25 | 23–27 | 23–27 | 22–28 | 21–29 |
+| [21–23 September 2018](2018-09-23-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 28 | 26–30 | 26–30 | 26–31 | 25–31 |
 | [21–22 September 2018](2018-09-22-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 29 | 27–31 | 27–31 | 27–31 | 26–32 |
 | [19–21 September 2018](2018-09-21-Ixè.html) | Ixè <br> Huffington Post | 27 | 26–29 | 25–29 | 25–30 | 24–30 |
 | [18–19 September 2018](2018-09-19-IndexResearch.html) | Index Research <br> LA7 | 25 | 23–27 | 23–27 | 22–28 | 21–28 |
@@ -384,15 +384,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
-| 21 | 0.2% | 100% |  |
-| 22 | 0.8% | 99.8% |  |
-| 23 | 2% | 99.0% |  |
-| 24 | 7% | 97% |  |
-| 25 | 17% | 90% |  |
-| 26 | 21% | 73% |  |
-| 27 | 21% | 52% | Median |
-| 28 | 15% | 32% |  |
-| 29 | 10% | 17% |  |
+| 21 | 0.2% | 99.9% |  |
+| 22 | 0.9% | 99.7% |  |
+| 23 | 3% | 98.8% |  |
+| 24 | 8% | 96% |  |
+| 25 | 16% | 88% |  |
+| 26 | 20% | 72% |  |
+| 27 | 19% | 52% | Median |
+| 28 | 15% | 33% |  |
+| 29 | 11% | 18% |  |
 | 30 | 5% | 7% |  |
 | 31 | 2% | 3% |  |
 | 32 | 0.5% | 0.6% |  |
