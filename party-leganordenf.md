@@ -212,7 +212,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 27 | 24–29 | 24–30 | 23–31 | 22–32 |
 | [26 September–1 October 2018](2018-10-01-SWG.html) | SWG <br> LA7 | 27 | 26–29 | 25–30 | 25–30 | 24–31 |
-| [30 September–1 October 2018](2018-10-01-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 25 | 23–27 | 22–28 | 22–29 | 21–29 |
+| [30 September–1 October 2018](2018-10-01-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 24 | 22–27 | 22–28 | 22–28 | 21–29 |
 | [24–28 September 2018](2018-09-28-BiDiMedia.html) | BiDiMedia | 26 | 24–27 | 24–28 | 23–29 | 22–30 |
 | [26 September 2018](2018-09-26-IndexResearch.html) | Index Research <br> LA7 | 26 | 25–28 | 24–28 | 24–29 | 22–29 |
 | [19–24 September 2018](2018-09-24-SWG.html) | SWG <br> LA7 | 27 | 26–29 | 25–30 | 25–30 | 24–31 |
