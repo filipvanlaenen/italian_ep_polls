@@ -11,8 +11,15 @@ Last result: **40.8%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17.2% | 15.3–19.3% | 14.7–19.9% | 14.2–20.5% | 13.2–21.5% |
+| [8 October 2018](2018-10-08-Tecnè.html) | Tecnè | 17.0% | 15.5–18.6% | 15.1–19.1% | 14.8–19.5% | 14.1–20.3% |
+| [3–8 October 2018](2018-10-08-SWG.html) | SWG <br> LA7 | 17.2% | 16.0–18.5% | 15.7–18.9% | 15.4–19.2% | 14.8–19.8% |
+| [5–7 October 2018](2018-10-07-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 16.7% | 15.6–18.0% | 15.2–18.4% | 14.9–18.7% | 14.4–19.3% |
+| [2–4 October 2018](2018-10-04-Ipsos.html) | Ipsos <br> Corriere della Sera | 17.1% | 15.7–18.7% | 15.2–19.2% | 14.9–19.6% | 14.2–20.4% |
+| [1–2 October 2018](2018-10-02-Demopolis.html) | Demopolis | 16.5% | 15.3–17.8% | 15.0–18.2% | 14.7–18.5% | 14.2–19.1% |
 | [26 September–1 October 2018](2018-10-01-SWG.html) | SWG <br> LA7 | 15.7% | 14.6–17.0% | 14.3–17.4% | 14.0–17.7% | 13.4–18.3% |
+| [1 October 2018](2018-10-01-Piepoli.html) | Piepoli <br> Rai 1 | 16.4% | 14.5–18.7% | 13.9–19.4% | 13.5–19.9% | 12.6–21.1% |
 | [30 September–1 October 2018](2018-10-01-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 15.5% | 13.7–17.5% | 13.3–18.1% | 12.8–18.6% | 12.1–19.6% |
+| [1 October 2018](2018-10-01-Euromedia.html) | Euromedia <br> Rai 1 | 16.2% | 14.7–18.0% | 14.2–18.5% | 13.9–19.0% | 13.1–19.9% |
 | [24–28 September 2018](2018-09-28-BiDiMedia.html) | BiDiMedia | 17.6% | 16.1–19.4% | 15.6–19.9% | 15.2–20.3% | 14.5–21.2% |
 | [26 September 2018](2018-09-26-IndexResearch.html) | Index Research <br> LA7 | 17.5% | 15.9–19.3% | 15.4–19.8% | 15.0–20.3% | 14.3–21.2% |
 | [19–24 September 2018](2018-09-24-SWG.html) | SWG <br> LA7 | 16.3% | 15.1–17.5% | 14.8–17.9% | 14.5–18.2% | 13.9–18.9% |
@@ -24,6 +31,7 @@ Last result: **40.8%** (General Election of 25 May 2014)
 | [18–19 September 2018](2018-09-19-IndexResearch.html) | Index Research <br> LA7 | 17.8% | 16.1–19.6% | 15.7–20.1% | 15.3–20.6% | 14.5–21.5% |
 | [12–17 September 2018](2018-09-17-SWG.html) | SWG <br> LA7 | 16.9% | 15.7–18.2% | 15.4–18.6% | 15.1–18.9% | 14.6–19.6% |
 | [17 September 2018](2018-09-17-Piepoli.html) | Piepoli <br> Rai 1 | 17.1% | 15.1–19.4% | 14.5–20.0% | 14.0–20.6% | 13.1–21.7% |
+| [15–17 September 2018](2018-09-17-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 15.3% | 13.7–17.0% | 13.3–17.5% | 13.0–18.0% | 12.3–18.8% |
 | [17 September 2018](2018-09-17-Euromedia.html) | Euromedia <br> Rai 1 | 16.5% | 14.9–18.3% | 14.5–18.8% | 14.1–19.2% | 13.4–20.1% |
 | [14–15 September 2018](2018-09-15-Tecnè.html) | Tecnè <br> Quarta Repubblica | 17.4% | 15.9–19.0% | 15.5–19.5% | 15.2–19.9% | 14.5–20.7% |
 | [11–13 September 2018](2018-09-13-DemosPi.html) | Demos & Pi | 17.3% | 15.8–18.9% | 15.4–19.3% | 15.0–19.7% | 14.4–20.5% |
@@ -208,8 +216,15 @@ Last result: **31** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 12–15 | 11–16 | 11–17 | 10–17 |
+| [8 October 2018](2018-10-08-Tecnè.html) | Tecnè | 12 | 11–14 | 11–14 | 11–15 | 10–15 |
+| [3–8 October 2018](2018-10-08-SWG.html) | SWG <br> LA7 | 13 | 12–15 | 12–15 | 12–15 | 12–15 |
+| [5–7 October 2018](2018-10-07-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 12 | 12–13 | 12–13 | 12–13 | 12–15 |
+| [2–4 October 2018](2018-10-04-Ipsos.html) | Ipsos <br> Corriere della Sera | 12 | 11–15 | 11–15 | 11–15 | 11–15 |
+| [1–2 October 2018](2018-10-02-Demopolis.html) | Demopolis | 11 | 11 | 11–12 | 11–12 | 11–14 |
 | [26 September–1 October 2018](2018-10-01-SWG.html) | SWG <br> LA7 | 12 | 11–14 | 11–14 | 11–14 | 10–15 |
+| [1 October 2018](2018-10-01-Piepoli.html) | Piepoli <br> Rai 1 | 13 | 10–15 | 10–15 | 10–15 | 9–16 |
 | [30 September–1 October 2018](2018-10-01-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 12 | 10–13 | 10–14 | 10–14 | 9–15 |
+| [1 October 2018](2018-10-01-Euromedia.html) | Euromedia <br> Rai 1 | 13 | 11–14 | 11–14 | 11–15 | 10–16 |
 | [24–28 September 2018](2018-09-28-BiDiMedia.html) | BiDiMedia | 14 | 13–16 | 12–16 | 12–17 | 11–17 |
 | [26 September 2018](2018-09-26-IndexResearch.html) | Index Research <br> LA7 | 13 | 12–15 | 12–15 | 11–15 | 11–16 |
 | [19–24 September 2018](2018-09-24-SWG.html) | SWG <br> LA7 | 13 | 12–14 | 11–14 | 11–15 | 11–15 |
@@ -221,6 +236,7 @@ Last result: **31** seats (General Election of 25 May 2014)
 | [18–19 September 2018](2018-09-19-IndexResearch.html) | Index Research <br> LA7 | 14 | 12–15 | 12–15 | 11–16 | 11–17 |
 | [12–17 September 2018](2018-09-17-SWG.html) | SWG <br> LA7 | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
 | [17 September 2018](2018-09-17-Piepoli.html) | Piepoli <br> Rai 1 | 13 | 11–15 | 11–16 | 10–16 | 10–17 |
+| [15–17 September 2018](2018-09-17-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 11 | 11 | 11 | 11 | 11 |
 | [17 September 2018](2018-09-17-Euromedia.html) | Euromedia <br> Rai 1 | 13 | 12–15 | 11–15 | 11–15 | 10–16 |
 | [14–15 September 2018](2018-09-15-Tecnè.html) | Tecnè <br> Quarta Repubblica | 13 | 12–14 | 11–15 | 11–15 | 10–16 |
 | [11–13 September 2018](2018-09-13-DemosPi.html) | Demos & Pi | 14 | 13–15 | 12–16 | 12–16 | 11–17 |
