@@ -199,7 +199,7 @@ Last result: **13** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 6–9 | 6–10 | 6–10 | 5–11 |
 | [8 October 2018](2018-10-08-Tecnè.html) | Tecnè | 9 | 8–10 | 8–10 | 7–11 | 7–11 |
-| [3–8 October 2018](2018-10-08-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–9 | 6–9 | 6–9 |
+| [3–8 October 2018](2018-10-08-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
 | [5–7 October 2018](2018-10-07-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 7 | 6–7 | 6–7 | 6–8 | 6–9 |
 | [2–4 October 2018](2018-10-04-Ipsos.html) | Ipsos <br> Corriere della Sera | 6 | 6–7 | 5–8 | 5–8 | 5–8 |
 | [1–2 October 2018](2018-10-02-Demopolis.html) | Demopolis | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
