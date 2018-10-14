@@ -196,11 +196,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [8 October 2018](2018-10-08-Tecnè.html) | Tecnè | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [3–8 October 2018](2018-10-08-SWG.html) | SWG <br> LA7 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
-| [5–7 October 2018](2018-10-07-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 3 | 3–4 | 3–4 | 3–4 | 0–4 |
-| [2–4 October 2018](2018-10-04-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
-| [1–2 October 2018](2018-10-02-Demopolis.html) | Demopolis | 0 | 0 | 0 | 0 | 0–4 |
+| [5–7 October 2018](2018-10-07-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [2–4 October 2018](2018-10-04-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0–3 |
+| [1–2 October 2018](2018-10-02-Demopolis.html) | Demopolis | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [26 September–1 October 2018](2018-10-01-SWG.html) | SWG <br> LA7 | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [1 October 2018](2018-10-01-Piepoli.html) | Piepoli <br> Rai 1 | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
+| [1 October 2018](2018-10-01-Piepoli.html) | Piepoli <br> Rai 1 | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [30 September–1 October 2018](2018-10-01-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [1 October 2018](2018-10-01-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [24–28 September 2018](2018-09-28-BiDiMedia.html) | BiDiMedia | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
@@ -214,7 +214,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [18–19 September 2018](2018-09-19-IndexResearch.html) | Index Research <br> LA7 | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [12–17 September 2018](2018-09-17-SWG.html) | SWG <br> LA7 | 4 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [17 September 2018](2018-09-17-Piepoli.html) | Piepoli <br> Rai 1 | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
-| [15–17 September 2018](2018-09-17-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 3 | 3 | 3 | 3 | 0–3 |
+| [15–17 September 2018](2018-09-17-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 3 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [17 September 2018](2018-09-17-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [14–15 September 2018](2018-09-15-Tecnè.html) | Tecnè <br> Quarta Repubblica | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [11–13 September 2018](2018-09-13-DemosPi.html) | Demos & Pi | 0 | 0 | 0 | 0 | 0–4 |

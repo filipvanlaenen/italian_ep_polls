@@ -217,14 +217,14 @@ Last result: **31** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 12–15 | 11–16 | 11–17 | 10–17 |
 | [8 October 2018](2018-10-08-Tecnè.html) | Tecnè | 12 | 11–14 | 11–14 | 11–15 | 10–15 |
-| [3–8 October 2018](2018-10-08-SWG.html) | SWG <br> LA7 | 13 | 12–15 | 12–15 | 12–15 | 12–15 |
-| [5–7 October 2018](2018-10-07-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 12 | 12–13 | 12–13 | 12–13 | 12–15 |
-| [2–4 October 2018](2018-10-04-Ipsos.html) | Ipsos <br> Corriere della Sera | 12 | 11–15 | 11–15 | 11–15 | 11–15 |
-| [1–2 October 2018](2018-10-02-Demopolis.html) | Demopolis | 11 | 11 | 11–12 | 11–12 | 11–14 |
+| [3–8 October 2018](2018-10-08-SWG.html) | SWG <br> LA7 | 14 | 13–15 | 12–15 | 12–16 | 11–16 |
+| [5–7 October 2018](2018-10-07-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 13 | 12–14 | 12–15 | 11–15 | 11–15 |
+| [2–4 October 2018](2018-10-04-Ipsos.html) | Ipsos <br> Corriere della Sera | 13 | 12–14 | 11–15 | 11–15 | 11–16 |
+| [1–2 October 2018](2018-10-02-Demopolis.html) | Demopolis | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
 | [26 September–1 October 2018](2018-10-01-SWG.html) | SWG <br> LA7 | 12 | 11–14 | 11–14 | 11–14 | 10–15 |
-| [1 October 2018](2018-10-01-Piepoli.html) | Piepoli <br> Rai 1 | 13 | 10–15 | 10–15 | 10–15 | 9–16 |
+| [1 October 2018](2018-10-01-Piepoli.html) | Piepoli <br> Rai 1 | 13 | 11–15 | 10–15 | 10–16 | 9–17 |
 | [30 September–1 October 2018](2018-10-01-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 12 | 10–13 | 10–14 | 10–14 | 9–15 |
-| [1 October 2018](2018-10-01-Euromedia.html) | Euromedia <br> Rai 1 | 13 | 11–14 | 11–14 | 11–15 | 10–16 |
+| [1 October 2018](2018-10-01-Euromedia.html) | Euromedia <br> Rai 1 | 12 | 11–14 | 11–15 | 10–15 | 10–16 |
 | [24–28 September 2018](2018-09-28-BiDiMedia.html) | BiDiMedia | 14 | 13–16 | 12–16 | 12–17 | 11–17 |
 | [26 September 2018](2018-09-26-IndexResearch.html) | Index Research <br> LA7 | 13 | 12–15 | 12–15 | 11–15 | 11–16 |
 | [19–24 September 2018](2018-09-24-SWG.html) | SWG <br> LA7 | 13 | 12–14 | 11–14 | 11–15 | 11–15 |
@@ -236,7 +236,7 @@ Last result: **31** seats (General Election of 25 May 2014)
 | [18–19 September 2018](2018-09-19-IndexResearch.html) | Index Research <br> LA7 | 14 | 12–15 | 12–15 | 11–16 | 11–17 |
 | [12–17 September 2018](2018-09-17-SWG.html) | SWG <br> LA7 | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
 | [17 September 2018](2018-09-17-Piepoli.html) | Piepoli <br> Rai 1 | 13 | 11–15 | 11–16 | 10–16 | 10–17 |
-| [15–17 September 2018](2018-09-17-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 11 | 11 | 11 | 11 | 11 |
+| [15–17 September 2018](2018-09-17-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 11 | 11–13 | 10–13 | 10–14 | 9–15 |
 | [17 September 2018](2018-09-17-Euromedia.html) | Euromedia <br> Rai 1 | 13 | 12–15 | 11–15 | 11–15 | 10–16 |
 | [14–15 September 2018](2018-09-15-Tecnè.html) | Tecnè <br> Quarta Repubblica | 13 | 12–14 | 11–15 | 11–15 | 10–16 |
 | [11–13 September 2018](2018-09-13-DemosPi.html) | Demos & Pi | 14 | 13–15 | 12–16 | 12–16 | 11–17 |
