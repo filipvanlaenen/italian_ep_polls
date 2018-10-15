@@ -219,11 +219,11 @@ Last result: **5** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 27 | 24–29 | 24–30 | 23–31 | 22–32 |
-| [8 October 2018](2018-10-08-Tecnè.html) | Tecnè | 25 | 23–27 | 23–27 | 22–27 | 22–28 |
+| [8 October 2018](2018-10-08-Tecnè.html) | Tecnè | 25 | 23–26 | 23–27 | 22–27 | 22–28 |
 | [3–8 October 2018](2018-10-08-SWG.html) | SWG <br> LA7 | 27 | 25–28 | 25–29 | 24–29 | 23–30 |
-| [5–7 October 2018](2018-10-07-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 26 | 25–28 | 24–28 | 23–28 | 23–29 |
+| [5–7 October 2018](2018-10-07-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 26 | 24–28 | 24–28 | 24–29 | 23–29 |
 | [2–4 October 2018](2018-10-04-Ipsos.html) | Ipsos <br> Corriere della Sera | 28 | 26–29 | 26–30 | 25–30 | 25–31 |
-| [1–2 October 2018](2018-10-02-Demopolis.html) | Demopolis | 26 | 25–27 | 24–27 | 24–28 | 23–28 |
+| [1–2 October 2018](2018-10-02-Demopolis.html) | Demopolis | 26 | 25–27 | 24–28 | 24–28 | 23–29 |
 | [26 September–1 October 2018](2018-10-01-SWG.html) | SWG <br> LA7 | 27 | 26–29 | 25–30 | 25–30 | 24–31 |
 | [1 October 2018](2018-10-01-Piepoli.html) | Piepoli <br> Rai 1 | 26 | 23–28 | 23–29 | 22–30 | 21–31 |
 | [30 September–1 October 2018](2018-10-01-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 24 | 22–27 | 22–28 | 22–28 | 21–29 |
@@ -239,7 +239,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [18–19 September 2018](2018-09-19-IndexResearch.html) | Index Research <br> LA7 | 25 | 23–27 | 23–27 | 22–28 | 21–28 |
 | [12–17 September 2018](2018-09-17-SWG.html) | SWG <br> LA7 | 27 | 25–29 | 25–29 | 25–30 | 24–30 |
 | [17 September 2018](2018-09-17-Piepoli.html) | Piepoli <br> Rai 1 | 25 | 23–27 | 22–28 | 21–29 | 20–30 |
-| [15–17 September 2018](2018-09-17-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 25 | 23–26 | 22–28 | 22–28 | 21–29 |
+| [15–17 September 2018](2018-09-17-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 25 | 23–27 | 23–28 | 22–28 | 21–29 |
 | [17 September 2018](2018-09-17-Euromedia.html) | Euromedia <br> Rai 1 | 27 | 25–29 | 25–30 | 24–31 | 24–32 |
 | [14–15 September 2018](2018-09-15-Tecnè.html) | Tecnè <br> Quarta Repubblica | 25 | 23–26 | 23–27 | 22–27 | 22–28 |
 | [11–13 September 2018](2018-09-13-DemosPi.html) | Demos & Pi | 26 | 24–28 | 24–28 | 23–29 | 22–30 |
