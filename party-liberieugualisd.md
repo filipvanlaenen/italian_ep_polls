@@ -10,7 +10,12 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.6% | 1.9–3.7% | 1.8–4.1% | 1.6–4.5% | 1.4–5.3% |
+| N/A | [Poll Average](average.html) | 2.7% | 1.9–3.7% | 1.8–4.1% | 1.6–4.5% | 1.4–5.3% |
+| [10–15 October 2018](2018-10-15-SWG.html) | SWG <br> LA7 | 2.9% | 2.4–3.6% | 2.3–3.8% | 2.2–3.9% | 2.0–4.3% |
+| [13–14 October 2018](2018-10-14-Tecnè.html) | Tecnè <br> Quarta Repubblica | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
+| [11–13 October 2018](2018-10-13-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 2.3% | 1.8–2.9% | 1.7–3.0% | 1.6–3.2% | 1.4–3.5% |
+| [10–12 October 2018](2018-10-12-Ixè.html) | Ixè <br> Huffington Post | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
+| [10–12 October 2018](2018-10-12-Demopolis.html) | Demopolis | 2.1% | 1.7–2.7% | 1.6–2.9% | 1.5–3.0% | 1.3–3.3% |
 | [8 October 2018](2018-10-08-Tecnè.html) | Tecnè | 2.4% | 1.9–3.2% | 1.7–3.4% | 1.6–3.6% | 1.4–3.9% |
 | [3–8 October 2018](2018-10-08-SWG.html) | SWG <br> LA7 | 2.3% | 1.8–2.9% | 1.7–3.0% | 1.6–3.2% | 1.4–3.5% |
 | [5–7 October 2018](2018-10-07-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 2.9% | 2.4–3.5% | 2.3–3.7% | 2.1–3.8% | 1.9–4.2% |
@@ -175,10 +180,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 1.4% | 100% |  |
-| 1.5–2.5% | 43% | 98.6% |  |
-| 2.5–3.5% | 42% | 55% | Median |
-| 3.5–4.5% | 12% | 14% |  |
+| 0.5–1.5% | 2% | 100% |  |
+| 1.5–2.5% | 39% | 98% |  |
+| 2.5–3.5% | 45% | 59% | Median |
+| 3.5–4.5% | 11% | 14% |  |
 | 4.5–5.5% | 2% | 2% |  |
 | 5.5–6.5% | 0.3% | 0.3% |  |
 | 6.5–7.5% | 0% | 0% |  |
@@ -193,6 +198,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–3 | 0–4 | 0–4 |
+| [10–15 October 2018](2018-10-15-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0–4 |
+| [13–14 October 2018](2018-10-14-Tecnè.html) | Tecnè <br> Quarta Repubblica | 0 | 0 | 0 | 0 | 0 |
+| [11–13 October 2018](2018-10-13-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 0 | 0 | 0 | 0 | 0 |
+| [10–12 October 2018](2018-10-12-Ixè.html) | Ixè <br> Huffington Post | 0 | 0 | 0 | 0 | 0–3 |
+| [10–12 October 2018](2018-10-12-Demopolis.html) | Demopolis | 0 | 0 | 0 | 0 | 0 |
 | [8 October 2018](2018-10-08-Tecnè.html) | Tecnè | 0 | 0 | 0 | 0 | 0 |
 | [3–8 October 2018](2018-10-08-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
 | [5–7 October 2018](2018-10-07-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0 | 0 | 0 | 0 | 0–3 |
@@ -364,6 +374,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 2% | 6% |  |
 | 4 | 4% | 4% |  |
 | 5 | 0.3% | 0.3% |  |
-| 6 | 0% | 0% |  |
+| 6 | 0.1% | 0.1% |  |
+| 7 | 0% | 0% |  |
 
 

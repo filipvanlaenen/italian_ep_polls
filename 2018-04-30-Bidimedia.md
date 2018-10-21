@@ -14,7 +14,7 @@
 | Lega Nord (ENF) | 6.2% | 20.8% | 19.1–22.6% |18.6–23.1% |18.2–23.5% |17.5–24.4% |
 | Partito Democratico (S&D) | 40.8% | 17.1% | 15.6–18.8% |15.2–19.3% |14.8–19.7% |14.1–20.5% |
 | Forza Italia (EPP) | 16.8% | 11.6% | 10.3–13.1% |10.0–13.5% |9.7–13.9% |9.1–14.6% |
-| Fratelli d’Italia (*) | 3.7% | 4.6% | 3.9–5.7% |3.6–6.0% |3.4–6.2% |3.1–6.7% |
+| Fratelli d’Italia (ECR) | 3.7% | 4.6% | 3.9–5.7% |3.6–6.0% |3.4–6.2% |3.1–6.7% |
 | Liberi e Uguali (S&D) | 0.0% | 2.4% | 1.9–3.2% |1.7–3.5% |1.6–3.7% |1.4–4.1% |
 | Più Europa (ALDE) | 0.0% | 2.0% | 1.5–2.7% |1.4–2.9% |1.3–3.1% |1.1–3.5% |
 | Potere al Popolo (GUE/NGL) | 0.0% | 1.8% | 1.3–2.5% |1.2–2.7% |1.1–2.9% |0.9–3.2% |
@@ -35,7 +35,7 @@
 | <a href="#lega-nord-(enf)">Lega Nord (ENF)</a> | 5 | 17 | 16–19 |16–20 |16–20 |15–21 |
 | <a href="#partito-democratico-(s&d)">Partito Democratico (S&D)</a> | 31 | 14 | 12–15 |12–15 |12–16 |11–17 |
 | <a href="#forza-italia-(epp)">Forza Italia (EPP)</a> | 13 | 10 | 9–11 |9–11 |8–12 |8–12 |
-| <a href="#fratelli-d’italia-(*)">Fratelli d’Italia (*)</a> | 0 | 4 | 3–5 |0–5 |0–5 |0–6 |
+| <a href="#fratelli-d’italia-(ecr)">Fratelli d’Italia (ECR)</a> | 0 | 4 | 3–5 |0–5 |0–5 |0–6 |
 | <a href="#liberi-e-uguali-(s&d)">Liberi e Uguali (S&D)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#più-europa-(alde)">Più Europa (ALDE)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#potere-al-popolo-(gue/ngl)">Potere al Popolo (GUE/NGL)</a> | 0 | 0 | 0 |0 |0 |0 |
@@ -148,11 +148,11 @@
 | 14 | 0.1% | 0.1% |  |
 | 15 | 0% | 0% |  |
 
-### Fratelli d’Italia (*)
+### Fratelli d’Italia (ECR)
 
-*For a full overview of the results for this party, see the [Fratelli d’Italia (*)](party-fratellid’italia.html) page.*
+*For a full overview of the results for this party, see the [Fratelli d’Italia (ECR)](party-fratellid’italiaecr.html) page.*
 
-![Graph with seats probability mass function not yet produced](2018-04-30-Bidimedia-seats-pmf-fratellid’italia.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-04-30-Bidimedia-seats-pmf-fratellid’italiaecr.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

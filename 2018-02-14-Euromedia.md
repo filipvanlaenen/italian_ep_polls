@@ -15,7 +15,7 @@
 | Forza Italia (EPP) | 16.8% | 17.4% | 15.7–19.2% |15.3–19.7% |14.9–20.2% |14.2–21.1% |
 | Lega Nord (ENF) | 6.2% | 14.2% | 12.8–15.9% |12.3–16.4% |12.0–16.9% |11.3–17.7% |
 | Liberi e Uguali (S&D) | 0.0% | 5.9% | 4.9–7.1% |4.7–7.4% |4.5–7.7% |4.0–8.4% |
-| Fratelli d’Italia (*) | 3.7% | 4.9% | 4.0–6.0% |3.8–6.3% |3.6–6.6% |3.2–7.2% |
+| Fratelli d’Italia (ECR) | 3.7% | 4.9% | 4.0–6.0% |3.8–6.3% |3.6–6.6% |3.2–7.2% |
 | Più Europa (ALDE) | 0.0% | 2.2% | 1.7–3.1% |1.6–3.3% |1.4–3.5% |1.2–4.0% |
 | Noi con l’Italia (EPP) | 0.0% | 2.2% | 1.7–3.1% |1.6–3.3% |1.4–3.5% |1.2–4.0% |
 | Insieme (*) | 0.0% | 0.8% | 0.5–1.3% |0.4–1.5% |0.4–1.6% |0.2–2.0% |
@@ -37,7 +37,7 @@
 | <a href="#forza-italia-(epp)">Forza Italia (EPP)</a> | 13 | 14 | 13–15 |12–16 |12–16 |12–17 |
 | <a href="#lega-nord-(enf)">Lega Nord (ENF)</a> | 5 | 12 | 11–13 |11–14 |10–14 |9–15 |
 | <a href="#liberi-e-uguali-(s&d)">Liberi e Uguali (S&D)</a> | 0 | 5 | 4–6 |4–6 |4–6 |4–7 |
-| <a href="#fratelli-d’italia-(*)">Fratelli d’Italia (*)</a> | 0 | 4 | 3–5 |3–5 |0–5 |0–6 |
+| <a href="#fratelli-d’italia-(ecr)">Fratelli d’Italia (ECR)</a> | 0 | 4 | 3–5 |3–5 |0–5 |0–6 |
 | <a href="#più-europa-(alde)">Più Europa (ALDE)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#noi-con-l’italia-(epp)">Noi con l’Italia (EPP)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#insieme-(*)">Insieme (*)</a> | 0 | 0 | 0 |0 |0 |0 |
@@ -149,11 +149,11 @@
 | 7 | 2% | 2% |  |
 | 8 | 0% | 0% |  |
 
-### Fratelli d’Italia (*)
+### Fratelli d’Italia (ECR)
 
-*For a full overview of the results for this party, see the [Fratelli d’Italia (*)](party-fratellid’italia.html) page.*
+*For a full overview of the results for this party, see the [Fratelli d’Italia (ECR)](party-fratellid’italiaecr.html) page.*
 
-![Graph with seats probability mass function not yet produced](2018-02-14-Euromedia-seats-pmf-fratellid’italia.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-02-14-Euromedia-seats-pmf-fratellid’italiaecr.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -238,7 +238,7 @@
 | Partito Democratico (S&D) – Liberi e Uguali (S&D) | 31 | 22 | 0% | 21–24 | 20–25 | 20–25 | 19–26 |
 | Movimento 5 Stelle (EFDD) | 17 | 23 | 0% | 21–24 | 21–24 | 20–24 | 19–25 |
 | Lega Nord (ENF) | 5 | 12 | 0% | 11–13 | 11–14 | 10–14 | 9–15 |
-| Fratelli d’Italia (*) – Insieme (*) – CasaPound Italia (*) – Civica Popolare (*) | 0 | 4 | 0% | 3–5 | 3–5 | 0–5 | 0–6 |
+| Fratelli d’Italia (ECR) – Insieme (*) – CasaPound Italia (*) – Civica Popolare (*) | 0 | 4 | 0% | 3–5 | 3–5 | 0–5 | 0–6 |
 | Più Europa (ALDE) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Partito Democratico (S&D) – Liberi e Uguali (S&D)
@@ -301,7 +301,7 @@
 | 15 | 0.9% | 0.9% |  |
 | 16 | 0% | 0% |  |
 
-### Fratelli d’Italia (*) – Insieme (*) – CasaPound Italia (*) – Civica Popolare (*)
+### Fratelli d’Italia (ECR) – Insieme (*) – CasaPound Italia (*) – Civica Popolare (*)
 
 ![Graph with seats probability mass function not yet produced](2018-02-14-Euromedia-coalitions-seats-pmf-fdi–i–cpi–cp.png "Seats Probability Mass Function")
 
