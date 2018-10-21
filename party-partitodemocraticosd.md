@@ -220,10 +220,10 @@ Last result: **31** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 12–15 | 11–16 | 11–16 | 10–17 |
+| N/A | [Poll Average](average.html) | 13 | 12–15 | 11–15 | 11–16 | 10–17 |
 | [10–15 October 2018](2018-10-15-SWG.html) | SWG <br> LA7 | 14 | 12–15 | 12–15 | 12–16 | 11–16 |
 | [13–14 October 2018](2018-10-14-Tecnè.html) | Tecnè <br> Quarta Repubblica | 13 | 12–15 | 11–15 | 11–15 | 11–16 |
-| [11–13 October 2018](2018-10-13-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 15 | 14–16 | 13–16 | 13–17 | 12–17 |
+| [11–13 October 2018](2018-10-13-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 15 | 14–16 | 13–16 | 13–17 | 13–17 |
 | [10–12 October 2018](2018-10-12-Ixè.html) | Ixè <br> Huffington Post | 14 | 12–15 | 12–16 | 12–16 | 11–17 |
 | [10–12 October 2018](2018-10-12-Demopolis.html) | Demopolis | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
 | [8 October 2018](2018-10-08-Tecnè.html) | Tecnè | 13 | 11–14 | 11–14 | 11–15 | 10–15 |
@@ -394,12 +394,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0.3% | 100% |  |
 | 10 | 2% | 99.7% |  |
 | 11 | 7% | 98% |  |
-| 12 | 18% | 91% |  |
-| 13 | 30% | 74% | Median |
+| 12 | 17% | 91% |  |
+| 13 | 29% | 74% | Median |
 | 14 | 26% | 44% |  |
-| 15 | 13% | 18% |  |
+| 15 | 14% | 19% |  |
 | 16 | 4% | 5% |  |
-| 17 | 0.8% | 0.8% |  |
+| 17 | 0.7% | 0.8% |  |
 | 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
 | 20 | 0% | 0% |  |
