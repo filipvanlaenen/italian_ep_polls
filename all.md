@@ -5,6 +5,11 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | PD | M5S | FI | LN | FdI | SVP | CPI | CP | I | NcI | +E | LeU | PaP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 40.8% <br> 31 | 21.2% <br> 17 | 16.8% <br> 13 | 6.2% <br> 5 | 3.7% <br> 0 | 0.5% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [10–15 October 2018](2018-10-15-SWG.html) | SWG <br> LA7 | 15–19% <br> 12–16 | 26–30% <br> 22–27 | 7–9% <br> 6–8 | 28–33% <br> 24–29 | 3–5% <br> 0–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | 2–4% <br> 0 | 2–3% <br> 0 |
+| [13–14 October 2018](2018-10-14-Tecnè.html) | Tecnè <br> Quarta Repubblica | 15–20% <br> 11–15 | 26–32% <br> 20–25 | 9–13% <br> 8–11 | 28–33% <br> 22–27 | 3–5% <br> 0–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A |
+| [11–13 October 2018](2018-10-13-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 17–21% <br> 13–17 | 25–29% <br> 21–25 | 7–9% <br> 6–8 | 32–37% <br> 27–31 | 3–5% <br> 0–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 2–3% <br> 0 | 2–3% <br> 0 | 1–2% <br> 0 |
+| [10–12 October 2018](2018-10-12-Ixè.html) | Ixè <br> Huffington Post | 15–19% <br> 12–16 | 25–31% <br> 22–27 | 7–11% <br> 6–9 | 29–35% <br> 25–30 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | 2–4% <br> 0 | 2–4% <br> 0 | 2–4% <br> 0 |
+| [10–12 October 2018](2018-10-12-Demopolis.html) | Demopolis | 16–19% <br> 12–15 | 28–32% <br> 22–27 | 7–10% <br> 6–8 | 29–34% <br> 24–28 | 2–4% <br> 0–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | 2–3% <br> 0 | N/A <br> N/A |
 | [8 October 2018](2018-10-08-Tecnè.html) | Tecnè | 15–19% <br> 11–15 | 26–31% <br> 20–25 | 9–13% <br> 7–11 | 28–34% <br> 22–27 | 3–5% <br> 0–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A |
 | [3–8 October 2018](2018-10-08-SWG.html) | SWG <br> LA7 | 15–19% <br> 12–16 | 27–31% <br> 22–27 | 7–10% <br> 6–9 | 29–33% <br> 24–29 | 3–5% <br> 0–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | 2–3% <br> 0 | 2–3% <br> 0 |
 | [5–7 October 2018](2018-10-07-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 15–19% <br> 11–15 | 27–32% <br> 23–28 | 7–10% <br> 6–8 | 28–33% <br> 24–29 | 3–5% <br> 0–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | 1–2% <br> 0 | 2–4% <br> 0 | 1–3% <br> 0 |
@@ -172,7 +177,7 @@ Only polls for which at least the sample size has been published are included in
 + **M5S:** Movimento 5 Stelle (EFDD)
 + **FI:** Forza Italia (EPP)
 + **LN:** Lega Nord (ENF)
-+ **FdI:** Fratelli d’Italia (*)
++ **FdI:** Fratelli d’Italia (ECR)
 + **SVP:** Südtiroler Volkspartei (EPP)
 + **CPI:** CasaPound Italia (*)
 + **CP:** Civica Popolare (*)
