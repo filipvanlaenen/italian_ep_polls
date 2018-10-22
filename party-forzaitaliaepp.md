@@ -204,10 +204,10 @@ Last result: **13** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–9 | 6–10 | 6–10 | 5–11 |
 | [10–15 October 2018](2018-10-15-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
-| [13–14 October 2018](2018-10-14-Tecnè.html) | Tecnè <br> Quarta Repubblica | 9 | 8–10 | 8–10 | 8–11 | 7–11 |
+| [13–14 October 2018](2018-10-14-Tecnè.html) | Tecnè <br> Quarta Repubblica | 9 | 8–10 | 8–10 | 7–11 | 7–11 |
 | [11–13 October 2018](2018-10-13-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 7 | 6–8 | 6–8 | 5–8 | 5–8 |
 | [10–12 October 2018](2018-10-12-Ixè.html) | Ixè <br> Huffington Post | 8 | 6–9 | 6–9 | 6–9 | 6–10 |
-| [10–12 October 2018](2018-10-12-Demopolis.html) | Demopolis | 7 | 6–7 | 6–8 | 6–8 | 5–9 |
+| [10–12 October 2018](2018-10-12-Demopolis.html) | Demopolis | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | [8 October 2018](2018-10-08-Tecnè.html) | Tecnè | 9 | 8–10 | 8–10 | 7–11 | 7–11 |
 | [3–8 October 2018](2018-10-08-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
 | [5–7 October 2018](2018-10-07-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
@@ -374,12 +374,12 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 1.4% | 100% |  |
-| 6 | 18% | 98.6% |  |
-| 7 | 35% | 80% | Median |
-| 8 | 25% | 45% |  |
-| 9 | 14% | 20% |  |
-| 10 | 5% | 6% |  |
-| 11 | 0.9% | 1.0% |  |
+| 6 | 17% | 98.5% |  |
+| 7 | 36% | 81% | Median |
+| 8 | 26% | 45% |  |
+| 9 | 14% | 19% |  |
+| 10 | 5% | 5% |  |
+| 11 | 0.8% | 0.9% |  |
 | 12 | 0.1% | 0.1% |  |
 | 13 | 0% | 0% | Last Result |
 

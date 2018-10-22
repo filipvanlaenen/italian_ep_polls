@@ -212,7 +212,7 @@ Last result: **17** seats (General Election of 25 May 2014)
 | [13–14 October 2018](2018-10-14-Tecnè.html) | Tecnè <br> Quarta Repubblica | 23 | 21–24 | 21–25 | 20–25 | 20–26 |
 | [11–13 October 2018](2018-10-13-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 23 | 21–24 | 21–25 | 21–25 | 20–26 |
 | [10–12 October 2018](2018-10-12-Ixè.html) | Ixè <br> Huffington Post | 25 | 23–26 | 22–27 | 22–27 | 21–28 |
-| [10–12 October 2018](2018-10-12-Demopolis.html) | Demopolis | 25 | 23–26 | 23–26 | 22–27 | 22–27 |
+| [10–12 October 2018](2018-10-12-Demopolis.html) | Demopolis | 25 | 23–26 | 23–26 | 23–27 | 22–27 |
 | [8 October 2018](2018-10-08-Tecnè.html) | Tecnè | 23 | 21–24 | 21–25 | 20–25 | 20–26 |
 | [3–8 October 2018](2018-10-08-SWG.html) | SWG <br> LA7 | 25 | 23–26 | 23–27 | 22–27 | 22–28 |
 | [5–7 October 2018](2018-10-07-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 25 | 23–27 | 23–27 | 23–28 | 22–28 |
@@ -385,7 +385,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 21 | 5% | 98% |  |
 | 22 | 11% | 93% |  |
 | 23 | 21% | 82% |  |
-| 24 | 21% | 61% | Median |
+| 24 | 22% | 61% | Median |
 | 25 | 18% | 39% |  |
 | 26 | 12% | 21% |  |
 | 27 | 6% | 9% |  |
