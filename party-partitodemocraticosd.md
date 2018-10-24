@@ -10,7 +10,12 @@ Last result: **40.8%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.2% | 15.3–18.9% | 14.7–19.4% | 14.2–19.9% | 13.2–20.8% |
+| N/A | [Poll Average](average.html) | 17.2% | 15.4–19.0% | 14.8–19.5% | 14.2–19.9% | 13.2–20.8% |
+| [17–22 October 2018](2018-10-22-SWG.html) | SWG <br> LA7 | 17.5% | 16.3–18.9% | 16.0–19.2% | 15.7–19.6% | 15.1–20.2% |
+| [20–21 October 2018](2018-10-21-Tecnè.html) | Tecnè <br> Quarta Repubblica | 17.3% | 15.8–18.9% | 15.4–19.4% | 15.1–19.8% | 14.4–20.6% |
+| [19–21 October 2018](2018-10-21-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 17.3% | 16.1–18.6% | 15.7–18.9% | 15.5–19.3% | 14.9–19.9% |
+| [17 October 2018](2018-10-17-Piepoli.html) | Piepoli <br> Rai 1 | 17.0% | 15.2–19.1% | 14.7–19.7% | 14.2–20.2% | 13.4–21.3% |
+| [17 October 2018](2018-10-17-Euromedia.html) | Euromedia <br> Rai 1 | 15.9% | 14.3–17.6% | 13.9–18.1% | 13.5–18.6% | 12.8–19.4% |
 | [10–15 October 2018](2018-10-15-SWG.html) | SWG <br> LA7 | 17.1% | 15.9–18.4% | 15.6–18.8% | 15.3–19.1% | 14.8–19.8% |
 | [13–14 October 2018](2018-10-14-Tecnè.html) | Tecnè <br> Quarta Repubblica | 17.5% | 16.0–19.1% | 15.6–19.6% | 15.3–20.0% | 14.6–20.8% |
 | [11–13 October 2018](2018-10-13-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 18.6% | 17.4–20.0% | 17.0–20.3% | 16.7–20.7% | 16.1–21.3% |
@@ -181,14 +186,14 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0.1% | 100% |  |
-| 12.5–13.5% | 0.8% | 99.9% |  |
+| 12.5–13.5% | 0.7% | 99.9% |  |
 | 13.5–14.5% | 3% | 99.1% |  |
-| 14.5–15.5% | 9% | 96% |  |
-| 15.5–16.5% | 20% | 87% |  |
-| 16.5–17.5% | 28% | 67% | Median |
-| 17.5–18.5% | 23% | 39% |  |
-| 18.5–19.5% | 11% | 15% |  |
-| 19.5–20.5% | 3% | 4% |  |
+| 14.5–15.5% | 8% | 96% |  |
+| 15.5–16.5% | 19% | 88% |  |
+| 16.5–17.5% | 28% | 69% | Median |
+| 17.5–18.5% | 24% | 41% |  |
+| 18.5–19.5% | 12% | 16% |  |
+| 19.5–20.5% | 4% | 4% |  |
 | 20.5–21.5% | 0.7% | 0.8% |  |
 | 21.5–22.5% | 0.1% | 0.1% |  |
 | 22.5–23.5% | 0% | 0% |  |
@@ -220,7 +225,12 @@ Last result: **31** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 12–15 | 11–15 | 11–16 | 10–17 |
+| N/A | [Poll Average](average.html) | 13 | 12–15 | 11–16 | 11–16 | 10–17 |
+| [17–22 October 2018](2018-10-22-SWG.html) | SWG <br> LA7 | 14 | 13–16 | 13–16 | 12–16 | 12–17 |
+| [20–21 October 2018](2018-10-21-Tecnè.html) | Tecnè <br> Quarta Repubblica | 13 | 12–14 | 11–15 | 11–15 | 10–15 |
+| [19–21 October 2018](2018-10-21-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 14 | 13–15 | 12–16 | 12–16 | 12–16 |
+| [17 October 2018](2018-10-17-Piepoli.html) | Piepoli <br> Rai 1 | 13 | 12–15 | 11–15 | 11–16 | 10–16 |
+| [17 October 2018](2018-10-17-Euromedia.html) | Euromedia <br> Rai 1 | 12 | 11–14 | 10–14 | 10–14 | 9–15 |
 | [10–15 October 2018](2018-10-15-SWG.html) | SWG <br> LA7 | 14 | 12–15 | 12–15 | 12–16 | 11–16 |
 | [13–14 October 2018](2018-10-14-Tecnè.html) | Tecnè <br> Quarta Repubblica | 13 | 12–14 | 11–15 | 11–15 | 11–16 |
 | [11–13 October 2018](2018-10-13-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 15 | 14–16 | 13–16 | 13–17 | 13–17 |
@@ -391,14 +401,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 0.3% | 100% |  |
+| 9 | 0.2% | 100% |  |
 | 10 | 2% | 99.7% |  |
-| 11 | 7% | 98% |  |
-| 12 | 18% | 91% |  |
-| 13 | 29% | 74% | Median |
-| 14 | 26% | 44% |  |
-| 15 | 14% | 18% |  |
-| 16 | 4% | 5% |  |
+| 11 | 6% | 98% |  |
+| 12 | 17% | 92% |  |
+| 13 | 28% | 75% | Median |
+| 14 | 26% | 47% |  |
+| 15 | 16% | 21% |  |
+| 16 | 5% | 6% |  |
 | 17 | 0.7% | 0.8% |  |
 | 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
