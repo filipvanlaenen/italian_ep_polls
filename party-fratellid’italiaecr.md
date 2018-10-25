@@ -207,9 +207,9 @@ Last result: **0** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [17–22 October 2018](2018-10-22-SWG.html) | SWG <br> LA7 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [20–21 October 2018](2018-10-21-Tecnè.html) | Tecnè <br> Quarta Repubblica | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
-| [19–21 October 2018](2018-10-21-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [19–21 October 2018](2018-10-21-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 4 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [17 October 2018](2018-10-17-Piepoli.html) | Piepoli <br> Rai 1 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [17 October 2018](2018-10-17-Euromedia.html) | Euromedia <br> Rai 1 | 4 | 0–4 | 0–4 | 0–5 | 0–5 |
+| [17 October 2018](2018-10-17-Euromedia.html) | Euromedia <br> Rai 1 | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [10–15 October 2018](2018-10-15-SWG.html) | SWG <br> LA7 | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [13–14 October 2018](2018-10-14-Tecnè.html) | Tecnè <br> Quarta Repubblica | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [11–13 October 2018](2018-10-13-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
