@@ -221,14 +221,14 @@ Last result: **13** seats (General Election of 25 May 2014)
 | [8 October 2018](2018-10-08-Tecnè.html) | Tecnè | 9 | 8–10 | 8–10 | 7–11 | 7–11 |
 | [3–8 October 2018](2018-10-08-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
 | [5–7 October 2018](2018-10-07-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
-| [2–4 October 2018](2018-10-04-Ipsos.html) | Ipsos <br> Corriere della Sera | 6 | 6–7 | 5–8 | 5–8 | 5–8 |
+| [2–4 October 2018](2018-10-04-Ipsos.html) | Ipsos <br> Corriere della Sera | 6 | 5–8 | 5–8 | 5–8 | 5–8 |
 | [1–2 October 2018](2018-10-02-Demopolis.html) | Demopolis | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [26 September–1 October 2018](2018-10-01-SWG.html) | SWG <br> LA7 | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
 | [1 October 2018](2018-10-01-Piepoli.html) | Piepoli <br> Rai 1 | 9 | 7–10 | 7–11 | 6–11 | 6–12 |
-| [30 September–1 October 2018](2018-10-01-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 9 | 7–10 | 7–10 | 7–11 | 6–11 |
+| [30 September–1 October 2018](2018-10-01-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 8 | 7–9 | 7–10 | 7–11 | 6–11 |
 | [1 October 2018](2018-10-01-Euromedia.html) | Euromedia <br> Rai 1 | 8 | 7–9 | 6–9 | 6–10 | 6–10 |
-| [24–28 September 2018](2018-09-28-BiDiMedia.html) | BiDiMedia | 7 | 6–8 | 6–8 | 5–9 | 5–10 |
-| [26 September 2018](2018-09-26-IndexResearch.html) | Index Research <br> LA7 | 7 | 6–8 | 6–9 | 6–9 | 5–10 |
+| [24–28 September 2018](2018-09-28-BiDiMedia.html) | BiDiMedia | 7 | 6–8 | 6–9 | 6–9 | 5–10 |
+| [26 September 2018](2018-09-26-IndexResearch.html) | Index Research <br> LA7 | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | [19–24 September 2018](2018-09-24-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [22–23 September 2018](2018-09-23-Tecnè.html) | Tecnè <br> Quarta Repubblica | 9 | 8–10 | 8–10 | 7–10 | 7–11 |
 | [21–23 September 2018](2018-09-23-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 9 | 8–10 | 7–11 | 7–11 | 7–12 |
@@ -241,7 +241,7 @@ Last result: **13** seats (General Election of 25 May 2014)
 | [15–17 September 2018](2018-09-17-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 9 | 8–10 | 7–10 | 7–11 | 7–11 |
 | [17 September 2018](2018-09-17-Euromedia.html) | Euromedia <br> Rai 1 | 9 | 8–10 | 7–11 | 7–11 | 7–12 |
 | [14–15 September 2018](2018-09-15-Tecnè.html) | Tecnè <br> Quarta Repubblica | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
-| [11–13 September 2018](2018-09-13-DemosPi.html) | Demos & Pi | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
+| [11–13 September 2018](2018-09-13-DemosPi.html) | Demos & Pi | 7 | 6–8 | 6–9 | 6–9 | 6–10 |
 | [11–12 September 2018](2018-09-12-Demopolis.html) | Demopolis | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | [5–10 September 2018](2018-09-10-SWG.html) | SWG <br> LA7 | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
 | [10 September 2018](2018-09-10-Piepoli.html) | Piepoli <br> Rai 1 | 8 | 7–10 | 7–10 | 6–10 | 6–11 |
@@ -384,10 +384,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 2% | 100% |  |
-| 6 | 19% | 98% |  |
-| 7 | 32% | 79% | Median |
+| 6 | 21% | 98% |  |
+| 7 | 30% | 77% | Median |
 | 8 | 26% | 47% |  |
-| 9 | 15% | 21% |  |
+| 9 | 16% | 22% |  |
 | 10 | 5% | 6% |  |
 | 11 | 0.9% | 1.1% |  |
 | 12 | 0.1% | 0.1% |  |

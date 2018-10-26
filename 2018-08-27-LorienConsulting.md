@@ -242,6 +242,7 @@
 | Lega Nord (ENF) | 5 | 27 | 0% | 24–29 | 23–30 | 23–31 | 22–32 |
 | Movimento 5 Stelle (EFDD) | 17 | 23 | 0% | 20–25 | 19–26 | 19–26 | 18–28 |
 | Partito Democratico (S&D) – Liberi e Uguali (S&D) | 31 | 15 | 0% | 12–18 | 11–18 | 11–19 | 10–20 |
+| Fratelli d’Italia (ECR) | 0 | 4 | 0% | 0–5 | 0–5 | 0–6 | 0–6 |
 | Più Europa (ALDE) | 0 | 0 | 0% | 0 | 0–3 | 0–4 | 0–4 |
 | Potere al Popolo (GUE/NGL) | 0 | 0 | 0% | 0 | 0 | 0 | 0–4 |
 
@@ -333,6 +334,22 @@
 | 29 | 0% | 0% |  |
 | 30 | 0% | 0% |  |
 | 31 | 0% | 0% | Last Result |
+
+### Fratelli d’Italia (ECR)
+
+![Graph with seats probability mass function not yet produced](2018-08-27-LorienConsulting-coalitions-seats-pmf-fdi.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 24% | 100% | Last Result |
+| 1 | 0% | 76% |  |
+| 2 | 0% | 76% |  |
+| 3 | 10% | 76% |  |
+| 4 | 43% | 67% | Median |
+| 5 | 21% | 24% |  |
+| 6 | 3% | 3% |  |
+| 7 | 0.3% | 0.3% |  |
+| 8 | 0% | 0% |  |
 
 ### Più Europa (ALDE)
 

@@ -228,7 +228,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26 | 24–29 | 23–30 | 23–30 | 22–32 |
+| N/A | [Poll Average](average.html) | 26 | 24–29 | 23–30 | 23–30 | 22–31 |
 | [17–22 October 2018](2018-10-22-SWG.html) | SWG <br> LA7 | 26 | 25–28 | 24–29 | 24–29 | 23–30 |
 | [20–21 October 2018](2018-10-21-Tecnè.html) | Tecnè <br> Quarta Repubblica | 24 | 23–26 | 22–26 | 22–27 | 21–28 |
 | [19–21 October 2018](2018-10-21-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 26 | 24–28 | 24–29 | 24–29 | 23–29 |
@@ -242,14 +242,14 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [8 October 2018](2018-10-08-Tecnè.html) | Tecnè | 25 | 23–26 | 23–27 | 22–27 | 22–28 |
 | [3–8 October 2018](2018-10-08-SWG.html) | SWG <br> LA7 | 27 | 25–28 | 25–29 | 24–29 | 23–30 |
 | [5–7 October 2018](2018-10-07-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 26 | 24–28 | 24–28 | 24–29 | 23–29 |
-| [2–4 October 2018](2018-10-04-Ipsos.html) | Ipsos <br> Corriere della Sera | 28 | 26–29 | 26–30 | 25–30 | 25–31 |
+| [2–4 October 2018](2018-10-04-Ipsos.html) | Ipsos <br> Corriere della Sera | 28 | 26–29 | 26–30 | 26–30 | 25–31 |
 | [1–2 October 2018](2018-10-02-Demopolis.html) | Demopolis | 26 | 25–27 | 24–28 | 24–28 | 23–29 |
 | [26 September–1 October 2018](2018-10-01-SWG.html) | SWG <br> LA7 | 27 | 26–29 | 25–30 | 25–30 | 24–31 |
 | [1 October 2018](2018-10-01-Piepoli.html) | Piepoli <br> Rai 1 | 26 | 23–28 | 23–29 | 22–30 | 21–31 |
-| [30 September–1 October 2018](2018-10-01-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 24 | 22–27 | 22–28 | 22–28 | 21–29 |
+| [30 September–1 October 2018](2018-10-01-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 25 | 23–27 | 22–28 | 22–29 | 21–29 |
 | [1 October 2018](2018-10-01-Euromedia.html) | Euromedia <br> Rai 1 | 27 | 25–29 | 25–30 | 24–31 | 23–32 |
-| [24–28 September 2018](2018-09-28-BiDiMedia.html) | BiDiMedia | 26 | 24–28 | 24–29 | 23–29 | 22–30 |
-| [26 September 2018](2018-09-26-IndexResearch.html) | Index Research <br> LA7 | 26 | 24–27 | 24–28 | 23–28 | 22–29 |
+| [24–28 September 2018](2018-09-28-BiDiMedia.html) | BiDiMedia | 26 | 24–27 | 24–28 | 23–29 | 22–30 |
+| [26 September 2018](2018-09-26-IndexResearch.html) | Index Research <br> LA7 | 26 | 25–28 | 24–28 | 24–29 | 22–29 |
 | [19–24 September 2018](2018-09-24-SWG.html) | SWG <br> LA7 | 27 | 26–29 | 25–30 | 25–30 | 24–31 |
 | [22–23 September 2018](2018-09-23-Tecnè.html) | Tecnè <br> Quarta Repubblica | 26 | 24–28 | 24–28 | 23–28 | 23–29 |
 | [21–23 September 2018](2018-09-23-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 25 | 23–27 | 23–27 | 22–28 | 21–29 |
@@ -262,7 +262,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [15–17 September 2018](2018-09-17-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 25 | 23–27 | 23–28 | 22–28 | 21–29 |
 | [17 September 2018](2018-09-17-Euromedia.html) | Euromedia <br> Rai 1 | 27 | 25–29 | 25–30 | 24–31 | 24–32 |
 | [14–15 September 2018](2018-09-15-Tecnè.html) | Tecnè <br> Quarta Repubblica | 25 | 23–26 | 23–27 | 22–27 | 22–28 |
-| [11–13 September 2018](2018-09-13-DemosPi.html) | Demos & Pi | 26 | 24–28 | 24–28 | 23–29 | 22–30 |
+| [11–13 September 2018](2018-09-13-DemosPi.html) | Demos & Pi | 26 | 24–28 | 24–28 | 23–29 | 22–29 |
 | [11–12 September 2018](2018-09-12-Demopolis.html) | Demopolis | 26 | 24–27 | 24–27 | 24–28 | 23–28 |
 | [5–10 September 2018](2018-09-10-SWG.html) | SWG <br> LA7 | 27 | 25–29 | 25–30 | 25–30 | 24–31 |
 | [10 September 2018](2018-09-10-Piepoli.html) | Piepoli <br> Rai 1 | 24 | 22–27 | 21–27 | 21–28 | 20–29 |
@@ -421,18 +421,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
 | 21 | 0.3% | 100% |  |
-| 22 | 2% | 99.7% |  |
-| 23 | 4% | 98% |  |
-| 24 | 10% | 94% |  |
-| 25 | 17% | 83% |  |
-| 26 | 21% | 67% | Median |
-| 27 | 18% | 46% |  |
-| 28 | 12% | 28% |  |
-| 29 | 9% | 16% |  |
-| 30 | 5% | 7% |  |
-| 31 | 2% | 2% |  |
-| 32 | 0.5% | 0.6% |  |
-| 33 | 0.1% | 0.1% |  |
+| 22 | 1.5% | 99.7% |  |
+| 23 | 5% | 98% |  |
+| 24 | 9% | 93% |  |
+| 25 | 15% | 84% |  |
+| 26 | 22% | 69% | Median |
+| 27 | 18% | 47% |  |
+| 28 | 12% | 29% |  |
+| 29 | 9% | 17% |  |
+| 30 | 6% | 8% |  |
+| 31 | 1.5% | 2% |  |
+| 32 | 0.4% | 0.5% |  |
+| 33 | 0% | 0.1% |  |
 | 34 | 0% | 0% |  |
 
 
