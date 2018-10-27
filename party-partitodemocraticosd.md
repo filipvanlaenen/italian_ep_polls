@@ -243,7 +243,7 @@ Last result: **31** seats (General Election of 25 May 2014)
 | [1–2 October 2018](2018-10-02-Demopolis.html) | Demopolis | 12 | 11–13 | 11–14 | 11–14 | 10–14 |
 | [26 September–1 October 2018](2018-10-01-SWG.html) | SWG <br> LA7 | 12 | 11–14 | 11–14 | 11–14 | 10–15 |
 | [1 October 2018](2018-10-01-Piepoli.html) | Piepoli <br> Rai 1 | 13 | 11–15 | 10–15 | 10–16 | 9–17 |
-| [30 September–1 October 2018](2018-10-01-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 12 | 10–14 | 10–14 | 10–14 | 9–15 |
+| [30 September–1 October 2018](2018-10-01-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 12 | 10–13 | 10–14 | 10–14 | 9–15 |
 | [1 October 2018](2018-10-01-Euromedia.html) | Euromedia <br> Rai 1 | 12 | 11–14 | 11–15 | 10–15 | 10–16 |
 | [24–28 September 2018](2018-09-28-BiDiMedia.html) | BiDiMedia | 14 | 13–16 | 13–16 | 12–16 | 11–18 |
 | [26 September 2018](2018-09-26-IndexResearch.html) | Index Research <br> LA7 | 13 | 12–14 | 11–14 | 11–15 | 10–16 |
@@ -401,14 +401,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 0.2% | 100% |  |
+| 9 | 0.3% | 100% |  |
 | 10 | 2% | 99.7% |  |
 | 11 | 7% | 98% |  |
-| 12 | 18% | 91% |  |
-| 13 | 27% | 73% | Median |
-| 14 | 28% | 46% |  |
-| 15 | 13% | 18% |  |
-| 16 | 5% | 5% |  |
+| 12 | 17% | 91% |  |
+| 13 | 29% | 74% | Median |
+| 14 | 25% | 44% |  |
+| 15 | 13% | 19% |  |
+| 16 | 5% | 6% |  |
 | 17 | 0.7% | 0.8% |  |
 | 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
