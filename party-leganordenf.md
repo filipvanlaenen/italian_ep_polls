@@ -248,8 +248,8 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [1 October 2018](2018-10-01-Piepoli.html) | Piepoli <br> Rai 1 | 26 | 23–28 | 23–29 | 22–30 | 21–31 |
 | [30 September–1 October 2018](2018-10-01-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 24 | 22–27 | 22–28 | 22–28 | 21–29 |
 | [1 October 2018](2018-10-01-Euromedia.html) | Euromedia <br> Rai 1 | 27 | 25–29 | 25–30 | 24–31 | 23–32 |
-| [24–28 September 2018](2018-09-28-BiDiMedia.html) | BiDiMedia | 26 | 24–27 | 24–28 | 23–29 | 22–30 |
-| [26 September 2018](2018-09-26-IndexResearch.html) | Index Research <br> LA7 | 26 | 25–28 | 24–28 | 24–29 | 22–29 |
+| [24–28 September 2018](2018-09-28-BiDiMedia.html) | BiDiMedia | 26 | 24–28 | 24–29 | 23–29 | 22–30 |
+| [26 September 2018](2018-09-26-IndexResearch.html) | Index Research <br> LA7 | 26 | 24–27 | 24–28 | 23–28 | 22–29 |
 | [19–24 September 2018](2018-09-24-SWG.html) | SWG <br> LA7 | 27 | 26–29 | 25–30 | 25–30 | 24–31 |
 | [22–23 September 2018](2018-09-23-Tecnè.html) | Tecnè <br> Quarta Repubblica | 26 | 24–28 | 24–28 | 23–28 | 23–29 |
 | [21–23 September 2018](2018-09-23-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 25 | 23–27 | 23–27 | 22–28 | 21–29 |
@@ -262,7 +262,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [15–17 September 2018](2018-09-17-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 25 | 23–27 | 23–28 | 22–28 | 21–29 |
 | [17 September 2018](2018-09-17-Euromedia.html) | Euromedia <br> Rai 1 | 27 | 25–29 | 25–30 | 24–31 | 24–32 |
 | [14–15 September 2018](2018-09-15-Tecnè.html) | Tecnè <br> Quarta Repubblica | 25 | 23–26 | 23–27 | 22–27 | 22–28 |
-| [11–13 September 2018](2018-09-13-DemosPi.html) | Demos & Pi | 26 | 24–28 | 24–28 | 23–29 | 22–29 |
+| [11–13 September 2018](2018-09-13-DemosPi.html) | Demos & Pi | 26 | 24–28 | 24–28 | 23–29 | 22–30 |
 | [11–12 September 2018](2018-09-12-Demopolis.html) | Demopolis | 26 | 24–27 | 24–27 | 24–28 | 23–28 |
 | [5–10 September 2018](2018-09-10-SWG.html) | SWG <br> LA7 | 27 | 25–29 | 25–30 | 25–30 | 24–31 |
 | [10 September 2018](2018-09-10-Piepoli.html) | Piepoli <br> Rai 1 | 24 | 22–27 | 21–27 | 21–28 | 20–29 |
@@ -424,8 +424,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 22 | 2% | 99.7% |  |
 | 23 | 4% | 98% |  |
 | 24 | 10% | 94% |  |
-| 25 | 16% | 84% |  |
-| 26 | 22% | 68% | Median |
+| 25 | 17% | 83% |  |
+| 26 | 21% | 67% | Median |
 | 27 | 18% | 46% |  |
 | 28 | 12% | 28% |  |
 | 29 | 9% | 16% |  |

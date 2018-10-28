@@ -201,7 +201,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–3 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–4 |
 | [17–22 October 2018](2018-10-22-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0–3 |
 | [20–21 October 2018](2018-10-21-Tecnè.html) | Tecnè <br> Quarta Repubblica |  |  |  |  |  |
 | [19–21 October 2018](2018-10-21-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
@@ -235,7 +235,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [15–17 September 2018](2018-09-17-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 0 | 0 | 0 | 0 | 0 |
 | [17 September 2018](2018-09-17-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
 | [14–15 September 2018](2018-09-15-Tecnè.html) | Tecnè <br> Quarta Repubblica |  |  |  |  |  |
-| [11–13 September 2018](2018-09-13-DemosPi.html) | Demos & Pi | 0 | 0 | 0 | 0 | 0–4 |
+| [11–13 September 2018](2018-09-13-DemosPi.html) | Demos & Pi | 0 | 0 | 0 | 0 | 0–3 |
 | [11–12 September 2018](2018-09-12-Demopolis.html) | Demopolis |  |  |  |  |  |
 | [5–10 September 2018](2018-09-10-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
 | [10 September 2018](2018-09-10-Piepoli.html) | Piepoli <br> Rai 1 | 0 | 0 | 0 | 0 | 0–3 |

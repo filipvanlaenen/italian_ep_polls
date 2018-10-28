@@ -225,7 +225,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [30 September–1 October 2018](2018-10-01-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [1 October 2018](2018-10-01-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [24–28 September 2018](2018-09-28-BiDiMedia.html) | BiDiMedia | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [26 September 2018](2018-09-26-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0–3 | 0–4 | 0–4 |
+| [26 September 2018](2018-09-26-IndexResearch.html) | Index Research <br> LA7 | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [19–24 September 2018](2018-09-24-SWG.html) | SWG <br> LA7 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [22–23 September 2018](2018-09-23-Tecnè.html) | Tecnè <br> Quarta Repubblica | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [21–23 September 2018](2018-09-23-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
@@ -380,10 +380,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 68% | 100% | Last Result, Median |
-| 1 | 0% | 32% |  |
-| 2 | 0% | 32% |  |
-| 3 | 9% | 32% |  |
+| 0 | 69% | 100% | Last Result, Median |
+| 1 | 0% | 31% |  |
+| 2 | 0% | 31% |  |
+| 3 | 8% | 31% |  |
 | 4 | 19% | 23% |  |
 | 5 | 3% | 4% |  |
 | 6 | 0.4% | 0.4% |  |
