@@ -215,8 +215,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–4 |
 | [31 October–5 November 2018](2018-11-05-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
 | [2 November 2018](2018-11-02-Tecnè.html) | Tecnè <br> Quarta Repubblica |  |  |  |  |  |
-| [29–31 October 2018](2018-10-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0–3 | 0–4 | 0–4 |
-| [30–31 October 2018](2018-10-31-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0 | 0 | 0–3 |
+| [29–31 October 2018](2018-10-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0–4 |
+| [30–31 October 2018](2018-10-31-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0 | 0 | 0 |
 | [29–31 October 2018](2018-10-31-DemosPi.html) | Demos & Pi | 0 | 0 | 0 | 0 | 0 |
 | [24–29 October 2018](2018-10-29-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0–3 |
 | [27–29 October 2018](2018-10-29-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 0 | 0 | 0 | 0 | 0 |
@@ -399,11 +399,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98.6% | 100% | Last Result, Median |
-| 1 | 0% | 1.4% |  |
-| 2 | 0% | 1.4% |  |
-| 3 | 0.6% | 1.4% |  |
-| 4 | 0.7% | 0.7% |  |
+| 0 | 99.0% | 100% | Last Result, Median |
+| 1 | 0% | 1.0% |  |
+| 2 | 0% | 1.0% |  |
+| 3 | 0.5% | 1.0% |  |
+| 4 | 0.5% | 0.5% |  |
 | 5 | 0% | 0% |  |
 
 

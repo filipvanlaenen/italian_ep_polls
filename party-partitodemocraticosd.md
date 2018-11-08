@@ -243,10 +243,10 @@ Last result: **31** seats (General Election of 25 May 2014)
 | [29–31 October 2018](2018-10-31-DemosPi.html) | Demos & Pi | 13 | 12–14 | 12–15 | 11–15 | 11–16 |
 | [24–29 October 2018](2018-10-29-SWG.html) | SWG <br> LA7 | 14 | 13–15 | 12–16 | 12–16 | 11–16 |
 | [27–29 October 2018](2018-10-29-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 13 | 12–14 | 11–15 | 11–15 | 10–16 |
-| [25–27 October 2018](2018-10-27-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 15 | 14–16 | 14–16 | 14–16 | 13–17 |
-| [24–26 October 2018](2018-10-26-Ixè.html) | Ixè <br> Huffington Post | 14 | 13–16 | 12–16 | 12–16 | 12–17 |
+| [25–27 October 2018](2018-10-27-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 15 | 14–16 | 13–16 | 13–17 | 13–18 |
+| [24–26 October 2018](2018-10-26-Ixè.html) | Ixè <br> Huffington Post | 14 | 13–15 | 12–16 | 12–16 | 12–17 |
 | [22–26 October 2018](2018-10-26-BiDiMedia.html) | BiDiMedia | 15 | 13–16 | 13–16 | 13–17 | 12–18 |
-| [24–25 October 2018](2018-10-25-IndexResearch.html) | Index Research <br> LA7 | 14 | 12–15 | 12–15 | 11–16 | 11–17 |
+| [24–25 October 2018](2018-10-25-IndexResearch.html) | Index Research <br> LA7 | 14 | 12–15 | 12–16 | 12–16 | 11–17 |
 | [17–22 October 2018](2018-10-22-SWG.html) | SWG <br> LA7 | 14 | 13–15 | 13–16 | 12–16 | 12–17 |
 | [20–21 October 2018](2018-10-21-Tecnè.html) | Tecnè <br> Quarta Repubblica | 13 | 12–14 | 11–14 | 11–15 | 10–15 |
 | [19–21 October 2018](2018-10-21-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 14 | 13–15 | 12–16 | 12–16 | 11–17 |
@@ -425,12 +425,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0.1% | 100% |  |
 | 10 | 1.0% | 99.9% |  |
 | 11 | 5% | 98.9% |  |
-| 12 | 19% | 94% |  |
-| 13 | 29% | 75% | Median |
-| 14 | 23% | 46% |  |
-| 15 | 17% | 23% |  |
+| 12 | 18% | 94% |  |
+| 13 | 29% | 76% | Median |
+| 14 | 26% | 47% |  |
+| 15 | 16% | 22% |  |
 | 16 | 5% | 6% |  |
-| 17 | 0.6% | 0.8% |  |
+| 17 | 0.9% | 1.0% |  |
 | 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
 | 20 | 0% | 0% |  |
