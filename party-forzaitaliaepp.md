@@ -222,14 +222,14 @@ Last result: **13** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 8 | 6–9 | 6–10 | 5–10 | 5–11 |
 | [31 October–5 November 2018](2018-11-05-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
 | [2 November 2018](2018-11-02-Tecnè.html) | Tecnè <br> Quarta Repubblica | 9 | 8–10 | 7–10 | 7–11 | 7–11 |
-| [29–31 October 2018](2018-10-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 8 | 8–9 | 8–9 | 8–9 | 6–9 |
+| [29–31 October 2018](2018-10-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 8 | 7–8 | 6–9 | 6–9 | 6–10 |
 | [30–31 October 2018](2018-10-31-IndexResearch.html) | Index Research <br> LA7 | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
 | [29–31 October 2018](2018-10-31-DemosPi.html) | Demos & Pi | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
-| [24–29 October 2018](2018-10-29-SWG.html) | SWG <br> LA7 | 9 |  |  |  |  |
-| [27–29 October 2018](2018-10-29-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 8 | 7–10 | 7–10 | 7–10 | 7–11 |
-| [25–27 October 2018](2018-10-27-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
+| [24–29 October 2018](2018-10-29-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
+| [27–29 October 2018](2018-10-29-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 8 | 7–10 | 7–10 | 7–10 | 6–11 |
+| [25–27 October 2018](2018-10-27-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [24–26 October 2018](2018-10-26-Ixè.html) | Ixè <br> Huffington Post | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
-| [22–26 October 2018](2018-10-26-BiDiMedia.html) | BiDiMedia | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
+| [22–26 October 2018](2018-10-26-BiDiMedia.html) | BiDiMedia | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
 | [24–25 October 2018](2018-10-25-IndexResearch.html) | Index Research <br> LA7 | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
 | [17–22 October 2018](2018-10-22-SWG.html) | SWG <br> LA7 | 6 | 6–7 | 6–8 | 5–8 | 5–8 |
 | [20–21 October 2018](2018-10-21-Tecnè.html) | Tecnè <br> Quarta Repubblica | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
@@ -406,12 +406,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.1% | 100% |  |
-| 5 | 3% | 99.9% |  |
-| 6 | 15% | 97% |  |
-| 7 | 26% | 82% |  |
-| 8 | 36% | 57% | Median |
-| 9 | 14% | 21% |  |
+| 4 | 0.2% | 100% |  |
+| 5 | 3% | 99.8% |  |
+| 6 | 16% | 97% |  |
+| 7 | 30% | 80% |  |
+| 8 | 30% | 51% | Median |
+| 9 | 15% | 21% |  |
 | 10 | 5% | 6% |  |
 | 11 | 0.9% | 1.0% |  |
 | 12 | 0.1% | 0.1% |  |

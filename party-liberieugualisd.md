@@ -219,11 +219,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [29–31 October 2018](2018-10-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
 | [30–31 October 2018](2018-10-31-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0 | 0–3 | 0–4 |
 | [29–31 October 2018](2018-10-31-DemosPi.html) | Demos & Pi | 0 | 0 | 0 | 0–4 | 0–4 |
-| [24–29 October 2018](2018-10-29-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
-| [27–29 October 2018](2018-10-29-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 0 | 0 | 0 | 0 | 0 |
+| [24–29 October 2018](2018-10-29-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0–3 |
+| [27–29 October 2018](2018-10-29-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 0 | 0 | 0 | 0 | 0–3 |
 | [25–27 October 2018](2018-10-27-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 0 | 0 | 0 | 0 | 0 |
 | [24–26 October 2018](2018-10-26-Ixè.html) | Ixè <br> Huffington Post | 0 | 0 | 0 | 0 | 0 |
-| [22–26 October 2018](2018-10-26-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0–4 |
+| [22–26 October 2018](2018-10-26-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0–3 | 0–4 |
 | [24–25 October 2018](2018-10-25-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0 | 0–3 | 0–4 |
 | [17–22 October 2018](2018-10-22-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
 | [20–21 October 2018](2018-10-21-Tecnè.html) | Tecnè <br> Quarta Repubblica | 0 | 0 | 0 | 0 | 0–3 |
@@ -404,7 +404,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 6% |  |
 | 2 | 0% | 6% |  |
 | 3 | 2% | 6% |  |
-| 4 | 4% | 4% |  |
+| 4 | 4% | 5% |  |
 | 5 | 0.3% | 0.3% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |

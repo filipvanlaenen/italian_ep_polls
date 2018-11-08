@@ -224,14 +224,14 @@ Last result: **17** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 23 | 21–26 | 21–26 | 20–27 | 19–28 |
 | [31 October–5 November 2018](2018-11-05-SWG.html) | SWG <br> LA7 | 24 | 23–26 | 22–26 | 22–27 | 21–27 |
 | [2 November 2018](2018-11-02-Tecnè.html) | Tecnè <br> Quarta Repubblica | 21 | 20–23 | 19–24 | 19–24 | 18–25 |
-| [29–31 October 2018](2018-10-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 24 | 23–24 | 23–24 | 21–24 | 21–25 |
+| [29–31 October 2018](2018-10-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 25 | 23–27 | 22–27 | 22–27 | 21–28 |
 | [30–31 October 2018](2018-10-31-IndexResearch.html) | Index Research <br> LA7 | 22 | 20–23 | 20–24 | 19–25 | 18–25 |
 | [29–31 October 2018](2018-10-31-DemosPi.html) | Demos & Pi | 23 | 22–24 | 22–25 | 21–25 | 20–26 |
-| [24–29 October 2018](2018-10-29-SWG.html) | SWG <br> LA7 | 26 | 26 | 26 | 25–26 | 23–27 |
-| [27–29 October 2018](2018-10-29-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 25 | 23–27 | 22–28 | 22–28 | 21–29 |
-| [25–27 October 2018](2018-10-27-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 22 | 22–24 | 22–25 | 22–25 | 22–25 |
+| [24–29 October 2018](2018-10-29-SWG.html) | SWG <br> LA7 | 25 | 24–27 | 23–27 | 23–28 | 22–28 |
+| [27–29 October 2018](2018-10-29-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 25 | 23–27 | 23–28 | 22–28 | 22–29 |
+| [25–27 October 2018](2018-10-27-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 23 | 23–24 | 22–24 | 21–25 | 20–26 |
 | [24–26 October 2018](2018-10-26-Ixè.html) | Ixè <br> Huffington Post | 22 | 21–24 | 21–24 | 20–25 | 19–26 |
-| [22–26 October 2018](2018-10-26-BiDiMedia.html) | BiDiMedia | 23 | 22–25 | 21–25 | 21–26 | 20–26 |
+| [22–26 October 2018](2018-10-26-BiDiMedia.html) | BiDiMedia | 23 | 21–25 | 21–25 | 20–26 | 20–26 |
 | [24–25 October 2018](2018-10-25-IndexResearch.html) | Index Research <br> LA7 | 22 | 20–25 | 20–25 | 19–25 | 19–26 |
 | [17–22 October 2018](2018-10-22-SWG.html) | SWG <br> LA7 | 25 | 24–27 | 23–27 | 23–28 | 22–28 |
 | [20–21 October 2018](2018-10-21-Tecnè.html) | Tecnè <br> Quarta Repubblica | 22 | 20–23 | 20–24 | 19–24 | 19–25 |
@@ -410,17 +410,17 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 17 | 0% | 100% | Last Result |
 | 18 | 0.1% | 100% |  |
-| 19 | 0.8% | 99.9% |  |
-| 20 | 3% | 99.1% |  |
-| 21 | 8% | 96% |  |
-| 22 | 23% | 88% |  |
-| 23 | 19% | 65% | Median |
-| 24 | 21% | 46% |  |
-| 25 | 11% | 25% |  |
-| 26 | 11% | 14% |  |
-| 27 | 2% | 4% |  |
+| 19 | 0.9% | 99.8% |  |
+| 20 | 3% | 98.9% |  |
+| 21 | 9% | 96% |  |
+| 22 | 17% | 87% |  |
+| 23 | 22% | 70% | Median |
+| 24 | 21% | 49% |  |
+| 25 | 14% | 28% |  |
+| 26 | 9% | 14% |  |
+| 27 | 3% | 4% |  |
 | 28 | 1.0% | 1.2% |  |
-| 29 | 0.1% | 0.1% |  |
+| 29 | 0.2% | 0.2% |  |
 | 30 | 0% | 0% |  |
 
 

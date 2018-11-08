@@ -240,17 +240,17 @@ Last result: **5** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26 | 24–29 | 23–30 | 23–30 | 22–31 |
+| N/A | [Poll Average](average.html) | 26 | 24–29 | 23–30 | 23–30 | 22–32 |
 | [31 October–5 November 2018](2018-11-05-SWG.html) | SWG <br> LA7 | 26 | 24–27 | 24–28 | 23–28 | 22–29 |
 | [2 November 2018](2018-11-02-Tecnè.html) | Tecnè <br> Quarta Repubblica | 24 | 22–25 | 22–26 | 21–27 | 21–28 |
-| [29–31 October 2018](2018-10-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 30 | 29–30 | 28–30 | 28–30 | 28–31 |
+| [29–31 October 2018](2018-10-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 28 | 27–30 | 27–31 | 27–32 | 26–32 |
 | [30–31 October 2018](2018-10-31-IndexResearch.html) | Index Research <br> LA7 | 26 | 25–28 | 24–29 | 24–29 | 23–30 |
 | [29–31 October 2018](2018-10-31-DemosPi.html) | Demos & Pi | 25 | 24–26 | 23–27 | 23–27 | 22–28 |
-| [24–29 October 2018](2018-10-29-SWG.html) | SWG <br> LA7 | 26 | 26–27 | 26–27 | 25–27 | 24–27 |
-| [27–29 October 2018](2018-10-29-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 25 | 23–27 | 23–28 | 22–28 | 22–28 |
-| [25–27 October 2018](2018-10-27-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 26 | 25–27 | 25–27 | 25–27 | 25–28 |
+| [24–29 October 2018](2018-10-29-SWG.html) | SWG <br> LA7 | 27 | 25–28 | 25–29 | 24–29 | 23–30 |
+| [27–29 October 2018](2018-10-29-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 25 | 23–27 | 23–27 | 22–28 | 22–29 |
+| [25–27 October 2018](2018-10-27-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 29 | 27–29 | 26–30 | 26–30 | 25–30 |
 | [24–26 October 2018](2018-10-26-Ixè.html) | Ixè <br> Huffington Post | 27 | 25–28 | 24–28 | 24–28 | 23–30 |
-| [22–26 October 2018](2018-10-26-BiDiMedia.html) | BiDiMedia | 26 | 25–27 | 24–28 | 24–28 | 23–30 |
+| [22–26 October 2018](2018-10-26-BiDiMedia.html) | BiDiMedia | 26 | 24–28 | 23–28 | 23–29 | 22–30 |
 | [24–25 October 2018](2018-10-25-IndexResearch.html) | Index Research <br> LA7 | 26 | 24–28 | 23–29 | 23–29 | 22–30 |
 | [17–22 October 2018](2018-10-22-SWG.html) | SWG <br> LA7 | 26 | 25–28 | 24–29 | 24–29 | 23–30 |
 | [20–21 October 2018](2018-10-21-Tecnè.html) | Tecnè <br> Quarta Repubblica | 24 | 23–26 | 22–26 | 22–27 | 21–28 |
@@ -446,15 +446,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 21 | 0.2% | 100% |  |
 | 22 | 1.3% | 99.8% |  |
 | 23 | 4% | 98.5% |  |
-| 24 | 9% | 94% |  |
-| 25 | 22% | 85% |  |
-| 26 | 25% | 63% | Median |
-| 27 | 17% | 38% |  |
-| 28 | 9% | 21% |  |
-| 29 | 4% | 13% |  |
-| 30 | 8% | 9% |  |
-| 31 | 1.0% | 1.4% |  |
-| 32 | 0.3% | 0.4% |  |
+| 24 | 10% | 94% |  |
+| 25 | 18% | 84% |  |
+| 26 | 21% | 66% | Median |
+| 27 | 18% | 45% |  |
+| 28 | 12% | 27% |  |
+| 29 | 10% | 15% |  |
+| 30 | 3% | 5% |  |
+| 31 | 1.3% | 2% |  |
+| 32 | 0.5% | 0.7% |  |
 | 33 | 0.1% | 0.1% |  |
 | 34 | 0% | 0% |  |
 
