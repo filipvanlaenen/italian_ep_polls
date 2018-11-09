@@ -241,11 +241,11 @@ Last result: **5** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 26 | 24–29 | 23–30 | 23–30 | 22–32 |
-| [31 October–5 November 2018](2018-11-05-SWG.html) | SWG <br> LA7 | 26 | 24–27 | 24–28 | 23–28 | 22–29 |
+| [31 October–5 November 2018](2018-11-05-SWG.html) | SWG <br> LA7 | 26 | 24–28 | 24–28 | 23–28 | 23–29 |
 | [2 November 2018](2018-11-02-Tecnè.html) | Tecnè <br> Quarta Repubblica | 24 | 22–25 | 22–26 | 21–27 | 21–28 |
 | [29–31 October 2018](2018-10-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 29 | 27–30 | 27–31 | 26–31 | 26–32 |
 | [30–31 October 2018](2018-10-31-IndexResearch.html) | Index Research <br> LA7 | 26 | 25–28 | 24–29 | 24–29 | 23–30 |
-| [29–31 October 2018](2018-10-31-DemosPi.html) | Demos & Pi | 25 | 24–26 | 23–27 | 23–27 | 22–28 |
+| [29–31 October 2018](2018-10-31-DemosPi.html) | Demos & Pi | 25 | 24–27 | 23–27 | 23–28 | 22–29 |
 | [24–29 October 2018](2018-10-29-SWG.html) | SWG <br> LA7 | 27 | 25–28 | 25–29 | 24–29 | 23–30 |
 | [27–29 October 2018](2018-10-29-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 25 | 23–27 | 23–27 | 22–28 | 22–29 |
 | [25–27 October 2018](2018-10-27-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 28 | 26–29 | 26–30 | 26–30 | 25–31 |
@@ -445,12 +445,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 20 | 0% | 100% |  |
 | 21 | 0.2% | 100% |  |
 | 22 | 1.3% | 99.8% |  |
-| 23 | 4% | 98.5% |  |
-| 24 | 11% | 94% |  |
+| 23 | 4% | 98% |  |
+| 24 | 10% | 94% |  |
 | 25 | 18% | 84% |  |
-| 26 | 23% | 66% | Median |
-| 27 | 16% | 43% |  |
-| 28 | 12% | 26% |  |
+| 26 | 22% | 66% | Median |
+| 27 | 17% | 43% |  |
+| 28 | 13% | 26% |  |
 | 29 | 8% | 14% |  |
 | 30 | 4% | 6% |  |
 | 31 | 1.5% | 2% |  |

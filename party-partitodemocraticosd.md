@@ -236,11 +236,11 @@ Last result: **31** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 12–15 | 11–16 | 11–16 | 10–17 |
-| [31 October–5 November 2018](2018-11-05-SWG.html) | SWG <br> LA7 | 14 | 13–15 | 12–15 | 12–16 | 12–17 |
+| [31 October–5 November 2018](2018-11-05-SWG.html) | SWG <br> LA7 | 14 | 13–15 | 12–15 | 12–16 | 12–16 |
 | [2 November 2018](2018-11-02-Tecnè.html) | Tecnè <br> Quarta Repubblica | 13 | 12–14 | 11–15 | 11–15 | 10–16 |
 | [29–31 October 2018](2018-10-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 13 | 12–14 | 11–15 | 11–15 | 10–16 |
 | [30–31 October 2018](2018-10-31-IndexResearch.html) | Index Research <br> LA7 | 14 | 12–15 | 12–16 | 12–16 | 11–17 |
-| [29–31 October 2018](2018-10-31-DemosPi.html) | Demos & Pi | 13 | 12–14 | 12–15 | 11–15 | 11–16 |
+| [29–31 October 2018](2018-10-31-DemosPi.html) | Demos & Pi | 13 | 12–14 | 11–15 | 11–15 | 10–16 |
 | [24–29 October 2018](2018-10-29-SWG.html) | SWG <br> LA7 | 14 | 13–15 | 12–16 | 12–16 | 11–16 |
 | [27–29 October 2018](2018-10-29-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 13 | 12–14 | 11–15 | 11–15 | 10–16 |
 | [25–27 October 2018](2018-10-27-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 15 | 14–16 | 13–16 | 13–17 | 13–18 |
@@ -425,9 +425,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0.1% | 100% |  |
 | 10 | 1.0% | 99.9% |  |
 | 11 | 5% | 98.9% |  |
-| 12 | 18% | 94% |  |
+| 12 | 17% | 93% |  |
 | 13 | 29% | 76% | Median |
-| 14 | 26% | 47% |  |
+| 14 | 26% | 48% |  |
 | 15 | 16% | 22% |  |
 | 16 | 5% | 6% |  |
 | 17 | 0.9% | 1.0% |  |
