@@ -248,7 +248,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 26 | 24–29 | 23–30 | 23–30 | 22–32 |
 | [11–12 November 2018](2018-11-12-Tecnè.html) | Tecnè <br> Quarta Repubblica | 25 | 23–25 | 23–25 | 23–25 | 20–26 |
 | [10–12 November 2018](2018-11-12-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 26 | 26–28 | 26–28 | 26–29 | 26–29 |
-| [7–12 November 2018](2018-11-12-SWG.html) | SWG <br> LA7 | 27 | 24–29 | 24–30 | 24–30 | 24–30 |
+| [7–12 November 2018](2018-11-12-SWG.html) | SWG <br> LA7 | 27 | 26–28 | 25–29 | 25–29 | 24–30 |
 | [7–9 November 2018](2018-11-09-Ixè.html) | Ixè <br> Huffington Post | 25 | 23–25 | 23–25 | 21–25 | 21–27 |
 | [31 October–5 November 2018](2018-11-05-SWG.html) | SWG <br> LA7 | 26 | 24–28 | 24–28 | 23–29 | 23–29 |
 | [4–5 November 2018](2018-11-05-Demopolis.html) | Demopolis | 24 | 24–25 | 22–26 | 22–26 | 22–27 |
