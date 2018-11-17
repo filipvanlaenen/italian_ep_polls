@@ -11,7 +11,12 @@ Last result: **40.8%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17.3% | 15.5–19.1% | 15.0–19.6% | 14.5–20.1% | 13.6–21.0% |
+| [11–12 November 2018](2018-11-12-Tecnè.html) | Tecnè <br> Quarta Repubblica | 17.8% | 16.3–19.4% | 15.9–19.9% | 15.5–20.3% | 14.9–21.1% |
+| [10–12 November 2018](2018-11-12-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 18.7% | 17.5–20.1% | 17.1–20.5% | 16.8–20.8% | 16.2–21.5% |
+| [7–12 November 2018](2018-11-12-SWG.html) | SWG <br> LA7 | 18.1% | 16.9–19.5% | 16.6–19.8% | 16.3–20.2% | 15.7–20.8% |
+| [7–9 November 2018](2018-11-09-Ixè.html) | Ixè <br> Huffington Post | 17.5% | 16.0–19.8% | 14.8–19.8% | 14.8–21.0% | 13.6–21.0% |
 | [31 October–5 November 2018](2018-11-05-SWG.html) | SWG <br> LA7 | 17.5% | 16.3–18.9% | 16.0–19.2% | 15.7–19.6% | 15.1–20.2% |
+| [4–5 November 2018](2018-11-05-Demopolis.html) | Demopolis | 17.3% | N/A | N/A | N/A | N/A |
 | [2 November 2018](2018-11-02-Tecnè.html) | Tecnè <br> Quarta Repubblica | 17.6% | 16.0–19.5% | 15.5–20.0% | 15.2–20.4% | 14.4–21.3% |
 | [29–31 October 2018](2018-10-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 16.5% | 15.1–18.1% | 14.7–18.5% | 14.3–18.9% | 13.7–19.7% |
 | [30–31 October 2018](2018-10-31-IndexResearch.html) | Index Research <br> LA7 | 18.1% | 16.5–20.0% | 16.0–20.5% | 15.6–21.0% | 14.8–21.9% |
@@ -236,7 +241,12 @@ Last result: **31** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 12–15 | 11–16 | 11–16 | 10–17 |
+| [11–12 November 2018](2018-11-12-Tecnè.html) | Tecnè <br> Quarta Repubblica | 13 | 11–13 | 11–13 | 10–13 | 10–15 |
+| [10–12 November 2018](2018-11-12-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 16 | 14–16 | 14–16 | 14–16 | 14–16 |
+| [7–12 November 2018](2018-11-12-SWG.html) | SWG <br> LA7 | 14 | 12–16 | 12–16 | 12–16 | 12–17 |
+| [7–9 November 2018](2018-11-09-Ixè.html) | Ixè <br> Huffington Post |  |  |  |  |  |
 | [31 October–5 November 2018](2018-11-05-SWG.html) | SWG <br> LA7 | 14 | 13–15 | 12–15 | 12–16 | 12–16 |
+| [4–5 November 2018](2018-11-05-Demopolis.html) | Demopolis |  |  |  |  |  |
 | [2 November 2018](2018-11-02-Tecnè.html) | Tecnè <br> Quarta Repubblica | 13 | 12–14 | 11–15 | 11–15 | 10–16 |
 | [29–31 October 2018](2018-10-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 13 | 12–14 | 11–15 | 11–15 | 10–16 |
 | [30–31 October 2018](2018-10-31-IndexResearch.html) | Index Research <br> LA7 | 14 | 12–15 | 12–16 | 12–16 | 11–17 |
