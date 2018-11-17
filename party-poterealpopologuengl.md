@@ -14,7 +14,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [11–12 November 2018](2018-11-12-Tecnè.html) | Tecnè <br> Quarta Repubblica | 0.0% | N/A | N/A | N/A | N/A |
 | [10–12 November 2018](2018-11-12-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 1.6% | 1.2–2.1% | 1.2–2.3% | 1.1–2.4% | 0.9–2.6% |
 | [7–12 November 2018](2018-11-12-SWG.html) | SWG <br> LA7 | 2.5% | 2.0–3.1% | 1.9–3.2% | 1.8–3.4% | 1.6–3.7% |
-| [7–9 November 2018](2018-11-09-Ixè.html) | Ixè <br> Huffington Post | 1.9% | 1.2–2.9% | 1.2–2.9% | 1.2–3.3% | 0.8–3.3% |
+| [7–9 November 2018](2018-11-09-Ixè.html) | Ixè <br> Huffington Post | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–3.0% | 1.0–3.3% |
 | [31 October–5 November 2018](2018-11-05-SWG.html) | SWG <br> LA7 | 2.3% | 1.9–2.9% | 1.8–3.1% | 1.7–3.2% | 1.5–3.5% |
 | [4–5 November 2018](2018-11-05-Demopolis.html) | Demopolis | 0.0% | N/A | N/A | N/A | N/A |
 | [2 November 2018](2018-11-02-Tecnè.html) | Tecnè <br> Quarta Repubblica | 0.0% | N/A | N/A | N/A | N/A |
@@ -220,7 +220,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [11–12 November 2018](2018-11-12-Tecnè.html) | Tecnè <br> Quarta Repubblica |  |  |  |  |  |
 | [10–12 November 2018](2018-11-12-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 0 | 0 | 0 | 0 | 0 |
 | [7–12 November 2018](2018-11-12-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0–3 |
-| [7–9 November 2018](2018-11-09-Ixè.html) | Ixè <br> Huffington Post |  |  |  |  |  |
+| [7–9 November 2018](2018-11-09-Ixè.html) | Ixè <br> Huffington Post | 0 | 0 | 0 | 0 | 0 |
 | [31 October–5 November 2018](2018-11-05-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
 | [4–5 November 2018](2018-11-05-Demopolis.html) | Demopolis |  |  |  |  |  |
 | [2 November 2018](2018-11-02-Tecnè.html) | Tecnè <br> Quarta Repubblica |  |  |  |  |  |
