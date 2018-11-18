@@ -224,7 +224,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [7–12 November 2018](2018-11-12-SWG.html) | SWG <br> LA7 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [7–9 November 2018](2018-11-09-Ixè.html) | Ixè <br> Huffington Post | 3 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [31 October–5 November 2018](2018-11-05-SWG.html) | SWG <br> LA7 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [4–5 November 2018](2018-11-05-Demopolis.html) | Demopolis | 0 | 0 | 0 | 0 | 0–3 |
+| [4–5 November 2018](2018-11-05-Demopolis.html) | Demopolis | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [2 November 2018](2018-11-02-Tecnè.html) | Tecnè <br> Quarta Repubblica | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [29–31 October 2018](2018-10-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0–3 |
 | [30–31 October 2018](2018-10-31-IndexResearch.html) | Index Research <br> LA7 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
