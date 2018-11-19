@@ -246,10 +246,10 @@ Last result: **5** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 26 | 24–29 | 23–30 | 23–30 | 22–32 |
-| [11–12 November 2018](2018-11-12-Tecnè.html) | Tecnè <br> Quarta Repubblica | 24 | 22–25 | 22–26 | 21–26 | 21–27 |
-| [10–12 November 2018](2018-11-12-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 27 | 26–29 | 25–29 | 25–29 | 24–30 |
-| [7–12 November 2018](2018-11-12-SWG.html) | SWG <br> LA7 | 27 | 26–28 | 25–29 | 25–29 | 24–30 |
-| [7–9 November 2018](2018-11-09-Ixè.html) | Ixè <br> Huffington Post | 25 | 23–26 | 23–27 | 22–27 | 22–28 |
+| [11–12 November 2018](2018-11-12-Tecnè.html) | Tecnè <br> Quarta Repubblica | 24 | 22–26 | 22–26 | 22–26 | 21–27 |
+| [10–12 November 2018](2018-11-12-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 28 | 26–29 | 26–29 | 25–29 | 24–30 |
+| [7–12 November 2018](2018-11-12-SWG.html) | SWG <br> LA7 | 27 | 25–29 | 25–29 | 25–30 | 24–30 |
+| [7–9 November 2018](2018-11-09-Ixè.html) | Ixè <br> Huffington Post | 25 | 23–27 | 23–27 | 22–27 | 22–29 |
 | [31 October–5 November 2018](2018-11-05-SWG.html) | SWG <br> LA7 | 26 | 24–28 | 24–28 | 23–29 | 23–29 |
 | [4–5 November 2018](2018-11-05-Demopolis.html) | Demopolis | 24 | 22–25 | 22–26 | 22–26 | 21–27 |
 | [2 November 2018](2018-11-02-Tecnè.html) | Tecnè <br> Quarta Repubblica | 24 | 22–26 | 22–26 | 21–26 | 20–28 |

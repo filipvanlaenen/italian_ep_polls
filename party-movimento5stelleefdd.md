@@ -227,9 +227,9 @@ Last result: **17** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 23 | 21–26 | 21–26 | 20–27 | 19–28 |
-| [11–12 November 2018](2018-11-12-Tecnè.html) | Tecnè <br> Quarta Repubblica | 21 | 19–22 | 19–23 | 19–23 | 18–24 |
-| [10–12 November 2018](2018-11-12-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 23 | 22–25 | 21–25 | 21–25 | 20–26 |
-| [7–12 November 2018](2018-11-12-SWG.html) | SWG <br> LA7 | 24 | 22–25 | 21–26 | 21–26 | 21–26 |
+| [11–12 November 2018](2018-11-12-Tecnè.html) | Tecnè <br> Quarta Repubblica | 21 | 19–23 | 19–23 | 19–23 | 18–24 |
+| [10–12 November 2018](2018-11-12-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 23 | 21–24 | 21–25 | 21–25 | 20–26 |
+| [7–12 November 2018](2018-11-12-SWG.html) | SWG <br> LA7 | 23 | 22–25 | 21–25 | 21–26 | 20–27 |
 | [7–9 November 2018](2018-11-09-Ixè.html) | Ixè <br> Huffington Post | 22 | 20–23 | 20–24 | 19–24 | 18–25 |
 | [31 October–5 November 2018](2018-11-05-SWG.html) | SWG <br> LA7 | 24 | 22–26 | 22–26 | 22–27 | 21–27 |
 | [4–5 November 2018](2018-11-05-Demopolis.html) | Demopolis | 22 | 21–24 | 20–24 | 20–24 | 19–25 |
