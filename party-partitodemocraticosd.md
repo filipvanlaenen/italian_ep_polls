@@ -242,9 +242,9 @@ Last result: **31** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 12–15 | 11–16 | 11–16 | 10–17 |
 | [11–12 November 2018](2018-11-12-Tecnè.html) | Tecnè <br> Quarta Repubblica | 13 | 12–14 | 12–15 | 11–15 | 11–16 |
-| [10–12 November 2018](2018-11-12-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
+| [10–12 November 2018](2018-11-12-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 15 | 14–17 | 14–17 | 13–17 | 13–17 |
 | [7–12 November 2018](2018-11-12-SWG.html) | SWG <br> LA7 | 14 | 13–15 | 13–16 | 12–16 | 12–17 |
-| [7–9 November 2018](2018-11-09-Ixè.html) | Ixè <br> Huffington Post | 13 | 13–15 | 12–15 | 12–15 | 11–16 |
+| [7–9 November 2018](2018-11-09-Ixè.html) | Ixè <br> Huffington Post | 14 | 13–15 | 12–15 | 12–16 | 11–16 |
 | [31 October–5 November 2018](2018-11-05-SWG.html) | SWG <br> LA7 | 14 | 13–15 | 12–15 | 12–16 | 12–16 |
 | [4–5 November 2018](2018-11-05-Demopolis.html) | Demopolis | 13 | 11–14 | 11–14 | 11–14 | 10–15 |
 | [2 November 2018](2018-11-02-Tecnè.html) | Tecnè <br> Quarta Repubblica | 13 | 12–14 | 11–15 | 11–15 | 10–16 |
