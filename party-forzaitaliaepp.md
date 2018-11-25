@@ -10,7 +10,7 @@ Last result: **16.8%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.9% | 7.3–11.1% | 6.9–11.7% | 6.6–12.2% | 5.9–13.1% |
+| N/A | [Poll Average](average.html) | 9.1% | 7.3–11.2% | 6.9–11.8% | 6.5–12.3% | 5.9–13.2% |
 | [11–12 November 2018](2018-11-12-Tecnè.html) | Tecnè <br> Quarta Repubblica | 11.2% | 10.0–12.6% | 9.7–13.0% | 9.4–13.3% | 8.8–14.0% |
 | [10–12 November 2018](2018-11-12-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 9.6% | 8.7–10.7% | 8.4–10.9% | 8.2–11.2% | 7.8–11.7% |
 | [7–12 November 2018](2018-11-12-SWG.html) | SWG <br> LA7 | 7.4% | 6.6–8.3% | 6.4–8.6% | 6.2–8.8% | 5.8–9.3% |
@@ -203,13 +203,13 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0.2% | 100% |  |
 | 5.5–6.5% | 2% | 99.8% |  |
-| 6.5–7.5% | 12% | 98% |  |
-| 7.5–8.5% | 26% | 86% |  |
-| 8.5–9.5% | 26% | 60% | Median |
-| 9.5–10.5% | 18% | 34% |  |
-| 10.5–11.5% | 11% | 16% |  |
-| 11.5–12.5% | 4% | 6% |  |
-| 12.5–13.5% | 1.2% | 1.4% |  |
+| 6.5–7.5% | 11% | 97% |  |
+| 7.5–8.5% | 22% | 86% |  |
+| 8.5–9.5% | 25% | 64% | Median |
+| 9.5–10.5% | 20% | 38% |  |
+| 10.5–11.5% | 12% | 18% |  |
+| 11.5–12.5% | 5% | 7% |  |
+| 12.5–13.5% | 1.4% | 2% |  |
 | 13.5–14.5% | 0.2% | 0.2% |  |
 | 14.5–15.5% | 0% | 0% |  |
 | 15.5–16.5% | 0% | 0% |  |
@@ -224,7 +224,7 @@ Last result: **13** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–9 | 6–10 | 5–10 | 5–11 |
+| N/A | [Poll Average](average.html) | 8 | 6–9 | 6–10 | 5–10 | 5–11 |
 | [11–12 November 2018](2018-11-12-Tecnè.html) | Tecnè <br> Quarta Repubblica | 9 | 8–10 | 8–10 | 7–11 | 7–11 |
 | [10–12 November 2018](2018-11-12-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 8 | 7–9 | 7–9 | 7–10 | 7–10 |
 | [7–12 November 2018](2018-11-12-SWG.html) | SWG <br> LA7 | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
@@ -418,12 +418,12 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.2% | 100% |  |
 | 5 | 3% | 99.8% |  |
-| 6 | 16% | 97% |  |
-| 7 | 32% | 81% | Median |
-| 8 | 28% | 49% |  |
-| 9 | 16% | 22% |  |
+| 6 | 16% | 96% |  |
+| 7 | 28% | 80% |  |
+| 8 | 28% | 53% | Median |
+| 9 | 18% | 24% |  |
 | 10 | 5% | 6% |  |
-| 11 | 0.9% | 1.0% |  |
+| 11 | 0.9% | 1.1% |  |
 | 12 | 0.1% | 0.1% |  |
 | 13 | 0% | 0% | Last Result |
 
