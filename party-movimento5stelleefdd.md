@@ -10,11 +10,26 @@ Last result: **21.2%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.6% | 25.4–30.1% | 24.8–30.9% | 24.3–31.7% | 23.2–33.1% |
+| N/A | [Poll Average](average.html) | 27.1% | 25.0–29.8% | 24.4–30.8% | 23.9–31.7% | 22.9–33.2% |
+| [28–29 November 2018](2018-11-29-Demopolis.html) | Demopolis | 28.0% | 26.5–29.5% | 26.1–30.0% | 25.8–30.3% | 25.1–31.1% |
+| [26 November 2018](2018-11-26-Tecnè.html) | Tecnè <br> Quarta Repubblica | 25.8% | 23.9–27.9% | 23.4–28.5% | 22.9–29.0% | 22.0–30.0% |
+| [21–26 November 2018](2018-11-26-SWG.html) | SWG | 26.5% | 25.1–28.0% | 24.7–28.5% | 24.4–28.8% | 23.7–29.6% |
+| [22–24 November 2018](2018-11-24-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 26.3% | 24.9–27.8% | 24.5–28.3% | 24.2–28.6% | 23.5–29.4% |
+| [23 November 2018](2018-11-23-Tecnè.html) | Tecnè <br> TGcom24 | 25.8% | 23.8–27.8% | 23.3–28.4% | 22.8–28.9% | 21.9–29.9% |
+| [20–22 November 2018](2018-11-22-Ipsos.html) | Ipsos <br> Corriere della Sera | 27.7% | 25.9–29.6% | 25.4–30.1% | 25.0–30.6% | 24.2–31.5% |
+| [19–22 November 2018](2018-11-22-BiDiMedia.html) | BiDiMedia | 27.5% | 25.8–29.3% | 25.3–29.8% | 24.9–30.2% | 24.1–31.1% |
+| [20–21 November 2018](2018-11-21-IndexResearch.html) | Index Research <br> LA7 | 25.9% | 24.0–27.9% | 23.4–28.5% | 23.0–29.0% | 22.1–30.0% |
+| [20 November 2018](2018-11-20-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 26.3% | 25.0–27.8% | 24.6–28.2% | 24.2–28.5% | 23.6–29.2% |
+| [14–19 November 2018](2018-11-19-SWG.html) | SWG <br> LA7 | 26.4% | 25.0–27.9% | 24.6–28.3% | 24.2–28.7% | 23.5–29.4% |
+| [13–14 November 2018](2018-11-14-IndexResearch.html) | Index Research <br> LA7 | 26.0% | 24.1–28.1% | 23.5–28.7% | 23.1–29.2% | 22.2–30.2% |
+| [13 November 2018](2018-11-13-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 27.3% | 25.9–28.8% | 25.5–29.2% | 25.1–29.6% | 24.5–30.3% |
 | [11–12 November 2018](2018-11-12-Tecnè.html) | Tecnè <br> Quarta Repubblica | 26.6% | 24.9–28.5% | 24.4–29.0% | 23.9–29.4% | 23.1–30.3% |
 | [10–12 November 2018](2018-11-12-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 26.8% | 25.4–28.3% | 25.0–28.7% | 24.6–29.1% | 23.9–29.8% |
 | [7–12 November 2018](2018-11-12-SWG.html) | SWG <br> LA7 | 27.4% | 26.0–28.9% | 25.5–29.3% | 25.2–29.7% | 24.5–30.5% |
+| [12 November 2018](2018-11-12-Piepoli.html) | Piepoli <br> Rai 1 | 29.5% | 27.0–32.2% | 26.3–32.9% | 25.7–33.6% | 24.5–34.9% |
+| [12 November 2018](2018-11-12-Euromedia.html) | Euromedia <br> Rai 1 | 26.8% | 24.8–28.8% | 24.3–29.4% | 23.8–29.9% | 22.9–30.9% |
 | [7–9 November 2018](2018-11-09-Ixè.html) | Ixè <br> Huffington Post | 25.9% | 24.2–27.7% | 23.7–28.3% | 23.3–28.7% | 22.5–29.6% |
+| [6–7 November 2018](2018-11-07-IndexResearch.html) | Index Research <br> LA7 | 26.2% | 24.3–28.3% | 23.8–28.9% | 23.3–29.4% | 22.4–30.4% |
 | [31 October–5 November 2018](2018-11-05-SWG.html) | SWG <br> LA7 | 28.2% | 26.7–29.7% | 26.3–30.2% | 26.0–30.5% | 25.3–31.3% |
 | [4–5 November 2018](2018-11-05-Demopolis.html) | Demopolis | 28.5% | 26.9–30.2% | 26.4–30.7% | 26.0–31.1% | 25.2–32.0% |
 | [2 November 2018](2018-11-02-Tecnè.html) | Tecnè <br> Quarta Repubblica | 27.1% | 25.1–29.2% | 24.6–29.8% | 24.1–30.3% | 23.2–31.3% |
@@ -201,20 +216,20 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 20.5–21.5% | 0% | 100% | Last Result |
-| 21.5–22.5% | 0.1% | 100% |  |
-| 22.5–23.5% | 0.7% | 99.8% |  |
-| 23.5–24.5% | 3% | 99.1% |  |
-| 24.5–25.5% | 8% | 96% |  |
-| 25.5–26.5% | 16% | 88% |  |
-| 26.5–27.5% | 21% | 73% |  |
-| 27.5–28.5% | 20% | 52% | Median |
-| 28.5–29.5% | 15% | 31% |  |
-| 29.5–30.5% | 9% | 16% |  |
-| 30.5–31.5% | 4% | 7% |  |
+| 21.5–22.5% | 0.2% | 100% |  |
+| 22.5–23.5% | 1.2% | 99.7% |  |
+| 23.5–24.5% | 4% | 98.6% |  |
+| 24.5–25.5% | 12% | 94% |  |
+| 25.5–26.5% | 20% | 83% |  |
+| 26.5–27.5% | 23% | 62% | Median |
+| 27.5–28.5% | 17% | 40% |  |
+| 28.5–29.5% | 11% | 22% |  |
+| 29.5–30.5% | 6% | 12% |  |
+| 30.5–31.5% | 3% | 6% |  |
 | 31.5–32.5% | 2% | 3% |  |
-| 32.5–33.5% | 0.7% | 0.9% |  |
-| 33.5–34.5% | 0.2% | 0.3% |  |
-| 34.5–35.5% | 0% | 0.1% |  |
+| 32.5–33.5% | 0.7% | 1.1% |  |
+| 33.5–34.5% | 0.3% | 0.3% |  |
+| 34.5–35.5% | 0.1% | 0.1% |  |
 | 35.5–36.5% | 0% | 0% |  |
 
 
@@ -226,11 +241,26 @@ Last result: **17** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23 | 21–25 | 20–26 | 20–27 | 19–28 |
+| N/A | [Poll Average](average.html) | 22 | 20–25 | 20–25 | 19–26 | 18–28 |
+| [28–29 November 2018](2018-11-29-Demopolis.html) | Demopolis | 22 | 21–23 | 20–23 | 20–24 | 19–24 |
+| [26 November 2018](2018-11-26-Tecnè.html) | Tecnè <br> Quarta Repubblica | 20 | 18–22 | 18–22 | 18–23 | 17–23 |
+| [21–26 November 2018](2018-11-26-SWG.html) | SWG | 22 | 21–24 | 21–25 | 20–25 | 20–25 |
+| [22–24 November 2018](2018-11-24-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 23 | 21–24 | 21–25 | 21–25 | 20–26 |
+| [23 November 2018](2018-11-23-Tecnè.html) | Tecnè <br> TGcom24 | 20 | 18–22 | 18–22 | 17–22 | 17–23 |
+| [20–22 November 2018](2018-11-22-Ipsos.html) | Ipsos <br> Corriere della Sera | 22 | 21–24 | 21–24 | 20–25 | 20–27 |
+| [19–22 November 2018](2018-11-22-BiDiMedia.html) | BiDiMedia | 23 | 22–25 | 21–25 | 21–25 | 20–26 |
+| [20–21 November 2018](2018-11-21-IndexResearch.html) | Index Research <br> LA7 | 21 | 20–23 | 19–24 | 19–24 | 18–25 |
+| [20 November 2018](2018-11-20-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 22 | 21–24 | 20–24 | 20–25 | 20–25 |
+| [14–19 November 2018](2018-11-19-SWG.html) | SWG <br> LA7 | 23 | 21–24 | 20–24 | 20–25 | 20–26 |
+| [13–14 November 2018](2018-11-14-IndexResearch.html) | Index Research <br> LA7 | 21 | 19–23 | 19–24 | 18–24 | 18–25 |
+| [13 November 2018](2018-11-13-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 23 | 22–25 | 21–25 | 21–25 | 20–27 |
 | [11–12 November 2018](2018-11-12-Tecnè.html) | Tecnè <br> Quarta Repubblica | 21 | 19–23 | 19–23 | 19–23 | 18–24 |
 | [10–12 November 2018](2018-11-12-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 23 | 21–24 | 21–25 | 21–25 | 20–26 |
 | [7–12 November 2018](2018-11-12-SWG.html) | SWG <br> LA7 | 23 | 22–25 | 21–25 | 21–26 | 20–27 |
+| [12 November 2018](2018-11-12-Piepoli.html) | Piepoli <br> Rai 1 | 24 | 21–26 | 21–27 | 20–28 | 19–29 |
+| [12 November 2018](2018-11-12-Euromedia.html) | Euromedia <br> Rai 1 | 22 | 21–24 | 20–24 | 19–25 | 19–26 |
 | [7–9 November 2018](2018-11-09-Ixè.html) | Ixè <br> Huffington Post | 22 | 20–23 | 20–24 | 19–24 | 18–25 |
+| [6–7 November 2018](2018-11-07-IndexResearch.html) | Index Research <br> LA7 | 22 | 20–23 | 19–23 | 19–24 | 18–25 |
 | [31 October–5 November 2018](2018-11-05-SWG.html) | SWG <br> LA7 | 24 | 22–26 | 22–26 | 22–27 | 21–27 |
 | [4–5 November 2018](2018-11-05-Demopolis.html) | Demopolis | 22 | 21–24 | 20–24 | 20–24 | 19–25 |
 | [2 November 2018](2018-11-02-Tecnè.html) | Tecnè <br> Quarta Repubblica | 21 | 20–23 | 19–24 | 19–24 | 18–25 |
@@ -418,18 +448,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 17 | 0% | 100% | Last Result |
-| 18 | 0.3% | 100% |  |
-| 19 | 2% | 99.7% |  |
-| 20 | 6% | 98% |  |
-| 21 | 12% | 92% |  |
-| 22 | 20% | 80% |  |
-| 23 | 21% | 60% | Median |
-| 24 | 18% | 39% |  |
-| 25 | 12% | 21% |  |
-| 26 | 6% | 9% |  |
-| 27 | 2% | 3% |  |
-| 28 | 0.7% | 0.9% |  |
+| 17 | 0.2% | 100% | Last Result |
+| 18 | 0.9% | 99.8% |  |
+| 19 | 3% | 98.9% |  |
+| 20 | 7% | 96% |  |
+| 21 | 17% | 89% |  |
+| 22 | 24% | 72% | Median |
+| 23 | 18% | 47% |  |
+| 24 | 15% | 30% |  |
+| 25 | 10% | 14% |  |
+| 26 | 3% | 5% |  |
+| 27 | 1.3% | 2% |  |
+| 28 | 0.4% | 0.6% |  |
 | 29 | 0.2% | 0.2% |  |
 | 30 | 0% | 0% |  |
 
