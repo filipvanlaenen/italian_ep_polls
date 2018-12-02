@@ -232,7 +232,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0–3 | 0–4 | 0–4 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–4 | 0–4 |
 | [28–29 November 2018](2018-11-29-Demopolis.html) | Demopolis |  |  |  |  |  |
 | [26 November 2018](2018-11-26-Tecnè.html) | Tecnè <br> Quarta Repubblica |  |  |  |  |  |
 | [21–26 November 2018](2018-11-26-SWG.html) | SWG | 0 | 0 | 0 | 0 | 0 |
@@ -241,7 +241,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [20–22 November 2018](2018-11-22-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
 | [19–22 November 2018](2018-11-22-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
 | [20–21 November 2018](2018-11-21-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0 | 0 | 0 |
-| [20 November 2018](2018-11-20-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [20 November 2018](2018-11-20-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [14–19 November 2018](2018-11-19-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
 | [13–14 November 2018](2018-11-14-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0 | 0–3 | 0–4 |
 | [13 November 2018](2018-11-13-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0 | 0 | 0–3 | 0–4 | 0–4 |

@@ -268,7 +268,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [22–24 November 2018](2018-11-24-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 27 | 25–29 | 25–29 | 25–30 | 24–30 |
 | [23 November 2018](2018-11-23-Tecnè.html) | Tecnè <br> TGcom24 | 25 | 23–27 | 22–27 | 22–27 | 21–28 |
 | [20–22 November 2018](2018-11-22-Ipsos.html) | Ipsos <br> Corriere della Sera | 29 | 28–31 | 28–32 | 27–32 | 26–33 |
-| [19–22 November 2018](2018-11-22-BiDiMedia.html) | BiDiMedia | 25 | 24–26 | 23–27 | 23–28 | 22–28 |
+| [19–22 November 2018](2018-11-22-BiDiMedia.html) | BiDiMedia | 25 | 24–27 | 23–27 | 23–27 | 22–28 |
 | [20–21 November 2018](2018-11-21-IndexResearch.html) | Index Research <br> LA7 | 28 | 26–30 | 25–30 | 25–30 | 24–31 |
 | [20 November 2018](2018-11-20-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 26 | 25–28 | 24–28 | 24–29 | 23–30 |
 | [14–19 November 2018](2018-11-19-SWG.html) | SWG <br> LA7 | 28 | 26–30 | 26–30 | 25–31 | 25–32 |
@@ -487,9 +487,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 21 | 0.5% | 99.9% |  |
 | 22 | 2% | 99.4% |  |
 | 23 | 5% | 98% |  |
-| 24 | 14% | 92% |  |
-| 25 | 21% | 78% |  |
-| 26 | 18% | 57% | Median |
+| 24 | 15% | 92% |  |
+| 25 | 19% | 77% |  |
+| 26 | 19% | 58% | Median |
 | 27 | 16% | 39% |  |
 | 28 | 10% | 23% |  |
 | 29 | 6% | 13% |  |

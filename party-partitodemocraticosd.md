@@ -255,16 +255,16 @@ Last result: **31** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–15 | 12–16 | 11–16 | 10–17 |
+| N/A | [Poll Average](average.html) | 13 | 12–15 | 12–16 | 11–16 | 10–17 |
 | [28–29 November 2018](2018-11-29-Demopolis.html) | Demopolis | 13 | 12–14 | 12–14 | 11–15 | 11–15 |
 | [26 November 2018](2018-11-26-Tecnè.html) | Tecnè <br> Quarta Repubblica | 13 | 12–14 | 11–15 | 11–15 | 10–16 |
 | [21–26 November 2018](2018-11-26-SWG.html) | SWG | 14 | 13–16 | 13–16 | 13–17 | 12–17 |
 | [22–24 November 2018](2018-11-24-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 15 | 14–17 | 14–17 | 14–17 | 13–18 |
 | [23 November 2018](2018-11-23-Tecnè.html) | Tecnè <br> TGcom24 | 13 | 12–14 | 11–15 | 11–15 | 10–16 |
 | [20–22 November 2018](2018-11-22-Ipsos.html) | Ipsos <br> Corriere della Sera | 13 | 12–14 | 11–14 | 11–15 | 11–15 |
-| [19–22 November 2018](2018-11-22-BiDiMedia.html) | BiDiMedia | 14 | 12–15 | 12–16 | 12–16 | 12–17 |
+| [19–22 November 2018](2018-11-22-BiDiMedia.html) | BiDiMedia | 14 | 13–15 | 12–15 | 12–16 | 11–17 |
 | [20–21 November 2018](2018-11-21-IndexResearch.html) | Index Research <br> LA7 | 14 | 12–16 | 12–16 | 12–16 | 11–17 |
-| [20 November 2018](2018-11-20-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 15 | 14–16 | 13–16 | 13–17 | 12–17 |
+| [20 November 2018](2018-11-20-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 15 | 13–16 | 13–16 | 13–17 | 12–17 |
 | [14–19 November 2018](2018-11-19-SWG.html) | SWG <br> LA7 | 14 | 13–15 | 13–16 | 12–16 | 12–17 |
 | [13–14 November 2018](2018-11-14-IndexResearch.html) | Index Research <br> LA7 | 14 | 12–15 | 12–16 | 12–16 | 11–17 |
 | [13 November 2018](2018-11-13-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 14 | 12–15 | 12–16 | 12–17 | 12–17 |
@@ -465,11 +465,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0.1% | 100% |  |
 | 10 | 0.5% | 99.9% |  |
 | 11 | 4% | 99.4% |  |
-| 12 | 17% | 95% |  |
-| 13 | 28% | 78% |  |
-| 14 | 24% | 50% | Median |
-| 15 | 18% | 27% |  |
-| 16 | 7% | 9% |  |
+| 12 | 16% | 95% |  |
+| 13 | 29% | 79% | Median |
+| 14 | 25% | 50% |  |
+| 15 | 17% | 25% |  |
+| 16 | 6% | 8% |  |
 | 17 | 2% | 2% |  |
 | 18 | 0.1% | 0.2% |  |
 | 19 | 0% | 0% |  |

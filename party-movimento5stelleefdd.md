@@ -248,9 +248,9 @@ Last result: **17** seats (General Election of 25 May 2014)
 | [22–24 November 2018](2018-11-24-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 23 | 21–24 | 21–25 | 21–25 | 20–26 |
 | [23 November 2018](2018-11-23-Tecnè.html) | Tecnè <br> TGcom24 | 20 | 18–22 | 18–22 | 17–22 | 17–23 |
 | [20–22 November 2018](2018-11-22-Ipsos.html) | Ipsos <br> Corriere della Sera | 22 | 21–24 | 21–24 | 20–25 | 20–27 |
-| [19–22 November 2018](2018-11-22-BiDiMedia.html) | BiDiMedia | 23 | 22–25 | 21–25 | 21–25 | 20–26 |
+| [19–22 November 2018](2018-11-22-BiDiMedia.html) | BiDiMedia | 23 | 21–25 | 21–25 | 21–25 | 20–26 |
 | [20–21 November 2018](2018-11-21-IndexResearch.html) | Index Research <br> LA7 | 21 | 20–23 | 19–24 | 19–24 | 18–25 |
-| [20 November 2018](2018-11-20-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 22 | 21–24 | 20–24 | 20–25 | 20–25 |
+| [20 November 2018](2018-11-20-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 22 | 21–24 | 20–24 | 20–24 | 19–25 |
 | [14–19 November 2018](2018-11-19-SWG.html) | SWG <br> LA7 | 23 | 21–24 | 20–24 | 20–25 | 20–26 |
 | [13–14 November 2018](2018-11-14-IndexResearch.html) | Index Research <br> LA7 | 21 | 19–23 | 19–24 | 18–24 | 18–25 |
 | [13 November 2018](2018-11-13-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 23 | 22–25 | 21–25 | 21–25 | 20–27 |
@@ -451,12 +451,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 0.2% | 100% | Last Result |
 | 18 | 0.9% | 99.8% |  |
 | 19 | 3% | 98.9% |  |
-| 20 | 7% | 96% |  |
-| 21 | 17% | 89% |  |
-| 22 | 24% | 72% | Median |
-| 23 | 18% | 47% |  |
-| 24 | 15% | 30% |  |
-| 25 | 10% | 14% |  |
+| 20 | 8% | 96% |  |
+| 21 | 17% | 88% |  |
+| 22 | 24% | 71% | Median |
+| 23 | 19% | 47% |  |
+| 24 | 15% | 28% |  |
+| 25 | 8% | 13% |  |
 | 26 | 3% | 5% |  |
 | 27 | 1.3% | 2% |  |
 | 28 | 0.4% | 0.6% |  |
