@@ -250,12 +250,12 @@ Last result: **13** seats (General Election of 25 May 2014)
 | [20–21 November 2018](2018-11-21-IndexResearch.html) | Index Research <br> LA7 | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
 | [20 November 2018](2018-11-20-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
 | [14–19 November 2018](2018-11-19-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–8 | 5–8 | 5–8 |
-| [13–14 November 2018](2018-11-14-IndexResearch.html) | Index Research <br> LA7 | 6 | 5–7 | 5–7 | 4–8 | 4–8 |
+| [13–14 November 2018](2018-11-14-IndexResearch.html) | Index Research <br> LA7 | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
 | [13 November 2018](2018-11-13-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [11–12 November 2018](2018-11-12-Tecnè.html) | Tecnè <br> Quarta Repubblica | 9 | 8–10 | 8–10 | 7–11 | 7–11 |
 | [10–12 November 2018](2018-11-12-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 8 | 7–9 | 7–9 | 7–10 | 7–10 |
 | [7–12 November 2018](2018-11-12-SWG.html) | SWG <br> LA7 | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
-| [12 November 2018](2018-11-12-Piepoli.html) | Piepoli <br> Rai 1 | 9 | 7–10 | 7–10 | 6–11 | 6–12 |
+| [12 November 2018](2018-11-12-Piepoli.html) | Piepoli <br> Rai 1 | 9 | 7–10 | 7–11 | 7–11 | 6–12 |
 | [12 November 2018](2018-11-12-Euromedia.html) | Euromedia <br> Rai 1 | 9 | 8–10 | 7–10 | 7–11 | 7–11 |
 | [7–9 November 2018](2018-11-09-Ixè.html) | Ixè <br> Huffington Post | 8 | 7–9 | 7–9 | 6–10 | 6–10 |
 | [6–7 November 2018](2018-11-07-IndexResearch.html) | Index Research <br> LA7 | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
@@ -450,10 +450,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 2% | 99.9% |  |
 | 6 | 15% | 98% |  |
 | 7 | 29% | 83% |  |
-| 8 | 29% | 54% | Median |
-| 9 | 19% | 25% |  |
-| 10 | 5% | 6% |  |
-| 11 | 0.9% | 1.0% |  |
+| 8 | 28% | 54% | Median |
+| 9 | 19% | 26% |  |
+| 10 | 5% | 7% |  |
+| 11 | 1.0% | 1.1% |  |
 | 12 | 0.1% | 0.1% |  |
 | 13 | 0% | 0% | Last Result |
 

@@ -241,7 +241,7 @@ Last result: **17** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22 | 20–25 | 20–25 | 19–26 | 18–28 |
+| N/A | [Poll Average](average.html) | 22 | 20–25 | 20–26 | 19–26 | 18–28 |
 | [28–29 November 2018](2018-11-29-Demopolis.html) | Demopolis | 22 | 21–23 | 20–23 | 20–24 | 19–24 |
 | [26 November 2018](2018-11-26-Tecnè.html) | Tecnè <br> Quarta Repubblica | 20 | 18–22 | 18–22 | 18–23 | 17–23 |
 | [21–26 November 2018](2018-11-26-SWG.html) | SWG | 22 | 21–24 | 21–25 | 20–25 | 20–25 |
@@ -252,12 +252,12 @@ Last result: **17** seats (General Election of 25 May 2014)
 | [20–21 November 2018](2018-11-21-IndexResearch.html) | Index Research <br> LA7 | 21 | 20–23 | 19–24 | 19–24 | 18–25 |
 | [20 November 2018](2018-11-20-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 22 | 21–24 | 20–24 | 20–24 | 19–25 |
 | [14–19 November 2018](2018-11-19-SWG.html) | SWG <br> LA7 | 23 | 21–24 | 20–24 | 20–25 | 20–26 |
-| [13–14 November 2018](2018-11-14-IndexResearch.html) | Index Research <br> LA7 | 21 | 19–23 | 19–24 | 18–24 | 18–25 |
+| [13–14 November 2018](2018-11-14-IndexResearch.html) | Index Research <br> LA7 | 21 | 19–23 | 19–23 | 19–24 | 18–25 |
 | [13 November 2018](2018-11-13-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 23 | 22–25 | 21–25 | 21–25 | 20–27 |
 | [11–12 November 2018](2018-11-12-Tecnè.html) | Tecnè <br> Quarta Repubblica | 21 | 19–23 | 19–23 | 19–23 | 18–24 |
 | [10–12 November 2018](2018-11-12-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 23 | 21–24 | 21–25 | 21–25 | 20–26 |
 | [7–12 November 2018](2018-11-12-SWG.html) | SWG <br> LA7 | 23 | 22–25 | 21–25 | 21–26 | 20–27 |
-| [12 November 2018](2018-11-12-Piepoli.html) | Piepoli <br> Rai 1 | 24 | 21–26 | 21–27 | 20–28 | 19–29 |
+| [12 November 2018](2018-11-12-Piepoli.html) | Piepoli <br> Rai 1 | 24 | 22–27 | 21–27 | 21–28 | 20–29 |
 | [12 November 2018](2018-11-12-Euromedia.html) | Euromedia <br> Rai 1 | 22 | 21–24 | 20–24 | 19–25 | 19–26 |
 | [7–9 November 2018](2018-11-09-Ixè.html) | Ixè <br> Huffington Post | 22 | 20–23 | 20–24 | 19–24 | 18–25 |
 | [6–7 November 2018](2018-11-07-IndexResearch.html) | Index Research <br> LA7 | 22 | 20–23 | 19–23 | 19–24 | 18–25 |
@@ -453,13 +453,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 3% | 98.9% |  |
 | 20 | 8% | 96% |  |
 | 21 | 17% | 88% |  |
-| 22 | 24% | 71% | Median |
-| 23 | 19% | 47% |  |
-| 24 | 15% | 28% |  |
+| 22 | 24% | 72% | Median |
+| 23 | 19% | 48% |  |
+| 24 | 15% | 29% |  |
 | 25 | 8% | 13% |  |
 | 26 | 3% | 5% |  |
-| 27 | 1.3% | 2% |  |
-| 28 | 0.4% | 0.6% |  |
+| 27 | 2% | 2% |  |
+| 28 | 0.5% | 0.7% |  |
 | 29 | 0.2% | 0.2% |  |
 | 30 | 0% | 0% |  |
 
