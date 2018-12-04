@@ -249,7 +249,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [10–12 November 2018](2018-11-12-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 0 | 0 | 0 | 0 | 0 |
 | [7–12 November 2018](2018-11-12-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
 | [12 November 2018](2018-11-12-Piepoli.html) | Piepoli <br> Rai 1 | 0 | 0 | 0 | 0–3 | 0–4 |
-| [12 November 2018](2018-11-12-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0–3 | 0–4 |
+| [12 November 2018](2018-11-12-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0–3 | 0–3 | 0–4 |
 | [7–9 November 2018](2018-11-09-Ixè.html) | Ixè <br> Huffington Post | 0 | 0 | 0 | 0 | 0–3 |
 | [6–7 November 2018](2018-11-07-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0–3 | 0–3 | 0–4 |
 | [31 October–5 November 2018](2018-11-05-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
@@ -443,7 +443,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 5% |  |
 | 2 | 0% | 5% |  |
 | 3 | 2% | 5% |  |
-| 4 | 2% | 3% |  |
-| 5 | 0% | 0% |  |
+| 4 | 3% | 3% |  |
+| 5 | 0.1% | 0.1% |  |
+| 6 | 0% | 0% |  |
 
 
