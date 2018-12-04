@@ -245,7 +245,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [20 November 2018](2018-11-20-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [14–19 November 2018](2018-11-19-SWG.html) | SWG <br> LA7 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [13–14 November 2018](2018-11-14-IndexResearch.html) | Index Research <br> LA7 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [13 November 2018](2018-11-13-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [13 November 2018](2018-11-13-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [11–12 November 2018](2018-11-12-Tecnè.html) | Tecnè <br> Quarta Repubblica | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [10–12 November 2018](2018-11-12-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [7–12 November 2018](2018-11-12-SWG.html) | SWG <br> LA7 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
@@ -444,7 +444,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 37% |  |
 | 2 | 0% | 37% |  |
 | 3 | 13% | 37% |  |
-| 4 | 22% | 25% |  |
+| 4 | 21% | 24% |  |
 | 5 | 2% | 2% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |

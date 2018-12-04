@@ -264,8 +264,8 @@ Last result: **5** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 26 | 24–29 | 23–30 | 23–31 | 22–32 |
 | [28–29 November 2018](2018-11-29-Demopolis.html) | Demopolis | 25 | 24–26 | 23–27 | 23–27 | 22–28 |
 | [26 November 2018](2018-11-26-Tecnè.html) | Tecnè <br> Quarta Repubblica | 25 | 23–26 | 22–27 | 22–27 | 21–28 |
-| [21–26 November 2018](2018-11-26-SWG.html) | SWG | 27 | 25–28 | 25–29 | 24–29 | 24–30 |
-| [22–24 November 2018](2018-11-24-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 27 | 25–29 | 25–29 | 25–30 | 24–30 |
+| [21–26 November 2018](2018-11-26-SWG.html) | SWG | 27 | 25–29 | 25–29 | 24–30 | 24–30 |
+| [22–24 November 2018](2018-11-24-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 27 | 26–29 | 25–29 | 25–30 | 24–30 |
 | [23 November 2018](2018-11-23-Tecnè.html) | Tecnè <br> TGcom24 | 25 | 23–27 | 22–27 | 22–27 | 21–28 |
 | [20–22 November 2018](2018-11-22-Ipsos.html) | Ipsos <br> Corriere della Sera | 29 | 28–31 | 28–32 | 27–32 | 26–33 |
 | [19–22 November 2018](2018-11-22-BiDiMedia.html) | BiDiMedia | 25 | 24–27 | 23–27 | 23–27 | 22–28 |
@@ -273,7 +273,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [20 November 2018](2018-11-20-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 26 | 25–28 | 24–28 | 24–29 | 23–30 |
 | [14–19 November 2018](2018-11-19-SWG.html) | SWG <br> LA7 | 28 | 26–30 | 26–30 | 25–31 | 25–32 |
 | [13–14 November 2018](2018-11-14-IndexResearch.html) | Index Research <br> LA7 | 27 | 25–29 | 25–29 | 24–30 | 23–31 |
-| [13 November 2018](2018-11-13-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 26 | 25–28 | 24–28 | 24–29 | 23–30 |
+| [13 November 2018](2018-11-13-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 26 | 24–27 | 24–28 | 24–29 | 23–30 |
 | [11–12 November 2018](2018-11-12-Tecnè.html) | Tecnè <br> Quarta Repubblica | 24 | 22–26 | 22–26 | 22–26 | 21–27 |
 | [10–12 November 2018](2018-11-12-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 28 | 26–29 | 26–29 | 25–29 | 24–30 |
 | [7–12 November 2018](2018-11-12-SWG.html) | SWG <br> LA7 | 27 | 25–29 | 25–29 | 25–30 | 24–30 |
@@ -488,11 +488,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 22 | 2% | 99.7% |  |
 | 23 | 5% | 98% |  |
 | 24 | 14% | 93% |  |
-| 25 | 20% | 79% |  |
-| 26 | 19% | 59% | Median |
+| 25 | 19% | 79% |  |
+| 26 | 20% | 60% | Median |
 | 27 | 16% | 40% |  |
 | 28 | 10% | 24% |  |
-| 29 | 6% | 14% |  |
+| 29 | 7% | 14% |  |
 | 30 | 4% | 7% |  |
 | 31 | 2% | 3% |  |
 | 32 | 0.6% | 0.9% |  |

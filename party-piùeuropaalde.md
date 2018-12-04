@@ -235,8 +235,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–3 |
 | [28–29 November 2018](2018-11-29-Demopolis.html) | Demopolis |  |  |  |  |  |
 | [26 November 2018](2018-11-26-Tecnè.html) | Tecnè <br> Quarta Repubblica |  |  |  |  |  |
-| [21–26 November 2018](2018-11-26-SWG.html) | SWG | 0 | 0 | 0 | 0 | 0–4 |
-| [22–24 November 2018](2018-11-24-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 0 | 0 | 0 | 0 | 0 |
+| [21–26 November 2018](2018-11-26-SWG.html) | SWG | 0 | 0 | 0 | 0 | 0–3 |
+| [22–24 November 2018](2018-11-24-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 0 | 0 | 0 | 0 | 0–3 |
 | [23 November 2018](2018-11-23-Tecnè.html) | Tecnè <br> TGcom24 |  |  |  |  |  |
 | [20–22 November 2018](2018-11-22-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
 | [19–22 November 2018](2018-11-22-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
