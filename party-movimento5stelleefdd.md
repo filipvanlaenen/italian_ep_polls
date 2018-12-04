@@ -247,7 +247,7 @@ Last result: **17** seats (General Election of 25 May 2014)
 | [21–26 November 2018](2018-11-26-SWG.html) | SWG | 22 | 21–24 | 21–25 | 21–25 | 20–26 |
 | [22–24 November 2018](2018-11-24-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 23 | 21–24 | 21–25 | 21–25 | 20–26 |
 | [23 November 2018](2018-11-23-Tecnè.html) | Tecnè <br> TGcom24 | 20 | 18–22 | 18–22 | 17–22 | 17–23 |
-| [20–22 November 2018](2018-11-22-Ipsos.html) | Ipsos <br> Corriere della Sera | 22 | 21–24 | 21–24 | 20–25 | 20–27 |
+| [20–22 November 2018](2018-11-22-Ipsos.html) | Ipsos <br> Corriere della Sera | 23 | 21–24 | 21–25 | 20–25 | 20–26 |
 | [19–22 November 2018](2018-11-22-BiDiMedia.html) | BiDiMedia | 23 | 21–25 | 21–25 | 21–25 | 20–26 |
 | [20–21 November 2018](2018-11-21-IndexResearch.html) | Index Research <br> LA7 | 21 | 20–23 | 19–24 | 19–24 | 18–25 |
 | [20 November 2018](2018-11-20-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 22 | 21–24 | 20–24 | 20–24 | 19–25 |
@@ -260,7 +260,7 @@ Last result: **17** seats (General Election of 25 May 2014)
 | [12 November 2018](2018-11-12-Piepoli.html) | Piepoli <br> Rai 1 | 24 | 22–27 | 21–27 | 21–28 | 20–29 |
 | [12 November 2018](2018-11-12-Euromedia.html) | Euromedia <br> Rai 1 | 22 | 20–24 | 20–24 | 19–25 | 18–26 |
 | [7–9 November 2018](2018-11-09-Ixè.html) | Ixè <br> Huffington Post | 22 | 20–23 | 20–24 | 19–24 | 18–25 |
-| [6–7 November 2018](2018-11-07-IndexResearch.html) | Index Research <br> LA7 | 22 | 20–23 | 19–23 | 19–24 | 18–25 |
+| [6–7 November 2018](2018-11-07-IndexResearch.html) | Index Research <br> LA7 | 21 | 20–23 | 19–24 | 19–24 | 18–25 |
 | [31 October–5 November 2018](2018-11-05-SWG.html) | SWG <br> LA7 | 24 | 22–26 | 22–26 | 22–27 | 21–27 |
 | [4–5 November 2018](2018-11-05-Demopolis.html) | Demopolis | 22 | 21–24 | 20–24 | 20–24 | 19–25 |
 | [2 November 2018](2018-11-02-Tecnè.html) | Tecnè <br> Quarta Repubblica | 21 | 20–23 | 19–24 | 19–24 | 18–25 |
@@ -456,9 +456,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 22 | 25% | 73% | Median |
 | 23 | 21% | 48% |  |
 | 24 | 13% | 27% |  |
-| 25 | 8% | 13% |  |
+| 25 | 8% | 14% |  |
 | 26 | 3% | 5% |  |
-| 27 | 2% | 2% |  |
+| 27 | 1.5% | 2% |  |
 | 28 | 0.5% | 0.7% |  |
 | 29 | 0.2% | 0.2% |  |
 | 30 | 0% | 0% |  |

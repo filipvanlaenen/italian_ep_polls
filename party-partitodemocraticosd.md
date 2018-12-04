@@ -255,13 +255,13 @@ Last result: **31** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–15 | 11–16 | 11–16 | 10–17 |
+| N/A | [Poll Average](average.html) | 13 | 12–15 | 11–16 | 11–16 | 10–17 |
 | [28–29 November 2018](2018-11-29-Demopolis.html) | Demopolis | 13 | 12–14 | 12–14 | 11–15 | 11–15 |
 | [26 November 2018](2018-11-26-Tecnè.html) | Tecnè <br> Quarta Repubblica | 13 | 12–14 | 11–15 | 11–15 | 10–16 |
 | [21–26 November 2018](2018-11-26-SWG.html) | SWG | 14 | 13–16 | 13–16 | 13–16 | 12–17 |
 | [22–24 November 2018](2018-11-24-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 15 | 14–17 | 14–17 | 14–17 | 13–18 |
 | [23 November 2018](2018-11-23-Tecnè.html) | Tecnè <br> TGcom24 | 13 | 12–14 | 11–15 | 11–15 | 10–16 |
-| [20–22 November 2018](2018-11-22-Ipsos.html) | Ipsos <br> Corriere della Sera | 13 | 12–14 | 11–14 | 11–15 | 11–15 |
+| [20–22 November 2018](2018-11-22-Ipsos.html) | Ipsos <br> Corriere della Sera | 13 | 12–14 | 11–14 | 11–15 | 10–16 |
 | [19–22 November 2018](2018-11-22-BiDiMedia.html) | BiDiMedia | 14 | 13–15 | 12–15 | 12–16 | 11–17 |
 | [20–21 November 2018](2018-11-21-IndexResearch.html) | Index Research <br> LA7 | 14 | 12–16 | 12–16 | 12–16 | 11–17 |
 | [20 November 2018](2018-11-20-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 15 | 13–16 | 13–16 | 13–17 | 12–17 |
@@ -463,11 +463,11 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 9 | 0.1% | 100% |  |
-| 10 | 0.6% | 99.9% |  |
-| 11 | 5% | 99.3% |  |
+| 10 | 0.7% | 99.9% |  |
+| 11 | 5% | 99.2% |  |
 | 12 | 17% | 95% |  |
-| 13 | 28% | 78% |  |
-| 14 | 26% | 50% | Median |
+| 13 | 28% | 78% | Median |
+| 14 | 25% | 50% |  |
 | 15 | 16% | 24% |  |
 | 16 | 7% | 8% |  |
 | 17 | 2% | 2% |  |
