@@ -240,7 +240,7 @@ Last result: **13** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 6–9 | 6–10 | 6–10 | 5–11 |
-| [28–29 November 2018](2018-11-29-Demopolis.html) | Demopolis | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
+| [28–29 November 2018](2018-11-29-Demopolis.html) | Demopolis | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | [26 November 2018](2018-11-26-Tecnè.html) | Tecnè <br> Quarta Repubblica | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
 | [21–26 November 2018](2018-11-26-SWG.html) | SWG | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [22–24 November 2018](2018-11-24-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 8 | 8–9 | 7–10 | 7–10 | 7–11 |
@@ -249,9 +249,9 @@ Last result: **13** seats (General Election of 25 May 2014)
 | [19–22 November 2018](2018-11-22-BiDiMedia.html) | BiDiMedia | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | [20–21 November 2018](2018-11-21-IndexResearch.html) | Index Research <br> LA7 | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
 | [20 November 2018](2018-11-20-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
-| [14–19 November 2018](2018-11-19-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–8 | 5–8 | 5–8 |
+| [14–19 November 2018](2018-11-19-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | [13–14 November 2018](2018-11-14-IndexResearch.html) | Index Research <br> LA7 | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
-| [13 November 2018](2018-11-13-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 7 | 6–7 | 6–8 | 6–8 | 5–9 |
+| [13 November 2018](2018-11-13-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [11–12 November 2018](2018-11-12-Tecnè.html) | Tecnè <br> Quarta Repubblica | 9 | 8–10 | 8–10 | 7–11 | 7–11 |
 | [10–12 November 2018](2018-11-12-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 8 | 7–9 | 7–9 | 7–10 | 7–10 |
 | [7–12 November 2018](2018-11-12-SWG.html) | SWG <br> LA7 | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
@@ -449,7 +449,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0.1% | 100% |  |
 | 5 | 2% | 99.9% |  |
 | 6 | 15% | 98% |  |
-| 7 | 29% | 83% |  |
+| 7 | 29% | 82% |  |
 | 8 | 28% | 53% | Median |
 | 9 | 18% | 25% |  |
 | 10 | 6% | 7% |  |

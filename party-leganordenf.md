@@ -271,9 +271,9 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [19–22 November 2018](2018-11-22-BiDiMedia.html) | BiDiMedia | 25 | 24–27 | 23–27 | 23–27 | 22–28 |
 | [20–21 November 2018](2018-11-21-IndexResearch.html) | Index Research <br> LA7 | 28 | 26–30 | 25–30 | 25–30 | 24–31 |
 | [20 November 2018](2018-11-20-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 26 | 25–28 | 24–28 | 24–29 | 23–30 |
-| [14–19 November 2018](2018-11-19-SWG.html) | SWG <br> LA7 | 28 | 26–30 | 26–30 | 25–31 | 25–32 |
+| [14–19 November 2018](2018-11-19-SWG.html) | SWG <br> LA7 | 28 | 26–30 | 26–30 | 26–31 | 25–32 |
 | [13–14 November 2018](2018-11-14-IndexResearch.html) | Index Research <br> LA7 | 27 | 25–29 | 25–29 | 24–30 | 23–31 |
-| [13 November 2018](2018-11-13-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 26 | 24–27 | 24–28 | 24–29 | 23–30 |
+| [13 November 2018](2018-11-13-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 26 | 25–28 | 24–28 | 24–29 | 23–30 |
 | [11–12 November 2018](2018-11-12-Tecnè.html) | Tecnè <br> Quarta Repubblica | 24 | 22–26 | 22–26 | 22–26 | 21–27 |
 | [10–12 November 2018](2018-11-12-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 28 | 26–29 | 26–29 | 25–29 | 24–30 |
 | [7–12 November 2018](2018-11-12-SWG.html) | SWG <br> LA7 | 27 | 25–29 | 25–29 | 25–30 | 24–30 |
