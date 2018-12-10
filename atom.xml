@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/italian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2018-12-10T10:46:57.711656+01:00</updated>
+  <updated>2018-12-10T14:54:19.739713+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Movimento 5 Stelle (EFDD): 25.8–30.3%, 20–24 seats</li><li>Partito Democratico (S&amp;D): 15.9–19.8%, 11–15 seats</li><li>Lega Nord (ENF): 29.7–34.4%, 23–27 seats</li><li>Forza Italia (EPP): 7.3–10.1%, 6–8 seats</li><li>Fratelli d’Italia (ECR): 2.6–4.5%, 0–3 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/italian_ep_polls/2018-11-29-Demopolis.html</id>
@@ -14,6 +14,14 @@
     <title>Opinion Poll by Demopolis, 28–29 November 2018</title>
     <updated>2018-12-04T21:16:36.391925+01:00</updated>
     <dc:date>2018-12-04T21:16:36.391925+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Movimento 5 Stelle (EFDD): 22.9–27.3%, 19–23 seats</li><li>Partito Democratico (S&amp;D): 15.7–19.6%, 12–15 seats</li><li>Lega Nord (ENF): 32.2–37.0%, 26–31 seats</li><li>Forza Italia (EPP): 6.1–8.8%, 5–7 seats</li><li>Fratelli d’Italia (ECR): 3.1–5.1%, 0–4 seats</li><li>Liberi e Uguali (S&amp;D): 1.2–2.6%, 0 seats</li><li>Più Europa (ALDE): 1.7–3.2%, 0 seats</li><li>Potere al Popolo (GUE/NGL): 1.5–3.0%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/italian_ep_polls/2018-11-28-IndexResearch.html</id>
+    <link href="https://filipvanlaenen.github.io/italian_ep_polls/2018-11-28-IndexResearch.html"/>
+    <title>Opinion Poll by Index Research for LA7, 27–28 November 2018</title>
+    <updated>2018-12-10T14:54:19.739713+01:00</updated>
+    <dc:date>2018-12-10T14:54:19.739713+01:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Movimento 5 Stelle (EFDD): 23.9–28.0%, 19–23 seats</li><li>Partito Democratico (S&amp;D): 16.8–20.4%, 13–16 seats</li><li>Lega Nord (ENF): 29.9–34.2%, 24–28 seats</li><li>Forza Italia (EPP): 7.1–9.7%, 6–8 seats</li><li>Fratelli d’Italia (ECR): 3.2–5.0%, 0–4 seats</li><li>Più Europa (ALDE): 1.5–2.9%, 0 seats</li><li>Noi con l’Italia (EPP): 0.7–1.7%, 0 seats</li><li>Potere al Popolo (GUE/NGL): 1.4–2.8%, 0 seats</li></ul></div></content>
@@ -1591,5 +1599,5 @@
     <updated>2018-04-10T21:24:48.959229+02:00</updated>
     <dc:date>2018-04-10T21:24:48.959229+02:00</dc:date>
   </entry>
-  <dc:date>2018-12-10T10:46:57.711656+01:00</dc:date>
+  <dc:date>2018-12-10T14:54:19.739713+01:00</dc:date>
 </feed>
