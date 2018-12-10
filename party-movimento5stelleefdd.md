@@ -246,7 +246,7 @@ Last result: **17** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 22 | 20–25 | 20–26 | 19–26 | 18–28 |
-| [28 November–3 December 2018](2018-12-03-SWG.html) | SWG <br> LA7 | 24 | 22–25 | 22–26 | 21–26 | 21–27 |
+| [28 November–3 December 2018](2018-12-03-SWG.html) | SWG <br> LA7 | 23 | 22–25 | 22–25 | 21–26 | 21–26 |
 | [1–2 December 2018](2018-12-02-Tecnè.html) | Tecnè <br> Quarta Repubblica | 20 | 18–21 | 18–21 | 17–22 | 17–23 |
 | [28–29 November 2018](2018-11-29-Demopolis.html) | Demopolis | 22 | 21–23 | 20–23 | 20–24 | 19–24 |
 | [27–28 November 2018](2018-11-28-IndexResearch.html) | Index Research <br> LA7 | 21 | 19–22 | 19–22 | 19–23 | 18–23 |
