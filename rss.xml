@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 09 Dec 2018 20:26:56 +0100</pubDate>
+    <pubDate>Mon, 10 Dec 2018 10:46:57 +0100</pubDate>
     <item>
       <title>Opinion Poll by SWG for LA7, 28 November–3 December 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-12-03-SWG.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-12-03-SWG.png"
         length="225678"
         type="image/png"/>
-      <pubDate>Sun, 09 Dec 2018 18:22:02 +0100</pubDate>
-      <dc:date>2018-12-09T18:22:02.869427+01:00</dc:date>
+      <pubDate>Sun, 09 Dec 2018 21:15:20 +0100</pubDate>
+      <dc:date>2018-12-09T21:15:20.761138+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Tecnè for Quarta Repubblica, 1–2 December 2018 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-12-02-Tecnè.png"
         length="155424"
         type="image/png"/>
-      <pubDate>Sun, 09 Dec 2018 18:33:09 +0100</pubDate>
-      <dc:date>2018-12-09T18:33:09.114588+01:00</dc:date>
+      <pubDate>Sun, 09 Dec 2018 21:10:07 +0100</pubDate>
+      <dc:date>2018-12-09T21:10:07.232355+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Demopolis, 28–29 November 2018 – Seat Projections for the Parties</title>
@@ -70,14 +70,34 @@
       <dc:date>2018-12-09T20:26:56.532068+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by EMG Acqua, 27 November 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-11-27-EMGAcqua.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 19–23 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 13–16 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 24–28 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 0–4 seats&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Noi con l’Italia (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Potere al Popolo (GUE/NGL): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-11-27-EMGAcqua-seats.png"
+        length="177967"
+        type="image/png"/>
+      <pubDate>Mon, 10 Dec 2018 10:46:57 +0100</pubDate>
+      <dc:date>2018-12-10T10:46:57.711656+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by EMG Acqua, 27 November 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-11-27-EMGAcqua.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-11-27-EMGAcqua-coalitions-seats.png"
+        length="140891"
+        type="image/png"/>
+      <pubDate>Mon, 10 Dec 2018 10:46:57 +0100</pubDate>
+      <dc:date>2018-12-10T10:46:57.711656+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by EMG Acqua, 27 November 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-11-27-EMGAcqua.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 23.9–28.0%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 16.8–20.4%&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 29.9–34.2%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 7.1–9.7%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 3.2–5.0%&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 1.5–2.9%&lt;/li&gt;&lt;li&gt;Noi con l’Italia (EPP): 0.7–1.7%&lt;/li&gt;&lt;li&gt;Potere al Popolo (GUE/NGL): 1.4–2.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-11-27-EMGAcqua.png"
         length="214307"
         type="image/png"/>
-      <pubDate>Sun, 09 Dec 2018 19:37:52 +0100</pubDate>
-      <dc:date>2018-12-09T19:37:52.423707+01:00</dc:date>
+      <pubDate>Mon, 10 Dec 2018 10:46:57 +0100</pubDate>
+      <dc:date>2018-12-10T10:46:57.711656+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Tecnè for Quarta Repubblica, 26 November 2018 – Seat Projections for the Parties</title>
@@ -5959,6 +5979,6 @@
       <pubDate>Tue, 10 Apr 2018 21:24:48 +0200</pubDate>
       <dc:date>2018-04-10T21:24:48.959229+02:00</dc:date>
     </item>
-    <dc:date>2018-12-09T20:26:56.532068+01:00</dc:date>
+    <dc:date>2018-12-10T10:46:57.711656+01:00</dc:date>
   </channel>
 </rss>
