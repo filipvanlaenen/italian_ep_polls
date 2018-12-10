@@ -266,11 +266,11 @@ Last result: **5** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 26 | 24–29 | 23–30 | 23–31 | 22–32 |
-| [28 November–3 December 2018](2018-12-03-SWG.html) | SWG <br> LA7 | 25 | 25–31 | 25–31 | 25–31 | 24–31 |
-| [1–2 December 2018](2018-12-02-Tecnè.html) | Tecnè <br> Quarta Repubblica | 23 | 23–25 | 23–26 | 23–26 | 22–26 |
+| [28 November–3 December 2018](2018-12-03-SWG.html) | SWG <br> LA7 | 28 | 26–29 | 25–30 | 25–30 | 25–31 |
+| [1–2 December 2018](2018-12-02-Tecnè.html) | Tecnè <br> Quarta Repubblica | 25 | 23–26 | 23–27 | 22–27 | 21–28 |
 | [28–29 November 2018](2018-11-29-Demopolis.html) | Demopolis | 25 | 24–26 | 23–27 | 23–27 | 22–28 |
 | [27–28 November 2018](2018-11-28-IndexResearch.html) | Index Research <br> LA7 | 29 | 27–31 | 27–31 | 26–31 | 26–32 |
-| [27 November 2018](2018-11-27-EMGAcqua.html) | EMG Acqua | 26 | 25–28 | 25–28 | 24–28 | 24–29 |
+| [27 November 2018](2018-11-27-EMGAcqua.html) | EMG Acqua | 26 | 25–28 | 24–28 | 24–28 | 23–29 |
 | [26 November 2018](2018-11-26-Tecnè.html) | Tecnè <br> Quarta Repubblica | 25 | 23–26 | 22–27 | 22–27 | 21–28 |
 | [21–26 November 2018](2018-11-26-SWG.html) | SWG | 27 | 25–29 | 25–29 | 24–30 | 24–30 |
 | [22–24 November 2018](2018-11-24-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 27 | 26–29 | 25–29 | 25–30 | 24–30 |
@@ -498,7 +498,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 24 | 13% | 93% |  |
 | 25 | 19% | 80% |  |
 | 26 | 19% | 61% | Median |
-| 27 | 15% | 42% |  |
+| 27 | 14% | 41% |  |
 | 28 | 11% | 27% |  |
 | 29 | 7% | 16% |  |
 | 30 | 6% | 9% |  |
