@@ -295,9 +295,9 @@ Only polls for which at least the sample size has been published are included in
 | 11 | 5% | 99.2% |  |
 | 12 | 18% | 95% |  |
 | 13 | 29% | 77% | Median |
-| 14 | 27% | 48% |  |
-| 15 | 14% | 21% |  |
-| 16 | 6% | 7% |  |
+| 14 | 26% | 47% |  |
+| 15 | 15% | 21% |  |
+| 16 | 5% | 6% |  |
 | 17 | 1.1% | 1.2% |  |
 | 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
@@ -347,8 +347,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 1.1% | 100% |  |
 | 6 | 15% | 98.9% |  |
-| 7 | 30% | 83% |  |
-| 8 | 29% | 54% | Median |
+| 7 | 30% | 84% |  |
+| 8 | 29% | 53% | Median |
 | 9 | 18% | 25% |  |
 | 10 | 6% | 7% |  |
 | 11 | 1.1% | 1.2% |  |
@@ -385,7 +385,7 @@ Only polls for which at least the sample size has been published are included in
 | 24 | 13% | 93% |  |
 | 25 | 19% | 80% |  |
 | 26 | 19% | 61% | Median |
-| 27 | 15% | 42% |  |
+| 27 | 14% | 41% |  |
 | 28 | 11% | 27% |  |
 | 29 | 7% | 16% |  |
 | 30 | 6% | 9% |  |
@@ -402,10 +402,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 65% | 100% | Last Result, Median |
-| 1 | 0% | 35% |  |
-| 2 | 0% | 35% |  |
-| 3 | 13% | 35% |  |
+| 0 | 64% | 100% | Last Result, Median |
+| 1 | 0% | 36% |  |
+| 2 | 0% | 36% |  |
+| 3 | 13% | 36% |  |
 | 4 | 21% | 23% |  |
 | 5 | 2% | 2% |  |
 | 6 | 0.1% | 0.1% |  |
@@ -473,7 +473,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Lega Nord (ENF) | 5 | 26 | 0% | 24–29 | 23–30 | 23–31 | 22–32 |
 | Movimento 5 Stelle (EFDD) | 17 | 22 | 0% | 20–25 | 20–26 | 19–26 | 18–28 |
-| Partito Democratico (S&D) – Liberi e Uguali (S&D) | 31 | 14 | 0% | 12–15 | 11–16 | 11–17 | 10–18 |
+| Partito Democratico (S&D) – Liberi e Uguali (S&D) | 31 | 13 | 0% | 12–15 | 11–16 | 11–17 | 10–18 |
 | Forza Italia (EPP) – Südtiroler Volkspartei (EPP) – Noi con l’Italia (EPP) | 14 | 9 | 0% | 7–10 | 7–11 | 7–11 | 6–12 |
 | Fratelli d’Italia (ECR) | 0 | 0 | 0% | 0–4 | 0–4 | 0–4 | 0–5 |
 | CasaPound Italia (*) – Civica Popolare (*) – Insieme (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
@@ -508,7 +508,7 @@ Only polls for which at least the sample size has been published are included in
 | 24 | 13% | 93% |  |
 | 25 | 19% | 80% |  |
 | 26 | 19% | 61% | Median |
-| 27 | 15% | 42% |  |
+| 27 | 14% | 41% |  |
 | 28 | 11% | 27% |  |
 | 29 | 7% | 16% |  |
 | 30 | 6% | 9% |  |
@@ -549,8 +549,8 @@ Only polls for which at least the sample size has been published are included in
 | 11 | 4% | 99.3% |  |
 | 12 | 17% | 95% |  |
 | 13 | 28% | 78% | Median |
-| 14 | 27% | 50% |  |
-| 15 | 14% | 23% |  |
+| 14 | 26% | 50% |  |
+| 15 | 15% | 24% |  |
 | 16 | 6% | 9% |  |
 | 17 | 2% | 3% |  |
 | 18 | 0.7% | 0.8% |  |
@@ -576,8 +576,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 1.1% | 100% |  |
 | 7 | 15% | 98.9% |  |
-| 8 | 30% | 83% | Median |
-| 9 | 29% | 54% |  |
+| 8 | 30% | 84% | Median |
+| 9 | 29% | 53% |  |
 | 10 | 18% | 25% |  |
 | 11 | 6% | 7% |  |
 | 12 | 1.1% | 1.2% |  |
@@ -590,10 +590,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 65% | 100% | Last Result, Median |
-| 1 | 0% | 35% |  |
-| 2 | 0% | 35% |  |
-| 3 | 13% | 35% |  |
+| 0 | 64% | 100% | Last Result, Median |
+| 1 | 0% | 36% |  |
+| 2 | 0% | 36% |  |
+| 3 | 13% | 36% |  |
 | 4 | 21% | 23% |  |
 | 5 | 2% | 2% |  |
 | 6 | 0.1% | 0.1% |  |
@@ -633,5 +633,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 14
 + **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 12,845,056
++ **Total number of simulations done in the polls included in this average:** 13,762,560
 + **Error estimate:** 2.29%
