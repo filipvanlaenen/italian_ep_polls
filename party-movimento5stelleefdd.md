@@ -10,7 +10,7 @@ Last result: **21.2%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.0% | 24.8–29.8% | 24.3–30.8% | 23.8–31.7% | 22.9–33.2% |
+| N/A | [Poll Average](average.html) | 27.0% | 24.8–29.8% | 24.2–30.8% | 23.8–31.7% | 22.9–33.2% |
 | [28 November–3 December 2018](2018-12-03-SWG.html) | SWG <br> LA7 | 27.3% | 25.8–28.8% | 25.4–29.2% | 25.1–29.6% | 24.4–30.3% |
 | [1–2 December 2018](2018-12-02-Tecnè.html) | Tecnè <br> Quarta Repubblica | 25.5% | 23.8–27.3% | 23.3–27.8% | 22.9–28.3% | 22.1–29.2% |
 | [28–29 November 2018](2018-11-29-Demopolis.html) | Demopolis | 28.0% | 26.5–29.5% | 26.1–30.0% | 25.8–30.3% | 25.1–31.1% |
@@ -221,13 +221,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 20.5–21.5% | 0% | 100% | Last Result |
 | 21.5–22.5% | 0.2% | 100% |  |
-| 22.5–23.5% | 1.4% | 99.7% |  |
+| 22.5–23.5% | 1.5% | 99.7% |  |
 | 23.5–24.5% | 6% | 98% |  |
 | 24.5–25.5% | 13% | 93% |  |
 | 25.5–26.5% | 20% | 80% |  |
-| 26.5–27.5% | 21% | 59% | Median |
-| 27.5–28.5% | 16% | 38% |  |
-| 28.5–29.5% | 10% | 22% |  |
+| 26.5–27.5% | 21% | 60% | Median |
+| 27.5–28.5% | 17% | 39% |  |
+| 28.5–29.5% | 11% | 22% |  |
 | 29.5–30.5% | 6% | 12% |  |
 | 30.5–31.5% | 3% | 6% |  |
 | 31.5–32.5% | 2% | 3% |  |
@@ -245,7 +245,7 @@ Last result: **17** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22 | 20–25 | 20–26 | 19–26 | 18–28 |
+| N/A | [Poll Average](average.html) | 22 | 20–25 | 19–26 | 19–26 | 18–28 |
 | [28 November–3 December 2018](2018-12-03-SWG.html) | SWG <br> LA7 | 23 | 22–25 | 22–25 | 21–26 | 21–26 |
 | [1–2 December 2018](2018-12-02-Tecnè.html) | Tecnè <br> Quarta Repubblica | 20 | 18–21 | 18–21 | 17–22 | 17–23 |
 | [28–29 November 2018](2018-11-29-Demopolis.html) | Demopolis | 22 | 21–23 | 20–23 | 20–24 | 19–24 |
@@ -457,16 +457,16 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 17 | 0.2% | 100% | Last Result |
-| 18 | 0.9% | 99.8% |  |
-| 19 | 3% | 98.9% |  |
+| 18 | 1.3% | 99.8% |  |
+| 19 | 4% | 98.5% |  |
 | 20 | 10% | 95% |  |
-| 21 | 17% | 86% |  |
-| 22 | 23% | 68% | Median |
-| 23 | 20% | 45% |  |
-| 24 | 12% | 25% |  |
-| 25 | 8% | 13% |  |
+| 21 | 17% | 85% |  |
+| 22 | 21% | 68% | Median |
+| 23 | 20% | 47% |  |
+| 24 | 13% | 27% |  |
+| 25 | 9% | 14% |  |
 | 26 | 3% | 5% |  |
-| 27 | 1.5% | 2% |  |
+| 27 | 2% | 2% |  |
 | 28 | 0.5% | 0.7% |  |
 | 29 | 0.2% | 0.2% |  |
 | 30 | 0% | 0% |  |
