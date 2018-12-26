@@ -10,7 +10,21 @@ Last result: **16.8%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.1% | 7.5–11.2% | 7.1–11.8% | 6.8–12.3% | 6.3–13.3% |
+| N/A | [Poll Average](average.html) | 9.1% | 7.6–11.1% | 7.2–11.7% | 6.9–12.2% | 6.2–13.3% |
+| [10–19 December 2018](2018-12-19-CISE.html) | CISE | 8.3% | 7.3–9.4% | 7.0–9.8% | 6.8–10.0% | 6.3–10.6% |
+| [17 December 2018](2018-12-17-Tecnè.html) | Tecnè <br> Quarta Repubblica | 10.9% | 9.6–12.4% | 9.2–12.8% | 8.9–13.2% | 8.3–14.0% |
+| [12–17 December 2018](2018-12-17-SWG.html) | SWG <br> LA7 | 8.0% | 7.2–9.0% | 6.9–9.3% | 6.7–9.5% | 6.3–10.0% |
+| [12–14 December 2018](2018-12-14-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 9.8% | 8.7–11.1% | 8.4–11.5% | 8.1–11.8% | 7.6–12.5% |
+| [10–14 December 2018](2018-12-14-DemosPi.html) | Demos & Pi <br> La Repubblica | 9.1% | 8.1–10.2% | 7.8–10.5% | 7.5–10.8% | 7.1–11.4% |
+| [12–13 December 2018](2018-12-13-Demopolis.html) | Demopolis | 8.8% | 7.9–9.8% | 7.7–10.1% | 7.5–10.3% | 7.1–10.9% |
+| [12 December 2018](2018-12-12-IndexResearch.html) | Index Research <br> LA7 | 7.6% | 6.5–9.0% | 6.2–9.3% | 6.0–9.7% | 5.5–10.4% |
+| [10–12 December 2018](2018-12-12-GPFInspiringResearch.html) | GPF Inspiring Research | 10.8% | 9.4–12.3% | 9.1–12.7% | 8.8–13.1% | 8.2–13.9% |
+| [11 December 2018](2018-12-11-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 8.4% | 7.6–9.3% | 7.4–9.5% | 7.2–9.8% | 6.8–10.2% |
+| [10 December 2018](2018-12-10-Tecnè.html) | Tecnè <br> Quarta Repubblica | 10.9% | 9.6–12.4% | 9.2–12.8% | 8.9–13.2% | 8.3–14.0% |
+| [5–10 December 2018](2018-12-10-SWG.html) | SWG <br> LA7 | 8.7% | 7.8–9.7% | 7.5–10.0% | 7.3–10.2% | 7.0–10.7% |
+| [10 December 2018](2018-12-10-Piepoli.html) | Piepoli <br> Rai 1 | 10.5% | 9.0–12.5% | 8.5–13.0% | 8.1–13.5% | 7.4–14.5% |
+| [10 December 2018](2018-12-10-Euromedia.html) | Euromedia <br> Rai 1 | 9.4% | 8.2–10.8% | 7.8–11.2% | 7.5–11.6% | 7.0–12.3% |
+| [4–6 December 2018](2018-12-06-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 8.2% | 7.4–9.1% | 7.2–9.3% | 7.0–9.6% | 6.6–10.0% |
 | [28 November–3 December 2018](2018-12-03-SWG.html) | SWG <br> LA7 | 8.2% | 7.3–9.2% | 7.1–9.5% | 6.9–9.7% | 6.5–10.2% |
 | [1–2 December 2018](2018-12-02-Tecnè.html) | Tecnè <br> Quarta Repubblica | 11.0% | 9.8–12.4% | 9.5–12.8% | 9.2–13.1% | 8.7–13.8% |
 | [28–29 November 2018](2018-11-29-Demopolis.html) | Demopolis | 8.6% | 7.7–9.6% | 7.5–9.9% | 7.3–10.1% | 6.9–10.6% |
@@ -222,12 +236,12 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 1.1% | 100% |  |
 | 6.5–7.5% | 9% | 98.8% |  |
-| 7.5–8.5% | 24% | 90% |  |
-| 8.5–9.5% | 27% | 66% | Median |
-| 9.5–10.5% | 20% | 40% |  |
-| 10.5–11.5% | 12% | 19% |  |
-| 11.5–12.5% | 5% | 7% |  |
-| 12.5–13.5% | 2% | 2% |  |
+| 7.5–8.5% | 25% | 90% |  |
+| 8.5–9.5% | 28% | 65% | Median |
+| 9.5–10.5% | 20% | 37% |  |
+| 10.5–11.5% | 11% | 17% |  |
+| 11.5–12.5% | 4% | 6% |  |
+| 12.5–13.5% | 1.3% | 2% |  |
 | 13.5–14.5% | 0.3% | 0.3% |  |
 | 14.5–15.5% | 0% | 0% |  |
 | 15.5–16.5% | 0% | 0% |  |
@@ -242,7 +256,21 @@ Last result: **13** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 6–9 | 6–10 | 6–10 | 5–11 |
+| N/A | [Poll Average](average.html) | 7 | 6–9 | 6–9 | 6–10 | 5–11 |
+| [10–19 December 2018](2018-12-19-CISE.html) | CISE | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
+| [17 December 2018](2018-12-17-Tecnè.html) | Tecnè <br> Quarta Repubblica | 8 | 7–9 | 7–10 | 7–10 | 6–11 |
+| [12–17 December 2018](2018-12-17-SWG.html) | SWG <br> LA7 | 7 | 6–7 | 6–7 | 6–8 | 5–9 |
+| [12–14 December 2018](2018-12-14-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 8 | 7–8 | 7–9 | 6–9 | 6–10 |
+| [10–14 December 2018](2018-12-14-DemosPi.html) | Demos & Pi <br> La Repubblica | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
+| [12–13 December 2018](2018-12-13-Demopolis.html) | Demopolis | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
+| [12 December 2018](2018-12-12-IndexResearch.html) | Index Research <br> LA7 | 7 | 6–7 | 5–8 | 5–8 | 5–8 |
+| [10–12 December 2018](2018-12-12-GPFInspiringResearch.html) | GPF Inspiring Research | 9 | 8–10 | 7–11 | 7–11 | 7–12 |
+| [11 December 2018](2018-12-11-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
+| [10 December 2018](2018-12-10-Tecnè.html) | Tecnè <br> Quarta Repubblica | 8 | 7–10 | 7–10 | 7–10 | 6–11 |
+| [5–10 December 2018](2018-12-10-SWG.html) | SWG <br> LA7 | 7 | 6–9 | 6–9 | 6–9 | 6–9 |
+| [10 December 2018](2018-12-10-Piepoli.html) | Piepoli <br> Rai 1 | 9 | 8–10 | 8–10 | 7–10 | 6–12 |
+| [10 December 2018](2018-12-10-Euromedia.html) | Euromedia <br> Rai 1 | 7 | 7–9 | 6–9 | 6–10 | 5–10 |
+| [4–6 December 2018](2018-12-06-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | [28 November–3 December 2018](2018-12-03-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [1–2 December 2018](2018-12-02-Tecnè.html) | Tecnè <br> Quarta Repubblica | 8 | 7–10 | 7–10 | 7–10 | 7–11 |
 | [28–29 November 2018](2018-11-29-Demopolis.html) | Demopolis | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
@@ -453,14 +481,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 2% | 100% |  |
-| 6 | 16% | 98% |  |
-| 7 | 30% | 82% |  |
-| 8 | 28% | 53% | Median |
-| 9 | 18% | 24% |  |
-| 10 | 5% | 6% |  |
-| 11 | 1.0% | 1.1% |  |
-| 12 | 0.1% | 0.2% |  |
+| 5 | 1.4% | 100% |  |
+| 6 | 14% | 98.6% |  |
+| 7 | 36% | 85% | Median |
+| 8 | 28% | 49% |  |
+| 9 | 15% | 20% |  |
+| 10 | 4% | 5% |  |
+| 11 | 0.8% | 1.0% |  |
+| 12 | 0.1% | 0.1% |  |
 | 13 | 0% | 0% | Last Result |
 
 
