@@ -252,8 +252,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
-| [10–19 December 2018](2018-12-19-CISE.html) | CISE | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
-| [17 December 2018](2018-12-17-Tecnè.html) | Tecnè <br> Quarta Repubblica | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
+| [10–19 December 2018](2018-12-19-CISE.html) | CISE | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [17 December 2018](2018-12-17-Tecnè.html) | Tecnè <br> Quarta Repubblica | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [12–17 December 2018](2018-12-17-SWG.html) | SWG <br> LA7 | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [12–14 December 2018](2018-12-14-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 4 | 3–5 | 0–5 | 0–5 | 0–5 |
 | [10–14 December 2018](2018-12-14-DemosPi.html) | Demos & Pi <br> La Repubblica | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
@@ -262,8 +262,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [10–12 December 2018](2018-12-12-GPFInspiringResearch.html) | GPF Inspiring Research | 4 | 3–5 | 0–5 | 0–6 | 0–6 |
 | [11 December 2018](2018-12-11-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [10 December 2018](2018-12-10-Tecnè.html) | Tecnè <br> Quarta Repubblica | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [5–10 December 2018](2018-12-10-SWG.html) | SWG <br> LA7 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
-| [10 December 2018](2018-12-10-Piepoli.html) | Piepoli <br> Rai 1 | 3 | 0–4 | 0–5 | 0–5 | 0–5 |
+| [5–10 December 2018](2018-12-10-SWG.html) | SWG <br> LA7 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [10 December 2018](2018-12-10-Piepoli.html) | Piepoli <br> Rai 1 | 3 | 0–4 | 0–5 | 0–5 | 0–6 |
 | [10 December 2018](2018-12-10-Euromedia.html) | Euromedia <br> Rai 1 | 3 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [4–6 December 2018](2018-12-06-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [28 November–3 December 2018](2018-12-03-SWG.html) | SWG <br> LA7 | 0 | 0 | 0–3 | 0–4 | 0–4 |
@@ -479,8 +479,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 52% | 100% | Last Result, Median |
 | 1 | 0% | 48% |  |
 | 2 | 0% | 48% |  |
-| 3 | 17% | 48% |  |
-| 4 | 26% | 31% |  |
+| 3 | 15% | 48% |  |
+| 4 | 28% | 33% |  |
 | 5 | 4% | 5% |  |
 | 6 | 0.2% | 0.2% |  |
 | 7 | 0% | 0% |  |

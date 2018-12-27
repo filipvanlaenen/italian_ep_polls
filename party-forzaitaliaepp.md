@@ -256,20 +256,20 @@ Last result: **13** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–9 | 6–9 | 6–10 | 5–11 |
+| N/A | [Poll Average](average.html) | 7 | 6–9 | 6–10 | 6–10 | 5–11 |
 | [10–19 December 2018](2018-12-19-CISE.html) | CISE | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
-| [17 December 2018](2018-12-17-Tecnè.html) | Tecnè <br> Quarta Repubblica | 8 | 7–9 | 7–10 | 7–10 | 6–11 |
-| [12–17 December 2018](2018-12-17-SWG.html) | SWG <br> LA7 | 7 | 6–7 | 6–7 | 6–8 | 5–9 |
-| [12–14 December 2018](2018-12-14-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 8 | 7–8 | 7–9 | 6–9 | 6–10 |
+| [17 December 2018](2018-12-17-Tecnè.html) | Tecnè <br> Quarta Repubblica | 8 | 7–10 | 7–10 | 7–10 | 6–11 |
+| [12–17 December 2018](2018-12-17-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
+| [12–14 December 2018](2018-12-14-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | [10–14 December 2018](2018-12-14-DemosPi.html) | Demos & Pi <br> La Repubblica | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | [12–13 December 2018](2018-12-13-Demopolis.html) | Demopolis | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
-| [12 December 2018](2018-12-12-IndexResearch.html) | Index Research <br> LA7 | 7 | 6–7 | 5–8 | 5–8 | 5–8 |
+| [12 December 2018](2018-12-12-IndexResearch.html) | Index Research <br> LA7 | 6 | 5–7 | 5–8 | 5–8 | 5–9 |
 | [10–12 December 2018](2018-12-12-GPFInspiringResearch.html) | GPF Inspiring Research | 9 | 8–10 | 7–11 | 7–11 | 7–12 |
-| [11 December 2018](2018-12-11-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
+| [11 December 2018](2018-12-11-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [10 December 2018](2018-12-10-Tecnè.html) | Tecnè <br> Quarta Repubblica | 8 | 7–10 | 7–10 | 7–10 | 6–11 |
-| [5–10 December 2018](2018-12-10-SWG.html) | SWG <br> LA7 | 7 | 6–9 | 6–9 | 6–9 | 6–9 |
-| [10 December 2018](2018-12-10-Piepoli.html) | Piepoli <br> Rai 1 | 9 | 8–10 | 8–10 | 7–10 | 6–12 |
-| [10 December 2018](2018-12-10-Euromedia.html) | Euromedia <br> Rai 1 | 7 | 7–9 | 6–9 | 6–10 | 5–10 |
+| [5–10 December 2018](2018-12-10-SWG.html) | SWG <br> LA7 | 7 | 7–8 | 6–9 | 6–9 | 6–9 |
+| [10 December 2018](2018-12-10-Piepoli.html) | Piepoli <br> Rai 1 | 9 | 7–10 | 7–11 | 7–11 | 6–12 |
+| [10 December 2018](2018-12-10-Euromedia.html) | Euromedia <br> Rai 1 | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
 | [4–6 December 2018](2018-12-06-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
 | [28 November–3 December 2018](2018-12-03-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [1–2 December 2018](2018-12-02-Tecnè.html) | Tecnè <br> Quarta Repubblica | 8 | 7–10 | 7–10 | 7–10 | 7–11 |
@@ -481,14 +481,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 1.4% | 100% |  |
-| 6 | 14% | 98.6% |  |
-| 7 | 36% | 85% | Median |
-| 8 | 28% | 49% |  |
-| 9 | 15% | 20% |  |
+| 5 | 2% | 100% |  |
+| 6 | 15% | 98% |  |
+| 7 | 35% | 83% | Median |
+| 8 | 29% | 48% |  |
+| 9 | 13% | 19% |  |
 | 10 | 4% | 5% |  |
-| 11 | 0.8% | 1.0% |  |
-| 12 | 0.1% | 0.1% |  |
+| 11 | 1.2% | 1.3% |  |
+| 12 | 0.1% | 0.2% |  |
 | 13 | 0% | 0% | Last Result |
 
 

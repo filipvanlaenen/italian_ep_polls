@@ -262,8 +262,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [11 December 2018](2018-12-11-EMGAcqua.html) | EMG Acqua <br> Rai 3 |  |  |  |  |  |
 | [10 December 2018](2018-12-10-Tecnè.html) | Tecnè <br> Quarta Repubblica |  |  |  |  |  |
 | [5–10 December 2018](2018-12-10-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
-| [10 December 2018](2018-12-10-Piepoli.html) | Piepoli <br> Rai 1 | 0 | 0 | 0 | 0–4 | 0–4 |
-| [10 December 2018](2018-12-10-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0 | 0–3 |
+| [10 December 2018](2018-12-10-Piepoli.html) | Piepoli <br> Rai 1 | 0 | 0 | 0–3 | 0–4 | 0–4 |
+| [10 December 2018](2018-12-10-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
 | [4–6 December 2018](2018-12-06-EMGAcqua.html) | EMG Acqua <br> Rai 3 |  |  |  |  |  |
 | [28 November–3 December 2018](2018-12-03-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
 | [1–2 December 2018](2018-12-02-Tecnè.html) | Tecnè <br> Quarta Repubblica |  |  |  |  |  |
@@ -478,7 +478,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 97% | 100% | Last Result, Median |
 | 1 | 0% | 3% |  |
 | 2 | 0% | 3% |  |
-| 3 | 1.4% | 3% |  |
+| 3 | 2% | 3% |  |
 | 4 | 1.3% | 1.3% |  |
 | 5 | 0% | 0% |  |
 

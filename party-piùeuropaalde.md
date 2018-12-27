@@ -251,10 +251,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0–3 | 0–4 | 0–4 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–4 | 0–4 |
 | [10–19 December 2018](2018-12-19-CISE.html) | CISE | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [17 December 2018](2018-12-17-Tecnè.html) | Tecnè <br> Quarta Repubblica |  |  |  |  |  |
-| [12–17 December 2018](2018-12-17-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
+| [12–17 December 2018](2018-12-17-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0–3 |
 | [12–14 December 2018](2018-12-14-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 0 | 0 | 0 | 0 | 0 |
 | [10–14 December 2018](2018-12-14-DemosPi.html) | Demos & Pi <br> La Repubblica | 0 | 0 | 0 | 0 | 0 |
 | [12–13 December 2018](2018-12-13-Demopolis.html) | Demopolis |  |  |  |  |  |
@@ -480,7 +480,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 5% |  |
 | 2 | 0% | 5% |  |
 | 3 | 2% | 5% |  |
-| 4 | 4% | 4% |  |
+| 4 | 3% | 3% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 
