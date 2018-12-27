@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 26 Dec 2018 20:38:10 +0100</pubDate>
+    <pubDate>Thu, 27 Dec 2018 10:50:21 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by CISE, 10–19 December 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-12-19-CISE.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 20–26 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 11–16 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 23–29 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6–9 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 0–4 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0–4 seats&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 0–4 seats&lt;/li&gt;&lt;li&gt;Potere al Popolo (GUE/NGL): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-12-19-CISE-seats.png"
+        length="184390"
+        type="image/png"/>
+      <pubDate>Thu, 27 Dec 2018 10:12:31 +0100</pubDate>
+      <dc:date>2018-12-27T10:12:31.377541+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CISE, 10–19 December 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-12-19-CISE.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-12-19-CISE-coalitions-seats.png"
+        length="141457"
+        type="image/png"/>
+      <pubDate>Thu, 27 Dec 2018 10:12:31 +0100</pubDate>
+      <dc:date>2018-12-27T10:12:31.377541+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by CISE, 10–19 December 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-12-19-CISE.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-12-19-CISE.png"
         length="231391"
         type="image/png"/>
-      <pubDate>Wed, 26 Dec 2018 19:40:25 +0100</pubDate>
-      <dc:date>2018-12-26T19:40:25.273393+01:00</dc:date>
+      <pubDate>Thu, 27 Dec 2018 10:12:31 +0100</pubDate>
+      <dc:date>2018-12-27T10:12:31.377541+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Tecnè for Quarta Repubblica, 17 December 2018 – Voting Intentions</title>
@@ -26,8 +46,28 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-12-17-Tecnè.png"
         length="158786"
         type="image/png"/>
-      <pubDate>Wed, 26 Dec 2018 19:45:05 +0100</pubDate>
-      <dc:date>2018-12-26T19:45:05.033144+01:00</dc:date>
+      <pubDate>Wed, 26 Dec 2018 23:25:02 +0100</pubDate>
+      <dc:date>2018-12-26T23:25:02.135788+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SWG for LA7, 12–17 December 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-12-17-SWG.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 20–25 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 12–15 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 25–31 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 0–4 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Potere al Popolo (GUE/NGL): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-12-17-SWG-seats.png"
+        length="185831"
+        type="image/png"/>
+      <pubDate>Thu, 27 Dec 2018 09:41:29 +0100</pubDate>
+      <dc:date>2018-12-27T09:41:29.793132+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SWG for LA7, 12–17 December 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-12-17-SWG.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-12-17-SWG-coalitions-seats.png"
+        length="142922"
+        type="image/png"/>
+      <pubDate>Thu, 27 Dec 2018 09:41:29 +0100</pubDate>
+      <dc:date>2018-12-27T09:41:29.793132+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SWG for LA7, 12–17 December 2018 – Voting Intentions</title>
@@ -36,8 +76,28 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-12-17-SWG.png"
         length="223430"
         type="image/png"/>
-      <pubDate>Wed, 26 Dec 2018 20:06:30 +0100</pubDate>
-      <dc:date>2018-12-26T20:06:30.358445+01:00</dc:date>
+      <pubDate>Thu, 27 Dec 2018 09:41:29 +0100</pubDate>
+      <dc:date>2018-12-27T09:41:29.793132+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Quorum and YouTrend for Sky TG 24, 12–14 December 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-12-14-QuorumandYouTrend.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 20–24 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 10–14 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 22–27 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6–9 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 0–5 seats&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-12-14-QuorumandYouTrend-seats.png"
+        length="174955"
+        type="image/png"/>
+      <pubDate>Thu, 27 Dec 2018 10:50:21 +0100</pubDate>
+      <dc:date>2018-12-27T10:50:21.429954+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Quorum and YouTrend for Sky TG 24, 12–14 December 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-12-14-QuorumandYouTrend.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-12-14-QuorumandYouTrend-coalitions-seats.png"
+        length="152430"
+        type="image/png"/>
+      <pubDate>Thu, 27 Dec 2018 10:50:21 +0100</pubDate>
+      <dc:date>2018-12-27T10:50:21.429954+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Quorum and YouTrend for Sky TG 24, 12–14 December 2018 – Voting Intentions</title>
@@ -46,8 +106,28 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-12-14-QuorumandYouTrend.png"
         length="170334"
         type="image/png"/>
-      <pubDate>Wed, 26 Dec 2018 19:56:37 +0100</pubDate>
-      <dc:date>2018-12-26T19:56:37.072497+01:00</dc:date>
+      <pubDate>Thu, 27 Dec 2018 10:50:21 +0100</pubDate>
+      <dc:date>2018-12-27T10:50:21.429954+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demos &amp; Pi for La Repubblica, 10–14 December 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-12-14-DemosPi.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 19–25 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 12–16 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 25–30 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6–9 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 0–4 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0–3 seats&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Potere al Popolo (GUE/NGL): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-12-14-DemosPi-seats.png"
+        length="183441"
+        type="image/png"/>
+      <pubDate>Wed, 26 Dec 2018 20:49:55 +0100</pubDate>
+      <dc:date>2018-12-26T20:49:55.408367+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demos &amp; Pi for La Repubblica, 10–14 December 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-12-14-DemosPi.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-12-14-DemosPi-coalitions-seats.png"
+        length="136733"
+        type="image/png"/>
+      <pubDate>Wed, 26 Dec 2018 20:49:55 +0100</pubDate>
+      <dc:date>2018-12-26T20:49:55.408367+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Demos &amp; Pi for La Repubblica, 10–14 December 2018 – Voting Intentions</title>
@@ -56,8 +136,28 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-12-14-DemosPi.png"
         length="228167"
         type="image/png"/>
-      <pubDate>Wed, 26 Dec 2018 20:38:10 +0100</pubDate>
-      <dc:date>2018-12-26T20:38:10.516628+01:00</dc:date>
+      <pubDate>Wed, 26 Dec 2018 20:49:55 +0100</pubDate>
+      <dc:date>2018-12-26T20:49:55.408367+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demopolis, 12–13 December 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-12-13-Demopolis.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 20–23 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 10–13 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 23–27 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 0–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-12-13-Demopolis-seats.png"
+        length="135706"
+        type="image/png"/>
+      <pubDate>Thu, 27 Dec 2018 10:22:26 +0100</pubDate>
+      <dc:date>2018-12-27T10:22:26.975647+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demopolis, 12–13 December 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-12-13-Demopolis.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-12-13-Demopolis-coalitions-seats.png"
+        length="123470"
+        type="image/png"/>
+      <pubDate>Thu, 27 Dec 2018 10:22:26 +0100</pubDate>
+      <dc:date>2018-12-27T10:22:26.975647+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Demopolis, 12–13 December 2018 – Voting Intentions</title>
@@ -66,8 +166,28 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-12-13-Demopolis.png"
         length="145357"
         type="image/png"/>
-      <pubDate>Wed, 26 Dec 2018 20:01:21 +0100</pubDate>
-      <dc:date>2018-12-26T20:01:21.121226+01:00</dc:date>
+      <pubDate>Thu, 27 Dec 2018 10:22:26 +0100</pubDate>
+      <dc:date>2018-12-27T10:22:26.975647+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Index Research for LA7, 12 December 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-12-12-IndexResearch.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 18–23 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 11–16 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 26–32 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 5–8 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 0–4 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Potere al Popolo (GUE/NGL): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-12-12-IndexResearch-seats.png"
+        length="182808"
+        type="image/png"/>
+      <pubDate>Thu, 27 Dec 2018 10:36:49 +0100</pubDate>
+      <dc:date>2018-12-27T10:36:49.313193+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Index Research for LA7, 12 December 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-12-12-IndexResearch.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-12-12-IndexResearch-coalitions-seats.png"
+        length="142729"
+        type="image/png"/>
+      <pubDate>Thu, 27 Dec 2018 10:36:49 +0100</pubDate>
+      <dc:date>2018-12-27T10:36:49.313193+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Index Research for LA7, 12 December 2018 – Voting Intentions</title>
@@ -76,8 +196,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-12-12-IndexResearch.png"
         length="237262"
         type="image/png"/>
-      <pubDate>Wed, 26 Dec 2018 19:31:45 +0100</pubDate>
-      <dc:date>2018-12-26T19:31:45.031252+01:00</dc:date>
+      <pubDate>Thu, 27 Dec 2018 10:36:49 +0100</pubDate>
+      <dc:date>2018-12-27T10:36:49.313193+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GPF Inspiring Research, 10–12 December 2018 – Seat Projections for the Parties</title>
@@ -110,14 +230,54 @@
       <dc:date>2018-12-26T20:28:44.045042+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by EMG Acqua for Rai 3, 11 December 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-12-11-EMGAcqua.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 20–23 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 12–15 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 24–28 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 0–4 seats&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Noi con l’Italia (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Potere al Popolo (GUE/NGL): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-12-11-EMGAcqua-seats.png"
+        length="173003"
+        type="image/png"/>
+      <pubDate>Thu, 27 Dec 2018 09:02:11 +0100</pubDate>
+      <dc:date>2018-12-27T09:02:11.472605+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by EMG Acqua for Rai 3, 11 December 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-12-11-EMGAcqua.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-12-11-EMGAcqua-coalitions-seats.png"
+        length="135820"
+        type="image/png"/>
+      <pubDate>Thu, 27 Dec 2018 09:02:11 +0100</pubDate>
+      <dc:date>2018-12-27T09:02:11.472605+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by EMG Acqua for Rai 3, 11 December 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-12-11-EMGAcqua.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 24.4–28.5%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 16.0–19.5%&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 30.0–34.3%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 7.2–9.8%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 3.2–5.0%&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 1.6–3.0%&lt;/li&gt;&lt;li&gt;Noi con l’Italia (EPP): 0.5–1.4%&lt;/li&gt;&lt;li&gt;Potere al Popolo (GUE/NGL): 1.4–2.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-12-11-EMGAcqua.png"
         length="215284"
         type="image/png"/>
-      <pubDate>Wed, 26 Dec 2018 19:50:26 +0100</pubDate>
-      <dc:date>2018-12-26T19:50:26.786117+01:00</dc:date>
+      <pubDate>Thu, 27 Dec 2018 09:02:11 +0100</pubDate>
+      <dc:date>2018-12-27T09:02:11.472605+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Tecnè for Quarta Repubblica, 10 December 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-12-10-Tecnè.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 17–22 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 10–14 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 23–28 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 7–10 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 0–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-12-10-Tecnè-seats.png"
+        length="161272"
+        type="image/png"/>
+      <pubDate>Thu, 27 Dec 2018 09:25:23 +0100</pubDate>
+      <dc:date>2018-12-27T09:25:23.622104+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Tecnè for Quarta Repubblica, 10 December 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-12-10-Tecnè.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-12-10-Tecnè-coalitions-seats.png"
+        length="150075"
+        type="image/png"/>
+      <pubDate>Thu, 27 Dec 2018 09:25:23 +0100</pubDate>
+      <dc:date>2018-12-27T09:25:23.622104+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Tecnè for Quarta Repubblica, 10 December 2018 – Voting Intentions</title>
@@ -126,8 +286,28 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-12-10-Tecnè.png"
         length="158156"
         type="image/png"/>
-      <pubDate>Wed, 26 Dec 2018 19:52:09 +0100</pubDate>
-      <dc:date>2018-12-26T19:52:09.921002+01:00</dc:date>
+      <pubDate>Thu, 27 Dec 2018 09:25:23 +0100</pubDate>
+      <dc:date>2018-12-27T09:25:23.622104+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SWG for LA7, 5–10 December 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-12-10-SWG.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 20–25 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 12–16 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 25–30 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6–9 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 0–4 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Potere al Popolo (GUE/NGL): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-12-10-SWG-seats.png"
+        length="171896"
+        type="image/png"/>
+      <pubDate>Thu, 27 Dec 2018 09:16:25 +0100</pubDate>
+      <dc:date>2018-12-27T09:16:25.180244+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SWG for LA7, 5–10 December 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-12-10-SWG.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-12-10-SWG-coalitions-seats.png"
+        length="130640"
+        type="image/png"/>
+      <pubDate>Thu, 27 Dec 2018 09:16:25 +0100</pubDate>
+      <dc:date>2018-12-27T09:16:25.180244+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SWG for LA7, 5–10 December 2018 – Voting Intentions</title>
@@ -136,8 +316,28 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-12-10-SWG.png"
         length="224734"
         type="image/png"/>
-      <pubDate>Wed, 26 Dec 2018 20:04:06 +0100</pubDate>
-      <dc:date>2018-12-26T20:04:06.518184+01:00</dc:date>
+      <pubDate>Thu, 27 Dec 2018 09:16:25 +0100</pubDate>
+      <dc:date>2018-12-27T09:16:25.180244+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Piepoli for Rai 1, 10 December 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-12-10-Piepoli.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 20–27 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 10–16 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 22–29 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 7–11 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 0–5 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0–4 seats&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Noi con l’Italia (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-12-10-Piepoli-seats.png"
+        length="203654"
+        type="image/png"/>
+      <pubDate>Wed, 26 Dec 2018 23:21:34 +0100</pubDate>
+      <dc:date>2018-12-26T23:21:34.285821+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Piepoli for Rai 1, 10 December 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-12-10-Piepoli.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-12-10-Piepoli-coalitions-seats.png"
+        length="165817"
+        type="image/png"/>
+      <pubDate>Wed, 26 Dec 2018 23:21:34 +0100</pubDate>
+      <dc:date>2018-12-26T23:21:34.285821+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Piepoli for Rai 1, 10 December 2018 – Voting Intentions</title>
@@ -146,8 +346,28 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-12-10-Piepoli.png"
         length="212041"
         type="image/png"/>
-      <pubDate>Wed, 26 Dec 2018 19:54:41 +0100</pubDate>
-      <dc:date>2018-12-26T19:54:41.745254+01:00</dc:date>
+      <pubDate>Wed, 26 Dec 2018 23:21:34 +0100</pubDate>
+      <dc:date>2018-12-26T23:21:34.285821+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Euromedia for Rai 1, 10 December 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-12-10-Euromedia.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 17–23 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 11–16 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 25–31 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6–9 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 0–5 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 0–4 seats&lt;/li&gt;&lt;li&gt;Noi con l’Italia (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-12-10-Euromedia-seats.png"
+        length="197141"
+        type="image/png"/>
+      <pubDate>Thu, 27 Dec 2018 09:57:02 +0100</pubDate>
+      <dc:date>2018-12-27T09:57:02.95898+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Euromedia for Rai 1, 10 December 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-12-10-Euromedia.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-12-10-Euromedia-coalitions-seats.png"
+        length="161161"
+        type="image/png"/>
+      <pubDate>Thu, 27 Dec 2018 09:57:02 +0100</pubDate>
+      <dc:date>2018-12-27T09:57:02.95898+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Euromedia for Rai 1, 10 December 2018 – Voting Intentions</title>
@@ -156,8 +376,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-12-10-Euromedia.png"
         length="200023"
         type="image/png"/>
-      <pubDate>Wed, 26 Dec 2018 19:47:33 +0100</pubDate>
-      <dc:date>2018-12-26T19:47:33.233271+01:00</dc:date>
+      <pubDate>Thu, 27 Dec 2018 09:57:02 +0100</pubDate>
+      <dc:date>2018-12-27T09:57:02.95898+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by EMG Acqua for Rai 3, 4–6 December 2018 – Voting Intentions</title>
@@ -6199,6 +6419,6 @@
       <pubDate>Tue, 10 Apr 2018 21:24:48 +0200</pubDate>
       <dc:date>2018-04-10T21:24:48.959229+02:00</dc:date>
     </item>
-    <dc:date>2018-12-26T20:38:10.516628+01:00</dc:date>
+    <dc:date>2018-12-27T10:50:21.429954+01:00</dc:date>
   </channel>
 </rss>
