@@ -273,7 +273,7 @@ Last result: **17** seats (General Election of 25 May 2014)
 | [5–10 December 2018](2018-12-10-SWG.html) | SWG <br> LA7 | 22 | 21–24 | 21–24 | 20–25 | 19–25 |
 | [10 December 2018](2018-12-10-Piepoli.html) | Piepoli <br> Rai 1 | 23 | 21–26 | 21–27 | 20–27 | 19–29 |
 | [10 December 2018](2018-12-10-Euromedia.html) | Euromedia <br> Rai 1 | 20 | 18–22 | 18–23 | 17–23 | 17–24 |
-| [4–6 December 2018](2018-12-06-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 21 | 20–22 | 19–22 | 19–23 | 19–23 |
+| [4–6 December 2018](2018-12-06-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 21 | 20–22 | 19–23 | 19–23 | 19–23 |
 | [28 November–3 December 2018](2018-12-03-SWG.html) | SWG <br> LA7 | 23 | 22–25 | 22–25 | 21–26 | 21–26 |
 | [1–2 December 2018](2018-12-02-Tecnè.html) | Tecnè <br> Quarta Repubblica | 20 | 18–21 | 18–21 | 17–22 | 17–23 |
 | [28–29 November 2018](2018-11-29-Demopolis.html) | Demopolis | 22 | 21–23 | 20–23 | 20–24 | 19–24 |
