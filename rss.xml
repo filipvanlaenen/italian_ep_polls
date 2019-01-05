@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 27 Dec 2018 19:17:47 +0100</pubDate>
+    <pubDate>Sat, 05 Jan 2019 13:52:34 +0100</pubDate>
     <item>
       <title>Opinion Poll by CISE, 10–19 December 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-12-19-CISE.html#seats</link>
@@ -40,14 +40,34 @@
       <dc:date>2018-12-27T10:12:31.377541+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Tecnè for Quarta Repubblica, 17 December 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-12-17-Tecnè.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 17–22 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 10–14 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 23–28 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 7–10 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 0–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-12-17-Tecnè-seats.png"
+        length="152250"
+        type="image/png"/>
+      <pubDate>Sat, 05 Jan 2019 13:52:34 +0100</pubDate>
+      <dc:date>2019-01-05T13:52:34.73303+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Tecnè for Quarta Repubblica, 17 December 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-12-17-Tecnè.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-12-17-Tecnè-coalitions-seats.png"
+        length="142404"
+        type="image/png"/>
+      <pubDate>Sat, 05 Jan 2019 13:52:34 +0100</pubDate>
+      <dc:date>2019-01-05T13:52:34.73303+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Tecnè for Quarta Repubblica, 17 December 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-12-17-Tecnè.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 22.5–28.5%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 14.6–19.9%&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 29.7–36.2%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 8.9–13.2%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 3.0–5.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-12-17-Tecnè.png"
-        length="158786"
+        length="158771"
         type="image/png"/>
-      <pubDate>Wed, 26 Dec 2018 23:25:02 +0100</pubDate>
-      <dc:date>2018-12-26T23:25:02.135788+01:00</dc:date>
+      <pubDate>Sat, 05 Jan 2019 13:52:34 +0100</pubDate>
+      <dc:date>2019-01-05T13:52:34.73303+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SWG for LA7, 12–17 December 2018 – Seat Projections for the Parties</title>
@@ -6439,6 +6459,6 @@
       <pubDate>Tue, 10 Apr 2018 21:24:48 +0200</pubDate>
       <dc:date>2018-04-10T21:24:48.959229+02:00</dc:date>
     </item>
-    <dc:date>2018-12-27T19:17:47.977269+01:00</dc:date>
+    <dc:date>2019-01-05T13:52:34.73303+01:00</dc:date>
   </channel>
 </rss>
