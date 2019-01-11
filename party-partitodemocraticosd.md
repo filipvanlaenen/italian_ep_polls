@@ -10,8 +10,16 @@ Last result: **40.8%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.3% | 15.7–19.1% | 15.2–19.6% | 14.9–20.1% | 14.1–21.0% |
+| N/A | [Poll Average](average.html) | 17.2% | 15.4–19.1% | 14.7–19.6% | 14.2–20.1% | 13.2–21.0% |
+| [8 January 2019](2019-01-08-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 19.1% | 17.8–20.4% | 17.5–20.8% | 17.2–21.1% | 16.6–21.8% |
+| [6–7 January 2019](2019-01-07-Tecnè.html) | Tecnè <br> Quarta Repubblica | 17.8% | 16.4–19.5% | 16.0–19.9% | 15.6–20.3% | 14.9–21.2% |
+| [3–7 January 2019](2019-01-07-SWG.html) | SWG <br> LA7 | 17.3% | 16.1–18.6% | 15.7–18.9% | 15.4–19.3% | 14.9–19.9% |
+| [23–30 December 2018](2018-12-30-GPFInspiringResearch.html) | GPF Inspiring Research <br> La Notizia | 17.0% | 15.5–18.7% | 15.0–19.2% | 14.7–19.6% | 14.0–20.5% |
+| [20–21 December 2018](2018-12-21-Ipsos.html) | Ipsos <br> Corriere della Sera | 18.1% | 16.6–19.7% | 16.2–20.2% | 15.8–20.6% | 15.2–21.4% |
+| [17–21 December 2018](2018-12-21-BiDiMedia.html) | BiDiMedia | 16.9% | 15.5–18.5% | 15.1–18.9% | 14.7–19.3% | 14.1–20.1% |
+| [20 December 2018](2018-12-20-LorienConsulting.html) | Lorien Consulting | 14.7% | 13.3–16.2% | 13.0–16.7% | 12.6–17.0% | 12.0–17.8% |
 | [10–19 December 2018](2018-12-19-CISE.html) | CISE | 16.9% | 15.5–18.4% | 15.1–18.8% | 14.8–19.2% | 14.2–20.0% |
+| [18 December 2018](2018-12-18-EMGAcqua.html) | EMG Acqua | 18.0% | 16.8–19.3% | 16.5–19.6% | 16.2–20.0% | 15.6–20.6% |
 | [17 December 2018](2018-12-17-Tecnè.html) | Tecnè <br> Quarta Repubblica | 17.1% | 15.5–18.9% | 15.0–19.4% | 14.6–19.9% | 13.9–20.8% |
 | [12–17 December 2018](2018-12-17-SWG.html) | SWG <br> LA7 | 16.8% | 15.6–18.1% | 15.3–18.5% | 15.0–18.8% | 14.4–19.4% |
 | [12–14 December 2018](2018-12-14-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 16.8% | 15.3–18.4% | 14.9–18.8% | 14.6–19.2% | 13.9–20.0% |
@@ -233,13 +241,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 0.1% | 100% |  |
-| 13.5–14.5% | 1.2% | 99.9% |  |
-| 14.5–15.5% | 7% | 98.7% |  |
-| 15.5–16.5% | 20% | 92% |  |
-| 16.5–17.5% | 29% | 72% | Median |
-| 17.5–18.5% | 25% | 43% |  |
+| 10.5–11.5% | 0% | 100% |  |
+| 11.5–12.5% | 0.1% | 100% |  |
+| 12.5–13.5% | 0.9% | 99.9% |  |
+| 13.5–14.5% | 3% | 99.0% |  |
+| 14.5–15.5% | 8% | 96% |  |
+| 15.5–16.5% | 19% | 88% |  |
+| 16.5–17.5% | 27% | 68% | Median |
+| 17.5–18.5% | 23% | 41% |  |
 | 18.5–19.5% | 13% | 18% |  |
 | 19.5–20.5% | 4% | 6% |  |
 | 20.5–21.5% | 1.0% | 1.1% |  |
@@ -273,8 +282,16 @@ Last result: **31** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 12–15 | 11–16 | 11–16 | 10–17 |
+| N/A | [Poll Average](average.html) | 13 | 11–15 | 11–16 | 11–16 | 10–17 |
+| [8 January 2019](2019-01-08-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 14 | 13–16 | 13–16 | 13–16 | 12–16 |
+| [6–7 January 2019](2019-01-07-Tecnè.html) | Tecnè <br> Quarta Repubblica | 13 | 11–14 | 11–15 | 11–15 | 10–15 |
+| [3–7 January 2019](2019-01-07-SWG.html) | SWG <br> LA7 | 14 | 13–15 | 12–15 | 12–15 | 11–16 |
+| [23–30 December 2018](2018-12-30-GPFInspiringResearch.html) | GPF Inspiring Research <br> La Notizia | 13 | 12–15 | 11–15 | 11–15 | 11–16 |
+| [20–21 December 2018](2018-12-21-Ipsos.html) | Ipsos <br> Corriere della Sera | 14 | 13–15 | 13–16 | 12–16 | 12–17 |
+| [17–21 December 2018](2018-12-21-BiDiMedia.html) | BiDiMedia | 13 | 12–15 | 11–15 | 11–15 | 11–16 |
+| [20 December 2018](2018-12-20-LorienConsulting.html) | Lorien Consulting | 12 | 11–13 | 10–13 | 10–13 | 9–14 |
 | [10–19 December 2018](2018-12-19-CISE.html) | CISE | 13 | 12–15 | 12–15 | 11–16 | 11–16 |
+| [18 December 2018](2018-12-18-EMGAcqua.html) | EMG Acqua | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
 | [17 December 2018](2018-12-17-Tecnè.html) | Tecnè <br> Quarta Repubblica | 12 | 11–14 | 10–14 | 10–14 | 10–15 |
 | [12–17 December 2018](2018-12-17-SWG.html) | SWG <br> LA7 | 13 | 12–14 | 12–15 | 12–15 | 11–16 |
 | [12–14 December 2018](2018-12-14-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 12 | 11–13 | 11–14 | 10–14 | 10–15 |
@@ -499,14 +516,14 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 9 | 0.1% | 100% |  |
-| 10 | 1.1% | 99.9% |  |
-| 11 | 8% | 98.8% |  |
-| 12 | 21% | 91% |  |
-| 13 | 28% | 70% | Median |
+| 10 | 1.4% | 99.9% |  |
+| 11 | 9% | 98% |  |
+| 12 | 22% | 90% |  |
+| 13 | 26% | 68% | Median |
 | 14 | 23% | 42% |  |
-| 15 | 13% | 19% |  |
+| 15 | 13% | 18% |  |
 | 16 | 4% | 6% |  |
-| 17 | 1.1% | 1.2% |  |
+| 17 | 1.0% | 1.2% |  |
 | 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
 | 20 | 0% | 0% |  |

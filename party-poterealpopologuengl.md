@@ -10,8 +10,16 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.0% | 1.3–2.8% | 1.1–3.0% | 1.0–3.2% | 0.8–3.6% |
+| N/A | [Poll Average](average.html) | 2.0% | 1.3–2.7% | 1.2–3.0% | 1.0–3.2% | 0.8–3.6% |
+| [8 January 2019](2019-01-08-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 2.0% | 1.6–2.6% | 1.5–2.7% | 1.4–2.9% | 1.2–3.1% |
+| [6–7 January 2019](2019-01-07-Tecnè.html) | Tecnè <br> Quarta Repubblica | 0.0% | N/A | N/A | N/A | N/A |
+| [3–7 January 2019](2019-01-07-SWG.html) | SWG <br> LA7 | 2.2% | 1.8–2.8% | 1.7–2.9% | 1.6–3.1% | 1.4–3.4% |
+| [23–30 December 2018](2018-12-30-GPFInspiringResearch.html) | GPF Inspiring Research <br> La Notizia | 1.3% | 1.0–2.0% | 0.9–2.2% | 0.8–2.3% | 0.6–2.7% |
+| [20–21 December 2018](2018-12-21-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.0% | N/A | N/A | N/A | N/A |
+| [17–21 December 2018](2018-12-21-BiDiMedia.html) | BiDiMedia | 1.7% | 1.2–2.3% | 1.1–2.5% | 1.0–2.7% | 0.9–3.0% |
+| [20 December 2018](2018-12-20-LorienConsulting.html) | Lorien Consulting | 1.8% | 1.4–2.5% | 1.2–2.7% | 1.1–2.8% | 1.0–3.2% |
 | [10–19 December 2018](2018-12-19-CISE.html) | CISE | 2.4% | 1.9–3.1% | 1.8–3.3% | 1.7–3.5% | 1.5–3.9% |
+| [18 December 2018](2018-12-18-EMGAcqua.html) | EMG Acqua | 1.9% | 1.5–2.5% | 1.4–2.6% | 1.4–2.7% | 1.2–3.0% |
 | [17 December 2018](2018-12-17-Tecnè.html) | Tecnè <br> Quarta Repubblica | 0.0% | N/A | N/A | N/A | N/A |
 | [12–17 December 2018](2018-12-17-SWG.html) | SWG <br> LA7 | 2.4% | 2.0–3.0% | 1.8–3.2% | 1.7–3.3% | 1.5–3.6% |
 | [12–14 December 2018](2018-12-14-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 0.0% | N/A | N/A | N/A | N/A |
@@ -234,10 +242,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 23% | 100% |  |
-| 1.5–2.5% | 59% | 77% | Median |
-| 2.5–3.5% | 17% | 17% |  |
-| 3.5–4.5% | 0.6% | 0.6% |  |
+| 0.5–1.5% | 22% | 100% |  |
+| 1.5–2.5% | 61% | 78% | Median |
+| 2.5–3.5% | 16% | 16% |  |
+| 3.5–4.5% | 0.5% | 0.6% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -250,7 +258,15 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [8 January 2019](2019-01-08-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
+| [6–7 January 2019](2019-01-07-Tecnè.html) | Tecnè <br> Quarta Repubblica |  |  |  |  |  |
+| [3–7 January 2019](2019-01-07-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
+| [23–30 December 2018](2018-12-30-GPFInspiringResearch.html) | GPF Inspiring Research <br> La Notizia | 0 | 0 | 0 | 0 | 0 |
+| [20–21 December 2018](2018-12-21-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
+| [17–21 December 2018](2018-12-21-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
+| [20 December 2018](2018-12-20-LorienConsulting.html) | Lorien Consulting | 0 | 0 | 0 | 0 | 0 |
 | [10–19 December 2018](2018-12-19-CISE.html) | CISE | 0 | 0 | 0 | 0 | 0 |
+| [18 December 2018](2018-12-18-EMGAcqua.html) | EMG Acqua | 0 | 0 | 0 | 0 | 0 |
 | [17 December 2018](2018-12-17-Tecnè.html) | Tecnè <br> Quarta Repubblica |  |  |  |  |  |
 | [12–17 December 2018](2018-12-17-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
 | [12–14 December 2018](2018-12-14-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 |  |  |  |  |  |
