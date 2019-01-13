@@ -289,13 +289,13 @@ Last result: **5** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 26 | 24–29 | 23–29 | 23–30 | 22–31 |
 | [8 January 2019](2019-01-08-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 25 | 24–27 | 23–27 | 23–27 | 23–27 |
 | [6–7 January 2019](2019-01-07-Tecnè.html) | Tecnè <br> Quarta Repubblica | 24 | 23–26 | 22–26 | 22–27 | 21–28 |
-| [3–7 January 2019](2019-01-07-SWG.html) | SWG <br> LA7 | 28 | 26–30 | 25–30 | 25–30 | 24–31 |
+| [3–7 January 2019](2019-01-07-SWG.html) | SWG <br> LA7 | 27 | 26–29 | 25–30 | 25–30 | 24–31 |
 | [23–30 December 2018](2018-12-30-GPFInspiringResearch.html) | GPF Inspiring Research <br> La Notizia | 26 | 25–28 | 24–29 | 23–29 | 23–30 |
-| [20–21 December 2018](2018-12-21-Ipsos.html) | Ipsos <br> Corriere della Sera | 27 | 25–29 | 25–30 | 25–30 | 24–31 |
+| [20–21 December 2018](2018-12-21-Ipsos.html) | Ipsos <br> Corriere della Sera | 27 | 26–29 | 25–30 | 25–30 | 24–31 |
 | [17–21 December 2018](2018-12-21-BiDiMedia.html) | BiDiMedia | 26 | 25–28 | 24–29 | 24–29 | 23–30 |
 | [20 December 2018](2018-12-20-LorienConsulting.html) | Lorien Consulting | 28 | 26–28 | 25–29 | 24–30 | 23–30 |
 | [10–19 December 2018](2018-12-19-CISE.html) | CISE | 26 | 24–28 | 23–29 | 23–29 | 22–31 |
-| [18 December 2018](2018-12-18-EMGAcqua.html) | EMG Acqua | 25 | 24–27 | 24–27 | 24–28 | 23–28 |
+| [18 December 2018](2018-12-18-EMGAcqua.html) | EMG Acqua | 26 | 24–27 | 24–27 | 23–28 | 23–28 |
 | [17 December 2018](2018-12-17-Tecnè.html) | Tecnè <br> Quarta Repubblica | 25 | 23–27 | 23–28 | 23–28 | 22–29 |
 | [12–17 December 2018](2018-12-17-SWG.html) | SWG <br> LA7 | 28 | 26–30 | 26–30 | 25–31 | 25–32 |
 | [12–14 December 2018](2018-12-14-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 25 | 23–26 | 23–27 | 22–27 | 22–28 |
@@ -538,12 +538,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 21 | 0.1% | 100% |  |
 | 22 | 0.9% | 99.9% |  |
 | 23 | 4% | 99.0% |  |
-| 24 | 11% | 95% |  |
-| 25 | 16% | 84% |  |
-| 26 | 20% | 67% | Median |
-| 27 | 19% | 48% |  |
+| 24 | 10% | 95% |  |
+| 25 | 16% | 85% |  |
+| 26 | 19% | 68% | Median |
+| 27 | 21% | 49% |  |
 | 28 | 16% | 28% |  |
-| 29 | 8% | 12% |  |
+| 29 | 7% | 12% |  |
 | 30 | 3% | 5% |  |
 | 31 | 1.2% | 2% |  |
 | 32 | 0.3% | 0.4% |  |
