@@ -283,13 +283,13 @@ Last result: **31** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 11–15 | 11–16 | 11–16 | 10–17 |
-| [8 January 2019](2019-01-08-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 14 | 13–16 | 13–16 | 13–16 | 12–16 |
-| [6–7 January 2019](2019-01-07-Tecnè.html) | Tecnè <br> Quarta Repubblica | 13 | 11–14 | 11–15 | 11–15 | 10–15 |
+| [8 January 2019](2019-01-08-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 14 | 13–16 | 13–16 | 13–16 | 12–17 |
+| [6–7 January 2019](2019-01-07-Tecnè.html) | Tecnè <br> Quarta Repubblica | 13 | 11–14 | 11–14 | 11–15 | 10–15 |
 | [3–7 January 2019](2019-01-07-SWG.html) | SWG <br> LA7 | 14 | 13–15 | 12–15 | 12–16 | 11–16 |
 | [23–30 December 2018](2018-12-30-GPFInspiringResearch.html) | GPF Inspiring Research <br> La Notizia | 13 | 12–15 | 11–15 | 11–15 | 11–16 |
 | [20–21 December 2018](2018-12-21-Ipsos.html) | Ipsos <br> Corriere della Sera | 14 | 13–15 | 12–16 | 12–16 | 12–17 |
 | [17–21 December 2018](2018-12-21-BiDiMedia.html) | BiDiMedia | 13 | 12–15 | 11–15 | 11–15 | 11–16 |
-| [20 December 2018](2018-12-20-LorienConsulting.html) | Lorien Consulting | 12 | 11–13 | 10–13 | 10–13 | 9–14 |
+| [20 December 2018](2018-12-20-LorienConsulting.html) | Lorien Consulting | 11 | 10–13 | 10–13 | 10–14 | 9–14 |
 | [10–19 December 2018](2018-12-19-CISE.html) | CISE | 13 | 12–15 | 12–15 | 11–16 | 11–16 |
 | [18 December 2018](2018-12-18-EMGAcqua.html) | EMG Acqua | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
 | [17 December 2018](2018-12-17-Tecnè.html) | Tecnè <br> Quarta Repubblica | 12 | 11–14 | 10–14 | 10–14 | 10–15 |
@@ -515,10 +515,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 0.1% | 100% |  |
-| 10 | 1.4% | 99.9% |  |
+| 9 | 0.2% | 100% |  |
+| 10 | 2% | 99.8% |  |
 | 11 | 9% | 98% |  |
-| 12 | 22% | 89% |  |
+| 12 | 21% | 89% |  |
 | 13 | 27% | 68% | Median |
 | 14 | 22% | 41% |  |
 | 15 | 13% | 19% |  |

@@ -267,14 +267,14 @@ Last result: **17** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22 | 20–25 | 19–26 | 18–26 | 17–27 |
-| [8 January 2019](2019-01-08-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 21 | 20–22 | 20–23 | 19–23 | 19–24 |
-| [6–7 January 2019](2019-01-07-Tecnè.html) | Tecnè <br> Quarta Repubblica | 19 | 18–21 | 17–21 | 17–22 | 16–22 |
+| N/A | [Poll Average](average.html) | 22 | 20–24 | 19–25 | 18–26 | 17–27 |
+| [8 January 2019](2019-01-08-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 21 | 20–23 | 20–23 | 19–23 | 19–24 |
+| [6–7 January 2019](2019-01-07-Tecnè.html) | Tecnè <br> Quarta Repubblica | 19 | 18–21 | 17–21 | 17–21 | 16–22 |
 | [3–7 January 2019](2019-01-07-SWG.html) | SWG <br> LA7 | 22 | 21–24 | 20–25 | 20–25 | 19–26 |
 | [23–30 December 2018](2018-12-30-GPFInspiringResearch.html) | GPF Inspiring Research <br> La Notizia | 24 | 22–25 | 22–26 | 21–27 | 21–27 |
 | [20–21 December 2018](2018-12-21-Ipsos.html) | Ipsos <br> Corriere della Sera | 22 | 21–24 | 20–25 | 20–25 | 19–26 |
 | [17–21 December 2018](2018-12-21-BiDiMedia.html) | BiDiMedia | 22 | 21–24 | 20–24 | 20–25 | 19–26 |
-| [20 December 2018](2018-12-20-LorienConsulting.html) | Lorien Consulting | 25 | 23–27 | 22–27 | 22–27 | 20–27 |
+| [20 December 2018](2018-12-20-LorienConsulting.html) | Lorien Consulting | 24 | 23–26 | 22–27 | 21–27 | 20–28 |
 | [10–19 December 2018](2018-12-19-CISE.html) | CISE | 23 | 21–25 | 21–26 | 20–26 | 20–27 |
 | [18 December 2018](2018-12-18-EMGAcqua.html) | EMG Acqua | 23 | 21–24 | 21–24 | 21–25 | 20–25 |
 | [17 December 2018](2018-12-17-Tecnè.html) | Tecnè <br> Quarta Repubblica | 19 | 18–21 | 17–22 | 17–22 | 16–23 |
@@ -508,10 +508,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 21 | 17% | 81% |  |
 | 22 | 22% | 64% | Median |
 | 23 | 19% | 42% |  |
-| 24 | 12% | 22% |  |
-| 25 | 5% | 10% |  |
-| 26 | 3% | 5% |  |
-| 27 | 2% | 2% |  |
+| 24 | 13% | 22% |  |
+| 25 | 6% | 10% |  |
+| 26 | 2% | 3% |  |
+| 27 | 1.0% | 1.1% |  |
 | 28 | 0.1% | 0.2% |  |
 | 29 | 0% | 0% |  |
 

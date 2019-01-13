@@ -266,12 +266,12 @@ Last result: **13** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 6–9 | 6–10 | 6–10 | 5–11 |
 | [8 January 2019](2019-01-08-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
-| [6–7 January 2019](2019-01-07-Tecnè.html) | Tecnè <br> Quarta Repubblica | 8 | 7–9 | 7–10 | 7–10 | 6–11 |
+| [6–7 January 2019](2019-01-07-Tecnè.html) | Tecnè <br> Quarta Repubblica | 8 | 7–9 | 7–10 | 7–10 | 7–11 |
 | [3–7 January 2019](2019-01-07-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [23–30 December 2018](2018-12-30-GPFInspiringResearch.html) | GPF Inspiring Research <br> La Notizia | 9 | 8–10 | 8–11 | 7–11 | 7–11 |
 | [20–21 December 2018](2018-12-21-Ipsos.html) | Ipsos <br> Corriere della Sera | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
 | [17–21 December 2018](2018-12-21-BiDiMedia.html) | BiDiMedia | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
-| [20 December 2018](2018-12-20-LorienConsulting.html) | Lorien Consulting | 9 | 8–10 | 8–10 | 8–11 | 7–12 |
+| [20 December 2018](2018-12-20-LorienConsulting.html) | Lorien Consulting | 9 | 8–10 | 8–11 | 8–11 | 7–12 |
 | [10–19 December 2018](2018-12-19-CISE.html) | CISE | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | [18 December 2018](2018-12-18-EMGAcqua.html) | EMG Acqua | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [17 December 2018](2018-12-17-Tecnè.html) | Tecnè <br> Quarta Repubblica | 8 | 7–10 | 7–10 | 7–10 | 6–11 |
@@ -500,11 +500,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 2% | 100% |  |
 | 6 | 14% | 98% |  |
 | 7 | 33% | 85% |  |
-| 8 | 27% | 51% | Median |
-| 9 | 18% | 24% |  |
-| 10 | 5% | 6% |  |
-| 11 | 1.0% | 1.3% |  |
-| 12 | 0.2% | 0.3% |  |
+| 8 | 27% | 52% | Median |
+| 9 | 16% | 24% |  |
+| 10 | 6% | 8% |  |
+| 11 | 1.4% | 2% |  |
+| 12 | 0.2% | 0.2% |  |
 | 13 | 0% | 0% | Last Result |
 
 

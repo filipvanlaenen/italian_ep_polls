@@ -266,7 +266,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [23–30 December 2018](2018-12-30-GPFInspiringResearch.html) | GPF Inspiring Research <br> La Notizia | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [20–21 December 2018](2018-12-21-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [17–21 December 2018](2018-12-21-BiDiMedia.html) | BiDiMedia | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
-| [20 December 2018](2018-12-20-LorienConsulting.html) | Lorien Consulting | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [20 December 2018](2018-12-20-LorienConsulting.html) | Lorien Consulting | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [10–19 December 2018](2018-12-19-CISE.html) | CISE | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [18 December 2018](2018-12-18-EMGAcqua.html) | EMG Acqua | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [17 December 2018](2018-12-17-Tecnè.html) | Tecnè <br> Quarta Repubblica | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
