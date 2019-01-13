@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 13 Jan 2019 12:05:07 +0100</pubDate>
+    <pubDate>Sun, 13 Jan 2019 14:53:08 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by EMG Acqua for Rai 3, 8 January 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-01-08-EMGAcqua.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 19–23 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 13–16 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 23–27 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 0–4 seats&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Noi con l’Italia (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Potere al Popolo (GUE/NGL): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-01-08-EMGAcqua-seats.png"
+        length="178887"
+        type="image/png"/>
+      <pubDate>Sun, 13 Jan 2019 14:53:08 +0100</pubDate>
+      <dc:date>2019-01-13T14:53:08.12524+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by EMG Acqua for Rai 3, 8 January 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-01-08-EMGAcqua.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-01-08-EMGAcqua-coalitions-seats.png"
+        length="141507"
+        type="image/png"/>
+      <pubDate>Sun, 13 Jan 2019 14:53:08 +0100</pubDate>
+      <dc:date>2019-01-13T14:53:08.12524+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by EMG Acqua for Rai 3, 8 January 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-01-08-EMGAcqua.html</link>
@@ -16,8 +36,28 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-01-08-EMGAcqua.png"
         length="217468"
         type="image/png"/>
-      <pubDate>Fri, 11 Jan 2019 19:18:57 +0100</pubDate>
-      <dc:date>2019-01-11T19:18:57.97931+01:00</dc:date>
+      <pubDate>Sun, 13 Jan 2019 14:53:08 +0100</pubDate>
+      <dc:date>2019-01-13T14:53:08.12524+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Tecnè for Quarta Repubblica, 6–7 January 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-01-07-Tecnè.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 17–21 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 11–15 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 22–27 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 7–10 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 0–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-01-07-Tecnè-seats.png"
+        length="150764"
+        type="image/png"/>
+      <pubDate>Sun, 13 Jan 2019 13:20:43 +0100</pubDate>
+      <dc:date>2019-01-13T13:20:43.879962+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Tecnè for Quarta Repubblica, 6–7 January 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-01-07-Tecnè.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-01-07-Tecnè-coalitions-seats.png"
+        length="139756"
+        type="image/png"/>
+      <pubDate>Sun, 13 Jan 2019 13:20:43 +0100</pubDate>
+      <dc:date>2019-01-13T13:20:43.879962+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Tecnè for Quarta Repubblica, 6–7 January 2019 – Voting Intentions</title>
@@ -26,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-01-07-Tecnè.png"
         length="154696"
         type="image/png"/>
-      <pubDate>Fri, 11 Jan 2019 19:50:07 +0100</pubDate>
-      <dc:date>2019-01-11T19:50:07.950515+01:00</dc:date>
+      <pubDate>Sun, 13 Jan 2019 13:20:43 +0100</pubDate>
+      <dc:date>2019-01-13T13:20:43.879962+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SWG for LA7, 3–7 January 2019 – Seat Projections for the Parties</title>
@@ -150,14 +190,34 @@
       <dc:date>2019-01-11T20:07:06.807345+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Lorien Consulting, 20 December 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-12-20-LorienConsulting.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 21–27 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 10–14 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 24–30 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 8–11 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 0–4 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Noi con l’Italia (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Potere al Popolo (GUE/NGL): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-12-20-LorienConsulting-seats.png"
+        length="183690"
+        type="image/png"/>
+      <pubDate>Sun, 13 Jan 2019 14:36:49 +0100</pubDate>
+      <dc:date>2019-01-13T14:36:49.700277+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Lorien Consulting, 20 December 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-12-20-LorienConsulting.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-12-20-LorienConsulting-coalitions-seats.png"
+        length="139347"
+        type="image/png"/>
+      <pubDate>Sun, 13 Jan 2019 14:36:49 +0100</pubDate>
+      <dc:date>2019-01-13T14:36:49.700277+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Lorien Consulting, 20 December 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2018-12-20-LorienConsulting.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 25.8–31.4%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 12.6–17.0%&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 28.6–34.4%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 9.2–13.1%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 2.4–4.7%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 1.6–3.6%&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 1.1–2.8%&lt;/li&gt;&lt;li&gt;Noi con l’Italia (EPP): 0.4–1.6%&lt;/li&gt;&lt;li&gt;Potere al Popolo (GUE/NGL): 1.1–2.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-12-20-LorienConsulting.png"
         length="246030"
         type="image/png"/>
-      <pubDate>Fri, 11 Jan 2019 19:21:57 +0100</pubDate>
-      <dc:date>2019-01-11T19:21:57.368224+01:00</dc:date>
+      <pubDate>Sun, 13 Jan 2019 14:36:49 +0100</pubDate>
+      <dc:date>2019-01-13T14:36:49.700277+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by CISE, 10–19 December 2018 – Seat Projections for the Parties</title>
@@ -6639,6 +6699,6 @@
       <pubDate>Tue, 10 Apr 2018 21:24:48 +0200</pubDate>
       <dc:date>2018-04-10T21:24:48.959229+02:00</dc:date>
     </item>
-    <dc:date>2019-01-13T12:05:07.837661+01:00</dc:date>
+    <dc:date>2019-01-13T14:53:08.12524+01:00</dc:date>
   </channel>
 </rss>
