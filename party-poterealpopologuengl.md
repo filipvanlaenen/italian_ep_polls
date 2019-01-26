@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.0% | 1.3–2.7% | 1.2–3.0% | 1.0–3.2% | 0.8–3.6% |
+| N/A | [Poll Average](average.html) | 2.0% | 1.3–2.7% | 1.2–2.9% | 1.0–3.1% | 0.8–3.6% |
 | [8 January 2019](2019-01-08-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 2.0% | 1.6–2.6% | 1.5–2.7% | 1.4–2.9% | 1.2–3.1% |
 | [6–7 January 2019](2019-01-07-Tecnè.html) | Tecnè <br> Quarta Repubblica | 0.0% | N/A | N/A | N/A | N/A |
 | [3–7 January 2019](2019-01-07-SWG.html) | SWG <br> LA7 | 2.2% | 1.8–2.8% | 1.7–2.9% | 1.6–3.1% | 1.4–3.4% |
@@ -243,9 +243,9 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 22% | 100% |  |
-| 1.5–2.5% | 61% | 78% | Median |
-| 2.5–3.5% | 16% | 16% |  |
-| 3.5–4.5% | 0.5% | 0.6% |  |
+| 1.5–2.5% | 63% | 78% | Median |
+| 2.5–3.5% | 15% | 15% |  |
+| 3.5–4.5% | 0.5% | 0.5% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
