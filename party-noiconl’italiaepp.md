@@ -10,7 +10,13 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.7% | 0.3–1.3% | 0.2–1.4% | 0.2–1.6% | 0.1–1.9% |
+| N/A | [Poll Average](average.html) | 0.7% | 0.3–1.2% | 0.2–1.4% | 0.1–1.5% | 0.1–1.9% |
+| [14–15 January 2019](2019-01-15-Demopolis.html) | Demopolis | 0.0% | N/A | N/A | N/A | N/A |
+| [9–14 January 2019](2019-01-14-SWG.html) | SWG <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
+| [9–10 January 2019](2019-01-10-Tecnè.html) | Tecnè <br> Il Giornale | 0.0% | N/A | N/A | N/A | N/A |
+| [7–10 January 2019](2019-01-10-BiDiMedia.html) | BiDiMedia | 0.4% | 0.2–0.7% | 0.2–0.8% | 0.1–0.9% | 0.1–1.2% |
+| [8–9 January 2019](2019-01-09-IndexResearch.html) | Index Research <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
+| [8 January 2019](2019-01-08-Piepoli.html) | Piepoli <br> La Stampa | 0.6% | 0.3–1.3% | 0.3–1.5% | 0.2–1.7% | 0.1–2.2% |
 | [8 January 2019](2019-01-08-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0.8% | 0.5–1.2% | 0.5–1.3% | 0.4–1.4% | 0.4–1.6% |
 | [6–7 January 2019](2019-01-07-Tecnè.html) | Tecnè <br> Quarta Repubblica | 0.0% | N/A | N/A | N/A | N/A |
 | [3–7 January 2019](2019-01-07-SWG.html) | SWG <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
@@ -241,9 +247,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 31% | 100% | Last Result |
-| 0.5–1.5% | 67% | 69% | Median |
-| 1.5–2.5% | 3% | 3% |  |
+| 0.0–0.5% | 37% | 100% | Last Result |
+| 0.5–1.5% | 61% | 63% | Median |
+| 1.5–2.5% | 2% | 2% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -256,6 +262,12 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [14–15 January 2019](2019-01-15-Demopolis.html) | Demopolis |  |  |  |  |  |
+| [9–14 January 2019](2019-01-14-SWG.html) | SWG <br> LA7 |  |  |  |  |  |
+| [9–10 January 2019](2019-01-10-Tecnè.html) | Tecnè <br> Il Giornale |  |  |  |  |  |
+| [7–10 January 2019](2019-01-10-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
+| [8–9 January 2019](2019-01-09-IndexResearch.html) | Index Research <br> LA7 |  |  |  |  |  |
+| [8 January 2019](2019-01-08-Piepoli.html) | Piepoli <br> La Stampa | 0 | 0 | 0 | 0 | 0 |
 | [8 January 2019](2019-01-08-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [6–7 January 2019](2019-01-07-Tecnè.html) | Tecnè <br> Quarta Repubblica |  |  |  |  |  |
 | [3–7 January 2019](2019-01-07-SWG.html) | SWG <br> LA7 |  |  |  |  |  |

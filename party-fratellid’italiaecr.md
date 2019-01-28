@@ -10,7 +10,13 @@ Last result: **3.7%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.9% | 3.1–5.0% | 2.9–5.3% | 2.7–5.6% | 2.4–6.3% |
+| N/A | [Poll Average](average.html) | 3.9% | 3.1–5.0% | 2.9–5.3% | 2.7–5.6% | 2.3–6.2% |
+| [14–15 January 2019](2019-01-15-Demopolis.html) | Demopolis | 3.4% | 2.9–4.1% | 2.7–4.3% | 2.6–4.5% | 2.4–4.8% |
+| [9–14 January 2019](2019-01-14-SWG.html) | SWG <br> LA7 | 4.2% | 3.6–5.0% | 3.4–5.2% | 3.3–5.3% | 3.0–5.7% |
+| [9–10 January 2019](2019-01-10-Tecnè.html) | Tecnè <br> Il Giornale | 3.9% | 3.4–4.5% | 3.2–4.7% | 3.1–4.8% | 2.9–5.2% |
+| [7–10 January 2019](2019-01-10-BiDiMedia.html) | BiDiMedia | 3.3% | 2.7–4.1% | 2.5–4.3% | 2.4–4.5% | 2.1–4.9% |
+| [8–9 January 2019](2019-01-09-IndexResearch.html) | Index Research <br> LA7 | 4.1% | 3.4–5.2% | 3.1–5.5% | 3.0–5.7% | 2.6–6.3% |
+| [8 January 2019](2019-01-08-Piepoli.html) | Piepoli <br> La Stampa | 3.6% | 2.7–4.9% | 2.5–5.2% | 2.3–5.6% | 1.9–6.3% |
 | [8 January 2019](2019-01-08-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 4.1% | 3.5–4.8% | 3.3–5.0% | 3.2–5.2% | 2.9–5.6% |
 | [6–7 January 2019](2019-01-07-Tecnè.html) | Tecnè <br> Quarta Repubblica | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.1–5.6% | 2.8–6.1% |
 | [3–7 January 2019](2019-01-07-SWG.html) | SWG <br> LA7 | 3.8% | 3.2–4.5% | 3.1–4.7% | 2.9–4.9% | 2.7–5.3% |
@@ -242,9 +248,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 1.3% | 100% |  |
-| 2.5–3.5% | 28% | 98.7% |  |
-| 3.5–4.5% | 49% | 70% | Last Result, Median |
+| 1.5–2.5% | 1.4% | 100% |  |
+| 2.5–3.5% | 28% | 98.6% |  |
+| 3.5–4.5% | 50% | 71% | Last Result, Median |
 | 4.5–5.5% | 18% | 21% |  |
 | 5.5–6.5% | 3% | 3% |  |
 | 6.5–7.5% | 0.2% | 0.2% |  |
@@ -260,6 +266,12 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
+| [14–15 January 2019](2019-01-15-Demopolis.html) | Demopolis | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
+| [9–14 January 2019](2019-01-14-SWG.html) | SWG <br> LA7 | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
+| [9–10 January 2019](2019-01-10-Tecnè.html) | Tecnè <br> Il Giornale | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [7–10 January 2019](2019-01-10-BiDiMedia.html) | BiDiMedia | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [8–9 January 2019](2019-01-09-IndexResearch.html) | Index Research <br> LA7 | 3 | 0–4 | 0–5 | 0–5 | 0–5 |
+| [8 January 2019](2019-01-08-Piepoli.html) | Piepoli <br> La Stampa | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [8 January 2019](2019-01-08-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [6–7 January 2019](2019-01-07-Tecnè.html) | Tecnè <br> Quarta Repubblica | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [3–7 January 2019](2019-01-07-SWG.html) | SWG <br> LA7 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
@@ -492,11 +504,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 55% | 100% | Last Result, Median |
-| 1 | 0% | 45% |  |
-| 2 | 0% | 45% |  |
-| 3 | 15% | 45% |  |
-| 4 | 28% | 30% |  |
+| 0 | 54% | 100% | Last Result, Median |
+| 1 | 0% | 46% |  |
+| 2 | 0% | 46% |  |
+| 3 | 16% | 46% |  |
+| 4 | 27% | 30% |  |
 | 5 | 3% | 3% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
