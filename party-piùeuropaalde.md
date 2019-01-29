@@ -10,7 +10,16 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.7% | 1.8–3.7% | 1.6–4.0% | 1.4–4.3% | 1.1–4.8% |
+| N/A | [Poll Average](average.html) | 2.7% | 1.8–3.8% | 1.6–4.1% | 1.4–4.4% | 1.1–4.9% |
+| [22 January 2019](2019-01-22-Piepoli.html) | Piepoli <br> La Stampa | 2.0% | 1.4–3.0% | 1.2–3.4% | 1.1–3.6% | 0.9–4.2% |
+| [22 January 2019](2019-01-22-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 2.6% | 2.2–3.2% | 2.1–3.3% | 2.0–3.5% | 1.8–3.7% |
+| [16–21 January 2019](2019-01-21-SWG.html) | SWG <br> LA7 | 3.0% | 2.5–3.7% | 2.4–3.8% | 2.2–4.0% | 2.0–4.3% |
+| [16–17 January 2019](2019-01-17-Tecnè.html) | Tecnè <br> TGcom24 | 0.0% | N/A | N/A | N/A | N/A |
+| [15–17 January 2019](2019-01-17-Ipsos.html) | Ipsos <br> Corriere della Sera | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
+| [15–16 January 2019](2019-01-16-IndexResearch.html) | Index Research <br> LA7 | 2.5% | 1.9–3.4% | 1.8–3.6% | 1.6–3.8% | 1.4–4.3% |
+| [15 January 2019](2019-01-15-Piepoli.html) | Piepoli <br> Rai 1 | 2.0% | 1.4–3.0% | 1.2–3.3% | 1.1–3.6% | 0.9–4.2% |
+| [15 January 2019](2019-01-15-Euromedia.html) | Euromedia <br> Rai 1 | 3.1% | 2.5–4.1% | 2.3–4.3% | 2.1–4.6% | 1.8–5.1% |
+| [15 January 2019](2019-01-15-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 2.1% | 1.7–2.6% | 1.6–2.8% | 1.5–2.9% | 1.4–3.2% |
 | [14–15 January 2019](2019-01-15-Demopolis.html) | Demopolis | 0.0% | N/A | N/A | N/A | N/A |
 | [9–14 January 2019](2019-01-14-SWG.html) | SWG <br> LA7 | 3.2% | 2.7–3.9% | 2.5–4.1% | 2.4–4.2% | 2.2–4.6% |
 | [9–10 January 2019](2019-01-10-Tecnè.html) | Tecnè <br> Il Giornale | 3.1% | 2.7–3.7% | 2.5–3.8% | 2.4–4.0% | 2.2–4.3% |
@@ -249,11 +258,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 5% | 100% |  |
-| 1.5–2.5% | 39% | 95% |  |
-| 2.5–3.5% | 43% | 56% | Median |
-| 3.5–4.5% | 12% | 13% |  |
-| 4.5–5.5% | 1.1% | 1.2% |  |
+| 1.5–2.5% | 35% | 95% |  |
+| 2.5–3.5% | 45% | 60% | Median |
+| 3.5–4.5% | 14% | 15% |  |
+| 4.5–5.5% | 1.5% | 2% |  |
 | 5.5–6.5% | 0% | 0% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -264,7 +274,16 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–4 | 0–4 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0–3 | 0–4 | 0–4 |
+| [22 January 2019](2019-01-22-Piepoli.html) | Piepoli <br> La Stampa | 0 | 0 | 0 | 0 | 0–3 |
+| [22 January 2019](2019-01-22-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
+| [16–21 January 2019](2019-01-21-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0–4 |
+| [16–17 January 2019](2019-01-17-Tecnè.html) | Tecnè <br> TGcom24 |  |  |  |  |  |
+| [15–17 January 2019](2019-01-17-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [15–16 January 2019](2019-01-16-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0 | 0 | 0–3 |
+| [15 January 2019](2019-01-15-Piepoli.html) | Piepoli <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
+| [15 January 2019](2019-01-15-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
+| [15 January 2019](2019-01-15-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [14–15 January 2019](2019-01-15-Demopolis.html) | Demopolis |  |  |  |  |  |
 | [9–14 January 2019](2019-01-14-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0–3 | 0–4 |
 | [9–10 January 2019](2019-01-10-Tecnè.html) | Tecnè <br> Il Giornale | 0 | 0 | 0 | 0 | 0–3 |
@@ -503,10 +522,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 95% | 100% | Last Result, Median |
-| 1 | 0% | 5% |  |
-| 2 | 0% | 5% |  |
-| 3 | 2% | 5% |  |
+| 0 | 94% | 100% | Last Result, Median |
+| 1 | 0% | 6% |  |
+| 2 | 0% | 6% |  |
+| 3 | 3% | 6% |  |
 | 4 | 3% | 3% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |

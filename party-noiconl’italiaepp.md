@@ -10,7 +10,16 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.7% | 0.3–1.2% | 0.2–1.4% | 0.1–1.5% | 0.1–1.9% |
+| N/A | [Poll Average](average.html) | 0.7% | 0.3–1.2% | 0.2–1.4% | 0.2–1.5% | 0.1–1.8% |
+| [22 January 2019](2019-01-22-Piepoli.html) | Piepoli <br> La Stampa | 0.6% | 0.3–1.3% | 0.3–1.5% | 0.2–1.7% | 0.1–2.2% |
+| [22 January 2019](2019-01-22-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0.7% | 0.5–1.1% | 0.5–1.2% | 0.4–1.2% | 0.3–1.4% |
+| [16–21 January 2019](2019-01-21-SWG.html) | SWG <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
+| [16–17 January 2019](2019-01-17-Tecnè.html) | Tecnè <br> TGcom24 | 0.0% | N/A | N/A | N/A | N/A |
+| [15–17 January 2019](2019-01-17-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
+| [15–16 January 2019](2019-01-16-IndexResearch.html) | Index Research <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
+| [15 January 2019](2019-01-15-Piepoli.html) | Piepoli <br> Rai 1 | 0.6% | 0.3–1.3% | 0.3–1.5% | 0.2–1.7% | 0.1–2.2% |
+| [15 January 2019](2019-01-15-Euromedia.html) | Euromedia <br> Rai 1 | 0.5% | 0.3–1.0% | 0.2–1.1% | 0.2–1.3% | 0.1–1.6% |
+| [15 January 2019](2019-01-15-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0.8% | 0.6–1.1% | 0.5–1.2% | 0.5–1.3% | 0.4–1.5% |
 | [14–15 January 2019](2019-01-15-Demopolis.html) | Demopolis | 0.0% | N/A | N/A | N/A | N/A |
 | [9–14 January 2019](2019-01-14-SWG.html) | SWG <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
 | [9–10 January 2019](2019-01-10-Tecnè.html) | Tecnè <br> Il Giornale | 0.0% | N/A | N/A | N/A | N/A |
@@ -262,6 +271,15 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [22 January 2019](2019-01-22-Piepoli.html) | Piepoli <br> La Stampa | 0 | 0 | 0 | 0 | 0 |
+| [22 January 2019](2019-01-22-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
+| [16–21 January 2019](2019-01-21-SWG.html) | SWG <br> LA7 |  |  |  |  |  |
+| [16–17 January 2019](2019-01-17-Tecnè.html) | Tecnè <br> TGcom24 |  |  |  |  |  |
+| [15–17 January 2019](2019-01-17-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
+| [15–16 January 2019](2019-01-16-IndexResearch.html) | Index Research <br> LA7 |  |  |  |  |  |
+| [15 January 2019](2019-01-15-Piepoli.html) | Piepoli <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
+| [15 January 2019](2019-01-15-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
+| [15 January 2019](2019-01-15-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [14–15 January 2019](2019-01-15-Demopolis.html) | Demopolis |  |  |  |  |  |
 | [9–14 January 2019](2019-01-14-SWG.html) | SWG <br> LA7 |  |  |  |  |  |
 | [9–10 January 2019](2019-01-10-Tecnè.html) | Tecnè <br> Il Giornale |  |  |  |  |  |
