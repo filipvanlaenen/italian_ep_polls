@@ -304,7 +304,7 @@ Last result: **31** seats (General Election of 25 May 2014)
 | [16–17 January 2019](2019-01-17-Tecnè.html) | Tecnè <br> TGcom24 | 13 | 12–14 | 11–14 | 11–15 | 10–15 |
 | [15–17 January 2019](2019-01-17-Ipsos.html) | Ipsos <br> Corriere della Sera | 13 | 12–14 | 11–15 | 11–15 | 10–16 |
 | [15–16 January 2019](2019-01-16-IndexResearch.html) | Index Research <br> LA7 | 14 | 12–15 | 12–16 | 11–16 | 11–17 |
-| [15 January 2019](2019-01-15-Piepoli.html) | Piepoli <br> Rai 1 | 14 | 12–16 | 11–16 | 11–17 | 10–17 |
+| [15 January 2019](2019-01-15-Piepoli.html) | Piepoli <br> Rai 1 | 13 | 12–15 | 11–16 | 11–16 | 10–17 |
 | [15 January 2019](2019-01-15-Euromedia.html) | Euromedia <br> Rai 1 | 12 | 11–14 | 11–14 | 10–15 | 10–15 |
 | [15 January 2019](2019-01-15-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 14 | 13–15 | 13–15 | 12–15 | 12–16 |
 | [14–15 January 2019](2019-01-15-Demopolis.html) | Demopolis | 13 | 12–14 | 11–14 | 11–14 | 11–15 |

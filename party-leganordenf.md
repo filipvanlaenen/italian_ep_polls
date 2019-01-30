@@ -309,8 +309,8 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [16–17 January 2019](2019-01-17-Tecnè.html) | Tecnè <br> TGcom24 | 24 | 23–26 | 22–26 | 22–27 | 21–27 |
 | [15–17 January 2019](2019-01-17-Ipsos.html) | Ipsos <br> Corriere della Sera | 29 | 27–31 | 27–31 | 26–31 | 25–32 |
 | [15–16 January 2019](2019-01-16-IndexResearch.html) | Index Research <br> LA7 | 27 | 25–29 | 25–30 | 24–30 | 24–32 |
-| [15 January 2019](2019-01-15-Piepoli.html) | Piepoli <br> Rai 1 | 25 | 22–27 | 21–28 | 21–29 | 20–30 |
-| [15 January 2019](2019-01-15-Euromedia.html) | Euromedia <br> Rai 1 | 25 | 24–27 | 23–28 | 23–28 | 22–29 |
+| [15 January 2019](2019-01-15-Piepoli.html) | Piepoli <br> Rai 1 | 25 | 22–27 | 22–28 | 21–29 | 20–30 |
+| [15 January 2019](2019-01-15-Euromedia.html) | Euromedia <br> Rai 1 | 25 | 24–27 | 23–28 | 22–28 | 22–29 |
 | [15 January 2019](2019-01-15-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 25 | 23–26 | 23–26 | 23–26 | 22–27 |
 | [14–15 January 2019](2019-01-15-Demopolis.html) | Demopolis | 25 | 24–26 | 23–27 | 23–27 | 22–28 |
 | [9–14 January 2019](2019-01-14-SWG.html) | SWG <br> LA7 | 27 | 26–30 | 25–30 | 25–30 | 24–31 |
@@ -572,7 +572,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 24 | 13% | 90% |  |
 | 25 | 21% | 78% |  |
 | 26 | 20% | 57% | Median |
-| 27 | 14% | 37% |  |
+| 27 | 15% | 37% |  |
 | 28 | 11% | 22% |  |
 | 29 | 6% | 11% |  |
 | 30 | 4% | 5% |  |
