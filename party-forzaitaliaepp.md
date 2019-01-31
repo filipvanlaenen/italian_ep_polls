@@ -292,7 +292,7 @@ Last result: **13** seats (General Election of 25 May 2014)
 | [15 January 2019](2019-01-15-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [14–15 January 2019](2019-01-15-Demopolis.html) | Demopolis | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [9–14 January 2019](2019-01-14-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
-| [9–10 January 2019](2019-01-10-Tecnè.html) | Tecnè <br> Il Giornale | 9 | 8–10 | 8–10 | 8–10 | 8–10 |
+| [9–10 January 2019](2019-01-10-Tecnè.html) | Tecnè <br> Il Giornale | 9 | 9–10 | 8–10 | 8–11 | 8–11 |
 | [7–10 January 2019](2019-01-10-BiDiMedia.html) | BiDiMedia | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [8–9 January 2019](2019-01-09-IndexResearch.html) | Index Research <br> LA7 | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
 | [8 January 2019](2019-01-08-Piepoli.html) | Piepoli <br> La Stampa | 8 | 7–10 | 7–10 | 6–11 | 6–12 |
