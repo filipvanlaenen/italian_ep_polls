@@ -289,7 +289,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [9–10 January 2019](2019-01-10-Tecnè.html) | Tecnè <br> Il Giornale | 0 | 0 | 0 | 0 | 0–3 |
 | [7–10 January 2019](2019-01-10-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0–3 |
 | [8–9 January 2019](2019-01-09-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0 | 0 | 0–3 |
-| [8 January 2019](2019-01-08-Piepoli.html) | Piepoli <br> La Stampa | 0 | 0 | 0 | 0 | 0–4 |
+| [8 January 2019](2019-01-08-Piepoli.html) | Piepoli <br> La Stampa | 0 | 0 | 0 | 0 | 0–3 |
 | [8 January 2019](2019-01-08-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [6–7 January 2019](2019-01-07-Tecnè.html) | Tecnè <br> Quarta Repubblica |  |  |  |  |  |
 | [3–7 January 2019](2019-01-07-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0–4 |
