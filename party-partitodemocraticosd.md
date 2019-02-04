@@ -310,7 +310,7 @@ Last result: **31** seats (General Election of 25 May 2014)
 | [14–15 January 2019](2019-01-15-Demopolis.html) | Demopolis | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
 | [9–14 January 2019](2019-01-14-SWG.html) | SWG <br> LA7 | 14 | 13–15 | 12–15 | 12–16 | 12–16 |
 | [9–10 January 2019](2019-01-10-Tecnè.html) | Tecnè <br> Il Giornale | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
-| [7–10 January 2019](2019-01-10-BiDiMedia.html) | BiDiMedia | 15 | 14–16 | 14–16 | 13–16 | 12–18 |
+| [7–10 January 2019](2019-01-10-BiDiMedia.html) | BiDiMedia | 15 | 13–16 | 13–16 | 13–17 | 12–17 |
 | [8–9 January 2019](2019-01-09-IndexResearch.html) | Index Research <br> LA7 | 14 | 12–15 | 12–16 | 11–16 | 11–17 |
 | [8 January 2019](2019-01-08-Piepoli.html) | Piepoli <br> La Stampa | 13 | 11–15 | 11–16 | 11–16 | 10–18 |
 | [8 January 2019](2019-01-08-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 14 | 13–16 | 13–16 | 13–16 | 12–17 |
@@ -550,10 +550,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 8% | 98% |  |
 | 12 | 19% | 90% |  |
 | 13 | 26% | 72% | Median |
-| 14 | 25% | 46% |  |
-| 15 | 14% | 21% |  |
-| 16 | 5% | 7% |  |
-| 17 | 1.1% | 1.2% |  |
+| 14 | 24% | 45% |  |
+| 15 | 15% | 21% |  |
+| 16 | 6% | 7% |  |
+| 17 | 1.1% | 1.3% |  |
 | 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
 | 20 | 0% | 0% |  |

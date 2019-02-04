@@ -283,7 +283,7 @@ Last result: **13** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 8 | 6–10 | 6–10 | 5–10 | 5–11 |
 | [22 January 2019](2019-01-22-Piepoli.html) | Piepoli <br> La Stampa | 9 | 7–10 | 7–10 | 7–11 | 6–12 |
 | [22 January 2019](2019-01-22-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
-| [16–21 January 2019](2019-01-21-SWG.html) | SWG <br> LA7 | 8 | 7–8 | 6–8 | 6–9 | 6–9 |
+| [16–21 January 2019](2019-01-21-SWG.html) | SWG <br> LA7 | 7 | 7–8 | 6–8 | 6–9 | 6–9 |
 | [16–17 January 2019](2019-01-17-Tecnè.html) | Tecnè <br> TGcom24 | 9 | 8–10 | 8–11 | 8–11 | 7–12 |
 | [15–17 January 2019](2019-01-17-Ipsos.html) | Ipsos <br> Corriere della Sera | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | [15–16 January 2019](2019-01-16-IndexResearch.html) | Index Research <br> LA7 | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
@@ -293,7 +293,7 @@ Last result: **13** seats (General Election of 25 May 2014)
 | [14–15 January 2019](2019-01-15-Demopolis.html) | Demopolis | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [9–14 January 2019](2019-01-14-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [9–10 January 2019](2019-01-10-Tecnè.html) | Tecnè <br> Il Giornale | 9 | 9–10 | 8–10 | 8–11 | 8–11 |
-| [7–10 January 2019](2019-01-10-BiDiMedia.html) | BiDiMedia | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
+| [7–10 January 2019](2019-01-10-BiDiMedia.html) | BiDiMedia | 8 | 7–8 | 7–9 | 6–9 | 6–10 |
 | [8–9 January 2019](2019-01-09-IndexResearch.html) | Index Research <br> LA7 | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
 | [8 January 2019](2019-01-08-Piepoli.html) | Piepoli <br> La Stampa | 8 | 7–10 | 7–10 | 6–11 | 6–12 |
 | [8 January 2019](2019-01-08-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
@@ -531,8 +531,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0.1% | 100% |  |
 | 5 | 3% | 99.9% |  |
 | 6 | 10% | 97% |  |
-| 7 | 26% | 88% |  |
-| 8 | 32% | 62% | Median |
+| 7 | 28% | 87% |  |
+| 8 | 30% | 60% | Median |
 | 9 | 19% | 29% |  |
 | 10 | 8% | 10% |  |
 | 11 | 2% | 2% |  |
