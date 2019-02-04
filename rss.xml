@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 31 Jan 2019 14:01:09 +0100</pubDate>
+    <pubDate>Mon, 04 Feb 2019 15:56:09 +0100</pubDate>
     <item>
       <title>Opinion Poll by Piepoli for La Stampa, 22 January 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-01-22-Piepoli.html#seats</link>
@@ -230,14 +230,34 @@
       <dc:date>2019-01-28T20:33:44.745319+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by SWG for LA7, 9–14 January 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-01-14-SWG.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 19–24 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 12–16 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 25–30 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 0–5 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0–3 seats&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 0–3 seats&lt;/li&gt;&lt;li&gt;Potere al Popolo (GUE/NGL): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-01-14-SWG-seats.png"
+        length="195144"
+        type="image/png"/>
+      <pubDate>Mon, 04 Feb 2019 15:56:09 +0100</pubDate>
+      <dc:date>2019-02-04T15:56:09.653238+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SWG for LA7, 9–14 January 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-01-14-SWG.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-01-14-SWG-coalitions-seats.png"
+        length="150029"
+        type="image/png"/>
+      <pubDate>Mon, 04 Feb 2019 15:56:09 +0100</pubDate>
+      <dc:date>2019-02-04T15:56:09.653238+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by SWG for LA7, 9–14 January 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-01-14-SWG.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 23.1–27.5%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 15.5–19.3%&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 29.9–34.6%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6.9–9.7%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 3.3–5.3%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 2.4–4.1%&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 2.4–4.2%&lt;/li&gt;&lt;li&gt;Potere al Popolo (GUE/NGL): 1.8–3.5%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-01-14-SWG.png"
         length="224443"
         type="image/png"/>
-      <pubDate>Mon, 28 Jan 2019 19:55:51 +0100</pubDate>
-      <dc:date>2019-01-28T19:55:51.634332+01:00</dc:date>
+      <pubDate>Mon, 04 Feb 2019 15:56:09 +0100</pubDate>
+      <dc:date>2019-02-04T15:56:09.653238+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Tecnè for Il Giornale, 9–10 January 2019 – Seat Projections for the Parties</title>
@@ -7029,6 +7049,6 @@
       <pubDate>Tue, 10 Apr 2018 21:24:48 +0200</pubDate>
       <dc:date>2018-04-10T21:24:48.959229+02:00</dc:date>
     </item>
-    <dc:date>2019-01-31T14:01:09.507587+01:00</dc:date>
+    <dc:date>2019-02-04T15:56:09.653238+01:00</dc:date>
   </channel>
 </rss>
