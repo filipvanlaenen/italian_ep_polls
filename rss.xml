@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 05 Feb 2019 11:49:50 +0100</pubDate>
+    <pubDate>Tue, 05 Feb 2019 20:12:45 +0100</pubDate>
     <item>
       <title>Opinion Poll by Piepoli for La Stampa, 22 January 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-01-22-Piepoli.html#seats</link>
@@ -260,14 +260,34 @@
       <dc:date>2019-01-29T19:49:17.147398+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Demopolis, 14–15 January 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-01-15-Demopolis.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 19–23 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 11–14 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 23–27 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 0–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-01-15-Demopolis-seats.png"
+        length="135010"
+        type="image/png"/>
+      <pubDate>Tue, 05 Feb 2019 20:12:45 +0100</pubDate>
+      <dc:date>2019-02-05T20:12:45.660353+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demopolis, 14–15 January 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-01-15-Demopolis.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-01-15-Demopolis-coalitions-seats.png"
+        length="123204"
+        type="image/png"/>
+      <pubDate>Tue, 05 Feb 2019 20:12:45 +0100</pubDate>
+      <dc:date>2019-02-05T20:12:45.660353+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Demopolis, 14–15 January 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-01-15-Demopolis.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 24.4–28.8%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 15.7–19.6%&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 29.7–34.4%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 7.7–10.6%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 2.6–4.5%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-01-15-Demopolis.png"
         length="143935"
         type="image/png"/>
-      <pubDate>Mon, 28 Jan 2019 20:33:44 +0100</pubDate>
-      <dc:date>2019-01-28T20:33:44.745319+01:00</dc:date>
+      <pubDate>Tue, 05 Feb 2019 20:12:45 +0100</pubDate>
+      <dc:date>2019-02-05T20:12:45.660353+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SWG for LA7, 9–14 January 2019 – Seat Projections for the Parties</title>
@@ -7109,6 +7129,6 @@
       <pubDate>Tue, 10 Apr 2018 21:24:48 +0200</pubDate>
       <dc:date>2018-04-10T21:24:48.959229+02:00</dc:date>
     </item>
-    <dc:date>2019-02-05T11:49:50.675458+01:00</dc:date>
+    <dc:date>2019-02-05T20:12:45.660353+01:00</dc:date>
   </channel>
 </rss>
