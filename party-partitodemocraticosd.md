@@ -299,7 +299,7 @@ Last result: **31** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 12–15 | 11–16 | 11–16 | 10–17 |
 | [22 January 2019](2019-01-22-Piepoli.html) | Piepoli <br> La Stampa | 13 | 11–15 | 11–15 | 10–16 | 9–17 |
-| [22 January 2019](2019-01-22-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 14 | 13–14 | 12–15 | 12–15 | 12–15 |
+| [22 January 2019](2019-01-22-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 13 | 12–14 | 12–15 | 12–15 | 12–15 |
 | [16–21 January 2019](2019-01-21-SWG.html) | SWG <br> LA7 | 14 | 13–16 | 13–16 | 13–16 | 12–17 |
 | [16–17 January 2019](2019-01-17-Tecnè.html) | Tecnè <br> TGcom24 | 13 | 12–14 | 11–14 | 11–15 | 10–15 |
 | [15–17 January 2019](2019-01-17-Ipsos.html) | Ipsos <br> Corriere della Sera | 13 | 12–14 | 11–15 | 11–15 | 10–16 |
@@ -549,8 +549,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 2% | 99.8% |  |
 | 11 | 8% | 98% |  |
 | 12 | 19% | 90% |  |
-| 13 | 26% | 72% | Median |
-| 14 | 24% | 45% |  |
+| 13 | 27% | 71% | Median |
+| 14 | 23% | 44% |  |
 | 15 | 15% | 21% |  |
 | 16 | 6% | 7% |  |
 | 17 | 1.1% | 1.3% |  |

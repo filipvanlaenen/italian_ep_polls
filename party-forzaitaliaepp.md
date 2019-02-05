@@ -282,7 +282,7 @@ Last result: **13** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 6–10 | 6–10 | 5–10 | 5–11 |
 | [22 January 2019](2019-01-22-Piepoli.html) | Piepoli <br> La Stampa | 9 | 7–10 | 7–10 | 7–11 | 6–12 |
-| [22 January 2019](2019-01-22-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
+| [22 January 2019](2019-01-22-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [16–21 January 2019](2019-01-21-SWG.html) | SWG <br> LA7 | 7 | 7–8 | 6–8 | 6–9 | 6–9 |
 | [16–17 January 2019](2019-01-17-Tecnè.html) | Tecnè <br> TGcom24 | 9 | 8–10 | 8–11 | 8–11 | 7–12 |
 | [15–17 January 2019](2019-01-17-Ipsos.html) | Ipsos <br> Corriere della Sera | 6 | 5–7 | 5–7 | 5–7 | 4–8 |

@@ -282,7 +282,7 @@ Last result: **17** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22 | 20–24 | 19–25 | 18–26 | 17–27 |
+| N/A | [Poll Average](average.html) | 22 | 19–24 | 19–25 | 18–26 | 17–27 |
 | [22 January 2019](2019-01-22-Piepoli.html) | Piepoli <br> La Stampa | 23 | 20–25 | 20–26 | 19–27 | 18–27 |
 | [22 January 2019](2019-01-22-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 21 | 20–22 | 20–23 | 20–23 | 19–24 |
 | [16–21 January 2019](2019-01-21-SWG.html) | SWG <br> LA7 | 22 | 21–24 | 20–24 | 20–24 | 19–25 |
@@ -535,10 +535,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 3% | 99.4% |  |
 | 19 | 7% | 97% |  |
 | 20 | 15% | 90% |  |
-| 21 | 22% | 75% |  |
-| 22 | 21% | 52% | Median |
+| 21 | 21% | 75% |  |
+| 22 | 22% | 53% | Median |
 | 23 | 14% | 32% |  |
-| 24 | 10% | 18% |  |
+| 24 | 10% | 17% |  |
 | 25 | 5% | 8% |  |
 | 26 | 2% | 3% |  |
 | 27 | 0.7% | 0.8% |  |
