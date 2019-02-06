@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 05 Feb 2019 20:12:45 +0100</pubDate>
+    <pubDate>Tue, 05 Feb 2019 21:08:47 +0100</pubDate>
     <item>
       <title>Opinion Poll by Piepoli for La Stampa, 22 January 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-01-22-Piepoli.html#seats</link>
@@ -100,14 +100,34 @@
       <dc:date>2019-02-04T18:49:17.16693+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Tecnè for TGcom24, 16–17 January 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-01-17-Tecnè.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 17–22 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 11–15 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 22–27 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 8–11 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 0–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-01-17-Tecnè-seats.png"
+        length="140621"
+        type="image/png"/>
+      <pubDate>Tue, 05 Feb 2019 21:08:47 +0100</pubDate>
+      <dc:date>2019-02-05T21:08:47.986839+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Tecnè for TGcom24, 16–17 January 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-01-17-Tecnè.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-01-17-Tecnè-coalitions-seats.png"
+        length="129932"
+        type="image/png"/>
+      <pubDate>Tue, 05 Feb 2019 21:08:47 +0100</pubDate>
+      <dc:date>2019-02-05T21:08:47.986839+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Tecnè for TGcom24, 16–17 January 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-01-17-Tecnè.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 22.9–28.3%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 15.4–20.1%&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 28.4–34.2%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 10.2–14.2%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 2.9–5.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-01-17-Tecnè.png"
         length="154890"
         type="image/png"/>
-      <pubDate>Tue, 29 Jan 2019 19:22:35 +0100</pubDate>
-      <dc:date>2019-01-29T19:22:35.119619+01:00</dc:date>
+      <pubDate>Tue, 05 Feb 2019 21:08:47 +0100</pubDate>
+      <dc:date>2019-02-05T21:08:47.986839+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Corriere della Sera, 15–17 January 2019 – Seat Projections for the Parties</title>
@@ -7129,6 +7149,6 @@
       <pubDate>Tue, 10 Apr 2018 21:24:48 +0200</pubDate>
       <dc:date>2018-04-10T21:24:48.959229+02:00</dc:date>
     </item>
-    <dc:date>2019-02-05T20:12:45.660353+01:00</dc:date>
+    <dc:date>2019-02-05T21:08:47.986839+01:00</dc:date>
   </channel>
 </rss>
