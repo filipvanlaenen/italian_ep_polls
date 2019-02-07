@@ -293,14 +293,14 @@ Last result: **17** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 21 | 19–24 | 19–25 | 18–26 | 17–27 |
 | [3–4 February 2019](2019-02-04-Tecnè.html) | Tecnè <br> Quarta Repubblica | 19 | 18–21 | 17–21 | 17–21 | 16–22 |
-| [30 January–4 February 2019](2019-02-04-SWG.html) | SWG <br> LA7 | 19 | 19–20 | 19–20 | 19–21 | 19–21 |
+| [30 January–4 February 2019](2019-02-04-SWG.html) | SWG <br> LA7 | 20 | 19–22 | 19–22 | 19–23 | 18–23 |
 | [29–30 January 2019](2019-01-30-IndexResearch.html) | Index Research <br> LA7 | 19 | 18–21 | 17–21 | 17–22 | 16–23 |
 | [28–30 January 2019](2019-01-30-DemosPi.html) | Demos & Pi <br> La Repubblica | 21 | 19–22 | 19–23 | 18–23 | 17–24 |
-| [29 January 2019](2019-01-29-Piepoli.html) | Piepoli <br> Rai 1 | 23 | 20–24 | 20–25 | 19–26 | 18–27 |
-| [29 January 2019](2019-01-29-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
-| [29 January 2019](2019-01-29-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 21 | 19–21 | 19–21 | 19–21 | 18–21 |
+| [29 January 2019](2019-01-29-Piepoli.html) | Piepoli <br> Rai 1 | 22 | 20–25 | 20–26 | 19–26 | 18–27 |
+| [29 January 2019](2019-01-29-Euromedia.html) | Euromedia <br> Rai 1 | 21 | 18–22 | 18–22 | 18–23 | 17–25 |
+| [29 January 2019](2019-01-29-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 21 | 20–22 | 19–22 | 19–23 | 19–23 |
 | [27–28 January 2019](2019-01-28-Tecnè.html) | Tecnè <br> Quarta Repubblica | 20 | 18–21 | 18–22 | 18–22 | 17–23 |
-| [23–28 January 2019](2019-01-28-SWG.html) | SWG <br> LA7 | 21 | 20–23 | 19–23 | 19–23 | 18–24 |
+| [23–28 January 2019](2019-01-28-SWG.html) | SWG <br> LA7 | 21 | 19–22 | 19–22 | 19–23 | 18–24 |
 | [22 January 2019](2019-01-22-Piepoli.html) | Piepoli <br> La Stampa | 23 | 20–25 | 20–26 | 19–27 | 18–27 |
 | [22 January 2019](2019-01-22-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 21 | 20–22 | 20–23 | 20–23 | 19–24 |
 | [16–21 January 2019](2019-01-21-SWG.html) | SWG <br> LA7 | 22 | 21–24 | 20–24 | 20–24 | 19–25 |
@@ -549,17 +549,17 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 16 | 0.1% | 100% |  |
-| 17 | 0.7% | 99.9% | Last Result |
-| 18 | 3% | 99.2% |  |
+| 17 | 0.8% | 99.9% | Last Result |
+| 18 | 3% | 99.1% |  |
 | 19 | 8% | 96% |  |
-| 20 | 15% | 88% |  |
-| 21 | 25% | 73% | Median |
-| 22 | 18% | 48% |  |
-| 23 | 13% | 30% |  |
-| 24 | 9% | 17% |  |
-| 25 | 5% | 8% |  |
+| 20 | 17% | 88% |  |
+| 21 | 23% | 71% | Median |
+| 22 | 19% | 47% |  |
+| 23 | 12% | 28% |  |
+| 24 | 9% | 16% |  |
+| 25 | 5% | 7% |  |
 | 26 | 2% | 3% |  |
-| 27 | 0.7% | 0.8% |  |
+| 27 | 0.6% | 0.7% |  |
 | 28 | 0.1% | 0.1% |  |
 | 29 | 0% | 0% |  |
 
