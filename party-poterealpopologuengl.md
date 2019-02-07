@@ -10,7 +10,16 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.0% | 1.3–2.7% | 1.1–2.9% | 1.0–3.1% | 0.8–3.5% |
+| N/A | [Poll Average](average.html) | 1.9% | 1.2–2.7% | 1.1–2.9% | 1.0–3.1% | 0.8–3.5% |
+| [3–4 February 2019](2019-02-04-Tecnè.html) | Tecnè <br> Quarta Repubblica | 0.0% | N/A | N/A | N/A | N/A |
+| [30 January–4 February 2019](2019-02-04-SWG.html) | SWG <br> LA7 | 2.5% | 2.1–3.1% | 2.0–3.3% | 1.8–3.5% | 1.6–3.8% |
+| [29–30 January 2019](2019-01-30-IndexResearch.html) | Index Research <br> LA7 | 2.0% | 1.5–2.8% | 1.4–3.0% | 1.2–3.2% | 1.0–3.7% |
+| [28–30 January 2019](2019-01-30-DemosPi.html) | Demos & Pi <br> La Repubblica | 0.0% | N/A | N/A | N/A | N/A |
+| [29 January 2019](2019-01-29-Piepoli.html) | Piepoli <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
+| [29 January 2019](2019-01-29-Euromedia.html) | Euromedia <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
+| [29 January 2019](2019-01-29-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 1.9% | 1.5–2.4% | 1.4–2.5% | 1.4–2.7% | 1.2–2.9% |
+| [27–28 January 2019](2019-01-28-Tecnè.html) | Tecnè <br> Quarta Repubblica | 0.0% | N/A | N/A | N/A | N/A |
+| [23–28 January 2019](2019-01-28-SWG.html) | SWG <br> LA7 | 2.4% | 2.0–3.0% | 1.8–3.2% | 1.7–3.3% | 1.5–3.6% |
 | [22 January 2019](2019-01-22-Piepoli.html) | Piepoli <br> La Stampa | 0.0% | N/A | N/A | N/A | N/A |
 | [22 January 2019](2019-01-22-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 2.1% | 1.7–2.6% | 1.6–2.8% | 1.5–2.9% | 1.4–3.2% |
 | [16–21 January 2019](2019-01-21-SWG.html) | SWG <br> LA7 | 2.3% | 1.9–2.9% | 1.8–3.1% | 1.7–3.2% | 1.5–3.5% |
@@ -257,9 +266,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 25% | 100% |  |
-| 1.5–2.5% | 60% | 75% | Median |
-| 2.5–3.5% | 15% | 15% |  |
+| 0.5–1.5% | 28% | 100% |  |
+| 1.5–2.5% | 58% | 72% | Median |
+| 2.5–3.5% | 14% | 14% |  |
 | 3.5–4.5% | 0.4% | 0.4% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
@@ -273,6 +282,15 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [3–4 February 2019](2019-02-04-Tecnè.html) | Tecnè <br> Quarta Repubblica |  |  |  |  |  |
+| [30 January–4 February 2019](2019-02-04-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
+| [29–30 January 2019](2019-01-30-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0 | 0 | 0 |
+| [28–30 January 2019](2019-01-30-DemosPi.html) | Demos & Pi <br> La Repubblica |  |  |  |  |  |
+| [29 January 2019](2019-01-29-Piepoli.html) | Piepoli <br> Rai 1 |  |  |  |  |  |
+| [29 January 2019](2019-01-29-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
+| [29 January 2019](2019-01-29-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
+| [27–28 January 2019](2019-01-28-Tecnè.html) | Tecnè <br> Quarta Repubblica |  |  |  |  |  |
+| [23–28 January 2019](2019-01-28-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
 | [22 January 2019](2019-01-22-Piepoli.html) | Piepoli <br> La Stampa |  |  |  |  |  |
 | [22 January 2019](2019-01-22-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [16–21 January 2019](2019-01-21-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
