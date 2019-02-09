@@ -314,11 +314,11 @@ Last result: **5** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 26 | 23–29 | 23–30 | 22–30 | 21–31 |
 | [3–4 February 2019](2019-02-04-Tecnè.html) | Tecnè <br> Quarta Repubblica | 25 | 23–26 | 23–27 | 22–27 | 22–28 |
 | [30 January–4 February 2019](2019-02-04-SWG.html) | SWG <br> LA7 | 29 | 27–30 | 26–31 | 26–32 | 25–32 |
-| [29–30 January 2019](2019-01-30-IndexResearch.html) | Index Research <br> LA7 | 28 | 26–30 | 25–30 | 25–31 | 24–32 |
+| [29–30 January 2019](2019-01-30-IndexResearch.html) | Index Research <br> LA7 | 28 | 26–30 | 25–31 | 25–31 | 24–32 |
 | [28–30 January 2019](2019-01-30-DemosPi.html) | Demos & Pi <br> La Repubblica | 28 | 26–30 | 26–30 | 25–31 | 24–32 |
 | [29 January 2019](2019-01-29-Piepoli.html) | Piepoli <br> Rai 1 | 24 | 22–27 | 22–28 | 21–29 | 20–30 |
-| [29 January 2019](2019-01-29-Euromedia.html) | Euromedia <br> Rai 1 | 27 | 25–29 | 25–30 | 24–30 | 23–31 |
-| [29 January 2019](2019-01-29-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 25 | 23–26 | 23–27 | 23–27 | 22–27 |
+| [29 January 2019](2019-01-29-Euromedia.html) | Euromedia <br> Rai 1 | 27 | 25–30 | 25–30 | 24–31 | 23–32 |
+| [29 January 2019](2019-01-29-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 24 | 23–26 | 23–26 | 23–27 | 22–27 |
 | [27–28 January 2019](2019-01-28-Tecnè.html) | Tecnè <br> Quarta Repubblica | 23 | 22–25 | 21–25 | 21–26 | 20–26 |
 | [23–28 January 2019](2019-01-28-SWG.html) | SWG <br> LA7 | 27 | 26–29 | 25–29 | 25–30 | 24–31 |
 | [22 January 2019](2019-01-22-Piepoli.html) | Piepoli <br> La Stampa | 24 | 22–27 | 21–27 | 21–28 | 20–29 |
@@ -586,17 +586,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 20 | 0.1% | 100% |  |
 | 21 | 0.7% | 99.8% |  |
 | 22 | 3% | 99.1% |  |
-| 23 | 7% | 96% |  |
-| 24 | 11% | 89% |  |
-| 25 | 17% | 78% |  |
-| 26 | 18% | 61% | Median |
-| 27 | 15% | 42% |  |
-| 28 | 13% | 27% |  |
+| 23 | 7% | 97% |  |
+| 24 | 12% | 89% |  |
+| 25 | 17% | 77% |  |
+| 26 | 18% | 60% | Median |
+| 27 | 16% | 42% |  |
+| 28 | 12% | 26% |  |
 | 29 | 8% | 14% |  |
-| 30 | 5% | 6% |  |
-| 31 | 1.1% | 1.4% |  |
-| 32 | 0.2% | 0.3% |  |
-| 33 | 0.1% | 0.1% |  |
+| 30 | 4% | 6% |  |
+| 31 | 1.4% | 2% |  |
+| 32 | 0.3% | 0.4% |  |
+| 33 | 0% | 0.1% |  |
 | 34 | 0% | 0% |  |
 
 

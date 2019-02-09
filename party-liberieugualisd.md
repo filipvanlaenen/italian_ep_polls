@@ -286,8 +286,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–3 | 0–4 |
 | [3–4 February 2019](2019-02-04-Tecnè.html) | Tecnè <br> Quarta Repubblica |  |  |  |  |  |
 | [30 January–4 February 2019](2019-02-04-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0–4 |
-| [29–30 January 2019](2019-01-30-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0 | 0–3 | 0–4 |
-| [28–30 January 2019](2019-01-30-DemosPi.html) | Demos & Pi <br> La Repubblica | 0 | 0 | 0 | 0–3 | 0–4 |
+| [29–30 January 2019](2019-01-30-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0–3 | 0–3 | 0–4 |
+| [28–30 January 2019](2019-01-30-DemosPi.html) | Demos & Pi <br> La Repubblica | 0 | 0 | 0 | 0 | 0–4 |
 | [29 January 2019](2019-01-29-Piepoli.html) | Piepoli <br> Rai 1 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [29 January 2019](2019-01-29-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [29 January 2019](2019-01-29-EMGAcqua.html) | EMG Acqua <br> Rai 3 |  |  |  |  |  |
@@ -543,7 +543,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 95% | 100% | Last Result, Median |
 | 1 | 0% | 5% |  |
 | 2 | 0% | 5% |  |
-| 3 | 2% | 5% |  |
+| 3 | 3% | 5% |  |
 | 4 | 2% | 2% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |

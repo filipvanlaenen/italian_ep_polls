@@ -286,7 +286,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 3 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [3–4 February 2019](2019-02-04-Tecnè.html) | Tecnè <br> Quarta Repubblica | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [30 January–4 February 2019](2019-02-04-SWG.html) | SWG <br> LA7 | 4 | 0–4 | 0–4 | 0–5 | 0–5 |
-| [29–30 January 2019](2019-01-30-IndexResearch.html) | Index Research <br> LA7 | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
+| [29–30 January 2019](2019-01-30-IndexResearch.html) | Index Research <br> LA7 | 3 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [28–30 January 2019](2019-01-30-DemosPi.html) | Demos & Pi <br> La Repubblica | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [29 January 2019](2019-01-29-Piepoli.html) | Piepoli <br> Rai 1 | 4 | 0–5 | 0–5 | 0–6 | 0–6 |
 | [29 January 2019](2019-01-29-Euromedia.html) | Euromedia <br> Rai 1 | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
@@ -543,10 +543,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 48% | 100% | Last Result |
 | 1 | 0% | 52% |  |
 | 2 | 0% | 52% |  |
-| 3 | 14% | 52% | Median |
+| 3 | 15% | 52% | Median |
 | 4 | 32% | 37% |  |
 | 5 | 5% | 5% |  |
-| 6 | 0.2% | 0.3% |  |
+| 6 | 0.3% | 0.3% |  |
 | 7 | 0% | 0% |  |
 
 

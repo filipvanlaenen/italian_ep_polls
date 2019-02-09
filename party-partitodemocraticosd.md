@@ -309,11 +309,11 @@ Last result: **31** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 13 | 12–15 | 11–16 | 11–16 | 10–17 |
 | [3–4 February 2019](2019-02-04-Tecnè.html) | Tecnè <br> Quarta Repubblica | 12 | 11–14 | 11–14 | 11–14 | 10–15 |
 | [30 January–4 February 2019](2019-02-04-SWG.html) | SWG <br> LA7 | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
-| [29–30 January 2019](2019-01-30-IndexResearch.html) | Index Research <br> LA7 | 14 | 12–15 | 12–15 | 11–16 | 11–16 |
+| [29–30 January 2019](2019-01-30-IndexResearch.html) | Index Research <br> LA7 | 14 | 12–15 | 11–16 | 11–16 | 10–17 |
 | [28–30 January 2019](2019-01-30-DemosPi.html) | Demos & Pi <br> La Repubblica | 14 | 13–15 | 12–16 | 12–16 | 11–17 |
 | [29 January 2019](2019-01-29-Piepoli.html) | Piepoli <br> Rai 1 | 13 | 11–15 | 11–15 | 10–16 | 10–17 |
 | [29 January 2019](2019-01-29-Euromedia.html) | Euromedia <br> Rai 1 | 13 | 12–15 | 11–15 | 11–16 | 10–17 |
-| [29 January 2019](2019-01-29-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 14 | 12–15 | 12–15 | 12–15 | 12–16 |
+| [29 January 2019](2019-01-29-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 14 | 13–15 | 12–15 | 12–16 | 12–16 |
 | [27–28 January 2019](2019-01-28-Tecnè.html) | Tecnè <br> Quarta Repubblica | 13 | 12–14 | 11–14 | 11–15 | 10–15 |
 | [23–28 January 2019](2019-01-28-SWG.html) | SWG <br> LA7 | 13 | 12–14 | 12–15 | 12–15 | 11–16 |
 | [22 January 2019](2019-01-22-Piepoli.html) | Piepoli <br> La Stampa | 13 | 11–15 | 11–15 | 10–16 | 9–17 |
@@ -567,10 +567,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 1.3% | 99.9% |  |
 | 11 | 7% | 98.6% |  |
 | 12 | 19% | 91% |  |
-| 13 | 28% | 73% | Median |
-| 14 | 23% | 45% |  |
+| 13 | 27% | 72% | Median |
+| 14 | 24% | 45% |  |
 | 15 | 15% | 22% |  |
-| 16 | 5% | 6% |  |
+| 16 | 5% | 7% |  |
 | 17 | 1.2% | 1.3% |  |
 | 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
