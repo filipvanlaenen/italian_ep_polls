@@ -289,13 +289,13 @@ Last result: **13** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 6–9 | 6–10 | 5–10 | 5–11 |
+| N/A | [Poll Average](average.html) | 8 | 6–10 | 6–10 | 5–10 | 5–11 |
 | [3–4 February 2019](2019-02-04-Tecnè.html) | Tecnè <br> Quarta Repubblica | 9 | 8–10 | 8–10 | 8–11 | 7–11 |
 | [30 January–4 February 2019](2019-02-04-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [29–30 January 2019](2019-01-30-IndexResearch.html) | Index Research <br> LA7 | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
 | [28–30 January 2019](2019-01-30-DemosPi.html) | Demos & Pi <br> La Repubblica | 8 | 7–9 | 7–9 | 6–10 | 6–10 |
 | [29 January 2019](2019-01-29-Piepoli.html) | Piepoli <br> Rai 1 | 9 | 7–10 | 7–11 | 7–11 | 6–12 |
-| [29 January 2019](2019-01-29-Euromedia.html) | Euromedia <br> Rai 1 | 9 | 7–10 | 7–10 | 7–11 | 6–11 |
+| [29 January 2019](2019-01-29-Euromedia.html) | Euromedia <br> Rai 1 | 9 | 8–10 | 7–10 | 7–11 | 6–11 |
 | [29 January 2019](2019-01-29-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 8 | 7–8 | 6–9 | 6–9 | 6–9 |
 | [27–28 January 2019](2019-01-28-Tecnè.html) | Tecnè <br> Quarta Repubblica | 9 | 8–10 | 8–11 | 8–11 | 7–11 |
 | [23–28 January 2019](2019-01-28-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
@@ -549,7 +549,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0.1% | 100% |  |
 | 5 | 3% | 99.9% |  |
 | 6 | 11% | 97% |  |
-| 7 | 27% | 86% |  |
+| 7 | 26% | 86% |  |
 | 8 | 29% | 59% | Median |
 | 9 | 20% | 30% |  |
 | 10 | 8% | 10% |  |

@@ -317,7 +317,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [29–30 January 2019](2019-01-30-IndexResearch.html) | Index Research <br> LA7 | 28 | 26–30 | 25–31 | 25–31 | 24–32 |
 | [28–30 January 2019](2019-01-30-DemosPi.html) | Demos & Pi <br> La Repubblica | 28 | 26–30 | 26–30 | 25–31 | 24–32 |
 | [29 January 2019](2019-01-29-Piepoli.html) | Piepoli <br> Rai 1 | 24 | 22–27 | 22–28 | 21–29 | 20–30 |
-| [29 January 2019](2019-01-29-Euromedia.html) | Euromedia <br> Rai 1 | 27 | 25–30 | 25–30 | 24–31 | 23–32 |
+| [29 January 2019](2019-01-29-Euromedia.html) | Euromedia <br> Rai 1 | 27 | 25–29 | 25–30 | 24–31 | 23–32 |
 | [29 January 2019](2019-01-29-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 24 | 23–26 | 23–26 | 23–27 | 22–27 |
 | [27–28 January 2019](2019-01-28-Tecnè.html) | Tecnè <br> Quarta Repubblica | 23 | 22–25 | 21–25 | 21–26 | 20–26 |
 | [23–28 January 2019](2019-01-28-SWG.html) | SWG <br> LA7 | 27 | 26–29 | 25–29 | 25–30 | 24–31 |
