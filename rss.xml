@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 07 Feb 2019 19:57:03 +0100</pubDate>
+    <pubDate>Sat, 09 Feb 2019 09:59:41 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Tecnè for Quarta Repubblica, 3–4 February 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-02-04-Tecnè.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 17–22 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 11–14 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 22–27 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 8–11 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 0–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-02-04-Tecnè-seats.png"
+        length="151012"
+        type="image/png"/>
+      <pubDate>Thu, 07 Feb 2019 21:15:26 +0100</pubDate>
+      <dc:date>2019-02-07T21:15:26.593655+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Tecnè for Quarta Repubblica, 3–4 February 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-02-04-Tecnè.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-02-04-Tecnè-coalitions-seats.png"
+        length="141151"
+        type="image/png"/>
+      <pubDate>Thu, 07 Feb 2019 21:15:26 +0100</pubDate>
+      <dc:date>2019-02-07T21:15:26.593655+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Tecnè for Quarta Repubblica, 3–4 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-02-04-Tecnè.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-02-04-Tecnè.png"
         length="153541"
         type="image/png"/>
-      <pubDate>Thu, 07 Feb 2019 11:47:10 +0100</pubDate>
-      <dc:date>2019-02-07T11:47:10.031109+01:00</dc:date>
+      <pubDate>Thu, 07 Feb 2019 21:15:26 +0100</pubDate>
+      <dc:date>2019-02-07T21:15:26.593655+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SWG for LA7, 30 January–4 February 2019 – Seat Projections for the Parties</title>
@@ -50,14 +70,54 @@
       <dc:date>2019-02-07T19:57:03.774914+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Index Research for LA7, 29–30 January 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-01-30-IndexResearch.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 17–22 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 11–16 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 25–31 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 5–8 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 0–5 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0–3 seats&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 0–3 seats&lt;/li&gt;&lt;li&gt;Potere al Popolo (GUE/NGL): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-01-30-IndexResearch-seats.png"
+        length="202673"
+        type="image/png"/>
+      <pubDate>Sat, 09 Feb 2019 09:55:57 +0100</pubDate>
+      <dc:date>2019-02-09T09:55:57.246409+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Index Research for LA7, 29–30 January 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-01-30-IndexResearch.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-01-30-IndexResearch-coalitions-seats.png"
+        length="156402"
+        type="image/png"/>
+      <pubDate>Sat, 09 Feb 2019 09:55:57 +0100</pubDate>
+      <dc:date>2019-02-09T09:55:57.246409+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Index Research for LA7, 29–30 January 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-01-30-IndexResearch.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 20.7–26.6%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 15.0–20.3%&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 30.5–37.1%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6.2–10.0%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 3.0–5.9%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 1.9–4.3%&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 1.8–4.1%&lt;/li&gt;&lt;li&gt;Potere al Popolo (GUE/NGL): 1.2–3.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-01-30-IndexResearch.png"
         length="238772"
         type="image/png"/>
-      <pubDate>Thu, 07 Feb 2019 11:52:43 +0100</pubDate>
-      <dc:date>2019-02-07T11:52:43.355123+01:00</dc:date>
+      <pubDate>Sat, 09 Feb 2019 09:55:57 +0100</pubDate>
+      <dc:date>2019-02-09T09:55:57.246409+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demos &amp; Pi for La Repubblica, 28–30 January 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-01-30-DemosPi.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 18–23 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 12–16 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 25–31 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6–10 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 0–4 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 0–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-01-30-DemosPi-seats.png"
+        length="177158"
+        type="image/png"/>
+      <pubDate>Fri, 08 Feb 2019 11:33:02 +0100</pubDate>
+      <dc:date>2019-02-08T11:33:02.26493+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demos &amp; Pi for La Repubblica, 28–30 January 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-01-30-DemosPi.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-01-30-DemosPi-coalitions-seats.png"
+        length="144894"
+        type="image/png"/>
+      <pubDate>Fri, 08 Feb 2019 11:33:02 +0100</pubDate>
+      <dc:date>2019-02-08T11:33:02.26493+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Demos &amp; Pi for La Repubblica, 28–30 January 2019 – Voting Intentions</title>
@@ -66,8 +126,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-01-30-DemosPi.png"
         length="183239"
         type="image/png"/>
-      <pubDate>Thu, 07 Feb 2019 12:09:37 +0100</pubDate>
-      <dc:date>2019-02-07T12:09:37.969494+01:00</dc:date>
+      <pubDate>Fri, 08 Feb 2019 11:33:02 +0100</pubDate>
+      <dc:date>2019-02-08T11:33:02.26493+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Piepoli for Rai 1, 29 January 2019 – Seat Projections for the Parties</title>
@@ -106,8 +166,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-01-29-Euromedia.png"
         length="201237"
         type="image/png"/>
-      <pubDate>Thu, 07 Feb 2019 17:27:10 +0100</pubDate>
-      <dc:date>2019-02-07T17:27:10.38437+01:00</dc:date>
+      <pubDate>Sat, 09 Feb 2019 09:59:41 +0100</pubDate>
+      <dc:date>2019-02-09T09:59:41.09972+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by EMG Acqua for Rai 3, 29 January 2019 – Voting Intentions</title>
@@ -116,8 +176,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-01-29-EMGAcqua.png"
         length="216656"
         type="image/png"/>
-      <pubDate>Thu, 07 Feb 2019 13:27:43 +0100</pubDate>
-      <dc:date>2019-02-07T13:27:43.398703+01:00</dc:date>
+      <pubDate>Fri, 08 Feb 2019 07:06:03 +0100</pubDate>
+      <dc:date>2019-02-08T07:06:03.846143+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Tecnè for Quarta Repubblica, 27–28 January 2019 – Voting Intentions</title>
@@ -7299,6 +7359,6 @@
       <pubDate>Tue, 10 Apr 2018 21:24:48 +0200</pubDate>
       <dc:date>2018-04-10T21:24:48.959229+02:00</dc:date>
     </item>
-    <dc:date>2019-02-07T19:57:03.774914+01:00</dc:date>
+    <dc:date>2019-02-09T09:59:41.09972+01:00</dc:date>
   </channel>
 </rss>
