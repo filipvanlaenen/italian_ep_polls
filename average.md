@@ -14,7 +14,7 @@ The table below lists the polls on which the average is based. They are the most
 | [28–30 January 2019](2019-01-30-DemosPi.html) | Demos & Pi <br> La Repubblica | 16–21% <br> 12–16 | 22–28% <br> 18–23 | 8–11% <br> 6–10 | 31–37% <br> 25–31 | 2–5% <br> 0–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0–3 | 2–4% <br> 0 | N/A <br> N/A |
 | [29 January 2019](2019-01-29-Piepoli.html) | Piepoli <br> Rai 1 | 14–21% <br> 10–16 | 24–32% <br> 19–26 | 8–14% <br> 7–11 | 26–34% <br> 21–29 | 3–7% <br> 0–6 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–2% <br> 0 | 2–4% <br> 0–3 | 2–5% <br> 0–4 | N/A <br> N/A |
 | [29 January 2019](2019-01-29-Euromedia.html) | Euromedia <br> Rai 1 | 15–20% <br> 11–16 | 22–28% <br> 18–23 | 8–13% <br> 7–11 | 30–36% <br> 24–31 | 3–6% <br> 0–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | 2–4% <br> 0–3 | 2–5% <br> 0–4 | N/A <br> N/A |
-| [29 January 2019](2019-01-29-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 16–20% <br> 12–16 | 24–28% <br> 19–23 | 8–11% <br> 6–9 | 28–32% <br> 23–27 | 4–6% <br> 0–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | 1–3% <br> 0 |
+| [29 January 2019](2019-01-29-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 16–20% <br> 12–15 | 24–28% <br> 19–23 | 8–11% <br> 6–9 | 28–32% <br> 23–26 | 4–6% <br> 0–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | 1–3% <br> 0 |
 | [27–28 January 2019](2019-01-28-Tecnè.html) | Tecnè <br> Quarta Repubblica | 16–20% <br> 11–15 | 23–29% <br> 18–22 | 10–14% <br> 8–11 | 27–33% <br> 21–26 | 3–6% <br> 0–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [23–28 January 2019](2019-01-28-SWG.html) | SWG <br> LA7 | 15–19% <br> 12–15 | 23–27% <br> 19–23 | 7–10% <br> 6–8 | 30–35% <br> 25–30 | 4–6% <br> 0–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | 2–4% <br> 0 | 2–3% <br> 0 |
 | [15–17 January 2019](2019-01-17-Ipsos.html) | Ipsos <br> Corriere della Sera | 15–20% <br> 11–15 | 23–28% <br> 18–23 | 6–9% <br> 5–7 | 33–39% <br> 26–31 | 2–5% <br> 0–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | 3–5% <br> 0–4 | N/A <br> N/A | N/A <br> N/A |
@@ -302,7 +302,7 @@ Only polls for which at least the sample size has been published are included in
 | 12 | 19% | 91% |  |
 | 13 | 27% | 72% | Median |
 | 14 | 24% | 45% |  |
-| 15 | 15% | 22% |  |
+| 15 | 15% | 21% |  |
 | 16 | 5% | 7% |  |
 | 17 | 1.2% | 1.4% |  |
 | 18 | 0.1% | 0.1% |  |
@@ -332,7 +332,7 @@ Only polls for which at least the sample size has been published are included in
 | 17 | 0.7% | 99.9% | Last Result |
 | 18 | 3% | 99.2% |  |
 | 19 | 8% | 96% |  |
-| 20 | 17% | 88% |  |
+| 20 | 18% | 88% |  |
 | 21 | 23% | 70% | Median |
 | 22 | 19% | 47% |  |
 | 23 | 12% | 28% |  |
@@ -354,7 +354,7 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0.1% | 100% |  |
 | 5 | 3% | 99.9% |  |
 | 6 | 11% | 97% |  |
-| 7 | 26% | 86% |  |
+| 7 | 27% | 86% |  |
 | 8 | 29% | 59% | Median |
 | 9 | 20% | 30% |  |
 | 10 | 8% | 10% |  |
@@ -390,7 +390,7 @@ Only polls for which at least the sample size has been published are included in
 | 22 | 3% | 99.1% |  |
 | 23 | 7% | 97% |  |
 | 24 | 12% | 89% |  |
-| 25 | 17% | 77% |  |
+| 25 | 18% | 78% |  |
 | 26 | 18% | 60% | Median |
 | 27 | 16% | 42% |  |
 | 28 | 12% | 26% |  |
@@ -514,7 +514,7 @@ Only polls for which at least the sample size has been published are included in
 | 22 | 3% | 99.1% |  |
 | 23 | 7% | 97% |  |
 | 24 | 12% | 89% |  |
-| 25 | 17% | 77% |  |
+| 25 | 18% | 78% |  |
 | 26 | 18% | 60% | Median |
 | 27 | 16% | 42% |  |
 | 28 | 12% | 26% |  |
@@ -535,7 +535,7 @@ Only polls for which at least the sample size has been published are included in
 | 17 | 0.7% | 99.9% | Last Result |
 | 18 | 3% | 99.2% |  |
 | 19 | 8% | 96% |  |
-| 20 | 17% | 88% |  |
+| 20 | 18% | 88% |  |
 | 21 | 23% | 70% | Median |
 | 22 | 19% | 47% |  |
 | 23 | 12% | 28% |  |
@@ -557,7 +557,7 @@ Only polls for which at least the sample size has been published are included in
 | 11 | 7% | 98.7% |  |
 | 12 | 18% | 92% |  |
 | 13 | 26% | 74% | Median |
-| 14 | 23% | 48% |  |
+| 14 | 23% | 47% |  |
 | 15 | 15% | 24% |  |
 | 16 | 6% | 9% |  |
 | 17 | 2% | 3% |  |
@@ -585,7 +585,7 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0.1% | 100% |  |
 | 6 | 3% | 99.9% |  |
 | 7 | 11% | 97% |  |
-| 8 | 26% | 86% | Median |
+| 8 | 27% | 86% | Median |
 | 9 | 29% | 59% |  |
 | 10 | 20% | 30% |  |
 | 11 | 8% | 10% |  |
@@ -642,6 +642,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 16
-+ **Lowest number of simulations done in a poll included in this average:** 524,288
-+ **Total number of simulations done in the polls included in this average:** 16,252,928
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 16,777,216
 + **Error estimate:** 3.20%
