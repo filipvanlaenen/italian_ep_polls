@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.7% | 2.0–3.7% | 1.8–4.0% | 1.7–4.3% | 1.4–4.9% |
+| N/A | [Poll Average](average.html) | 2.8% | 2.0–3.7% | 1.8–4.0% | 1.7–4.3% | 1.4–4.9% |
 | [3–4 February 2019](2019-02-04-Tecnè.html) | Tecnè <br> Quarta Repubblica | 0.0% | N/A | N/A | N/A | N/A |
 | [30 January–4 February 2019](2019-02-04-SWG.html) | SWG <br> LA7 | 2.9% | 2.4–3.6% | 2.3–3.8% | 2.2–3.9% | 2.0–4.3% |
 | [29–30 January 2019](2019-01-30-IndexResearch.html) | Index Research <br> LA7 | 2.9% | 2.2–3.8% | 2.1–4.1% | 1.9–4.3% | 1.7–4.8% |
@@ -267,10 +267,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 1.2% | 100% |  |
-| 1.5–2.5% | 38% | 98.8% |  |
-| 2.5–3.5% | 48% | 61% | Median |
-| 3.5–4.5% | 12% | 13% |  |
-| 4.5–5.5% | 1.1% | 1.2% |  |
+| 1.5–2.5% | 35% | 98.8% |  |
+| 2.5–3.5% | 50% | 64% | Median |
+| 3.5–4.5% | 13% | 14% |  |
+| 4.5–5.5% | 1.2% | 1.2% |  |
 | 5.5–6.5% | 0.1% | 0.1% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
