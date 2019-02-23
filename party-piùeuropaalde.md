@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.9% | 1.9–3.8% | 1.7–4.1% | 1.5–4.4% | 1.2–4.9% |
+| N/A | [Poll Average](average.html) | 2.8% | 1.9–3.8% | 1.6–4.1% | 1.5–4.4% | 1.2–4.9% |
+| [6 February 2019](2019-02-06-IndexResearch.html) | Index Research <br> LA7 | 2.8% | 2.1–3.7% | 2.0–3.9% | 1.8–4.1% | 1.6–4.6% |
+| [2–6 February 2019](2019-02-06-BiDiMedia.html) | BiDiMedia | 2.4% | 1.9–3.1% | 1.8–3.3% | 1.7–3.5% | 1.5–3.9% |
+| [5 February 2019](2019-02-05-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 3.0% | 2.5–3.6% | 2.4–3.7% | 2.3–3.9% | 2.1–4.2% |
 | [3–4 February 2019](2019-02-04-Tecnè.html) | Tecnè <br> Quarta Repubblica | 0.0% | N/A | N/A | N/A | N/A |
 | [30 January–4 February 2019](2019-02-04-SWG.html) | SWG <br> LA7 | 3.1% | 2.6–3.8% | 2.5–4.0% | 2.4–4.1% | 2.1–4.5% |
 | [29–30 January 2019](2019-01-30-IndexResearch.html) | Index Research <br> LA7 | 2.8% | 2.1–3.7% | 2.0–3.9% | 1.8–4.1% | 1.6–4.6% |
@@ -267,9 +270,9 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 4% | 100% |  |
-| 1.5–2.5% | 30% | 96% |  |
-| 2.5–3.5% | 49% | 67% | Median |
-| 3.5–4.5% | 16% | 18% |  |
+| 1.5–2.5% | 32% | 96% |  |
+| 2.5–3.5% | 48% | 64% | Median |
+| 3.5–4.5% | 15% | 17% |  |
 | 4.5–5.5% | 2% | 2% |  |
 | 5.5–6.5% | 0.1% | 0.1% |  |
 | 6.5–7.5% | 0% | 0% |  |
@@ -284,6 +287,9 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–3 | 0–4 | 0–4 |
+| [6 February 2019](2019-02-06-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0 | 0 | 0–4 |
+| [2–6 February 2019](2019-02-06-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0–3 |
+| [5 February 2019](2019-02-05-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0 | 0 | 0–3 | 0–3 | 0–3 |
 | [3–4 February 2019](2019-02-04-Tecnè.html) | Tecnè <br> Quarta Repubblica |  |  |  |  |  |
 | [30 January–4 February 2019](2019-02-04-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0–3 | 0–4 |
 | [29–30 January 2019](2019-01-30-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0 | 0–3 | 0–4 |
@@ -544,7 +550,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 7% |  |
 | 2 | 0% | 7% |  |
 | 3 | 3% | 7% |  |
-| 4 | 4% | 4% |  |
+| 4 | 3% | 4% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 

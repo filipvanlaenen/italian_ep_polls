@@ -10,7 +10,10 @@ Last result: **16.8%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.5% | 7.7–11.6% | 7.1–12.2% | 6.7–12.7% | 6.0–13.6% |
+| N/A | [Poll Average](average.html) | 9.5% | 7.7–11.6% | 7.2–12.2% | 6.8–12.7% | 6.0–13.6% |
+| [6 February 2019](2019-02-06-IndexResearch.html) | Index Research <br> LA7 | 8.1% | 7.0–9.5% | 6.7–9.9% | 6.4–10.2% | 5.9–10.9% |
+| [2–6 February 2019](2019-02-06-BiDiMedia.html) | BiDiMedia | 9.0% | 8.0–10.2% | 7.7–10.5% | 7.4–10.8% | 7.0–11.4% |
+| [5 February 2019](2019-02-05-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 9.7% | 8.9–10.7% | 8.6–10.9% | 8.4–11.2% | 8.0–11.6% |
 | [3–4 February 2019](2019-02-04-Tecnè.html) | Tecnè <br> Quarta Repubblica | 11.7% | 10.5–13.1% | 10.2–13.5% | 9.9–13.9% | 9.3–14.6% |
 | [30 January–4 February 2019](2019-02-04-SWG.html) | SWG <br> LA7 | 8.3% | 7.5–9.3% | 7.2–9.6% | 7.0–9.8% | 6.6–10.3% |
 | [29–30 January 2019](2019-01-30-IndexResearch.html) | Index Research <br> LA7 | 7.9% | 6.8–9.2% | 6.5–9.6% | 6.2–10.0% | 5.7–10.6% |
@@ -268,10 +271,10 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0.1% | 100% |  |
 | 5.5–6.5% | 2% | 99.9% |  |
-| 6.5–7.5% | 7% | 98% |  |
-| 7.5–8.5% | 16% | 91% |  |
-| 8.5–9.5% | 27% | 75% |  |
-| 9.5–10.5% | 23% | 49% | Median |
+| 6.5–7.5% | 6% | 98% |  |
+| 7.5–8.5% | 16% | 92% |  |
+| 8.5–9.5% | 26% | 76% |  |
+| 9.5–10.5% | 24% | 50% | Median |
 | 10.5–11.5% | 15% | 25% |  |
 | 11.5–12.5% | 7% | 10% |  |
 | 12.5–13.5% | 2% | 3% |  |
@@ -290,6 +293,9 @@ Last result: **13** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 6–9 | 6–10 | 5–10 | 5–11 |
+| [6 February 2019](2019-02-06-IndexResearch.html) | Index Research <br> LA7 | 7 | 6–8 | 6–9 | 5–9 | 5–9 |
+| [2–6 February 2019](2019-02-06-BiDiMedia.html) | BiDiMedia | 8 | 7–9 | 7–9 | 6–9 | 6–9 |
+| [5 February 2019](2019-02-05-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 8 | 7–9 | 7–9 | 6–9 | 6–9 |
 | [3–4 February 2019](2019-02-04-Tecnè.html) | Tecnè <br> Quarta Repubblica | 9 | 8–10 | 8–10 | 8–11 | 7–11 |
 | [30 January–4 February 2019](2019-02-04-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [29–30 January 2019](2019-01-30-IndexResearch.html) | Index Research <br> LA7 | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
@@ -547,11 +553,11 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.1% | 100% |  |
-| 5 | 3% | 99.9% |  |
-| 6 | 10% | 97% |  |
-| 7 | 28% | 87% |  |
-| 8 | 30% | 59% | Median |
-| 9 | 20% | 30% |  |
+| 5 | 2% | 99.9% |  |
+| 6 | 9% | 97% |  |
+| 7 | 25% | 88% |  |
+| 8 | 32% | 63% | Median |
+| 9 | 22% | 31% |  |
 | 10 | 8% | 10% |  |
 | 11 | 2% | 2% |  |
 | 12 | 0.2% | 0.2% |  |
