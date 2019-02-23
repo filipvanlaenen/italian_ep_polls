@@ -10,7 +10,18 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.8% | 2.0–3.7% | 1.8–4.0% | 1.7–4.3% | 1.5–4.9% |
+| N/A | [Poll Average](average.html) | 2.8% | 1.9–3.9% | 1.7–4.3% | 1.6–4.7% | 1.3–5.4% |
+| [17–18 February 2019](2019-02-18-Tecnè.html) | Tecnè <br> Quarta Repubblica | 0.0% | N/A | N/A | N/A | N/A |
+| [13–18 February 2019](2019-02-18-SWG.html) | SWG <br> LA7 | 2.9% | 2.4–3.5% | 2.2–3.7% | 2.1–3.8% | 1.9–4.2% |
+| [14–17 February 2019](2019-02-17-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 1.8% | 1.4–2.3% | 1.3–2.5% | 1.2–2.6% | 1.1–2.9% |
+| [13–15 February 2019](2019-02-15-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 0.0% | N/A | N/A | N/A | N/A |
+| [12–13 February 2019](2019-02-13-IndexResearch.html) | Index Research <br> LA7 | 3.5% | 2.8–4.5% | 2.6–4.8% | 2.4–5.0% | 2.1–5.5% |
+| [12–13 February 2019](2019-02-13-Demopolis.html) | Demopolis | 0.0% | N/A | N/A | N/A | N/A |
+| [12 February 2019](2019-02-12-Piepoli.html) | Piepoli <br> Rai 1 | 3.6% | 2.7–4.9% | 2.5–5.3% | 2.3–5.6% | 1.9–6.3% |
+| [12 February 2019](2019-02-12-Euromedia.html) | Euromedia <br> Rai 1 | 3.4% | 2.7–4.3% | 2.5–4.6% | 2.3–4.9% | 2.0–5.4% |
+| [6–11 February 2019](2019-02-11-SWG.html) | SWG <br> LA7 | 2.7% | 2.3–3.4% | 2.1–3.5% | 2.0–3.7% | 1.8–4.0% |
+| [4–7 February 2019](2019-02-07-Tecnè.html) | Tecnè <br> Forza Italia | 0.0% | N/A | N/A | N/A | N/A |
+| [6–7 February 2019](2019-02-07-Ipsos.html) | Ipsos <br> Corriere della Sera | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
 | [6 February 2019](2019-02-06-IndexResearch.html) | Index Research <br> LA7 | 3.0% | 2.3–3.9% | 2.2–4.2% | 2.0–4.4% | 1.8–4.9% |
 | [2–6 February 2019](2019-02-06-BiDiMedia.html) | BiDiMedia | 2.6% | 2.1–3.3% | 1.9–3.5% | 1.8–3.7% | 1.6–4.1% |
 | [5 February 2019](2019-02-05-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
@@ -269,12 +280,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 1.1% | 100% |  |
-| 1.5–2.5% | 33% | 98.9% |  |
-| 2.5–3.5% | 51% | 66% | Median |
-| 3.5–4.5% | 13% | 15% |  |
-| 4.5–5.5% | 1.2% | 1.3% |  |
-| 5.5–6.5% | 0.1% | 0.1% |  |
+| 0.5–1.5% | 2% | 100% |  |
+| 1.5–2.5% | 32% | 98% |  |
+| 2.5–3.5% | 46% | 66% | Median |
+| 3.5–4.5% | 16% | 19% |  |
+| 4.5–5.5% | 3% | 3% |  |
+| 5.5–6.5% | 0.3% | 0.3% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -286,7 +297,18 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0–3 | 0–4 | 0–4 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–3 | 0–4 |
+| [17–18 February 2019](2019-02-18-Tecnè.html) | Tecnè <br> Quarta Repubblica |  |  |  |  |  |
+| [13–18 February 2019](2019-02-18-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
+| [14–17 February 2019](2019-02-17-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 0 | 0 | 0 | 0 | 0 |
+| [13–15 February 2019](2019-02-15-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 |  |  |  |  |  |
+| [12–13 February 2019](2019-02-13-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0 | 0 | 0–4 |
+| [12–13 February 2019](2019-02-13-Demopolis.html) | Demopolis |  |  |  |  |  |
+| [12 February 2019](2019-02-12-Piepoli.html) | Piepoli <br> Rai 1 | 0 | 0–3 | 0–4 | 0–5 | 0–5 |
+| [12 February 2019](2019-02-12-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0–3 | 0–3 | 0–3 |
+| [6–11 February 2019](2019-02-11-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0–4 |
+| [4–7 February 2019](2019-02-07-Tecnè.html) | Tecnè <br> Forza Italia |  |  |  |  |  |
+| [6–7 February 2019](2019-02-07-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
 | [6 February 2019](2019-02-06-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | [2–6 February 2019](2019-02-06-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
 | [5 February 2019](2019-02-05-EMGAcqua.html) | EMG Acqua <br> Rai 3 |  |  |  |  |  |
@@ -549,9 +571,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 95% | 100% | Last Result, Median |
 | 1 | 0% | 5% |  |
 | 2 | 0% | 5% |  |
-| 3 | 3% | 5% |  |
-| 4 | 3% | 3% |  |
-| 5 | 0.1% | 0.1% |  |
+| 3 | 4% | 5% |  |
+| 4 | 0.7% | 1.1% |  |
+| 5 | 0.4% | 0.4% |  |
 | 6 | 0% | 0% |  |
 
 

@@ -10,7 +10,18 @@ Last result: **21.2%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25.9% | 23.5–28.8% | 22.8–29.6% | 22.2–30.3% | 21.1–31.6% |
+| N/A | [Poll Average](average.html) | 24.9% | 22.1–28.5% | 21.5–29.4% | 20.9–30.2% | 19.9–31.5% |
+| [17–18 February 2019](2019-02-18-Tecnè.html) | Tecnè <br> Quarta Repubblica | 23.2% | 21.6–25.0% | 21.1–25.5% | 20.7–25.9% | 19.9–26.8% |
+| [13–18 February 2019](2019-02-18-SWG.html) | SWG <br> LA7 | 22.1% | 20.7–23.5% | 20.4–23.9% | 20.0–24.2% | 19.4–24.9% |
+| [14–17 February 2019](2019-02-17-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 23.2% | 21.8–24.6% | 21.5–25.1% | 21.1–25.4% | 20.5–26.1% |
+| [13–15 February 2019](2019-02-15-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 24.3% | 22.6–26.1% | 22.2–26.6% | 21.8–27.1% | 21.0–28.0% |
+| [12–13 February 2019](2019-02-13-IndexResearch.html) | Index Research <br> LA7 | 22.2% | 20.4–24.2% | 19.9–24.8% | 19.5–25.3% | 18.7–26.2% |
+| [12–13 February 2019](2019-02-13-Demopolis.html) | Demopolis | 25.2% | 23.8–26.7% | 23.4–27.1% | 23.1–27.5% | 22.4–28.2% |
+| [12 February 2019](2019-02-12-Piepoli.html) | Piepoli <br> Rai 1 | 27.0% | 24.6–29.7% | 23.9–30.4% | 23.3–31.1% | 22.2–32.4% |
+| [12 February 2019](2019-02-12-Euromedia.html) | Euromedia <br> Rai 1 | 24.0% | 22.1–26.0% | 21.6–26.6% | 21.2–27.1% | 20.3–28.1% |
+| [6–11 February 2019](2019-02-11-SWG.html) | SWG <br> LA7 | 23.3% | 22.0–24.8% | 21.6–25.2% | 21.3–25.5% | 20.6–26.2% |
+| [4–7 February 2019](2019-02-07-Tecnè.html) | Tecnè <br> Forza Italia | 25.1% | 24.7–25.5% | 24.5–25.7% | 24.4–25.8% | 24.2–26.0% |
+| [6–7 February 2019](2019-02-07-Ipsos.html) | Ipsos <br> Corriere della Sera | 25.4% | 23.7–27.2% | 23.2–27.7% | 22.8–28.2% | 22.0–29.1% |
 | [6 February 2019](2019-02-06-IndexResearch.html) | Index Research <br> LA7 | 23.2% | 21.4–25.3% | 20.9–25.8% | 20.5–26.3% | 19.6–27.3% |
 | [2–6 February 2019](2019-02-06-BiDiMedia.html) | BiDiMedia | 24.9% | 23.3–26.6% | 22.8–27.1% | 22.4–27.5% | 21.7–28.4% |
 | [5 February 2019](2019-02-05-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 25.1% | 23.8–26.5% | 23.5–26.9% | 23.2–27.2% | 22.6–27.8% |
@@ -268,20 +279,21 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 18.5–19.5% | 0% | 100% |  |
-| 19.5–20.5% | 0.2% | 100% |  |
-| 20.5–21.5% | 0.8% | 99.8% | Last Result |
-| 21.5–22.5% | 3% | 99.0% |  |
-| 22.5–23.5% | 7% | 96% |  |
-| 23.5–24.5% | 14% | 89% |  |
-| 24.5–25.5% | 18% | 75% |  |
-| 25.5–26.5% | 19% | 57% | Median |
-| 26.5–27.5% | 15% | 38% |  |
-| 27.5–28.5% | 11% | 23% |  |
-| 28.5–29.5% | 7% | 12% |  |
-| 29.5–30.5% | 4% | 5% |  |
-| 30.5–31.5% | 1.4% | 2% |  |
-| 31.5–32.5% | 0.4% | 0.5% |  |
+| 17.5–18.5% | 0% | 100% |  |
+| 18.5–19.5% | 0.2% | 100% |  |
+| 19.5–20.5% | 1.2% | 99.7% |  |
+| 20.5–21.5% | 4% | 98.5% | Last Result |
+| 21.5–22.5% | 9% | 94% |  |
+| 22.5–23.5% | 13% | 86% |  |
+| 23.5–24.5% | 16% | 73% |  |
+| 24.5–25.5% | 17% | 56% | Median |
+| 25.5–26.5% | 14% | 39% |  |
+| 26.5–27.5% | 9% | 26% |  |
+| 27.5–28.5% | 7% | 17% |  |
+| 28.5–29.5% | 5% | 10% |  |
+| 29.5–30.5% | 3% | 4% |  |
+| 30.5–31.5% | 1.2% | 2% |  |
+| 31.5–32.5% | 0.3% | 0.4% |  |
 | 32.5–33.5% | 0.1% | 0.1% |  |
 | 33.5–34.5% | 0% | 0% |  |
 
@@ -294,7 +306,18 @@ Last result: **17** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21 | 19–24 | 19–25 | 18–26 | 17–27 |
+| N/A | [Poll Average](average.html) | 20 | 18–24 | 18–25 | 17–25 | 16–27 |
+| [17–18 February 2019](2019-02-18-Tecnè.html) | Tecnè <br> Quarta Repubblica | 17 | 17–21 | 16–21 | 15–21 | 14–21 |
+| [13–18 February 2019](2019-02-18-SWG.html) | SWG <br> LA7 | 18 | 18–19 | 18–19 | 18–19 | 16–19 |
+| [14–17 February 2019](2019-02-17-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 22 | 20–22 | 19–22 | 19–22 | 17–22 |
+| [13–15 February 2019](2019-02-15-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 18 | 18–19 | 17–20 | 17–20 | 17–20 |
+| [12–13 February 2019](2019-02-13-IndexResearch.html) | Index Research <br> LA7 | 18 | 18–20 | 18–20 | 18–20 | 18–20 |
+| [12–13 February 2019](2019-02-13-Demopolis.html) | Demopolis | 21 | 20–21 | 20–21 | 20–21 | 19–22 |
+| [12 February 2019](2019-02-12-Piepoli.html) | Piepoli <br> Rai 1 | 21 | 21 | 20–21 | 20–21 | 20–25 |
+| [12 February 2019](2019-02-12-Euromedia.html) | Euromedia <br> Rai 1 | 20 | 20 | 20 | 20 | 20 |
+| [6–11 February 2019](2019-02-11-SWG.html) | SWG <br> LA7 | 19 | 19 | 18–19 | 17–20 | 17–21 |
+| [4–7 February 2019](2019-02-07-Tecnè.html) | Tecnè <br> Forza Italia | 20 | 20 | 20 | 20 | 20 |
+| [6–7 February 2019](2019-02-07-Ipsos.html) | Ipsos <br> Corriere della Sera | 20 | 19–20 | 19–20 | 18–21 | 17–22 |
 | [6 February 2019](2019-02-06-IndexResearch.html) | Index Research <br> LA7 | 19 | 18–22 | 17–22 | 17–22 | 16–23 |
 | [2–6 February 2019](2019-02-06-BiDiMedia.html) | BiDiMedia | 21 | 20–22 | 19–22 | 19–23 | 18–23 |
 | [5 February 2019](2019-02-05-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 20 | 19–22 | 18–22 | 18–22 | 18–22 |
@@ -554,17 +577,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 16 | 0.1% | 100% |  |
-| 17 | 0.8% | 99.9% | Last Result |
-| 18 | 4% | 99.0% |  |
-| 19 | 11% | 95% |  |
-| 20 | 20% | 84% |  |
-| 21 | 18% | 63% | Median |
-| 22 | 19% | 45% |  |
-| 23 | 11% | 26% |  |
-| 24 | 8% | 15% |  |
-| 25 | 5% | 7% |  |
-| 26 | 2% | 3% |  |
+| 14 | 0.1% | 100% |  |
+| 15 | 0.1% | 99.9% |  |
+| 16 | 0.4% | 99.8% |  |
+| 17 | 4% | 99.4% | Last Result |
+| 18 | 16% | 96% |  |
+| 19 | 9% | 79% |  |
+| 20 | 26% | 70% | Median |
+| 21 | 17% | 45% |  |
+| 22 | 11% | 28% |  |
+| 23 | 5% | 17% |  |
+| 24 | 6% | 12% |  |
+| 25 | 4% | 6% |  |
+| 26 | 2% | 2% |  |
 | 27 | 0.6% | 0.7% |  |
 | 28 | 0.1% | 0.1% |  |
 | 29 | 0% | 0% |  |
