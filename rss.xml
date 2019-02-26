@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 23 Feb 2019 19:07:03 +0100</pubDate>
+    <pubDate>Tue, 26 Feb 2019 20:14:59 +0100</pubDate>
     <item>
       <title>Opinion Poll by Tecnè for Quarta Repubblica, 17–18 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-02-18-Tecnè.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-02-18-Tecnè.png"
         length="153407"
         type="image/png"/>
-      <pubDate>Sat, 23 Feb 2019 18:03:45 +0100</pubDate>
-      <dc:date>2019-02-23T18:03:45.405602+01:00</dc:date>
+      <pubDate>Tue, 26 Feb 2019 07:00:13 +0100</pubDate>
+      <dc:date>2019-02-26T07:00:13.660007+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SWG for LA7, 13–18 February 2019 – Voting Intentions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-02-13-IndexResearch.png"
         length="240965"
         type="image/png"/>
-      <pubDate>Sat, 23 Feb 2019 18:32:55 +0100</pubDate>
-      <dc:date>2019-02-23T18:32:55.192221+01:00</dc:date>
+      <pubDate>Tue, 26 Feb 2019 20:14:59 +0100</pubDate>
+      <dc:date>2019-02-26T20:14:59.683836+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Demopolis, 12–13 February 2019 – Voting Intentions</title>
@@ -7559,6 +7559,6 @@
       <pubDate>Tue, 10 Apr 2018 21:24:48 +0200</pubDate>
       <dc:date>2018-04-10T21:24:48.959229+02:00</dc:date>
     </item>
-    <dc:date>2019-02-23T19:07:03.086712+01:00</dc:date>
+    <dc:date>2019-02-26T20:14:59.683836+01:00</dc:date>
   </channel>
 </rss>
