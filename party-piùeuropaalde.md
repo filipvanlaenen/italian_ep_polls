@@ -302,7 +302,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [13–18 February 2019](2019-02-18-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
 | [14–17 February 2019](2019-02-17-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 0 | 0 | 0 | 0 | 0 |
 | [13–15 February 2019](2019-02-15-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 |  |  |  |  |  |
-| [12–13 February 2019](2019-02-13-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0 | 0 | 0 |
+| [12–13 February 2019](2019-02-13-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0–3 | 0–3 | 0–4 |
 | [12–13 February 2019](2019-02-13-Demopolis.html) | Demopolis |  |  |  |  |  |
 | [12 February 2019](2019-02-12-Piepoli.html) | Piepoli <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
 | [12 February 2019](2019-02-12-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |

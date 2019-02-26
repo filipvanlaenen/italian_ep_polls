@@ -325,12 +325,12 @@ Last result: **5** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27 | 24–30 | 23–31 | 23–32 | 22–32 |
-| [17–18 February 2019](2019-02-18-Tecnè.html) | Tecnè <br> Quarta Repubblica | 26 | 23–27 | 22–27 | 22–27 | 22–29 |
+| N/A | [Poll Average](average.html) | 27 | 24–30 | 23–31 | 23–32 | 22–33 |
+| [17–18 February 2019](2019-02-18-Tecnè.html) | Tecnè <br> Quarta Repubblica | 25 | 24–27 | 23–27 | 23–28 | 22–29 |
 | [13–18 February 2019](2019-02-18-SWG.html) | SWG <br> LA7 | 27 | 26–31 | 26–31 | 26–31 | 26–31 |
 | [14–17 February 2019](2019-02-17-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 32 | 30–32 | 30–32 | 29–33 | 29–35 |
 | [13–15 February 2019](2019-02-15-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 27 | 22–28 | 22–28 | 22–28 | 21–29 |
-| [12–13 February 2019](2019-02-13-IndexResearch.html) | Index Research <br> LA7 | 29 | 27–29 | 27–29 | 27–29 | 25–30 |
+| [12–13 February 2019](2019-02-13-IndexResearch.html) | Index Research <br> LA7 | 28 | 27–31 | 26–32 | 26–32 | 25–34 |
 | [12–13 February 2019](2019-02-13-Demopolis.html) | Demopolis | 25 | 24–26 | 24–27 | 24–28 | 23–28 |
 | [12 February 2019](2019-02-12-Piepoli.html) | Piepoli <br> Rai 1 | 27 | 24–27 | 24–27 | 23–27 | 22–27 |
 | [12 February 2019](2019-02-12-Euromedia.html) | Euromedia <br> Rai 1 | 28 | 28 | 28 | 28 | 28 |
@@ -612,20 +612,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
-| 21 | 0.2% | 100% |  |
-| 22 | 1.5% | 99.8% |  |
-| 23 | 4% | 98% |  |
-| 24 | 7% | 94% |  |
-| 25 | 14% | 87% |  |
-| 26 | 16% | 73% |  |
-| 27 | 23% | 57% | Median |
-| 28 | 14% | 34% |  |
-| 29 | 9% | 19% |  |
-| 30 | 3% | 10% |  |
-| 31 | 3% | 7% |  |
-| 32 | 3% | 4% |  |
-| 33 | 0.2% | 0.4% |  |
-| 34 | 0.1% | 0.2% |  |
+| 21 | 0.1% | 100% |  |
+| 22 | 0.9% | 99.8% |  |
+| 23 | 4% | 98.9% |  |
+| 24 | 7% | 95% |  |
+| 25 | 16% | 88% |  |
+| 26 | 18% | 72% |  |
+| 27 | 21% | 54% | Median |
+| 28 | 16% | 33% |  |
+| 29 | 5% | 16% |  |
+| 30 | 3% | 12% |  |
+| 31 | 4% | 8% |  |
+| 32 | 4% | 4% |  |
+| 33 | 0.3% | 0.5% |  |
+| 34 | 0.2% | 0.2% |  |
 | 35 | 0.1% | 0.1% |  |
 | 36 | 0% | 0% |  |
 
