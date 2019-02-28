@@ -301,11 +301,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 3 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [17–18 February 2019](2019-02-18-Tecnè.html) | Tecnè <br> Quarta Repubblica | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [13–18 February 2019](2019-02-18-SWG.html) | SWG <br> LA7 | 5 | 4–5 | 0–5 | 0–5 | 0–5 |
-| [14–17 February 2019](2019-02-17-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [14–17 February 2019](2019-02-17-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | [13–15 February 2019](2019-02-15-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 3 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [12–13 February 2019](2019-02-13-IndexResearch.html) | Index Research <br> LA7 | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [12–13 February 2019](2019-02-13-Demopolis.html) | Demopolis | 0 | 0 | 0 | 0 | 0 |
-| [12 February 2019](2019-02-12-Piepoli.html) | Piepoli <br> Rai 1 | 5 | 5–6 | 4–6 | 3–6 | 3–6 |
+| [12 February 2019](2019-02-12-Piepoli.html) | Piepoli <br> Rai 1 | 4 | 0–5 | 0–6 | 0–6 | 0–7 |
 | [12 February 2019](2019-02-12-Euromedia.html) | Euromedia <br> Rai 1 | 5 | 5 | 5 | 5 | 5 |
 | [6–11 February 2019](2019-02-11-SWG.html) | SWG <br> LA7 | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
 | [4–7 February 2019](2019-02-07-Tecnè.html) | Tecnè <br> Forza Italia | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -569,13 +569,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 40% | 100% | Last Result |
-| 1 | 0% | 60% |  |
-| 2 | 0% | 60% |  |
-| 3 | 15% | 60% | Median |
-| 4 | 24% | 44% |  |
-| 5 | 18% | 20% |  |
-| 6 | 2% | 2% |  |
+| 0 | 41% | 100% | Last Result |
+| 1 | 0% | 59% |  |
+| 2 | 0% | 59% |  |
+| 3 | 16% | 59% | Median |
+| 4 | 26% | 43% |  |
+| 5 | 16% | 16% |  |
+| 6 | 0.7% | 0.7% |  |
 | 7 | 0% | 0% |  |
 
 

@@ -302,14 +302,14 @@ Last result: **13** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 7–10 | 6–10 | 6–10 | 6–11 |
+| N/A | [Poll Average](average.html) | 8 | 7–9 | 6–10 | 6–10 | 6–11 |
 | [17–18 February 2019](2019-02-18-Tecnè.html) | Tecnè <br> Quarta Repubblica | 9 | 8–10 | 8–11 | 8–11 | 7–11 |
 | [13–18 February 2019](2019-02-18-SWG.html) | SWG <br> LA7 | 7 | 7–8 | 7–9 | 6–9 | 6–9 |
-| [14–17 February 2019](2019-02-17-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 7 | 7–9 | 7–9 | 6–9 | 6–10 |
+| [14–17 February 2019](2019-02-17-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [13–15 February 2019](2019-02-15-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 7 | 7–9 | 6–9 | 6–9 | 6–10 |
 | [12–13 February 2019](2019-02-13-IndexResearch.html) | Index Research <br> LA7 | 7 | 6–8 | 6–8 | 5–9 | 5–9 |
 | [12–13 February 2019](2019-02-13-Demopolis.html) | Demopolis | 7 | 7 | 7 | 7 | 6–8 |
-| [12 February 2019](2019-02-12-Piepoli.html) | Piepoli <br> Rai 1 | 10 | 8–10 | 8–10 | 7–10 | 7–12 |
+| [12 February 2019](2019-02-12-Piepoli.html) | Piepoli <br> Rai 1 | 8 | 7–10 | 7–10 | 6–11 | 6–11 |
 | [12 February 2019](2019-02-12-Euromedia.html) | Euromedia <br> Rai 1 | 9 | 9 | 7–9 | 7–9 | 7–9 |
 | [6–11 February 2019](2019-02-11-SWG.html) | SWG <br> LA7 | 7 | 7–8 | 6–9 | 6–9 | 6–9 |
 | [4–7 February 2019](2019-02-07-Tecnè.html) | Tecnè <br> Forza Italia | 9 | 9–10 | 9–10 | 9–10 | 9–10 |
@@ -575,12 +575,12 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.4% | 100% |  |
 | 6 | 5% | 99.6% |  |
-| 7 | 36% | 95% |  |
-| 8 | 24% | 59% | Median |
-| 9 | 23% | 35% |  |
-| 10 | 10% | 12% |  |
-| 11 | 1.4% | 2% |  |
-| 12 | 0.2% | 0.2% |  |
+| 7 | 35% | 94% |  |
+| 8 | 27% | 59% | Median |
+| 9 | 23% | 32% |  |
+| 10 | 7% | 9% |  |
+| 11 | 2% | 2% |  |
+| 12 | 0.1% | 0.2% |  |
 | 13 | 0% | 0% | Last Result |
 
 
