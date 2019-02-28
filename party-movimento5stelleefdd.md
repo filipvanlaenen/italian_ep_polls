@@ -317,7 +317,7 @@ Last result: **17** seats (General Election of 25 May 2014)
 | [12 February 2019](2019-02-12-Euromedia.html) | Euromedia <br> Rai 1 | 20 | 20 | 20 | 20 | 20 |
 | [6–11 February 2019](2019-02-11-SWG.html) | SWG <br> LA7 | 19 | 19 | 18–19 | 17–20 | 17–21 |
 | [4–7 February 2019](2019-02-07-Tecnè.html) | Tecnè <br> Forza Italia | 20 | 20 | 20 | 20 | 20 |
-| [6–7 February 2019](2019-02-07-Ipsos.html) | Ipsos <br> Corriere della Sera | 20 | 19–20 | 19–20 | 18–21 | 17–22 |
+| [6–7 February 2019](2019-02-07-Ipsos.html) | Ipsos <br> Corriere della Sera | 21 | 19–23 | 19–23 | 18–23 | 17–24 |
 | [6 February 2019](2019-02-06-IndexResearch.html) | Index Research <br> LA7 | 19 | 18–22 | 17–22 | 17–22 | 16–23 |
 | [2–6 February 2019](2019-02-06-BiDiMedia.html) | BiDiMedia | 21 | 20–22 | 19–22 | 19–23 | 18–23 |
 | [5 February 2019](2019-02-05-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 20 | 19–22 | 18–22 | 18–22 | 18–22 |
@@ -581,11 +581,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 1.4% | 99.9% |  |
 | 17 | 3% | 98% | Last Result |
 | 18 | 14% | 95% |  |
-| 19 | 13% | 81% |  |
-| 20 | 26% | 68% | Median |
-| 21 | 13% | 42% |  |
-| 22 | 9% | 29% |  |
-| 23 | 6% | 20% |  |
+| 19 | 12% | 81% |  |
+| 20 | 23% | 69% | Median |
+| 21 | 15% | 46% |  |
+| 22 | 11% | 31% |  |
+| 23 | 7% | 21% |  |
 | 24 | 7% | 14% |  |
 | 25 | 5% | 7% |  |
 | 26 | 2% | 3% |  |
