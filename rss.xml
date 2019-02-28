@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 26 Feb 2019 20:14:59 +0100</pubDate>
+    <pubDate>Thu, 28 Feb 2019 11:35:58 +0100</pubDate>
     <item>
       <title>Opinion Poll by Tecnè for Quarta Repubblica, 17–18 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-02-18-Tecnè.html</link>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-02-17-ScenariPolitici–Winpoll.png"
         length="219760"
         type="image/png"/>
-      <pubDate>Sat, 23 Feb 2019 18:16:10 +0100</pubDate>
-      <dc:date>2019-02-23T18:16:10.234953+01:00</dc:date>
+      <pubDate>Tue, 26 Feb 2019 20:58:56 +0100</pubDate>
+      <dc:date>2019-02-26T20:58:56.202702+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Quorum and YouTrend for Sky TG 24, 13–15 February 2019 – Voting Intentions</title>
@@ -76,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-02-12-Piepoli.png"
         length="214158"
         type="image/png"/>
-      <pubDate>Sat, 23 Feb 2019 18:40:17 +0100</pubDate>
-      <dc:date>2019-02-23T18:40:17.860736+01:00</dc:date>
+      <pubDate>Thu, 28 Feb 2019 11:35:58 +0100</pubDate>
+      <dc:date>2019-02-28T11:35:58.190512+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Euromedia for Rai 1, 12 February 2019 – Voting Intentions</title>
@@ -7559,6 +7559,6 @@
       <pubDate>Tue, 10 Apr 2018 21:24:48 +0200</pubDate>
       <dc:date>2018-04-10T21:24:48.959229+02:00</dc:date>
     </item>
-    <dc:date>2019-02-26T20:14:59.683836+01:00</dc:date>
+    <dc:date>2019-02-28T11:35:58.190512+01:00</dc:date>
   </channel>
 </rss>
