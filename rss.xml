@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 28 Feb 2019 11:35:58 +0100</pubDate>
+    <pubDate>Thu, 28 Feb 2019 12:36:12 +0100</pubDate>
     <item>
       <title>Opinion Poll by Tecnè for Quarta Repubblica, 17–18 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-02-18-Tecnè.html</link>
@@ -116,8 +116,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-02-07-Ipsos.png"
         length="196455"
         type="image/png"/>
-      <pubDate>Sat, 23 Feb 2019 19:07:03 +0100</pubDate>
-      <dc:date>2019-02-23T19:07:03.086712+01:00</dc:date>
+      <pubDate>Thu, 28 Feb 2019 12:36:12 +0100</pubDate>
+      <dc:date>2019-02-28T12:36:12.729587+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Index Research for LA7, 6 February 2019 – Voting Intentions</title>
@@ -7559,6 +7559,6 @@
       <pubDate>Tue, 10 Apr 2018 21:24:48 +0200</pubDate>
       <dc:date>2018-04-10T21:24:48.959229+02:00</dc:date>
     </item>
-    <dc:date>2019-02-28T11:35:58.190512+01:00</dc:date>
+    <dc:date>2019-02-28T12:36:12.729587+01:00</dc:date>
   </channel>
 </rss>
