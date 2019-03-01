@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 28 Feb 2019 12:36:12 +0100</pubDate>
+    <pubDate>Fri, 01 Mar 2019 18:11:56 +0100</pubDate>
     <item>
       <title>Opinion Poll by Tecnè for Quarta Repubblica, 17–18 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-02-18-Tecnè.html</link>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-02-18-SWG.png"
         length="223033"
         type="image/png"/>
-      <pubDate>Sat, 23 Feb 2019 18:10:16 +0100</pubDate>
-      <dc:date>2019-02-23T18:10:16.12073+01:00</dc:date>
+      <pubDate>Fri, 01 Mar 2019 18:11:56 +0100</pubDate>
+      <dc:date>2019-03-01T18:11:56.601848+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Scenari Politici–Winpoll, 14–17 February 2019 – Voting Intentions</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-02-13-Demopolis.png"
         length="143875"
         type="image/png"/>
-      <pubDate>Sat, 23 Feb 2019 18:36:59 +0100</pubDate>
-      <dc:date>2019-02-23T18:36:59.127217+01:00</dc:date>
+      <pubDate>Thu, 28 Feb 2019 22:05:32 +0100</pubDate>
+      <dc:date>2019-02-28T22:05:32.210496+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Piepoli for Rai 1, 12 February 2019 – Voting Intentions</title>
@@ -96,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-02-11-SWG.png"
         length="224481"
         type="image/png"/>
-      <pubDate>Sat, 23 Feb 2019 18:50:32 +0100</pubDate>
-      <dc:date>2019-02-23T18:50:32.718184+01:00</dc:date>
+      <pubDate>Fri, 01 Mar 2019 17:15:21 +0100</pubDate>
+      <dc:date>2019-03-01T17:15:21.553422+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Tecnè for Forza Italia, 4–7 February 2019 – Voting Intentions</title>
@@ -7559,6 +7559,6 @@
       <pubDate>Tue, 10 Apr 2018 21:24:48 +0200</pubDate>
       <dc:date>2018-04-10T21:24:48.959229+02:00</dc:date>
     </item>
-    <dc:date>2019-02-28T12:36:12.729587+01:00</dc:date>
+    <dc:date>2019-03-01T18:11:56.601848+01:00</dc:date>
   </channel>
 </rss>
