@@ -306,16 +306,16 @@ Last result: **17** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 18–24 | 18–25 | 17–26 | 16–27 |
+| N/A | [Poll Average](average.html) | 20 | 18–24 | 17–25 | 17–26 | 16–27 |
 | [17–18 February 2019](2019-02-18-Tecnè.html) | Tecnè <br> Quarta Repubblica | 18 | 16–19 | 16–19 | 16–20 | 15–21 |
-| [13–18 February 2019](2019-02-18-SWG.html) | SWG <br> LA7 | 18 | 18–19 | 18–19 | 18–19 | 16–19 |
+| [13–18 February 2019](2019-02-18-SWG.html) | SWG <br> LA7 | 18 | 17–20 | 17–20 | 16–20 | 16–21 |
 | [14–17 February 2019](2019-02-17-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 20 | 19–21 | 18–22 | 18–22 | 17–23 |
 | [13–15 February 2019](2019-02-15-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 18 | 18–19 | 17–20 | 17–20 | 17–20 |
 | [12–13 February 2019](2019-02-13-IndexResearch.html) | Index Research <br> LA7 | 19 | 17–20 | 16–21 | 16–22 | 15–23 |
-| [12–13 February 2019](2019-02-13-Demopolis.html) | Demopolis | 21 | 20–21 | 20–21 | 20–21 | 19–22 |
+| [12–13 February 2019](2019-02-13-Demopolis.html) | Demopolis | 20 | 19–21 | 18–21 | 18–22 | 17–22 |
 | [12 February 2019](2019-02-12-Piepoli.html) | Piepoli <br> Rai 1 | 22 | 20–25 | 19–25 | 18–26 | 18–27 |
 | [12 February 2019](2019-02-12-Euromedia.html) | Euromedia <br> Rai 1 | 20 | 20 | 20 | 20 | 20 |
-| [6–11 February 2019](2019-02-11-SWG.html) | SWG <br> LA7 | 19 | 19 | 18–19 | 17–20 | 17–21 |
+| [6–11 February 2019](2019-02-11-SWG.html) | SWG <br> LA7 | 20 | 18–21 | 18–22 | 18–22 | 17–22 |
 | [4–7 February 2019](2019-02-07-Tecnè.html) | Tecnè <br> Forza Italia | 20 | 20 | 20 | 20 | 20 |
 | [6–7 February 2019](2019-02-07-Ipsos.html) | Ipsos <br> Corriere della Sera | 21 | 19–23 | 19–23 | 18–23 | 17–24 |
 | [6 February 2019](2019-02-06-IndexResearch.html) | Index Research <br> LA7 | 19 | 18–22 | 17–22 | 17–22 | 16–23 |
@@ -578,12 +578,12 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 15 | 0.1% | 100% |  |
-| 16 | 1.4% | 99.9% |  |
-| 17 | 3% | 98% | Last Result |
-| 18 | 14% | 95% |  |
-| 19 | 12% | 81% |  |
-| 20 | 23% | 69% | Median |
-| 21 | 15% | 46% |  |
+| 16 | 2% | 99.9% |  |
+| 17 | 5% | 98% | Last Result |
+| 18 | 12% | 94% |  |
+| 19 | 15% | 82% |  |
+| 20 | 25% | 67% | Median |
+| 21 | 11% | 42% |  |
 | 22 | 11% | 31% |  |
 | 23 | 7% | 21% |  |
 | 24 | 7% | 14% |  |

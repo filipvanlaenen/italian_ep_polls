@@ -327,14 +327,14 @@ Last result: **5** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 27 | 24–30 | 23–31 | 23–32 | 22–33 |
 | [17–18 February 2019](2019-02-18-Tecnè.html) | Tecnè <br> Quarta Repubblica | 25 | 24–27 | 23–27 | 23–28 | 22–29 |
-| [13–18 February 2019](2019-02-18-SWG.html) | SWG <br> LA7 | 27 | 26–31 | 26–31 | 26–31 | 26–31 |
+| [13–18 February 2019](2019-02-18-SWG.html) | SWG <br> LA7 | 28 | 26–30 | 26–30 | 25–30 | 25–31 |
 | [14–17 February 2019](2019-02-17-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 32 | 30–33 | 29–33 | 29–33 | 28–34 |
 | [13–15 February 2019](2019-02-15-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 27 | 22–28 | 22–28 | 22–28 | 21–29 |
 | [12–13 February 2019](2019-02-13-IndexResearch.html) | Index Research <br> LA7 | 28 | 27–31 | 26–32 | 26–32 | 25–34 |
-| [12–13 February 2019](2019-02-13-Demopolis.html) | Demopolis | 25 | 24–26 | 24–27 | 24–28 | 23–28 |
+| [12–13 February 2019](2019-02-13-Demopolis.html) | Demopolis | 26 | 24–27 | 24–27 | 24–28 | 23–28 |
 | [12 February 2019](2019-02-12-Piepoli.html) | Piepoli <br> Rai 1 | 25 | 22–27 | 22–28 | 22–29 | 20–30 |
 | [12 February 2019](2019-02-12-Euromedia.html) | Euromedia <br> Rai 1 | 28 | 28 | 28 | 28 | 28 |
-| [6–11 February 2019](2019-02-11-SWG.html) | SWG <br> LA7 | 25 | 25–29 | 25–30 | 25–30 | 25–31 |
+| [6–11 February 2019](2019-02-11-SWG.html) | SWG <br> LA7 | 29 | 27–30 | 27–31 | 26–31 | 25–32 |
 | [4–7 February 2019](2019-02-07-Tecnè.html) | Tecnè <br> Forza Italia | 24 | 24–25 | 24–25 | 24–26 | 24–26 |
 | [6–7 February 2019](2019-02-07-Ipsos.html) | Ipsos <br> Corriere della Sera | 29 | 27–31 | 27–31 | 26–31 | 24–33 |
 | [6 February 2019](2019-02-06-IndexResearch.html) | Index Research <br> LA7 | 28 | 26–31 | 26–31 | 25–32 | 25–33 |
@@ -615,14 +615,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 21 | 0.2% | 99.9% |  |
 | 22 | 1.4% | 99.7% |  |
 | 23 | 5% | 98% |  |
-| 24 | 7% | 93% |  |
-| 25 | 17% | 87% |  |
-| 26 | 13% | 69% |  |
-| 27 | 18% | 56% | Median |
-| 28 | 18% | 38% |  |
-| 29 | 7% | 21% |  |
+| 24 | 6% | 93% |  |
+| 25 | 15% | 87% |  |
+| 26 | 16% | 72% |  |
+| 27 | 16% | 57% | Median |
+| 28 | 20% | 40% |  |
+| 29 | 8% | 21% |  |
 | 30 | 4% | 13% |  |
-| 31 | 5% | 10% |  |
+| 31 | 4% | 8% |  |
 | 32 | 3% | 4% |  |
 | 33 | 1.0% | 1.2% |  |
 | 34 | 0.2% | 0.2% |  |
