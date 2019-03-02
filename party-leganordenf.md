@@ -325,15 +325,15 @@ Last result: **5** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27 | 24–30 | 23–31 | 23–32 | 22–33 |
+| N/A | [Poll Average](average.html) | 27 | 24–31 | 24–31 | 23–32 | 22–33 |
 | [17–18 February 2019](2019-02-18-Tecnè.html) | Tecnè <br> Quarta Repubblica | 25 | 24–27 | 23–27 | 23–28 | 22–29 |
 | [13–18 February 2019](2019-02-18-SWG.html) | SWG <br> LA7 | 28 | 26–30 | 26–30 | 25–30 | 25–31 |
 | [14–17 February 2019](2019-02-17-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 32 | 30–33 | 29–33 | 29–33 | 28–34 |
-| [13–15 February 2019](2019-02-15-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 27 | 22–28 | 22–28 | 22–28 | 21–29 |
+| [13–15 February 2019](2019-02-15-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 25 | 23–26 | 23–27 | 23–27 | 22–28 |
 | [12–13 February 2019](2019-02-13-IndexResearch.html) | Index Research <br> LA7 | 28 | 27–31 | 26–32 | 26–32 | 25–34 |
 | [12–13 February 2019](2019-02-13-Demopolis.html) | Demopolis | 26 | 24–27 | 24–27 | 24–28 | 23–28 |
 | [12 February 2019](2019-02-12-Piepoli.html) | Piepoli <br> Rai 1 | 25 | 22–27 | 22–28 | 22–29 | 20–30 |
-| [12 February 2019](2019-02-12-Euromedia.html) | Euromedia <br> Rai 1 | 28 | 28 | 28 | 28 | 28 |
+| [12 February 2019](2019-02-12-Euromedia.html) | Euromedia <br> Rai 1 | 29 | 27–31 | 26–31 | 25–31 | 24–32 |
 | [6–11 February 2019](2019-02-11-SWG.html) | SWG <br> LA7 | 29 | 27–30 | 27–31 | 26–31 | 25–32 |
 | [4–7 February 2019](2019-02-07-Tecnè.html) | Tecnè <br> Forza Italia | 24 | 24–25 | 24–25 | 24–26 | 24–26 |
 | [6–7 February 2019](2019-02-07-Ipsos.html) | Ipsos <br> Corriere della Sera | 29 | 27–31 | 27–31 | 26–31 | 24–33 |
@@ -612,18 +612,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
-| 21 | 0.3% | 99.9% |  |
-| 22 | 1.5% | 99.7% |  |
-| 23 | 3% | 98% |  |
-| 24 | 9% | 95% |  |
-| 25 | 13% | 86% |  |
-| 26 | 16% | 73% |  |
-| 27 | 16% | 57% | Median |
-| 28 | 20% | 41% |  |
-| 29 | 8% | 21% |  |
-| 30 | 4% | 13% |  |
-| 31 | 4% | 8% |  |
-| 32 | 3% | 4% |  |
+| 21 | 0.1% | 100% |  |
+| 22 | 0.9% | 99.8% |  |
+| 23 | 3% | 98.9% |  |
+| 24 | 10% | 96% |  |
+| 25 | 16% | 85% |  |
+| 26 | 18% | 69% |  |
+| 27 | 15% | 52% | Median |
+| 28 | 12% | 37% |  |
+| 29 | 10% | 25% |  |
+| 30 | 5% | 15% |  |
+| 31 | 5% | 10% |  |
+| 32 | 3% | 5% |  |
 | 33 | 1.0% | 1.2% |  |
 | 34 | 0.2% | 0.2% |  |
 | 35 | 0% | 0% |  |

@@ -320,15 +320,15 @@ Last result: **31** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 12–15 | 11–16 | 11–16 | 10–17 |
+| N/A | [Poll Average](average.html) | 13 | 11–15 | 11–16 | 11–16 | 10–17 |
 | [17–18 February 2019](2019-02-18-Tecnè.html) | Tecnè <br> Quarta Repubblica | 12 | 11–13 | 10–14 | 10–14 | 10–14 |
 | [13–18 February 2019](2019-02-18-SWG.html) | SWG <br> LA7 | 14 | 13–16 | 13–16 | 13–17 | 12–17 |
 | [14–17 February 2019](2019-02-17-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 15 | 14–16 | 14–17 | 13–17 | 13–18 |
-| [13–15 February 2019](2019-02-15-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 12 | 11–13 | 11–14 | 11–14 | 11–14 |
+| [13–15 February 2019](2019-02-15-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 13 | 12–14 | 11–14 | 11–15 | 10–15 |
 | [12–13 February 2019](2019-02-13-IndexResearch.html) | Index Research <br> LA7 | 13 | 12–15 | 11–16 | 11–16 | 10–17 |
 | [12–13 February 2019](2019-02-13-Demopolis.html) | Demopolis | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
 | [12 February 2019](2019-02-12-Piepoli.html) | Piepoli <br> Rai 1 | 13 | 12–16 | 11–16 | 11–17 | 10–18 |
-| [12 February 2019](2019-02-12-Euromedia.html) | Euromedia <br> Rai 1 | 13 | 13 | 12–13 | 12–13 | 12–13 |
+| [12 February 2019](2019-02-12-Euromedia.html) | Euromedia <br> Rai 1 | 13 | 11–15 | 11–15 | 11–15 | 10–16 |
 | [6–11 February 2019](2019-02-11-SWG.html) | SWG <br> LA7 | 13 | 12–15 | 12–15 | 12–16 | 11–17 |
 | [4–7 February 2019](2019-02-07-Tecnè.html) | Tecnè <br> Forza Italia | 12 | 12 | 12 | 12 | 12 |
 | [6–7 February 2019](2019-02-07-Ipsos.html) | Ipsos <br> Corriere della Sera | 12 | 11–14 | 11–14 | 10–14 | 10–15 |
@@ -591,15 +591,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 0.1% | 100% |  |
+| 9 | 0.2% | 100% |  |
 | 10 | 2% | 99.8% |  |
 | 11 | 8% | 98% |  |
-| 12 | 19% | 91% |  |
-| 13 | 28% | 72% | Median |
-| 14 | 21% | 44% |  |
-| 15 | 16% | 23% |  |
+| 12 | 19% | 90% |  |
+| 13 | 23% | 71% | Median |
+| 14 | 24% | 47% |  |
+| 15 | 17% | 23% |  |
 | 16 | 5% | 7% |  |
-| 17 | 1.1% | 1.2% |  |
+| 17 | 1.1% | 1.3% |  |
 | 18 | 0.2% | 0.2% |  |
 | 19 | 0% | 0% |  |
 | 20 | 0% | 0% |  |
