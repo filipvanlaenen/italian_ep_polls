@@ -339,7 +339,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [6–7 February 2019](2019-02-07-Ipsos.html) | Ipsos <br> Corriere della Sera | 29 | 27–31 | 27–31 | 26–31 | 24–33 |
 | [6 February 2019](2019-02-06-IndexResearch.html) | Index Research <br> LA7 | 28 | 26–31 | 26–31 | 25–32 | 25–33 |
 | [2–6 February 2019](2019-02-06-BiDiMedia.html) | BiDiMedia | 26 | 25–27 | 25–28 | 24–29 | 24–29 |
-| [5 February 2019](2019-02-05-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 25 | 23–25 | 23–26 | 23–26 | 23–26 |
+| [5 February 2019](2019-02-05-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 24 | 23–26 | 23–26 | 23–26 | 22–28 |
 | [3–4 February 2019](2019-02-04-Tecnè.html) | Tecnè <br> Quarta Repubblica | 25 | 23–26 | 23–27 | 22–27 | 22–28 |
 | [30 January–4 February 2019](2019-02-04-SWG.html) | SWG <br> LA7 | 29 | 27–30 | 26–31 | 26–32 | 25–32 |
 | [29–30 January 2019](2019-01-30-IndexResearch.html) | Index Research <br> LA7 | 28 | 26–30 | 25–31 | 25–31 | 24–32 |
@@ -612,14 +612,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
-| 21 | 0.2% | 99.9% |  |
-| 22 | 1.4% | 99.7% |  |
-| 23 | 5% | 98% |  |
-| 24 | 6% | 93% |  |
-| 25 | 15% | 87% |  |
-| 26 | 16% | 72% |  |
+| 21 | 0.3% | 99.9% |  |
+| 22 | 1.5% | 99.7% |  |
+| 23 | 3% | 98% |  |
+| 24 | 9% | 95% |  |
+| 25 | 13% | 86% |  |
+| 26 | 16% | 73% |  |
 | 27 | 16% | 57% | Median |
-| 28 | 20% | 40% |  |
+| 28 | 20% | 41% |  |
 | 29 | 8% | 21% |  |
 | 30 | 4% | 13% |  |
 | 31 | 4% | 8% |  |
