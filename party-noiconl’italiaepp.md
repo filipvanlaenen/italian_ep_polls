@@ -11,8 +11,8 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.6% | 0.3–1.1% | 0.2–1.3% | 0.1–1.4% | 0.1–1.8% |
-| [26–28 February 2019](2019-02-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.5% | 0.3–1.0% | 0.2–1.1% | 0.2–1.2% | 0.1–1.4% |
-| [26 February 2019](2019-02-26-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0.6% | N/A | N/A | N/A | N/A |
+| [26–28 February 2019](2019-02-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.5% | 0.3–0.9% | 0.3–1.1% | 0.2–1.2% | 0.2–1.4% |
+| [26 February 2019](2019-02-26-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0.6% | 0.4–1.0% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% |
 | [20–25 February 2019](2019-02-25-SWG.html) | SWG <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
 | [25 February 2019](2019-02-25-Piepoli.html) | Piepoli <br> Rai 1 | 0.6% | 0.3–1.3% | 0.3–1.5% | 0.2–1.7% | 0.1–2.2% |
 | [25 February 2019](2019-02-25-Euromedia.html) | Euromedia <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
@@ -286,9 +286,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 40% | 100% | Last Result |
-| 0.5–1.5% | 58% | 60% | Median |
-| 1.5–2.5% | 2% | 2% |  |
+| 0.0–0.5% | 38% | 100% | Last Result |
+| 0.5–1.5% | 61% | 62% | Median |
+| 1.5–2.5% | 1.3% | 1.3% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -301,8 +301,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [26–28 February 2019](2019-02-28-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
-| [26 February 2019](2019-02-26-EMGAcqua.html) | EMG Acqua <br> Rai 3 |  |  |  |  |  |
+| [26–28 February 2019](2019-02-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
+| [26 February 2019](2019-02-26-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [20–25 February 2019](2019-02-25-SWG.html) | SWG <br> LA7 |  |  |  |  |  |
 | [25 February 2019](2019-02-25-Piepoli.html) | Piepoli <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
 | [25 February 2019](2019-02-25-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |

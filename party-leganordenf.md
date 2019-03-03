@@ -10,9 +10,9 @@ Last result: **6.2%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 33.1% | 30.3–36.2% | 29.6–37.0% | 29.0–37.7% | 27.8–38.8% |
-| [26–28 February 2019](2019-02-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 35.9% | 34.0–37.9% | 33.4–38.5% | 33.0–39.0% | 32.1–39.9% |
-| [26 February 2019](2019-02-26-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 31.2% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 32.9% | 30.2–36.1% | 29.5–36.9% | 29.0–37.6% | 27.9–38.7% |
+| [26–28 February 2019](2019-02-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 35.9% | 34.0–37.9% | 33.4–38.4% | 33.0–38.9% | 32.1–39.9% |
+| [26 February 2019](2019-02-26-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 31.2% | 29.7–32.7% | 29.3–33.1% | 29.0–33.5% | 28.3–34.2% |
 | [20–25 February 2019](2019-02-25-SWG.html) | SWG <br> LA7 | 33.2% | 31.7–34.8% | 31.2–35.2% | 30.8–35.6% | 30.1–36.4% |
 | [25 February 2019](2019-02-25-Piepoli.html) | Piepoli <br> Rai 1 | 31.5% | 28.9–34.2% | 28.2–35.0% | 27.6–35.7% | 26.4–37.0% |
 | [25 February 2019](2019-02-25-Euromedia.html) | Euromedia <br> Rai 1 | 34.6% | 32.5–36.8% | 31.9–37.4% | 31.4–38.0% | 30.4–39.1% |
@@ -311,13 +311,13 @@ The following table shows the probability mass function per percentage block of 
 | 27.5–28.5% | 1.1% | 99.7% |  |
 | 28.5–29.5% | 4% | 98.6% |  |
 | 29.5–30.5% | 8% | 95% |  |
-| 30.5–31.5% | 12% | 87% |  |
-| 31.5–32.5% | 16% | 75% |  |
-| 32.5–33.5% | 17% | 59% | Median |
-| 33.5–34.5% | 15% | 42% |  |
-| 34.5–35.5% | 11% | 27% |  |
-| 35.5–36.5% | 8% | 16% |  |
-| 36.5–37.5% | 5% | 8% |  |
+| 30.5–31.5% | 14% | 86% |  |
+| 31.5–32.5% | 17% | 73% |  |
+| 32.5–33.5% | 17% | 56% | Median |
+| 33.5–34.5% | 14% | 39% |  |
+| 34.5–35.5% | 10% | 25% |  |
+| 35.5–36.5% | 8% | 15% |  |
+| 36.5–37.5% | 5% | 7% |  |
 | 37.5–38.5% | 2% | 3% |  |
 | 38.5–39.5% | 0.6% | 0.7% |  |
 | 39.5–40.5% | 0.1% | 0.1% |  |
@@ -332,13 +332,13 @@ Last result: **5** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26 | 24–31 | 24–32 | 24–32 | 23–34 |
-| [26–28 February 2019](2019-02-28-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
-| [26 February 2019](2019-02-26-EMGAcqua.html) | EMG Acqua <br> Rai 3 |  |  |  |  |  |
-| [20–25 February 2019](2019-02-25-SWG.html) | SWG <br> LA7 | 26 | 26 | 25–26 | 25–31 | 25–31 |
-| [25 February 2019](2019-02-25-Piepoli.html) | Piepoli <br> Rai 1 | 24 | 24–25 | 24–28 | 24–28 | 23–29 |
-| [25 February 2019](2019-02-25-Euromedia.html) | Euromedia <br> Rai 1 | 31 | 25–34 | 24–34 | 24–34 | 23–34 |
-| [19–20 February 2019](2019-02-20-IndexResearch.html) | Index Research <br> LA7 | 30 | 30 | 30 | 30 | 24–30 |
+| N/A | [Poll Average](average.html) | 27 | 24–30 | 24–31 | 23–32 | 22–33 |
+| [26–28 February 2019](2019-02-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 29 | 27–31 | 27–31 | 26–32 | 25–33 |
+| [26 February 2019](2019-02-26-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 25 | 24–26 | 23–27 | 23–27 | 23–28 |
+| [20–25 February 2019](2019-02-25-SWG.html) | SWG <br> LA7 | 28 | 26–30 | 26–30 | 26–30 | 25–31 |
+| [25 February 2019](2019-02-25-Piepoli.html) | Piepoli <br> Rai 1 | 26 | 23–28 | 22–29 | 22–30 | 21–31 |
+| [25 February 2019](2019-02-25-Euromedia.html) | Euromedia <br> Rai 1 | 28 | 26–30 | 26–31 | 25–31 | 24–32 |
+| [19–20 February 2019](2019-02-20-IndexResearch.html) | Index Research <br> LA7 | 29 | 27–31 | 27–32 | 26–33 | 25–34 |
 | [19 February 2019](2019-02-19-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 25 | 25–27 | 25–27 | 23–27 | 23–27 |
 | [17–18 February 2019](2019-02-18-Tecnè.html) | Tecnè <br> Quarta Repubblica | 25 | 24–27 | 23–27 | 23–28 | 22–29 |
 | [13–18 February 2019](2019-02-18-SWG.html) | SWG <br> LA7 | 28 | 26–30 | 26–30 | 25–30 | 25–31 |
@@ -626,20 +626,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
-| 21 | 0% | 100% |  |
-| 22 | 0.3% | 100% |  |
-| 23 | 2% | 99.7% |  |
-| 24 | 14% | 98% |  |
-| 25 | 15% | 84% |  |
-| 26 | 23% | 69% | Median |
-| 27 | 13% | 45% |  |
-| 28 | 7% | 33% |  |
-| 29 | 5% | 26% |  |
-| 30 | 10% | 21% |  |
-| 31 | 5% | 11% |  |
-| 32 | 3% | 6% |  |
-| 33 | 1.0% | 2% |  |
-| 34 | 1.4% | 1.4% |  |
+| 21 | 0.1% | 100% |  |
+| 22 | 0.5% | 99.9% |  |
+| 23 | 3% | 99.3% |  |
+| 24 | 8% | 97% |  |
+| 25 | 17% | 89% |  |
+| 26 | 19% | 72% |  |
+| 27 | 15% | 53% | Median |
+| 28 | 12% | 38% |  |
+| 29 | 10% | 26% |  |
+| 30 | 8% | 16% |  |
+| 31 | 4% | 9% |  |
+| 32 | 3% | 4% |  |
+| 33 | 1.2% | 1.4% |  |
+| 34 | 0.2% | 0.2% |  |
 | 35 | 0% | 0% |  |
 
 
