@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 03 Mar 2019 11:49:38 +0100</pubDate>
+    <pubDate>Sun, 03 Mar 2019 14:49:41 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for Corriere della Sera, 26–28 February 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-02-28-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 18.8–23.9%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 16.2–21.0%&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 33.0–38.9%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 7.0–10.5%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 2.9–5.4%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 1.6–3.6%&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 2.9–5.4%&lt;/li&gt;&lt;li&gt;Noi con l’Italia (EPP): 0.2–1.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-02-28-Ipsos.png"
+        length="195559"
+        type="image/png"/>
+      <pubDate>Sun, 03 Mar 2019 14:41:58 +0100</pubDate>
+      <dc:date>2019-03-03T14:41:58.794012+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by EMG Acqua for Rai 3, 26 February 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-02-26-EMGAcqua.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 21.8–26.0%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 16.4–20.2%&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 29.0–33.5%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 9.3–12.3%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 4.0–6.2%&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 2.3–4.0%&lt;/li&gt;&lt;li&gt;Noi con l’Italia (EPP): 0.3–1.2%&lt;/li&gt;&lt;li&gt;Potere al Popolo (GUE/NGL): 1.1–2.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-02-26-EMGAcqua.png"
+        length="219174"
+        type="image/png"/>
+      <pubDate>Sun, 03 Mar 2019 14:28:29 +0100</pubDate>
+      <dc:date>2019-03-03T14:28:29.266114+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by SWG for LA7, 20–25 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-02-25-SWG.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-02-25-SWG.png"
         length="224089"
         type="image/png"/>
-      <pubDate>Sun, 03 Mar 2019 11:21:17 +0100</pubDate>
-      <dc:date>2019-03-03T11:21:17.938466+01:00</dc:date>
+      <pubDate>Sun, 03 Mar 2019 14:15:18 +0100</pubDate>
+      <dc:date>2019-03-03T14:15:18.646728+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Piepoli for Rai 1, 25 February 2019 – Voting Intentions</title>
@@ -26,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-02-25-Piepoli.png"
         length="212923"
         type="image/png"/>
-      <pubDate>Sun, 03 Mar 2019 11:24:21 +0100</pubDate>
-      <dc:date>2019-03-03T11:24:21.819801+01:00</dc:date>
+      <pubDate>Sun, 03 Mar 2019 14:07:34 +0100</pubDate>
+      <dc:date>2019-03-03T14:07:34.560877+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Euromedia for Rai 1, 25 February 2019 – Voting Intentions</title>
@@ -36,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-02-25-Euromedia.png"
         length="189154"
         type="image/png"/>
-      <pubDate>Sun, 03 Mar 2019 11:27:51 +0100</pubDate>
-      <dc:date>2019-03-03T11:27:51.793932+01:00</dc:date>
+      <pubDate>Sun, 03 Mar 2019 14:49:41 +0100</pubDate>
+      <dc:date>2019-03-03T14:49:41.859726+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Index Research for LA7, 19–20 February 2019 – Voting Intentions</title>
@@ -46,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-02-20-IndexResearch.png"
         length="240910"
         type="image/png"/>
-      <pubDate>Sun, 03 Mar 2019 11:42:59 +0100</pubDate>
-      <dc:date>2019-03-03T11:42:59.156788+01:00</dc:date>
+      <pubDate>Sun, 03 Mar 2019 14:23:41 +0100</pubDate>
+      <dc:date>2019-03-03T14:23:41.389678+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by EMG Acqua for Rai 3, 19 February 2019 – Voting Intentions</title>
@@ -7609,6 +7629,6 @@
       <pubDate>Tue, 10 Apr 2018 21:24:48 +0200</pubDate>
       <dc:date>2018-04-10T21:24:48.959229+02:00</dc:date>
     </item>
-    <dc:date>2019-03-03T11:49:38.904639+01:00</dc:date>
+    <dc:date>2019-03-03T14:49:41.859726+01:00</dc:date>
   </channel>
 </rss>
