@@ -316,14 +316,14 @@ Last result: **13** seats (General Election of 25 May 2014)
 | [25 February 2019](2019-02-25-Piepoli.html) | Piepoli <br> Rai 1 | 9 | 8–11 | 7–11 | 7–11 | 6–12 |
 | [25 February 2019](2019-02-25-Euromedia.html) | Euromedia <br> Rai 1 | 9 | 8–10 | 7–11 | 7–11 | 7–11 |
 | [19–20 February 2019](2019-02-20-IndexResearch.html) | Index Research <br> LA7 | 8 | 6–9 | 6–9 | 6–9 | 5–10 |
-| [19 February 2019](2019-02-19-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 8 | 8 | 8 | 8–9 | 8–10 |
+| [19 February 2019](2019-02-19-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 8 | 8–9 | 7–9 | 7–10 | 7–10 |
 | [17–18 February 2019](2019-02-18-Tecnè.html) | Tecnè <br> Quarta Repubblica | 9 | 8–10 | 8–11 | 8–11 | 7–11 |
 | [13–18 February 2019](2019-02-18-SWG.html) | SWG <br> LA7 | 7 | 7–8 | 6–9 | 6–9 | 6–9 |
 | [14–17 February 2019](2019-02-17-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [13–15 February 2019](2019-02-15-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | [12–13 February 2019](2019-02-13-IndexResearch.html) | Index Research <br> LA7 | 7 | 6–8 | 6–8 | 5–9 | 5–9 |
 | [12–13 February 2019](2019-02-13-Demopolis.html) | Demopolis | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
-| [12 February 2019](2019-02-12-Piepoli.html) | Piepoli <br> Rai 1 | 8 | 7–10 | 7–10 | 6–11 | 6–11 |
+| [12 February 2019](2019-02-12-Piepoli.html) | Piepoli <br> Rai 1 | 8 | 7–10 | 7–10 | 6–11 | 6–12 |
 | [12 February 2019](2019-02-12-Euromedia.html) | Euromedia <br> Rai 1 | 9 | 8–10 | 7–10 | 7–11 | 6–11 |
 | [6–11 February 2019](2019-02-11-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
 | [4–7 February 2019](2019-02-07-Tecnè.html) | Tecnè <br> Forza Italia | 9 | 9 | 9–10 | 9–10 | 9–10 |
@@ -592,7 +592,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 23% | 92% |  |
 | 8 | 34% | 69% | Median |
 | 9 | 23% | 35% |  |
-| 10 | 9% | 12% |  |
+| 10 | 10% | 12% |  |
 | 11 | 2% | 3% |  |
 | 12 | 0.2% | 0.3% |  |
 | 13 | 0% | 0% | Last Result |
