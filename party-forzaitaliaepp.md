@@ -10,8 +10,11 @@ Last result: **16.8%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.7% | 8.1–12.0% | 7.7–12.5% | 7.4–13.0% | 6.9–14.0% |
+| N/A | [Poll Average](average.html) | 9.8% | 8.1–12.0% | 7.8–12.6% | 7.5–13.1% | 6.9–14.1% |
+| [27–28 February 2019](2019-02-28-Tecnè.html) | Tecnè | 12.1% | 10.9–13.5% | 10.5–13.9% | 10.2–14.3% | 9.6–15.0% |
 | [26–28 February 2019](2019-02-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 8.6% | 7.6–9.8% | 7.3–10.2% | 7.0–10.5% | 6.5–11.1% |
+| [26–27 February 2019](2019-02-27-IndexResearch.html) | Index Research <br> LA7 | 9.1% | 7.9–10.6% | 7.6–11.0% | 7.3–11.3% | 6.8–12.1% |
+| [22–27 February 2019](2019-02-27-BiDiMedia.html) | BiDiMedia | 9.5% | 8.4–10.7% | 8.1–11.1% | 7.9–11.4% | 7.4–12.0% |
 | [26 February 2019](2019-02-26-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 10.7% | 9.8–11.8% | 9.5–12.1% | 9.3–12.3% | 8.9–12.9% |
 | [20–25 February 2019](2019-02-25-SWG.html) | SWG <br> LA7 | 8.7% | 7.8–9.7% | 7.5–10.0% | 7.3–10.2% | 7.0–10.7% |
 | [25 February 2019](2019-02-25-Piepoli.html) | Piepoli <br> Rai 1 | 11.1% | 9.5–13.1% | 9.0–13.6% | 8.6–14.1% | 7.9–15.1% |
@@ -287,15 +290,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.2% | 100% |  |
-| 6.5–7.5% | 3% | 99.8% |  |
-| 7.5–8.5% | 17% | 96% |  |
-| 8.5–9.5% | 26% | 79% |  |
-| 9.5–10.5% | 21% | 54% | Median |
-| 10.5–11.5% | 18% | 33% |  |
+| 5.5–6.5% | 0.1% | 100% |  |
+| 6.5–7.5% | 3% | 99.9% |  |
+| 7.5–8.5% | 16% | 97% |  |
+| 8.5–9.5% | 25% | 81% |  |
+| 9.5–10.5% | 22% | 56% | Median |
+| 10.5–11.5% | 18% | 34% |  |
 | 11.5–12.5% | 10% | 15% |  |
 | 12.5–13.5% | 4% | 5% |  |
-| 13.5–14.5% | 1.0% | 1.1% |  |
+| 13.5–14.5% | 1.0% | 1.2% |  |
 | 14.5–15.5% | 0.2% | 0.2% |  |
 | 15.5–16.5% | 0% | 0% |  |
 | 16.5–17.5% | 0% | 0% | Last Result |
@@ -310,7 +313,10 @@ Last result: **13** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 7–10 | 6–10 | 6–11 | 6–11 |
+| [27–28 February 2019](2019-02-28-Tecnè.html) | Tecnè | 9 | 8–10 | 8–11 | 8–11 | 7–11 |
 | [26–28 February 2019](2019-02-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
+| [26–27 February 2019](2019-02-27-IndexResearch.html) | Index Research <br> LA7 | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
+| [22–27 February 2019](2019-02-27-BiDiMedia.html) | BiDiMedia | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [26 February 2019](2019-02-26-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 9 | 8–9 | 8–10 | 7–10 | 7–10 |
 | [20–25 February 2019](2019-02-25-SWG.html) | SWG <br> LA7 | 8 | 7–8 | 6–8 | 6–9 | 6–9 |
 | [25 February 2019](2019-02-25-Piepoli.html) | Piepoli <br> Rai 1 | 9 | 8–11 | 7–11 | 7–11 | 6–12 |
@@ -587,14 +593,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 0.4% | 100% |  |
-| 6 | 8% | 99.6% |  |
-| 7 | 23% | 92% |  |
-| 8 | 34% | 69% | Median |
-| 9 | 23% | 35% |  |
-| 10 | 10% | 12% |  |
+| 5 | 0.3% | 100% |  |
+| 6 | 7% | 99.7% |  |
+| 7 | 24% | 93% |  |
+| 8 | 31% | 69% | Median |
+| 9 | 25% | 38% |  |
+| 10 | 10% | 13% |  |
 | 11 | 2% | 3% |  |
-| 12 | 0.2% | 0.3% |  |
+| 12 | 0.2% | 0.2% |  |
 | 13 | 0% | 0% | Last Result |
 
 
