@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 03 Mar 2019 22:18:58 +0100</pubDate>
+    <pubDate>Wed, 06 Mar 2019 22:33:02 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Tecnè, 27–28 February 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-02-28-Tecnè.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 19.5–24.7%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 16.0–20.8%&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 29.7–35.5%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 10.2–14.3%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 3.6–6.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-02-28-Tecnè.png"
+        length="152296"
+        type="image/png"/>
+      <pubDate>Wed, 06 Mar 2019 22:24:41 +0100</pubDate>
+      <dc:date>2019-03-06T22:24:41.928394+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for Corriere della Sera, 26–28 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-02-28-Ipsos.html</link>
@@ -18,6 +28,26 @@
         type="image/png"/>
       <pubDate>Sun, 03 Mar 2019 14:41:58 +0100</pubDate>
       <dc:date>2019-03-03T14:41:58.794012+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Index Research for LA7, 26–27 February 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-02-27-IndexResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 19.4–25.1%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 15.5–20.8%&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 31.3–37.9%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 7.3–11.3%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 3.3–6.2%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 2.4–5.0%&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 2.0–4.4%&lt;/li&gt;&lt;li&gt;Potere al Popolo (GUE/NGL): 1.2–3.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-02-27-IndexResearch.png"
+        length="238866"
+        type="image/png"/>
+      <pubDate>Wed, 06 Mar 2019 22:33:02 +0100</pubDate>
+      <dc:date>2019-03-06T22:33:02.778738+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by BiDiMedia, 22–27 February 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-02-27-BiDiMedia.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 20.3–25.3%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 16.7–21.4%&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 29.6–35.1%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 7.9–11.4%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 3.0–5.3%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 1.7–3.6%&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 1.8–3.7%&lt;/li&gt;&lt;li&gt;Noi con l’Italia (EPP): 0.3–1.3%&lt;/li&gt;&lt;li&gt;Potere al Popolo (GUE/NGL): 1.1–2.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-02-27-BiDiMedia.png"
+        length="241953"
+        type="image/png"/>
+      <pubDate>Wed, 06 Mar 2019 22:29:19 +0100</pubDate>
+      <dc:date>2019-03-06T22:29:19.980352+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by EMG Acqua for Rai 3, 26 February 2019 – Voting Intentions</title>
@@ -7649,6 +7679,6 @@
       <pubDate>Tue, 10 Apr 2018 21:24:48 +0200</pubDate>
       <dc:date>2018-04-10T21:24:48.959229+02:00</dc:date>
     </item>
-    <dc:date>2019-03-03T22:18:58.859069+01:00</dc:date>
+    <dc:date>2019-03-06T22:33:02.778738+01:00</dc:date>
   </channel>
 </rss>
