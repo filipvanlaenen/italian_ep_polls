@@ -320,12 +320,12 @@ Last result: **17** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 20 | 17–24 | 16–25 | 16–25 | 15–27 |
 | [27–28 February 2019](2019-02-28-Tecnè.html) | Tecnè | 17 | 15–18 | 15–19 | 15–19 | 14–20 |
 | [26–28 February 2019](2019-02-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 18 | 16–19 | 15–20 | 15–20 | 14–20 |
-| [26–27 February 2019](2019-02-27-IndexResearch.html) | Index Research <br> LA7 | 18 | 17–21 | 17–22 | 16–22 | 15–23 |
+| [26–27 February 2019](2019-02-27-IndexResearch.html) | Index Research <br> LA7 | 19 | 17–20 | 17–22 | 16–22 | 15–22 |
 | [22–27 February 2019](2019-02-27-BiDiMedia.html) | BiDiMedia | 19 | 18–21 | 17–21 | 17–22 | 16–22 |
-| [26 February 2019](2019-02-26-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 19 | 18–20 | 18–21 | 17–21 | 17–21 |
-| [20–25 February 2019](2019-02-25-SWG.html) | SWG <br> LA7 | 19 | 18–20 | 17–21 | 17–21 | 17–22 |
-| [25 February 2019](2019-02-25-Piepoli.html) | Piepoli <br> Rai 1 | 20 | 18–22 | 18–23 | 17–24 | 16–25 |
-| [25 February 2019](2019-02-25-Euromedia.html) | Euromedia <br> Rai 1 | 18 | 16–19 | 15–20 | 15–20 | 14–21 |
+| [26 February 2019](2019-02-26-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 19 | 18–20 | 18–20 | 17–21 | 17–22 |
+| [20–25 February 2019](2019-02-25-SWG.html) | SWG <br> LA7 | 19 | 18–20 | 17–21 | 17–21 | 16–22 |
+| [25 February 2019](2019-02-25-Piepoli.html) | Piepoli <br> Rai 1 | 20 | 18–23 | 18–23 | 17–24 | 16–25 |
+| [25 February 2019](2019-02-25-Euromedia.html) | Euromedia <br> Rai 1 | 18 | 16–19 | 16–20 | 15–20 | 14–21 |
 | [19–20 February 2019](2019-02-20-IndexResearch.html) | Index Research <br> LA7 | 19 | 17–21 | 17–22 | 16–22 | 15–23 |
 | [19 February 2019](2019-02-19-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 20 | 19–21 | 19–21 | 19–21 | 18–22 |
 | [17–18 February 2019](2019-02-18-Tecnè.html) | Tecnè <br> Quarta Repubblica | 18 | 16–19 | 16–20 | 16–20 | 15–21 |
@@ -333,7 +333,7 @@ Last result: **17** seats (General Election of 25 May 2014)
 | [14–17 February 2019](2019-02-17-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 20 | 19–21 | 18–22 | 18–22 | 17–23 |
 | [13–15 February 2019](2019-02-15-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 18 | 17–20 | 17–20 | 16–21 | 16–21 |
 | [12–13 February 2019](2019-02-13-IndexResearch.html) | Index Research <br> LA7 | 19 | 17–20 | 16–21 | 16–22 | 15–23 |
-| [12–13 February 2019](2019-02-13-Demopolis.html) | Demopolis | 20 | 19–21 | 18–21 | 18–22 | 17–22 |
+| [12–13 February 2019](2019-02-13-Demopolis.html) | Demopolis | 20 | 19–21 | 18–21 | 18–21 | 17–22 |
 | [12 February 2019](2019-02-12-Piepoli.html) | Piepoli <br> Rai 1 | 22 | 20–25 | 19–25 | 19–26 | 18–27 |
 | [12 February 2019](2019-02-12-Euromedia.html) | Euromedia <br> Rai 1 | 20 | 18–22 | 18–22 | 17–23 | 17–24 |
 | [6–11 February 2019](2019-02-11-SWG.html) | SWG <br> LA7 | 20 | 18–21 | 18–22 | 18–22 | 17–22 |
@@ -599,15 +599,15 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 14 | 0.2% | 100% |  |
-| 15 | 1.2% | 99.8% |  |
-| 16 | 5% | 98.6% |  |
-| 17 | 9% | 93% | Last Result |
-| 18 | 16% | 85% |  |
+| 15 | 1.4% | 99.8% |  |
+| 16 | 5% | 98% |  |
+| 17 | 9% | 94% | Last Result |
+| 18 | 16% | 84% |  |
 | 19 | 18% | 69% |  |
-| 20 | 16% | 50% | Median |
-| 21 | 11% | 34% |  |
+| 20 | 17% | 50% | Median |
+| 21 | 10% | 33% |  |
 | 22 | 6% | 24% |  |
-| 23 | 5% | 17% |  |
+| 23 | 6% | 18% |  |
 | 24 | 6% | 12% |  |
 | 25 | 4% | 6% |  |
 | 26 | 2% | 2% |  |
