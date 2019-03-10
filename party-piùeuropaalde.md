@@ -307,10 +307,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–3 | 0–4 | 0–4 | 0–5 |
+| N/A | [Poll Average](average.html) | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [27–28 February 2019](2019-02-28-Tecnè.html) | Tecnè |  |  |  |  |  |
-| [26–28 February 2019](2019-02-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
-| [26–27 February 2019](2019-02-27-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0–4 | 0–4 | 0–4 |
+| [26–28 February 2019](2019-02-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [26–27 February 2019](2019-02-27-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | [22–27 February 2019](2019-02-27-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0–3 |
 | [26 February 2019](2019-02-26-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0 | 0 | 0 | 0 | 0–3 |
 | [20–25 February 2019](2019-02-25-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0–3 | 0–4 |
@@ -592,8 +592,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 15% |  |
 | 2 | 0% | 15% |  |
 | 3 | 5% | 15% |  |
-| 4 | 9% | 9% |  |
-| 5 | 0.6% | 0.6% |  |
+| 4 | 9% | 10% |  |
+| 5 | 0.5% | 0.5% |  |
 | 6 | 0% | 0% |  |
 
 
