@@ -311,7 +311,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [27–28 February 2019](2019-02-28-Tecnè.html) | Tecnè |  |  |  |  |  |
 | [26–28 February 2019](2019-02-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
 | [26–27 February 2019](2019-02-27-IndexResearch.html) | Index Research <br> LA7 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [22–27 February 2019](2019-02-27-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0–3 |
+| [22–27 February 2019](2019-02-27-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
 | [26 February 2019](2019-02-26-EMGAcqua.html) | EMG Acqua <br> Rai 3 |  |  |  |  |  |
 | [20–25 February 2019](2019-02-25-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0–4 |
 | [25 February 2019](2019-02-25-Piepoli.html) | Piepoli <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
@@ -588,10 +588,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 97% | 100% | Last Result, Median |
-| 1 | 0% | 3% |  |
-| 2 | 0% | 3% |  |
-| 3 | 1.2% | 3% |  |
+| 0 | 96% | 100% | Last Result, Median |
+| 1 | 0% | 4% |  |
+| 2 | 0% | 4% |  |
+| 3 | 1.4% | 4% |  |
 | 4 | 2% | 2% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |

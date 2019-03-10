@@ -316,10 +316,10 @@ Last result: **13** seats (General Election of 25 May 2014)
 | [27–28 February 2019](2019-02-28-Tecnè.html) | Tecnè | 9 | 8–10 | 8–11 | 8–11 | 7–11 |
 | [26–28 February 2019](2019-02-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | [26–27 February 2019](2019-02-27-IndexResearch.html) | Index Research <br> LA7 | 8 | 7–9 | 6–9 | 6–10 | 6–10 |
-| [22–27 February 2019](2019-02-27-BiDiMedia.html) | BiDiMedia | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
+| [22–27 February 2019](2019-02-27-BiDiMedia.html) | BiDiMedia | 8 | 7–9 | 7–9 | 7–10 | 6–10 |
 | [26 February 2019](2019-02-26-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 9 | 8–10 | 8–10 | 7–10 | 7–10 |
 | [20–25 February 2019](2019-02-25-SWG.html) | SWG <br> LA7 | 7 | 7–8 | 6–8 | 6–9 | 6–9 |
-| [25 February 2019](2019-02-25-Piepoli.html) | Piepoli <br> Rai 1 | 9 | 8–11 | 7–11 | 7–12 | 6–12 |
+| [25 February 2019](2019-02-25-Piepoli.html) | Piepoli <br> Rai 1 | 9 | 8–11 | 7–11 | 7–12 | 6–13 |
 | [25 February 2019](2019-02-25-Euromedia.html) | Euromedia <br> Rai 1 | 9 | 8–10 | 7–11 | 7–11 | 7–12 |
 | [19–20 February 2019](2019-02-20-IndexResearch.html) | Index Research <br> LA7 | 8 | 6–9 | 6–9 | 6–9 | 5–10 |
 | [19 February 2019](2019-02-19-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 8 | 8–9 | 7–9 | 7–10 | 7–10 |
@@ -595,9 +595,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.3% | 100% |  |
 | 6 | 7% | 99.7% |  |
-| 7 | 24% | 93% |  |
-| 8 | 31% | 68% | Median |
-| 9 | 24% | 37% |  |
+| 7 | 26% | 93% |  |
+| 8 | 31% | 67% | Median |
+| 9 | 23% | 36% |  |
 | 10 | 10% | 13% |  |
 | 11 | 2% | 3% |  |
 | 12 | 0.3% | 0.4% |  |
