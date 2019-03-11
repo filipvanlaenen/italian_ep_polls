@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 10 Mar 2019 19:52:20 +0100</pubDate>
+    <pubDate>Mon, 11 Mar 2019 17:16:27 +0100</pubDate>
     <item>
       <title>Opinion Poll by Tecnè, 27–28 February 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-02-28-Tecnè.html#seats</link>
@@ -450,14 +450,34 @@
       <dc:date>2019-03-02T20:39:31.158793+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Ipsos for Corriere della Sera, 6–7 February 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-02-07-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 18–23 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 10–14 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 25–31 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 5–8 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 0–4 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 0–5 seats&lt;/li&gt;&lt;li&gt;Noi con l’Italia (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-02-07-Ipsos-seats.png"
+        length="193552"
+        type="image/png"/>
+      <pubDate>Mon, 11 Mar 2019 17:16:27 +0100</pubDate>
+      <dc:date>2019-03-11T17:16:27.416304+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Corriere della Sera, 6–7 February 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-02-07-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-02-07-Ipsos-coalitions-seats.png"
+        length="161134"
+        type="image/png"/>
+      <pubDate>Mon, 11 Mar 2019 17:16:27 +0100</pubDate>
+      <dc:date>2019-03-11T17:16:27.416304+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Ipsos for Corriere della Sera, 6–7 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-02-07-Ipsos.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 22.8–28.2%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 13.9–18.5%&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 31.5–37.4%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6.6–10.0%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 2.6–5.0%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 1.4–3.3%&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 3.1–5.6%&lt;/li&gt;&lt;li&gt;Noi con l’Italia (EPP): 0.4–1.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-02-07-Ipsos.png"
         length="196455"
         type="image/png"/>
-      <pubDate>Thu, 28 Feb 2019 12:36:12 +0100</pubDate>
-      <dc:date>2019-02-28T12:36:12.729587+01:00</dc:date>
+      <pubDate>Mon, 11 Mar 2019 17:16:27 +0100</pubDate>
+      <dc:date>2019-03-11T17:16:27.416304+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Index Research for LA7, 6 February 2019 – Voting Intentions</title>
@@ -7899,6 +7919,6 @@
       <pubDate>Tue, 10 Apr 2018 21:24:48 +0200</pubDate>
       <dc:date>2018-04-10T21:24:48.959229+02:00</dc:date>
     </item>
-    <dc:date>2019-03-10T19:52:20.412005+01:00</dc:date>
+    <dc:date>2019-03-11T17:16:27.416304+01:00</dc:date>
   </channel>
 </rss>
