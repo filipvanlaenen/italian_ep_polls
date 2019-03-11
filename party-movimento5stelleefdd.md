@@ -338,7 +338,7 @@ Last result: **17** seats (General Election of 25 May 2014)
 | [12 February 2019](2019-02-12-Euromedia.html) | Euromedia <br> Rai 1 | 20 | 18–22 | 18–22 | 17–23 | 17–24 |
 | [6–11 February 2019](2019-02-11-SWG.html) | SWG <br> LA7 | 20 | 18–21 | 18–22 | 18–22 | 17–22 |
 | [4–7 February 2019](2019-02-07-Tecnè.html) | Tecnè <br> Forza Italia | 20 | 19–20 | 19–20 | 19–20 | 19–20 |
-| [6–7 February 2019](2019-02-07-Ipsos.html) | Ipsos <br> Corriere della Sera | 21 | 19–23 | 19–23 | 18–23 | 17–24 |
+| [6–7 February 2019](2019-02-07-Ipsos.html) | Ipsos <br> Corriere della Sera | 21 | 19–23 | 19–23 | 18–23 | 18–24 |
 | [6 February 2019](2019-02-06-IndexResearch.html) | Index Research <br> LA7 | 19 | 18–22 | 17–22 | 17–22 | 16–23 |
 | [2–6 February 2019](2019-02-06-BiDiMedia.html) | BiDiMedia | 21 | 20–22 | 19–22 | 19–23 | 18–23 |
 | [5 February 2019](2019-02-05-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 20 | 19–22 | 19–22 | 19–22 | 18–23 |
