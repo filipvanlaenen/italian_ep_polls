@@ -334,7 +334,7 @@ Last result: **13** seats (General Election of 25 May 2014)
 | [6–11 February 2019](2019-02-11-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
 | [4–7 February 2019](2019-02-07-Tecnè.html) | Tecnè <br> Forza Italia | 9 | 9 | 9–10 | 9–10 | 9–10 |
 | [6–7 February 2019](2019-02-07-Ipsos.html) | Ipsos <br> Corriere della Sera | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
-| [6 February 2019](2019-02-06-IndexResearch.html) | Index Research <br> LA7 | 7 | 6–8 | 6–9 | 5–9 | 5–9 |
+| [6 February 2019](2019-02-06-IndexResearch.html) | Index Research <br> LA7 | 7 | 6–8 | 5–9 | 5–9 | 5–9 |
 | [2–6 February 2019](2019-02-06-BiDiMedia.html) | BiDiMedia | 8 | 7–9 | 7–9 | 6–9 | 6–9 |
 | [5 February 2019](2019-02-05-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
 | [3–4 February 2019](2019-02-04-Tecnè.html) | Tecnè <br> Quarta Repubblica | 9 | 8–10 | 8–10 | 8–11 | 7–11 |
