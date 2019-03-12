@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 11 Mar 2019 17:16:27 +0100</pubDate>
+    <pubDate>Mon, 11 Mar 2019 23:27:52 +0100</pubDate>
     <item>
       <title>Opinion Poll by Tecnè, 27–28 February 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-02-28-Tecnè.html#seats</link>
@@ -486,8 +486,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-02-06-IndexResearch.png"
         length="239357"
         type="image/png"/>
-      <pubDate>Sat, 23 Feb 2019 15:27:32 +0100</pubDate>
-      <dc:date>2019-02-23T15:27:32.926116+01:00</dc:date>
+      <pubDate>Mon, 11 Mar 2019 23:27:52 +0100</pubDate>
+      <dc:date>2019-03-11T23:27:52.199234+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by BiDiMedia, 2–6 February 2019 – Voting Intentions</title>
@@ -7919,6 +7919,6 @@
       <pubDate>Tue, 10 Apr 2018 21:24:48 +0200</pubDate>
       <dc:date>2018-04-10T21:24:48.959229+02:00</dc:date>
     </item>
-    <dc:date>2019-03-11T17:16:27.416304+01:00</dc:date>
+    <dc:date>2019-03-11T23:27:52.199234+01:00</dc:date>
   </channel>
 </rss>
