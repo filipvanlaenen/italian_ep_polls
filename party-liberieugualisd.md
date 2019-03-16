@@ -325,7 +325,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [12–13 February 2019](2019-02-13-IndexResearch.html) | Index Research <br> LA7 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [12–13 February 2019](2019-02-13-Demopolis.html) | Demopolis |  |  |  |  |  |
 | [12 February 2019](2019-02-12-Piepoli.html) | Piepoli <br> Rai 1 | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
-| [12 February 2019](2019-02-12-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [12 February 2019](2019-02-12-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [6–11 February 2019](2019-02-11-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
 | [4–7 February 2019](2019-02-07-Tecnè.html) | Tecnè <br> Forza Italia |  |  |  |  |  |
 | [6–7 February 2019](2019-02-07-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
