@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 11 Mar 2019 23:27:52 +0100</pubDate>
+    <pubDate>Tue, 12 Mar 2019 23:00:14 +0100</pubDate>
     <item>
       <title>Opinion Poll by Tecnè, 27–28 February 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-02-28-Tecnè.html#seats</link>
@@ -420,14 +420,34 @@
       <dc:date>2019-03-03T22:18:58.859069+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Euromedia for Rai 1, 12 February 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-02-12-Euromedia.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 17–23 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 11–15 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 25–32 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 7–11 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 0–5 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0–4 seats&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 0–4 seats&lt;/li&gt;&lt;li&gt;Noi con l’Italia (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-02-12-Euromedia-seats.png"
+        length="204503"
+        type="image/png"/>
+      <pubDate>Tue, 12 Mar 2019 23:00:14 +0100</pubDate>
+      <dc:date>2019-03-12T23:00:14.403968+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Euromedia for Rai 1, 12 February 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-02-12-Euromedia.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-02-12-Euromedia-coalitions-seats.png"
+        length="173449"
+        type="image/png"/>
+      <pubDate>Tue, 12 Mar 2019 23:00:14 +0100</pubDate>
+      <dc:date>2019-03-12T23:00:14.403968+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Euromedia for Rai 1, 12 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-02-12-Euromedia.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 21.2–27.1%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 14.3–19.5%&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 31.2–37.7%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 8.6–12.8%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 3.4–6.3%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 2.3–4.9%&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 2.2–4.7%&lt;/li&gt;&lt;li&gt;Noi con l’Italia (EPP): 0.1–0.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-02-12-Euromedia.png"
         length="199990"
         type="image/png"/>
-      <pubDate>Sat, 02 Mar 2019 14:29:42 +0100</pubDate>
-      <dc:date>2019-03-02T14:29:42.829485+01:00</dc:date>
+      <pubDate>Tue, 12 Mar 2019 23:00:14 +0100</pubDate>
+      <dc:date>2019-03-12T23:00:14.403968+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SWG for LA7, 6–11 February 2019 – Voting Intentions</title>
@@ -7919,6 +7939,6 @@
       <pubDate>Tue, 10 Apr 2018 21:24:48 +0200</pubDate>
       <dc:date>2018-04-10T21:24:48.959229+02:00</dc:date>
     </item>
-    <dc:date>2019-03-11T23:27:52.199234+01:00</dc:date>
+    <dc:date>2019-03-12T23:00:14.403968+01:00</dc:date>
   </channel>
 </rss>
