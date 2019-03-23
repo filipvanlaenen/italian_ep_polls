@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 12 Mar 2019 23:00:14 +0100</pubDate>
+    <pubDate>Sat, 23 Mar 2019 10:12:17 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by SWG for LA7, 27 February–4 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-03-04-SWG.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 20.0–24.2%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 17.8–21.9%&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 31.0–35.8%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 7.5–10.3%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 3.5–5.6%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 1.7–3.3%&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 2.2–4.0%&lt;/li&gt;&lt;li&gt;Potere al Popolo (GUE/NGL): 1.4–2.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-03-04-SWG.png"
+        length="223233"
+        type="image/png"/>
+      <pubDate>Sat, 23 Mar 2019 10:00:34 +0100</pubDate>
+      <dc:date>2019-03-23T10:00:34.692462+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Scenari Politici–Winpoll, 1–3 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-03-03-ScenariPolitici–Winpoll.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 19.6–23.8%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 18.3–22.4%&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 33.0–37.9%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 7.5–10.3%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 2.9–4.9%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 1.3–2.7%&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 2.4–4.2%&lt;/li&gt;&lt;li&gt;Potere al Popolo (GUE/NGL): 1.1–2.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-03-03-ScenariPolitici–Winpoll.png"
+        length="220859"
+        type="image/png"/>
+      <pubDate>Sat, 23 Mar 2019 10:12:17 +0100</pubDate>
+      <dc:date>2019-03-23T10:12:17.891924+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Tecnè, 27–28 February 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-02-28-Tecnè.html#seats</link>
@@ -7939,6 +7959,6 @@
       <pubDate>Tue, 10 Apr 2018 21:24:48 +0200</pubDate>
       <dc:date>2018-04-10T21:24:48.959229+02:00</dc:date>
     </item>
-    <dc:date>2019-03-12T23:00:14.403968+01:00</dc:date>
+    <dc:date>2019-03-23T10:12:17.891924+01:00</dc:date>
   </channel>
 </rss>
