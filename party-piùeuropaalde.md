@@ -11,6 +11,8 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3.1% | 2.0–4.3% | 1.7–4.6% | 1.5–4.9% | 1.2–5.5% |
+| [27 February–4 March 2019](2019-03-04-SWG.html) | SWG <br> LA7 | 3.0% | 2.5–3.7% | 2.4–3.8% | 2.2–4.0% | 2.0–4.3% |
+| [1–3 March 2019](2019-03-03-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 3.2% | 2.7–3.9% | 2.5–4.1% | 2.4–4.2% | 2.2–4.6% |
 | [27–28 February 2019](2019-02-28-Tecnè.html) | Tecnè | 0.0% | N/A | N/A | N/A | N/A |
 | [26–28 February 2019](2019-02-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
 | [26–27 February 2019](2019-02-27-IndexResearch.html) | Index Research <br> LA7 | 3.0% | 2.3–3.9% | 2.2–4.2% | 2.0–4.4% | 1.8–4.9% |
@@ -308,6 +310,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [27 February–4 March 2019](2019-03-04-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
+| [1–3 March 2019](2019-03-03-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 4 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [27–28 February 2019](2019-02-28-Tecnè.html) | Tecnè |  |  |  |  |  |
 | [26–28 February 2019](2019-02-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [26–27 February 2019](2019-02-27-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0–3 | 0–4 | 0–4 |

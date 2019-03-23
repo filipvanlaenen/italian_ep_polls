@@ -11,6 +11,8 @@ Last result: **16.8%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9.8% | 8.1–12.0% | 7.8–12.6% | 7.5–13.1% | 6.9–14.1% |
+| [27 February–4 March 2019](2019-03-04-SWG.html) | SWG <br> LA7 | 8.8% | 7.9–9.8% | 7.7–10.1% | 7.5–10.3% | 7.1–10.9% |
+| [1–3 March 2019](2019-03-03-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 8.8% | 7.9–9.8% | 7.7–10.1% | 7.5–10.3% | 7.1–10.9% |
 | [27–28 February 2019](2019-02-28-Tecnè.html) | Tecnè | 12.1% | 10.9–13.5% | 10.5–13.9% | 10.2–14.3% | 9.6–15.0% |
 | [26–28 February 2019](2019-02-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 8.6% | 7.6–9.8% | 7.3–10.2% | 7.0–10.5% | 6.5–11.1% |
 | [26–27 February 2019](2019-02-27-IndexResearch.html) | Index Research <br> LA7 | 9.1% | 7.9–10.6% | 7.6–11.0% | 7.3–11.3% | 6.8–12.1% |
@@ -313,6 +315,8 @@ Last result: **13** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 7–10 | 6–10 | 6–11 | 6–11 |
+| [27 February–4 March 2019](2019-03-04-SWG.html) | SWG <br> LA7 | 7 | 7 | 7 | 7–9 | 7–10 |
+| [1–3 March 2019](2019-03-03-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 7 | 7–8 | 7–8 | 7–9 | 6–10 |
 | [27–28 February 2019](2019-02-28-Tecnè.html) | Tecnè | 9 | 8–10 | 8–11 | 8–11 | 7–11 |
 | [26–28 February 2019](2019-02-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | [26–27 February 2019](2019-02-27-IndexResearch.html) | Index Research <br> LA7 | 8 | 7–9 | 6–9 | 6–10 | 6–10 |

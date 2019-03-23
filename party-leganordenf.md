@@ -11,6 +11,8 @@ Last result: **6.2%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 32.9% | 30.3–36.1% | 29.6–36.9% | 29.0–37.5% | 27.9–38.7% |
+| [27 February–4 March 2019](2019-03-04-SWG.html) | SWG <br> LA7 | 33.4% | 31.9–35.0% | 31.4–35.4% | 31.0–35.8% | 30.3–36.6% |
+| [1–3 March 2019](2019-03-03-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 35.4% | 33.8–37.0% | 33.4–37.5% | 33.0–37.9% | 32.3–38.6% |
 | [27–28 February 2019](2019-02-28-Tecnè.html) | Tecnè | 32.5% | 30.6–34.4% | 30.1–35.0% | 29.7–35.5% | 28.8–36.4% |
 | [26–28 February 2019](2019-02-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 35.9% | 34.0–37.9% | 33.4–38.4% | 33.0–38.9% | 32.1–39.9% |
 | [26–27 February 2019](2019-02-27-IndexResearch.html) | Index Research <br> LA7 | 34.5% | 32.4–36.7% | 31.8–37.3% | 31.3–37.9% | 30.3–38.9% |
@@ -336,6 +338,8 @@ Last result: **5** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 27 | 24–30 | 24–31 | 23–32 | 22–33 |
+| [27 February–4 March 2019](2019-03-04-SWG.html) | SWG <br> LA7 | 30 | 30 | 30 | 28–30 | 27–30 |
+| [1–3 March 2019](2019-03-03-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 28 | 28 | 28–29 | 28–33 | 26–34 |
 | [27–28 February 2019](2019-02-28-Tecnè.html) | Tecnè | 25 | 23–26 | 23–27 | 22–27 | 22–28 |
 | [26–28 February 2019](2019-02-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 29 | 27–31 | 27–32 | 26–32 | 25–33 |
 | [26–27 February 2019](2019-02-27-IndexResearch.html) | Index Research <br> LA7 | 29 | 27–32 | 26–32 | 26–33 | 25–34 |
