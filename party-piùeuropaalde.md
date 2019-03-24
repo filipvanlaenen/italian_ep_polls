@@ -367,12 +367,12 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [20–21 March 2019](2019-03-21-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
-| [20–21 March 2019](2019-03-21-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0–4 | 0–4 | 0–4 |
+| [20–21 March 2019](2019-03-21-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [19–20 March 2019](2019-03-20-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0 | 0 | 0–4 |
-| [19 March 2019](2019-03-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 0 | 0 | 0–4 | 0–4 | 0–4 |
-| [19 March 2019](2019-03-19-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [19 March 2019](2019-03-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [19 March 2019](2019-03-19-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0 | 0 | 0 | 0 | 0–3 |
 | [17–18 March 2019](2019-03-18-Tecnè.html) | Tecnè <br> Quarta Repubblica and Rete 4 |  |  |  |  |  |
-| [13–18 March 2019](2019-03-18-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0–3 |
+| [13–18 March 2019](2019-03-18-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0–4 |
 | [12–13 March 2019](2019-03-13-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0 | 0–4 | 0–5 |
 | [11–13 March 2019](2019-03-13-DemosPi.html) | Demos & Pi <br> La Repubblica | 0 | 0 | 0 | 0 | 0 |
 | [12–13 March 2019](2019-03-13-Demopolis.html) | Demopolis |  |  |  |  |  |

@@ -366,13 +366,13 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 0–4 | 0–5 | 0–5 | 0–5 |
-| [20–21 March 2019](2019-03-21-Tecnè.html) | Tecnè <br> Rete 4 | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
-| [20–21 March 2019](2019-03-21-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0–5 | 0–5 | 0–5 | 0–5 |
-| [19–20 March 2019](2019-03-20-IndexResearch.html) | Index Research <br> LA7 | 4 | 0–4 | 0–4 | 0–4 | 0–4 |
-| [19 March 2019](2019-03-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 4 | 4 | 3–4 | 3–4 | 0–5 |
-| [19 March 2019](2019-03-19-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 4 | 0–4 | 0–4 | 0–4 | 0–4 |
-| [17–18 March 2019](2019-03-18-Tecnè.html) | Tecnè <br> Quarta Repubblica and Rete 4 | 4 | 0–4 | 0–4 | 0–5 | 0–5 |
-| [13–18 March 2019](2019-03-18-SWG.html) | SWG <br> LA7 | 5 | 5 | 4–5 | 4–5 | 4–5 |
+| [20–21 March 2019](2019-03-21-Tecnè.html) | Tecnè <br> Rete 4 | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
+| [20–21 March 2019](2019-03-21-Euromedia.html) | Euromedia <br> Rai 1 | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
+| [19–20 March 2019](2019-03-20-IndexResearch.html) | Index Research <br> LA7 | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
+| [19 March 2019](2019-03-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
+| [19 March 2019](2019-03-19-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 4 | 3–4 | 3–5 | 0–5 | 0–5 |
+| [17–18 March 2019](2019-03-18-Tecnè.html) | Tecnè <br> Quarta Repubblica and Rete 4 | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [13–18 March 2019](2019-03-18-SWG.html) | SWG <br> LA7 | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [12–13 March 2019](2019-03-13-IndexResearch.html) | Index Research <br> LA7 | 4 | 0–4 | 0–5 | 0–5 | 0–6 |
 | [11–13 March 2019](2019-03-13-DemosPi.html) | Demos & Pi <br> La Repubblica | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [12–13 March 2019](2019-03-13-Demopolis.html) | Demopolis | 0 | 0–4 | 0–4 | 0–4 | 0–4 |

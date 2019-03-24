@@ -394,13 +394,13 @@ Last result: **5** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 27 | 24–30 | 24–31 | 23–32 | 22–33 |
-| [20–21 March 2019](2019-03-21-Tecnè.html) | Tecnè <br> Rete 4 | 27 | 26–27 | 26–27 | 26–27 | 26–28 |
-| [20–21 March 2019](2019-03-21-Euromedia.html) | Euromedia <br> Rai 1 | 28 | 26–28 | 25–28 | 25–29 | 25–30 |
-| [19–20 March 2019](2019-03-20-IndexResearch.html) | Index Research <br> LA7 | 29 | 29 | 28–29 | 28–30 | 28–30 |
-| [19 March 2019](2019-03-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 28 | 26–28 | 26–28 | 26–28 | 24–28 |
-| [19 March 2019](2019-03-19-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 23 | 23–26 | 23–26 | 23–26 | 23–28 |
-| [17–18 March 2019](2019-03-18-Tecnè.html) | Tecnè <br> Quarta Repubblica and Rete 4 | 24 | 22–25 | 22–25 | 22–25 | 22–25 |
-| [13–18 March 2019](2019-03-18-SWG.html) | SWG <br> LA7 | 27 | 27 | 27 | 27–28 | 26–28 |
+| [20–21 March 2019](2019-03-21-Tecnè.html) | Tecnè <br> Rete 4 | 25 | 24–27 | 23–27 | 23–28 | 22–29 |
+| [20–21 March 2019](2019-03-21-Euromedia.html) | Euromedia <br> Rai 1 | 27 | 25–29 | 24–29 | 24–30 | 23–31 |
+| [19–20 March 2019](2019-03-20-IndexResearch.html) | Index Research <br> LA7 | 30 | 28–31 | 27–32 | 27–32 | 26–33 |
+| [19 March 2019](2019-03-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 27 | 25–29 | 24–29 | 24–30 | 23–31 |
+| [19 March 2019](2019-03-19-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 25 | 24–26 | 24–26 | 23–27 | 23–28 |
+| [17–18 March 2019](2019-03-18-Tecnè.html) | Tecnè <br> Quarta Repubblica and Rete 4 | 24 | 22–25 | 22–26 | 22–26 | 21–27 |
+| [13–18 March 2019](2019-03-18-SWG.html) | SWG <br> LA7 | 29 | 27–31 | 27–31 | 26–31 | 26–32 |
 | [12–13 March 2019](2019-03-13-IndexResearch.html) | Index Research <br> LA7 | 26 | 26–31 | 25–32 | 25–34 | 22–36 |
 | [11–13 March 2019](2019-03-13-DemosPi.html) | Demos & Pi <br> La Repubblica | 29 | 25–30 | 25–31 | 24–32 | 24–34 |
 | [12–13 March 2019](2019-03-13-Demopolis.html) | Demopolis | 27 | 23–28 | 23–28 | 23–28 | 22–29 |
