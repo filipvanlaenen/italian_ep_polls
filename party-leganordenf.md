@@ -424,7 +424,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [25 February 2019](2019-02-25-Piepoli.html) | Piepoli <br> Rai 1 | 25 | 23–28 | 22–29 | 22–29 | 21–31 |
 | [25 February 2019](2019-02-25-Euromedia.html) | Euromedia <br> Rai 1 | 28 | 26–30 | 25–31 | 25–31 | 24–33 |
 | [19–20 February 2019](2019-02-20-IndexResearch.html) | Index Research <br> LA7 | 29 | 27–31 | 27–32 | 26–33 | 25–34 |
-| [19 February 2019](2019-02-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 29 | 29 | 29 | 29 | 29 |
+| [19 February 2019](2019-02-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 29 | 27–31 | 26–31 | 26–32 | 25–33 |
 | [19 February 2019](2019-02-19-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 25 | 24–26 | 23–26 | 23–26 | 23–27 |
 | [17–18 February 2019](2019-02-18-Tecnè.html) | Tecnè <br> Quarta Repubblica | 25 | 24–27 | 23–27 | 23–28 | 22–29 |
 | [13–18 February 2019](2019-02-18-SWG.html) | SWG <br> LA7 | 28 | 26–30 | 26–30 | 25–30 | 25–31 |
@@ -473,7 +473,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [6–7 January 2019](2019-01-07-Tecnè.html) | Tecnè <br> Quarta Repubblica | 24 | 23–26 | 22–27 | 22–27 | 21–28 |
 | [3–7 January 2019](2019-01-07-SWG.html) | SWG <br> LA7 | 27 | 26–29 | 25–30 | 25–30 | 24–31 |
 | [23–30 December 2018](2018-12-30-GPFInspiringResearch.html) | GPF Inspiring Research <br> La Notizia | 26 | 25–28 | 24–29 | 23–29 | 23–30 |
-| [19–21 December 2018](2018-12-21-Ixè.html) | Ixè | 27 | 25–27 | 25–27 | 25–27 | 25–27 |
+| [19–21 December 2018](2018-12-21-Ixè.html) | Ixè | 26 | 24–27 | 24–28 | 23–28 | 22–29 |
 | [20–21 December 2018](2018-12-21-Ipsos.html) | Ipsos <br> Corriere della Sera | 27 | 26–29 | 25–30 | 25–30 | 24–31 |
 | [17–21 December 2018](2018-12-21-BiDiMedia.html) | BiDiMedia | 26 | 25–28 | 24–29 | 24–29 | 23–30 |
 | [20 December 2018](2018-12-20-LorienConsulting.html) | Lorien Consulting | 27 | 25–30 | 24–30 | 24–30 | 23–30 |
@@ -541,8 +541,8 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [17 October 2018](2018-10-17-Euromedia.html) | Euromedia <br> Rai 1 | 26 | 24–28 | 23–29 | 23–29 | 22–31 |
 | [16 October 2018](2018-10-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 25 | 25–27 | 25–27 | 25–27 | 25–28 |
 | [10–15 October 2018](2018-10-15-SWG.html) | SWG <br> LA7 | 26 | 24–28 | 24–28 | 24–29 | 23–30 |
-| [15 October 2018](2018-10-15-LorienConsulting.html) | Lorien Consulting | 24 | 24 | 24 | 24 | 23–29 |
-| [10–15 October 2018](2018-10-15-GPFInspiringResearch.html) | GPF Inspiring Research <br> Sky TG 24 | 24 | 21–26 | 21–27 | 21–30 | 20–30 |
+| [15 October 2018](2018-10-15-LorienConsulting.html) | Lorien Consulting | 25 | 23–29 | 22–30 | 22–30 | 21–31 |
+| [10–15 October 2018](2018-10-15-GPFInspiringResearch.html) | GPF Inspiring Research <br> Sky TG 24 | 25 | 22–27 | 22–27 | 21–28 | 21–29 |
 | [13–14 October 2018](2018-10-14-Tecnè.html) | Tecnè <br> Quarta Repubblica | 24 | 23–26 | 22–26 | 22–27 | 21–27 |
 | [11–13 October 2018](2018-10-13-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 29 | 28–31 | 27–31 | 27–32 | 26–32 |
 | [10–12 October 2018](2018-10-12-Ixè.html) | Ixè <br> Huffington Post | 28 | 26–29 | 25–30 | 25–30 | 24–31 |
@@ -560,7 +560,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [28 September 2018](2018-09-28-Ipsos.html) | Ipsos | 27 | 27–30 | 27–30 | 27–32 | 25–32 |
 | [24–28 September 2018](2018-09-28-BiDiMedia.html) | BiDiMedia | 26 | 24–28 | 24–29 | 23–29 | 22–30 |
 | [26 September 2018](2018-09-26-IndexResearch.html) | Index Research <br> LA7 | 26 | 24–27 | 24–28 | 23–28 | 22–29 |
-| [25 September 2018](2018-09-25-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 27 | 26–30 | 25–30 | 25–31 | 25–31 |
+| [25 September 2018](2018-09-25-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 29 | 27–30 | 27–30 | 26–31 | 25–32 |
 | [19–24 September 2018](2018-09-24-SWG.html) | SWG <br> LA7 | 27 | 26–29 | 25–30 | 25–30 | 24–31 |
 | [22–23 September 2018](2018-09-23-Tecnè.html) | Tecnè <br> Quarta Repubblica | 26 | 24–28 | 24–28 | 23–28 | 23–29 |
 | [21–23 September 2018](2018-09-23-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 25 | 23–27 | 23–27 | 22–28 | 21–29 |
@@ -577,7 +577,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [14–15 September 2018](2018-09-15-Tecnè.html) | Tecnè <br> Quarta Repubblica | 25 | 23–26 | 23–27 | 22–27 | 22–28 |
 | [11–13 September 2018](2018-09-13-DemosPi.html) | Demos & Pi | 26 | 24–28 | 24–28 | 23–29 | 22–30 |
 | [11–12 September 2018](2018-09-12-Demopolis.html) | Demopolis | 26 | 24–27 | 24–27 | 24–28 | 23–28 |
-| [11 September 2018](2018-09-11-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 29 | 29–32 | 28–32 | 28–32 | 28–32 |
+| [11 September 2018](2018-09-11-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 28 | 28–31 | 27–32 | 26–32 | 25–33 |
 | [5–10 September 2018](2018-09-10-SWG.html) | SWG <br> LA7 | 27 | 25–29 | 25–30 | 25–30 | 24–31 |
 | [10 September 2018](2018-09-10-Piepoli.html) | Piepoli <br> Rai 1 | 24 | 22–27 | 21–27 | 21–28 | 20–29 |
 | [10 September 2018](2018-09-10-Euromedia.html) | Euromedia <br> Rai 1 | 27 | 25–29 | 24–30 | 24–30 | 23–31 |
@@ -642,7 +642,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [22–24 May 2018](2018-05-24-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 17 | 16–19 | 15–19 | 15–19 | 15–20 |
 | [23 May 2018](2018-05-23-IndexResearch.html) | Index Research <br> LA7 | 18 | 16–19 | 16–20 | 15–20 | 15–21 |
 | [22–23 May 2018](2018-05-23-Demopolis.html) | Demopolis | 19 | 18–20 | 18–21 | 17–21 | 17–22 |
-| [22 May 2018](2018-05-22-NotoSondaggi.html) | Noto Sondaggi <br> il Quotidiano Nazionale | 20 | 20–21 | 18–21 | 18–21 | 17–21 |
+| [22 May 2018](2018-05-22-NotoSondaggi.html) | Noto Sondaggi <br> il Quotidiano Nazionale | 21 | 19–22 | 19–22 | 18–23 | 18–24 |
 | [16–20 May 2018](2018-05-20-SWG.html) | SWG <br> LA7 | 20 | 19–22 | 19–22 | 19–23 | 18–23 |
 | [16–18 May 2018](2018-05-18-Tecnè.html) | Tecnè <br> TGcom24 | 19 | 18–20 | 17–20 | 17–20 | 16–21 |
 | [17–18 May 2018](2018-05-18-DemosPi.html) | Demos & Pi | 18 | 17–20 | 16–20 | 16–20 | 15–21 |
@@ -751,16 +751,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 21 | 0.1% | 100% |  |
 | 22 | 0.6% | 99.9% |  |
 | 23 | 3% | 99.3% |  |
-| 24 | 8% | 97% |  |
-| 25 | 15% | 89% |  |
-| 26 | 15% | 74% |  |
-| 27 | 20% | 59% | Median |
-| 28 | 11% | 40% |  |
-| 29 | 14% | 29% |  |
-| 30 | 6% | 14% |  |
-| 31 | 4% | 8% |  |
+| 24 | 8% | 96% |  |
+| 25 | 15% | 88% |  |
+| 26 | 17% | 73% |  |
+| 27 | 17% | 56% | Median |
+| 28 | 12% | 39% |  |
+| 29 | 10% | 27% |  |
+| 30 | 8% | 17% |  |
+| 31 | 5% | 9% |  |
 | 32 | 3% | 4% |  |
-| 33 | 1.1% | 1.3% |  |
+| 33 | 1.1% | 1.4% |  |
 | 34 | 0.2% | 0.2% |  |
 | 35 | 0% | 0% |  |
 

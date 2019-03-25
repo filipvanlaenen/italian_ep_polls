@@ -396,7 +396,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [25 February 2019](2019-02-25-Piepoli.html) | Piepoli <br> Rai 1 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [25 February 2019](2019-02-25-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [19–20 February 2019](2019-02-20-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0 | 0 | 0–4 |
-| [19 February 2019](2019-02-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
+| [19 February 2019](2019-02-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [19 February 2019](2019-02-19-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0 | 0 | 0 | 0 | 0–3 |
 | [17–18 February 2019](2019-02-18-Tecnè.html) | Tecnè <br> Quarta Repubblica |  |  |  |  |  |
 | [13–18 February 2019](2019-02-18-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0–3 |
@@ -513,8 +513,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [17 October 2018](2018-10-17-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0 | 0–4 |
 | [16 October 2018](2018-10-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [10–15 October 2018](2018-10-15-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
-| [15 October 2018](2018-10-15-LorienConsulting.html) | Lorien Consulting | 0 | 0 | 0 | 0 | 0 |
-| [10–15 October 2018](2018-10-15-GPFInspiringResearch.html) | GPF Inspiring Research <br> Sky TG 24 | 0 | 0 | 0 | 0 | 0 |
+| [15 October 2018](2018-10-15-LorienConsulting.html) | Lorien Consulting | 0 | 0 | 0 | 0–3 | 0–4 |
+| [10–15 October 2018](2018-10-15-GPFInspiringResearch.html) | GPF Inspiring Research <br> Sky TG 24 | 0 | 0 | 0 | 0 | 0–3 |
 | [13–14 October 2018](2018-10-14-Tecnè.html) | Tecnè <br> Quarta Repubblica |  |  |  |  |  |
 | [11–13 October 2018](2018-10-13-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 0 | 0 | 0 | 0 | 0 |
 | [10–12 October 2018](2018-10-12-Ixè.html) | Ixè <br> Huffington Post | 0 | 0 | 0 | 0 | 0–3 |
@@ -704,11 +704,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 86% | 100% | Last Result, Median |
-| 1 | 0% | 14% |  |
-| 2 | 0% | 14% |  |
-| 3 | 5% | 14% |  |
-| 4 | 8% | 9% |  |
+| 0 | 85% | 100% | Last Result, Median |
+| 1 | 0% | 15% |  |
+| 2 | 0% | 15% |  |
+| 3 | 6% | 15% |  |
+| 4 | 9% | 9% |  |
 | 5 | 0.4% | 0.4% |  |
 | 6 | 0% | 0% |  |
 

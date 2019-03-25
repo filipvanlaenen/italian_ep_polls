@@ -511,7 +511,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [17 October 2018](2018-10-17-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
 | [16 October 2018](2018-10-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [10–15 October 2018](2018-10-15-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
-| [15 October 2018](2018-10-15-LorienConsulting.html) | Lorien Consulting | 0 | 0 | 0 | 0 | 0 |
+| [15 October 2018](2018-10-15-LorienConsulting.html) | Lorien Consulting | 0 | 0 | 0 | 0 | 0–4 |
 | [10–15 October 2018](2018-10-15-GPFInspiringResearch.html) | GPF Inspiring Research <br> Sky TG 24 |  |  |  |  |  |
 | [13–14 October 2018](2018-10-14-Tecnè.html) | Tecnè <br> Quarta Repubblica |  |  |  |  |  |
 | [11–13 October 2018](2018-10-13-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 0 | 0 | 0 | 0 | 0 |

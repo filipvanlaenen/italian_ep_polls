@@ -444,7 +444,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [6–7 January 2019](2019-01-07-Tecnè.html) | Tecnè <br> Quarta Repubblica |  |  |  |  |  |
 | [3–7 January 2019](2019-01-07-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0–3 |
 | [23–30 December 2018](2018-12-30-GPFInspiringResearch.html) | GPF Inspiring Research <br> La Notizia | 0 | 0 | 0 | 0 | 0–3 |
-| [19–21 December 2018](2018-12-21-Ixè.html) | Ixè | 0 | 0 | 0 | 0 | 0 |
+| [19–21 December 2018](2018-12-21-Ixè.html) | Ixè | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | [20–21 December 2018](2018-12-21-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0–4 |
 | [17–21 December 2018](2018-12-21-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
 | [20 December 2018](2018-12-20-LorienConsulting.html) | Lorien Consulting | 0 | 0 | 0 | 0 | 0 |
@@ -512,8 +512,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [17 October 2018](2018-10-17-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0–3 | 0–4 |
 | [16 October 2018](2018-10-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [10–15 October 2018](2018-10-15-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0–4 |
-| [15 October 2018](2018-10-15-LorienConsulting.html) | Lorien Consulting | 4 | 4 | 4 | 4 | 0–4 |
-| [10–15 October 2018](2018-10-15-GPFInspiringResearch.html) | GPF Inspiring Research <br> Sky TG 24 | 0 | 0 | 0 | 0 | 0–4 |
+| [15 October 2018](2018-10-15-LorienConsulting.html) | Lorien Consulting | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [10–15 October 2018](2018-10-15-GPFInspiringResearch.html) | GPF Inspiring Research <br> Sky TG 24 | 0 | 0 | 0 | 0–3 | 0–4 |
 | [13–14 October 2018](2018-10-14-Tecnè.html) | Tecnè <br> Quarta Repubblica | 0 | 0 | 0 | 0 | 0 |
 | [11–13 October 2018](2018-10-13-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 0 | 0 | 0 | 0 | 0 |
 | [10–12 October 2018](2018-10-12-Ixè.html) | Ixè <br> Huffington Post | 0 | 0 | 0 | 0 | 0–3 |
@@ -531,7 +531,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [28 September 2018](2018-09-28-Ipsos.html) | Ipsos | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [24–28 September 2018](2018-09-28-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0–4 |
 | [26 September 2018](2018-09-26-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0 | 0–3 | 0–4 |
-| [25 September 2018](2018-09-25-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 3 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [25 September 2018](2018-09-25-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 0 | 0 | 0–3 | 0–3 | 0–4 |
 | [19–24 September 2018](2018-09-24-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
 | [22–23 September 2018](2018-09-23-Tecnè.html) | Tecnè <br> Quarta Repubblica | 0 | 0 | 0 | 0 | 0 |
 | [21–23 September 2018](2018-09-23-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 0 | 0 | 0 | 0–3 | 0–4 |
@@ -613,7 +613,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [22–24 May 2018](2018-05-24-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [23 May 2018](2018-05-23-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0 | 0 | 0 |
 | [22–23 May 2018](2018-05-23-Demopolis.html) | Demopolis | 0 | 0 | 0 | 0 | 0–3 |
-| [22 May 2018](2018-05-22-NotoSondaggi.html) | Noto Sondaggi <br> il Quotidiano Nazionale | 0 | 0 | 0 | 0 | 0–3 |
+| [22 May 2018](2018-05-22-NotoSondaggi.html) | Noto Sondaggi <br> il Quotidiano Nazionale | 0 | 0 | 0 | 0 | 0 |
 | [16–20 May 2018](2018-05-20-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
 | [16–18 May 2018](2018-05-18-Tecnè.html) | Tecnè <br> TGcom24 | 0 | 0 | 0 | 0 | 0 |
 | [17–18 May 2018](2018-05-18-DemosPi.html) | Demos & Pi | 0 | 0 | 0 | 0 | 0–4 |
@@ -703,10 +703,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 97% | 100% | Last Result, Median |
-| 1 | 0% | 3% |  |
-| 2 | 0% | 3% |  |
-| 3 | 1.2% | 3% |  |
+| 0 | 96% | 100% | Last Result, Median |
+| 1 | 0% | 4% |  |
+| 2 | 0% | 4% |  |
+| 3 | 1.3% | 4% |  |
 | 4 | 2% | 2% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
