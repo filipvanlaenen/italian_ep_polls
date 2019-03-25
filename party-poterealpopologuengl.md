@@ -473,7 +473,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [21–26 November 2018](2018-11-26-SWG.html) | SWG | 0 | 0 | 0 | 0 | 0 |
 | [22–24 November 2018](2018-11-24-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 0 | 0 | 0 | 0 | 0 |
 | [23 November 2018](2018-11-23-Tecnè.html) | Tecnè <br> TGcom24 |  |  |  |  |  |
-| [23 November 2018](2018-11-23-LorienConsulting.html) | Lorien Consulting | 0 | 0 | 0 | 0–3 | 0–4 |
+| [23 November 2018](2018-11-23-LorienConsulting.html) | Lorien Consulting | 0 | 0 | 0 | 0 | 0–4 |
 | [20–22 November 2018](2018-11-22-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
 | [19–22 November 2018](2018-11-22-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
 | [20–21 November 2018](2018-11-21-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0 | 0 | 0 |
@@ -582,7 +582,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [23–24 June 2018](2018-06-24-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [19–24 June 2018](2018-06-24-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
 | [20 June 2018](2018-06-20-Tecnè.html) | Tecnè <br> TGcom24 |  |  |  |  |  |
-| [20 June 2018](2018-06-20-LorienConsulting.html) | Lorien Consulting | 0 | 0 | 0 | 0 | 0 |
+| [20 June 2018](2018-06-20-LorienConsulting.html) | Lorien Consulting | 0 | 0 | 0 | 0 | 0–4 |
 | [19–20 June 2018](2018-06-20-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
 | [19–20 June 2018](2018-06-20-Demopolis.html) | Demopolis <br> LA7 |  |  |  |  |  |
 | [18–19 June 2018](2018-06-19-Piepoli.html) | Piepoli <br> Rai 1 |  |  |  |  |  |

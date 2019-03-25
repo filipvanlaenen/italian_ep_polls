@@ -376,17 +376,17 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [12–13 March 2019](2019-03-13-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0 | 0–4 | 0–5 |
 | [11–13 March 2019](2019-03-13-DemosPi.html) | Demos & Pi <br> La Repubblica | 0 | 0 | 0 | 0 | 0 |
 | [12–13 March 2019](2019-03-13-Demopolis.html) | Demopolis |  |  |  |  |  |
-| [12 March 2019](2019-03-12-Piepoli.html) | Piepoli | 0 | 0 | 0 | 0 | 0 |
-| [12 March 2019](2019-03-12-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 0 | 0 | 0 | 0 | 0–4 |
-| [12 March 2019](2019-03-12-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
-| [6–11 March 2019](2019-03-11-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
-| [6–7 March 2019](2019-03-07-Tecnè.html) | Tecnè <br> Forza Italia | 0 | 0 | 0–4 | 0–4 | 0–4 |
-| [5–6 March 2019](2019-03-06-IndexResearch.html) | Index Research <br> LA7 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
-| [5 March 2019](2019-03-05-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 3 | 3 | 0–3 | 0–3 | 0–3 |
-| [5 March 2019](2019-03-05-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
+| [12 March 2019](2019-03-12-Piepoli.html) | Piepoli | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [12 March 2019](2019-03-12-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [12 March 2019](2019-03-12-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0 | 0 | 0 | 0 | 0–3 |
+| [6–11 March 2019](2019-03-11-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0–3 |
+| [6–7 March 2019](2019-03-07-Tecnè.html) | Tecnè <br> Forza Italia | 0 | 0 | 0–3 | 0–3 | 0–3 |
+| [5–6 March 2019](2019-03-06-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0 | 0–3 | 0–4 |
+| [5 March 2019](2019-03-05-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
+| [5 March 2019](2019-03-05-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0 | 0 | 0 | 0–3 | 0–3 |
 | [3–4 March 2019](2019-03-04-Tecnè.html) | Tecnè <br> Quarta Repubblica |  |  |  |  |  |
 | [27 February–4 March 2019](2019-03-04-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
-| [1–3 March 2019](2019-03-03-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 4 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [1–3 March 2019](2019-03-03-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 0 | 0 | 0 | 0–4 | 0–4 |
 | [27–28 February 2019](2019-02-28-Tecnè.html) | Tecnè |  |  |  |  |  |
 | [26–28 February 2019](2019-02-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [26–27 February 2019](2019-02-27-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0–3 | 0–4 | 0–4 |
@@ -405,7 +405,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [12–13 February 2019](2019-02-13-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0–3 | 0–3 | 0–4 |
 | [12–13 February 2019](2019-02-13-Demopolis.html) | Demopolis |  |  |  |  |  |
 | [12 February 2019](2019-02-12-Piepoli.html) | Piepoli <br> Rai 1 | 0 | 0 | 0 | 0–4 | 0–4 |
-| [12 February 2019](2019-02-12-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 3 | 3 | 3 | 3 | 3 |
+| [12 February 2019](2019-02-12-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [12 February 2019](2019-02-12-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [12 February 2019](2019-02-12-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0 | 0 | 0 | 0 | 0–3 |
 | [6–11 February 2019](2019-02-11-SWG.html) | SWG <br> LA7 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
@@ -416,7 +416,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [5 February 2019](2019-02-05-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0 | 0 | 0 | 0 | 0–3 |
 | [3–4 February 2019](2019-02-04-Tecnè.html) | Tecnè <br> Quarta Repubblica |  |  |  |  |  |
 | [30 January–4 February 2019](2019-02-04-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0–3 | 0–4 |
-| [30 January 2019](2019-01-30-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
+| [30 January 2019](2019-01-30-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 0 | 0 | 0 | 0–3 | 0–4 |
 | [29–30 January 2019](2019-01-30-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0 | 0–3 | 0–4 |
 | [28–30 January 2019](2019-01-30-DemosPi.html) | Demos & Pi <br> La Repubblica | 0 | 0 | 0 | 0–3 | 0–4 |
 | [29 January 2019](2019-01-29-Piepoli.html) | Piepoli <br> Rai 1 | 0 | 0 | 0–3 | 0–3 | 0–4 |
@@ -463,7 +463,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [5–10 December 2018](2018-12-10-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0–4 |
 | [10 December 2018](2018-12-10-Piepoli.html) | Piepoli <br> Rai 1 | 0 | 0 | 0 | 0 | 0–3 |
 | [10 December 2018](2018-12-10-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
-| [6 December 2018](2018-12-06-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0 | 0–3 | 0–3 |
+| [6 December 2018](2018-12-06-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0 | 0 | 0 |
 | [4–6 December 2018](2018-12-06-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [28 November–3 December 2018](2018-12-03-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0–3 |
 | [1–2 December 2018](2018-12-02-Tecnè.html) | Tecnè <br> Quarta Repubblica |  |  |  |  |  |
@@ -475,11 +475,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [21–26 November 2018](2018-11-26-SWG.html) | SWG | 0 | 0 | 0 | 0 | 0–3 |
 | [22–24 November 2018](2018-11-24-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 0 | 0 | 0 | 0 | 0–3 |
 | [23 November 2018](2018-11-23-Tecnè.html) | Tecnè <br> TGcom24 |  |  |  |  |  |
-| [23 November 2018](2018-11-23-LorienConsulting.html) | Lorien Consulting | 0 | 0 | 0 | 0 | 0 |
+| [23 November 2018](2018-11-23-LorienConsulting.html) | Lorien Consulting | 0 | 0 | 0 | 0 | 0–4 |
 | [20–22 November 2018](2018-11-22-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
 | [19–22 November 2018](2018-11-22-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
 | [20–21 November 2018](2018-11-21-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0 | 0 | 0 |
-| [20 November 2018](2018-11-20-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
+| [20 November 2018](2018-11-20-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [20 November 2018](2018-11-20-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [14–19 November 2018](2018-11-19-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0–4 |
 | [13–14 November 2018](2018-11-14-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0 | 0 | 0 |
