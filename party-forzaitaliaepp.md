@@ -10,7 +10,7 @@ Last result: **16.8%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.9% | 8.2–12.0% | 7.8–12.6% | 7.5–13.1% | 7.0–14.0% |
+| N/A | [Poll Average](average.html) | 9.9% | 8.3–12.0% | 7.9–12.5% | 7.6–13.0% | 7.1–14.0% |
 | [20–21 March 2019](2019-03-21-Tecnè.html) | Tecnè <br> Rete 4 | 11.7% | 10.5–13.1% | 10.1–13.5% | 9.8–13.9% | 9.3–14.5% |
 | [20–21 March 2019](2019-03-21-Euromedia.html) | Euromedia <br> Rai 1 | 11.4% | 10.0–12.9% | 9.7–13.4% | 9.4–13.8% | 8.7–14.6% |
 | [19–20 March 2019](2019-03-20-IndexResearch.html) | Index Research <br> LA7 | 9.0% | 7.8–10.4% | 7.5–10.8% | 7.2–11.2% | 6.7–11.9% |
@@ -347,17 +347,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0.1% | 100% |  |
-| 6.5–7.5% | 3% | 99.9% |  |
-| 7.5–8.5% | 14% | 97% |  |
-| 8.5–9.5% | 24% | 83% |  |
-| 9.5–10.5% | 24% | 59% | Median |
-| 10.5–11.5% | 20% | 35% |  |
-| 11.5–12.5% | 11% | 16% |  |
+| 6.5–7.5% | 2% | 99.9% |  |
+| 7.5–8.5% | 14% | 98% |  |
+| 8.5–9.5% | 26% | 84% |  |
+| 9.5–10.5% | 25% | 58% | Median |
+| 10.5–11.5% | 18% | 34% |  |
+| 11.5–12.5% | 10% | 15% |  |
 | 12.5–13.5% | 4% | 5% |  |
-| 13.5–14.5% | 1.0% | 1.1% |  |
-| 14.5–15.5% | 0.2% | 0.2% |  |
+| 13.5–14.5% | 0.9% | 1.1% |  |
+| 14.5–15.5% | 0.1% | 0.2% |  |
 | 15.5–16.5% | 0% | 0% |  |
 | 16.5–17.5% | 0% | 0% | Last Result |
 
@@ -370,7 +369,7 @@ Last result: **13** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 7–10 | 6–10 | 6–11 | 6–11 |
+| N/A | [Poll Average](average.html) | 8 | 7–10 | 6–10 | 6–11 | 6–12 |
 | [20–21 March 2019](2019-03-21-Tecnè.html) | Tecnè <br> Rete 4 | 9 | 8–10 | 8–10 | 7–11 | 7–11 |
 | [20–21 March 2019](2019-03-21-Euromedia.html) | Euromedia <br> Rai 1 | 9 | 8–10 | 8–11 | 7–11 | 7–12 |
 | [19–20 March 2019](2019-03-20-IndexResearch.html) | Index Research <br> LA7 | 8 | 7–9 | 6–9 | 6–10 | 6–10 |
@@ -709,14 +708,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 0.2% | 100% |  |
-| 6 | 6% | 99.7% |  |
-| 7 | 24% | 94% |  |
-| 8 | 32% | 70% | Median |
-| 9 | 25% | 38% |  |
+| 5 | 0.3% | 100% |  |
+| 6 | 5% | 99.7% |  |
+| 7 | 28% | 94% |  |
+| 8 | 32% | 67% | Median |
+| 9 | 22% | 35% |  |
 | 10 | 10% | 13% |  |
 | 11 | 2% | 3% |  |
-| 12 | 0.3% | 0.4% |  |
-| 13 | 0% | 0% | Last Result |
+| 12 | 0.5% | 0.6% |  |
+| 13 | 0.1% | 0.1% | Last Result |
+| 14 | 0% | 0% |  |
 
 
