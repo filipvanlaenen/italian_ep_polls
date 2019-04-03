@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 03 Apr 2019 16:21:29 +0200</pubDate>
+    <pubDate>Wed, 03 Apr 2019 16:42:21 +0200</pubDate>
     <item>
       <title>Opinion Poll by Tecnè for Rete 4, 20–21 March 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-03-21-Tecnè.html#seats</link>
@@ -206,8 +206,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-03-13-Demopolis.png"
         length="143958"
         type="image/png"/>
-      <pubDate>Sat, 23 Mar 2019 19:02:34 +0100</pubDate>
-      <dc:date>2019-03-23T19:02:34.281361+01:00</dc:date>
+      <pubDate>Wed, 03 Apr 2019 16:42:21 +0200</pubDate>
+      <dc:date>2019-04-03T16:42:21.985039+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Piepoli, 12 March 2019 – Voting Intentions</title>
@@ -8619,6 +8619,6 @@
       <pubDate>Tue, 10 Apr 2018 21:24:48 +0200</pubDate>
       <dc:date>2018-04-10T21:24:48.959229+02:00</dc:date>
     </item>
-    <dc:date>2019-04-03T16:21:29.899252+02:00</dc:date>
+    <dc:date>2019-04-03T16:42:21.985039+02:00</dc:date>
   </channel>
 </rss>
