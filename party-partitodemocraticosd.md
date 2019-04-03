@@ -385,7 +385,7 @@ Last result: **31** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 14–17 | 13–18 | 13–19 | 12–19 |
+| N/A | [Poll Average](average.html) | 15 | 14–17 | 13–18 | 13–19 | 12–19 |
 | [20–21 March 2019](2019-03-21-Tecnè.html) | Tecnè <br> Rete 4 | 15 | 14–16 | 13–17 | 13–17 | 13–18 |
 | [20–21 March 2019](2019-03-21-Euromedia.html) | Euromedia <br> Rai 1 | 16 | 14–17 | 14–18 | 13–18 | 13–20 |
 | [19–20 March 2019](2019-03-20-IndexResearch.html) | Index Research <br> LA7 | 17 | 15–19 | 15–19 | 15–20 | 14–20 |
@@ -395,7 +395,7 @@ Last result: **31** seats (General Election of 25 May 2014)
 | [13–18 March 2019](2019-03-18-SWG.html) | SWG <br> LA7 | 17 | 15–18 | 15–19 | 15–19 | 15–20 |
 | [12–13 March 2019](2019-03-13-IndexResearch.html) | Index Research <br> LA7 | 16 | 15–17 | 14–18 | 14–19 | 13–20 |
 | [11–13 March 2019](2019-03-13-DemosPi.html) | Demos & Pi <br> La Repubblica | 15 | 13–16 | 13–17 | 12–17 | 12–18 |
-| [12–13 March 2019](2019-03-13-Demopolis.html) | Demopolis | 14 | 14–17 | 14–17 | 14–17 | 12–17 |
+| [12–13 March 2019](2019-03-13-Demopolis.html) | Demopolis | 15 | 14–16 | 13–16 | 13–17 | 13–17 |
 | [12 March 2019](2019-03-12-Piepoli.html) | Piepoli | 15 | 13–17 | 12–18 | 12–18 | 11–19 |
 | [12 March 2019](2019-03-12-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 16 | 15–19 | 14–19 | 14–19 | 13–19 |
 | [12 March 2019](2019-03-12-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 15 | 14–16 | 14–16 | 14–17 | 13–17 |
@@ -725,12 +725,12 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 0.2% | 100% |  |
-| 12 | 2% | 99.8% |  |
-| 13 | 6% | 98% |  |
-| 14 | 18% | 92% |  |
-| 15 | 23% | 74% |  |
-| 16 | 26% | 51% | Median |
-| 17 | 16% | 25% |  |
+| 12 | 1.5% | 99.8% |  |
+| 13 | 7% | 98% |  |
+| 14 | 16% | 92% |  |
+| 15 | 26% | 76% | Median |
+| 16 | 26% | 50% |  |
+| 17 | 15% | 24% |  |
 | 18 | 7% | 9% |  |
 | 19 | 2% | 3% |  |
 | 20 | 0.4% | 0.5% |  |
