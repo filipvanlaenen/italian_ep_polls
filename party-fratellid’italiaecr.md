@@ -385,7 +385,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [5 March 2019](2019-03-05-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [5 March 2019](2019-03-05-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 4 | 3–4 | 3–5 | 3–5 | 0–5 |
 | [3–4 March 2019](2019-03-04-Tecnè.html) | Tecnè <br> Quarta Repubblica | 4 | 0–4 | 0–4 | 0–5 | 0–5 |
-| [27 February–4 March 2019](2019-03-04-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0–4 |
+| [27 February–4 March 2019](2019-03-04-SWG.html) | SWG <br> LA7 | 0 | 0–5 | 0–5 | 0–5 | 0–5 |
 | [1–3 March 2019](2019-03-03-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [27–28 February 2019](2019-02-28-Tecnè.html) | Tecnè | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [26–28 February 2019](2019-02-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 3 | 0–4 | 0–4 | 0–4 | 0–5 |

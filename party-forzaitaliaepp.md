@@ -378,7 +378,7 @@ Last result: **13** seats (General Election of 25 May 2014)
 | [19 March 2019](2019-03-19-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | [17–18 March 2019](2019-03-18-Tecnè.html) | Tecnè <br> Quarta Repubblica and Rete 4 | 9 | 8–10 | 8–11 | 8–11 | 7–11 |
 | [13–18 March 2019](2019-03-18-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
-| [12–13 March 2019](2019-03-13-IndexResearch.html) | Index Research <br> LA7 | 9 | 8–9 | 8–9 | 7–10 | 6–11 |
+| [12–13 March 2019](2019-03-13-IndexResearch.html) | Index Research <br> LA7 | 8 | 7–9 | 6–10 | 6–10 | 6–10 |
 | [11–13 March 2019](2019-03-13-DemosPi.html) | Demos & Pi <br> La Repubblica | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | [12–13 March 2019](2019-03-13-Demopolis.html) | Demopolis | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | [12 March 2019](2019-03-12-Piepoli.html) | Piepoli | 9 | 8–11 | 7–11 | 7–12 | 6–13 |
@@ -390,7 +390,7 @@ Last result: **13** seats (General Election of 25 May 2014)
 | [5 March 2019](2019-03-05-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
 | [5 March 2019](2019-03-05-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | [3–4 March 2019](2019-03-04-Tecnè.html) | Tecnè <br> Quarta Repubblica | 9 | 8–10 | 8–11 | 8–11 | 7–11 |
-| [27 February–4 March 2019](2019-03-04-SWG.html) | SWG <br> LA7 | 7 | 7 | 7 | 7–9 | 7–10 |
+| [27 February–4 March 2019](2019-03-04-SWG.html) | SWG <br> LA7 | 8 | 7–9 | 6–9 | 6–9 | 6–9 |
 | [1–3 March 2019](2019-03-03-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
 | [27–28 February 2019](2019-02-28-Tecnè.html) | Tecnè | 9 | 8–10 | 8–11 | 8–11 | 7–11 |
 | [26–28 February 2019](2019-02-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
