@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 04 Apr 2019 16:45:21 +0200</pubDate>
+    <pubDate>Thu, 04 Apr 2019 17:10:04 +0200</pubDate>
     <item>
       <title>Opinion Poll by Tecnè for Rete 4, 20–21 March 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-03-21-Tecnè.html#seats</link>
@@ -2426,8 +2426,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-11-27-NotoSondaggi.png"
         length="244252"
         type="image/png"/>
-      <pubDate>Sat, 23 Mar 2019 18:15:00 +0100</pubDate>
-      <dc:date>2019-03-23T18:15:00.023275+01:00</dc:date>
+      <pubDate>Thu, 04 Apr 2019 16:59:25 +0200</pubDate>
+      <dc:date>2019-04-04T16:59:25.32577+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by EMG Acqua, 27 November 2018 – Seat Projections for the Parties</title>
@@ -6206,8 +6206,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2018-05-28-NotoSondaggi.png"
         length="193754"
         type="image/png"/>
-      <pubDate>Sat, 23 Mar 2019 21:16:18 +0100</pubDate>
-      <dc:date>2019-03-23T21:16:18.59317+01:00</dc:date>
+      <pubDate>Thu, 04 Apr 2019 17:10:04 +0200</pubDate>
+      <dc:date>2019-04-04T17:10:04.481021+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by BiDiMedia, 23–28 May 2018 – Seat Projections for the Parties</title>
@@ -8619,6 +8619,6 @@
       <pubDate>Tue, 10 Apr 2018 21:24:48 +0200</pubDate>
       <dc:date>2018-04-10T21:24:48.959229+02:00</dc:date>
     </item>
-    <dc:date>2019-04-04T16:45:21.676129+02:00</dc:date>
+    <dc:date>2019-04-04T17:10:04.481021+02:00</dc:date>
   </channel>
 </rss>
