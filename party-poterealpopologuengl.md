@@ -566,7 +566,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [18–23 July 2018](2018-07-23-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
 | [23 July 2018](2018-07-23-Ixè.html) | Ixè <br> Huffington Post | 0 | 0 | 0 | 0 | 0 |
 | [17–18 July 2018](2018-07-18-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
-| [17 July 2018](2018-07-17-LorienConsulting.html) | Lorien Consulting | 0 | 0 | 0–3 | 0–4 | 0–5 |
+| [17 July 2018](2018-07-17-LorienConsulting.html) | Lorien Consulting | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | [11–16 July 2018](2018-07-16-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
 | [5–13 July 2018](2018-07-13-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [7–13 July 2018](2018-07-13-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |

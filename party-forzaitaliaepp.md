@@ -436,12 +436,12 @@ Last result: **13** seats (General Election of 25 May 2014)
 | [15–17 January 2019](2019-01-17-Ipsos.html) | Ipsos <br> Corriere della Sera | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | [15–16 January 2019](2019-01-16-IndexResearch.html) | Index Research <br> LA7 | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
 | [15 January 2019](2019-01-15-Piepoli.html) | Piepoli <br> Rai 1 | 9 | 7–10 | 7–11 | 7–11 | 6–12 |
-| [15 January 2019](2019-01-15-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
+| [15 January 2019](2019-01-15-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 8 | 7–8 | 6–9 | 6–9 | 6–10 |
 | [15 January 2019](2019-01-15-Euromedia.html) | Euromedia <br> Rai 1 | 9 | 7–10 | 7–10 | 7–10 | 6–11 |
 | [15 January 2019](2019-01-15-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [14–15 January 2019](2019-01-15-Demopolis.html) | Demopolis | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [9–14 January 2019](2019-01-14-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
-| [13 January 2019](2019-01-13-NotoSondaggi.html) | Noto Sondaggi <br> Quotidiano Nazionale | 9 | 6–9 | 6–9 | 6–9 | 6–10 |
+| [13 January 2019](2019-01-13-NotoSondaggi.html) | Noto Sondaggi <br> Quotidiano Nazionale | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [9–10 January 2019](2019-01-10-Tecnè.html) | Tecnè <br> Il Giornale | 9 | 9–10 | 8–10 | 8–11 | 8–11 |
 | [7–10 January 2019](2019-01-10-BiDiMedia.html) | BiDiMedia | 8 | 7–8 | 7–9 | 6–9 | 6–10 |
 | [8–9 January 2019](2019-01-09-IndexResearch.html) | Index Research <br> LA7 | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
@@ -488,7 +488,7 @@ Last result: **13** seats (General Election of 25 May 2014)
 | [20 November 2018](2018-11-20-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
 | [14–19 November 2018](2018-11-19-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | [13–14 November 2018](2018-11-14-IndexResearch.html) | Index Research <br> LA7 | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
-| [13 November 2018](2018-11-13-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 8 | 6–8 | 6–8 | 6–10 | 6–10 |
+| [13 November 2018](2018-11-13-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | [13 November 2018](2018-11-13-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [11–12 November 2018](2018-11-12-Tecnè.html) | Tecnè <br> Quarta Repubblica | 9 | 8–10 | 8–10 | 7–11 | 7–11 |
 | [10–12 November 2018](2018-11-12-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 8 | 7–9 | 7–9 | 7–10 | 7–10 |
@@ -516,7 +516,7 @@ Last result: **13** seats (General Election of 25 May 2014)
 | [19–21 October 2018](2018-10-21-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 7 | 6–7 | 6–8 | 5–8 | 5–8 |
 | [17 October 2018](2018-10-17-Piepoli.html) | Piepoli <br> Rai 1 | 9 | 8–10 | 7–11 | 7–11 | 6–12 |
 | [17 October 2018](2018-10-17-Euromedia.html) | Euromedia <br> Rai 1 | 9 | 7–10 | 7–10 | 7–10 | 6–11 |
-| [16 October 2018](2018-10-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
+| [16 October 2018](2018-10-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 7 | 6–8 | 5–8 | 5–8 | 5–8 |
 | [10–15 October 2018](2018-10-15-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [15 October 2018](2018-10-15-LorienConsulting.html) | Lorien Consulting | 9 | 8–10 | 7–11 | 7–11 | 7–12 |
 | [10–15 October 2018](2018-10-15-GPFInspiringResearch.html) | GPF Inspiring Research <br> Sky TG 24 | 9 | 7–10 | 7–10 | 7–11 | 6–12 |
@@ -524,7 +524,7 @@ Last result: **13** seats (General Election of 25 May 2014)
 | [11–13 October 2018](2018-10-13-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 7 | 6–8 | 6–8 | 5–8 | 5–8 |
 | [10–12 October 2018](2018-10-12-Ixè.html) | Ixè <br> Huffington Post | 8 | 6–9 | 6–9 | 6–9 | 6–10 |
 | [10–12 October 2018](2018-10-12-Demopolis.html) | Demopolis | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
-| [9 October 2018](2018-10-09-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 8 | 8–9 | 8–9 | 7–10 | 6–10 |
+| [9 October 2018](2018-10-09-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 8 | 6–9 | 6–9 | 6–10 | 6–10 |
 | [8 October 2018](2018-10-08-Tecnè.html) | Tecnè | 9 | 8–10 | 8–10 | 7–11 | 7–11 |
 | [3–8 October 2018](2018-10-08-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
 | [5–7 October 2018](2018-10-07-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
@@ -534,7 +534,7 @@ Last result: **13** seats (General Election of 25 May 2014)
 | [1 October 2018](2018-10-01-Piepoli.html) | Piepoli <br> Rai 1 | 9 | 7–10 | 7–11 | 6–11 | 6–12 |
 | [30 September–1 October 2018](2018-10-01-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 9 | 7–10 | 7–10 | 7–11 | 6–11 |
 | [1 October 2018](2018-10-01-Euromedia.html) | Euromedia <br> Rai 1 | 8 | 7–9 | 6–9 | 6–10 | 6–10 |
-| [28 September 2018](2018-09-28-Ipsos.html) | Ipsos | 7 | 7–9 | 6–10 | 6–10 | 6–10 |
+| [28 September 2018](2018-09-28-Ipsos.html) | Ipsos | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [24–28 September 2018](2018-09-28-BiDiMedia.html) | BiDiMedia | 7 | 6–8 | 6–8 | 5–9 | 5–10 |
 | [26 September 2018](2018-09-26-IndexResearch.html) | Index Research <br> LA7 | 7 | 6–8 | 6–9 | 6–9 | 5–10 |
 | [25 September 2018](2018-09-25-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
@@ -544,9 +544,9 @@ Last result: **13** seats (General Election of 25 May 2014)
 | [21–23 September 2018](2018-09-23-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [21–22 September 2018](2018-09-22-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | [19–21 September 2018](2018-09-21-Ixè.html) | Ixè <br> Huffington Post | 8 | 7–9 | 7–9 | 6–10 | 6–10 |
-| [20 September 2018](2018-09-20-Ipsos.html) | Ipsos | 8 | 8–9 | 8–9 | 7–9 | 7–9 |
+| [20 September 2018](2018-09-20-Ipsos.html) | Ipsos | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
 | [18–19 September 2018](2018-09-19-IndexResearch.html) | Index Research <br> LA7 | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
-| [18 September 2018](2018-09-18-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 7 | 7–8 | 7–8 | 7–8 | 7–8 |
+| [18 September 2018](2018-09-18-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | [12–17 September 2018](2018-09-17-SWG.html) | SWG <br> LA7 | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [17 September 2018](2018-09-17-Piepoli.html) | Piepoli <br> Rai 1 | 9 | 7–10 | 7–11 | 7–12 | 6–12 |
 | [15–17 September 2018](2018-09-17-GPFInspiringResearch.html) | GPF Inspiring Research <br> Affaritaliani.it | 9 | 8–10 | 7–10 | 7–11 | 7–11 |
@@ -567,14 +567,14 @@ Last result: **13** seats (General Election of 25 May 2014)
 | [3–4 September 2018](2018-09-04-Tecnè.html) | Tecnè | 9 | 8–10 | 7–10 | 7–10 | 6–11 |
 | [29 August–3 September 2018](2018-09-03-SWG.html) | SWG <br> LA7 | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [30 August–2 September 2018](2018-09-02-BiDiMedia.html) | BiDiMedia | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
-| [27 August 2018](2018-08-27-Piepoli.html) | Piepoli <br> Affaritaliani.it | 9 | 9–10 | 8–10 | 8–12 | 7–12 |
+| [27 August 2018](2018-08-27-Piepoli.html) | Piepoli <br> Affaritaliani.it | 9 | 8–11 | 8–11 | 7–12 | 7–13 |
 | [24–27 August 2018](2018-08-27-LorienConsulting.html) | Lorien Consulting | 7 | 6–9 | 6–10 | 5–10 | 5–11 |
 | [25–30 July 2018](2018-07-30-SWG.html) | SWG <br> LA7 | 7 | 7–8 | 6–9 | 6–9 | 6–9 |
 | [24–25 July 2018](2018-07-25-Demopolis.html) | Demopolis | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | [18–23 July 2018](2018-07-23-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | [23 July 2018](2018-07-23-Ixè.html) | Ixè <br> Huffington Post | 8 | 8–9 | 7–9 | 7–10 | 6–10 |
 | [17–18 July 2018](2018-07-18-Ipsos.html) | Ipsos <br> Corriere della Sera | 7 | 6–7 | 5–8 | 5–8 | 5–9 |
-| [17 July 2018](2018-07-17-LorienConsulting.html) | Lorien Consulting | 8 | 8–9 | 8–9 | 8–10 | 8–10 |
+| [17 July 2018](2018-07-17-LorienConsulting.html) | Lorien Consulting | 9 | 8–11 | 8–12 | 8–13 | 7–13 |
 | [11–16 July 2018](2018-07-16-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
 | [5–13 July 2018](2018-07-13-TermometroPolitico.html) | Termometro Politico | 7 | 6–7 | 6–7 | 6–8 | 6–8 |
 | [7–13 July 2018](2018-07-13-BiDiMedia.html) | BiDiMedia | 7 | 6–8 | 6–9 | 5–9 | 5–10 |
@@ -623,12 +623,12 @@ Last result: **13** seats (General Election of 25 May 2014)
 | [16–20 May 2018](2018-05-20-SWG.html) | SWG <br> LA7 | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | [16–18 May 2018](2018-05-18-Tecnè.html) | Tecnè <br> TGcom24 | 10 | 9–11 | 9–11 | 9–12 | 9–12 |
 | [17–18 May 2018](2018-05-18-DemosPi.html) | Demos & Pi | 11 | 10–12 | 9–12 | 9–13 | 9–13 |
-| [17 May 2018](2018-05-17-Piepoli.html) | Piepoli <br> Rai 1 | 9 | 9–10 | 9–11 | 9–11 | 9–13 |
+| [17 May 2018](2018-05-17-Piepoli.html) | Piepoli <br> Rai 1 | 11 | 10–13 | 9–13 | 9–14 | 8–15 |
 | [16–17 May 2018](2018-05-17-Ipsos.html) | Ipsos <br> Corriere della Sera | 10 | 9–11 | 9–12 | 8–12 | 8–13 |
 | [15–17 May 2018](2018-05-17-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 10 | 9–11 | 9–11 | 9–12 | 9–12 |
 | [16 May 2018](2018-05-16-IndexResearch.html) | Index Research <br> LA7 | 11 | 9–12 | 9–12 | 9–13 | 8–13 |
 | [16 May 2018](2018-05-16-Euromedia.html) | Euromedia <br> Rai 1 | 11 | 10–12 | 9–13 | 9–13 | 9–14 |
-| [15 May 2018](2018-05-15-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 10 | 10–12 | 10–12 | 10–12 | 10–12 |
+| [15 May 2018](2018-05-15-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 10 | 9–12 | 9–12 | 9–12 | 8–13 |
 | [9–13 May 2018](2018-05-13-SWG.html) | SWG <br> LA7 | 8 | 8–9 | 7–10 | 7–10 | 7–10 |
 | [10–11 May 2018](2018-05-11-Ixè.html) | Ixè <br> Huffington Post | 10 | 9–11 | 9–12 | 9–12 | 8–13 |
 | [10 May 2018](2018-05-10-Piepoli.html) | Piepoli | 11 | 9–13 | 9–13 | 9–14 | 8–15 |
@@ -642,7 +642,7 @@ Last result: **13** seats (General Election of 25 May 2014)
 | [4 May 2018](2018-05-04-NotoSondaggi.html) | Noto Sondaggi <br> il Quotidiano Nazionale | 9 | 8–11 | 8–11 | 8–11 | 7–12 |
 | [2–3 May 2018](2018-05-03-Ipsos.html) | Ipsos <br> Corriere della Sera | 11 | 10–12 | 9–13 | 9–13 | 9–14 |
 | [2–3 May 2018](2018-05-03-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 10 | 9–11 | 8–11 | 8–11 | 8–11 |
-| [2 May 2018](2018-05-02-Piepoli.html) | Piepoli | 11 | 11–14 | 9–14 | 9–14 | 8–15 |
+| [2 May 2018](2018-05-02-Piepoli.html) | Piepoli | 11 | 9–12 | 9–13 | 8–13 | 8–14 |
 | [2 May 2018](2018-05-02-IndexResearch.html) | Index Research | 10 | 9–12 | 9–12 | 9–12 | 8–13 |
 | [30 April 2018](2018-04-30-Tecnè.html) | Tecnè <br> Canale 5 | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
 | [30 April 2018](2018-04-30-Piepoli.html) | Piepoli <br> Rai 1 | 11 | 9–12 | 9–13 | 8–13 | 8–14 |
@@ -656,7 +656,7 @@ Last result: **13** seats (General Election of 25 May 2014)
 | [18–19 April 2018](2018-04-19-Ipsos.html) | Ipsos <br> Corriere della Sera | 11 | 10–12 | 9–12 | 9–12 | 8–13 |
 | [16–18 April 2018](2018-04-18-SWG.html) | SWG | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
 | [18 April 2018](2018-04-18-IndexResearch.html) | Index Research <br> LA7 | 10 | 8–11 | 8–11 | 8–12 | 7–12 |
-| [17 April 2018](2018-04-17-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 9 | 9 | 9 | 9 | 9–10 |
+| [17 April 2018](2018-04-17-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 9 | 8–10 | 8–10 | 7–11 | 7–11 |
 | [16 April 2018](2018-04-16-Piepoli.html) | Piepoli | 11 | 10–13 | 9–13 | 9–14 | 8–14 |
 | [13 April 2018](2018-04-13-Euromedia.html) | Euromedia <br> Rete 4 | 10 | 9–11 | 9–12 | 9–12 | 8–13 |
 | [9–11 April 2018](2018-04-11-SWG.html) | SWG | 9 | 8–10 | 8–10 | 8–10 | 7–10 |
