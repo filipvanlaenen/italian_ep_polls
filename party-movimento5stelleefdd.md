@@ -387,10 +387,10 @@ Last result: **17** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18 | 16–20 | 16–21 | 15–21 | 14–21 |
-| [3 April 2019](2019-04-03-TermometroPolitico.html) | Termometro Politico | 17 | 17–19 | 17–19 | 17–20 | 16–20 |
+| [3 April 2019](2019-04-03-TermometroPolitico.html) | Termometro Politico | 18 | 17–19 | 17–19 | 17–20 | 16–20 |
 | [2 April 2019](2019-04-02-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 17 | 15–19 | 15–19 | 15–19 | 14–20 |
 | [31 March–1 April 2019](2019-04-01-Tecnè.html) | Tecnè <br> Quarta Repubblica | 16 | 15–17 | 14–18 | 14–18 | 13–19 |
-| [27 March–1 April 2019](2019-04-01-SWG.html) | SWG <br> LA7 | 19 | 16–19 | 16–20 | 16–20 | 16–20 |
+| [27 March–1 April 2019](2019-04-01-SWG.html) | SWG <br> LA7 | 18 | 17–19 | 16–19 | 16–20 | 16–21 |
 | [29–30 March 2019](2019-03-30-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 19 | 17–20 | 17–21 | 16–21 | 16–22 |
 | [28 March 2019](2019-03-28-Tecnè.html) | Tecnè <br> TGcom24 | 17 | 16–17 | 16–19 | 16–19 | 13–19 |
 | [26–27 March 2019](2019-03-27-IndexResearch.html) | Index Research <br> LA7 | 19 | 18–19 | 17–19 | 17–19 | 16–19 |

@@ -407,10 +407,10 @@ Last result: **5** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 27 | 25–29 | 24–29 | 24–30 | 22–31 |
-| [3 April 2019](2019-04-03-TermometroPolitico.html) | Termometro Politico | 27 | 25–28 | 25–28 | 25–28 | 24–28 |
+| [3 April 2019](2019-04-03-TermometroPolitico.html) | Termometro Politico | 27 | 26–28 | 26–29 | 26–29 | 25–29 |
 | [2 April 2019](2019-04-02-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 26 | 25–28 | 24–28 | 23–29 | 22–30 |
 | [31 March–1 April 2019](2019-04-01-Tecnè.html) | Tecnè <br> Quarta Repubblica | 24 | 23–26 | 22–26 | 22–27 | 21–28 |
-| [27 March–1 April 2019](2019-04-01-SWG.html) | SWG <br> LA7 | 26 | 24–27 | 24–27 | 24–27 | 24–27 |
+| [27 March–1 April 2019](2019-04-01-SWG.html) | SWG <br> LA7 | 27 | 25–28 | 25–28 | 25–29 | 24–30 |
 | [29–30 March 2019](2019-03-30-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 27 | 25–28 | 24–29 | 24–29 | 23–30 |
 | [28 March 2019](2019-03-28-Tecnè.html) | Tecnè <br> TGcom24 | 27 | 27–28 | 23–28 | 21–28 | 21–28 |
 | [26–27 March 2019](2019-03-27-IndexResearch.html) | Index Research <br> LA7 | 26 | 26–28 | 26–29 | 25–30 | 25–34 |
