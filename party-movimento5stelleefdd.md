@@ -387,14 +387,14 @@ Last result: **17** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18 | 16–20 | 16–21 | 15–21 | 14–21 |
-| [3 April 2019](2019-04-03-TermometroPolitico.html) | Termometro Politico | 18 | 17–19 | 17–19 | 17–20 | 16–20 |
-| [2 April 2019](2019-04-02-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 17 | 15–19 | 15–19 | 15–19 | 14–20 |
-| [31 March–1 April 2019](2019-04-01-Tecnè.html) | Tecnè <br> Quarta Repubblica | 16 | 15–17 | 14–18 | 14–18 | 13–19 |
+| [3 April 2019](2019-04-03-TermometroPolitico.html) | Termometro Politico | 18 | 17–19 | 17–19 | 17–19 | 16–20 |
+| [2 April 2019](2019-04-02-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 17 | 15–18 | 15–19 | 15–19 | 14–20 |
+| [31 March–1 April 2019](2019-04-01-Tecnè.html) | Tecnè <br> Quarta Repubblica | 16 | 15–17 | 14–18 | 14–18 | 14–19 |
 | [27 March–1 April 2019](2019-04-01-SWG.html) | SWG <br> LA7 | 18 | 17–19 | 16–19 | 16–20 | 16–21 |
 | [29–30 March 2019](2019-03-30-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 19 | 17–20 | 17–21 | 16–21 | 16–22 |
 | [28 March 2019](2019-03-28-Tecnè.html) | Tecnè <br> TGcom24 | 17 | 16–17 | 16–19 | 16–19 | 13–19 |
-| [26–27 March 2019](2019-03-27-IndexResearch.html) | Index Research <br> LA7 | 19 | 18–19 | 17–19 | 17–19 | 16–19 |
-| [26–27 March 2019](2019-03-27-Demopolis.html) | Demopolis | 17 | 17–18 | 17–18 | 16–18 | 15–20 |
+| [26–27 March 2019](2019-03-27-IndexResearch.html) | Index Research <br> LA7 | 17 | 16–19 | 16–20 | 15–20 | 14–21 |
+| [26–27 March 2019](2019-03-27-Demopolis.html) | Demopolis | 17 | 16–18 | 16–19 | 15–19 | 15–19 |
 | [26 March 2019](2019-03-26-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 21 | 19–21 | 16–21 | 16–21 | 16–21 |
 | [26 March 2019](2019-03-26-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 19 | 19 | 19 | 17–19 | 17–21 |
 | [22–25 March 2019](2019-03-25-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 18 | 18 | 16–18 | 16–18 | 16–19 |
@@ -740,14 +740,14 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 13 | 0.2% | 100% |  |
-| 14 | 1.0% | 99.7% |  |
-| 15 | 2% | 98.7% |  |
-| 16 | 10% | 96% |  |
-| 17 | 20% | 86% | Last Result |
-| 18 | 27% | 66% | Median |
-| 19 | 24% | 40% |  |
+| 14 | 1.1% | 99.7% |  |
+| 15 | 3% | 98.7% |  |
+| 16 | 14% | 96% |  |
+| 17 | 19% | 82% | Last Result |
+| 18 | 30% | 63% | Median |
+| 19 | 18% | 33% |  |
 | 20 | 6% | 16% |  |
-| 21 | 9% | 9% |  |
+| 21 | 9% | 10% |  |
 | 22 | 0.2% | 0.2% |  |
 | 23 | 0% | 0.1% |  |
 | 24 | 0% | 0% |  |

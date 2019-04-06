@@ -381,12 +381,12 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | [3 April 2019](2019-04-03-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
-| [2 April 2019](2019-04-02-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 0 | 0 | 0–4 | 0–4 | 0–4 |
+| [2 April 2019](2019-04-02-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [31 March–1 April 2019](2019-04-01-Tecnè.html) | Tecnè <br> Quarta Repubblica |  |  |  |  |  |
-| [27 March–1 April 2019](2019-04-01-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0–3 | 0–3 |
+| [27 March–1 April 2019](2019-04-01-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0–3 |
 | [29–30 March 2019](2019-03-30-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 0 | 0 | 0 | 0 | 0–3 |
 | [28 March 2019](2019-03-28-Tecnè.html) | Tecnè <br> TGcom24 |  |  |  |  |  |
-| [26–27 March 2019](2019-03-27-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0 | 0–3 | 0–3 |
+| [26–27 March 2019](2019-03-27-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0 | 0–3 | 0–4 |
 | [26–27 March 2019](2019-03-27-Demopolis.html) | Demopolis |  |  |  |  |  |
 | [26 March 2019](2019-03-26-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 0 | 0 | 0–3 | 0–3 | 0–4 |
 | [26 March 2019](2019-03-26-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |

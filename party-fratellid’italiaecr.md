@@ -383,11 +383,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [3 April 2019](2019-04-03-TermometroPolitico.html) | Termometro Politico | 4 | 3–4 | 3–4 | 0–5 | 0–5 |
 | [2 April 2019](2019-04-02-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 4 | 3–5 | 0–5 | 0–5 | 0–6 |
 | [31 March–1 April 2019](2019-04-01-Tecnè.html) | Tecnè <br> Quarta Repubblica | 4 | 0–4 | 0–4 | 0–5 | 0–5 |
-| [27 March–1 April 2019](2019-04-01-SWG.html) | SWG <br> LA7 | 4 | 0–4 | 0–4 | 0–5 | 0–5 |
+| [27 March–1 April 2019](2019-04-01-SWG.html) | SWG <br> LA7 | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [29–30 March 2019](2019-03-30-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 4 | 4–5 | 4–5 | 3–6 | 0–6 |
 | [28 March 2019](2019-03-28-Tecnè.html) | Tecnè <br> TGcom24 | 0 | 0 | 0–4 | 0–4 | 0–5 |
-| [26–27 March 2019](2019-03-27-IndexResearch.html) | Index Research <br> LA7 | 5 | 4–5 | 4–5 | 3–6 | 0–6 |
-| [26–27 March 2019](2019-03-27-Demopolis.html) | Demopolis | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
+| [26–27 March 2019](2019-03-27-IndexResearch.html) | Index Research <br> LA7 | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
+| [26–27 March 2019](2019-03-27-Demopolis.html) | Demopolis | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [26 March 2019](2019-03-26-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [26 March 2019](2019-03-26-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 4 | 3–4 | 3–4 | 0–4 | 0–4 |
 | [22–25 March 2019](2019-03-25-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 4 | 4 | 4 | 4 | 0–4 |
@@ -736,9 +736,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 71% |  |
 | 2 | 0% | 71% |  |
 | 3 | 10% | 71% |  |
-| 4 | 45% | 61% | Median |
-| 5 | 15% | 16% |  |
-| 6 | 1.1% | 1.1% |  |
+| 4 | 50% | 60% | Median |
+| 5 | 10% | 10% |  |
+| 6 | 0.8% | 0.8% |  |
 | 7 | 0% | 0% |  |
 
 
