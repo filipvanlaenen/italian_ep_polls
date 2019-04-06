@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 05 Apr 2019 17:36:16 +0200</pubDate>
+    <pubDate>Sat, 06 Apr 2019 09:34:17 +0200</pubDate>
     <item>
       <title>Opinion Poll by Termometro Politico, 3 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-04-03-TermometroPolitico.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-04-03-TermometroPolitico.png"
         length="203452"
         type="image/png"/>
-      <pubDate>Thu, 04 Apr 2019 22:09:12 +0200</pubDate>
-      <dc:date>2019-04-04T22:09:12.206063+02:00</dc:date>
+      <pubDate>Sat, 06 Apr 2019 09:23:36 +0200</pubDate>
+      <dc:date>2019-04-06T09:23:36.418966+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Noto Sondaggi for Rai 3, 2 April 2019 – Voting Intentions</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-04-01-SWG.png"
         length="220174"
         type="image/png"/>
-      <pubDate>Thu, 04 Apr 2019 22:34:48 +0200</pubDate>
-      <dc:date>2019-04-04T22:34:48.464088+02:00</dc:date>
+      <pubDate>Sat, 06 Apr 2019 09:34:17 +0200</pubDate>
+      <dc:date>2019-04-06T09:34:17.916665+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Quorum and YouTrend for Sky TG 24, 29–30 March 2019 – Voting Intentions</title>
@@ -8759,6 +8759,6 @@
       <pubDate>Tue, 10 Apr 2018 21:24:48 +0200</pubDate>
       <dc:date>2018-04-10T21:24:48.959229+02:00</dc:date>
     </item>
-    <dc:date>2019-04-05T17:36:16.103842+02:00</dc:date>
+    <dc:date>2019-04-06T09:34:17.916665+02:00</dc:date>
   </channel>
 </rss>
