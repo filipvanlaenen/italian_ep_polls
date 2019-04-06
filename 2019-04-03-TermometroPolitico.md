@@ -30,10 +30,10 @@
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#lega-nord-(enf)">Lega Nord (ENF)</a> | 5 | 27 | 26–28 |26–28 |25–29 |25–29 |
-| <a href="#partito-democratico-(s&d)">Partito Democratico (S&D)</a> | 31 | 17 | 16–18 |16–19 |16–19 |16–19 |
+| <a href="#partito-democratico-(s&d)">Partito Democratico (S&D)</a> | 31 | 17 | 17–18 |16–18 |16–19 |16–19 |
 | <a href="#movimento-5-stelle-(efdd)">Movimento 5 Stelle (EFDD)</a> | 17 | 18 | 17–19 |17–19 |17–19 |16–20 |
 | <a href="#forza-italia-(epp)">Forza Italia (EPP)</a> | 13 | 8 | 7–8 |7–8 |7–9 |7–9 |
-| <a href="#fratelli-d’italia-(ecr)">Fratelli d’Italia (ECR)</a> | 0 | 4 | 3–4 |3–4 |0–5 |0–5 |
+| <a href="#fratelli-d’italia-(ecr)">Fratelli d’Italia (ECR)</a> | 0 | 4 | 4 |3–4 |3–5 |0–5 |
 | <a href="#liberi-e-uguali-(s&d)">Liberi e Uguali (S&D)</a> | 0 | 0 | 0 |0–3 |0–3 |0–4 |
 | <a href="#più-europa-(alde)">Più Europa (ALDE)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#potere-al-popolo-(gue/ngl)">Potere al Popolo (GUE/NGL)</a> | 0 | 0 | 0 |0 |0 |0 |
@@ -68,9 +68,9 @@
 | 24 | 0.1% | 100% |  |
 | 25 | 3% | 99.9% |  |
 | 26 | 15% | 97% |  |
-| 27 | 52% | 82% | Median |
-| 28 | 26% | 30% |  |
-| 29 | 4% | 4% |  |
+| 27 | 53% | 83% | Median |
+| 28 | 26% | 29% |  |
+| 29 | 3% | 3% |  |
 | 30 | 0.2% | 0.2% |  |
 | 31 | 0% | 0% |  |
 
@@ -83,10 +83,10 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 15 | 0.3% | 100% |  |
-| 16 | 11% | 99.7% |  |
-| 17 | 40% | 89% | Median |
-| 18 | 44% | 49% |  |
-| 19 | 5% | 5% |  |
+| 16 | 9% | 99.7% |  |
+| 17 | 43% | 90% | Median |
+| 18 | 43% | 47% |  |
+| 19 | 4% | 4% |  |
 | 20 | 0.1% | 0.1% |  |
 | 21 | 0% | 0% |  |
 | 22 | 0% | 0% |  |
@@ -108,13 +108,12 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 16 | 1.0% | 100% |  |
-| 17 | 14% | 99.0% | Last Result |
-| 18 | 56% | 85% | Median |
-| 19 | 28% | 29% |  |
+| 16 | 0.8% | 100% |  |
+| 17 | 13% | 99.2% | Last Result |
+| 18 | 55% | 86% | Median |
+| 19 | 30% | 31% |  |
 | 20 | 2% | 2% |  |
-| 21 | 0.1% | 0.1% |  |
-| 22 | 0% | 0% |  |
+| 21 | 0% | 0% |  |
 
 ### Forza Italia (EPP)
 
@@ -125,8 +124,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 0.1% | 100% |  |
-| 7 | 28% | 99.9% |  |
-| 8 | 68% | 72% | Median |
+| 7 | 24% | 99.9% |  |
+| 8 | 71% | 75% | Median |
 | 9 | 4% | 4% |  |
 | 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |
@@ -141,12 +140,12 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 3% | 100% | Last Result |
-| 1 | 0% | 97% |  |
-| 2 | 0% | 97% |  |
-| 3 | 9% | 97% |  |
-| 4 | 85% | 89% | Median |
-| 5 | 4% | 4% |  |
+| 0 | 2% | 100% | Last Result |
+| 1 | 0% | 98% |  |
+| 2 | 0% | 98% |  |
+| 3 | 6% | 98% |  |
+| 4 | 89% | 92% | Median |
+| 5 | 3% | 3% |  |
 | 6 | 0% | 0% |  |
 
 ### Liberi e Uguali (S&D)
@@ -157,10 +156,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 91% | 100% | Last Result, Median |
-| 1 | 0% | 9% |  |
-| 2 | 0% | 9% |  |
-| 3 | 7% | 9% |  |
+| 0 | 90% | 100% | Last Result, Median |
+| 1 | 0% | 10% |  |
+| 2 | 0% | 10% |  |
+| 3 | 8% | 10% |  |
 | 4 | 2% | 2% |  |
 | 5 | 0% | 0% |  |
 
@@ -201,7 +200,7 @@
 | Lega Nord (ENF) | 5 | 27 | 0% | 26–28 | 26–28 | 25–29 | 25–29 |
 | Partito Democratico (S&D) – Liberi e Uguali (S&D) | 31 | 18 | 0% | 17–19 | 16–20 | 16–20 | 16–21 |
 | Movimento 5 Stelle (EFDD) | 17 | 18 | 0% | 17–19 | 17–19 | 17–19 | 16–20 |
-| Fratelli d’Italia (ECR) | 0 | 4 | 0% | 3–4 | 3–4 | 0–5 | 0–5 |
+| Fratelli d’Italia (ECR) | 0 | 4 | 0% | 4 | 3–4 | 3–5 | 0–5 |
 | Più Europa (ALDE) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 | Potere al Popolo (GUE/NGL) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
@@ -233,9 +232,9 @@
 | 24 | 0.1% | 100% |  |
 | 25 | 3% | 99.9% |  |
 | 26 | 15% | 97% |  |
-| 27 | 52% | 82% | Median |
-| 28 | 26% | 30% |  |
-| 29 | 4% | 4% |  |
+| 27 | 53% | 83% | Median |
+| 28 | 26% | 29% |  |
+| 29 | 3% | 3% |  |
 | 30 | 0.2% | 0.2% |  |
 | 31 | 0% | 0% |  |
 
@@ -246,11 +245,11 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 15 | 0.1% | 100% |  |
-| 16 | 8% | 99.9% |  |
-| 17 | 34% | 92% | Median |
-| 18 | 43% | 57% |  |
-| 19 | 7% | 14% |  |
-| 20 | 5% | 7% |  |
+| 16 | 7% | 99.9% |  |
+| 17 | 37% | 93% | Median |
+| 18 | 43% | 56% |  |
+| 19 | 5% | 13% |  |
+| 20 | 6% | 8% |  |
 | 21 | 2% | 2% |  |
 | 22 | 0.2% | 0.2% |  |
 | 23 | 0% | 0% |  |
@@ -269,13 +268,12 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 16 | 1.0% | 100% |  |
-| 17 | 14% | 99.0% | Last Result |
-| 18 | 56% | 85% | Median |
-| 19 | 28% | 29% |  |
+| 16 | 0.8% | 100% |  |
+| 17 | 13% | 99.2% | Last Result |
+| 18 | 55% | 86% | Median |
+| 19 | 30% | 31% |  |
 | 20 | 2% | 2% |  |
-| 21 | 0.1% | 0.1% |  |
-| 22 | 0% | 0% |  |
+| 21 | 0% | 0% |  |
 
 ### Fratelli d’Italia (ECR)
 
@@ -283,12 +281,12 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 3% | 100% | Last Result |
-| 1 | 0% | 97% |  |
-| 2 | 0% | 97% |  |
-| 3 | 9% | 97% |  |
-| 4 | 85% | 89% | Median |
-| 5 | 4% | 4% |  |
+| 0 | 2% | 100% | Last Result |
+| 1 | 0% | 98% |  |
+| 2 | 0% | 98% |  |
+| 3 | 6% | 98% |  |
+| 4 | 89% | 92% | Median |
+| 5 | 3% | 3% |  |
 | 6 | 0% | 0% |  |
 
 ### Più Europa (ALDE)
@@ -324,6 +322,6 @@
 ### Calculations
 
 + **Sample size:** 4000
-+ **Simulations done:** 524,288
-+ **Error estimate:** 1.13%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.38%
 

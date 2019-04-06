@@ -386,21 +386,21 @@ Last result: **17** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 16–20 | 16–21 | 15–21 | 14–21 |
+| N/A | [Poll Average](average.html) | 18 | 16–21 | 16–21 | 15–21 | 14–22 |
 | [3 April 2019](2019-04-03-TermometroPolitico.html) | Termometro Politico | 18 | 17–19 | 17–19 | 17–19 | 16–20 |
 | [2 April 2019](2019-04-02-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 17 | 15–18 | 15–19 | 15–19 | 14–20 |
 | [31 March–1 April 2019](2019-04-01-Tecnè.html) | Tecnè <br> Quarta Repubblica | 16 | 15–17 | 14–18 | 14–18 | 14–19 |
-| [27 March–1 April 2019](2019-04-01-SWG.html) | SWG <br> LA7 | 18 | 17–19 | 16–19 | 16–20 | 16–21 |
+| [27 March–1 April 2019](2019-04-01-SWG.html) | SWG <br> LA7 | 18 | 17–19 | 16–19 | 16–20 | 16–20 |
 | [29–30 March 2019](2019-03-30-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 19 | 17–20 | 17–21 | 16–21 | 16–22 |
 | [28 March 2019](2019-03-28-Tecnè.html) | Tecnè <br> TGcom24 | 17 | 16–17 | 16–19 | 16–19 | 13–19 |
 | [26–27 March 2019](2019-03-27-IndexResearch.html) | Index Research <br> LA7 | 17 | 16–19 | 16–20 | 15–20 | 14–21 |
 | [26–27 March 2019](2019-03-27-Demopolis.html) | Demopolis | 17 | 16–18 | 16–19 | 15–19 | 15–19 |
 | [26 March 2019](2019-03-26-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 21 | 19–21 | 16–21 | 16–21 | 16–21 |
-| [26 March 2019](2019-03-26-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 19 | 19 | 19 | 17–19 | 17–21 |
-| [22–25 March 2019](2019-03-25-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 18 | 18 | 16–18 | 16–18 | 16–19 |
+| [26 March 2019](2019-03-26-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 18 | 17–19 | 17–20 | 17–20 | 16–21 |
+| [22–25 March 2019](2019-03-25-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 17 | 16–19 | 16–19 | 15–19 | 15–20 |
 | [20–25 March 2019](2019-03-25-SWG.html) | SWG <br> LA7 | 18 | 16–20 | 16–20 | 16–20 | 16–20 |
 | [20–21 March 2019](2019-03-21-Tecnè.html) | Tecnè <br> Rete 4 | 15 | 14–17 | 14–17 | 13–17 | 13–18 |
-| [21 March 2019](2019-03-21-Piepoli.html) | Piepoli <br> Rai 1 | 18 | 18–19 | 18–20 | 18–20 | 16–20 |
+| [21 March 2019](2019-03-21-Piepoli.html) | Piepoli <br> Rai 1 | 19 | 16–21 | 16–21 | 16–22 | 15–23 |
 | [20–21 March 2019](2019-03-21-Euromedia.html) | Euromedia <br> Rai 1 | 16 | 14–18 | 14–18 | 14–18 | 13–20 |
 | [19–20 March 2019](2019-03-20-IndexResearch.html) | Index Research <br> LA7 | 17 | 16–19 | 15–19 | 15–20 | 14–21 |
 | [19 March 2019](2019-03-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 18 | 16–19 | 16–19 | 15–20 | 15–21 |
@@ -408,7 +408,7 @@ Last result: **17** seats (General Election of 25 May 2014)
 | [17–18 March 2019](2019-03-18-Tecnè.html) | Tecnè <br> Quarta Repubblica and Rete 4 | 17 | 15–18 | 15–18 | 15–19 | 14–20 |
 | [13–18 March 2019](2019-03-18-SWG.html) | SWG <br> LA7 | 18 | 17–19 | 16–20 | 16–20 | 16–20 |
 | [12–13 March 2019](2019-03-13-IndexResearch.html) | Index Research <br> LA7 | 18 | 17–20 | 16–21 | 16–21 | 15–22 |
-| [11–13 March 2019](2019-03-13-DemosPi.html) | Demos & Pi <br> La Repubblica | 19 | 17–20 | 17–21 | 17–21 | 16–22 |
+| [11–13 March 2019](2019-03-13-DemosPi.html) | Demos & Pi <br> La Repubblica | 19 | 17–21 | 17–21 | 17–21 | 16–22 |
 | [12–13 March 2019](2019-03-13-Demopolis.html) | Demopolis | 18 | 17–19 | 16–19 | 16–20 | 16–20 |
 | [12 March 2019](2019-03-12-Piepoli.html) | Piepoli | 20 | 18–22 | 17–23 | 17–24 | 16–25 |
 | [12 March 2019](2019-03-12-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 17 | 16–19 | 16–19 | 15–20 | 15–21 |
@@ -741,15 +741,15 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 13 | 0.2% | 100% |  |
 | 14 | 1.1% | 99.7% |  |
-| 15 | 3% | 98.7% |  |
-| 16 | 14% | 96% |  |
-| 17 | 19% | 82% | Last Result |
-| 18 | 30% | 63% | Median |
-| 19 | 18% | 33% |  |
-| 20 | 6% | 16% |  |
-| 21 | 9% | 10% |  |
-| 22 | 0.2% | 0.2% |  |
-| 23 | 0% | 0.1% |  |
+| 15 | 4% | 98.7% |  |
+| 16 | 16% | 95% |  |
+| 17 | 24% | 80% | Last Result |
+| 18 | 23% | 56% | Median |
+| 19 | 13% | 33% |  |
+| 20 | 8% | 19% |  |
+| 21 | 10% | 11% |  |
+| 22 | 0.6% | 0.7% |  |
+| 23 | 0.1% | 0.1% |  |
 | 24 | 0% | 0% |  |
 
 

@@ -406,21 +406,21 @@ Last result: **5** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27 | 25–29 | 24–30 | 23–30 | 22–32 |
+| N/A | [Poll Average](average.html) | 27 | 24–30 | 24–31 | 23–31 | 22–33 |
 | [3 April 2019](2019-04-03-TermometroPolitico.html) | Termometro Politico | 27 | 26–28 | 26–28 | 25–29 | 25–29 |
 | [2 April 2019](2019-04-02-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 26 | 24–28 | 24–28 | 23–29 | 22–30 |
 | [31 March–1 April 2019](2019-04-01-Tecnè.html) | Tecnè <br> Quarta Repubblica | 24 | 23–26 | 22–26 | 22–27 | 21–28 |
-| [27 March–1 April 2019](2019-04-01-SWG.html) | SWG <br> LA7 | 27 | 25–28 | 25–28 | 25–29 | 24–30 |
+| [27 March–1 April 2019](2019-04-01-SWG.html) | SWG <br> LA7 | 26 | 25–28 | 25–28 | 25–29 | 24–30 |
 | [29–30 March 2019](2019-03-30-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 27 | 25–28 | 24–29 | 24–29 | 23–30 |
 | [28 March 2019](2019-03-28-Tecnè.html) | Tecnè <br> TGcom24 | 27 | 27–28 | 23–28 | 21–28 | 21–28 |
 | [26–27 March 2019](2019-03-27-IndexResearch.html) | Index Research <br> LA7 | 29 | 27–31 | 27–32 | 26–32 | 25–34 |
-| [26–27 March 2019](2019-03-27-Demopolis.html) | Demopolis | 25 | 23–26 | 23–27 | 23–27 | 22–27 |
+| [26–27 March 2019](2019-03-27-Demopolis.html) | Demopolis | 25 | 23–26 | 23–27 | 23–27 | 22–28 |
 | [26 March 2019](2019-03-26-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 28 | 27–28 | 24–28 | 24–28 | 24–28 |
-| [26 March 2019](2019-03-26-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 25 | 25–26 | 25–26 | 25–27 | 24–28 |
-| [22–25 March 2019](2019-03-25-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 29 | 29 | 28–29 | 28–29 | 28–29 |
+| [26 March 2019](2019-03-26-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 26 | 24–27 | 24–27 | 24–28 | 23–28 |
+| [22–25 March 2019](2019-03-25-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 30 | 29–32 | 28–32 | 28–33 | 27–33 |
 | [20–25 March 2019](2019-03-25-SWG.html) | SWG <br> LA7 | 28 | 27–29 | 27–29 | 27–30 | 27–30 |
 | [20–21 March 2019](2019-03-21-Tecnè.html) | Tecnè <br> Rete 4 | 25 | 24–27 | 23–27 | 23–28 | 22–29 |
-| [21 March 2019](2019-03-21-Piepoli.html) | Piepoli <br> Rai 1 | 27 | 26–27 | 23–27 | 23–27 | 22–28 |
+| [21 March 2019](2019-03-21-Piepoli.html) | Piepoli <br> Rai 1 | 25 | 23–28 | 22–29 | 22–29 | 21–31 |
 | [20–21 March 2019](2019-03-21-Euromedia.html) | Euromedia <br> Rai 1 | 27 | 25–29 | 24–29 | 24–30 | 23–31 |
 | [19–20 March 2019](2019-03-20-IndexResearch.html) | Index Research <br> LA7 | 30 | 28–31 | 27–32 | 27–32 | 26–33 |
 | [19 March 2019](2019-03-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 27 | 25–29 | 24–29 | 24–30 | 23–31 |
@@ -428,7 +428,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [17–18 March 2019](2019-03-18-Tecnè.html) | Tecnè <br> Quarta Repubblica and Rete 4 | 24 | 22–25 | 22–26 | 22–26 | 21–27 |
 | [13–18 March 2019](2019-03-18-SWG.html) | SWG <br> LA7 | 29 | 27–31 | 27–31 | 26–31 | 26–32 |
 | [12–13 March 2019](2019-03-13-IndexResearch.html) | Index Research <br> LA7 | 29 | 27–32 | 27–33 | 27–33 | 25–34 |
-| [11–13 March 2019](2019-03-13-DemosPi.html) | Demos & Pi <br> La Repubblica | 28 | 26–30 | 26–30 | 25–31 | 25–32 |
+| [11–13 March 2019](2019-03-13-DemosPi.html) | Demos & Pi <br> La Repubblica | 28 | 26–30 | 26–31 | 25–31 | 25–32 |
 | [12–13 March 2019](2019-03-13-Demopolis.html) | Demopolis | 26 | 24–27 | 24–28 | 24–28 | 23–28 |
 | [12 March 2019](2019-03-12-Piepoli.html) | Piepoli | 27 | 24–29 | 23–29 | 23–29 | 22–31 |
 | [12 March 2019](2019-03-12-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 27 | 26–29 | 25–30 | 25–30 | 24–32 |
@@ -775,19 +775,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
-| 21 | 0.2% | 100% |  |
-| 22 | 0.4% | 99.7% |  |
-| 23 | 2% | 99.3% |  |
-| 24 | 5% | 97% |  |
-| 25 | 12% | 93% |  |
-| 26 | 11% | 81% |  |
-| 27 | 24% | 69% | Median |
-| 28 | 23% | 45% |  |
-| 29 | 16% | 22% |  |
-| 30 | 4% | 6% |  |
-| 31 | 1.3% | 2% |  |
-| 32 | 0.7% | 1.0% |  |
-| 33 | 0.1% | 0.2% |  |
+| 21 | 0.4% | 100% |  |
+| 22 | 0.9% | 99.6% |  |
+| 23 | 3% | 98.7% |  |
+| 24 | 7% | 96% |  |
+| 25 | 12% | 89% |  |
+| 26 | 13% | 77% |  |
+| 27 | 19% | 65% | Median |
+| 28 | 24% | 46% |  |
+| 29 | 9% | 22% |  |
+| 30 | 6% | 13% |  |
+| 31 | 4% | 6% |  |
+| 32 | 2% | 2% |  |
+| 33 | 0.5% | 0.6% |  |
 | 34 | 0.1% | 0.1% |  |
 | 35 | 0% | 0% |  |
 
