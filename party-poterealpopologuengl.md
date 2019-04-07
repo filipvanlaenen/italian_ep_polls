@@ -16,7 +16,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [3 April 2019](2019-04-03-Piepoli.html) | Piepoli <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
 | [3 April 2019](2019-04-03-Euromedia.html) | Euromedia <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
 | [2 April 2019](2019-04-02-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
-| [2 April 2019](2019-04-02-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 1.6% | N/A | N/A | N/A | N/A |
+| [2 April 2019](2019-04-02-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 1.6% | 1.3–2.1% | 1.2–2.2% | 1.1–2.3% | 1.0–2.6% |
 | [31 March–1 April 2019](2019-04-01-Tecnè.html) | Tecnè <br> Quarta Repubblica | 0.0% | N/A | N/A | N/A | N/A |
 | [27 March–1 April 2019](2019-04-01-SWG.html) | SWG <br> LA7 | 1.3% | 1.0–1.8% | 0.9–1.9% | 0.9–2.1% | 0.7–2.3% |
 | [29–30 March 2019](2019-03-30-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 0.0% | N/A | N/A | N/A | N/A |
@@ -387,7 +387,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [3 April 2019](2019-04-03-Piepoli.html) | Piepoli <br> Rai 1 |  |  |  |  |  |
 | [3 April 2019](2019-04-03-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
 | [2 April 2019](2019-04-02-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
-| [2 April 2019](2019-04-02-EMGAcqua.html) | EMG Acqua <br> Rai 3 |  |  |  |  |  |
+| [2 April 2019](2019-04-02-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [31 March–1 April 2019](2019-04-01-Tecnè.html) | Tecnè <br> Quarta Repubblica |  |  |  |  |  |
 | [27 March–1 April 2019](2019-04-01-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
 | [29–30 March 2019](2019-03-30-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 |  |  |  |  |  |

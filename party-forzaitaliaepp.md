@@ -14,9 +14,9 @@ Last result: **16.8%** (General Election of 25 May 2014)
 | [4 April 2019](2019-04-04-IndexResearch.html) | Index Research <br> LA7 | 9.2% | 8.0–10.7% | 7.7–11.1% | 7.4–11.5% | 6.9–12.2% |
 | [3 April 2019](2019-04-03-TermometroPolitico.html) | Termometro Politico | 9.1% | 8.5–9.7% | 8.4–9.9% | 8.2–10.0% | 8.0–10.3% |
 | [3 April 2019](2019-04-03-Piepoli.html) | Piepoli <br> Rai 1 | 10.5% | 8.9–12.5% | 8.5–13.0% | 8.1–13.5% | 7.4–14.5% |
-| [3 April 2019](2019-04-03-Euromedia.html) | Euromedia <br> Rai 1 | 11.1% | N/A | N/A | N/A | N/A |
+| [3 April 2019](2019-04-03-Euromedia.html) | Euromedia <br> Rai 1 | 11.1% | 9.8–12.7% | 9.4–13.1% | 9.1–13.5% | 8.5–14.3% |
 | [2 April 2019](2019-04-02-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 10.5% | 9.3–11.8% | 9.0–12.2% | 8.7–12.6% | 8.2–13.2% |
-| [2 April 2019](2019-04-02-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 9.3% | N/A | N/A | N/A | N/A |
+| [2 April 2019](2019-04-02-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 9.3% | 8.4–10.2% | 8.2–10.5% | 8.0–10.7% | 7.6–11.2% |
 | [31 March–1 April 2019](2019-04-01-Tecnè.html) | Tecnè <br> Quarta Repubblica | 12.1% | 10.9–13.5% | 10.5–13.9% | 10.2–14.3% | 9.6–15.0% |
 | [27 March–1 April 2019](2019-04-01-SWG.html) | SWG <br> LA7 | 9.0% | 8.1–10.0% | 7.9–10.3% | 7.7–10.6% | 7.2–11.1% |
 | [29–30 March 2019](2019-03-30-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
@@ -391,9 +391,9 @@ Last result: **13** seats (General Election of 25 May 2014)
 | [4 April 2019](2019-04-04-IndexResearch.html) | Index Research <br> LA7 | 9 | 7–9 | 6–9 | 5–9 | 5–10 |
 | [3 April 2019](2019-04-03-TermometroPolitico.html) | Termometro Politico | 8 | 7–8 | 7–8 | 7–9 | 7–9 |
 | [3 April 2019](2019-04-03-Piepoli.html) | Piepoli <br> Rai 1 | 8 | 8–9 | 8–9 | 8–9 | 8–9 |
-| [3 April 2019](2019-04-03-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
+| [3 April 2019](2019-04-03-Euromedia.html) | Euromedia <br> Rai 1 | 10 | 8–10 | 8–10 | 6–10 | 6–12 |
 | [2 April 2019](2019-04-02-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
-| [2 April 2019](2019-04-02-EMGAcqua.html) | EMG Acqua <br> Rai 3 |  |  |  |  |  |
+| [2 April 2019](2019-04-02-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [31 March–1 April 2019](2019-04-01-Tecnè.html) | Tecnè <br> Quarta Repubblica | 9 | 8–10 | 8–11 | 8–11 | 7–11 |
 | [27 March–1 April 2019](2019-04-01-SWG.html) | SWG <br> LA7 | 7 | 7–8 | 6–8 | 6–9 | 6–9 |
 | [29–30 March 2019](2019-03-30-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 8 | 7–9 | 7–10 | 7–10 | 6–10 |
