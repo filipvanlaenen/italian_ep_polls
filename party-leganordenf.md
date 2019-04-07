@@ -411,12 +411,12 @@ Last result: **5** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 27 | 24–30 | 23–31 | 23–31 | 22–33 |
-| [4 April 2019](2019-04-04-IndexResearch.html) | Index Research <br> LA7 | 28 | 27–30 | 26–31 | 26–31 | 24–31 |
+| [4 April 2019](2019-04-04-IndexResearch.html) | Index Research <br> LA7 | 29 | 27–30 | 26–31 | 25–31 | 24–32 |
 | [3 April 2019](2019-04-03-TermometroPolitico.html) | Termometro Politico | 27 | 26–28 | 26–28 | 25–29 | 25–29 |
-| [3 April 2019](2019-04-03-Piepoli.html) | Piepoli <br> Rai 1 | 25 | 22–26 | 22–27 | 21–28 | 21–29 |
-| [3 April 2019](2019-04-03-Euromedia.html) | Euromedia <br> Rai 1 | 25 | 23–26 | 23–27 | 22–28 | 21–29 |
+| [3 April 2019](2019-04-03-Piepoli.html) | Piepoli <br> Rai 1 | 24 | 22–27 | 21–28 | 21–29 | 20–30 |
+| [3 April 2019](2019-04-03-Euromedia.html) | Euromedia <br> Rai 1 | 25 | 23–27 | 22–27 | 22–28 | 21–29 |
 | [2 April 2019](2019-04-02-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 26 | 24–28 | 24–28 | 23–29 | 22–30 |
-| [2 April 2019](2019-04-02-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 26 | 24–27 | 24–27 | 24–27 | 23–28 |
+| [2 April 2019](2019-04-02-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 26 | 24–27 | 24–27 | 24–28 | 23–29 |
 | [31 March–1 April 2019](2019-04-01-Tecnè.html) | Tecnè <br> Quarta Repubblica | 24 | 23–26 | 22–26 | 22–27 | 21–28 |
 | [27 March–1 April 2019](2019-04-01-SWG.html) | SWG <br> LA7 | 26 | 25–28 | 25–28 | 25–29 | 24–30 |
 | [29–30 March 2019](2019-03-30-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 27 | 25–28 | 24–29 | 24–29 | 23–30 |
