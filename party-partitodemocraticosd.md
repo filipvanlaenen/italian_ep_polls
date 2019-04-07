@@ -11,8 +11,12 @@ Last result: **40.8%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20.7% | 18.8–22.4% | 18.2–22.9% | 17.7–23.4% | 16.7–24.3% |
+| [4 April 2019](2019-04-04-IndexResearch.html) | Index Research <br> LA7 | 20.8% | 19.0–22.7% | 18.5–23.2% | 18.1–23.7% | 17.3–24.7% |
 | [3 April 2019](2019-04-03-TermometroPolitico.html) | Termometro Politico | 21.6% | 20.8–22.5% | 20.5–22.7% | 20.3–22.9% | 20.0–23.3% |
+| [3 April 2019](2019-04-03-Piepoli.html) | Piepoli <br> Rai 1 | 20.0% | 17.9–22.5% | 17.3–23.2% | 16.8–23.8% | 15.8–25.0% |
+| [3 April 2019](2019-04-03-Euromedia.html) | Euromedia <br> Rai 1 | 20.1% | N/A | N/A | N/A | N/A |
 | [2 April 2019](2019-04-02-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 21.0% | 19.4–22.7% | 19.0–23.2% | 18.6–23.6% | 17.8–24.5% |
+| [2 April 2019](2019-04-02-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 21.1% | N/A | N/A | N/A | N/A |
 | [31 March–1 April 2019](2019-04-01-Tecnè.html) | Tecnè <br> Quarta Repubblica | 20.1% | 18.5–21.8% | 18.1–22.3% | 17.7–22.7% | 17.0–23.5% |
 | [27 March–1 April 2019](2019-04-01-SWG.html) | SWG <br> LA7 | 20.8% | 19.5–22.2% | 19.1–22.6% | 18.8–22.9% | 18.2–23.6% |
 | [29–30 March 2019](2019-03-30-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 20.5% | 18.9–22.2% | 18.5–22.7% | 18.1–23.1% | 17.4–24.0% |
@@ -398,19 +402,23 @@ Last result: **31** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 13–18 | 13–18 | 13–18 | 12–19 |
+| N/A | [Poll Average](average.html) | 16 | 14–18 | 13–18 | 13–18 | 12–19 |
+| [4 April 2019](2019-04-04-IndexResearch.html) | Index Research <br> LA7 | 16 | 14–17 | 14–17 | 14–18 | 13–19 |
 | [3 April 2019](2019-04-03-TermometroPolitico.html) | Termometro Politico | 17 | 17–18 | 16–18 | 16–19 | 16–19 |
+| [3 April 2019](2019-04-03-Piepoli.html) | Piepoli <br> Rai 1 | 14 | 14–15 | 14–15 | 14–15 | 14–16 |
+| [3 April 2019](2019-04-03-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
 | [2 April 2019](2019-04-02-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 16 | 15–17 | 14–18 | 14–18 | 13–19 |
+| [2 April 2019](2019-04-02-EMGAcqua.html) | EMG Acqua <br> Rai 3 |  |  |  |  |  |
 | [31 March–1 April 2019](2019-04-01-Tecnè.html) | Tecnè <br> Quarta Repubblica | 14 | 13–16 | 13–16 | 12–16 | 12–17 |
 | [27 March–1 April 2019](2019-04-01-SWG.html) | SWG <br> LA7 | 16 | 15–17 | 14–17 | 14–18 | 14–18 |
 | [29–30 March 2019](2019-03-30-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 16 | 15–17 | 14–18 | 14–18 | 13–19 |
-| [28 March 2019](2019-03-28-Tecnè.html) | Tecnè <br> TGcom24 | 13 | 13 | 13–14 | 12–15 | 11–16 |
+| [28 March 2019](2019-03-28-Tecnè.html) | Tecnè <br> TGcom24 | 15 | 13–16 | 13–16 | 12–16 | 12–17 |
 | [26–27 March 2019](2019-03-27-IndexResearch.html) | Index Research <br> LA7 | 17 | 15–19 | 15–19 | 14–19 | 14–20 |
 | [26–27 March 2019](2019-03-27-Demopolis.html) | Demopolis | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
-| [26 March 2019](2019-03-26-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 18 | 16–18 | 15–18 | 15–18 | 15–18 |
+| [26 March 2019](2019-03-26-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 17 | 15–17 | 14–18 | 14–18 | 13–19 |
 | [26 March 2019](2019-03-26-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
 | [22–25 March 2019](2019-03-25-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 17 | 16–18 | 15–18 | 15–19 | 14–20 |
-| [20–25 March 2019](2019-03-25-SWG.html) | SWG <br> LA7 | 16 | 14–17 | 14–17 | 14–17 | 14–17 |
+| [20–25 March 2019](2019-03-25-SWG.html) | SWG <br> LA7 | 17 | 15–18 | 15–18 | 15–19 | 14–20 |
 | [20–21 March 2019](2019-03-21-Tecnè.html) | Tecnè <br> Rete 4 | 15 | 14–16 | 13–17 | 13–17 | 13–18 |
 | [21 March 2019](2019-03-21-Piepoli.html) | Piepoli <br> Rai 1 | 15 | 13–16 | 13–17 | 12–17 | 12–18 |
 | [20–21 March 2019](2019-03-21-Euromedia.html) | Euromedia <br> Rai 1 | 16 | 14–17 | 14–18 | 13–18 | 13–20 |
@@ -433,7 +441,7 @@ Last result: **31** seats (General Election of 25 May 2014)
 | [3–4 March 2019](2019-03-04-Tecnè.html) | Tecnè <br> Quarta Repubblica | 14 | 12–15 | 12–15 | 12–16 | 11–16 |
 | [27 February–4 March 2019](2019-03-04-SWG.html) | SWG <br> LA7 | 16 | 15–17 | 14–17 | 14–18 | 13–18 |
 | [1–3 March 2019](2019-03-03-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 16 | 15–18 | 14–18 | 14–18 | 14–19 |
-| [29–1 March 2019](2019-03-01-Ixè.html) | Ixè | 18 | 18 | 17–18 | 17–18 | 17–18 |
+| [29–1 March 2019](2019-03-01-Ixè.html) | Ixè | 18 | 16–19 | 15–20 | 15–20 | 15–21 |
 | [27–28 February 2019](2019-02-28-Tecnè.html) | Tecnè | 13 | 12–14 | 11–15 | 11–15 | 11–16 |
 | [26–28 February 2019](2019-02-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 14 | 13–15 | 12–16 | 12–16 | 11–17 |
 | [26–27 February 2019](2019-02-27-IndexResearch.html) | Index Research <br> LA7 | 14 | 13–16 | 12–16 | 12–17 | 11–18 |
@@ -751,17 +759,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 0.1% | 100% |  |
-| 12 | 0.8% | 99.9% |  |
-| 13 | 11% | 99.0% |  |
-| 14 | 12% | 88% |  |
-| 15 | 18% | 75% |  |
-| 16 | 27% | 57% | Median |
-| 17 | 14% | 30% |  |
-| 18 | 14% | 16% |  |
-| 19 | 1.3% | 2% |  |
-| 20 | 0.3% | 0.4% |  |
-| 21 | 0% | 0.1% |  |
+| 12 | 0.9% | 100% |  |
+| 13 | 5% | 99.0% |  |
+| 14 | 12% | 94% |  |
+| 15 | 23% | 82% |  |
+| 16 | 27% | 59% | Median |
+| 17 | 21% | 32% |  |
+| 18 | 8% | 11% |  |
+| 19 | 2% | 2% |  |
+| 20 | 0.4% | 0.4% |  |
+| 21 | 0% | 0% |  |
 | 22 | 0% | 0% |  |
 | 23 | 0% | 0% |  |
 | 24 | 0% | 0% |  |
