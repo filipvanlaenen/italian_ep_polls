@@ -403,7 +403,7 @@ Last result: **13** seats (General Election of 25 May 2014)
 | [26 March 2019](2019-03-26-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 9 | 8–10 | 8–11 | 8–11 | 7–12 |
 | [26 March 2019](2019-03-26-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
 | [22–25 March 2019](2019-03-25-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
-| [20–25 March 2019](2019-03-25-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
+| [20–25 March 2019](2019-03-25-SWG.html) | SWG <br> LA7 | 7 | 7–8 | 6–8 | 6–9 | 6–9 |
 | [20–21 March 2019](2019-03-21-Tecnè.html) | Tecnè <br> Rete 4 | 9 | 8–10 | 8–10 | 7–11 | 7–11 |
 | [21 March 2019](2019-03-21-Piepoli.html) | Piepoli <br> Rai 1 | 10 | 8–11 | 8–12 | 8–12 | 7–13 |
 | [20–21 March 2019](2019-03-21-Euromedia.html) | Euromedia <br> Rai 1 | 9 | 8–10 | 8–11 | 7–11 | 7–12 |
@@ -746,8 +746,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.1% | 100% |  |
 | 6 | 4% | 99.9% |  |
-| 7 | 23% | 96% |  |
-| 8 | 34% | 73% | Median |
+| 7 | 24% | 96% |  |
+| 8 | 34% | 72% | Median |
 | 9 | 21% | 38% |  |
 | 10 | 13% | 17% |  |
 | 11 | 3% | 4% |  |

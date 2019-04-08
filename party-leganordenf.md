@@ -438,7 +438,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [12–13 March 2019](2019-03-13-IndexResearch.html) | Index Research <br> LA7 | 29 | 27–32 | 27–32 | 26–33 | 25–34 |
 | [11–13 March 2019](2019-03-13-DemosPi.html) | Demos & Pi <br> La Repubblica | 28 | 26–30 | 26–31 | 25–31 | 25–32 |
 | [12–13 March 2019](2019-03-13-Demopolis.html) | Demopolis | 26 | 24–27 | 24–28 | 24–28 | 23–28 |
-| [12 March 2019](2019-03-12-Piepoli.html) | Piepoli | 27 | 24–29 | 23–29 | 23–29 | 22–31 |
+| [12 March 2019](2019-03-12-Piepoli.html) | Piepoli | 26 | 24–29 | 23–30 | 23–30 | 21–32 |
 | [12 March 2019](2019-03-12-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 27 | 25–30 | 25–30 | 24–31 | 23–32 |
 | [12 March 2019](2019-03-12-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 24 | 23–26 | 23–26 | 23–27 | 22–27 |
 | [6–11 March 2019](2019-03-11-SWG.html) | SWG <br> LA7 | 30 | 28–31 | 27–31 | 26–32 | 26–33 |
@@ -789,11 +789,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 24 | 10% | 94% |  |
 | 25 | 16% | 85% |  |
 | 26 | 16% | 69% |  |
-| 27 | 14% | 53% | Median |
-| 28 | 15% | 39% |  |
-| 29 | 10% | 24% |  |
-| 30 | 7% | 14% |  |
-| 31 | 4% | 7% |  |
+| 27 | 13% | 53% | Median |
+| 28 | 15% | 40% |  |
+| 29 | 10% | 25% |  |
+| 30 | 8% | 14% |  |
+| 31 | 4% | 6% |  |
 | 32 | 2% | 2% |  |
 | 33 | 0.5% | 0.6% |  |
 | 34 | 0.1% | 0.1% |  |
