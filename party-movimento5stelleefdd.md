@@ -403,7 +403,7 @@ Last result: **17** seats (General Election of 25 May 2014)
 | [28 March 2019](2019-03-28-Tecnè.html) | Tecnè <br> TGcom24 | 16 | 15–17 | 14–18 | 14–18 | 13–19 |
 | [26–27 March 2019](2019-03-27-IndexResearch.html) | Index Research <br> LA7 | 17 | 16–19 | 16–20 | 15–20 | 14–21 |
 | [26–27 March 2019](2019-03-27-Demopolis.html) | Demopolis | 17 | 16–18 | 16–19 | 15–19 | 15–19 |
-| [26 March 2019](2019-03-26-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 17 | 16–20 | 16–20 | 16–20 | 15–20 |
+| [26 March 2019](2019-03-26-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 18 | 16–19 | 16–20 | 15–20 | 15–21 |
 | [26 March 2019](2019-03-26-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 18 | 17–19 | 17–20 | 17–20 | 16–21 |
 | [22–25 March 2019](2019-03-25-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 17 | 16–19 | 16–19 | 15–19 | 15–20 |
 | [20–25 March 2019](2019-03-25-SWG.html) | SWG <br> LA7 | 18 | 17–20 | 16–20 | 16–20 | 16–21 |
@@ -415,11 +415,11 @@ Last result: **17** seats (General Election of 25 May 2014)
 | [19 March 2019](2019-03-19-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 19 | 17–20 | 17–20 | 17–21 | 17–21 |
 | [17–18 March 2019](2019-03-18-Tecnè.html) | Tecnè <br> Quarta Repubblica and Rete 4 | 17 | 15–18 | 15–18 | 15–19 | 14–20 |
 | [13–18 March 2019](2019-03-18-SWG.html) | SWG <br> LA7 | 18 | 17–19 | 16–20 | 16–20 | 16–20 |
-| [12–13 March 2019](2019-03-13-IndexResearch.html) | Index Research <br> LA7 | 18 | 17–20 | 16–21 | 16–21 | 15–22 |
+| [12–13 March 2019](2019-03-13-IndexResearch.html) | Index Research <br> LA7 | 18 | 16–20 | 16–20 | 16–21 | 15–21 |
 | [11–13 March 2019](2019-03-13-DemosPi.html) | Demos & Pi <br> La Repubblica | 19 | 17–21 | 17–21 | 17–21 | 16–22 |
 | [12–13 March 2019](2019-03-13-Demopolis.html) | Demopolis | 18 | 17–19 | 16–19 | 16–20 | 16–20 |
 | [12 March 2019](2019-03-12-Piepoli.html) | Piepoli | 20 | 18–22 | 17–23 | 17–24 | 16–25 |
-| [12 March 2019](2019-03-12-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 17 | 16–19 | 16–19 | 15–20 | 15–21 |
+| [12 March 2019](2019-03-12-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 18 | 16–19 | 16–20 | 15–20 | 15–21 |
 | [12 March 2019](2019-03-12-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 19 | 18–20 | 18–20 | 17–20 | 17–21 |
 | [6–11 March 2019](2019-03-11-SWG.html) | SWG <br> LA7 | 19 | 18–20 | 17–21 | 17–21 | 16–21 |
 | [6–7 March 2019](2019-03-07-Tecnè.html) | Tecnè <br> Forza Italia | 18 | 17–19 | 16–19 | 16–19 | 16–20 |
@@ -751,10 +751,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 2% | 99.8% |  |
 | 15 | 6% | 98% |  |
 | 16 | 14% | 92% |  |
-| 17 | 26% | 78% | Last Result |
-| 18 | 23% | 52% | Median |
+| 17 | 24% | 78% | Last Result |
+| 18 | 25% | 53% | Median |
 | 19 | 16% | 28% |  |
-| 20 | 9% | 12% |  |
+| 20 | 8% | 11% |  |
 | 21 | 3% | 3% |  |
 | 22 | 0.6% | 0.7% |  |
 | 23 | 0.1% | 0.1% |  |

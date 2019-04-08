@@ -383,7 +383,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | [4 April 2019](2019-04-04-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0 | 0–3 | 0–4 |
 | [3 April 2019](2019-04-03-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [3 April 2019](2019-04-03-Piepoli.html) | Piepoli <br> Rai 1 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
@@ -408,7 +408,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [19 March 2019](2019-03-19-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0 | 0 | 0 | 0 | 0–3 |
 | [17–18 March 2019](2019-03-18-Tecnè.html) | Tecnè <br> Quarta Repubblica and Rete 4 |  |  |  |  |  |
 | [13–18 March 2019](2019-03-18-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0–4 |
-| [12–13 March 2019](2019-03-13-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0 | 0 | 0–4 |
+| [12–13 March 2019](2019-03-13-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0 | 0–3 | 0–4 |
 | [11–13 March 2019](2019-03-13-DemosPi.html) | Demos & Pi <br> La Repubblica | 0 | 0 | 0 | 0 | 0–3 |
 | [12–13 March 2019](2019-03-13-Demopolis.html) | Demopolis |  |  |  |  |  |
 | [12 March 2019](2019-03-12-Piepoli.html) | Piepoli | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
@@ -740,11 +740,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 88% | 100% | Last Result, Median |
-| 1 | 0% | 12% |  |
-| 2 | 0% | 12% |  |
-| 3 | 4% | 12% |  |
-| 4 | 8% | 8% |  |
+| 0 | 91% | 100% | Last Result, Median |
+| 1 | 0% | 9% |  |
+| 2 | 0% | 9% |  |
+| 3 | 4% | 9% |  |
+| 4 | 4% | 5% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 

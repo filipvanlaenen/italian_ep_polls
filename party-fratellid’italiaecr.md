@@ -396,7 +396,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [28 March 2019](2019-03-28-Tecnè.html) | Tecnè <br> TGcom24 | 4 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [26–27 March 2019](2019-03-27-IndexResearch.html) | Index Research <br> LA7 | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [26–27 March 2019](2019-03-27-Demopolis.html) | Demopolis | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
-| [26 March 2019](2019-03-26-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
+| [26 March 2019](2019-03-26-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
 | [26 March 2019](2019-03-26-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 4 | 3–4 | 3–5 | 0–5 | 0–5 |
 | [22–25 March 2019](2019-03-25-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 4 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [20–25 March 2019](2019-03-25-SWG.html) | SWG <br> LA7 | 4 | 3–5 | 0–5 | 0–5 | 0–5 |
@@ -408,7 +408,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [19 March 2019](2019-03-19-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 4 | 3–4 | 3–5 | 0–5 | 0–5 |
 | [17–18 March 2019](2019-03-18-Tecnè.html) | Tecnè <br> Quarta Repubblica and Rete 4 | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [13–18 March 2019](2019-03-18-SWG.html) | SWG <br> LA7 | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
-| [12–13 March 2019](2019-03-13-IndexResearch.html) | Index Research <br> LA7 | 4 | 0–4 | 0–5 | 0–5 | 0–6 |
+| [12–13 March 2019](2019-03-13-IndexResearch.html) | Index Research <br> LA7 | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
 | [11–13 March 2019](2019-03-13-DemosPi.html) | Demos & Pi <br> La Repubblica | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [12–13 March 2019](2019-03-13-Demopolis.html) | Demopolis | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [12 March 2019](2019-03-12-Piepoli.html) | Piepoli | 3 | 0–4 | 0–5 | 0–5 | 0–5 |
@@ -743,8 +743,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 20% | 100% | Last Result |
 | 1 | 0% | 80% |  |
 | 2 | 0% | 80% |  |
-| 3 | 17% | 80% |  |
-| 4 | 50% | 63% | Median |
+| 3 | 15% | 80% |  |
+| 4 | 52% | 65% | Median |
 | 5 | 12% | 13% |  |
 | 6 | 0.9% | 0.9% |  |
 | 7 | 0% | 0% |  |

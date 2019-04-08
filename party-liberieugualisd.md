@@ -407,7 +407,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [19 March 2019](2019-03-19-EMGAcqua.html) | EMG Acqua <br> Rai 3 |  |  |  |  |  |
 | [17–18 March 2019](2019-03-18-Tecnè.html) | Tecnè <br> Quarta Repubblica and Rete 4 |  |  |  |  |  |
 | [13–18 March 2019](2019-03-18-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
-| [12–13 March 2019](2019-03-13-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0 | 0–3 | 0–4 |
+| [12–13 March 2019](2019-03-13-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | [11–13 March 2019](2019-03-13-DemosPi.html) | Demos & Pi <br> La Repubblica | 0 | 0 | 0 | 0 | 0–3 |
 | [12–13 March 2019](2019-03-13-Demopolis.html) | Demopolis |  |  |  |  |  |
 | [12 March 2019](2019-03-12-Piepoli.html) | Piepoli | 0 | 0 | 0 | 0–3 | 0–4 |
