@@ -414,10 +414,10 @@ Last result: **13** seats (General Election of 25 May 2014)
 | [13–18 March 2019](2019-03-18-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
 | [12–13 March 2019](2019-03-13-IndexResearch.html) | Index Research <br> LA7 | 8 | 7–9 | 6–9 | 6–10 | 6–10 |
 | [11–13 March 2019](2019-03-13-DemosPi.html) | Demos & Pi <br> La Repubblica | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
-| [12–13 March 2019](2019-03-13-Demopolis.html) | Demopolis | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
+| [12–13 March 2019](2019-03-13-Demopolis.html) | Demopolis | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | [12 March 2019](2019-03-12-Piepoli.html) | Piepoli | 9 | 8–11 | 7–11 | 7–12 | 6–13 |
 | [12 March 2019](2019-03-12-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 10 | 9–11 | 8–11 | 8–11 | 8–12 |
-| [12 March 2019](2019-03-12-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
+| [12 March 2019](2019-03-12-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [6–11 March 2019](2019-03-11-SWG.html) | SWG <br> LA7 | 8 | 7–9 | 7–9 | 6–9 | 6–9 |
 | [6–7 March 2019](2019-03-07-Tecnè.html) | Tecnè <br> Forza Italia | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
 | [5–6 March 2019](2019-03-06-IndexResearch.html) | Index Research <br> LA7 | 8 | 6–9 | 6–9 | 6–10 | 6–10 |
@@ -747,8 +747,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0.1% | 100% |  |
 | 6 | 4% | 99.9% |  |
 | 7 | 24% | 96% |  |
-| 8 | 34% | 72% | Median |
-| 9 | 21% | 38% |  |
+| 8 | 33% | 72% | Median |
+| 9 | 21% | 39% |  |
 | 10 | 13% | 17% |  |
 | 11 | 3% | 4% |  |
 | 12 | 0.9% | 1.0% |  |
