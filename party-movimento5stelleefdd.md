@@ -421,7 +421,7 @@ Last result: **17** seats (General Election of 25 May 2014)
 | [12 March 2019](2019-03-12-Piepoli.html) | Piepoli | 20 | 18–23 | 18–23 | 17–24 | 16–25 |
 | [12 March 2019](2019-03-12-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 18 | 16–19 | 16–20 | 15–20 | 15–21 |
 | [12 March 2019](2019-03-12-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 19 | 18–20 | 18–20 | 17–21 | 17–21 |
-| [6–11 March 2019](2019-03-11-SWG.html) | SWG <br> LA7 | 19 | 18–20 | 17–21 | 17–21 | 16–21 |
+| [6–11 March 2019](2019-03-11-SWG.html) | SWG <br> LA7 | 19 | 17–20 | 17–21 | 16–21 | 16–21 |
 | [6–7 March 2019](2019-03-07-Tecnè.html) | Tecnè <br> Forza Italia | 18 | 17–19 | 16–19 | 16–19 | 16–20 |
 | [5–6 March 2019](2019-03-06-IndexResearch.html) | Index Research <br> LA7 | 18 | 17–20 | 16–21 | 16–21 | 15–22 |
 | [5 March 2019](2019-03-05-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 17 | 15–19 | 15–19 | 15–20 | 14–21 |
