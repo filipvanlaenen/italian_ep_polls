@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/italian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2019-04-10T21:59:51.790016+02:00</updated>
+  <updated>2019-04-14T11:17:19.630945+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Movimento 5 Stelle (EFDD): 18.4–24.1%, 15–21 seats</li><li>Partito Democratico (S&amp;D): 18.1–23.7%, 14–19 seats</li><li>Lega Nord (ENF): 30.4–37.0%, 25–31 seats</li><li>Forza Italia (EPP): 7.4–11.5%, 6–10 seats</li><li>Fratelli d’Italia (ECR): 3.4–6.3%, 0–5 seats</li><li>Liberi e Uguali (S&amp;D): 2.2–4.7%, 0–4 seats</li><li>Più Europa (ALDE): 1.8–4.1%, 0–3 seats</li><li>Potere al Popolo (GUE/NGL): 0.9–2.6%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/italian_ep_polls/2019-04-04-IndexResearch.html</id>
@@ -88,12 +88,44 @@
     <dc:date>2019-04-10T17:04:55.081404+02:00</dc:date>
   </entry>
   <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Movimento 5 Stelle (EFDD): 18.0–23.6%, 15–20 seats</li><li>Partito Democratico (S&amp;D): 18.4–24.1%, 14–19 seats</li><li>Lega Nord (ENF): 31.3–37.9%, 26–32 seats</li><li>Forza Italia (EPP): 7.3–11.3%, 6–10 seats</li><li>Fratelli d’Italia (ECR): 3.3–6.2%, 0–5 seats</li><li>Liberi e Uguali (S&amp;D): 1.9–4.3%, 0–3 seats</li><li>Più Europa (ALDE): 1.8–4.1%, 0–3 seats</li><li>Potere al Popolo (GUE/NGL): 1.1–2.9%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/italian_ep_polls/2019-03-27-IndexResearch.html</id>
+    <link href="https://filipvanlaenen.github.io/italian_ep_polls/2019-03-27-IndexResearch.html"/>
+    <title>Opinion Poll by Index Research for LA7, 26–27 March 2019</title>
+    <updated>2019-04-14T10:17:33.870035+02:00</updated>
+    <dc:date>2019-04-14T10:17:33.870035+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Movimento 5 Stelle (EFDD): 20.0–24.2%, 15–19 seats</li><li>Partito Democratico (S&amp;D): 19.0–23.1%, 14–17 seats</li><li>Lega Nord (ENF): 29.7–34.4%, 23–27 seats</li><li>Forza Italia (EPP): 7.7–10.6%, 6–8 seats</li><li>Fratelli d’Italia (ECR): 3.1–5.1%, 0–4 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/italian_ep_polls/2019-03-27-Demopolis.html</id>
+    <link href="https://filipvanlaenen.github.io/italian_ep_polls/2019-03-27-Demopolis.html"/>
+    <title>Opinion Poll by Demopolis, 26–27 March 2019</title>
+    <updated>2019-04-14T10:25:40.198694+02:00</updated>
+    <dc:date>2019-04-14T10:25:40.198694+02:00</dc:date>
+  </entry>
+  <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Movimento 5 Stelle (EFDD): 18.6–23.6%, 15–20 seats</li><li>Partito Democratico (S&amp;D): 18.6–23.6%, 14–19 seats</li><li>Lega Nord (ENF): 29.2–35.0%, 24–30 seats</li><li>Forza Italia (EPP): 9.2–13.1%, 8–11 seats</li><li>Fratelli d’Italia (ECR): 3.4–6.0%, 0–5 seats</li><li>Liberi e Uguali (S&amp;D): 1.3–3.1%, 0 seats</li><li>Più Europa (ALDE): 2.5–4.8%, 0–4 seats</li><li>Noi con l’Italia (EPP): 0.2–1.2%, 0 seats</li><li>Potere al Popolo (GUE/NGL): 0.5–1.8%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/italian_ep_polls/2019-03-26-NotoSondaggi.html</id>
     <link href="https://filipvanlaenen.github.io/italian_ep_polls/2019-03-26-NotoSondaggi.html"/>
     <title>Opinion Poll by Noto Sondaggi for Rai 3, 26 March 2019</title>
     <updated>2019-04-08T13:32:29.011572+02:00</updated>
     <dc:date>2019-04-08T13:32:29.011572+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Movimento 5 Stelle (EFDD): 21.0–24.9%, 17–20 seats</li><li>Partito Democratico (S&amp;D): 19.3–23.0%, 14–18 seats</li><li>Lega Nord (ENF): 29.7–34.0%, 24–28 seats</li><li>Forza Italia (EPP): 8.2–10.9%, 7–9 seats</li><li>Fratelli d’Italia (ECR): 4.0–6.0%, 0–5 seats</li><li>Più Europa (ALDE): 2.3–3.9%, 0 seats</li><li>Noi con l’Italia (EPP): 0.3–1.1%, 0 seats</li><li>Potere al Popolo (GUE/NGL): 1.1–2.3%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/italian_ep_polls/2019-03-26-EMGAcqua.html</id>
+    <link href="https://filipvanlaenen.github.io/italian_ep_polls/2019-03-26-EMGAcqua.html"/>
+    <title>Opinion Poll by EMG Acqua for Rai 3, 26 March 2019</title>
+    <updated>2019-04-14T10:40:48.321798+02:00</updated>
+    <dc:date>2019-04-14T10:40:48.321798+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Movimento 5 Stelle (EFDD): 18.4–22.5%, 15–19 seats</li><li>Partito Democratico (S&amp;D): 19.2–23.4%, 15–19 seats</li><li>Lega Nord (ENF): 33.4–38.3%, 28–33 seats</li><li>Forza Italia (EPP): 7.8–10.8%, 7–9 seats</li><li>Fratelli d’Italia (ECR): 3.2–5.3%, 0–4 seats</li><li>Liberi e Uguali (S&amp;D): 1.0–2.3%, 0 seats</li><li>Più Europa (ALDE): 2.4–4.1%, 0–3 seats</li><li>Potere al Popolo (GUE/NGL): 1.1–2.4%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/italian_ep_polls/2019-03-25-ScenariPolitici–Winpoll.html</id>
+    <link href="https://filipvanlaenen.github.io/italian_ep_polls/2019-03-25-ScenariPolitici–Winpoll.html"/>
+    <title>Opinion Poll by Scenari Politici–Winpoll, 22–25 March 2019</title>
+    <updated>2019-04-14T10:54:21.201005+02:00</updated>
+    <dc:date>2019-04-14T10:54:21.201005+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Movimento 5 Stelle (EFDD): 19.3–23.5%, 16–20 seats</li><li>Partito Democratico (S&amp;D): 19.0–23.1%, 15–19 seats</li><li>Lega Nord (ENF): 31.0–35.8%, 26–31 seats</li><li>Forza Italia (EPP): 7.3–10.2%, 6–9 seats</li><li>Fratelli d’Italia (ECR): 3.8–5.9%, 0–5 seats</li><li>Liberi e Uguali (S&amp;D): 1.6–3.2%, 0 seats</li><li>Più Europa (ALDE): 2.2–3.9%, 0 seats</li><li>Potere al Popolo (GUE/NGL): 1.6–3.1%, 0 seats</li></ul></div></content>
@@ -110,6 +142,14 @@
     <title>Opinion Poll by Tecnè for Rete 4, 20–21 March 2019</title>
     <updated>2019-03-24T14:57:48.206279+01:00</updated>
     <dc:date>2019-03-24T14:57:48.206279+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Movimento 5 Stelle (EFDD): 19.5–26.9%, 16–22 seats</li><li>Partito Democratico (S&amp;D): 16.7–23.7%, 12–19 seats</li><li>Lega Nord (ENF): 27.1–35.2%, 22–29 seats</li><li>Forza Italia (EPP): 9.1–14.7%, 7–12 seats</li><li>Fratelli d’Italia (ECR): 3.1–6.8%, 0–6 seats</li><li>Liberi e Uguali (S&amp;D): 1.1–3.6%, 0 seats</li><li>Più Europa (ALDE): 1.8–4.9%, 0–4 seats</li><li>Noi con l’Italia (EPP): 0.2–1.8%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/italian_ep_polls/2019-03-21-Piepoli.html</id>
+    <link href="https://filipvanlaenen.github.io/italian_ep_polls/2019-03-21-Piepoli.html"/>
+    <title>Opinion Poll by Piepoli for Rai 1, 21 March 2019</title>
+    <updated>2019-04-14T11:06:50.358064+02:00</updated>
+    <dc:date>2019-04-14T11:06:50.358064+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Movimento 5 Stelle (EFDD): 17.1–22.7%, 14–18 seats</li><li>Partito Democratico (S&amp;D): 18.1–23.7%, 13–18 seats</li><li>Lega Nord (ENF): 29.9–36.5%, 24–30 seats</li><li>Forza Italia (EPP): 9.4–13.8%, 7–11 seats</li><li>Fratelli d’Italia (ECR): 3.5–6.5%, 0–5 seats</li><li>Liberi e Uguali (S&amp;D): 1.4–3.5%, 0 seats</li><li>Più Europa (ALDE): 2.5–5.2%, 0–4 seats</li></ul></div></content>
@@ -158,6 +198,14 @@
     <title>Opinion Poll by Index Research for LA7, 12–13 March 2019</title>
     <updated>2019-04-08T16:13:01.690496+02:00</updated>
     <dc:date>2019-04-08T16:13:01.690496+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Movimento 5 Stelle (EFDD): 20.7–25.9%, 17–21 seats</li><li>Partito Democratico (S&amp;D): 16.7–21.6%, 12–17 seats</li><li>Lega Nord (ENF): 31.6–37.4%, 25–31 seats</li><li>Forza Italia (EPP): 7.9–11.5%, 6–10 seats</li><li>Fratelli d’Italia (ECR): 3.1–5.6%, 0–5 seats</li><li>Liberi e Uguali (S&amp;D): 1.8–3.8%, 0 seats</li><li>Più Europa (ALDE): 1.7–3.7%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/italian_ep_polls/2019-03-13-DemosPi.html</id>
+    <link href="https://filipvanlaenen.github.io/italian_ep_polls/2019-03-13-DemosPi.html"/>
+    <title>Opinion Poll by Demos &amp; Pi for La Repubblica, 11–13 March 2019</title>
+    <updated>2019-04-14T11:17:19.630945+02:00</updated>
+    <dc:date>2019-04-14T11:17:19.630945+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Movimento 5 Stelle (EFDD): 20.7–25.0%, 16–20 seats</li><li>Partito Democratico (S&amp;D): 18.2–22.3%, 13–16 seats</li><li>Lega Nord (ENF): 30.7–35.4%, 24–28 seats</li><li>Forza Italia (EPP): 7.5–10.3%, 6–8 seats</li><li>Fratelli d’Italia (ECR): 2.8–4.7%, 0–4 seats</li></ul></div></content>
@@ -2287,5 +2335,5 @@
     <updated>2018-04-10T21:24:48.959229+02:00</updated>
     <dc:date>2018-04-10T21:24:48.959229+02:00</dc:date>
   </entry>
-  <dc:date>2019-04-10T21:59:51.790016+02:00</dc:date>
+  <dc:date>2019-04-14T11:17:19.630945+02:00</dc:date>
 </feed>
