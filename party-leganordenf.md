@@ -425,7 +425,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [26–27 March 2019](2019-03-27-Demopolis.html) | Demopolis | 25 | 23–26 | 23–27 | 23–27 | 22–28 |
 | [26 March 2019](2019-03-26-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 27 | 25–29 | 24–30 | 24–30 | 23–31 |
 | [26 March 2019](2019-03-26-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 26 | 24–27 | 24–27 | 24–28 | 23–28 |
-| [22–25 March 2019](2019-03-25-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 30 | 29–32 | 28–32 | 28–33 | 27–33 |
+| [22–25 March 2019](2019-03-25-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 30 | 29–32 | 28–32 | 28–33 | 27–34 |
 | [20–25 March 2019](2019-03-25-SWG.html) | SWG <br> LA7 | 28 | 27–30 | 26–30 | 26–31 | 25–32 |
 | [20–21 March 2019](2019-03-21-Tecnè.html) | Tecnè <br> Rete 4 | 25 | 24–27 | 23–27 | 23–28 | 22–29 |
 | [21 March 2019](2019-03-21-Piepoli.html) | Piepoli <br> Rai 1 | 25 | 23–28 | 22–29 | 22–29 | 21–31 |
@@ -785,14 +785,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 20 | 0% | 100% |  |
 | 21 | 0.2% | 100% |  |
 | 22 | 1.1% | 99.8% |  |
-| 23 | 4% | 98.7% |  |
+| 23 | 4% | 98.6% |  |
 | 24 | 10% | 94% |  |
-| 25 | 16% | 85% |  |
+| 25 | 15% | 85% |  |
 | 26 | 16% | 69% |  |
-| 27 | 13% | 53% | Median |
+| 27 | 14% | 53% | Median |
 | 28 | 15% | 40% |  |
 | 29 | 10% | 25% |  |
-| 30 | 8% | 14% |  |
+| 30 | 8% | 15% |  |
 | 31 | 4% | 6% |  |
 | 32 | 2% | 2% |  |
 | 33 | 0.5% | 0.6% |  |
