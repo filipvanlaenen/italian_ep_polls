@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 10 Apr 2019 21:59:51 +0200</pubDate>
+    <pubDate>Sun, 14 Apr 2019 11:17:19 +0200</pubDate>
     <item>
       <title>Opinion Poll by Index Research for LA7, 4 April 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-04-04-IndexResearch.html#seats</link>
@@ -310,14 +310,54 @@
       <dc:date>2019-04-10T17:04:55.081404+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Index Research for LA7, 26–27 March 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-03-27-IndexResearch.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 15–20 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 14–19 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 26–32 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6–10 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 0–5 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0–3 seats&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 0–3 seats&lt;/li&gt;&lt;li&gt;Potere al Popolo (GUE/NGL): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-03-27-IndexResearch-seats.png"
+        length="207279"
+        type="image/png"/>
+      <pubDate>Sun, 14 Apr 2019 10:17:33 +0200</pubDate>
+      <dc:date>2019-04-14T10:17:33.870035+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Index Research for LA7, 26–27 March 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-03-27-IndexResearch.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-03-27-IndexResearch-coalitions-seats.png"
+        length="165693"
+        type="image/png"/>
+      <pubDate>Sun, 14 Apr 2019 10:17:33 +0200</pubDate>
+      <dc:date>2019-04-14T10:17:33.870035+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Index Research for LA7, 26–27 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-03-27-IndexResearch.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 18.0–23.6%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 18.4–24.1%&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 31.3–37.9%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 7.3–11.3%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 3.3–6.2%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 1.9–4.3%&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 1.8–4.1%&lt;/li&gt;&lt;li&gt;Potere al Popolo (GUE/NGL): 1.1–2.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-03-27-IndexResearch.png"
         length="238275"
         type="image/png"/>
-      <pubDate>Sat, 06 Apr 2019 16:30:07 +0200</pubDate>
-      <dc:date>2019-04-06T16:30:07.568545+02:00</dc:date>
+      <pubDate>Sun, 14 Apr 2019 10:17:33 +0200</pubDate>
+      <dc:date>2019-04-14T10:17:33.870035+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demopolis, 26–27 March 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-03-27-Demopolis.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 15–19 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 14–17 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 23–27 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 0–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-03-27-Demopolis-seats.png"
+        length="145510"
+        type="image/png"/>
+      <pubDate>Sun, 14 Apr 2019 10:25:40 +0200</pubDate>
+      <dc:date>2019-04-14T10:25:40.198694+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demopolis, 26–27 March 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-03-27-Demopolis.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-03-27-Demopolis-coalitions-seats.png"
+        length="139441"
+        type="image/png"/>
+      <pubDate>Sun, 14 Apr 2019 10:25:40 +0200</pubDate>
+      <dc:date>2019-04-14T10:25:40.198694+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Demopolis, 26–27 March 2019 – Voting Intentions</title>
@@ -326,8 +366,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-03-27-Demopolis.png"
         length="144162"
         type="image/png"/>
-      <pubDate>Sat, 06 Apr 2019 16:39:24 +0200</pubDate>
-      <dc:date>2019-04-06T16:39:24.432131+02:00</dc:date>
+      <pubDate>Sun, 14 Apr 2019 10:25:40 +0200</pubDate>
+      <dc:date>2019-04-14T10:25:40.198694+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Noto Sondaggi for Rai 3, 26 March 2019 – Seat Projections for the Parties</title>
@@ -360,14 +400,54 @@
       <dc:date>2019-04-08T13:32:29.011572+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by EMG Acqua for Rai 3, 26 March 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-03-26-EMGAcqua.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 17–20 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 14–18 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 24–28 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 7–9 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 0–5 seats&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Noi con l’Italia (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Potere al Popolo (GUE/NGL): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-03-26-EMGAcqua-seats.png"
+        length="181353"
+        type="image/png"/>
+      <pubDate>Sun, 14 Apr 2019 10:40:48 +0200</pubDate>
+      <dc:date>2019-04-14T10:40:48.321798+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by EMG Acqua for Rai 3, 26 March 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-03-26-EMGAcqua.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-03-26-EMGAcqua-coalitions-seats.png"
+        length="146288"
+        type="image/png"/>
+      <pubDate>Sun, 14 Apr 2019 10:40:48 +0200</pubDate>
+      <dc:date>2019-04-14T10:40:48.321798+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by EMG Acqua for Rai 3, 26 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-03-26-EMGAcqua.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 21.0–24.9%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 19.3–23.0%&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 29.7–34.0%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 8.2–10.9%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 4.0–6.0%&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 2.3–3.9%&lt;/li&gt;&lt;li&gt;Noi con l’Italia (EPP): 0.3–1.1%&lt;/li&gt;&lt;li&gt;Potere al Popolo (GUE/NGL): 1.1–2.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-03-26-EMGAcqua.png"
         length="212920"
         type="image/png"/>
-      <pubDate>Sat, 06 Apr 2019 16:53:44 +0200</pubDate>
-      <dc:date>2019-04-06T16:53:44.483441+02:00</dc:date>
+      <pubDate>Sun, 14 Apr 2019 10:40:48 +0200</pubDate>
+      <dc:date>2019-04-14T10:40:48.321798+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Scenari Politici–Winpoll, 22–25 March 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-03-25-ScenariPolitici–Winpoll.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 15–19 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 15–19 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 28–33 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 7–9 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 0–4 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 0–3 seats&lt;/li&gt;&lt;li&gt;Potere al Popolo (GUE/NGL): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-03-25-ScenariPolitici–Winpoll-seats.png"
+        length="181610"
+        type="image/png"/>
+      <pubDate>Sun, 14 Apr 2019 10:54:21 +0200</pubDate>
+      <dc:date>2019-04-14T10:54:21.201005+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Scenari Politici–Winpoll, 22–25 March 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-03-25-ScenariPolitici–Winpoll.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-03-25-ScenariPolitici–Winpoll-coalitions-seats.png"
+        length="146111"
+        type="image/png"/>
+      <pubDate>Sun, 14 Apr 2019 10:54:21 +0200</pubDate>
+      <dc:date>2019-04-14T10:54:21.201005+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Scenari Politici–Winpoll, 22–25 March 2019 – Voting Intentions</title>
@@ -376,8 +456,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-03-25-ScenariPolitici–Winpoll.png"
         length="221147"
         type="image/png"/>
-      <pubDate>Sat, 06 Apr 2019 17:39:59 +0200</pubDate>
-      <dc:date>2019-04-06T17:39:59.21833+02:00</dc:date>
+      <pubDate>Sun, 14 Apr 2019 10:54:21 +0200</pubDate>
+      <dc:date>2019-04-14T10:54:21.201005+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SWG for LA7, 20–25 March 2019 – Seat Projections for the Parties</title>
@@ -440,14 +520,34 @@
       <dc:date>2019-03-24T14:57:48.206279+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Piepoli for Rai 1, 21 March 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-03-21-Piepoli.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 16–22 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 12–19 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 22–29 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 7–12 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 0–6 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 0–4 seats&lt;/li&gt;&lt;li&gt;Noi con l’Italia (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-03-21-Piepoli-seats.png"
+        length="208531"
+        type="image/png"/>
+      <pubDate>Sun, 14 Apr 2019 11:06:50 +0200</pubDate>
+      <dc:date>2019-04-14T11:06:50.358064+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Piepoli for Rai 1, 21 March 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-03-21-Piepoli.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-03-21-Piepoli-coalitions-seats.png"
+        length="179087"
+        type="image/png"/>
+      <pubDate>Sun, 14 Apr 2019 11:06:50 +0200</pubDate>
+      <dc:date>2019-04-14T11:06:50.358064+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Piepoli for Rai 1, 21 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-03-21-Piepoli.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 19.5–26.9%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 16.7–23.7%&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 27.1–35.2%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 9.1–14.7%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 3.1–6.8%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 1.1–3.6%&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 1.8–4.9%&lt;/li&gt;&lt;li&gt;Noi con l’Italia (EPP): 0.2–1.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-03-21-Piepoli.png"
         length="211730"
         type="image/png"/>
-      <pubDate>Sat, 06 Apr 2019 17:51:49 +0200</pubDate>
-      <dc:date>2019-04-06T17:51:49.517644+02:00</dc:date>
+      <pubDate>Sun, 14 Apr 2019 11:06:50 +0200</pubDate>
+      <dc:date>2019-04-14T11:06:50.358064+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Euromedia for Rai 1, 20–21 March 2019 – Seat Projections for the Parties</title>
@@ -640,14 +740,34 @@
       <dc:date>2019-04-08T16:13:01.690496+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Demos &amp; Pi for La Repubblica, 11–13 March 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-03-13-DemosPi.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 17–21 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 12–17 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 25–31 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6–10 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 0–5 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-03-13-DemosPi-seats.png"
+        length="182786"
+        type="image/png"/>
+      <pubDate>Sun, 14 Apr 2019 11:17:19 +0200</pubDate>
+      <dc:date>2019-04-14T11:17:19.630945+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demos &amp; Pi for La Repubblica, 11–13 March 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-03-13-DemosPi.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-03-13-DemosPi-coalitions-seats.png"
+        length="160244"
+        type="image/png"/>
+      <pubDate>Sun, 14 Apr 2019 11:17:19 +0200</pubDate>
+      <dc:date>2019-04-14T11:17:19.630945+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Demos &amp; Pi for La Repubblica, 11–13 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-03-13-DemosPi.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 20.7–25.9%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 16.7–21.6%&lt;/li&gt;&lt;li&gt;Lega Nord (ENF): 31.6–37.4%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 7.9–11.5%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 3.1–5.6%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 1.8–3.8%&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 1.7–3.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-03-13-DemosPi.png"
         length="184343"
         type="image/png"/>
-      <pubDate>Sat, 06 Apr 2019 17:59:26 +0200</pubDate>
-      <dc:date>2019-04-06T17:59:26.358922+02:00</dc:date>
+      <pubDate>Sun, 14 Apr 2019 11:17:19 +0200</pubDate>
+      <dc:date>2019-04-14T11:17:19.630945+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Demopolis, 12–13 March 2019 – Seat Projections for the Parties</title>
@@ -9179,6 +9299,6 @@
       <pubDate>Tue, 10 Apr 2018 21:24:48 +0200</pubDate>
       <dc:date>2018-04-10T21:24:48.959229+02:00</dc:date>
     </item>
-    <dc:date>2019-04-10T21:59:51.790016+02:00</dc:date>
+    <dc:date>2019-04-14T11:17:19.630945+02:00</dc:date>
   </channel>
 </rss>
