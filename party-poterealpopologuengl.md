@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.7% | 1.0–2.4% | 0.9–2.6% | 0.7–2.8% | 0.6–3.2% |
+| N/A | [Poll Average](average.html) | 1.4% | 1.0–2.0% | 0.8–2.1% | 0.7–2.3% | 0.6–2.6% |
 | [4 April 2019](2019-04-04-IndexResearch.html) | Index Research <br> LA7 | 1.5% | 1.1–2.2% | 1.0–2.4% | 0.9–2.6% | 0.7–3.0% |
 | [3 April 2019](2019-04-03-TermometroPolitico.html) | Termometro Politico | 1.1% | 0.9–1.4% | 0.9–1.4% | 0.8–1.5% | 0.7–1.6% |
 | [3 April 2019](2019-04-03-Piepoli.html) | Piepoli <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
@@ -365,12 +365,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.5% | 100% | Last Result |
-| 0.5–1.5% | 39% | 99.5% |  |
-| 1.5–2.5% | 54% | 61% | Median |
-| 2.5–3.5% | 6% | 6% |  |
-| 3.5–4.5% | 0.1% | 0.1% |  |
-| 4.5–5.5% | 0% | 0% |  |
+| 0.0–0.5% | 0.4% | 100% | Last Result |
+| 0.5–1.5% | 64% | 99.6% | Median |
+| 1.5–2.5% | 35% | 36% |  |
+| 2.5–3.5% | 0.8% | 0.8% |  |
+| 3.5–4.5% | 0% | 0% |  |
 
 
 ## Seats
