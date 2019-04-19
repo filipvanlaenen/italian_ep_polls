@@ -10,7 +10,13 @@ Last result: **6.2%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 32.4% | 30.3–35.3% | 29.5–36.2% | 28.8–36.8% | 27.4–38.0% |
+| N/A | [Poll Average](average.html) | 32.2% | 30.0–34.9% | 29.1–35.7% | 28.4–36.3% | 26.9–37.5% |
+| [9 April 2019](2019-04-09-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 32.5% | N/A | N/A | N/A | N/A |
+| [9 April 2019](2019-04-09-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 31.4% | N/A | N/A | N/A | N/A |
+| [7–8 April 2019](2019-04-08-Tecnè.html) | Tecnè <br> Quarta Repubblica | 31.9% | N/A | N/A | N/A | N/A |
+| [5–8 April 2019](2019-04-08-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 35.7% | N/A | N/A | N/A | N/A |
+| [3–8 April 2019](2019-04-08-SWG.html) | SWG <br> LA7 | 31.8% | N/A | N/A | N/A | N/A |
+| [2–4 April 2019](2019-04-04-Ipsos.html) | Ipsos <br> Corriere della Sera | 35.7% | N/A | N/A | N/A | N/A |
 | [4 April 2019](2019-04-04-IndexResearch.html) | Index Research <br> LA7 | 33.6% | 31.5–35.8% | 30.9–36.4% | 30.4–37.0% | 29.4–38.0% |
 | [3 April 2019](2019-04-03-TermometroPolitico.html) | Termometro Politico | 31.9% | 31.0–32.9% | 30.7–33.1% | 30.5–33.4% | 30.0–33.8% |
 | [3 April 2019](2019-04-03-Piepoli.html) | Piepoli <br> Rai 1 | 30.6% | 28.0–33.3% | 27.3–34.0% | 26.7–34.7% | 25.5–36.0% |
@@ -384,21 +390,21 @@ The following table shows the probability mass function per percentage block of 
 | 21.5–22.5% | 0% | 100% |  |
 | 22.5–23.5% | 0% | 100% |  |
 | 23.5–24.5% | 0% | 100% |  |
-| 24.5–25.5% | 0% | 100% |  |
-| 25.5–26.5% | 0.1% | 100% |  |
-| 26.5–27.5% | 0.4% | 99.8% |  |
-| 27.5–28.5% | 1.2% | 99.4% |  |
-| 28.5–29.5% | 3% | 98% |  |
-| 29.5–30.5% | 8% | 95% |  |
-| 30.5–31.5% | 17% | 87% |  |
-| 31.5–32.5% | 23% | 70% | Median |
-| 32.5–33.5% | 18% | 46% |  |
-| 33.5–34.5% | 12% | 28% |  |
-| 34.5–35.5% | 8% | 16% |  |
-| 35.5–36.5% | 5% | 8% |  |
-| 36.5–37.5% | 2% | 3% |  |
-| 37.5–38.5% | 0.8% | 0.9% |  |
-| 38.5–39.5% | 0.1% | 0.2% |  |
+| 24.5–25.5% | 0.1% | 100% |  |
+| 25.5–26.5% | 0.2% | 99.9% |  |
+| 26.5–27.5% | 0.7% | 99.7% |  |
+| 27.5–28.5% | 2% | 99.0% |  |
+| 28.5–29.5% | 4% | 97% |  |
+| 29.5–30.5% | 9% | 93% |  |
+| 30.5–31.5% | 18% | 84% |  |
+| 31.5–32.5% | 24% | 66% | Median |
+| 32.5–33.5% | 18% | 42% |  |
+| 33.5–34.5% | 12% | 25% |  |
+| 34.5–35.5% | 7% | 13% |  |
+| 35.5–36.5% | 4% | 6% |  |
+| 36.5–37.5% | 1.4% | 2% |  |
+| 37.5–38.5% | 0.4% | 0.5% |  |
+| 38.5–39.5% | 0.1% | 0.1% |  |
 | 39.5–40.5% | 0% | 0% |  |
 
 
@@ -410,7 +416,13 @@ Last result: **5** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25 | 23–28 | 22–29 | 22–30 | 21–31 |
+| N/A | [Poll Average](average.html) | 25 | 23–28 | 22–28 | 22–29 | 21–30 |
+| [9 April 2019](2019-04-09-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 |  |  |  |  |  |
+| [9 April 2019](2019-04-09-EMGAcqua.html) | EMG Acqua <br> Rai 3 |  |  |  |  |  |
+| [7–8 April 2019](2019-04-08-Tecnè.html) | Tecnè <br> Quarta Repubblica |  |  |  |  |  |
+| [5–8 April 2019](2019-04-08-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll |  |  |  |  |  |
+| [3–8 April 2019](2019-04-08-SWG.html) | SWG <br> LA7 |  |  |  |  |  |
+| [2–4 April 2019](2019-04-04-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
 | [4 April 2019](2019-04-04-IndexResearch.html) | Index Research <br> LA7 | 27 | 26–29 | 25–29 | 24–30 | 23–30 |
 | [3 April 2019](2019-04-03-TermometroPolitico.html) | Termometro Politico | 26 | 25–27 | 25–27 | 25–28 | 24–28 |
 | [3 April 2019](2019-04-03-Piepoli.html) | Piepoli <br> Rai 1 | 23 | 22–25 | 21–26 | 21–27 | 20–29 |
@@ -782,19 +794,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 0% | 100% |  |
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
-| 20 | 0.2% | 100% |  |
-| 21 | 2% | 99.8% |  |
-| 22 | 5% | 98% |  |
-| 23 | 12% | 93% |  |
-| 24 | 18% | 81% |  |
-| 25 | 17% | 63% | Median |
-| 26 | 17% | 45% |  |
-| 27 | 14% | 29% |  |
-| 28 | 7% | 15% |  |
-| 29 | 5% | 8% |  |
-| 30 | 2% | 3% |  |
-| 31 | 1.4% | 2% |  |
-| 32 | 0.1% | 0.2% |  |
-| 33 | 0% | 0% |  |
+| 20 | 0.3% | 100% |  |
+| 21 | 2% | 99.7% |  |
+| 22 | 6% | 98% |  |
+| 23 | 13% | 92% |  |
+| 24 | 16% | 79% |  |
+| 25 | 16% | 63% | Median |
+| 26 | 18% | 47% |  |
+| 27 | 17% | 29% |  |
+| 28 | 9% | 13% |  |
+| 29 | 3% | 4% |  |
+| 30 | 0.8% | 1.0% |  |
+| 31 | 0.2% | 0.2% |  |
+| 32 | 0% | 0% |  |
 
 
