@@ -390,22 +390,22 @@ Last result: **17** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 14–19 | 14–20 | 14–20 | 13–21 |
-| [4 April 2019](2019-04-04-IndexResearch.html) | Index Research <br> LA7 | 19 | 14–19 | 14–19 | 14–19 | 14–20 |
-| [3 April 2019](2019-04-03-TermometroPolitico.html) | Termometro Politico | 16 | 16–19 | 16–19 | 16–20 | 16–20 |
-| [3 April 2019](2019-04-03-Piepoli.html) | Piepoli <br> Rai 1 | 17 | 17 | 17 | 17 | 17–18 |
-| [3 April 2019](2019-04-03-Euromedia.html) | Euromedia <br> Rai 1 | 14 | 13–16 | 13–16 | 13–17 | 13–18 |
+| N/A | [Poll Average](average.html) | 17 | 15–19 | 14–19 | 14–20 | 13–20 |
+| [4 April 2019](2019-04-04-IndexResearch.html) | Index Research <br> LA7 | 17 | 16–19 | 15–19 | 15–20 | 14–20 |
+| [3 April 2019](2019-04-03-TermometroPolitico.html) | Termometro Politico | 18 | 17–18 | 16–18 | 16–19 | 16–19 |
+| [3 April 2019](2019-04-03-Piepoli.html) | Piepoli <br> Rai 1 | 17 | 16–20 | 15–20 | 15–20 | 14–21 |
+| [3 April 2019](2019-04-03-Euromedia.html) | Euromedia <br> Rai 1 | 15 | 13–16 | 13–17 | 13–17 | 12–18 |
 | [2 April 2019](2019-04-02-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 16 | 15–18 | 14–18 | 14–18 | 14–19 |
-| [2 April 2019](2019-04-02-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 19 | 17–20 | 17–20 | 16–20 | 16–20 |
+| [2 April 2019](2019-04-02-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 17 | 17–18 | 17–19 | 16–19 | 16–20 |
 | [31 March–1 April 2019](2019-04-01-Tecnè.html) | Tecnè <br> Quarta Repubblica | 15 | 14–17 | 14–17 | 13–18 | 13–18 |
-| [27 March–1 April 2019](2019-04-01-SWG.html) | SWG <br> LA7 | 18 | 16–18 | 16–19 | 16–19 | 16–19 |
+| [27 March–1 April 2019](2019-04-01-SWG.html) | SWG <br> LA7 | 17 | 16–19 | 16–19 | 16–19 | 15–20 |
 | [29–30 March 2019](2019-03-30-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 18 | 17–19 | 16–20 | 16–20 | 15–21 |
 | [28 March 2019](2019-03-28-Tecnè.html) | Tecnè <br> TGcom24 | 16 | 16 | 16–18 | 15–18 | 13–19 |
 | [26–27 March 2019](2019-03-27-IndexResearch.html) | Index Research <br> LA7 | 19 | 18–19 | 16–19 | 16–19 | 15–19 |
-| [26–27 March 2019](2019-03-27-Demopolis.html) | Demopolis | 17 | 16–17 | 16–17 | 16–17 | 14–19 |
+| [26–27 March 2019](2019-03-27-Demopolis.html) | Demopolis | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
 | [26 March 2019](2019-03-26-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 20 | 18–20 | 15–20 | 15–20 | 15–20 |
 | [26 March 2019](2019-03-26-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 19 | 18–19 | 18–19 | 17–19 | 17–20 |
-| [22–25 March 2019](2019-03-25-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 17 | 17 | 16–17 | 16–17 | 16–19 |
+| [22–25 March 2019](2019-03-25-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [20–25 March 2019](2019-03-25-SWG.html) | SWG <br> LA7 | 17 | 16–20 | 16–20 | 16–20 | 16–20 |
 | [20–21 March 2019](2019-03-21-Tecnè.html) | Tecnè <br> Rete 4 | 14 | 14 | 14 | 13–14 | 12–14 |
 | [21 March 2019](2019-03-21-Piepoli.html) | Piepoli <br> Rai 1 | 18 | 18 | 18–19 | 18–19 | 15–19 |
@@ -416,7 +416,7 @@ Last result: **17** seats (General Election of 25 May 2014)
 | [17–18 March 2019](2019-03-18-Tecnè.html) | Tecnè <br> Quarta Repubblica and Rete 4 | 16 | 15–17 | 15–17 | 15–17 | 15–17 |
 | [13–18 March 2019](2019-03-18-SWG.html) | SWG <br> LA7 | 18 | 18 | 18 | 17–18 | 15–18 |
 | [12–13 March 2019](2019-03-13-IndexResearch.html) | Index Research <br> LA7 | 19 | 16–19 | 16–19 | 16–19 | 15–19 |
-| [11–13 March 2019](2019-03-13-DemosPi.html) | Demos & Pi <br> La Repubblica | 18 | 17–21 | 16–21 | 16–21 | 16–22 |
+| [11–13 March 2019](2019-03-13-DemosPi.html) | Demos & Pi <br> La Repubblica | 18 | 17–20 | 16–20 | 16–21 | 15–21 |
 | [12–13 March 2019](2019-03-13-Demopolis.html) | Demopolis | 17 | 16–18 | 15–19 | 15–20 | 14–20 |
 | [12 March 2019](2019-03-12-Piepoli.html) | Piepoli | 20 | 20 | 20 | 20 | 18–20 |
 | [12 March 2019](2019-03-12-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 17 | 17 | 17 | 17 | 14–17 |
@@ -747,16 +747,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 0% | 100% |  |
-| 13 | 2% | 99.9% |  |
-| 14 | 8% | 98% |  |
-| 15 | 5% | 90% |  |
-| 16 | 19% | 84% |  |
-| 17 | 32% | 65% | Last Result, Median |
-| 18 | 15% | 33% |  |
-| 19 | 12% | 18% |  |
-| 20 | 5% | 7% |  |
-| 21 | 2% | 2% |  |
+| 12 | 0.1% | 100% |  |
+| 13 | 1.4% | 99.9% |  |
+| 14 | 5% | 98% |  |
+| 15 | 11% | 93% |  |
+| 16 | 21% | 82% |  |
+| 17 | 29% | 61% | Last Result, Median |
+| 18 | 20% | 33% |  |
+| 19 | 10% | 12% |  |
+| 20 | 2% | 3% |  |
+| 21 | 0.3% | 0.4% |  |
 | 22 | 0.1% | 0.1% |  |
 | 23 | 0% | 0% |  |
 
