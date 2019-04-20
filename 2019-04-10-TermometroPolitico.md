@@ -1,46 +1,46 @@
-# Opinion Poll by SWG for LA7, 10–15 April 2019
+# Opinion Poll by Termometro Politico, 2–10 April 2019
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#coalitions">Coalitions</a> | <a href="#technical-information">Technical Information</a></p>
 
 ## Voting Intentions
 
-![Graph with voting intentions not yet produced](2019-04-15-SWG.png "Voting Intentions")
+![Graph with voting intentions not yet produced](2019-04-10-TermometroPolitico.png "Voting Intentions")
 
 ### Confidence Intervals
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Lega Nord (EAPN) | 6.2% | 32.3% | 30.7–33.9% |30.3–34.3% |29.9–34.7% |29.2–35.5% |
-| Movimento 5 Stelle (EFDD) | 21.2% | 22.5% | 21.2–24.0% |20.8–24.4% |20.5–24.7% |19.9–25.4% |
-| Partito Democratico (S&D) | 40.8% | 21.5% | 20.2–23.0% |19.8–23.4% |19.5–23.7% |18.9–24.4% |
-| Forza Italia (EPP) | 16.8% | 8.9% | 8.0–10.0% |7.8–10.2% |7.6–10.5% |7.2–11.0% |
-| Fratelli d’Italia (ECR) | 3.7% | 4.8% | 4.2–5.6% |4.0–5.8% |3.8–6.0% |3.5–6.4% |
-| Più Europa (ALDE) | 0.0% | 3.3% | 2.8–4.0% |2.7–4.2% |2.5–4.4% |2.3–4.7% |
-| Liberi e Uguali (S&D) | 0.0% | 2.9% | 2.4–3.6% |2.3–3.8% |2.2–3.9% |2.0–4.3% |
+| Lega Nord (EAPN) | 6.2% | 32.0% | 30.5–33.6% |30.1–34.0% |29.7–34.4% |29.0–35.2% |
+| Movimento 5 Stelle (EFDD) | 21.2% | 22.6% | 21.2–24.0% |20.9–24.4% |20.5–24.8% |19.9–25.5% |
+| Partito Democratico (S&D) | 40.8% | 21.7% | 20.4–23.2% |20.0–23.5% |19.7–23.9% |19.1–24.6% |
+| Forza Italia (EPP) | 16.8% | 9.8% | 8.9–10.9% |8.6–11.2% |8.4–11.4% |8.0–11.9% |
+| Fratelli d’Italia (ECR) | 3.7% | 5.6% | 4.9–6.4% |4.7–6.7% |4.5–6.9% |4.2–7.3% |
+| Più Europa (ALDE) | 0.0% | 3.0% | 2.5–3.7% |2.4–3.8% |2.2–4.0% |2.0–4.3% |
+| Liberi e Uguali (S&D) | 0.0% | 2.3% | 1.9–2.9% |1.8–3.1% |1.7–3.2% |1.5–3.5% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
 ## Seats
 
-![Graph with seats not yet produced](2019-04-15-SWG-seats.png "Seats")
+![Graph with seats not yet produced](2019-04-10-TermometroPolitico-seats.png "Seats")
 
 ### Confidence Intervals
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#lega-nord-(eapn)">Lega Nord (EAPN)</a> | 5 | 26 | 24–27 |24–28 |24–28 |23–29 |
-| <a href="#movimento-5-stelle-(efdd)">Movimento 5 Stelle (EFDD)</a> | 17 | 18 | 17–19 |16–20 |16–20 |16–21 |
-| <a href="#partito-democratico-(s&d)">Partito Democratico (S&D)</a> | 31 | 16 | 15–18 |15–18 |14–18 |14–19 |
-| <a href="#forza-italia-(epp)">Forza Italia (EPP)</a> | 13 | 7 | 6–8 |6–8 |6–8 |6–9 |
-| <a href="#fratelli-d’italia-(ecr)">Fratelli d’Italia (ECR)</a> | 0 | 4 | 3–4 |0–5 |0–5 |0–5 |
-| <a href="#più-europa-(alde)">Più Europa (ALDE)</a> | 0 | 0 | 0–3 |0–3 |0–3 |0–4 |
-| <a href="#liberi-e-uguali-(s&d)">Liberi e Uguali (S&D)</a> | 0 | 0 | 0 |0 |0 |0–3 |
+| <a href="#lega-nord-(eapn)">Lega Nord (EAPN)</a> | 5 | 25 | 24–27 |24–27 |23–27 |23–28 |
+| <a href="#movimento-5-stelle-(efdd)">Movimento 5 Stelle (EFDD)</a> | 17 | 18 | 17–19 |17–19 |16–20 |16–20 |
+| <a href="#partito-democratico-(s&d)">Partito Democratico (S&D)</a> | 31 | 16 | 15–17 |15–18 |15–18 |14–18 |
+| <a href="#forza-italia-(epp)">Forza Italia (EPP)</a> | 13 | 8 | 7–9 |7–9 |7–9 |6–9 |
+| <a href="#fratelli-d’italia-(ecr)">Fratelli d’Italia (ECR)</a> | 0 | 4 | 4–5 |4–5 |4–5 |3–6 |
+| <a href="#più-europa-(alde)">Più Europa (ALDE)</a> | 0 | 0 | 0 |0 |0 |0–3 |
+| <a href="#liberi-e-uguali-(s&d)">Liberi e Uguali (S&D)</a> | 0 | 0 | 0 |0 |0 |0 |
 
 ### Lega Nord (EAPN)
 
 *For a full overview of the results for this party, see the [Lega Nord (EAPN)](party-leganordeapn.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-04-15-SWG-seats-pmf-leganordeapn.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-04-10-TermometroPolitico-seats-pmf-leganordeapn.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -63,47 +63,45 @@
 | 21 | 0% | 100% |  |
 | 22 | 0.2% | 100% |  |
 | 23 | 2% | 99.8% |  |
-| 24 | 9% | 98% |  |
-| 25 | 29% | 89% |  |
-| 26 | 26% | 60% | Median |
-| 27 | 24% | 34% |  |
-| 28 | 8% | 9% |  |
-| 29 | 1.0% | 1.1% |  |
-| 30 | 0% | 0% |  |
+| 24 | 15% | 97% |  |
+| 25 | 44% | 82% | Median |
+| 26 | 24% | 38% |  |
+| 27 | 13% | 14% |  |
+| 28 | 0.6% | 0.7% |  |
+| 29 | 0% | 0% |  |
 
 ### Movimento 5 Stelle (EFDD)
 
 *For a full overview of the results for this party, see the [Movimento 5 Stelle (EFDD)](party-movimento5stelleefdd.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-04-15-SWG-seats-pmf-movimento5stelleefdd.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-04-10-TermometroPolitico-seats-pmf-movimento5stelleefdd.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 15 | 0.3% | 100% |  |
-| 16 | 5% | 99.6% |  |
-| 17 | 32% | 95% | Last Result |
-| 18 | 31% | 63% | Median |
-| 19 | 23% | 31% |  |
-| 20 | 7% | 8% |  |
-| 21 | 0.7% | 0.7% |  |
+| 15 | 0.2% | 100% |  |
+| 16 | 4% | 99.8% |  |
+| 17 | 22% | 95% | Last Result |
+| 18 | 48% | 73% | Median |
+| 19 | 22% | 25% |  |
+| 20 | 3% | 3% |  |
+| 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |
 
 ### Partito Democratico (S&D)
 
 *For a full overview of the results for this party, see the [Partito Democratico (S&D)](party-partitodemocraticosd.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-04-15-SWG-seats-pmf-partitodemocraticosd.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-04-10-TermometroPolitico-seats-pmf-partitodemocraticosd.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 13 | 0.2% | 100% |  |
-| 14 | 3% | 99.8% |  |
-| 15 | 17% | 97% |  |
-| 16 | 39% | 80% | Median |
-| 17 | 31% | 41% |  |
-| 18 | 8% | 10% |  |
-| 19 | 2% | 2% |  |
-| 20 | 0.1% | 0.1% |  |
+| 14 | 1.2% | 100% |  |
+| 15 | 16% | 98.8% |  |
+| 16 | 38% | 83% | Median |
+| 17 | 38% | 44% |  |
+| 18 | 6% | 6% |  |
+| 19 | 0.4% | 0.4% |  |
+| 20 | 0% | 0% |  |
 | 21 | 0% | 0% |  |
 | 22 | 0% | 0% |  |
 | 23 | 0% | 0% |  |
@@ -120,16 +118,15 @@
 
 *For a full overview of the results for this party, see the [Forza Italia (EPP)](party-forzaitaliaepp.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-04-15-SWG-seats-pmf-forzaitaliaepp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-04-10-TermometroPolitico-seats-pmf-forzaitaliaepp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 0.1% | 100% |  |
-| 6 | 24% | 99.9% |  |
-| 7 | 60% | 76% | Median |
-| 8 | 14% | 16% |  |
-| 9 | 2% | 2% |  |
-| 10 | 0% | 0% |  |
+| 6 | 1.1% | 100% |  |
+| 7 | 30% | 98.9% |  |
+| 8 | 50% | 69% | Median |
+| 9 | 19% | 19% |  |
+| 10 | 0.2% | 0.2% |  |
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |
 | 13 | 0% | 0% | Last Result |
@@ -138,65 +135,60 @@
 
 *For a full overview of the results for this party, see the [Fratelli d’Italia (ECR)](party-fratellid’italiaecr.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-04-15-SWG-seats-pmf-fratellid’italiaecr.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-04-10-TermometroPolitico-seats-pmf-fratellid’italiaecr.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 7% | 100% | Last Result |
-| 1 | 0% | 93% |  |
-| 2 | 0% | 93% |  |
-| 3 | 12% | 93% |  |
-| 4 | 75% | 82% | Median |
-| 5 | 7% | 7% |  |
-| 6 | 0.1% | 0.1% |  |
+| 0 | 0.3% | 100% | Last Result |
+| 1 | 0% | 99.7% |  |
+| 2 | 0% | 99.7% |  |
+| 3 | 2% | 99.7% |  |
+| 4 | 53% | 98% | Median |
+| 5 | 43% | 45% |  |
+| 6 | 2% | 2% |  |
 | 7 | 0% | 0% |  |
 
 ### Più Europa (ALDE)
 
 *For a full overview of the results for this party, see the [Più Europa (ALDE)](party-piùeuropaalde.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-04-15-SWG-seats-pmf-piùeuropaalde.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-04-10-TermometroPolitico-seats-pmf-piùeuropaalde.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 89% | 100% | Last Result, Median |
-| 1 | 0% | 11% |  |
-| 2 | 0% | 11% |  |
-| 3 | 9% | 11% |  |
-| 4 | 2% | 2% |  |
+| 0 | 98% | 100% | Last Result, Median |
+| 1 | 0% | 2% |  |
+| 2 | 0% | 2% |  |
+| 3 | 1.5% | 2% |  |
+| 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 
 ### Liberi e Uguali (S&D)
 
 *For a full overview of the results for this party, see the [Liberi e Uguali (S&D)](party-liberieugualisd.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-04-15-SWG-seats-pmf-liberieugualisd.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-04-10-TermometroPolitico-seats-pmf-liberieugualisd.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98.6% | 100% | Last Result, Median |
-| 1 | 0% | 1.4% |  |
-| 2 | 0% | 1.4% |  |
-| 3 | 1.3% | 1.4% |  |
-| 4 | 0.1% | 0.1% |  |
-| 5 | 0% | 0% |  |
+| 0 | 100% | 100% | Last Result, Median |
 
 
 ## Coalitions
 
-![Graph with coalitions seats not yet produced](2019-04-15-SWG-coalitions-seats.png "Coalitions Seats")
+![Graph with coalitions seats not yet produced](2019-04-10-TermometroPolitico-coalitions-seats.png "Coalitions Seats")
 
 ### Confidence Intervals
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Lega Nord (EAPN) | 5 | 26 | 0% | 24–27 | 24–28 | 24–28 | 23–29 |
-| Movimento 5 Stelle (EFDD) | 17 | 18 | 0% | 17–19 | 16–20 | 16–20 | 16–21 |
-| Partito Democratico (S&D) – Liberi e Uguali (S&D) | 31 | 16 | 0% | 15–18 | 15–18 | 14–18 | 14–19 |
+| Lega Nord (EAPN) | 5 | 25 | 0% | 24–27 | 24–27 | 23–27 | 23–28 |
+| Movimento 5 Stelle (EFDD) | 17 | 18 | 0% | 17–19 | 17–19 | 16–20 | 16–20 |
+| Partito Democratico (S&D) – Liberi e Uguali (S&D) | 31 | 16 | 0% | 15–17 | 15–18 | 15–18 | 14–18 |
 
 ### Lega Nord (EAPN)
 
-![Graph with seats probability mass function not yet produced](2019-04-15-SWG-coalitions-seats-pmf-ln.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-04-10-TermometroPolitico-coalitions-seats-pmf-ln.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -219,43 +211,41 @@
 | 21 | 0% | 100% |  |
 | 22 | 0.2% | 100% |  |
 | 23 | 2% | 99.8% |  |
-| 24 | 9% | 98% |  |
-| 25 | 29% | 89% |  |
-| 26 | 26% | 60% | Median |
-| 27 | 24% | 34% |  |
-| 28 | 8% | 9% |  |
-| 29 | 1.0% | 1.1% |  |
-| 30 | 0% | 0% |  |
+| 24 | 15% | 97% |  |
+| 25 | 44% | 82% | Median |
+| 26 | 24% | 38% |  |
+| 27 | 13% | 14% |  |
+| 28 | 0.6% | 0.7% |  |
+| 29 | 0% | 0% |  |
 
 ### Movimento 5 Stelle (EFDD)
 
-![Graph with seats probability mass function not yet produced](2019-04-15-SWG-coalitions-seats-pmf-m5s.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-04-10-TermometroPolitico-coalitions-seats-pmf-m5s.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 15 | 0.3% | 100% |  |
-| 16 | 5% | 99.6% |  |
-| 17 | 32% | 95% | Last Result |
-| 18 | 31% | 63% | Median |
-| 19 | 23% | 31% |  |
-| 20 | 7% | 8% |  |
-| 21 | 0.7% | 0.7% |  |
+| 15 | 0.2% | 100% |  |
+| 16 | 4% | 99.8% |  |
+| 17 | 22% | 95% | Last Result |
+| 18 | 48% | 73% | Median |
+| 19 | 22% | 25% |  |
+| 20 | 3% | 3% |  |
+| 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |
 
 ### Partito Democratico (S&D) – Liberi e Uguali (S&D)
 
-![Graph with seats probability mass function not yet produced](2019-04-15-SWG-coalitions-seats-pmf-pd–leu.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-04-10-TermometroPolitico-coalitions-seats-pmf-pd–leu.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 13 | 0.2% | 100% |  |
-| 14 | 3% | 99.8% |  |
-| 15 | 17% | 97% |  |
-| 16 | 38% | 80% | Median |
-| 17 | 31% | 42% |  |
-| 18 | 9% | 11% |  |
-| 19 | 2% | 2% |  |
-| 20 | 0.2% | 0.2% |  |
+| 14 | 1.2% | 100% |  |
+| 15 | 16% | 98.8% |  |
+| 16 | 38% | 83% | Median |
+| 17 | 38% | 44% |  |
+| 18 | 6% | 6% |  |
+| 19 | 0.4% | 0.4% |  |
+| 20 | 0% | 0% |  |
 | 21 | 0% | 0% |  |
 | 22 | 0% | 0% |  |
 | 23 | 0% | 0% |  |
@@ -273,13 +263,13 @@
 
 ### Opinion Poll
 
-+ **Polling firm:** SWG
-+ **Commissioner(s):** LA7
-+ **Fieldwork period:** 10–15 April 2019
++ **Polling firm:** Termometro Politico
++ **Commissioner(s):** —
++ **Fieldwork period:** 2–10 April 2019
 
 ### Calculations
 
 + **Sample size:** 1500
 + **Simulations done:** 131,072
-+ **Error estimate:** 1.52%
++ **Error estimate:** 1.02%
 

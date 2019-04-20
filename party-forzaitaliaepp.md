@@ -10,15 +10,15 @@ Last result: **16.8%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.9% | 8.5–12.0% | 8.2–12.7% | 7.9–13.3% | 7.4–14.2% |
+| N/A | [Poll Average](average.html) | 9.9% | 8.6–11.8% | 8.2–12.6% | 7.9–13.1% | 7.4–14.1% |
 | [18 April 2019](2019-04-18-IndexResearch.html) | Index Research <br> LA7 | 9.2% | 8.0–10.7% | 7.7–11.1% | 7.4–11.5% | 6.9–12.2% |
 | [16 April 2019](2019-04-16-Piepoli.html) | Piepoli <br> Rai 1 | 10.5% | 9.0–12.5% | 8.5–13.0% | 8.1–13.5% | 7.4–14.5% |
 | [16 April 2019](2019-04-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
 | [16 April 2019](2019-04-16-Euromedia.html) | Euromedia <br> Rai 1 | 10.6% | 9.3–12.1% | 9.0–12.6% | 8.7–13.0% | 8.1–13.7% |
 | [16 April 2019](2019-04-16-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 9.5% | 8.6–10.4% | 8.4–10.7% | 8.2–10.9% | 7.8–11.4% |
 | [10–15 April 2019](2019-04-15-SWG.html) | SWG <br> LA7 | 8.9% | 8.0–10.0% | 7.8–10.2% | 7.6–10.5% | 7.2–11.0% |
-| [11–12 April 2019](2019-04-12-Quorum.html) | Quorum <br> Sky TG 24 | 9.9% | N/A | N/A | N/A | N/A |
-| [2–10 April 2019](2019-04-10-TermometroPolitico.html) | Termometro Politico | 9.8% | N/A | N/A | N/A | N/A |
+| [11–12 April 2019](2019-04-12-Quorum.html) | Quorum <br> Sky TG 24 | 9.9% | 8.8–11.2% | 8.5–11.6% | 8.2–11.9% | 7.7–12.6% |
+| [2–10 April 2019](2019-04-10-TermometroPolitico.html) | Termometro Politico | 9.8% | 8.9–10.9% | 8.6–11.2% | 8.4–11.4% | 8.0–11.9% |
 | [9 April 2019](2019-04-09-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 9.5% | 8.4–10.8% | 8.1–11.2% | 7.8–11.5% | 7.3–12.1% |
 | [9 April 2019](2019-04-09-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 10.1% | 9.2–11.0% | 9.0–11.3% | 8.8–11.6% | 8.4–12.0% |
 | [7–8 April 2019](2019-04-08-Tecnè.html) | Tecnè <br> Quarta Repubblica | 12.3% | 11.1–13.7% | 10.7–14.1% | 10.4–14.5% | 9.8–15.2% |
@@ -380,15 +380,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.8% | 100% |  |
-| 7.5–8.5% | 10% | 99.1% |  |
+| 6.5–7.5% | 0.7% | 100% |  |
+| 7.5–8.5% | 9% | 99.2% |  |
 | 8.5–9.5% | 28% | 90% |  |
-| 9.5–10.5% | 30% | 61% | Median |
-| 10.5–11.5% | 17% | 32% |  |
-| 11.5–12.5% | 9% | 15% |  |
-| 12.5–13.5% | 4% | 6% |  |
-| 13.5–14.5% | 1.4% | 2% |  |
-| 14.5–15.5% | 0.2% | 0.3% |  |
+| 9.5–10.5% | 32% | 62% | Median |
+| 10.5–11.5% | 17% | 30% |  |
+| 11.5–12.5% | 8% | 13% |  |
+| 12.5–13.5% | 4% | 5% |  |
+| 13.5–14.5% | 1.1% | 1.4% |  |
+| 14.5–15.5% | 0.2% | 0.2% |  |
 | 15.5–16.5% | 0% | 0% |  |
 | 16.5–17.5% | 0% | 0% | Last Result |
 
@@ -401,15 +401,15 @@ Last result: **13** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 6–9 | 6–10 | 6–10 | 6–11 |
-| [18 April 2019](2019-04-18-IndexResearch.html) | Index Research <br> LA7 | 6 | 6–7 | 6–7 | 5–8 | 5–9 |
-| [16 April 2019](2019-04-16-Piepoli.html) | Piepoli <br> Rai 1 | 7 | 6–8 | 6–8 | 5–11 | 5–11 |
-| [16 April 2019](2019-04-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 7 | 7 | 7 | 6–8 | 6–8 |
-| [16 April 2019](2019-04-16-Euromedia.html) | Euromedia <br> Rai 1 | 9 | 7–9 | 7–10 | 7–10 | 7–10 |
-| [16 April 2019](2019-04-16-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 8 | 7–8 | 7–8 | 7–9 | 6–10 |
-| [10–15 April 2019](2019-04-15-SWG.html) | SWG <br> LA7 | 7 | 6–7 | 6–7 | 6–7 | 5–9 |
-| [11–12 April 2019](2019-04-12-Quorum.html) | Quorum <br> Sky TG 24 |  |  |  |  |  |
-| [2–10 April 2019](2019-04-10-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 8 | 7–9 | 6–9 | 6–10 | 6–11 |
+| [18 April 2019](2019-04-18-IndexResearch.html) | Index Research <br> LA7 | 7 | 6–8 | 6–9 | 6–9 | 5–10 |
+| [16 April 2019](2019-04-16-Piepoli.html) | Piepoli <br> Rai 1 | 8 | 7–10 | 7–10 | 6–10 | 6–11 |
+| [16 April 2019](2019-04-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
+| [16 April 2019](2019-04-16-Euromedia.html) | Euromedia <br> Rai 1 | 8 | 7–10 | 7–10 | 7–10 | 6–11 |
+| [16 April 2019](2019-04-16-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 8 | 7–9 | 7–9 | 6–9 | 6–9 |
+| [10–15 April 2019](2019-04-15-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
+| [11–12 April 2019](2019-04-12-Quorum.html) | Quorum <br> Sky TG 24 | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
+| [2–10 April 2019](2019-04-10-TermometroPolitico.html) | Termometro Politico | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
 | [9 April 2019](2019-04-09-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 7 | 6–9 | 6–9 | 6–9 | 6–10 |
 | [9 April 2019](2019-04-09-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
 | [7–8 April 2019](2019-04-08-Tecnè.html) | Tecnè <br> Quarta Repubblica | 9 | 8–10 | 8–10 | 8–11 | 7–11 |
@@ -772,14 +772,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 0.3% | 100% |  |
-| 6 | 10% | 99.7% |  |
-| 7 | 33% | 90% |  |
-| 8 | 33% | 57% | Median |
-| 9 | 18% | 24% |  |
-| 10 | 5% | 6% |  |
-| 11 | 0.8% | 0.9% |  |
-| 12 | 0.1% | 0.1% |  |
+| 5 | 0.2% | 100% |  |
+| 6 | 9% | 99.8% |  |
+| 7 | 31% | 90% |  |
+| 8 | 36% | 60% | Median |
+| 9 | 19% | 24% |  |
+| 10 | 4% | 5% |  |
+| 11 | 0.7% | 0.8% |  |
+| 12 | 0% | 0.1% |  |
 | 13 | 0% | 0% | Last Result |
 
 
