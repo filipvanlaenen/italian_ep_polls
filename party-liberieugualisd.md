@@ -10,13 +10,21 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.3% | 1.7–4.2% | 1.4–4.5% | 1.2–4.8% | 1.0–5.4% |
+| N/A | [Poll Average](average.html) | 2.8% | 1.5–4.2% | 1.3–4.5% | 1.2–4.8% | 1.0–5.4% |
+| [18 April 2019](2019-04-18-IndexResearch.html) | Index Research <br> LA7 | 4.4% | 3.6–5.5% | 3.4–5.8% | 3.2–6.0% | 2.8–6.6% |
+| [16 April 2019](2019-04-16-Piepoli.html) | Piepoli <br> Rai 1 | 3.6% | 2.7–4.9% | 2.5–5.3% | 2.3–5.6% | 1.9–6.3% |
+| [16 April 2019](2019-04-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
+| [16 April 2019](2019-04-16-Euromedia.html) | Euromedia <br> Rai 1 | 3.0% | 2.3–3.9% | 2.2–4.2% | 2.0–4.4% | 1.8–4.9% |
+| [16 April 2019](2019-04-16-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 2.9% | 2.3–3.6% | 2.2–3.7% | 2.2–3.8% | 1.9–4.1% |
+| [10–15 April 2019](2019-04-15-SWG.html) | SWG <br> LA7 | 2.9% | N/A | N/A | N/A | N/A |
+| [11–12 April 2019](2019-04-12-Quorum.html) | Quorum <br> Sky TG 24 | 2.7% | N/A | N/A | N/A | N/A |
+| [2–10 April 2019](2019-04-10-TermometroPolitico.html) | Termometro Politico | 2.3% | N/A | N/A | N/A | N/A |
 | [9 April 2019](2019-04-09-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
 | [9 April 2019](2019-04-09-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
 | [7–8 April 2019](2019-04-08-Tecnè.html) | Tecnè <br> Quarta Repubblica | 0.0% | N/A | N/A | N/A | N/A |
-| [5–8 April 2019](2019-04-08-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 1.7% | N/A | N/A | N/A | N/A |
-| [3–8 April 2019](2019-04-08-SWG.html) | SWG <br> LA7 | 2.9% | N/A | N/A | N/A | N/A |
-| [2–4 April 2019](2019-04-04-Ipsos.html) | Ipsos <br> Corriere della Sera | 2.0% | N/A | N/A | N/A | N/A |
+| [5–8 April 2019](2019-04-08-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 1.7% | 1.4–2.3% | 1.3–2.4% | 1.2–2.5% | 1.0–2.8% |
+| [3–8 April 2019](2019-04-08-SWG.html) | SWG <br> LA7 | 2.9% | 2.4–3.5% | 2.2–3.7% | 2.1–3.8% | 1.9–4.2% |
+| [2–4 April 2019](2019-04-04-Ipsos.html) | Ipsos <br> Corriere della Sera | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [4 April 2019](2019-04-04-IndexResearch.html) | Index Research <br> LA7 | 3.2% | 2.6–4.2% | 2.4–4.5% | 2.2–4.7% | 1.9–5.2% |
 | [3 April 2019](2019-04-03-TermometroPolitico.html) | Termometro Politico | 3.6% | 3.2–4.0% | 3.1–4.1% | 3.1–4.2% | 2.9–4.4% |
 | [3 April 2019](2019-04-03-Piepoli.html) | Piepoli <br> Rai 1 | 3.0% | 2.2–4.2% | 2.0–4.5% | 1.8–4.9% | 1.5–5.5% |
@@ -372,10 +380,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 7% | 100% |  |
-| 1.5–2.5% | 18% | 93% |  |
-| 2.5–3.5% | 40% | 75% | Median |
-| 3.5–4.5% | 30% | 35% |  |
+| 0.5–1.5% | 12% | 100% |  |
+| 1.5–2.5% | 33% | 88% |  |
+| 2.5–3.5% | 29% | 55% | Median |
+| 3.5–4.5% | 21% | 26% |  |
 | 4.5–5.5% | 4% | 5% |  |
 | 5.5–6.5% | 0.4% | 0.4% |  |
 | 6.5–7.5% | 0% | 0% |  |
@@ -390,12 +398,20 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [18 April 2019](2019-04-18-IndexResearch.html) | Index Research <br> LA7 | 4 | 3–4 | 3–4 | 0–4 | 0–5 |
+| [16 April 2019](2019-04-16-Piepoli.html) | Piepoli <br> Rai 1 | 3 | 0–5 | 0–5 | 0–5 | 0–6 |
+| [16 April 2019](2019-04-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
+| [16 April 2019](2019-04-16-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0 | 0–3 |
+| [16 April 2019](2019-04-16-EMGAcqua.html) | EMG Acqua <br> Rai 3 |  |  |  |  |  |
+| [10–15 April 2019](2019-04-15-SWG.html) | SWG <br> LA7 |  |  |  |  |  |
+| [11–12 April 2019](2019-04-12-Quorum.html) | Quorum <br> Sky TG 24 |  |  |  |  |  |
+| [2–10 April 2019](2019-04-10-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [9 April 2019](2019-04-09-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [9 April 2019](2019-04-09-EMGAcqua.html) | EMG Acqua <br> Rai 3 |  |  |  |  |  |
 | [7–8 April 2019](2019-04-08-Tecnè.html) | Tecnè <br> Quarta Repubblica |  |  |  |  |  |
-| [5–8 April 2019](2019-04-08-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll |  |  |  |  |  |
-| [3–8 April 2019](2019-04-08-SWG.html) | SWG <br> LA7 |  |  |  |  |  |
-| [2–4 April 2019](2019-04-04-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
+| [5–8 April 2019](2019-04-08-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 0 | 0 | 0 | 0 | 0 |
+| [3–8 April 2019](2019-04-08-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0–3 |
+| [2–4 April 2019](2019-04-04-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
 | [4 April 2019](2019-04-04-IndexResearch.html) | Index Research <br> LA7 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [3 April 2019](2019-04-03-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0–3 | 0–4 |
 | [3 April 2019](2019-04-03-Piepoli.html) | Piepoli <br> Rai 1 | 0 | 0 | 0–4 | 0–4 | 0–4 |
@@ -752,10 +768,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 87% | 100% | Last Result, Median |
-| 1 | 0% | 13% |  |
-| 2 | 0% | 13% |  |
-| 3 | 8% | 13% |  |
+| 0 | 88% | 100% | Last Result, Median |
+| 1 | 0% | 12% |  |
+| 2 | 0% | 12% |  |
+| 3 | 7% | 12% |  |
 | 4 | 5% | 5% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
