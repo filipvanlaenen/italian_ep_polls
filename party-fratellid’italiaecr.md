@@ -10,13 +10,13 @@ Last result: **3.7%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.8% | 3.8–6.0% | 3.5–6.4% | 3.3–6.7% | 3.0–7.4% |
+| N/A | [Poll Average](average.html) | 4.8% | 3.8–6.0% | 3.6–6.3% | 3.4–6.7% | 3.0–7.3% |
 | [18 April 2019](2019-04-18-IndexResearch.html) | Index Research <br> LA7 | 4.8% | 3.9–5.9% | 3.7–6.2% | 3.5–6.5% | 3.1–7.0% |
 | [16 April 2019](2019-04-16-Piepoli.html) | Piepoli <br> Rai 1 | 5.6% | 4.5–7.1% | 4.1–7.5% | 3.9–7.9% | 3.4–8.7% |
 | [16 April 2019](2019-04-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
 | [16 April 2019](2019-04-16-Euromedia.html) | Euromedia <br> Rai 1 | 5.5% | 4.6–6.7% | 4.3–7.0% | 4.1–7.3% | 3.7–7.9% |
-| [16 April 2019](2019-04-16-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 4.9% | 4.3–5.6% | 4.1–5.9% | 4.0–6.0% | 3.7–6.4% |
-| [10–15 April 2019](2019-04-15-SWG.html) | SWG <br> LA7 | 4.8% | N/A | N/A | N/A | N/A |
+| [16 April 2019](2019-04-16-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 4.9% | 4.3–5.6% | 4.1–5.8% | 4.0–6.0% | 3.7–6.4% |
+| [10–15 April 2019](2019-04-15-SWG.html) | SWG <br> LA7 | 4.8% | 4.2–5.6% | 4.0–5.8% | 3.8–6.0% | 3.5–6.4% |
 | [11–12 April 2019](2019-04-12-Quorum.html) | Quorum <br> Sky TG 24 | 5.1% | N/A | N/A | N/A | N/A |
 | [2–10 April 2019](2019-04-10-TermometroPolitico.html) | Termometro Politico | 5.6% | N/A | N/A | N/A | N/A |
 | [9 April 2019](2019-04-09-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 5.5% | 4.7–6.5% | 4.4–6.8% | 4.3–7.1% | 3.9–7.6% |
@@ -382,9 +382,9 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 5% | 100% |  |
 | 3.5–4.5% | 34% | 95% | Last Result |
-| 4.5–5.5% | 40% | 61% | Median |
-| 5.5–6.5% | 17% | 21% |  |
-| 6.5–7.5% | 3% | 4% |  |
+| 4.5–5.5% | 42% | 62% | Median |
+| 5.5–6.5% | 17% | 20% |  |
+| 6.5–7.5% | 3% | 3% |  |
 | 7.5–8.5% | 0.3% | 0.3% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
@@ -402,8 +402,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [16 April 2019](2019-04-16-Piepoli.html) | Piepoli <br> Rai 1 | 4 | 3–4 | 0–5 | 0–7 | 0–7 |
 | [16 April 2019](2019-04-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [16 April 2019](2019-04-16-Euromedia.html) | Euromedia <br> Rai 1 | 4 | 3–5 | 0–5 | 0–5 | 0–5 |
-| [16 April 2019](2019-04-16-EMGAcqua.html) | EMG Acqua <br> Rai 3 |  |  |  |  |  |
-| [10–15 April 2019](2019-04-15-SWG.html) | SWG <br> LA7 |  |  |  |  |  |
+| [16 April 2019](2019-04-16-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 4 | 4 | 4 | 0–4 | 0–5 |
+| [10–15 April 2019](2019-04-15-SWG.html) | SWG <br> LA7 | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [11–12 April 2019](2019-04-12-Quorum.html) | Quorum <br> Sky TG 24 |  |  |  |  |  |
 | [2–10 April 2019](2019-04-10-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [9 April 2019](2019-04-09-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 5 | 4–5 | 3–5 | 3–5 | 0–6 |
@@ -768,13 +768,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 15% | 100% | Last Result |
-| 1 | 0% | 85% |  |
-| 2 | 0% | 85% |  |
-| 3 | 23% | 85% |  |
-| 4 | 43% | 61% | Median |
-| 5 | 17% | 18% |  |
-| 6 | 1.0% | 1.0% |  |
+| 0 | 14% | 100% | Last Result |
+| 1 | 0% | 86% |  |
+| 2 | 0% | 86% |  |
+| 3 | 21% | 86% |  |
+| 4 | 45% | 65% | Median |
+| 5 | 19% | 20% |  |
+| 6 | 0.9% | 0.9% |  |
 | 7 | 0% | 0% |  |
 
 

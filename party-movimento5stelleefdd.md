@@ -10,13 +10,13 @@ Last result: **21.2%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.5% | 19.3–23.8% | 18.6–24.5% | 18.1–25.0% | 17.1–26.2% |
+| N/A | [Poll Average](average.html) | 21.6% | 19.3–23.8% | 18.7–24.4% | 18.2–25.0% | 17.1–26.2% |
 | [18 April 2019](2019-04-18-IndexResearch.html) | Index Research <br> LA7 | 21.8% | 20.0–23.7% | 19.4–24.3% | 19.0–24.8% | 18.2–25.7% |
 | [16 April 2019](2019-04-16-Piepoli.html) | Piepoli <br> Rai 1 | 22.7% | 20.4–25.2% | 19.8–25.9% | 19.2–26.5% | 18.2–27.8% |
 | [16 April 2019](2019-04-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 20.0% | 18.4–21.7% | 18.0–22.2% | 17.6–22.6% | 16.9–23.4% |
 | [16 April 2019](2019-04-16-Euromedia.html) | Euromedia <br> Rai 1 | 20.8% | 19.0–22.7% | 18.5–23.2% | 18.1–23.7% | 17.3–24.7% |
-| [16 April 2019](2019-04-16-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 22.6% | 21.3–24.0% | 21.0–24.3% | 20.6–24.7% | 20.0–25.2% |
-| [10–15 April 2019](2019-04-15-SWG.html) | SWG <br> LA7 | 22.5% | N/A | N/A | N/A | N/A |
+| [16 April 2019](2019-04-16-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 22.6% | 21.3–23.9% | 21.0–24.2% | 20.7–24.6% | 20.1–25.2% |
+| [10–15 April 2019](2019-04-15-SWG.html) | SWG <br> LA7 | 22.5% | 21.2–24.0% | 20.8–24.4% | 20.5–24.7% | 19.9–25.4% |
 | [11–12 April 2019](2019-04-12-Quorum.html) | Quorum <br> Sky TG 24 | 22.3% | N/A | N/A | N/A | N/A |
 | [2–10 April 2019](2019-04-10-TermometroPolitico.html) | Termometro Politico | 22.6% | N/A | N/A | N/A | N/A |
 | [9 April 2019](2019-04-09-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 20.0% | 18.4–21.7% | 18.0–22.2% | 17.6–22.6% | 16.9–23.4% |
@@ -382,15 +382,15 @@ The following table shows the probability mass function per percentage block of 
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0.2% | 100% |  |
 | 16.5–17.5% | 0.9% | 99.8% |  |
-| 17.5–18.5% | 3% | 98.9% |  |
-| 18.5–19.5% | 9% | 95% |  |
-| 19.5–20.5% | 16% | 87% |  |
-| 20.5–21.5% | 22% | 71% | Last Result, Median |
-| 21.5–22.5% | 22% | 48% |  |
-| 22.5–23.5% | 14% | 27% |  |
-| 23.5–24.5% | 8% | 12% |  |
+| 17.5–18.5% | 3% | 99.0% |  |
+| 18.5–19.5% | 8% | 96% |  |
+| 19.5–20.5% | 15% | 88% |  |
+| 20.5–21.5% | 22% | 73% | Last Result |
+| 21.5–22.5% | 23% | 51% | Median |
+| 22.5–23.5% | 16% | 29% |  |
+| 23.5–24.5% | 8% | 13% |  |
 | 24.5–25.5% | 3% | 4% |  |
-| 25.5–26.5% | 1.0% | 1.3% |  |
+| 25.5–26.5% | 0.9% | 1.2% |  |
 | 26.5–27.5% | 0.2% | 0.3% |  |
 | 27.5–28.5% | 0% | 0.1% |  |
 | 28.5–29.5% | 0% | 0% |  |
@@ -409,8 +409,8 @@ Last result: **17** seats (General Election of 25 May 2014)
 | [16 April 2019](2019-04-16-Piepoli.html) | Piepoli <br> Rai 1 | 16 | 14–18 | 14–20 | 14–20 | 14–20 |
 | [16 April 2019](2019-04-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 17 | 15–18 | 14–18 | 14–18 | 14–18 |
 | [16 April 2019](2019-04-16-Euromedia.html) | Euromedia <br> Rai 1 | 17 | 16–19 | 16–19 | 16–19 | 13–19 |
-| [16 April 2019](2019-04-16-EMGAcqua.html) | EMG Acqua <br> Rai 3 |  |  |  |  |  |
-| [10–15 April 2019](2019-04-15-SWG.html) | SWG <br> LA7 |  |  |  |  |  |
+| [16 April 2019](2019-04-16-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 19 | 18–20 | 18–20 | 16–20 | 16–20 |
+| [10–15 April 2019](2019-04-15-SWG.html) | SWG <br> LA7 | 17 | 17–18 | 16–18 | 16–18 | 16–21 |
 | [11–12 April 2019](2019-04-12-Quorum.html) | Quorum <br> Sky TG 24 |  |  |  |  |  |
 | [2–10 April 2019](2019-04-10-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [9 April 2019](2019-04-09-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 16 | 14–17 | 14–17 | 13–17 | 13–18 |
@@ -775,16 +775,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 0.2% | 100% |  |
+| 12 | 0.1% | 100% |  |
 | 13 | 2% | 99.8% |  |
 | 14 | 6% | 98% |  |
-| 15 | 14% | 92% |  |
-| 16 | 27% | 78% |  |
-| 17 | 24% | 51% | Last Result, Median |
-| 18 | 12% | 26% |  |
-| 19 | 9% | 14% |  |
+| 15 | 13% | 92% |  |
+| 16 | 25% | 80% |  |
+| 17 | 29% | 55% | Last Result, Median |
+| 18 | 12% | 25% |  |
+| 19 | 9% | 13% |  |
 | 20 | 4% | 5% |  |
-| 21 | 0.7% | 1.1% |  |
+| 21 | 0.7% | 1.0% |  |
 | 22 | 0.3% | 0.3% |  |
 | 23 | 0% | 0% |  |
 
