@@ -10,8 +10,8 @@ Last result: **16.8%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.7% | 8.5–11.6% | 8.2–12.2% | 7.9–12.7% | 7.3–13.7% |
-| [9 April 2019](2019-04-09-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 9.5% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 9.7% | 8.5–11.5% | 8.2–12.1% | 7.9–12.6% | 7.3–13.6% |
+| [9 April 2019](2019-04-09-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 9.5% | 8.4–10.8% | 8.1–11.2% | 7.8–11.5% | 7.3–12.1% |
 | [9 April 2019](2019-04-09-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 10.1% | N/A | N/A | N/A | N/A |
 | [7–8 April 2019](2019-04-08-Tecnè.html) | Tecnè <br> Quarta Repubblica | 12.3% | N/A | N/A | N/A | N/A |
 | [5–8 April 2019](2019-04-08-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 9.5% | N/A | N/A | N/A | N/A |
@@ -374,12 +374,12 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0.9% | 100% |  |
 | 7.5–8.5% | 11% | 99.0% |  |
-| 8.5–9.5% | 35% | 89% |  |
-| 9.5–10.5% | 27% | 54% | Median |
-| 10.5–11.5% | 16% | 27% |  |
-| 11.5–12.5% | 7% | 11% |  |
+| 8.5–9.5% | 35% | 88% |  |
+| 9.5–10.5% | 28% | 53% | Median |
+| 10.5–11.5% | 16% | 25% |  |
+| 11.5–12.5% | 7% | 9% |  |
 | 12.5–13.5% | 2% | 3% |  |
-| 13.5–14.5% | 0.6% | 0.7% |  |
+| 13.5–14.5% | 0.5% | 0.6% |  |
 | 14.5–15.5% | 0.1% | 0.1% |  |
 | 15.5–16.5% | 0% | 0% |  |
 | 16.5–17.5% | 0% | 0% | Last Result |
@@ -393,8 +393,8 @@ Last result: **13** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 7–9 | 6–9 | 6–10 | 6–11 |
-| [9 April 2019](2019-04-09-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 8 | 6–9 | 6–9 | 6–10 | 6–11 |
+| [9 April 2019](2019-04-09-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 7 | 6–9 | 6–9 | 6–9 | 6–10 |
 | [9 April 2019](2019-04-09-EMGAcqua.html) | EMG Acqua <br> Rai 3 |  |  |  |  |  |
 | [7–8 April 2019](2019-04-08-Tecnè.html) | Tecnè <br> Quarta Repubblica |  |  |  |  |  |
 | [5–8 April 2019](2019-04-08-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll |  |  |  |  |  |
@@ -757,12 +757,12 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.3% | 100% |  |
-| 6 | 9% | 99.7% |  |
-| 7 | 31% | 91% |  |
-| 8 | 38% | 60% | Median |
-| 9 | 17% | 21% |  |
-| 10 | 4% | 5% |  |
-| 11 | 0.9% | 1.0% |  |
+| 6 | 10% | 99.7% |  |
+| 7 | 36% | 90% |  |
+| 8 | 34% | 54% | Median |
+| 9 | 15% | 20% |  |
+| 10 | 4% | 4% |  |
+| 11 | 0.8% | 0.9% |  |
 | 12 | 0.1% | 0.1% |  |
 | 13 | 0% | 0% | Last Result |
 
