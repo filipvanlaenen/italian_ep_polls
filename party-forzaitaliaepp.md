@@ -407,7 +407,7 @@ Last result: **13** seats (General Election of 25 May 2014)
 | [16 April 2019](2019-04-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | [16 April 2019](2019-04-16-Euromedia.html) | Euromedia <br> Rai 1 | 8 | 7–10 | 7–10 | 7–10 | 6–11 |
 | [16 April 2019](2019-04-16-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
-| [10–15 April 2019](2019-04-15-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
+| [10–15 April 2019](2019-04-15-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [11–12 April 2019](2019-04-12-Quorum.html) | Quorum <br> Sky TG 24 | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | [2–10 April 2019](2019-04-10-TermometroPolitico.html) | Termometro Politico | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
 | [9 April 2019](2019-04-09-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 7 | 6–9 | 6–9 | 6–9 | 6–10 |
@@ -773,10 +773,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.2% | 100% |  |
-| 6 | 10% | 99.8% |  |
+| 6 | 9% | 99.8% |  |
 | 7 | 29% | 90% |  |
-| 8 | 37% | 61% | Median |
-| 9 | 19% | 24% |  |
+| 8 | 38% | 61% | Median |
+| 9 | 18% | 24% |  |
 | 10 | 4% | 5% |  |
 | 11 | 0.8% | 0.8% |  |
 | 12 | 0% | 0.1% |  |

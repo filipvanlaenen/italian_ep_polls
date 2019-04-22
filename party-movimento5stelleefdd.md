@@ -405,10 +405,10 @@ Last result: **17** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17 | 15–19 | 14–20 | 14–20 | 13–21 |
-| [18 April 2019](2019-04-18-IndexResearch.html) | Index Research <br> LA7 | 17 | 15–18 | 15–19 | 14–19 | 14–20 |
+| [18 April 2019](2019-04-18-IndexResearch.html) | Index Research <br> LA7 | 17 | 15–19 | 15–19 | 14–19 | 14–20 |
 | [16 April 2019](2019-04-16-Piepoli.html) | Piepoli <br> Rai 1 | 18 | 16–20 | 15–20 | 15–21 | 14–22 |
 | [16 April 2019](2019-04-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 16 | 14–17 | 14–18 | 14–18 | 13–19 |
-| [16 April 2019](2019-04-16-Euromedia.html) | Euromedia <br> Rai 1 | 16 | 15–18 | 14–18 | 14–19 | 13–19 |
+| [16 April 2019](2019-04-16-Euromedia.html) | Euromedia <br> Rai 1 | 16 | 15–18 | 14–18 | 14–19 | 13–20 |
 | [16 April 2019](2019-04-16-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 18 | 17–19 | 17–19 | 16–20 | 16–20 |
 | [10–15 April 2019](2019-04-15-SWG.html) | SWG <br> LA7 | 18 | 17–19 | 16–20 | 16–20 | 15–21 |
 | [11–12 April 2019](2019-04-12-Quorum.html) | Quorum <br> Sky TG 24 | 17 | 16–19 | 16–19 | 15–20 | 15–20 |
@@ -427,7 +427,7 @@ Last result: **17** seats (General Election of 25 May 2014)
 | [2 April 2019](2019-04-02-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 17 | 17–18 | 17–19 | 16–19 | 16–20 |
 | [31 March–1 April 2019](2019-04-01-Tecnè.html) | Tecnè <br> Quarta Repubblica | 15 | 14–17 | 14–17 | 13–18 | 13–18 |
 | [27 March–1 April 2019](2019-04-01-SWG.html) | SWG <br> LA7 | 17 | 16–19 | 16–19 | 16–19 | 15–20 |
-| [29–30 March 2019](2019-03-30-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 18 | 17–20 | 16–20 | 16–20 | 15–21 |
+| [29–30 March 2019](2019-03-30-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 18 | 17–19 | 16–20 | 16–20 | 15–21 |
 | [28 March 2019](2019-03-28-Tecnè.html) | Tecnè <br> TGcom24 | 16 | 16 | 16–18 | 15–18 | 13–19 |
 | [26–27 March 2019](2019-03-27-IndexResearch.html) | Index Research <br> LA7 | 19 | 18–19 | 16–19 | 16–19 | 15–19 |
 | [26–27 March 2019](2019-03-27-Demopolis.html) | Demopolis | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
@@ -780,11 +780,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 5% | 98% |  |
 | 15 | 11% | 94% |  |
 | 16 | 22% | 83% |  |
-| 17 | 26% | 61% | Last Result, Median |
+| 17 | 26% | 60% | Last Result, Median |
 | 18 | 18% | 35% |  |
 | 19 | 11% | 16% |  |
 | 20 | 4% | 5% |  |
-| 21 | 0.8% | 1.0% |  |
+| 21 | 0.9% | 1.1% |  |
 | 22 | 0.2% | 0.2% |  |
 | 23 | 0% | 0% |  |
 

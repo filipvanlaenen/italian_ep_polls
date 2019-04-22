@@ -426,18 +426,18 @@ Last result: **5** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 25 | 23–29 | 22–29 | 22–30 | 21–31 |
-| [18 April 2019](2019-04-18-IndexResearch.html) | Index Research <br> LA7 | 25 | 23–27 | 23–28 | 22–28 | 21–30 |
+| [18 April 2019](2019-04-18-IndexResearch.html) | Index Research <br> LA7 | 25 | 23–27 | 23–28 | 22–29 | 21–30 |
 | [16 April 2019](2019-04-16-Piepoli.html) | Piepoli <br> Rai 1 | 24 | 22–27 | 22–28 | 21–28 | 20–29 |
 | [16 April 2019](2019-04-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 26 | 24–28 | 24–29 | 23–29 | 23–30 |
 | [16 April 2019](2019-04-16-Euromedia.html) | Euromedia <br> Rai 1 | 26 | 24–28 | 23–28 | 23–29 | 22–30 |
 | [16 April 2019](2019-04-16-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 26 | 24–27 | 24–27 | 24–28 | 23–28 |
 | [10–15 April 2019](2019-04-15-SWG.html) | SWG <br> LA7 | 26 | 24–27 | 24–28 | 23–28 | 23–29 |
-| [11–12 April 2019](2019-04-12-Quorum.html) | Quorum <br> Sky TG 24 | 26 | 24–28 | 24–28 | 24–29 | 23–30 |
-| [2–10 April 2019](2019-04-10-TermometroPolitico.html) | Termometro Politico | 25 | 24–27 | 24–27 | 23–27 | 23–28 |
+| [11–12 April 2019](2019-04-12-Quorum.html) | Quorum <br> Sky TG 24 | 26 | 24–28 | 24–28 | 23–29 | 23–29 |
+| [2–10 April 2019](2019-04-10-TermometroPolitico.html) | Termometro Politico | 25 | 24–27 | 24–27 | 24–27 | 23–28 |
 | [9 April 2019](2019-04-09-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 25 | 24–27 | 23–27 | 23–28 | 22–28 |
 | [9 April 2019](2019-04-09-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 24 | 22–25 | 22–25 | 22–26 | 22–26 |
 | [7–8 April 2019](2019-04-08-Tecnè.html) | Tecnè <br> Quarta Repubblica | 23 | 22–25 | 21–25 | 21–26 | 21–26 |
-| [5–8 April 2019](2019-04-08-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 29 | 27–31 | 27–31 | 27–31 | 26–32 |
+| [5–8 April 2019](2019-04-08-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 29 | 27–30 | 27–31 | 27–31 | 26–32 |
 | [3–8 April 2019](2019-04-08-SWG.html) | SWG <br> LA7 | 26 | 24–27 | 24–27 | 24–28 | 23–28 |
 | [2–4 April 2019](2019-04-04-Ipsos.html) | Ipsos <br> Corriere della Sera | 28 | 27–30 | 26–31 | 26–31 | 25–32 |
 | [4 April 2019](2019-04-04-IndexResearch.html) | Index Research <br> LA7 | 27 | 26–29 | 25–29 | 24–30 | 23–30 |
@@ -448,7 +448,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [2 April 2019](2019-04-02-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 25 | 23–26 | 23–26 | 23–26 | 22–27 |
 | [31 March–1 April 2019](2019-04-01-Tecnè.html) | Tecnè <br> Quarta Repubblica | 23 | 22–25 | 21–25 | 21–26 | 21–26 |
 | [27 March–1 April 2019](2019-04-01-SWG.html) | SWG <br> LA7 | 26 | 24–26 | 24–27 | 24–27 | 23–29 |
-| [29–30 March 2019](2019-03-30-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 25 | 24–27 | 23–27 | 23–28 | 22–29 |
+| [29–30 March 2019](2019-03-30-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 25 | 24–27 | 23–28 | 23–28 | 22–29 |
 | [28 March 2019](2019-03-28-Tecnè.html) | Tecnè <br> TGcom24 | 26 | 26–27 | 22–27 | 21–27 | 20–27 |
 | [26–27 March 2019](2019-03-27-IndexResearch.html) | Index Research <br> LA7 | 25 | 25–27 | 25–28 | 24–29 | 24–33 |
 | [26–27 March 2019](2019-03-27-Demopolis.html) | Demopolis | 24 | 22–25 | 22–25 | 22–26 | 21–26 |
@@ -822,7 +822,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 28 | 8% | 18% |  |
 | 29 | 6% | 10% |  |
 | 30 | 3% | 4% |  |
-| 31 | 1.2% | 1.5% |  |
+| 31 | 1.1% | 1.4% |  |
 | 32 | 0.2% | 0.3% |  |
 | 33 | 0% | 0% |  |
 
