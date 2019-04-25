@@ -11,6 +11,9 @@ Last result: **6.2%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 32.5% | 30.2–35.6% | 29.6–36.5% | 28.9–37.2% | 27.4–38.3% |
+| [23 April 2019](2019-04-23-TermometroPolitico.html) | Termometro Politico | 31.5% | 29.7–33.4% | 29.1–34.0% | 28.7–34.5% | 27.8–35.4% |
+| [17–23 April 2019](2019-04-23-SWG.html) | SWG <br> LA7 | 33.2% | 31.7–34.8% | 31.2–35.2% | 30.8–35.6% | 30.1–36.4% |
+| [22–23 April 2019](2019-04-23-Demopolis.html) | Demopolis | 33.0% | 31.5–34.6% | 31.0–35.0% | 30.7–35.4% | 29.9–36.2% |
 | [18 April 2019](2019-04-18-IndexResearch.html) | Index Research <br> LA7 | 32.9% | 30.8–35.1% | 30.2–35.7% | 29.7–36.2% | 28.7–37.3% |
 | [16 April 2019](2019-04-16-Piepoli.html) | Piepoli <br> Rai 1 | 31.2% | 28.7–34.0% | 27.9–34.7% | 27.3–35.4% | 26.1–36.7% |
 | [16 April 2019](2019-04-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 33.5% | 31.6–35.5% | 31.1–36.0% | 30.6–36.5% | 29.8–37.4% |
@@ -426,6 +429,9 @@ Last result: **5** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 25 | 23–29 | 22–29 | 22–30 | 21–31 |
+| [23 April 2019](2019-04-23-TermometroPolitico.html) | Termometro Politico | 26 | 26 | 25–26 | 25–27 | 25–27 |
+| [17–23 April 2019](2019-04-23-SWG.html) | SWG <br> LA7 | 25 | 25–26 | 25–27 | 25–27 | 24–27 |
+| [22–23 April 2019](2019-04-23-Demopolis.html) | Demopolis | 23 | 22–26 | 22–26 | 22–26 | 22–26 |
 | [18 April 2019](2019-04-18-IndexResearch.html) | Index Research <br> LA7 | 25 | 23–27 | 23–28 | 22–29 | 21–30 |
 | [16 April 2019](2019-04-16-Piepoli.html) | Piepoli <br> Rai 1 | 24 | 22–27 | 22–28 | 21–28 | 20–29 |
 | [16 April 2019](2019-04-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 26 | 24–28 | 24–29 | 23–29 | 23–30 |

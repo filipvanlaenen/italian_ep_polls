@@ -11,6 +11,9 @@ Last result: **3.7%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4.9% | 3.9–6.1% | 3.6–6.4% | 3.4–6.7% | 3.0–7.3% |
+| [23 April 2019](2019-04-23-TermometroPolitico.html) | Termometro Politico | 5.7% | 4.9–6.8% | 4.6–7.1% | 4.4–7.3% | 4.1–7.9% |
+| [17–23 April 2019](2019-04-23-SWG.html) | SWG <br> LA7 | 4.9% | 4.3–5.7% | 4.1–6.0% | 3.9–6.2% | 3.7–6.6% |
+| [22–23 April 2019](2019-04-23-Demopolis.html) | Demopolis | 5.0% | 4.3–5.8% | 4.2–6.0% | 4.0–6.2% | 3.7–6.6% |
 | [18 April 2019](2019-04-18-IndexResearch.html) | Index Research <br> LA7 | 4.8% | 3.9–5.9% | 3.7–6.2% | 3.5–6.5% | 3.1–7.0% |
 | [16 April 2019](2019-04-16-Piepoli.html) | Piepoli <br> Rai 1 | 5.6% | 4.5–7.1% | 4.1–7.5% | 3.9–7.9% | 3.4–8.7% |
 | [16 April 2019](2019-04-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
@@ -398,6 +401,9 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
+| [23 April 2019](2019-04-23-TermometroPolitico.html) | Termometro Politico | 5 | 5 | 5 | 4–5 | 4–5 |
+| [17–23 April 2019](2019-04-23-SWG.html) | SWG <br> LA7 | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
+| [22–23 April 2019](2019-04-23-Demopolis.html) | Demopolis | 4 | 3–4 | 0–4 | 0–4 | 0–5 |
 | [18 April 2019](2019-04-18-IndexResearch.html) | Index Research <br> LA7 | 4 | 0–4 | 0–5 | 0–5 | 0–6 |
 | [16 April 2019](2019-04-16-Piepoli.html) | Piepoli <br> Rai 1 | 4 | 3–6 | 3–6 | 0–6 | 0–7 |
 | [16 April 2019](2019-04-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 5 | 4–6 | 4–6 | 4–6 | 3–6 |

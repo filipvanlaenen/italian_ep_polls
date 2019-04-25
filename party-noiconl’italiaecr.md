@@ -11,6 +11,9 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.6% | 0.3–1.0% | 0.3–1.2% | 0.2–1.4% | 0.2–1.9% |
+| [23 April 2019](2019-04-23-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
+| [17–23 April 2019](2019-04-23-SWG.html) | SWG <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
+| [22–23 April 2019](2019-04-23-Demopolis.html) | Demopolis | 0.0% | N/A | N/A | N/A | N/A |
 | [18 April 2019](2019-04-18-IndexResearch.html) | Index Research <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
 | [16 April 2019](2019-04-16-Piepoli.html) | Piepoli <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
 | [16 April 2019](2019-04-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
@@ -394,6 +397,9 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [23 April 2019](2019-04-23-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [17–23 April 2019](2019-04-23-SWG.html) | SWG <br> LA7 |  |  |  |  |  |
+| [22–23 April 2019](2019-04-23-Demopolis.html) | Demopolis |  |  |  |  |  |
 | [18 April 2019](2019-04-18-IndexResearch.html) | Index Research <br> LA7 |  |  |  |  |  |
 | [16 April 2019](2019-04-16-Piepoli.html) | Piepoli <br> Rai 1 |  |  |  |  |  |
 | [16 April 2019](2019-04-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 |  |  |  |  |  |
