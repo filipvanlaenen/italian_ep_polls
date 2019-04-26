@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 25 Apr 2019 10:28:47 +0200</pubDate>
+    <pubDate>Fri, 26 Apr 2019 20:53:47 +0200</pubDate>
     <item>
       <title>Opinion Poll by Termometro Politico, 23 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-04-23-TermometroPolitico.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-04-23-TermometroPolitico.png"
         length="197559"
         type="image/png"/>
-      <pubDate>Thu, 25 Apr 2019 10:19:34 +0200</pubDate>
-      <dc:date>2019-04-25T10:19:34.472261+02:00</dc:date>
+      <pubDate>Fri, 26 Apr 2019 20:14:13 +0200</pubDate>
+      <dc:date>2019-04-26T20:14:13.251316+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SWG for LA7, 17–23 April 2019 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-04-23-SWG.png"
         length="160405"
         type="image/png"/>
-      <pubDate>Thu, 25 Apr 2019 10:24:47 +0200</pubDate>
-      <dc:date>2019-04-25T10:24:47.776053+02:00</dc:date>
+      <pubDate>Fri, 26 Apr 2019 20:53:47 +0200</pubDate>
+      <dc:date>2019-04-26T20:53:47.052965+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Demopolis, 22–23 April 2019 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-04-23-Demopolis.png"
         length="144371"
         type="image/png"/>
-      <pubDate>Thu, 25 Apr 2019 10:28:47 +0200</pubDate>
-      <dc:date>2019-04-25T10:28:47.976724+02:00</dc:date>
+      <pubDate>Fri, 26 Apr 2019 20:06:44 +0200</pubDate>
+      <dc:date>2019-04-26T20:06:44.726679+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Index Research for LA7, 18 April 2019 – Seat Projections for the Parties</title>
@@ -559,6 +559,6 @@
       <pubDate>Fri, 19 Apr 2019 16:54:42 +0200</pubDate>
       <dc:date>2019-04-19T16:54:42.440052+02:00</dc:date>
     </item>
-    <dc:date>2019-04-25T10:28:47.976724+02:00</dc:date>
+    <dc:date>2019-04-26T20:53:47.052965+02:00</dc:date>
   </channel>
 </rss>
