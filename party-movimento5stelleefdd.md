@@ -408,9 +408,9 @@ Last result: **17** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17 | 15–19 | 14–20 | 14–20 | 13–21 |
-| [23 April 2019](2019-04-23-TermometroPolitico.html) | Termometro Politico | 18 | 18 | 18 | 18 | 17–18 |
-| [17–23 April 2019](2019-04-23-SWG.html) | SWG <br> LA7 | 16 | 16 | 14–16 | 14–16 | 14–16 |
-| [22–23 April 2019](2019-04-23-Demopolis.html) | Demopolis | 17 | 16–17 | 14–18 | 14–18 | 14–18 |
+| [23 April 2019](2019-04-23-TermometroPolitico.html) | Termometro Politico | 19 | 17–20 | 17–20 | 17–20 | 16–21 |
+| [17–23 April 2019](2019-04-23-SWG.html) | SWG <br> LA7 | 16 | 15–17 | 15–17 | 14–17 | 14–18 |
+| [22–23 April 2019](2019-04-23-Demopolis.html) | Demopolis | 16 | 15–17 | 15–17 | 15–18 | 14–18 |
 | [18 April 2019](2019-04-18-IndexResearch.html) | Index Research <br> LA7 | 17 | 15–19 | 15–19 | 14–19 | 14–20 |
 | [16 April 2019](2019-04-16-Piepoli.html) | Piepoli <br> Rai 1 | 18 | 16–20 | 15–20 | 15–21 | 14–22 |
 | [16 April 2019](2019-04-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 16 | 14–17 | 14–18 | 14–18 | 13–19 |
