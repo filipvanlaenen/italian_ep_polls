@@ -16,8 +16,8 @@ Last result: **40.8%** (General Election of 25 May 2014)
 | [22–23 April 2019](2019-04-23-Demopolis.html) | Demopolis | 21.0% | 19.7–22.4% | 19.3–22.8% | 19.0–23.1% | 18.4–23.8% |
 | [19–22 April 2019](2019-04-22-TermometroPolitico.html) | Termometro Politico | 22.0% | 20.4–23.7% | 19.9–24.2% | 19.5–24.7% | 18.8–25.5% |
 | [20 April 2019](2019-04-20-Ipsos.html) | Ipsos <br> Corriere della Sera | 18.7% | 17.1–20.3% | 16.7–20.8% | 16.4–21.2% | 15.7–22.0% |
-| [18 April 2019](2019-04-18-Tecnè.html) | Tecnè <br> TGcom24 | 20.6% | N/A | N/A | N/A | N/A |
-| [17 April 2019](2019-04-17-IndexResearch.html) | Index Research <br> LA7 | 19.8% | N/A | N/A | N/A | N/A |
+| [18 April 2019](2019-04-18-Tecnè.html) | Tecnè <br> TGcom24 | 20.6% | 19.0–22.3% | 18.6–22.8% | 18.2–23.2% | 17.5–24.1% |
+| [17 April 2019](2019-04-17-IndexResearch.html) | Index Research <br> LA7 | 19.8% | 18.0–21.7% | 17.5–22.2% | 17.1–22.7% | 16.3–23.6% |
 | [16 April 2019](2019-04-16-Piepoli.html) | Piepoli <br> Rai 1 | 20.7% | 18.5–23.1% | 17.9–23.8% | 17.4–24.4% | 16.4–25.7% |
 | [16 April 2019](2019-04-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 21.0% | 19.4–22.7% | 19.0–23.2% | 18.6–23.6% | 17.8–24.5% |
 | [16 April 2019](2019-04-16-Euromedia.html) | Euromedia <br> Rai 1 | 19.5% | 17.8–21.4% | 17.3–21.9% | 16.9–22.4% | 16.1–23.3% |
@@ -423,13 +423,13 @@ Last result: **31** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 15 | 13–17 | 13–17 | 13–18 | 12–18 |
-| [25 April 2019](2019-04-25-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 18 | 16–18 | 16–18 | 15–18 | 15–18 |
+| [25 April 2019](2019-04-25-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 16 | 15–17 | 15–18 | 14–18 | 14–19 |
 | [17–23 April 2019](2019-04-23-SWG.html) | SWG <br> LA7 | 15 | 14–16 | 14–16 | 14–17 | 13–17 |
 | [22–23 April 2019](2019-04-23-Demopolis.html) | Demopolis | 14 | 13–15 | 13–16 | 13–16 | 12–16 |
-| [19–22 April 2019](2019-04-22-TermometroPolitico.html) | Termometro Politico | 17 | 15–17 | 15–18 | 15–18 | 14–19 |
+| [19–22 April 2019](2019-04-22-TermometroPolitico.html) | Termometro Politico | 16 | 15–18 | 15–18 | 14–19 | 14–19 |
 | [20 April 2019](2019-04-20-Ipsos.html) | Ipsos <br> Corriere della Sera | 14 | 12–15 | 12–16 | 12–16 | 11–16 |
-| [18 April 2019](2019-04-18-Tecnè.html) | Tecnè <br> TGcom24 |  |  |  |  |  |
-| [17 April 2019](2019-04-17-IndexResearch.html) | Index Research <br> LA7 |  |  |  |  |  |
+| [18 April 2019](2019-04-18-Tecnè.html) | Tecnè <br> TGcom24 | 14 | 13–15 | 13–16 | 12–16 | 12–17 |
+| [17 April 2019](2019-04-17-IndexResearch.html) | Index Research <br> LA7 | 14 | 13–16 | 12–16 | 12–17 | 11–18 |
 | [16 April 2019](2019-04-16-Piepoli.html) | Piepoli <br> Rai 1 | 15 | 13–17 | 13–18 | 12–18 | 12–19 |
 | [16 April 2019](2019-04-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 15 | 14–17 | 14–17 | 13–18 | 13–18 |
 | [16 April 2019](2019-04-16-Euromedia.html) | Euromedia <br> Rai 1 | 14 | 13–16 | 12–16 | 12–17 | 11–17 |
