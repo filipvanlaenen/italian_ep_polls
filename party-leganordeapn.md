@@ -436,9 +436,9 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [17–23 April 2019](2019-04-23-SWG.html) | SWG <br> LA7 | 25 | 24–26 | 23–26 | 23–27 | 23–27 |
 | [22–23 April 2019](2019-04-23-Demopolis.html) | Demopolis | 24 | 23–25 | 23–26 | 22–26 | 22–27 |
 | [19–22 April 2019](2019-04-22-TermometroPolitico.html) | Termometro Politico | 25 | 24–26 | 23–27 | 23–27 | 22–28 |
-| [20 April 2019](2019-04-20-Ipsos.html) | Ipsos <br> Corriere della Sera | 29 | 27–31 | 27–31 | 26–32 | 25–33 |
+| [20 April 2019](2019-04-20-Ipsos.html) | Ipsos <br> Corriere della Sera | 29 | 27–31 | 27–32 | 26–32 | 25–33 |
 | [18 April 2019](2019-04-18-Tecnè.html) | Tecnè <br> TGcom24 | 23 | 22–25 | 22–25 | 21–26 | 21–26 |
-| [17 April 2019](2019-04-17-IndexResearch.html) | Index Research <br> LA7 | 25 | 23–27 | 23–28 | 22–28 | 21–30 |
+| [17 April 2019](2019-04-17-IndexResearch.html) | Index Research <br> LA7 | 25 | 23–27 | 23–28 | 22–29 | 21–30 |
 | [16 April 2019](2019-04-16-Piepoli.html) | Piepoli <br> Rai 1 | 24 | 22–27 | 22–28 | 21–28 | 20–29 |
 | [16 April 2019](2019-04-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 26 | 24–28 | 24–29 | 23–29 | 23–30 |
 | [16 April 2019](2019-04-16-Euromedia.html) | Euromedia <br> Rai 1 | 26 | 24–28 | 23–28 | 23–29 | 22–30 |

@@ -409,7 +409,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [22–23 April 2019](2019-04-23-Demopolis.html) | Demopolis | 4 | 3–4 | 3–4 | 0–5 | 0–5 |
 | [19–22 April 2019](2019-04-22-TermometroPolitico.html) | Termometro Politico | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
 | [20 April 2019](2019-04-20-Ipsos.html) | Ipsos <br> Corriere della Sera | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
-| [18 April 2019](2019-04-18-Tecnè.html) | Tecnè <br> TGcom24 | 4 | 3–4 | 0–5 | 0–5 | 0–5 |
+| [18 April 2019](2019-04-18-Tecnè.html) | Tecnè <br> TGcom24 | 4 | 3–4 | 0–4 | 0–5 | 0–5 |
 | [17 April 2019](2019-04-17-IndexResearch.html) | Index Research <br> LA7 | 4 | 0–4 | 0–5 | 0–5 | 0–6 |
 | [16 April 2019](2019-04-16-Piepoli.html) | Piepoli <br> Rai 1 | 4 | 3–6 | 3–6 | 0–6 | 0–7 |
 | [16 April 2019](2019-04-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 5 | 4–6 | 4–6 | 4–6 | 3–6 |

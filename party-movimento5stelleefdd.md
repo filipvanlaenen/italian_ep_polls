@@ -417,7 +417,7 @@ Last result: **17** seats (General Election of 25 May 2014)
 | [19–22 April 2019](2019-04-22-TermometroPolitico.html) | Termometro Politico | 19 | 17–20 | 17–20 | 17–21 | 16–21 |
 | [20 April 2019](2019-04-20-Ipsos.html) | Ipsos <br> Corriere della Sera | 18 | 16–19 | 16–20 | 15–20 | 15–21 |
 | [18 April 2019](2019-04-18-Tecnè.html) | Tecnè <br> TGcom24 | 16 | 15–17 | 15–18 | 14–18 | 14–19 |
-| [17 April 2019](2019-04-17-IndexResearch.html) | Index Research <br> LA7 | 17 | 15–18 | 15–19 | 14–19 | 14–20 |
+| [17 April 2019](2019-04-17-IndexResearch.html) | Index Research <br> LA7 | 17 | 15–19 | 15–19 | 14–19 | 14–20 |
 | [16 April 2019](2019-04-16-Piepoli.html) | Piepoli <br> Rai 1 | 18 | 16–20 | 15–20 | 15–21 | 14–22 |
 | [16 April 2019](2019-04-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 16 | 14–17 | 14–18 | 14–18 | 13–19 |
 | [16 April 2019](2019-04-16-Euromedia.html) | Euromedia <br> Rai 1 | 16 | 15–18 | 14–18 | 14–19 | 13–20 |
