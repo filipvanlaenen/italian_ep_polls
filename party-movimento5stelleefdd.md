@@ -425,7 +425,7 @@ Last result: **17** seats (General Election of 25 May 2014)
 | [10–15 April 2019](2019-04-15-SWG.html) | SWG <br> LA7 | 18 | 17–19 | 16–20 | 16–20 | 15–21 |
 | [11–12 April 2019](2019-04-12-Quorum.html) | Quorum <br> Sky TG 24 | 17 | 16–19 | 16–19 | 15–20 | 15–20 |
 | [2–10 April 2019](2019-04-10-TermometroPolitico.html) | Termometro Politico | 18 | 17–19 | 17–19 | 16–20 | 16–20 |
-| [9 April 2019](2019-04-09-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 16 | 14–17 | 14–17 | 13–17 | 13–18 |
+| [9 April 2019](2019-04-09-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 15 | 14–17 | 14–17 | 13–17 | 13–18 |
 | [9 April 2019](2019-04-09-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 16 | 15–17 | 15–18 | 15–18 | 14–18 |
 | [7–8 April 2019](2019-04-08-Tecnè.html) | Tecnè <br> Quarta Repubblica | 16 | 14–17 | 14–17 | 14–18 | 13–18 |
 | [5–8 April 2019](2019-04-08-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 17 | 16–18 | 15–18 | 15–19 | 14–19 |
@@ -440,8 +440,8 @@ Last result: **17** seats (General Election of 25 May 2014)
 | [31 March–1 April 2019](2019-04-01-Tecnè.html) | Tecnè <br> Quarta Repubblica | 15 | 14–17 | 14–17 | 13–18 | 13–18 |
 | [27 March–1 April 2019](2019-04-01-SWG.html) | SWG <br> LA7 | 17 | 16–19 | 16–19 | 16–19 | 15–20 |
 | [29–30 March 2019](2019-03-30-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 18 | 17–19 | 16–20 | 16–20 | 15–21 |
-| [28 March 2019](2019-03-28-Tecnè.html) | Tecnè <br> TGcom24 | 16 | 16 | 16–18 | 15–18 | 13–19 |
-| [26–27 March 2019](2019-03-27-IndexResearch.html) | Index Research <br> LA7 | 19 | 18–19 | 16–19 | 16–19 | 15–19 |
+| [28 March 2019](2019-03-28-Tecnè.html) | Tecnè <br> TGcom24 | 15 | 14–17 | 14–17 | 13–17 | 13–18 |
+| [26–27 March 2019](2019-03-27-IndexResearch.html) | Index Research <br> LA7 | 16 | 15–16 | 15–16 | 15–16 | 15–16 |
 | [26–27 March 2019](2019-03-27-Demopolis.html) | Demopolis | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
 | [26 March 2019](2019-03-26-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 20 | 18–20 | 15–20 | 15–20 | 15–20 |
 | [26 March 2019](2019-03-26-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 19 | 18–19 | 18–19 | 17–19 | 17–20 |
@@ -789,10 +789,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 12 | 0.1% | 100% |  |
 | 13 | 1.4% | 99.9% |  |
-| 14 | 5% | 98% |  |
-| 15 | 11% | 94% |  |
-| 16 | 22% | 83% |  |
-| 17 | 26% | 60% | Last Result, Median |
+| 14 | 4% | 98% |  |
+| 15 | 13% | 94% |  |
+| 16 | 22% | 82% |  |
+| 17 | 25% | 60% | Last Result, Median |
 | 18 | 18% | 35% |  |
 | 19 | 11% | 16% |  |
 | 20 | 4% | 5% |  |

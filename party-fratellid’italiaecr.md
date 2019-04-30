@@ -418,7 +418,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [10–15 April 2019](2019-04-15-SWG.html) | SWG <br> LA7 | 4 | 3–4 | 0–5 | 0–5 | 0–5 |
 | [11–12 April 2019](2019-04-12-Quorum.html) | Quorum <br> Sky TG 24 | 4 | 3–5 | 3–5 | 0–5 | 0–6 |
 | [2–10 April 2019](2019-04-10-TermometroPolitico.html) | Termometro Politico | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
-| [9 April 2019](2019-04-09-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 5 | 4–5 | 3–5 | 3–5 | 0–6 |
+| [9 April 2019](2019-04-09-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 4 | 4–5 | 4–5 | 3–5 | 0–6 |
 | [9 April 2019](2019-04-09-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 4 | 3–4 | 3–4 | 0–4 | 0–5 |
 | [7–8 April 2019](2019-04-08-Tecnè.html) | Tecnè <br> Quarta Repubblica | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [5–8 April 2019](2019-04-08-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
@@ -433,8 +433,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [31 March–1 April 2019](2019-04-01-Tecnè.html) | Tecnè <br> Quarta Repubblica | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [27 March–1 April 2019](2019-04-01-SWG.html) | SWG <br> LA7 | 4 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [29–30 March 2019](2019-03-30-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 4 | 4–5 | 3–5 | 3–5 | 0–6 |
-| [28 March 2019](2019-03-28-Tecnè.html) | Tecnè <br> TGcom24 | 0 | 0 | 0–4 | 0–4 | 0–4 |
-| [26–27 March 2019](2019-03-27-IndexResearch.html) | Index Research <br> LA7 | 5 | 4–5 | 3–5 | 3–5 | 0–6 |
+| [28 March 2019](2019-03-28-Tecnè.html) | Tecnè <br> TGcom24 | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [26–27 March 2019](2019-03-27-IndexResearch.html) | Index Research <br> LA7 | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [26–27 March 2019](2019-03-27-Demopolis.html) | Demopolis | 3 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [26 March 2019](2019-03-26-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [26 March 2019](2019-03-26-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 4 | 3–4 | 3–4 | 0–4 | 0–4 |
@@ -784,8 +784,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 87% |  |
 | 2 | 0% | 87% |  |
 | 3 | 19% | 87% |  |
-| 4 | 47% | 67% | Median |
-| 5 | 19% | 20% |  |
+| 4 | 48% | 67% | Median |
+| 5 | 18% | 19% |  |
 | 6 | 1.0% | 1.1% |  |
 | 7 | 0% | 0% |  |
 

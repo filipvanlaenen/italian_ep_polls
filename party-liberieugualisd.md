@@ -434,7 +434,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [27 March–1 April 2019](2019-04-01-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
 | [29–30 March 2019](2019-03-30-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [28 March 2019](2019-03-28-Tecnè.html) | Tecnè <br> TGcom24 |  |  |  |  |  |
-| [26–27 March 2019](2019-03-27-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0–3 | 0–3 | 0–3 |
+| [26–27 March 2019](2019-03-27-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0 | 0 | 0 |
 | [26–27 March 2019](2019-03-27-Demopolis.html) | Demopolis |  |  |  |  |  |
 | [26 March 2019](2019-03-26-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [26 March 2019](2019-03-26-EMGAcqua.html) | EMG Acqua <br> Rai 3 |  |  |  |  |  |

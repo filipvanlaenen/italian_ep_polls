@@ -422,7 +422,7 @@ Last result: **13** seats (General Election of 25 May 2014)
 | [10–15 April 2019](2019-04-15-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [11–12 April 2019](2019-04-12-Quorum.html) | Quorum <br> Sky TG 24 | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | [2–10 April 2019](2019-04-10-TermometroPolitico.html) | Termometro Politico | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
-| [9 April 2019](2019-04-09-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 7 | 6–9 | 6–9 | 6–9 | 6–10 |
+| [9 April 2019](2019-04-09-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 8 | 6–9 | 6–9 | 6–9 | 6–9 |
 | [9 April 2019](2019-04-09-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
 | [7–8 April 2019](2019-04-08-Tecnè.html) | Tecnè <br> Quarta Repubblica | 9 | 8–10 | 8–10 | 8–11 | 7–11 |
 | [5–8 April 2019](2019-04-08-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
@@ -437,8 +437,8 @@ Last result: **13** seats (General Election of 25 May 2014)
 | [31 March–1 April 2019](2019-04-01-Tecnè.html) | Tecnè <br> Quarta Repubblica | 9 | 8–10 | 8–10 | 7–10 | 7–11 |
 | [27 March–1 April 2019](2019-04-01-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [29–30 March 2019](2019-03-30-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 8 | 7–9 | 7–9 | 6–10 | 6–10 |
-| [28 March 2019](2019-03-28-Tecnè.html) | Tecnè <br> TGcom24 | 9 | 9 | 8–10 | 8–11 | 8–11 |
-| [26–27 March 2019](2019-03-27-IndexResearch.html) | Index Research <br> LA7 | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
+| [28 March 2019](2019-03-28-Tecnè.html) | Tecnè <br> TGcom24 | 9 | 8–10 | 8–10 | 7–10 | 7–11 |
+| [26–27 March 2019](2019-03-27-IndexResearch.html) | Index Research <br> LA7 | 8 | 8 | 8 | 8 | 8 |
 | [26–27 March 2019](2019-03-27-Demopolis.html) | Demopolis | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
 | [26 March 2019](2019-03-26-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 8 | 8 | 8 | 8 | 7–9 |
 | [26 March 2019](2019-03-26-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 6 | 6–8 | 6–8 | 6–8 | 6–9 |
@@ -785,9 +785,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.2% | 100% |  |
-| 6 | 9% | 99.8% |  |
-| 7 | 29% | 90% |  |
-| 8 | 38% | 61% | Median |
+| 6 | 7% | 99.8% |  |
+| 7 | 28% | 92% |  |
+| 8 | 40% | 64% | Median |
 | 9 | 18% | 24% |  |
 | 10 | 4% | 5% |  |
 | 11 | 0.8% | 0.8% |  |
