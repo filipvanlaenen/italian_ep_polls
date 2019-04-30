@@ -410,7 +410,7 @@ Last result: **17** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 15–19 | 14–20 | 14–20 | 13–21 |
+| N/A | [Poll Average](average.html) | 17 | 15–19 | 14–19 | 14–20 | 13–21 |
 | [25 April 2019](2019-04-25-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 17 | 16–19 | 16–19 | 16–19 | 15–20 |
 | [17–23 April 2019](2019-04-23-SWG.html) | SWG <br> LA7 | 16 | 15–17 | 15–17 | 14–17 | 14–18 |
 | [22–23 April 2019](2019-04-23-Demopolis.html) | Demopolis | 16 | 15–17 | 15–17 | 15–18 | 14–18 |
@@ -433,7 +433,7 @@ Last result: **17** seats (General Election of 25 May 2014)
 | [2–4 April 2019](2019-04-04-Ipsos.html) | Ipsos <br> Corriere della Sera | 19 | 17–20 | 17–21 | 16–21 | 16–22 |
 | [4 April 2019](2019-04-04-IndexResearch.html) | Index Research <br> LA7 | 17 | 16–19 | 15–19 | 15–20 | 14–20 |
 | [3 April 2019](2019-04-03-TermometroPolitico.html) | Termometro Politico | 18 | 17–18 | 16–18 | 16–19 | 16–19 |
-| [3 April 2019](2019-04-03-Piepoli.html) | Piepoli <br> Rai 1 | 17 | 16–20 | 15–20 | 15–20 | 14–21 |
+| [3 April 2019](2019-04-03-Piepoli.html) | Piepoli <br> Rai 1 | 17 | 15–19 | 15–20 | 15–21 | 14–22 |
 | [3 April 2019](2019-04-03-Euromedia.html) | Euromedia <br> Rai 1 | 15 | 13–16 | 13–17 | 13–17 | 12–18 |
 | [2 April 2019](2019-04-02-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 16 | 15–18 | 14–18 | 14–18 | 14–19 |
 | [2 April 2019](2019-04-02-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 17 | 17–18 | 17–19 | 16–19 | 16–20 |
@@ -791,12 +791,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 1.4% | 99.9% |  |
 | 14 | 4% | 98% |  |
 | 15 | 13% | 94% |  |
-| 16 | 22% | 82% |  |
-| 17 | 25% | 60% | Last Result, Median |
+| 16 | 22% | 81% |  |
+| 17 | 24% | 59% | Last Result, Median |
 | 18 | 18% | 35% |  |
-| 19 | 11% | 16% |  |
+| 19 | 12% | 17% |  |
 | 20 | 4% | 5% |  |
-| 21 | 0.9% | 1.1% |  |
+| 21 | 1.0% | 1.2% |  |
 | 22 | 0.2% | 0.2% |  |
 | 23 | 0% | 0% |  |
 
