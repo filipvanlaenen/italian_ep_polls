@@ -447,7 +447,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [11–12 April 2019](2019-04-12-Quorum.html) | Quorum <br> Sky TG 24 | 26 | 24–28 | 24–28 | 23–29 | 23–29 |
 | [2–10 April 2019](2019-04-10-TermometroPolitico.html) | Termometro Politico | 25 | 24–27 | 24–27 | 24–27 | 23–28 |
 | [9 April 2019](2019-04-09-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 25 | 24–27 | 23–27 | 23–27 | 22–28 |
-| [9 April 2019](2019-04-09-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 24 | 22–25 | 22–25 | 22–26 | 22–26 |
+| [9 April 2019](2019-04-09-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 24 | 23–25 | 22–25 | 22–25 | 22–26 |
 | [7–8 April 2019](2019-04-08-Tecnè.html) | Tecnè <br> Quarta Repubblica | 23 | 22–25 | 21–25 | 21–26 | 21–26 |
 | [5–8 April 2019](2019-04-08-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 29 | 27–30 | 27–31 | 27–31 | 26–32 |
 | [3–8 April 2019](2019-04-08-SWG.html) | SWG <br> LA7 | 26 | 24–27 | 24–27 | 24–28 | 23–28 |
@@ -825,7 +825,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 0.1% | 100% |  |
 | 20 | 0.4% | 99.9% |  |
 | 21 | 1.5% | 99.6% |  |
-| 22 | 6% | 98% |  |
+| 22 | 5% | 98% |  |
 | 23 | 13% | 93% |  |
 | 24 | 17% | 80% |  |
 | 25 | 19% | 63% | Median |
