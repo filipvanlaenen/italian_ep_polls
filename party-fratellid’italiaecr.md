@@ -13,7 +13,7 @@ Last result: **3.7%** (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 4.9% | 3.9–6.1% | 3.6–6.4% | 3.4–6.7% | 3.0–7.3% |
 | [24–29 April 2019](2019-04-29-SWG.html) | SWG <br> LA7 | 5.0% | 4.3–5.8% | 4.2–6.0% | 4.0–6.2% | 3.7–6.6% |
 | [25 April 2019](2019-04-25-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 5.4% | 4.7–6.2% | 4.5–6.4% | 4.3–6.6% | 4.0–7.0% |
-| [18–23 April 2019](2019-04-23-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Sole 24 Ore | 5.4% | N/A | N/A | N/A | N/A |
+| [18–23 April 2019](2019-04-23-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Sole 24 Ore | 5.4% | 4.7–6.3% | 4.5–6.5% | 4.3–6.7% | 4.0–7.1% |
 | [17–23 April 2019](2019-04-23-SWG.html) | SWG <br> LA7 | 4.9% | 4.3–5.7% | 4.1–6.0% | 3.9–6.2% | 3.7–6.6% |
 | [22–23 April 2019](2019-04-23-Demopolis.html) | Demopolis | 5.0% | 4.3–5.8% | 4.2–6.0% | 4.0–6.2% | 3.7–6.6% |
 | [19–22 April 2019](2019-04-22-TermometroPolitico.html) | Termometro Politico | 5.7% | 4.9–6.8% | 4.6–7.1% | 4.4–7.3% | 4.1–7.9% |
