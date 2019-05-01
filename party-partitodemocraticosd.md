@@ -425,7 +425,7 @@ Last result: **31** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 15 | 13–17 | 13–17 | 13–18 | 12–18 |
-| [24–29 April 2019](2019-04-29-SWG.html) | SWG <br> LA7 | 16 | 16 | 16 | 16 | 15–16 |
+| [24–29 April 2019](2019-04-29-SWG.html) | SWG <br> LA7 | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
 | [25 April 2019](2019-04-25-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 16 | 15–17 | 15–18 | 14–18 | 14–19 |
 | [18–23 April 2019](2019-04-23-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Sole 24 Ore |  |  |  |  |  |
 | [17–23 April 2019](2019-04-23-SWG.html) | SWG <br> LA7 | 15 | 14–16 | 14–17 | 14–17 | 13–17 |
