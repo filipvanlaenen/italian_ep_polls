@@ -11,7 +11,9 @@ Last result: **6.2%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 32.5% | 30.2–35.6% | 29.6–36.5% | 28.9–37.2% | 27.4–38.3% |
+| [24–29 April 2019](2019-04-29-SWG.html) | SWG <br> LA7 | 31.6% | 30.1–33.2% | 29.7–33.6% | 29.3–34.0% | 28.6–34.8% |
 | [25 April 2019](2019-04-25-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 31.3% | 29.8–32.9% | 29.4–33.3% | 29.1–33.7% | 28.3–34.5% |
+| [18–23 April 2019](2019-04-23-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Sole 24 Ore | 36.4% | N/A | N/A | N/A | N/A |
 | [17–23 April 2019](2019-04-23-SWG.html) | SWG <br> LA7 | 33.2% | 31.7–34.8% | 31.2–35.2% | 30.8–35.6% | 30.1–36.4% |
 | [22–23 April 2019](2019-04-23-Demopolis.html) | Demopolis | 33.0% | 31.5–34.6% | 31.0–35.0% | 30.7–35.4% | 29.9–36.2% |
 | [19–22 April 2019](2019-04-22-TermometroPolitico.html) | Termometro Politico | 31.5% | 29.7–33.4% | 29.1–34.0% | 28.7–34.5% | 27.8–35.4% |
@@ -432,7 +434,9 @@ Last result: **5** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 25 | 23–29 | 22–29 | 22–30 | 21–31 |
+| [24–29 April 2019](2019-04-29-SWG.html) | SWG <br> LA7 | 23 | 22–24 | 22–24 | 22–24 | 22–24 |
 | [25 April 2019](2019-04-25-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 24 | 22–25 | 22–25 | 22–26 | 21–27 |
+| [18–23 April 2019](2019-04-23-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Sole 24 Ore |  |  |  |  |  |
 | [17–23 April 2019](2019-04-23-SWG.html) | SWG <br> LA7 | 25 | 24–26 | 23–26 | 23–27 | 23–27 |
 | [22–23 April 2019](2019-04-23-Demopolis.html) | Demopolis | 24 | 23–25 | 23–26 | 22–26 | 22–27 |
 | [19–22 April 2019](2019-04-22-TermometroPolitico.html) | Termometro Politico | 25 | 24–26 | 23–27 | 23–27 | 22–28 |
