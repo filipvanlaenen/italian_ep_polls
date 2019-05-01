@@ -412,7 +412,7 @@ Last result: **13** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 8 | 7–9 | 6–10 | 6–10 | 6–11 |
 | [24–29 April 2019](2019-04-29-SWG.html) | SWG <br> LA7 | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
 | [25 April 2019](2019-04-25-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
-| [18–23 April 2019](2019-04-23-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Sole 24 Ore |  |  |  |  |  |
+| [18–23 April 2019](2019-04-23-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Sole 24 Ore | 7 | 6–7 | 6–7 | 6–8 | 5–8 |
 | [17–23 April 2019](2019-04-23-SWG.html) | SWG <br> LA7 | 7 | 6–7 | 6–7 | 6–8 | 5–8 |
 | [22–23 April 2019](2019-04-23-Demopolis.html) | Demopolis | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [19–22 April 2019](2019-04-22-TermometroPolitico.html) | Termometro Politico | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
@@ -435,9 +435,9 @@ Last result: **13** seats (General Election of 25 May 2014)
 | [4 April 2019](2019-04-04-IndexResearch.html) | Index Research <br> LA7 | 8 | 6–8 | 6–9 | 6–9 | 5–10 |
 | [3 April 2019](2019-04-03-TermometroPolitico.html) | Termometro Politico | 8 | 7–8 | 7–8 | 7–8 | 6–9 |
 | [3 April 2019](2019-04-03-Piepoli.html) | Piepoli <br> Rai 1 | 8 | 7–10 | 6–10 | 6–11 | 6–11 |
-| [3 April 2019](2019-04-03-Euromedia.html) | Euromedia <br> Rai 1 | 9 | 7–10 | 7–10 | 7–10 | 7–11 |
+| [3 April 2019](2019-04-03-Euromedia.html) | Euromedia <br> Rai 1 | 8 | 7–10 | 7–10 | 7–10 | 6–11 |
 | [2 April 2019](2019-04-02-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 8 | 7–9 | 7–10 | 7–10 | 6–10 |
-| [2 April 2019](2019-04-02-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
+| [2 April 2019](2019-04-02-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [31 March–1 April 2019](2019-04-01-Tecnè.html) | Tecnè <br> Quarta Repubblica | 9 | 8–10 | 8–10 | 7–10 | 7–11 |
 | [27 March–1 April 2019](2019-04-01-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [29–30 March 2019](2019-03-30-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 8 | 7–9 | 7–9 | 6–10 | 6–10 |
@@ -790,11 +790,11 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.2% | 100% |  |
 | 6 | 7% | 99.8% |  |
-| 7 | 29% | 92% |  |
-| 8 | 40% | 63% | Median |
-| 9 | 18% | 24% |  |
+| 7 | 28% | 92% |  |
+| 8 | 42% | 64% | Median |
+| 9 | 17% | 23% |  |
 | 10 | 4% | 5% |  |
-| 11 | 0.8% | 0.8% |  |
+| 11 | 0.7% | 0.8% |  |
 | 12 | 0.1% | 0.1% |  |
 | 13 | 0% | 0% | Last Result |
 

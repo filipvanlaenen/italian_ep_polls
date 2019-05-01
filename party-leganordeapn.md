@@ -436,7 +436,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 25 | 23–29 | 22–29 | 22–30 | 21–31 |
 | [24–29 April 2019](2019-04-29-SWG.html) | SWG <br> LA7 | 24 | 23–25 | 22–25 | 22–26 | 21–26 |
 | [25 April 2019](2019-04-25-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 24 | 22–25 | 22–25 | 22–26 | 21–27 |
-| [18–23 April 2019](2019-04-23-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Sole 24 Ore |  |  |  |  |  |
+| [18–23 April 2019](2019-04-23-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Sole 24 Ore | 27 | 26–29 | 26–29 | 25–29 | 25–30 |
 | [17–23 April 2019](2019-04-23-SWG.html) | SWG <br> LA7 | 25 | 24–26 | 23–26 | 23–27 | 23–27 |
 | [22–23 April 2019](2019-04-23-Demopolis.html) | Demopolis | 24 | 23–25 | 23–26 | 22–26 | 22–27 |
 | [19–22 April 2019](2019-04-22-TermometroPolitico.html) | Termometro Politico | 25 | 24–26 | 23–27 | 23–27 | 22–28 |
@@ -459,7 +459,7 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [4 April 2019](2019-04-04-IndexResearch.html) | Index Research <br> LA7 | 27 | 26–29 | 25–29 | 24–30 | 23–30 |
 | [3 April 2019](2019-04-03-TermometroPolitico.html) | Termometro Politico | 26 | 25–27 | 25–27 | 25–28 | 24–28 |
 | [3 April 2019](2019-04-03-Piepoli.html) | Piepoli <br> Rai 1 | 23 | 21–26 | 21–27 | 20–28 | 19–29 |
-| [3 April 2019](2019-04-03-Euromedia.html) | Euromedia <br> Rai 1 | 24 | 22–25 | 22–26 | 21–27 | 20–28 |
+| [3 April 2019](2019-04-03-Euromedia.html) | Euromedia <br> Rai 1 | 24 | 22–26 | 21–26 | 21–27 | 20–28 |
 | [2 April 2019](2019-04-02-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 25 | 24–27 | 23–27 | 22–27 | 21–29 |
 | [2 April 2019](2019-04-02-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 25 | 23–26 | 23–26 | 23–26 | 22–27 |
 | [31 March–1 April 2019](2019-04-01-Tecnè.html) | Tecnè <br> Quarta Repubblica | 23 | 22–25 | 21–25 | 21–26 | 21–26 |
@@ -828,12 +828,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 0% | 100% |  |
 | 19 | 0.1% | 100% |  |
 | 20 | 0.4% | 99.9% |  |
-| 21 | 1.5% | 99.6% |  |
+| 21 | 2% | 99.6% |  |
 | 22 | 5% | 98% |  |
-| 23 | 13% | 93% |  |
+| 23 | 12% | 93% |  |
 | 24 | 17% | 80% |  |
-| 25 | 19% | 63% | Median |
-| 26 | 14% | 44% |  |
+| 25 | 18% | 63% | Median |
+| 26 | 15% | 44% |  |
 | 27 | 12% | 30% |  |
 | 28 | 8% | 18% |  |
 | 29 | 6% | 10% |  |

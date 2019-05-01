@@ -13,7 +13,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 3.0% | 2.2–3.9% | 1.9–4.2% | 1.7–4.5% | 1.4–5.1% |
 | [24–29 April 2019](2019-04-29-SWG.html) | SWG <br> LA7 | 3.1% | 2.6–3.8% | 2.5–4.0% | 2.4–4.1% | 2.1–4.5% |
 | [25 April 2019](2019-04-25-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 2.9% | 2.4–3.5% | 2.3–3.7% | 2.1–3.9% | 1.9–4.2% |
-| [18–23 April 2019](2019-04-23-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Sole 24 Ore | 3.1% | 2.6–3.8% | 2.5–4.0% | 2.3–4.2% | 2.1–4.5% |
+| [18–23 April 2019](2019-04-23-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Sole 24 Ore | 3.1% | 2.6–3.8% | 2.5–4.0% | 2.4–4.1% | 2.1–4.5% |
 | [17–23 April 2019](2019-04-23-SWG.html) | SWG <br> LA7 | 3.1% | 2.6–3.7% | 2.4–3.9% | 2.3–4.1% | 2.1–4.4% |
 | [22–23 April 2019](2019-04-23-Demopolis.html) | Demopolis | 0.0% | N/A | N/A | N/A | N/A |
 | [19–22 April 2019](2019-04-22-TermometroPolitico.html) | Termometro Politico | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.0–4.1% | 1.8–4.6% |
@@ -408,7 +408,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–3 | 0–3 | 0–4 |
 | [24–29 April 2019](2019-04-29-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0–3 | 0–3 |
 | [25 April 2019](2019-04-25-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0 | 0 | 0 | 0 | 0–3 |
-| [18–23 April 2019](2019-04-23-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Sole 24 Ore |  |  |  |  |  |
+| [18–23 April 2019](2019-04-23-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Sole 24 Ore | 0 | 0 | 0 | 0–3 | 0–3 |
 | [17–23 April 2019](2019-04-23-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0–3 | 0–3 |
 | [22–23 April 2019](2019-04-23-Demopolis.html) | Demopolis |  |  |  |  |  |
 | [19–22 April 2019](2019-04-22-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0–3 | 0–4 |
@@ -789,7 +789,6 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 7% |  |
 | 3 | 5% | 7% |  |
 | 4 | 2% | 2% |  |
-| 5 | 0.1% | 0.1% |  |
-| 6 | 0% | 0% |  |
+| 5 | 0% | 0% |  |
 
 

@@ -13,7 +13,7 @@ Last result: **3.7%** (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 4.9% | 3.9–6.1% | 3.6–6.4% | 3.4–6.7% | 3.0–7.3% |
 | [24–29 April 2019](2019-04-29-SWG.html) | SWG <br> LA7 | 5.0% | 4.3–5.8% | 4.2–6.0% | 4.0–6.2% | 3.7–6.6% |
 | [25 April 2019](2019-04-25-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 5.4% | 4.7–6.2% | 4.5–6.4% | 4.3–6.6% | 4.0–7.0% |
-| [18–23 April 2019](2019-04-23-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Sole 24 Ore | 5.4% | 4.7–6.3% | 4.5–6.5% | 4.3–6.7% | 4.0–7.1% |
+| [18–23 April 2019](2019-04-23-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Sole 24 Ore | 5.4% | 4.7–6.2% | 4.5–6.5% | 4.4–6.7% | 4.1–7.1% |
 | [17–23 April 2019](2019-04-23-SWG.html) | SWG <br> LA7 | 4.9% | 4.3–5.7% | 4.1–6.0% | 3.9–6.2% | 3.7–6.6% |
 | [22–23 April 2019](2019-04-23-Demopolis.html) | Demopolis | 5.0% | 4.3–5.8% | 4.2–6.0% | 4.0–6.2% | 3.7–6.6% |
 | [19–22 April 2019](2019-04-22-TermometroPolitico.html) | Termometro Politico | 5.7% | 4.9–6.8% | 4.6–7.1% | 4.4–7.3% | 4.1–7.9% |
@@ -408,7 +408,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [24–29 April 2019](2019-04-29-SWG.html) | SWG <br> LA7 | 4 | 3–4 | 3–5 | 3–5 | 0–5 |
 | [25 April 2019](2019-04-25-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
-| [18–23 April 2019](2019-04-23-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Sole 24 Ore |  |  |  |  |  |
+| [18–23 April 2019](2019-04-23-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Sole 24 Ore | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | [17–23 April 2019](2019-04-23-SWG.html) | SWG <br> LA7 | 4 | 3–4 | 3–4 | 3–5 | 0–5 |
 | [22–23 April 2019](2019-04-23-Demopolis.html) | Demopolis | 4 | 3–4 | 3–4 | 0–5 | 0–5 |
 | [19–22 April 2019](2019-04-22-TermometroPolitico.html) | Termometro Politico | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
@@ -433,7 +433,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [3 April 2019](2019-04-03-Piepoli.html) | Piepoli <br> Rai 1 | 4 | 0–5 | 0–5 | 0–6 | 0–6 |
 | [3 April 2019](2019-04-03-Euromedia.html) | Euromedia <br> Rai 1 | 4 | 3–5 | 3–5 | 3–5 | 0–6 |
 | [2 April 2019](2019-04-02-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 4 | 3–5 | 0–5 | 0–5 | 0–5 |
-| [2 April 2019](2019-04-02-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 4 | 3–4 | 3–4 | 0–4 | 0–5 |
+| [2 April 2019](2019-04-02-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 4 | 3–4 | 0–4 | 0–4 | 0–5 |
 | [31 March–1 April 2019](2019-04-01-Tecnè.html) | Tecnè <br> Quarta Repubblica | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [27 March–1 April 2019](2019-04-01-SWG.html) | SWG <br> LA7 | 4 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [29–30 March 2019](2019-03-30-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 4 | 4–5 | 3–5 | 3–5 | 0–6 |
@@ -790,7 +790,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 20% | 86% |  |
 | 4 | 48% | 66% | Median |
 | 5 | 17% | 18% |  |
-| 6 | 1.0% | 1.1% |  |
+| 6 | 1.1% | 1.1% |  |
 | 7 | 0% | 0% |  |
 
 
