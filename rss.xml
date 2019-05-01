@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 01 May 2019 09:31:16 +0200</pubDate>
+    <pubDate>Wed, 01 May 2019 16:32:10 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by SWG for LA7, 24–29 April 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-04-29-SWG.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 15–18 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 14–18 seats&lt;/li&gt;&lt;li&gt;Lega Nord (EAPN): 22–26 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 3–5 seats&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 0–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-04-29-SWG-seats.png"
+        length="149917"
+        type="image/png"/>
+      <pubDate>Wed, 01 May 2019 16:32:10 +0200</pubDate>
+      <dc:date>2019-05-01T16:32:10.125125+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SWG for LA7, 24–29 April 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-04-29-SWG.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-04-29-SWG-coalitions-seats.png"
+        length="145006"
+        type="image/png"/>
+      <pubDate>Wed, 01 May 2019 16:32:10 +0200</pubDate>
+      <dc:date>2019-05-01T16:32:10.125125+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by SWG for LA7, 24–29 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-04-29-SWG.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-04-29-SWG.png"
         length="161512"
         type="image/png"/>
-      <pubDate>Wed, 01 May 2019 09:31:16 +0200</pubDate>
-      <dc:date>2019-05-01T09:31:16.80648+02:00</dc:date>
+      <pubDate>Wed, 01 May 2019 16:32:10 +0200</pubDate>
+      <dc:date>2019-05-01T16:32:10.125125+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by EMG Acqua for Rai 3, 25 April 2019 – Seat Projections for the Parties</title>
@@ -799,6 +819,6 @@
       <pubDate>Fri, 19 Apr 2019 16:54:42 +0200</pubDate>
       <dc:date>2019-04-19T16:54:42.440052+02:00</dc:date>
     </item>
-    <dc:date>2019-05-01T09:31:16.80648+02:00</dc:date>
+    <dc:date>2019-05-01T16:32:10.125125+02:00</dc:date>
   </channel>
 </rss>
