@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 02 May 2019 11:16:41 +0200</pubDate>
+    <pubDate>Thu, 02 May 2019 13:52:34 +0200</pubDate>
     <item>
       <title>Opinion Poll by SWG for LA7, 24–29 April 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-04-29-SWG.html#seats</link>
@@ -670,14 +670,34 @@
       <dc:date>2019-04-22T20:36:05.066084+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Index Research for LA7, 4 April 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-04-04-IndexResearch.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 15–20 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 14–19 seats&lt;/li&gt;&lt;li&gt;Lega Nord (EAPN): 24–30 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6–9 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 0–5 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0–4 seats&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 0–3 seats&lt;/li&gt;&lt;li&gt;Potere al Popolo (GUE/NGL): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-04-04-IndexResearch-seats.png"
+        length="208301"
+        type="image/png"/>
+      <pubDate>Thu, 02 May 2019 13:52:34 +0200</pubDate>
+      <dc:date>2019-05-02T13:52:34.284719+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Index Research for LA7, 4 April 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-04-04-IndexResearch.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-04-04-IndexResearch-coalitions-seats.png"
+        length="181870"
+        type="image/png"/>
+      <pubDate>Thu, 02 May 2019 13:52:34 +0200</pubDate>
+      <dc:date>2019-05-02T13:52:34.284719+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Index Research for LA7, 4 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-04-04-IndexResearch.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 18.4–24.1%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 18.1–23.7%&lt;/li&gt;&lt;li&gt;Lega Nord (EAPN): 30.4–37.0%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 7.4–11.5%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 3.4–6.3%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 2.2–4.7%&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 1.8–4.1%&lt;/li&gt;&lt;li&gt;Potere al Popolo (GUE/NGL): 0.9–2.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-04-04-IndexResearch.png"
         length="239857"
         type="image/png"/>
-      <pubDate>Fri, 19 Apr 2019 14:51:53 +0200</pubDate>
-      <dc:date>2019-04-19T14:51:53.331093+02:00</dc:date>
+      <pubDate>Thu, 02 May 2019 13:52:34 +0200</pubDate>
+      <dc:date>2019-05-02T13:52:34.284719+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Termometro Politico, 3 April 2019 – Seat Projections for the Parties</title>
@@ -1009,6 +1029,6 @@
       <pubDate>Fri, 19 Apr 2019 16:54:42 +0200</pubDate>
       <dc:date>2019-04-19T16:54:42.440052+02:00</dc:date>
     </item>
-    <dc:date>2019-05-02T11:16:41.586838+02:00</dc:date>
+    <dc:date>2019-05-02T13:52:34.284719+02:00</dc:date>
   </channel>
 </rss>
