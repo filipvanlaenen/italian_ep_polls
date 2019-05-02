@@ -412,7 +412,7 @@ Last result: **13** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 8 | 7–9 | 6–10 | 6–10 | 6–11 |
 | [24–29 April 2019](2019-04-29-SWG.html) | SWG <br> LA7 | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
 | [25 April 2019](2019-04-25-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
-| [18–23 April 2019](2019-04-23-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Sole 24 Ore | 7 | 6–7 | 6–7 | 6–8 | 5–8 |
+| [18–23 April 2019](2019-04-23-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Sole 24 Ore | 7 | 6–7 | 6–7 | 5–8 | 5–8 |
 | [17–23 April 2019](2019-04-23-SWG.html) | SWG <br> LA7 | 7 | 6–7 | 6–7 | 6–8 | 5–8 |
 | [22–23 April 2019](2019-04-23-Demopolis.html) | Demopolis | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [19–22 April 2019](2019-04-22-TermometroPolitico.html) | Termometro Politico | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
@@ -433,24 +433,24 @@ Last result: **13** seats (General Election of 25 May 2014)
 | [3–8 April 2019](2019-04-08-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [2–4 April 2019](2019-04-04-Ipsos.html) | Ipsos <br> Corriere della Sera | 8 | 7–9 | 7–9 | 7–10 | 6–10 |
 | [4 April 2019](2019-04-04-IndexResearch.html) | Index Research <br> LA7 | 8 | 6–8 | 6–9 | 6–9 | 5–10 |
-| [3 April 2019](2019-04-03-TermometroPolitico.html) | Termometro Politico | 8 | 7–8 | 7–8 | 7–8 | 6–9 |
+| [3 April 2019](2019-04-03-TermometroPolitico.html) | Termometro Politico | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
 | [3 April 2019](2019-04-03-Piepoli.html) | Piepoli <br> Rai 1 | 8 | 7–10 | 6–10 | 6–11 | 6–11 |
 | [3 April 2019](2019-04-03-Euromedia.html) | Euromedia <br> Rai 1 | 8 | 7–10 | 7–10 | 7–10 | 6–11 |
 | [2 April 2019](2019-04-02-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 8 | 7–9 | 7–10 | 7–10 | 6–10 |
 | [2 April 2019](2019-04-02-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [31 March–1 April 2019](2019-04-01-Tecnè.html) | Tecnè <br> Quarta Repubblica | 9 | 8–10 | 8–10 | 7–10 | 7–11 |
-| [27 March–1 April 2019](2019-04-01-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
+| [27 March–1 April 2019](2019-04-01-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [29–30 March 2019](2019-03-30-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 8 | 7–9 | 7–9 | 6–10 | 6–10 |
 | [28 March 2019](2019-03-28-Tecnè.html) | Tecnè <br> TGcom24 | 9 | 8–10 | 8–10 | 7–10 | 7–11 |
 | [26–27 March 2019](2019-03-27-IndexResearch.html) | Index Research <br> LA7 | 8 | 8 | 8 | 8 | 8 |
 | [26–27 March 2019](2019-03-27-Demopolis.html) | Demopolis | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
-| [26 March 2019](2019-03-26-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 8 | 8 | 8 | 8 | 7–9 |
-| [26 March 2019](2019-03-26-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 6 | 6–8 | 6–8 | 6–8 | 6–9 |
+| [26 March 2019](2019-03-26-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 9 | 8–11 | 8–11 | 7–11 | 7–11 |
+| [26 March 2019](2019-03-26-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
 | [22–25 March 2019](2019-03-25-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 8 | 7–8 | 6–9 | 6–9 | 6–9 |
-| [20–25 March 2019](2019-03-25-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 5–8 | 5–8 | 5–8 |
-| [20–21 March 2019](2019-03-21-Tecnè.html) | Tecnè <br> Rete 4 | 9 | 9 | 9 | 9 | 7–11 |
-| [21 March 2019](2019-03-21-Piepoli.html) | Piepoli <br> Rai 1 | 7 | 7–11 | 7–11 | 7–12 | 7–12 |
-| [20–21 March 2019](2019-03-21-Euromedia.html) | Euromedia <br> Rai 1 | 9 | 8–10 | 7–10 | 7–10 | 7–12 |
+| [20–25 March 2019](2019-03-25-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
+| [20–21 March 2019](2019-03-21-Tecnè.html) | Tecnè <br> Rete 4 | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
+| [21 March 2019](2019-03-21-Piepoli.html) | Piepoli <br> Rai 1 | 9 | 8–11 | 7–11 | 7–12 | 7–12 |
+| [20–21 March 2019](2019-03-21-Euromedia.html) | Euromedia <br> Rai 1 | 9 | 8–10 | 8–10 | 7–11 | 7–11 |
 | [19–20 March 2019](2019-03-20-IndexResearch.html) | Index Research <br> LA7 | 8 | 8–11 | 7–11 | 7–11 | 6–11 |
 | [19 March 2019](2019-03-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 10 | 10 | 9–10 | 9–10 | 8–10 |
 | [19 March 2019](2019-03-19-EMGAcqua.html) | EMG Acqua <br> Rai 3 |  |  |  |  |  |

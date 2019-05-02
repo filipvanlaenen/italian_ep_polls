@@ -445,27 +445,27 @@ Last result: **31** seats (General Election of 25 May 2014)
 | [9 April 2019](2019-04-09-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 16 | 15–17 | 15–17 | 14–17 | 14–18 |
 | [7–8 April 2019](2019-04-08-Tecnè.html) | Tecnè <br> Quarta Repubblica | 14 | 12–15 | 12–15 | 12–16 | 11–16 |
 | [5–8 April 2019](2019-04-08-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 16 | 15–17 | 14–17 | 14–18 | 14–18 |
-| [3–8 April 2019](2019-04-08-SWG.html) | SWG <br> LA7 | 17 | 16–18 | 15–18 | 15–18 | 15–19 |
+| [3–8 April 2019](2019-04-08-SWG.html) | SWG <br> LA7 | 17 | 16–18 | 15–18 | 15–19 | 15–19 |
 | [2–4 April 2019](2019-04-04-Ipsos.html) | Ipsos <br> Corriere della Sera | 14 | 13–16 | 12–16 | 12–16 | 12–17 |
 | [4 April 2019](2019-04-04-IndexResearch.html) | Index Research <br> LA7 | 15 | 14–17 | 14–18 | 14–18 | 13–19 |
-| [3 April 2019](2019-04-03-TermometroPolitico.html) | Termometro Politico | 17 | 16–17 | 16–18 | 16–18 | 15–18 |
+| [3 April 2019](2019-04-03-TermometroPolitico.html) | Termometro Politico | 17 | 16–17 | 16–18 | 15–18 | 15–18 |
 | [3 April 2019](2019-04-03-Piepoli.html) | Piepoli <br> Rai 1 | 15 | 13–17 | 12–17 | 12–18 | 11–19 |
 | [3 April 2019](2019-04-03-Euromedia.html) | Euromedia <br> Rai 1 | 14 | 13–16 | 12–16 | 12–17 | 11–18 |
-| [2 April 2019](2019-04-02-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 15 | 14–17 | 14–18 | 13–18 | 13–18 |
+| [2 April 2019](2019-04-02-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 15 | 14–17 | 14–17 | 13–18 | 13–19 |
 | [2 April 2019](2019-04-02-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 15 | 14–16 | 14–17 | 14–17 | 13–17 |
 | [31 March–1 April 2019](2019-04-01-Tecnè.html) | Tecnè <br> Quarta Repubblica | 14 | 13–15 | 12–15 | 12–16 | 11–16 |
-| [27 March–1 April 2019](2019-04-01-SWG.html) | SWG <br> LA7 | 15 | 14–16 | 14–16 | 13–17 | 13–18 |
+| [27 March–1 April 2019](2019-04-01-SWG.html) | SWG <br> LA7 | 15 | 14–16 | 14–16 | 14–17 | 13–18 |
 | [29–30 March 2019](2019-03-30-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 15 | 14–17 | 13–17 | 13–17 | 13–18 |
 | [28 March 2019](2019-03-28-Tecnè.html) | Tecnè <br> TGcom24 | 14 | 12–15 | 12–15 | 12–15 | 12–17 |
 | [26–27 March 2019](2019-03-27-IndexResearch.html) | Index Research <br> LA7 | 16 | 16 | 16 | 16 | 16 |
 | [26–27 March 2019](2019-03-27-Demopolis.html) | Demopolis | 15 | 14–16 | 13–16 | 13–16 | 12–17 |
-| [26 March 2019](2019-03-26-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 17 | 16–17 | 15–17 | 15–17 | 15–17 |
-| [26 March 2019](2019-03-26-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 16 | 15–16 | 15–16 | 14–17 | 14–17 |
+| [26 March 2019](2019-03-26-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 16 | 14–17 | 14–17 | 14–18 | 12–18 |
+| [26 March 2019](2019-03-26-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 15 | 15–16 | 14–17 | 14–17 | 13–17 |
 | [22–25 March 2019](2019-03-25-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 16 | 15–17 | 15–18 | 14–18 | 14–19 |
-| [20–25 March 2019](2019-03-25-SWG.html) | SWG <br> LA7 | 16 | 14–16 | 14–16 | 14–16 | 14–16 |
-| [20–21 March 2019](2019-03-21-Tecnè.html) | Tecnè <br> Rete 4 | 15 | 14–15 | 14–15 | 14–15 | 14–15 |
-| [21 March 2019](2019-03-21-Piepoli.html) | Piepoli <br> Rai 1 | 13 | 13–14 | 13–15 | 13–15 | 12–16 |
-| [20–21 March 2019](2019-03-21-Euromedia.html) | Euromedia <br> Rai 1 | 18 | 12–18 | 11–19 | 11–19 | 11–19 |
+| [20–25 March 2019](2019-03-25-SWG.html) | SWG <br> LA7 | 16 | 15–17 | 15–18 | 14–18 | 14–19 |
+| [20–21 March 2019](2019-03-21-Tecnè.html) | Tecnè <br> Rete 4 | 15 | 13–16 | 13–16 | 13–16 | 12–17 |
+| [21 March 2019](2019-03-21-Piepoli.html) | Piepoli <br> Rai 1 | 15 | 13–16 | 12–16 | 12–17 | 12–18 |
+| [20–21 March 2019](2019-03-21-Euromedia.html) | Euromedia <br> Rai 1 | 14 | 13–17 | 13–17 | 13–17 | 12–19 |
 | [19–20 March 2019](2019-03-20-IndexResearch.html) | Index Research <br> LA7 | 17 | 17 | 16–17 | 16–18 | 15–18 |
 | [19 March 2019](2019-03-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 15 | 15 | 15 | 14–15 | 14–19 |
 | [19 March 2019](2019-03-19-EMGAcqua.html) | EMG Acqua <br> Rai 3 |  |  |  |  |  |

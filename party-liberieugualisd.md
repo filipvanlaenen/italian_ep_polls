@@ -429,7 +429,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [3–8 April 2019](2019-04-08-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0–3 |
 | [2–4 April 2019](2019-04-04-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
 | [4 April 2019](2019-04-04-IndexResearch.html) | Index Research <br> LA7 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
-| [3 April 2019](2019-04-03-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0–3 | 0–4 |
+| [3 April 2019](2019-04-03-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0–3 | 0–3 | 0–4 |
 | [3 April 2019](2019-04-03-Piepoli.html) | Piepoli <br> Rai 1 | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [3 April 2019](2019-04-03-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [2 April 2019](2019-04-02-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
@@ -446,7 +446,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [20–25 March 2019](2019-03-25-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
 | [20–21 March 2019](2019-03-21-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
 | [21 March 2019](2019-03-21-Piepoli.html) | Piepoli <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
-| [20–21 March 2019](2019-03-21-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0–3 | 0–4 |
+| [20–21 March 2019](2019-03-21-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0 | 0–3 |
 | [19–20 March 2019](2019-03-20-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0 | 0 | 0–3 |
 | [19 March 2019](2019-03-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [19 March 2019](2019-03-19-EMGAcqua.html) | EMG Acqua <br> Rai 3 |  |  |  |  |  |
