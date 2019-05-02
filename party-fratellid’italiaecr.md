@@ -428,7 +428,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [5–8 April 2019](2019-04-08-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [3–8 April 2019](2019-04-08-SWG.html) | SWG <br> LA7 | 4 | 4–5 | 3–5 | 0–5 | 0–5 |
 | [2–4 April 2019](2019-04-04-Ipsos.html) | Ipsos <br> Corriere della Sera | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [4 April 2019](2019-04-04-IndexResearch.html) | Index Research <br> LA7 | 4 | 0–4 | 0–5 | 0–5 | 0–6 |
+| [4 April 2019](2019-04-04-IndexResearch.html) | Index Research <br> LA7 | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [3 April 2019](2019-04-03-TermometroPolitico.html) | Termometro Politico | 4 | 3–4 | 3–4 | 3–4 | 0–5 |
 | [3 April 2019](2019-04-03-Piepoli.html) | Piepoli <br> Rai 1 | 4 | 0–5 | 0–5 | 0–6 | 0–6 |
 | [3 April 2019](2019-04-03-Euromedia.html) | Euromedia <br> Rai 1 | 4 | 3–5 | 3–5 | 3–5 | 0–6 |
@@ -784,13 +784,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 14% | 100% | Last Result |
-| 1 | 0% | 86% |  |
-| 2 | 0% | 86% |  |
-| 3 | 20% | 86% |  |
+| 0 | 15% | 100% | Last Result |
+| 1 | 0% | 85% |  |
+| 2 | 0% | 85% |  |
+| 3 | 19% | 85% |  |
 | 4 | 48% | 66% | Median |
 | 5 | 17% | 18% |  |
-| 6 | 1.1% | 1.1% |  |
+| 6 | 1.1% | 1.2% |  |
 | 7 | 0% | 0% |  |
 
 
