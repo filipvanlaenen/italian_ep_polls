@@ -415,8 +415,8 @@ Last result: **17** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17 | 15–19 | 14–20 | 14–20 | 13–21 |
-| [30 April 2019](2019-04-30-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 15 | 15 | 14–16 | 14–17 | 14–18 |
-| [28–29 April 2019](2019-04-29-Tecnè.html) | Tecnè | 15 | 13–17 | 13–18 | 13–18 | 13–19 |
+| [30 April 2019](2019-04-30-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 15 | 14–16 | 14–17 | 13–17 | 13–18 |
+| [28–29 April 2019](2019-04-29-Tecnè.html) | Tecnè | 16 | 15–17 | 14–17 | 14–18 | 14–18 |
 | [24–29 April 2019](2019-04-29-SWG.html) | SWG <br> LA7 | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
 | [25 April 2019](2019-04-25-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 17 | 16–19 | 16–19 | 16–19 | 15–20 |
 | [18–23 April 2019](2019-04-23-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Sole 24 Ore | 15 | 14–16 | 14–16 | 14–17 | 13–17 |

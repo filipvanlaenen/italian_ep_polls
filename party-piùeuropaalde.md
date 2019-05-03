@@ -408,7 +408,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–3 | 0–3 | 0–4 |
-| [30 April 2019](2019-04-30-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 0 | 0 | 0 | 0 | 0–3 |
+| [30 April 2019](2019-04-30-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 0 | 0 | 0 | 0–3 | 0–3 |
 | [28–29 April 2019](2019-04-29-Tecnè.html) | Tecnè |  |  |  |  |  |
 | [24–29 April 2019](2019-04-29-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0–3 | 0–3 |
 | [25 April 2019](2019-04-25-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 0 | 0 | 0 | 0 | 0–3 |
