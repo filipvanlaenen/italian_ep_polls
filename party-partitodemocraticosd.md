@@ -11,6 +11,8 @@ Last result: **40.8%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20.9% | 18.8–22.7% | 18.3–23.2% | 17.7–23.6% | 16.8–24.4% |
+| [30 April 2019](2019-04-30-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 22.0% | 20.4–23.7% | 19.9–24.2% | 19.5–24.7% | 18.8–25.5% |
+| [28–29 April 2019](2019-04-29-Tecnè.html) | Tecnè | 21.6% | 20.0–23.4% | 19.5–23.8% | 19.2–24.3% | 18.4–25.1% |
 | [24–29 April 2019](2019-04-29-SWG.html) | SWG <br> LA7 | 22.5% | 21.2–24.0% | 20.8–24.4% | 20.5–24.7% | 19.9–25.4% |
 | [25 April 2019](2019-04-25-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 22.6% | 21.3–24.1% | 20.9–24.4% | 20.6–24.8% | 20.0–25.5% |
 | [18–23 April 2019](2019-04-23-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Sole 24 Ore | 20.5% | 19.2–21.9% | 18.9–22.3% | 18.6–22.7% | 18.0–23.3% |
@@ -425,6 +427,8 @@ Last result: **31** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 15 | 13–17 | 13–17 | 13–18 | 12–19 |
+| [30 April 2019](2019-04-30-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 16 | 16–17 | 16–17 | 15–17 | 15–17 |
+| [28–29 April 2019](2019-04-29-Tecnè.html) | Tecnè | 16 | 14–16 | 13–16 | 13–16 | 13–16 |
 | [24–29 April 2019](2019-04-29-SWG.html) | SWG <br> LA7 | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
 | [25 April 2019](2019-04-25-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 16 | 15–17 | 15–18 | 14–18 | 14–19 |
 | [18–23 April 2019](2019-04-23-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Sole 24 Ore | 14 | 13–15 | 13–16 | 13–16 | 12–17 |

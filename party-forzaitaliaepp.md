@@ -11,6 +11,8 @@ Last result: **16.8%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9.9% | 8.6–11.8% | 8.2–12.6% | 7.9–13.1% | 7.4–14.1% |
+| [30 April 2019](2019-04-30-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 8.5% | 7.5–9.7% | 7.2–10.1% | 6.9–10.4% | 6.4–11.0% |
+| [28–29 April 2019](2019-04-29-Tecnè.html) | Tecnè | 12.3% | 11.1–13.7% | 10.7–14.1% | 10.4–14.5% | 9.8–15.2% |
 | [24–29 April 2019](2019-04-29-SWG.html) | SWG <br> LA7 | 8.8% | 7.9–9.8% | 7.7–10.1% | 7.5–10.3% | 7.1–10.9% |
 | [25 April 2019](2019-04-25-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 10.2% | 9.3–11.3% | 9.0–11.6% | 8.8–11.9% | 8.4–12.4% |
 | [18–23 April 2019](2019-04-23-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Sole 24 Ore | 8.7% | 7.8–9.7% | 7.5–10.0% | 7.3–10.2% | 7.0–10.7% |
@@ -410,6 +412,8 @@ Last result: **13** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 7–9 | 6–10 | 6–10 | 6–11 |
+| [30 April 2019](2019-04-30-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 7 | 6–7 | 6–7 | 6–7 | 5–7 |
+| [28–29 April 2019](2019-04-29-Tecnè.html) | Tecnè | 8 | 8–10 | 8–10 | 8–11 | 7–11 |
 | [24–29 April 2019](2019-04-29-SWG.html) | SWG <br> LA7 | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
 | [25 April 2019](2019-04-25-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
 | [18–23 April 2019](2019-04-23-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Sole 24 Ore | 7 | 6–7 | 6–7 | 5–8 | 5–8 |

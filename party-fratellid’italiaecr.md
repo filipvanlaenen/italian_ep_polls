@@ -11,6 +11,8 @@ Last result: **3.7%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4.9% | 3.9–6.1% | 3.6–6.4% | 3.4–6.7% | 3.0–7.3% |
+| [30 April 2019](2019-04-30-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
+| [28–29 April 2019](2019-04-29-Tecnè.html) | Tecnè | 5.2% | 4.4–6.2% | 4.2–6.5% | 4.0–6.8% | 3.6–7.3% |
 | [24–29 April 2019](2019-04-29-SWG.html) | SWG <br> LA7 | 5.0% | 4.3–5.8% | 4.2–6.0% | 4.0–6.2% | 3.7–6.6% |
 | [25 April 2019](2019-04-25-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 5.4% | 4.7–6.2% | 4.5–6.4% | 4.3–6.6% | 4.0–7.0% |
 | [18–23 April 2019](2019-04-23-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Sole 24 Ore | 5.4% | 4.7–6.2% | 4.5–6.5% | 4.4–6.7% | 4.1–7.1% |
@@ -406,6 +408,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
+| [30 April 2019](2019-04-30-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 5 | 5 | 5 | 5–6 | 3–6 |
+| [28–29 April 2019](2019-04-29-Tecnè.html) | Tecnè | 3 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [24–29 April 2019](2019-04-29-SWG.html) | SWG <br> LA7 | 4 | 3–4 | 3–5 | 3–5 | 0–5 |
 | [25 April 2019](2019-04-25-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | [18–23 April 2019](2019-04-23-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Sole 24 Ore | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
