@@ -54,7 +54,7 @@ Last result: **3.7%** (General Election of 25 May 2014)
 | [20–21 March 2019](2019-03-21-Euromedia.html) | Euromedia <br> Rai 1 | 4.8% | 3.9–5.9% | 3.7–6.2% | 3.5–6.5% | 3.1–7.0% |
 | [19–20 March 2019](2019-03-20-IndexResearch.html) | Index Research <br> LA7 | 4.4% | 3.6–5.5% | 3.4–5.8% | 3.2–6.0% | 2.8–6.6% |
 | [19 March 2019](2019-03-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 4.5% | 3.8–5.5% | 3.6–5.7% | 3.4–6.0% | 3.0–6.5% |
-| [19 March 2019](2019-03-19-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 4.8% | 4.2–5.5% | 4.0–5.8% | 3.9–5.9% | 3.6–6.3% |
+| [19 March 2019](2019-03-19-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 4.8% | 4.2–5.5% | 4.1–5.7% | 3.9–5.9% | 3.6–6.3% |
 | [17–18 March 2019](2019-03-18-Tecnè.html) | Tecnè <br> Quarta Repubblica and Rete 4 | 4.4% | 3.7–5.3% | 3.5–5.6% | 3.3–5.9% | 3.0–6.4% |
 | [13–18 March 2019](2019-03-18-SWG.html) | SWG <br> LA7 | 4.4% | 3.8–5.2% | 3.6–5.4% | 3.5–5.6% | 3.2–6.0% |
 | [12–13 March 2019](2019-03-13-IndexResearch.html) | Index Research <br> LA7 | 4.2% | 3.5–5.3% | 3.2–5.6% | 3.0–5.9% | 2.7–6.4% |
@@ -447,17 +447,17 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [20–21 March 2019](2019-03-21-Tecnè.html) | Tecnè <br> Rete 4 | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [21 March 2019](2019-03-21-Piepoli.html) | Piepoli <br> Rai 1 | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
 | [20–21 March 2019](2019-03-21-Euromedia.html) | Euromedia <br> Rai 1 | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
-| [19–20 March 2019](2019-03-20-IndexResearch.html) | Index Research <br> LA7 | 4 | 0–4 | 0–4 | 0–4 | 0–4 |
-| [19 March 2019](2019-03-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 3 | 3 | 3 | 3–4 | 0–5 |
-| [19 March 2019](2019-03-19-EMGAcqua.html) | EMG Acqua <br> Rai 3 |  |  |  |  |  |
-| [17–18 March 2019](2019-03-18-Tecnè.html) | Tecnè <br> Quarta Repubblica and Rete 4 | 4 | 0–4 | 0–4 | 0–5 | 0–5 |
-| [13–18 March 2019](2019-03-18-SWG.html) | SWG <br> LA7 | 4 | 4 | 4 | 4–5 | 4–5 |
-| [12–13 March 2019](2019-03-13-IndexResearch.html) | Index Research <br> LA7 | 4 | 0–4 | 0–4 | 0–5 | 0–6 |
+| [19–20 March 2019](2019-03-20-IndexResearch.html) | Index Research <br> LA7 | 4 | 0–4 | 0–4 | 0–5 | 0–5 |
+| [19 March 2019](2019-03-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
+| [19 March 2019](2019-03-19-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 4 | 3–4 | 3–5 | 0–5 | 0–5 |
+| [17–18 March 2019](2019-03-18-Tecnè.html) | Tecnè <br> Quarta Repubblica and Rete 4 | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [13–18 March 2019](2019-03-18-SWG.html) | SWG <br> LA7 | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
+| [12–13 March 2019](2019-03-13-IndexResearch.html) | Index Research <br> LA7 | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [11–13 March 2019](2019-03-13-DemosPi.html) | Demos & Pi <br> La Repubblica | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [12–13 March 2019](2019-03-13-Demopolis.html) | Demopolis | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
-| [12 March 2019](2019-03-12-Piepoli.html) | Piepoli | 4 | 4 | 4 | 4 | 0–4 |
-| [12 March 2019](2019-03-12-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 0 | 0 | 0 | 0 | 0–5 |
-| [12 March 2019](2019-03-12-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 4 | 4 | 4–5 | 4–5 | 4–5 |
+| [12 March 2019](2019-03-12-Piepoli.html) | Piepoli | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
+| [12 March 2019](2019-03-12-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [12 March 2019](2019-03-12-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 4 | 3–4 | 3–5 | 3–5 | 0–5 |
 | [6–11 March 2019](2019-03-11-SWG.html) | SWG <br> LA7 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [6–7 March 2019](2019-03-07-Tecnè.html) | Tecnè <br> Forza Italia |  |  |  |  |  |
 | [5–6 March 2019](2019-03-06-IndexResearch.html) | Index Research <br> LA7 |  |  |  |  |  |

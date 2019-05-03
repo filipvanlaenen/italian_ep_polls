@@ -10,7 +10,7 @@
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Lega Nord (ENF) | 6.2% | 32.5% | 30.6–34.4% |30.1–35.0% |29.7–35.5% |28.8–36.4% |
+| Lega Nord (EAPN) | 6.2% | 32.5% | 30.6–34.4% |30.1–35.0% |29.7–35.5% |28.8–36.4% |
 | Movimento 5 Stelle (EFDD) | 21.2% | 21.0% | 19.4–22.7% |19.0–23.2% |18.6–23.6% |17.8–24.5% |
 | Partito Democratico (S&D) | 40.8% | 21.0% | 19.4–22.7% |19.0–23.2% |18.6–23.6% |17.8–24.5% |
 | Forza Italia (EPP) | 16.8% | 11.5% | 10.3–12.9% |10.0–13.3% |9.7–13.6% |9.1–14.3% |
@@ -18,7 +18,7 @@
 | Più Europa (ALDE) | 0.0% | 3.5% | 2.9–4.4% |2.7–4.6% |2.5–4.8% |2.2–5.3% |
 | Liberi e Uguali (S&D) | 0.0% | 1.5% | 1.1–2.1% |1.0–2.3% |0.9–2.5% |0.7–2.8% |
 | Potere al Popolo (GUE/NGL) | 0.0% | 1.0% | 0.7–1.5% |0.6–1.7% |0.5–1.8% |0.4–2.1% |
-| Noi con l’Italia (EPP) | 0.0% | 0.5% | 0.3–0.9% |0.3–1.1% |0.2–1.2% |0.2–1.4% |
+| Noi con l’Italia (ECR) | 0.0% | 0.5% | 0.3–0.9% |0.3–1.1% |0.2–1.2% |0.2–1.4% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -30,21 +30,21 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#lega-nord-(enf)">Lega Nord (ENF)</a> | 5 | 29 | 29 |29 |29 |24–29 |
-| <a href="#movimento-5-stelle-(efdd)">Movimento 5 Stelle (EFDD)</a> | 17 | 17 | 17 |17 |17 |14–17 |
-| <a href="#partito-democratico-(s&d)">Partito Democratico (S&D)</a> | 31 | 16 | 16 |16 |16 |15–16 |
-| <a href="#forza-italia-(epp)">Forza Italia (EPP)</a> | 13 | 10 | 10 |10 |10 |9–10 |
-| <a href="#fratelli-d’italia-(ecr)">Fratelli d’Italia (ECR)</a> | 0 | 0 | 0 |0 |0 |0–5 |
-| <a href="#più-europa-(alde)">Più Europa (ALDE)</a> | 0 | 0 | 0 |0 |0 |0–4 |
+| <a href="#lega-nord-(eapn)">Lega Nord (EAPN)</a> | 5 | 26 | 25–28 |24–29 |24–29 |23–31 |
+| <a href="#movimento-5-stelle-(efdd)">Movimento 5 Stelle (EFDD)</a> | 17 | 17 | 16–18 |15–19 |15–19 |14–20 |
+| <a href="#partito-democratico-(s&d)">Partito Democratico (S&D)</a> | 31 | 16 | 14–18 |14–18 |14–18 |13–19 |
+| <a href="#forza-italia-(epp)">Forza Italia (EPP)</a> | 13 | 10 | 8–10 |8–11 |8–11 |7–12 |
+| <a href="#fratelli-d’italia-(ecr)">Fratelli d’Italia (ECR)</a> | 0 | 3 | 0–4 |0–4 |0–4 |0–5 |
+| <a href="#più-europa-(alde)">Più Europa (ALDE)</a> | 0 | 0 | 0–4 |0–4 |0–4 |0–4 |
 | <a href="#liberi-e-uguali-(s&d)">Liberi e Uguali (S&D)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#potere-al-popolo-(gue/ngl)">Potere al Popolo (GUE/NGL)</a> | 0 | 0 | 0 |0 |0 |0 |
-| <a href="#noi-con-l’italia-(epp)">Noi con l’Italia (EPP)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#noi-con-l’italia-(ecr)">Noi con l’Italia (ECR)</a> | 0 | 0 | 0 |0 |0 |0 |
 
-### Lega Nord (ENF)
+### Lega Nord (EAPN)
 
-*For a full overview of the results for this party, see the [Lega Nord (ENF)](party-leganordenf.html) page.*
+*For a full overview of the results for this party, see the [Lega Nord (EAPN)](party-leganordeapn.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-03-12-NotoSondaggi-seats-pmf-leganordenf.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-03-12-NotoSondaggi-seats-pmf-leganordeapn.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -64,16 +64,18 @@
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
-| 21 | 0% | 100% |  |
-| 22 | 0% | 100% |  |
-| 23 | 0.2% | 100% |  |
-| 24 | 0.5% | 99.8% |  |
-| 25 | 1.5% | 99.3% |  |
-| 26 | 0.2% | 98% |  |
-| 27 | 0% | 98% |  |
-| 28 | 0% | 98% |  |
-| 29 | 98% | 98% | Median |
-| 30 | 0% | 0% |  |
+| 21 | 0.1% | 100% |  |
+| 22 | 0.3% | 99.9% |  |
+| 23 | 1.1% | 99.6% |  |
+| 24 | 8% | 98% |  |
+| 25 | 18% | 90% |  |
+| 26 | 41% | 73% | Median |
+| 27 | 18% | 32% |  |
+| 28 | 5% | 14% |  |
+| 29 | 7% | 9% |  |
+| 30 | 0.7% | 2% |  |
+| 31 | 1.1% | 1.1% |  |
+| 32 | 0% | 0% |  |
 
 ### Movimento 5 Stelle (EFDD)
 
@@ -83,12 +85,16 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 14 | 1.5% | 100% |  |
-| 15 | 0.1% | 98.5% |  |
-| 16 | 0.7% | 98% |  |
-| 17 | 98% | 98% | Last Result, Median |
-| 18 | 0.2% | 0.2% |  |
-| 19 | 0% | 0% |  |
+| 13 | 0.1% | 100% |  |
+| 14 | 1.1% | 99.9% |  |
+| 15 | 6% | 98.8% |  |
+| 16 | 40% | 92% |  |
+| 17 | 16% | 52% | Last Result, Median |
+| 18 | 31% | 36% |  |
+| 19 | 3% | 5% |  |
+| 20 | 2% | 2% |  |
+| 21 | 0.1% | 0.1% |  |
+| 22 | 0% | 0% |  |
 
 ### Partito Democratico (S&D)
 
@@ -98,12 +104,13 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 14 | 0.5% | 100% |  |
-| 15 | 0.3% | 99.5% |  |
-| 16 | 99.2% | 99.2% | Median |
-| 17 | 0% | 0% |  |
-| 18 | 0% | 0% |  |
-| 19 | 0% | 0% |  |
+| 13 | 2% | 100% |  |
+| 14 | 13% | 98% |  |
+| 15 | 25% | 85% |  |
+| 16 | 27% | 60% | Median |
+| 17 | 9% | 34% |  |
+| 18 | 23% | 25% |  |
+| 19 | 1.3% | 1.3% |  |
 | 20 | 0% | 0% |  |
 | 21 | 0% | 0% |  |
 | 22 | 0% | 0% |  |
@@ -125,10 +132,12 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 0.6% | 100% |  |
-| 10 | 99.3% | 99.4% | Median |
-| 11 | 0.2% | 0.2% |  |
-| 12 | 0% | 0% |  |
+| 7 | 1.2% | 100% |  |
+| 8 | 24% | 98.8% |  |
+| 9 | 24% | 75% |  |
+| 10 | 43% | 51% | Median |
+| 11 | 7% | 7% |  |
+| 12 | 0.6% | 0.6% |  |
 | 13 | 0% | 0% | Last Result |
 
 ### Fratelli d’Italia (ECR)
@@ -139,12 +148,12 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98% | 100% | Last Result, Median |
-| 1 | 0% | 2% |  |
-| 2 | 0% | 2% |  |
-| 3 | 2% | 2% |  |
-| 4 | 0.1% | 0.6% |  |
-| 5 | 0.5% | 0.5% |  |
+| 0 | 45% | 100% | Last Result |
+| 1 | 0% | 55% |  |
+| 2 | 0% | 55% |  |
+| 3 | 20% | 55% | Median |
+| 4 | 34% | 35% |  |
+| 5 | 1.1% | 1.1% |  |
 | 6 | 0% | 0% |  |
 
 ### Più Europa (ALDE)
@@ -155,12 +164,13 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98% | 100% | Last Result, Median |
-| 1 | 0% | 2% |  |
-| 2 | 0% | 2% |  |
-| 3 | 0.2% | 2% |  |
-| 4 | 2% | 2% |  |
-| 5 | 0% | 0% |  |
+| 0 | 69% | 100% | Last Result, Median |
+| 1 | 0% | 31% |  |
+| 2 | 0% | 31% |  |
+| 3 | 20% | 31% |  |
+| 4 | 11% | 11% |  |
+| 5 | 0.2% | 0.2% |  |
+| 6 | 0% | 0% |  |
 
 ### Liberi e Uguali (S&D)
 
@@ -182,11 +192,11 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Last Result, Median |
 
-### Noi con l’Italia (EPP)
+### Noi con l’Italia (ECR)
 
-*For a full overview of the results for this party, see the [Noi con l’Italia (EPP)](party-noiconl’italiaepp.html) page.*
+*For a full overview of the results for this party, see the [Noi con l’Italia (ECR)](party-noiconl’italiaecr.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-03-12-NotoSondaggi-seats-pmf-noiconl’italiaepp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-03-12-NotoSondaggi-seats-pmf-noiconl’italiaecr.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -201,14 +211,13 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Lega Nord (ENF) | 5 | 29 | 0% | 29 | 29 | 29 | 24–29 |
-| Movimento 5 Stelle (EFDD) | 17 | 17 | 0% | 17 | 17 | 17 | 14–17 |
-| Partito Democratico (S&D) – Liberi e Uguali (S&D) | 31 | 16 | 0% | 16 | 16 | 16 | 15–16 |
-| Fratelli d’Italia (ECR) | 0 | 0 | 0% | 0 | 0 | 0 | 0–5 |
-| Più Europa (ALDE) | 0 | 0 | 0% | 0 | 0 | 0 | 0–4 |
+| Lega Nord (EAPN) | 5 | 26 | 0% | 25–28 | 24–29 | 24–29 | 23–31 |
+| Movimento 5 Stelle (EFDD) | 17 | 17 | 0% | 16–18 | 15–19 | 15–19 | 14–20 |
+| Partito Democratico (S&D) – Liberi e Uguali (S&D) | 31 | 16 | 0% | 14–18 | 14–18 | 14–18 | 13–19 |
+| Fratelli d’Italia (ECR) – Noi con l’Italia (ECR) | 0 | 3 | 0% | 0–4 | 0–4 | 0–4 | 0–5 |
 | Potere al Popolo (GUE/NGL) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
-### Lega Nord (ENF)
+### Lega Nord (EAPN)
 
 ![Graph with seats probability mass function not yet produced](2019-03-12-NotoSondaggi-coalitions-seats-pmf-ln.png "Seats Probability Mass Function")
 
@@ -230,16 +239,18 @@
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
-| 21 | 0% | 100% |  |
-| 22 | 0% | 100% |  |
-| 23 | 0.2% | 100% |  |
-| 24 | 0.5% | 99.8% |  |
-| 25 | 1.5% | 99.3% |  |
-| 26 | 0.2% | 98% |  |
-| 27 | 0% | 98% |  |
-| 28 | 0% | 98% |  |
-| 29 | 98% | 98% | Median |
-| 30 | 0% | 0% |  |
+| 21 | 0.1% | 100% |  |
+| 22 | 0.3% | 99.9% |  |
+| 23 | 1.1% | 99.6% |  |
+| 24 | 8% | 98% |  |
+| 25 | 18% | 90% |  |
+| 26 | 41% | 73% | Median |
+| 27 | 18% | 32% |  |
+| 28 | 5% | 14% |  |
+| 29 | 7% | 9% |  |
+| 30 | 0.7% | 2% |  |
+| 31 | 1.1% | 1.1% |  |
+| 32 | 0% | 0% |  |
 
 ### Movimento 5 Stelle (EFDD)
 
@@ -247,12 +258,16 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 14 | 1.5% | 100% |  |
-| 15 | 0.1% | 98.5% |  |
-| 16 | 0.7% | 98% |  |
-| 17 | 98% | 98% | Last Result, Median |
-| 18 | 0.2% | 0.2% |  |
-| 19 | 0% | 0% |  |
+| 13 | 0.1% | 100% |  |
+| 14 | 1.1% | 99.9% |  |
+| 15 | 6% | 98.8% |  |
+| 16 | 40% | 92% |  |
+| 17 | 16% | 52% | Last Result, Median |
+| 18 | 31% | 36% |  |
+| 19 | 3% | 5% |  |
+| 20 | 2% | 2% |  |
+| 21 | 0.1% | 0.1% |  |
+| 22 | 0% | 0% |  |
 
 ### Partito Democratico (S&D) – Liberi e Uguali (S&D)
 
@@ -260,12 +275,13 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 14 | 0.5% | 100% |  |
-| 15 | 0.3% | 99.5% |  |
-| 16 | 99.2% | 99.2% | Median |
-| 17 | 0% | 0% |  |
-| 18 | 0% | 0% |  |
-| 19 | 0% | 0% |  |
+| 13 | 2% | 100% |  |
+| 14 | 13% | 98% |  |
+| 15 | 25% | 85% |  |
+| 16 | 27% | 60% | Median |
+| 17 | 9% | 34% |  |
+| 18 | 23% | 25% |  |
+| 19 | 1.3% | 1.3% |  |
 | 20 | 0% | 0% |  |
 | 21 | 0% | 0% |  |
 | 22 | 0% | 0% |  |
@@ -279,32 +295,19 @@
 | 30 | 0% | 0% |  |
 | 31 | 0% | 0% | Last Result |
 
-### Fratelli d’Italia (ECR)
+### Fratelli d’Italia (ECR) – Noi con l’Italia (ECR)
 
-![Graph with seats probability mass function not yet produced](2019-03-12-NotoSondaggi-coalitions-seats-pmf-fdi.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-03-12-NotoSondaggi-coalitions-seats-pmf-fdi–nci.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98% | 100% | Last Result, Median |
-| 1 | 0% | 2% |  |
-| 2 | 0% | 2% |  |
-| 3 | 2% | 2% |  |
-| 4 | 0.1% | 0.6% |  |
-| 5 | 0.5% | 0.5% |  |
+| 0 | 45% | 100% | Last Result |
+| 1 | 0% | 55% |  |
+| 2 | 0% | 55% |  |
+| 3 | 20% | 55% | Median |
+| 4 | 34% | 35% |  |
+| 5 | 1.1% | 1.1% |  |
 | 6 | 0% | 0% |  |
-
-### Più Europa (ALDE)
-
-![Graph with seats probability mass function not yet produced](2019-03-12-NotoSondaggi-coalitions-seats-pmf-e.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98% | 100% | Last Result, Median |
-| 1 | 0% | 2% |  |
-| 2 | 0% | 2% |  |
-| 3 | 0.2% | 2% |  |
-| 4 | 2% | 2% |  |
-| 5 | 0% | 0% |  |
 
 ### Potere al Popolo (GUE/NGL)
 
@@ -326,6 +329,6 @@
 ### Calculations
 
 + **Sample size:** 1000
-+ **Simulations done:** 1,024
-+ **Error estimate:** 2.88%
++ **Simulations done:** 131,072
++ **Error estimate:** 3.75%
 
