@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 03 May 2019 11:37:35 +0200</pubDate>
+    <pubDate>Fri, 03 May 2019 14:50:30 +0200</pubDate>
     <item>
       <title>Opinion Poll by Noto Sondaggi for Rai 3, 30 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-04-30-NotoSondaggi.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-04-30-NotoSondaggi.png"
         length="169669"
         type="image/png"/>
-      <pubDate>Fri, 03 May 2019 11:14:06 +0200</pubDate>
-      <dc:date>2019-05-03T11:14:06.149411+02:00</dc:date>
+      <pubDate>Fri, 03 May 2019 14:50:30 +0200</pubDate>
+      <dc:date>2019-05-03T14:50:30.978912+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Tecnè, 28–29 April 2019 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-04-29-Tecnè.png"
         length="152860"
         type="image/png"/>
-      <pubDate>Fri, 03 May 2019 11:37:35 +0200</pubDate>
-      <dc:date>2019-05-03T11:37:35.291297+02:00</dc:date>
+      <pubDate>Fri, 03 May 2019 14:38:48 +0200</pubDate>
+      <dc:date>2019-05-03T14:38:48.679945+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SWG for LA7, 24–29 April 2019 – Seat Projections for the Parties</title>
@@ -1159,6 +1159,6 @@
       <pubDate>Fri, 03 May 2019 08:38:46 +0200</pubDate>
       <dc:date>2019-05-03T08:38:46.452152+02:00</dc:date>
     </item>
-    <dc:date>2019-05-03T11:37:35.291297+02:00</dc:date>
+    <dc:date>2019-05-03T14:50:30.978912+02:00</dc:date>
   </channel>
 </rss>
