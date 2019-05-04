@@ -12,10 +12,10 @@ Last result: **3.7%** (General Election of 25 May 2014)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4.9% | 3.9–6.1% | 3.6–6.4% | 3.4–6.7% | 3.0–7.3% |
 | [30 April 2019](2019-04-30-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
-| [30 April 2019](2019-04-30-IndexResearch.html) | Index Research <br> LA7 | 5.0% | N/A | N/A | N/A | N/A |
+| [30 April 2019](2019-04-30-IndexResearch.html) | Index Research <br> LA7 | 5.0% | 4.1–6.1% | 3.9–6.5% | 3.7–6.8% | 3.3–7.3% |
 | [28–29 April 2019](2019-04-29-Tecnè.html) | Tecnè | 5.2% | 4.4–6.2% | 4.2–6.5% | 4.0–6.8% | 3.6–7.3% |
 | [24–29 April 2019](2019-04-29-SWG.html) | SWG <br> LA7 | 5.0% | 4.3–5.8% | 4.2–6.0% | 4.0–6.2% | 3.7–6.6% |
-| [27 April 2019](2019-04-27-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 5.1% | N/A | N/A | N/A | N/A |
+| [27 April 2019](2019-04-27-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 5.1% | 4.4–5.9% | 4.2–6.1% | 4.1–6.3% | 3.8–6.7% |
 | [18–23 April 2019](2019-04-23-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Sole 24 Ore | 5.4% | 4.7–6.2% | 4.5–6.5% | 4.4–6.7% | 4.1–7.1% |
 | [17–23 April 2019](2019-04-23-SWG.html) | SWG <br> LA7 | 4.9% | 4.3–5.7% | 4.1–6.0% | 3.9–6.2% | 3.7–6.6% |
 | [23 April 2019](2019-04-23-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 6.0% | N/A | N/A | N/A | N/A |
@@ -412,10 +412,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [30 April 2019](2019-04-30-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 5 | 4–5 | 4–6 | 3–6 | 3–6 |
-| [30 April 2019](2019-04-30-IndexResearch.html) | Index Research <br> LA7 |  |  |  |  |  |
-| [28–29 April 2019](2019-04-29-Tecnè.html) | Tecnè | 4 | 3–4 | 3–5 | 3–5 | 0–5 |
+| [30 April 2019](2019-04-30-IndexResearch.html) | Index Research <br> LA7 | 4 | 3–5 | 0–5 | 0–5 | 0–6 |
+| [28–29 April 2019](2019-04-29-Tecnè.html) | Tecnè | 4 | 3–5 | 3–5 | 0–5 | 0–5 |
 | [24–29 April 2019](2019-04-29-SWG.html) | SWG <br> LA7 | 4 | 3–4 | 3–5 | 3–5 | 0–5 |
-| [27 April 2019](2019-04-27-EMGAcqua.html) | EMG Acqua <br> Rai 3 |  |  |  |  |  |
+| [27 April 2019](2019-04-27-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 4 | 3–5 | 3–5 | 3–5 | 0–5 |
 | [18–23 April 2019](2019-04-23-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Sole 24 Ore | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | [17–23 April 2019](2019-04-23-SWG.html) | SWG <br> LA7 | 4 | 3–4 | 3–4 | 3–5 | 0–5 |
 | [23 April 2019](2019-04-23-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 |  |  |  |  |  |
