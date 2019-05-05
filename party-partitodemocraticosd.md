@@ -437,8 +437,8 @@ Last result: **31** seats (General Election of 25 May 2014)
 | [27 April 2019](2019-04-27-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
 | [18–23 April 2019](2019-04-23-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Sole 24 Ore | 14 | 13–15 | 13–16 | 13–16 | 12–17 |
 | [17–23 April 2019](2019-04-23-SWG.html) | SWG <br> LA7 | 15 | 14–16 | 14–17 | 14–17 | 13–17 |
-| [23 April 2019](2019-04-23-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 15 | 13–15 | 13–15 | 13–16 | 12–17 |
-| [23 April 2019](2019-04-23-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 15 | 15 | 15 | 15 | 15–17 |
+| [23 April 2019](2019-04-23-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 15 | 13–16 | 13–16 | 13–17 | 12–17 |
+| [23 April 2019](2019-04-23-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 17 | 16–18 | 15–18 | 15–18 | 15–19 |
 | [22–23 April 2019](2019-04-23-Demopolis.html) | Demopolis | 14 | 13–15 | 13–16 | 13–16 | 12–16 |
 | [19–22 April 2019](2019-04-22-TermometroPolitico.html) | Termometro Politico | 16 | 15–18 | 15–18 | 14–19 | 14–19 |
 | [20 April 2019](2019-04-20-Ipsos.html) | Ipsos <br> Corriere della Sera | 14 | 12–15 | 12–16 | 12–16 | 11–17 |
