@@ -10,7 +10,7 @@ Last result: **16.8%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.9% | 8.6–11.8% | 8.2–12.6% | 7.9–13.1% | 7.4–14.1% |
+| N/A | [Poll Average](average.html) | 9.4% | 7.9–11.7% | 7.6–12.5% | 7.3–13.1% | 6.8–14.1% |
 | [30 April 2019](2019-04-30-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 8.5% | 7.5–9.7% | 7.2–10.1% | 6.9–10.4% | 6.4–11.0% |
 | [30 April 2019](2019-04-30-IndexResearch.html) | Index Research <br> LA7 | 9.2% | 8.0–10.7% | 7.7–11.1% | 7.4–11.5% | 6.9–12.2% |
 | [28–29 April 2019](2019-04-29-Tecnè.html) | Tecnè | 12.3% | 11.1–13.7% | 10.7–14.1% | 10.4–14.5% | 9.8–15.2% |
@@ -392,14 +392,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.7% | 100% |  |
-| 7.5–8.5% | 9% | 99.2% |  |
-| 8.5–9.5% | 28% | 90% |  |
-| 9.5–10.5% | 32% | 62% | Median |
-| 10.5–11.5% | 17% | 30% |  |
-| 11.5–12.5% | 8% | 13% |  |
-| 12.5–13.5% | 4% | 5% |  |
+| 4.5–5.5% | 0% | 100% |  |
+| 5.5–6.5% | 0.2% | 100% |  |
+| 6.5–7.5% | 5% | 99.8% |  |
+| 7.5–8.5% | 20% | 95% |  |
+| 8.5–9.5% | 29% | 75% | Median |
+| 9.5–10.5% | 22% | 46% |  |
+| 10.5–11.5% | 12% | 24% |  |
+| 11.5–12.5% | 7% | 12% |  |
+| 12.5–13.5% | 3% | 5% |  |
 | 13.5–14.5% | 1.1% | 1.4% |  |
 | 14.5–15.5% | 0.2% | 0.2% |  |
 | 15.5–16.5% | 0% | 0% |  |
@@ -414,7 +415,7 @@ Last result: **13** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 7–9 | 6–10 | 6–10 | 6–11 |
+| N/A | [Poll Average](average.html) | 7 | 6–9 | 6–9 | 5–10 | 5–11 |
 | [30 April 2019](2019-04-30-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 6 | 6–7 | 5–8 | 5–8 | 5–8 |
 | [30 April 2019](2019-04-30-IndexResearch.html) | Index Research <br> LA7 | 7 | 6–8 | 6–9 | 6–9 | 5–10 |
 | [28–29 April 2019](2019-04-29-Tecnè.html) | Tecnè | 9 | 8–10 | 8–10 | 8–11 | 7–11 |
@@ -798,14 +799,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 0.2% | 100% |  |
-| 6 | 7% | 99.8% |  |
-| 7 | 30% | 93% |  |
-| 8 | 40% | 63% | Median |
-| 9 | 18% | 23% |  |
+| 5 | 3% | 100% |  |
+| 6 | 22% | 97% |  |
+| 7 | 32% | 74% | Median |
+| 8 | 25% | 43% |  |
+| 9 | 13% | 18% |  |
 | 10 | 4% | 5% |  |
-| 11 | 0.7% | 0.8% |  |
-| 12 | 0.1% | 0.1% |  |
+| 11 | 0.6% | 0.6% |  |
+| 12 | 0% | 0% |  |
 | 13 | 0% | 0% | Last Result |
 
 
