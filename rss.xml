@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 09 May 2019 16:16:51 +0200</pubDate>
+    <pubDate>Thu, 09 May 2019 19:26:14 +0200</pubDate>
     <item>
       <title>Opinion Poll by Demopolis, 5–7 May 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-05-07-Demopolis.html#seats</link>
@@ -100,14 +100,54 @@
       <dc:date>2019-05-09T15:41:45.454489+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Termometro Politico for LA7, 25–30 April 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-04-30-TermometroPolitico.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 16–19 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 14–16 seats&lt;/li&gt;&lt;li&gt;Lega Nord (EAPN): 21–24 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 5–7 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 4–5 seats&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-04-30-TermometroPolitico-seats.png"
+        length="137273"
+        type="image/png"/>
+      <pubDate>Thu, 09 May 2019 19:26:14 +0200</pubDate>
+      <dc:date>2019-05-09T19:26:14.687357+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Termometro Politico for LA7, 25–30 April 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-04-30-TermometroPolitico.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-04-30-TermometroPolitico-coalitions-seats.png"
+        length="124380"
+        type="image/png"/>
+      <pubDate>Thu, 09 May 2019 19:26:14 +0200</pubDate>
+      <dc:date>2019-05-09T19:26:14.687357+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Termometro Politico for LA7, 25–30 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-04-30-TermometroPolitico.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 21.2–24.9%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 19.6–23.2%&lt;/li&gt;&lt;li&gt;Lega Nord (EAPN): 28.4–32.4%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 7.2–9.6%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 4.9–7.0%&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 2.3–3.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-04-30-TermometroPolitico.png"
         length="157218"
         type="image/png"/>
-      <pubDate>Thu, 09 May 2019 06:59:30 +0200</pubDate>
-      <dc:date>2019-05-09T06:59:30.486136+02:00</dc:date>
+      <pubDate>Thu, 09 May 2019 19:26:14 +0200</pubDate>
+      <dc:date>2019-05-09T19:26:14.687357+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Piepoli for Rai 1, 30 April 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-04-30-Piepoli.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 13–19 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 12–17 seats&lt;/li&gt;&lt;li&gt;Lega Nord (EAPN): 21–27 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6–10 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 0–6 seats&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 0–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-04-30-Piepoli-seats.png"
+        length="177784"
+        type="image/png"/>
+      <pubDate>Thu, 09 May 2019 18:32:16 +0200</pubDate>
+      <dc:date>2019-05-09T18:32:16.855032+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Piepoli for Rai 1, 30 April 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-04-30-Piepoli.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-04-30-Piepoli-coalitions-seats.png"
+        length="179962"
+        type="image/png"/>
+      <pubDate>Thu, 09 May 2019 18:32:16 +0200</pubDate>
+      <dc:date>2019-05-09T18:32:16.855032+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Piepoli for Rai 1, 30 April 2019 – Voting Intentions</title>
@@ -116,8 +156,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-04-30-Piepoli.png"
         length="185242"
         type="image/png"/>
-      <pubDate>Thu, 09 May 2019 16:13:26 +0200</pubDate>
-      <dc:date>2019-05-09T16:13:26.75786+02:00</dc:date>
+      <pubDate>Thu, 09 May 2019 18:32:16 +0200</pubDate>
+      <dc:date>2019-05-09T18:32:16.855032+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Noto Sondaggi for Rai 3, 30 April 2019 – Seat Projections for the Parties</title>
@@ -180,14 +220,34 @@
       <dc:date>2019-05-04T15:24:11.683023+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Euromedia for Rai 1, 30 April 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-04-30-Euromedia.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 13–18 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 12–16 seats&lt;/li&gt;&lt;li&gt;Lega Nord (EAPN): 22–27 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6–9 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 0–5 seats&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 0–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-04-30-Euromedia-seats.png"
+        length="172512"
+        type="image/png"/>
+      <pubDate>Thu, 09 May 2019 19:15:23 +0200</pubDate>
+      <dc:date>2019-05-09T19:15:23.088101+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Euromedia for Rai 1, 30 April 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-04-30-Euromedia.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-04-30-Euromedia-coalitions-seats.png"
+        length="169306"
+        type="image/png"/>
+      <pubDate>Thu, 09 May 2019 19:15:23 +0200</pubDate>
+      <dc:date>2019-05-09T19:15:23.088101+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Euromedia for Rai 1, 30 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-04-30-Euromedia.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 17.8–23.4%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 17.5–23.1%&lt;/li&gt;&lt;li&gt;Lega Nord (EAPN): 29.6–36.1%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 8.3–12.6%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 3.9–7.0%&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 2.6–5.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-04-30-Euromedia.png"
         length="173974"
         type="image/png"/>
-      <pubDate>Thu, 09 May 2019 16:16:51 +0200</pubDate>
-      <dc:date>2019-05-09T16:16:51.34279+02:00</dc:date>
+      <pubDate>Thu, 09 May 2019 19:15:23 +0200</pubDate>
+      <dc:date>2019-05-09T19:15:23.088101+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Tecnè, 28–29 April 2019 – Seat Projections for the Parties</title>
@@ -1419,6 +1479,6 @@
       <pubDate>Wed, 08 May 2019 06:57:30 +0200</pubDate>
       <dc:date>2019-05-08T06:57:30.376817+02:00</dc:date>
     </item>
-    <dc:date>2019-05-09T16:16:51.34279+02:00</dc:date>
+    <dc:date>2019-05-09T19:26:14.687357+02:00</dc:date>
   </channel>
 </rss>
