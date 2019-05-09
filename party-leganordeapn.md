@@ -446,15 +446,15 @@ Last result: **5** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25 | 23–28 | 22–29 | 22–30 | 21–31 |
+| N/A | [Poll Average](average.html) | 25 | 22–28 | 22–29 | 22–30 | 21–31 |
 | [5–7 May 2019](2019-05-07-Demopolis.html) | Demopolis | 23 | 22–24 | 22–25 | 22–25 | 21–26 |
 | [30 April–6 May 2019](2019-05-06-SWG.html) | SWG <br> LA7 | 23 | 22–24 | 22–25 | 21–25 | 21–26 |
 | [2–3 May 2019](2019-05-03-Quorum.html) | Quorum <br> Sky TG 24 | 24 | 23–25 | 22–26 | 22–26 | 21–27 |
 | [25–30 April 2019](2019-04-30-TermometroPolitico.html) | Termometro Politico <br> LA7 | 23 | 22–24 | 22–24 | 21–24 | 21–25 |
-| [30 April 2019](2019-04-30-Piepoli.html) | Piepoli <br> Rai 1 | 25 | 25–27 | 24–27 | 22–27 | 19–27 |
+| [30 April 2019](2019-04-30-Piepoli.html) | Piepoli <br> Rai 1 | 24 | 22–26 | 21–26 | 21–27 | 20–28 |
 | [30 April 2019](2019-04-30-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 24 | 23–25 | 22–26 | 22–26 | 21–27 |
 | [30 April 2019](2019-04-30-IndexResearch.html) | Index Research <br> LA7 | 25 | 24–27 | 23–28 | 23–29 | 22–30 |
-| [30 April 2019](2019-04-30-Euromedia.html) | Euromedia <br> Rai 1 | 27 | 23–28 | 23–28 | 23–28 | 22–28 |
+| [30 April 2019](2019-04-30-Euromedia.html) | Euromedia <br> Rai 1 | 24 | 23–26 | 22–27 | 22–27 | 21–28 |
 | [28–29 April 2019](2019-04-29-Tecnè.html) | Tecnè | 23 | 22–24 | 21–25 | 21–25 | 20–26 |
 | [24–29 April 2019](2019-04-29-SWG.html) | SWG <br> LA7 | 24 | 23–25 | 22–25 | 22–26 | 21–26 |
 | [27 April 2019](2019-04-27-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 25 | 24–27 | 24–27 | 24–27 | 23–28 |
@@ -851,16 +851,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
 | 18 | 0% | 100% |  |
-| 19 | 0.1% | 100% |  |
-| 20 | 0.2% | 99.9% |  |
-| 21 | 1.3% | 99.7% |  |
-| 22 | 7% | 98% |  |
-| 23 | 16% | 92% |  |
-| 24 | 17% | 76% |  |
-| 25 | 21% | 59% | Median |
-| 26 | 11% | 38% |  |
-| 27 | 13% | 28% |  |
-| 28 | 7% | 14% |  |
+| 19 | 0% | 100% |  |
+| 20 | 0.3% | 100% |  |
+| 21 | 2% | 99.7% |  |
+| 22 | 8% | 98% |  |
+| 23 | 18% | 90% |  |
+| 24 | 21% | 72% |  |
+| 25 | 17% | 51% | Median |
+| 26 | 12% | 34% |  |
+| 27 | 9% | 22% |  |
+| 28 | 6% | 13% |  |
 | 29 | 3% | 7% |  |
 | 30 | 2% | 4% |  |
 | 31 | 1.1% | 2% |  |

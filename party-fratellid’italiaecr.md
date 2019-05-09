@@ -423,10 +423,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [30 April–6 May 2019](2019-05-06-SWG.html) | SWG <br> LA7 | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [2–3 May 2019](2019-05-03-Quorum.html) | Quorum <br> Sky TG 24 | 4 | 3–5 | 3–5 | 3–5 | 0–6 |
 | [25–30 April 2019](2019-04-30-TermometroPolitico.html) | Termometro Politico <br> LA7 | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
-| [30 April 2019](2019-04-30-Piepoli.html) | Piepoli <br> Rai 1 | 4 | 0–4 | 0–4 | 0–5 | 0–6 |
+| [30 April 2019](2019-04-30-Piepoli.html) | Piepoli <br> Rai 1 | 4 | 3–5 | 0–5 | 0–6 | 0–6 |
 | [30 April 2019](2019-04-30-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 5 | 4–5 | 4–6 | 3–6 | 3–6 |
 | [30 April 2019](2019-04-30-IndexResearch.html) | Index Research <br> LA7 | 4 | 3–5 | 0–5 | 0–5 | 0–6 |
-| [30 April 2019](2019-04-30-Euromedia.html) | Euromedia <br> Rai 1 | 4 | 3–5 | 3–5 | 3–5 | 0–6 |
+| [30 April 2019](2019-04-30-Euromedia.html) | Euromedia <br> Rai 1 | 4 | 3–5 | 3–5 | 0–5 | 0–6 |
 | [28–29 April 2019](2019-04-29-Tecnè.html) | Tecnè | 4 | 3–5 | 3–5 | 0–5 | 0–5 |
 | [24–29 April 2019](2019-04-29-SWG.html) | SWG <br> LA7 | 4 | 3–4 | 3–5 | 3–5 | 0–5 |
 | [27 April 2019](2019-04-27-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 4 | 3–5 | 3–5 | 3–5 | 0–5 |
@@ -812,10 +812,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 4% | 100% | Last Result |
 | 1 | 0% | 96% |  |
 | 2 | 0% | 96% |  |
-| 3 | 14% | 96% |  |
-| 4 | 64% | 81% | Median |
-| 5 | 17% | 18% |  |
-| 6 | 1.0% | 1.0% |  |
+| 3 | 15% | 96% |  |
+| 4 | 61% | 81% | Median |
+| 5 | 19% | 20% |  |
+| 6 | 1.1% | 1.1% |  |
 | 7 | 0% | 0% |  |
 
 

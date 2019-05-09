@@ -422,15 +422,15 @@ Last result: **13** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–9 | 5–9 | 5–10 | 5–10 |
+| N/A | [Poll Average](average.html) | 7 | 6–9 | 6–9 | 5–10 | 5–10 |
 | [5–7 May 2019](2019-05-07-Demopolis.html) | Demopolis | 6 | 6–7 | 6–7 | 5–8 | 5–8 |
 | [30 April–6 May 2019](2019-05-06-SWG.html) | SWG <br> LA7 | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [2–3 May 2019](2019-05-03-Quorum.html) | Quorum <br> Sky TG 24 | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
-| [25–30 April 2019](2019-04-30-TermometroPolitico.html) | Termometro Politico <br> LA7 | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
-| [30 April 2019](2019-04-30-Piepoli.html) | Piepoli <br> Rai 1 | 6 | 5–10 | 5–10 | 5–10 | 5–11 |
+| [25–30 April 2019](2019-04-30-TermometroPolitico.html) | Termometro Politico <br> LA7 | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
+| [30 April 2019](2019-04-30-Piepoli.html) | Piepoli <br> Rai 1 | 7 | 6–9 | 6–9 | 6–10 | 5–10 |
 | [30 April 2019](2019-04-30-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 6 | 6–7 | 5–8 | 5–8 | 5–8 |
 | [30 April 2019](2019-04-30-IndexResearch.html) | Index Research <br> LA7 | 7 | 6–8 | 6–9 | 6–9 | 5–10 |
-| [30 April 2019](2019-04-30-Euromedia.html) | Euromedia <br> Rai 1 | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
+| [30 April 2019](2019-04-30-Euromedia.html) | Euromedia <br> Rai 1 | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
 | [28–29 April 2019](2019-04-29-Tecnè.html) | Tecnè | 9 | 8–10 | 8–10 | 8–11 | 7–11 |
 | [24–29 April 2019](2019-04-29-SWG.html) | SWG <br> LA7 | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
 | [27 April 2019](2019-04-27-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
@@ -813,12 +813,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 7% | 100% |  |
-| 6 | 29% | 93% |  |
-| 7 | 29% | 64% | Median |
-| 8 | 22% | 35% |  |
-| 9 | 9% | 13% |  |
-| 10 | 3% | 4% |  |
+| 5 | 4% | 100% |  |
+| 6 | 28% | 96% |  |
+| 7 | 33% | 68% | Median |
+| 8 | 23% | 36% |  |
+| 9 | 10% | 13% |  |
+| 10 | 3% | 3% |  |
 | 11 | 0.3% | 0.3% |  |
 | 12 | 0% | 0% |  |
 | 13 | 0% | 0% | Last Result |
