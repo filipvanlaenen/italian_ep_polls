@@ -1,44 +1,44 @@
-# Opinion Poll by Quorum for Sky TG 24, 2–3 May 2019
+# Opinion Poll by Euromedia for Rai 1, 30 April 2019
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#coalitions">Coalitions</a> | <a href="#technical-information">Technical Information</a></p>
 
 ## Voting Intentions
 
-![Graph with voting intentions not yet produced](2019-05-03-Quorum.png "Voting Intentions")
+![Graph with voting intentions not yet produced](2019-04-30-Euromedia.png "Voting Intentions")
 
 ### Confidence Intervals
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Lega Nord (EAPN) | 6.2% | 32.1% | 30.2–34.0% |29.7–34.6% |29.3–35.1% |28.4–36.0% |
-| Movimento 5 Stelle (EFDD) | 21.2% | 22.2% | 20.6–24.0% |20.1–24.4% |19.7–24.9% |19.0–25.7% |
-| Partito Democratico (S&D) | 40.8% | 21.4% | 19.8–23.1% |19.4–23.6% |19.0–24.1% |18.2–24.9% |
-| Forza Italia (EPP) | 16.8% | 9.5% | 8.4–10.8% |8.1–11.2% |7.8–11.5% |7.3–12.1% |
-| Fratelli d’Italia (ECR) | 3.7% | 5.3% | 4.5–6.3% |4.3–6.6% |4.1–6.9% |3.7–7.4% |
-| Più Europa (ALDE) | 0.0% | 2.3% | 1.8–3.0% |1.6–3.2% |1.5–3.4% |1.3–3.8% |
+| Lega Nord (EAPN) | 6.2% | 32.8% | 30.7–34.9% |30.1–35.5% |29.6–36.1% |28.6–37.1% |
+| Movimento 5 Stelle (EFDD) | 21.2% | 20.5% | 18.7–22.4% |18.3–23.0% |17.8–23.4% |17.0–24.4% |
+| Partito Democratico (S&D) | 40.8% | 20.1% | 18.4–22.0% |17.9–22.6% |17.5–23.1% |16.7–24.0% |
+| Forza Italia (EPP) | 16.8% | 10.2% | 9.0–11.8% |8.6–12.2% |8.3–12.6% |7.8–13.3% |
+| Fratelli d’Italia (ECR) | 3.7% | 5.2% | 4.4–6.4% |4.1–6.7% |3.9–7.0% |3.5–7.6% |
+| Più Europa (ALDE) | 0.0% | 3.8% | 3.0–4.8% |2.8–5.1% |2.6–5.3% |2.3–5.8% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
 ## Seats
 
-![Graph with seats not yet produced](2019-05-03-Quorum-seats.png "Seats")
+![Graph with seats not yet produced](2019-04-30-Euromedia-seats.png "Seats")
 
 ### Confidence Intervals
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#lega-nord-(eapn)">Lega Nord (EAPN)</a> | 5 | 24 | 23–25 |22–26 |22–26 |21–27 |
-| <a href="#movimento-5-stelle-(efdd)">Movimento 5 Stelle (EFDD)</a> | 17 | 16 | 15–17 |15–18 |14–18 |14–19 |
-| <a href="#partito-democratico-(s&d)">Partito Democratico (S&D)</a> | 31 | 15 | 14–17 |14–17 |13–17 |13–18 |
-| <a href="#forza-italia-(epp)">Forza Italia (EPP)</a> | 13 | 7 | 6–8 |6–8 |6–8 |5–9 |
+| <a href="#lega-nord-(eapn)">Lega Nord (EAPN)</a> | 5 | 27 | 23–28 |23–28 |23–28 |22–28 |
+| <a href="#movimento-5-stelle-(efdd)">Movimento 5 Stelle (EFDD)</a> | 17 | 14 | 13–15 |12–15 |12–15 |12–19 |
+| <a href="#partito-democratico-(s&d)">Partito Democratico (S&D)</a> | 31 | 13 | 12–14 |11–14 |11–14 |11–15 |
+| <a href="#forza-italia-(epp)">Forza Italia (EPP)</a> | 13 | 8 | 7–9 |7–9 |7–9 |7–10 |
 | <a href="#fratelli-d’italia-(ecr)">Fratelli d’Italia (ECR)</a> | 0 | 4 | 3–5 |3–5 |3–5 |0–6 |
-| <a href="#più-europa-(alde)">Più Europa (ALDE)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#più-europa-(alde)">Più Europa (ALDE)</a> | 0 | 0 | 0–4 |0–4 |0–4 |0–5 |
 
 ### Lega Nord (EAPN)
 
 *For a full overview of the results for this party, see the [Lega Nord (EAPN)](party-leganordeapn.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-05-03-Quorum-seats-pmf-leganordeapn.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-04-30-Euromedia-seats-pmf-leganordeapn.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -58,50 +58,53 @@
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0.1% | 100% |  |
-| 21 | 1.2% | 99.9% |  |
-| 22 | 8% | 98.7% |  |
-| 23 | 26% | 90% |  |
-| 24 | 34% | 64% | Median |
-| 25 | 23% | 31% |  |
-| 26 | 7% | 8% |  |
-| 27 | 1.0% | 1.1% |  |
-| 28 | 0.1% | 0.1% |  |
+| 21 | 0% | 99.9% |  |
+| 22 | 1.0% | 99.9% |  |
+| 23 | 15% | 98.9% |  |
+| 24 | 6% | 83% |  |
+| 25 | 8% | 78% |  |
+| 26 | 7% | 69% |  |
+| 27 | 45% | 62% | Median |
+| 28 | 17% | 17% |  |
 | 29 | 0% | 0% |  |
 
 ### Movimento 5 Stelle (EFDD)
 
 *For a full overview of the results for this party, see the [Movimento 5 Stelle (EFDD)](party-movimento5stelleefdd.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-05-03-Quorum-seats-pmf-movimento5stelleefdd.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-04-30-Euromedia-seats-pmf-movimento5stelleefdd.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 13 | 0.1% | 100% |  |
-| 14 | 3% | 99.9% |  |
-| 15 | 20% | 97% |  |
-| 16 | 41% | 77% | Median |
-| 17 | 26% | 36% | Last Result |
-| 18 | 8% | 10% |  |
-| 19 | 2% | 2% |  |
-| 20 | 0.3% | 0.3% |  |
-| 21 | 0% | 0% |  |
+| 12 | 9% | 100% |  |
+| 13 | 13% | 91% |  |
+| 14 | 57% | 78% | Median |
+| 15 | 19% | 22% |  |
+| 16 | 2% | 2% |  |
+| 17 | 0.2% | 0.9% | Last Result |
+| 18 | 0.1% | 0.7% |  |
+| 19 | 0.4% | 0.6% |  |
+| 20 | 0% | 0.2% |  |
+| 21 | 0.1% | 0.1% |  |
+| 22 | 0% | 0% |  |
 
 ### Partito Democratico (S&D)
 
 *For a full overview of the results for this party, see the [Partito Democratico (S&D)](party-partitodemocraticosd.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-05-03-Quorum-seats-pmf-partitodemocraticosd.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-04-30-Euromedia-seats-pmf-partitodemocraticosd.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 0.4% | 100% |  |
-| 13 | 3% | 99.6% |  |
-| 14 | 14% | 96% |  |
-| 15 | 38% | 82% | Median |
-| 16 | 33% | 44% |  |
-| 17 | 10% | 11% |  |
-| 18 | 1.0% | 1.1% |  |
-| 19 | 0.1% | 0.1% |  |
+| 11 | 6% | 100% |  |
+| 12 | 17% | 94% |  |
+| 13 | 62% | 77% | Median |
+| 14 | 14% | 15% |  |
+| 15 | 1.1% | 1.1% |  |
+| 16 | 0% | 0% |  |
+| 17 | 0% | 0% |  |
+| 18 | 0% | 0% |  |
+| 19 | 0% | 0% |  |
 | 20 | 0% | 0% |  |
 | 21 | 0% | 0% |  |
 | 22 | 0% | 0% |  |
@@ -119,16 +122,15 @@
 
 *For a full overview of the results for this party, see the [Forza Italia (EPP)](party-forzaitaliaepp.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-05-03-Quorum-seats-pmf-forzaitaliaepp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-04-30-Euromedia-seats-pmf-forzaitaliaepp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 1.2% | 100% |  |
-| 6 | 26% | 98.8% |  |
-| 7 | 53% | 72% | Median |
-| 8 | 17% | 19% |  |
-| 9 | 2% | 2% |  |
-| 10 | 0.1% | 0.1% |  |
+| 6 | 0.4% | 100% |  |
+| 7 | 21% | 99.6% |  |
+| 8 | 67% | 79% | Median |
+| 9 | 11% | 12% |  |
+| 10 | 0.9% | 0.9% |  |
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |
 | 13 | 0% | 0% | Last Result |
@@ -137,48 +139,50 @@
 
 *For a full overview of the results for this party, see the [Fratelli d’Italia (ECR)](party-fratellid’italiaecr.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-05-03-Quorum-seats-pmf-fratellid’italiaecr.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-04-30-Euromedia-seats-pmf-fratellid’italiaecr.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.3% | 100% | Last Result |
-| 1 | 0% | 98.7% |  |
-| 2 | 0% | 98.7% |  |
-| 3 | 9% | 98.7% |  |
-| 4 | 62% | 90% | Median |
-| 5 | 27% | 28% |  |
-| 6 | 1.0% | 1.0% |  |
+| 0 | 0.5% | 100% | Last Result |
+| 1 | 0% | 99.5% |  |
+| 2 | 0% | 99.5% |  |
+| 3 | 24% | 99.5% |  |
+| 4 | 59% | 75% | Median |
+| 5 | 15% | 16% |  |
+| 6 | 1.3% | 1.3% |  |
 | 7 | 0% | 0% |  |
 
 ### Più Europa (ALDE)
 
 *For a full overview of the results for this party, see the [Più Europa (ALDE)](party-piùeuropaalde.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-05-03-Quorum-seats-pmf-piùeuropaalde.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-04-30-Euromedia-seats-pmf-piùeuropaalde.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.8% | 100% | Last Result, Median |
-| 1 | 0% | 0.2% |  |
-| 2 | 0% | 0.2% |  |
-| 3 | 0.2% | 0.2% |  |
-| 4 | 0% | 0% |  |
+| 0 | 52% | 100% | Last Result, Median |
+| 1 | 0% | 48% |  |
+| 2 | 0% | 48% |  |
+| 3 | 25% | 48% |  |
+| 4 | 21% | 23% |  |
+| 5 | 2% | 2% |  |
+| 6 | 0% | 0% |  |
 
 
 ## Coalitions
 
-![Graph with coalitions seats not yet produced](2019-05-03-Quorum-coalitions-seats.png "Coalitions Seats")
+![Graph with coalitions seats not yet produced](2019-04-30-Euromedia-coalitions-seats.png "Coalitions Seats")
 
 ### Confidence Intervals
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Lega Nord (EAPN) | 5 | 24 | 0% | 23–25 | 22–26 | 22–26 | 21–27 |
-| Movimento 5 Stelle (EFDD) | 17 | 16 | 0% | 15–17 | 15–18 | 14–18 | 14–19 |
+| Lega Nord (EAPN) | 5 | 27 | 0% | 23–28 | 23–28 | 23–28 | 22–28 |
+| Movimento 5 Stelle (EFDD) | 17 | 14 | 0% | 13–15 | 12–15 | 12–15 | 12–19 |
 
 ### Lega Nord (EAPN)
 
-![Graph with seats probability mass function not yet produced](2019-05-03-Quorum-coalitions-seats-pmf-ln.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-04-30-Euromedia-coalitions-seats-pmf-ln.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -198,44 +202,46 @@
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0.1% | 100% |  |
-| 21 | 1.2% | 99.9% |  |
-| 22 | 8% | 98.7% |  |
-| 23 | 26% | 90% |  |
-| 24 | 34% | 64% | Median |
-| 25 | 23% | 31% |  |
-| 26 | 7% | 8% |  |
-| 27 | 1.0% | 1.1% |  |
-| 28 | 0.1% | 0.1% |  |
+| 21 | 0% | 99.9% |  |
+| 22 | 1.0% | 99.9% |  |
+| 23 | 15% | 98.9% |  |
+| 24 | 6% | 83% |  |
+| 25 | 8% | 78% |  |
+| 26 | 7% | 69% |  |
+| 27 | 45% | 62% | Median |
+| 28 | 17% | 17% |  |
 | 29 | 0% | 0% |  |
 
 ### Movimento 5 Stelle (EFDD)
 
-![Graph with seats probability mass function not yet produced](2019-05-03-Quorum-coalitions-seats-pmf-m5s.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-04-30-Euromedia-coalitions-seats-pmf-m5s.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 13 | 0.1% | 100% |  |
-| 14 | 3% | 99.9% |  |
-| 15 | 20% | 97% |  |
-| 16 | 41% | 77% | Median |
-| 17 | 26% | 36% | Last Result |
-| 18 | 8% | 10% |  |
-| 19 | 2% | 2% |  |
-| 20 | 0.3% | 0.3% |  |
-| 21 | 0% | 0% |  |
+| 12 | 9% | 100% |  |
+| 13 | 13% | 91% |  |
+| 14 | 57% | 78% | Median |
+| 15 | 19% | 22% |  |
+| 16 | 2% | 2% |  |
+| 17 | 0.2% | 0.9% | Last Result |
+| 18 | 0.1% | 0.7% |  |
+| 19 | 0.4% | 0.6% |  |
+| 20 | 0% | 0.2% |  |
+| 21 | 0.1% | 0.1% |  |
+| 22 | 0% | 0% |  |
 
 
 ## Technical Information
 
 ### Opinion Poll
 
-+ **Polling firm:** Quorum
-+ **Commissioner(s):** Sky TG 24
-+ **Fieldwork period:** 2–3 May 2019
++ **Polling firm:** Euromedia
++ **Commissioner(s):** Rai 1
++ **Fieldwork period:** 30 April 2019
 
 ### Calculations
 
-+ **Sample size:** 1000
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 1.25%
++ **Sample size:** 800
++ **Simulations done:** 1,024
++ **Error estimate:** 2.44%
 
