@@ -8,36 +8,66 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 09 May 2019 19:26:14 +0200</pubDate>
+    <pubDate>Sat, 11 May 2019 19:09:25 +0200</pubDate>
     <item>
-      <title>Opinion Poll by Demopolis, 5–7 May 2019 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-05-07-Demopolis.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 16–19 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 14–17 seats&lt;/li&gt;&lt;li&gt;Lega Nord (EAPN): 22–25 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 5–8 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 3–5 seats&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-05-07-Demopolis-seats.png"
-        length="139943"
+      <title>Opinion Poll by Termometro Politico, 5–9 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-05-09-TermometroPolitico.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 21.8–23.9%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 20.6–22.7%&lt;/li&gt;&lt;li&gt;Lega Nord (EAPN): 29.2–31.5%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 8.7–10.2%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 5.2–6.4%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 1.6–2.3%&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 2.4–3.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-05-09-TermometroPolitico.png"
+        length="157809"
         type="image/png"/>
-      <pubDate>Thu, 09 May 2019 15:52:15 +0200</pubDate>
-      <dc:date>2019-05-09T15:52:15.69926+02:00</dc:date>
+      <pubDate>Sat, 11 May 2019 19:09:25 +0200</pubDate>
+      <dc:date>2019-05-11T19:09:25.034923+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Demopolis, 5–7 May 2019 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-05-07-Demopolis.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-05-07-Demopolis-coalitions-seats.png"
-        length="130499"
+      <title>Opinion Poll by Index Research for LA7, 7–8 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-05-08-IndexResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 19.9–25.7%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 18.7–24.4%&lt;/li&gt;&lt;li&gt;Lega Nord (EAPN): 29.7–36.2%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 7.5–11.6%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 3.8–6.9%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 1.8–4.1%&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 2.1–4.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-05-08-IndexResearch.png"
+        length="190801"
         type="image/png"/>
-      <pubDate>Thu, 09 May 2019 15:52:15 +0200</pubDate>
-      <dc:date>2019-05-09T15:52:15.69926+02:00</dc:date>
+      <pubDate>Sat, 11 May 2019 19:03:08 +0200</pubDate>
+      <dc:date>2019-05-11T19:03:08.876454+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demos &amp; Pi, 6–8 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-05-08-DemosPi.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 20.2–25.3%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 18.0–23.0%&lt;/li&gt;&lt;li&gt;Lega Nord (EAPN): 29.4–35.1%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 7.9–11.5%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 3.5–6.2%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 2.2–4.3%&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 3.0–5.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-05-08-DemosPi.png"
+        length="186898"
+        type="image/png"/>
+      <pubDate>Sat, 11 May 2019 18:56:24 +0200</pubDate>
+      <dc:date>2019-05-11T18:56:24.073176+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SWG for LA7, 7 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-05-07-SWG.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 21.3–25.4%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 19.3–23.3%&lt;/li&gt;&lt;li&gt;Lega Nord (EAPN): 30.1–34.6%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 8.9–11.9%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 4.0–6.2%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 2.0–3.5%&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 2.1–3.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-05-07-SWG.png"
+        length="175260"
+        type="image/png"/>
+      <pubDate>Sat, 11 May 2019 19:01:24 +0200</pubDate>
+      <dc:date>2019-05-11T19:01:24.23354+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Demopolis, 5–7 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-05-07-Demopolis.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 20.9–25.2%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 20.0–24.2%&lt;/li&gt;&lt;li&gt;Lega Nord (EAPN): 28.7–33.4%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 7.2–10.1%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 4.5–6.9%&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 2.2–4.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 20.3–24.5%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 19.3–23.5%&lt;/li&gt;&lt;li&gt;Lega Nord (EAPN): 27.8–32.4%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 7.0–9.8%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 3.7–5.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-05-07-Demopolis.png"
-        length="159744"
+        length="145857"
         type="image/png"/>
-      <pubDate>Thu, 09 May 2019 15:52:15 +0200</pubDate>
-      <dc:date>2019-05-09T15:52:15.69926+02:00</dc:date>
+      <pubDate>Sat, 11 May 2019 18:59:31 +0200</pubDate>
+      <dc:date>2019-05-11T18:59:31.930412+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Tecnè, 4–6 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-05-06-Tecnè.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 20.0–24.2%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 19.0–23.1%&lt;/li&gt;&lt;li&gt;Lega Nord (EAPN): 28.7–33.4%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 9.0–12.1%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 4.0–6.2%&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 2.7–4.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-05-06-Tecnè.png"
+        length="160628"
+        type="image/png"/>
+      <pubDate>Sat, 11 May 2019 19:04:46 +0200</pubDate>
+      <dc:date>2019-05-11T19:04:46.831181+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SWG for LA7, 30 April–6 May 2019 – Seat Projections for the Parties</title>
@@ -1479,6 +1509,6 @@
       <pubDate>Wed, 08 May 2019 06:57:30 +0200</pubDate>
       <dc:date>2019-05-08T06:57:30.376817+02:00</dc:date>
     </item>
-    <dc:date>2019-05-09T19:26:14.687357+02:00</dc:date>
+    <dc:date>2019-05-11T19:09:25.034923+02:00</dc:date>
   </channel>
 </rss>
