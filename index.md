@@ -1,23 +1,23 @@
 # Overview
 
-The table below lists the most recent polls (less than 30 days old) registered and analyzed so far.
+The table below lists the most recent polls (less than 90 days old) registered and analyzed so far.
 
 | Period     | Polling firm/Commissioner(s) | PD | M5S | FI | LN | FdI | SVP | CPI | CP | I | NcI | +E | LeU | PaP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 40.8% <br> 31 | 21.2% <br> 17 | 16.8% <br> 13 | 6.2% <br> 5 | 3.7% <br> 0 | 0.5% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 18–23% <br> 13–18 | 18–25% <br> 14–20 | 8–13% <br> 6–10 | 29–37% <br> 22–31 | 3–6% <br> 0–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | 2–5% <br> 0–4 | 1–5% <br> 0–4 | 1–2% <br> 0 |
-| [4 April 2019](2019-04-04-IndexResearch.html) | Index Research <br> LA7 | 18–24% <br> 14–19 | 18–24% <br> 15–21 | 7–11% <br> 6–10 | 30–37% <br> 25–31 | 3–6% <br> 0–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0–3 | 2–5% <br> 0–4 | 1–3% <br> 0 |
-| [3 April 2019](2019-04-03-TermometroPolitico.html) | Termometro Politico | 20–23% <br> 16–19 | 20–23% <br> 17–19 | 8–10% <br> 7–9 | 30–33% <br> 25–29 | 4–5% <br> 3–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–4% <br> 0 | 3–4% <br> 0–3 | 1% <br> 0 |
-| [3 April 2019](2019-04-03-Piepoli.html) | Piepoli <br> Rai 1 | 17–24% <br> 12–18 | 19–26% <br> 15–21 | 8–14% <br> 6–11 | 27–35% <br> 21–29 | 3–7% <br> 0–6 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–2% <br> 0 | 2–5% <br> 0–4 | 2–5% <br> 0–4 | N/A <br> N/A |
-| [3 April 2019](2019-04-03-Euromedia.html) | Euromedia <br> Rai 1 | 17–23% <br> 12–17 | 17–22% <br> 13–18 | 9–14% <br> 7–11 | 28–35% <br> 22–28 | 4–7% <br> 3–6 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–4 | 3–5% <br> 0–4 | N/A <br> N/A |
-| [2 April 2019](2019-04-02-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 19–24% <br> 14–18 | 18–23% <br> 15–19 | 9–13% <br> 7–10 | 29–35% <br> 23–29 | 4–7% <br> 0–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | 3–5% <br> 0–4 | 1–2% <br> 0 | 1–2% <br> 0 |
-| [2 April 2019](2019-04-02-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 19–23% <br> 14–18 | 21–25% <br> 17–20 | 8–11% <br> 6–9 | 30–34% <br> 24–28 | 4–6% <br> 0–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | 1–2% <br> 0 |
-| [31 March–1 April 2019](2019-04-01-Tecnè.html) | Tecnè <br> Quarta Repubblica | 18–23% <br> 12–16 | 19–24% <br> 14–18 | 10–14% <br> 8–11 | 29–35% <br> 22–27 | 3–6% <br> 0–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [27 March–1 April 2019](2019-04-01-SWG.html) | SWG <br> LA7 | 19–23% <br> 14–18 | 20–24% <br> 16–20 | 8–11% <br> 6–9 | 31–35% <br> 25–29 | 4–6% <br> 0–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | 1–2% <br> 0 | 1–2% <br> 0 |
-| [29–30 March 2019](2019-03-30-QuorumandYouTrend.html) | Quorum and YouTrend <br> Sky TG 24 | 18–23% <br> 14–18 | 20–25% <br> 16–21 | 8–12% <br> 7–10 | 29–35% <br> 24–29 | 4–7% <br> 3–6 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | 2–5% <br> 0–4 | N/A <br> N/A |
-| [26–27 March 2019](2019-03-27-Demopolis.html) | Demopolis | 19–23% <br> 14–17 | 20–24% <br> 15–19 | 8–11% <br> 6–8 | 30–34% <br> 23–27 | 3–5% <br> 0–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [22–25 March 2019](2019-03-25-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 19–23% <br> 15–19 | 18–22% <br> 15–19 | 8–11% <br> 7–9 | 33–38% <br> 28–33 | 3–5% <br> 0–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0–3 | 1–2% <br> 0 | 1–2% <br> 0 |
-| [11–13 March 2019](2019-03-13-DemosPi.html) | Demos & Pi <br> La Repubblica | 17–22% <br> 12–17 | 21–26% <br> 17–21 | 8–12% <br> 6–10 | 32–37% <br> 25–31 | 3–6% <br> 0–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | 2–4% <br> 0 | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 18–24% <br> 12–17 | 19–25% <br> 14–19 | 7–13% <br> 5–10 | 29–38% <br> 22–30 | 4–7% <br> 0–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–5% <br> 0–3 | 2–5% <br> 0–4 | N/A <br> N/A |
+| [25–30 April 2019](2019-04-30-TermometroPolitico.html) | Termometro Politico <br> LA7 | 20–23% <br> 14–16 | 21–25% <br> 16–19 | 7–10% <br> 5–7 | 28–32% <br> 21–24 | 5–7% <br> 4–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A |
+| [30 April 2019](2019-04-30-Piepoli.html) | Piepoli <br> Rai 1 | 17–24% <br> 12–17 | 18–25% <br> 13–19 | 8–13% <br> 6–10 | 28–36% <br> 21–27 | 4–8% <br> 0–6 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–5% <br> 0–4 | N/A <br> N/A | N/A <br> N/A |
+| [30 April 2019](2019-04-30-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 20–25% <br> 14–17 | 18–23% <br> 13–17 | 7–10% <br> 5–8 | 29–35% <br> 22–26 | 5–8% <br> 3–6 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0–3 | N/A <br> N/A | N/A <br> N/A |
+| [30 April 2019](2019-04-30-IndexResearch.html) | Index Research <br> LA7 | 18–23% <br> 13–17 | 19–25% <br> 15–20 | 7–11% <br> 6–9 | 30–36% <br> 23–29 | 4–7% <br> 0–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–5% <br> 0–3 | 3–6% <br> 0–5 | N/A <br> N/A |
+| [30 April 2019](2019-04-30-Euromedia.html) | Euromedia <br> Rai 1 | 17–23% <br> 12–16 | 18–23% <br> 13–18 | 8–13% <br> 6–9 | 30–36% <br> 22–27 | 4–7% <br> 0–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–4 | N/A <br> N/A | N/A <br> N/A |
+| [28–29 April 2019](2019-04-29-Tecnè.html) | Tecnè | 19–24% <br> 13–17 | 19–24% <br> 14–18 | 10–14% <br> 8–11 | 29–34% <br> 21–25 | 4–7% <br> 0–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [24–29 April 2019](2019-04-29-SWG.html) | SWG <br> LA7 | 20–25% <br> 14–18 | 20–24% <br> 15–18 | 7–10% <br> 6–8 | 29–34% <br> 22–26 | 4–6% <br> 3–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0–3 | N/A <br> N/A | N/A <br> N/A |
+| [27 April 2019](2019-04-27-EMGAcqua.html) | EMG Acqua <br> Rai 3 | 20–24% <br> 15–18 | 21–25% <br> 16–20 | 9–12% <br> 7–9 | 30–35% <br> 24–27 | 4–6% <br> 3–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | 2–3% <br> 0 | N/A <br> N/A |
+| [18–23 April 2019](2019-04-23-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Sole 24 Ore | 19–23% <br> 13–16 | 18–22% <br> 14–17 | 7–10% <br> 5–8 | 34–39% <br> 25–29 | 4–7% <br> 3–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0–3 | N/A <br> N/A | N/A <br> N/A |
+| [22–23 April 2019](2019-04-23-Demopolis.html) | Demopolis | 19–23% <br> 13–16 | 20–24% <br> 15–18 | 7–9% <br> 5–7 | 31–35% <br> 22–26 | 4–6% <br> 0–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [20 April 2019](2019-04-20-Ipsos.html) | Ipsos <br> Corriere della Sera | 16–21% <br> 12–16 | 20–25% <br> 15–20 | 7–11% <br> 6–8 | 34–40% <br> 26–32 | 3–6% <br> 0–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0–3 | 1–3% <br> 0 | N/A <br> N/A |
+| [11–12 April 2019](2019-04-12-Quorum.html) | Quorum <br> Sky TG 24 | 19–24% <br> 14–18 | 20–25% <br> 15–20 | 8–12% <br> 6–9 | 30–36% <br> 23–29 | 4–7% <br> 0–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | 2–4% <br> 0 | N/A <br> N/A |
 | 25 May 2014 | General Election | 40.8% <br> 31 | 21.2% <br> 17 | 16.8% <br> 13 | 6.2% <br> 5 | 3.7% <br> 0 | 0.5% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -28,13 +28,13 @@ Only polls for which at least the sample size has been published are included in
 + **PD:** Partito Democratico (S&D)
 + **M5S:** Movimento 5 Stelle (EFDD)
 + **FI:** Forza Italia (EPP)
-+ **LN:** Lega Nord (ENF)
++ **LN:** Lega Nord (EAPN)
 + **FdI:** Fratelli d’Italia (ECR)
 + **SVP:** Südtiroler Volkspartei (EPP)
-+ **CPI:** CasaPound Italia (*)
-+ **CP:** Civica Popolare (*)
++ **CPI:** CasaPound Italia (NI)
++ **CP:** Civica Popolare (ALDE)
 + **I:** Insieme (*)
-+ **NcI:** Noi con l’Italia (EPP)
++ **NcI:** Noi con l’Italia (ECR)
 + **+E:** Più Europa (ALDE)
 + **LeU:** Liberi e Uguali (S&D)
 + **PaP:** Potere al Popolo (GUE/NGL)
