@@ -11,7 +11,12 @@ Last result: **6.2%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 32.6% | 30.2–36.4% | 29.6–37.4% | 29.1–38.1% | 28.1–39.4% |
-| [5–7 May 2019](2019-05-07-Demopolis.html) | Demopolis | 31.0% | 29.5–32.6% | 29.1–33.0% | 28.7–33.4% | 28.0–34.2% |
+| [5–9 May 2019](2019-05-09-TermometroPolitico.html) | Termometro Politico | 30.4% | 29.6–31.1% | 29.4–31.3% | 29.2–31.5% | 28.8–31.9% |
+| [7–8 May 2019](2019-05-08-IndexResearch.html) | Index Research <br> LA7 | 32.9% | 30.8–35.1% | 30.2–35.7% | 29.7–36.2% | 28.7–37.3% |
+| [6–8 May 2019](2019-05-08-DemosPi.html) | Demos & Pi | 32.2% | 30.3–34.1% | 29.8–34.7% | 29.4–35.1% | 28.5–36.1% |
+| [7 May 2019](2019-05-07-SWG.html) | SWG <br> LA7 | 32.3% | 30.8–33.8% | 30.4–34.2% | 30.1–34.6% | 29.4–35.3% |
+| [5–7 May 2019](2019-05-07-Demopolis.html) | Demopolis | 30.1% | 28.6–31.6% | 28.2–32.1% | 27.8–32.4% | 27.1–33.2% |
+| [4–6 May 2019](2019-05-06-Tecnè.html) | Tecnè | 31.0% | 29.5–32.6% | 29.1–33.0% | 28.7–33.4% | 28.0–34.2% |
 | [30 April–6 May 2019](2019-05-06-SWG.html) | SWG <br> LA7 | 30.7% | 29.2–32.3% | 28.8–32.7% | 28.4–33.1% | 27.7–33.9% |
 | [2–3 May 2019](2019-05-03-Quorum.html) | Quorum <br> Sky TG 24 | 32.1% | 30.2–34.0% | 29.7–34.6% | 29.3–35.1% | 28.4–36.0% |
 | [25–30 April 2019](2019-04-30-TermometroPolitico.html) | Termometro Politico <br> LA7 | 30.4% | 29.1–31.7% | 28.7–32.1% | 28.4–32.4% | 27.8–33.1% |
@@ -43,7 +48,6 @@ Last result: **6.2%** (General Election of 25 May 2014)
 | [7–8 April 2019](2019-04-08-Tecnè.html) | Tecnè <br> Quarta Repubblica | 31.9% | 30.1–33.8% | 29.5–34.4% | 29.1–34.9% | 28.2–35.8% |
 | [5–8 April 2019](2019-04-08-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 35.7% | 34.2–37.3% | 33.7–37.8% | 33.3–38.2% | 32.6–39.0% |
 | [3–8 April 2019](2019-04-08-SWG.html) | SWG <br> LA7 | 31.8% | 30.3–33.4% | 29.9–33.8% | 29.5–34.2% | 28.8–35.0% |
-| [4 May–6 April 2019](2019-04-06-Tecnè.html) | Tecnè | 31.0% | N/A | N/A | N/A | N/A |
 | [2–4 April 2019](2019-04-04-Ipsos.html) | Ipsos <br> Corriere della Sera | 35.7% | 33.8–37.7% | 33.2–38.2% | 32.8–38.7% | 31.9–39.7% |
 | [4 April 2019](2019-04-04-IndexResearch.html) | Index Research <br> LA7 | 33.6% | 31.5–35.8% | 30.9–36.4% | 30.4–37.0% | 29.4–38.0% |
 | [3 April 2019](2019-04-03-TermometroPolitico.html) | Termometro Politico | 31.9% | 31.0–32.9% | 30.7–33.1% | 30.5–33.4% | 30.0–33.8% |
@@ -447,7 +451,12 @@ Last result: **5** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 25 | 22–28 | 22–29 | 22–30 | 21–31 |
-| [5–7 May 2019](2019-05-07-Demopolis.html) | Demopolis | 23 | 22–24 | 22–25 | 22–25 | 21–26 |
+| [5–9 May 2019](2019-05-09-TermometroPolitico.html) | Termometro Politico | 23 | 23–24 | 22–24 | 22–24 | 22–25 |
+| [7–8 May 2019](2019-05-08-IndexResearch.html) | Index Research <br> LA7 | 26 | 24–28 | 23–28 | 23–29 | 22–30 |
+| [6–8 May 2019](2019-05-08-DemosPi.html) | Demos & Pi | 26 | 24–28 | 23–28 | 23–28 | 22–29 |
+| [7 May 2019](2019-05-07-SWG.html) | SWG <br> LA7 | 26 | 24–27 | 24–27 | 24–28 | 23–29 |
+| [5–7 May 2019](2019-05-07-Demopolis.html) | Demopolis | 22 | 21–23 | 20–24 | 20–24 | 20–25 |
+| [4–6 May 2019](2019-05-06-Tecnè.html) | Tecnè | 23 | 22–25 | 22–25 | 21–25 | 21–26 |
 | [30 April–6 May 2019](2019-05-06-SWG.html) | SWG <br> LA7 | 23 | 22–24 | 22–25 | 21–25 | 21–26 |
 | [2–3 May 2019](2019-05-03-Quorum.html) | Quorum <br> Sky TG 24 | 24 | 23–25 | 22–26 | 22–26 | 21–27 |
 | [25–30 April 2019](2019-04-30-TermometroPolitico.html) | Termometro Politico <br> LA7 | 23 | 22–24 | 22–24 | 21–24 | 21–25 |
@@ -479,7 +488,6 @@ Last result: **5** seats (General Election of 25 May 2014)
 | [7–8 April 2019](2019-04-08-Tecnè.html) | Tecnè <br> Quarta Repubblica | 23 | 22–25 | 21–25 | 21–26 | 21–26 |
 | [5–8 April 2019](2019-04-08-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 29 | 27–30 | 27–31 | 27–31 | 26–32 |
 | [3–8 April 2019](2019-04-08-SWG.html) | SWG <br> LA7 | 26 | 24–27 | 24–27 | 24–28 | 23–29 |
-| [4 May–6 April 2019](2019-04-06-Tecnè.html) | Tecnè |  |  |  |  |  |
 | [2–4 April 2019](2019-04-04-Ipsos.html) | Ipsos <br> Corriere della Sera | 28 | 27–30 | 26–31 | 26–31 | 25–32 |
 | [4 April 2019](2019-04-04-IndexResearch.html) | Index Research <br> LA7 | 28 | 26–29 | 25–30 | 24–30 | 23–31 |
 | [3 April 2019](2019-04-03-TermometroPolitico.html) | Termometro Politico | 26 | 25–27 | 25–27 | 25–28 | 24–28 |
