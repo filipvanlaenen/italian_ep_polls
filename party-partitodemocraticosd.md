@@ -15,6 +15,7 @@ Last result: **40.8%** (General Election of 25 May 2014)
 | [7–8 May 2019](2019-05-08-IndexResearch.html) | Index Research <br> LA7 | 21.4% | 19.6–23.3% | 19.1–23.9% | 18.7–24.4% | 17.8–25.3% |
 | [6–8 May 2019](2019-05-08-DemosPi.html) | Demos & Pi | 20.4% | 18.8–22.1% | 18.4–22.5% | 18.0–23.0% | 17.3–23.8% |
 | [7 May 2019](2019-05-07-SWG.html) | SWG <br> LA7 | 21.3% | 20.0–22.6% | 19.6–23.0% | 19.3–23.3% | 18.7–24.0% |
+| [7 May 2019](2019-05-07-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 21.0% | N/A | N/A | N/A | N/A |
 | [5–7 May 2019](2019-05-07-Demopolis.html) | Demopolis | 21.3% | 20.0–22.7% | 19.6–23.1% | 19.3–23.5% | 18.7–24.2% |
 | [4–6 May 2019](2019-05-06-Tecnè.html) | Tecnè | 21.0% | 19.7–22.4% | 19.3–22.8% | 19.0–23.1% | 18.4–23.8% |
 | [30 April–6 May 2019](2019-05-06-SWG.html) | SWG <br> LA7 | 22.2% | 20.9–23.6% | 20.5–24.0% | 20.2–24.4% | 19.5–25.1% |
@@ -443,10 +444,11 @@ Last result: **31** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 15 | 13–17 | 13–17 | 12–17 | 12–18 |
 | [5–9 May 2019](2019-05-09-TermometroPolitico.html) | Termometro Politico | 16 | 15–16 | 15–16 | 15–16 | 15–17 |
 | [7–8 May 2019](2019-05-08-IndexResearch.html) | Index Research <br> LA7 | 16 | 14–18 | 14–18 | 14–18 | 13–19 |
-| [6–8 May 2019](2019-05-08-DemosPi.html) | Demos & Pi | 15 | 14–17 | 13–17 | 13–18 | 12–18 |
-| [7 May 2019](2019-05-07-SWG.html) | SWG <br> LA7 | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
+| [6–8 May 2019](2019-05-08-DemosPi.html) | Demos & Pi | 15 | 14–17 | 13–17 | 13–17 | 12–18 |
+| [7 May 2019](2019-05-07-SWG.html) | SWG <br> LA7 | 16 | 15–17 | 15–17 | 14–17 | 14–18 |
+| [7 May 2019](2019-05-07-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 |  |  |  |  |  |
 | [5–7 May 2019](2019-05-07-Demopolis.html) | Demopolis | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
-| [4–6 May 2019](2019-05-06-Tecnè.html) | Tecnè | 15 | 14–16 | 14–16 | 13–16 | 13–17 |
+| [4–6 May 2019](2019-05-06-Tecnè.html) | Tecnè | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
 | [30 April–6 May 2019](2019-05-06-SWG.html) | SWG <br> LA7 | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
 | [2–3 May 2019](2019-05-03-Quorum.html) | Quorum <br> Sky TG 24 | 15 | 14–17 | 14–17 | 13–17 | 13–18 |
 | [25–30 April 2019](2019-04-30-TermometroPolitico.html) | Termometro Politico <br> LA7 | 15 | 14–16 | 14–16 | 14–16 | 13–17 |

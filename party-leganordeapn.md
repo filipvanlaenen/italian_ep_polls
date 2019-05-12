@@ -15,6 +15,7 @@ Last result: **6.2%** (General Election of 25 May 2014)
 | [7–8 May 2019](2019-05-08-IndexResearch.html) | Index Research <br> LA7 | 32.9% | 30.8–35.1% | 30.2–35.7% | 29.7–36.2% | 28.7–37.3% |
 | [6–8 May 2019](2019-05-08-DemosPi.html) | Demos & Pi | 32.2% | 30.3–34.1% | 29.8–34.7% | 29.4–35.1% | 28.5–36.1% |
 | [7 May 2019](2019-05-07-SWG.html) | SWG <br> LA7 | 32.3% | 30.8–33.8% | 30.4–34.2% | 30.1–34.6% | 29.4–35.3% |
+| [7 May 2019](2019-05-07-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 32.0% | N/A | N/A | N/A | N/A |
 | [5–7 May 2019](2019-05-07-Demopolis.html) | Demopolis | 30.1% | 28.6–31.6% | 28.2–32.1% | 27.8–32.4% | 27.1–33.2% |
 | [4–6 May 2019](2019-05-06-Tecnè.html) | Tecnè | 31.0% | 29.5–32.6% | 29.1–33.0% | 28.7–33.4% | 28.0–34.2% |
 | [30 April–6 May 2019](2019-05-06-SWG.html) | SWG <br> LA7 | 30.7% | 29.2–32.3% | 28.8–32.7% | 28.4–33.1% | 27.7–33.9% |
@@ -451,11 +452,12 @@ Last result: **5** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 25 | 22–28 | 22–29 | 22–30 | 21–31 |
-| [5–9 May 2019](2019-05-09-TermometroPolitico.html) | Termometro Politico | 23 | 23–24 | 22–24 | 22–24 | 22–25 |
-| [7–8 May 2019](2019-05-08-IndexResearch.html) | Index Research <br> LA7 | 26 | 24–28 | 23–28 | 23–29 | 22–30 |
-| [6–8 May 2019](2019-05-08-DemosPi.html) | Demos & Pi | 26 | 24–28 | 23–28 | 23–28 | 22–29 |
-| [7 May 2019](2019-05-07-SWG.html) | SWG <br> LA7 | 26 | 24–27 | 24–27 | 24–28 | 23–29 |
-| [5–7 May 2019](2019-05-07-Demopolis.html) | Demopolis | 22 | 21–23 | 20–24 | 20–24 | 20–25 |
+| [5–9 May 2019](2019-05-09-TermometroPolitico.html) | Termometro Politico | 23 | 23–24 | 22–24 | 22–24 | 22–24 |
+| [7–8 May 2019](2019-05-08-IndexResearch.html) | Index Research <br> LA7 | 26 | 24–28 | 24–28 | 23–29 | 22–30 |
+| [6–8 May 2019](2019-05-08-DemosPi.html) | Demos & Pi | 25 | 23–27 | 23–28 | 23–28 | 22–29 |
+| [7 May 2019](2019-05-07-SWG.html) | SWG <br> LA7 | 26 | 24–27 | 24–27 | 24–27 | 23–28 |
+| [7 May 2019](2019-05-07-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 |  |  |  |  |  |
+| [5–7 May 2019](2019-05-07-Demopolis.html) | Demopolis | 22 | 21–23 | 21–24 | 20–24 | 20–25 |
 | [4–6 May 2019](2019-05-06-Tecnè.html) | Tecnè | 23 | 22–25 | 22–25 | 21–25 | 21–26 |
 | [30 April–6 May 2019](2019-05-06-SWG.html) | SWG <br> LA7 | 23 | 22–24 | 22–25 | 21–25 | 21–26 |
 | [2–3 May 2019](2019-05-03-Quorum.html) | Quorum <br> Sky TG 24 | 24 | 23–25 | 22–26 | 22–26 | 21–27 |
