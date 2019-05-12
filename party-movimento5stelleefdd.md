@@ -15,7 +15,7 @@ Last result: **21.2%** (General Election of 25 May 2014)
 | [7–8 May 2019](2019-05-08-IndexResearch.html) | Index Research <br> LA7 | 22.6% | 20.8–24.6% | 20.3–25.2% | 19.9–25.7% | 19.0–26.6% |
 | [6–8 May 2019](2019-05-08-DemosPi.html) | Demos & Pi | 22.6% | 21.0–24.4% | 20.5–24.9% | 20.2–25.3% | 19.4–26.2% |
 | [7 May 2019](2019-05-07-SWG.html) | SWG <br> LA7 | 23.3% | 22.0–24.7% | 21.7–25.1% | 21.3–25.4% | 20.7–26.1% |
-| [7 May 2019](2019-05-07-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 21.0% | N/A | N/A | N/A | N/A |
+| [7 May 2019](2019-05-07-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 21.0% | 19.4–22.7% | 19.0–23.2% | 18.6–23.6% | 17.8–24.5% |
 | [5–7 May 2019](2019-05-07-Demopolis.html) | Demopolis | 22.3% | 21.0–23.8% | 20.6–24.2% | 20.3–24.5% | 19.7–25.2% |
 | [4–6 May 2019](2019-05-06-Tecnè.html) | Tecnè | 22.0% | 20.7–23.4% | 20.3–23.8% | 20.0–24.2% | 19.4–24.9% |
 | [30 April–6 May 2019](2019-05-06-SWG.html) | SWG <br> LA7 | 22.7% | 21.4–24.2% | 21.0–24.6% | 20.7–24.9% | 20.0–25.6% |
@@ -432,7 +432,7 @@ Last result: **17** seats (General Election of 25 May 2014)
 | [7–8 May 2019](2019-05-08-IndexResearch.html) | Index Research <br> LA7 | 18 | 16–20 | 16–20 | 15–21 | 15–22 |
 | [6–8 May 2019](2019-05-08-DemosPi.html) | Demos & Pi | 18 | 16–19 | 16–20 | 16–20 | 15–21 |
 | [7 May 2019](2019-05-07-SWG.html) | SWG <br> LA7 | 18 | 17–20 | 17–20 | 17–20 | 16–21 |
-| [7 May 2019](2019-05-07-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 |  |  |  |  |  |
+| [7 May 2019](2019-05-07-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 16 | 15–17 | 14–18 | 14–18 | 13–19 |
 | [5–7 May 2019](2019-05-07-Demopolis.html) | Demopolis | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
 | [4–6 May 2019](2019-05-06-Tecnè.html) | Tecnè | 17 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [30 April–6 May 2019](2019-05-06-SWG.html) | SWG <br> LA7 | 17 | 16–18 | 16–19 | 16–19 | 15–19 |
