@@ -12,15 +12,19 @@ Last result: **21.2%** (General Election of 25 May 2014)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 21.8% | 19.6–23.7% | 19.0–24.2% | 18.6–24.7% | 17.6–25.6% |
 | [5–9 May 2019](2019-05-09-TermometroPolitico.html) | Termometro Politico | 22.8% | 22.1–23.5% | 21.9–23.7% | 21.8–23.9% | 21.4–24.2% |
+| [8–9 May 2019](2019-05-09-Euromedia.html) | Euromedia <br> Rai 1 | 21.5% | 19.7–23.5% | 19.2–24.0% | 18.8–24.5% | 18.0–25.5% |
+| [8 May 2019](2019-05-08-Piepoli.html) | Piepoli <br> Rai 1 | 22.1% | 19.8–24.6% | 19.2–25.3% | 18.7–25.9% | 17.6–27.1% |
 | [7–8 May 2019](2019-05-08-IndexResearch.html) | Index Research <br> LA7 | 22.6% | 20.8–24.6% | 20.3–25.2% | 19.9–25.7% | 19.0–26.6% |
 | [6–8 May 2019](2019-05-08-DemosPi.html) | Demos & Pi | 22.6% | 21.0–24.4% | 20.5–24.9% | 20.2–25.3% | 19.4–26.2% |
+| [6–8 May 2019](2019-05-08-Bimedia.html) | Bimedia | 22.4% | 21.0–23.9% | 20.7–24.3% | 20.3–24.6% | 19.7–25.3% |
 | [7 May 2019](2019-05-07-SWG.html) | SWG <br> LA7 | 23.3% | 22.0–24.7% | 21.7–25.1% | 21.3–25.4% | 20.7–26.1% |
 | [7 May 2019](2019-05-07-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 21.0% | 19.4–22.7% | 19.0–23.2% | 18.6–23.6% | 17.8–24.5% |
 | [5–7 May 2019](2019-05-07-Demopolis.html) | Demopolis | 22.3% | 21.0–23.8% | 20.6–24.2% | 20.3–24.5% | 19.7–25.2% |
-| [4–6 May 2019](2019-05-06-Tecnè.html) | Tecnè | 22.0% | 20.7–23.4% | 20.3–23.8% | 20.0–24.2% | 19.4–24.9% |
+| [4–6 May 2019](2019-05-06-Tecnè.html) | Tecnè | 21.3% | 20.7–23.4% | 20.3–23.8% | 20.0–24.2% | 19.4–24.9% |
 | [30 April–6 May 2019](2019-05-06-SWG.html) | SWG <br> LA7 | 22.7% | 21.4–24.2% | 21.0–24.6% | 20.7–24.9% | 20.0–25.6% |
+| [24 April–6 May 2019](2019-05-06-CISE.html) | CISE | 23.1% | N/A | N/A | N/A | N/A |
 | [2–3 May 2019](2019-05-03-Quorum.html) | Quorum <br> Sky TG 24 | 22.2% | 20.6–24.0% | 20.1–24.4% | 19.7–24.9% | 19.0–25.7% |
-| [25–30 April 2019](2019-04-30-TermometroPolitico.html) | Termometro Politico <br> LA7 | 23.0% | 21.8–24.2% | 21.4–24.5% | 21.2–24.9% | 20.6–25.5% |
+| [25–30 April 2019](2019-04-30-TermometroPolitico.html) | Termometro Politico | 23.5% | 21.8–24.2% | 21.4–24.5% | 21.2–24.9% | 20.6–25.5% |
 | [30 April 2019](2019-04-30-Piepoli.html) | Piepoli <br> Rai 1 | 21.6% | 19.4–24.1% | 18.8–24.8% | 18.2–25.4% | 17.2–26.7% |
 | [30 April 2019](2019-04-30-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 20.0% | 18.4–21.7% | 18.0–22.2% | 17.6–22.6% | 16.9–23.4% |
 | [30 April 2019](2019-04-30-IndexResearch.html) | Index Research <br> LA7 | 22.0% | 20.2–24.0% | 19.7–24.5% | 19.3–25.0% | 18.4–26.0% |
@@ -49,6 +53,7 @@ Last result: **21.2%** (General Election of 25 May 2014)
 | [7–8 April 2019](2019-04-08-Tecnè.html) | Tecnè <br> Quarta Repubblica | 21.4% | 19.8–23.1% | 19.4–23.6% | 19.0–24.1% | 18.2–24.9% |
 | [5–8 April 2019](2019-04-08-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 20.5% | 19.2–21.9% | 18.9–22.3% | 18.6–22.7% | 18.0–23.3% |
 | [3–8 April 2019](2019-04-08-SWG.html) | SWG <br> LA7 | 22.0% | 20.7–23.4% | 20.3–23.8% | 20.0–24.2% | 19.3–24.9% |
+| [6 May–8 April 2019](2019-04-08-Ipsos.html) | Ipsos <br> Corriere della Sera | 24.9% | N/A | N/A | N/A | N/A |
 | [2–4 April 2019](2019-04-04-Ipsos.html) | Ipsos <br> Corriere della Sera | 23.3% | 21.6–25.1% | 21.2–25.6% | 20.8–26.0% | 20.0–26.9% |
 | [4 April 2019](2019-04-04-IndexResearch.html) | Index Research <br> LA7 | 21.1% | 19.4–23.1% | 18.9–23.6% | 18.4–24.1% | 17.6–25.1% |
 | [3 April 2019](2019-04-03-TermometroPolitico.html) | Termometro Politico | 21.3% | 20.5–22.2% | 20.3–22.4% | 20.1–22.6% | 19.7–23.0% |
@@ -429,15 +434,19 @@ Last result: **17** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16 | 15–18 | 14–19 | 14–19 | 13–20 |
 | [5–9 May 2019](2019-05-09-TermometroPolitico.html) | Termometro Politico | 18 | 17–18 | 17–18 | 17–18 | 16–19 |
+| [8–9 May 2019](2019-05-09-Euromedia.html) | Euromedia <br> Rai 1 | 15 | 13–19 | 13–19 | 13–20 | 13–21 |
+| [8 May 2019](2019-05-08-Piepoli.html) | Piepoli <br> Rai 1 | 16 | 16–17 | 16–18 | 14–19 | 14–20 |
 | [7–8 May 2019](2019-05-08-IndexResearch.html) | Index Research <br> LA7 | 18 | 16–20 | 16–20 | 15–21 | 15–22 |
 | [6–8 May 2019](2019-05-08-DemosPi.html) | Demos & Pi | 18 | 16–19 | 16–20 | 16–20 | 15–21 |
+| [6–8 May 2019](2019-05-08-Bimedia.html) | Bimedia | 16 | 15–19 | 15–19 | 15–20 | 15–21 |
 | [7 May 2019](2019-05-07-SWG.html) | SWG <br> LA7 | 18 | 17–20 | 17–20 | 17–20 | 16–21 |
 | [7 May 2019](2019-05-07-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 16 | 15–17 | 14–18 | 14–18 | 13–19 |
 | [5–7 May 2019](2019-05-07-Demopolis.html) | Demopolis | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
 | [4–6 May 2019](2019-05-06-Tecnè.html) | Tecnè | 17 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [30 April–6 May 2019](2019-05-06-SWG.html) | SWG <br> LA7 | 17 | 16–18 | 16–19 | 16–19 | 15–19 |
+| [24 April–6 May 2019](2019-05-06-CISE.html) | CISE |  |  |  |  |  |
 | [2–3 May 2019](2019-05-03-Quorum.html) | Quorum <br> Sky TG 24 | 16 | 15–17 | 15–18 | 14–18 | 14–19 |
-| [25–30 April 2019](2019-04-30-TermometroPolitico.html) | Termometro Politico <br> LA7 | 17 | 16–18 | 16–18 | 16–19 | 15–19 |
+| [25–30 April 2019](2019-04-30-TermometroPolitico.html) | Termometro Politico | 17 | 16–18 | 16–18 | 16–19 | 15–19 |
 | [30 April 2019](2019-04-30-Piepoli.html) | Piepoli <br> Rai 1 | 16 | 14–18 | 14–19 | 13–19 | 13–20 |
 | [30 April 2019](2019-04-30-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 15 | 14–16 | 13–17 | 13–17 | 13–18 |
 | [30 April 2019](2019-04-30-IndexResearch.html) | Index Research <br> LA7 | 17 | 16–19 | 15–19 | 15–20 | 14–21 |
@@ -466,6 +475,7 @@ Last result: **17** seats (General Election of 25 May 2014)
 | [7–8 April 2019](2019-04-08-Tecnè.html) | Tecnè <br> Quarta Repubblica | 16 | 14–17 | 14–17 | 14–18 | 13–18 |
 | [5–8 April 2019](2019-04-08-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 17 | 16–18 | 15–18 | 15–19 | 14–19 |
 | [3–8 April 2019](2019-04-08-SWG.html) | SWG <br> LA7 | 18 | 17–19 | 16–19 | 16–20 | 16–20 |
+| [6 May–8 April 2019](2019-04-08-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
 | [2–4 April 2019](2019-04-04-Ipsos.html) | Ipsos <br> Corriere della Sera | 19 | 17–20 | 17–21 | 16–21 | 16–22 |
 | [4 April 2019](2019-04-04-IndexResearch.html) | Index Research <br> LA7 | 17 | 16–19 | 15–19 | 15–20 | 14–20 |
 | [3 April 2019](2019-04-03-TermometroPolitico.html) | Termometro Politico | 17 | 17–18 | 16–18 | 16–19 | 16–19 |
