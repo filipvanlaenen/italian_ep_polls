@@ -12,7 +12,10 @@ Last result: **0.0%** (General Election of 25 May 2014)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.7% | 1.9–4.6% | 1.8–5.1% | 1.6–5.4% | 1.3–6.1% |
 | [5–9 May 2019](2019-05-09-TermometroPolitico.html) | Termometro Politico | 1.9% | 1.7–2.1% | 1.6–2.2% | 1.6–2.3% | 1.5–2.4% |
+| [7–9 May 2019](2019-05-09-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 2.1% | 1.7–2.7% | 1.6–2.9% | 1.5–3.0% | 1.3–3.3% |
+| [6–9 May 2019](2019-05-09-Ixè.html) | Ixè | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
 | [8–9 May 2019](2019-05-09-Euromedia.html) | Euromedia <br> Rai 1 | 2.0% | 1.5–2.8% | 1.4–3.0% | 1.2–3.2% | 1.0–3.7% |
+| [8–9 May 2019](2019-05-09-Demopolis.html) | Demopolis | 2.8% | 2.4–3.3% | 2.3–3.5% | 2.2–3.6% | 2.0–3.9% |
 | [8 May 2019](2019-05-08-Piepoli.html) | Piepoli <br> Rai 1 | 2.0% | 1.4–3.0% | 1.2–3.4% | 1.1–3.6% | 0.9–4.2% |
 | [7–8 May 2019](2019-05-08-IndexResearch.html) | Index Research <br> LA7 | 2.8% | 2.1–3.7% | 2.0–3.9% | 1.8–4.1% | 1.6–4.6% |
 | [6–8 May 2019](2019-05-08-DemosPi.html) | Demos & Pi | 3.1% | 2.5–3.9% | 2.3–4.1% | 2.2–4.3% | 1.9–4.8% |
@@ -430,7 +433,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [5–9 May 2019](2019-05-09-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
+| [7–9 May 2019](2019-05-09-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 0 | 0 | 0 | 0 | 0 |
+| [6–9 May 2019](2019-05-09-Ixè.html) | Ixè | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [8–9 May 2019](2019-05-09-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
+| [8–9 May 2019](2019-05-09-Demopolis.html) | Demopolis | 0 | 0 | 0 | 0 | 0 |
 | [8 May 2019](2019-05-08-Piepoli.html) | Piepoli <br> Rai 1 | 0 | 0 | 0 | 0 | 0–3 |
 | [7–8 May 2019](2019-05-08-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0 | 0–3 | 0–4 |
 | [6–8 May 2019](2019-05-08-DemosPi.html) | Demos & Pi | 0 | 0 | 0–3 | 0–3 | 0–4 |

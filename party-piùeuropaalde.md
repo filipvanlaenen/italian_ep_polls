@@ -12,7 +12,10 @@ Last result: **0.0%** (General Election of 25 May 2014)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3.1% | 2.3–4.0% | 2.0–4.4% | 1.8–4.7% | 1.4–5.3% |
 | [5–9 May 2019](2019-05-09-TermometroPolitico.html) | Termometro Politico | 2.8% | 2.5–3.1% | 2.5–3.2% | 2.4–3.2% | 2.3–3.4% |
+| [7–9 May 2019](2019-05-09-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 2.4% | 2.0–3.0% | 1.8–3.2% | 1.7–3.3% | 1.5–3.6% |
+| [6–9 May 2019](2019-05-09-Ixè.html) | Ixè | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
 | [8–9 May 2019](2019-05-09-Euromedia.html) | Euromedia <br> Rai 1 | 3.5% | 2.8–4.5% | 2.6–4.8% | 2.4–5.0% | 2.1–5.5% |
+| [8–9 May 2019](2019-05-09-Demopolis.html) | Demopolis | 3.2% | 2.7–3.8% | 2.6–3.9% | 2.5–4.1% | 2.3–4.4% |
 | [8 May 2019](2019-05-08-Piepoli.html) | Piepoli <br> Rai 1 | 3.6% | 2.7–4.9% | 2.5–5.3% | 2.3–5.6% | 1.9–6.3% |
 | [7–8 May 2019](2019-05-08-IndexResearch.html) | Index Research <br> LA7 | 3.1% | 2.5–4.1% | 2.3–4.3% | 2.1–4.6% | 1.8–5.1% |
 | [6–8 May 2019](2019-05-08-DemosPi.html) | Demos & Pi | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–6.0% |
@@ -429,11 +432,14 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–3 | 0–3 | 0–4 |
 | [5–9 May 2019](2019-05-09-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
-| [8–9 May 2019](2019-05-09-Euromedia.html) | Euromedia <br> Rai 1 | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
-| [8 May 2019](2019-05-08-Piepoli.html) | Piepoli <br> Rai 1 | 4 | 0–4 | 0–4 | 0–5 | 0–5 |
+| [7–9 May 2019](2019-05-09-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 0 | 0 | 0 | 0 | 0 |
+| [6–9 May 2019](2019-05-09-Ixè.html) | Ixè | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [8–9 May 2019](2019-05-09-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [8–9 May 2019](2019-05-09-Demopolis.html) | Demopolis | 0 | 0 | 0 | 0–3 | 0–3 |
+| [8 May 2019](2019-05-08-Piepoli.html) | Piepoli <br> Rai 1 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [7–8 May 2019](2019-05-08-IndexResearch.html) | Index Research <br> LA7 | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [6–8 May 2019](2019-05-08-DemosPi.html) | Demos & Pi | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [6–8 May 2019](2019-05-08-Bimedia.html) | Bimedia | 3 | 0–3 | 0–3 | 0–3 | 0–3 |
+| [6–8 May 2019](2019-05-08-Bimedia.html) | Bimedia | 0 | 0 | 0 | 0–3 | 0–3 |
 | [7 May 2019](2019-05-07-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0–3 |
 | [7 May 2019](2019-05-07-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [5–7 May 2019](2019-05-07-Demopolis.html) | Demopolis |  |  |  |  |  |
