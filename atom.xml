@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/italian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2019-05-12T14:17:04.338758+02:00</updated>
+  <updated>2019-05-15T19:56:49.438304+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Movimento 5 Stelle (EFDD): 21.8–23.9%, 17–18 seats</li><li>Partito Democratico (S&amp;D): 20.6–22.7%, 15–16 seats</li><li>Lega Nord (EAPN): 29.2–31.5%, 22–24 seats</li><li>Forza Italia (EPP): 8.7–10.2%, 7–8 seats</li><li>Fratelli d’Italia (ECR): 5.2–6.4%, 4–5 seats</li><li>Liberi e Uguali (S&amp;D): 1.6–2.3%, 0 seats</li><li>Più Europa (ALDE): 2.4–3.2%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/italian_ep_polls/2019-05-09-TermometroPolitico.html</id>
@@ -14,6 +14,14 @@
     <title>Opinion Poll by Termometro Politico, 5–9 May 2019</title>
     <updated>2019-05-12T11:53:20.930009+02:00</updated>
     <dc:date>2019-05-12T11:53:20.930009+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Movimento 5 Stelle (EFDD): 18.8–24.5%, 14–19 seats</li><li>Partito Democratico (S&amp;D): 19.1–24.9%, 13–18 seats</li><li>Lega Nord (EAPN): 26.6–32.9%, 20–25 seats</li><li>Forza Italia (EPP): 8.2–12.4%, 6–9 seats</li><li>Fratelli d’Italia (ECR): 3.9–7.0%, 0–5 seats</li><li>Liberi e Uguali (S&amp;D): 1.2–3.2%, 0 seats</li><li>Più Europa (ALDE): 2.4–5.0%, 0–4 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/italian_ep_polls/2019-05-09-Euromedia.html</id>
+    <link href="https://filipvanlaenen.github.io/italian_ep_polls/2019-05-09-Euromedia.html"/>
+    <title>Opinion Poll by Euromedia for Rai 1, 8–9 May 2019</title>
+    <updated>2019-05-15T19:56:49.438304+02:00</updated>
+    <dc:date>2019-05-15T19:56:49.438304+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Movimento 5 Stelle (EFDD): 19.9–25.7%, 15–21 seats</li><li>Partito Democratico (S&amp;D): 18.7–24.4%, 14–18 seats</li><li>Lega Nord (EAPN): 29.7–36.2%, 23–29 seats</li><li>Forza Italia (EPP): 7.5–11.6%, 6–9 seats</li><li>Fratelli d’Italia (ECR): 3.8–6.9%, 0–6 seats</li><li>Liberi e Uguali (S&amp;D): 1.8–4.1%, 0–3 seats</li><li>Più Europa (ALDE): 2.1–4.6%, 0–4 seats</li></ul></div></content>
@@ -383,5 +391,5 @@
     <updated>2019-04-22T21:00:49.918208+02:00</updated>
     <dc:date>2019-04-22T21:00:49.918208+02:00</dc:date>
   </entry>
-  <dc:date>2019-05-12T14:17:04.338758+02:00</dc:date>
+  <dc:date>2019-05-15T19:56:49.438304+02:00</dc:date>
 </feed>
