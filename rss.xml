@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 14 May 2019 20:37:06 +0200</pubDate>
+    <pubDate>Wed, 15 May 2019 19:56:49 +0200</pubDate>
     <item>
       <title>Opinion Poll by Termometro Politico, 5–9 May 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-05-09-TermometroPolitico.html#seats</link>
@@ -40,14 +40,64 @@
       <dc:date>2019-05-12T11:53:20.930009+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Scenari Politici–Winpoll, 7–9 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-05-09-ScenariPolitici–Winpoll.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 20.7–24.9%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 20.1–24.3%&lt;/li&gt;&lt;li&gt;Lega Nord (EAPN): 31.4–36.2%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6.5–9.3%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 4.7–7.1%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 1.5–3.0%&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 1.7–3.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-05-09-ScenariPolitici–Winpoll.png"
+        length="176114"
+        type="image/png"/>
+      <pubDate>Wed, 15 May 2019 19:05:51 +0200</pubDate>
+      <dc:date>2019-05-15T19:05:51.770256+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ixè, 6–9 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-05-09-Ixè.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 18.1–23.1%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 17.7–22.7%&lt;/li&gt;&lt;li&gt;Lega Nord (EAPN): 27.7–33.4%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 7.9–11.6%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 4.0–6.8%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 2.4–4.7%&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 2.9–5.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-05-09-Ixè.png"
+        length="184651"
+        type="image/png"/>
+      <pubDate>Wed, 15 May 2019 19:46:54 +0200</pubDate>
+      <dc:date>2019-05-15T19:46:54.769306+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Euromedia for Rai 1, 8–9 May 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-05-09-Euromedia.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 14–19 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 13–18 seats&lt;/li&gt;&lt;li&gt;Lega Nord (EAPN): 20–25 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6–9 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 0–5 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 0–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-05-09-Euromedia-seats.png"
+        length="186972"
+        type="image/png"/>
+      <pubDate>Wed, 15 May 2019 19:56:49 +0200</pubDate>
+      <dc:date>2019-05-15T19:56:49.438304+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Euromedia for Rai 1, 8–9 May 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-05-09-Euromedia.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-05-09-Euromedia-coalitions-seats.png"
+        length="173510"
+        type="image/png"/>
+      <pubDate>Wed, 15 May 2019 19:56:49 +0200</pubDate>
+      <dc:date>2019-05-15T19:56:49.438304+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Euromedia for Rai 1, 8–9 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-05-09-Euromedia.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 18.8–24.5%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 19.1–24.9%&lt;/li&gt;&lt;li&gt;Lega Nord (EAPN): 26.6–32.9%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 8.2–12.4%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 3.9–7.0%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 1.2–3.2%&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 2.4–5.0%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-05-09-Euromedia.png"
         length="186903"
         type="image/png"/>
-      <pubDate>Tue, 14 May 2019 20:11:06 +0200</pubDate>
-      <dc:date>2019-05-14T20:11:06.433418+02:00</dc:date>
+      <pubDate>Wed, 15 May 2019 19:56:49 +0200</pubDate>
+      <dc:date>2019-05-15T19:56:49.438304+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demopolis, 8–9 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-05-09-Demopolis.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 21.2–24.9%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 20.4–24.1%&lt;/li&gt;&lt;li&gt;Lega Nord (EAPN): 29.0–33.1%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 7.3–9.7%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 4.6–6.6%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 2.2–3.6%&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 2.5–4.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-05-09-Demopolis.png"
+        length="170106"
+        type="image/png"/>
+      <pubDate>Wed, 15 May 2019 19:28:43 +0200</pubDate>
+      <dc:date>2019-05-15T19:28:43.398049+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Piepoli for Rai 1, 8 May 2019 – Voting Intentions</title>
@@ -56,8 +106,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-05-08-Piepoli.png"
         length="199976"
         type="image/png"/>
-      <pubDate>Tue, 14 May 2019 20:20:54 +0200</pubDate>
-      <dc:date>2019-05-14T20:20:54.883823+02:00</dc:date>
+      <pubDate>Wed, 15 May 2019 18:37:36 +0200</pubDate>
+      <dc:date>2019-05-15T18:37:36.677869+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Index Research for LA7, 7–8 May 2019 – Seat Projections for the Parties</title>
@@ -126,8 +176,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-05-08-Bimedia.png"
         length="175704"
         type="image/png"/>
-      <pubDate>Tue, 14 May 2019 20:37:06 +0200</pubDate>
-      <dc:date>2019-05-14T20:37:06.22372+02:00</dc:date>
+      <pubDate>Wed, 15 May 2019 19:07:55 +0200</pubDate>
+      <dc:date>2019-05-15T19:07:55.081874+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SWG for LA7, 7 May 2019 – Seat Projections for the Parties</title>
@@ -1689,6 +1739,6 @@
       <pubDate>Wed, 08 May 2019 06:57:30 +0200</pubDate>
       <dc:date>2019-05-08T06:57:30.376817+02:00</dc:date>
     </item>
-    <dc:date>2019-05-14T20:37:06.22372+02:00</dc:date>
+    <dc:date>2019-05-15T19:56:49.438304+02:00</dc:date>
   </channel>
 </rss>
