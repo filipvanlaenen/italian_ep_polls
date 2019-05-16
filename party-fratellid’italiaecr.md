@@ -437,10 +437,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [6–9 May 2019](2019-05-09-Ixè.html) | Ixè | 4 | 3–5 | 3–5 | 0–5 | 0–6 |
 | [8–9 May 2019](2019-05-09-Euromedia.html) | Euromedia <br> Rai 1 | 4 | 3–5 | 3–5 | 0–5 | 0–6 |
 | [8–9 May 2019](2019-05-09-Demopolis.html) | Demopolis | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
-| [8 May 2019](2019-05-08-Piepoli.html) | Piepoli <br> Rai 1 | 4 | 0–5 | 0–5 | 0–6 | 0–6 |
+| [8 May 2019](2019-05-08-Piepoli.html) | Piepoli <br> Rai 1 | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [7–8 May 2019](2019-05-08-IndexResearch.html) | Index Research <br> LA7 | 4 | 3–5 | 0–5 | 0–6 | 0–6 |
 | [6–8 May 2019](2019-05-08-DemosPi.html) | Demos & Pi | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
-| [6–8 May 2019](2019-05-08-Bimedia.html) | Bimedia | 4 | 0–4 | 0–4 | 0–5 | 0–5 |
+| [6–8 May 2019](2019-05-08-Bimedia.html) | Bimedia | 4 | 3–4 | 0–4 | 0–5 | 0–5 |
 | [7 May 2019](2019-05-07-SWG.html) | SWG <br> LA7 | 4 | 3–5 | 3–5 | 0–5 | 0–5 |
 | [7 May 2019](2019-05-07-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 4 | 4–5 | 3–5 | 3–5 | 0–6 |
 | [5–7 May 2019](2019-05-07-Demopolis.html) | Demopolis | 3 | 3–4 | 0–4 | 0–4 | 0–5 |

@@ -434,7 +434,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [5–9 May 2019](2019-05-09-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [7–9 May 2019](2019-05-09-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 0 | 0 | 0 | 0 | 0 |
-| [6–9 May 2019](2019-05-09-Ixè.html) | Ixè | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
+| [6–9 May 2019](2019-05-09-Ixè.html) | Ixè | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [8–9 May 2019](2019-05-09-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
 | [8–9 May 2019](2019-05-09-Demopolis.html) | Demopolis | 0 | 0 | 0 | 0 | 0 |
 | [8 May 2019](2019-05-08-Piepoli.html) | Piepoli <br> Rai 1 | 0 | 0 | 0 | 0 | 0–3 |

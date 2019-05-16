@@ -451,14 +451,14 @@ Last result: **31** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 15 | 13–17 | 13–17 | 12–17 | 12–18 |
 | [5–9 May 2019](2019-05-09-TermometroPolitico.html) | Termometro Politico | 16 | 15–16 | 15–16 | 15–16 | 15–17 |
-| [7–9 May 2019](2019-05-09-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 17 | 15–18 | 15–18 | 15–18 | 14–19 |
-| [6–9 May 2019](2019-05-09-Ixè.html) | Ixè | 14 | 13–16 | 12–16 | 12–16 | 12–17 |
+| [7–9 May 2019](2019-05-09-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
+| [6–9 May 2019](2019-05-09-Ixè.html) | Ixè | 14 | 13–16 | 13–16 | 12–17 | 12–17 |
 | [8–9 May 2019](2019-05-09-Euromedia.html) | Euromedia <br> Rai 1 | 16 | 14–17 | 14–18 | 13–18 | 13–19 |
 | [8–9 May 2019](2019-05-09-Demopolis.html) | Demopolis | 17 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [8 May 2019](2019-05-08-Piepoli.html) | Piepoli <br> Rai 1 | 15 | 13–17 | 13–18 | 12–18 | 12–19 |
 | [7–8 May 2019](2019-05-08-IndexResearch.html) | Index Research <br> LA7 | 16 | 14–18 | 14–18 | 14–18 | 13–19 |
 | [6–8 May 2019](2019-05-08-DemosPi.html) | Demos & Pi | 15 | 14–17 | 13–17 | 13–17 | 12–18 |
-| [6–8 May 2019](2019-05-08-Bimedia.html) | Bimedia | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
+| [6–8 May 2019](2019-05-08-Bimedia.html) | Bimedia | 16 | 14–16 | 14–17 | 14–17 | 13–18 |
 | [7 May 2019](2019-05-07-SWG.html) | SWG <br> LA7 | 16 | 15–17 | 15–17 | 14–17 | 14–18 |
 | [7 May 2019](2019-05-07-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 15 | 14–16 | 13–17 | 13–17 | 12–18 |
 | [5–7 May 2019](2019-05-07-Demopolis.html) | Demopolis | 15 | 14–16 | 13–16 | 13–16 | 13–17 |

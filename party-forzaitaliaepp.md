@@ -441,7 +441,7 @@ Last result: **13** seats (General Election of 25 May 2014)
 | [6–9 May 2019](2019-05-09-Ixè.html) | Ixè | 7 | 6–8 | 6–9 | 6–9 | 6–9 |
 | [8–9 May 2019](2019-05-09-Euromedia.html) | Euromedia <br> Rai 1 | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
 | [8–9 May 2019](2019-05-09-Demopolis.html) | Demopolis | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
-| [8 May 2019](2019-05-08-Piepoli.html) | Piepoli <br> Rai 1 | 8 | 6–9 | 6–10 | 6–10 | 5–10 |
+| [8 May 2019](2019-05-08-Piepoli.html) | Piepoli <br> Rai 1 | 8 | 6–9 | 6–9 | 6–10 | 5–11 |
 | [7–8 May 2019](2019-05-08-IndexResearch.html) | Index Research <br> LA7 | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
 | [6–8 May 2019](2019-05-08-DemosPi.html) | Demos & Pi | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
 | [6–8 May 2019](2019-05-08-Bimedia.html) | Bimedia | 7 | 6–8 | 6–8 | 6–8 | 6–9 |

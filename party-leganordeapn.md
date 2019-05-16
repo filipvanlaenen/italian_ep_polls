@@ -462,10 +462,10 @@ Last result: **5** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 25 | 22–28 | 22–29 | 22–30 | 21–31 |
 | [5–9 May 2019](2019-05-09-TermometroPolitico.html) | Termometro Politico | 23 | 23–24 | 22–24 | 22–24 | 22–24 |
 | [7–9 May 2019](2019-05-09-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 27 | 25–28 | 25–28 | 25–29 | 24–29 |
-| [6–9 May 2019](2019-05-09-Ixè.html) | Ixè | 23 | 22–25 | 21–25 | 21–26 | 20–27 |
+| [6–9 May 2019](2019-05-09-Ixè.html) | Ixè | 23 | 22–25 | 21–26 | 21–26 | 20–27 |
 | [8–9 May 2019](2019-05-09-Euromedia.html) | Euromedia <br> Rai 1 | 22 | 21–24 | 20–25 | 20–25 | 19–26 |
 | [8–9 May 2019](2019-05-09-Demopolis.html) | Demopolis | 24 | 23–26 | 23–26 | 23–27 | 22–27 |
-| [8 May 2019](2019-05-08-Piepoli.html) | Piepoli <br> Rai 1 | 23 | 21–26 | 20–26 | 20–26 | 19–28 |
+| [8 May 2019](2019-05-08-Piepoli.html) | Piepoli <br> Rai 1 | 23 | 21–25 | 20–26 | 20–26 | 19–28 |
 | [7–8 May 2019](2019-05-08-IndexResearch.html) | Index Research <br> LA7 | 26 | 24–28 | 24–28 | 23–29 | 22–30 |
 | [6–8 May 2019](2019-05-08-DemosPi.html) | Demos & Pi | 25 | 23–27 | 23–28 | 23–28 | 22–29 |
 | [6–8 May 2019](2019-05-08-Bimedia.html) | Bimedia | 25 | 24–26 | 23–27 | 23–27 | 22–28 |
