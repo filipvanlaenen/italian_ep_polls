@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 19 May 2019 12:57:39 +0200</pubDate>
+    <pubDate>Sun, 19 May 2019 13:07:57 +0200</pubDate>
     <item>
       <title>Opinion Poll by Termometro Politico, 5–9 May 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-05-09-TermometroPolitico.html#seats</link>
@@ -430,14 +430,34 @@
       <dc:date>2019-05-09T15:33:03.483784+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by CISE, 24 April–6 May 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-05-06-CISE.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 16–18 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 14–16 seats&lt;/li&gt;&lt;li&gt;Lega Nord (EAPN): 19–21 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 8–9 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 3–4 seats&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 0–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-05-06-CISE-seats.png"
+        length="143503"
+        type="image/png"/>
+      <pubDate>Sun, 19 May 2019 13:07:57 +0200</pubDate>
+      <dc:date>2019-05-19T13:07:57.990906+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CISE, 24 April–6 May 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-05-06-CISE.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-05-06-CISE-coalitions-seats.png"
+        length="135328"
+        type="image/png"/>
+      <pubDate>Sun, 19 May 2019 13:07:57 +0200</pubDate>
+      <dc:date>2019-05-19T13:07:57.990906+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by CISE, 24 April–6 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-05-06-CISE.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 22.0–24.2%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 20.6–22.7%&lt;/li&gt;&lt;li&gt;Lega Nord (EAPN): 26.2–28.5%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 10.9–12.5%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 4.1–5.2%&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 3.7–4.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-05-06-CISE.png"
         length="143306"
         type="image/png"/>
-      <pubDate>Sun, 19 May 2019 12:57:39 +0200</pubDate>
-      <dc:date>2019-05-19T12:57:39.925027+02:00</dc:date>
+      <pubDate>Sun, 19 May 2019 13:07:57 +0200</pubDate>
+      <dc:date>2019-05-19T13:07:57.990906+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Quorum for Sky TG 24, 2–3 May 2019 – Seat Projections for the Parties</title>
@@ -1849,6 +1869,6 @@
       <pubDate>Wed, 08 May 2019 06:57:30 +0200</pubDate>
       <dc:date>2019-05-08T06:57:30.376817+02:00</dc:date>
     </item>
-    <dc:date>2019-05-19T12:57:39.925027+02:00</dc:date>
+    <dc:date>2019-05-19T13:07:57.990906+02:00</dc:date>
   </channel>
 </rss>
