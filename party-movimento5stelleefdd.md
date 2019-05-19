@@ -25,7 +25,7 @@ Last result: **21.2%** (General Election of 25 May 2014)
 | [5–7 May 2019](2019-05-07-Demopolis.html) | Demopolis | 22.3% | 21.0–23.8% | 20.6–24.2% | 20.3–24.5% | 19.7–25.2% |
 | [4–6 May 2019](2019-05-06-Tecnè.html) | Tecnè | 21.3% | 20.7–23.4% | 20.3–23.8% | 20.0–24.2% | 19.4–24.9% |
 | [30 April–6 May 2019](2019-05-06-SWG.html) | SWG <br> LA7 | 22.7% | 21.4–24.2% | 21.0–24.6% | 20.7–24.9% | 20.0–25.6% |
-| [24 April–6 May 2019](2019-05-06-CISE.html) | CISE | 23.1% | N/A | N/A | N/A | N/A |
+| [24 April–6 May 2019](2019-05-06-CISE.html) | CISE | 23.1% | 22.4–23.8% | 22.2–24.0% | 22.0–24.2% | 21.7–24.5% |
 | [2–3 May 2019](2019-05-03-Quorum.html) | Quorum <br> Sky TG 24 | 22.2% | 20.6–24.0% | 20.1–24.4% | 19.7–24.9% | 19.0–25.7% |
 | [25–30 April 2019](2019-04-30-TermometroPolitico.html) | Termometro Politico | 23.5% | 21.8–24.2% | 21.4–24.5% | 21.2–24.9% | 20.6–25.5% |
 | [30 April 2019](2019-04-30-Piepoli.html) | Piepoli <br> Rai 1 | 21.6% | 19.4–24.1% | 18.8–24.8% | 18.2–25.4% | 17.2–26.7% |
@@ -450,7 +450,7 @@ Last result: **17** seats (General Election of 25 May 2014)
 | [5–7 May 2019](2019-05-07-Demopolis.html) | Demopolis | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
 | [4–6 May 2019](2019-05-06-Tecnè.html) | Tecnè | 17 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [30 April–6 May 2019](2019-05-06-SWG.html) | SWG <br> LA7 | 17 | 16–18 | 16–19 | 16–19 | 15–19 |
-| [24 April–6 May 2019](2019-05-06-CISE.html) | CISE |  |  |  |  |  |
+| [24 April–6 May 2019](2019-05-06-CISE.html) | CISE | 17 | 16–18 | 16–18 | 16–18 | 16–18 |
 | [2–3 May 2019](2019-05-03-Quorum.html) | Quorum <br> Sky TG 24 | 16 | 15–17 | 15–18 | 14–18 | 14–19 |
 | [25–30 April 2019](2019-04-30-TermometroPolitico.html) | Termometro Politico | 17 | 16–18 | 16–18 | 16–19 | 15–19 |
 | [30 April 2019](2019-04-30-Piepoli.html) | Piepoli <br> Rai 1 | 16 | 14–18 | 14–19 | 13–19 | 13–20 |

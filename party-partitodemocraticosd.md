@@ -25,7 +25,7 @@ Last result: **40.8%** (General Election of 25 May 2014)
 | [5–7 May 2019](2019-05-07-Demopolis.html) | Demopolis | 21.3% | 20.0–22.7% | 19.6–23.1% | 19.3–23.5% | 18.7–24.2% |
 | [4–6 May 2019](2019-05-06-Tecnè.html) | Tecnè | 20.3% | 19.7–22.4% | 19.3–22.8% | 19.0–23.1% | 18.4–23.8% |
 | [30 April–6 May 2019](2019-05-06-SWG.html) | SWG <br> LA7 | 22.2% | 20.9–23.6% | 20.5–24.0% | 20.2–24.4% | 19.5–25.1% |
-| [24 April–6 May 2019](2019-05-06-CISE.html) | CISE | 21.6% | N/A | N/A | N/A | N/A |
+| [24 April–6 May 2019](2019-05-06-CISE.html) | CISE | 21.6% | 20.9–22.3% | 20.7–22.5% | 20.6–22.7% | 20.3–23.0% |
 | [2–3 May 2019](2019-05-03-Quorum.html) | Quorum <br> Sky TG 24 | 21.4% | 19.8–23.1% | 19.4–23.6% | 19.0–24.1% | 18.2–24.9% |
 | [25–30 April 2019](2019-04-30-TermometroPolitico.html) | Termometro Politico | 21.8% | 20.1–22.5% | 19.8–22.9% | 19.6–23.2% | 19.0–23.7% |
 | [30 April 2019](2019-04-30-Piepoli.html) | Piepoli <br> Rai 1 | 20.2% | 18.1–22.7% | 17.5–23.4% | 17.0–24.0% | 16.0–25.2% |
@@ -454,7 +454,7 @@ Last result: **31** seats (General Election of 25 May 2014)
 | [7–9 May 2019](2019-05-09-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [6–9 May 2019](2019-05-09-Ixè.html) | Ixè | 14 | 13–16 | 13–16 | 12–17 | 12–17 |
 | [8–9 May 2019](2019-05-09-Euromedia.html) | Euromedia <br> Rai 1 | 16 | 14–17 | 14–18 | 13–18 | 13–19 |
-| [8–9 May 2019](2019-05-09-Demopolis.html) | Demopolis | 17 | 15–18 | 15–18 | 15–18 | 14–19 |
+| [8–9 May 2019](2019-05-09-Demopolis.html) | Demopolis | 17 | 16–18 | 15–18 | 15–18 | 14–19 |
 | [8 May 2019](2019-05-08-Piepoli.html) | Piepoli <br> Rai 1 | 15 | 13–17 | 13–18 | 12–18 | 12–19 |
 | [7–8 May 2019](2019-05-08-IndexResearch.html) | Index Research <br> LA7 | 16 | 14–18 | 14–18 | 14–18 | 13–19 |
 | [6–8 May 2019](2019-05-08-DemosPi.html) | Demos & Pi | 15 | 14–17 | 13–17 | 13–17 | 12–18 |
@@ -464,7 +464,7 @@ Last result: **31** seats (General Election of 25 May 2014)
 | [5–7 May 2019](2019-05-07-Demopolis.html) | Demopolis | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
 | [4–6 May 2019](2019-05-06-Tecnè.html) | Tecnè | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
 | [30 April–6 May 2019](2019-05-06-SWG.html) | SWG <br> LA7 | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
-| [24 April–6 May 2019](2019-05-06-CISE.html) | CISE |  |  |  |  |  |
+| [24 April–6 May 2019](2019-05-06-CISE.html) | CISE | 15 | 14–16 | 14–16 | 14–16 | 14–16 |
 | [2–3 May 2019](2019-05-03-Quorum.html) | Quorum <br> Sky TG 24 | 15 | 14–17 | 14–17 | 13–17 | 13–18 |
 | [25–30 April 2019](2019-04-30-TermometroPolitico.html) | Termometro Politico | 15 | 14–16 | 14–16 | 14–16 | 13–17 |
 | [30 April 2019](2019-04-30-Piepoli.html) | Piepoli <br> Rai 1 | 14 | 12–16 | 12–16 | 12–17 | 11–18 |
