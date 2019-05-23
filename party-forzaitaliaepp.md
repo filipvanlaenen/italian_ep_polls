@@ -10,7 +10,7 @@ Last result: **16.8%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.2% | 7.8–11.5% | 7.5–12.4% | 7.2–13.0% | 6.7–14.1% |
+| N/A | [Poll Average](average.html) | 9.6% | 8.1–11.3% | 7.7–11.8% | 7.4–12.1% | 6.8–12.6% |
 | [5–9 May 2019](2019-05-09-TermometroPolitico.html) | Termometro Politico | 9.4% | 8.9–9.9% | 8.8–10.1% | 8.7–10.2% | 8.5–10.4% |
 | [7–9 May 2019](2019-05-09-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 7.8% | 7.0–8.8% | 6.7–9.0% | 6.5–9.3% | 6.2–9.8% |
 | [6–9 May 2019](2019-05-09-Ixè.html) | Ixè | 9.6% | 8.5–10.9% | 8.2–11.3% | 7.9–11.6% | 7.4–12.2% |
@@ -414,15 +414,15 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0.2% | 100% |  |
-| 6.5–7.5% | 5% | 99.8% |  |
-| 7.5–8.5% | 24% | 94% |  |
-| 8.5–9.5% | 30% | 71% | Median |
-| 9.5–10.5% | 20% | 41% |  |
-| 10.5–11.5% | 11% | 21% |  |
-| 11.5–12.5% | 6% | 10% |  |
-| 12.5–13.5% | 3% | 4% |  |
-| 13.5–14.5% | 1.0% | 1.2% |  |
-| 14.5–15.5% | 0.2% | 0.2% |  |
+| 6.5–7.5% | 4% | 99.8% |  |
+| 7.5–8.5% | 16% | 96% |  |
+| 8.5–9.5% | 30% | 81% |  |
+| 9.5–10.5% | 28% | 50% | Median |
+| 10.5–11.5% | 15% | 23% |  |
+| 11.5–12.5% | 7% | 7% |  |
+| 12.5–13.5% | 0.6% | 0.6% |  |
+| 13.5–14.5% | 0.1% | 0.1% |  |
+| 14.5–15.5% | 0% | 0% |  |
 | 15.5–16.5% | 0% | 0% |  |
 | 16.5–17.5% | 0% | 0% | Last Result |
 
@@ -435,7 +435,7 @@ Last result: **13** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–9 | 6–9 | 5–10 | 5–10 |
+| N/A | [Poll Average](average.html) | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
 | [5–9 May 2019](2019-05-09-TermometroPolitico.html) | Termometro Politico | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
 | [7–9 May 2019](2019-05-09-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
 | [6–9 May 2019](2019-05-09-Ixè.html) | Ixè | 7 | 6–8 | 6–9 | 6–9 | 6–9 |
@@ -839,13 +839,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 4% | 100% |  |
-| 6 | 28% | 96% |  |
-| 7 | 33% | 68% | Median |
-| 8 | 23% | 36% |  |
-| 9 | 10% | 13% |  |
-| 10 | 3% | 3% |  |
-| 11 | 0.3% | 0.3% |  |
+| 5 | 1.1% | 100% |  |
+| 6 | 16% | 98.9% |  |
+| 7 | 39% | 83% | Median |
+| 8 | 31% | 44% |  |
+| 9 | 12% | 13% |  |
+| 10 | 0.9% | 0.9% |  |
+| 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0% |  |
 | 13 | 0% | 0% | Last Result |
 
