@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <author>
+    <name>Filip van Laenen</name>
+  </author>
+  <id>https://filipvanlaenen.github.io/italian_ep_polls</id>
+  <title>All Registered Polls for the European Parliament</title>
+  <updated>2019-06-13T09:05:23.862041+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Movimento 5 Stelle (EFDD): 16.3–21.7%, 12–16 seats</li><li>Partito Democratico (S&amp;D): 20.5–26.3%, 14–19 seats</li><li>Lega Nord (EAPN): 30.8–37.4%, 23–28 seats</li><li>Forza Italia (EPP): 5.3–8.9%, 4–7 seats</li><li>Fratelli d’Italia (ECR): 5.4–9.0%, 4–7 seats</li><li>Più Europa (ALDE): 2.1–4.6%, 0–3 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/italian_ep_polls/2019-06-07-IndexResearch.html</id>
+    <link href="https://filipvanlaenen.github.io/italian_ep_polls/2019-06-07-IndexResearch.html"/>
+    <title>Opinion Poll by Index Research for LA7, 1–7 June 2019</title>
+    <updated>2019-06-13T09:05:23.862041+02:00</updated>
+    <dc:date>2019-06-13T09:05:23.862041+02:00</dc:date>
+  </entry>
+  <dc:date>2019-06-13T09:05:23.862041+02:00</dc:date>
+</feed>
