@@ -10,13 +10,13 @@ Last result: **6.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 35.2% | 32.9–37.5% | 32.3–38.0% | 31.7–38.5% | 30.6–39.5% |
+| N/A | [Poll Average](average.html) | 35.4% | 33.1–37.5% | 32.5–38.1% | 31.9–38.5% | 30.8–39.4% |
 | [1–7 June 2019](2019-06-07-IndexResearch.html) | Index Research <br> LA7 | 34.0% | 31.9–36.2% | 31.3–36.8% | 30.8–37.4% | 29.8–38.4% |
 | [2–3 June 2019](2019-06-03-Tecnè.html) | Tecnè <br> Rete 4 | 35.8% | 33.9–37.8% | 33.3–38.3% | 32.9–38.8% | 32.0–39.8% |
 | [29 May–3 June 2019](2019-06-03-SWG.html) | SWG <br> LA7 | 36.5% | 34.9–38.1% | 34.5–38.6% | 34.1–39.0% | 33.4–39.8% |
-| [1 June 2019](2019-06-01-EMG.html) | EMG <br> Affari Internazionali | 34.2% | 32.6–35.8% | 32.2–36.2% | 31.9–36.6% | 31.2–37.3% |
-| [30 May 2019](2019-05-30-Piepoli.html) | Piepoli <br> Rai 1 | 35.0% | N/A | N/A | N/A | N/A |
-| [28–29 May 2019](2019-05-29-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 36.3% | N/A | N/A | N/A | N/A |
+| [1 June 2019](2019-06-01-EMG.html) | EMG <br> Affari Internazionali | 34.2% | 32.7–35.7% | 32.3–36.2% | 31.9–36.5% | 31.2–37.3% |
+| [30 May 2019](2019-05-30-Piepoli.html) | Piepoli <br> Rai 1 | 35.0% | 33.1–37.0% | 32.6–37.5% | 32.1–38.0% | 31.2–39.0% |
+| [28–29 May 2019](2019-05-29-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 36.3% | 34.7–37.9% | 34.2–38.3% | 33.9–38.7% | 33.1–39.5% |
 
 ### Probability Mass Function
 
@@ -47,20 +47,19 @@ The following table shows the probability mass function per percentage block of 
 | 25.5–26.5% | 0% | 100% |  |
 | 26.5–27.5% | 0% | 100% |  |
 | 27.5–28.5% | 0% | 100% |  |
-| 28.5–29.5% | 0.1% | 100% |  |
-| 29.5–30.5% | 0.4% | 99.9% |  |
-| 30.5–31.5% | 2% | 99.5% |  |
-| 31.5–32.5% | 5% | 98% |  |
-| 32.5–33.5% | 12% | 93% |  |
-| 33.5–34.5% | 19% | 81% |  |
-| 34.5–35.5% | 21% | 63% | Median |
-| 35.5–36.5% | 19% | 42% |  |
-| 36.5–37.5% | 14% | 23% |  |
+| 28.5–29.5% | 0% | 100% |  |
+| 29.5–30.5% | 0.3% | 99.9% |  |
+| 30.5–31.5% | 1.2% | 99.7% |  |
+| 31.5–32.5% | 4% | 98% |  |
+| 32.5–33.5% | 10% | 94% |  |
+| 33.5–34.5% | 17% | 85% |  |
+| 34.5–35.5% | 21% | 67% | Median |
+| 35.5–36.5% | 21% | 46% |  |
+| 36.5–37.5% | 15% | 25% |  |
 | 37.5–38.5% | 7% | 9% |  |
 | 38.5–39.5% | 2% | 2% |  |
-| 39.5–40.5% | 0.4% | 0.4% |  |
+| 39.5–40.5% | 0.3% | 0.4% |  |
 | 40.5–41.5% | 0% | 0% |  |
-| 41.5–42.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -71,13 +70,13 @@ Last result: **5** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27 | 25–28 | 24–28 | 24–29 | 23–30 |
+| N/A | [Poll Average](average.html) | 27 | 25–29 | 24–29 | 24–30 | 23–31 |
 | [1–7 June 2019](2019-06-07-IndexResearch.html) | Index Research <br> LA7 | 25 | 24–27 | 23–28 | 23–28 | 22–29 |
-| [2–3 June 2019](2019-06-03-Tecnè.html) | Tecnè <br> Rete 4 | 28 | 26–28 | 26–29 | 26–29 | 25–29 |
-| [29 May–3 June 2019](2019-06-03-SWG.html) | SWG <br> LA7 | 28 | 26–28 | 26–28 | 26–30 | 26–31 |
-| [1 June 2019](2019-06-01-EMG.html) | EMG <br> Affari Internazionali |  |  |  |  |  |
-| [30 May 2019](2019-05-30-Piepoli.html) | Piepoli <br> Rai 1 |  |  |  |  |  |
-| [28–29 May 2019](2019-05-29-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll |  |  |  |  |  |
+| [2–3 June 2019](2019-06-03-Tecnè.html) | Tecnè <br> Rete 4 | 26 | 25–27 | 24–28 | 24–28 | 23–29 |
+| [29 May–3 June 2019](2019-06-03-SWG.html) | SWG <br> LA7 | 28 | 27–29 | 26–30 | 26–30 | 25–31 |
+| [1 June 2019](2019-06-01-EMG.html) | EMG <br> Affari Internazionali | 27 | 26–28 | 25–29 | 25–29 | 24–30 |
+| [30 May 2019](2019-05-30-Piepoli.html) | Piepoli <br> Rai 1 | 27 | 25–28 | 25–29 | 24–29 | 24–30 |
+| [28–29 May 2019](2019-05-29-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 28 | 26–29 | 26–29 | 26–30 | 25–31 |
 
 ### Probability Mass Function
 
@@ -104,16 +103,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
 | 21 | 0% | 100% |  |
-| 22 | 0.4% | 100% |  |
-| 23 | 2% | 99.6% |  |
-| 24 | 6% | 98% |  |
-| 25 | 10% | 92% |  |
-| 26 | 19% | 82% |  |
-| 27 | 14% | 63% | Median |
-| 28 | 46% | 49% |  |
-| 29 | 2% | 3% |  |
-| 30 | 0.7% | 1.1% |  |
-| 31 | 0.3% | 0.3% |  |
+| 22 | 0.2% | 100% |  |
+| 23 | 1.1% | 99.8% |  |
+| 24 | 5% | 98.7% |  |
+| 25 | 12% | 94% |  |
+| 26 | 22% | 82% |  |
+| 27 | 27% | 60% | Median |
+| 28 | 21% | 34% |  |
+| 29 | 9% | 12% |  |
+| 30 | 2% | 3% |  |
+| 31 | 0.5% | 0.5% |  |
 | 32 | 0% | 0% |  |
 
 
