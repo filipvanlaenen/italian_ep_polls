@@ -1,0 +1,119 @@
+# Lega Nord (EAPN)
+
+<p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a></p>
+
+## Voting Intentions
+
+Last result: **6.2%** (General Election of 26 May 2019)
+
+### Confidence Intervals
+
+| Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| N/A | [Poll Average](average.html) | 35.2% | 32.9–37.5% | 32.3–38.0% | 31.7–38.5% | 30.6–39.5% |
+| [1–7 June 2019](2019-06-07-IndexResearch.html) | Index Research <br> LA7 | 34.0% | 31.9–36.2% | 31.3–36.8% | 30.8–37.4% | 29.8–38.4% |
+| [2–3 June 2019](2019-06-03-Tecnè.html) | Tecnè <br> Rete 4 | 35.8% | 33.9–37.8% | 33.3–38.3% | 32.9–38.8% | 32.0–39.8% |
+| [29 May–3 June 2019](2019-06-03-SWG.html) | SWG <br> LA7 | 36.5% | 34.9–38.1% | 34.5–38.6% | 34.1–39.0% | 33.4–39.8% |
+| [1 June 2019](2019-06-01-EMG.html) | EMG <br> Affari Internazionali | 34.2% | 32.6–35.8% | 32.2–36.2% | 31.9–36.6% | 31.2–37.3% |
+| [30 May 2019](2019-05-30-Piepoli.html) | Piepoli <br> Rai 1 | 35.0% | N/A | N/A | N/A | N/A |
+| [28–29 May 2019](2019-05-29-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 36.3% | N/A | N/A | N/A | N/A |
+
+### Probability Mass Function
+
+The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Lega Nord (EAPN).
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 5.5–6.5% | 0% | 100% | Last Result |
+| 6.5–7.5% | 0% | 100% |  |
+| 7.5–8.5% | 0% | 100% |  |
+| 8.5–9.5% | 0% | 100% |  |
+| 9.5–10.5% | 0% | 100% |  |
+| 10.5–11.5% | 0% | 100% |  |
+| 11.5–12.5% | 0% | 100% |  |
+| 12.5–13.5% | 0% | 100% |  |
+| 13.5–14.5% | 0% | 100% |  |
+| 14.5–15.5% | 0% | 100% |  |
+| 15.5–16.5% | 0% | 100% |  |
+| 16.5–17.5% | 0% | 100% |  |
+| 17.5–18.5% | 0% | 100% |  |
+| 18.5–19.5% | 0% | 100% |  |
+| 19.5–20.5% | 0% | 100% |  |
+| 20.5–21.5% | 0% | 100% |  |
+| 21.5–22.5% | 0% | 100% |  |
+| 22.5–23.5% | 0% | 100% |  |
+| 23.5–24.5% | 0% | 100% |  |
+| 24.5–25.5% | 0% | 100% |  |
+| 25.5–26.5% | 0% | 100% |  |
+| 26.5–27.5% | 0% | 100% |  |
+| 27.5–28.5% | 0% | 100% |  |
+| 28.5–29.5% | 0.1% | 100% |  |
+| 29.5–30.5% | 0.4% | 99.9% |  |
+| 30.5–31.5% | 2% | 99.5% |  |
+| 31.5–32.5% | 5% | 98% |  |
+| 32.5–33.5% | 12% | 93% |  |
+| 33.5–34.5% | 19% | 81% |  |
+| 34.5–35.5% | 21% | 63% | Median |
+| 35.5–36.5% | 19% | 42% |  |
+| 36.5–37.5% | 14% | 23% |  |
+| 37.5–38.5% | 7% | 9% |  |
+| 38.5–39.5% | 2% | 2% |  |
+| 39.5–40.5% | 0.4% | 0.4% |  |
+| 40.5–41.5% | 0% | 0% |  |
+| 41.5–42.5% | 0% | 0% |  |
+
+
+## Seats
+
+Last result: **5** seats (General Election of 26 May 2019)
+
+### Confidence Intervals
+
+| Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| N/A | [Poll Average](average.html) | 27 | 25–28 | 24–28 | 24–29 | 23–30 |
+| [1–7 June 2019](2019-06-07-IndexResearch.html) | Index Research <br> LA7 | 25 | 24–27 | 23–28 | 23–28 | 22–29 |
+| [2–3 June 2019](2019-06-03-Tecnè.html) | Tecnè <br> Rete 4 | 28 | 26–28 | 26–29 | 26–29 | 25–29 |
+| [29 May–3 June 2019](2019-06-03-SWG.html) | SWG <br> LA7 | 28 | 26–28 | 26–28 | 26–30 | 26–31 |
+| [1 June 2019](2019-06-01-EMG.html) | EMG <br> Affari Internazionali |  |  |  |  |  |
+| [30 May 2019](2019-05-30-Piepoli.html) | Piepoli <br> Rai 1 |  |  |  |  |  |
+| [28–29 May 2019](2019-05-29-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll |  |  |  |  |  |
+
+### Probability Mass Function
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-leganordeapn.png "Seats Probability Mass Function")
+
+The following table shows the probability mass function per seat for the [poll average](average.html) for Lega Nord (EAPN).
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 5 | 0% | 100% | Last Result |
+| 6 | 0% | 100% |  |
+| 7 | 0% | 100% |  |
+| 8 | 0% | 100% |  |
+| 9 | 0% | 100% |  |
+| 10 | 0% | 100% |  |
+| 11 | 0% | 100% |  |
+| 12 | 0% | 100% |  |
+| 13 | 0% | 100% |  |
+| 14 | 0% | 100% |  |
+| 15 | 0% | 100% |  |
+| 16 | 0% | 100% |  |
+| 17 | 0% | 100% |  |
+| 18 | 0% | 100% |  |
+| 19 | 0% | 100% |  |
+| 20 | 0% | 100% |  |
+| 21 | 0% | 100% |  |
+| 22 | 0.4% | 100% |  |
+| 23 | 2% | 99.6% |  |
+| 24 | 6% | 98% |  |
+| 25 | 10% | 92% |  |
+| 26 | 19% | 82% |  |
+| 27 | 14% | 63% | Median |
+| 28 | 46% | 49% |  |
+| 29 | 2% | 3% |  |
+| 30 | 0.7% | 1.1% |  |
+| 31 | 0.3% | 0.3% |  |
+| 32 | 0% | 0% |  |
+
+
