@@ -10,7 +10,8 @@ Last result: **21.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.8% | 15.9–19.8% | 15.4–20.4% | 15.0–20.9% | 14.1–22.1% |
+| N/A | [Poll Average](average.html) | 17.8% | 15.9–19.7% | 15.4–20.4% | 15.0–20.9% | 14.1–22.1% |
+| [12–17 June 2019](2019-06-17-SWG.html) | SWG <br> LA7 | 18.3% | 17.1–19.7% | 16.8–20.0% | 16.4–20.4% | 15.9–21.0% |
 | [13 June 2019](2019-06-13-IndexResearch.html) | Index Research <br> LA7 | 19.4% | 17.7–21.3% | 17.2–21.8% | 16.8–22.3% | 16.0–23.2% |
 | [11 June 2019](2019-06-11-EMG.html) | EMG <br> Rai 3 | 18.0% | 16.8–19.2% | 16.5–19.6% | 16.2–19.9% | 15.7–20.5% |
 | [9–10 June 2019](2019-06-10-Tecnè.html) | Tecnè <br> Rete 4 | 16.9% | 15.5–18.5% | 15.0–19.0% | 14.7–19.4% | 14.0–20.1% |
@@ -37,8 +38,8 @@ The following table shows the probability mass function per percentage block of 
 | 14.5–15.5% | 5% | 98.8% |  |
 | 15.5–16.5% | 14% | 94% |  |
 | 16.5–17.5% | 23% | 80% |  |
-| 17.5–18.5% | 26% | 57% | Median |
-| 18.5–19.5% | 19% | 31% |  |
+| 17.5–18.5% | 27% | 57% | Median |
+| 18.5–19.5% | 18% | 31% |  |
 | 19.5–20.5% | 8% | 12% |  |
 | 20.5–21.5% | 3% | 4% | Last Result |
 | 21.5–22.5% | 0.9% | 1.1% |  |
@@ -55,6 +56,7 @@ Last result: **17** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14 | 12–15 | 12–16 | 11–16 | 10–17 |
+| [12–17 June 2019](2019-06-17-SWG.html) | SWG <br> LA7 | 14 | 13–15 | 13–16 | 13–16 | 12–16 |
 | [13 June 2019](2019-06-13-IndexResearch.html) | Index Research <br> LA7 | 15 | 13–16 | 13–17 | 13–17 | 12–18 |
 | [11 June 2019](2019-06-11-EMG.html) | EMG <br> Rai 3 | 14 | 13–15 | 13–16 | 13–16 | 12–16 |
 | [9–10 June 2019](2019-06-10-Tecnè.html) | Tecnè <br> Rete 4 | 12 | 12–13 | 11–14 | 11–14 | 10–15 |
@@ -80,10 +82,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0.5% | 100% |  |
 | 11 | 3% | 99.5% |  |
 | 12 | 17% | 96% |  |
-| 13 | 25% | 80% |  |
-| 14 | 29% | 54% | Median |
-| 15 | 18% | 26% |  |
-| 16 | 6% | 7% |  |
+| 13 | 26% | 80% |  |
+| 14 | 28% | 53% | Median |
+| 15 | 18% | 25% |  |
+| 16 | 6% | 8% |  |
 | 17 | 1.3% | 1.5% | Last Result |
 | 18 | 0.2% | 0.2% |  |
 | 19 | 0% | 0% |  |
