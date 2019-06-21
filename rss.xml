@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 20 Jun 2019 19:36:53 +0200</pubDate>
+    <pubDate>Fri, 21 Jun 2019 17:13:55 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by SWG for LA7, 12–17 June 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-06-17-SWG.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 16.4–20.4%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 20.5–24.7%&lt;/li&gt;&lt;li&gt;Lega Nord (EAPN): 34.6–39.5%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 5.4–8.0%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 5.6–8.1%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 1.2–2.5%&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 2.0–3.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-06-17-SWG.png"
+        length="177530"
+        type="image/png"/>
+      <pubDate>Fri, 21 Jun 2019 17:13:55 +0200</pubDate>
+      <dc:date>2019-06-21T17:13:55.686084+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Index Research for LA7, 13 June 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-06-13-IndexResearch.html#seats</link>
@@ -399,6 +409,6 @@
       <pubDate>Thu, 13 Jun 2019 10:26:17 +0200</pubDate>
       <dc:date>2019-06-13T10:26:17.008283+02:00</dc:date>
     </item>
-    <dc:date>2019-06-20T19:36:53.938436+02:00</dc:date>
+    <dc:date>2019-06-21T17:13:55.686084+02:00</dc:date>
   </channel>
 </rss>
