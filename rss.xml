@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 21 Jun 2019 20:44:37 +0200</pubDate>
+    <pubDate>Sun, 23 Jun 2019 20:20:38 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Demopolis for LA7, 19–20 June 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-06-20-Demopolis.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 16.6–20.6%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 20.0–24.2%&lt;/li&gt;&lt;li&gt;Lega Nord (EAPN): 32.8–37.7%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 5.8–8.4%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 5.6–8.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-06-20-Demopolis.png"
+        length="146195"
+        type="image/png"/>
+      <pubDate>Sun, 23 Jun 2019 20:18:17 +0200</pubDate>
+      <dc:date>2019-06-23T20:18:17.430065+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Noto Sondaggi for Rai 3, 1–18 June 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-06-18-NotoSondaggi.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 15.3–20.0%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 21.4–26.7%&lt;/li&gt;&lt;li&gt;Lega Nord (EAPN): 32.1–38.0%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6.0–9.3%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 6.0–9.3%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0.9–2.5%&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 1.7–3.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-06-18-NotoSondaggi.png"
+        length="184502"
+        type="image/png"/>
+      <pubDate>Sun, 23 Jun 2019 20:20:38 +0200</pubDate>
+      <dc:date>2019-06-23T20:20:38.257932+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by EMG for Rai 3, 18 June 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-06-18-EMG.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 16.2–19.8%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 22.5–26.4%&lt;/li&gt;&lt;li&gt;Lega Nord (EAPN): 32.8–37.2%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6.8–9.3%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 5.9–8.3%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 1.4–2.7%&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 2.0–3.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-06-18-EMG.png"
+        length="172288"
+        type="image/png"/>
+      <pubDate>Sun, 23 Jun 2019 20:13:32 +0200</pubDate>
+      <dc:date>2019-06-23T20:13:32.954255+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by SWG for LA7, 12–17 June 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-06-17-SWG.html#seats</link>
@@ -429,6 +459,6 @@
       <pubDate>Thu, 13 Jun 2019 10:26:17 +0200</pubDate>
       <dc:date>2019-06-13T10:26:17.008283+02:00</dc:date>
     </item>
-    <dc:date>2019-06-21T20:44:37.228136+02:00</dc:date>
+    <dc:date>2019-06-23T20:20:38.257932+02:00</dc:date>
   </channel>
 </rss>
