@@ -10,7 +10,8 @@ Last result: **40.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23.4% | 21.5–25.4% | 20.9–25.9% | 20.5–26.4% | 19.7–27.5% |
+| N/A | [Poll Average](average.html) | 23.4% | 21.5–25.4% | 21.0–25.9% | 20.5–26.4% | 19.7–27.5% |
+| [19–24 June 2019](2019-06-24-SWG.html) | SWG <br> LA7 | 22.6% | 21.2–24.0% | 20.9–24.4% | 20.5–24.8% | 19.9–25.5% |
 | [19–20 June 2019](2019-06-20-Demopolis.html) | Demopolis <br> LA7 | 22.0% | 20.7–23.4% | 20.3–23.8% | 20.0–24.2% | 19.3–24.9% |
 | [1–18 June 2019](2019-06-18-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 24.0% | 22.3–25.8% | 21.9–26.3% | 21.4–26.7% | 20.7–27.6% |
 | [18 June 2019](2019-06-18-EMG.html) | EMG <br> Rai 3 | 24.4% | 23.1–25.7% | 22.8–26.1% | 22.5–26.4% | 21.9–27.1% |
@@ -70,6 +71,7 @@ Last result: **31** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17 | 15–19 | 15–19 | 14–19 | 14–20 |
+| [19–24 June 2019](2019-06-24-SWG.html) | SWG <br> LA7 | 15 | 15–17 | 15–17 | 14–18 | 14–18 |
 | [19–20 June 2019](2019-06-20-Demopolis.html) | Demopolis <br> LA7 | 15 | 14–16 | 14–16 | 14–17 | 13–17 |
 | [1–18 June 2019](2019-06-18-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 17 | 16–19 | 16–19 | 15–19 | 15–20 |
 | [18 June 2019](2019-06-18-EMG.html) | EMG <br> Rai 3 | 18 | 17–19 | 17–20 | 17–20 | 16–20 |
@@ -98,11 +100,11 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 13 | 0.4% | 100% |  |
 | 14 | 4% | 99.6% |  |
-| 15 | 14% | 96% |  |
-| 16 | 24% | 82% |  |
-| 17 | 28% | 58% | Median |
+| 15 | 19% | 95% |  |
+| 16 | 22% | 76% |  |
+| 17 | 24% | 54% | Median |
 | 18 | 19% | 30% |  |
-| 19 | 8% | 11% |  |
+| 19 | 9% | 11% |  |
 | 20 | 2% | 2% |  |
 | 21 | 0.2% | 0.3% |  |
 | 22 | 0% | 0% |  |
