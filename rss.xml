@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 25 Jun 2019 18:43:37 +0200</pubDate>
+    <pubDate>Wed, 26 Jun 2019 20:04:42 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by SWG for LA7, 19–24 June 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-06-24-SWG.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (EFDD): 12–15 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 15–18 seats&lt;/li&gt;&lt;li&gt;Lega Nord (EAPN): 27–31 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 4–6 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 4–6 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (ALDE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-06-24-SWG-seats.png"
+        length="157451"
+        type="image/png"/>
+      <pubDate>Wed, 26 Jun 2019 20:04:42 +0200</pubDate>
+      <dc:date>2019-06-26T20:04:42.718158+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SWG for LA7, 19–24 June 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-06-24-SWG.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-06-24-SWG-coalitions-seats.png"
+        length="135814"
+        type="image/png"/>
+      <pubDate>Wed, 26 Jun 2019 20:04:42 +0200</pubDate>
+      <dc:date>2019-06-26T20:04:42.718158+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by SWG for LA7, 19–24 June 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-06-24-SWG.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-06-24-SWG.png"
         length="176385"
         type="image/png"/>
-      <pubDate>Tue, 25 Jun 2019 18:43:37 +0200</pubDate>
-      <dc:date>2019-06-25T18:43:37.507049+02:00</dc:date>
+      <pubDate>Wed, 26 Jun 2019 20:04:42 +0200</pubDate>
+      <dc:date>2019-06-26T20:04:42.718158+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Demopolis for LA7, 19–20 June 2019 – Seat Projections for the Parties</title>
@@ -529,6 +549,6 @@
       <pubDate>Thu, 13 Jun 2019 10:26:17 +0200</pubDate>
       <dc:date>2019-06-13T10:26:17.008283+02:00</dc:date>
     </item>
-    <dc:date>2019-06-25T18:43:37.507049+02:00</dc:date>
+    <dc:date>2019-06-26T20:04:42.718158+02:00</dc:date>
   </channel>
 </rss>
