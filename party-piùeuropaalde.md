@@ -55,7 +55,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–3 | 0–3 | 0–4 |
-| [19–24 June 2019](2019-06-24-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
+| [19–24 June 2019](2019-06-24-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0–3 |
 | [19–20 June 2019](2019-06-20-Demopolis.html) | Demopolis <br> LA7 |  |  |  |  |  |
 | [1–18 June 2019](2019-06-18-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 0 | 0 | 0 | 0 | 0–3 |
 | [18 June 2019](2019-06-18-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |

@@ -71,7 +71,7 @@ Last result: **31** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17 | 15–19 | 15–19 | 14–19 | 14–20 |
-| [19–24 June 2019](2019-06-24-SWG.html) | SWG <br> LA7 | 15 | 15–17 | 15–17 | 14–18 | 14–18 |
+| [19–24 June 2019](2019-06-24-SWG.html) | SWG <br> LA7 | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [19–20 June 2019](2019-06-20-Demopolis.html) | Demopolis <br> LA7 | 15 | 14–16 | 14–16 | 14–17 | 13–17 |
 | [1–18 June 2019](2019-06-18-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 17 | 16–19 | 16–19 | 15–19 | 15–20 |
 | [18 June 2019](2019-06-18-EMG.html) | EMG <br> Rai 3 | 18 | 17–19 | 17–20 | 17–20 | 16–20 |
@@ -100,10 +100,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 13 | 0.4% | 100% |  |
 | 14 | 4% | 99.6% |  |
-| 15 | 19% | 95% |  |
-| 16 | 22% | 76% |  |
-| 17 | 24% | 54% | Median |
-| 18 | 19% | 30% |  |
+| 15 | 14% | 96% |  |
+| 16 | 23% | 81% |  |
+| 17 | 28% | 58% | Median |
+| 18 | 20% | 31% |  |
 | 19 | 9% | 11% |  |
 | 20 | 2% | 2% |  |
 | 21 | 0.2% | 0.3% |  |
