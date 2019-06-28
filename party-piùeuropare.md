@@ -59,20 +59,20 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [19–20 June 2019](2019-06-20-Demopolis.html) | Demopolis <br> LA7 |  |  |  |  |  |
 | [1–18 June 2019](2019-06-18-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 0 | 0 | 0 | 0 | 0–3 |
 | [18 June 2019](2019-06-18-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
-| [12–17 June 2019](2019-06-17-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
+| [12–17 June 2019](2019-06-17-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0–3 |
 | [13 June 2019](2019-06-13-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0–3 | 0–3 | 0–4 |
 | [11 June 2019](2019-06-11-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [9–10 June 2019](2019-06-10-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
-| [5–10 June 2019](2019-06-10-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
+| [5–10 June 2019](2019-06-10-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0–3 |
 | [10 June 2019](2019-06-10-Piepoli.html) | Piepoli <br> Rai 1 | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [1–10 June 2019](2019-06-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
-| [10 June 2019](2019-06-10-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
+| [10 June 2019](2019-06-10-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [1–7 June 2019](2019-06-07-IndexResearch.html) | Index Research <br> LA7 | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [2–3 June 2019](2019-06-03-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
-| [29 May–3 June 2019](2019-06-03-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
+| [29 May–3 June 2019](2019-06-03-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0–3 |
 | [1 June 2019](2019-06-01-EMG.html) | EMG <br> Affari Internazionali | 0 | 0 | 0 | 0 | 0–3 |
-| [30 May 2019](2019-05-30-Piepoli.html) | Piepoli <br> Rai 1 | 0 | 0 | 0 | 0 | 0–4 |
-| [28–29 May 2019](2019-05-29-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 0 | 0 | 0 | 0 | 0 |
+| [30 May 2019](2019-05-30-Piepoli.html) | Piepoli <br> Rai 1 | 0 | 0 | 0–3 | 0–3 | 0–4 |
+| [28–29 May 2019](2019-05-29-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 0 | 0 | 0 | 0 | 0–3 |
 
 ### Probability Mass Function
 
@@ -82,11 +82,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 95% | 100% | Last Result, Median |
-| 1 | 0% | 5% |  |
-| 2 | 0% | 5% |  |
-| 3 | 4% | 5% |  |
-| 4 | 0.8% | 0.9% |  |
+| 0 | 90% | 100% | Last Result, Median |
+| 1 | 0% | 10% |  |
+| 2 | 0% | 10% |  |
+| 3 | 7% | 10% |  |
+| 4 | 2% | 2% |  |
 | 5 | 0% | 0% |  |
 
 

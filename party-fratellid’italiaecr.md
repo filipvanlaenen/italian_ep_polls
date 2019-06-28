@@ -55,25 +55,25 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–7 | 4–7 | 4–7 | 3–7 |
+| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
 | [19–24 June 2019](2019-06-24-SWG.html) | SWG <br> LA7 | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [19–20 June 2019](2019-06-20-Demopolis.html) | Demopolis <br> LA7 | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [1–18 June 2019](2019-06-18-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
-| [18 June 2019](2019-06-18-EMG.html) | EMG <br> Rai 3 | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
-| [12–17 June 2019](2019-06-17-SWG.html) | SWG <br> LA7 | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| [18 June 2019](2019-06-18-EMG.html) | EMG <br> Rai 3 | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
+| [12–17 June 2019](2019-06-17-SWG.html) | SWG <br> LA7 | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [13 June 2019](2019-06-13-IndexResearch.html) | Index Research <br> LA7 | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
-| [11 June 2019](2019-06-11-EMG.html) | EMG <br> Rai 3 | 5 | 5 | 5 | 5 | 5 |
-| [9–10 June 2019](2019-06-10-Tecnè.html) | Tecnè <br> Rete 4 | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
-| [5–10 June 2019](2019-06-10-SWG.html) | SWG <br> LA7 | 4 | 4–6 | 4–6 | 4–6 | 4–6 |
+| [11 June 2019](2019-06-11-EMG.html) | EMG <br> Rai 3 | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
+| [9–10 June 2019](2019-06-10-Tecnè.html) | Tecnè <br> Rete 4 | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
+| [5–10 June 2019](2019-06-10-SWG.html) | SWG <br> LA7 | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [10 June 2019](2019-06-10-Piepoli.html) | Piepoli <br> Rai 1 | 4 | 4–6 | 3–6 | 3–6 | 0–7 |
 | [1–10 June 2019](2019-06-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
-| [10 June 2019](2019-06-10-Euromedia.html) | Euromedia <br> Rai 1 | 4 | 4–5 | 4–5 | 4–6 | 4–7 |
-| [1–7 June 2019](2019-06-07-IndexResearch.html) | Index Research <br> LA7 | 5 | 5–6 | 5–6 | 5–7 | 5–7 |
-| [2–3 June 2019](2019-06-03-Tecnè.html) | Tecnè <br> Rete 4 | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
-| [29 May–3 June 2019](2019-06-03-SWG.html) | SWG <br> LA7 | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
-| [1 June 2019](2019-06-01-EMG.html) | EMG <br> Affari Internazionali | 5 | 5 | 5 | 4–5 | 4–6 |
-| [30 May 2019](2019-05-30-Piepoli.html) | Piepoli <br> Rai 1 | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
-| [28–29 May 2019](2019-05-29-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 7 | 5–7 | 4–7 | 4–7 | 4–7 |
+| [10 June 2019](2019-06-10-Euromedia.html) | Euromedia <br> Rai 1 | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
+| [1–7 June 2019](2019-06-07-IndexResearch.html) | Index Research <br> LA7 | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
+| [2–3 June 2019](2019-06-03-Tecnè.html) | Tecnè <br> Rete 4 | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
+| [29 May–3 June 2019](2019-06-03-SWG.html) | SWG <br> LA7 | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
+| [1 June 2019](2019-06-01-EMG.html) | EMG <br> Affari Internazionali | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
+| [30 May 2019](2019-05-30-Piepoli.html) | Piepoli <br> Rai 1 | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
+| [28–29 May 2019](2019-05-29-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 
 ### Probability Mass Function
 
@@ -83,14 +83,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.3% | 100% | Last Result |
-| 1 | 0% | 99.7% |  |
-| 2 | 0% | 99.7% |  |
-| 3 | 0.6% | 99.7% |  |
-| 4 | 21% | 99.1% |  |
-| 5 | 43% | 79% | Median |
-| 6 | 24% | 35% |  |
-| 7 | 11% | 11% |  |
+| 0 | 0.2% | 100% | Last Result |
+| 1 | 0% | 99.8% |  |
+| 2 | 0% | 99.8% |  |
+| 3 | 0.7% | 99.8% |  |
+| 4 | 15% | 99.1% |  |
+| 5 | 53% | 84% | Median |
+| 6 | 27% | 31% |  |
+| 7 | 4% | 4% |  |
 | 8 | 0.2% | 0.2% |  |
 | 9 | 0% | 0% |  |
 

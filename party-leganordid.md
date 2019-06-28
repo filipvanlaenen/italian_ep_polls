@@ -87,21 +87,21 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [19–24 June 2019](2019-06-24-SWG.html) | SWG <br> LA7 | 29 | 27–30 | 27–31 | 27–31 | 26–32 |
 | [19–20 June 2019](2019-06-20-Demopolis.html) | Demopolis <br> LA7 | 26 | 25–27 | 24–27 | 24–27 | 23–28 |
 | [1–18 June 2019](2019-06-18-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 27 | 25–28 | 25–29 | 24–29 | 24–30 |
-| [18 June 2019](2019-06-18-EMG.html) | EMG <br> Rai 3 | 28 | 26–28 | 26–30 | 26–30 | 26–30 |
-| [12–17 June 2019](2019-06-17-SWG.html) | SWG <br> LA7 | 30 | 28–30 | 28–30 | 26–30 | 26–31 |
+| [18 June 2019](2019-06-18-EMG.html) | EMG <br> Rai 3 | 28 | 26–29 | 26–29 | 26–29 | 25–30 |
+| [12–17 June 2019](2019-06-17-SWG.html) | SWG <br> LA7 | 28 | 27–30 | 27–30 | 26–31 | 26–31 |
 | [13 June 2019](2019-06-13-IndexResearch.html) | Index Research <br> LA7 | 27 | 25–29 | 24–30 | 24–30 | 23–31 |
-| [11 June 2019](2019-06-11-EMG.html) | EMG <br> Rai 3 | 28 | 28–29 | 28–29 | 28–30 | 27–30 |
-| [9–10 June 2019](2019-06-10-Tecnè.html) | Tecnè <br> Rete 4 | 26 | 25–26 | 25–26 | 25–26 | 25–29 |
-| [5–10 June 2019](2019-06-10-SWG.html) | SWG <br> LA7 | 30 | 29–31 | 29–31 | 28–31 | 25–31 |
+| [11 June 2019](2019-06-11-EMG.html) | EMG <br> Rai 3 | 28 | 27–29 | 26–29 | 26–30 | 25–30 |
+| [9–10 June 2019](2019-06-10-Tecnè.html) | Tecnè <br> Rete 4 | 26 | 25–27 | 24–28 | 24–28 | 23–29 |
+| [5–10 June 2019](2019-06-10-SWG.html) | SWG <br> LA7 | 29 | 27–30 | 27–30 | 27–31 | 26–32 |
 | [10 June 2019](2019-06-10-Piepoli.html) | Piepoli <br> Rai 1 | 26 | 24–28 | 24–30 | 23–30 | 22–31 |
 | [1–10 June 2019](2019-06-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 27 | 26–29 | 25–29 | 25–30 | 24–30 |
-| [10 June 2019](2019-06-10-Euromedia.html) | Euromedia <br> Rai 1 | 28 | 26–28 | 26–28 | 25–29 | 24–30 |
-| [1–7 June 2019](2019-06-07-IndexResearch.html) | Index Research <br> LA7 | 27 | 26–29 | 26–29 | 23–29 | 22–29 |
-| [2–3 June 2019](2019-06-03-Tecnè.html) | Tecnè <br> Rete 4 | 28 | 26–28 | 26–29 | 26–29 | 25–29 |
-| [29 May–3 June 2019](2019-06-03-SWG.html) | SWG <br> LA7 | 28 | 26–28 | 26–28 | 26–30 | 26–31 |
-| [1 June 2019](2019-06-01-EMG.html) | EMG <br> Affari Internazionali | 28 | 28 | 27–28 | 26–28 | 25–28 |
-| [30 May 2019](2019-05-30-Piepoli.html) | Piepoli <br> Rai 1 | 28 | 28 | 28 | 27–28 | 25–29 |
-| [28–29 May 2019](2019-05-29-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 29 | 27–29 | 26–29 | 26–29 | 25–30 |
+| [10 June 2019](2019-06-10-Euromedia.html) | Euromedia <br> Rai 1 | 27 | 25–29 | 25–29 | 24–30 | 23–31 |
+| [1–7 June 2019](2019-06-07-IndexResearch.html) | Index Research <br> LA7 | 26 | 24–27 | 23–28 | 23–28 | 22–29 |
+| [2–3 June 2019](2019-06-03-Tecnè.html) | Tecnè <br> Rete 4 | 26 | 25–28 | 24–28 | 24–28 | 23–29 |
+| [29 May–3 June 2019](2019-06-03-SWG.html) | SWG <br> LA7 | 28 | 27–30 | 26–30 | 26–30 | 25–31 |
+| [1 June 2019](2019-06-01-EMG.html) | EMG <br> Affari Internazionali | 27 | 26–28 | 25–29 | 25–29 | 24–30 |
+| [30 May 2019](2019-05-30-Piepoli.html) | Piepoli <br> Rai 1 | 27 | 25–28 | 25–29 | 25–29 | 24–30 |
+| [28–29 May 2019](2019-05-29-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 28 | 26–29 | 26–29 | 26–30 | 25–31 |
 
 ### Probability Mass Function
 
@@ -129,15 +129,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 20 | 0% | 100% |  |
 | 21 | 0% | 100% |  |
 | 22 | 0.1% | 100% |  |
-| 23 | 0.4% | 99.9% |  |
-| 24 | 3% | 99.5% |  |
-| 25 | 14% | 97% |  |
-| 26 | 26% | 83% |  |
-| 27 | 14% | 56% | Median |
-| 28 | 24% | 42% |  |
-| 29 | 13% | 18% |  |
+| 23 | 0.6% | 99.9% |  |
+| 24 | 4% | 99.3% |  |
+| 25 | 13% | 96% |  |
+| 26 | 23% | 83% |  |
+| 27 | 23% | 60% | Median |
+| 28 | 22% | 37% |  |
+| 29 | 10% | 15% |  |
 | 30 | 4% | 5% |  |
-| 31 | 0.6% | 0.8% |  |
+| 31 | 0.8% | 1.0% |  |
 | 32 | 0.1% | 0.2% |  |
 | 33 | 0% | 0% |  |
 
