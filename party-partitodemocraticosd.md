@@ -72,9 +72,9 @@ Last result: **31** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 15–18 | 15–19 | 14–19 | 14–20 |
-| [1–26 June 2019](2019-06-26-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 17 | 17 | 17 | 17 | 16–19 |
-| [23–24 June 2019](2019-06-24-Tecnè.html) | Tecnè <br> Rete 4 | 15 | 15–18 | 15–18 | 15–18 | 14–18 |
+| N/A | [Poll Average](average.html) | 17 | 15–19 | 15–19 | 14–20 | 14–20 |
+| [1–26 June 2019](2019-06-26-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 18 | 17–20 | 17–20 | 17–20 | 16–21 |
+| [23–24 June 2019](2019-06-24-Tecnè.html) | Tecnè <br> Rete 4 | 16 | 15–17 | 14–18 | 14–18 | 14–19 |
 | [19–24 June 2019](2019-06-24-SWG.html) | SWG <br> LA7 | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [19–20 June 2019](2019-06-20-Demopolis.html) | Demopolis <br> LA7 | 15 | 14–16 | 14–16 | 14–17 | 13–17 |
 | [1–18 June 2019](2019-06-18-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 17 | 16–19 | 16–19 | 15–20 | 15–20 |
@@ -84,9 +84,9 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [11 June 2019](2019-06-11-EMG.html) | EMG <br> Rai 3 | 18 | 17–19 | 16–19 | 16–19 | 16–20 |
 | [9–10 June 2019](2019-06-10-Tecnè.html) | Tecnè <br> Rete 4 | 16 | 15–17 | 15–18 | 14–18 | 14–19 |
 | [5–10 June 2019](2019-06-10-SWG.html) | SWG <br> LA7 | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
-| [10 June 2019](2019-06-10-Piepoli.html) | Piepoli <br> Rai 1 | 17 | 15–19 | 15–20 | 14–20 | 13–21 |
+| [10 June 2019](2019-06-10-Piepoli.html) | Piepoli <br> Rai 1 | 17 | 15–19 | 15–19 | 14–20 | 13–21 |
 | [1–10 June 2019](2019-06-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 18 | 16–19 | 16–19 | 16–20 | 15–21 |
-| [10 June 2019](2019-06-10-Euromedia.html) | Euromedia <br> Rai 1 | 17 | 15–19 | 15–19 | 14–20 | 14–21 |
+| [10 June 2019](2019-06-10-Euromedia.html) | Euromedia <br> Rai 1 | 17 | 15–19 | 15–19 | 15–19 | 14–20 |
 | [1–7 June 2019](2019-06-07-IndexResearch.html) | Index Research <br> LA7 | 16 | 15–18 | 14–18 | 14–19 | 14–19 |
 | [2–3 June 2019](2019-06-03-Tecnè.html) | Tecnè <br> Rete 4 | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [29 May–3 June 2019](2019-06-03-SWG.html) | SWG <br> LA7 | 17 | 16–18 | 16–19 | 15–19 | 15–20 |
@@ -104,13 +104,13 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 13 | 0.4% | 100% |  |
 | 14 | 4% | 99.6% |  |
-| 15 | 20% | 96% |  |
-| 16 | 19% | 76% |  |
-| 17 | 31% | 57% | Median |
-| 18 | 17% | 26% |  |
-| 19 | 7% | 9% |  |
-| 20 | 2% | 2% |  |
-| 21 | 0.3% | 0.3% |  |
+| 15 | 14% | 95% |  |
+| 16 | 22% | 81% |  |
+| 17 | 25% | 59% | Median |
+| 18 | 21% | 34% |  |
+| 19 | 10% | 13% |  |
+| 20 | 3% | 3% |  |
+| 21 | 0.3% | 0.4% |  |
 | 22 | 0% | 0% |  |
 | 23 | 0% | 0% |  |
 | 24 | 0% | 0% |  |
