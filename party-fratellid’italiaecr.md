@@ -69,7 +69,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [19–20 June 2019](2019-06-20-Demopolis.html) | Demopolis <br> LA7 | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [1–18 June 2019](2019-06-18-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | [18 June 2019](2019-06-18-EMG.html) | EMG <br> Rai 3 | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
-| [12–17 June 2019](2019-06-17-SWG.html) | SWG <br> LA7 | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
+| [12–17 June 2019](2019-06-17-SWG.html) | SWG <br> LA7 | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [13 June 2019](2019-06-13-IndexResearch.html) | Index Research <br> LA7 | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
 | [11 June 2019](2019-06-11-EMG.html) | EMG <br> Rai 3 | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [9–10 June 2019](2019-06-10-Tecnè.html) | Tecnè <br> Rete 4 | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
@@ -77,7 +77,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [10 June 2019](2019-06-10-Piepoli.html) | Piepoli <br> Rai 1 | 5 | 4–6 | 3–6 | 3–6 | 0–7 |
 | [1–10 June 2019](2019-06-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | [10 June 2019](2019-06-10-Euromedia.html) | Euromedia <br> Rai 1 | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
-| [1–7 June 2019](2019-06-07-IndexResearch.html) | Index Research <br> LA7 | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
+| [1–7 June 2019](2019-06-07-IndexResearch.html) | Index Research <br> LA7 | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
 | [2–3 June 2019](2019-06-03-Tecnè.html) | Tecnè <br> Rete 4 | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [29 May–3 June 2019](2019-06-03-SWG.html) | SWG <br> LA7 | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [1 June 2019](2019-06-01-EMG.html) | EMG <br> Affari Internazionali | 5 | 4–5 | 4–6 | 4–6 | 4–6 |

@@ -81,7 +81,7 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [23–24 June 2019](2019-06-24-Tecnè.html) | Tecnè <br> Rete 4 | 16 | 15–17 | 14–18 | 14–18 | 14–19 |
 | [19–24 June 2019](2019-06-24-SWG.html) | SWG <br> LA7 | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [19–20 June 2019](2019-06-20-Demopolis.html) | Demopolis <br> LA7 | 15 | 14–16 | 14–16 | 14–17 | 13–17 |
-| [1–18 June 2019](2019-06-18-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 17 | 16–19 | 16–19 | 15–20 | 15–20 |
+| [1–18 June 2019](2019-06-18-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 17 | 16–19 | 16–19 | 15–19 | 15–20 |
 | [18 June 2019](2019-06-18-EMG.html) | EMG <br> Rai 3 | 18 | 17–19 | 17–20 | 17–20 | 16–20 |
 | [12–17 June 2019](2019-06-17-SWG.html) | SWG <br> LA7 | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [13 June 2019](2019-06-13-IndexResearch.html) | Index Research <br> LA7 | 17 | 15–18 | 15–19 | 14–19 | 14–20 |
@@ -91,10 +91,10 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [10 June 2019](2019-06-10-Piepoli.html) | Piepoli <br> Rai 1 | 17 | 15–19 | 15–19 | 14–20 | 13–21 |
 | [1–10 June 2019](2019-06-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 18 | 16–19 | 16–19 | 16–20 | 15–21 |
 | [10 June 2019](2019-06-10-Euromedia.html) | Euromedia <br> Rai 1 | 17 | 16–19 | 15–19 | 15–20 | 14–21 |
-| [1–7 June 2019](2019-06-07-IndexResearch.html) | Index Research <br> LA7 | 16 | 15–18 | 14–18 | 14–19 | 14–19 |
+| [1–7 June 2019](2019-06-07-IndexResearch.html) | Index Research <br> LA7 | 16 | 15–18 | 15–18 | 14–19 | 14–19 |
 | [2–3 June 2019](2019-06-03-Tecnè.html) | Tecnè <br> Rete 4 | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [29 May–3 June 2019](2019-06-03-SWG.html) | SWG <br> LA7 | 17 | 16–18 | 16–19 | 15–19 | 15–20 |
-| [1 June 2019](2019-06-01-EMG.html) | EMG <br> Affari Internazionali | 18 | 17–19 | 17–20 | 16–20 | 16–20 |
+| [1 June 2019](2019-06-01-EMG.html) | EMG <br> Affari Internazionali | 18 | 17–19 | 17–19 | 16–20 | 16–20 |
 | [30 May 2019](2019-05-30-Piepoli.html) | Piepoli <br> Rai 1 | 16 | 15–18 | 15–18 | 15–19 | 14–19 |
 | [28–29 May 2019](2019-05-29-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 17 | 16–18 | 16–19 | 15–19 | 15–20 |
 
@@ -112,7 +112,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 21% | 83% |  |
 | 17 | 28% | 62% | Median |
 | 18 | 21% | 35% |  |
-| 19 | 10% | 13% |  |
+| 19 | 10% | 14% |  |
 | 20 | 3% | 4% |  |
 | 21 | 0.5% | 0.6% |  |
 | 22 | 0.1% | 0.1% |  |
