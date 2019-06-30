@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 30 Jun 2019 14:54:25 +0200</pubDate>
+    <pubDate>Sun, 30 Jun 2019 18:34:57 +0200</pubDate>
     <item>
       <title>Opinion Poll by EMG for Rai 3, 27 June 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-06-27-EMG.html#seats</link>
@@ -310,14 +310,34 @@
       <dc:date>2019-06-29T16:22:37.2477+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by EMG for Rai 3, 11 June 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-06-11-EMG.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (NI): 13–16 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 16–20 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ID): 26–30 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6–8 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 4–6 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-06-11-EMG-seats.png"
+        length="139949"
+        type="image/png"/>
+      <pubDate>Sun, 30 Jun 2019 18:27:51 +0200</pubDate>
+      <dc:date>2019-06-30T18:27:51.175181+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by EMG for Rai 3, 11 June 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-06-11-EMG.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-06-11-EMG-coalitions-seats.png"
+        length="124449"
+        type="image/png"/>
+      <pubDate>Sun, 30 Jun 2019 18:27:51 +0200</pubDate>
+      <dc:date>2019-06-30T18:27:51.175181+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by EMG for Rai 3, 11 June 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-06-11-EMG.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (NI): 16.2–19.9%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 22.0–26.0%&lt;/li&gt;&lt;li&gt;Lega Nord (ID): 33.0–37.5%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 7.3–10.0%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 5.6–8.0%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 1.4–2.7%&lt;/li&gt;&lt;li&gt;Più Europa (RE): 1.8–3.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-06-11-EMG.png"
         length="199892"
         type="image/png"/>
-      <pubDate>Thu, 27 Jun 2019 23:11:35 +0200</pubDate>
-      <dc:date>2019-06-27T23:11:35.076323+02:00</dc:date>
+      <pubDate>Sun, 30 Jun 2019 18:27:51 +0200</pubDate>
+      <dc:date>2019-06-30T18:27:51.175181+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Tecnè for Rete 4, 9–10 June 2019 – Voting Intentions</title>
@@ -326,8 +346,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-06-10-Tecnè.png"
         length="177910"
         type="image/png"/>
-      <pubDate>Fri, 28 Jun 2019 17:05:13 +0200</pubDate>
-      <dc:date>2019-06-28T17:05:13.409903+02:00</dc:date>
+      <pubDate>Sun, 30 Jun 2019 18:34:57 +0200</pubDate>
+      <dc:date>2019-06-30T18:34:57.107513+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SWG for LA7, 5–10 June 2019 – Seat Projections for the Parties</title>
@@ -390,14 +410,34 @@
       <dc:date>2019-06-29T16:35:02.28076+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Noto Sondaggi for Rai 3, 1–10 June 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-06-10-NotoSondaggi.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (NI): 12–16 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 16–20 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ID): 25–30 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 5–8 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 5–7 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-06-10-NotoSondaggi-seats.png"
+        length="144664"
+        type="image/png"/>
+      <pubDate>Sun, 30 Jun 2019 17:46:40 +0200</pubDate>
+      <dc:date>2019-06-30T17:46:40.261286+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Noto Sondaggi for Rai 3, 1–10 June 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-06-10-NotoSondaggi.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-06-10-NotoSondaggi-coalitions-seats.png"
+        length="132327"
+        type="image/png"/>
+      <pubDate>Sun, 30 Jun 2019 17:46:40 +0200</pubDate>
+      <dc:date>2019-06-30T17:46:40.261286+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Noto Sondaggi for Rai 3, 1–10 June 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-06-10-NotoSondaggi.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (NI): 15.7–20.5%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 21.4–26.7%&lt;/li&gt;&lt;li&gt;Lega Nord (ID): 32.1–38.0%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6.5–9.9%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 6.0–9.3%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0.9–2.5%&lt;/li&gt;&lt;li&gt;Più Europa (RE): 1.7–3.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-06-10-NotoSondaggi.png"
         length="212403"
         type="image/png"/>
-      <pubDate>Thu, 27 Jun 2019 20:38:50 +0200</pubDate>
-      <dc:date>2019-06-27T20:38:50.608755+02:00</dc:date>
+      <pubDate>Sun, 30 Jun 2019 17:46:40 +0200</pubDate>
+      <dc:date>2019-06-30T17:46:40.261286+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Euromedia for Rai 1, 10 June 2019 – Seat Projections for the Parties</title>
@@ -460,14 +500,54 @@
       <dc:date>2019-06-30T14:46:14.960818+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Tecnè for Rete 4, 2–3 June 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-06-03-Tecnè.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (NI): 11–14 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 15–18 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ID): 24–28 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 5–8 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 4–6 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-06-03-Tecnè-seats.png"
+        length="121739"
+        type="image/png"/>
+      <pubDate>Sun, 30 Jun 2019 17:55:49 +0200</pubDate>
+      <dc:date>2019-06-30T17:55:49.845641+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Tecnè for Rete 4, 2–3 June 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-06-03-Tecnè.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-06-03-Tecnè-coalitions-seats.png"
+        length="123469"
+        type="image/png"/>
+      <pubDate>Sun, 30 Jun 2019 17:55:49 +0200</pubDate>
+      <dc:date>2019-06-30T17:55:49.845641+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Tecnè for Rete 4, 2–3 June 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-06-03-Tecnè.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (NI): 14.6–19.3%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 21.4–26.6%&lt;/li&gt;&lt;li&gt;Lega Nord (ID): 32.9–38.8%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 7.6–11.2%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 5.4–8.5%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-06-03-Tecnè.png"
         length="178637"
         type="image/png"/>
-      <pubDate>Thu, 27 Jun 2019 23:09:49 +0200</pubDate>
-      <dc:date>2019-06-27T23:09:49.006321+02:00</dc:date>
+      <pubDate>Sun, 30 Jun 2019 17:55:49 +0200</pubDate>
+      <dc:date>2019-06-30T17:55:49.845641+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SWG for LA7, 29 May–3 June 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-06-03-SWG.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (NI): 12–15 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 15–19 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ID): 26–30 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 4–6 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 4–6 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-06-03-SWG-seats.png"
+        length="139968"
+        type="image/png"/>
+      <pubDate>Sun, 30 Jun 2019 17:33:50 +0200</pubDate>
+      <dc:date>2019-06-30T17:33:50.058264+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SWG for LA7, 29 May–3 June 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-06-03-SWG.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-06-03-SWG-coalitions-seats.png"
+        length="124837"
+        type="image/png"/>
+      <pubDate>Sun, 30 Jun 2019 17:33:50 +0200</pubDate>
+      <dc:date>2019-06-30T17:33:50.058264+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SWG for LA7, 29 May–3 June 2019 – Voting Intentions</title>
@@ -476,8 +556,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-06-03-SWG.png"
         length="206146"
         type="image/png"/>
-      <pubDate>Thu, 27 Jun 2019 21:16:43 +0200</pubDate>
-      <dc:date>2019-06-27T21:16:43.357981+02:00</dc:date>
+      <pubDate>Sun, 30 Jun 2019 17:33:50 +0200</pubDate>
+      <dc:date>2019-06-30T17:33:50.058264+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by EMG for Affari Internazionali, 1 June 2019 – Seat Projections for the Parties</title>
@@ -549,6 +629,6 @@
       <pubDate>Sat, 29 Jun 2019 16:56:02 +0200</pubDate>
       <dc:date>2019-06-29T16:56:02.59202+02:00</dc:date>
     </item>
-    <dc:date>2019-06-30T14:54:25.875277+02:00</dc:date>
+    <dc:date>2019-06-30T18:34:57.107513+02:00</dc:date>
   </channel>
 </rss>
