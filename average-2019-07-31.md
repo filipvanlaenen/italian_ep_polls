@@ -12,7 +12,7 @@ The table below lists the polls on which the average is based. They are the most
 | N/A | Poll Average | 21–27% <br> 14–20 | 15–21% <br> 11–16 | 6–10% <br> 4–8 | 32–39% <br> 24–30 | 5–9% <br> 4–7 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0–3 | 1–3% <br> 0 | 1–2% <br> 0 |
 | [27 June 2019](2019-06-27-EMG.html) | EMG <br> Rai 3 | 21–25% <br> 16–19 | 17–20% <br> 13–16 | 7–10% <br> 6–8 | 34–38% <br> 26–30 | 6–8% <br> 4–6 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | 1–3% <br> 0 | N/A <br> N/A |
 | [1–26 June 2019](2019-06-26-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 22–28% <br> 16–20 | 15–20% <br> 12–15 | 6–9% <br> 5–7 | 33–39% <br> 26–30 | 6–10% <br> 5–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | 1–2% <br> 0 | 1–2% <br> 0 |
-| [25–26 June 2019](2019-06-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 22–28% <br> 16–21 | 15–20% <br> 12–15 | 6–9% <br> 5–7 | 33–39% <br> 26–30 | 6–10% <br> 5–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | 1–2% <br> 0 | N/A <br> N/A |
+| [25–26 June 2019](2019-06-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 22–28% <br> 16–20 | 15–20% <br> 12–15 | 6–9% <br> 5–7 | 33–39% <br> 26–30 | 6–10% <br> 5–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | 1–2% <br> 0 | N/A <br> N/A |
 | [23–24 June 2019](2019-06-24-Tecnè.html) | Tecnè <br> Rete 4 | 21–26% <br> 14–18 | 15–19% <br> 11–14 | 7–11% <br> 5–8 | 33–39% <br> 24–28 | 5–8% <br> 4–6 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [19–24 June 2019](2019-06-24-SWG.html) | SWG <br> LA7 | 21–25% <br> 15–18 | 16–20% <br> 12–15 | 5–8% <br> 4–6 | 35–40% <br> 27–31 | 5–8% <br> 4–6 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | 1–2% <br> 0 | N/A <br> N/A |
 | [19–20 June 2019](2019-06-20-Demopolis.html) | Demopolis <br> LA7 | 20–24% <br> 14–17 | 17–21% <br> 12–15 | 6–8% <br> 4–6 | 33–38% <br> 24–27 | 6–8% <br> 4–6 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
@@ -274,10 +274,10 @@ Only polls for which at least the sample size has been published are included in
 | 15 | 13% | 96% |  |
 | 16 | 21% | 83% |  |
 | 17 | 28% | 62% | Median |
-| 18 | 21% | 34% |  |
+| 18 | 21% | 35% |  |
 | 19 | 10% | 13% |  |
 | 20 | 3% | 4% |  |
-| 21 | 0.6% | 0.6% |  |
+| 21 | 0.5% | 0.6% |  |
 | 22 | 0.1% | 0.1% |  |
 | 23 | 0% | 0% |  |
 | 24 | 0% | 0% |  |
@@ -356,12 +356,12 @@ Only polls for which at least the sample size has been published are included in
 | 23 | 0.6% | 99.9% |  |
 | 24 | 3% | 99.3% |  |
 | 25 | 11% | 96% |  |
-| 26 | 18% | 85% |  |
+| 26 | 17% | 85% |  |
 | 27 | 23% | 68% | Median |
-| 28 | 23% | 44% |  |
+| 28 | 23% | 45% |  |
 | 29 | 15% | 21% |  |
 | 30 | 5% | 6% |  |
-| 31 | 1.0% | 1.2% |  |
+| 31 | 0.9% | 1.1% |  |
 | 32 | 0.2% | 0.2% |  |
 | 33 | 0% | 0% |  |
 
@@ -468,12 +468,12 @@ Only polls for which at least the sample size has been published are included in
 | 23 | 0.6% | 99.9% |  |
 | 24 | 3% | 99.3% |  |
 | 25 | 11% | 96% |  |
-| 26 | 18% | 85% |  |
+| 26 | 17% | 85% |  |
 | 27 | 23% | 68% | Median |
-| 28 | 23% | 44% |  |
+| 28 | 23% | 45% |  |
 | 29 | 15% | 21% |  |
 | 30 | 5% | 6% |  |
-| 31 | 1.0% | 1.2% |  |
+| 31 | 0.9% | 1.1% |  |
 | 32 | 0.2% | 0.2% |  |
 | 33 | 0% | 0% |  |
 
@@ -489,9 +489,9 @@ Only polls for which at least the sample size has been published are included in
 | 16 | 21% | 83% |  |
 | 17 | 28% | 62% | Median |
 | 18 | 21% | 35% |  |
-| 19 | 10% | 14% |  |
+| 19 | 10% | 13% |  |
 | 20 | 3% | 4% |  |
-| 21 | 0.6% | 0.7% |  |
+| 21 | 0.6% | 0.6% |  |
 | 22 | 0.1% | 0.1% |  |
 | 23 | 0% | 0% |  |
 | 24 | 0% | 0% |  |
@@ -587,6 +587,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 10
-+ **Lowest number of simulations done in a poll included in this average:** 262,144
-+ **Total number of simulations done in the polls included in this average:** 9,175,040
++ **Lowest number of simulations done in a poll included in this average:** 524,288
++ **Total number of simulations done in the polls included in this average:** 9,437,184
 + **Error estimate:** 2.65%

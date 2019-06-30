@@ -77,7 +77,7 @@ Last result: **31** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 17 | 15–19 | 15–19 | 14–20 | 14–21 |
 | [27 June 2019](2019-06-27-EMG.html) | EMG <br> Rai 3 | 17 | 16–18 | 16–19 | 16–19 | 15–19 |
 | [1–26 June 2019](2019-06-26-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 18 | 17–20 | 17–20 | 16–20 | 16–21 |
-| [25–26 June 2019](2019-06-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 18 | 17–20 | 17–20 | 16–21 | 16–21 |
+| [25–26 June 2019](2019-06-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 18 | 17–20 | 17–20 | 16–20 | 16–21 |
 | [23–24 June 2019](2019-06-24-Tecnè.html) | Tecnè <br> Rete 4 | 16 | 15–17 | 14–18 | 14–18 | 14–19 |
 | [19–24 June 2019](2019-06-24-SWG.html) | SWG <br> LA7 | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [19–20 June 2019](2019-06-20-Demopolis.html) | Demopolis <br> LA7 | 15 | 14–16 | 14–16 | 14–17 | 13–17 |
@@ -111,10 +111,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 13% | 96% |  |
 | 16 | 21% | 83% |  |
 | 17 | 28% | 62% | Median |
-| 18 | 21% | 34% |  |
+| 18 | 21% | 35% |  |
 | 19 | 10% | 13% |  |
 | 20 | 3% | 4% |  |
-| 21 | 0.6% | 0.6% |  |
+| 21 | 0.5% | 0.6% |  |
 | 22 | 0.1% | 0.1% |  |
 | 23 | 0% | 0% |  |
 | 24 | 0% | 0% |  |
