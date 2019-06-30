@@ -75,7 +75,7 @@ Last result: **13** seats (General Election of 26 May 2019)
 | [18 June 2019](2019-06-18-EMG.html) | EMG <br> Rai 3 | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
 | [12–17 June 2019](2019-06-17-SWG.html) | SWG <br> LA7 | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [13 June 2019](2019-06-13-IndexResearch.html) | Index Research <br> LA7 | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
-| [11 June 2019](2019-06-11-EMG.html) | EMG <br> Rai 3 | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
+| [11 June 2019](2019-06-11-EMG.html) | EMG <br> Rai 3 | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | [9–10 June 2019](2019-06-10-Tecnè.html) | Tecnè <br> Rete 4 | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
 | [5–10 June 2019](2019-06-10-SWG.html) | SWG <br> LA7 | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [10 June 2019](2019-06-10-Piepoli.html) | Piepoli <br> Rai 1 | 6 | 5–7 | 5–8 | 4–8 | 4–9 |

@@ -85,11 +85,11 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [18 June 2019](2019-06-18-EMG.html) | EMG <br> Rai 3 | 18 | 17–19 | 17–20 | 17–20 | 16–20 |
 | [12–17 June 2019](2019-06-17-SWG.html) | SWG <br> LA7 | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [13 June 2019](2019-06-13-IndexResearch.html) | Index Research <br> LA7 | 17 | 15–18 | 15–19 | 14–19 | 14–20 |
-| [11 June 2019](2019-06-11-EMG.html) | EMG <br> Rai 3 | 18 | 17–19 | 16–19 | 16–19 | 16–20 |
+| [11 June 2019](2019-06-11-EMG.html) | EMG <br> Rai 3 | 18 | 17–19 | 16–19 | 16–20 | 16–20 |
 | [9–10 June 2019](2019-06-10-Tecnè.html) | Tecnè <br> Rete 4 | 16 | 15–17 | 15–18 | 14–18 | 14–19 |
 | [5–10 June 2019](2019-06-10-SWG.html) | SWG <br> LA7 | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [10 June 2019](2019-06-10-Piepoli.html) | Piepoli <br> Rai 1 | 17 | 15–19 | 15–19 | 14–20 | 13–21 |
-| [1–10 June 2019](2019-06-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 18 | 16–19 | 16–19 | 16–20 | 15–21 |
+| [1–10 June 2019](2019-06-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 18 | 16–19 | 16–20 | 16–20 | 15–21 |
 | [10 June 2019](2019-06-10-Euromedia.html) | Euromedia <br> Rai 1 | 17 | 16–19 | 15–19 | 15–20 | 14–21 |
 | [1–7 June 2019](2019-06-07-IndexResearch.html) | Index Research <br> LA7 | 16 | 15–18 | 15–18 | 14–19 | 14–19 |
 | [2–3 June 2019](2019-06-03-Tecnè.html) | Tecnè <br> Rete 4 | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
