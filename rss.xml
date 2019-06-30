@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 29 Jun 2019 20:17:10 +0200</pubDate>
+    <pubDate>Sun, 30 Jun 2019 11:28:55 +0200</pubDate>
     <item>
       <title>Opinion Poll by EMG for Rai 3, 27 June 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-06-27-EMG.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-06-27-EMG.png"
         length="199699"
         type="image/png"/>
-      <pubDate>Sat, 29 Jun 2019 20:17:10 +0200</pubDate>
-      <dc:date>2019-06-29T20:17:10.838546+02:00</dc:date>
+      <pubDate>Sun, 30 Jun 2019 11:25:46 +0200</pubDate>
+      <dc:date>2019-06-30T11:25:46.571125+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Noto Sondaggi for Rai 3, 1–26 June 2019 – Seat Projections for the Parties</title>
@@ -48,6 +48,16 @@
         type="image/png"/>
       <pubDate>Sat, 29 Jun 2019 15:50:03 +0200</pubDate>
       <dc:date>2019-06-29T15:50:03.499939+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Corriere della Sera, 25–26 June 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-06-26-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (NI): 15.3–20.0%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 22.4–27.8%&lt;/li&gt;&lt;li&gt;Lega Nord (ID): 33.1–39.0%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6.0–9.3%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 6.5–9.9%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Più Europa (RE): 1.3–3.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-06-26-Ipsos.png"
+        length="209575"
+        type="image/png"/>
+      <pubDate>Sun, 30 Jun 2019 11:28:55 +0200</pubDate>
+      <dc:date>2019-06-30T11:28:55.384611+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Tecnè for Rete 4, 23–24 June 2019 – Seat Projections for the Parties</title>
@@ -399,6 +409,6 @@
       <pubDate>Sat, 29 Jun 2019 16:56:02 +0200</pubDate>
       <dc:date>2019-06-29T16:56:02.59202+02:00</dc:date>
     </item>
-    <dc:date>2019-06-29T20:17:10.838546+02:00</dc:date>
+    <dc:date>2019-06-30T11:28:55.384611+02:00</dc:date>
   </channel>
 </rss>
