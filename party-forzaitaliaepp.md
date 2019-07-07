@@ -10,8 +10,9 @@ Last result: **16.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.4% | 6.1–9.1% | 5.8–9.6% | 5.6–10.0% | 5.1–10.9% |
+| N/A | [Poll Average](average.html) | 7.3% | 6.0–9.0% | 5.7–9.6% | 5.5–10.0% | 5.0–10.9% |
 | [1–5 July 2019](2019-07-05-TermometroPolitico.html) | Termometro Politico <br> LA7 | 6.7% | 5.8–7.8% | 5.5–8.2% | 5.3–8.4% | 4.9–9.0% |
+| [5 July 2019](2019-07-05-NotoSondaggi.html) | Noto Sondaggi <br> Quotidiano Nazionale | 6.5% | 5.6–7.6% | 5.3–7.9% | 5.1–8.2% | 4.7–8.8% |
 | [26 June–1 July 2019](2019-07-01-SWG.html) | SWG <br> LA7 | 6.5% | 5.8–7.4% | 5.6–7.7% | 5.4–7.9% | 5.0–8.4% |
 | [27 June 2019](2019-06-27-EMG.html) | EMG <br> Rai 3 | 8.3% | 7.6–9.2% | 7.3–9.5% | 7.2–9.7% | 6.8–10.2% |
 | [1–26 June 2019](2019-06-26-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 7.5% | 6.5–8.7% | 6.2–9.0% | 6.0–9.3% | 5.6–9.9% |
@@ -42,12 +43,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 2% | 100% |  |
-| 5.5–6.5% | 19% | 98% |  |
-| 6.5–7.5% | 34% | 79% | Median |
-| 7.5–8.5% | 27% | 45% |  |
-| 8.5–9.5% | 13% | 19% |  |
+| 3.5–4.5% | 0.1% | 100% |  |
+| 4.5–5.5% | 3% | 99.9% |  |
+| 5.5–6.5% | 22% | 97% |  |
+| 6.5–7.5% | 34% | 75% | Median |
+| 7.5–8.5% | 24% | 41% |  |
+| 8.5–9.5% | 12% | 17% |  |
 | 9.5–10.5% | 4% | 5% |  |
 | 10.5–11.5% | 0.9% | 1.0% |  |
 | 11.5–12.5% | 0.1% | 0.1% |  |
@@ -66,8 +67,9 @@ Last result: **13** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–7 | 4–7 | 4–8 | 4–8 |
+| N/A | [Poll Average](average.html) | 5 | 5–7 | 4–7 | 4–7 | 4–8 |
 | [1–5 July 2019](2019-07-05-TermometroPolitico.html) | Termometro Politico <br> LA7 | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
+| [5 July 2019](2019-07-05-NotoSondaggi.html) | Noto Sondaggi <br> Quotidiano Nazionale | 5 | 5–7 | 4–7 | 4–7 | 4–7 |
 | [26 June–1 July 2019](2019-07-01-SWG.html) | SWG <br> LA7 | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [27 June 2019](2019-06-27-EMG.html) | EMG <br> Rai 3 | 7 | 6–7 | 6–7 | 6–8 | 5–8 |
 | [1–26 June 2019](2019-06-26-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
@@ -102,10 +104,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0.1% | 100% |  |
 | 4 | 6% | 99.9% |  |
-| 5 | 38% | 94% |  |
-| 6 | 36% | 56% | Median |
-| 7 | 17% | 20% |  |
-| 8 | 2% | 3% |  |
+| 5 | 44% | 94% | Median |
+| 6 | 30% | 49% |  |
+| 7 | 17% | 19% |  |
+| 8 | 2% | 2% |  |
 | 9 | 0.1% | 0.2% |  |
 | 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |
