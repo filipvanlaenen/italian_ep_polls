@@ -10,7 +10,7 @@ Last result: **40.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23.4% | 21.5–25.7% | 21.0–26.4% | 20.5–27.0% | 19.7–28.0% |
+| N/A | [Poll Average](average.html) | 23.4% | 21.5–25.6% | 20.9–26.3% | 20.5–26.9% | 19.7–28.0% |
 | [1–5 July 2019](2019-07-05-TermometroPolitico.html) | Termometro Politico <br> LA7 | 22.9% | 21.3–24.7% | 20.8–25.2% | 20.4–25.6% | 19.6–26.5% |
 | [26 June–1 July 2019](2019-07-01-SWG.html) | SWG <br> LA7 | 22.6% | 21.2–24.0% | 20.9–24.4% | 20.5–24.8% | 19.9–25.5% |
 | [27 June 2019](2019-06-27-EMG.html) | EMG <br> Rai 3 | 23.4% | 22.1–24.7% | 21.8–25.0% | 21.5–25.3% | 20.9–26.0% |
@@ -45,14 +45,14 @@ The following table shows the probability mass function per percentage block of 
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0.4% | 100% |  |
 | 19.5–20.5% | 2% | 99.6% |  |
-| 20.5–21.5% | 8% | 97% |  |
-| 21.5–22.5% | 18% | 89% |  |
-| 22.5–23.5% | 24% | 71% | Median |
-| 23.5–24.5% | 21% | 47% |  |
-| 24.5–25.5% | 14% | 26% |  |
-| 25.5–26.5% | 8% | 12% |  |
+| 20.5–21.5% | 9% | 97% |  |
+| 21.5–22.5% | 19% | 89% |  |
+| 22.5–23.5% | 24% | 70% | Median |
+| 23.5–24.5% | 21% | 46% |  |
+| 24.5–25.5% | 14% | 24% |  |
+| 25.5–26.5% | 7% | 11% |  |
 | 26.5–27.5% | 3% | 4% |  |
-| 27.5–28.5% | 0.9% | 1.1% |  |
+| 27.5–28.5% | 0.8% | 1.0% |  |
 | 28.5–29.5% | 0.2% | 0.2% |  |
 | 29.5–30.5% | 0% | 0% |  |
 | 30.5–31.5% | 0% | 0% |  |
@@ -77,8 +77,8 @@ Last result: **31** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17 | 15–19 | 15–19 | 14–20 | 14–21 |
-| [1–5 July 2019](2019-07-05-TermometroPolitico.html) | Termometro Politico <br> LA7 | 16 | 15–18 | 14–19 | 14–19 | 13–19 |
-| [26 June–1 July 2019](2019-07-01-SWG.html) | SWG <br> LA7 | 16 | 16 | 16 | 15–16 | 15–17 |
+| [1–5 July 2019](2019-07-05-TermometroPolitico.html) | Termometro Politico <br> LA7 | 16 | 15–18 | 15–18 | 14–18 | 14–19 |
+| [26 June–1 July 2019](2019-07-01-SWG.html) | SWG <br> LA7 | 16 | 15–17 | 15–18 | 15–18 | 14–18 |
 | [27 June 2019](2019-06-27-EMG.html) | EMG <br> Rai 3 | 17 | 16–18 | 16–19 | 16–19 | 15–19 |
 | [1–26 June 2019](2019-06-26-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 18 | 17–20 | 17–20 | 16–20 | 16–21 |
 | [25–26 June 2019](2019-06-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 18 | 17–20 | 17–20 | 16–20 | 16–21 |
@@ -113,12 +113,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0.4% | 100% |  |
 | 14 | 4% | 99.6% |  |
 | 15 | 14% | 95% |  |
-| 16 | 21% | 81% |  |
-| 17 | 26% | 60% | Median |
-| 18 | 20% | 34% |  |
-| 19 | 10% | 14% |  |
+| 16 | 24% | 81% |  |
+| 17 | 25% | 57% | Median |
+| 18 | 19% | 31% |  |
+| 19 | 9% | 13% |  |
 | 20 | 3% | 4% |  |
-| 21 | 0.6% | 0.7% |  |
+| 21 | 0.5% | 0.6% |  |
 | 22 | 0.1% | 0.1% |  |
 | 23 | 0% | 0% |  |
 | 24 | 0% | 0% |  |
