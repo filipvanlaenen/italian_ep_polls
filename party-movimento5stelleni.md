@@ -66,9 +66,9 @@ Last result: **17** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 12–15 | 12–16 | 11–16 | 11–17 |
+| N/A | [Poll Average](average.html) | 14 | 12–15 | 12–16 | 11–16 | 11–17 |
 | [1–5 July 2019](2019-07-05-TermometroPolitico.html) | Termometro Politico <br> LA7 | 14 | 13–15 | 12–15 | 12–15 | 11–16 |
-| [5 July 2019](2019-07-05-NotoSondaggi.html) | Noto Sondaggi <br> Quotidiano Nazionale | 13 | 13–15 | 12–16 | 12–16 | 12–16 |
+| [5 July 2019](2019-07-05-NotoSondaggi.html) | Noto Sondaggi <br> Quotidiano Nazionale | 13 | 12–15 | 12–15 | 11–15 | 11–16 |
 | [26 June–1 July 2019](2019-07-01-SWG.html) | SWG <br> LA7 | 13 | 12–14 | 12–14 | 12–14 | 11–15 |
 | [27 June 2019](2019-06-27-EMG.html) | EMG <br> Rai 3 | 15 | 14–16 | 14–16 | 13–16 | 13–17 |
 | [1–26 June 2019](2019-06-26-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 14 | 13–15 | 12–15 | 12–15 | 11–16 |
@@ -103,10 +103,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.3% | 100% |  |
 | 11 | 3% | 99.7% |  |
-| 12 | 12% | 97% |  |
-| 13 | 35% | 85% | Median |
-| 14 | 27% | 49% |  |
-| 15 | 16% | 23% |  |
+| 12 | 14% | 97% |  |
+| 13 | 31% | 83% |  |
+| 14 | 29% | 51% | Median |
+| 15 | 16% | 22% |  |
 | 16 | 5% | 6% |  |
 | 17 | 1.0% | 1.2% | Last Result |
 | 18 | 0.1% | 0.2% |  |
