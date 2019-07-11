@@ -97,8 +97,8 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [3–8 July 2019](2019-07-08-SWG.html) | SWG <br> LA7 | 29 | 27–31 | 27–31 | 27–31 | 26–32 |
 | [1–5 July 2019](2019-07-05-TermometroPolitico.html) | Termometro Politico <br> LA7 | 28 | 26–29 | 26–30 | 26–30 | 25–31 |
 | [5 July 2019](2019-07-05-NotoSondaggi.html) | Noto Sondaggi <br> Quotidiano Nazionale | 29 | 28–31 | 27–31 | 27–32 | 26–32 |
-| [29 June–4 July 2019](2019-07-04-BiDiMedia.html) | BiDiMedia | 26 | 25–28 | 25–28 | 25–28 | 24–29 |
-| [26 June–1 July 2019](2019-07-01-SWG.html) | SWG <br> LA7 | 29 | 28–30 | 28–30 | 27–31 | 26–32 |
+| [29 June–4 July 2019](2019-07-04-BiDiMedia.html) | BiDiMedia | 27 | 26–28 | 25–28 | 25–28 | 25–29 |
+| [26 June–1 July 2019](2019-07-01-SWG.html) | SWG <br> LA7 | 29 | 28–30 | 27–31 | 27–31 | 26–32 |
 | [27 June 2019](2019-06-27-EMG.html) | EMG <br> Rai 3 | 28 | 27–29 | 27–30 | 26–30 | 26–30 |
 | [1–26 June 2019](2019-06-26-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 28 | 26–29 | 26–30 | 26–30 | 25–31 |
 | [25–26 June 2019](2019-06-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 28 | 26–29 | 26–30 | 26–30 | 25–31 |
@@ -150,12 +150,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 22 | 0.1% | 100% |  |
 | 23 | 0.6% | 99.9% |  |
 | 24 | 3% | 99.4% |  |
-| 25 | 11% | 96% |  |
-| 26 | 19% | 86% |  |
-| 27 | 22% | 67% | Median |
+| 25 | 10% | 96% |  |
+| 26 | 18% | 86% |  |
+| 27 | 22% | 68% | Median |
 | 28 | 20% | 45% |  |
-| 29 | 15% | 25% |  |
-| 30 | 7% | 10% |  |
+| 29 | 14% | 25% |  |
+| 30 | 7% | 11% |  |
 | 31 | 3% | 3% |  |
 | 32 | 0.6% | 0.6% |  |
 | 33 | 0.1% | 0.1% |  |

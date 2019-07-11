@@ -73,7 +73,7 @@ Last result: **13** seats (General Election of 26 May 2019)
 | [3–8 July 2019](2019-07-08-SWG.html) | SWG <br> LA7 | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [1–5 July 2019](2019-07-05-TermometroPolitico.html) | Termometro Politico <br> LA7 | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [5 July 2019](2019-07-05-NotoSondaggi.html) | Noto Sondaggi <br> Quotidiano Nazionale | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
-| [29 June–4 July 2019](2019-07-04-BiDiMedia.html) | BiDiMedia | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
+| [29 June–4 July 2019](2019-07-04-BiDiMedia.html) | BiDiMedia | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [26 June–1 July 2019](2019-07-01-SWG.html) | SWG <br> LA7 | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [27 June 2019](2019-06-27-EMG.html) | EMG <br> Rai 3 | 7 | 6–7 | 6–7 | 6–8 | 5–8 |
 | [1–26 June 2019](2019-06-26-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
@@ -107,8 +107,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0.1% | 100% |  |
-| 4 | 8% | 99.9% |  |
-| 5 | 43% | 92% | Median |
+| 4 | 9% | 99.9% |  |
+| 5 | 42% | 91% | Median |
 | 6 | 32% | 49% |  |
 | 7 | 15% | 17% |  |
 | 8 | 2% | 2% |  |

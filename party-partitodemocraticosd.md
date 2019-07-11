@@ -80,11 +80,11 @@ Last result: **31** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17 | 15–18 | 15–19 | 14–20 | 14–20 |
-| [3–8 July 2019](2019-07-08-SWG.html) | SWG <br> LA7 | 17 | 15–18 | 15–18 | 15–19 | 14–19 |
+| [3–8 July 2019](2019-07-08-SWG.html) | SWG <br> LA7 | 17 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [1–5 July 2019](2019-07-05-TermometroPolitico.html) | Termometro Politico <br> LA7 | 16 | 15–18 | 15–18 | 14–18 | 14–19 |
 | [5 July 2019](2019-07-05-NotoSondaggi.html) | Noto Sondaggi <br> Quotidiano Nazionale | 18 | 16–19 | 16–19 | 15–20 | 15–20 |
-| [29 June–4 July 2019](2019-07-04-BiDiMedia.html) | BiDiMedia | 17 | 16–18 | 16–18 | 15–18 | 15–19 |
-| [26 June–1 July 2019](2019-07-01-SWG.html) | SWG <br> LA7 | 16 | 15–17 | 15–18 | 15–18 | 14–18 |
+| [29 June–4 July 2019](2019-07-04-BiDiMedia.html) | BiDiMedia | 17 | 16–18 | 16–18 | 15–19 | 15–19 |
+| [26 June–1 July 2019](2019-07-01-SWG.html) | SWG <br> LA7 | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
 | [27 June 2019](2019-06-27-EMG.html) | EMG <br> Rai 3 | 17 | 16–18 | 16–19 | 16–19 | 15–19 |
 | [1–26 June 2019](2019-06-26-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 18 | 17–20 | 17–20 | 16–20 | 16–21 |
 | [25–26 June 2019](2019-06-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 18 | 17–20 | 17–20 | 16–20 | 16–21 |
@@ -121,7 +121,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 13% | 96% |  |
 | 16 | 24% | 83% |  |
 | 17 | 30% | 59% | Median |
-| 18 | 19% | 29% |  |
+| 18 | 20% | 29% |  |
 | 19 | 7% | 10% |  |
 | 20 | 2% | 3% |  |
 | 21 | 0.4% | 0.4% |  |
