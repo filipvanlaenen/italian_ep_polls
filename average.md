@@ -13,7 +13,7 @@ The table below lists the polls on which the average is based. They are the most
 | [3–8 July 2019](2019-07-08-SWG.html) | SWG <br> LA7 | 21–25% <br> 15–18 | 16–19% <br> 12–15 | 6–8% <br> 4–6 | 35–40% <br> 27–31 | 5–8% <br> 4–6 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | 1–3% <br> 0 | N/A <br> N/A |
 | [1–5 July 2019](2019-07-05-TermometroPolitico.html) | Termometro Politico <br> LA7 | 20–26% <br> 14–18 | 16–21% <br> 12–15 | 5–8% <br> 4–6 | 34–40% <br> 26–30 | 6–9% <br> 4–7 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | 1–2% <br> 0 | N/A <br> N/A |
 | [5 July 2019](2019-07-05-NotoSondaggi.html) | Noto Sondaggi <br> Quotidiano Nazionale | 21–27% <br> 15–20 | 15–19% <br> 11–15 | 5–8% <br> 4–6 | 35–41% <br> 27–32 | 6–10% <br> 5–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 1–2% <br> 0 | 0–1% <br> 0 |
-| [29 June–4 July 2019](2019-07-04-BiDiMedia.html) | BiDiMedia | 22–26% <br> 15–19 | 16–20% <br> 13–15 | 5–8% <br> 4–6 | 33–37% <br> 25–28 | 6–8% <br> 4–6 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | 1–3% <br> 0 | N/A <br> N/A |
+| [29 June–4 July 2019](2019-07-04-BiDiMedia.html) | BiDiMedia | 22–26% <br> 15–19 | 16–20% <br> 12–15 | 5–8% <br> 4–6 | 33–37% <br> 25–28 | 6–8% <br> 4–6 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | 1–3% <br> 0 | N/A <br> N/A |
 | [27 June 2019](2019-06-27-EMG.html) | EMG <br> Rai 3 | 21–25% <br> 16–19 | 17–20% <br> 13–16 | 7–10% <br> 6–8 | 34–38% <br> 26–30 | 6–8% <br> 4–6 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | 1–3% <br> 0 | N/A <br> N/A |
 | [25–26 June 2019](2019-06-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 22–28% <br> 16–20 | 15–20% <br> 12–15 | 6–9% <br> 5–7 | 33–39% <br> 26–30 | 6–10% <br> 5–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | 1–2% <br> 0 | N/A <br> N/A |
 | [23–24 June 2019](2019-06-24-Tecnè.html) | Tecnè <br> Rete 4 | 21–26% <br> 14–18 | 15–19% <br> 11–14 | 7–11% <br> 5–8 | 33–39% <br> 24–28 | 5–8% <br> 4–6 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
@@ -275,7 +275,7 @@ Only polls for which at least the sample size has been published are included in
 | 15 | 13% | 96% |  |
 | 16 | 24% | 83% |  |
 | 17 | 30% | 59% | Median |
-| 18 | 20% | 29% |  |
+| 18 | 19% | 29% |  |
 | 19 | 7% | 10% |  |
 | 20 | 2% | 3% |  |
 | 21 | 0.4% | 0.4% |  |
@@ -359,7 +359,7 @@ Only polls for which at least the sample size has been published are included in
 | 24 | 3% | 99.4% |  |
 | 25 | 10% | 96% |  |
 | 26 | 18% | 86% |  |
-| 27 | 22% | 68% | Median |
+| 27 | 23% | 68% | Median |
 | 28 | 20% | 45% |  |
 | 29 | 14% | 25% |  |
 | 30 | 7% | 11% |  |
@@ -472,7 +472,7 @@ Only polls for which at least the sample size has been published are included in
 | 24 | 3% | 99.4% |  |
 | 25 | 10% | 96% |  |
 | 26 | 18% | 86% |  |
-| 27 | 22% | 68% | Median |
+| 27 | 23% | 68% | Median |
 | 28 | 20% | 45% |  |
 | 29 | 14% | 25% |  |
 | 30 | 7% | 11% |  |
@@ -492,7 +492,7 @@ Only polls for which at least the sample size has been published are included in
 | 15 | 13% | 96% |  |
 | 16 | 24% | 83% |  |
 | 17 | 30% | 59% | Median |
-| 18 | 20% | 30% |  |
+| 18 | 19% | 29% |  |
 | 19 | 7% | 10% |  |
 | 20 | 2% | 3% |  |
 | 21 | 0.4% | 0.4% |  |
@@ -592,6 +592,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 11
-+ **Lowest number of simulations done in a poll included in this average:** 524,288
-+ **Total number of simulations done in the polls included in this average:** 11,010,048
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 11,534,336
 + **Error estimate:** 2.70%
