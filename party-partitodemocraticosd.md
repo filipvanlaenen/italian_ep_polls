@@ -11,6 +11,7 @@ Last result: **40.8%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 23.3% | 21.5–25.4% | 21.0–26.0% | 20.6–26.6% | 19.7–27.7% |
+| [7–8 July 2019](2019-07-08-Tecnè.html) | Tecnè <br> Rete 4 | 23.4% | 21.7–25.2% | 21.3–25.7% | 20.9–26.1% | 20.1–27.0% |
 | [3–8 July 2019](2019-07-08-SWG.html) | SWG <br> LA7 | 22.7% | 21.4–24.2% | 21.0–24.6% | 20.7–24.9% | 20.0–25.6% |
 | [1–5 July 2019](2019-07-05-TermometroPolitico.html) | Termometro Politico <br> LA7 | 22.9% | 21.3–24.7% | 20.8–25.2% | 20.4–25.6% | 19.6–26.5% |
 | [5 July 2019](2019-07-05-NotoSondaggi.html) | Noto Sondaggi <br> Quotidiano Nazionale | 23.9% | 22.2–25.7% | 21.8–26.2% | 21.4–26.6% | 20.6–27.5% |
@@ -80,6 +81,7 @@ Last result: **31** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17 | 15–18 | 15–19 | 14–20 | 14–20 |
+| [7–8 July 2019](2019-07-08-Tecnè.html) | Tecnè <br> Rete 4 | 16 | 15–17 | 15–18 | 14–18 | 14–19 |
 | [3–8 July 2019](2019-07-08-SWG.html) | SWG <br> LA7 | 17 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [1–5 July 2019](2019-07-05-TermometroPolitico.html) | Termometro Politico <br> LA7 | 16 | 15–18 | 15–18 | 14–18 | 14–19 |
 | [5 July 2019](2019-07-05-NotoSondaggi.html) | Noto Sondaggi <br> Quotidiano Nazionale | 18 | 16–19 | 16–19 | 15–20 | 15–20 |
@@ -116,7 +118,7 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 13 | 0.4% | 100% |  |
+| 13 | 0.3% | 100% |  |
 | 14 | 4% | 99.6% |  |
 | 15 | 13% | 96% |  |
 | 16 | 24% | 83% |  |
