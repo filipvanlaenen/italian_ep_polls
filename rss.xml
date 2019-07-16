@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 14 Jul 2019 11:44:18 +0200</pubDate>
+    <pubDate>Tue, 16 Jul 2019 17:20:05 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Termometro Politico, 1–14 July 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-07-14-TermometroPolitico.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (NI): 11–15 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 14–18 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ID): 27–31 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 4–6 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 4–6 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-07-14-TermometroPolitico-seats.png"
+        length="140339"
+        type="image/png"/>
+      <pubDate>Tue, 16 Jul 2019 17:20:05 +0200</pubDate>
+      <dc:date>2019-07-16T17:20:05.336137+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Termometro Politico, 1–14 July 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-07-14-TermometroPolitico.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-07-14-TermometroPolitico-coalitions-seats.png"
+        length="126739"
+        type="image/png"/>
+      <pubDate>Tue, 16 Jul 2019 17:20:05 +0200</pubDate>
+      <dc:date>2019-07-16T17:20:05.336137+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Termometro Politico, 1–14 July 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-07-14-TermometroPolitico.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (NI): 15.1–19.2%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 20.4–25.0%&lt;/li&gt;&lt;li&gt;Lega Nord (ID): 35.3–40.6%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 5.1–7.8%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 5.7–8.5%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 1.1–2.6%&lt;/li&gt;&lt;li&gt;Più Europa (RE): 1.6–3.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-07-14-TermometroPolitico.png"
+        length="204642"
+        type="image/png"/>
+      <pubDate>Tue, 16 Jul 2019 17:20:05 +0200</pubDate>
+      <dc:date>2019-07-16T17:20:05.336137+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Tecnè for Rete 4, 7–8 July 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-07-08-Tecnè.html#seats</link>
@@ -829,6 +859,6 @@
       <pubDate>Sat, 29 Jun 2019 16:56:02 +0200</pubDate>
       <dc:date>2019-06-29T16:56:02.59202+02:00</dc:date>
     </item>
-    <dc:date>2019-07-14T11:44:18.135481+02:00</dc:date>
+    <dc:date>2019-07-16T17:20:05.336137+02:00</dc:date>
   </channel>
 </rss>
