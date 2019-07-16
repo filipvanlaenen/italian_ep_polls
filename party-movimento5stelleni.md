@@ -10,7 +10,8 @@ Last result: **21.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.9% | 16.1–19.7% | 15.6–20.2% | 15.1–20.8% | 14.2–21.9% |
+| N/A | [Poll Average](average.html) | 17.7% | 16.1–19.3% | 15.6–19.7% | 15.2–20.1% | 14.5–20.8% |
+| [1–14 July 2019](2019-07-14-TermometroPolitico.html) | Termometro Politico | 17.1% | 15.8–18.5% | 15.4–18.9% | 15.1–19.2% | 14.5–19.9% |
 | [7–8 July 2019](2019-07-08-Tecnè.html) | Tecnè <br> Rete 4 | 16.9% | 15.5–18.5% | 15.0–19.0% | 14.7–19.4% | 14.0–20.1% |
 | [3–8 July 2019](2019-07-08-SWG.html) | SWG <br> LA7 | 17.4% | 16.2–18.7% | 15.9–19.1% | 15.6–19.4% | 15.0–20.1% |
 | [1–5 July 2019](2019-07-05-TermometroPolitico.html) | Termometro Politico <br> LA7 | 18.0% | 16.5–19.6% | 16.1–20.1% | 15.7–20.5% | 15.0–21.3% |
@@ -46,19 +47,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 0.1% | 100% |  |
-| 13.5–14.5% | 0.8% | 99.9% |  |
-| 14.5–15.5% | 4% | 99.1% |  |
-| 15.5–16.5% | 12% | 95% |  |
-| 16.5–17.5% | 23% | 84% |  |
-| 17.5–18.5% | 28% | 61% | Median |
-| 18.5–19.5% | 20% | 32% |  |
-| 19.5–20.5% | 8% | 12% |  |
-| 20.5–21.5% | 3% | 3% | Last Result |
-| 21.5–22.5% | 0.7% | 0.8% |  |
-| 22.5–23.5% | 0.1% | 0.2% |  |
-| 23.5–24.5% | 0% | 0% |  |
+| 12.5–13.5% | 0% | 100% |  |
+| 13.5–14.5% | 0.6% | 100% |  |
+| 14.5–15.5% | 4% | 99.4% |  |
+| 15.5–16.5% | 14% | 96% |  |
+| 16.5–17.5% | 27% | 81% |  |
+| 17.5–18.5% | 30% | 55% | Median |
+| 18.5–19.5% | 18% | 25% |  |
+| 19.5–20.5% | 6% | 6% |  |
+| 20.5–21.5% | 0.8% | 0.9% | Last Result |
+| 21.5–22.5% | 0.1% | 0.1% |  |
+| 22.5–23.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -69,7 +68,8 @@ Last result: **17** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–15 | 12–16 | 11–16 | 11–17 |
+| N/A | [Poll Average](average.html) | 13 | 12–15 | 12–15 | 11–15 | 11–16 |
+| [1–14 July 2019](2019-07-14-TermometroPolitico.html) | Termometro Politico | 13 | 12–14 | 12–14 | 11–15 | 11–15 |
 | [7–8 July 2019](2019-07-08-Tecnè.html) | Tecnè <br> Rete 4 | 12 | 11–13 | 11–14 | 11–14 | 10–15 |
 | [3–8 July 2019](2019-07-08-SWG.html) | SWG <br> LA7 | 14 | 12–15 | 12–15 | 12–15 | 11–16 |
 | [1–5 July 2019](2019-07-05-TermometroPolitico.html) | Termometro Politico <br> LA7 | 14 | 12–15 | 12–15 | 12–15 | 11–16 |
@@ -107,15 +107,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.3% | 100% |  |
-| 11 | 3% | 99.7% |  |
-| 12 | 13% | 97% |  |
-| 13 | 29% | 84% |  |
-| 14 | 32% | 55% | Median |
-| 15 | 17% | 23% |  |
-| 16 | 5% | 6% |  |
-| 17 | 0.9% | 1.1% | Last Result |
-| 18 | 0.1% | 0.1% |  |
-| 19 | 0% | 0% |  |
+| 10 | 0.2% | 100% |  |
+| 11 | 3% | 99.8% |  |
+| 12 | 15% | 97% |  |
+| 13 | 33% | 82% | Median |
+| 14 | 32% | 49% |  |
+| 15 | 14% | 16% |  |
+| 16 | 2% | 2% |  |
+| 17 | 0.1% | 0.1% | Last Result |
+| 18 | 0% | 0% |  |
 
 
