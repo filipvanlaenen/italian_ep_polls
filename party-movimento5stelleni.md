@@ -10,8 +10,11 @@ Last result: **21.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.7% | 16.1–19.3% | 15.6–19.7% | 15.2–20.1% | 14.5–20.8% |
+| N/A | [Poll Average](average.html) | 17.8% | 16.2–19.3% | 15.7–19.7% | 15.3–20.1% | 14.6–20.8% |
+| [10–15 July 2019](2019-07-15-SWG.html) | SWG <br> LA7 | 17.9% | 16.6–19.2% | 16.3–19.6% | 16.0–19.9% | 15.4–20.5% |
 | [1–14 July 2019](2019-07-14-TermometroPolitico.html) | Termometro Politico | 17.1% | 15.8–18.5% | 15.4–18.9% | 15.1–19.2% | 14.5–19.9% |
+| [10–11 July 2019](2019-07-11-Tecnè.html) | Tecnè <br> Rete 4 | 17.2% | 15.7–18.8% | 15.3–19.3% | 15.0–19.7% | 14.3–20.5% |
+| [8–10 July 2019](2019-07-10-GPF.html) | GPF <br> Rete 4 | 23.8% | N/A | N/A | N/A | N/A |
 | [7–8 July 2019](2019-07-08-Tecnè.html) | Tecnè <br> Rete 4 | 16.9% | 15.5–18.5% | 15.0–19.0% | 14.7–19.4% | 14.0–20.1% |
 | [3–8 July 2019](2019-07-08-SWG.html) | SWG <br> LA7 | 17.4% | 16.2–18.7% | 15.9–19.1% | 15.6–19.4% | 15.0–20.1% |
 | [1–5 July 2019](2019-07-05-TermometroPolitico.html) | Termometro Politico <br> LA7 | 18.0% | 16.5–19.6% | 16.1–20.1% | 15.7–20.5% | 15.0–21.3% |
@@ -48,14 +51,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 12.5–13.5% | 0% | 100% |  |
-| 13.5–14.5% | 0.6% | 100% |  |
-| 14.5–15.5% | 4% | 99.4% |  |
-| 15.5–16.5% | 14% | 96% |  |
-| 16.5–17.5% | 27% | 81% |  |
-| 17.5–18.5% | 30% | 55% | Median |
-| 18.5–19.5% | 18% | 25% |  |
-| 19.5–20.5% | 6% | 6% |  |
-| 20.5–21.5% | 0.8% | 0.9% | Last Result |
+| 13.5–14.5% | 0.4% | 100% |  |
+| 14.5–15.5% | 3% | 99.5% |  |
+| 15.5–16.5% | 12% | 96% |  |
+| 16.5–17.5% | 25% | 84% |  |
+| 17.5–18.5% | 31% | 58% | Median |
+| 18.5–19.5% | 20% | 27% |  |
+| 19.5–20.5% | 6% | 7% |  |
+| 20.5–21.5% | 0.9% | 0.9% | Last Result |
 | 21.5–22.5% | 0.1% | 0.1% |  |
 | 22.5–23.5% | 0% | 0% |  |
 
@@ -68,8 +71,11 @@ Last result: **17** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 12–15 | 12–15 | 11–15 | 11–16 |
+| N/A | [Poll Average](average.html) | 14 | 13–15 | 12–15 | 12–16 | 11–16 |
+| [10–15 July 2019](2019-07-15-SWG.html) | SWG <br> LA7 | 14 | 13–16 | 13–16 | 13–16 | 13–16 |
 | [1–14 July 2019](2019-07-14-TermometroPolitico.html) | Termometro Politico | 13 | 12–14 | 12–14 | 11–15 | 11–15 |
+| [10–11 July 2019](2019-07-11-Tecnè.html) | Tecnè <br> Rete 4 | 13 | 13–14 | 13–14 | 13–14 | 13–14 |
+| [8–10 July 2019](2019-07-10-GPF.html) | GPF <br> Rete 4 |  |  |  |  |  |
 | [7–8 July 2019](2019-07-08-Tecnè.html) | Tecnè <br> Rete 4 | 12 | 11–13 | 11–14 | 11–14 | 10–15 |
 | [3–8 July 2019](2019-07-08-SWG.html) | SWG <br> LA7 | 14 | 12–15 | 12–15 | 12–15 | 11–16 |
 | [1–5 July 2019](2019-07-05-TermometroPolitico.html) | Termometro Politico <br> LA7 | 14 | 12–15 | 12–15 | 12–15 | 11–16 |
@@ -107,13 +113,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.2% | 100% |  |
-| 11 | 3% | 99.8% |  |
-| 12 | 15% | 97% |  |
-| 13 | 33% | 82% | Median |
-| 14 | 32% | 49% |  |
-| 15 | 14% | 16% |  |
-| 16 | 2% | 2% |  |
+| 11 | 0.8% | 100% |  |
+| 12 | 9% | 99.1% |  |
+| 13 | 39% | 90% |  |
+| 14 | 33% | 51% | Median |
+| 15 | 13% | 18% |  |
+| 16 | 5% | 5% |  |
 | 17 | 0.1% | 0.1% | Last Result |
 | 18 | 0% | 0% |  |
 
