@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 18 Jul 2019 12:23:45 +0200</pubDate>
+    <pubDate>Thu, 18 Jul 2019 17:57:57 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by SWG for LA7, 10–15 July 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-07-15-SWG.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (NI): 12–15 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 14–18 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ID): 27–32 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 4–7 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 4–6 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-07-15-SWG-seats.png"
+        length="143252"
+        type="image/png"/>
+      <pubDate>Thu, 18 Jul 2019 17:57:57 +0200</pubDate>
+      <dc:date>2019-07-18T17:57:57.157287+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SWG for LA7, 10–15 July 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-07-15-SWG.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-07-15-SWG-coalitions-seats.png"
+        length="134368"
+        type="image/png"/>
+      <pubDate>Thu, 18 Jul 2019 17:57:57 +0200</pubDate>
+      <dc:date>2019-07-18T17:57:57.157287+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by SWG for LA7, 10–15 July 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-07-15-SWG.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-07-15-SWG.png"
         length="204895"
         type="image/png"/>
-      <pubDate>Thu, 18 Jul 2019 12:17:05 +0200</pubDate>
-      <dc:date>2019-07-18T12:17:05.848998+02:00</dc:date>
+      <pubDate>Thu, 18 Jul 2019 17:57:57 +0200</pubDate>
+      <dc:date>2019-07-18T17:57:57.157287+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Termometro Politico, 1–14 July 2019 – Seat Projections for the Parties</title>
@@ -50,14 +70,54 @@
       <dc:date>2019-07-16T17:20:05.336137+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Tecnè for Rete 4, 10–11 July 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-07-11-Tecnè.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (NI): 11–15 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 15–19 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ID): 26–31 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 5–8 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 4–7 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-07-11-Tecnè-seats.png"
+        length="145742"
+        type="image/png"/>
+      <pubDate>Thu, 18 Jul 2019 17:22:43 +0200</pubDate>
+      <dc:date>2019-07-18T17:22:43.936143+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Tecnè for Rete 4, 10–11 July 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-07-11-Tecnè.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-07-11-Tecnè-coalitions-seats.png"
+        length="133919"
+        type="image/png"/>
+      <pubDate>Thu, 18 Jul 2019 17:22:43 +0200</pubDate>
+      <dc:date>2019-07-18T17:22:43.936143+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Tecnè for Rete 4, 10–11 July 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-07-11-Tecnè.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (NI): 15.0–19.7%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 21.0–26.2%&lt;/li&gt;&lt;li&gt;Lega Nord (ID): 34.2–40.3%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6.4–9.7%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 5.4–8.5%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0.8–2.3%&lt;/li&gt;&lt;li&gt;Più Europa (RE): 1.5–3.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-07-11-Tecnè.png"
         length="212608"
         type="image/png"/>
-      <pubDate>Thu, 18 Jul 2019 12:23:45 +0200</pubDate>
-      <dc:date>2019-07-18T12:23:45.712042+02:00</dc:date>
+      <pubDate>Thu, 18 Jul 2019 17:22:43 +0200</pubDate>
+      <dc:date>2019-07-18T17:22:43.936143+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GPF for Rete 4, 8–10 July 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-07-10-GPF.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (NI): 16–21 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 14–19 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ID): 23–29 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 4–7 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 3–6 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-07-10-GPF-seats.png"
+        length="157741"
+        type="image/png"/>
+      <pubDate>Thu, 18 Jul 2019 17:35:34 +0200</pubDate>
+      <dc:date>2019-07-18T17:35:34.050577+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GPF for Rete 4, 8–10 July 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-07-10-GPF.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-07-10-GPF-coalitions-seats.png"
+        length="150949"
+        type="image/png"/>
+      <pubDate>Thu, 18 Jul 2019 17:35:34 +0200</pubDate>
+      <dc:date>2019-07-18T17:35:34.050577+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GPF for Rete 4, 8–10 July 2019 – Voting Intentions</title>
@@ -66,8 +126,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-07-10-GPF.png"
         length="216336"
         type="image/png"/>
-      <pubDate>Thu, 18 Jul 2019 12:21:20 +0200</pubDate>
-      <dc:date>2019-07-18T12:21:20.736028+02:00</dc:date>
+      <pubDate>Thu, 18 Jul 2019 17:35:34 +0200</pubDate>
+      <dc:date>2019-07-18T17:35:34.050577+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Tecnè for Rete 4, 7–8 July 2019 – Seat Projections for the Parties</title>
@@ -889,6 +949,6 @@
       <pubDate>Sat, 29 Jun 2019 16:56:02 +0200</pubDate>
       <dc:date>2019-06-29T16:56:02.59202+02:00</dc:date>
     </item>
-    <dc:date>2019-07-18T12:23:45.712042+02:00</dc:date>
+    <dc:date>2019-07-18T17:57:57.157287+02:00</dc:date>
   </channel>
 </rss>
