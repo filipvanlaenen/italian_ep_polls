@@ -78,7 +78,7 @@ Last result: **13** seats (General Election of 26 May 2019)
 | [10–15 July 2019](2019-07-15-SWG.html) | SWG <br> LA7 | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
 | [1–14 July 2019](2019-07-14-TermometroPolitico.html) | Termometro Politico | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [10–11 July 2019](2019-07-11-Tecnè.html) | Tecnè <br> Rete 4 | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
-| [8–10 July 2019](2019-07-10-GPF.html) | GPF <br> Rete 4 | 6 | 5–7 | 4–7 | 4–7 | 4–7 |
+| [8–10 July 2019](2019-07-10-GPF.html) | GPF <br> Rete 4 | 6 | 5–7 | 4–7 | 4–7 | 4–8 |
 | [7–8 July 2019](2019-07-08-Tecnè.html) | Tecnè <br> Rete 4 | 6 | 5–6 | 5–7 | 4–7 | 4–7 |
 | [3–8 July 2019](2019-07-08-SWG.html) | SWG <br> LA7 | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [1–5 July 2019](2019-07-05-TermometroPolitico.html) | Termometro Politico <br> LA7 | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
@@ -118,10 +118,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0.1% | 100% |  |
 | 4 | 9% | 99.9% |  |
-| 5 | 46% | 91% | Median |
-| 6 | 31% | 45% |  |
-| 7 | 13% | 14% |  |
-| 8 | 0.9% | 1.0% |  |
+| 5 | 45% | 91% | Median |
+| 6 | 33% | 46% |  |
+| 7 | 12% | 13% |  |
+| 8 | 1.0% | 1.0% |  |
 | 9 | 0% | 0% |  |
 | 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |
