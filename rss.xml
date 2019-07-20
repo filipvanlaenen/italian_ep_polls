@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 18 Jul 2019 17:57:57 +0200</pubDate>
+    <pubDate>Sat, 20 Jul 2019 11:57:06 +0200</pubDate>
     <item>
       <title>Opinion Poll by SWG for LA7, 10–15 July 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-07-15-SWG.html#seats</link>
@@ -38,6 +38,16 @@
         type="image/png"/>
       <pubDate>Thu, 18 Jul 2019 17:57:57 +0200</pubDate>
       <dc:date>2019-07-18T17:57:57.157287+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Piepoli for Rai 1, 15 July 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-07-15-Piepoli.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (NI): 14.5–21.2%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 20.1–27.5%&lt;/li&gt;&lt;li&gt;Lega Nord (ID): 31.9–40.3%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 5.9–10.7%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 3.9–8.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-07-15-Piepoli.png"
+        length="194054"
+        type="image/png"/>
+      <pubDate>Sat, 20 Jul 2019 11:57:06 +0200</pubDate>
+      <dc:date>2019-07-20T11:57:06.87614+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Termometro Politico, 1–14 July 2019 – Seat Projections for the Parties</title>
@@ -949,6 +959,6 @@
       <pubDate>Sat, 29 Jun 2019 16:56:02 +0200</pubDate>
       <dc:date>2019-06-29T16:56:02.59202+02:00</dc:date>
     </item>
-    <dc:date>2019-07-18T17:57:57.157287+02:00</dc:date>
+    <dc:date>2019-07-20T11:57:06.87614+02:00</dc:date>
   </channel>
 </rss>
