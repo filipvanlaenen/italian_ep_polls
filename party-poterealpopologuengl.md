@@ -12,9 +12,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.6% | 0.3–0.9% | 0.3–1.0% | 0.2–1.2% | 0.2–1.4% |
 | [10–15 July 2019](2019-07-15-SWG.html) | SWG <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
+| [15 July 2019](2019-07-15-Piepoli.html) | Piepoli <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
 | [1–14 July 2019](2019-07-14-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
 | [10–11 July 2019](2019-07-11-Tecnè.html) | Tecnè <br> Rete 4 | 0.0% | N/A | N/A | N/A | N/A |
 | [8–10 July 2019](2019-07-10-GPF.html) | GPF <br> Rete 4 | 0.0% | N/A | N/A | N/A | N/A |
+| [8–10 July 2019](2019-07-10-DemosPi.html) | Demos & Pi | 0.0% | N/A | N/A | N/A | N/A |
 | [7–8 July 2019](2019-07-08-Tecnè.html) | Tecnè <br> Rete 4 | 0.0% | N/A | N/A | N/A | N/A |
 | [3–8 July 2019](2019-07-08-SWG.html) | SWG <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
 | [1–5 July 2019](2019-07-05-TermometroPolitico.html) | Termometro Politico <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
@@ -66,9 +68,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [10–15 July 2019](2019-07-15-SWG.html) | SWG <br> LA7 |  |  |  |  |  |
+| [15 July 2019](2019-07-15-Piepoli.html) | Piepoli <br> Rai 1 |  |  |  |  |  |
 | [1–14 July 2019](2019-07-14-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [10–11 July 2019](2019-07-11-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
 | [8–10 July 2019](2019-07-10-GPF.html) | GPF <br> Rete 4 |  |  |  |  |  |
+| [8–10 July 2019](2019-07-10-DemosPi.html) | Demos & Pi |  |  |  |  |  |
 | [7–8 July 2019](2019-07-08-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
 | [3–8 July 2019](2019-07-08-SWG.html) | SWG <br> LA7 |  |  |  |  |  |
 | [1–5 July 2019](2019-07-05-TermometroPolitico.html) | Termometro Politico <br> LA7 |  |  |  |  |  |
