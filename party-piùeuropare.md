@@ -69,13 +69,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–3 | 0–4 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–3 | 0–3 |
 | [10–15 July 2019](2019-07-15-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0–3 | 0–3 |
 | [15 July 2019](2019-07-15-Piepoli.html) | Piepoli <br> Rai 1 |  |  |  |  |  |
 | [1–14 July 2019](2019-07-14-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [10–11 July 2019](2019-07-11-Tecnè.html) | Tecnè <br> Rete 4 | 0 | 0 | 0 | 0 | 0 |
 | [8–10 July 2019](2019-07-10-GPF.html) | GPF <br> Rete 4 | 0 | 0 | 0 | 0–3 | 0–3 |
-| [8–10 July 2019](2019-07-10-DemosPi.html) | Demos & Pi | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [8–10 July 2019](2019-07-10-DemosPi.html) | Demos & Pi | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [7–8 July 2019](2019-07-08-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
 | [3–8 July 2019](2019-07-08-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0–3 |
 | [1–5 July 2019](2019-07-05-TermometroPolitico.html) | Termometro Politico <br> LA7 | 0 | 0 | 0 | 0 | 0 |
@@ -113,11 +113,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 95% | 100% | Last Result, Median |
-| 1 | 0% | 5% |  |
-| 2 | 0% | 5% |  |
-| 3 | 4% | 5% |  |
-| 4 | 1.0% | 1.0% |  |
+| 0 | 97% | 100% | Last Result, Median |
+| 1 | 0% | 3% |  |
+| 2 | 0% | 3% |  |
+| 3 | 3% | 3% |  |
+| 4 | 0.5% | 0.5% |  |
 | 5 | 0% | 0% |  |
 
 

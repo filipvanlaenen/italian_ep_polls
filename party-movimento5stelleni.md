@@ -81,11 +81,11 @@ Last result: **17** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14 | 12–16 | 12–18 | 12–19 | 11–20 |
 | [10–15 July 2019](2019-07-15-SWG.html) | SWG <br> LA7 | 14 | 13–15 | 13–15 | 12–15 | 12–16 |
-| [15 July 2019](2019-07-15-Piepoli.html) | Piepoli <br> Rai 1 | 13 | 11–15 | 11–15 | 11–15 | 10–16 |
+| [15 July 2019](2019-07-15-Piepoli.html) | Piepoli <br> Rai 1 | 13 | 11–14 | 11–15 | 11–15 | 10–16 |
 | [1–14 July 2019](2019-07-14-TermometroPolitico.html) | Termometro Politico | 13 | 12–14 | 12–14 | 11–15 | 11–15 |
 | [10–11 July 2019](2019-07-11-Tecnè.html) | Tecnè <br> Rete 4 | 13 | 12–14 | 12–15 | 11–15 | 11–16 |
 | [8–10 July 2019](2019-07-10-GPF.html) | GPF <br> Rete 4 | 18 | 17–20 | 16–20 | 16–21 | 15–21 |
-| [8–10 July 2019](2019-07-10-DemosPi.html) | Demos & Pi | 13 | 12–15 | 12–15 | 11–16 | 11–16 |
+| [8–10 July 2019](2019-07-10-DemosPi.html) | Demos & Pi | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
 | [7–8 July 2019](2019-07-08-Tecnè.html) | Tecnè <br> Rete 4 | 12 | 11–13 | 11–14 | 11–14 | 10–15 |
 | [3–8 July 2019](2019-07-08-SWG.html) | SWG <br> LA7 | 14 | 12–15 | 12–15 | 12–15 | 11–16 |
 | [1–5 July 2019](2019-07-05-TermometroPolitico.html) | Termometro Politico <br> LA7 | 14 | 12–15 | 12–15 | 12–15 | 11–16 |
@@ -126,9 +126,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0.2% | 100% |  |
 | 11 | 2% | 99.7% |  |
 | 12 | 12% | 98% |  |
-| 13 | 29% | 85% |  |
+| 13 | 30% | 86% |  |
 | 14 | 31% | 56% | Median |
-| 15 | 14% | 26% |  |
+| 15 | 14% | 25% |  |
 | 16 | 3% | 11% |  |
 | 17 | 2% | 9% | Last Result |
 | 18 | 3% | 7% |  |
