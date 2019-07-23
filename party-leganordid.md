@@ -10,7 +10,9 @@ Last result: **6.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 36.2% | 33.8–38.7% | 33.1–39.4% | 32.4–39.9% | 31.1–41.0% |
+| N/A | [Poll Average](average.html) | 36.1% | 33.7–38.7% | 33.1–39.4% | 32.4–39.9% | 31.1–41.0% |
+| [17–18 July 2019](2019-07-18-Tecnè.html) | Tecnè <br> Rete 4 | 37.0% | 35.1–39.0% | 34.5–39.6% | 34.0–40.0% | 33.2–41.0% |
+| [16–18 July 2019](2019-07-18-Ipsos.html) | Ipsos <br> Corriere della Sera | 35.9% | 34.0–37.9% | 33.4–38.4% | 33.0–38.9% | 32.1–39.9% |
 | [10–15 July 2019](2019-07-15-SWG.html) | SWG <br> LA7 | 37.7% | 36.1–39.4% | 35.7–39.8% | 35.3–40.2% | 34.6–41.0% |
 | [15 July 2019](2019-07-15-Piepoli.html) | Piepoli <br> Rai 1 | 36.0% | 33.3–38.8% | 32.6–39.6% | 31.9–40.3% | 30.7–41.7% |
 | [1–14 July 2019](2019-07-14-TermometroPolitico.html) | Termometro Politico | 37.9% | 36.2–39.7% | 35.7–40.2% | 35.3–40.6% | 34.5–41.4% |
@@ -83,11 +85,11 @@ The following table shows the probability mass function per percentage block of 
 | 33.5–34.5% | 12% | 92% |  |
 | 34.5–35.5% | 18% | 80% |  |
 | 35.5–36.5% | 20% | 62% | Median |
-| 36.5–37.5% | 18% | 42% |  |
-| 37.5–38.5% | 13% | 25% |  |
-| 38.5–39.5% | 8% | 12% |  |
+| 36.5–37.5% | 17% | 42% |  |
+| 37.5–38.5% | 13% | 24% |  |
+| 38.5–39.5% | 8% | 11% |  |
 | 39.5–40.5% | 3% | 4% |  |
-| 40.5–41.5% | 0.9% | 1.1% |  |
+| 40.5–41.5% | 0.8% | 1.0% |  |
 | 41.5–42.5% | 0.2% | 0.2% |  |
 | 42.5–43.5% | 0% | 0% |  |
 
@@ -101,6 +103,8 @@ Last result: **5** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 28 | 25–30 | 25–30 | 24–31 | 23–32 |
+| [17–18 July 2019](2019-07-18-Tecnè.html) | Tecnè <br> Rete 4 | 29 | 27–30 | 27–31 | 26–31 | 25–32 |
+| [16–18 July 2019](2019-07-18-Ipsos.html) | Ipsos <br> Corriere della Sera | 27 | 26–29 | 25–29 | 25–30 | 24–31 |
 | [10–15 July 2019](2019-07-15-SWG.html) | SWG <br> LA7 | 29 | 28–31 | 27–31 | 27–32 | 26–32 |
 | [15 July 2019](2019-07-15-Piepoli.html) | Piepoli <br> Rai 1 | 26 | 24–28 | 24–29 | 23–29 | 22–30 |
 | [1–14 July 2019](2019-07-14-TermometroPolitico.html) | Termometro Politico | 29 | 27–30 | 27–31 | 27–31 | 26–32 |
@@ -133,7 +137,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [2–3 June 2019](2019-06-03-Tecnè.html) | Tecnè <br> Rete 4 | 26 | 25–27 | 24–28 | 24–28 | 23–29 |
 | [29 May–3 June 2019](2019-06-03-SWG.html) | SWG <br> LA7 | 28 | 27–29 | 26–30 | 26–30 | 25–31 |
 | [1 June 2019](2019-06-01-EMG.html) | EMG <br> Affari Internazionali | 27 | 26–28 | 25–29 | 25–29 | 24–30 |
-| [30 May 2019](2019-05-30-Piepoli.html) | Piepoli <br> Rai 1 | 27 | 25–28 | 25–29 | 25–29 | 24–30 |
+| [30 May 2019](2019-05-30-Piepoli.html) | Piepoli <br> Rai 1 | 27 | 25–28 | 25–29 | 24–29 | 24–30 |
 | [28–29 May 2019](2019-05-29-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 28 | 26–29 | 26–29 | 26–30 | 25–31 |
 
 ### Probability Mass Function
@@ -165,12 +169,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 23 | 0.6% | 99.9% |  |
 | 24 | 3% | 99.2% |  |
 | 25 | 9% | 96% |  |
-| 26 | 16% | 88% |  |
-| 27 | 19% | 72% |  |
-| 28 | 21% | 53% | Median |
-| 29 | 18% | 32% |  |
+| 26 | 17% | 87% |  |
+| 27 | 20% | 70% |  |
+| 28 | 20% | 51% | Median |
+| 29 | 16% | 31% |  |
 | 30 | 10% | 15% |  |
-| 31 | 4% | 5% |  |
+| 31 | 3% | 4% |  |
 | 32 | 0.9% | 1.0% |  |
 | 33 | 0.1% | 0.1% |  |
 | 34 | 0% | 0% |  |

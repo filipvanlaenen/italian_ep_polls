@@ -10,7 +10,9 @@ Last result: **40.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23.1% | 21.2–25.2% | 20.7–25.9% | 20.3–26.5% | 19.5–27.7% |
+| N/A | [Poll Average](average.html) | 22.9% | 21.0–24.8% | 20.5–25.4% | 20.1–25.9% | 19.2–27.2% |
+| [17–18 July 2019](2019-07-18-Tecnè.html) | Tecnè <br> Rete 4 | 23.6% | 21.9–25.4% | 21.5–25.9% | 21.1–26.3% | 20.3–27.2% |
+| [16–18 July 2019](2019-07-18-Ipsos.html) | Ipsos <br> Corriere della Sera | 21.6% | 20.0–23.4% | 19.5–23.8% | 19.2–24.3% | 18.4–25.1% |
 | [10–15 July 2019](2019-07-15-SWG.html) | SWG <br> LA7 | 22.0% | 20.7–23.4% | 20.3–23.8% | 20.0–24.2% | 19.3–24.9% |
 | [15 July 2019](2019-07-15-Piepoli.html) | Piepoli <br> Rai 1 | 23.6% | 21.3–26.2% | 20.6–26.9% | 20.1–27.5% | 19.0–28.8% |
 | [1–14 July 2019](2019-07-14-TermometroPolitico.html) | Termometro Politico | 22.6% | 21.2–24.2% | 20.8–24.6% | 20.4–25.0% | 19.7–25.7% |
@@ -52,17 +54,18 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
+| 16.5–17.5% | 0% | 100% |  |
 | 17.5–18.5% | 0.1% | 100% |  |
-| 18.5–19.5% | 0.5% | 99.9% |  |
-| 19.5–20.5% | 3% | 99.4% |  |
-| 20.5–21.5% | 11% | 96% |  |
-| 21.5–22.5% | 21% | 85% |  |
-| 22.5–23.5% | 25% | 64% | Median |
-| 23.5–24.5% | 20% | 39% |  |
-| 24.5–25.5% | 11% | 18% |  |
-| 25.5–26.5% | 5% | 7% |  |
-| 26.5–27.5% | 2% | 2% |  |
-| 27.5–28.5% | 0.5% | 0.6% |  |
+| 18.5–19.5% | 0.9% | 99.9% |  |
+| 19.5–20.5% | 4% | 99.0% |  |
+| 20.5–21.5% | 13% | 95% |  |
+| 21.5–22.5% | 23% | 81% |  |
+| 22.5–23.5% | 26% | 58% | Median |
+| 23.5–24.5% | 19% | 32% |  |
+| 24.5–25.5% | 9% | 13% |  |
+| 25.5–26.5% | 3% | 4% |  |
+| 26.5–27.5% | 0.8% | 1.1% |  |
+| 27.5–28.5% | 0.2% | 0.3% |  |
 | 28.5–29.5% | 0.1% | 0.1% |  |
 | 29.5–30.5% | 0% | 0% |  |
 | 30.5–31.5% | 0% | 0% |  |
@@ -86,7 +89,9 @@ Last result: **31** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 15–18 | 15–19 | 14–19 | 13–20 |
+| N/A | [Poll Average](average.html) | 16 | 15–18 | 14–19 | 14–19 | 13–20 |
+| [17–18 July 2019](2019-07-18-Tecnè.html) | Tecnè <br> Rete 4 | 17 | 16–19 | 16–19 | 15–19 | 15–20 |
+| [16–18 July 2019](2019-07-18-Ipsos.html) | Ipsos <br> Corriere della Sera | 16 | 14–17 | 14–17 | 14–18 | 13–18 |
 | [10–15 July 2019](2019-07-15-SWG.html) | SWG <br> LA7 | 16 | 15–17 | 15–18 | 14–18 | 14–19 |
 | [15 July 2019](2019-07-15-Piepoli.html) | Piepoli <br> Rai 1 | 16 | 14–18 | 14–19 | 14–19 | 13–20 |
 | [1–14 July 2019](2019-07-14-TermometroPolitico.html) | Termometro Politico | 16 | 15–17 | 15–18 | 14–18 | 14–19 |
@@ -119,7 +124,7 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [2–3 June 2019](2019-06-03-Tecnè.html) | Tecnè <br> Rete 4 | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [29 May–3 June 2019](2019-06-03-SWG.html) | SWG <br> LA7 | 17 | 16–18 | 16–19 | 15–19 | 15–20 |
 | [1 June 2019](2019-06-01-EMG.html) | EMG <br> Affari Internazionali | 18 | 17–19 | 17–19 | 16–20 | 16–20 |
-| [30 May 2019](2019-05-30-Piepoli.html) | Piepoli <br> Rai 1 | 16 | 15–18 | 15–18 | 15–19 | 14–19 |
+| [30 May 2019](2019-05-30-Piepoli.html) | Piepoli <br> Rai 1 | 17 | 15–18 | 15–18 | 15–19 | 14–19 |
 | [28–29 May 2019](2019-05-29-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 17 | 16–18 | 16–19 | 15–19 | 15–20 |
 
 ### Probability Mass Function
@@ -130,15 +135,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 13 | 0.5% | 100% |  |
-| 14 | 4% | 99.5% |  |
-| 15 | 15% | 95% |  |
-| 16 | 25% | 80% |  |
-| 17 | 29% | 55% | Median |
-| 18 | 18% | 26% |  |
-| 19 | 7% | 9% |  |
-| 20 | 2% | 2% |  |
-| 21 | 0.3% | 0.3% |  |
+| 13 | 0.7% | 100% |  |
+| 14 | 6% | 99.3% |  |
+| 15 | 17% | 93% |  |
+| 16 | 28% | 76% | Median |
+| 17 | 28% | 48% |  |
+| 18 | 15% | 20% |  |
+| 19 | 4% | 5% |  |
+| 20 | 0.7% | 0.8% |  |
+| 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |
 | 23 | 0% | 0% |  |
 | 24 | 0% | 0% |  |
