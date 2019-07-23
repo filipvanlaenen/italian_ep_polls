@@ -80,7 +80,7 @@ Last result: **13** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 5–7 | 4–7 | 4–7 | 4–8 |
 | [17–18 July 2019](2019-07-18-Tecnè.html) | Tecnè <br> Rete 4 | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
-| [16–18 July 2019](2019-07-18-Ipsos.html) | Ipsos <br> Corriere della Sera | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
+| [16–18 July 2019](2019-07-18-Ipsos.html) | Ipsos <br> Corriere della Sera | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
 | [10–15 July 2019](2019-07-15-SWG.html) | SWG <br> LA7 | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
 | [15 July 2019](2019-07-15-Piepoli.html) | Piepoli <br> Rai 1 | 6 | 5–7 | 5–7 | 4–8 | 4–8 |
 | [1–14 July 2019](2019-07-14-TermometroPolitico.html) | Termometro Politico | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
@@ -126,9 +126,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0.1% | 100% |  |
 | 4 | 8% | 99.9% |  |
-| 5 | 43% | 92% | Median |
-| 6 | 33% | 49% |  |
-| 7 | 15% | 17% |  |
+| 5 | 42% | 92% | Median |
+| 6 | 34% | 49% |  |
+| 7 | 14% | 16% |  |
 | 8 | 2% | 2% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |

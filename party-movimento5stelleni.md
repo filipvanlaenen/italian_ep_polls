@@ -82,8 +82,8 @@ Last result: **17** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14 | 12–16 | 12–18 | 12–19 | 11–20 |
-| [17–18 July 2019](2019-07-18-Tecnè.html) | Tecnè <br> Rete 4 | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
-| [16–18 July 2019](2019-07-18-Ipsos.html) | Ipsos <br> Corriere della Sera | 13 | 12–14 | 12–15 | 11–15 | 11–16 |
+| [17–18 July 2019](2019-07-18-Tecnè.html) | Tecnè <br> Rete 4 | 14 | 12–15 | 12–15 | 12–15 | 11–16 |
+| [16–18 July 2019](2019-07-18-Ipsos.html) | Ipsos <br> Corriere della Sera | 13 | 12–15 | 12–15 | 11–15 | 11–16 |
 | [10–15 July 2019](2019-07-15-SWG.html) | SWG <br> LA7 | 14 | 13–15 | 13–15 | 12–15 | 12–16 |
 | [15 July 2019](2019-07-15-Piepoli.html) | Piepoli <br> Rai 1 | 13 | 11–14 | 11–15 | 11–15 | 10–16 |
 | [1–14 July 2019](2019-07-14-TermometroPolitico.html) | Termometro Politico | 13 | 12–14 | 12–14 | 11–15 | 11–15 |
@@ -130,7 +130,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0.2% | 100% |  |
 | 11 | 2% | 99.7% |  |
 | 12 | 12% | 98% |  |
-| 13 | 30% | 85% |  |
+| 13 | 30% | 86% |  |
 | 14 | 30% | 55% | Median |
 | 15 | 14% | 25% |  |
 | 16 | 3% | 11% |  |
