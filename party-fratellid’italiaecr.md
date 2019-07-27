@@ -11,6 +11,7 @@ Last result: **3.7%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6.5% | 5.4–7.7% | 5.1–8.2% | 4.8–8.6% | 4.2–9.5% |
+| [24–25 July 2019](2019-07-25-Tecnè.html) | Tecnè <br> Dire | 6.3% | 5.4–7.4% | 5.2–7.7% | 5.0–8.0% | 4.6–8.6% |
 | [22–24 July 2019](2019-07-24-Demopolis.html) | Demopolis <br> LA7 | 6.7% | 6.0–7.6% | 5.7–7.9% | 5.6–8.1% | 5.2–8.6% |
 | [17–22 July 2019](2019-07-22-SWG.html) | SWG <br> LA7 | 6.3% | 5.6–7.2% | 5.4–7.5% | 5.2–7.7% | 4.9–8.1% |
 | [22 July 2019](2019-07-22-Euromedia.html) | Euromedia | 6.1% | 5.2–7.2% | 5.0–7.5% | 4.8–7.8% | 4.4–8.3% |
@@ -61,9 +62,9 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0.1% | 100% |  |
 | 3.5–4.5% | 1.3% | 99.9% | Last Result |
-| 4.5–5.5% | 11% | 98.6% |  |
-| 5.5–6.5% | 39% | 87% |  |
-| 6.5–7.5% | 35% | 49% | Median |
+| 4.5–5.5% | 12% | 98.6% |  |
+| 5.5–6.5% | 40% | 87% |  |
+| 6.5–7.5% | 35% | 47% | Median |
 | 7.5–8.5% | 10% | 13% |  |
 | 8.5–9.5% | 2% | 3% |  |
 | 9.5–10.5% | 0.4% | 0.4% |  |
@@ -79,23 +80,24 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
+| [24–25 July 2019](2019-07-25-Tecnè.html) | Tecnè <br> Dire | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
 | [22–24 July 2019](2019-07-24-Demopolis.html) | Demopolis <br> LA7 | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [17–22 July 2019](2019-07-22-SWG.html) | SWG <br> LA7 | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [22 July 2019](2019-07-22-Euromedia.html) | Euromedia | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
 | [16–18 July 2019](2019-07-18-TermometroPolitico.html) | Termometro Politico | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [17–18 July 2019](2019-07-18-Tecnè.html) | Tecnè <br> Rete 4 | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [16–18 July 2019](2019-07-18-Ipsos.html) | Ipsos <br> Corriere della Sera | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
-| [15–18 July 2019](2019-07-18-GPF.html) | GPF <br> La Notizia | 5 | 4–6 | 3–6 | 3–6 | 3–6 |
+| [15–18 July 2019](2019-07-18-GPF.html) | GPF <br> La Notizia | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
 | [10–15 July 2019](2019-07-15-SWG.html) | SWG <br> LA7 | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [15 July 2019](2019-07-15-Piepoli.html) | Piepoli <br> Rai 1 | 4 | 3–5 | 3–6 | 0–6 | 0–6 |
-| [9–12 July 2019](2019-07-12-TermometroPolitico.html) | Termometro Politico | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
+| [9–12 July 2019](2019-07-12-TermometroPolitico.html) | Termometro Politico | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [10–11 July 2019](2019-07-11-Tecnè.html) | Tecnè <br> Rete 4 | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
 | [8–10 July 2019](2019-07-10-GPF.html) | GPF <br> Rete 4 | 5 | 4–6 | 4–6 | 3–6 | 3–7 |
 | [8–10 July 2019](2019-07-10-DemosPi.html) | Demos & Pi | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
 | [7–8 July 2019](2019-07-08-Tecnè.html) | Tecnè <br> Rete 4 | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [3–8 July 2019](2019-07-08-SWG.html) | SWG <br> LA7 | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [5 July 2019](2019-07-05-NotoSondaggi.html) | Noto Sondaggi <br> Quotidiano Nazionale | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
-| [1–4 July 2019](2019-07-04-TermometroPolitico.html) | Termometro Politico <br> LA7 | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
+| [1–4 July 2019](2019-07-04-TermometroPolitico.html) | Termometro Politico <br> LA7 | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
 | [29 June–4 July 2019](2019-07-04-BiDiMedia.html) | BiDiMedia | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | [26 June–1 July 2019](2019-07-01-SWG.html) | SWG <br> LA7 | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [27 June 2019](2019-06-27-EMG.html) | EMG <br> Rai 3 | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
@@ -133,10 +135,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 99.7% |  |
 | 2 | 0% | 99.7% |  |
 | 3 | 2% | 99.7% |  |
-| 4 | 21% | 98% |  |
-| 5 | 53% | 76% | Median |
-| 6 | 19% | 23% |  |
-| 7 | 3% | 4% |  |
+| 4 | 22% | 98% |  |
+| 5 | 55% | 75% | Median |
+| 6 | 17% | 21% |  |
+| 7 | 3% | 3% |  |
 | 8 | 0.3% | 0.3% |  |
 | 9 | 0% | 0% |  |
 
