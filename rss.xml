@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 27 Jul 2019 15:38:45 +0200</pubDate>
+    <pubDate>Sat, 27 Jul 2019 19:03:22 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Tecnè for Dire, 24–25 July 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-07-25-Tecnè.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (NI): 12–16 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 15–19 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ID): 27–32 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 5–7 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 4–6 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-07-25-Tecnè-seats.png"
+        length="144121"
+        type="image/png"/>
+      <pubDate>Sat, 27 Jul 2019 19:03:22 +0200</pubDate>
+      <dc:date>2019-07-27T19:03:22.739871+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Tecnè for Dire, 24–25 July 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-07-25-Tecnè.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-07-25-Tecnè-coalitions-seats.png"
+        length="129695"
+        type="image/png"/>
+      <pubDate>Sat, 27 Jul 2019 19:03:22 +0200</pubDate>
+      <dc:date>2019-07-27T19:03:22.739871+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Tecnè for Dire, 24–25 July 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-07-25-Tecnè.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-07-25-Tecnè.png"
         length="203362"
         type="image/png"/>
-      <pubDate>Sat, 27 Jul 2019 15:38:45 +0200</pubDate>
-      <dc:date>2019-07-27T15:38:45.239494+02:00</dc:date>
+      <pubDate>Sat, 27 Jul 2019 19:03:22 +0200</pubDate>
+      <dc:date>2019-07-27T19:03:22.739871+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Demopolis for LA7, 22–24 July 2019 – Voting Intentions</title>
@@ -1189,6 +1209,6 @@
       <pubDate>Sat, 29 Jun 2019 16:56:02 +0200</pubDate>
       <dc:date>2019-06-29T16:56:02.59202+02:00</dc:date>
     </item>
-    <dc:date>2019-07-27T15:38:45.239494+02:00</dc:date>
+    <dc:date>2019-07-27T19:03:22.739871+02:00</dc:date>
   </channel>
 </rss>
