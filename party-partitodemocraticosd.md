@@ -10,24 +10,24 @@ Last result: **40.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.7% | 20.4–24.8% | 19.7–25.4% | 19.0–26.0% | 18.0–27.2% |
+| N/A | [Poll Average](average.html) | 22.8% | 20.5–24.8% | 19.8–25.4% | 19.2–25.9% | 18.1–27.1% |
 | [22–24 July 2019](2019-07-24-Demopolis.html) | Demopolis <br> LA7 | 22.5% | 21.2–24.0% | 20.8–24.4% | 20.5–24.7% | 19.9–25.4% |
 | [17–22 July 2019](2019-07-22-SWG.html) | SWG <br> LA7 | 21.5% | 20.2–23.0% | 19.8–23.4% | 19.5–23.7% | 18.9–24.4% |
 | [22 July 2019](2019-07-22-Euromedia.html) | Euromedia | 20.0% | 18.4–21.7% | 18.0–22.2% | 17.6–22.6% | 16.9–23.4% |
-| [16–18 July 2019](2019-07-18-TermometroPolitico.html) | Termometro Politico | 23.1% | N/A | N/A | N/A | N/A |
+| [16–18 July 2019](2019-07-18-TermometroPolitico.html) | Termometro Politico | 23.1% | 21.7–24.6% | 21.3–25.0% | 20.9–25.4% | 20.3–26.1% |
 | [17–18 July 2019](2019-07-18-Tecnè.html) | Tecnè <br> Rete 4 | 23.6% | 21.9–25.4% | 21.5–25.9% | 21.1–26.3% | 20.3–27.2% |
 | [16–18 July 2019](2019-07-18-Ipsos.html) | Ipsos <br> Corriere della Sera | 21.6% | 20.0–23.4% | 19.5–23.8% | 19.2–24.3% | 18.4–25.1% |
-| [15–18 July 2019](2019-07-18-GPF.html) | GPF <br> La Notizia | 22.7% | N/A | N/A | N/A | N/A |
+| [15–18 July 2019](2019-07-18-GPF.html) | GPF <br> La Notizia | 22.7% | 21.0–24.6% | 20.6–25.1% | 20.1–25.6% | 19.3–26.5% |
 | [10–15 July 2019](2019-07-15-SWG.html) | SWG <br> LA7 | 22.0% | 20.7–23.4% | 20.3–23.8% | 20.0–24.2% | 19.3–24.9% |
 | [15 July 2019](2019-07-15-Piepoli.html) | Piepoli <br> Rai 1 | 23.6% | 21.3–26.2% | 20.6–26.9% | 20.1–27.5% | 19.0–28.8% |
-| [9–12 July 2019](2019-07-12-TermometroPolitico.html) | Termometro Politico | 22.6% | N/A | N/A | N/A | N/A |
+| [9–12 July 2019](2019-07-12-TermometroPolitico.html) | Termometro Politico | 22.6% | 21.2–24.2% | 20.8–24.6% | 20.4–25.0% | 19.7–25.7% |
 | [10–11 July 2019](2019-07-11-Tecnè.html) | Tecnè <br> Rete 4 | 23.5% | 21.8–25.3% | 21.4–25.8% | 21.0–26.2% | 20.2–27.1% |
 | [8–10 July 2019](2019-07-10-GPF.html) | GPF <br> Rete 4 | 22.4% | 20.6–24.4% | 20.1–25.0% | 19.7–25.4% | 18.8–26.4% |
 | [8–10 July 2019](2019-07-10-DemosPi.html) | Demos & Pi | 22.5% | 20.9–24.3% | 20.4–24.8% | 20.0–25.2% | 19.3–26.0% |
 | [7–8 July 2019](2019-07-08-Tecnè.html) | Tecnè <br> Rete 4 | 23.4% | 21.7–25.2% | 21.3–25.7% | 20.9–26.1% | 20.1–27.0% |
 | [3–8 July 2019](2019-07-08-SWG.html) | SWG <br> LA7 | 22.7% | 21.4–24.2% | 21.0–24.6% | 20.7–24.9% | 20.0–25.6% |
 | [5 July 2019](2019-07-05-NotoSondaggi.html) | Noto Sondaggi <br> Quotidiano Nazionale | 23.9% | 22.2–25.7% | 21.8–26.2% | 21.4–26.6% | 20.6–27.5% |
-| [1–4 July 2019](2019-07-04-TermometroPolitico.html) | Termometro Politico <br> LA7 | 22.9% | N/A | N/A | N/A | N/A |
+| [1–4 July 2019](2019-07-04-TermometroPolitico.html) | Termometro Politico <br> LA7 | 22.9% | 21.6–24.2% | 21.2–24.6% | 20.9–25.0% | 20.3–25.6% |
 | [29 June–4 July 2019](2019-07-04-BiDiMedia.html) | BiDiMedia | 23.5% | 22.2–24.9% | 21.8–25.2% | 21.5–25.6% | 20.9–26.2% |
 | [26 June–1 July 2019](2019-07-01-SWG.html) | SWG <br> LA7 | 22.6% | 21.2–24.0% | 20.9–24.4% | 20.5–24.8% | 19.9–25.5% |
 | [27 June 2019](2019-06-27-EMG.html) | EMG <br> Rai 3 | 23.4% | 22.1–24.7% | 21.8–25.0% | 21.5–25.3% | 20.9–26.0% |
@@ -61,16 +61,16 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0.2% | 100% |  |
-| 17.5–18.5% | 1.0% | 99.8% |  |
-| 18.5–19.5% | 3% | 98.7% |  |
-| 19.5–20.5% | 7% | 95% |  |
-| 20.5–21.5% | 13% | 88% |  |
-| 21.5–22.5% | 20% | 75% |  |
-| 22.5–23.5% | 23% | 54% | Median |
-| 23.5–24.5% | 18% | 31% |  |
-| 24.5–25.5% | 9% | 13% |  |
+| 17.5–18.5% | 0.9% | 99.8% |  |
+| 18.5–19.5% | 3% | 98.9% |  |
+| 19.5–20.5% | 6% | 96% |  |
+| 20.5–21.5% | 13% | 90% |  |
+| 21.5–22.5% | 21% | 77% |  |
+| 22.5–23.5% | 25% | 56% | Median |
+| 23.5–24.5% | 19% | 31% |  |
+| 24.5–25.5% | 9% | 12% |  |
 | 25.5–26.5% | 3% | 4% |  |
-| 26.5–27.5% | 0.9% | 1.2% |  |
+| 26.5–27.5% | 0.8% | 1.1% |  |
 | 27.5–28.5% | 0.2% | 0.3% |  |
 | 28.5–29.5% | 0.1% | 0.1% |  |
 | 29.5–30.5% | 0% | 0% |  |
@@ -95,24 +95,24 @@ Last result: **31** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 14–18 | 14–18 | 13–19 | 13–20 |
-| [22–24 July 2019](2019-07-24-Demopolis.html) | Demopolis <br> LA7 | 15 | 15–17 | 15–17 | 15–17 | 14–17 |
-| [17–22 July 2019](2019-07-22-SWG.html) | SWG <br> LA7 | 15 | 13–16 | 13–16 | 13–16 | 13–18 |
-| [22 July 2019](2019-07-22-Euromedia.html) | Euromedia | 14 | 13–14 | 13–15 | 13–16 | 13–16 |
-| [16–18 July 2019](2019-07-18-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 16 | 15–18 | 14–18 | 14–19 | 13–20 |
+| [22–24 July 2019](2019-07-24-Demopolis.html) | Demopolis <br> LA7 | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
+| [17–22 July 2019](2019-07-22-SWG.html) | SWG <br> LA7 | 16 | 15–17 | 14–17 | 14–17 | 13–18 |
+| [22 July 2019](2019-07-22-Euromedia.html) | Euromedia | 14 | 13–16 | 13–16 | 12–16 | 12–17 |
+| [16–18 July 2019](2019-07-18-TermometroPolitico.html) | Termometro Politico | 17 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [17–18 July 2019](2019-07-18-Tecnè.html) | Tecnè <br> Rete 4 | 17 | 16–19 | 16–19 | 15–20 | 15–20 |
 | [16–18 July 2019](2019-07-18-Ipsos.html) | Ipsos <br> Corriere della Sera | 15 | 14–17 | 14–17 | 13–18 | 13–18 |
-| [15–18 July 2019](2019-07-18-GPF.html) | GPF <br> La Notizia |  |  |  |  |  |
+| [15–18 July 2019](2019-07-18-GPF.html) | GPF <br> La Notizia | 16 | 15–18 | 14–18 | 14–19 | 13–19 |
 | [10–15 July 2019](2019-07-15-SWG.html) | SWG <br> LA7 | 16 | 15–17 | 15–18 | 14–18 | 14–19 |
 | [15 July 2019](2019-07-15-Piepoli.html) | Piepoli <br> Rai 1 | 16 | 14–18 | 14–19 | 14–19 | 13–20 |
-| [9–12 July 2019](2019-07-12-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [9–12 July 2019](2019-07-12-TermometroPolitico.html) | Termometro Politico | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
 | [10–11 July 2019](2019-07-11-Tecnè.html) | Tecnè <br> Rete 4 | 17 | 16–19 | 15–19 | 15–19 | 14–20 |
 | [8–10 July 2019](2019-07-10-GPF.html) | GPF <br> Rete 4 | 16 | 15–18 | 14–18 | 14–19 | 13–19 |
 | [8–10 July 2019](2019-07-10-DemosPi.html) | Demos & Pi | 16 | 15–18 | 15–18 | 14–18 | 14–19 |
 | [7–8 July 2019](2019-07-08-Tecnè.html) | Tecnè <br> Rete 4 | 16 | 15–17 | 14–18 | 14–18 | 14–19 |
 | [3–8 July 2019](2019-07-08-SWG.html) | SWG <br> LA7 | 17 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [5 July 2019](2019-07-05-NotoSondaggi.html) | Noto Sondaggi <br> Quotidiano Nazionale | 18 | 16–19 | 16–19 | 15–20 | 15–20 |
-| [1–4 July 2019](2019-07-04-TermometroPolitico.html) | Termometro Politico <br> LA7 |  |  |  |  |  |
+| [1–4 July 2019](2019-07-04-TermometroPolitico.html) | Termometro Politico <br> LA7 | 16 | 15–17 | 15–18 | 15–18 | 15–18 |
 | [29 June–4 July 2019](2019-07-04-BiDiMedia.html) | BiDiMedia | 17 | 16–18 | 16–18 | 15–19 | 15–19 |
 | [26 June–1 July 2019](2019-07-01-SWG.html) | SWG <br> LA7 | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
 | [27 June 2019](2019-06-27-EMG.html) | EMG <br> Rai 3 | 17 | 16–18 | 16–19 | 16–19 | 15–19 |
@@ -146,15 +146,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 0.1% | 100% |  |
-| 13 | 4% | 99.9% |  |
-| 14 | 11% | 96% |  |
-| 15 | 24% | 85% |  |
-| 16 | 18% | 61% | Median |
-| 17 | 24% | 43% |  |
-| 18 | 15% | 19% |  |
-| 19 | 4% | 5% |  |
-| 20 | 0.8% | 0.9% |  |
+| 12 | 0.3% | 100% |  |
+| 13 | 2% | 99.7% |  |
+| 14 | 8% | 98% |  |
+| 15 | 19% | 90% |  |
+| 16 | 26% | 71% | Median |
+| 17 | 27% | 45% |  |
+| 18 | 14% | 19% |  |
+| 19 | 4% | 4% |  |
+| 20 | 0.7% | 0.8% |  |
 | 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |
 | 23 | 0% | 0% |  |
