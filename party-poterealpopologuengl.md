@@ -11,18 +11,23 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.6% | 0.3–0.9% | 0.3–1.0% | 0.2–1.2% | 0.2–1.4% |
+| [22–24 July 2019](2019-07-24-Demopolis.html) | Demopolis <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
+| [17–22 July 2019](2019-07-22-SWG.html) | SWG <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
+| [22 July 2019](2019-07-22-Euromedia.html) | Euromedia | 0.0% | N/A | N/A | N/A | N/A |
+| [16–18 July 2019](2019-07-18-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
 | [17–18 July 2019](2019-07-18-Tecnè.html) | Tecnè <br> Rete 4 | 0.0% | N/A | N/A | N/A | N/A |
 | [16–18 July 2019](2019-07-18-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.0% | N/A | N/A | N/A | N/A |
+| [15–18 July 2019](2019-07-18-GPF.html) | GPF <br> La Notizia | 0.0% | N/A | N/A | N/A | N/A |
 | [10–15 July 2019](2019-07-15-SWG.html) | SWG <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
 | [15 July 2019](2019-07-15-Piepoli.html) | Piepoli <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
-| [1–14 July 2019](2019-07-14-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
+| [9–12 July 2019](2019-07-12-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
 | [10–11 July 2019](2019-07-11-Tecnè.html) | Tecnè <br> Rete 4 | 0.0% | N/A | N/A | N/A | N/A |
 | [8–10 July 2019](2019-07-10-GPF.html) | GPF <br> Rete 4 | 0.0% | N/A | N/A | N/A | N/A |
 | [8–10 July 2019](2019-07-10-DemosPi.html) | Demos & Pi | 0.0% | N/A | N/A | N/A | N/A |
 | [7–8 July 2019](2019-07-08-Tecnè.html) | Tecnè <br> Rete 4 | 0.0% | N/A | N/A | N/A | N/A |
 | [3–8 July 2019](2019-07-08-SWG.html) | SWG <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
-| [1–5 July 2019](2019-07-05-TermometroPolitico.html) | Termometro Politico <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
 | [5 July 2019](2019-07-05-NotoSondaggi.html) | Noto Sondaggi <br> Quotidiano Nazionale | 0.5% | 0.3–0.9% | 0.3–1.1% | 0.2–1.2% | 0.2–1.4% |
+| [1–4 July 2019](2019-07-04-TermometroPolitico.html) | Termometro Politico <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
 | [29 June–4 July 2019](2019-07-04-BiDiMedia.html) | BiDiMedia | 0.0% | N/A | N/A | N/A | N/A |
 | [26 June–1 July 2019](2019-07-01-SWG.html) | SWG <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
 | [27 June 2019](2019-06-27-EMG.html) | EMG <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
@@ -69,18 +74,23 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [22–24 July 2019](2019-07-24-Demopolis.html) | Demopolis <br> LA7 |  |  |  |  |  |
+| [17–22 July 2019](2019-07-22-SWG.html) | SWG <br> LA7 |  |  |  |  |  |
+| [22 July 2019](2019-07-22-Euromedia.html) | Euromedia |  |  |  |  |  |
+| [16–18 July 2019](2019-07-18-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [17–18 July 2019](2019-07-18-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
 | [16–18 July 2019](2019-07-18-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
+| [15–18 July 2019](2019-07-18-GPF.html) | GPF <br> La Notizia |  |  |  |  |  |
 | [10–15 July 2019](2019-07-15-SWG.html) | SWG <br> LA7 |  |  |  |  |  |
 | [15 July 2019](2019-07-15-Piepoli.html) | Piepoli <br> Rai 1 |  |  |  |  |  |
-| [1–14 July 2019](2019-07-14-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [9–12 July 2019](2019-07-12-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [10–11 July 2019](2019-07-11-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
 | [8–10 July 2019](2019-07-10-GPF.html) | GPF <br> Rete 4 |  |  |  |  |  |
 | [8–10 July 2019](2019-07-10-DemosPi.html) | Demos & Pi |  |  |  |  |  |
 | [7–8 July 2019](2019-07-08-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
 | [3–8 July 2019](2019-07-08-SWG.html) | SWG <br> LA7 |  |  |  |  |  |
-| [1–5 July 2019](2019-07-05-TermometroPolitico.html) | Termometro Politico <br> LA7 |  |  |  |  |  |
 | [5 July 2019](2019-07-05-NotoSondaggi.html) | Noto Sondaggi <br> Quotidiano Nazionale | 0 | 0 | 0 | 0 | 0 |
+| [1–4 July 2019](2019-07-04-TermometroPolitico.html) | Termometro Politico <br> LA7 |  |  |  |  |  |
 | [29 June–4 July 2019](2019-07-04-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
 | [26 June–1 July 2019](2019-07-01-SWG.html) | SWG <br> LA7 |  |  |  |  |  |
 | [27 June 2019](2019-06-27-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
