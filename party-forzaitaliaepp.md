@@ -85,7 +85,7 @@ Last result: **13** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 5–7 | 4–7 | 4–7 | 4–8 |
-| [24–25 July 2019](2019-07-25-Tecnè.html) | Tecnè <br> Dire | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
+| [24–25 July 2019](2019-07-25-Tecnè.html) | Tecnè <br> Dire | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [22–24 July 2019](2019-07-24-Demopolis.html) | Demopolis <br> LA7 | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [17–22 July 2019](2019-07-22-SWG.html) | SWG <br> LA7 | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [22 July 2019](2019-07-22-Euromedia.html) | Euromedia | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
