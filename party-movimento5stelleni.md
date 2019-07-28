@@ -90,7 +90,7 @@ Last result: **17** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 14 | 12–16 | 12–18 | 12–19 | 11–20 |
 | [24–25 July 2019](2019-07-25-Tecnè.html) | Tecnè <br> Dire | 14 | 12–15 | 12–15 | 12–16 | 11–16 |
 | [22–24 July 2019](2019-07-24-Demopolis.html) | Demopolis <br> LA7 | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
-| [17–22 July 2019](2019-07-22-SWG.html) | SWG <br> LA7 | 14 | 13–15 | 13–16 | 13–16 | 12–16 |
+| [17–22 July 2019](2019-07-22-SWG.html) | SWG <br> LA7 | 14 | 13–15 | 13–16 | 13–16 | 12–17 |
 | [22 July 2019](2019-07-22-Euromedia.html) | Euromedia | 14 | 13–15 | 12–15 | 12–16 | 11–16 |
 | [16–18 July 2019](2019-07-18-TermometroPolitico.html) | Termometro Politico | 13 | 12–14 | 12–14 | 11–15 | 11–15 |
 | [17–18 July 2019](2019-07-18-Tecnè.html) | Tecnè <br> Rete 4 | 14 | 12–15 | 12–15 | 12–15 | 11–16 |

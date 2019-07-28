@@ -108,10 +108,10 @@ Last result: **5** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28 | 25–30 | 25–30 | 24–31 | 23–32 |
+| N/A | [Poll Average](average.html) | 28 | 25–30 | 25–31 | 24–31 | 23–32 |
 | [24–25 July 2019](2019-07-25-Tecnè.html) | Tecnè <br> Dire | 30 | 28–31 | 27–32 | 27–32 | 26–33 |
 | [22–24 July 2019](2019-07-24-Demopolis.html) | Demopolis <br> LA7 | 26 | 25–27 | 25–28 | 24–28 | 24–29 |
-| [17–22 July 2019](2019-07-22-SWG.html) | SWG <br> LA7 | 29 | 28–30 | 27–31 | 27–31 | 26–33 |
+| [17–22 July 2019](2019-07-22-SWG.html) | SWG <br> LA7 | 29 | 28–31 | 27–31 | 27–32 | 26–32 |
 | [22 July 2019](2019-07-22-Euromedia.html) | Euromedia | 28 | 26–29 | 26–30 | 25–30 | 24–31 |
 | [16–18 July 2019](2019-07-18-TermometroPolitico.html) | Termometro Politico | 29 | 27–30 | 27–30 | 27–31 | 26–31 |
 | [17–18 July 2019](2019-07-18-Tecnè.html) | Tecnè <br> Rete 4 | 29 | 27–30 | 27–31 | 26–31 | 25–32 |
@@ -187,8 +187,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 29 | 17% | 32% |  |
 | 30 | 10% | 15% |  |
 | 31 | 4% | 5% |  |
-| 32 | 1.0% | 1.2% |  |
-| 33 | 0.2% | 0.2% |  |
+| 32 | 1.1% | 1.2% |  |
+| 33 | 0.1% | 0.2% |  |
 | 34 | 0% | 0% |  |
 
 
