@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 28 Jul 2019 12:37:56 +0200</pubDate>
+    <pubDate>Sun, 28 Jul 2019 12:57:19 +0200</pubDate>
     <item>
       <title>Opinion Poll by Tecnè for Dire, 24–25 July 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-07-25-Tecnè.html#seats</link>
@@ -70,14 +70,34 @@
       <dc:date>2019-07-28T12:31:35.482025+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by SWG for LA7, 17–22 July 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-07-22-SWG.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (NI): 13–16 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 14–17 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ID): 27–32 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 4–6 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 4–6 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-07-22-SWG-seats.png"
+        length="137484"
+        type="image/png"/>
+      <pubDate>Sun, 28 Jul 2019 12:57:19 +0200</pubDate>
+      <dc:date>2019-07-28T12:57:19.56346+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SWG for LA7, 17–22 July 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-07-22-SWG.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-07-22-SWG-coalitions-seats.png"
+        length="121732"
+        type="image/png"/>
+      <pubDate>Sun, 28 Jul 2019 12:57:19 +0200</pubDate>
+      <dc:date>2019-07-28T12:57:19.56346+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by SWG for LA7, 17–22 July 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-07-22-SWG.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (NI): 16.6–20.6%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 19.5–23.7%&lt;/li&gt;&lt;li&gt;Lega Nord (ID): 35.4–40.3%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 5.4–8.0%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 5.2–7.7%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 1.4–2.9%&lt;/li&gt;&lt;li&gt;Più Europa (RE): 2.1–3.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-07-22-SWG.png"
         length="203597"
         type="image/png"/>
-      <pubDate>Sun, 28 Jul 2019 12:37:56 +0200</pubDate>
-      <dc:date>2019-07-28T12:37:56.396647+02:00</dc:date>
+      <pubDate>Sun, 28 Jul 2019 12:57:19 +0200</pubDate>
+      <dc:date>2019-07-28T12:57:19.56346+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Euromedia, 22 July 2019 – Seat Projections for the Parties</title>
@@ -1249,6 +1269,6 @@
       <pubDate>Sat, 29 Jun 2019 16:56:02 +0200</pubDate>
       <dc:date>2019-06-29T16:56:02.59202+02:00</dc:date>
     </item>
-    <dc:date>2019-07-28T12:37:56.396647+02:00</dc:date>
+    <dc:date>2019-07-28T12:57:19.56346+02:00</dc:date>
   </channel>
 </rss>
