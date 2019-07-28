@@ -87,7 +87,7 @@ Last result: **13** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 5 | 5–7 | 4–7 | 4–7 | 4–8 |
 | [24–25 July 2019](2019-07-25-Tecnè.html) | Tecnè <br> Dire | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [22–24 July 2019](2019-07-24-Demopolis.html) | Demopolis <br> LA7 | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
-| [17–22 July 2019](2019-07-22-SWG.html) | SWG <br> LA7 | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
+| [17–22 July 2019](2019-07-22-SWG.html) | SWG <br> LA7 | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [22 July 2019](2019-07-22-Euromedia.html) | Euromedia | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
 | [16–18 July 2019](2019-07-18-TermometroPolitico.html) | Termometro Politico | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [17–18 July 2019](2019-07-18-Tecnè.html) | Tecnè <br> Rete 4 | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
@@ -137,8 +137,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0.1% | 100% |  |
-| 4 | 9% | 99.9% |  |
-| 5 | 42% | 91% | Median |
+| 4 | 10% | 99.9% |  |
+| 5 | 42% | 90% | Median |
 | 6 | 33% | 49% |  |
 | 7 | 14% | 16% |  |
 | 8 | 2% | 2% |  |

@@ -101,7 +101,7 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [22–24 July 2019](2019-07-24-Demopolis.html) | Demopolis <br> LA7 | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
 | [17–22 July 2019](2019-07-22-SWG.html) | SWG <br> LA7 | 16 | 15–17 | 14–17 | 14–17 | 13–18 |
 | [22 July 2019](2019-07-22-Euromedia.html) | Euromedia | 14 | 13–16 | 13–16 | 12–16 | 12–17 |
-| [16–18 July 2019](2019-07-18-TermometroPolitico.html) | Termometro Politico | 17 | 15–18 | 15–18 | 15–18 | 14–19 |
+| [16–18 July 2019](2019-07-18-TermometroPolitico.html) | Termometro Politico | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [17–18 July 2019](2019-07-18-Tecnè.html) | Tecnè <br> Rete 4 | 17 | 16–19 | 16–19 | 15–20 | 15–20 |
 | [16–18 July 2019](2019-07-18-Ipsos.html) | Ipsos <br> Corriere della Sera | 15 | 14–17 | 14–17 | 13–18 | 13–18 |
 | [15–18 July 2019](2019-07-18-GPF.html) | GPF <br> La Notizia | 16 | 15–18 | 15–18 | 14–19 | 14–19 |
@@ -151,9 +151,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0.3% | 100% |  |
 | 13 | 2% | 99.7% |  |
 | 14 | 8% | 98% |  |
-| 15 | 20% | 90% |  |
-| 16 | 27% | 70% | Median |
-| 17 | 27% | 43% |  |
+| 15 | 19% | 90% |  |
+| 16 | 28% | 71% | Median |
+| 17 | 26% | 43% |  |
 | 18 | 13% | 17% |  |
 | 19 | 3% | 4% |  |
 | 20 | 0.5% | 0.6% |  |
