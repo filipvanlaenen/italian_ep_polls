@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 02 Aug 2019 11:29:20 +0200</pubDate>
+    <pubDate>Fri, 02 Aug 2019 14:08:59 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by SWG for LA7, 24–29 July 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-07-29-SWG.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (NI): 12–15 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 14–18 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ID): 27–31 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 4–6 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 4–6 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-07-29-SWG-seats.png"
+        length="138368"
+        type="image/png"/>
+      <pubDate>Fri, 02 Aug 2019 14:08:59 +0200</pubDate>
+      <dc:date>2019-08-02T14:08:59.975499+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SWG for LA7, 24–29 July 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-07-29-SWG.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-07-29-SWG-coalitions-seats.png"
+        length="124152"
+        type="image/png"/>
+      <pubDate>Fri, 02 Aug 2019 14:08:59 +0200</pubDate>
+      <dc:date>2019-08-02T14:08:59.975499+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by SWG for LA7, 24–29 July 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-07-29-SWG.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-07-29-SWG.png"
         length="204984"
         type="image/png"/>
-      <pubDate>Fri, 02 Aug 2019 11:29:20 +0200</pubDate>
-      <dc:date>2019-08-02T11:29:20.41623+02:00</dc:date>
+      <pubDate>Fri, 02 Aug 2019 14:08:59 +0200</pubDate>
+      <dc:date>2019-08-02T14:08:59.975499+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Tecnè for Dire, 24–25 July 2019 – Seat Projections for the Parties</title>
@@ -1279,6 +1299,6 @@
       <pubDate>Sat, 29 Jun 2019 16:56:02 +0200</pubDate>
       <dc:date>2019-06-29T16:56:02.59202+02:00</dc:date>
     </item>
-    <dc:date>2019-08-02T11:29:20.41623+02:00</dc:date>
+    <dc:date>2019-08-02T14:08:59.975499+02:00</dc:date>
   </channel>
 </rss>
