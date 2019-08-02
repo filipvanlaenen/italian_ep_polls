@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/italian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2019-07-28T12:57:19.56346+02:00</updated>
+  <updated>2019-08-02T14:08:59.975499+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Movimento 5 Stelle (NI): 15.5–19.3%, 12–15 seats</li><li>Partito Democratico (S&amp;D): 20.0–24.2%, 14–18 seats</li><li>Lega Nord (ID): 35.6–40.5%, 27–31 seats</li><li>Forza Italia (EPP): 5.4–7.9%, 4–6 seats</li><li>Fratelli d’Italia (ECR): 5.4–8.0%, 4–6 seats</li><li>Liberi e Uguali (S&amp;D): 1.5–3.0%, 0 seats</li><li>Più Europa (RE): 2.0–3.7%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/italian_ep_polls/2019-07-29-SWG.html</id>
+    <link href="https://filipvanlaenen.github.io/italian_ep_polls/2019-07-29-SWG.html"/>
+    <title>Opinion Poll by SWG for LA7, 24–29 July 2019</title>
+    <updated>2019-08-02T14:08:59.975499+02:00</updated>
+    <dc:date>2019-08-02T14:08:59.975499+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Movimento 5 Stelle (NI): 15.3–20.0%, 12–16 seats</li><li>Partito Democratico (S&amp;D): 20.2–25.4%, 15–19 seats</li><li>Lega Nord (ID): 35.1–41.2%, 27–32 seats</li><li>Forza Italia (EPP): 6.3–9.6%, 5–7 seats</li><li>Fratelli d’Italia (ECR): 5.0–8.0%, 4–6 seats</li><li>Liberi e Uguali (S&amp;D): 0.8–2.3%, 0 seats</li><li>Più Europa (RE): 1.7–3.7%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/italian_ep_polls/2019-07-25-Tecnè.html</id>
@@ -343,5 +351,5 @@
     <updated>2019-06-29T16:56:02.59202+02:00</updated>
     <dc:date>2019-06-29T16:56:02.59202+02:00</dc:date>
   </entry>
-  <dc:date>2019-07-28T12:57:19.56346+02:00</dc:date>
+  <dc:date>2019-08-02T14:08:59.975499+02:00</dc:date>
 </feed>
