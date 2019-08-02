@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.6% | 0.3–0.9% | 0.3–1.0% | 0.2–1.2% | 0.2–1.4% |
+| [24–29 July 2019](2019-07-29-SWG.html) | SWG <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
 | [24–25 July 2019](2019-07-25-Tecnè.html) | Tecnè <br> Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [22–24 July 2019](2019-07-24-Demopolis.html) | Demopolis <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
 | [17–22 July 2019](2019-07-22-SWG.html) | SWG <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
@@ -75,6 +76,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [24–29 July 2019](2019-07-29-SWG.html) | SWG <br> LA7 |  |  |  |  |  |
 | [24–25 July 2019](2019-07-25-Tecnè.html) | Tecnè <br> Dire |  |  |  |  |  |
 | [22–24 July 2019](2019-07-24-Demopolis.html) | Demopolis <br> LA7 |  |  |  |  |  |
 | [17–22 July 2019](2019-07-22-SWG.html) | SWG <br> LA7 |  |  |  |  |  |
