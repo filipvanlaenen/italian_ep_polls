@@ -89,7 +89,7 @@ Last result: **17** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 12–16 | 12–18 | 11–19 | 11–20 |
-| [24–29 July 2019](2019-07-29-SWG.html) | SWG <br> LA7 | 13 | 12–14 | 12–15 | 12–15 | 11–16 |
+| [24–29 July 2019](2019-07-29-SWG.html) | SWG <br> LA7 | 13 | 12–14 | 12–15 | 12–15 | 11–15 |
 | [24–25 July 2019](2019-07-25-Tecnè.html) | Tecnè <br> Dire | 14 | 12–15 | 12–15 | 12–16 | 11–16 |
 | [22–24 July 2019](2019-07-24-Demopolis.html) | Demopolis <br> LA7 | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
 | [17–22 July 2019](2019-07-22-SWG.html) | SWG <br> LA7 | 14 | 13–15 | 13–16 | 13–16 | 12–17 |
@@ -143,8 +143,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.2% | 100% |  |
 | 11 | 2% | 99.7% |  |
-| 12 | 15% | 97% |  |
-| 13 | 34% | 83% | Median |
+| 12 | 14% | 97% |  |
+| 13 | 35% | 83% | Median |
 | 14 | 29% | 49% |  |
 | 15 | 9% | 20% |  |
 | 16 | 2% | 10% |  |
