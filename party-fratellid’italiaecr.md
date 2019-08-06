@@ -10,7 +10,9 @@ Last result: **3.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.5% | 5.4–7.8% | 5.1–8.2% | 4.8–8.7% | 4.2–9.5% |
+| N/A | [Poll Average](average.html) | 6.6% | 5.4–7.9% | 5.1–8.3% | 4.8–8.7% | 4.2–9.5% |
+| [29 July–2 August 2019](2019-08-02-TermometroPolitico.html) | Termometro Politico | 6.9% | 6.1–7.7% | 5.9–8.0% | 5.8–8.2% | 5.4–8.6% |
+| [27–30 July 2019](2019-07-30-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 7.4% | 6.6–8.3% | 6.4–8.6% | 6.2–8.8% | 5.8–9.3% |
 | [24–29 July 2019](2019-07-29-SWG.html) | SWG <br> LA7 | 6.6% | 5.8–7.5% | 5.6–7.8% | 5.4–8.0% | 5.1–8.4% |
 | [24–25 July 2019](2019-07-25-Tecnè.html) | Tecnè <br> Dire | 6.3% | 5.4–7.4% | 5.2–7.7% | 5.0–8.0% | 4.6–8.6% |
 | [22–24 July 2019](2019-07-24-Demopolis.html) | Demopolis <br> LA7 | 6.7% | 6.0–7.6% | 5.7–7.9% | 5.6–8.1% | 5.2–8.6% |
@@ -62,13 +64,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0.1% | 100% |  |
-| 3.5–4.5% | 1.4% | 99.9% | Last Result |
-| 4.5–5.5% | 12% | 98% |  |
-| 5.5–6.5% | 38% | 86% |  |
-| 6.5–7.5% | 35% | 48% | Median |
-| 7.5–8.5% | 11% | 14% |  |
+| 3.5–4.5% | 1.3% | 99.9% | Last Result |
+| 4.5–5.5% | 11% | 98.6% |  |
+| 5.5–6.5% | 36% | 88% |  |
+| 6.5–7.5% | 36% | 52% | Median |
+| 7.5–8.5% | 13% | 16% |  |
 | 8.5–9.5% | 3% | 3% |  |
-| 9.5–10.5% | 0.4% | 0.5% |  |
+| 9.5–10.5% | 0.4% | 0.4% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -81,6 +83,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
+| [29 July–2 August 2019](2019-08-02-TermometroPolitico.html) | Termometro Politico | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
+| [27–30 July 2019](2019-07-30-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
 | [24–29 July 2019](2019-07-29-SWG.html) | SWG <br> LA7 | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [24–25 July 2019](2019-07-25-Tecnè.html) | Tecnè <br> Dire | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [22–24 July 2019](2019-07-24-Demopolis.html) | Demopolis <br> LA7 | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
@@ -137,10 +141,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 99.7% |  |
 | 2 | 0% | 99.7% |  |
 | 3 | 2% | 99.7% |  |
-| 4 | 23% | 98% |  |
-| 5 | 53% | 74% | Median |
-| 6 | 18% | 22% |  |
-| 7 | 3% | 4% |  |
+| 4 | 21% | 98% |  |
+| 5 | 52% | 76% | Median |
+| 6 | 20% | 24% |  |
+| 7 | 4% | 4% |  |
 | 8 | 0.3% | 0.3% |  |
 | 9 | 0% | 0% |  |
 
