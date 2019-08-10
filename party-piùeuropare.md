@@ -10,8 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.7% | 1.8–3.8% | 1.5–4.1% | 1.3–4.4% | 1.0–4.9% |
+| N/A | [Poll Average](average.html) | 2.6% | 1.7–3.7% | 1.5–4.0% | 1.3–4.3% | 1.0–4.8% |
+| [5 August 2019](2019-08-05-Tecnè.html) | Tecnè <br> Dire | 2.4% | 1.9–3.2% | 1.7–3.4% | 1.6–3.6% | 1.4–3.9% |
 | [29 July–2 August 2019](2019-08-02-TermometroPolitico.html) | Termometro Politico | 2.2% | 1.8–2.7% | 1.7–2.9% | 1.6–3.0% | 1.4–3.3% |
+| [30–31 July 2019](2019-07-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 3.5% | N/A | N/A | N/A | N/A |
 | [27–30 July 2019](2019-07-30-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 2.3% | 1.8–2.9% | 1.7–3.0% | 1.6–3.2% | 1.4–3.5% |
 | [24–29 July 2019](2019-07-29-SWG.html) | SWG <br> LA7 | 2.7% | 2.3–3.4% | 2.1–3.5% | 2.0–3.7% | 1.8–4.0% |
 | [24–25 July 2019](2019-07-25-Tecnè.html) | Tecnè <br> Dire | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
@@ -65,12 +67,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 6% | 100% |  |
-| 1.5–2.5% | 36% | 94% |  |
-| 2.5–3.5% | 42% | 58% | Median |
-| 3.5–4.5% | 14% | 16% |  |
-| 4.5–5.5% | 1.5% | 2% |  |
+| 1.5–2.5% | 40% | 94% |  |
+| 2.5–3.5% | 42% | 53% | Median |
+| 3.5–4.5% | 11% | 12% |  |
+| 4.5–5.5% | 1.0% | 1.1% |  |
 | 5.5–6.5% | 0% | 0% |  |
-| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -81,8 +82,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0–3 | 0–3 | 0–4 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–3 | 0–4 |
+| [5 August 2019](2019-08-05-Tecnè.html) | Tecnè <br> Dire | 0 | 0 | 0–3 | 0–3 | 0–3 |
 | [29 July–2 August 2019](2019-08-02-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
+| [30–31 July 2019](2019-07-31-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
 | [27–30 July 2019](2019-07-30-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 0 | 0 | 0 | 0 | 0 |
 | [24–29 July 2019](2019-07-29-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
 | [24–25 July 2019](2019-07-25-Tecnè.html) | Tecnè <br> Dire | 0 | 0 | 0 | 0 | 0–3 |
@@ -136,11 +139,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 94% | 100% | Last Result, Median |
-| 1 | 0% | 6% |  |
-| 2 | 0% | 6% |  |
-| 3 | 5% | 6% |  |
-| 4 | 0.9% | 0.9% |  |
+| 0 | 96% | 100% | Last Result, Median |
+| 1 | 0% | 4% |  |
+| 2 | 0% | 4% |  |
+| 3 | 4% | 4% |  |
+| 4 | 0.6% | 0.6% |  |
 | 5 | 0% | 0% |  |
 
 

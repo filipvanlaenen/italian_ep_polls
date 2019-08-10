@@ -10,8 +10,10 @@ Last result: **16.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.0% | 5.9–8.6% | 5.6–9.1% | 5.4–9.6% | 5.0–10.4% |
+| N/A | [Poll Average](average.html) | 6.9% | 5.9–8.5% | 5.6–9.0% | 5.4–9.4% | 5.0–10.4% |
+| [5 August 2019](2019-08-05-Tecnè.html) | Tecnè <br> Dire | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
 | [29 July–2 August 2019](2019-08-02-TermometroPolitico.html) | Termometro Politico | 6.2% | 5.5–7.0% | 5.3–7.2% | 5.1–7.4% | 4.8–7.8% |
+| [30–31 July 2019](2019-07-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 7.1% | N/A | N/A | N/A | N/A |
 | [27–30 July 2019](2019-07-30-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 6.7% | 5.9–7.6% | 5.7–7.8% | 5.5–8.0% | 5.2–8.5% |
 | [24–29 July 2019](2019-07-29-SWG.html) | SWG <br> LA7 | 6.5% | 5.8–7.4% | 5.6–7.7% | 5.4–7.9% | 5.0–8.4% |
 | [24–25 July 2019](2019-07-25-Tecnè.html) | Tecnè <br> Dire | 7.8% | 6.8–9.0% | 6.5–9.3% | 6.3–9.6% | 5.8–10.2% |
@@ -63,13 +65,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 4% | 100% |  |
-| 5.5–6.5% | 28% | 96% |  |
-| 6.5–7.5% | 36% | 69% | Median |
-| 7.5–8.5% | 21% | 33% |  |
-| 8.5–9.5% | 9% | 11% |  |
-| 9.5–10.5% | 2% | 3% |  |
+| 3.5–4.5% | 0.1% | 100% |  |
+| 4.5–5.5% | 4% | 99.9% |  |
+| 5.5–6.5% | 30% | 96% |  |
+| 6.5–7.5% | 37% | 66% | Median |
+| 7.5–8.5% | 19% | 28% |  |
+| 8.5–9.5% | 7% | 9% |  |
+| 9.5–10.5% | 2% | 2% |  |
 | 10.5–11.5% | 0.3% | 0.4% |  |
 | 11.5–12.5% | 0% | 0.1% |  |
 | 12.5–13.5% | 0% | 0% |  |
@@ -87,9 +89,11 @@ Last result: **13** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–7 | 4–7 | 4–7 | 4–8 |
+| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–7 | 4–7 | 4–8 |
+| [5 August 2019](2019-08-05-Tecnè.html) | Tecnè <br> Dire | 6 | 5–8 | 5–8 | 5–8 | 5–8 |
 | [29 July–2 August 2019](2019-08-02-TermometroPolitico.html) | Termometro Politico | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
-| [27–30 July 2019](2019-07-30-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
+| [30–31 July 2019](2019-07-31-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
+| [27–30 July 2019](2019-07-30-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [24–29 July 2019](2019-07-29-SWG.html) | SWG <br> LA7 | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [24–25 July 2019](2019-07-25-Tecnè.html) | Tecnè <br> Dire | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [22–24 July 2019](2019-07-24-Demopolis.html) | Demopolis <br> LA7 | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
@@ -143,11 +147,11 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0.1% | 100% |  |
-| 4 | 10% | 99.9% |  |
-| 5 | 47% | 89% | Median |
-| 6 | 31% | 42% |  |
-| 7 | 10% | 11% |  |
-| 8 | 1.2% | 1.3% |  |
+| 4 | 12% | 99.9% |  |
+| 5 | 51% | 88% | Median |
+| 6 | 28% | 38% |  |
+| 7 | 8% | 9% |  |
+| 8 | 0.9% | 1.0% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |

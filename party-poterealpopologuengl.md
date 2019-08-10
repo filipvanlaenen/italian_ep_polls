@@ -11,7 +11,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.6% | 0.3–0.9% | 0.3–1.0% | 0.2–1.2% | 0.2–1.4% |
+| [5 August 2019](2019-08-05-Tecnè.html) | Tecnè <br> Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [29 July–2 August 2019](2019-08-02-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
+| [30–31 July 2019](2019-07-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.0% | N/A | N/A | N/A | N/A |
 | [27–30 July 2019](2019-07-30-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 0.0% | N/A | N/A | N/A | N/A |
 | [24–29 July 2019](2019-07-29-SWG.html) | SWG <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
 | [24–25 July 2019](2019-07-25-Tecnè.html) | Tecnè <br> Dire | 0.0% | N/A | N/A | N/A | N/A |
@@ -78,7 +80,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [5 August 2019](2019-08-05-Tecnè.html) | Tecnè <br> Dire |  |  |  |  |  |
 | [29 July–2 August 2019](2019-08-02-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [30–31 July 2019](2019-07-31-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
 | [27–30 July 2019](2019-07-30-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore |  |  |  |  |  |
 | [24–29 July 2019](2019-07-29-SWG.html) | SWG <br> LA7 |  |  |  |  |  |
 | [24–25 July 2019](2019-07-25-Tecnè.html) | Tecnè <br> Dire |  |  |  |  |  |
