@@ -11,6 +11,7 @@ Last result: **16.8%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6.9% | 5.9–8.5% | 5.6–9.0% | 5.4–9.4% | 5.0–10.4% |
+| [1–9 August 2019](2019-08-09-NotoSondaggi.html) | Noto Sondaggi | 6.5% | N/A | N/A | N/A | N/A |
 | [5 August 2019](2019-08-05-Tecnè.html) | Tecnè <br> Dire | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
 | [29 July–2 August 2019](2019-08-02-TermometroPolitico.html) | Termometro Politico | 6.2% | 5.5–7.0% | 5.3–7.2% | 5.1–7.4% | 4.8–7.8% |
 | [30–31 July 2019](2019-07-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 7.1% | N/A | N/A | N/A | N/A |
@@ -90,6 +91,7 @@ Last result: **13** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 4–7 | 4–7 | 4–8 |
+| [1–9 August 2019](2019-08-09-NotoSondaggi.html) | Noto Sondaggi |  |  |  |  |  |
 | [5 August 2019](2019-08-05-Tecnè.html) | Tecnè <br> Dire | 6 | 5–8 | 5–8 | 5–8 | 5–8 |
 | [29 July–2 August 2019](2019-08-02-TermometroPolitico.html) | Termometro Politico | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [30–31 July 2019](2019-07-31-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
