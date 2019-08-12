@@ -11,7 +11,7 @@ Last result: **21.2%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17.6% | 15.5–20.6% | 14.7–24.0% | 14.2–25.0% | 13.4–26.5% |
-| [1–9 August 2019](2019-08-09-NotoSondaggi.html) | Noto Sondaggi | 16.5% | N/A | N/A | N/A | N/A |
+| [1–9 August 2019](2019-08-09-NotoSondaggi.html) | Noto Sondaggi | 16.5% | 15.1–18.1% | 14.7–18.5% | 14.3–18.9% | 13.7–19.7% |
 | [5 August 2019](2019-08-05-Tecnè.html) | Tecnè <br> Dire | 17.5% | 16.0–19.1% | 15.6–19.6% | 15.3–20.0% | 14.6–20.8% |
 | [29 July–2 August 2019](2019-08-02-TermometroPolitico.html) | Termometro Politico | 17.0% | 15.9–18.2% | 15.6–18.6% | 15.3–18.9% | 14.8–19.5% |
 | [30–31 July 2019](2019-07-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 17.8% | N/A | N/A | N/A | N/A |
@@ -95,7 +95,7 @@ Last result: **17** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 12–16 | 11–18 | 11–19 | 10–20 |
-| [1–9 August 2019](2019-08-09-NotoSondaggi.html) | Noto Sondaggi |  |  |  |  |  |
+| [1–9 August 2019](2019-08-09-NotoSondaggi.html) | Noto Sondaggi | 12 | 10–14 | 10–14 | 10–15 | 9–15 |
 | [5 August 2019](2019-08-05-Tecnè.html) | Tecnè <br> Dire | 13 | 13–14 | 13–15 | 12–15 | 12–15 |
 | [29 July–2 August 2019](2019-08-02-TermometroPolitico.html) | Termometro Politico | 13 | 12–14 | 12–14 | 12–14 | 11–15 |
 | [30–31 July 2019](2019-07-31-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |

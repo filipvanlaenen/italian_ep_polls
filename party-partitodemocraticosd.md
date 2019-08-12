@@ -11,7 +11,7 @@ Last result: **40.8%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 22.8% | 20.7–24.7% | 19.9–25.3% | 19.2–25.9% | 18.1–27.1% |
-| [1–9 August 2019](2019-08-09-NotoSondaggi.html) | Noto Sondaggi | 23.0% | N/A | N/A | N/A | N/A |
+| [1–9 August 2019](2019-08-09-NotoSondaggi.html) | Noto Sondaggi | 23.0% | 21.4–24.8% | 20.9–25.3% | 20.5–25.7% | 19.7–26.6% |
 | [5 August 2019](2019-08-05-Tecnè.html) | Tecnè <br> Dire | 22.4% | 20.8–24.2% | 20.3–24.7% | 19.9–25.1% | 19.2–26.0% |
 | [29 July–2 August 2019](2019-08-02-TermometroPolitico.html) | Termometro Politico | 22.6% | 21.3–23.9% | 21.0–24.3% | 20.7–24.6% | 20.1–25.3% |
 | [30–31 July 2019](2019-07-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 20.5% | N/A | N/A | N/A | N/A |
@@ -103,7 +103,7 @@ Last result: **31** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16 | 15–18 | 14–18 | 14–19 | 13–20 |
-| [1–9 August 2019](2019-08-09-NotoSondaggi.html) | Noto Sondaggi |  |  |  |  |  |
+| [1–9 August 2019](2019-08-09-NotoSondaggi.html) | Noto Sondaggi | 15 | 15–17 | 15–17 | 15–17 | 14–17 |
 | [5 August 2019](2019-08-05-Tecnè.html) | Tecnè <br> Dire | 16 | 14–18 | 14–19 | 14–19 | 13–19 |
 | [29 July–2 August 2019](2019-08-02-TermometroPolitico.html) | Termometro Politico | 16 | 15–17 | 15–18 | 15–18 | 14–18 |
 | [30–31 July 2019](2019-07-31-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
