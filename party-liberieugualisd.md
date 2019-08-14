@@ -11,15 +11,16 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.8% | 0.8–2.5% | 0.5–2.7% | 0.4–2.9% | 0.2–3.3% |
+| [9–10 August 2019](2019-08-10-TermometroPolitico.html) | Termometro Politico <br> La7 | 1.8% | N/A | N/A | N/A | N/A |
 | [1–9 August 2019](2019-08-09-NotoSondaggi.html) | Noto Sondaggi | 0.0% | N/A | N/A | N/A | N/A |
 | [5 August 2019](2019-08-05-Tecnè.html) | Tecnè <br> Dire | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.3% | 0.7–2.7% |
 | [29 July–2 August 2019](2019-08-02-TermometroPolitico.html) | Termometro Politico | 2.0% | 1.6–2.5% | 1.5–2.7% | 1.4–2.8% | 1.3–3.0% |
 | [30–31 July 2019](2019-07-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 2.0% | N/A | N/A | N/A | N/A |
 | [27–30 July 2019](2019-07-30-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 1.9% | 1.5–2.4% | 1.4–2.6% | 1.3–2.7% | 1.1–3.0% |
-| [24–29 July 2019](2019-07-29-SWG.html) | SWG <br> LA7 | 2.1% | 1.7–2.7% | 1.6–2.9% | 1.5–3.0% | 1.3–3.3% |
+| [24–29 July 2019](2019-07-29-SWG.html) | SWG <br> La7 | 2.1% | 1.7–2.7% | 1.6–2.9% | 1.5–3.0% | 1.3–3.3% |
 | [24–25 July 2019](2019-07-25-Tecnè.html) | Tecnè <br> Dire | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.3% | 0.7–2.7% |
-| [22–24 July 2019](2019-07-24-Demopolis.html) | Demopolis <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
-| [17–22 July 2019](2019-07-22-SWG.html) | SWG <br> LA7 | 2.0% | 1.6–2.6% | 1.5–2.7% | 1.4–2.9% | 1.2–3.1% |
+| [22–24 July 2019](2019-07-24-Demopolis.html) | Demopolis <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [17–22 July 2019](2019-07-22-SWG.html) | SWG <br> La7 | 2.0% | 1.6–2.6% | 1.5–2.7% | 1.4–2.9% | 1.2–3.1% |
 | [22 July 2019](2019-07-22-Euromedia.html) | Euromedia | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
 | [16–18 July 2019](2019-07-18-TermometroPolitico.html) | Termometro Politico | 1.8% | 1.4–2.3% | 1.3–2.5% | 1.2–2.6% | 1.1–2.9% |
 | [17–18 July 2019](2019-07-18-Tecnè.html) | Tecnè <br> Rete 4 | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
@@ -32,28 +33,28 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [8–10 July 2019](2019-07-10-GPF.html) | GPF <br> Rete 4 | 0.4% | 0.2–0.8% | 0.2–1.0% | 0.1–1.1% | 0.1–1.4% |
 | [8–10 July 2019](2019-07-10-DemosPi.html) | Demos & Pi | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.0% | 1.1–3.4% |
 | [7–8 July 2019](2019-07-08-Tecnè.html) | Tecnè <br> Rete 4 | 0.0% | N/A | N/A | N/A | N/A |
-| [3–8 July 2019](2019-07-08-SWG.html) | SWG <br> LA7 | 1.7% | 1.4–2.3% | 1.3–2.4% | 1.2–2.5% | 1.0–2.8% |
+| [3–8 July 2019](2019-07-08-SWG.html) | SWG <br> La7 | 1.7% | 1.4–2.3% | 1.3–2.4% | 1.2–2.5% | 1.0–2.8% |
 | [5 July 2019](2019-07-05-NotoSondaggi.html) | Noto Sondaggi <br> Quotidiano Nazionale | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
-| [1–4 July 2019](2019-07-04-TermometroPolitico.html) | Termometro Politico <br> LA7 | 1.4% | 1.1–1.9% | 1.0–2.0% | 0.9–2.1% | 0.8–2.3% |
+| [1–4 July 2019](2019-07-04-TermometroPolitico.html) | Termometro Politico <br> La7 | 1.4% | 1.1–1.9% | 1.0–2.0% | 0.9–2.1% | 0.8–2.3% |
 | [29 June–4 July 2019](2019-07-04-BiDiMedia.html) | BiDiMedia | 1.9% | 1.5–2.4% | 1.4–2.5% | 1.3–2.7% | 1.2–2.9% |
-| [26 June–1 July 2019](2019-07-01-SWG.html) | SWG <br> LA7 | 1.5% | 1.2–2.0% | 1.1–2.2% | 1.0–2.3% | 0.9–2.6% |
+| [26 June–1 July 2019](2019-07-01-SWG.html) | SWG <br> La7 | 1.5% | 1.2–2.0% | 1.1–2.2% | 1.0–2.3% | 0.9–2.6% |
 | [27 June 2019](2019-06-27-EMG.html) | EMG <br> Rai 3 | 2.0% | 1.6–2.4% | 1.5–2.6% | 1.4–2.7% | 1.2–2.9% |
 | [1–26 June 2019](2019-06-26-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [25–26 June 2019](2019-06-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [23–24 June 2019](2019-06-24-Tecnè.html) | Tecnè <br> Rete 4 | 0.0% | N/A | N/A | N/A | N/A |
-| [19–24 June 2019](2019-06-24-SWG.html) | SWG <br> LA7 | 1.6% | 1.2–2.1% | 1.2–2.3% | 1.1–2.4% | 0.9–2.6% |
-| [19–20 June 2019](2019-06-20-Demopolis.html) | Demopolis <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
+| [19–24 June 2019](2019-06-24-SWG.html) | SWG <br> La7 | 1.6% | 1.2–2.1% | 1.2–2.3% | 1.1–2.4% | 0.9–2.6% |
+| [19–20 June 2019](2019-06-20-Demopolis.html) | Demopolis <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [1–18 June 2019](2019-06-18-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
 | [18 June 2019](2019-06-18-EMG.html) | EMG <br> Rai 3 | 2.0% | 1.6–2.5% | 1.5–2.6% | 1.4–2.7% | 1.3–3.0% |
 | [12–17 June 2019](2019-06-17-SWG.html) | SWG <br> LA7 | 1.7% | 1.4–2.3% | 1.3–2.4% | 1.2–2.5% | 1.0–2.8% |
 | [13 June 2019](2019-06-13-IndexResearch.html) | Index Research <br> LA7 | 1.8% | 1.3–2.5% | 1.1–2.7% | 1.1–2.9% | 0.9–3.3% |
 | [11 June 2019](2019-06-11-EMG.html) | EMG <br> Rai 3 | 1.9% | 1.5–2.4% | 1.4–2.5% | 1.4–2.7% | 1.2–2.9% |
 | [9–10 June 2019](2019-06-10-Tecnè.html) | Tecnè <br> Rete 4 | 0.0% | N/A | N/A | N/A | N/A |
-| [5–10 June 2019](2019-06-10-SWG.html) | SWG <br> LA7 | 1.5% | 1.2–2.0% | 1.1–2.2% | 1.0–2.3% | 0.9–2.6% |
+| [5–10 June 2019](2019-06-10-SWG.html) | SWG <br> La7 | 1.5% | 1.2–2.0% | 1.1–2.2% | 1.0–2.3% | 0.9–2.6% |
 | [10 June 2019](2019-06-10-Piepoli.html) | Piepoli <br> Rai 1 | 2.0% | 1.4–3.0% | 1.2–3.3% | 1.1–3.6% | 0.9–4.2% |
 | [1–10 June 2019](2019-06-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
 | [10 June 2019](2019-06-10-Euromedia.html) | Euromedia <br> Rai 1 | 2.2% | 1.7–3.1% | 1.6–3.3% | 1.4–3.5% | 1.2–4.0% |
-| [1–7 June 2019](2019-06-07-IndexResearch.html) | Index Research <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
+| [1–7 June 2019](2019-06-07-IndexResearch.html) | Index Research <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [2–3 June 2019](2019-06-03-Tecnè.html) | Tecnè <br> Rete 4 | 0.0% | N/A | N/A | N/A | N/A |
 | [29 May–3 June 2019](2019-06-03-SWG.html) | SWG <br> LA7 | 1.7% | 1.4–2.3% | 1.3–2.4% | 1.2–2.5% | 1.0–2.8% |
 | [1 June 2019](2019-06-01-EMG.html) | EMG <br> Affari Internazionali | 2.0% | 1.6–2.5% | 1.5–2.7% | 1.4–2.8% | 1.2–3.1% |
@@ -83,15 +84,16 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [9–10 August 2019](2019-08-10-TermometroPolitico.html) | Termometro Politico <br> La7 |  |  |  |  |  |
 | [1–9 August 2019](2019-08-09-NotoSondaggi.html) | Noto Sondaggi |  |  |  |  |  |
 | [5 August 2019](2019-08-05-Tecnè.html) | Tecnè <br> Dire | 0 | 0 | 0 | 0 | 0 |
 | [29 July–2 August 2019](2019-08-02-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [30–31 July 2019](2019-07-31-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
 | [27–30 July 2019](2019-07-30-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 0 | 0 | 0 | 0 | 0 |
-| [24–29 July 2019](2019-07-29-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
+| [24–29 July 2019](2019-07-29-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [24–25 July 2019](2019-07-25-Tecnè.html) | Tecnè <br> Dire | 0 | 0 | 0 | 0 | 0 |
-| [22–24 July 2019](2019-07-24-Demopolis.html) | Demopolis <br> LA7 |  |  |  |  |  |
-| [17–22 July 2019](2019-07-22-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
+| [22–24 July 2019](2019-07-24-Demopolis.html) | Demopolis <br> La7 |  |  |  |  |  |
+| [17–22 July 2019](2019-07-22-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [22 July 2019](2019-07-22-Euromedia.html) | Euromedia | 0 | 0 | 0 | 0 | 0 |
 | [16–18 July 2019](2019-07-18-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [17–18 July 2019](2019-07-18-Tecnè.html) | Tecnè <br> Rete 4 | 0 | 0 | 0 | 0 | 0 |
@@ -104,28 +106,28 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [8–10 July 2019](2019-07-10-GPF.html) | GPF <br> Rete 4 | 0 | 0 | 0 | 0 | 0 |
 | [8–10 July 2019](2019-07-10-DemosPi.html) | Demos & Pi | 0 | 0 | 0 | 0 | 0 |
 | [7–8 July 2019](2019-07-08-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
-| [3–8 July 2019](2019-07-08-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
+| [3–8 July 2019](2019-07-08-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [5 July 2019](2019-07-05-NotoSondaggi.html) | Noto Sondaggi <br> Quotidiano Nazionale | 0 | 0 | 0 | 0 | 0 |
-| [1–4 July 2019](2019-07-04-TermometroPolitico.html) | Termometro Politico <br> LA7 | 0 | 0 | 0 | 0 | 0 |
+| [1–4 July 2019](2019-07-04-TermometroPolitico.html) | Termometro Politico <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [29 June–4 July 2019](2019-07-04-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
-| [26 June–1 July 2019](2019-07-01-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
+| [26 June–1 July 2019](2019-07-01-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [27 June 2019](2019-06-27-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [1–26 June 2019](2019-06-26-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [25–26 June 2019](2019-06-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
 | [23–24 June 2019](2019-06-24-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
-| [19–24 June 2019](2019-06-24-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
-| [19–20 June 2019](2019-06-20-Demopolis.html) | Demopolis <br> LA7 |  |  |  |  |  |
+| [19–24 June 2019](2019-06-24-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
+| [19–20 June 2019](2019-06-20-Demopolis.html) | Demopolis <br> La7 |  |  |  |  |  |
 | [1–18 June 2019](2019-06-18-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [18 June 2019](2019-06-18-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [12–17 June 2019](2019-06-17-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
 | [13 June 2019](2019-06-13-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0 | 0 | 0 |
 | [11 June 2019](2019-06-11-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [9–10 June 2019](2019-06-10-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
-| [5–10 June 2019](2019-06-10-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
+| [5–10 June 2019](2019-06-10-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [10 June 2019](2019-06-10-Piepoli.html) | Piepoli <br> Rai 1 | 0 | 0 | 0 | 0 | 0–3 |
 | [1–10 June 2019](2019-06-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [10 June 2019](2019-06-10-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
-| [1–7 June 2019](2019-06-07-IndexResearch.html) | Index Research <br> LA7 |  |  |  |  |  |
+| [1–7 June 2019](2019-06-07-IndexResearch.html) | Index Research <br> La7 |  |  |  |  |  |
 | [2–3 June 2019](2019-06-03-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
 | [29 May–3 June 2019](2019-06-03-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
 | [1 June 2019](2019-06-01-EMG.html) | EMG <br> Affari Internazionali | 0 | 0 | 0 | 0 | 0 |
