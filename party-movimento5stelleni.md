@@ -96,7 +96,7 @@ Last result: **17** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 12–15 | 11–18 | 11–19 | 10–20 |
-| [9–10 August 2019](2019-08-10-TermometroPolitico.html) | Termometro Politico <br> La7 | 13 | 13 | 13–14 | 13–14 | 12–16 |
+| [9–10 August 2019](2019-08-10-TermometroPolitico.html) | Termometro Politico <br> La7 | 14 | 13–15 | 13–15 | 13–15 | 12–15 |
 | [1–9 August 2019](2019-08-09-NotoSondaggi.html) | Noto Sondaggi | 12 | 11–13 | 11–14 | 10–14 | 10–14 |
 | [5 August 2019](2019-08-05-Tecnè.html) | Tecnè <br> Dire | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
 | [29 July–2 August 2019](2019-08-02-TermometroPolitico.html) | Termometro Politico | 13 | 12–14 | 12–14 | 12–14 | 11–15 |
