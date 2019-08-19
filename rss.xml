@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 19 Aug 2019 08:33:23 +0200</pubDate>
+    <pubDate>Mon, 19 Aug 2019 11:45:34 +0200</pubDate>
     <item>
       <title>Opinion Poll by Termometro Politico for La7, 9–10 August 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-08-10-TermometroPolitico.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-08-10-TermometroPolitico.png"
         length="194049"
         type="image/png"/>
-      <pubDate>Wed, 14 Aug 2019 23:05:56 +0200</pubDate>
-      <dc:date>2019-08-14T23:05:56.382652+02:00</dc:date>
+      <pubDate>Mon, 19 Aug 2019 11:45:34 +0200</pubDate>
+      <dc:date>2019-08-19T11:45:34.751779+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Noto Sondaggi, 1–9 August 2019 – Voting Intentions</title>
@@ -1399,6 +1399,6 @@
       <pubDate>Sat, 29 Jun 2019 16:56:02 +0200</pubDate>
       <dc:date>2019-06-29T16:56:02.59202+02:00</dc:date>
     </item>
-    <dc:date>2019-08-19T08:33:23.504288+02:00</dc:date>
+    <dc:date>2019-08-19T11:45:34.751779+02:00</dc:date>
   </channel>
 </rss>
