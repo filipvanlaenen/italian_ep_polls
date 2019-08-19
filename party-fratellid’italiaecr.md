@@ -10,12 +10,12 @@ Last result: **3.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.7% | 5.5–7.9% | 5.1–8.3% | 4.8–8.7% | 4.2–9.5% |
+| N/A | [Poll Average](average.html) | 6.7% | 5.5–8.0% | 5.2–8.5% | 4.9–8.8% | 4.2–9.6% |
 | [9–10 August 2019](2019-08-10-TermometroPolitico.html) | Termometro Politico <br> La7 | 7.1% | 6.5–7.8% | 6.3–8.0% | 6.2–8.2% | 5.9–8.6% |
 | [1–9 August 2019](2019-08-09-NotoSondaggi.html) | Noto Sondaggi | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
 | [5 August 2019](2019-08-05-Tecnè.html) | Tecnè <br> Dire | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
 | [29 July–2 August 2019](2019-08-02-TermometroPolitico.html) | Termometro Politico | 6.9% | 6.1–7.7% | 5.9–8.0% | 5.8–8.2% | 5.4–8.6% |
-| [30–31 July 2019](2019-07-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 7.5% | N/A | N/A | N/A | N/A |
+| [30–31 July 2019](2019-07-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 7.5% | 6.5–8.7% | 6.2–9.0% | 6.0–9.3% | 5.6–9.9% |
 | [27–30 July 2019](2019-07-30-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 7.4% | 6.6–8.3% | 6.4–8.6% | 6.2–8.8% | 5.8–9.3% |
 | [24–29 July 2019](2019-07-29-SWG.html) | SWG <br> La7 | 6.6% | 5.8–7.5% | 5.6–7.8% | 5.4–8.0% | 5.1–8.4% |
 | [24–25 July 2019](2019-07-25-Tecnè.html) | Tecnè <br> Dire | 6.3% | 5.4–7.4% | 5.2–7.7% | 5.0–8.0% | 4.6–8.6% |
@@ -68,13 +68,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0.1% | 100% |  |
-| 3.5–4.5% | 1.3% | 99.9% | Last Result |
-| 4.5–5.5% | 10% | 98.6% |  |
-| 5.5–6.5% | 34% | 89% |  |
-| 6.5–7.5% | 37% | 54% | Median |
-| 7.5–8.5% | 14% | 17% |  |
-| 8.5–9.5% | 3% | 4% |  |
-| 9.5–10.5% | 0.4% | 0.5% |  |
+| 3.5–4.5% | 1.2% | 99.9% | Last Result |
+| 4.5–5.5% | 9% | 98.7% |  |
+| 5.5–6.5% | 32% | 90% |  |
+| 6.5–7.5% | 37% | 57% | Median |
+| 7.5–8.5% | 16% | 20% |  |
+| 8.5–9.5% | 4% | 4% |  |
+| 9.5–10.5% | 0.5% | 0.5% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -88,10 +88,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
 | [9–10 August 2019](2019-08-10-TermometroPolitico.html) | Termometro Politico <br> La7 | 6 | 6 | 5–6 | 5–6 | 5–6 |
-| [1–9 August 2019](2019-08-09-NotoSondaggi.html) | Noto Sondaggi | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
-| [5 August 2019](2019-08-05-Tecnè.html) | Tecnè <br> Dire | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| [1–9 August 2019](2019-08-09-NotoSondaggi.html) | Noto Sondaggi | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
+| [5 August 2019](2019-08-05-Tecnè.html) | Tecnè <br> Dire | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
 | [29 July–2 August 2019](2019-08-02-TermometroPolitico.html) | Termometro Politico | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
-| [30–31 July 2019](2019-07-31-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
+| [30–31 July 2019](2019-07-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 5 | 5–6 | 5–7 | 5–7 | 4–8 |
 | [27–30 July 2019](2019-07-30-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
 | [24–29 July 2019](2019-07-29-SWG.html) | SWG <br> La7 | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [24–25 July 2019](2019-07-25-Tecnè.html) | Tecnè <br> Dire | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
@@ -149,11 +149,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 99.7% |  |
 | 2 | 0% | 99.7% |  |
 | 3 | 2% | 99.7% |  |
-| 4 | 20% | 98% |  |
-| 5 | 52% | 78% | Median |
-| 6 | 22% | 27% |  |
-| 7 | 4% | 4% |  |
-| 8 | 0.3% | 0.3% |  |
+| 4 | 18% | 98% |  |
+| 5 | 52% | 80% | Median |
+| 6 | 23% | 28% |  |
+| 7 | 4% | 5% |  |
+| 8 | 0.4% | 0.4% |  |
 | 9 | 0% | 0% |  |
 
 
