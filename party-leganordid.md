@@ -121,7 +121,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [1–9 August 2019](2019-08-09-NotoSondaggi.html) | Noto Sondaggi | 28 | 26–29 | 26–29 | 25–30 | 25–31 |
 | [5 August 2019](2019-08-05-Tecnè.html) | Tecnè <br> Dire | 29 | 27–31 | 27–31 | 27–32 | 26–33 |
 | [29 July–2 August 2019](2019-08-02-TermometroPolitico.html) | Termometro Politico | 29 | 27–30 | 27–30 | 27–30 | 26–31 |
-| [30–31 July 2019](2019-07-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 27 | 25–29 | 25–29 | 25–30 | 24–31 |
+| [30–31 July 2019](2019-07-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 27 | 26–29 | 25–30 | 25–30 | 24–31 |
 | [27–30 July 2019](2019-07-30-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 30 | 28–31 | 28–31 | 28–32 | 27–32 |
 | [24–29 July 2019](2019-07-29-SWG.html) | SWG <br> La7 | 29 | 28–31 | 28–31 | 27–31 | 27–32 |
 | [24–25 July 2019](2019-07-25-Tecnè.html) | Tecnè <br> Dire | 30 | 28–31 | 27–32 | 27–32 | 26–33 |
@@ -196,10 +196,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 23 | 1.0% | 99.8% |  |
 | 24 | 3% | 98.8% |  |
 | 25 | 8% | 96% |  |
-| 26 | 16% | 87% |  |
-| 27 | 19% | 71% |  |
-| 28 | 17% | 53% | Median |
-| 29 | 17% | 36% |  |
+| 26 | 15% | 88% |  |
+| 27 | 18% | 72% |  |
+| 28 | 18% | 54% | Median |
+| 29 | 18% | 36% |  |
 | 30 | 12% | 19% |  |
 | 31 | 5% | 7% |  |
 | 32 | 1.2% | 1.4% |  |
