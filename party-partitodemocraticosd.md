@@ -11,10 +11,13 @@ Last result: **40.8%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 22.7% | 20.3–24.7% | 19.5–25.2% | 18.9–25.8% | 17.9–27.0% |
+| [20–21 August 2019](2019-08-21-GPF.html) | GPF | 23.5% | 21.4–25.8% | 20.8–26.4% | 20.3–27.0% | 19.3–28.2% |
+| [12 August 2019](2019-08-12-GPF.html) | GPF | 22.8% | 21.0–24.8% | 20.5–25.4% | 20.0–25.9% | 19.2–26.8% |
 | [9–10 August 2019](2019-08-10-TermometroPolitico.html) | Termometro Politico <br> La7 | 23.4% | 22.3–24.5% | 22.0–24.8% | 21.8–25.1% | 21.3–25.7% |
 | [1–9 August 2019](2019-08-09-NotoSondaggi.html) | Noto Sondaggi | 23.0% | 21.4–24.8% | 20.9–25.3% | 20.5–25.7% | 19.7–26.6% |
 | [5 August 2019](2019-08-05-Tecnè.html) | Tecnè <br> Dire | 22.4% | 20.8–24.2% | 20.3–24.7% | 19.9–25.1% | 19.2–26.0% |
 | [29 July–2 August 2019](2019-08-02-TermometroPolitico.html) | Termometro Politico | 22.6% | 21.3–23.9% | 21.0–24.3% | 20.7–24.6% | 20.1–25.3% |
+| [30 July–1 August 2019](2019-08-01-Tecnè.html) | Tecnè <br> Dire | 22.5% | 20.9–24.3% | 20.4–24.8% | 20.0–25.2% | 19.3–26.1% |
 | [30–31 July 2019](2019-07-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 20.5% | 18.9–22.2% | 18.5–22.7% | 18.1–23.1% | 17.4–24.0% |
 | [27–30 July 2019](2019-07-30-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 23.3% | 21.9–24.7% | 21.5–25.1% | 21.2–25.5% | 20.6–26.2% |
 | [24–29 July 2019](2019-07-29-SWG.html) | SWG <br> La7 | 22.0% | 20.7–23.4% | 20.3–23.8% | 20.0–24.2% | 19.3–24.9% |
@@ -104,10 +107,13 @@ Last result: **31** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16 | 14–18 | 14–18 | 13–19 | 13–20 |
+| [20–21 August 2019](2019-08-21-GPF.html) | GPF | 16 | 15–18 | 14–18 | 14–19 | 13–20 |
+| [12 August 2019](2019-08-12-GPF.html) | GPF | 16 | 15–18 | 14–18 | 14–19 | 13–19 |
 | [9–10 August 2019](2019-08-10-TermometroPolitico.html) | Termometro Politico <br> La7 | 17 | 16–18 | 16–18 | 16–18 | 15–19 |
 | [1–9 August 2019](2019-08-09-NotoSondaggi.html) | Noto Sondaggi | 16 | 15–17 | 14–17 | 14–18 | 13–18 |
 | [5 August 2019](2019-08-05-Tecnè.html) | Tecnè <br> Dire | 16 | 14–18 | 14–18 | 14–18 | 13–19 |
 | [29 July–2 August 2019](2019-08-02-TermometroPolitico.html) | Termometro Politico | 16 | 15–17 | 15–18 | 15–18 | 14–18 |
+| [30 July–1 August 2019](2019-08-01-Tecnè.html) | Tecnè <br> Dire | 16 | 15–18 | 15–18 | 15–19 | 14–19 |
 | [30–31 July 2019](2019-07-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 15 | 13–16 | 13–16 | 13–17 | 12–17 |
 | [27–30 July 2019](2019-07-30-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 17 | 16–18 | 15–18 | 15–18 | 15–19 |
 | [24–29 July 2019](2019-07-29-SWG.html) | SWG <br> La7 | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
