@@ -8,7 +8,47 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 19 Aug 2019 22:34:55 +0200</pubDate>
+    <pubDate>Thu, 22 Aug 2019 19:58:20 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by GPF, 20–21 August 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-08-21-GPF.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (NI): 20.0–26.7%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 20.3–27.0%&lt;/li&gt;&lt;li&gt;Lega Nord (ID): 27.6–35.0%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 4.3–8.1%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 5.0–9.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-08-21-GPF.png"
+        length="190309"
+        type="image/png"/>
+      <pubDate>Thu, 22 Aug 2019 18:46:10 +0200</pubDate>
+      <dc:date>2019-08-22T18:46:10.447884+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GPF, 12 August 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-08-12-GPF.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (NI): 16–20 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 14–19 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ID): 22–27 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 3–6 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 4–6 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-08-12-GPF-seats.png"
+        length="148783"
+        type="image/png"/>
+      <pubDate>Thu, 22 Aug 2019 19:58:20 +0200</pubDate>
+      <dc:date>2019-08-22T19:58:20.191145+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GPF, 12 August 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-08-12-GPF.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-08-12-GPF-coalitions-seats.png"
+        length="139180"
+        type="image/png"/>
+      <pubDate>Thu, 22 Aug 2019 19:58:20 +0200</pubDate>
+      <dc:date>2019-08-22T19:58:20.191145+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GPF, 12 August 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-08-12-GPF.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (NI): 20.9–26.8%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 20.0–25.9%&lt;/li&gt;&lt;li&gt;Lega Nord (ID): 28.9–35.4%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 4.6–8.0%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 5.1–8.6%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0.4–1.6%&lt;/li&gt;&lt;li&gt;Più Europa (RE): 1.8–4.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-08-12-GPF.png"
+        length="216734"
+        type="image/png"/>
+      <pubDate>Thu, 22 Aug 2019 19:58:20 +0200</pubDate>
+      <dc:date>2019-08-22T19:58:20.191145+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Termometro Politico for La7, 9–10 August 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-08-10-TermometroPolitico.html</link>
@@ -68,6 +108,16 @@
         type="image/png"/>
       <pubDate>Wed, 07 Aug 2019 11:55:28 +0200</pubDate>
       <dc:date>2019-08-07T11:55:28.911113+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Tecnè for Dire, 30 July–1 August 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-08-01-Tecnè.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (NI): 15.4–20.1%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 20.0–25.2%&lt;/li&gt;&lt;li&gt;Lega Nord (ID): 34.7–40.8%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6.6–10.0%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 4.7–7.7%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 1.0–2.6%&lt;/li&gt;&lt;li&gt;Più Europa (RE): 1.6–3.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-08-01-Tecnè.png"
+        length="213147"
+        type="image/png"/>
+      <pubDate>Thu, 22 Aug 2019 19:11:10 +0200</pubDate>
+      <dc:date>2019-08-22T19:11:10.413634+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Corriere della Sera, 30–31 July 2019 – Seat Projections for the Parties</title>
@@ -1419,6 +1469,6 @@
       <pubDate>Sat, 29 Jun 2019 16:56:02 +0200</pubDate>
       <dc:date>2019-06-29T16:56:02.59202+02:00</dc:date>
     </item>
-    <dc:date>2019-08-19T22:34:55.757157+02:00</dc:date>
+    <dc:date>2019-08-22T19:58:20.191145+02:00</dc:date>
   </channel>
 </rss>
