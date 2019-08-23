@@ -107,7 +107,7 @@ Last result: **31** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16 | 14–18 | 14–18 | 13–19 | 13–20 |
-| [20–21 August 2019](2019-08-21-GPF.html) | GPF | 16 | 15–18 | 14–18 | 14–19 | 13–20 |
+| [20–21 August 2019](2019-08-21-GPF.html) | GPF | 16 | 15–18 | 14–18 | 14–19 | 13–19 |
 | [12 August 2019](2019-08-12-GPF.html) | GPF | 16 | 15–18 | 14–18 | 14–19 | 13–19 |
 | [9–10 August 2019](2019-08-10-TermometroPolitico.html) | Termometro Politico <br> La7 | 17 | 16–18 | 16–18 | 16–18 | 15–19 |
 | [1–9 August 2019](2019-08-09-NotoSondaggi.html) | Noto Sondaggi | 16 | 15–17 | 14–17 | 14–18 | 13–18 |
