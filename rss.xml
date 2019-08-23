@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 22 Aug 2019 19:58:20 +0200</pubDate>
+    <pubDate>Thu, 22 Aug 2019 22:12:40 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by GPF, 20–21 August 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-08-21-GPF.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (NI): 15–19 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 14–19 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ID): 20–25 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 3–6 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 4–7 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-08-21-GPF-seats.png"
+        length="129604"
+        type="image/png"/>
+      <pubDate>Thu, 22 Aug 2019 22:12:40 +0200</pubDate>
+      <dc:date>2019-08-22T22:12:40.248787+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GPF, 20–21 August 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-08-21-GPF.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-08-21-GPF-coalitions-seats.png"
+        length="133499"
+        type="image/png"/>
+      <pubDate>Thu, 22 Aug 2019 22:12:40 +0200</pubDate>
+      <dc:date>2019-08-22T22:12:40.248787+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by GPF, 20–21 August 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-08-21-GPF.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-08-21-GPF.png"
         length="190309"
         type="image/png"/>
-      <pubDate>Thu, 22 Aug 2019 18:46:10 +0200</pubDate>
-      <dc:date>2019-08-22T18:46:10.447884+02:00</dc:date>
+      <pubDate>Thu, 22 Aug 2019 22:12:40 +0200</pubDate>
+      <dc:date>2019-08-22T22:12:40.248787+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GPF, 12 August 2019 – Seat Projections for the Parties</title>
@@ -1469,6 +1489,6 @@
       <pubDate>Sat, 29 Jun 2019 16:56:02 +0200</pubDate>
       <dc:date>2019-06-29T16:56:02.59202+02:00</dc:date>
     </item>
-    <dc:date>2019-08-22T19:58:20.191145+02:00</dc:date>
+    <dc:date>2019-08-22T22:12:40.248787+02:00</dc:date>
   </channel>
 </rss>
