@@ -105,7 +105,7 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [1–9 August 2019](2019-08-09-NotoSondaggi.html) | Noto Sondaggi | 12 | 11–13 | 11–14 | 10–14 | 10–14 |
 | [5 August 2019](2019-08-05-Tecnè.html) | Tecnè <br> Dire | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
 | [29 July–2 August 2019](2019-08-02-TermometroPolitico.html) | Termometro Politico | 13 | 12–14 | 12–14 | 12–14 | 11–15 |
-| [30 July–1 August 2019](2019-08-01-Tecnè.html) | Tecnè <br> Dire | 14 | 12–15 | 12–15 | 12–15 | 11–16 |
+| [30 July–1 August 2019](2019-08-01-Tecnè.html) | Tecnè <br> Dire | 14 | 12–15 | 12–15 | 12–16 | 11–16 |
 | [30–31 July 2019](2019-07-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 14 | 12–15 | 12–15 | 12–16 | 11–16 |
 | [27–30 July 2019](2019-07-30-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 11 | 10–12 | 10–13 | 10–13 | 10–13 |
 | [24–29 July 2019](2019-07-29-SWG.html) | SWG <br> La7 | 13 | 12–14 | 12–15 | 12–15 | 11–15 |
