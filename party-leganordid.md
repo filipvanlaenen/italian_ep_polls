@@ -122,7 +122,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 28 | 25–30 | 25–31 | 24–31 | 23–32 |
 | [20–21 August 2019](2019-08-21-GPF.html) | GPF | 23 | 21–24 | 20–25 | 20–25 | 19–26 |
 | [12 August 2019](2019-08-12-GPF.html) | GPF | 24 | 23–26 | 22–26 | 22–27 | 21–28 |
-| [9–10 August 2019](2019-08-10-TermometroPolitico.html) | Termometro Politico <br> La7 | 27 | 27–29 | 26–29 | 26–29 | 26–30 |
+| [9–10 August 2019](2019-08-10-TermometroPolitico.html) | Termometro Politico <br> La7 | 27 | 26–28 | 26–29 | 26–29 | 26–30 |
 | [1–9 August 2019](2019-08-09-NotoSondaggi.html) | Noto Sondaggi | 28 | 26–29 | 26–29 | 25–30 | 25–31 |
 | [5 August 2019](2019-08-05-Tecnè.html) | Tecnè <br> Dire | 29 | 27–31 | 27–31 | 27–32 | 26–33 |
 | [29 July–2 August 2019](2019-08-02-TermometroPolitico.html) | Termometro Politico | 29 | 27–30 | 27–30 | 27–30 | 26–31 |
