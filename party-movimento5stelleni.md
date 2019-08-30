@@ -11,6 +11,11 @@ Last result: **21.2%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17.6% | 15.6–20.3% | 14.8–23.8% | 14.3–24.9% | 13.4–26.4% |
+| [23–25 August 2019](2019-08-25-Demopolis.html) | Demopolis | 19.0% | 18.1–19.9% | 17.8–20.2% | 17.6–20.4% | 17.2–20.9% |
+| [21–23 August 2019](2019-08-23-TermometroPolitico.html) | Termometro Politico <br> La7 | 17.8% | 16.9–18.7% | 16.7–19.0% | 16.5–19.2% | 16.0–19.7% |
+| [21–23 August 2019](2019-08-23-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 16.8% | 15.6–18.1% | 15.3–18.5% | 15.0–18.8% | 14.4–19.4% |
+| [21 August 2019](2019-08-21-Tecnè.html) | Tecnè | 20.8% | 19.2–22.5% | 18.8–23.0% | 18.4–23.4% | 17.7–24.3% |
+| [21 August 2019](2019-08-21-IZI.html) | IZI | 16.0% | 14.6–17.5% | 14.2–18.0% | 13.8–18.4% | 13.2–19.1% |
 | [20–21 August 2019](2019-08-21-GPF.html) | GPF | 23.2% | 21.1–25.5% | 20.5–26.1% | 20.0–26.7% | 19.0–27.8% |
 | [12 August 2019](2019-08-12-GPF.html) | GPF | 23.7% | 21.8–25.7% | 21.3–26.3% | 20.9–26.8% | 20.0–27.7% |
 | [9–10 August 2019](2019-08-10-TermometroPolitico.html) | Termometro Politico <br> La7 | 18.2% | 17.2–19.2% | 17.0–19.5% | 16.7–19.8% | 16.3–20.3% |
@@ -99,6 +104,11 @@ Last result: **17** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 12–15 | 11–18 | 11–19 | 10–20 |
+| [23–25 August 2019](2019-08-25-Demopolis.html) | Demopolis | 14 | 13–14 | 13–15 | 13–15 | 13–15 |
+| [21–23 August 2019](2019-08-23-TermometroPolitico.html) | Termometro Politico <br> La7 | 14 | 13–14 | 13–14 | 13–15 | 12–15 |
+| [21–23 August 2019](2019-08-23-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
+| [21 August 2019](2019-08-21-Tecnè.html) | Tecnè | 16 | 15–18 | 14–18 | 14–18 | 13–19 |
+| [21 August 2019](2019-08-21-IZI.html) | IZI | 12 | 11–13 | 11–13 | 10–14 | 10–14 |
 | [20–21 August 2019](2019-08-21-GPF.html) | GPF | 17 | 15–18 | 15–19 | 15–19 | 14–20 |
 | [12 August 2019](2019-08-12-GPF.html) | GPF | 18 | 16–19 | 16–20 | 16–20 | 15–21 |
 | [9–10 August 2019](2019-08-10-TermometroPolitico.html) | Termometro Politico <br> La7 | 14 | 13–15 | 13–15 | 13–15 | 12–16 |
