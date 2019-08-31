@@ -97,7 +97,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 4–7 | 4–7 | 3–7 |
 | [23–25 August 2019](2019-08-25-Demopolis.html) | Demopolis | 5 | 5 | 4–6 | 4–6 | 4–6 |
 | [21–23 August 2019](2019-08-23-TermometroPolitico.html) | Termometro Politico <br> La7 | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
-| [21–23 August 2019](2019-08-23-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 7 | 6–7 | 6–7 | 5–8 | 5–8 |
+| [21–23 August 2019](2019-08-23-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 7 | 6–7 | 6–8 | 5–8 | 5–8 |
 | [21 August 2019](2019-08-21-Tecnè.html) | Tecnè | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [21 August 2019](2019-08-21-IZI.html) | IZI | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [20–21 August 2019](2019-08-21-GPF.html) | GPF | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
