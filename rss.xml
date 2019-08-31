@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 30 Aug 2019 19:22:21 +0200</pubDate>
+    <pubDate>Sat, 31 Aug 2019 14:50:39 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Demopolis, 23–25 August 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-08-25-Demopolis.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (NI): 13–15 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 15–17 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ID): 23–25 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 4–6 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-08-25-Demopolis-seats.png"
+        length="112936"
+        type="image/png"/>
+      <pubDate>Sat, 31 Aug 2019 13:54:27 +0200</pubDate>
+      <dc:date>2019-08-31T13:54:27.114479+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demopolis, 23–25 August 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-08-25-Demopolis.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-08-25-Demopolis-coalitions-seats.png"
+        length="111018"
+        type="image/png"/>
+      <pubDate>Sat, 31 Aug 2019 13:54:27 +0200</pubDate>
+      <dc:date>2019-08-31T13:54:27.114479+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Demopolis, 23–25 August 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-08-25-Demopolis.html</link>
@@ -16,8 +36,28 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-08-25-Demopolis.png"
         length="159698"
         type="image/png"/>
-      <pubDate>Fri, 30 Aug 2019 19:20:50 +0200</pubDate>
-      <dc:date>2019-08-30T19:20:50.081253+02:00</dc:date>
+      <pubDate>Sat, 31 Aug 2019 13:54:27 +0200</pubDate>
+      <dc:date>2019-08-31T13:54:27.114479+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Termometro Politico for La7, 21–23 August 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-08-23-TermometroPolitico.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (NI): 12–15 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 16–19 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ID): 26–29 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 5–6 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-08-23-TermometroPolitico-seats.png"
+        length="127165"
+        type="image/png"/>
+      <pubDate>Sat, 31 Aug 2019 14:09:18 +0200</pubDate>
+      <dc:date>2019-08-31T14:09:18.93319+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Termometro Politico for La7, 21–23 August 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-08-23-TermometroPolitico.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-08-23-TermometroPolitico-coalitions-seats.png"
+        length="111746"
+        type="image/png"/>
+      <pubDate>Sat, 31 Aug 2019 14:09:18 +0200</pubDate>
+      <dc:date>2019-08-31T14:09:18.93319+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Termometro Politico for La7, 21–23 August 2019 – Voting Intentions</title>
@@ -26,8 +66,28 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-08-23-TermometroPolitico.png"
         length="192873"
         type="image/png"/>
-      <pubDate>Fri, 30 Aug 2019 18:36:16 +0200</pubDate>
-      <dc:date>2019-08-30T18:36:16.031964+02:00</dc:date>
+      <pubDate>Sat, 31 Aug 2019 14:09:18 +0200</pubDate>
+      <dc:date>2019-08-31T14:09:18.93319+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Scenari Politici–Winpoll for Il Sole 24 Ore, 21–23 August 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-08-23-ScenariPolitici–Winpoll.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (NI): 12–15 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 16–20 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ID): 24–29 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 4–6 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 5–8 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-08-23-ScenariPolitici–Winpoll-seats.png"
+        length="147576"
+        type="image/png"/>
+      <pubDate>Sat, 31 Aug 2019 14:24:12 +0200</pubDate>
+      <dc:date>2019-08-31T14:24:12.588955+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Scenari Politici–Winpoll for Il Sole 24 Ore, 21–23 August 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-08-23-ScenariPolitici–Winpoll.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-08-23-ScenariPolitici–Winpoll-coalitions-seats.png"
+        length="137436"
+        type="image/png"/>
+      <pubDate>Sat, 31 Aug 2019 14:24:12 +0200</pubDate>
+      <dc:date>2019-08-31T14:24:12.588955+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Scenari Politici–Winpoll for Il Sole 24 Ore, 21–23 August 2019 – Voting Intentions</title>
@@ -36,8 +96,28 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-08-23-ScenariPolitici–Winpoll.png"
         length="205891"
         type="image/png"/>
-      <pubDate>Fri, 30 Aug 2019 18:18:16 +0200</pubDate>
-      <dc:date>2019-08-30T18:18:16.452782+02:00</dc:date>
+      <pubDate>Sat, 31 Aug 2019 14:24:12 +0200</pubDate>
+      <dc:date>2019-08-31T14:24:12.588955+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Tecnè, 21 August 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-08-21-Tecnè.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (NI): 14–18 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 16–20 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ID): 22–26 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 5–8 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 4–6 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-08-21-Tecnè-seats.png"
+        length="141859"
+        type="image/png"/>
+      <pubDate>Sat, 31 Aug 2019 14:38:19 +0200</pubDate>
+      <dc:date>2019-08-31T14:38:19.798243+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Tecnè, 21 August 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-08-21-Tecnè.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-08-21-Tecnè-coalitions-seats.png"
+        length="129274"
+        type="image/png"/>
+      <pubDate>Sat, 31 Aug 2019 14:38:19 +0200</pubDate>
+      <dc:date>2019-08-31T14:38:19.798243+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Tecnè, 21 August 2019 – Voting Intentions</title>
@@ -46,8 +126,28 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-08-21-Tecnè.png"
         length="212110"
         type="image/png"/>
-      <pubDate>Fri, 30 Aug 2019 18:26:58 +0200</pubDate>
-      <dc:date>2019-08-30T18:26:58.521211+02:00</dc:date>
+      <pubDate>Sat, 31 Aug 2019 14:38:19 +0200</pubDate>
+      <dc:date>2019-08-31T14:38:19.798243+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IZI, 21 August 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-08-21-IZI.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (NI): 10–14 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 15–18 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ID): 25–29 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 4–6 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 5–7 seats&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-08-21-IZI-seats.png"
+        length="128026"
+        type="image/png"/>
+      <pubDate>Sat, 31 Aug 2019 14:50:39 +0200</pubDate>
+      <dc:date>2019-08-31T14:50:39.088864+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IZI, 21 August 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-08-21-IZI.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-08-21-IZI-coalitions-seats.png"
+        length="122870"
+        type="image/png"/>
+      <pubDate>Sat, 31 Aug 2019 14:50:39 +0200</pubDate>
+      <dc:date>2019-08-31T14:50:39.088864+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IZI, 21 August 2019 – Voting Intentions</title>
@@ -56,8 +156,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-08-21-IZI.png"
         length="191973"
         type="image/png"/>
-      <pubDate>Fri, 30 Aug 2019 19:22:21 +0200</pubDate>
-      <dc:date>2019-08-30T19:22:21.24833+02:00</dc:date>
+      <pubDate>Sat, 31 Aug 2019 14:50:39 +0200</pubDate>
+      <dc:date>2019-08-31T14:50:39.088864+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GPF, 20–21 August 2019 – Seat Projections for the Parties</title>
@@ -1619,6 +1719,6 @@
       <pubDate>Sat, 29 Jun 2019 16:56:02 +0200</pubDate>
       <dc:date>2019-06-29T16:56:02.59202+02:00</dc:date>
     </item>
-    <dc:date>2019-08-30T19:22:21.24833+02:00</dc:date>
+    <dc:date>2019-08-31T14:50:39.088864+02:00</dc:date>
   </channel>
 </rss>
