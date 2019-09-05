@@ -11,6 +11,12 @@ Last result: **21.2%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17.6% | 15.6–20.3% | 14.8–23.8% | 14.3–24.9% | 13.4–26.4% |
+| [31 August–2 September 2019](2019-09-02-Tecnè.html) | Tecnè <br> Rete 4 | 21.5% | 19.9–23.2% | 19.4–23.7% | 19.1–24.2% | 18.3–25.0% |
+| [29 August–2 September 2019](2019-09-02-SWG.html) | SWG <br> La7 | 21.6% | 20.3–23.0% | 19.9–23.4% | 19.6–23.8% | 19.0–24.4% |
+| [29–30 August 2019](2019-08-30-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 | 18.6% | 17.1–20.3% | 16.7–20.7% | 16.3–21.1% | 15.6–21.9% |
+| [26–29 August 2019](2019-08-29-Ipsos.html) | Ipsos <br> Corriere della Sera | 24.2% | 22.6–26.1% | 22.1–26.6% | 21.7–27.0% | 20.9–27.9% |
+| [24–28 August 2019](2019-08-28-BiDiMedia.html) | BiDiMedia | 19.2% | 18.0–20.5% | 17.7–20.8% | 17.4–21.2% | 16.8–21.8% |
+| [27 August 2019](2019-08-27-Piepoli.html) | Piepoli <br> La Stampa | 16.4% | 14.5–18.7% | 13.9–19.4% | 13.5–19.9% | 12.6–21.1% |
 | [23–25 August 2019](2019-08-25-Demopolis.html) | Demopolis | 19.0% | 18.1–19.9% | 17.8–20.2% | 17.6–20.4% | 17.2–20.9% |
 | [21–23 August 2019](2019-08-23-TermometroPolitico.html) | Termometro Politico <br> La7 | 17.8% | 16.9–18.7% | 16.7–19.0% | 16.5–19.2% | 16.0–19.7% |
 | [21–23 August 2019](2019-08-23-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 16.8% | 15.6–18.1% | 15.3–18.5% | 15.0–18.8% | 14.4–19.4% |
@@ -104,6 +110,12 @@ Last result: **17** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 12–15 | 11–18 | 11–19 | 10–20 |
+| [31 August–2 September 2019](2019-09-02-Tecnè.html) | Tecnè <br> Rete 4 | 16 | 14–17 | 14–17 | 14–18 | 13–18 |
+| [29 August–2 September 2019](2019-09-02-SWG.html) | SWG <br> La7 | 17 | 16–18 | 16–18 | 15–19 | 15–19 |
+| [29–30 August 2019](2019-08-30-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 | 14 | 13–16 | 13–16 | 12–16 | 12–17 |
+| [26–29 August 2019](2019-08-29-Ipsos.html) | Ipsos <br> Corriere della Sera | 19 | 18–21 | 17–21 | 17–21 | 16–22 |
+| [24–28 August 2019](2019-08-28-BiDiMedia.html) | BiDiMedia | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
+| [27 August 2019](2019-08-27-Piepoli.html) | Piepoli <br> La Stampa | 12 | 11–14 | 10–14 | 10–15 | 9–16 |
 | [23–25 August 2019](2019-08-25-Demopolis.html) | Demopolis | 14 | 13–15 | 13–15 | 13–15 | 13–15 |
 | [21–23 August 2019](2019-08-23-TermometroPolitico.html) | Termometro Politico <br> La7 | 13 | 13–14 | 13–14 | 12–15 | 12–15 |
 | [21–23 August 2019](2019-08-23-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
