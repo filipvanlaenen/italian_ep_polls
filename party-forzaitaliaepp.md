@@ -12,6 +12,9 @@ Last result: **16.8%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6.9% | 5.9–8.5% | 5.6–9.0% | 5.4–9.4% | 5.0–10.3% |
 | [1–6 September 2019](2019-09-06-NotoSondaggi.html) | Noto Sondaggi <br> Quotidiano Nazionale | 6.5% | 5.6–7.6% | 5.3–7.9% | 5.1–8.2% | 4.7–8.8% |
+| [5 September 2019](2019-09-05-Tecnè.html) | Tecnè <br> Rete 4 | 7.9% | N/A | N/A | N/A | N/A |
+| [4–5 September 2019](2019-09-05-GPF.html) | GPF <br> La Notizia | 6.1% | N/A | N/A | N/A | N/A |
+| [4–5 September 2019](2019-09-05-Demopolis.html) | Demopolis <br> Rai 3 | 6.7% | N/A | N/A | N/A | N/A |
 | [2–3 September 2019](2019-09-03-Ixè.html) | Ixè <br> Rai 3 | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.3% |
 | [31 August–2 September 2019](2019-09-02-Tecnè.html) | Tecnè <br> Rete 4 | 7.8% | 6.8–9.0% | 6.5–9.3% | 6.3–9.6% | 5.8–10.2% |
 | [29 August–2 September 2019](2019-09-02-SWG.html) | SWG <br> La7 | 6.3% | 5.5–7.1% | 5.3–7.4% | 5.1–7.6% | 4.8–8.1% |
@@ -109,6 +112,9 @@ Last result: **13** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 4–7 | 4–7 | 4–8 |
 | [1–6 September 2019](2019-09-06-NotoSondaggi.html) | Noto Sondaggi <br> Quotidiano Nazionale | 4 | 4–5 | 4–6 | 4–6 | 4–7 |
+| [5 September 2019](2019-09-05-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
+| [4–5 September 2019](2019-09-05-GPF.html) | GPF <br> La Notizia |  |  |  |  |  |
+| [4–5 September 2019](2019-09-05-Demopolis.html) | Demopolis <br> Rai 3 |  |  |  |  |  |
 | [2–3 September 2019](2019-09-03-Ixè.html) | Ixè <br> Rai 3 | 6 | 4–6 | 4–6 | 4–7 | 4–7 |
 | [31 August–2 September 2019](2019-09-02-Tecnè.html) | Tecnè <br> Rete 4 | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
 | [29 August–2 September 2019](2019-09-02-SWG.html) | SWG <br> La7 | 5 | 4–6 | 4–6 | 4–6 | 4–6 |

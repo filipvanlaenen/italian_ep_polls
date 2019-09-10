@@ -12,6 +12,9 @@ Last result: **6.2%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 36.6% | 33.7–39.3% | 32.8–39.9% | 32.0–40.4% | 30.6–41.4% |
 | [1–6 September 2019](2019-09-06-NotoSondaggi.html) | Noto Sondaggi <br> Quotidiano Nazionale | 35.0% | 33.1–37.0% | 32.6–37.5% | 32.1–38.0% | 31.2–39.0% |
+| [5 September 2019](2019-09-05-Tecnè.html) | Tecnè <br> Rete 4 | 30.7% | N/A | N/A | N/A | N/A |
+| [4–5 September 2019](2019-09-05-GPF.html) | GPF <br> La Notizia | 30.3% | N/A | N/A | N/A | N/A |
+| [4–5 September 2019](2019-09-05-Demopolis.html) | Demopolis <br> Rai 3 | 32.0% | N/A | N/A | N/A | N/A |
 | [2–3 September 2019](2019-09-03-Ixè.html) | Ixè <br> Rai 3 | 30.1% | 28.3–32.0% | 27.8–32.6% | 27.3–33.0% | 26.5–33.9% |
 | [31 August–2 September 2019](2019-09-02-Tecnè.html) | Tecnè <br> Rete 4 | 31.0% | 29.2–32.9% | 28.7–33.5% | 28.2–33.9% | 27.3–34.9% |
 | [29 August–2 September 2019](2019-09-02-SWG.html) | SWG <br> La7 | 32.9% | 31.4–34.5% | 31.0–35.0% | 30.6–35.4% | 29.9–36.1% |
@@ -134,6 +137,9 @@ Last result: **5** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 28 | 25–30 | 25–31 | 24–31 | 23–32 |
 | [1–6 September 2019](2019-09-06-NotoSondaggi.html) | Noto Sondaggi <br> Quotidiano Nazionale | 25 | 24–28 | 24–29 | 23–29 | 23–30 |
+| [5 September 2019](2019-09-05-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
+| [4–5 September 2019](2019-09-05-GPF.html) | GPF <br> La Notizia |  |  |  |  |  |
+| [4–5 September 2019](2019-09-05-Demopolis.html) | Demopolis <br> Rai 3 |  |  |  |  |  |
 | [2–3 September 2019](2019-09-03-Ixè.html) | Ixè <br> Rai 3 | 23 | 22–24 | 21–24 | 20–25 | 20–25 |
 | [31 August–2 September 2019](2019-09-02-Tecnè.html) | Tecnè <br> Rete 4 | 23 | 21–24 | 21–24 | 21–25 | 20–25 |
 | [29 August–2 September 2019](2019-09-02-SWG.html) | SWG <br> La7 | 25 | 24–26 | 24–27 | 23–27 | 23–28 |
