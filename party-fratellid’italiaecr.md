@@ -117,17 +117,17 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 4–7 | 4–7 | 3–7 |
-| [11–16 September 2019](2019-09-16-SWG.html) | SWG <br> La7 | 7 | 5–7 | 5–7 | 4–7 | 4–7 |
+| [11–16 September 2019](2019-09-16-SWG.html) | SWG <br> La7 | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
 | [11–12 September 2019](2019-09-12-TermometroPolitico.html) | Termometro Politico <br> La7 | 6 | 6 | 6 | 6 | 5–6 |
-| [12 September 2019](2019-09-12-Tecnè.html) | Tecnè <br> Rete 4 | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
+| [12 September 2019](2019-09-12-Tecnè.html) | Tecnè <br> Rete 4 | 6 | 5–6 | 5–7 | 4–7 | 4–7 |
 | [9–12 September 2019](2019-09-12-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 6 | 5–7 | 5–7 | 5–8 | 5–9 |
 | [9–10 September 2019](2019-09-10-Tecnè.html) | Tecnè <br> Rete 4 | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
 | [9–10 September 2019](2019-09-10-NotoSondaggi.html) | Noto Sondaggi | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
 | [9–10 September 2019](2019-09-10-Euromedia.html) | Euromedia | 5 | 5 | 5–6 | 5–6 | 5–6 |
 | [10 September 2019](2019-09-10-EMG.html) | EMG <br> Rai 3 | 5 | 4–5 | 4–5 | 4–6 | 4–7 |
-| [9–10 September 2019](2019-09-10-Demopolis.html) | Demopolis <br> Rai 3 | 4 | 4–5 | 4–6 | 4–6 | 4–6 |
-| [4–9 September 2019](2019-09-09-SWG.html) | SWG <br> La7 | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
-| [7–9 September 2019](2019-09-09-Piepoli.html) | Piepoli <br> Rai 1 | 4 | 4–5 | 4–6 | 4–6 | 3–7 |
+| [9–10 September 2019](2019-09-10-Demopolis.html) | Demopolis <br> Rai 3 | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
+| [4–9 September 2019](2019-09-09-SWG.html) | SWG <br> La7 | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
+| [7–9 September 2019](2019-09-09-Piepoli.html) | Piepoli <br> Rai 1 | 5 | 4–6 | 4–6 | 3–7 | 3–7 |
 | [1–6 September 2019](2019-09-06-NotoSondaggi.html) | Noto Sondaggi <br> Quotidiano Nazionale | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [5 September 2019](2019-09-05-Tecnè.html) | Tecnè <br> Rete 4 | 5 | 5–6 | 4–7 | 4–7 | 4–7 |
 | [4–5 September 2019](2019-09-05-GPF.html) | GPF <br> La Notizia | 6 | 6 | 6 | 5–7 | 5–7 |

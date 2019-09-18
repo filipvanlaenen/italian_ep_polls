@@ -126,17 +126,17 @@ Last result: **17** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 12–15 | 11–18 | 11–19 | 10–20 |
-| [11–16 September 2019](2019-09-16-SWG.html) | SWG <br> La7 | 15 | 15–16 | 15–18 | 14–18 | 13–18 |
+| [11–16 September 2019](2019-09-16-SWG.html) | SWG <br> La7 | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
 | [11–12 September 2019](2019-09-12-TermometroPolitico.html) | Termometro Politico <br> La7 | 14 | 14–15 | 14–15 | 14–15 | 14–15 |
-| [12 September 2019](2019-09-12-Tecnè.html) | Tecnè <br> Rete 4 | 15 | 14–16 | 13–16 | 13–16 | 13–16 |
+| [12 September 2019](2019-09-12-Tecnè.html) | Tecnè <br> Rete 4 | 16 | 14–17 | 14–18 | 13–18 | 13–19 |
 | [9–12 September 2019](2019-09-12-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 13 | 11–13 | 11–14 | 11–14 | 10–14 |
 | [9–10 September 2019](2019-09-10-Tecnè.html) | Tecnè <br> Rete 4 | 17 | 16–19 | 15–19 | 15–19 | 14–20 |
 | [9–10 September 2019](2019-09-10-NotoSondaggi.html) | Noto Sondaggi | 14 | 13–16 | 13–16 | 13–16 | 12–17 |
 | [9–10 September 2019](2019-09-10-Euromedia.html) | Euromedia | 14 | 14–16 | 13–16 | 13–16 | 13–16 |
 | [10 September 2019](2019-09-10-EMG.html) | EMG <br> Rai 3 | 16 | 15–16 | 14–17 | 14–17 | 14–17 |
-| [9–10 September 2019](2019-09-10-Demopolis.html) | Demopolis <br> Rai 3 | 18 | 16–18 | 15–18 | 15–18 | 15–18 |
-| [4–9 September 2019](2019-09-09-SWG.html) | SWG <br> La7 | 16 | 16–17 | 14–18 | 14–18 | 13–18 |
-| [7–9 September 2019](2019-09-09-Piepoli.html) | Piepoli <br> Rai 1 | 17 | 15–18 | 14–18 | 14–18 | 13–20 |
+| [9–10 September 2019](2019-09-10-Demopolis.html) | Demopolis <br> Rai 3 | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
+| [4–9 September 2019](2019-09-09-SWG.html) | SWG <br> La7 | 16 | 15–17 | 15–18 | 14–18 | 14–18 |
+| [7–9 September 2019](2019-09-09-Piepoli.html) | Piepoli <br> Rai 1 | 15 | 13–17 | 13–18 | 13–18 | 12–19 |
 | [1–6 September 2019](2019-09-06-NotoSondaggi.html) | Noto Sondaggi <br> Quotidiano Nazionale | 16 | 14–16 | 13–16 | 13–18 | 12–19 |
 | [5 September 2019](2019-09-05-Tecnè.html) | Tecnè <br> Rete 4 | 17 | 16–18 | 15–19 | 15–19 | 14–20 |
 | [4–5 September 2019](2019-09-05-GPF.html) | GPF <br> La Notizia | 19 | 18–19 | 18–20 | 18–20 | 17–20 |
