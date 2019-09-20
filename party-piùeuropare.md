@@ -122,7 +122,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [9–12 September 2019](2019-09-12-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 0 | 0 | 0 | 0 | 0 |
 | [9–10 September 2019](2019-09-10-Tecnè.html) | Tecnè <br> Rete 4 | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [9–10 September 2019](2019-09-10-NotoSondaggi.html) | Noto Sondaggi | 0 | 0 | 0 | 0 | 0 |
-| [9–10 September 2019](2019-09-10-Euromedia.html) | Euromedia | 0 | 0 | 0 | 0 | 0 |
+| [9–10 September 2019](2019-09-10-Euromedia.html) | Euromedia | 0 | 0 | 0 | 0–3 | 0–3 |
 | [10 September 2019](2019-09-10-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [9–10 September 2019](2019-09-10-Demopolis.html) | Demopolis <br> Rai 3 |  |  |  |  |  |
 | [4–9 September 2019](2019-09-09-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
@@ -131,7 +131,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [5 September 2019](2019-09-05-Tecnè.html) | Tecnè <br> Rete 4 | 0 | 0 | 0 | 0 | 0–3 |
 | [4–5 September 2019](2019-09-05-GPF.html) | GPF <br> La Notizia | 0 | 0 | 0 | 0 | 0 |
 | [4–5 September 2019](2019-09-05-Demopolis.html) | Demopolis <br> Rai 3 |  |  |  |  |  |
-| [2–3 September 2019](2019-09-03-Ixè.html) | Ixè <br> Rai 3 | 3 | 0–3 | 0–3 | 0–3 | 0–3 |
+| [2–3 September 2019](2019-09-03-Ixè.html) | Ixè <br> Rai 3 | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [31 August–2 September 2019](2019-09-02-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
 | [29 August–2 September 2019](2019-09-02-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0–3 | 0–3 |
 | [29–30 August 2019](2019-08-30-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 | 3 | 0–4 | 0–4 | 0–4 | 0–5 |

@@ -129,19 +129,19 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [11–16 September 2019](2019-09-16-SWG.html) | SWG <br> La7 | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
 | [11–12 September 2019](2019-09-12-TermometroPolitico.html) | Termometro Politico <br> La7 | 14 | 14–15 | 14–15 | 14–15 | 14–15 |
 | [12 September 2019](2019-09-12-Tecnè.html) | Tecnè <br> Rete 4 | 16 | 14–17 | 14–18 | 13–18 | 13–19 |
-| [9–12 September 2019](2019-09-12-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 13 | 11–13 | 11–14 | 11–14 | 10–14 |
+| [9–12 September 2019](2019-09-12-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
 | [9–10 September 2019](2019-09-10-Tecnè.html) | Tecnè <br> Rete 4 | 17 | 16–19 | 15–19 | 15–19 | 14–20 |
 | [9–10 September 2019](2019-09-10-NotoSondaggi.html) | Noto Sondaggi | 14 | 13–16 | 13–16 | 13–16 | 12–17 |
-| [9–10 September 2019](2019-09-10-Euromedia.html) | Euromedia | 14 | 14–16 | 13–16 | 13–16 | 13–16 |
-| [10 September 2019](2019-09-10-EMG.html) | EMG <br> Rai 3 | 16 | 15–16 | 14–17 | 14–17 | 14–17 |
+| [9–10 September 2019](2019-09-10-Euromedia.html) | Euromedia | 15 | 14–16 | 13–17 | 13–17 | 13–18 |
+| [10 September 2019](2019-09-10-EMG.html) | EMG <br> Rai 3 | 15 | 14–16 | 14–16 | 14–16 | 13–17 |
 | [9–10 September 2019](2019-09-10-Demopolis.html) | Demopolis <br> Rai 3 | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
 | [4–9 September 2019](2019-09-09-SWG.html) | SWG <br> La7 | 16 | 15–17 | 15–18 | 14–18 | 14–18 |
 | [7–9 September 2019](2019-09-09-Piepoli.html) | Piepoli <br> Rai 1 | 15 | 13–17 | 13–18 | 13–18 | 12–19 |
-| [1–6 September 2019](2019-09-06-NotoSondaggi.html) | Noto Sondaggi <br> Quotidiano Nazionale | 16 | 14–16 | 13–16 | 13–18 | 12–19 |
+| [1–6 September 2019](2019-09-06-NotoSondaggi.html) | Noto Sondaggi <br> Quotidiano Nazionale | 15 | 14–17 | 13–17 | 13–17 | 13–18 |
 | [5 September 2019](2019-09-05-Tecnè.html) | Tecnè <br> Rete 4 | 17 | 16–18 | 15–19 | 15–19 | 14–20 |
 | [4–5 September 2019](2019-09-05-GPF.html) | GPF <br> La Notizia | 19 | 18–19 | 18–20 | 18–20 | 17–20 |
 | [4–5 September 2019](2019-09-05-Demopolis.html) | Demopolis <br> Rai 3 | 16 | 16 | 16 | 16 | 16–18 |
-| [2–3 September 2019](2019-09-03-Ixè.html) | Ixè <br> Rai 3 | 17 | 16–20 | 16–20 | 16–20 | 16–20 |
+| [2–3 September 2019](2019-09-03-Ixè.html) | Ixè <br> Rai 3 | 17 | 16–18 | 15–19 | 15–19 | 15–20 |
 | [31 August–2 September 2019](2019-09-02-Tecnè.html) | Tecnè <br> Rete 4 | 16 | 14–17 | 14–17 | 14–18 | 13–18 |
 | [29 August–2 September 2019](2019-09-02-SWG.html) | SWG <br> La7 | 17 | 16–18 | 16–18 | 15–19 | 15–19 |
 | [29–30 August 2019](2019-08-30-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 | 14 | 13–16 | 13–16 | 12–16 | 12–17 |
