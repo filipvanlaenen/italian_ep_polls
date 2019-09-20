@@ -148,7 +148,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 28 | 25–30 | 25–31 | 24–31 | 23–32 |
 | [11–16 September 2019](2019-09-16-SWG.html) | SWG <br> La7 | 26 | 25–27 | 25–27 | 24–27 | 24–28 |
-| [11–12 September 2019](2019-09-12-TermometroPolitico.html) | Termometro Politico <br> La7 | 28 | 26–28 | 26–28 | 26–28 | 26–28 |
+| [11–12 September 2019](2019-09-12-TermometroPolitico.html) | Termometro Politico <br> La7 | 26 | 25–27 | 25–27 | 25–28 | 24–28 |
 | [12 September 2019](2019-09-12-Tecnè.html) | Tecnè <br> Rete 4 | 23 | 21–25 | 21–25 | 21–26 | 20–26 |
 | [9–12 September 2019](2019-09-12-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 26 | 25–27 | 25–28 | 24–28 | 24–29 |
 | [9–10 September 2019](2019-09-10-Tecnè.html) | Tecnè <br> Rete 4 | 23 | 22–25 | 21–25 | 21–26 | 20–27 |
@@ -160,8 +160,8 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [7–9 September 2019](2019-09-09-Piepoli.html) | Piepoli <br> Rai 1 | 22 | 20–24 | 20–25 | 19–25 | 18–27 |
 | [1–6 September 2019](2019-09-06-NotoSondaggi.html) | Noto Sondaggi <br> Quotidiano Nazionale | 27 | 25–29 | 25–29 | 24–30 | 23–30 |
 | [5 September 2019](2019-09-05-Tecnè.html) | Tecnè <br> Rete 4 | 24 | 22–25 | 22–26 | 22–26 | 21–27 |
-| [4–5 September 2019](2019-09-05-GPF.html) | GPF <br> La Notizia | 23 | 23 | 23–24 | 23–24 | 21–24 |
-| [4–5 September 2019](2019-09-05-Demopolis.html) | Demopolis <br> Rai 3 | 24 | 24–25 | 24–25 | 24–25 | 23–25 |
+| [4–5 September 2019](2019-09-05-GPF.html) | GPF <br> La Notizia | 23 | 21–24 | 21–25 | 21–26 | 21–26 |
+| [4–5 September 2019](2019-09-05-Demopolis.html) | Demopolis <br> Rai 3 | 24 | 23–25 | 22–25 | 22–26 | 22–26 |
 | [2–3 September 2019](2019-09-03-Ixè.html) | Ixè <br> Rai 3 | 23 | 22–25 | 21–25 | 21–26 | 20–27 |
 | [31 August–2 September 2019](2019-09-02-Tecnè.html) | Tecnè <br> Rete 4 | 23 | 21–24 | 21–24 | 21–25 | 20–25 |
 | [29 August–2 September 2019](2019-09-02-SWG.html) | SWG <br> La7 | 25 | 24–26 | 24–27 | 23–27 | 23–28 |

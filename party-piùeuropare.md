@@ -129,7 +129,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [7–9 September 2019](2019-09-09-Piepoli.html) | Piepoli <br> Rai 1 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [1–6 September 2019](2019-09-06-NotoSondaggi.html) | Noto Sondaggi <br> Quotidiano Nazionale | 0 | 0 | 0 | 0 | 0 |
 | [5 September 2019](2019-09-05-Tecnè.html) | Tecnè <br> Rete 4 | 0 | 0 | 0 | 0 | 0–3 |
-| [4–5 September 2019](2019-09-05-GPF.html) | GPF <br> La Notizia | 0 | 0 | 0 | 0 | 0 |
+| [4–5 September 2019](2019-09-05-GPF.html) | GPF <br> La Notizia | 0 | 0 | 0 | 0 | 0–3 |
 | [4–5 September 2019](2019-09-05-Demopolis.html) | Demopolis <br> Rai 3 |  |  |  |  |  |
 | [2–3 September 2019](2019-09-03-Ixè.html) | Ixè <br> Rai 3 | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [31 August–2 September 2019](2019-09-02-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
