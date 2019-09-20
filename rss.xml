@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 18 Sep 2019 14:59:44 +0200</pubDate>
+    <pubDate>Thu, 19 Sep 2019 08:10:44 +0200</pubDate>
     <item>
       <title>Opinion Poll by SWG for La7, 11–16 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-09-16-SWG.html</link>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-09-12-ScenariPolitici–Winpoll.png"
         length="206251"
         type="image/png"/>
-      <pubDate>Tue, 17 Sep 2019 22:43:19 +0200</pubDate>
-      <dc:date>2019-09-17T22:43:19.274794+02:00</dc:date>
+      <pubDate>Thu, 19 Sep 2019 07:17:25 +0200</pubDate>
+      <dc:date>2019-09-19T07:17:25.913068+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Tecnè for Rete 4, 9–10 September 2019 – Voting Intentions</title>
@@ -76,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-09-10-Euromedia.png"
         length="217842"
         type="image/png"/>
-      <pubDate>Wed, 18 Sep 2019 10:58:05 +0200</pubDate>
-      <dc:date>2019-09-18T10:58:05.865177+02:00</dc:date>
+      <pubDate>Thu, 19 Sep 2019 07:11:04 +0200</pubDate>
+      <dc:date>2019-09-19T07:11:04.337047+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by EMG for Rai 3, 10 September 2019 – Voting Intentions</title>
@@ -86,8 +86,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-09-10-EMG.png"
         length="199980"
         type="image/png"/>
-      <pubDate>Wed, 18 Sep 2019 11:04:04 +0200</pubDate>
-      <dc:date>2019-09-18T11:04:04.367394+02:00</dc:date>
+      <pubDate>Thu, 19 Sep 2019 07:48:37 +0200</pubDate>
+      <dc:date>2019-09-19T07:48:37.348788+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Demopolis for Rai 3, 9–10 September 2019 – Voting Intentions</title>
@@ -126,8 +126,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-09-06-NotoSondaggi.png"
         length="214323"
         type="image/png"/>
-      <pubDate>Fri, 06 Sep 2019 20:31:56 +0200</pubDate>
-      <dc:date>2019-09-06T20:31:56.31887+02:00</dc:date>
+      <pubDate>Thu, 19 Sep 2019 08:10:44 +0200</pubDate>
+      <dc:date>2019-09-19T08:10:44.61867+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Tecnè for Rete 4, 5 September 2019 – Voting Intentions</title>
@@ -166,8 +166,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-09-03-Ixè.png"
         length="213934"
         type="image/png"/>
-      <pubDate>Fri, 06 Sep 2019 22:45:26 +0200</pubDate>
-      <dc:date>2019-09-06T22:45:26.836196+02:00</dc:date>
+      <pubDate>Thu, 19 Sep 2019 07:19:48 +0200</pubDate>
+      <dc:date>2019-09-19T07:19:48.342569+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Tecnè for Rete 4, 31 August–2 September 2019 – Voting Intentions</title>
@@ -1959,6 +1959,6 @@
       <pubDate>Sat, 29 Jun 2019 16:56:02 +0200</pubDate>
       <dc:date>2019-06-29T16:56:02.59202+02:00</dc:date>
     </item>
-    <dc:date>2019-09-18T14:59:44.184561+02:00</dc:date>
+    <dc:date>2019-09-19T08:10:44.61867+02:00</dc:date>
   </channel>
 </rss>
