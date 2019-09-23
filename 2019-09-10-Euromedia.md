@@ -17,6 +17,8 @@
 | Fratelli d’Italia (ECR) | 3.7% | 6.4% | 5.4–7.6% |5.1–8.0% |4.9–8.3% |4.5–8.9% |
 | Liberi e Uguali (S&D) | 0.0% | 2.9% | 2.2–3.8% |2.1–4.1% |1.9–4.3% |1.7–4.8% |
 | Più Europa (RE) | 0.0% | 2.8% | 2.1–3.7% |2.0–3.9% |1.8–4.1% |1.6–4.6% |
+| Cambiamo! (*) | 0.0% | 1.4% | 1.0–2.1% |0.9–2.3% |0.8–2.5% |0.6–2.8% |
+| Europa Verde (Greens/EFA) | 0.0% | 0.9% | 0.6–1.5% |0.5–1.6% |0.4–1.8% |0.3–2.1% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -30,13 +32,15 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#lega-nord-(id)">Lega Nord (ID)</a> | 5 | 26 | 24–28 |24–28 |23–28 |23–29 |
-| <a href="#partito-democratico-(s&d)">Partito Democratico (S&D)</a> | 31 | 15 | 13–16 |13–17 |13–17 |12–18 |
-| <a href="#movimento-5-stelle-(ni)">Movimento 5 Stelle (NI)</a> | 17 | 15 | 14–16 |13–17 |13–17 |13–18 |
-| <a href="#forza-italia-(epp)">Forza Italia (EPP)</a> | 13 | 5 | 4–6 |4–6 |4–7 |4–7 |
-| <a href="#fratelli-d’italia-(ecr)">Fratelli d’Italia (ECR)</a> | 0 | 5 | 4–6 |4–6 |4–6 |3–7 |
-| <a href="#liberi-e-uguali-(s&d)">Liberi e Uguali (S&D)</a> | 0 | 0 | 0 |0 |0–3 |0–4 |
-| <a href="#più-europa-(re)">Più Europa (RE)</a> | 0 | 0 | 0 |0 |0–3 |0–3 |
+| <a href="#lega-nord-(id)">Lega Nord (ID)</a> | 5 | 27 | 25–27 |25–27 |23–27 |23–28 |
+| <a href="#partito-democratico-(s&d)">Partito Democratico (S&D)</a> | 31 | 16 | 15–17 |15–17 |13–17 |12–17 |
+| <a href="#movimento-5-stelle-(ni)">Movimento 5 Stelle (NI)</a> | 17 | 17 | 13–17 |13–17 |13–17 |13–17 |
+| <a href="#forza-italia-(epp)">Forza Italia (EPP)</a> | 13 | 6 | 6 |5–6 |5–7 |4–8 |
+| <a href="#fratelli-d’italia-(ecr)">Fratelli d’Italia (ECR)</a> | 0 | 6 | 5–6 |5–6 |5–7 |5–7 |
+| <a href="#liberi-e-uguali-(s&d)">Liberi e Uguali (S&D)</a> | 0 | 0 | 0 |0 |0 |0–3 |
+| <a href="#più-europa-(re)">Più Europa (RE)</a> | 0 | 0 | 0 |0 |0 |0–5 |
+| <a href="#cambiamo!-(*)">Cambiamo! (*)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#europa-verde-(greens/efa)">Europa Verde (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0 |
 
 ### Lega Nord (ID)
 
@@ -62,17 +66,16 @@
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
-| 21 | 0% | 100% |  |
-| 22 | 0.3% | 100% |  |
-| 23 | 2% | 99.6% |  |
-| 24 | 11% | 97% |  |
-| 25 | 15% | 86% |  |
-| 26 | 30% | 71% | Median |
-| 27 | 28% | 42% |  |
-| 28 | 11% | 14% |  |
-| 29 | 2% | 2% |  |
-| 30 | 0.3% | 0.4% |  |
-| 31 | 0% | 0% |  |
+| 21 | 0.3% | 100% |  |
+| 22 | 0.2% | 99.7% |  |
+| 23 | 3% | 99.6% |  |
+| 24 | 0.2% | 97% |  |
+| 25 | 32% | 96% |  |
+| 26 | 14% | 65% |  |
+| 27 | 49% | 50% | Median |
+| 28 | 1.1% | 2% |  |
+| 29 | 0.5% | 0.5% |  |
+| 30 | 0% | 0% |  |
 
 ### Partito Democratico (S&D)
 
@@ -82,15 +85,14 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 0.1% | 100% |  |
-| 12 | 1.5% | 99.9% |  |
-| 13 | 10% | 98% |  |
-| 14 | 23% | 89% |  |
-| 15 | 35% | 65% | Median |
-| 16 | 22% | 30% |  |
-| 17 | 7% | 8% |  |
-| 18 | 0.9% | 1.0% |  |
-| 19 | 0.1% | 0.1% |  |
+| 12 | 2% | 100% |  |
+| 13 | 0.7% | 98% |  |
+| 14 | 0.1% | 97% |  |
+| 15 | 18% | 97% |  |
+| 16 | 49% | 79% | Median |
+| 17 | 29% | 30% |  |
+| 18 | 0.1% | 0.1% |  |
+| 19 | 0% | 0% |  |
 | 20 | 0% | 0% |  |
 | 21 | 0% | 0% |  |
 | 22 | 0% | 0% |  |
@@ -112,15 +114,12 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 0.5% | 100% |  |
-| 13 | 5% | 99.5% |  |
-| 14 | 19% | 94% |  |
-| 15 | 45% | 75% | Median |
-| 16 | 20% | 30% |  |
-| 17 | 8% | 10% | Last Result |
-| 18 | 2% | 2% |  |
-| 19 | 0.1% | 0.1% |  |
-| 20 | 0% | 0% |  |
+| 13 | 25% | 100% |  |
+| 14 | 1.3% | 75% |  |
+| 15 | 18% | 73% |  |
+| 16 | 4% | 56% |  |
+| 17 | 52% | 52% | Last Result, Median |
+| 18 | 0% | 0% |  |
 
 ### Forza Italia (EPP)
 
@@ -130,12 +129,12 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.2% | 100% |  |
-| 4 | 18% | 99.7% |  |
-| 5 | 58% | 82% | Median |
-| 6 | 19% | 23% |  |
+| 3 | 0.5% | 100% |  |
+| 4 | 2% | 99.5% |  |
+| 5 | 7% | 98% |  |
+| 6 | 86% | 91% | Median |
 | 7 | 4% | 4% |  |
-| 8 | 0.1% | 0.1% |  |
+| 8 | 0.7% | 0.7% |  |
 | 9 | 0% | 0% |  |
 | 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |
@@ -153,11 +152,11 @@
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 1.0% | 100% |  |
-| 4 | 20% | 99.0% |  |
-| 5 | 60% | 79% | Median |
-| 6 | 16% | 18% |  |
-| 7 | 2% | 2% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0.1% | 100% |  |
+| 5 | 15% | 99.9% |  |
+| 6 | 81% | 85% | Median |
+| 7 | 3% | 3% |  |
 | 8 | 0% | 0% |  |
 
 ### Liberi e Uguali (S&D)
@@ -168,11 +167,11 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 95% | 100% | Last Result, Median |
-| 1 | 0% | 5% |  |
-| 2 | 0% | 5% |  |
-| 3 | 4% | 5% |  |
-| 4 | 0.8% | 0.8% |  |
+| 0 | 98% | 100% | Last Result, Median |
+| 1 | 0% | 2% |  |
+| 2 | 0% | 2% |  |
+| 3 | 2% | 2% |  |
+| 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 
 ### Più Europa (RE)
@@ -183,12 +182,33 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 96% | 100% | Last Result, Median |
-| 1 | 0% | 4% |  |
-| 2 | 0% | 4% |  |
-| 3 | 4% | 4% |  |
-| 4 | 0.3% | 0.3% |  |
-| 5 | 0% | 0% |  |
+| 0 | 99.0% | 100% | Last Result, Median |
+| 1 | 0% | 1.0% |  |
+| 2 | 0% | 1.0% |  |
+| 3 | 0.1% | 1.0% |  |
+| 4 | 0.2% | 0.9% |  |
+| 5 | 0.7% | 0.7% |  |
+| 6 | 0% | 0% |  |
+
+### Cambiamo! (*)
+
+*For a full overview of the results for this party, see the [Cambiamo! (*)](party-cambiamo.html) page.*
+
+![Graph with seats probability mass function not yet produced](2019-09-10-Euromedia-seats-pmf-cambiamo.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
+### Europa Verde (Greens/EFA)
+
+*For a full overview of the results for this party, see the [Europa Verde (Greens/EFA)](party-europaverdegreensefa.html) page.*
+
+![Graph with seats probability mass function not yet produced](2019-09-10-Euromedia-seats-pmf-europaverdegreensefa.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
 
 
 ## Coalitions
@@ -199,8 +219,9 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Lega Nord (ID) | 5 | 26 | 0% | 24–28 | 24–28 | 23–28 | 23–29 |
-| Partito Democratico (S&D) – Liberi e Uguali (S&D) | 31 | 15 | 0% | 14–17 | 13–17 | 13–18 | 12–19 |
+| Lega Nord (ID) | 5 | 27 | 0% | 25–27 | 25–27 | 23–27 | 23–28 |
+| Partito Democratico (S&D) – Liberi e Uguali (S&D) | 31 | 16 | 0% | 15–17 | 15–17 | 15–17 | 12–17 |
+| Europa Verde (Greens/EFA) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Lega Nord (ID)
 
@@ -224,17 +245,16 @@
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
-| 21 | 0% | 100% |  |
-| 22 | 0.3% | 100% |  |
-| 23 | 2% | 99.6% |  |
-| 24 | 11% | 97% |  |
-| 25 | 15% | 86% |  |
-| 26 | 30% | 71% | Median |
-| 27 | 28% | 42% |  |
-| 28 | 11% | 14% |  |
-| 29 | 2% | 2% |  |
-| 30 | 0.3% | 0.4% |  |
-| 31 | 0% | 0% |  |
+| 21 | 0.3% | 100% |  |
+| 22 | 0.2% | 99.7% |  |
+| 23 | 3% | 99.6% |  |
+| 24 | 0.2% | 97% |  |
+| 25 | 32% | 96% |  |
+| 26 | 14% | 65% |  |
+| 27 | 49% | 50% | Median |
+| 28 | 1.1% | 2% |  |
+| 29 | 0.5% | 0.5% |  |
+| 30 | 0% | 0% |  |
 
 ### Partito Democratico (S&D) – Liberi e Uguali (S&D)
 
@@ -242,17 +262,16 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 0.1% | 100% |  |
-| 12 | 1.1% | 99.9% |  |
-| 13 | 9% | 98.8% |  |
-| 14 | 22% | 90% |  |
-| 15 | 34% | 68% | Median |
-| 16 | 23% | 34% |  |
-| 17 | 8% | 11% |  |
-| 18 | 2% | 3% |  |
-| 19 | 1.0% | 1.2% |  |
-| 20 | 0.1% | 0.1% |  |
-| 21 | 0% | 0% |  |
+| 12 | 1.3% | 100% |  |
+| 13 | 0.7% | 98.7% |  |
+| 14 | 0% | 98% |  |
+| 15 | 19% | 98% |  |
+| 16 | 49% | 79% | Median |
+| 17 | 30% | 30% |  |
+| 18 | 0.1% | 0.5% |  |
+| 19 | 0.3% | 0.4% |  |
+| 20 | 0% | 0.1% |  |
+| 21 | 0% | 0.1% |  |
 | 22 | 0% | 0% |  |
 | 23 | 0% | 0% |  |
 | 24 | 0% | 0% |  |
@@ -263,6 +282,14 @@
 | 29 | 0% | 0% |  |
 | 30 | 0% | 0% |  |
 | 31 | 0% | 0% | Last Result |
+
+### Europa Verde (Greens/EFA)
+
+![Graph with seats probability mass function not yet produced](2019-09-10-Euromedia-coalitions-seats-pmf-ev.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
 
 
 ## Technical Information
@@ -276,6 +303,6 @@
 ### Calculations
 
 + **Sample size:** 800
-+ **Simulations done:** 131,072
-+ **Error estimate:** 1.51%
++ **Simulations done:** 1,024
++ **Error estimate:** 1.91%
 
