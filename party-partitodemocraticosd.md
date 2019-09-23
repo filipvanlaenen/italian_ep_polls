@@ -12,19 +12,19 @@ Last result: **40.8%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 22.7% | 20.3–24.7% | 19.5–25.2% | 18.9–25.8% | 17.9–27.0% |
 | [18–20 September 2019](2019-09-20-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 20.7% | 19.4–22.1% | 19.0–22.5% | 18.7–22.8% | 18.1–23.5% |
-| [17–19 September 2019](2019-09-19-TermometroPolitico.html) | Termometro Politico <br> La7 | 19.6% | N/A | N/A | N/A | N/A |
-| [18–19 September 2019](2019-09-19-Tecnè.html) | Tecnè <br> Rete 4 | 19.4% | N/A | N/A | N/A | N/A |
-| [18–19 September 2019](2019-09-19-Demopolis.html) | Demopolis <br> Rai 3 | 20.9% | N/A | N/A | N/A | N/A |
-| [17–18 September 2019](2019-09-18-Euromedia.html) | Euromedia <br> Rai 1 | 17.6% | N/A | N/A | N/A | N/A |
-| [14–18 September 2019](2019-09-18-BiDiMedia.html) | BiDiMedia | 22.1% | N/A | N/A | N/A | N/A |
-| [16–17 September 2019](2019-09-17-Ixè.html) | Ixè <br> Rai 3 | 21.6% | N/A | N/A | N/A | N/A |
-| [17 September 2019](2019-09-17-EMG.html) | EMG <br> Rai 3 | 19.9% | N/A | N/A | N/A | N/A |
-| [15–16 September 2019](2019-09-16-Tecnè.html) | Tecnè <br> Rete 4 | 23.3% | N/A | N/A | N/A | N/A |
-| [11–16 September 2019](2019-09-16-SWG.html) | SWG <br> La7 | 21.5% | N/A | N/A | N/A | N/A |
-| [11–12 September 2019](2019-09-12-TermometroPolitico.html) | Termometro Politico <br> La7 | 23.0% | N/A | N/A | N/A | N/A |
-| [12 September 2019](2019-09-12-Tecnè.html) | Tecnè <br> Rete 4 | 23.6% | N/A | N/A | N/A | N/A |
-| [9–12 September 2019](2019-09-12-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 23.3% | N/A | N/A | N/A | N/A |
-| [10–12 September 2019](2019-09-12-DemosPi.html) | Demos & Pi <br> La Repubblica | 22.3% | N/A | N/A | N/A | N/A |
+| [17–19 September 2019](2019-09-19-TermometroPolitico.html) | Termometro Politico <br> La7 | 19.6% | 18.5–20.8% | 18.2–21.2% | 18.0–21.5% | 17.4–22.0% |
+| [18–19 September 2019](2019-09-19-Tecnè.html) | Tecnè <br> Rete 4 | 19.4% | 17.9–21.1% | 17.4–21.6% | 17.1–22.0% | 16.4–22.8% |
+| [18–19 September 2019](2019-09-19-Demopolis.html) | Demopolis <br> Rai 3 | 20.9% | 19.6–22.3% | 19.2–22.7% | 18.9–23.0% | 18.3–23.7% |
+| [17–18 September 2019](2019-09-18-Euromedia.html) | Euromedia <br> Rai 1 | 17.6% | 16.0–19.5% | 15.5–20.0% | 15.1–20.4% | 14.4–21.3% |
+| [14–18 September 2019](2019-09-18-BiDiMedia.html) | BiDiMedia | 22.1% | 20.8–23.5% | 20.4–23.9% | 20.1–24.2% | 19.5–24.9% |
+| [16–17 September 2019](2019-09-17-Ixè.html) | Ixè <br> Rai 3 | 21.6% | 20.0–23.4% | 19.5–23.8% | 19.2–24.3% | 18.4–25.1% |
+| [17 September 2019](2019-09-17-EMG.html) | EMG <br> Rai 3 | 19.9% | 18.8–21.2% | 18.4–21.6% | 18.2–21.9% | 17.6–22.5% |
+| [15–16 September 2019](2019-09-16-Tecnè.html) | Tecnè <br> Rete 4 | 23.3% | 21.6–25.1% | 21.2–25.6% | 20.8–26.0% | 20.0–26.9% |
+| [11–16 September 2019](2019-09-16-SWG.html) | SWG <br> La7 | 21.5% | 20.1–22.9% | 19.8–23.3% | 19.5–23.6% | 18.8–24.3% |
+| [11–12 September 2019](2019-09-12-TermometroPolitico.html) | Termometro Politico <br> La7 | 23.0% | 22.0–24.0% | 21.7–24.3% | 21.5–24.6% | 21.1–25.0% |
+| [12 September 2019](2019-09-12-Tecnè.html) | Tecnè <br> Rete 4 | 23.6% | 21.8–25.6% | 21.2–26.2% | 20.8–26.7% | 20.0–27.7% |
+| [9–12 September 2019](2019-09-12-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 23.3% | 22.0–24.8% | 21.6–25.2% | 21.3–25.5% | 20.6–26.2% |
+| [10–12 September 2019](2019-09-12-DemosPi.html) | Demos & Pi <br> La Repubblica | 22.3% | 20.7–24.0% | 20.2–24.5% | 19.8–25.0% | 19.0–25.8% |
 | [9–10 September 2019](2019-09-10-NotoSondaggi.html) | Noto Sondaggi | 22.5% | N/A | N/A | N/A | N/A |
 | [9–10 September 2019](2019-09-10-Ixè.html) | Ixè <br> Rai 3 | 22.6% | N/A | N/A | N/A | N/A |
 | [9–10 September 2019](2019-09-10-Euromedia.html) | Euromedia | 20.6% | N/A | N/A | N/A | N/A |
@@ -145,19 +145,19 @@ Last result: **31** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16 | 14–18 | 14–18 | 13–19 | 13–20 |
 | [18–20 September 2019](2019-09-20-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
-| [17–19 September 2019](2019-09-19-TermometroPolitico.html) | Termometro Politico <br> La7 |  |  |  |  |  |
-| [18–19 September 2019](2019-09-19-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
-| [18–19 September 2019](2019-09-19-Demopolis.html) | Demopolis <br> Rai 3 |  |  |  |  |  |
-| [17–18 September 2019](2019-09-18-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
-| [14–18 September 2019](2019-09-18-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
-| [16–17 September 2019](2019-09-17-Ixè.html) | Ixè <br> Rai 3 |  |  |  |  |  |
-| [17 September 2019](2019-09-17-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
-| [15–16 September 2019](2019-09-16-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
-| [11–16 September 2019](2019-09-16-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [11–12 September 2019](2019-09-12-TermometroPolitico.html) | Termometro Politico <br> La7 |  |  |  |  |  |
-| [12 September 2019](2019-09-12-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
-| [9–12 September 2019](2019-09-12-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore |  |  |  |  |  |
-| [10–12 September 2019](2019-09-12-DemosPi.html) | Demos & Pi <br> La Repubblica |  |  |  |  |  |
+| [17–19 September 2019](2019-09-19-TermometroPolitico.html) | Termometro Politico <br> La7 | 15 | 14–16 | 14–16 | 13–16 | 13–17 |
+| [18–19 September 2019](2019-09-19-Tecnè.html) | Tecnè <br> Rete 4 | 15 | 15 | 15–16 | 15–18 | 13–18 |
+| [18–19 September 2019](2019-09-19-Demopolis.html) | Demopolis <br> Rai 3 | 13 | 13–15 | 13–16 | 13–16 | 13–17 |
+| [17–18 September 2019](2019-09-18-Euromedia.html) | Euromedia <br> Rai 1 | 12 | 12–14 | 11–14 | 10–14 | 10–15 |
+| [14–18 September 2019](2019-09-18-BiDiMedia.html) | BiDiMedia | 18 | 15–18 | 15–18 | 15–18 | 15–18 |
+| [16–17 September 2019](2019-09-17-Ixè.html) | Ixè <br> Rai 3 | 15 | 15–17 | 14–18 | 14–18 | 14–19 |
+| [17 September 2019](2019-09-17-EMG.html) | EMG <br> Rai 3 | 18 | 15–18 | 15–18 | 15–18 | 15–18 |
+| [15–16 September 2019](2019-09-16-Tecnè.html) | Tecnè <br> Rete 4 | 18 | 16–19 | 16–19 | 16–19 | 16–19 |
+| [11–16 September 2019](2019-09-16-SWG.html) | SWG <br> La7 | 17 | 15–19 | 15–19 | 15–19 | 14–19 |
+| [11–12 September 2019](2019-09-12-TermometroPolitico.html) | Termometro Politico <br> La7 | 15 | 15 | 15–17 | 15–17 | 15–17 |
+| [12 September 2019](2019-09-12-Tecnè.html) | Tecnè <br> Rete 4 | 18 | 16–19 | 14–19 | 14–19 | 13–23 |
+| [9–12 September 2019](2019-09-12-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 18 | 18 | 16–18 | 16–18 | 16–18 |
+| [10–12 September 2019](2019-09-12-DemosPi.html) | Demos & Pi <br> La Repubblica | 16 | 16–17 | 16–18 | 14–18 | 13–19 |
 | [9–10 September 2019](2019-09-10-NotoSondaggi.html) | Noto Sondaggi |  |  |  |  |  |
 | [9–10 September 2019](2019-09-10-Ixè.html) | Ixè <br> Rai 3 |  |  |  |  |  |
 | [9–10 September 2019](2019-09-10-Euromedia.html) | Euromedia |  |  |  |  |  |
