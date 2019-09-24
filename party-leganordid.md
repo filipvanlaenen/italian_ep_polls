@@ -186,7 +186,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [29 August–2 September 2019](2019-09-02-SWG.html) | SWG <br> La7 | 25 | 24–26 | 24–27 | 23–27 | 23–28 |
 | [29–30 August 2019](2019-08-30-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 | 24 | 23–26 | 22–27 | 22–27 | 21–28 |
 | [26–29 August 2019](2019-08-29-Ipsos.html) | Ipsos <br> Corriere della Sera | 25 | 23–26 | 23–27 | 23–27 | 22–28 |
-| [24–28 August 2019](2019-08-28-BiDiMedia.html) | BiDiMedia | 25 | 24–26 | 23–26 | 23–27 | 23–27 |
+| [24–28 August 2019](2019-08-28-BiDiMedia.html) | BiDiMedia | 24 | 23–24 | 23–24 | 23–24 | 22–25 |
 | [27 August 2019](2019-08-27-Piepoli.html) | Piepoli <br> La Stampa | 24 | 22–26 | 21–27 | 21–27 | 20–28 |
 | [23–25 August 2019](2019-08-25-Demopolis.html) | Demopolis | 24 | 23–25 | 23–25 | 23–25 | 22–26 |
 | [21–23 August 2019](2019-08-23-TermometroPolitico.html) | Termometro Politico <br> La7 | 28 | 27–29 | 27–29 | 26–29 | 26–30 |
@@ -272,11 +272,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 20 | 0.2% | 100% |  |
 | 21 | 1.0% | 99.8% |  |
 | 22 | 3% | 98.8% |  |
-| 23 | 10% | 95% |  |
+| 23 | 10% | 96% |  |
 | 24 | 20% | 85% |  |
 | 25 | 19% | 65% | Median |
-| 26 | 16% | 45% |  |
-| 27 | 13% | 29% |  |
+| 26 | 16% | 46% |  |
+| 27 | 14% | 30% |  |
 | 28 | 11% | 16% |  |
 | 29 | 4% | 4% |  |
 | 30 | 0.6% | 0.7% |  |
