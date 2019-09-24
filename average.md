@@ -329,9 +329,9 @@ Only polls for which at least the sample size has been published are included in
 | 16 | 6% | 27% |  |
 | 17 | 5% | 20% | Last Result |
 | 18 | 5% | 15% |  |
-| 19 | 5% | 10% |  |
+| 19 | 5% | 11% |  |
 | 20 | 4% | 5% |  |
-| 21 | 1.3% | 2% |  |
+| 21 | 1.2% | 1.5% |  |
 | 22 | 0.2% | 0.2% |  |
 | 23 | 0% | 0% |  |
 
@@ -346,10 +346,10 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0.1% | 100% |  |
 | 1 | 0% | 99.9% |  |
 | 2 | 0% | 99.9% |  |
-| 3 | 0.6% | 99.9% |  |
-| 4 | 25% | 99.3% |  |
+| 3 | 0.5% | 99.9% |  |
+| 4 | 25% | 99.4% |  |
 | 5 | 49% | 74% | Median |
-| 6 | 19% | 26% |  |
+| 6 | 19% | 25% |  |
 | 7 | 6% | 6% |  |
 | 8 | 0.7% | 0.7% |  |
 | 9 | 0% | 0% |  |
@@ -384,11 +384,11 @@ Only polls for which at least the sample size has been published are included in
 | 20 | 0.2% | 100% |  |
 | 21 | 1.0% | 99.8% |  |
 | 22 | 3% | 98.8% |  |
-| 23 | 10% | 95% |  |
+| 23 | 10% | 96% |  |
 | 24 | 20% | 85% |  |
 | 25 | 19% | 65% | Median |
-| 26 | 16% | 45% |  |
-| 27 | 13% | 29% |  |
+| 26 | 16% | 46% |  |
+| 27 | 14% | 30% |  |
 | 28 | 11% | 16% |  |
 | 29 | 4% | 4% |  |
 | 30 | 0.6% | 0.7% |  |
@@ -410,7 +410,7 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 9% | 99.6% |  |
 | 5 | 32% | 91% |  |
 | 6 | 39% | 58% | Median |
-| 7 | 17% | 19% |  |
+| 7 | 17% | 20% |  |
 | 8 | 3% | 3% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
@@ -475,9 +475,9 @@ Only polls for which at least the sample size has been published are included in
 | Partito Democratico (S&D) – Liberi e Uguali (S&D) | 31 | 17 | 0% | 15–19 | 15–19 | 14–19 | 14–20 |
 | Forza Italia (EPP) – Südtiroler Volkspartei (EPP) | 14 | 6 | 0% | 5–7 | 5–8 | 5–8 | 4–9 |
 | Fratelli d’Italia (ECR) – Noi con l’Italia (ECR) | 0 | 6 | 0% | 5–7 | 4–7 | 4–8 | 4–8 |
-| Civica Popolare (RE) – Più Europa (RE) | 0 | 0 | 0% | 0–3 | 0–4 | 0–4 | 0–4 |
+| Civica Popolare (RE) – Italia Viva (RE) – Più Europa (RE) | 0 | 0 | 0% | 0 | 0–3 | 0–4 | 0–4 |
+| Civica Popolare (RE) – Più Europa (RE) | 0 | 0 | 0% | 0–3 | 0–3 | 0–4 | 0–4 |
 | Cambiamo! (*) – Insieme (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
-| Civica Popolare (RE) – Italia Viva (RE) – Più Europa (RE) | 0 | 0 | 0% | 0 | 0 | 0 | 0–4 |
 | Europa Verde (Greens/EFA) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 | Insieme (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 | Potere al Popolo (GUE/NGL) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
@@ -506,11 +506,11 @@ Only polls for which at least the sample size has been published are included in
 | 20 | 0.2% | 100% |  |
 | 21 | 1.0% | 99.8% |  |
 | 22 | 3% | 98.8% |  |
-| 23 | 10% | 95% |  |
+| 23 | 10% | 96% |  |
 | 24 | 20% | 85% |  |
 | 25 | 19% | 65% | Median |
-| 26 | 16% | 45% |  |
-| 27 | 13% | 29% |  |
+| 26 | 16% | 46% |  |
+| 27 | 14% | 30% |  |
 | 28 | 11% | 16% |  |
 | 29 | 4% | 4% |  |
 | 30 | 0.6% | 0.7% |  |
@@ -533,9 +533,9 @@ Only polls for which at least the sample size has been published are included in
 | 16 | 6% | 27% |  |
 | 17 | 5% | 20% | Last Result |
 | 18 | 5% | 15% |  |
-| 19 | 5% | 10% |  |
+| 19 | 5% | 11% |  |
 | 20 | 4% | 5% |  |
-| 21 | 1.3% | 2% |  |
+| 21 | 1.2% | 1.5% |  |
 | 22 | 0.2% | 0.2% |  |
 | 23 | 0% | 0% |  |
 
@@ -574,10 +574,10 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0.1% | 100% |  |
 | 2 | 0% | 99.9% |  |
 | 3 | 0% | 99.9% |  |
-| 4 | 0.6% | 99.9% |  |
-| 5 | 25% | 99.3% | Median |
+| 4 | 0.5% | 99.9% |  |
+| 5 | 25% | 99.4% | Median |
 | 6 | 49% | 74% |  |
-| 7 | 19% | 26% |  |
+| 7 | 19% | 25% |  |
 | 8 | 6% | 6% |  |
 | 9 | 0.7% | 0.7% |  |
 | 10 | 0% | 0% |  |
@@ -599,10 +599,24 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 9% | 99.6% |  |
 | 5 | 32% | 91% |  |
 | 6 | 39% | 58% | Median |
-| 7 | 17% | 19% |  |
+| 7 | 17% | 20% |  |
 | 8 | 3% | 3% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
+
+### Civica Popolare (RE) – Italia Viva (RE) – Più Europa (RE)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-cp–iv–e.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 92% | 100% | Last Result, Median |
+| 1 | 0% | 8% |  |
+| 2 | 0% | 8% |  |
+| 3 | 5% | 8% |  |
+| 4 | 3% | 3% |  |
+| 5 | 0.1% | 0.1% |  |
+| 6 | 0% | 0% |  |
 
 ### Civica Popolare (RE) – Più Europa (RE)
 
@@ -610,11 +624,11 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 76% | 100% | Last Result, Median |
-| 1 | 0% | 24% |  |
-| 2 | 0% | 24% |  |
-| 3 | 16% | 24% |  |
-| 4 | 8% | 8% |  |
+| 0 | 82% | 100% | Last Result, Median |
+| 1 | 0% | 18% |  |
+| 2 | 0% | 18% |  |
+| 3 | 14% | 18% |  |
+| 4 | 4% | 4% |  |
 | 5 | 0.3% | 0.3% |  |
 | 6 | 0% | 0% |  |
 
@@ -629,19 +643,6 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0% | 0.1% |  |
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
-
-### Civica Popolare (RE) – Italia Viva (RE) – Più Europa (RE)
-
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-cp–iv–e.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98% | 100% | Last Result, Median |
-| 1 | 0% | 2% |  |
-| 2 | 0% | 2% |  |
-| 3 | 2% | 2% |  |
-| 4 | 0.6% | 0.6% |  |
-| 5 | 0% | 0% |  |
 
 ### Europa Verde (Greens/EFA)
 
@@ -672,5 +673,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 11
 + **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 8,781,824
++ **Total number of simulations done in the polls included in this average:** 9,699,328
 + **Error estimate:** 3.84%
