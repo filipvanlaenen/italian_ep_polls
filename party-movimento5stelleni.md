@@ -143,7 +143,7 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [17–18 September 2019](2019-09-18-Euromedia.html) | Euromedia <br> Rai 1 | 15 | 14–16 | 14–17 | 13–17 | 13–18 |
 | [14–18 September 2019](2019-09-18-BiDiMedia.html) | BiDiMedia | 15 | 15–17 | 14–17 | 14–17 | 14–18 |
 | [16–17 September 2019](2019-09-17-Ixè.html) | Ixè <br> Rai 3 | 17 | 16–19 | 16–19 | 15–19 | 14–21 |
-| [17 September 2019](2019-09-17-EMG.html) | EMG <br> Rai 3 | 15 | 15–16 | 14–16 | 14–16 | 13–17 |
+| [17 September 2019](2019-09-17-EMG.html) | EMG <br> Rai 3 | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
 | [15–16 September 2019](2019-09-16-Tecnè.html) | Tecnè <br> Rete 4 | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [11–16 September 2019](2019-09-16-SWG.html) | SWG <br> La7 | 17 | 16–18 | 16–18 | 15–19 | 15–19 |
 | [11–12 September 2019](2019-09-12-TermometroPolitico.html) | Termometro Politico <br> La7 | 16 | 15–17 | 14–17 | 14–17 | 14–17 |

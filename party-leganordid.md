@@ -164,7 +164,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [17–18 September 2019](2019-09-18-Euromedia.html) | Euromedia <br> Rai 1 | 25 | 24–26 | 23–27 | 23–28 | 22–28 |
 | [14–18 September 2019](2019-09-18-BiDiMedia.html) | BiDiMedia | 24 | 22–25 | 22–25 | 22–25 | 21–26 |
 | [16–17 September 2019](2019-09-17-Ixè.html) | Ixè <br> Rai 3 | 23 | 22–25 | 22–25 | 21–26 | 21–27 |
-| [17 September 2019](2019-09-17-EMG.html) | EMG <br> Rai 3 | 27 | 25–29 | 25–29 | 24–29 | 24–30 |
+| [17 September 2019](2019-09-17-EMG.html) | EMG <br> Rai 3 | 27 | 25–28 | 25–29 | 24–29 | 24–30 |
 | [15–16 September 2019](2019-09-16-Tecnè.html) | Tecnè <br> Rete 4 | 26 | 24–27 | 24–28 | 24–28 | 22–29 |
 | [11–16 September 2019](2019-09-16-SWG.html) | SWG <br> La7 | 27 | 27–29 | 27–29 | 26–30 | 26–31 |
 | [11–12 September 2019](2019-09-12-TermometroPolitico.html) | Termometro Politico <br> La7 | 27 | 26–28 | 26–28 | 26–29 | 25–30 |
@@ -191,7 +191,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [27 August 2019](2019-08-27-Piepoli.html) | Piepoli <br> La Stampa | 24 | 22–26 | 21–27 | 21–27 | 20–28 |
 | [23–25 August 2019](2019-08-25-Demopolis.html) | Demopolis | 24 | 23–25 | 23–25 | 23–25 | 22–26 |
 | [21–23 August 2019](2019-08-23-TermometroPolitico.html) | Termometro Politico <br> La7 | 28 | 27–29 | 27–29 | 26–29 | 26–30 |
-| [21–23 August 2019](2019-08-23-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 26 | 25–28 | 25–28 | 24–29 | 24–30 |
+| [21–23 August 2019](2019-08-23-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 27 | 25–28 | 25–28 | 24–29 | 24–30 |
 | [21 August 2019](2019-08-21-Tecnè.html) | Tecnè | 24 | 22–25 | 22–26 | 22–26 | 21–27 |
 | [21 August 2019](2019-08-21-IZI.html) | IZI | 27 | 25–28 | 25–29 | 25–29 | 24–30 |
 | [20–21 August 2019](2019-08-21-GPF.html) | GPF | 25 | 23–27 | 22–27 | 22–27 | 21–29 |
