@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 24 Sep 2019 10:49:59 +0200</pubDate>
+    <pubDate>Tue, 24 Sep 2019 13:45:50 +0200</pubDate>
     <item>
       <title>Opinion Poll by Scenari Politici–Winpoll for Il Sole 24 Ore, 18–20 September 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-09-20-ScenariPolitici–Winpoll.html#seats</link>
@@ -210,14 +210,34 @@
       <dc:date>2019-09-23T17:10:31.873919+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Euromedia, 9–10 September 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-09-10-Euromedia.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (NI): 13–18 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 13–17 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ID): 24–29 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 4–7 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 4–7 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0–3 seats&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0–3 seats&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Cambiamo! (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-09-10-Euromedia-seats.png"
+        length="193328"
+        type="image/png"/>
+      <pubDate>Tue, 24 Sep 2019 13:45:50 +0200</pubDate>
+      <dc:date>2019-09-24T13:45:50.283445+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Euromedia, 9–10 September 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-09-10-Euromedia.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-09-10-Euromedia-coalitions-seats.png"
+        length="153010"
+        type="image/png"/>
+      <pubDate>Tue, 24 Sep 2019 13:45:50 +0200</pubDate>
+      <dc:date>2019-09-24T13:45:50.283445+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Euromedia, 9–10 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-09-10-Euromedia.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (NI): 17.1–22.7%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 18.0–23.6%&lt;/li&gt;&lt;li&gt;Lega Nord (ID): 30.7–37.2%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 5.1–8.6%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 4.9–8.3%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 1.9–4.3%&lt;/li&gt;&lt;li&gt;Più Europa (RE): 1.8–4.1%&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 0.4–1.8%&lt;/li&gt;&lt;li&gt;Cambiamo! (*): 0.8–2.5%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-09-10-Euromedia.png"
         length="251436"
         type="image/png"/>
-      <pubDate>Mon, 23 Sep 2019 17:28:10 +0200</pubDate>
-      <dc:date>2019-09-23T17:28:10.933843+02:00</dc:date>
+      <pubDate>Tue, 24 Sep 2019 13:45:50 +0200</pubDate>
+      <dc:date>2019-09-24T13:45:50.283445+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by EMG for Rai 3, 10 September 2019 – Voting Intentions</title>
@@ -2099,6 +2119,6 @@
       <pubDate>Sat, 29 Jun 2019 16:56:02 +0200</pubDate>
       <dc:date>2019-06-29T16:56:02.59202+02:00</dc:date>
     </item>
-    <dc:date>2019-09-24T10:49:59.656097+02:00</dc:date>
+    <dc:date>2019-09-24T13:45:50.283445+02:00</dc:date>
   </channel>
 </rss>
