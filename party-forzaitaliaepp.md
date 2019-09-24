@@ -169,7 +169,7 @@ Last result: **13** seats (General Election of 26 May 2019)
 | [21–23 August 2019](2019-08-23-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [21 August 2019](2019-08-21-Tecnè.html) | Tecnè | 6 | 6–7 | 5–8 | 5–8 | 5–8 |
 | [21 August 2019](2019-08-21-IZI.html) | IZI | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
-| [20–21 August 2019](2019-08-21-GPF.html) | GPF | 4 | 4–6 | 4–6 | 3–6 | 0–7 |
+| [20–21 August 2019](2019-08-21-GPF.html) | GPF | 5 | 4–6 | 4–6 | 3–6 | 0–7 |
 | [12 August 2019](2019-08-12-GPF.html) | GPF | 5 | 4–6 | 4–6 | 3–6 | 3–7 |
 | [9–10 August 2019](2019-08-10-TermometroPolitico.html) | Termometro Politico <br> La7 | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [1–9 August 2019](2019-08-09-NotoSondaggi.html) | Noto Sondaggi | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
