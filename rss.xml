@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 24 Sep 2019 16:39:54 +0200</pubDate>
+    <pubDate>Tue, 24 Sep 2019 17:20:08 +0200</pubDate>
     <item>
       <title>Opinion Poll by Scenari Politici–Winpoll for Il Sole 24 Ore, 18–20 September 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-09-20-ScenariPolitici–Winpoll.html#seats</link>
@@ -410,14 +410,54 @@
       <dc:date>2019-09-24T16:29:22.375521+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by BiDiMedia, 24–28 August 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-08-28-BiDiMedia.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (NI): 13–16 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 16–19 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ID): 23–27 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 4–6 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 5–7 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-08-28-BiDiMedia-seats.png"
+        length="141458"
+        type="image/png"/>
+      <pubDate>Tue, 24 Sep 2019 17:01:29 +0200</pubDate>
+      <dc:date>2019-09-24T17:01:29.342287+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by BiDiMedia, 24–28 August 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-08-28-BiDiMedia.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-08-28-BiDiMedia-coalitions-seats.png"
+        length="129850"
+        type="image/png"/>
+      <pubDate>Tue, 24 Sep 2019 17:01:29 +0200</pubDate>
+      <dc:date>2019-09-24T17:01:29.342287+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by BiDiMedia, 24–28 August 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-08-28-BiDiMedia.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (NI): 17.4–21.2%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 22.2–26.3%&lt;/li&gt;&lt;li&gt;Lega Nord (ID): 30.3–34.8%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 5.1–7.5%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 6.5–9.1%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 1.5–2.9%&lt;/li&gt;&lt;li&gt;Più Europa (RE): 2.0–3.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-08-28-BiDiMedia.png"
         length="202152"
         type="image/png"/>
-      <pubDate>Tue, 24 Sep 2019 16:39:54 +0200</pubDate>
-      <dc:date>2019-09-24T16:39:54.077615+02:00</dc:date>
+      <pubDate>Tue, 24 Sep 2019 17:01:29 +0200</pubDate>
+      <dc:date>2019-09-24T17:01:29.342287+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Piepoli for La Stampa, 27 August 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-08-27-Piepoli.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (NI): 10–15 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 14–19 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ID): 21–27 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 4–8 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 3–6 seats&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-08-27-Piepoli-seats.png"
+        length="144742"
+        type="image/png"/>
+      <pubDate>Tue, 24 Sep 2019 17:20:08 +0200</pubDate>
+      <dc:date>2019-09-24T17:20:08.209879+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Piepoli for La Stampa, 27 August 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-08-27-Piepoli.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-08-27-Piepoli-coalitions-seats.png"
+        length="157908"
+        type="image/png"/>
+      <pubDate>Tue, 24 Sep 2019 17:20:08 +0200</pubDate>
+      <dc:date>2019-09-24T17:20:08.209879+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Piepoli for La Stampa, 27 August 2019 – Voting Intentions</title>
@@ -426,8 +466,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-08-27-Piepoli.png"
         length="215473"
         type="image/png"/>
-      <pubDate>Thu, 05 Sep 2019 19:37:35 +0200</pubDate>
-      <dc:date>2019-09-05T19:37:35.565561+02:00</dc:date>
+      <pubDate>Tue, 24 Sep 2019 17:20:08 +0200</pubDate>
+      <dc:date>2019-09-24T17:20:08.209879+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Demopolis, 23–25 August 2019 – Seat Projections for the Parties</title>
@@ -2139,6 +2179,6 @@
       <pubDate>Sat, 29 Jun 2019 16:56:02 +0200</pubDate>
       <dc:date>2019-06-29T16:56:02.59202+02:00</dc:date>
     </item>
-    <dc:date>2019-09-24T16:39:54.077615+02:00</dc:date>
+    <dc:date>2019-09-24T17:20:08.209879+02:00</dc:date>
   </channel>
 </rss>
