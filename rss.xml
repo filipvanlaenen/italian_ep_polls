@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 24 Sep 2019 13:45:50 +0200</pubDate>
+    <pubDate>Tue, 24 Sep 2019 16:39:54 +0200</pubDate>
     <item>
       <title>Opinion Poll by Scenari Politici–Winpoll for Il Sole 24 Ore, 18–20 September 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-09-20-ScenariPolitici–Winpoll.html#seats</link>
@@ -356,18 +356,18 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-08-30-Quorum–YouTrend-seats.png"
         length="162316"
         type="image/png"/>
-      <pubDate>Fri, 06 Sep 2019 17:22:42 +0200</pubDate>
-      <dc:date>2019-09-06T17:22:42.799367+02:00</dc:date>
+      <pubDate>Tue, 24 Sep 2019 16:02:54 +0200</pubDate>
+      <dc:date>2019-09-24T16:02:54.233742+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Quorum – YouTrend for Sky Tg24, 29–30 August 2019 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-08-30-Quorum–YouTrend.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-08-30-Quorum–YouTrend-coalitions-seats.png"
-        length="153554"
+        length="160928"
         type="image/png"/>
-      <pubDate>Fri, 06 Sep 2019 17:22:42 +0200</pubDate>
-      <dc:date>2019-09-06T17:22:42.799367+02:00</dc:date>
+      <pubDate>Tue, 24 Sep 2019 16:02:54 +0200</pubDate>
+      <dc:date>2019-09-24T16:02:54.233742+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Quorum – YouTrend for Sky Tg24, 29–30 August 2019 – Voting Intentions</title>
@@ -376,8 +376,28 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-08-30-Quorum–YouTrend.png"
         length="217517"
         type="image/png"/>
-      <pubDate>Fri, 06 Sep 2019 17:22:42 +0200</pubDate>
-      <dc:date>2019-09-06T17:22:42.799367+02:00</dc:date>
+      <pubDate>Tue, 24 Sep 2019 16:02:54 +0200</pubDate>
+      <dc:date>2019-09-24T16:02:54.233742+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Corriere della Sera, 26–29 August 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-08-29-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (NI): 17–21 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 15–19 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ID): 23–27 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 4–6 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 5–8 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-08-29-Ipsos-seats.png"
+        length="143198"
+        type="image/png"/>
+      <pubDate>Tue, 24 Sep 2019 16:29:22 +0200</pubDate>
+      <dc:date>2019-09-24T16:29:22.375521+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Corriere della Sera, 26–29 August 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-08-29-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-08-29-Ipsos-coalitions-seats.png"
+        length="135925"
+        type="image/png"/>
+      <pubDate>Tue, 24 Sep 2019 16:29:22 +0200</pubDate>
+      <dc:date>2019-09-24T16:29:22.375521+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Corriere della Sera, 26–29 August 2019 – Voting Intentions</title>
@@ -386,8 +406,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-08-29-Ipsos.png"
         length="215665"
         type="image/png"/>
-      <pubDate>Thu, 05 Sep 2019 20:31:57 +0200</pubDate>
-      <dc:date>2019-09-05T20:31:57.034399+02:00</dc:date>
+      <pubDate>Tue, 24 Sep 2019 16:29:22 +0200</pubDate>
+      <dc:date>2019-09-24T16:29:22.375521+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by BiDiMedia, 24–28 August 2019 – Voting Intentions</title>
@@ -396,8 +416,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-08-28-BiDiMedia.png"
         length="202152"
         type="image/png"/>
-      <pubDate>Thu, 05 Sep 2019 19:59:03 +0200</pubDate>
-      <dc:date>2019-09-05T19:59:03.641512+02:00</dc:date>
+      <pubDate>Tue, 24 Sep 2019 16:39:54 +0200</pubDate>
+      <dc:date>2019-09-24T16:39:54.077615+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Piepoli for La Stampa, 27 August 2019 – Voting Intentions</title>
@@ -2119,6 +2139,6 @@
       <pubDate>Sat, 29 Jun 2019 16:56:02 +0200</pubDate>
       <dc:date>2019-06-29T16:56:02.59202+02:00</dc:date>
     </item>
-    <dc:date>2019-09-24T13:45:50.283445+02:00</dc:date>
+    <dc:date>2019-09-24T16:39:54.077615+02:00</dc:date>
   </channel>
 </rss>
