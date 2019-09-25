@@ -132,7 +132,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [17–19 September 2019](2019-09-19-TermometroPolitico.html) | Termometro Politico <br> La7 | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [18–19 September 2019](2019-09-19-Tecnè.html) | Tecnè <br> Rete 4 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [18–19 September 2019](2019-09-19-Demopolis.html) | Demopolis <br> Rai 3 | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
-| [17–18 September 2019](2019-09-18-Euromedia.html) | Euromedia <br> Rai 1 | 4 | 3–4 | 3–5 | 0–5 | 0–6 |
+| [17–18 September 2019](2019-09-18-Euromedia.html) | Euromedia <br> Rai 1 | 4 | 0–4 | 0–5 | 0–5 | 0–6 |
 | [14–18 September 2019](2019-09-18-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
 | [16–17 September 2019](2019-09-17-Ixè.html) | Ixè <br> Rai 3 |  |  |  |  |  |
 | [17 September 2019](2019-09-17-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0–3 | 0–3 | 0–4 |
@@ -229,9 +229,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 40% | 100% | Last Result |
 | 1 | 0% | 60% |  |
 | 2 | 0% | 60% |  |
-| 3 | 10% | 60% | Median |
-| 4 | 31% | 49% |  |
-| 5 | 16% | 18% |  |
+| 3 | 13% | 60% | Median |
+| 4 | 29% | 47% |  |
+| 5 | 15% | 18% |  |
 | 6 | 2% | 2% |  |
 | 7 | 0% | 0% |  |
 

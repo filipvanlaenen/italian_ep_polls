@@ -155,15 +155,15 @@ Last result: **5** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 25 | 23–28 | 22–29 | 21–30 | 20–31 |
 | [18–20 September 2019](2019-09-20-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 25 | 25–27 | 24–28 | 24–28 | 23–29 |
-| [17–19 September 2019](2019-09-19-TermometroPolitico.html) | Termometro Politico <br> La7 | 29 | 28–30 | 27–31 | 26–32 | 26–33 |
-| [18–19 September 2019](2019-09-19-Tecnè.html) | Tecnè <br> Rete 4 | 27 | 26–29 | 25–29 | 24–30 | 23–30 |
+| [17–19 September 2019](2019-09-19-TermometroPolitico.html) | Termometro Politico <br> La7 | 29 | 28–31 | 27–31 | 27–32 | 26–32 |
+| [18–19 September 2019](2019-09-19-Tecnè.html) | Tecnè <br> Rete 4 | 27 | 25–29 | 24–29 | 24–29 | 24–30 |
 | [18–19 September 2019](2019-09-19-Demopolis.html) | Demopolis <br> Rai 3 | 26 | 25–27 | 24–27 | 24–28 | 24–28 |
-| [17–18 September 2019](2019-09-18-Euromedia.html) | Euromedia <br> Rai 1 | 25 | 24–26 | 23–27 | 23–28 | 22–28 |
-| [14–18 September 2019](2019-09-18-BiDiMedia.html) | BiDiMedia | 24 | 22–25 | 22–25 | 22–25 | 21–26 |
-| [16–17 September 2019](2019-09-17-Ixè.html) | Ixè <br> Rai 3 | 23 | 22–25 | 22–25 | 21–26 | 21–27 |
+| [17–18 September 2019](2019-09-18-Euromedia.html) | Euromedia <br> Rai 1 | 25 | 23–26 | 23–27 | 23–27 | 22–29 |
+| [14–18 September 2019](2019-09-18-BiDiMedia.html) | BiDiMedia | 23 | 22–25 | 22–25 | 22–25 | 21–26 |
+| [16–17 September 2019](2019-09-17-Ixè.html) | Ixè <br> Rai 3 | 24 | 22–25 | 22–26 | 21–26 | 21–27 |
 | [17 September 2019](2019-09-17-EMG.html) | EMG <br> Rai 3 | 27 | 25–28 | 25–29 | 24–29 | 24–30 |
 | [15–16 September 2019](2019-09-16-Tecnè.html) | Tecnè <br> Rete 4 | 26 | 24–27 | 24–28 | 24–28 | 22–29 |
-| [11–16 September 2019](2019-09-16-SWG.html) | SWG <br> La7 | 27 | 27–29 | 27–29 | 26–30 | 26–31 |
+| [11–16 September 2019](2019-09-16-SWG.html) | SWG <br> La7 | 28 | 27–29 | 27–30 | 26–30 | 26–30 |
 | [11–12 September 2019](2019-09-12-TermometroPolitico.html) | Termometro Politico <br> La7 | 27 | 26–28 | 26–28 | 26–29 | 25–30 |
 | [12 September 2019](2019-09-12-Tecnè.html) | Tecnè <br> Rete 4 | 25 | 23–27 | 23–27 | 22–27 | 21–28 |
 | [9–12 September 2019](2019-09-12-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 28 | 26–29 | 26–29 | 25–29 | 24–30 |
@@ -274,12 +274,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 24 | 13% | 79% |  |
 | 25 | 17% | 66% | Median |
 | 26 | 17% | 49% |  |
-| 27 | 18% | 32% |  |
-| 28 | 7% | 15% |  |
-| 29 | 5% | 7% |  |
-| 30 | 2% | 3% |  |
-| 31 | 0.4% | 0.5% |  |
-| 32 | 0.1% | 0.2% |  |
+| 27 | 16% | 33% |  |
+| 28 | 8% | 17% |  |
+| 29 | 5% | 9% |  |
+| 30 | 3% | 4% |  |
+| 31 | 1.2% | 1.5% |  |
+| 32 | 0.3% | 0.3% |  |
 | 33 | 0% | 0% |  |
 
 
