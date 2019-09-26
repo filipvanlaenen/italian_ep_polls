@@ -147,7 +147,7 @@ Last result: **13** seats (General Election of 26 May 2019)
 | [12 September 2019](2019-09-12-Tecnè.html) | Tecnè <br> Rete 4 | 6 | 6–8 | 5–8 | 5–8 | 5–9 |
 | [9–12 September 2019](2019-09-12-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
 | [10–12 September 2019](2019-09-12-DemosPi.html) | Demos & Pi <br> La Repubblica | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
-| [9–10 September 2019](2019-09-10-NotoSondaggi.html) | Noto Sondaggi | 4 | 4–5 | 3–5 | 0–5 | 0–6 |
+| [9–10 September 2019](2019-09-10-NotoSondaggi.html) | Noto Sondaggi | 4 | 4–5 | 3–5 | 3–6 | 0–6 |
 | [9–10 September 2019](2019-09-10-Ixè.html) | Ixè <br> Rai 3 | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
 | [9–10 September 2019](2019-09-10-Euromedia.html) | Euromedia | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
 | [10 September 2019](2019-09-10-EMG.html) | EMG <br> Rai 3 | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
@@ -156,7 +156,7 @@ Last result: **13** seats (General Election of 26 May 2019)
 | [7–9 September 2019](2019-09-09-Piepoli.html) | Piepoli <br> Rai 1 | 5 | 4–6 | 4–7 | 4–7 | 3–8 |
 | [1–6 September 2019](2019-09-06-NotoSondaggi.html) | Noto Sondaggi <br> Quotidiano Nazionale | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
 | [5 September 2019](2019-09-05-Tecnè.html) | Tecnè <br> Rete 4 | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
-| [4–5 September 2019](2019-09-05-GPF.html) | GPF <br> La Notizia | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
+| [4–5 September 2019](2019-09-05-GPF.html) | GPF <br> La Notizia | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
 | [4–5 September 2019](2019-09-05-Demopolis.html) | Demopolis <br> Rai 3 | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [2–3 September 2019](2019-09-03-Ixè.html) | Ixè <br> Rai 3 | 5 | 5–6 | 5–7 | 4–7 | 4–7 |
 | [31 August–2 September 2019](2019-09-02-Tecnè.html) | Tecnè <br> Rete 4 | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
@@ -231,15 +231,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.2% | 100% |  |
-| 1 | 0% | 99.8% |  |
-| 2 | 0% | 99.8% |  |
-| 3 | 0.7% | 99.8% |  |
-| 4 | 26% | 99.1% |  |
-| 5 | 46% | 73% | Median |
-| 6 | 21% | 28% |  |
+| 0 | 0.1% | 100% |  |
+| 1 | 0% | 99.9% |  |
+| 2 | 0% | 99.9% |  |
+| 3 | 0.9% | 99.9% |  |
+| 4 | 27% | 99.0% |  |
+| 5 | 45% | 72% | Median |
+| 6 | 20% | 27% |  |
 | 7 | 6% | 7% |  |
-| 8 | 0.9% | 0.9% |  |
+| 8 | 0.8% | 0.9% |  |
 | 9 | 0% | 0% |  |
 | 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |

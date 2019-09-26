@@ -155,21 +155,21 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [16–17 September 2019](2019-09-17-Ixè.html) | Ixè <br> Rai 3 | 16 | 15–17 | 14–18 | 14–18 | 13–19 |
 | [17 September 2019](2019-09-17-EMG.html) | EMG <br> Rai 3 | 15 | 14–17 | 14–17 | 14–18 | 13–18 |
 | [15–16 September 2019](2019-09-16-Tecnè.html) | Tecnè <br> Rete 4 | 17 | 16–19 | 16–19 | 16–20 | 15–20 |
-| [11–16 September 2019](2019-09-16-SWG.html) | SWG <br> La7 | 17 | 16–18 | 15–18 | 15–18 | 14–19 |
+| [11–16 September 2019](2019-09-16-SWG.html) | SWG <br> La7 | 17 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [11–12 September 2019](2019-09-12-TermometroPolitico.html) | Termometro Politico <br> La7 | 17 | 16–18 | 16–18 | 16–18 | 15–19 |
 | [12 September 2019](2019-09-12-Tecnè.html) | Tecnè <br> Rete 4 | 18 | 17–20 | 16–20 | 15–20 | 15–21 |
 | [9–12 September 2019](2019-09-12-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 18 | 17–19 | 16–19 | 16–20 | 15–20 |
-| [10–12 September 2019](2019-09-12-DemosPi.html) | Demos & Pi <br> La Repubblica | 16 | 15–17 | 15–18 | 14–18 | 13–19 |
-| [9–10 September 2019](2019-09-10-NotoSondaggi.html) | Noto Sondaggi | 17 | 15–18 | 15–18 | 15–19 | 14–20 |
+| [10–12 September 2019](2019-09-12-DemosPi.html) | Demos & Pi <br> La Repubblica | 16 | 15–17 | 14–18 | 14–18 | 14–19 |
+| [9–10 September 2019](2019-09-10-NotoSondaggi.html) | Noto Sondaggi | 16 | 15–18 | 15–18 | 15–19 | 14–20 |
 | [9–10 September 2019](2019-09-10-Ixè.html) | Ixè <br> Rai 3 | 16 | 15–18 | 15–19 | 14–19 | 14–20 |
 | [9–10 September 2019](2019-09-10-Euromedia.html) | Euromedia | 15 | 14–17 | 14–17 | 13–17 | 13–19 |
 | [10 September 2019](2019-09-10-EMG.html) | EMG <br> Rai 3 | 17 | 17–18 | 16–18 | 16–19 | 15–19 |
 | [9–10 September 2019](2019-09-10-Demopolis.html) | Demopolis <br> Rai 3 | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [4–9 September 2019](2019-09-09-SWG.html) | SWG <br> La7 | 17 | 16–19 | 16–19 | 16–19 | 15–19 |
-| [7–9 September 2019](2019-09-09-Piepoli.html) | Piepoli <br> Rai 1 | 16 | 15–19 | 15–19 | 14–20 | 13–21 |
+| [7–9 September 2019](2019-09-09-Piepoli.html) | Piepoli <br> Rai 1 | 17 | 15–19 | 14–19 | 14–20 | 13–21 |
 | [1–6 September 2019](2019-09-06-NotoSondaggi.html) | Noto Sondaggi <br> Quotidiano Nazionale | 17 | 16–19 | 15–19 | 15–19 | 14–20 |
 | [5 September 2019](2019-09-05-Tecnè.html) | Tecnè <br> Rete 4 | 18 | 16–19 | 16–20 | 16–20 | 15–21 |
-| [4–5 September 2019](2019-09-05-GPF.html) | GPF <br> La Notizia | 17 | 16–19 | 15–19 | 15–19 | 15–20 |
+| [4–5 September 2019](2019-09-05-GPF.html) | GPF <br> La Notizia | 17 | 16–19 | 15–19 | 15–19 | 14–20 |
 | [4–5 September 2019](2019-09-05-Demopolis.html) | Demopolis <br> Rai 3 | 16 | 15–17 | 15–18 | 15–18 | 14–18 |
 | [2–3 September 2019](2019-09-03-Ixè.html) | Ixè <br> Rai 3 | 17 | 15–19 | 15–19 | 15–19 | 14–20 |
 | [31 August–2 September 2019](2019-09-02-Tecnè.html) | Tecnè <br> Rete 4 | 17 | 16–18 | 15–19 | 15–19 | 14–20 |
@@ -248,13 +248,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0.6% | 99.9% |  |
 | 12 | 1.5% | 99.4% |  |
 | 13 | 4% | 98% |  |
-| 14 | 13% | 94% |  |
-| 15 | 23% | 80% |  |
-| 16 | 23% | 57% | Median |
-| 17 | 21% | 34% |  |
+| 14 | 14% | 94% |  |
+| 15 | 22% | 80% |  |
+| 16 | 25% | 58% | Median |
+| 17 | 20% | 33% |  |
 | 18 | 10% | 12% |  |
 | 19 | 2% | 3% |  |
-| 20 | 0.4% | 0.5% |  |
+| 20 | 0.4% | 0.4% |  |
 | 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |
 | 23 | 0% | 0% |  |
