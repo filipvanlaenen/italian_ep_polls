@@ -10,15 +10,15 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.3% | 0.7–1.8% | 0.6–2.0% | 0.5–2.2% | 0.4–2.6% |
+| N/A | [Poll Average](average.html) | 1.2% | 0.6–2.0% | 0.5–2.2% | 0.5–2.4% | 0.3–2.8% |
 | [1–25 September 2019](2019-09-25-NotoSondaggi.html) | Noto Sondaggi | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
 | [23–24 September 2019](2019-09-24-Ixè.html) | Ixè <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
-| [22–23 September 2019](2019-09-23-Tecnè.html) | Tecnè <br> Rete 4 | 0.7% | N/A | N/A | N/A | N/A |
-| [18–23 September 2019](2019-09-23-SWG.html) | SWG <br> La7 | 2.0% | N/A | N/A | N/A | N/A |
+| [22–23 September 2019](2019-09-23-Tecnè.html) | Tecnè <br> Rete 4 | 0.7% | 0.5–1.2% | 0.4–1.3% | 0.3–1.4% | 0.2–1.7% |
+| [18–23 September 2019](2019-09-23-SWG.html) | SWG <br> La7 | 2.0% | 1.6–2.6% | 1.5–2.7% | 1.4–2.9% | 1.2–3.1% |
 | [20–22 September 2019](2019-09-22-Piepoli.html) | Piepoli <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
-| [19–20 September 2019](2019-09-20-Tecnè.html) | Tecnè | 0.8% | N/A | N/A | N/A | N/A |
+| [19–20 September 2019](2019-09-20-Tecnè.html) | Tecnè | 0.8% | 0.5–1.3% | 0.4–1.5% | 0.4–1.6% | 0.2–2.0% |
 | [18–20 September 2019](2019-09-20-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 0.0% | N/A | N/A | N/A | N/A |
-| [18–20 September 2019](2019-09-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 | 0.8% | N/A | N/A | N/A | N/A |
+| [18–20 September 2019](2019-09-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 | 0.8% | 0.5–1.3% | 0.5–1.4% | 0.4–1.6% | 0.3–1.9% |
 | [20 September 2019](2019-09-20-IZI.html) | IZI | 0.0% | N/A | N/A | N/A | N/A |
 | [17–19 September 2019](2019-09-19-TermometroPolitico.html) | Termometro Politico <br> La7 | 0.7% | 0.5–1.0% | 0.5–1.1% | 0.4–1.2% | 0.3–1.3% |
 | [18–19 September 2019](2019-09-19-Tecnè.html) | Tecnè <br> Rete 4 | 0.7% | 0.5–1.2% | 0.4–1.3% | 0.3–1.4% | 0.2–1.7% |
@@ -116,10 +116,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 3% | 100% | Last Result |
-| 0.5–1.5% | 73% | 97% | Median |
-| 1.5–2.5% | 24% | 24% |  |
-| 2.5–3.5% | 0.5% | 0.5% |  |
+| 0.0–0.5% | 6% | 100% | Last Result |
+| 0.5–1.5% | 67% | 94% | Median |
+| 1.5–2.5% | 26% | 27% |  |
+| 2.5–3.5% | 2% | 2% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -134,12 +134,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [1–25 September 2019](2019-09-25-NotoSondaggi.html) | Noto Sondaggi | 0 | 0 | 0 | 0 | 0 |
 | [23–24 September 2019](2019-09-24-Ixè.html) | Ixè <br> Rai 3 |  |  |  |  |  |
-| [22–23 September 2019](2019-09-23-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
-| [18–23 September 2019](2019-09-23-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [22–23 September 2019](2019-09-23-Tecnè.html) | Tecnè <br> Rete 4 | 0 | 0 | 0 | 0 | 0 |
+| [18–23 September 2019](2019-09-23-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [20–22 September 2019](2019-09-22-Piepoli.html) | Piepoli <br> Rai 1 |  |  |  |  |  |
-| [19–20 September 2019](2019-09-20-Tecnè.html) | Tecnè |  |  |  |  |  |
+| [19–20 September 2019](2019-09-20-Tecnè.html) | Tecnè | 0 | 0 | 0 | 0 | 0 |
 | [18–20 September 2019](2019-09-20-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore |  |  |  |  |  |
-| [18–20 September 2019](2019-09-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 |  |  |  |  |  |
+| [18–20 September 2019](2019-09-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 | 0 | 0 | 0 | 0 | 0 |
 | [20 September 2019](2019-09-20-IZI.html) | IZI |  |  |  |  |  |
 | [17–19 September 2019](2019-09-19-TermometroPolitico.html) | Termometro Politico <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [18–19 September 2019](2019-09-19-Tecnè.html) | Tecnè <br> Rete 4 | 0 | 0 | 0 | 0 | 0 |

@@ -10,19 +10,19 @@ Last result: **6.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 32.7% | 29.8–36.1% | 29.1–36.8% | 28.6–37.4% | 27.6–38.3% |
+| N/A | [Poll Average](average.html) | 32.2% | 29.1–35.4% | 28.4–36.3% | 27.8–37.0% | 26.6–38.1% |
 | [1–25 September 2019](2019-09-25-NotoSondaggi.html) | Noto Sondaggi | 33.0% | 31.1–34.9% | 30.6–35.5% | 30.1–36.0% | 29.3–36.9% |
-| [23–24 September 2019](2019-09-24-Ixè.html) | Ixè <br> Rai 3 | 29.9% | N/A | N/A | N/A | N/A |
-| [22–23 September 2019](2019-09-23-Tecnè.html) | Tecnè <br> Rete 4 | 32.0% | N/A | N/A | N/A | N/A |
-| [18–23 September 2019](2019-09-23-SWG.html) | SWG <br> La7 | 33.6% | N/A | N/A | N/A | N/A |
-| [20–22 September 2019](2019-09-22-Piepoli.html) | Piepoli <br> Rai 1 | 30.5% | N/A | N/A | N/A | N/A |
-| [19–20 September 2019](2019-09-20-Tecnè.html) | Tecnè | 32.6% | N/A | N/A | N/A | N/A |
+| [23–24 September 2019](2019-09-24-Ixè.html) | Ixè <br> Rai 3 | 29.9% | 28.1–31.8% | 27.6–32.3% | 27.1–32.8% | 26.3–33.7% |
+| [22–23 September 2019](2019-09-23-Tecnè.html) | Tecnè <br> Rete 4 | 32.0% | 30.1–33.9% | 29.6–34.5% | 29.2–35.0% | 28.3–35.9% |
+| [18–23 September 2019](2019-09-23-SWG.html) | SWG <br> La7 | 33.6% | 32.1–35.2% | 31.6–35.7% | 31.2–36.0% | 30.5–36.8% |
+| [20–22 September 2019](2019-09-22-Piepoli.html) | Piepoli <br> Rai 1 | 30.5% | 28.0–33.2% | 27.3–34.0% | 26.6–34.7% | 25.5–36.0% |
+| [19–20 September 2019](2019-09-20-Tecnè.html) | Tecnè | 32.6% | 30.5–34.8% | 30.0–35.4% | 29.5–36.0% | 28.5–37.0% |
 | [18–20 September 2019](2019-09-20-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 33.5% | 31.9–35.1% | 31.5–35.5% | 31.1–35.9% | 30.4–36.7% |
-| [18–20 September 2019](2019-09-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 | 31.3% | N/A | N/A | N/A | N/A |
-| [20 September 2019](2019-09-20-IZI.html) | IZI | 29.0% | N/A | N/A | N/A | N/A |
+| [18–20 September 2019](2019-09-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 | 31.3% | 29.5–33.2% | 28.9–33.8% | 28.5–34.2% | 27.6–35.2% |
+| [20 September 2019](2019-09-20-IZI.html) | IZI | 29.0% | 27.2–30.9% | 26.7–31.4% | 26.3–31.9% | 25.4–32.8% |
 | [17–19 September 2019](2019-09-19-TermometroPolitico.html) | Termometro Politico <br> La7 | 36.4% | 35.0–37.8% | 34.6–38.2% | 34.3–38.5% | 33.7–39.2% |
 | [18–19 September 2019](2019-09-19-Tecnè.html) | Tecnè <br> Rete 4 | 33.0% | 31.1–34.9% | 30.6–35.5% | 30.1–36.0% | 29.3–36.9% |
-| [1–19 September 2019](2019-09-19-IndexResearch.html) | Index Research <br> LA7 | 33.0% | N/A | N/A | N/A | N/A |
+| [1–19 September 2019](2019-09-19-IndexResearch.html) | Index Research <br> LA7 | 33.0% | 30.9–35.2% | 30.3–35.8% | 29.8–36.3% | 28.8–37.4% |
 | [18–19 September 2019](2019-09-19-Demopolis.html) | Demopolis <br> Rai 3 | 35.5% | 33.9–37.1% | 33.5–37.5% | 33.1–37.9% | 32.3–38.7% |
 | [17–18 September 2019](2019-09-18-Euromedia.html) | Euromedia <br> Rai 1 | 32.1% | 30.1–34.3% | 29.5–34.9% | 29.0–35.5% | 28.0–36.5% |
 | [14–18 September 2019](2019-09-18-BiDiMedia.html) | BiDiMedia | 29.9% | 28.4–31.4% | 28.0–31.9% | 27.7–32.3% | 27.0–33.0% |
@@ -135,21 +135,21 @@ The following table shows the probability mass function per percentage block of 
 | 21.5–22.5% | 0% | 100% |  |
 | 22.5–23.5% | 0% | 100% |  |
 | 23.5–24.5% | 0% | 100% |  |
-| 24.5–25.5% | 0% | 100% |  |
-| 25.5–26.5% | 0% | 100% |  |
-| 26.5–27.5% | 0.4% | 99.9% |  |
-| 27.5–28.5% | 2% | 99.5% |  |
-| 28.5–29.5% | 6% | 98% |  |
-| 29.5–30.5% | 10% | 92% |  |
-| 30.5–31.5% | 13% | 82% |  |
-| 31.5–32.5% | 17% | 69% |  |
-| 32.5–33.5% | 16% | 52% | Median |
-| 33.5–34.5% | 13% | 36% |  |
-| 34.5–35.5% | 9% | 23% |  |
-| 35.5–36.5% | 8% | 14% |  |
-| 36.5–37.5% | 5% | 7% |  |
-| 37.5–38.5% | 2% | 2% |  |
-| 38.5–39.5% | 0.3% | 0.3% |  |
+| 24.5–25.5% | 0.1% | 100% |  |
+| 25.5–26.5% | 0.4% | 99.9% |  |
+| 26.5–27.5% | 1.4% | 99.5% |  |
+| 27.5–28.5% | 4% | 98% |  |
+| 28.5–29.5% | 8% | 94% |  |
+| 29.5–30.5% | 12% | 86% |  |
+| 30.5–31.5% | 15% | 75% |  |
+| 31.5–32.5% | 16% | 60% | Median |
+| 32.5–33.5% | 15% | 44% |  |
+| 33.5–34.5% | 12% | 28% |  |
+| 34.5–35.5% | 7% | 17% |  |
+| 35.5–36.5% | 5% | 9% |  |
+| 36.5–37.5% | 3% | 4% |  |
+| 37.5–38.5% | 1.0% | 1.2% |  |
+| 38.5–39.5% | 0.2% | 0.2% |  |
 | 39.5–40.5% | 0% | 0% |  |
 
 
@@ -161,19 +161,19 @@ Last result: **5** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25 | 23–28 | 23–29 | 22–30 | 21–31 |
+| N/A | [Poll Average](average.html) | 25 | 22–28 | 21–30 | 20–30 | 19–31 |
 | [1–25 September 2019](2019-09-25-NotoSondaggi.html) | Noto Sondaggi | 28 | 28 | 28 | 26–29 | 25–29 |
-| [23–24 September 2019](2019-09-24-Ixè.html) | Ixè <br> Rai 3 |  |  |  |  |  |
-| [22–23 September 2019](2019-09-23-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
-| [18–23 September 2019](2019-09-23-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [20–22 September 2019](2019-09-22-Piepoli.html) | Piepoli <br> Rai 1 |  |  |  |  |  |
-| [19–20 September 2019](2019-09-20-Tecnè.html) | Tecnè |  |  |  |  |  |
+| [23–24 September 2019](2019-09-24-Ixè.html) | Ixè <br> Rai 3 | 23 | 23–26 | 23–27 | 22–27 | 22–27 |
+| [22–23 September 2019](2019-09-23-Tecnè.html) | Tecnè <br> Rete 4 | 25 | 24–30 | 24–30 | 24–30 | 24–30 |
+| [18–23 September 2019](2019-09-23-SWG.html) | SWG <br> La7 | 27 | 27–30 | 27–30 | 26–30 | 26–30 |
+| [20–22 September 2019](2019-09-22-Piepoli.html) | Piepoli <br> Rai 1 | 22 | 21–22 | 21–23 | 21–23 | 21–24 |
+| [19–20 September 2019](2019-09-20-Tecnè.html) | Tecnè | 26 | 26–27 | 26–27 | 26–27 | 26–31 |
 | [18–20 September 2019](2019-09-20-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 25 | 25–27 | 24–28 | 24–28 | 23–29 |
-| [18–20 September 2019](2019-09-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 |  |  |  |  |  |
-| [20 September 2019](2019-09-20-IZI.html) | IZI |  |  |  |  |  |
+| [18–20 September 2019](2019-09-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 | 24 | 24–27 | 24–27 | 24–27 | 24–27 |
+| [20 September 2019](2019-09-20-IZI.html) | IZI | 20 | 19–23 | 19–23 | 19–24 | 19–24 |
 | [17–19 September 2019](2019-09-19-TermometroPolitico.html) | Termometro Politico <br> La7 | 29 | 28–31 | 27–31 | 27–32 | 26–32 |
 | [18–19 September 2019](2019-09-19-Tecnè.html) | Tecnè <br> Rete 4 | 27 | 25–29 | 24–29 | 24–29 | 24–30 |
-| [1–19 September 2019](2019-09-19-IndexResearch.html) | Index Research <br> LA7 |  |  |  |  |  |
+| [1–19 September 2019](2019-09-19-IndexResearch.html) | Index Research <br> LA7 | 24 | 22–27 | 22–27 | 22–27 | 22–30 |
 | [18–19 September 2019](2019-09-19-Demopolis.html) | Demopolis <br> Rai 3 | 26 | 25–27 | 24–27 | 24–28 | 24–28 |
 | [17–18 September 2019](2019-09-18-Euromedia.html) | Euromedia <br> Rai 1 | 25 | 23–26 | 23–27 | 23–27 | 22–29 |
 | [14–18 September 2019](2019-09-18-BiDiMedia.html) | BiDiMedia | 23 | 22–25 | 22–25 | 22–25 | 21–26 |
@@ -283,20 +283,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
 | 18 | 0% | 100% |  |
-| 19 | 0% | 100% |  |
-| 20 | 0.1% | 100% |  |
-| 21 | 0.8% | 99.9% |  |
-| 22 | 4% | 99.1% |  |
-| 23 | 12% | 95% |  |
-| 24 | 15% | 84% |  |
-| 25 | 20% | 69% | Median |
-| 26 | 16% | 49% |  |
-| 27 | 10% | 33% |  |
-| 28 | 14% | 23% |  |
-| 29 | 5% | 9% |  |
-| 30 | 3% | 5% |  |
-| 31 | 2% | 2% |  |
-| 32 | 0.5% | 0.5% |  |
+| 19 | 0.9% | 100% |  |
+| 20 | 4% | 99.1% |  |
+| 21 | 3% | 95% |  |
+| 22 | 6% | 92% |  |
+| 23 | 12% | 86% |  |
+| 24 | 18% | 74% |  |
+| 25 | 14% | 56% | Median |
+| 26 | 12% | 42% |  |
+| 27 | 11% | 29% |  |
+| 28 | 8% | 18% |  |
+| 29 | 3% | 10% |  |
+| 30 | 6% | 7% |  |
+| 31 | 1.0% | 1.3% |  |
+| 32 | 0.3% | 0.3% |  |
 | 33 | 0% | 0% |  |
 
 
