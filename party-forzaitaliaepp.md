@@ -10,10 +10,19 @@ Last result: **16.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.4% | 5.2–7.8% | 4.9–8.3% | 4.7–8.7% | 4.3–9.5% |
+| N/A | [Poll Average](average.html) | 6.2% | 5.1–7.3% | 4.9–7.6% | 4.7–7.9% | 4.4–8.5% |
+| [1–25 September 2019](2019-09-25-NotoSondaggi.html) | Noto Sondaggi | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
+| [23–24 September 2019](2019-09-24-Ixè.html) | Ixè <br> Rai 3 | 6.5% | N/A | N/A | N/A | N/A |
+| [22–23 September 2019](2019-09-23-Tecnè.html) | Tecnè <br> Rete 4 | 7.9% | N/A | N/A | N/A | N/A |
+| [18–23 September 2019](2019-09-23-SWG.html) | SWG <br> La7 | 5.1% | N/A | N/A | N/A | N/A |
+| [20–22 September 2019](2019-09-22-Piepoli.html) | Piepoli <br> Rai 1 | 6.9% | N/A | N/A | N/A | N/A |
+| [19–20 September 2019](2019-09-20-Tecnè.html) | Tecnè | 8.0% | N/A | N/A | N/A | N/A |
 | [18–20 September 2019](2019-09-20-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 5.7% | 5.0–6.5% | 4.8–6.8% | 4.6–7.0% | 4.3–7.4% |
+| [18–20 September 2019](2019-09-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 | 6.9% | N/A | N/A | N/A | N/A |
+| [20 September 2019](2019-09-20-IZI.html) | IZI | 7.0% | N/A | N/A | N/A | N/A |
 | [17–19 September 2019](2019-09-19-TermometroPolitico.html) | Termometro Politico <br> La7 | 5.2% | 4.6–6.0% | 4.5–6.1% | 4.3–6.3% | 4.1–6.7% |
 | [18–19 September 2019](2019-09-19-Tecnè.html) | Tecnè <br> Rete 4 | 7.9% | 6.9–9.1% | 6.6–9.4% | 6.4–9.7% | 5.9–10.3% |
+| [1–19 September 2019](2019-09-19-IndexResearch.html) | Index Research <br> LA7 | 6.0% | N/A | N/A | N/A | N/A |
 | [18–19 September 2019](2019-09-19-Demopolis.html) | Demopolis <br> Rai 3 | 6.5% | 5.7–7.4% | 5.5–7.6% | 5.3–7.8% | 5.0–8.3% |
 | [17–18 September 2019](2019-09-18-Euromedia.html) | Euromedia <br> Rai 1 | 6.5% | 5.5–7.8% | 5.2–8.1% | 5.0–8.4% | 4.5–9.1% |
 | [14–18 September 2019](2019-09-18-BiDiMedia.html) | BiDiMedia | 5.9% | 5.2–6.8% | 5.0–7.0% | 4.9–7.2% | 4.5–7.7% |
@@ -108,13 +117,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 1.3% | 100% |  |
-| 4.5–5.5% | 18% | 98.7% |  |
-| 5.5–6.5% | 38% | 81% | Median |
-| 6.5–7.5% | 29% | 43% |  |
-| 7.5–8.5% | 11% | 15% |  |
-| 8.5–9.5% | 3% | 3% |  |
-| 9.5–10.5% | 0.4% | 0.5% |  |
+| 3.5–4.5% | 1.4% | 100% |  |
+| 4.5–5.5% | 21% | 98.6% |  |
+| 5.5–6.5% | 44% | 77% | Median |
+| 6.5–7.5% | 27% | 33% |  |
+| 7.5–8.5% | 6% | 6% |  |
+| 8.5–9.5% | 0.4% | 0.4% |  |
+| 9.5–10.5% | 0% | 0% |  |
 | 10.5–11.5% | 0% | 0% |  |
 | 11.5–12.5% | 0% | 0% |  |
 | 12.5–13.5% | 0% | 0% |  |
@@ -132,10 +141,19 @@ Last result: **13** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–7 | 4–7 | 3–8 |
+| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
+| [1–25 September 2019](2019-09-25-NotoSondaggi.html) | Noto Sondaggi | 6 | 6 | 4–6 | 4–6 | 4–6 |
+| [23–24 September 2019](2019-09-24-Ixè.html) | Ixè <br> Rai 3 |  |  |  |  |  |
+| [22–23 September 2019](2019-09-23-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
+| [18–23 September 2019](2019-09-23-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [20–22 September 2019](2019-09-22-Piepoli.html) | Piepoli <br> Rai 1 |  |  |  |  |  |
+| [19–20 September 2019](2019-09-20-Tecnè.html) | Tecnè |  |  |  |  |  |
 | [18–20 September 2019](2019-09-20-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
+| [18–20 September 2019](2019-09-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 |  |  |  |  |  |
+| [20 September 2019](2019-09-20-IZI.html) | IZI |  |  |  |  |  |
 | [17–19 September 2019](2019-09-19-TermometroPolitico.html) | Termometro Politico <br> La7 | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
 | [18–19 September 2019](2019-09-19-Tecnè.html) | Tecnè <br> Rete 4 | 7 | 6–8 | 6–8 | 5–8 | 5–8 |
+| [1–19 September 2019](2019-09-19-IndexResearch.html) | Index Research <br> LA7 |  |  |  |  |  |
 | [18–19 September 2019](2019-09-19-Demopolis.html) | Demopolis <br> Rai 3 | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [17–18 September 2019](2019-09-18-Euromedia.html) | Euromedia <br> Rai 1 | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
 | [14–18 September 2019](2019-09-18-BiDiMedia.html) | BiDiMedia | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
@@ -234,12 +252,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0.1% | 100% |  |
 | 1 | 0% | 99.9% |  |
 | 2 | 0% | 99.9% |  |
-| 3 | 0.9% | 99.9% |  |
-| 4 | 27% | 99.0% |  |
-| 5 | 45% | 72% | Median |
-| 6 | 20% | 27% |  |
-| 7 | 6% | 7% |  |
-| 8 | 0.8% | 0.9% |  |
+| 3 | 0.7% | 99.9% |  |
+| 4 | 29% | 99.2% |  |
+| 5 | 44% | 70% | Median |
+| 6 | 24% | 26% |  |
+| 7 | 2% | 2% |  |
+| 8 | 0% | 0% |  |
 | 9 | 0% | 0% |  |
 | 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |
