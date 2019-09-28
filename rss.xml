@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 27 Sep 2019 20:40:19 +0200</pubDate>
+    <pubDate>Sat, 28 Sep 2019 08:36:09 +0200</pubDate>
     <item>
       <title>Opinion Poll by Noto Sondaggi, 1–25 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-09-25-NotoSondaggi.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-09-25-NotoSondaggi.png"
         length="261021"
         type="image/png"/>
-      <pubDate>Fri, 27 Sep 2019 18:18:36 +0200</pubDate>
-      <dc:date>2019-09-27T18:18:36.319817+02:00</dc:date>
+      <pubDate>Fri, 27 Sep 2019 22:56:22 +0200</pubDate>
+      <dc:date>2019-09-27T22:56:22.6161+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ixè for Rai 3, 23–24 September 2019 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-09-24-Ixè.png"
         length="248775"
         type="image/png"/>
-      <pubDate>Fri, 27 Sep 2019 20:40:19 +0200</pubDate>
-      <dc:date>2019-09-27T20:40:19.447294+02:00</dc:date>
+      <pubDate>Fri, 27 Sep 2019 23:12:57 +0200</pubDate>
+      <dc:date>2019-09-27T23:12:57.849008+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Tecnè for Rete 4, 22–23 September 2019 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-09-23-Tecnè.png"
         length="263483"
         type="image/png"/>
-      <pubDate>Fri, 27 Sep 2019 18:56:06 +0200</pubDate>
-      <dc:date>2019-09-27T18:56:06.788444+02:00</dc:date>
+      <pubDate>Fri, 27 Sep 2019 21:09:12 +0200</pubDate>
+      <dc:date>2019-09-27T21:09:12.955099+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SWG for La7, 18–23 September 2019 – Voting Intentions</title>
@@ -46,8 +46,28 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-09-23-SWG.png"
         length="254254"
         type="image/png"/>
-      <pubDate>Fri, 27 Sep 2019 19:04:14 +0200</pubDate>
-      <dc:date>2019-09-27T19:04:14.145757+02:00</dc:date>
+      <pubDate>Fri, 27 Sep 2019 21:14:08 +0200</pubDate>
+      <dc:date>2019-09-27T21:14:08.20674+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Piepoli for Rai 1, 20–22 September 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-09-22-Piepoli.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (NI): 12–18 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 12–18 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ID): 21–28 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 4–8 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 4–7 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0–4 seats&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 0–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-09-22-Piepoli-seats.png"
+        length="212680"
+        type="image/png"/>
+      <pubDate>Sat, 28 Sep 2019 08:36:09 +0200</pubDate>
+      <dc:date>2019-09-28T08:36:09.979669+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Piepoli for Rai 1, 20–22 September 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-09-22-Piepoli.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-09-22-Piepoli-coalitions-seats.png"
+        length="176115"
+        type="image/png"/>
+      <pubDate>Sat, 28 Sep 2019 08:36:09 +0200</pubDate>
+      <dc:date>2019-09-28T08:36:09.979669+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Piepoli for Rai 1, 20–22 September 2019 – Voting Intentions</title>
@@ -56,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-09-22-Piepoli.png"
         length="266922"
         type="image/png"/>
-      <pubDate>Fri, 27 Sep 2019 19:21:43 +0200</pubDate>
-      <dc:date>2019-09-27T19:21:43.60302+02:00</dc:date>
+      <pubDate>Sat, 28 Sep 2019 08:36:09 +0200</pubDate>
+      <dc:date>2019-09-28T08:36:09.979669+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Tecnè, 19–20 September 2019 – Voting Intentions</title>
@@ -66,8 +86,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-09-20-Tecnè.png"
         length="269429"
         type="image/png"/>
-      <pubDate>Fri, 27 Sep 2019 19:49:04 +0200</pubDate>
-      <dc:date>2019-09-27T19:49:04.048351+02:00</dc:date>
+      <pubDate>Fri, 27 Sep 2019 21:36:18 +0200</pubDate>
+      <dc:date>2019-09-27T21:36:18.214793+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Scenari Politici–Winpoll for Il Sole 24 Ore, 18–20 September 2019 – Seat Projections for the Parties</title>
@@ -106,8 +126,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-09-20-Quorum–YouTrend.png"
         length="247539"
         type="image/png"/>
-      <pubDate>Fri, 27 Sep 2019 19:55:05 +0200</pubDate>
-      <dc:date>2019-09-27T19:55:05.534441+02:00</dc:date>
+      <pubDate>Fri, 27 Sep 2019 21:06:15 +0200</pubDate>
+      <dc:date>2019-09-27T21:06:15.322672+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IZI, 20 September 2019 – Voting Intentions</title>
@@ -116,8 +136,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-09-20-IZI.png"
         length="195726"
         type="image/png"/>
-      <pubDate>Fri, 27 Sep 2019 20:00:23 +0200</pubDate>
-      <dc:date>2019-09-27T20:00:23.367563+02:00</dc:date>
+      <pubDate>Fri, 27 Sep 2019 21:21:14 +0200</pubDate>
+      <dc:date>2019-09-27T21:21:14.226119+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Termometro Politico for La7, 17–19 September 2019 – Seat Projections for the Parties</title>
@@ -186,8 +206,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-09-19-IndexResearch.png"
         length="253723"
         type="image/png"/>
-      <pubDate>Fri, 27 Sep 2019 20:16:19 +0200</pubDate>
-      <dc:date>2019-09-27T20:16:19.134725+02:00</dc:date>
+      <pubDate>Fri, 27 Sep 2019 21:31:16 +0200</pubDate>
+      <dc:date>2019-09-27T21:31:16.018506+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Demopolis for Rai 3, 18–19 September 2019 – Seat Projections for the Parties</title>
@@ -2489,6 +2509,6 @@
       <pubDate>Sat, 29 Jun 2019 16:56:02 +0200</pubDate>
       <dc:date>2019-06-29T16:56:02.59202+02:00</dc:date>
     </item>
-    <dc:date>2019-09-27T20:40:19.447294+02:00</dc:date>
+    <dc:date>2019-09-28T08:36:09.979669+02:00</dc:date>
   </channel>
 </rss>
