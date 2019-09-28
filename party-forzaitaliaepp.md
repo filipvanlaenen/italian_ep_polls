@@ -144,16 +144,16 @@ Last result: **13** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 4–7 | 4–7 | 3–8 |
 | [1–25 September 2019](2019-09-25-NotoSondaggi.html) | Noto Sondaggi | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [23–24 September 2019](2019-09-24-Ixè.html) | Ixè <br> Rai 3 | 6 | 5–6 | 4–7 | 4–7 | 4–7 |
-| [22–23 September 2019](2019-09-23-Tecnè.html) | Tecnè <br> Rete 4 | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
+| [22–23 September 2019](2019-09-23-Tecnè.html) | Tecnè <br> Rete 4 | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
 | [18–23 September 2019](2019-09-23-SWG.html) | SWG <br> La7 | 4 | 4 | 3–4 | 3–5 | 0–5 |
 | [20–22 September 2019](2019-09-22-Piepoli.html) | Piepoli <br> Rai 1 | 5 | 4–7 | 4–7 | 4–8 | 3–8 |
-| [19–20 September 2019](2019-09-20-Tecnè.html) | Tecnè | 6 | 6–8 | 6–8 | 5–8 | 5–9 |
+| [19–20 September 2019](2019-09-20-Tecnè.html) | Tecnè | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [18–20 September 2019](2019-09-20-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
-| [18–20 September 2019](2019-09-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
+| [18–20 September 2019](2019-09-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 | 5 | 5–7 | 5–7 | 4–7 | 4–8 |
 | [20 September 2019](2019-09-20-IZI.html) | IZI | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [17–19 September 2019](2019-09-19-TermometroPolitico.html) | Termometro Politico <br> La7 | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
 | [18–19 September 2019](2019-09-19-Tecnè.html) | Tecnè <br> Rete 4 | 7 | 6–8 | 6–8 | 5–8 | 5–8 |
-| [1–19 September 2019](2019-09-19-IndexResearch.html) | Index Research <br> LA7 | 5 | 4–6 | 4–6 | 4–6 | 0–7 |
+| [1–19 September 2019](2019-09-19-IndexResearch.html) | Index Research <br> LA7 | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
 | [18–19 September 2019](2019-09-19-Demopolis.html) | Demopolis <br> Rai 3 | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [17–18 September 2019](2019-09-18-Euromedia.html) | Euromedia <br> Rai 1 | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
 | [14–18 September 2019](2019-09-18-BiDiMedia.html) | BiDiMedia | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
@@ -253,9 +253,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 99.9% |  |
 | 2 | 0% | 99.9% |  |
 | 3 | 1.0% | 99.9% |  |
-| 4 | 28% | 98.8% |  |
-| 5 | 45% | 71% | Median |
-| 6 | 21% | 26% |  |
+| 4 | 28% | 98.9% |  |
+| 5 | 43% | 71% | Median |
+| 6 | 23% | 28% |  |
 | 7 | 5% | 6% |  |
 | 8 | 0.5% | 0.5% |  |
 | 9 | 0% | 0% |  |

@@ -162,11 +162,11 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [20–22 September 2019](2019-09-22-Piepoli.html) | Piepoli <br> Rai 1 | 15 | 13–17 | 12–17 | 12–18 | 11–19 |
 | [19–20 September 2019](2019-09-20-Tecnè.html) | Tecnè | 15 | 13–16 | 13–16 | 13–17 | 12–18 |
 | [18–20 September 2019](2019-09-20-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
-| [18–20 September 2019](2019-09-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 | 16 | 15–17 | 14–17 | 14–18 | 13–19 |
+| [18–20 September 2019](2019-09-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 | 16 | 15–17 | 14–18 | 14–18 | 13–19 |
 | [20 September 2019](2019-09-20-IZI.html) | IZI | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
 | [17–19 September 2019](2019-09-19-TermometroPolitico.html) | Termometro Politico <br> La7 | 15 | 14–16 | 14–16 | 13–16 | 13–17 |
 | [18–19 September 2019](2019-09-19-Tecnè.html) | Tecnè <br> Rete 4 | 14 | 13–16 | 13–17 | 13–17 | 12–17 |
-| [1–19 September 2019](2019-09-19-IndexResearch.html) | Index Research <br> LA7 | 15 | 14–18 | 14–18 | 13–18 | 13–19 |
+| [1–19 September 2019](2019-09-19-IndexResearch.html) | Index Research <br> LA7 | 16 | 14–17 | 14–18 | 13–18 | 13–19 |
 | [18–19 September 2019](2019-09-19-Demopolis.html) | Demopolis <br> Rai 3 | 14 | 13–15 | 13–16 | 13–16 | 12–16 |
 | [17–18 September 2019](2019-09-18-Euromedia.html) | Euromedia <br> Rai 1 | 13 | 12–15 | 11–15 | 11–15 | 10–16 |
 | [14–18 September 2019](2019-09-18-BiDiMedia.html) | BiDiMedia | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
@@ -266,10 +266,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0.7% | 99.9% |  |
 | 12 | 3% | 99.2% |  |
 | 13 | 8% | 96% |  |
-| 14 | 16% | 88% |  |
+| 14 | 17% | 88% |  |
 | 15 | 29% | 72% | Median |
-| 16 | 22% | 44% |  |
-| 17 | 14% | 22% |  |
+| 16 | 21% | 43% |  |
+| 17 | 15% | 22% |  |
 | 18 | 6% | 8% |  |
 | 19 | 2% | 2% |  |
 | 20 | 0.2% | 0.2% |  |

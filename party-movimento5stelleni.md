@@ -147,16 +147,16 @@ Last result: **17** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 16 | 14–18 | 12–19 | 12–20 | 11–21 |
 | [1–25 September 2019](2019-09-25-NotoSondaggi.html) | Noto Sondaggi | 16 | 14–17 | 14–17 | 14–17 | 13–18 |
 | [23–24 September 2019](2019-09-24-Ixè.html) | Ixè <br> Rai 3 | 18 | 16–19 | 16–19 | 16–20 | 15–20 |
-| [22–23 September 2019](2019-09-23-Tecnè.html) | Tecnè <br> Rete 4 | 16 | 15–17 | 15–17 | 14–18 | 14–19 |
+| [22–23 September 2019](2019-09-23-Tecnè.html) | Tecnè <br> Rete 4 | 17 | 15–18 | 15–18 | 14–19 | 14–20 |
 | [18–23 September 2019](2019-09-23-SWG.html) | SWG <br> La7 | 16 | 16 | 15–17 | 15–17 | 14–18 |
 | [20–22 September 2019](2019-09-22-Piepoli.html) | Piepoli <br> Rai 1 | 15 | 13–17 | 13–18 | 12–18 | 12–19 |
-| [19–20 September 2019](2019-09-20-Tecnè.html) | Tecnè | 17 | 15–19 | 15–19 | 14–19 | 14–20 |
+| [19–20 September 2019](2019-09-20-Tecnè.html) | Tecnè | 17 | 15–18 | 15–18 | 14–19 | 14–19 |
 | [18–20 September 2019](2019-09-20-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 12 | 11–13 | 10–13 | 10–13 | 10–14 |
-| [18–20 September 2019](2019-09-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 | 14 | 13–15 | 13–16 | 13–16 | 12–18 |
+| [18–20 September 2019](2019-09-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 | 14 | 13–16 | 13–16 | 12–17 | 12–18 |
 | [20 September 2019](2019-09-20-IZI.html) | IZI | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [17–19 September 2019](2019-09-19-TermometroPolitico.html) | Termometro Politico <br> La7 | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
 | [18–19 September 2019](2019-09-19-Tecnè.html) | Tecnè <br> Rete 4 | 17 | 15–19 | 15–19 | 15–19 | 14–20 |
-| [1–19 September 2019](2019-09-19-IndexResearch.html) | Index Research <br> LA7 | 16 | 14–18 | 14–18 | 13–19 | 13–20 |
+| [1–19 September 2019](2019-09-19-IndexResearch.html) | Index Research <br> LA7 | 16 | 15–17 | 14–18 | 14–18 | 13–19 |
 | [18–19 September 2019](2019-09-19-Demopolis.html) | Demopolis <br> Rai 3 | 16 | 15–17 | 15–17 | 15–18 | 14–18 |
 | [17–18 September 2019](2019-09-18-Euromedia.html) | Euromedia <br> Rai 1 | 15 | 14–16 | 14–17 | 13–17 | 12–18 |
 | [14–18 September 2019](2019-09-18-BiDiMedia.html) | BiDiMedia | 15 | 14–17 | 14–17 | 14–17 | 14–18 |
@@ -256,9 +256,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 2% | 99.7% |  |
 | 12 | 3% | 98% |  |
 | 13 | 3% | 95% |  |
-| 14 | 12% | 91% |  |
-| 15 | 23% | 79% |  |
-| 16 | 24% | 57% | Median |
+| 14 | 10% | 91% |  |
+| 15 | 22% | 81% |  |
+| 16 | 26% | 59% | Median |
 | 17 | 16% | 33% | Last Result |
 | 18 | 8% | 17% |  |
 | 19 | 6% | 9% |  |
