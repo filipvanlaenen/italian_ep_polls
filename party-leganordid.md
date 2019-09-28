@@ -161,19 +161,19 @@ Last result: **5** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25 | 22–28 | 21–30 | 20–30 | 19–31 |
-| [1–25 September 2019](2019-09-25-NotoSondaggi.html) | Noto Sondaggi | 28 | 28 | 28 | 26–29 | 25–29 |
-| [23–24 September 2019](2019-09-24-Ixè.html) | Ixè <br> Rai 3 | 23 | 23–26 | 23–27 | 22–27 | 22–27 |
-| [22–23 September 2019](2019-09-23-Tecnè.html) | Tecnè <br> Rete 4 | 25 | 24–30 | 24–30 | 24–30 | 24–30 |
-| [18–23 September 2019](2019-09-23-SWG.html) | SWG <br> La7 | 27 | 27–30 | 27–30 | 26–30 | 26–30 |
-| [20–22 September 2019](2019-09-22-Piepoli.html) | Piepoli <br> Rai 1 | 22 | 21–22 | 21–23 | 21–23 | 21–24 |
-| [19–20 September 2019](2019-09-20-Tecnè.html) | Tecnè | 26 | 26–27 | 26–27 | 26–27 | 26–31 |
+| N/A | [Poll Average](average.html) | 25 | 23–28 | 22–29 | 21–30 | 20–31 |
+| [1–25 September 2019](2019-09-25-NotoSondaggi.html) | Noto Sondaggi | 27 | 26–29 | 25–29 | 25–29 | 24–29 |
+| [23–24 September 2019](2019-09-24-Ixè.html) | Ixè <br> Rai 3 | 24 | 23–26 | 23–27 | 22–27 | 21–28 |
+| [22–23 September 2019](2019-09-23-Tecnè.html) | Tecnè <br> Rete 4 | 26 | 25–27 | 24–27 | 23–28 | 23–29 |
+| [18–23 September 2019](2019-09-23-SWG.html) | SWG <br> La7 | 27 | 27–28 | 26–29 | 25–29 | 25–29 |
+| [20–22 September 2019](2019-09-22-Piepoli.html) | Piepoli <br> Rai 1 | 24 | 22–26 | 21–27 | 21–28 | 20–29 |
+| [19–20 September 2019](2019-09-20-Tecnè.html) | Tecnè | 26 | 25–28 | 25–29 | 24–30 | 24–31 |
 | [18–20 September 2019](2019-09-20-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 25 | 25–27 | 24–28 | 24–28 | 23–29 |
-| [18–20 September 2019](2019-09-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 | 24 | 24–27 | 24–27 | 24–27 | 24–27 |
-| [20 September 2019](2019-09-20-IZI.html) | IZI | 20 | 19–23 | 19–23 | 19–24 | 19–24 |
+| [18–20 September 2019](2019-09-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 | 26 | 24–27 | 23–28 | 23–28 | 22–29 |
+| [20 September 2019](2019-09-20-IZI.html) | IZI | 21 | 20–22 | 19–23 | 19–23 | 19–24 |
 | [17–19 September 2019](2019-09-19-TermometroPolitico.html) | Termometro Politico <br> La7 | 29 | 28–31 | 27–31 | 27–32 | 26–32 |
 | [18–19 September 2019](2019-09-19-Tecnè.html) | Tecnè <br> Rete 4 | 27 | 25–29 | 24–29 | 24–29 | 24–30 |
-| [1–19 September 2019](2019-09-19-IndexResearch.html) | Index Research <br> LA7 | 24 | 22–27 | 22–27 | 22–27 | 22–30 |
+| [1–19 September 2019](2019-09-19-IndexResearch.html) | Index Research <br> LA7 | 27 | 24–29 | 24–29 | 24–30 | 23–32 |
 | [18–19 September 2019](2019-09-19-Demopolis.html) | Demopolis <br> Rai 3 | 26 | 25–27 | 24–27 | 24–28 | 24–28 |
 | [17–18 September 2019](2019-09-18-Euromedia.html) | Euromedia <br> Rai 1 | 25 | 23–26 | 23–27 | 23–27 | 22–29 |
 | [14–18 September 2019](2019-09-18-BiDiMedia.html) | BiDiMedia | 23 | 22–25 | 22–25 | 22–25 | 21–26 |
@@ -283,19 +283,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
 | 18 | 0% | 100% |  |
-| 19 | 0.9% | 100% |  |
-| 20 | 4% | 99.1% |  |
-| 21 | 3% | 95% |  |
-| 22 | 6% | 92% |  |
-| 23 | 12% | 86% |  |
-| 24 | 18% | 74% |  |
-| 25 | 14% | 56% | Median |
-| 26 | 12% | 42% |  |
-| 27 | 11% | 29% |  |
-| 28 | 8% | 18% |  |
-| 29 | 3% | 10% |  |
-| 30 | 6% | 7% |  |
-| 31 | 1.0% | 1.3% |  |
+| 19 | 0.3% | 100% |  |
+| 20 | 2% | 99.6% |  |
+| 21 | 3% | 98% |  |
+| 22 | 4% | 95% |  |
+| 23 | 11% | 91% |  |
+| 24 | 13% | 80% |  |
+| 25 | 17% | 67% | Median |
+| 26 | 17% | 49% |  |
+| 27 | 19% | 33% |  |
+| 28 | 5% | 14% |  |
+| 29 | 5% | 8% |  |
+| 30 | 2% | 3% |  |
+| 31 | 1.1% | 1.4% |  |
 | 32 | 0.3% | 0.3% |  |
 | 33 | 0% | 0% |  |
 
