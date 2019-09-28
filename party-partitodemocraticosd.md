@@ -155,15 +155,15 @@ Last result: **31** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 15 | 13–17 | 13–18 | 12–18 | 11–19 |
-| [1–25 September 2019](2019-09-25-NotoSondaggi.html) | Noto Sondaggi | 15 | 14–16 | 14–16 | 14–17 | 13–18 |
-| [23–24 September 2019](2019-09-24-Ixè.html) | Ixè <br> Rai 3 | 17 | 16–19 | 15–19 | 15–19 | 14–20 |
+| [1–25 September 2019](2019-09-25-NotoSondaggi.html) | Noto Sondaggi | 15 | 14–16 | 14–17 | 13–17 | 13–18 |
+| [23–24 September 2019](2019-09-24-Ixè.html) | Ixè <br> Rai 3 | 17 | 16–18 | 15–19 | 15–19 | 14–20 |
 | [22–23 September 2019](2019-09-23-Tecnè.html) | Tecnè <br> Rete 4 | 15 | 13–16 | 13–17 | 13–17 | 12–17 |
-| [18–23 September 2019](2019-09-23-SWG.html) | SWG <br> La7 | 15 | 14–15 | 14–15 | 14–16 | 13–17 |
+| [18–23 September 2019](2019-09-23-SWG.html) | SWG <br> La7 | 15 | 14–15 | 13–16 | 13–16 | 13–17 |
 | [20–22 September 2019](2019-09-22-Piepoli.html) | Piepoli <br> Rai 1 | 15 | 13–17 | 12–17 | 12–18 | 11–19 |
 | [19–20 September 2019](2019-09-20-Tecnè.html) | Tecnè | 15 | 13–16 | 13–16 | 13–17 | 12–18 |
 | [18–20 September 2019](2019-09-20-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
 | [18–20 September 2019](2019-09-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 | 16 | 15–17 | 14–18 | 14–18 | 13–19 |
-| [20 September 2019](2019-09-20-IZI.html) | IZI | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
+| [20 September 2019](2019-09-20-IZI.html) | IZI | 13 | 12–14 | 12–15 | 11–15 | 11–16 |
 | [17–19 September 2019](2019-09-19-TermometroPolitico.html) | Termometro Politico <br> La7 | 15 | 14–16 | 14–16 | 13–16 | 13–17 |
 | [18–19 September 2019](2019-09-19-Tecnè.html) | Tecnè <br> Rete 4 | 14 | 13–16 | 13–17 | 13–17 | 12–17 |
 | [1–19 September 2019](2019-09-19-IndexResearch.html) | Index Research <br> LA7 | 16 | 14–17 | 14–18 | 13–18 | 13–19 |
@@ -175,7 +175,7 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [15–16 September 2019](2019-09-16-Tecnè.html) | Tecnè <br> Rete 4 | 17 | 16–19 | 16–19 | 16–20 | 15–20 |
 | [11–16 September 2019](2019-09-16-SWG.html) | SWG <br> La7 | 17 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [11–12 September 2019](2019-09-12-TermometroPolitico.html) | Termometro Politico <br> La7 | 17 | 16–18 | 16–18 | 16–18 | 15–19 |
-| [12 September 2019](2019-09-12-Tecnè.html) | Tecnè <br> Rete 4 | 18 | 17–20 | 16–20 | 15–20 | 15–21 |
+| [12 September 2019](2019-09-12-Tecnè.html) | Tecnè <br> Rete 4 | 18 | 16–19 | 16–20 | 16–20 | 15–21 |
 | [9–12 September 2019](2019-09-12-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 18 | 17–19 | 16–19 | 16–20 | 15–20 |
 | [10–12 September 2019](2019-09-12-DemosPi.html) | Demos & Pi <br> La Repubblica | 16 | 15–17 | 14–18 | 14–18 | 14–19 |
 | [9–10 September 2019](2019-09-10-NotoSondaggi.html) | Noto Sondaggi | 16 | 15–18 | 15–18 | 15–19 | 14–20 |
@@ -266,10 +266,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0.7% | 99.9% |  |
 | 12 | 3% | 99.2% |  |
 | 13 | 8% | 96% |  |
-| 14 | 17% | 88% |  |
-| 15 | 29% | 72% | Median |
-| 16 | 21% | 43% |  |
-| 17 | 15% | 22% |  |
+| 14 | 19% | 88% |  |
+| 15 | 26% | 70% | Median |
+| 16 | 21% | 44% |  |
+| 17 | 14% | 22% |  |
 | 18 | 6% | 8% |  |
 | 19 | 2% | 2% |  |
 | 20 | 0.2% | 0.2% |  |
