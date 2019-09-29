@@ -9,10 +9,11 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | PD | M5S | FI | LN | FdI | SVP | CPI | CP | I | NcI | +E | LeU | PaP | EV | C! | IV |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 40.8% <br> 31 | 21.2% <br> 17 | 16.8% <br> 13 | 6.2% <br> 5 | 3.7% <br> 0 | 0.5% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | 17–25% <br> 12–18 | 15–25% <br> 12–20 | 5–9% <br> 4–7 | 28–37% <br> 21–30 | 6–10% <br> 4–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–4% <br> 0 | 1–4% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | 0–2% <br> 0 | 3–7% <br> 0–5 |
+| N/A | Poll Average | 17–25% <br> 12–18 | 15–25% <br> 12–19 | 5–8% <br> 4–7 | 28–37% <br> 21–30 | 6–10% <br> 4–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–4% <br> 0 | 1–4% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | 0–2% <br> 0 | 3–7% <br> 0–5 |
+| [20–27 September 2019](2019-09-27-Tecnè.html) | Tecnè <br> Agenzia Dire | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [25–26 September 2019](2019-09-26-Ipsos.html) | Ipsos <br> Corriere della Sera | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [1–25 September 2019](2019-09-25-NotoSondaggi.html) | Noto Sondaggi | 18–23% <br> 13–17 | 17–22% <br> 14–18 | 5–8% <br> 4–6 | 30–36% <br> 24–29 | 6–9% <br> 4–7 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 1–3% <br> 0 | N/A <br> N/A | 1–2% <br> 0 | 1–2% <br> 0 | 3–6% <br> 0–5 |
 | [23–24 September 2019](2019-09-24-Ixè.html) | Ixè <br> Rai 3 | 19–24% <br> 15–19 | 19–24% <br> 16–20 | 5–8% <br> 4–7 | 27–33% <br> 22–27 | 7–11% <br> 6–9 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 2–4% <br> 0–3 |
-| [22–23 September 2019](2019-09-23-Tecnè.html) | Tecnè <br> Rete 4 | 17–22% <br> 13–17 | 18–23% <br> 14–19 | 6–10% <br> 5–8 | 29–35% <br> 23–28 | 6–9% <br> 5–7 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | 1–3% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | 0–1% <br> 0 | 3–6% <br> 0–5 |
 | [18–23 September 2019](2019-09-23-SWG.html) | SWG <br> La7 | 17–21% <br> 13–16 | 18–22% <br> 15–18 | 4–6% <br> 3–5 | 31–36% <br> 25–29 | 6–8% <br> 5–6 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | 2–3% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | 1–3% <br> 0 | 4–7% <br> 4–5 |
 | [20–22 September 2019](2019-09-22-Piepoli.html) | Piepoli <br> Rai 1 | 17–24% <br> 12–18 | 16–23% <br> 12–18 | 5–9% <br> 4–8 | 27–35% <br> 21–28 | 5–9% <br> 4–7 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–5% <br> 0–4 | 1–4% <br> 0 | N/A <br> N/A | 1–4% <br> 0 | N/A <br> N/A | 3–6% <br> 0–5 |
 | [18–20 September 2019](2019-09-20-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 19–23% <br> 13–17 | 13–17% <br> 10–13 | 5–7% <br> 4–5 | 31–36% <br> 24–28 | 7–10% <br> 6–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | 5–8% <br> 4–6 |
@@ -26,7 +27,6 @@ The table below lists the polls on which the average is based. They are the most
 | [17 September 2019](2019-09-17-EMG.html) | EMG <br> Rai 3 | 18–22% <br> 14–18 | 17–20% <br> 13–17 | 6–8% <br> 5–7 | 31–35% <br> 24–29 | 6–8% <br> 5–7 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | 1–3% <br> 0 | N/A <br> N/A | 1–2% <br> 0 | 1–2% <br> 0 | 3–4% <br> 0–3 |
 | [10–12 September 2019](2019-09-12-DemosPi.html) | Demos & Pi <br> La Repubblica | 20–25% <br> 14–18 | 18–23% <br> 14–18 | 5–8% <br> 4–6 | 30–35% <br> 23–27 | 6–9% <br> 5–7 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | 2–4% <br> 0–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [4–5 September 2019](2019-09-05-GPF.html) | GPF <br> La Notizia | 21–27% <br> 15–19 | 22–27% <br> 16–21 | 5–8% <br> 4–6 | 28–33% <br> 21–26 | 5–8% <br> 4–6 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [26–29 August 2019](2019-08-29-Ipsos.html) | Ipsos <br> Corriere della Sera | 20–25% <br> 15–19 | 22–27% <br> 17–21 | 5–8% <br> 4–6 | 29–35% <br> 23–27 | 6–10% <br> 5–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 26 May 2019 | General Election | 40.8% <br> 31 | 21.2% <br> 17 | 16.8% <br> 13 | 6.2% <br> 5 | 3.7% <br> 0 | 0.5% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -61,22 +61,22 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#partito-democratico-(s&d)">Partito Democratico (S&D)</a> | 40.8% | 20.6% | 18.4–23.2% |17.7–24.0% | 17.1–24.6% | 15.8–25.9% |
-| <a href="#movimento-5-stelle-(ni)">Movimento 5 Stelle (NI)</a> | 21.2% | 20.1% | 17.3–23.7% |15.8–24.7% | 14.9–25.4% | 13.9–26.7% |
-| <a href="#forza-italia-(epp)">Forza Italia (EPP)</a> | 16.8% | 6.3% | 5.1–7.8% |4.9–8.2% | 4.6–8.6% | 4.2–9.4% |
-| <a href="#lega-nord-(id)">Lega Nord (ID)</a> | 6.2% | 32.2% | 29.1–35.4% |28.4–36.3% | 27.8–37.0% | 26.6–38.1% |
-| <a href="#fratelli-d’italia-(ecr)">Fratelli d’Italia (ECR)</a> | 3.7% | 7.5% | 6.2–8.9% |5.9–9.3% | 5.6–9.6% | 5.0–10.3% |
+| <a href="#partito-democratico-(s&d)">Partito Democratico (S&D)</a> | 40.8% | 20.6% | 18.4–23.1% |17.7–24.0% | 17.0–24.6% | 15.7–25.9% |
+| <a href="#movimento-5-stelle-(ni)">Movimento 5 Stelle (NI)</a> | 21.2% | 19.8% | 17.0–23.1% |15.6–24.1% | 14.8–24.9% | 13.8–26.3% |
+| <a href="#forza-italia-(epp)">Forza Italia (EPP)</a> | 16.8% | 6.3% | 5.1–7.6% |4.8–7.9% | 4.6–8.3% | 4.2–9.1% |
+| <a href="#lega-nord-(id)">Lega Nord (ID)</a> | 6.2% | 32.2% | 29.0–35.6% |28.3–36.5% | 27.7–37.1% | 26.5–38.1% |
+| <a href="#fratelli-d’italia-(ecr)">Fratelli d’Italia (ECR)</a> | 3.7% | 7.4% | 6.2–8.9% |5.8–9.3% | 5.6–9.6% | 5.0–10.3% |
 | <a href="#südtiroler-volkspartei-(epp)">Südtiroler Volkspartei (EPP)</a> | 0.5% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#casapound-italia-(ni)">CasaPound Italia (NI)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#civica-popolare-(re)">Civica Popolare (RE)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#insieme-(*)">Insieme (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#noi-con-l’italia-(ecr)">Noi con l’Italia (ECR)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#più-europa-(re)">Più Europa (RE)</a> | 0.0% | 2.3% | 1.3–3.2% |1.1–3.5% | 1.0–3.8% | 0.8–4.4% |
-| <a href="#liberi-e-uguali-(s&d)">Liberi e Uguali (S&D)</a> | 0.0% | 2.3% | 1.5–3.3% |1.3–3.5% | 1.2–3.8% | 0.9–4.3% |
+| <a href="#più-europa-(re)">Più Europa (RE)</a> | 0.0% | 2.3% | 1.2–3.3% |1.1–3.6% | 1.0–3.8% | 0.8–4.5% |
+| <a href="#liberi-e-uguali-(s&d)">Liberi e Uguali (S&D)</a> | 0.0% | 2.3% | 1.5–3.3% |1.3–3.6% | 1.1–3.8% | 0.9–4.3% |
 | <a href="#potere-al-popolo-(gue/ngl)">Potere al Popolo (GUE/NGL)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#europa-verde-(greens/efa)">Europa Verde (Greens/EFA)</a> | 0.0% | 1.7% | 1.0–2.4% |0.9–2.6% | 0.8–2.8% | 0.6–3.4% |
-| <a href="#cambiamo!-(*)">Cambiamo! (*)</a> | 0.0% | 1.2% | 0.6–2.0% |0.5–2.2% | 0.5–2.4% | 0.3–2.8% |
-| <a href="#italia-viva-(re)">Italia Viva (RE)</a> | 0.0% | 4.4% | 3.1–6.2% |2.8–6.6% | 2.6–6.9% | 2.2–7.5% |
+| <a href="#europa-verde-(greens/efa)">Europa Verde (Greens/EFA)</a> | 0.0% | 1.7% | 1.0–2.4% |0.9–2.6% | 0.8–2.9% | 0.6–3.4% |
+| <a href="#cambiamo!-(*)">Cambiamo! (*)</a> | 0.0% | 1.3% | 0.7–2.0% |0.6–2.3% | 0.5–2.5% | 0.4–2.8% |
+| <a href="#italia-viva-(re)">Italia Viva (RE)</a> | 0.0% | 4.4% | 3.0–6.2% |2.8–6.6% | 2.6–6.9% | 2.2–7.5% |
 
 ### Partito Democratico (S&D)
 
@@ -85,19 +85,19 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0.3% | 100% |  |
-| 15.5–16.5% | 1.1% | 99.7% |  |
-| 16.5–17.5% | 3% | 98.6% |  |
+| 14.5–15.5% | 0.3% | 99.9% |  |
+| 15.5–16.5% | 1.2% | 99.6% |  |
+| 16.5–17.5% | 3% | 98% |  |
 | 17.5–18.5% | 7% | 96% |  |
-| 18.5–19.5% | 16% | 89% |  |
-| 19.5–20.5% | 21% | 73% |  |
-| 20.5–21.5% | 20% | 52% | Median |
-| 21.5–22.5% | 15% | 32% |  |
-| 22.5–23.5% | 9% | 17% |  |
-| 23.5–24.5% | 5% | 7% |  |
+| 18.5–19.5% | 16% | 88% |  |
+| 19.5–20.5% | 22% | 73% |  |
+| 20.5–21.5% | 20% | 51% | Median |
+| 21.5–22.5% | 15% | 31% |  |
+| 22.5–23.5% | 9% | 16% |  |
+| 23.5–24.5% | 4% | 7% |  |
 | 24.5–25.5% | 2% | 3% |  |
-| 25.5–26.5% | 0.6% | 0.8% |  |
-| 26.5–27.5% | 0.1% | 0.2% |  |
+| 25.5–26.5% | 0.7% | 0.9% |  |
+| 26.5–27.5% | 0.2% | 0.2% |  |
 | 27.5–28.5% | 0% | 0% |  |
 | 28.5–29.5% | 0% | 0% |  |
 | 29.5–30.5% | 0% | 0% |  |
@@ -120,21 +120,21 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 0.2% | 100% |  |
-| 13.5–14.5% | 1.4% | 99.8% |  |
+| 12.5–13.5% | 0.3% | 100% |  |
+| 13.5–14.5% | 2% | 99.7% |  |
 | 14.5–15.5% | 3% | 98% |  |
-| 15.5–16.5% | 3% | 96% |  |
-| 16.5–17.5% | 5% | 93% |  |
-| 17.5–18.5% | 12% | 88% |  |
-| 18.5–19.5% | 17% | 76% |  |
-| 19.5–20.5% | 17% | 59% | Median |
-| 20.5–21.5% | 14% | 42% | Last Result |
-| 21.5–22.5% | 10% | 28% |  |
-| 22.5–23.5% | 7% | 18% |  |
-| 23.5–24.5% | 5% | 11% |  |
-| 24.5–25.5% | 3% | 6% |  |
-| 25.5–26.5% | 2% | 2% |  |
-| 26.5–27.5% | 0.5% | 0.6% |  |
+| 15.5–16.5% | 3% | 95% |  |
+| 16.5–17.5% | 6% | 92% |  |
+| 17.5–18.5% | 13% | 86% |  |
+| 18.5–19.5% | 18% | 73% |  |
+| 19.5–20.5% | 17% | 55% | Median |
+| 20.5–21.5% | 14% | 38% | Last Result |
+| 21.5–22.5% | 10% | 24% |  |
+| 22.5–23.5% | 7% | 14% |  |
+| 23.5–24.5% | 4% | 8% |  |
+| 24.5–25.5% | 2% | 3% |  |
+| 25.5–26.5% | 1.0% | 1.3% |  |
+| 26.5–27.5% | 0.3% | 0.3% |  |
 | 27.5–28.5% | 0.1% | 0.1% |  |
 | 28.5–29.5% | 0% | 0% |  |
 
@@ -146,12 +146,12 @@ Only polls for which at least the sample size has been published are included in
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 2% | 100% |  |
-| 4.5–5.5% | 19% | 98% |  |
-| 5.5–6.5% | 37% | 79% | Median |
-| 6.5–7.5% | 29% | 42% |  |
-| 7.5–8.5% | 11% | 13% |  |
-| 8.5–9.5% | 2% | 3% |  |
-| 9.5–10.5% | 0.4% | 0.4% |  |
+| 4.5–5.5% | 20% | 98% |  |
+| 5.5–6.5% | 38% | 78% | Median |
+| 6.5–7.5% | 29% | 40% |  |
+| 7.5–8.5% | 9% | 10% |  |
+| 8.5–9.5% | 1.3% | 2% |  |
+| 9.5–10.5% | 0.2% | 0.2% |  |
 | 10.5–11.5% | 0% | 0% |  |
 | 11.5–12.5% | 0% | 0% |  |
 | 12.5–13.5% | 0% | 0% |  |
@@ -187,18 +187,18 @@ Only polls for which at least the sample size has been published are included in
 | 23.5–24.5% | 0% | 100% |  |
 | 24.5–25.5% | 0.1% | 100% |  |
 | 25.5–26.5% | 0.4% | 99.9% |  |
-| 26.5–27.5% | 1.4% | 99.5% |  |
+| 26.5–27.5% | 2% | 99.5% |  |
 | 27.5–28.5% | 4% | 98% |  |
 | 28.5–29.5% | 8% | 94% |  |
-| 29.5–30.5% | 12% | 86% |  |
-| 30.5–31.5% | 15% | 75% |  |
-| 31.5–32.5% | 16% | 60% | Median |
-| 32.5–33.5% | 15% | 44% |  |
-| 33.5–34.5% | 12% | 28% |  |
-| 34.5–35.5% | 7% | 17% |  |
-| 35.5–36.5% | 5% | 9% |  |
-| 36.5–37.5% | 3% | 4% |  |
-| 37.5–38.5% | 1.0% | 1.2% |  |
+| 29.5–30.5% | 12% | 85% |  |
+| 30.5–31.5% | 13% | 74% |  |
+| 31.5–32.5% | 15% | 60% | Median |
+| 32.5–33.5% | 15% | 45% |  |
+| 33.5–34.5% | 12% | 30% |  |
+| 34.5–35.5% | 8% | 18% |  |
+| 35.5–36.5% | 6% | 10% |  |
+| 36.5–37.5% | 3% | 5% |  |
+| 37.5–38.5% | 1.1% | 1.3% |  |
 | 38.5–39.5% | 0.2% | 0.2% |  |
 | 39.5–40.5% | 0% | 0% |  |
 
@@ -211,9 +211,9 @@ Only polls for which at least the sample size has been published are included in
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.1% | 100% | Last Result |
 | 4.5–5.5% | 2% | 99.9% |  |
-| 5.5–6.5% | 15% | 98% |  |
-| 6.5–7.5% | 35% | 83% | Median |
-| 7.5–8.5% | 31% | 48% |  |
+| 5.5–6.5% | 16% | 98% |  |
+| 6.5–7.5% | 35% | 81% | Median |
+| 7.5–8.5% | 30% | 47% |  |
 | 8.5–9.5% | 14% | 17% |  |
 | 9.5–10.5% | 3% | 3% |  |
 | 10.5–11.5% | 0.2% | 0.2% |  |
@@ -227,8 +227,8 @@ Only polls for which at least the sample size has been published are included in
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 13% | 100% |  |
-| 1.5–2.5% | 52% | 87% | Median |
-| 2.5–3.5% | 30% | 35% |  |
+| 1.5–2.5% | 51% | 87% | Median |
+| 2.5–3.5% | 31% | 36% |  |
 | 3.5–4.5% | 5% | 5% |  |
 | 4.5–5.5% | 0.2% | 0.2% |  |
 | 5.5–6.5% | 0% | 0% |  |
@@ -240,11 +240,11 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 20% | 100% |  |
-| 1.5–2.5% | 45% | 80% | Median |
-| 2.5–3.5% | 31% | 36% |  |
-| 3.5–4.5% | 4% | 5% |  |
-| 4.5–5.5% | 0.3% | 0.4% |  |
+| 0.5–1.5% | 21% | 100% |  |
+| 1.5–2.5% | 41% | 79% | Median |
+| 2.5–3.5% | 33% | 38% |  |
+| 3.5–4.5% | 5% | 5% |  |
+| 4.5–5.5% | 0.4% | 0.4% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 ### Europa Verde (Greens/EFA)
@@ -254,9 +254,9 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0.2% | 100% | Last Result |
-| 0.5–1.5% | 42% | 99.8% |  |
+| 0.5–1.5% | 43% | 99.8% |  |
 | 1.5–2.5% | 51% | 57% | Median |
-| 2.5–3.5% | 6% | 6% |  |
+| 2.5–3.5% | 6% | 7% |  |
 | 3.5–4.5% | 0.3% | 0.3% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
@@ -266,9 +266,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 6% | 100% | Last Result |
-| 0.5–1.5% | 67% | 94% | Median |
-| 1.5–2.5% | 26% | 27% |  |
+| 0.0–0.5% | 4% | 100% | Last Result |
+| 0.5–1.5% | 65% | 96% | Median |
+| 1.5–2.5% | 29% | 31% |  |
 | 2.5–3.5% | 2% | 2% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
@@ -281,12 +281,12 @@ Only polls for which at least the sample size has been published are included in
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 22% | 98% |  |
-| 3.5–4.5% | 30% | 76% | Median |
-| 4.5–5.5% | 24% | 46% |  |
-| 5.5–6.5% | 17% | 22% |  |
-| 6.5–7.5% | 5% | 5% |  |
-| 7.5–8.5% | 0.4% | 0.5% |  |
+| 2.5–3.5% | 23% | 98% |  |
+| 3.5–4.5% | 28% | 74% | Median |
+| 4.5–5.5% | 23% | 47% |  |
+| 5.5–6.5% | 18% | 24% |  |
+| 6.5–7.5% | 5% | 6% |  |
+| 7.5–8.5% | 0.5% | 0.5% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
 
@@ -301,9 +301,9 @@ Only polls for which at least the sample size has been published are included in
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#partito-democratico-(s&d)">Partito Democratico (S&D)</a> | 31 | 15 | 13–17 |13–18 | 12–18 | 11–19 |
-| <a href="#movimento-5-stelle-(ni)">Movimento 5 Stelle (NI)</a> | 17 | 16 | 14–18 |12–19 | 12–20 | 11–21 |
-| <a href="#forza-italia-(epp)">Forza Italia (EPP)</a> | 13 | 5 | 4–6 |4–7 | 4–7 | 3–8 |
-| <a href="#lega-nord-(id)">Lega Nord (ID)</a> | 5 | 25 | 23–28 |22–29 | 21–30 | 20–31 |
+| <a href="#movimento-5-stelle-(ni)">Movimento 5 Stelle (NI)</a> | 17 | 16 | 14–18 |12–19 | 12–19 | 11–20 |
+| <a href="#forza-italia-(epp)">Forza Italia (EPP)</a> | 13 | 5 | 4–6 |4–6 | 4–7 | 3–7 |
+| <a href="#lega-nord-(id)">Lega Nord (ID)</a> | 5 | 25 | 22–28 |21–29 | 21–30 | 20–31 |
 | <a href="#fratelli-d’italia-(ecr)">Fratelli d’Italia (ECR)</a> | 0 | 6 | 5–7 |5–7 | 4–8 | 4–8 |
 | <a href="#südtiroler-volkspartei-(epp)">Südtiroler Volkspartei (EPP)</a> | 1 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#casapound-italia-(ni)">CasaPound Italia (NI)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
@@ -326,15 +326,15 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.1% | 100% |  |
-| 11 | 0.7% | 99.9% |  |
-| 12 | 3% | 99.2% |  |
+| 11 | 0.8% | 99.9% |  |
+| 12 | 3% | 99.1% |  |
 | 13 | 8% | 96% |  |
 | 14 | 19% | 88% |  |
-| 15 | 26% | 70% | Median |
-| 16 | 21% | 44% |  |
-| 17 | 14% | 22% |  |
+| 15 | 26% | 69% | Median |
+| 16 | 21% | 42% |  |
+| 17 | 14% | 21% |  |
 | 18 | 6% | 8% |  |
-| 19 | 2% | 2% |  |
+| 19 | 1.5% | 2% |  |
 | 20 | 0.2% | 0.2% |  |
 | 21 | 0% | 0% |  |
 | 22 | 0% | 0% |  |
@@ -358,18 +358,17 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.3% | 100% |  |
 | 11 | 2% | 99.7% |  |
-| 12 | 3% | 98% |  |
-| 13 | 3% | 95% |  |
-| 14 | 10% | 91% |  |
-| 15 | 23% | 81% |  |
-| 16 | 24% | 59% | Median |
-| 17 | 17% | 34% | Last Result |
-| 18 | 9% | 18% |  |
-| 19 | 6% | 9% |  |
-| 20 | 3% | 3% |  |
-| 21 | 0.7% | 0.9% |  |
-| 22 | 0.1% | 0.1% |  |
-| 23 | 0% | 0% |  |
+| 12 | 4% | 98% |  |
+| 13 | 4% | 94% |  |
+| 14 | 11% | 90% |  |
+| 15 | 25% | 79% |  |
+| 16 | 26% | 55% | Median |
+| 17 | 16% | 29% | Last Result |
+| 18 | 8% | 13% |  |
+| 19 | 4% | 5% |  |
+| 20 | 1.1% | 1.4% |  |
+| 21 | 0.2% | 0.3% |  |
+| 22 | 0% | 0% |  |
 
 ### Forza Italia (EPP)
 
@@ -382,12 +381,12 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0.2% | 100% |  |
 | 1 | 0% | 99.8% |  |
 | 2 | 0% | 99.8% |  |
-| 3 | 0.8% | 99.8% |  |
-| 4 | 27% | 99.0% |  |
-| 5 | 45% | 72% | Median |
-| 6 | 22% | 28% |  |
-| 7 | 5% | 6% |  |
-| 8 | 0.5% | 0.5% |  |
+| 3 | 0.9% | 99.8% |  |
+| 4 | 28% | 99.0% |  |
+| 5 | 46% | 71% | Median |
+| 6 | 21% | 24% |  |
+| 7 | 3% | 4% |  |
+| 8 | 0.2% | 0.3% |  |
 | 9 | 0% | 0% |  |
 | 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |
@@ -417,18 +416,18 @@ Only polls for which at least the sample size has been published are included in
 | 17 | 0% | 100% |  |
 | 18 | 0% | 100% |  |
 | 19 | 0.4% | 100% |  |
-| 20 | 1.5% | 99.6% |  |
+| 20 | 2% | 99.5% |  |
 | 21 | 3% | 98% |  |
-| 22 | 5% | 95% |  |
-| 23 | 10% | 91% |  |
-| 24 | 15% | 80% |  |
-| 25 | 19% | 65% | Median |
-| 26 | 18% | 46% |  |
-| 27 | 13% | 28% |  |
-| 28 | 8% | 16% |  |
-| 29 | 5% | 8% |  |
-| 30 | 2% | 3% |  |
-| 31 | 1.1% | 1.4% |  |
+| 22 | 5% | 94% |  |
+| 23 | 11% | 89% |  |
+| 24 | 14% | 78% |  |
+| 25 | 18% | 64% | Median |
+| 26 | 17% | 46% |  |
+| 27 | 13% | 30% |  |
+| 28 | 8% | 17% |  |
+| 29 | 5% | 9% |  |
+| 30 | 2% | 4% |  |
+| 31 | 1.2% | 2% |  |
 | 32 | 0.3% | 0.3% |  |
 | 33 | 0% | 0% |  |
 
@@ -444,12 +443,12 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0.1% | 100% |  |
-| 4 | 3% | 99.9% |  |
-| 5 | 27% | 97% |  |
-| 6 | 44% | 69% | Median |
+| 4 | 4% | 99.9% |  |
+| 5 | 29% | 96% |  |
+| 6 | 42% | 67% | Median |
 | 7 | 21% | 25% |  |
-| 8 | 4% | 4% |  |
-| 9 | 0.3% | 0.3% |  |
+| 8 | 4% | 5% |  |
+| 9 | 0.3% | 0.4% |  |
 | 10 | 0% | 0% |  |
 
 ### Liberi e Uguali (S&D)
@@ -460,11 +459,11 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98.7% | 100% | Last Result, Median |
-| 1 | 0% | 1.3% |  |
-| 2 | 0% | 1.3% |  |
-| 3 | 1.1% | 1.3% |  |
-| 4 | 0.2% | 0.2% |  |
+| 0 | 98.5% | 100% | Last Result, Median |
+| 1 | 0% | 1.5% |  |
+| 2 | 0% | 1.5% |  |
+| 3 | 1.2% | 1.5% |  |
+| 4 | 0.3% | 0.3% |  |
 | 5 | 0% | 0% |  |
 
 ### Più Europa (RE)
@@ -475,10 +474,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98.7% | 100% | Last Result, Median |
-| 1 | 0% | 1.3% |  |
-| 2 | 0% | 1.3% |  |
-| 3 | 0.9% | 1.3% |  |
+| 0 | 98.5% | 100% | Last Result, Median |
+| 1 | 0% | 1.5% |  |
+| 2 | 0% | 1.5% |  |
+| 3 | 1.1% | 1.5% |  |
 | 4 | 0.4% | 0.4% |  |
 | 5 | 0% | 0% |  |
 
@@ -514,13 +513,13 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 40% | 100% | Last Result |
-| 1 | 0% | 60% |  |
-| 2 | 0% | 60% |  |
-| 3 | 12% | 60% | Median |
-| 4 | 33% | 48% |  |
-| 5 | 14% | 15% |  |
-| 6 | 1.3% | 1.3% |  |
+| 0 | 41% | 100% | Last Result |
+| 1 | 0% | 59% |  |
+| 2 | 0% | 59% |  |
+| 3 | 12% | 59% | Median |
+| 4 | 31% | 47% |  |
+| 5 | 15% | 16% |  |
+| 6 | 1.4% | 1.4% |  |
 | 7 | 0% | 0% |  |
 
 
@@ -532,11 +531,11 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Lega Nord (ID) | 5 | 25 | 0% | 23–28 | 22–29 | 21–30 | 20–31 |
-| Movimento 5 Stelle (NI) – CasaPound Italia (NI) | 17 | 16 | 0% | 14–18 | 12–19 | 12–20 | 11–21 |
+| Lega Nord (ID) | 5 | 25 | 0% | 22–28 | 21–29 | 21–30 | 20–31 |
+| Movimento 5 Stelle (NI) – CasaPound Italia (NI) | 17 | 16 | 0% | 14–18 | 12–19 | 12–19 | 11–20 |
 | Partito Democratico (S&D) – Liberi e Uguali (S&D) | 31 | 15 | 0% | 13–17 | 13–18 | 12–18 | 11–19 |
-| Forza Italia (EPP) – Südtiroler Volkspartei (EPP) | 14 | 6 | 0% | 5–7 | 5–8 | 5–8 | 4–9 |
-| Fratelli d’Italia (ECR) – Noi con l’Italia (ECR) | 0 | 6 | 0% | 5–7 | 0–7 | 0–8 | 0–8 |
+| Forza Italia (EPP) – Südtiroler Volkspartei (EPP) | 14 | 6 | 0% | 5–7 | 5–7 | 5–8 | 4–8 |
+| Fratelli d’Italia (ECR) – Noi con l’Italia (ECR) | 0 | 6 | 0% | 4–7 | 0–7 | 0–8 | 0–8 |
 | Civica Popolare (RE) – Italia Viva (RE) – Più Europa (RE) | 0 | 0 | 0% | 0–5 | 0–5 | 0–5 | 0–6 |
 | Cambiamo! (*) – Insieme (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 | Europa Verde (Greens/EFA) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
@@ -563,18 +562,18 @@ Only polls for which at least the sample size has been published are included in
 | 17 | 0% | 100% |  |
 | 18 | 0% | 100% |  |
 | 19 | 0.4% | 100% |  |
-| 20 | 1.5% | 99.6% |  |
+| 20 | 2% | 99.5% |  |
 | 21 | 3% | 98% |  |
-| 22 | 5% | 95% |  |
-| 23 | 10% | 91% |  |
-| 24 | 15% | 80% |  |
-| 25 | 19% | 65% | Median |
-| 26 | 18% | 46% |  |
-| 27 | 13% | 28% |  |
-| 28 | 8% | 16% |  |
-| 29 | 5% | 8% |  |
-| 30 | 2% | 3% |  |
-| 31 | 1.1% | 1.4% |  |
+| 22 | 5% | 94% |  |
+| 23 | 11% | 89% |  |
+| 24 | 14% | 78% |  |
+| 25 | 18% | 64% | Median |
+| 26 | 17% | 46% |  |
+| 27 | 13% | 30% |  |
+| 28 | 8% | 17% |  |
+| 29 | 5% | 9% |  |
+| 30 | 2% | 4% |  |
+| 31 | 1.2% | 2% |  |
 | 32 | 0.3% | 0.3% |  |
 | 33 | 0% | 0% |  |
 
@@ -586,18 +585,17 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.3% | 100% |  |
 | 11 | 2% | 99.7% |  |
-| 12 | 3% | 98% |  |
-| 13 | 3% | 95% |  |
-| 14 | 10% | 91% |  |
-| 15 | 23% | 81% |  |
-| 16 | 24% | 59% | Median |
-| 17 | 17% | 34% | Last Result |
-| 18 | 9% | 18% |  |
-| 19 | 6% | 9% |  |
-| 20 | 3% | 3% |  |
-| 21 | 0.7% | 0.9% |  |
-| 22 | 0.1% | 0.1% |  |
-| 23 | 0% | 0% |  |
+| 12 | 4% | 98% |  |
+| 13 | 4% | 94% |  |
+| 14 | 11% | 90% |  |
+| 15 | 25% | 79% |  |
+| 16 | 26% | 55% | Median |
+| 17 | 16% | 29% | Last Result |
+| 18 | 8% | 13% |  |
+| 19 | 4% | 5% |  |
+| 20 | 1.1% | 1.4% |  |
+| 21 | 0.2% | 0.3% |  |
+| 22 | 0% | 0% |  |
 
 ### Partito Democratico (S&D) – Liberi e Uguali (S&D)
 
@@ -606,12 +604,12 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.1% | 100% |  |
-| 11 | 0.7% | 99.9% |  |
-| 12 | 3% | 99.2% |  |
+| 11 | 0.8% | 99.9% |  |
+| 12 | 3% | 99.1% |  |
 | 13 | 8% | 96% |  |
-| 14 | 18% | 88% |  |
-| 15 | 26% | 70% | Median |
-| 16 | 21% | 44% |  |
+| 14 | 19% | 88% |  |
+| 15 | 26% | 69% | Median |
+| 16 | 21% | 43% |  |
 | 17 | 14% | 23% |  |
 | 18 | 7% | 9% |  |
 | 19 | 2% | 2% |  |
@@ -637,12 +635,12 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0.2% | 100% |  |
 | 2 | 0% | 99.8% |  |
 | 3 | 0% | 99.8% |  |
-| 4 | 0.8% | 99.8% |  |
-| 5 | 27% | 99.0% | Median |
-| 6 | 45% | 72% |  |
-| 7 | 22% | 28% |  |
-| 8 | 5% | 6% |  |
-| 9 | 0.5% | 0.5% |  |
+| 4 | 0.9% | 99.8% |  |
+| 5 | 28% | 99.0% | Median |
+| 6 | 46% | 71% |  |
+| 7 | 21% | 24% |  |
+| 8 | 3% | 4% |  |
+| 9 | 0.2% | 0.3% |  |
 | 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |
@@ -655,14 +653,14 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 6% | 100% | Last Result |
-| 1 | 0% | 94% |  |
-| 2 | 0% | 94% |  |
-| 3 | 0.1% | 94% |  |
-| 4 | 3% | 94% |  |
-| 5 | 26% | 91% |  |
-| 6 | 41% | 65% | Median |
-| 7 | 20% | 24% |  |
+| 0 | 7% | 100% | Last Result |
+| 1 | 0% | 93% |  |
+| 2 | 0% | 93% |  |
+| 3 | 0.1% | 93% |  |
+| 4 | 3% | 93% |  |
+| 5 | 27% | 90% |  |
+| 6 | 39% | 62% | Median |
+| 7 | 19% | 24% |  |
 | 8 | 4% | 4% |  |
 | 9 | 0.3% | 0.3% |  |
 | 10 | 0% | 0% |  |
@@ -673,14 +671,14 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 54% | 100% | Last Result |
-| 1 | 0% | 46% |  |
-| 2 | 0% | 46% |  |
-| 3 | 9% | 46% | Median |
-| 4 | 25% | 37% |  |
-| 5 | 11% | 12% |  |
-| 6 | 1.1% | 1.5% |  |
-| 7 | 0.3% | 0.3% |  |
+| 0 | 52% | 100% | Last Result |
+| 1 | 0% | 48% |  |
+| 2 | 0% | 48% |  |
+| 3 | 10% | 48% | Median |
+| 4 | 25% | 38% |  |
+| 5 | 12% | 13% |  |
+| 6 | 1.3% | 2% |  |
+| 7 | 0.3% | 0.4% |  |
 | 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |
 
@@ -698,7 +696,11 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 99.9% | 100% | Last Result, Median |
+| 1 | 0% | 0.1% |  |
+| 2 | 0% | 0.1% |  |
+| 3 | 0% | 0.1% |  |
+| 4 | 0% | 0% |  |
 
 ### Potere al Popolo (GUE/NGL)
 
@@ -712,6 +714,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 17
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 17,825,792
++ **Lowest number of simulations done in a poll included in this average:** 0
++ **Total number of simulations done in the polls included in this average:** 15,728,640
 + **Error estimate:** 3.09%
