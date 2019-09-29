@@ -10,9 +10,9 @@ Last result: **21.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.8% | 17.0–23.1% | 15.6–24.1% | 14.8–24.9% | 13.8–26.3% |
-| [20–27 September 2019](2019-09-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 20.0% | N/A | N/A | N/A | N/A |
-| [25–26 September 2019](2019-09-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 20.8% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 19.9% | 17.2–23.0% | 15.8–24.0% | 14.9–24.8% | 13.9–26.2% |
+| [20–27 September 2019](2019-09-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 20.0% | 18.3–21.9% | 17.8–22.5% | 17.4–22.9% | 16.6–23.9% |
+| [25–26 September 2019](2019-09-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 20.8% | 19.2–22.5% | 18.8–23.0% | 18.4–23.4% | 17.7–24.3% |
 | [1–25 September 2019](2019-09-25-NotoSondaggi.html) | Noto Sondaggi | 19.5% | 18.0–21.2% | 17.5–21.7% | 17.2–22.1% | 16.4–22.9% |
 | [23–24 September 2019](2019-09-24-Ixè.html) | Ixè <br> Rai 3 | 21.5% | 19.9–23.2% | 19.4–23.7% | 19.1–24.2% | 18.3–25.0% |
 | [22–23 September 2019](2019-09-23-Tecnè.html) | Tecnè <br> Rete 4 | 20.4% | 18.8–22.1% | 18.4–22.6% | 18.0–23.0% | 17.3–23.9% |
@@ -119,22 +119,22 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 0.3% | 100% |  |
-| 13.5–14.5% | 2% | 99.7% |  |
+| 12.5–13.5% | 0.2% | 100% |  |
+| 13.5–14.5% | 1.4% | 99.8% |  |
 | 14.5–15.5% | 3% | 98% |  |
-| 15.5–16.5% | 3% | 95% |  |
-| 16.5–17.5% | 6% | 92% |  |
-| 17.5–18.5% | 13% | 86% |  |
-| 18.5–19.5% | 18% | 73% |  |
-| 19.5–20.5% | 17% | 55% | Median |
-| 20.5–21.5% | 14% | 38% | Last Result |
-| 21.5–22.5% | 10% | 24% |  |
-| 22.5–23.5% | 7% | 14% |  |
-| 23.5–24.5% | 4% | 8% |  |
+| 15.5–16.5% | 3% | 96% |  |
+| 16.5–17.5% | 5% | 93% |  |
+| 17.5–18.5% | 12% | 88% |  |
+| 18.5–19.5% | 18% | 75% |  |
+| 19.5–20.5% | 18% | 57% | Median |
+| 20.5–21.5% | 15% | 39% | Last Result |
+| 21.5–22.5% | 11% | 24% |  |
+| 22.5–23.5% | 7% | 13% |  |
+| 23.5–24.5% | 4% | 7% |  |
 | 24.5–25.5% | 2% | 3% |  |
-| 25.5–26.5% | 1.0% | 1.3% |  |
+| 25.5–26.5% | 0.8% | 1.2% |  |
 | 26.5–27.5% | 0.3% | 0.3% |  |
-| 27.5–28.5% | 0.1% | 0.1% |  |
+| 27.5–28.5% | 0% | 0.1% |  |
 | 28.5–29.5% | 0% | 0% |  |
 
 
@@ -146,9 +146,9 @@ Last result: **17** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 14–18 | 12–19 | 12–19 | 11–20 |
-| [20–27 September 2019](2019-09-27-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
-| [25–26 September 2019](2019-09-26-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 16 | 14–18 | 12–18 | 12–19 | 11–20 |
+| [20–27 September 2019](2019-09-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 16 | 14–18 | 14–18 | 14–18 | 13–20 |
+| [25–26 September 2019](2019-09-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 16 | 15–18 | 15–18 | 14–19 | 14–19 |
 | [1–25 September 2019](2019-09-25-NotoSondaggi.html) | Noto Sondaggi | 16 | 15–17 | 14–17 | 14–18 | 13–19 |
 | [23–24 September 2019](2019-09-24-Ixè.html) | Ixè <br> Rai 3 | 18 | 16–19 | 16–20 | 16–20 | 15–21 |
 | [22–23 September 2019](2019-09-23-Tecnè.html) | Tecnè <br> Rete 4 | 17 | 15–18 | 15–18 | 14–19 | 14–20 |
@@ -258,16 +258,16 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.3% | 100% |  |
 | 11 | 2% | 99.7% |  |
-| 12 | 4% | 98% |  |
-| 13 | 4% | 94% |  |
-| 14 | 11% | 90% |  |
-| 15 | 25% | 79% |  |
-| 16 | 26% | 55% | Median |
-| 17 | 16% | 29% | Last Result |
+| 12 | 3% | 98% |  |
+| 13 | 3% | 95% |  |
+| 14 | 11% | 91% |  |
+| 15 | 24% | 81% |  |
+| 16 | 27% | 57% | Median |
+| 17 | 17% | 30% | Last Result |
 | 18 | 8% | 13% |  |
 | 19 | 4% | 5% |  |
-| 20 | 1.1% | 1.4% |  |
-| 21 | 0.2% | 0.3% |  |
+| 20 | 1.1% | 1.3% |  |
+| 21 | 0.2% | 0.2% |  |
 | 22 | 0% | 0% |  |
 
 
