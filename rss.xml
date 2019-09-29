@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 29 Sep 2019 16:37:56 +0200</pubDate>
+    <pubDate>Sun, 29 Sep 2019 16:52:58 +0200</pubDate>
     <item>
       <title>Opinion Poll by Tecnè for Agenzia Dire, 20–27 September 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-09-27-Tecnè.html#seats</link>
@@ -40,14 +40,34 @@
       <dc:date>2019-09-29T16:17:13.33414+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Ipsos for Corriere della Sera, 25–26 September 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-09-26-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (NI): 14–18 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 12–16 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ID): 21–27 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 4–7 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 6–9 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0–3 seats&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0 seats&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 0–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-09-26-Ipsos-seats.png"
+        length="176890"
+        type="image/png"/>
+      <pubDate>Sun, 29 Sep 2019 16:52:58 +0200</pubDate>
+      <dc:date>2019-09-29T16:52:58.17751+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Corriere della Sera, 25–26 September 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-09-26-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-09-26-Ipsos-coalitions-seats.png"
+        length="168038"
+        type="image/png"/>
+      <pubDate>Sun, 29 Sep 2019 16:52:58 +0200</pubDate>
+      <dc:date>2019-09-29T16:52:58.17751+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Ipsos for Corriere della Sera, 25–26 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-09-26-Ipsos.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (NI): 18.4–23.4%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 17.2–22.1%&lt;/li&gt;&lt;li&gt;Lega Nord (ID): 28.0–33.7%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 5.6–8.8%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 7.3–10.8%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 1.9–4.0%&lt;/li&gt;&lt;li&gt;Più Europa (RE): 1.0–2.6%&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 3.6–6.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-09-26-Ipsos.png"
         length="231619"
         type="image/png"/>
-      <pubDate>Sun, 29 Sep 2019 16:37:56 +0200</pubDate>
-      <dc:date>2019-09-29T16:37:56.116596+02:00</dc:date>
+      <pubDate>Sun, 29 Sep 2019 16:52:58 +0200</pubDate>
+      <dc:date>2019-09-29T16:52:58.17751+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Noto Sondaggi, 1–25 September 2019 – Seat Projections for the Parties</title>
@@ -2749,6 +2769,6 @@
       <pubDate>Sat, 29 Jun 2019 16:56:02 +0200</pubDate>
       <dc:date>2019-06-29T16:56:02.59202+02:00</dc:date>
     </item>
-    <dc:date>2019-09-29T16:37:56.116596+02:00</dc:date>
+    <dc:date>2019-09-29T16:52:58.17751+02:00</dc:date>
   </channel>
 </rss>
