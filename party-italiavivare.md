@@ -10,19 +10,19 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.7% | 3.0–6.3% | 2.7–6.7% | 2.5–7.0% | 2.1–7.6% |
+| N/A | [Poll Average](average.html) | 4.7% | 3.3–6.1% | 2.9–6.5% | 2.6–6.9% | 2.2–7.5% |
 | [3 October 2019](2019-10-03-Index.html) | Index <br> La7 | 4.5% | N/A | N/A | N/A | N/A |
 | [1–3 October 2019](2019-10-03-DemosPi.html) | Demos & Pi <br> La Repubblica | 3.9% | N/A | N/A | N/A | N/A |
 | [2 October 2019](2019-10-02-EMG.html) | EMG <br> Rai 3 | 4.5% | N/A | N/A | N/A | N/A |
 | [30 September–1 October 2019](2019-10-01-Ixè.html) | Ixè <br> Rai 3 | 3.9% | N/A | N/A | N/A | N/A |
-| [29–30 September 2019](2019-09-30-Tecnè.html) | Tecnè <br> Rete 4 | 4.6% | N/A | N/A | N/A | N/A |
-| [25–30 September 2019](2019-09-30-SWG.html) | SWG <br> La7 | 4.9% | N/A | N/A | N/A | N/A |
+| [29–30 September 2019](2019-09-30-Tecnè.html) | Tecnè <br> Rete 4 | 4.6% | 3.9–5.6% | 3.6–5.9% | 3.5–6.1% | 3.1–6.6% |
+| [25–30 September 2019](2019-09-30-SWG.html) | SWG <br> La7 | 4.9% | 4.3–5.7% | 4.1–6.0% | 3.9–6.2% | 3.7–6.6% |
 | [20–27 September 2019](2019-09-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 4.2% | 3.5–5.3% | 3.2–5.6% | 3.0–5.9% | 2.7–6.4% |
-| [23–27 September 2019](2019-09-27-GPF.html) | GPF <br> La Notizia | 4.4% | N/A | N/A | N/A | N/A |
-| [25–26 September 2019](2019-09-26-TermometroPolitico.html) | Termometro Politico <br> La7 | 5.5% | N/A | N/A | N/A | N/A |
+| [23–27 September 2019](2019-09-27-GPF.html) | GPF <br> La Notizia | 4.4% | 3.6–5.5% | 3.4–5.8% | 3.2–6.1% | 2.9–6.6% |
+| [25–26 September 2019](2019-09-26-TermometroPolitico.html) | Termometro Politico <br> La7 | 5.5% | 4.9–6.1% | 4.8–6.3% | 4.6–6.5% | 4.4–6.8% |
 | [25–26 September 2019](2019-09-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 4.8% | 4.0–5.8% | 3.8–6.1% | 3.6–6.3% | 3.3–6.8% |
 | [1–25 September 2019](2019-09-25-NotoSondaggi.html) | Noto Sondaggi | 4.5% | 3.8–5.5% | 3.6–5.7% | 3.4–6.0% | 3.0–6.5% |
-| [25 September 2019](2019-09-25-EMG.html) | EMG <br> Rai 3 | 4.3% | N/A | N/A | N/A | N/A |
+| [25 September 2019](2019-09-25-EMG.html) | EMG <br> Rai 3 | 4.3% | 3.7–5.0% | 3.6–5.2% | 3.5–5.4% | 3.2–5.7% |
 | [23–24 September 2019](2019-09-24-Ixè.html) | Ixè <br> Rai 3 | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.0–4.1% | 1.8–4.6% |
 | [22–23 September 2019](2019-09-23-Tecnè.html) | Tecnè <br> Rete 4 | 4.3% | 3.6–5.2% | 3.4–5.5% | 3.2–5.7% | 2.9–6.2% |
 | [18–23 September 2019](2019-09-23-SWG.html) | SWG <br> La7 | 5.4% | 4.7–6.2% | 4.5–6.5% | 4.4–6.7% | 4.1–7.1% |
@@ -129,13 +129,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 3% | 100% |  |
-| 2.5–3.5% | 18% | 97% |  |
-| 3.5–4.5% | 26% | 79% |  |
-| 4.5–5.5% | 27% | 53% | Median |
-| 5.5–6.5% | 19% | 26% |  |
-| 6.5–7.5% | 6% | 7% |  |
-| 7.5–8.5% | 0.6% | 0.6% |  |
+| 1.5–2.5% | 2% | 100% |  |
+| 2.5–3.5% | 13% | 98% |  |
+| 3.5–4.5% | 29% | 85% |  |
+| 4.5–5.5% | 33% | 56% | Median |
+| 5.5–6.5% | 18% | 23% |  |
+| 6.5–7.5% | 4% | 5% |  |
+| 7.5–8.5% | 0.4% | 0.4% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
 
@@ -152,14 +152,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [1–3 October 2019](2019-10-03-DemosPi.html) | Demos & Pi <br> La Repubblica |  |  |  |  |  |
 | [2 October 2019](2019-10-02-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [30 September–1 October 2019](2019-10-01-Ixè.html) | Ixè <br> Rai 3 |  |  |  |  |  |
-| [29–30 September 2019](2019-09-30-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
-| [25–30 September 2019](2019-09-30-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [29–30 September 2019](2019-09-30-Tecnè.html) | Tecnè <br> Rete 4 | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
+| [25–30 September 2019](2019-09-30-SWG.html) | SWG <br> La7 | 4 | 4–5 | 3–5 | 3–5 | 0–5 |
 | [20–27 September 2019](2019-09-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
-| [23–27 September 2019](2019-09-27-GPF.html) | GPF <br> La Notizia |  |  |  |  |  |
-| [25–26 September 2019](2019-09-26-TermometroPolitico.html) | Termometro Politico <br> La7 |  |  |  |  |  |
+| [23–27 September 2019](2019-09-27-GPF.html) | GPF <br> La Notizia | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
+| [25–26 September 2019](2019-09-26-TermometroPolitico.html) | Termometro Politico <br> La7 | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [25–26 September 2019](2019-09-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 4 | 3–5 | 0–5 | 0–5 | 0–5 |
 | [1–25 September 2019](2019-09-25-NotoSondaggi.html) | Noto Sondaggi | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
-| [25 September 2019](2019-09-25-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
+| [25 September 2019](2019-09-25-EMG.html) | EMG <br> Rai 3 | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [23–24 September 2019](2019-09-24-Ixè.html) | Ixè <br> Rai 3 | 0 | 0 | 0 | 0–3 | 0–4 |
 | [22–23 September 2019](2019-09-23-Tecnè.html) | Tecnè <br> Rete 4 | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [18–23 September 2019](2019-09-23-SWG.html) | SWG <br> La7 | 5 | 4–5 | 4–5 | 4–5 | 0–6 |
@@ -266,13 +266,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 34% | 100% | Last Result |
-| 1 | 0% | 66% |  |
-| 2 | 0% | 66% |  |
-| 3 | 12% | 66% |  |
-| 4 | 39% | 53% | Median |
-| 5 | 13% | 15% |  |
-| 6 | 2% | 2% |  |
+| 0 | 29% | 100% | Last Result |
+| 1 | 0% | 71% |  |
+| 2 | 0% | 71% |  |
+| 3 | 13% | 71% |  |
+| 4 | 45% | 59% | Median |
+| 5 | 12% | 13% |  |
+| 6 | 1.2% | 1.2% |  |
 | 7 | 0% | 0% |  |
 
 
