@@ -177,10 +177,10 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [1–3 October 2019](2019-10-03-DemosPi.html) | Demos & Pi <br> La Repubblica |  |  |  |  |  |
 | [2 October 2019](2019-10-02-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [30 September–1 October 2019](2019-10-01-Ixè.html) | Ixè <br> Rai 3 |  |  |  |  |  |
-| [29–30 September 2019](2019-09-30-Tecnè.html) | Tecnè <br> Rete 4 | 25 | 23–27 | 23–27 | 23–28 | 22–29 |
-| [25–30 September 2019](2019-09-30-SWG.html) | SWG <br> La7 | 27 | 25–28 | 25–28 | 24–28 | 24–29 |
+| [29–30 September 2019](2019-09-30-Tecnè.html) | Tecnè <br> Rete 4 | 26 | 24–27 | 23–28 | 23–28 | 22–29 |
+| [25–30 September 2019](2019-09-30-SWG.html) | SWG <br> La7 | 27 | 25–28 | 25–28 | 25–29 | 24–29 |
 | [20–27 September 2019](2019-09-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 25 | 24–27 | 23–28 | 23–28 | 22–30 |
-| [23–27 September 2019](2019-09-27-GPF.html) | GPF <br> La Notizia | 23 | 21–25 | 20–25 | 20–25 | 19–26 |
+| [23–27 September 2019](2019-09-27-GPF.html) | GPF <br> La Notizia | 23 | 21–25 | 21–25 | 20–25 | 19–26 |
 | [25–26 September 2019](2019-09-26-TermometroPolitico.html) | Termometro Politico <br> La7 | 27 | 26–29 | 26–29 | 25–30 | 25–30 |
 | [25–26 September 2019](2019-09-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 24 | 22–26 | 22–26 | 21–27 | 21–27 |
 | [1–25 September 2019](2019-09-25-NotoSondaggi.html) | Noto Sondaggi | 27 | 25–29 | 24–29 | 24–29 | 23–30 |
@@ -306,13 +306,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 0% | 100% |  |
 | 18 | 0% | 100% |  |
 | 19 | 0.4% | 100% |  |
-| 20 | 2% | 99.5% |  |
+| 20 | 2% | 99.6% |  |
 | 21 | 3% | 98% |  |
-| 22 | 5% | 94% |  |
+| 22 | 6% | 95% |  |
 | 23 | 11% | 89% |  |
 | 24 | 17% | 78% |  |
-| 25 | 21% | 61% | Median |
-| 26 | 16% | 40% |  |
+| 25 | 20% | 61% | Median |
+| 26 | 17% | 41% |  |
 | 27 | 15% | 25% |  |
 | 28 | 6% | 10% |  |
 | 29 | 3% | 3% |  |

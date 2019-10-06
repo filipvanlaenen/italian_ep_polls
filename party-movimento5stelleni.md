@@ -160,8 +160,8 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [1–3 October 2019](2019-10-03-DemosPi.html) | Demos & Pi <br> La Repubblica |  |  |  |  |  |
 | [2 October 2019](2019-10-02-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [30 September–1 October 2019](2019-10-01-Ixè.html) | Ixè <br> Rai 3 |  |  |  |  |  |
-| [29–30 September 2019](2019-09-30-Tecnè.html) | Tecnè <br> Rete 4 | 16 | 15–17 | 15–18 | 14–19 | 13–19 |
-| [25–30 September 2019](2019-09-30-SWG.html) | SWG <br> La7 | 16 | 15–17 | 15–18 | 13–18 | 13–18 |
+| [29–30 September 2019](2019-09-30-Tecnè.html) | Tecnè <br> Rete 4 | 16 | 15–18 | 15–18 | 14–18 | 14–19 |
+| [25–30 September 2019](2019-09-30-SWG.html) | SWG <br> La7 | 16 | 15–17 | 15–17 | 14–18 | 13–18 |
 | [20–27 September 2019](2019-09-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 16 | 14–18 | 14–18 | 14–18 | 13–20 |
 | [23–27 September 2019](2019-09-27-GPF.html) | GPF <br> La Notizia | 18 | 17–21 | 17–21 | 17–21 | 16–22 |
 | [25–26 September 2019](2019-09-26-TermometroPolitico.html) | Termometro Politico <br> La7 | 14 | 12–15 | 12–15 | 12–16 | 12–16 |
@@ -280,12 +280,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 5% | 94% |  |
 | 14 | 10% | 89% |  |
 | 15 | 23% | 79% |  |
-| 16 | 28% | 57% | Median |
-| 17 | 15% | 28% | Last Result |
+| 16 | 27% | 56% | Median |
+| 17 | 16% | 29% | Last Result |
 | 18 | 8% | 13% |  |
 | 19 | 3% | 5% |  |
-| 20 | 1.0% | 2% |  |
-| 21 | 1.1% | 1.2% |  |
+| 20 | 1.3% | 2% |  |
+| 21 | 0.7% | 0.8% |  |
 | 22 | 0.1% | 0.1% |  |
 | 23 | 0% | 0% |  |
 
