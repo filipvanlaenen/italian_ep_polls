@@ -11,10 +11,10 @@ Last result: **40.8%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20.3% | 18.1–22.5% | 17.6–23.1% | 17.0–23.6% | 15.8–24.7% |
-| [3 October 2019](2019-10-03-Index.html) | Index <br> La7 | 20.2% | N/A | N/A | N/A | N/A |
-| [1–3 October 2019](2019-10-03-DemosPi.html) | Demos & Pi <br> La Repubblica | 19.1% | N/A | N/A | N/A | N/A |
-| [2 October 2019](2019-10-02-EMG.html) | EMG <br> Rai 3 | 19.7% | N/A | N/A | N/A | N/A |
-| [30 September–1 October 2019](2019-10-01-Ixè.html) | Ixè <br> Rai 3 | 21.6% | N/A | N/A | N/A | N/A |
+| [3 October 2019](2019-10-03-Index.html) | Index <br> La7 | 20.2% | 18.5–22.2% | 18.0–22.7% | 17.6–23.2% | 16.8–24.1% |
+| [1–3 October 2019](2019-10-03-DemosPi.html) | Demos & Pi <br> La Repubblica | 19.1% | 17.8–20.6% | 17.4–21.0% | 17.1–21.4% | 16.4–22.1% |
+| [2 October 2019](2019-10-02-EMG.html) | EMG <br> Rai 3 | 19.7% | 18.5–21.0% | 18.2–21.4% | 17.9–21.7% | 17.4–22.3% |
+| [30 September–1 October 2019](2019-10-01-Ixè.html) | Ixè <br> Rai 3 | 21.6% | 20.0–23.4% | 19.5–23.8% | 19.2–24.3% | 18.4–25.1% |
 | [29–30 September 2019](2019-09-30-Tecnè.html) | Tecnè <br> Rete 4 | 19.7% | 18.2–21.4% | 17.7–21.9% | 17.3–22.3% | 16.6–23.1% |
 | [25–30 September 2019](2019-09-30-SWG.html) | SWG <br> La7 | 19.4% | 18.1–20.8% | 17.8–21.2% | 17.5–21.5% | 16.9–22.1% |
 | [20–27 September 2019](2019-09-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 19.8% | 18.0–21.7% | 17.5–22.2% | 17.1–22.7% | 16.3–23.6% |
@@ -166,10 +166,10 @@ Last result: **31** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 15 | 13–17 | 13–17 | 12–18 | 11–19 |
-| [3 October 2019](2019-10-03-Index.html) | Index <br> La7 |  |  |  |  |  |
-| [1–3 October 2019](2019-10-03-DemosPi.html) | Demos & Pi <br> La Repubblica |  |  |  |  |  |
-| [2 October 2019](2019-10-02-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
-| [30 September–1 October 2019](2019-10-01-Ixè.html) | Ixè <br> Rai 3 |  |  |  |  |  |
+| [3 October 2019](2019-10-03-Index.html) | Index <br> La7 | 16 | 14–16 | 13–17 | 13–18 | 12–18 |
+| [1–3 October 2019](2019-10-03-DemosPi.html) | Demos & Pi <br> La Repubblica | 16 | 13–16 | 13–16 | 13–16 | 12–17 |
+| [2 October 2019](2019-10-02-EMG.html) | EMG <br> Rai 3 | 15 | 14–16 | 13–16 | 13–17 | 13–17 |
+| [30 September–1 October 2019](2019-10-01-Ixè.html) | Ixè <br> Rai 3 | 16 | 16–17 | 16–17 | 16–17 | 14–19 |
 | [29–30 September 2019](2019-09-30-Tecnè.html) | Tecnè <br> Rete 4 | 15 | 14–16 | 13–17 | 13–17 | 12–18 |
 | [25–30 September 2019](2019-09-30-SWG.html) | SWG <br> La7 | 15 | 14–16 | 13–16 | 13–16 | 12–17 |
 | [20–27 September 2019](2019-09-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 15 | 14–16 | 13–17 | 13–18 | 12–18 |
