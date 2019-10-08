@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 07 Oct 2019 18:51:38 +0200</pubDate>
+    <pubDate>Tue, 08 Oct 2019 06:54:41 +0200</pubDate>
     <item>
       <title>Opinion Poll by Index for La7, 3 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-10-03-Index.html</link>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-10-01-Ixè.png"
         length="249204"
         type="image/png"/>
-      <pubDate>Mon, 07 Oct 2019 18:03:10 +0200</pubDate>
-      <dc:date>2019-10-07T18:03:10.01777+02:00</dc:date>
+      <pubDate>Tue, 08 Oct 2019 06:54:41 +0200</pubDate>
+      <dc:date>2019-10-08T06:54:41.099724+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Tecnè for Rete 4, 29–30 September 2019 – Seat Projections for the Parties</title>
@@ -2899,6 +2899,6 @@
       <pubDate>Sat, 29 Jun 2019 16:56:02 +0200</pubDate>
       <dc:date>2019-06-29T16:56:02.59202+02:00</dc:date>
     </item>
-    <dc:date>2019-10-07T18:51:38.136348+02:00</dc:date>
+    <dc:date>2019-10-08T06:54:41.099724+02:00</dc:date>
   </channel>
 </rss>
