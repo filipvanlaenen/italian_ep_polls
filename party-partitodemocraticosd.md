@@ -11,6 +11,9 @@ Last result: **40.8%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20.3% | 18.1–22.5% | 17.6–23.1% | 17.0–23.6% | 15.8–24.7% |
+| [6–7 October 2019](2019-10-07-Tecnè.html) | Tecnè <br> Rete 4 | 20.3% | 18.7–22.0% | 18.3–22.5% | 17.9–22.9% | 17.2–23.7% |
+| [2–7 October 2019](2019-10-07-SWG.html) | SWG <br> La7 | 20.0% | 18.7–21.4% | 18.4–21.8% | 18.0–22.1% | 17.5–22.8% |
+| [3–4 October 2019](2019-10-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 19.7% | 18.2–21.4% | 17.7–21.9% | 17.3–22.3% | 16.6–23.1% |
 | [3 October 2019](2019-10-03-Index.html) | Index <br> La7 | 20.2% | 18.5–22.2% | 18.0–22.7% | 17.6–23.2% | 16.8–24.1% |
 | [1–3 October 2019](2019-10-03-DemosPi.html) | Demos & Pi <br> La Repubblica | 19.1% | 17.8–20.6% | 17.4–21.0% | 17.1–21.4% | 16.4–22.1% |
 | [2 October 2019](2019-10-02-EMG.html) | EMG <br> Rai 3 | 19.7% | 18.5–21.0% | 18.2–21.4% | 17.9–21.7% | 17.4–22.3% |
@@ -166,6 +169,9 @@ Last result: **31** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 15 | 13–17 | 13–17 | 12–18 | 11–19 |
+| [6–7 October 2019](2019-10-07-Tecnè.html) | Tecnè <br> Rete 4 | 14 | 12–15 | 12–15 | 12–15 | 11–15 |
+| [2–7 October 2019](2019-10-07-SWG.html) | SWG <br> La7 | 15 | 14–16 | 13–17 | 13–17 | 13–18 |
+| [3–4 October 2019](2019-10-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 13 | 13–15 | 13–15 | 13–15 | 13–17 |
 | [3 October 2019](2019-10-03-Index.html) | Index <br> La7 | 16 | 14–16 | 13–17 | 13–18 | 12–18 |
 | [1–3 October 2019](2019-10-03-DemosPi.html) | Demos & Pi <br> La Repubblica | 16 | 13–16 | 13–16 | 13–16 | 12–17 |
 | [2 October 2019](2019-10-02-EMG.html) | EMG <br> Rai 3 | 15 | 14–16 | 13–16 | 13–17 | 13–17 |
