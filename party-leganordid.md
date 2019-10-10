@@ -176,9 +176,9 @@ Last result: **5** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 25 | 22–27 | 21–28 | 21–29 | 20–30 |
-| [6–7 October 2019](2019-10-07-Tecnè.html) | Tecnè <br> Rete 4 | 24 | 22–25 | 21–25 | 21–25 | 20–25 |
-| [2–7 October 2019](2019-10-07-SWG.html) | SWG <br> La7 | 26 | 25–27 | 25–31 | 24–31 | 23–31 |
-| [3–4 October 2019](2019-10-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 26 | 23–26 | 23–26 | 23–26 | 22–26 |
+| [6–7 October 2019](2019-10-07-Tecnè.html) | Tecnè <br> Rete 4 | 23 | 21–24 | 21–25 | 21–25 | 20–26 |
+| [2–7 October 2019](2019-10-07-SWG.html) | SWG <br> La7 | 27 | 25–27 | 25–28 | 24–28 | 24–29 |
+| [3–4 October 2019](2019-10-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 25 | 24–27 | 23–27 | 22–27 | 22–28 |
 | [3 October 2019](2019-10-03-Index.html) | Index <br> La7 | 25 | 24–29 | 23–29 | 23–29 | 23–30 |
 | [1–3 October 2019](2019-10-03-DemosPi.html) | Demos & Pi <br> La Repubblica | 24 | 22–25 | 22–26 | 22–26 | 22–27 |
 | [2 October 2019](2019-10-02-EMG.html) | EMG <br> Rai 3 | 26 | 24–27 | 24–27 | 24–28 | 23–28 |
