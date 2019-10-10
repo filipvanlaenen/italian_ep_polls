@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 09 Oct 2019 20:05:33 +0200</pubDate>
+    <pubDate>Thu, 10 Oct 2019 19:37:57 +0200</pubDate>
     <item>
       <title>Opinion Poll by Tecnè for Rete 4, 6–7 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-10-07-Tecnè.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-10-07-Tecnè.png"
         length="199154"
         type="image/png"/>
-      <pubDate>Wed, 09 Oct 2019 19:17:36 +0200</pubDate>
-      <dc:date>2019-10-09T19:17:36.734587+02:00</dc:date>
+      <pubDate>Thu, 10 Oct 2019 18:43:35 +0200</pubDate>
+      <dc:date>2019-10-10T18:43:35.949078+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SWG for La7, 2–7 October 2019 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-10-07-SWG.png"
         length="253516"
         type="image/png"/>
-      <pubDate>Wed, 09 Oct 2019 19:25:55 +0200</pubDate>
-      <dc:date>2019-10-09T19:25:55.689558+02:00</dc:date>
+      <pubDate>Thu, 10 Oct 2019 18:34:23 +0200</pubDate>
+      <dc:date>2019-10-10T18:34:23.197517+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Tecnè for Agenzia Dire, 3–4 October 2019 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-10-04-Tecnè.png"
         length="248780"
         type="image/png"/>
-      <pubDate>Wed, 09 Oct 2019 20:05:33 +0200</pubDate>
-      <dc:date>2019-10-09T20:05:33.824176+02:00</dc:date>
+      <pubDate>Thu, 10 Oct 2019 19:37:57 +0200</pubDate>
+      <dc:date>2019-10-10T19:37:57.668962+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Index for La7, 3 October 2019 – Voting Intentions</title>
@@ -2929,6 +2929,6 @@
       <pubDate>Sat, 29 Jun 2019 16:56:02 +0200</pubDate>
       <dc:date>2019-06-29T16:56:02.59202+02:00</dc:date>
     </item>
-    <dc:date>2019-10-09T20:05:33.824176+02:00</dc:date>
+    <dc:date>2019-10-10T19:37:57.668962+02:00</dc:date>
   </channel>
 </rss>
