@@ -11,8 +11,14 @@ Last result: **6.2%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 31.9% | 28.9–35.0% | 28.1–35.8% | 27.5–36.4% | 26.3–37.4% |
+| [9 October 2019](2019-10-09-EMG.html) | EMG <br> Rai 3 | 32.7% | 31.2–34.2% | 30.8–34.6% | 30.5–35.0% | 29.8–35.8% |
+| [7–9 October 2019](2019-10-09-BiDiMedia.html) | BiDiMedia | 30.6% | 29.1–32.2% | 28.6–32.6% | 28.3–33.0% | 27.5–33.8% |
+| [7–8 October 2019](2019-10-08-Ixè.html) | Ixè <br> Rai 3 | 30.0% | 28.2–31.9% | 27.7–32.4% | 27.2–32.9% | 26.4–33.9% |
+| [7–8 October 2019](2019-10-08-Euromedia.html) | Euromedia <br> Rai 1 | 32.0% | 29.9–34.2% | 29.4–34.8% | 28.9–35.3% | 27.9–36.4% |
 | [6–7 October 2019](2019-10-07-Tecnè.html) | Tecnè <br> Rete 4 | 30.8% | 29.0–32.7% | 28.5–33.3% | 28.0–33.7% | 27.1–34.7% |
 | [2–7 October 2019](2019-10-07-SWG.html) | SWG <br> La7 | 32.3% | 30.8–33.9% | 30.4–34.4% | 30.0–34.8% | 29.3–35.5% |
+| [7 October 2019](2019-10-07-Ipsos.html) | Ipsos <br> La7 | 31.2% | 28.8–33.7% | 28.2–34.4% | 27.6–35.0% | 26.5–36.2% |
+| [3–5 October 2019](2019-10-05-Piepoli.html) | Piepoli <br> Rai 1 | 30.2% | 27.7–32.9% | 26.9–33.7% | 26.3–34.4% | 25.1–35.7% |
 | [3–4 October 2019](2019-10-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 31.4% | 29.6–33.3% | 29.0–33.9% | 28.6–34.4% | 27.7–35.3% |
 | [3 October 2019](2019-10-03-Index.html) | Index <br> La7 | 32.5% | 30.4–34.7% | 29.8–35.3% | 29.3–35.8% | 28.4–36.9% |
 | [1–3 October 2019](2019-10-03-DemosPi.html) | Demos & Pi <br> La Repubblica | 30.2% | 28.6–31.9% | 28.1–32.4% | 27.7–32.8% | 27.0–33.6% |
@@ -176,13 +182,19 @@ Last result: **5** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 25 | 22–27 | 21–28 | 21–29 | 20–30 |
+| [9 October 2019](2019-10-09-EMG.html) | EMG <br> Rai 3 | 25 | 24–26 | 23–26 | 23–27 | 23–28 |
+| [7–9 October 2019](2019-10-09-BiDiMedia.html) | BiDiMedia | 24 | 23–25 | 23–25 | 22–26 | 21–27 |
+| [7–8 October 2019](2019-10-08-Ixè.html) | Ixè <br> Rai 3 | 25 | 23–26 | 23–27 | 23–28 | 22–28 |
+| [7–8 October 2019](2019-10-08-Euromedia.html) | Euromedia <br> Rai 1 | 25 | 23–27 | 23–27 | 22–27 | 21–28 |
 | [6–7 October 2019](2019-10-07-Tecnè.html) | Tecnè <br> Rete 4 | 23 | 21–24 | 21–25 | 21–25 | 20–26 |
 | [2–7 October 2019](2019-10-07-SWG.html) | SWG <br> La7 | 27 | 25–27 | 25–28 | 24–28 | 24–29 |
+| [7 October 2019](2019-10-07-Ipsos.html) | Ipsos <br> La7 | 24 | 22–26 | 21–26 | 21–27 | 20–28 |
+| [3–5 October 2019](2019-10-05-Piepoli.html) | Piepoli <br> Rai 1 | 24 | 22–26 | 21–27 | 20–27 | 19–28 |
 | [3–4 October 2019](2019-10-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 25 | 24–27 | 23–27 | 22–27 | 22–28 |
 | [3 October 2019](2019-10-03-Index.html) | Index <br> La7 | 26 | 24–28 | 23–28 | 23–29 | 22–30 |
 | [1–3 October 2019](2019-10-03-DemosPi.html) | Demos & Pi <br> La Repubblica | 24 | 22–25 | 22–26 | 22–26 | 22–27 |
 | [2 October 2019](2019-10-02-EMG.html) | EMG <br> Rai 3 | 26 | 24–27 | 24–27 | 24–28 | 23–28 |
-| [30 September–1 October 2019](2019-10-01-Ixè.html) | Ixè <br> Rai 3 | 24 | 22–25 | 22–26 | 22–26 | 21–26 |
+| [30 September–1 October 2019](2019-10-01-Ixè.html) | Ixè <br> Rai 3 | 24 | 23–25 | 22–26 | 22–26 | 21–27 |
 | [29–30 September 2019](2019-09-30-Tecnè.html) | Tecnè <br> Rete 4 | 26 | 24–27 | 23–28 | 23–28 | 22–29 |
 | [25–30 September 2019](2019-09-30-SWG.html) | SWG <br> La7 | 27 | 25–28 | 25–28 | 25–29 | 24–29 |
 | [20–27 September 2019](2019-09-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 25 | 24–27 | 23–28 | 23–28 | 22–30 |

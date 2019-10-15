@@ -11,8 +11,14 @@ Last result: **21.2%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 19.9% | 17.0–23.0% | 15.8–23.9% | 14.9–24.8% | 13.9–26.3% |
+| [9 October 2019](2019-10-09-EMG.html) | EMG <br> Rai 3 | 18.7% | 17.5–20.0% | 17.2–20.4% | 16.9–20.7% | 16.3–21.3% |
+| [7–9 October 2019](2019-10-09-BiDiMedia.html) | BiDiMedia | 19.2% | 17.9–20.6% | 17.5–21.0% | 17.2–21.3% | 16.6–22.0% |
+| [7–8 October 2019](2019-10-08-Ixè.html) | Ixè <br> Rai 3 | 20.2% | 18.6–21.9% | 18.2–22.4% | 17.8–22.8% | 17.1–23.6% |
+| [7–8 October 2019](2019-10-08-Euromedia.html) | Euromedia <br> Rai 1 | 19.2% | 17.5–21.1% | 17.1–21.7% | 16.7–22.1% | 15.9–23.1% |
 | [6–7 October 2019](2019-10-07-Tecnè.html) | Tecnè <br> Rete 4 | 20.1% | 18.5–21.8% | 18.1–22.3% | 17.7–22.7% | 17.0–23.5% |
 | [2–7 October 2019](2019-10-07-SWG.html) | SWG <br> La7 | 18.5% | 17.3–19.9% | 16.9–20.3% | 16.6–20.6% | 16.1–21.2% |
+| [7 October 2019](2019-10-07-Ipsos.html) | Ipsos <br> La7 | 19.7% | 17.7–21.9% | 17.1–22.5% | 16.7–23.0% | 15.8–24.1% |
+| [3–5 October 2019](2019-10-05-Piepoli.html) | Piepoli <br> Rai 1 | 19.6% | 17.5–22.0% | 16.9–22.7% | 16.4–23.3% | 15.4–24.5% |
 | [3–4 October 2019](2019-10-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 19.8% | 18.2–21.5% | 17.8–22.0% | 17.4–22.4% | 16.7–23.2% |
 | [3 October 2019](2019-10-03-Index.html) | Index <br> La7 | 19.4% | 17.7–21.3% | 17.2–21.8% | 16.8–22.3% | 16.0–23.2% |
 | [1–3 October 2019](2019-10-03-DemosPi.html) | Demos & Pi <br> La Repubblica | 20.6% | 19.2–22.2% | 18.8–22.6% | 18.5–23.0% | 17.8–23.7% |
@@ -159,13 +165,19 @@ Last result: **17** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16 | 13–18 | 12–19 | 12–19 | 11–21 |
+| [9 October 2019](2019-10-09-EMG.html) | EMG <br> Rai 3 | 14 | 13–15 | 13–16 | 13–16 | 12–16 |
+| [7–9 October 2019](2019-10-09-BiDiMedia.html) | BiDiMedia | 16 | 14–16 | 14–16 | 14–16 | 13–17 |
+| [7–8 October 2019](2019-10-08-Ixè.html) | Ixè <br> Rai 3 | 16 | 16–18 | 15–19 | 14–19 | 14–20 |
+| [7–8 October 2019](2019-10-08-Euromedia.html) | Euromedia <br> Rai 1 | 15 | 14–16 | 13–16 | 13–17 | 13–18 |
 | [6–7 October 2019](2019-10-07-Tecnè.html) | Tecnè <br> Rete 4 | 15 | 14–16 | 13–16 | 13–17 | 12–18 |
 | [2–7 October 2019](2019-10-07-SWG.html) | SWG <br> La7 | 15 | 15–16 | 15–17 | 14–17 | 13–18 |
+| [7 October 2019](2019-10-07-Ipsos.html) | Ipsos <br> La7 | 15 | 13–17 | 13–17 | 13–18 | 12–19 |
+| [3–5 October 2019](2019-10-05-Piepoli.html) | Piepoli <br> Rai 1 | 16 | 14–18 | 13–18 | 13–19 | 12–20 |
 | [3–4 October 2019](2019-10-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 16 | 14–17 | 14–17 | 14–18 | 13–18 |
 | [3 October 2019](2019-10-03-Index.html) | Index <br> La7 | 16 | 14–17 | 14–18 | 13–18 | 13–19 |
 | [1–3 October 2019](2019-10-03-DemosPi.html) | Demos & Pi <br> La Repubblica | 16 | 16–18 | 15–18 | 15–18 | 14–19 |
 | [2 October 2019](2019-10-02-EMG.html) | EMG <br> Rai 3 | 15 | 14–17 | 14–17 | 14–17 | 13–17 |
-| [30 September–1 October 2019](2019-10-01-Ixè.html) | Ixè <br> Rai 3 | 18 | 16–20 | 15–20 | 15–20 | 14–20 |
+| [30 September–1 October 2019](2019-10-01-Ixè.html) | Ixè <br> Rai 3 | 17 | 16–18 | 15–19 | 15–20 | 14–20 |
 | [29–30 September 2019](2019-09-30-Tecnè.html) | Tecnè <br> Rete 4 | 16 | 15–18 | 15–18 | 14–18 | 14–19 |
 | [25–30 September 2019](2019-09-30-SWG.html) | SWG <br> La7 | 16 | 15–17 | 15–17 | 14–18 | 13–18 |
 | [20–27 September 2019](2019-09-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 16 | 14–18 | 14–18 | 14–18 | 13–20 |

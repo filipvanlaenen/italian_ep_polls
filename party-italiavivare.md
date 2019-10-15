@@ -11,8 +11,14 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4.7% | 3.3–6.1% | 2.9–6.5% | 2.6–6.9% | 2.2–7.5% |
+| [9 October 2019](2019-10-09-EMG.html) | EMG <br> Rai 3 | 4.5% | 3.9–5.2% | 3.7–5.4% | 3.6–5.6% | 3.3–6.0% |
+| [7–9 October 2019](2019-10-09-BiDiMedia.html) | BiDiMedia | 5.0% | 4.3–5.8% | 4.1–6.1% | 4.0–6.3% | 3.7–6.7% |
+| [7–8 October 2019](2019-10-08-Ixè.html) | Ixè <br> Rai 3 | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
+| [7–8 October 2019](2019-10-08-Euromedia.html) | Euromedia <br> Rai 1 | 5.5% | 4.6–6.7% | 4.3–7.0% | 4.1–7.3% | 3.7–7.9% |
 | [6–7 October 2019](2019-10-07-Tecnè.html) | Tecnè <br> Rete 4 | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.1–5.6% | 2.8–6.1% |
 | [2–7 October 2019](2019-10-07-SWG.html) | SWG <br> La7 | 5.6% | 4.9–6.4% | 4.7–6.7% | 4.5–6.9% | 4.2–7.3% |
+| [7 October 2019](2019-10-07-Ipsos.html) | Ipsos <br> La7 | 4.2% | 3.3–5.4% | 3.0–5.8% | 2.8–6.1% | 2.5–6.7% |
+| [3–5 October 2019](2019-10-05-Piepoli.html) | Piepoli <br> Rai 1 | 3.6% | 2.7–4.9% | 2.5–5.3% | 2.3–5.6% | 1.9–6.3% |
 | [3–4 October 2019](2019-10-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 4.5% | 3.8–5.5% | 3.6–5.7% | 3.4–6.0% | 3.0–6.5% |
 | [3 October 2019](2019-10-03-Index.html) | Index <br> La7 | 4.5% | 3.7–5.6% | 3.5–5.9% | 3.3–6.2% | 2.9–6.7% |
 | [1–3 October 2019](2019-10-03-DemosPi.html) | Demos & Pi <br> La Repubblica | 3.9% | 3.3–4.7% | 3.1–4.9% | 2.9–5.1% | 2.7–5.5% |
@@ -151,8 +157,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
+| [9 October 2019](2019-10-09-EMG.html) | EMG <br> Rai 3 | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [7–9 October 2019](2019-10-09-BiDiMedia.html) | BiDiMedia | 4 | 3–4 | 3–4 | 3–5 | 0–5 |
+| [7–8 October 2019](2019-10-08-Ixè.html) | Ixè <br> Rai 3 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [7–8 October 2019](2019-10-08-Euromedia.html) | Euromedia <br> Rai 1 | 4 | 3–5 | 3–5 | 3–5 | 0–6 |
 | [6–7 October 2019](2019-10-07-Tecnè.html) | Tecnè <br> Rete 4 | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [2–7 October 2019](2019-10-07-SWG.html) | SWG <br> La7 | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
+| [7 October 2019](2019-10-07-Ipsos.html) | Ipsos <br> La7 | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
+| [3–5 October 2019](2019-10-05-Piepoli.html) | Piepoli <br> Rai 1 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [3–4 October 2019](2019-10-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 4 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [3 October 2019](2019-10-03-Index.html) | Index <br> La7 | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [1–3 October 2019](2019-10-03-DemosPi.html) | Demos & Pi <br> La Repubblica | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
