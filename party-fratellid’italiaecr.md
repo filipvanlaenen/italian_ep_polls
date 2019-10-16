@@ -159,7 +159,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 6 | 5–7 | 5–8 | 4–8 | 4–8 |
 | [9 October 2019](2019-10-09-EMG.html) | EMG <br> Rai 3 | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [7–9 October 2019](2019-10-09-BiDiMedia.html) | BiDiMedia | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
-| [7–8 October 2019](2019-10-08-Ixè.html) | Ixè <br> Rai 3 | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
+| [7–8 October 2019](2019-10-08-Ixè.html) | Ixè <br> Rai 3 | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | [7–8 October 2019](2019-10-08-Euromedia.html) | Euromedia <br> Rai 1 | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | [6–7 October 2019](2019-10-07-Tecnè.html) | Tecnè <br> Rete 4 | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | [2–7 October 2019](2019-10-07-SWG.html) | SWG <br> La7 | 6 | 6 | 5–7 | 5–7 | 5–8 |
@@ -173,11 +173,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [29–30 September 2019](2019-09-30-Tecnè.html) | Tecnè <br> Rete 4 | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
 | [25–30 September 2019](2019-09-30-SWG.html) | SWG <br> La7 | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [20–27 September 2019](2019-09-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
-| [23–27 September 2019](2019-09-27-GPF.html) | GPF <br> La Notizia | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
-| [25–26 September 2019](2019-09-26-TermometroPolitico.html) | Termometro Politico <br> La7 | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
+| [23–27 September 2019](2019-09-27-GPF.html) | GPF <br> La Notizia | 6 | 5–7 | 4–7 | 4–7 | 4–8 |
+| [25–26 September 2019](2019-09-26-TermometroPolitico.html) | Termometro Politico <br> La7 | 6 | 6–7 | 6–7 | 6–8 | 5–8 |
 | [25–26 September 2019](2019-09-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | [1–25 September 2019](2019-09-25-NotoSondaggi.html) | Noto Sondaggi | 6 | 5–6 | 5–7 | 4–7 | 4–8 |
-| [25 September 2019](2019-09-25-EMG.html) | EMG <br> Rai 3 | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
+| [25 September 2019](2019-09-25-EMG.html) | EMG <br> Rai 3 | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [23–24 September 2019](2019-09-24-Ixè.html) | Ixè <br> Rai 3 | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | [22–23 September 2019](2019-09-23-Tecnè.html) | Tecnè <br> Rete 4 | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | [18–23 September 2019](2019-09-23-SWG.html) | SWG <br> La7 | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
@@ -289,9 +289,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0.1% | 100% |  |
 | 4 | 3% | 99.9% |  |
-| 5 | 23% | 97% |  |
-| 6 | 45% | 75% | Median |
-| 7 | 25% | 30% |  |
+| 5 | 22% | 97% |  |
+| 6 | 47% | 75% | Median |
+| 7 | 22% | 28% |  |
 | 8 | 5% | 5% |  |
 | 9 | 0.5% | 0.5% |  |
 | 10 | 0% | 0% |  |

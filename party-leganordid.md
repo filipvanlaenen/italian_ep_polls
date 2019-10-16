@@ -181,11 +181,11 @@ Last result: **5** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25 | 22–27 | 21–28 | 21–29 | 20–30 |
+| N/A | [Poll Average](average.html) | 25 | 22–27 | 21–28 | 21–29 | 20–29 |
 | [9 October 2019](2019-10-09-EMG.html) | EMG <br> Rai 3 | 25 | 24–26 | 23–26 | 23–27 | 23–28 |
 | [7–9 October 2019](2019-10-09-BiDiMedia.html) | BiDiMedia | 24 | 23–25 | 23–25 | 22–26 | 21–27 |
-| [7–8 October 2019](2019-10-08-Ixè.html) | Ixè <br> Rai 3 | 25 | 23–26 | 23–27 | 23–28 | 22–28 |
-| [7–8 October 2019](2019-10-08-Euromedia.html) | Euromedia <br> Rai 1 | 25 | 23–27 | 23–27 | 22–27 | 21–28 |
+| [7–8 October 2019](2019-10-08-Ixè.html) | Ixè <br> Rai 3 | 25 | 23–26 | 22–27 | 22–27 | 21–28 |
+| [7–8 October 2019](2019-10-08-Euromedia.html) | Euromedia <br> Rai 1 | 25 | 23–26 | 22–27 | 22–27 | 21–28 |
 | [6–7 October 2019](2019-10-07-Tecnè.html) | Tecnè <br> Rete 4 | 23 | 21–24 | 21–25 | 21–25 | 20–26 |
 | [2–7 October 2019](2019-10-07-SWG.html) | SWG <br> La7 | 27 | 25–27 | 25–28 | 24–28 | 24–29 |
 | [7 October 2019](2019-10-07-Ipsos.html) | Ipsos <br> La7 | 24 | 22–26 | 21–26 | 21–27 | 20–28 |
@@ -198,11 +198,11 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [29–30 September 2019](2019-09-30-Tecnè.html) | Tecnè <br> Rete 4 | 26 | 24–27 | 23–28 | 23–28 | 22–29 |
 | [25–30 September 2019](2019-09-30-SWG.html) | SWG <br> La7 | 27 | 25–28 | 25–28 | 25–29 | 24–29 |
 | [20–27 September 2019](2019-09-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 25 | 24–27 | 23–28 | 23–28 | 22–30 |
-| [23–27 September 2019](2019-09-27-GPF.html) | GPF <br> La Notizia | 23 | 21–25 | 21–25 | 20–25 | 19–26 |
-| [25–26 September 2019](2019-09-26-TermometroPolitico.html) | Termometro Politico <br> La7 | 27 | 26–29 | 26–29 | 25–30 | 25–30 |
+| [23–27 September 2019](2019-09-27-GPF.html) | GPF <br> La Notizia | 23 | 21–25 | 20–25 | 20–25 | 19–26 |
+| [25–26 September 2019](2019-09-26-TermometroPolitico.html) | Termometro Politico <br> La7 | 27 | 26–29 | 26–29 | 26–30 | 25–30 |
 | [25–26 September 2019](2019-09-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 24 | 22–26 | 22–26 | 21–27 | 21–27 |
 | [1–25 September 2019](2019-09-25-NotoSondaggi.html) | Noto Sondaggi | 27 | 25–29 | 24–29 | 24–29 | 23–30 |
-| [25 September 2019](2019-09-25-EMG.html) | EMG <br> Rai 3 | 25 | 24–27 | 24–28 | 23–28 | 23–29 |
+| [25 September 2019](2019-09-25-EMG.html) | EMG <br> Rai 3 | 26 | 24–27 | 24–28 | 24–28 | 23–29 |
 | [23–24 September 2019](2019-09-24-Ixè.html) | Ixè <br> Rai 3 | 24 | 23–26 | 23–27 | 22–27 | 22–28 |
 | [22–23 September 2019](2019-09-23-Tecnè.html) | Tecnè <br> Rete 4 | 26 | 24–28 | 24–28 | 23–28 | 23–29 |
 | [18–23 September 2019](2019-09-23-SWG.html) | SWG <br> La7 | 27 | 26–28 | 26–29 | 25–29 | 25–30 |
@@ -325,16 +325,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 0% | 100% |  |
 | 19 | 0.4% | 100% |  |
 | 20 | 2% | 99.6% |  |
-| 21 | 3% | 98% |  |
-| 22 | 6% | 95% |  |
-| 23 | 11% | 89% |  |
-| 24 | 17% | 78% |  |
-| 25 | 20% | 61% | Median |
-| 26 | 17% | 41% |  |
+| 21 | 4% | 98% |  |
+| 22 | 6% | 94% |  |
+| 23 | 11% | 88% |  |
+| 24 | 16% | 78% |  |
+| 25 | 20% | 62% | Median |
+| 26 | 18% | 42% |  |
 | 27 | 15% | 25% |  |
-| 28 | 6% | 10% |  |
+| 28 | 6% | 9% |  |
 | 29 | 3% | 3% |  |
-| 30 | 0.5% | 0.6% |  |
+| 30 | 0.4% | 0.5% |  |
 | 31 | 0.1% | 0.1% |  |
 | 32 | 0% | 0% |  |
 
