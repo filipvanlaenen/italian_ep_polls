@@ -162,13 +162,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [7–8 October 2019](2019-10-08-Ixè.html) | Ixè <br> Rai 3 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [7–8 October 2019](2019-10-08-Euromedia.html) | Euromedia <br> Rai 1 | 4 | 3–5 | 3–6 | 0–6 | 0–6 |
 | [6–7 October 2019](2019-10-07-Tecnè.html) | Tecnè <br> Rete 4 | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [2–7 October 2019](2019-10-07-SWG.html) | SWG <br> La7 | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
+| [2–7 October 2019](2019-10-07-SWG.html) | SWG <br> La7 | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
 | [7 October 2019](2019-10-07-Ipsos.html) | Ipsos <br> La7 | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [3–5 October 2019](2019-10-05-Piepoli.html) | Piepoli <br> Rai 1 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [3–4 October 2019](2019-10-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 4 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [3 October 2019](2019-10-03-Index.html) | Index <br> La7 | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [1–3 October 2019](2019-10-03-DemosPi.html) | Demos & Pi <br> La Repubblica | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
-| [2 October 2019](2019-10-02-EMG.html) | EMG <br> Rai 3 | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
+| [2 October 2019](2019-10-02-EMG.html) | EMG <br> Rai 3 | 4 | 3–4 | 0–4 | 0–4 | 0–5 |
 | [30 September–1 October 2019](2019-10-01-Ixè.html) | Ixè <br> Rai 3 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [29–30 September 2019](2019-09-30-Tecnè.html) | Tecnè <br> Rete 4 | 3 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [25–30 September 2019](2019-09-30-SWG.html) | SWG <br> La7 | 4 | 4–5 | 3–5 | 3–5 | 0–5 |
