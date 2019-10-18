@@ -158,7 +158,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [9 October 2019](2019-10-09-EMG.html) | EMG <br> Rai 3 | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [7–9 October 2019](2019-10-09-BiDiMedia.html) | BiDiMedia | 4 | 3–4 | 3–4 | 3–5 | 0–5 |
+| [7–9 October 2019](2019-10-09-BiDiMedia.html) | BiDiMedia | 4 | 3–5 | 3–5 | 3–5 | 0–5 |
 | [7–8 October 2019](2019-10-08-Ixè.html) | Ixè <br> Rai 3 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [7–8 October 2019](2019-10-08-Euromedia.html) | Euromedia <br> Rai 1 | 4 | 3–5 | 3–6 | 0–6 | 0–6 |
 | [6–7 October 2019](2019-10-07-Tecnè.html) | Tecnè <br> Rete 4 | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
