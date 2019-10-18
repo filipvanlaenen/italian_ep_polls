@@ -169,7 +169,7 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [7–9 October 2019](2019-10-09-BiDiMedia.html) | BiDiMedia | 16 | 14–16 | 14–16 | 14–16 | 13–17 |
 | [7–8 October 2019](2019-10-08-Ixè.html) | Ixè <br> Rai 3 | 16 | 15–18 | 15–19 | 14–19 | 14–20 |
 | [7–8 October 2019](2019-10-08-Euromedia.html) | Euromedia <br> Rai 1 | 15 | 13–16 | 13–17 | 13–17 | 12–18 |
-| [6–7 October 2019](2019-10-07-Tecnè.html) | Tecnè <br> Rete 4 | 15 | 14–16 | 13–16 | 13–17 | 12–18 |
+| [6–7 October 2019](2019-10-07-Tecnè.html) | Tecnè <br> Rete 4 | 15 | 14–16 | 13–17 | 13–17 | 12–17 |
 | [2–7 October 2019](2019-10-07-SWG.html) | SWG <br> La7 | 15 | 14–16 | 14–17 | 13–17 | 13–17 |
 | [7 October 2019](2019-10-07-Ipsos.html) | Ipsos <br> La7 | 15 | 13–17 | 13–17 | 13–18 | 12–19 |
 | [3–5 October 2019](2019-10-05-Piepoli.html) | Piepoli <br> Rai 1 | 16 | 14–18 | 13–18 | 13–19 | 12–20 |

@@ -182,11 +182,11 @@ Last result: **5** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 25 | 22–27 | 21–28 | 21–29 | 20–29 |
-| [9 October 2019](2019-10-09-EMG.html) | EMG <br> Rai 3 | 25 | 24–26 | 23–26 | 23–27 | 23–28 |
+| [9 October 2019](2019-10-09-EMG.html) | EMG <br> Rai 3 | 25 | 24–26 | 23–27 | 23–27 | 22–28 |
 | [7–9 October 2019](2019-10-09-BiDiMedia.html) | BiDiMedia | 24 | 23–25 | 23–25 | 22–26 | 21–27 |
 | [7–8 October 2019](2019-10-08-Ixè.html) | Ixè <br> Rai 3 | 25 | 23–26 | 22–27 | 22–27 | 21–28 |
 | [7–8 October 2019](2019-10-08-Euromedia.html) | Euromedia <br> Rai 1 | 25 | 23–26 | 22–27 | 22–27 | 21–28 |
-| [6–7 October 2019](2019-10-07-Tecnè.html) | Tecnè <br> Rete 4 | 23 | 21–24 | 21–25 | 21–25 | 20–26 |
+| [6–7 October 2019](2019-10-07-Tecnè.html) | Tecnè <br> Rete 4 | 23 | 21–24 | 21–25 | 20–25 | 20–26 |
 | [2–7 October 2019](2019-10-07-SWG.html) | SWG <br> La7 | 27 | 25–27 | 25–28 | 25–28 | 24–29 |
 | [7 October 2019](2019-10-07-Ipsos.html) | Ipsos <br> La7 | 24 | 22–26 | 21–26 | 21–27 | 20–28 |
 | [3–5 October 2019](2019-10-05-Piepoli.html) | Piepoli <br> Rai 1 | 24 | 22–26 | 21–27 | 20–27 | 19–28 |
