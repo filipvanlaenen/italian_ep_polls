@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 18 Oct 2019 11:49:35 +0200</pubDate>
+    <pubDate>Fri, 18 Oct 2019 18:08:18 +0200</pubDate>
     <item>
       <title>Opinion Poll by EMG for Rai 3, 9 October 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-10-09-EMG.html#seats</link>
@@ -40,14 +40,34 @@
       <dc:date>2019-10-18T11:49:35.233001+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by BiDiMedia, 7–9 October 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-10-09-BiDiMedia.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (NI): 13–17 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 13–16 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ID): 22–26 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 3–5 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 5–7 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0 seats&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Cambiamo! (*): 0 seats&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 3–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-10-09-BiDiMedia-seats.png"
+        length="191198"
+        type="image/png"/>
+      <pubDate>Fri, 18 Oct 2019 18:08:18 +0200</pubDate>
+      <dc:date>2019-10-18T18:08:18.485594+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by BiDiMedia, 7–9 October 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-10-09-BiDiMedia.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-10-09-BiDiMedia-coalitions-seats.png"
+        length="137744"
+        type="image/png"/>
+      <pubDate>Fri, 18 Oct 2019 18:08:18 +0200</pubDate>
+      <dc:date>2019-10-18T18:08:18.485594+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by BiDiMedia, 7–9 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-10-09-BiDiMedia.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (NI): 17.2–21.3%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 17.5–21.6%&lt;/li&gt;&lt;li&gt;Lega Nord (ID): 28.3–33.0%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 4.4–6.8%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 6.7–9.5%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 1.2–2.6%&lt;/li&gt;&lt;li&gt;Più Europa (RE): 1.0–2.3%&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 1.4–2.9%&lt;/li&gt;&lt;li&gt;Cambiamo! (*): 0.8–2.1%&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 4.0–6.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-10-09-BiDiMedia.png"
         length="249992"
         type="image/png"/>
-      <pubDate>Tue, 15 Oct 2019 19:53:48 +0200</pubDate>
-      <dc:date>2019-10-15T19:53:48.615229+02:00</dc:date>
+      <pubDate>Fri, 18 Oct 2019 18:08:18 +0200</pubDate>
+      <dc:date>2019-10-18T18:08:18.485594+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ixè for Rai 3, 7–8 October 2019 – Seat Projections for the Parties</title>
@@ -3249,6 +3269,6 @@
       <pubDate>Sat, 29 Jun 2019 16:56:02 +0200</pubDate>
       <dc:date>2019-06-29T16:56:02.59202+02:00</dc:date>
     </item>
-    <dc:date>2019-10-18T11:49:35.233001+02:00</dc:date>
+    <dc:date>2019-10-18T18:08:18.485594+02:00</dc:date>
   </channel>
 </rss>
