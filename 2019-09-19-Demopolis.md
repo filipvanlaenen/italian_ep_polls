@@ -10,11 +10,12 @@
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Lega Nord (ID) | 6.2% | 35.5% | 33.9–37.1% |33.5–37.5% |33.1–37.9% |32.3–38.7% |
-| Movimento 5 Stelle (NI) | 21.2% | 22.1% | 20.7–23.5% |20.4–23.9% |20.0–24.2% |19.4–24.9% |
-| Partito Democratico (S&D) | 40.8% | 20.9% | 19.6–22.3% |19.2–22.7% |18.9–23.0% |18.3–23.7% |
-| Forza Italia (EPP) | 16.8% | 6.5% | 5.7–7.4% |5.5–7.6% |5.3–7.8% |5.0–8.3% |
-| Italia Viva (RE) | 0.0% | 5.6% | 4.9–6.4% |4.7–6.7% |4.5–6.9% |4.2–7.3% |
+| Lega Nord (ID) | 6.2% | 33.0% | 31.5–34.6% |31.0–35.0% |30.7–35.4% |29.9–36.2% |
+| Movimento 5 Stelle (NI) | 21.2% | 20.5% | 19.2–21.9% |18.8–22.3% |18.5–22.6% |17.9–23.3% |
+| Partito Democratico (S&D) | 40.8% | 19.4% | 18.1–20.8% |17.8–21.2% |17.5–21.5% |16.9–22.1% |
+| Fratelli d’Italia (ECR) | 3.7% | 7.0% | 6.2–7.9% |6.0–8.2% |5.8–8.4% |5.5–8.9% |
+| Forza Italia (EPP) | 16.8% | 6.0% | 5.3–6.9% |5.1–7.1% |4.9–7.3% |4.6–7.8% |
+| Italia Viva (RE) | 0.0% | 5.2% | 4.5–6.0% |4.3–6.2% |4.2–6.4% |3.9–6.9% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -28,11 +29,12 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#lega-nord-(id)">Lega Nord (ID)</a> | 5 | 26 | 25–27 |24–27 |24–28 |24–28 |
-| <a href="#movimento-5-stelle-(ni)">Movimento 5 Stelle (NI)</a> | 17 | 16 | 15–17 |15–17 |15–18 |14–18 |
-| <a href="#partito-democratico-(s&d)">Partito Democratico (S&D)</a> | 31 | 14 | 13–15 |13–16 |13–16 |12–16 |
-| <a href="#forza-italia-(epp)">Forza Italia (EPP)</a> | 13 | 5 | 4–5 |4–6 |4–6 |4–6 |
-| <a href="#italia-viva-(re)">Italia Viva (RE)</a> | 0 | 4 | 4–5 |3–5 |3–5 |3–5 |
+| <a href="#lega-nord-(id)">Lega Nord (ID)</a> | 5 | 24 | 23–25 |23–26 |22–26 |22–26 |
+| <a href="#movimento-5-stelle-(ni)">Movimento 5 Stelle (NI)</a> | 17 | 15 | 14–16 |14–16 |13–16 |13–17 |
+| <a href="#partito-democratico-(s&d)">Partito Democratico (S&D)</a> | 31 | 13 | 12–14 |12–14 |12–15 |11–15 |
+| <a href="#fratelli-d’italia-(ecr)">Fratelli d’Italia (ECR)</a> | 0 | 5 | 5–6 |4–6 |4–6 |4–6 |
+| <a href="#forza-italia-(epp)">Forza Italia (EPP)</a> | 13 | 4 | 4–5 |4–5 |4–5 |3–6 |
+| <a href="#italia-viva-(re)">Italia Viva (RE)</a> | 0 | 4 | 3–4 |3–5 |3–5 |0–5 |
 
 ### Lega Nord (ID)
 
@@ -58,16 +60,14 @@
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
-| 21 | 0% | 100% |  |
-| 22 | 0% | 100% |  |
-| 23 | 0.4% | 100% |  |
-| 24 | 7% | 99.5% |  |
-| 25 | 29% | 93% |  |
-| 26 | 41% | 64% | Median |
-| 27 | 19% | 23% |  |
-| 28 | 3% | 3% |  |
-| 29 | 0.2% | 0.2% |  |
-| 30 | 0% | 0% |  |
+| 21 | 0.2% | 100% |  |
+| 22 | 4% | 99.8% |  |
+| 23 | 23% | 96% |  |
+| 24 | 43% | 73% | Median |
+| 25 | 25% | 30% |  |
+| 26 | 5% | 5% |  |
+| 27 | 0.4% | 0.4% |  |
+| 28 | 0% | 0% |  |
 
 ### Movimento 5 Stelle (NI)
 
@@ -77,13 +77,13 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 14 | 2% | 100% |  |
-| 15 | 21% | 98% |  |
-| 16 | 47% | 77% | Median |
-| 17 | 26% | 30% | Last Result |
-| 18 | 4% | 4% |  |
-| 19 | 0.2% | 0.2% |  |
-| 20 | 0% | 0% |  |
+| 13 | 3% | 100% |  |
+| 14 | 26% | 97% |  |
+| 15 | 49% | 71% | Median |
+| 16 | 20% | 22% |  |
+| 17 | 2% | 2% | Last Result |
+| 18 | 0.1% | 0.1% |  |
+| 19 | 0% | 0% |  |
 
 ### Partito Democratico (S&D)
 
@@ -93,12 +93,13 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 1.1% | 100% |  |
-| 13 | 17% | 98.9% |  |
-| 14 | 46% | 82% | Median |
-| 15 | 31% | 37% |  |
-| 16 | 5% | 5% |  |
-| 17 | 0.2% | 0.2% |  |
+| 11 | 1.2% | 100% |  |
+| 12 | 18% | 98.8% |  |
+| 13 | 50% | 81% | Median |
+| 14 | 26% | 30% |  |
+| 15 | 4% | 4% |  |
+| 16 | 0.1% | 0.1% |  |
+| 17 | 0% | 0% |  |
 | 18 | 0% | 0% |  |
 | 19 | 0% | 0% |  |
 | 20 | 0% | 0% |  |
@@ -114,6 +115,24 @@
 | 30 | 0% | 0% |  |
 | 31 | 0% | 0% | Last Result |
 
+### Fratelli d’Italia (ECR)
+
+*For a full overview of the results for this party, see the [Fratelli d’Italia (ECR)](party-fratellid’italiaecr.html) page.*
+
+![Graph with seats probability mass function not yet produced](2019-09-19-Demopolis-seats-pmf-fratellid’italiaecr.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 10% | 100% |  |
+| 5 | 67% | 90% | Median |
+| 6 | 23% | 23% |  |
+| 7 | 0.5% | 0.5% |  |
+| 8 | 0% | 0% |  |
+
 ### Forza Italia (EPP)
 
 *For a full overview of the results for this party, see the [Forza Italia (EPP)](party-forzaitaliaepp.html) page.*
@@ -122,10 +141,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.2% | 100% |  |
-| 4 | 30% | 99.8% |  |
-| 5 | 63% | 70% | Median |
-| 6 | 6% | 6% |  |
+| 3 | 2% | 100% |  |
+| 4 | 57% | 98% | Median |
+| 5 | 40% | 41% |  |
+| 6 | 1.1% | 1.1% |  |
 | 7 | 0% | 0% |  |
 | 8 | 0% | 0% |  |
 | 9 | 0% | 0% |  |
@@ -142,14 +161,13 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% | Last Result |
-| 1 | 0% | 99.9% |  |
-| 2 | 0% | 99.9% |  |
-| 3 | 8% | 99.9% |  |
-| 4 | 73% | 92% | Median |
-| 5 | 19% | 19% |  |
-| 6 | 0.2% | 0.2% |  |
-| 7 | 0% | 0% |  |
+| 0 | 0.9% | 100% | Last Result |
+| 1 | 0% | 99.1% |  |
+| 2 | 0% | 99.1% |  |
+| 3 | 22% | 99.1% |  |
+| 4 | 71% | 77% | Median |
+| 5 | 6% | 6% |  |
+| 6 | 0% | 0% |  |
 
 
 ## Coalitions
@@ -160,7 +178,7 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Lega Nord (ID) | 5 | 26 | 0% | 25–27 | 24–27 | 24–28 | 24–28 |
+| Lega Nord (ID) | 5 | 24 | 0% | 23–25 | 23–26 | 22–26 | 22–26 |
 
 ### Lega Nord (ID)
 
@@ -184,16 +202,14 @@
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
-| 21 | 0% | 100% |  |
-| 22 | 0% | 100% |  |
-| 23 | 0.4% | 100% |  |
-| 24 | 7% | 99.5% |  |
-| 25 | 29% | 93% |  |
-| 26 | 41% | 64% | Median |
-| 27 | 19% | 23% |  |
-| 28 | 3% | 3% |  |
-| 29 | 0.2% | 0.2% |  |
-| 30 | 0% | 0% |  |
+| 21 | 0.2% | 100% |  |
+| 22 | 4% | 99.8% |  |
+| 23 | 23% | 96% |  |
+| 24 | 43% | 73% | Median |
+| 25 | 25% | 30% |  |
+| 26 | 5% | 5% |  |
+| 27 | 0.4% | 0.4% |  |
+| 28 | 0% | 0% |  |
 
 
 ## Technical Information
@@ -208,5 +224,5 @@
 
 + **Sample size:** 1500
 + **Simulations done:** 1,048,576
-+ **Error estimate:** 0.41%
++ **Error estimate:** 0.55%
 
