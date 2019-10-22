@@ -171,7 +171,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [9–11 October 2019](2019-10-11-Demopolis.html) | Demopolis <br> Rai 3 |  |  |  |  |  |
 | [9–10 October 2019](2019-10-10-TermometroPolitico.html) | Termometro Politico <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [10 October 2019](2019-10-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
-| [9 October 2019](2019-10-09-Index.html) | Index <br> La7 | 0 | 0 | 0 | 0 | 0–4 |
+| [9 October 2019](2019-10-09-Index.html) | Index <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [9 October 2019](2019-10-09-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [7–9 October 2019](2019-10-09-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
 | [7–8 October 2019](2019-10-08-Ixè.html) | Ixè <br> Rai 3 | 0 | 0 | 0 | 0–3 | 0–4 |

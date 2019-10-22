@@ -193,12 +193,12 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [16–17 October 2019](2019-10-17-EMG.html) | EMG <br> Rai 3 | 25 | 24–26 | 23–26 | 23–26 | 23–27 |
 | [14–15 October 2019](2019-10-15-Ixè.html) | Ixè <br> Rai 3 | 26 | 23–26 | 23–27 | 23–27 | 22–27 |
 | [13–14 October 2019](2019-10-14-Tecnè.html) | Tecnè <br> Rete 4 | 26 | 23–27 | 23–28 | 22–28 | 22–29 |
-| [9–14 October 2019](2019-10-14-SWG.html) | SWG <br> La7 | 27 | 24–27 | 24–27 | 24–27 | 24–27 |
-| [10–11 October 2019](2019-10-11-Tecnè.html) | Tecnè <br> Agenzia Dire | 23 | 22–26 | 22–26 | 22–26 | 22–26 |
-| [9–11 October 2019](2019-10-11-Demopolis.html) | Demopolis <br> Rai 3 | 26 | 25–26 | 25–26 | 25–26 | 23–26 |
-| [9–10 October 2019](2019-10-10-TermometroPolitico.html) | Termometro Politico <br> La7 | 25 | 25–27 | 25–27 | 25–27 | 25–27 |
+| [9–14 October 2019](2019-10-14-SWG.html) | SWG <br> La7 | 27 | 25–29 | 25–29 | 25–29 | 24–30 |
+| [10–11 October 2019](2019-10-11-Tecnè.html) | Tecnè <br> Agenzia Dire | 25 | 24–27 | 24–27 | 23–27 | 22–28 |
+| [9–11 October 2019](2019-10-11-Demopolis.html) | Demopolis <br> Rai 3 | 24 | 23–25 | 22–26 | 22–26 | 21–27 |
+| [9–10 October 2019](2019-10-10-TermometroPolitico.html) | Termometro Politico <br> La7 | 27 | 27 | 26–28 | 25–29 | 24–29 |
 | [10 October 2019](2019-10-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 23 | 22–25 | 22–26 | 22–26 | 21–27 |
-| [9 October 2019](2019-10-09-Index.html) | Index <br> La7 | 27 | 24–27 | 24–27 | 24–27 | 23–27 |
+| [9 October 2019](2019-10-09-Index.html) | Index <br> La7 | 25 | 23–27 | 23–27 | 22–28 | 22–29 |
 | [9 October 2019](2019-10-09-EMG.html) | EMG <br> Rai 3 | 25 | 24–27 | 24–27 | 24–28 | 23–29 |
 | [7–9 October 2019](2019-10-09-BiDiMedia.html) | BiDiMedia | 24 | 23–25 | 22–25 | 22–26 | 21–27 |
 | [7–8 October 2019](2019-10-08-Ixè.html) | Ixè <br> Rai 3 | 25 | 23–26 | 22–27 | 22–27 | 21–28 |
