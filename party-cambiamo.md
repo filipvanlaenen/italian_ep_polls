@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.1% | 0.5–1.9% | 0.4–2.1% | 0.4–2.2% | 0.3–2.6% |
+| N/A | [Poll Average](average.html) | 1.1% | 0.4–1.9% | 0.3–2.1% | 0.3–2.2% | 0.2–2.6% |
 | [16–17 October 2019](2019-10-17-EMG.html) | EMG <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
 | [14–15 October 2019](2019-10-15-Ixè.html) | Ixè <br> Rai 3 | 1.1% | 0.8–1.7% | 0.7–1.8% | 0.6–2.0% | 0.5–2.3% |
 | [13–14 October 2019](2019-10-14-Tecnè.html) | Tecnè <br> Rete 4 | 0.0% | N/A | N/A | N/A | N/A |
@@ -145,10 +145,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 12% | 100% | Last Result |
-| 0.5–1.5% | 64% | 88% | Median |
-| 1.5–2.5% | 24% | 25% |  |
-| 2.5–3.5% | 0.6% | 0.6% |  |
+| 0.0–0.5% | 17% | 100% | Last Result |
+| 0.5–1.5% | 60% | 83% | Median |
+| 1.5–2.5% | 22% | 23% |  |
+| 2.5–3.5% | 0.7% | 0.7% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
