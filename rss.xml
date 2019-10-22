@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 21 Oct 2019 20:08:27 +0200</pubDate>
+    <pubDate>Tue, 22 Oct 2019 17:21:22 +0200</pubDate>
     <item>
       <title>Opinion Poll by EMG for Rai 3, 16–17 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-10-17-EMG.html</link>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-10-14-SWG.png"
         length="253179"
         type="image/png"/>
-      <pubDate>Mon, 21 Oct 2019 17:53:30 +0200</pubDate>
-      <dc:date>2019-10-21T17:53:30.023085+02:00</dc:date>
+      <pubDate>Mon, 21 Oct 2019 22:32:40 +0200</pubDate>
+      <dc:date>2019-10-21T22:32:40.694852+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Tecnè for Agenzia Dire, 10–11 October 2019 – Voting Intentions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-10-11-Tecnè.png"
         length="250303"
         type="image/png"/>
-      <pubDate>Mon, 21 Oct 2019 18:32:32 +0200</pubDate>
-      <dc:date>2019-10-21T18:32:32.104256+02:00</dc:date>
+      <pubDate>Mon, 21 Oct 2019 22:48:29 +0200</pubDate>
+      <dc:date>2019-10-21T22:48:29.106666+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Demopolis for Rai 3, 9–11 October 2019 – Voting Intentions</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-10-11-Demopolis.png"
         length="214746"
         type="image/png"/>
-      <pubDate>Mon, 21 Oct 2019 18:44:46 +0200</pubDate>
-      <dc:date>2019-10-21T18:44:46.104807+02:00</dc:date>
+      <pubDate>Mon, 21 Oct 2019 22:39:22 +0200</pubDate>
+      <dc:date>2019-10-21T22:39:22.272857+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Termometro Politico for La7, 9–10 October 2019 – Voting Intentions</title>
@@ -76,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-10-10-TermometroPolitico.png"
         length="249146"
         type="image/png"/>
-      <pubDate>Mon, 21 Oct 2019 18:53:26 +0200</pubDate>
-      <dc:date>2019-10-21T18:53:26.691377+02:00</dc:date>
+      <pubDate>Tue, 22 Oct 2019 06:47:34 +0200</pubDate>
+      <dc:date>2019-10-22T06:47:34.960201+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Noto Sondaggi for Rai 1, 10 October 2019 – Voting Intentions</title>
@@ -96,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-10-09-Index.png"
         length="254586"
         type="image/png"/>
-      <pubDate>Mon, 21 Oct 2019 19:19:22 +0200</pubDate>
-      <dc:date>2019-10-21T19:19:22.6666+02:00</dc:date>
+      <pubDate>Tue, 22 Oct 2019 17:21:22 +0200</pubDate>
+      <dc:date>2019-10-22T17:21:22.606274+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by EMG for Rai 3, 9 October 2019 – Voting Intentions</title>
@@ -3339,6 +3339,6 @@
       <pubDate>Sat, 29 Jun 2019 16:56:02 +0200</pubDate>
       <dc:date>2019-06-29T16:56:02.59202+02:00</dc:date>
     </item>
-    <dc:date>2019-10-21T20:08:27.400653+02:00</dc:date>
+    <dc:date>2019-10-22T17:21:22.606274+02:00</dc:date>
   </channel>
 </rss>
