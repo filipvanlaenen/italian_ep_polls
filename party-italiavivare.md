@@ -174,10 +174,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [21–22 October 2019](2019-10-22-Ixè.html) | Ixè <br> Rai 3 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
-| [20–21 October 2019](2019-10-21-Tecnè.html) | Tecnè <br> Rete 4 | 3 | 0–4 | 0–4 | 0–5 | 0–6 |
-| [16–21 October 2019](2019-10-21-SWG.html) | SWG <br> La7 | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [17–18 October 2019](2019-10-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 4 | 3–4 | 0–4 | 0–4 | 0–5 |
-| [16–17 October 2019](2019-10-17-TermometroPolitico.html) | Termometro Politico <br> La7 | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [20–21 October 2019](2019-10-21-Tecnè.html) | Tecnè <br> Rete 4 | 4 | 3–5 | 3–5 | 0–5 | 0–5 |
+| [16–21 October 2019](2019-10-21-SWG.html) | SWG <br> La7 | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
+| [17–18 October 2019](2019-10-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [16–17 October 2019](2019-10-17-TermometroPolitico.html) | Termometro Politico <br> La7 | 4 | 4 | 3–5 | 3–5 | 3–5 |
 | [17 October 2019](2019-10-17-Index.html) | Index <br> La7 | 4 | 4–5 | 4–5 | 4–5 | 0–5 |
 | [16–17 October 2019](2019-10-17-Euromedia.html) | Euromedia <br> Rai 1 | 4 | 4 | 4 | 4 | 4 |
 | [16–17 October 2019](2019-10-17-EMG.html) | EMG <br> Rai 3 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
@@ -319,10 +319,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 26% | 100% | Last Result |
 | 1 | 0% | 74% |  |
 | 2 | 0% | 74% |  |
-| 3 | 13% | 74% |  |
-| 4 | 45% | 62% | Median |
-| 5 | 17% | 17% |  |
-| 6 | 0.5% | 0.5% |  |
+| 3 | 12% | 74% |  |
+| 4 | 49% | 63% | Median |
+| 5 | 13% | 14% |  |
+| 6 | 0.5% | 0.6% |  |
 | 7 | 0% | 0% |  |
 
 

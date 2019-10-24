@@ -190,12 +190,12 @@ Last result: **31** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 13–17 | 12–17 | 12–17 | 12–18 |
-| [21–22 October 2019](2019-10-22-Ixè.html) | Ixè <br> Rai 3 | 17 | 14–17 | 14–17 | 14–17 | 14–17 |
-| [20–21 October 2019](2019-10-21-Tecnè.html) | Tecnè <br> Rete 4 | 13 | 13–16 | 12–16 | 12–16 | 12–17 |
-| [16–21 October 2019](2019-10-21-SWG.html) | SWG <br> La7 | 13 | 12–15 | 12–15 | 12–17 | 12–17 |
-| [17–18 October 2019](2019-10-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 18 | 15–18 | 15–18 | 15–18 | 12–18 |
-| [16–17 October 2019](2019-10-17-TermometroPolitico.html) | Termometro Politico <br> La7 | 15 | 15 | 15 | 15 | 14–16 |
+| N/A | [Poll Average](average.html) | 14 | 13–16 | 13–17 | 12–17 | 12–18 |
+| [21–22 October 2019](2019-10-22-Ixè.html) | Ixè <br> Rai 3 | 15 | 14–15 | 13–16 | 13–17 | 13–17 |
+| [20–21 October 2019](2019-10-21-Tecnè.html) | Tecnè <br> Rete 4 | 15 | 13–16 | 13–16 | 13–16 | 12–16 |
+| [16–21 October 2019](2019-10-21-SWG.html) | SWG <br> La7 | 14 | 13–15 | 13–15 | 13–15 | 12–16 |
+| [17–18 October 2019](2019-10-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 15 | 14–17 | 14–17 | 13–17 | 13–18 |
+| [16–17 October 2019](2019-10-17-TermometroPolitico.html) | Termometro Politico <br> La7 | 15 | 14–15 | 13–16 | 13–16 | 12–16 |
 | [17 October 2019](2019-10-17-Index.html) | Index <br> La7 | 17 | 15–17 | 15–17 | 15–17 | 15–18 |
 | [16–17 October 2019](2019-10-17-Euromedia.html) | Euromedia <br> Rai 1 | 13 | 13 | 13 | 13 | 11–13 |
 | [16–17 October 2019](2019-10-17-EMG.html) | EMG <br> Rai 3 | 15 | 14–16 | 13–16 | 13–16 | 12–17 |
@@ -335,13 +335,13 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 0.3% | 100% |  |
-| 12 | 6% | 99.7% |  |
-| 13 | 23% | 94% |  |
-| 14 | 21% | 71% | Median |
-| 15 | 26% | 50% |  |
-| 16 | 12% | 24% |  |
-| 17 | 11% | 12% |  |
-| 18 | 0.6% | 0.7% |  |
+| 12 | 3% | 99.7% |  |
+| 13 | 21% | 97% |  |
+| 14 | 26% | 75% | Median |
+| 15 | 28% | 49% |  |
+| 16 | 13% | 21% |  |
+| 17 | 8% | 8% |  |
+| 18 | 0.5% | 0.7% |  |
 | 19 | 0.1% | 0.2% |  |
 | 20 | 0% | 0% |  |
 | 21 | 0% | 0% |  |

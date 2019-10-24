@@ -178,11 +178,11 @@ Last result: **13** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 4–7 | 4–7 | 3–8 |
-| [21–22 October 2019](2019-10-22-Ixè.html) | Ixè <br> Rai 3 | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
-| [20–21 October 2019](2019-10-21-Tecnè.html) | Tecnè <br> Rete 4 | 7 | 4–7 | 4–8 | 4–8 | 4–9 |
-| [16–21 October 2019](2019-10-21-SWG.html) | SWG <br> La7 | 4 | 4–5 | 4–6 | 4–6 | 4–6 |
-| [17–18 October 2019](2019-10-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
-| [16–17 October 2019](2019-10-17-TermometroPolitico.html) | Termometro Politico <br> La7 | 4 | 4 | 4 | 4 | 4–5 |
+| [21–22 October 2019](2019-10-22-Ixè.html) | Ixè <br> Rai 3 | 6 | 6–8 | 6–8 | 5–8 | 5–8 |
+| [20–21 October 2019](2019-10-21-Tecnè.html) | Tecnè <br> Rete 4 | 6 | 6–7 | 6–7 | 5–8 | 5–8 |
+| [16–21 October 2019](2019-10-21-SWG.html) | SWG <br> La7 | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| [17–18 October 2019](2019-10-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
+| [16–17 October 2019](2019-10-17-TermometroPolitico.html) | Termometro Politico <br> La7 | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [17 October 2019](2019-10-17-Index.html) | Index <br> La7 | 4 | 4 | 4 | 4 | 0–4 |
 | [16–17 October 2019](2019-10-17-Euromedia.html) | Euromedia <br> Rai 1 | 5 | 5 | 5 | 5 | 5–6 |
 | [16–17 October 2019](2019-10-17-EMG.html) | EMG <br> Rai 3 | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
@@ -321,16 +321,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% |  |
-| 1 | 0% | 99.9% |  |
-| 2 | 0% | 99.9% |  |
-| 3 | 0.9% | 99.9% |  |
-| 4 | 32% | 99.0% |  |
-| 5 | 40% | 67% | Median |
-| 6 | 19% | 28% |  |
-| 7 | 8% | 9% |  |
-| 8 | 1.4% | 2% |  |
-| 9 | 0.2% | 0.2% |  |
+| 0 | 0.2% | 100% |  |
+| 1 | 0% | 99.8% |  |
+| 2 | 0% | 99.8% |  |
+| 3 | 0.9% | 99.8% |  |
+| 4 | 27% | 98.9% |  |
+| 5 | 40% | 72% | Median |
+| 6 | 23% | 32% |  |
+| 7 | 6% | 9% |  |
+| 8 | 2% | 2% |  |
+| 9 | 0% | 0% |  |
 | 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |
