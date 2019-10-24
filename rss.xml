@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 23 Oct 2019 18:25:12 +0200</pubDate>
+    <pubDate>Thu, 24 Oct 2019 19:26:38 +0200</pubDate>
     <item>
       <title>Opinion Poll by Ixè for Rai 3, 21–22 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-10-22-Ixè.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-10-22-Ixè.png"
         length="261687"
         type="image/png"/>
-      <pubDate>Wed, 23 Oct 2019 18:19:57 +0200</pubDate>
-      <dc:date>2019-10-23T18:19:57.53424+02:00</dc:date>
+      <pubDate>Thu, 24 Oct 2019 18:27:56 +0200</pubDate>
+      <dc:date>2019-10-24T18:27:56.151217+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Tecnè for Rete 4, 20–21 October 2019 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-10-21-Tecnè.png"
         length="246297"
         type="image/png"/>
-      <pubDate>Wed, 23 Oct 2019 18:25:12 +0200</pubDate>
-      <dc:date>2019-10-23T18:25:12.388385+02:00</dc:date>
+      <pubDate>Thu, 24 Oct 2019 18:03:46 +0200</pubDate>
+      <dc:date>2019-10-24T18:03:46.617141+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SWG for La7, 16–21 October 2019 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-10-21-SWG.png"
         length="253657"
         type="image/png"/>
-      <pubDate>Tue, 22 Oct 2019 21:46:08 +0200</pubDate>
-      <dc:date>2019-10-22T21:46:08.626657+02:00</dc:date>
+      <pubDate>Thu, 24 Oct 2019 19:26:38 +0200</pubDate>
+      <dc:date>2019-10-24T19:26:38.252217+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Tecnè for Agenzia Dire, 17–18 October 2019 – Voting Intentions</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-10-18-Tecnè.png"
         length="249507"
         type="image/png"/>
-      <pubDate>Tue, 22 Oct 2019 22:24:17 +0200</pubDate>
-      <dc:date>2019-10-22T22:24:17.512181+02:00</dc:date>
+      <pubDate>Thu, 24 Oct 2019 18:59:12 +0200</pubDate>
+      <dc:date>2019-10-24T18:59:12.948109+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Termometro Politico for La7, 16–17 October 2019 – Voting Intentions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-10-17-TermometroPolitico.png"
         length="248586"
         type="image/png"/>
-      <pubDate>Tue, 22 Oct 2019 22:31:39 +0200</pubDate>
-      <dc:date>2019-10-22T22:31:39.950498+02:00</dc:date>
+      <pubDate>Thu, 24 Oct 2019 18:56:43 +0200</pubDate>
+      <dc:date>2019-10-24T18:56:43.935652+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Index for La7, 17 October 2019 – Voting Intentions</title>
@@ -3429,6 +3429,6 @@
       <pubDate>Sat, 29 Jun 2019 16:56:02 +0200</pubDate>
       <dc:date>2019-06-29T16:56:02.59202+02:00</dc:date>
     </item>
-    <dc:date>2019-10-23T18:25:12.388385+02:00</dc:date>
+    <dc:date>2019-10-24T19:26:38.252217+02:00</dc:date>
   </channel>
 </rss>
