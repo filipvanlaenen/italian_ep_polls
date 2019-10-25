@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 24 Oct 2019 19:26:38 +0200</pubDate>
+    <pubDate>Thu, 24 Oct 2019 22:27:59 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Noto Sondaggi for Rai 1, 22 October 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-10-22-NotoSondaggi.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (NI): 16.2–21.0%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 16.3–21.1%&lt;/li&gt;&lt;li&gt;Lega Nord (ID): 29.7–35.5%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 5.5–8.7%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 6.5–9.9%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0.7–2.1%&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0.6–2.0%&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 0.8–2.3%&lt;/li&gt;&lt;li&gt;Cambiamo! (*): 1.1–2.7%&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 4.7–7.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-10-22-NotoSondaggi.png"
+        length="262347"
+        type="image/png"/>
+      <pubDate>Thu, 24 Oct 2019 22:26:21 +0200</pubDate>
+      <dc:date>2019-10-24T22:26:21.400446+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ixè for Rai 3, 21–22 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-10-22-Ixè.html</link>
@@ -66,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-10-17-Index.png"
         length="253069"
         type="image/png"/>
-      <pubDate>Tue, 22 Oct 2019 22:40:11 +0200</pubDate>
-      <dc:date>2019-10-22T22:40:11.443849+02:00</dc:date>
+      <pubDate>Thu, 24 Oct 2019 22:27:59 +0200</pubDate>
+      <dc:date>2019-10-24T22:27:59.677772+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Euromedia for Rai 1, 16–17 October 2019 – Voting Intentions</title>
@@ -76,8 +86,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-10-17-Euromedia.png"
         length="266475"
         type="image/png"/>
-      <pubDate>Tue, 22 Oct 2019 22:44:44 +0200</pubDate>
-      <dc:date>2019-10-22T22:44:44.693274+02:00</dc:date>
+      <pubDate>Thu, 24 Oct 2019 20:47:56 +0200</pubDate>
+      <dc:date>2019-10-24T20:47:56.720724+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by EMG for Rai 3, 16–17 October 2019 – Voting Intentions</title>
@@ -3429,6 +3439,6 @@
       <pubDate>Sat, 29 Jun 2019 16:56:02 +0200</pubDate>
       <dc:date>2019-06-29T16:56:02.59202+02:00</dc:date>
     </item>
-    <dc:date>2019-10-24T19:26:38.252217+02:00</dc:date>
+    <dc:date>2019-10-24T22:27:59.677772+02:00</dc:date>
   </channel>
 </rss>
