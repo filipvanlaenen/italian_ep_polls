@@ -10,7 +10,12 @@ Last result: **16.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.5% | 5.2–8.2% | 4.9–8.7% | 4.7–9.1% | 4.3–9.9% |
+| N/A | [Poll Average](average.html) | 6.5% | 5.3–8.2% | 5.0–8.7% | 4.8–9.1% | 4.4–9.9% |
+| [24–25 October 2019](2019-10-25-Tecnè.html) | Tecnè <br> Agenzia Dire | 8.2% | 7.2–9.4% | 6.9–9.8% | 6.6–10.1% | 6.2–10.7% |
+| [23–24 October 2019](2019-10-24-TermometroPolitico.html) | Termometro Politico <br> La7 | 5.6% | 5.0–6.3% | 4.9–6.5% | 4.7–6.6% | 4.5–7.0% |
+| [22–24 October 2019](2019-10-24-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 6.2% | 5.5–7.1% | 5.3–7.3% | 5.1–7.5% | 4.8–8.0% |
+| [24 October 2019](2019-10-24-Index.html) | Index <br> La7 | 6.2% | 5.3–7.5% | 5.0–7.8% | 4.8–8.2% | 4.3–8.8% |
+| [23 October 2019](2019-10-23-EMG.html) | EMG <br> Rai 3 | 7.0% | 6.2–7.9% | 6.0–8.1% | 5.8–8.3% | 5.5–8.8% |
 | [22 October 2019](2019-10-22-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 6.9% | 6.0–8.0% | 5.7–8.4% | 5.5–8.7% | 5.1–9.2% |
 | [21–22 October 2019](2019-10-22-Ixè.html) | Ixè <br> Rai 3 | 8.1% | 7.1–9.3% | 6.8–9.7% | 6.6–10.0% | 6.1–10.6% |
 | [20–21 October 2019](2019-10-21-Tecnè.html) | Tecnè <br> Rete 4 | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
@@ -154,13 +159,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 1.3% | 100% |  |
-| 4.5–5.5% | 17% | 98.6% |  |
-| 5.5–6.5% | 33% | 81% |  |
-| 6.5–7.5% | 27% | 48% | Median |
-| 7.5–8.5% | 15% | 22% |  |
+| 3.5–4.5% | 1.0% | 100% |  |
+| 4.5–5.5% | 16% | 99.0% |  |
+| 5.5–6.5% | 35% | 83% | Median |
+| 6.5–7.5% | 27% | 47% |  |
+| 7.5–8.5% | 14% | 21% |  |
 | 8.5–9.5% | 5% | 6% |  |
-| 9.5–10.5% | 0.9% | 1.0% |  |
+| 9.5–10.5% | 1.0% | 1.1% |  |
 | 10.5–11.5% | 0.1% | 0.1% |  |
 | 11.5–12.5% | 0% | 0% |  |
 | 12.5–13.5% | 0% | 0% |  |
@@ -178,7 +183,12 @@ Last result: **13** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–7 | 4–7 | 3–8 |
+| N/A | [Poll Average](average.html) | 5 | 4–7 | 4–7 | 4–7 | 3–8 |
+| [24–25 October 2019](2019-10-25-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 7 | 7 | 7 | 7 |
+| [23–24 October 2019](2019-10-24-TermometroPolitico.html) | Termometro Politico <br> La7 | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [22–24 October 2019](2019-10-24-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [24 October 2019](2019-10-24-Index.html) | Index <br> La7 | 5 | 5 | 4–5 | 4–5 | 4–7 |
+| [23 October 2019](2019-10-23-EMG.html) | EMG <br> Rai 3 | 6 | 6 | 6 | 6 | 5–6 |
 | [22 October 2019](2019-10-22-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 6 | 5–6 | 4–7 | 4–7 | 4–7 |
 | [21–22 October 2019](2019-10-22-Ixè.html) | Ixè <br> Rai 3 | 6 | 6–8 | 6–8 | 5–8 | 5–8 |
 | [20–21 October 2019](2019-10-21-Tecnè.html) | Tecnè <br> Rete 4 | 6 | 6–7 | 6–7 | 5–8 | 5–8 |
@@ -326,11 +336,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0.1% | 100% |  |
 | 1 | 0% | 99.9% |  |
 | 2 | 0% | 99.9% |  |
-| 3 | 1.0% | 99.9% |  |
-| 4 | 22% | 98.9% |  |
-| 5 | 42% | 76% | Median |
-| 6 | 25% | 34% |  |
-| 7 | 7% | 9% |  |
+| 3 | 0.8% | 99.9% |  |
+| 4 | 23% | 99.1% |  |
+| 5 | 43% | 76% | Median |
+| 6 | 21% | 33% |  |
+| 7 | 10% | 12% |  |
 | 8 | 2% | 2% |  |
 | 9 | 0% | 0% |  |
 | 10 | 0% | 0% |  |
