@@ -179,7 +179,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–7 | 5–8 | 5–8 | 4–9 |
-| [24–25 October 2019](2019-10-25-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 6–8 | 6–8 | 5–9 | 5–9 |
+| [24–25 October 2019](2019-10-25-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | [23–24 October 2019](2019-10-24-TermometroPolitico.html) | Termometro Politico <br> La7 | 6 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [22–24 October 2019](2019-10-24-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [24 October 2019](2019-10-24-Index.html) | Index <br> La7 | 7 | 6–7 | 6–8 | 5–8 | 5–9 |
@@ -334,9 +334,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 1.4% | 100% |  |
 | 5 | 13% | 98.5% |  |
-| 6 | 42% | 85% | Median |
-| 7 | 34% | 43% |  |
-| 8 | 8% | 9% |  |
+| 6 | 42% | 86% | Median |
+| 7 | 35% | 43% |  |
+| 8 | 7% | 9% |  |
 | 9 | 1.1% | 1.1% |  |
 | 10 | 0% | 0% |  |
 
