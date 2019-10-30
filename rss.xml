@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 28 Oct 2019 21:05:53 +0100</pubDate>
+    <pubDate>Wed, 30 Oct 2019 20:48:05 +0100</pubDate>
     <item>
       <title>Opinion Poll by Tecnè for Agenzia Dire, 24–25 October 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-10-25-Tecnè.html#seats</link>
@@ -40,14 +40,54 @@
       <dc:date>2019-10-28T21:05:53.156349+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Termometro Politico for La7, 23–24 October 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-10-24-TermometroPolitico.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (NI): 12–15 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 12–15 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ID): 26–29 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 6–7 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0 seats&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Cambiamo! (*): 0 seats&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 4–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-10-24-TermometroPolitico-seats.png"
+        length="174263"
+        type="image/png"/>
+      <pubDate>Wed, 30 Oct 2019 19:38:29 +0100</pubDate>
+      <dc:date>2019-10-30T19:38:29.622997+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Termometro Politico for La7, 23–24 October 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-10-24-TermometroPolitico.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-10-24-TermometroPolitico-coalitions-seats.png"
+        length="121627"
+        type="image/png"/>
+      <pubDate>Wed, 30 Oct 2019 19:38:29 +0100</pubDate>
+      <dc:date>2019-10-30T19:38:29.622997+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Termometro Politico for La7, 23–24 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-10-24-TermometroPolitico.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (NI): 15.6–18.7%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 17.4–20.6%&lt;/li&gt;&lt;li&gt;Lega Nord (ID): 33.3–37.2%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 4.7–6.6%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 7.2–9.4%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 1.4–2.6%&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0.8–1.8%&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 1.1–2.1%&lt;/li&gt;&lt;li&gt;Cambiamo! (*): 0.3–0.9%&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 4.7–6.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-10-24-TermometroPolitico.png"
         length="241101"
         type="image/png"/>
-      <pubDate>Mon, 28 Oct 2019 17:42:39 +0100</pubDate>
-      <dc:date>2019-10-28T17:42:39.292384+01:00</dc:date>
+      <pubDate>Wed, 30 Oct 2019 19:38:29 +0100</pubDate>
+      <dc:date>2019-10-30T19:38:29.622997+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Scenari Politici–Winpoll, 22–24 October 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-10-24-ScenariPolitici–Winpoll.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (NI): 10–13 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 13–16 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ID): 24–28 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 4–6 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 5–7 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0 seats&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 4–6 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-10-24-ScenariPolitici–Winpoll-seats.png"
+        length="182331"
+        type="image/png"/>
+      <pubDate>Wed, 30 Oct 2019 19:57:27 +0100</pubDate>
+      <dc:date>2019-10-30T19:57:27.607662+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Scenari Politici–Winpoll, 22–24 October 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-10-24-ScenariPolitici–Winpoll.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-10-24-ScenariPolitici–Winpoll-coalitions-seats.png"
+        length="137140"
+        type="image/png"/>
+      <pubDate>Wed, 30 Oct 2019 19:57:27 +0100</pubDate>
+      <dc:date>2019-10-30T19:57:27.607662+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Scenari Politici–Winpoll, 22–24 October 2019 – Voting Intentions</title>
@@ -56,8 +96,28 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-10-24-ScenariPolitici–Winpoll.png"
         length="239224"
         type="image/png"/>
-      <pubDate>Mon, 28 Oct 2019 18:38:05 +0100</pubDate>
-      <dc:date>2019-10-28T18:38:05.946958+01:00</dc:date>
+      <pubDate>Wed, 30 Oct 2019 19:57:27 +0100</pubDate>
+      <dc:date>2019-10-30T19:57:27.607662+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Index for La7, 24 October 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-10-24-Index.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (NI): 13–17 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 13–16 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ID): 24–29 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 4–6 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 5–8 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0 seats&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 0–6 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-10-24-Index-seats.png"
+        length="201846"
+        type="image/png"/>
+      <pubDate>Wed, 30 Oct 2019 20:17:35 +0100</pubDate>
+      <dc:date>2019-10-30T20:17:35.598857+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Index for La7, 24 October 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-10-24-Index.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-10-24-Index-coalitions-seats.png"
+        length="159706"
+        type="image/png"/>
+      <pubDate>Wed, 30 Oct 2019 20:17:35 +0100</pubDate>
+      <dc:date>2019-10-30T20:17:35.598857+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Index for La7, 24 October 2019 – Voting Intentions</title>
@@ -66,8 +126,28 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-10-24-Index.png"
         length="253564"
         type="image/png"/>
-      <pubDate>Mon, 28 Oct 2019 17:54:42 +0100</pubDate>
-      <dc:date>2019-10-28T17:54:42.087145+01:00</dc:date>
+      <pubDate>Wed, 30 Oct 2019 20:17:35 +0100</pubDate>
+      <dc:date>2019-10-30T20:17:35.598857+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by EMG for Rai 3, 23 October 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-10-23-EMG.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (NI): 12–15 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 12–16 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ID): 24–29 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 4–7 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 5–8 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0 seats&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 0–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-10-23-EMG-seats.png"
+        length="200004"
+        type="image/png"/>
+      <pubDate>Wed, 30 Oct 2019 20:43:15 +0100</pubDate>
+      <dc:date>2019-10-30T20:43:15.913628+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by EMG for Rai 3, 23 October 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-10-23-EMG.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-10-23-EMG-coalitions-seats.png"
+        length="156239"
+        type="image/png"/>
+      <pubDate>Wed, 30 Oct 2019 20:43:15 +0100</pubDate>
+      <dc:date>2019-10-30T20:43:15.913628+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by EMG for Rai 3, 23 October 2019 – Voting Intentions</title>
@@ -76,8 +156,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-10-23-EMG.png"
         length="236320"
         type="image/png"/>
-      <pubDate>Mon, 28 Oct 2019 19:00:15 +0100</pubDate>
-      <dc:date>2019-10-28T19:00:15.71481+01:00</dc:date>
+      <pubDate>Wed, 30 Oct 2019 20:43:15 +0100</pubDate>
+      <dc:date>2019-10-30T20:43:15.913628+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Noto Sondaggi for Rai 1, 22 October 2019 – Voting Intentions</title>
@@ -86,8 +166,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-10-22-NotoSondaggi.png"
         length="262347"
         type="image/png"/>
-      <pubDate>Thu, 24 Oct 2019 22:26:21 +0200</pubDate>
-      <dc:date>2019-10-24T22:26:21.400446+02:00</dc:date>
+      <pubDate>Wed, 30 Oct 2019 20:48:05 +0100</pubDate>
+      <dc:date>2019-10-30T20:48:05.933343+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ixè for Rai 3, 21–22 October 2019 – Voting Intentions</title>
@@ -180,14 +260,34 @@
       <dc:date>2019-10-21T19:54:13.356922+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Tecnè for Rete 4, 13–14 October 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-10-14-Tecnè.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (NI): 14–18 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 13–18 seats&lt;/li&gt;&lt;li&gt;Lega Nord (ID): 23–28 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 5–8 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 5–8 seats&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0 seats&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 0–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-10-14-Tecnè-seats.png"
+        length="200950"
+        type="image/png"/>
+      <pubDate>Wed, 30 Oct 2019 20:37:18 +0100</pubDate>
+      <dc:date>2019-10-30T20:37:18.81917+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Tecnè for Rete 4, 13–14 October 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-10-14-Tecnè.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-10-14-Tecnè-coalitions-seats.png"
+        length="162119"
+        type="image/png"/>
+      <pubDate>Wed, 30 Oct 2019 20:37:18 +0100</pubDate>
+      <dc:date>2019-10-30T20:37:18.81917+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Tecnè for Rete 4, 13–14 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-10-14-Tecnè.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (NI): 17.4–22.4%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 18.0–23.0%&lt;/li&gt;&lt;li&gt;Lega Nord (ID): 28.7–34.5%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6.3–9.6%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 6.2–9.5%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 1.0–2.6%&lt;/li&gt;&lt;li&gt;Più Europa (RE): 1.1–2.8%&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 1.3–3.1%&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 3.2–5.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-10-14-Tecnè.png"
         length="248029"
         type="image/png"/>
-      <pubDate>Mon, 21 Oct 2019 19:57:33 +0200</pubDate>
-      <dc:date>2019-10-21T19:57:33.474494+02:00</dc:date>
+      <pubDate>Wed, 30 Oct 2019 20:37:18 +0100</pubDate>
+      <dc:date>2019-10-30T20:37:18.81917+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SWG for La7, 9–14 October 2019 – Seat Projections for the Parties</title>
@@ -3509,6 +3609,6 @@
       <pubDate>Sat, 29 Jun 2019 16:56:02 +0200</pubDate>
       <dc:date>2019-06-29T16:56:02.59202+02:00</dc:date>
     </item>
-    <dc:date>2019-10-28T21:05:53.156349+01:00</dc:date>
+    <dc:date>2019-10-30T20:48:05.933343+01:00</dc:date>
   </channel>
 </rss>
