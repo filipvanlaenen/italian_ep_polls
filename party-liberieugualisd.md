@@ -184,7 +184,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [22 October 2019](2019-10-22-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
 | [21–22 October 2019](2019-10-22-Ixè.html) | Ixè <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [20–21 October 2019](2019-10-21-Tecnè.html) | Tecnè <br> Rete 4 | 0 | 0 | 0 | 0 | 0 |
-| [16–21 October 2019](2019-10-21-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
+| [16–21 October 2019](2019-10-21-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0–3 |
 | [17–18 October 2019](2019-10-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
 | [16–17 October 2019](2019-10-17-TermometroPolitico.html) | Termometro Politico <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [17 October 2019](2019-10-17-Index.html) | Index <br> La7 | 0 | 0 | 0 | 0 | 0 |
@@ -194,7 +194,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [13–14 October 2019](2019-10-14-Tecnè.html) | Tecnè <br> Rete 4 | 0 | 0 | 0 | 0 | 0 |
 | [9–14 October 2019](2019-10-14-SWG.html) | SWG <br> La7 | 0 | 0 | 0–3 | 0–3 | 0–4 |
 | [10–11 October 2019](2019-10-11-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
-| [9–11 October 2019](2019-10-11-Demopolis.html) | Demopolis <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
+| [9–11 October 2019](2019-10-11-Demopolis.html) | Demopolis <br> Rai 3 | 0 | 0 | 0 | 0 | 0–3 |
 | [9–10 October 2019](2019-10-10-TermometroPolitico.html) | Termometro Politico <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [10 October 2019](2019-10-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
 | [9 October 2019](2019-10-09-Index.html) | Index <br> La7 | 0 | 0 | 0 | 0 | 0 |
@@ -328,7 +328,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 99.6% | 100% | Last Result, Median |
 | 1 | 0% | 0.4% |  |
 | 2 | 0% | 0.4% |  |
-| 3 | 0.3% | 0.4% |  |
-| 4 | 0% | 0% |  |
+| 3 | 0.4% | 0.4% |  |
+| 4 | 0.1% | 0.1% |  |
+| 5 | 0% | 0% |  |
 
 

@@ -183,20 +183,20 @@ Last result: **13** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–7 | 4–8 | 3–8 |
+| N/A | [Poll Average](average.html) | 5 | 4–7 | 4–7 | 4–8 | 3–8 |
 | [24–25 October 2019](2019-10-25-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
 | [23–24 October 2019](2019-10-24-TermometroPolitico.html) | Termometro Politico <br> La7 | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [22–24 October 2019](2019-10-24-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [24 October 2019](2019-10-24-Index.html) | Index <br> La7 | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
 | [23 October 2019](2019-10-23-EMG.html) | EMG <br> Rai 3 | 6 | 5–6 | 5–6 | 4–7 | 4–7 |
 | [22 October 2019](2019-10-22-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 6 | 4–6 | 4–7 | 4–7 | 4–7 |
-| [21–22 October 2019](2019-10-22-Ixè.html) | Ixè <br> Rai 3 | 6 | 6–8 | 6–8 | 5–8 | 5–8 |
+| [21–22 October 2019](2019-10-22-Ixè.html) | Ixè <br> Rai 3 | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
 | [20–21 October 2019](2019-10-21-Tecnè.html) | Tecnè <br> Rete 4 | 6 | 6–7 | 6–7 | 5–8 | 5–8 |
-| [16–21 October 2019](2019-10-21-SWG.html) | SWG <br> La7 | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| [16–21 October 2019](2019-10-21-SWG.html) | SWG <br> La7 | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [17–18 October 2019](2019-10-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
 | [16–17 October 2019](2019-10-17-TermometroPolitico.html) | Termometro Politico <br> La7 | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [17 October 2019](2019-10-17-Index.html) | Index <br> La7 | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
-| [16–17 October 2019](2019-10-17-Euromedia.html) | Euromedia <br> Rai 1 | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
+| [16–17 October 2019](2019-10-17-Euromedia.html) | Euromedia <br> Rai 1 | 5 | 5–6 | 4–6 | 4–7 | 4–7 |
 | [16–17 October 2019](2019-10-17-EMG.html) | EMG <br> Rai 3 | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [14–15 October 2019](2019-10-15-Ixè.html) | Ixè <br> Rai 3 | 6 | 6–7 | 5–8 | 5–8 | 5–8 |
 | [13–14 October 2019](2019-10-14-Tecnè.html) | Tecnè <br> Rete 4 | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
@@ -216,7 +216,7 @@ Last result: **13** seats (General Election of 26 May 2019)
 | [3–5 October 2019](2019-10-05-Piepoli.html) | Piepoli <br> Rai 1 | 5 | 4–6 | 4–7 | 4–7 | 3–8 |
 | [3–4 October 2019](2019-10-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 6 | 5–7 | 5–8 | 5–8 | 5–9 |
 | [3 October 2019](2019-10-03-Index.html) | Index <br> La7 | 5 | 4–6 | 4–6 | 3–6 | 3–7 |
-| [1–3 October 2019](2019-10-03-DemosPi.html) | Demos & Pi <br> La Repubblica | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| [1–3 October 2019](2019-10-03-DemosPi.html) | Demos & Pi <br> La Repubblica | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [2 October 2019](2019-10-02-EMG.html) | EMG <br> Rai 3 | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [30 September–1 October 2019](2019-10-01-Ixè.html) | Ixè <br> Rai 3 | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
 | [29–30 September 2019](2019-09-30-Tecnè.html) | Tecnè <br> Rete 4 | 6 | 6–7 | 5–8 | 5–8 | 5–8 |
@@ -337,12 +337,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 99.9% |  |
 | 2 | 0% | 99.9% |  |
 | 3 | 0.9% | 99.9% |  |
-| 4 | 22% | 99.0% |  |
-| 5 | 45% | 77% | Median |
-| 6 | 22% | 31% |  |
-| 7 | 7% | 9% |  |
+| 4 | 24% | 99.0% |  |
+| 5 | 41% | 75% | Median |
+| 6 | 23% | 33% |  |
+| 7 | 7% | 10% |  |
 | 8 | 3% | 3% |  |
-| 9 | 0.1% | 0.1% |  |
+| 9 | 0.2% | 0.2% |  |
 | 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |
