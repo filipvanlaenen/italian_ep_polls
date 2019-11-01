@@ -188,24 +188,24 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [21–22 October 2019](2019-10-22-Ixè.html) | Ixè <br> Rai 3 | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
 | [20–21 October 2019](2019-10-21-Tecnè.html) | Tecnè <br> Rete 4 | 6 | 6–8 | 6–8 | 5–8 | 5–8 |
 | [16–21 October 2019](2019-10-21-SWG.html) | SWG <br> La7 | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
-| [17–18 October 2019](2019-10-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 6–7 | 5–8 | 5–8 | 5–8 |
+| [17–18 October 2019](2019-10-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 6 | 6–7 | 5–8 | 5–8 | 5–8 |
 | [16–17 October 2019](2019-10-17-TermometroPolitico.html) | Termometro Politico <br> La7 | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
-| [17 October 2019](2019-10-17-Index.html) | Index <br> La7 | 6 | 5–7 | 5–8 | 5–8 | 4–8 |
+| [17 October 2019](2019-10-17-Index.html) | Index <br> La7 | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
 | [16–17 October 2019](2019-10-17-Euromedia.html) | Euromedia <br> Rai 1 | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
-| [16–17 October 2019](2019-10-17-EMG.html) | EMG <br> Rai 3 | 7 | 5–7 | 5–7 | 5–7 | 5–8 |
-| [14–15 October 2019](2019-10-15-Ixè.html) | Ixè <br> Rai 3 | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
+| [16–17 October 2019](2019-10-17-EMG.html) | EMG <br> Rai 3 | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
+| [14–15 October 2019](2019-10-15-Ixè.html) | Ixè <br> Rai 3 | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
 | [13–14 October 2019](2019-10-14-Tecnè.html) | Tecnè <br> Rete 4 | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
 | [9–14 October 2019](2019-10-14-SWG.html) | SWG <br> La7 | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
-| [10–11 October 2019](2019-10-11-Tecnè.html) | Tecnè <br> Agenzia Dire | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
+| [10–11 October 2019](2019-10-11-Tecnè.html) | Tecnè <br> Agenzia Dire | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
 | [9–11 October 2019](2019-10-11-Demopolis.html) | Demopolis <br> Rai 3 | 6 | 5–6 | 5–7 | 4–7 | 4–7 |
-| [9–10 October 2019](2019-10-10-TermometroPolitico.html) | Termometro Politico <br> La7 | 6 | 6 | 6–7 | 6–7 | 5–8 |
+| [9–10 October 2019](2019-10-10-TermometroPolitico.html) | Termometro Politico <br> La7 | 6 | 6–7 | 6–7 | 5–8 | 5–8 |
 | [10 October 2019](2019-10-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | [9 October 2019](2019-10-09-Index.html) | Index <br> La7 | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | [9 October 2019](2019-10-09-EMG.html) | EMG <br> Rai 3 | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [7–9 October 2019](2019-10-09-BiDiMedia.html) | BiDiMedia | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [7–8 October 2019](2019-10-08-Ixè.html) | Ixè <br> Rai 3 | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | [7–8 October 2019](2019-10-08-Euromedia.html) | Euromedia <br> Rai 1 | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
-| [6–7 October 2019](2019-10-07-Tecnè.html) | Tecnè <br> Rete 4 | 7 | 6–7 | 5–7 | 5–7 | 5–8 |
+| [6–7 October 2019](2019-10-07-Tecnè.html) | Tecnè <br> Rete 4 | 7 | 6–7 | 5–8 | 5–8 | 5–8 |
 | [2–7 October 2019](2019-10-07-SWG.html) | SWG <br> La7 | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
 | [7 October 2019](2019-10-07-Ipsos.html) | Ipsos <br> La7 | 7 | 5–8 | 5–8 | 5–8 | 4–9 |
 | [3–5 October 2019](2019-10-05-Piepoli.html) | Piepoli <br> Rai 1 | 6 | 4–7 | 4–7 | 4–8 | 4–8 |
