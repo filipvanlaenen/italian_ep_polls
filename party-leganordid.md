@@ -10,7 +10,13 @@ Last result: **6.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 32.2% | 29.1–35.0% | 28.4–35.7% | 27.7–36.2% | 26.4–37.1% |
+| N/A | [Poll Average](average.html) | 32.0% | 29.3–35.2% | 28.6–35.8% | 28.0–36.3% | 26.7–37.1% |
+| [29–31 October 2019](2019-10-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 34.3% | N/A | N/A | N/A | N/A |
+| [31 October 2019](2019-10-31-Index.html) | Index <br> La7 | 33.5% | N/A | N/A | N/A | N/A |
+| [30 October 2019](2019-10-30-EMG.html) | EMG <br> Rai 3 | 33.0% | N/A | N/A | N/A | N/A |
+| [28–29 October 2019](2019-10-29-Ixè.html) | Ixè <br> Rai 3 | 30.9% | N/A | N/A | N/A | N/A |
+| [27 October 2019](2019-10-27-Tecnè.html) | Tecnè <br> Rete 4 | 34.4% | N/A | N/A | N/A | N/A |
+| [23–27 October 2019](2019-10-27-SWG.html) | SWG <br> La7 | 33.6% | N/A | N/A | N/A | N/A |
 | [24–25 October 2019](2019-10-25-Tecnè.html) | Tecnè <br> Agenzia Dire | 33.2% | 31.3–35.2% | 30.8–35.7% | 30.3–36.2% | 29.5–37.1% |
 | [23–24 October 2019](2019-10-24-TermometroPolitico.html) | Termometro Politico <br> La7 | 35.2% | 33.9–36.5% | 33.6–36.9% | 33.3–37.2% | 32.7–37.8% |
 | [22–24 October 2019](2019-10-24-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 34.1% | 32.5–35.7% | 32.1–36.1% | 31.7–36.5% | 31.0–37.3% |
@@ -178,18 +184,18 @@ The following table shows the probability mass function per percentage block of 
 | 22.5–23.5% | 0% | 100% |  |
 | 23.5–24.5% | 0% | 100% |  |
 | 24.5–25.5% | 0.1% | 100% |  |
-| 25.5–26.5% | 0.5% | 99.9% |  |
-| 26.5–27.5% | 2% | 99.4% |  |
-| 27.5–28.5% | 4% | 98% |  |
-| 28.5–29.5% | 8% | 94% |  |
-| 29.5–30.5% | 12% | 86% |  |
-| 30.5–31.5% | 15% | 74% |  |
-| 31.5–32.5% | 15% | 60% | Median |
-| 32.5–33.5% | 15% | 44% |  |
-| 33.5–34.5% | 14% | 29% |  |
-| 34.5–35.5% | 10% | 15% |  |
-| 35.5–36.5% | 4% | 6% |  |
-| 36.5–37.5% | 1.1% | 1.3% |  |
+| 25.5–26.5% | 0.3% | 99.9% |  |
+| 26.5–27.5% | 1.1% | 99.6% |  |
+| 27.5–28.5% | 3% | 98.5% |  |
+| 28.5–29.5% | 8% | 95% |  |
+| 29.5–30.5% | 14% | 87% |  |
+| 30.5–31.5% | 17% | 74% |  |
+| 31.5–32.5% | 16% | 57% | Median |
+| 32.5–33.5% | 13% | 41% |  |
+| 33.5–34.5% | 12% | 28% |  |
+| 34.5–35.5% | 10% | 16% |  |
+| 35.5–36.5% | 5% | 7% |  |
+| 36.5–37.5% | 1.4% | 2% |  |
 | 37.5–38.5% | 0.2% | 0.2% |  |
 | 38.5–39.5% | 0% | 0% |  |
 
@@ -202,7 +208,13 @@ Last result: **5** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25 | 23–28 | 22–28 | 21–29 | 20–29 |
+| N/A | [Poll Average](average.html) | 25 | 23–27 | 22–28 | 22–28 | 21–29 |
+| [29–31 October 2019](2019-10-31-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
+| [31 October 2019](2019-10-31-Index.html) | Index <br> La7 |  |  |  |  |  |
+| [30 October 2019](2019-10-30-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
+| [28–29 October 2019](2019-10-29-Ixè.html) | Ixè <br> Rai 3 |  |  |  |  |  |
+| [27 October 2019](2019-10-27-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
+| [23–27 October 2019](2019-10-27-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [24–25 October 2019](2019-10-25-Tecnè.html) | Tecnè <br> Agenzia Dire | 27 | 25–29 | 24–29 | 24–29 | 23–30 |
 | [23–24 October 2019](2019-10-24-TermometroPolitico.html) | Termometro Politico <br> La7 | 27 | 26–29 | 26–29 | 26–29 | 25–30 |
 | [22–24 October 2019](2019-10-24-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 26 | 25–27 | 25–28 | 24–28 | 24–29 |
@@ -367,17 +379,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 0% | 100% |  |
 | 18 | 0% | 100% |  |
 | 19 | 0.1% | 100% |  |
-| 20 | 0.6% | 99.9% |  |
-| 21 | 2% | 99.3% |  |
-| 22 | 5% | 97% |  |
-| 23 | 12% | 92% |  |
-| 24 | 16% | 80% |  |
-| 25 | 20% | 63% | Median |
-| 26 | 18% | 43% |  |
-| 27 | 14% | 26% |  |
-| 28 | 9% | 12% |  |
-| 29 | 2% | 3% |  |
-| 30 | 0.4% | 0.4% |  |
+| 20 | 0.3% | 99.9% |  |
+| 21 | 1.2% | 99.6% |  |
+| 22 | 5% | 98% |  |
+| 23 | 14% | 94% |  |
+| 24 | 22% | 79% |  |
+| 25 | 22% | 57% | Median |
+| 26 | 17% | 35% |  |
+| 27 | 12% | 19% |  |
+| 28 | 5% | 7% |  |
+| 29 | 2% | 2% |  |
+| 30 | 0.2% | 0.2% |  |
 | 31 | 0% | 0% |  |
 
 
