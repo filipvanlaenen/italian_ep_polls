@@ -10,7 +10,10 @@ Last result: **40.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.3% | 17.7–21.3% | 17.2–22.0% | 16.8–22.6% | 15.9–24.0% |
+| N/A | [Poll Average](average.html) | 19.4% | 17.7–21.2% | 17.2–21.7% | 16.8–22.1% | 15.9–23.0% |
+| [4–5 November 2019](2019-11-05-Ixè.html) | Ixè <br> Rai 3 | 20.1% | 18.5–21.8% | 18.1–22.3% | 17.7–22.7% | 17.0–23.5% |
+| [30 October–4 November 2019](2019-11-04-SWG.html) | SWG <br> La7 | 17.5% | N/A | N/A | N/A | N/A |
+| [1–4 November 2019](2019-11-04-Piepoli.html) | Piepoli <br> Rai 2 | 19.6% | N/A | N/A | N/A | N/A |
 | [29–31 October 2019](2019-10-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 17.2% | N/A | N/A | N/A | N/A |
 | [31 October 2019](2019-10-31-Index.html) | Index <br> La7 | 19.2% | N/A | N/A | N/A | N/A |
 | [30 October 2019](2019-10-30-EMG.html) | EMG <br> Rai 3 | 19.3% | N/A | N/A | N/A | N/A |
@@ -166,17 +169,17 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0.2% | 100% |  |
-| 15.5–16.5% | 1.5% | 99.8% |  |
+| 15.5–16.5% | 2% | 99.8% |  |
 | 16.5–17.5% | 7% | 98% |  |
 | 17.5–18.5% | 19% | 92% |  |
 | 18.5–19.5% | 29% | 73% | Median |
-| 19.5–20.5% | 23% | 44% |  |
-| 20.5–21.5% | 13% | 21% |  |
-| 21.5–22.5% | 5% | 8% |  |
-| 22.5–23.5% | 2% | 3% |  |
-| 23.5–24.5% | 0.6% | 0.8% |  |
-| 24.5–25.5% | 0.2% | 0.3% |  |
-| 25.5–26.5% | 0.1% | 0.1% |  |
+| 19.5–20.5% | 24% | 44% |  |
+| 20.5–21.5% | 14% | 20% |  |
+| 21.5–22.5% | 5% | 6% |  |
+| 22.5–23.5% | 1.0% | 1.1% |  |
+| 23.5–24.5% | 0.1% | 0.1% |  |
+| 24.5–25.5% | 0% | 0% |  |
+| 25.5–26.5% | 0% | 0% |  |
 | 26.5–27.5% | 0% | 0% |  |
 | 27.5–28.5% | 0% | 0% |  |
 | 28.5–29.5% | 0% | 0% |  |
@@ -202,7 +205,10 @@ Last result: **31** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 13–16 | 12–16 | 12–17 | 11–18 |
+| N/A | [Poll Average](average.html) | 14 | 12–15 | 12–16 | 12–16 | 11–16 |
+| [4–5 November 2019](2019-11-05-Ixè.html) | Ixè <br> Rai 3 |  |  |  |  |  |
+| [30 October–4 November 2019](2019-11-04-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [1–4 November 2019](2019-11-04-Piepoli.html) | Piepoli <br> Rai 2 |  |  |  |  |  |
 | [29–31 October 2019](2019-10-31-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
 | [31 October 2019](2019-10-31-Index.html) | Index <br> La7 |  |  |  |  |  |
 | [30 October 2019](2019-10-30-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
@@ -359,16 +365,16 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.1% | 100% |  |
-| 11 | 1.0% | 99.9% |  |
-| 12 | 7% | 98.9% |  |
-| 13 | 22% | 92% |  |
-| 14 | 35% | 69% | Median |
-| 15 | 22% | 34% |  |
-| 16 | 9% | 12% |  |
-| 17 | 2% | 3% |  |
-| 18 | 0.6% | 0.8% |  |
-| 19 | 0.2% | 0.3% |  |
-| 20 | 0% | 0.1% |  |
+| 11 | 1.3% | 99.9% |  |
+| 12 | 9% | 98.7% |  |
+| 13 | 25% | 90% |  |
+| 14 | 39% | 64% | Median |
+| 15 | 20% | 25% |  |
+| 16 | 5% | 6% |  |
+| 17 | 0.4% | 0.5% |  |
+| 18 | 0% | 0% |  |
+| 19 | 0% | 0% |  |
+| 20 | 0% | 0% |  |
 | 21 | 0% | 0% |  |
 | 22 | 0% | 0% |  |
 | 23 | 0% | 0% |  |
