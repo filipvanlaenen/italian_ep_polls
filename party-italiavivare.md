@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5.5% | 4.1–6.8% | 3.7–7.2% | 3.4–7.4% | 2.9–8.0% |
+| [6 November 2019](2019-11-06-EMG.html) | EMG <br> Rai 3 | 4.9% | N/A | N/A | N/A | N/A |
 | [4–5 November 2019](2019-11-05-Ixè.html) | Ixè <br> Rai 3 | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.8–5.3% | 2.6–5.8% |
 | [30 October–4 November 2019](2019-11-04-SWG.html) | SWG <br> La7 | 6.0% | N/A | N/A | N/A | N/A |
 | [1–4 November 2019](2019-11-04-Piepoli.html) | Piepoli <br> Rai 2 | 4.0% | N/A | N/A | N/A | N/A |
@@ -189,6 +190,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4–5 | 3–6 | 3–6 | 0–6 |
+| [6 November 2019](2019-11-06-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [4–5 November 2019](2019-11-05-Ixè.html) | Ixè <br> Rai 3 |  |  |  |  |  |
 | [30 October–4 November 2019](2019-11-04-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [1–4 November 2019](2019-11-04-Piepoli.html) | Piepoli <br> Rai 2 |  |  |  |  |  |
