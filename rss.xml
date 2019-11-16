@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 15 Nov 2019 14:11:16 +0100</pubDate>
+    <pubDate>Sat, 16 Nov 2019 11:44:23 +0100</pubDate>
     <item>
       <title>Opinion Poll by SWG for La7, 6–11 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-11-11-SWG.html</link>
@@ -60,6 +60,16 @@
       <dc:date>2019-11-15T13:32:16.671147+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Ixè for Rai 3, 4–5 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-11-05-Ixè.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (NI): 15.6–20.4%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 17.7–22.7%&lt;/li&gt;&lt;li&gt;Lega Nord (ID): 29.2–35.0%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6.3–9.6%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 7.8–11.5%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 1.2–3.0%&lt;/li&gt;&lt;li&gt;Più Europa (RE): 1.4–3.3%&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 0.9–2.5%&lt;/li&gt;&lt;li&gt;Cambiamo! (*): 0.5–1.7%&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 2.9–5.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-11-05-Ixè.png"
+        length="265389"
+        type="image/png"/>
+      <pubDate>Sat, 16 Nov 2019 11:08:11 +0100</pubDate>
+      <dc:date>2019-11-16T11:08:11.144574+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by IZI, 4–5 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-11-05-IZI.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (NI): 15.7–20.4%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 16.0–20.7%&lt;/li&gt;&lt;li&gt;Lega Nord (ID): 25.9–31.5%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 7.8–11.4%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 8.9–12.7%&lt;/li&gt;&lt;li&gt;Più Europa (RE): 1.8–3.9%&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 3.7–6.4%&lt;/li&gt;&lt;/ul&gt;</description>
@@ -68,6 +78,36 @@
         type="image/png"/>
       <pubDate>Fri, 15 Nov 2019 14:11:16 +0100</pubDate>
       <dc:date>2019-11-15T14:11:16.432991+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Piepoli for Rai 2, 1–4 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-11-04-Piepoli.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (NI): 15.4–22.3%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 16.4–23.3%&lt;/li&gt;&lt;li&gt;Lega Nord (ID): 27.1–35.2%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 5.1–9.6%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 6.4–11.4%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 1.1–3.6%&lt;/li&gt;&lt;li&gt;Più Europa (RE): 1.1–3.6%&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 1.1–3.6%&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 2.6–6.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-11-04-Piepoli.png"
+        length="267330"
+        type="image/png"/>
+      <pubDate>Sat, 16 Nov 2019 11:18:35 +0100</pubDate>
+      <dc:date>2019-11-16T11:18:35.066732+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Corriere della Sera, 29–31 October 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-10-31-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (NI): 15.6–20.4%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 15.0–19.7%&lt;/li&gt;&lt;li&gt;Lega Nord (ID): 31.4–37.3%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 4.9–7.9%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 8.1–11.8%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 1.1–2.7%&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 1.4–3.3%&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 4.9–7.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-10-31-Ipsos.png"
+        length="251752"
+        type="image/png"/>
+      <pubDate>Sat, 16 Nov 2019 11:31:54 +0100</pubDate>
+      <dc:date>2019-11-16T11:31:54.628953+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demopolis for Rai 3, 30–31 October 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-10-31-Demopolis.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Movimento 5 Stelle (NI): 16.1–20.0%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 17.1–21.1%&lt;/li&gt;&lt;li&gt;Lega Nord (ID): 30.7–35.4%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 4.9–7.3%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 7.7–10.6%&lt;/li&gt;&lt;li&gt;Liberi e Uguali (S&amp;amp;D): 1.8–3.5%&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 4.7–7.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-10-31-Demopolis.png"
+        length="204977"
+        type="image/png"/>
+      <pubDate>Sat, 16 Nov 2019 11:44:23 +0100</pubDate>
+      <dc:date>2019-11-16T11:44:23.260939+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Tecnè for Agenzia Dire, 24–25 October 2019 – Seat Projections for the Parties</title>
@@ -3929,6 +3969,6 @@
       <pubDate>Sat, 29 Jun 2019 16:56:02 +0200</pubDate>
       <dc:date>2019-06-29T16:56:02.59202+02:00</dc:date>
     </item>
-    <dc:date>2019-11-15T14:11:16.432991+01:00</dc:date>
+    <dc:date>2019-11-16T11:44:23.260939+01:00</dc:date>
   </channel>
 </rss>
