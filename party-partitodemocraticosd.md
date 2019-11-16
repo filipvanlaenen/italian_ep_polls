@@ -10,7 +10,7 @@ Last result: **40.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.0% | 17.4–20.9% | 16.9–21.5% | 16.5–21.9% | 15.8–22.8% |
+| N/A | [Poll Average](average.html) | 18.9% | 17.2–20.9% | 16.6–21.5% | 16.2–22.0% | 15.3–23.1% |
 | [6–11 November 2019](2019-11-11-SWG.html) | SWG <br> La7 | 18.6% | 17.4–20.0% | 17.0–20.3% | 16.7–20.7% | 16.1–21.3% |
 | [7–8 November 2019](2019-11-08-Tecnè.html) | Tecnè <br> Agenzia Dire | 18.8% | 17.3–20.5% | 16.9–20.9% | 16.5–21.4% | 15.8–22.2% |
 | [6–7 November 2019](2019-11-07-TermometroPolitico.html) | Termometro Politico <br> La7 | 18.5% | 17.5–19.6% | 17.2–19.9% | 17.0–20.2% | 16.5–20.7% |
@@ -19,10 +19,10 @@ Last result: **40.8%** (General Election of 26 May 2019)
 | [4–5 November 2019](2019-11-05-Ixè.html) | Ixè <br> Rai 3 | 20.1% | 18.5–21.8% | 18.1–22.3% | 17.7–22.7% | 17.0–23.5% |
 | [4–5 November 2019](2019-11-05-IZI.html) | IZI | 18.2% | 16.7–19.9% | 16.3–20.3% | 16.0–20.7% | 15.3–21.6% |
 | [30 October–4 November 2019](2019-11-04-SWG.html) | SWG <br> La7 | 17.5% | N/A | N/A | N/A | N/A |
-| [1–4 November 2019](2019-11-04-Piepoli.html) | Piepoli <br> Rai 2 | 19.6% | N/A | N/A | N/A | N/A |
-| [29–31 October 2019](2019-10-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 17.2% | N/A | N/A | N/A | N/A |
+| [1–4 November 2019](2019-11-04-Piepoli.html) | Piepoli <br> Rai 2 | 19.6% | 17.5–22.0% | 16.9–22.7% | 16.4–23.3% | 15.4–24.5% |
+| [29–31 October 2019](2019-10-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 17.2% | 15.7–18.8% | 15.3–19.3% | 15.0–19.7% | 14.3–20.5% |
 | [31 October 2019](2019-10-31-Index.html) | Index <br> La7 | 19.2% | N/A | N/A | N/A | N/A |
-| [30–31 October 2019](2019-10-31-Demopolis.html) | Demopolis <br> Rai 3 | 19.0% | N/A | N/A | N/A | N/A |
+| [30–31 October 2019](2019-10-31-Demopolis.html) | Demopolis <br> Rai 3 | 19.0% | 17.7–20.4% | 17.4–20.7% | 17.1–21.1% | 16.5–21.7% |
 | [30 October 2019](2019-10-30-EMG.html) | EMG <br> Rai 3 | 19.3% | N/A | N/A | N/A | N/A |
 | [28–29 October 2019](2019-10-29-Ixè.html) | Ixè <br> Rai 3 | 19.5% | N/A | N/A | N/A | N/A |
 | [27 October 2019](2019-10-27-Tecnè.html) | Tecnè <br> Rete 4 | 19.2% | N/A | N/A | N/A | N/A |
@@ -174,17 +174,18 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0.3% | 100% |  |
-| 15.5–16.5% | 2% | 99.7% |  |
-| 16.5–17.5% | 10% | 97% |  |
-| 17.5–18.5% | 24% | 87% |  |
-| 18.5–19.5% | 29% | 63% | Median |
-| 19.5–20.5% | 20% | 35% |  |
-| 20.5–21.5% | 10% | 15% |  |
+| 12.5–13.5% | 0% | 100% |  |
+| 13.5–14.5% | 0.1% | 100% |  |
+| 14.5–15.5% | 0.7% | 99.9% |  |
+| 15.5–16.5% | 4% | 99.2% |  |
+| 16.5–17.5% | 11% | 96% |  |
+| 17.5–18.5% | 24% | 84% |  |
+| 18.5–19.5% | 27% | 61% | Median |
+| 19.5–20.5% | 19% | 33% |  |
+| 20.5–21.5% | 10% | 14% |  |
 | 21.5–22.5% | 4% | 5% |  |
-| 22.5–23.5% | 0.8% | 0.9% |  |
-| 23.5–24.5% | 0.1% | 0.1% |  |
+| 22.5–23.5% | 0.9% | 1.1% |  |
+| 23.5–24.5% | 0.2% | 0.2% |  |
 | 24.5–25.5% | 0% | 0% |  |
 | 25.5–26.5% | 0% | 0% |  |
 | 26.5–27.5% | 0% | 0% |  |
@@ -218,13 +219,13 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [6–7 November 2019](2019-11-07-TermometroPolitico.html) | Termometro Politico <br> La7 | 14 | 13–14 | 13–14 | 13–15 | 12–15 |
 | [7 November 2019](2019-11-07-Index.html) | Index <br> La7 | 14 | 12–16 | 12–16 | 12–17 | 11–17 |
 | [6 November 2019](2019-11-06-EMG.html) | EMG <br> Rai 3 | 14 | 12–16 | 12–16 | 11–16 | 11–16 |
-| [4–5 November 2019](2019-11-05-Ixè.html) | Ixè <br> Rai 3 |  |  |  |  |  |
+| [4–5 November 2019](2019-11-05-Ixè.html) | Ixè <br> Rai 3 | 15 | 15–16 | 14–17 | 14–17 | 13–19 |
 | [4–5 November 2019](2019-11-05-IZI.html) | IZI | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
 | [30 October–4 November 2019](2019-11-04-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [1–4 November 2019](2019-11-04-Piepoli.html) | Piepoli <br> Rai 2 |  |  |  |  |  |
-| [29–31 October 2019](2019-10-31-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
+| [1–4 November 2019](2019-11-04-Piepoli.html) | Piepoli <br> Rai 2 | 15 | 13–17 | 12–17 | 12–17 | 11–18 |
+| [29–31 October 2019](2019-10-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 13 | 12–13 | 11–14 | 11–14 | 10–15 |
 | [31 October 2019](2019-10-31-Index.html) | Index <br> La7 |  |  |  |  |  |
-| [30–31 October 2019](2019-10-31-Demopolis.html) | Demopolis <br> Rai 3 |  |  |  |  |  |
+| [30–31 October 2019](2019-10-31-Demopolis.html) | Demopolis <br> Rai 3 | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
 | [30 October 2019](2019-10-30-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [28–29 October 2019](2019-10-29-Ixè.html) | Ixè <br> Rai 3 |  |  |  |  |  |
 | [27 October 2019](2019-10-27-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
@@ -381,13 +382,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0.1% | 100% |  |
 | 11 | 2% | 99.9% |  |
 | 12 | 14% | 98% |  |
-| 13 | 23% | 84% |  |
-| 14 | 41% | 61% | Median |
-| 15 | 14% | 21% |  |
-| 16 | 6% | 6% |  |
-| 17 | 0.6% | 0.6% |  |
-| 18 | 0% | 0% |  |
-| 19 | 0% | 0% |  |
+| 13 | 24% | 84% |  |
+| 14 | 33% | 59% | Median |
+| 15 | 18% | 26% |  |
+| 16 | 6% | 8% |  |
+| 17 | 2% | 2% |  |
+| 18 | 0.2% | 0.3% |  |
+| 19 | 0.1% | 0.1% |  |
 | 20 | 0% | 0% |  |
 | 21 | 0% | 0% |  |
 | 22 | 0% | 0% |  |
