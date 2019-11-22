@@ -10,7 +10,11 @@ Last result: **21.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.1% | 14.6–19.4% | 14.1–19.9% | 13.7–20.4% | 13.0–21.3% |
+| N/A | [Poll Average](average.html) | 17.6% | 14.5–19.6% | 14.0–20.1% | 13.6–20.5% | 12.9–21.4% |
+| [1–20 November 2019](2019-11-20-EMG.html) | EMG <br> Rai 3 | 16.1% | N/A | N/A | N/A | N/A |
+| [18–19 November 2019](2019-11-19-Ixè.html) | Ixè <br> Rai 3 | 16.3% | N/A | N/A | N/A | N/A |
+| [13–18 November 2019](2019-11-18-SWG.html) | SWG <br> La7 | 16.2% | N/A | N/A | N/A | N/A |
+| [14–15 November 2019](2019-11-15-Tecnè.html) | Tecnè <br> Agenzia Dire | 16.3% | N/A | N/A | N/A | N/A |
 | [1–14 November 2019](2019-11-14-Index.html) | Index <br> La7 | 16.8% | N/A | N/A | N/A | N/A |
 | [12–13 November 2019](2019-11-13-TermometroPolitico.html) | Termometro Politico <br> La7 | 16.1% | N/A | N/A | N/A | N/A |
 | [8–13 November 2019](2019-11-13-EMG.html) | EMG <br> Rai 3 | 16.2% | N/A | N/A | N/A | N/A |
@@ -186,12 +190,12 @@ The following table shows the probability mass function per percentage block of 
 | 11.5–12.5% | 0.1% | 100% |  |
 | 12.5–13.5% | 2% | 99.9% |  |
 | 13.5–14.5% | 8% | 98% |  |
-| 14.5–15.5% | 15% | 90% |  |
-| 15.5–16.5% | 16% | 75% |  |
-| 16.5–17.5% | 17% | 59% | Median |
-| 17.5–18.5% | 20% | 42% |  |
-| 18.5–19.5% | 14% | 23% |  |
-| 19.5–20.5% | 6% | 8% |  |
+| 14.5–15.5% | 11% | 90% |  |
+| 15.5–16.5% | 10% | 79% |  |
+| 16.5–17.5% | 17% | 69% |  |
+| 17.5–18.5% | 24% | 52% | Median |
+| 18.5–19.5% | 18% | 28% |  |
+| 19.5–20.5% | 8% | 10% |  |
 | 20.5–21.5% | 2% | 2% | Last Result |
 | 21.5–22.5% | 0.3% | 0.3% |  |
 | 22.5–23.5% | 0% | 0% |  |
@@ -205,7 +209,11 @@ Last result: **17** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 11–15 | 11–16 | 10–16 | 10–17 |
+| N/A | [Poll Average](average.html) | 14 | 11–15 | 11–16 | 10–16 | 10–17 |
+| [1–20 November 2019](2019-11-20-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
+| [18–19 November 2019](2019-11-19-Ixè.html) | Ixè <br> Rai 3 |  |  |  |  |  |
+| [13–18 November 2019](2019-11-18-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [14–15 November 2019](2019-11-15-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [1–14 November 2019](2019-11-14-Index.html) | Index <br> La7 |  |  |  |  |  |
 | [12–13 November 2019](2019-11-13-TermometroPolitico.html) | Termometro Politico <br> La7 |  |  |  |  |  |
 | [8–13 November 2019](2019-11-13-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
@@ -380,15 +388,15 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 9 | 0.2% | 100% |  |
-| 10 | 3% | 99.8% |  |
-| 11 | 12% | 97% |  |
-| 12 | 17% | 85% |  |
-| 13 | 25% | 68% | Median |
-| 14 | 27% | 44% |  |
-| 15 | 10% | 16% |  |
-| 16 | 5% | 6% |  |
-| 17 | 0.6% | 0.7% | Last Result |
-| 18 | 0% | 0.1% |  |
+| 10 | 4% | 99.8% |  |
+| 11 | 13% | 96% |  |
+| 12 | 11% | 83% |  |
+| 13 | 19% | 71% |  |
+| 14 | 32% | 52% | Median |
+| 15 | 13% | 20% |  |
+| 16 | 6% | 7% |  |
+| 17 | 0.8% | 0.8% | Last Result |
+| 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
 
 
