@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 23 Nov 2019 23:58:02 +0100</pubDate>
+    <pubDate>Tue, 26 Nov 2019 20:49:30 +0100</pubDate>
     <item>
       <title>Opinion Poll by EMG for Rai 3, 1–20 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-11-20-EMG.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-11-20-EMG.png"
         length="235933"
         type="image/png"/>
-      <pubDate>Sat, 23 Nov 2019 20:31:11 +0100</pubDate>
-      <dc:date>2019-11-23T20:31:11.230472+01:00</dc:date>
+      <pubDate>Tue, 26 Nov 2019 20:49:30 +0100</pubDate>
+      <dc:date>2019-11-26T20:49:30.017647+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ixè for Rai 3, 18–19 November 2019 – Voting Intentions</title>
@@ -4059,6 +4059,6 @@
       <pubDate>Sat, 29 Jun 2019 16:56:02 +0200</pubDate>
       <dc:date>2019-06-29T16:56:02.59202+02:00</dc:date>
     </item>
-    <dc:date>2019-11-23T23:58:02.84048+01:00</dc:date>
+    <dc:date>2019-11-26T20:49:30.017647+01:00</dc:date>
   </channel>
 </rss>
