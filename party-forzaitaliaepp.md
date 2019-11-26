@@ -212,7 +212,7 @@ Last result: **13** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–7 | 4–7 | 4–8 | 3–8 |
-| [1–20 November 2019](2019-11-20-EMG.html) | EMG <br> Rai 3 | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
+| [1–20 November 2019](2019-11-20-EMG.html) | EMG <br> Rai 3 | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
 | [18–19 November 2019](2019-11-19-Ixè.html) | Ixè <br> Rai 3 | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [13–18 November 2019](2019-11-18-SWG.html) | SWG <br> La7 | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [14–15 November 2019](2019-11-15-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 6–7 | 5–8 | 5–8 | 5–9 |
@@ -395,9 +395,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0.6% | 99.9% |  |
 | 4 | 21% | 99.3% |  |
 | 5 | 35% | 79% | Median |
-| 6 | 25% | 44% |  |
-| 7 | 15% | 18% |  |
-| 8 | 3% | 4% |  |
+| 6 | 26% | 43% |  |
+| 7 | 14% | 18% |  |
+| 8 | 3% | 3% |  |
 | 9 | 0.2% | 0.3% |  |
 | 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |
