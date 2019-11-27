@@ -17,10 +17,10 @@ Last result: **3.7%** (General Election of 26 May 2019)
 | [14–15 November 2019](2019-11-15-Tecnè.html) | Tecnè <br> Agenzia Dire | 9.3% | 8.2–10.6% | 7.9–10.9% | 7.7–11.3% | 7.2–11.9% |
 | [1–14 November 2019](2019-11-14-Index.html) | Index <br> La7 | 9.0% | 7.8–10.4% | 7.5–10.8% | 7.2–11.2% | 6.7–11.9% |
 | [12–13 November 2019](2019-11-13-TermometroPolitico.html) | Termometro Politico <br> La7 | 9.9% | 9.1–10.8% | 8.9–11.0% | 8.7–11.2% | 8.4–11.7% |
-| [8–13 November 2019](2019-11-13-EMG.html) | EMG <br> Rai 3 | 9.8% | N/A | N/A | N/A | N/A |
-| [11–12 November 2019](2019-11-12-Ixè.html) | Ixè <br> Rai 3 | 9.6% | N/A | N/A | N/A | N/A |
+| [8–13 November 2019](2019-11-13-EMG.html) | EMG <br> Rai 3 | 9.8% | 8.9–10.9% | 8.6–11.2% | 8.4–11.5% | 7.9–12.0% |
+| [11–12 November 2019](2019-11-12-Ixè.html) | Ixè <br> Rai 3 | 9.6% | 8.5–10.9% | 8.2–11.3% | 7.9–11.6% | 7.4–12.2% |
 | [10–12 November 2019](2019-11-12-Demopolis.html) | Demopolis <br> Rai 3 | 9.4% | 8.5–10.4% | 8.2–10.7% | 8.0–11.0% | 7.6–11.5% |
-| [10–11 November 2019](2019-11-11-Tecnè.html) | Tecnè <br> Rete 4 | 9.2% | N/A | N/A | N/A | N/A |
+| [10–11 November 2019](2019-11-11-Tecnè.html) | Tecnè <br> Rete 4 | 9.2% | 8.1–10.5% | 7.8–10.8% | 7.6–11.2% | 7.1–11.8% |
 | [6–11 November 2019](2019-11-11-SWG.html) | SWG <br> La7 | 9.5% | 8.6–10.6% | 8.4–10.9% | 8.1–11.1% | 7.7–11.6% |
 | [1–11 November 2019](2019-11-11-Euromedia.html) | Euromedia <br> Rai 1 | 9.2% | 8.0–10.7% | 7.7–11.1% | 7.4–11.5% | 6.9–12.2% |
 | [8–9 November 2019](2019-11-09-Piepoli.html) | Piepoli <br> Rai 2 | 8.9% | 7.5–10.7% | 7.1–11.3% | 6.7–11.7% | 6.1–12.7% |
@@ -30,15 +30,15 @@ Last result: **3.7%** (General Election of 26 May 2019)
 | [6 November 2019](2019-11-06-EMG.html) | EMG <br> Rai 3 | 10.0% | 9.1–11.1% | 8.8–11.4% | 8.6–11.7% | 8.1–12.3% |
 | [4–5 November 2019](2019-11-05-Ixè.html) | Ixè <br> Rai 3 | 9.5% | 8.4–10.8% | 8.1–11.2% | 7.8–11.5% | 7.3–12.1% |
 | [4–5 November 2019](2019-11-05-IZI.html) | IZI | 10.7% | 9.5–12.0% | 9.2–12.4% | 8.9–12.7% | 8.4–13.4% |
-| [30 October–4 November 2019](2019-11-04-SWG.html) | SWG <br> La7 | 8.9% | N/A | N/A | N/A | N/A |
+| [30 October–4 November 2019](2019-11-04-SWG.html) | SWG <br> La7 | 8.9% | 8.0–10.0% | 7.8–10.2% | 7.6–10.5% | 7.2–11.0% |
 | [1–4 November 2019](2019-11-04-Piepoli.html) | Piepoli <br> Rai 2 | 8.6% | 7.2–10.4% | 6.8–10.9% | 6.4–11.4% | 5.8–12.3% |
 | [29–31 October 2019](2019-10-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 9.8% | 8.7–11.1% | 8.4–11.5% | 8.1–11.8% | 7.6–12.5% |
-| [31 October 2019](2019-10-31-Index.html) | Index <br> La7 | 8.6% | N/A | N/A | N/A | N/A |
+| [31 October 2019](2019-10-31-Index.html) | Index <br> La7 | 8.6% | 7.5–10.0% | 7.1–10.4% | 6.9–10.8% | 6.4–11.5% |
 | [30–31 October 2019](2019-10-31-Demopolis.html) | Demopolis <br> Rai 3 | 9.0% | 8.1–10.0% | 7.9–10.3% | 7.7–10.6% | 7.2–11.1% |
-| [30 October 2019](2019-10-30-EMG.html) | EMG <br> Rai 3 | 9.4% | N/A | N/A | N/A | N/A |
-| [28–29 October 2019](2019-10-29-Ixè.html) | Ixè <br> Rai 3 | 9.5% | N/A | N/A | N/A | N/A |
-| [27 October 2019](2019-10-27-Tecnè.html) | Tecnè <br> Rete 4 | 8.6% | N/A | N/A | N/A | N/A |
-| [23–27 October 2019](2019-10-27-SWG.html) | SWG <br> La7 | 9.0% | N/A | N/A | N/A | N/A |
+| [30 October 2019](2019-10-30-EMG.html) | EMG <br> Rai 3 | 9.4% | 8.5–10.4% | 8.2–10.7% | 8.0–11.0% | 7.6–11.5% |
+| [28–29 October 2019](2019-10-29-Ixè.html) | Ixè <br> Rai 3 | 9.5% | 8.4–10.8% | 8.1–11.2% | 7.8–11.5% | 7.3–12.1% |
+| [27 October 2019](2019-10-27-Tecnè.html) | Tecnè <br> Rete 4 | 8.6% | 7.6–9.8% | 7.3–10.2% | 7.0–10.5% | 6.5–11.1% |
+| [23–27 October 2019](2019-10-27-SWG.html) | SWG <br> La7 | 9.0% | 8.1–10.0% | 7.9–10.3% | 7.7–10.6% | 7.2–11.1% |
 | [24–25 October 2019](2019-10-25-Tecnè.html) | Tecnè <br> Agenzia Dire | 8.4% | 7.4–9.6% | 7.1–10.0% | 6.8–10.3% | 6.4–10.9% |
 | [23–24 October 2019](2019-10-24-TermometroPolitico.html) | Termometro Politico <br> La7 | 8.2% | 7.5–9.0% | 7.3–9.2% | 7.2–9.4% | 6.8–9.8% |
 | [22–24 October 2019](2019-10-24-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 7.7% | 6.9–8.7% | 6.7–9.0% | 6.5–9.2% | 6.1–9.7% |
@@ -207,19 +207,19 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–9 | 6–9 | 5–9 | 5–10 |
+| N/A | [Poll Average](average.html) | 7 | 6–8 | 6–9 | 5–9 | 5–10 |
 | [1–20 November 2019](2019-11-20-EMG.html) | EMG <br> Rai 3 | 7 | 7–8 | 7–8 | 7–9 | 6–9 |
-| [18–19 November 2019](2019-11-19-Ixè.html) | Ixè <br> Rai 3 | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
-| [13–18 November 2019](2019-11-18-SWG.html) | SWG <br> La7 | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
-| [14–15 November 2019](2019-11-15-Tecnè.html) | Tecnè <br> Agenzia Dire | 8 | 6–9 | 6–9 | 6–10 | 6–10 |
+| [18–19 November 2019](2019-11-19-Ixè.html) | Ixè <br> Rai 3 | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
+| [13–18 November 2019](2019-11-18-SWG.html) | SWG <br> La7 | 8 | 7–8 | 7–9 | 7–9 | 6–10 |
+| [14–15 November 2019](2019-11-15-Tecnè.html) | Tecnè <br> Agenzia Dire | 8 | 6–8 | 6–9 | 6–9 | 6–10 |
 | [1–14 November 2019](2019-11-14-Index.html) | Index <br> La7 | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
-| [12–13 November 2019](2019-11-13-TermometroPolitico.html) | Termometro Politico <br> La7 | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
-| [8–13 November 2019](2019-11-13-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
-| [11–12 November 2019](2019-11-12-Ixè.html) | Ixè <br> Rai 3 |  |  |  |  |  |
+| [12–13 November 2019](2019-11-13-TermometroPolitico.html) | Termometro Politico <br> La7 | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
+| [8–13 November 2019](2019-11-13-EMG.html) | EMG <br> Rai 3 | 8 | 8–9 | 8–9 | 8–9 | 7–10 |
+| [11–12 November 2019](2019-11-12-Ixè.html) | Ixè <br> Rai 3 | 8 | 8 | 8 | 8 | 8–9 |
 | [10–12 November 2019](2019-11-12-Demopolis.html) | Demopolis <br> Rai 3 | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
-| [10–11 November 2019](2019-11-11-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
+| [10–11 November 2019](2019-11-11-Tecnè.html) | Tecnè <br> Rete 4 | 7 | 7–8 | 7–8 | 7–8 | 5–8 |
 | [6–11 November 2019](2019-11-11-SWG.html) | SWG <br> La7 | 8 | 8–9 | 7–9 | 6–9 | 6–9 |
-| [1–11 November 2019](2019-11-11-Euromedia.html) | Euromedia <br> Rai 1 | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
+| [1–11 November 2019](2019-11-11-Euromedia.html) | Euromedia <br> Rai 1 | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [8–9 November 2019](2019-11-09-Piepoli.html) | Piepoli <br> Rai 2 | 7 | 6–9 | 5–9 | 5–9 | 5–10 |
 | [7–8 November 2019](2019-11-08-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 6–8 | 6–9 | 6–9 | 6–9 |
 | [6–7 November 2019](2019-11-07-TermometroPolitico.html) | Termometro Politico <br> La7 | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
@@ -227,15 +227,15 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [6 November 2019](2019-11-06-EMG.html) | EMG <br> Rai 3 | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | [4–5 November 2019](2019-11-05-Ixè.html) | Ixè <br> Rai 3 | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | [4–5 November 2019](2019-11-05-IZI.html) | IZI | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
-| [30 October–4 November 2019](2019-11-04-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [30 October–4 November 2019](2019-11-04-SWG.html) | SWG <br> La7 | 7 | 7–9 | 6–9 | 6–9 | 6–9 |
 | [1–4 November 2019](2019-11-04-Piepoli.html) | Piepoli <br> Rai 2 | 6 | 6–8 | 5–9 | 5–9 | 4–10 |
-| [29–31 October 2019](2019-10-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
-| [31 October 2019](2019-10-31-Index.html) | Index <br> La7 |  |  |  |  |  |
+| [29–31 October 2019](2019-10-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
+| [31 October 2019](2019-10-31-Index.html) | Index <br> La7 | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [30–31 October 2019](2019-10-31-Demopolis.html) | Demopolis <br> Rai 3 | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
-| [30 October 2019](2019-10-30-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
-| [28–29 October 2019](2019-10-29-Ixè.html) | Ixè <br> Rai 3 |  |  |  |  |  |
-| [27 October 2019](2019-10-27-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
-| [23–27 October 2019](2019-10-27-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [30 October 2019](2019-10-30-EMG.html) | EMG <br> Rai 3 | 8 | 8 | 7–8 | 7–8 | 7–8 |
+| [28–29 October 2019](2019-10-29-Ixè.html) | Ixè <br> Rai 3 | 8 | 8–9 | 8–10 | 8–10 | 8–10 |
+| [27 October 2019](2019-10-27-Tecnè.html) | Tecnè <br> Rete 4 | 7 | 6–8 | 6–8 | 6–10 | 6–10 |
+| [23–27 October 2019](2019-10-27-SWG.html) | SWG <br> La7 | 7 | 7–8 | 7–9 | 7–9 | 5–9 |
 | [24–25 October 2019](2019-10-25-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | [23–24 October 2019](2019-10-24-TermometroPolitico.html) | Termometro Politico <br> La7 | 7 | 6–7 | 6–7 | 6–7 | 5–8 |
 | [22–24 October 2019](2019-10-24-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
@@ -391,11 +391,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 3% | 100% |  |
-| 6 | 17% | 97% |  |
-| 7 | 35% | 80% | Median |
-| 8 | 34% | 45% |  |
-| 9 | 10% | 11% |  |
-| 10 | 0.6% | 0.6% |  |
+| 6 | 16% | 97% |  |
+| 7 | 37% | 80% | Median |
+| 8 | 34% | 44% |  |
+| 9 | 8% | 9% |  |
+| 10 | 0.7% | 0.7% |  |
 | 11 | 0% | 0% |  |
 
 
