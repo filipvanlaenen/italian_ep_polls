@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 27 Nov 2019 19:22:11 +0100</pubDate>
+    <pubDate>Fri, 29 Nov 2019 20:54:11 +0100</pubDate>
     <item>
       <title>Opinion Poll by EMG for Rai 3, 1–20 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2019-11-20-EMG.html</link>
@@ -86,8 +86,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-11-12-Ixè.png"
         length="264353"
         type="image/png"/>
-      <pubDate>Wed, 27 Nov 2019 11:28:30 +0100</pubDate>
-      <dc:date>2019-11-27T11:28:30.827546+01:00</dc:date>
+      <pubDate>Fri, 29 Nov 2019 20:04:11 +0100</pubDate>
+      <dc:date>2019-11-29T20:04:11.962336+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Demopolis for Rai 3, 10–12 November 2019 – Voting Intentions</title>
@@ -106,8 +106,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-11-11-Tecnè.png"
         length="248687"
         type="image/png"/>
-      <pubDate>Wed, 27 Nov 2019 11:33:01 +0100</pubDate>
-      <dc:date>2019-11-27T11:33:01.199304+01:00</dc:date>
+      <pubDate>Fri, 29 Nov 2019 20:54:11 +0100</pubDate>
+      <dc:date>2019-11-29T20:54:11.11+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SWG for La7, 6–11 November 2019 – Voting Intentions</title>
@@ -236,8 +236,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-10-31-Index.png"
         length="252730"
         type="image/png"/>
-      <pubDate>Wed, 27 Nov 2019 14:33:09 +0100</pubDate>
-      <dc:date>2019-11-27T14:33:09.596092+01:00</dc:date>
+      <pubDate>Fri, 29 Nov 2019 18:01:38 +0100</pubDate>
+      <dc:date>2019-11-29T18:01:38.734285+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Demopolis for Rai 3, 30–31 October 2019 – Voting Intentions</title>
@@ -276,8 +276,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2019-10-27-Tecnè.png"
         length="246267"
         type="image/png"/>
-      <pubDate>Wed, 27 Nov 2019 19:12:41 +0100</pubDate>
-      <dc:date>2019-11-27T19:12:41.074239+01:00</dc:date>
+      <pubDate>Fri, 29 Nov 2019 19:59:46 +0100</pubDate>
+      <dc:date>2019-11-29T19:59:46.039285+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SWG for La7, 23–27 October 2019 – Voting Intentions</title>
@@ -4149,6 +4149,6 @@
       <pubDate>Sat, 29 Jun 2019 16:56:02 +0200</pubDate>
       <dc:date>2019-06-29T16:56:02.59202+02:00</dc:date>
     </item>
-    <dc:date>2019-11-27T19:22:11.985394+01:00</dc:date>
+    <dc:date>2019-11-29T20:54:11.11+01:00</dc:date>
   </channel>
 </rss>
