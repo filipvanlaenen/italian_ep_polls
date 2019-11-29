@@ -219,9 +219,9 @@ Last result: **13** seats (General Election of 26 May 2019)
 | [1–14 November 2019](2019-11-14-Index.html) | Index <br> La7 | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
 | [12–13 November 2019](2019-11-13-TermometroPolitico.html) | Termometro Politico <br> La7 | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [8–13 November 2019](2019-11-13-EMG.html) | EMG <br> Rai 3 | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
-| [11–12 November 2019](2019-11-12-Ixè.html) | Ixè <br> Rai 3 | 6 | 4–6 | 4–6 | 4–6 | 4–6 |
+| [11–12 November 2019](2019-11-12-Ixè.html) | Ixè <br> Rai 3 | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | [10–12 November 2019](2019-11-12-Demopolis.html) | Demopolis <br> Rai 3 | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
-| [10–11 November 2019](2019-11-11-Tecnè.html) | Tecnè <br> Rete 4 | 6 | 6–9 | 6–9 | 6–9 | 5–9 |
+| [10–11 November 2019](2019-11-11-Tecnè.html) | Tecnè <br> Rete 4 | 6 | 6–8 | 5–8 | 5–8 | 5–8 |
 | [6–11 November 2019](2019-11-11-SWG.html) | SWG <br> La7 | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | [1–11 November 2019](2019-11-11-Euromedia.html) | Euromedia <br> Rai 1 | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
 | [8–9 November 2019](2019-11-09-Piepoli.html) | Piepoli <br> Rai 2 | 5 | 5–7 | 4–7 | 4–7 | 3–8 |
@@ -234,11 +234,11 @@ Last result: **13** seats (General Election of 26 May 2019)
 | [30 October–4 November 2019](2019-11-04-SWG.html) | SWG <br> La7 | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [1–4 November 2019](2019-11-04-Piepoli.html) | Piepoli <br> Rai 2 | 6 | 5–7 | 4–7 | 4–8 | 3–8 |
 | [29–31 October 2019](2019-10-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
-| [31 October 2019](2019-10-31-Index.html) | Index <br> La7 | 5 | 5 | 4–5 | 4–8 | 4–8 |
+| [31 October 2019](2019-10-31-Index.html) | Index <br> La7 | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
 | [30–31 October 2019](2019-10-31-Demopolis.html) | Demopolis <br> Rai 3 | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
 | [30 October 2019](2019-10-30-EMG.html) | EMG <br> Rai 3 | 5 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [28–29 October 2019](2019-10-29-Ixè.html) | Ixè <br> Rai 3 | 7 | 6–7 | 5–7 | 5–7 | 5–7 |
-| [27 October 2019](2019-10-27-Tecnè.html) | Tecnè <br> Rete 4 | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
+| [27 October 2019](2019-10-27-Tecnè.html) | Tecnè <br> Rete 4 | 6 | 6–7 | 5–8 | 5–8 | 5–8 |
 | [23–27 October 2019](2019-10-27-SWG.html) | SWG <br> La7 | 5 | 3–6 | 3–7 | 3–7 | 0–7 |
 | [24–25 October 2019](2019-10-25-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
 | [23–24 October 2019](2019-10-24-TermometroPolitico.html) | Termometro Politico <br> La7 | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
