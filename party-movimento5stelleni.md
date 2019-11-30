@@ -216,8 +216,8 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [14–15 November 2019](2019-11-15-Tecnè.html) | Tecnè <br> Agenzia Dire | 13 | 12–14 | 11–15 | 11–15 | 11–16 |
 | [1–14 November 2019](2019-11-14-Index.html) | Index <br> La7 | 13 | 11–14 | 11–14 | 11–15 | 10–15 |
 | [12–13 November 2019](2019-11-13-TermometroPolitico.html) | Termometro Politico <br> La7 | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
-| [8–13 November 2019](2019-11-13-EMG.html) | EMG <br> Rai 3 | 12 | 12–13 | 12–13 | 12–13 | 11–14 |
-| [11–12 November 2019](2019-11-12-Ixè.html) | Ixè <br> Rai 3 | 13 | 12–14 | 12–15 | 12–15 | 11–16 |
+| [8–13 November 2019](2019-11-13-EMG.html) | EMG <br> Rai 3 | 12 | 11–13 | 11–14 | 11–14 | 11–15 |
+| [11–12 November 2019](2019-11-12-Ixè.html) | Ixè <br> Rai 3 | 13 | 12–15 | 12–15 | 11–15 | 11–16 |
 | [10–12 November 2019](2019-11-12-Demopolis.html) | Demopolis <br> Rai 3 | 13 | 12–14 | 12–14 | 12–14 | 11–15 |
 | [10–11 November 2019](2019-11-11-Tecnè.html) | Tecnè <br> Rete 4 | 13 | 12–15 | 12–15 | 11–15 | 11–16 |
 | [6–11 November 2019](2019-11-11-SWG.html) | SWG <br> La7 | 13 | 12–13 | 12–14 | 11–14 | 11–14 |
@@ -227,17 +227,17 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [6–7 November 2019](2019-11-07-TermometroPolitico.html) | Termometro Politico <br> La7 | 13 | 12–13 | 12–13 | 11–13 | 11–14 |
 | [7 November 2019](2019-11-07-Index.html) | Index <br> La7 | 14 | 12–15 | 12–16 | 12–16 | 11–16 |
 | [6 November 2019](2019-11-06-EMG.html) | EMG <br> Rai 3 | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
-| [4–5 November 2019](2019-11-05-Ixè.html) | Ixè <br> Rai 3 | 15 | 13–16 | 13–17 | 13–17 | 12–17 |
+| [4–5 November 2019](2019-11-05-Ixè.html) | Ixè <br> Rai 3 | 15 | 13–16 | 13–16 | 13–17 | 12–17 |
 | [4–5 November 2019](2019-11-05-IZI.html) | IZI | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
-| [30 October–4 November 2019](2019-11-04-SWG.html) | SWG <br> La7 | 15 | 13–15 | 13–15 | 13–15 | 12–15 |
-| [1–4 November 2019](2019-11-04-Piepoli.html) | Piepoli <br> Rai 2 | 15 | 13–17 | 12–17 | 12–17 | 11–18 |
+| [30 October–4 November 2019](2019-11-04-SWG.html) | SWG <br> La7 | 13 | 12–14 | 12–14 | 12–15 | 12–16 |
+| [1–4 November 2019](2019-11-04-Piepoli.html) | Piepoli <br> Rai 2 | 15 | 13–17 | 12–17 | 12–18 | 11–19 |
 | [29–31 October 2019](2019-10-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 14 | 13–15 | 12–16 | 12–16 | 12–17 |
-| [31 October 2019](2019-10-31-Index.html) | Index <br> La7 | 14 | 12–16 | 12–16 | 12–17 | 11–18 |
+| [31 October 2019](2019-10-31-Index.html) | Index <br> La7 | 14 | 13–15 | 12–16 | 12–16 | 11–17 |
 | [30–31 October 2019](2019-10-31-Demopolis.html) | Demopolis <br> Rai 3 | 14 | 13–14 | 12–15 | 12–15 | 12–15 |
-| [30 October 2019](2019-10-30-EMG.html) | EMG <br> Rai 3 | 13 | 11–13 | 11–14 | 11–14 | 11–14 |
-| [28–29 October 2019](2019-10-29-Ixè.html) | Ixè <br> Rai 3 | 16 | 15–16 | 15–16 | 15–16 | 15–17 |
+| [30 October 2019](2019-10-30-EMG.html) | EMG <br> Rai 3 | 13 | 12–14 | 12–15 | 12–15 | 11–15 |
+| [28–29 October 2019](2019-10-29-Ixè.html) | Ixè <br> Rai 3 | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
 | [27 October 2019](2019-10-27-Tecnè.html) | Tecnè <br> Rete 4 | 15 | 13–16 | 13–16 | 12–16 | 12–17 |
-| [23–27 October 2019](2019-10-27-SWG.html) | SWG <br> La7 | 16 | 14–17 | 13–17 | 13–17 | 13–17 |
+| [23–27 October 2019](2019-10-27-SWG.html) | SWG <br> La7 | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
 | [24–25 October 2019](2019-10-25-Tecnè.html) | Tecnè <br> Agenzia Dire | 14 | 13–16 | 13–16 | 13–17 | 12–17 |
 | [23–24 October 2019](2019-10-24-TermometroPolitico.html) | Termometro Politico <br> La7 | 13 | 13–14 | 12–14 | 12–15 | 12–15 |
 | [22–24 October 2019](2019-10-24-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 11 | 10–12 | 10–12 | 10–13 | 9–13 |
