@@ -219,7 +219,7 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [8–13 November 2019](2019-11-13-EMG.html) | EMG <br> Rai 3 | 12 | 11–13 | 11–14 | 11–14 | 11–15 |
 | [11–12 November 2019](2019-11-12-Ixè.html) | Ixè <br> Rai 3 | 13 | 12–15 | 12–15 | 11–15 | 11–16 |
 | [10–12 November 2019](2019-11-12-Demopolis.html) | Demopolis <br> Rai 3 | 13 | 12–14 | 12–14 | 12–14 | 11–15 |
-| [10–11 November 2019](2019-11-11-Tecnè.html) | Tecnè <br> Rete 4 | 13 | 12–15 | 12–15 | 11–15 | 11–16 |
+| [10–11 November 2019](2019-11-11-Tecnè.html) | Tecnè <br> Rete 4 | 13 | 12–15 | 12–15 | 11–16 | 11–16 |
 | [6–11 November 2019](2019-11-11-SWG.html) | SWG <br> La7 | 13 | 12–13 | 12–14 | 11–14 | 11–14 |
 | [1–11 November 2019](2019-11-11-Euromedia.html) | Euromedia <br> Rai 1 | 12 | 11–13 | 11–13 | 10–14 | 10–14 |
 | [8–9 November 2019](2019-11-09-Piepoli.html) | Piepoli <br> Rai 2 | 14 | 12–15 | 11–16 | 11–17 | 10–18 |
