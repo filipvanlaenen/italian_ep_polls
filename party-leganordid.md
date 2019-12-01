@@ -235,16 +235,16 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [1–20 November 2019](2019-11-20-EMG.html) | EMG <br> Rai 3 | 26 | 25–27 | 24–28 | 24–28 | 23–28 |
 | [18–19 November 2019](2019-11-19-Ixè.html) | Ixè <br> Rai 3 | 25 | 24–27 | 23–27 | 23–28 | 22–29 |
 | [13–18 November 2019](2019-11-18-SWG.html) | SWG <br> La7 | 28 | 26–29 | 26–29 | 26–30 | 25–30 |
-| [14–15 November 2019](2019-11-15-Tecnè.html) | Tecnè <br> Agenzia Dire | 27 | 26–29 | 25–29 | 25–30 | 24–31 |
-| [1–14 November 2019](2019-11-14-Index.html) | Index <br> La7 | 25 | 24–27 | 24–28 | 23–28 | 23–29 |
-| [12–13 November 2019](2019-11-13-TermometroPolitico.html) | Termometro Politico <br> La7 | 28 | 27–29 | 26–29 | 26–29 | 25–30 |
+| [14–15 November 2019](2019-11-15-Tecnè.html) | Tecnè <br> Agenzia Dire | 27 | 26–29 | 25–29 | 24–30 | 24–31 |
+| [1–14 November 2019](2019-11-14-Index.html) | Index <br> La7 | 26 | 24–27 | 24–28 | 23–28 | 23–29 |
+| [12–13 November 2019](2019-11-13-TermometroPolitico.html) | Termometro Politico <br> La7 | 27 | 26–29 | 26–29 | 26–29 | 25–30 |
 | [8–13 November 2019](2019-11-13-EMG.html) | EMG <br> Rai 3 | 25 | 24–27 | 24–27 | 23–28 | 23–28 |
 | [11–12 November 2019](2019-11-12-Ixè.html) | Ixè <br> Rai 3 | 26 | 25–28 | 24–29 | 24–29 | 23–30 |
 | [10–12 November 2019](2019-11-12-Demopolis.html) | Demopolis <br> Rai 3 | 25 | 24–27 | 24–27 | 24–27 | 23–28 |
 | [10–11 November 2019](2019-11-11-Tecnè.html) | Tecnè <br> Rete 4 | 27 | 26–29 | 25–30 | 25–31 | 24–31 |
 | [6–11 November 2019](2019-11-11-SWG.html) | SWG <br> La7 | 28 | 26–30 | 26–30 | 26–30 | 25–30 |
 | [1–11 November 2019](2019-11-11-Euromedia.html) | Euromedia <br> Rai 1 | 25 | 24–27 | 23–28 | 23–28 | 22–29 |
-| [8–9 November 2019](2019-11-09-Piepoli.html) | Piepoli <br> Rai 2 | 24 | 22–27 | 22–27 | 21–28 | 20–30 |
+| [8–9 November 2019](2019-11-09-Piepoli.html) | Piepoli <br> Rai 2 | 24 | 22–27 | 22–27 | 21–28 | 21–30 |
 | [7–8 November 2019](2019-11-08-Tecnè.html) | Tecnè <br> Agenzia Dire | 27 | 26–29 | 26–29 | 25–30 | 24–31 |
 | [6–7 November 2019](2019-11-07-TermometroPolitico.html) | Termometro Politico <br> La7 | 29 | 28–29 | 28–30 | 27–31 | 27–31 |
 | [7 November 2019](2019-11-07-Index.html) | Index <br> La7 | 27 | 25–29 | 24–29 | 24–30 | 23–32 |
@@ -253,7 +253,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [4–5 November 2019](2019-11-05-IZI.html) | IZI | 21 | 20–23 | 20–23 | 19–24 | 19–24 |
 | [30 October–4 November 2019](2019-11-04-SWG.html) | SWG <br> La7 | 27 | 27–28 | 26–28 | 26–29 | 25–30 |
 | [1–4 November 2019](2019-11-04-Piepoli.html) | Piepoli <br> Rai 2 | 24 | 22–27 | 21–27 | 21–28 | 20–29 |
-| [29–31 October 2019](2019-10-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 27 | 25–29 | 25–29 | 24–29 | 24–30 |
+| [29–31 October 2019](2019-10-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 27 | 25–28 | 25–29 | 24–30 | 24–30 |
 | [31 October 2019](2019-10-31-Index.html) | Index <br> La7 | 27 | 25–28 | 24–29 | 24–29 | 23–30 |
 | [30–31 October 2019](2019-10-31-Demopolis.html) | Demopolis <br> Rai 3 | 25 | 23–26 | 23–26 | 23–26 | 22–27 |
 | [30 October 2019](2019-10-30-EMG.html) | EMG <br> Rai 3 | 26 | 24–28 | 24–28 | 24–29 | 23–29 |
@@ -423,17 +423,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
 | 18 | 0% | 100% |  |
-| 19 | 0.2% | 100% |  |
-| 20 | 1.4% | 99.7% |  |
+| 19 | 0.3% | 100% |  |
+| 20 | 1.3% | 99.7% |  |
 | 21 | 3% | 98% |  |
 | 22 | 3% | 95% |  |
 | 23 | 4% | 92% |  |
-| 24 | 10% | 88% |  |
-| 25 | 19% | 78% |  |
-| 26 | 22% | 59% | Median |
-| 27 | 19% | 37% |  |
-| 28 | 11% | 18% |  |
-| 29 | 6% | 7% |  |
+| 24 | 9% | 88% |  |
+| 25 | 20% | 79% |  |
+| 26 | 23% | 59% | Median |
+| 27 | 20% | 36% |  |
+| 28 | 11% | 16% |  |
+| 29 | 5% | 6% |  |
 | 30 | 0.9% | 1.1% |  |
 | 31 | 0.1% | 0.1% |  |
 | 32 | 0% | 0% |  |
