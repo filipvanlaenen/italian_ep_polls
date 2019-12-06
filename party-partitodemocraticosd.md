@@ -232,16 +232,16 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [14–15 November 2019](2019-11-15-Tecnè.html) | Tecnè <br> Agenzia Dire | 14 | 13–16 | 13–16 | 12–17 | 12–17 |
 | [1–14 November 2019](2019-11-14-Index.html) | Index <br> La7 | 14 | 13–15 | 12–16 | 12–16 | 11–17 |
 | [12–13 November 2019](2019-11-13-TermometroPolitico.html) | Termometro Politico <br> La7 | 13 | 13–14 | 12–15 | 12–15 | 12–15 |
-| [8–13 November 2019](2019-11-13-EMG.html) | EMG <br> Rai 3 | 14 | 13–16 | 13–16 | 12–16 | 12–17 |
+| [8–13 November 2019](2019-11-13-EMG.html) | EMG <br> Rai 3 | 14 | 13–15 | 13–16 | 12–16 | 12–17 |
 | [11–12 November 2019](2019-11-12-Ixè.html) | Ixè <br> Rai 3 | 16 | 14–18 | 14–18 | 14–19 | 13–19 |
 | [10–12 November 2019](2019-11-12-Demopolis.html) | Demopolis <br> Rai 3 | 13 | 12–14 | 12–14 | 11–14 | 11–15 |
 | [10–11 November 2019](2019-11-11-Tecnè.html) | Tecnè <br> Rete 4 | 14 | 12–15 | 12–16 | 12–16 | 11–17 |
 | [6–11 November 2019](2019-11-11-SWG.html) | SWG <br> La7 | 14 | 12–15 | 12–15 | 12–15 | 12–16 |
 | [1–11 November 2019](2019-11-11-Euromedia.html) | Euromedia <br> Rai 1 | 13 | 11–14 | 11–15 | 11–15 | 10–16 |
 | [8–9 November 2019](2019-11-09-Piepoli.html) | Piepoli <br> Rai 2 | 14 | 12–16 | 12–17 | 11–17 | 11–18 |
-| [7–8 November 2019](2019-11-08-Tecnè.html) | Tecnè <br> Agenzia Dire | 14 | 12–15 | 12–15 | 12–16 | 12–17 |
+| [7–8 November 2019](2019-11-08-Tecnè.html) | Tecnè <br> Agenzia Dire | 14 | 13–15 | 12–16 | 12–16 | 11–17 |
 | [6–7 November 2019](2019-11-07-TermometroPolitico.html) | Termometro Politico <br> La7 | 14 | 13–14 | 13–14 | 13–15 | 12–15 |
-| [7 November 2019](2019-11-07-Index.html) | Index <br> La7 | 14 | 12–16 | 12–16 | 12–17 | 11–17 |
+| [7 November 2019](2019-11-07-Index.html) | Index <br> La7 | 14 | 13–16 | 12–16 | 12–17 | 11–17 |
 | [6 November 2019](2019-11-06-EMG.html) | EMG <br> Rai 3 | 14 | 12–16 | 12–16 | 11–16 | 11–16 |
 | [4–5 November 2019](2019-11-05-Ixè.html) | Ixè <br> Rai 3 | 15 | 14–17 | 14–17 | 13–18 | 13–19 |
 | [4–5 November 2019](2019-11-05-IZI.html) | IZI | 13 | 12–14 | 11–14 | 11–15 | 10–15 |

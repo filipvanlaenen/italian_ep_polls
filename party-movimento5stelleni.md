@@ -223,9 +223,9 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [6–11 November 2019](2019-11-11-SWG.html) | SWG <br> La7 | 13 | 12–13 | 12–14 | 11–14 | 11–14 |
 | [1–11 November 2019](2019-11-11-Euromedia.html) | Euromedia <br> Rai 1 | 12 | 10–13 | 10–13 | 10–14 | 10–15 |
 | [8–9 November 2019](2019-11-09-Piepoli.html) | Piepoli <br> Rai 2 | 14 | 12–15 | 11–16 | 11–17 | 10–18 |
-| [7–8 November 2019](2019-11-08-Tecnè.html) | Tecnè <br> Agenzia Dire | 13 | 13–15 | 12–15 | 12–15 | 11–16 |
+| [7–8 November 2019](2019-11-08-Tecnè.html) | Tecnè <br> Agenzia Dire | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
 | [6–7 November 2019](2019-11-07-TermometroPolitico.html) | Termometro Politico <br> La7 | 13 | 12–13 | 12–13 | 11–13 | 11–14 |
-| [7 November 2019](2019-11-07-Index.html) | Index <br> La7 | 14 | 12–15 | 12–16 | 12–16 | 11–16 |
+| [7 November 2019](2019-11-07-Index.html) | Index <br> La7 | 14 | 13–15 | 12–16 | 12–16 | 11–17 |
 | [6 November 2019](2019-11-06-EMG.html) | EMG <br> Rai 3 | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
 | [4–5 November 2019](2019-11-05-Ixè.html) | Ixè <br> Rai 3 | 15 | 13–16 | 13–16 | 13–17 | 12–17 |
 | [4–5 November 2019](2019-11-05-IZI.html) | IZI | 13 | 12–15 | 12–15 | 12–15 | 11–16 |

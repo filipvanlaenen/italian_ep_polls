@@ -214,7 +214,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [14–15 November 2019](2019-11-15-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 6–8 | 6–9 | 6–9 | 6–10 |
 | [1–14 November 2019](2019-11-14-Index.html) | Index <br> La7 | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [12–13 November 2019](2019-11-13-TermometroPolitico.html) | Termometro Politico <br> La7 | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
-| [8–13 November 2019](2019-11-13-EMG.html) | EMG <br> Rai 3 | 7 | 7–8 | 6–9 | 6–9 | 6–9 |
+| [8–13 November 2019](2019-11-13-EMG.html) | EMG <br> Rai 3 | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
 | [11–12 November 2019](2019-11-12-Ixè.html) | Ixè <br> Rai 3 | 8 | 7–9 | 7–9 | 6–10 | 6–10 |
 | [10–12 November 2019](2019-11-12-Demopolis.html) | Demopolis <br> Rai 3 | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [10–11 November 2019](2019-11-11-Tecnè.html) | Tecnè <br> Rete 4 | 7 | 6–8 | 6–9 | 6–9 | 6–9 |
@@ -223,7 +223,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [8–9 November 2019](2019-11-09-Piepoli.html) | Piepoli <br> Rai 2 | 7 | 6–9 | 5–9 | 5–9 | 5–10 |
 | [7–8 November 2019](2019-11-08-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 6–8 | 6–9 | 6–9 | 6–9 |
 | [6–7 November 2019](2019-11-07-TermometroPolitico.html) | Termometro Politico <br> La7 | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
-| [7 November 2019](2019-11-07-Index.html) | Index <br> La7 | 7 | 6–8 | 6–9 | 5–9 | 5–9 |
+| [7 November 2019](2019-11-07-Index.html) | Index <br> La7 | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
 | [6 November 2019](2019-11-06-EMG.html) | EMG <br> Rai 3 | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | [4–5 November 2019](2019-11-05-Ixè.html) | Ixè <br> Rai 3 | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | [4–5 November 2019](2019-11-05-IZI.html) | IZI | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
