@@ -10,13 +10,33 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.2% | 4.1–6.4% | 3.8–6.8% | 3.6–7.1% | 3.1–7.8% |
+| N/A | [Poll Average](average.html) | 5.2% | 4.1–6.3% | 3.8–6.6% | 3.6–6.9% | 3.1–7.5% |
+| [4–9 December 2019](2019-12-09-SWG.html) | SWG <br> La7 | 4.6% | 4.0–5.4% | 3.8–5.6% | 3.6–5.8% | 3.4–6.2% |
+| [5–6 December 2019](2019-12-06-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.9–5.3% | 2.6–5.8% |
+| [6 December 2019](2019-12-06-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.1% |
+| [2–6 December 2019](2019-12-06-DemosPi.html) | Demos & Pi <br> La Repubblica | 3.5% | 2.9–4.3% | 2.8–4.5% | 2.6–4.7% | 2.4–5.1% |
+| [4 November–5 December 2019](2019-12-05-TermometroPolitico.html) | Termometro Politico <br> La7 | 5.3% | 4.8–5.9% | 4.6–6.1% | 4.5–6.3% | 4.3–6.6% |
+| [1–4 December 2019](2019-12-04-Index.html) | Index <br> La7 | 4.9% | N/A | N/A | N/A | N/A |
+| [1–4 December 2019](2019-12-04-Euromedia.html) | Euromedia <br> Rai 1 | 5.5% | N/A | N/A | N/A | N/A |
+| [3–4 December 2019](2019-12-04-EMG.html) | EMG <br> Rai 3 | 5.3% | N/A | N/A | N/A | N/A |
+| [2–3 December 2019](2019-12-03-Ixè.html) | Ixè <br> Rai 3 | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
+| [1–2 December 2019](2019-12-02-Tecnè.html) | Tecnè <br> Rete 4 | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–6.0% |
+| [27 November–2 December 2019](2019-12-02-SWG.html) | SWG <br> La7 | 4.9% | 4.3–5.7% | 4.1–6.0% | 3.9–6.2% | 3.7–6.6% |
+| [28–29 November 2019](2019-11-29-Tecnè.html) | Tecnè <br> Agenzia Dire | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–6.0% |
+| [27–28 November 2019](2019-11-28-TermometroPolitico.html) | Termometro Politico <br> La7 | 5.3% | 4.7–6.0% | 4.5–6.2% | 4.4–6.4% | 4.1–6.7% |
+| [26–27 November 2019](2019-11-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 5.3% | 4.5–6.3% | 4.3–6.6% | 4.1–6.9% | 3.7–7.4% |
+| [1–27 November 2019](2019-11-27-Index.html) | Index <br> La7 | 5.0% | 4.1–6.1% | 3.9–6.5% | 3.7–6.8% | 3.3–7.3% |
+| [27 November 2019](2019-11-27-EMG.html) | EMG <br> Rai 3 | 5.3% | 4.6–6.1% | 4.4–6.3% | 4.3–6.5% | 4.0–6.9% |
 | [25–26 November 2019](2019-11-26-Ixè.html) | Ixè <br> Rai 3 | 4.5% | 3.8–5.5% | 3.6–5.7% | 3.4–6.0% | 3.0–6.5% |
+| [24–25 November 2019](2019-11-25-Tecnè.html) | Tecnè <br> Rete 4 | 4.4% | N/A | N/A | N/A | N/A |
+| [20–25 November 2019](2019-11-25-SWG.html) | SWG <br> La7 | 5.5% | N/A | N/A | N/A | N/A |
 | [21–22 November 2019](2019-11-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 4.3% | 3.6–5.2% | 3.4–5.5% | 3.2–5.7% | 2.9–6.2% |
+| [21–22 November 2019](2019-11-22-Piepoli.html) | Piepoli <br> Rai 2 | 5.0% | N/A | N/A | N/A | N/A |
 | [20–21 November 2019](2019-11-21-TermometroPolitico.html) | Termometro Politico <br> La7 | 5.5% | 4.9–6.1% | 4.8–6.3% | 4.6–6.5% | 4.4–6.8% |
 | [21 November 2019](2019-11-21-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 5.5% | 4.7–6.5% | 4.4–6.8% | 4.3–7.1% | 3.9–7.6% |
 | [1–20 November 2019](2019-11-20-EMG.html) | EMG <br> Rai 3 | 5.2% | 4.5–6.0% | 4.3–6.2% | 4.2–6.4% | 3.9–6.8% |
 | [18–19 November 2019](2019-11-19-Ixè.html) | Ixè <br> Rai 3 | 4.6% | 3.9–5.6% | 3.6–5.9% | 3.5–6.1% | 3.1–6.6% |
+| [18–19 November 2019](2019-11-19-BiDiMedia.html) | BiDiMedia | 5.4% | N/A | N/A | N/A | N/A |
 | [13–18 November 2019](2019-11-18-SWG.html) | SWG <br> La7 | 5.0% | 4.3–5.8% | 4.2–6.0% | 4.0–6.2% | 3.7–6.6% |
 | [14–15 November 2019](2019-11-15-Tecnè.html) | Tecnè <br> Agenzia Dire | 4.6% | 3.9–5.6% | 3.6–5.9% | 3.5–6.1% | 3.1–6.6% |
 | [1–14 November 2019](2019-11-14-Index.html) | Index <br> La7 | 4.8% | 3.9–5.9% | 3.7–6.2% | 3.5–6.5% | 3.1–7.0% |
@@ -194,13 +214,12 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 2% | 100% |  |
-| 3.5–4.5% | 20% | 98% |  |
-| 4.5–5.5% | 42% | 78% | Median |
-| 5.5–6.5% | 29% | 36% |  |
-| 6.5–7.5% | 7% | 7% |  |
-| 7.5–8.5% | 0.8% | 0.8% |  |
+| 3.5–4.5% | 19% | 98% |  |
+| 4.5–5.5% | 44% | 79% | Median |
+| 5.5–6.5% | 29% | 35% |  |
+| 6.5–7.5% | 5% | 6% |  |
+| 7.5–8.5% | 0.4% | 0.4% |  |
 | 8.5–9.5% | 0% | 0% |  |
-| 9.5–10.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -211,13 +230,33 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–5 | 0–5 | 0–6 | 0–6 |
+| N/A | [Poll Average](average.html) | 4 | 3–5 | 0–5 | 0–5 | 0–6 |
+| [4–9 December 2019](2019-12-09-SWG.html) | SWG <br> La7 | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
+| [5–6 December 2019](2019-12-06-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [6 December 2019](2019-12-06-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 4 | 3–5 | 0–5 | 0–5 | 0–5 |
+| [2–6 December 2019](2019-12-06-DemosPi.html) | Demos & Pi <br> La Repubblica | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [4 November–5 December 2019](2019-12-05-TermometroPolitico.html) | Termometro Politico <br> La7 | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
+| [1–4 December 2019](2019-12-04-Index.html) | Index <br> La7 |  |  |  |  |  |
+| [1–4 December 2019](2019-12-04-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
+| [3–4 December 2019](2019-12-04-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
+| [2–3 December 2019](2019-12-03-Ixè.html) | Ixè <br> Rai 3 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [1–2 December 2019](2019-12-02-Tecnè.html) | Tecnè <br> Rete 4 | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
+| [27 November–2 December 2019](2019-12-02-SWG.html) | SWG <br> La7 | 4 | 3–5 | 3–5 | 0–5 | 0–5 |
+| [28–29 November 2019](2019-11-29-Tecnè.html) | Tecnè <br> Agenzia Dire | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [27–28 November 2019](2019-11-28-TermometroPolitico.html) | Termometro Politico <br> La7 | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
+| [26–27 November 2019](2019-11-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 4 | 3–5 | 3–5 | 3–5 | 0–6 |
+| [1–27 November 2019](2019-11-27-Index.html) | Index <br> La7 | 4 | 3–5 | 0–5 | 0–5 | 0–6 |
+| [27 November 2019](2019-11-27-EMG.html) | EMG <br> Rai 3 | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
 | [25–26 November 2019](2019-11-26-Ixè.html) | Ixè <br> Rai 3 | 4 | 0–4 | 0–4 | 0–5 | 0–5 |
+| [24–25 November 2019](2019-11-25-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
+| [20–25 November 2019](2019-11-25-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [21–22 November 2019](2019-11-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
+| [21–22 November 2019](2019-11-22-Piepoli.html) | Piepoli <br> Rai 2 |  |  |  |  |  |
 | [20–21 November 2019](2019-11-21-TermometroPolitico.html) | Termometro Politico <br> La7 | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [21 November 2019](2019-11-21-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 4 | 4–5 | 3–5 | 3–6 | 0–6 |
 | [1–20 November 2019](2019-11-20-EMG.html) | EMG <br> Rai 3 | 4 | 4–5 | 3–5 | 3–5 | 0–5 |
 | [18–19 November 2019](2019-11-19-Ixè.html) | Ixè <br> Rai 3 | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
+| [18–19 November 2019](2019-11-19-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
 | [13–18 November 2019](2019-11-18-SWG.html) | SWG <br> La7 | 4 | 3–5 | 3–5 | 3–5 | 0–5 |
 | [14–15 November 2019](2019-11-15-Tecnè.html) | Tecnè <br> Agenzia Dire | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [1–14 November 2019](2019-11-14-Index.html) | Index <br> La7 | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
@@ -396,11 +435,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 8% | 100% | Last Result |
 | 1 | 0% | 92% |  |
 | 2 | 0% | 92% |  |
-| 3 | 12% | 92% |  |
-| 4 | 54% | 79% | Median |
-| 5 | 23% | 25% |  |
-| 6 | 3% | 3% |  |
-| 7 | 0.1% | 0.1% |  |
-| 8 | 0% | 0% |  |
+| 3 | 14% | 92% |  |
+| 4 | 55% | 78% | Median |
+| 5 | 22% | 23% |  |
+| 6 | 1.3% | 1.3% |  |
+| 7 | 0% | 0% |  |
 
 
