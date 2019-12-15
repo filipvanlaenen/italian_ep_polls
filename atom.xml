@@ -6,7 +6,23 @@
   </author>
   <id>https://filipvanlaenen.github.io/italian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2019-12-12T15:37:09.483016+01:00</updated>
+  <updated>2019-12-15T15:37:06.568013+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Movimento 5 Stelle (NI): 14.1–18.7%, 11–15 seats</li><li>Partito Democratico (S&amp;D): 18.4–23.4%, 14–18 seats</li><li>Lega Nord (ID): 27.8–33.5%, 22–27 seats</li><li>Forza Italia (EPP): 6.1–9.4%, 5–8 seats</li><li>Fratelli d’Italia (ECR): 8.8–12.7%, 7–10 seats</li><li>Liberi e Uguali (S&amp;D): 2.0–4.1%, 0–3 seats</li><li>Più Europa (RE): 1.7–3.7%, 0 seats</li><li>Europa Verde (Greens/EFA): 0.7–2.1%, 0 seats</li><li>Italia Viva (RE): 2.4–4.6%, 0–4 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/italian_ep_polls/2019-12-10-Ixè.html</id>
+    <link href="https://filipvanlaenen.github.io/italian_ep_polls/2019-12-10-Ixè.html"/>
+    <title>Opinion Poll by Ixè for Rai 3, 9–10 December 2019</title>
+    <updated>2019-12-15T13:37:08.804241+01:00</updated>
+    <dc:date>2019-12-15T13:37:08.804241+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Movimento 5 Stelle (NI): 13.5–18.0%, 11–15 seats</li><li>Partito Democratico (S&amp;D): 16.3–21.1%, 12–16 seats</li><li>Lega Nord (ID): 31.2–37.1%, 24–30 seats</li><li>Forza Italia (EPP): 6.5–9.9%, 5–8 seats</li><li>Fratelli d’Italia (ECR): 8.6–12.3%, 7–10 seats</li><li>Liberi e Uguali (S&amp;D): 1.5–3.4%, 0 seats</li><li>Più Europa (RE): 1.1–2.7%, 0 seats</li><li>Europa Verde (Greens/EFA): 0.8–2.3%, 0 seats</li><li>Italia Viva (RE): 2.9–5.4%, 0–4 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/italian_ep_polls/2019-12-09-Tecnè.html</id>
+    <link href="https://filipvanlaenen.github.io/italian_ep_polls/2019-12-09-Tecnè.html"/>
+    <title>Opinion Poll by Tecnè for Rete 4, 8–9 December 2019</title>
+    <updated>2019-12-15T15:37:06.568013+01:00</updated>
+    <dc:date>2019-12-15T15:37:06.568013+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Movimento 5 Stelle (NI): 13.8–17.5%, 11–14 seats</li><li>Partito Democratico (S&amp;D): 16.1–20.0%, 12–15 seats</li><li>Lega Nord (ID): 30.7–35.4%, 24–28 seats</li><li>Forza Italia (EPP): 4.3–6.6%, 3–5 seats</li><li>Fratelli d’Italia (ECR): 8.4–11.4%, 7–9 seats</li><li>Liberi e Uguali (S&amp;D): 2.4–4.2%, 0–3 seats</li><li>Più Europa (RE): 1.0–2.3%, 0 seats</li><li>Europa Verde (Greens/EFA): 1.6–3.1%, 0 seats</li><li>Cambiamo! (*): 0.8–1.9%, 0 seats</li><li>Italia Viva (RE): 3.6–5.8%, 0–5 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/italian_ep_polls/2019-12-09-SWG.html</id>
@@ -1343,5 +1359,5 @@
     <updated>2019-06-29T16:56:02.59202+02:00</updated>
     <dc:date>2019-06-29T16:56:02.59202+02:00</dc:date>
   </entry>
-  <dc:date>2019-12-12T15:37:09.483016+01:00</dc:date>
+  <dc:date>2019-12-15T15:37:06.568013+01:00</dc:date>
 </feed>
