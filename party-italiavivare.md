@@ -11,8 +11,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5.3% | 4.2–6.3% | 3.9–6.6% | 3.6–6.9% | 3.2–7.5% |
-| [9–10 December 2019](2019-12-10-Ixè.html) | Ixè <br> Rai 3 | 3.3% | N/A | N/A | N/A | N/A |
-| [8–9 December 2019](2019-12-09-Tecnè.html) | Tecnè <br> Rete 4 | 4.0% | N/A | N/A | N/A | N/A |
+| [9–10 December 2019](2019-12-10-Ixè.html) | Ixè <br> Rai 3 | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
+| [8–9 December 2019](2019-12-09-Tecnè.html) | Tecnè <br> Rete 4 | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
 | [4–9 December 2019](2019-12-09-SWG.html) | SWG <br> La7 | 4.6% | 4.0–5.4% | 3.8–5.6% | 3.6–5.8% | 3.4–6.2% |
 | [5–6 December 2019](2019-12-06-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.9–5.3% | 2.6–5.8% |
 | [6 December 2019](2019-12-06-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.1% |
@@ -233,8 +233,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–5 | 0–5 | 0–5 | 0–6 |
-| [9–10 December 2019](2019-12-10-Ixè.html) | Ixè <br> Rai 3 |  |  |  |  |  |
-| [8–9 December 2019](2019-12-09-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
+| [9–10 December 2019](2019-12-10-Ixè.html) | Ixè <br> Rai 3 | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
+| [8–9 December 2019](2019-12-09-Tecnè.html) | Tecnè <br> Rete 4 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [4–9 December 2019](2019-12-09-SWG.html) | SWG <br> La7 | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [5–6 December 2019](2019-12-06-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [6 December 2019](2019-12-06-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 4 | 3–5 | 0–5 | 0–5 | 0–5 |
