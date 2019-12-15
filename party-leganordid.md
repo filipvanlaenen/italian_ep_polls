@@ -11,6 +11,8 @@ Last result: **6.2%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 32.9% | 29.9–35.3% | 28.7–36.0% | 27.8–36.6% | 26.4–37.9% |
+| [9–10 December 2019](2019-12-10-Ixè.html) | Ixè <br> Rai 3 | 30.6% | N/A | N/A | N/A | N/A |
+| [8–9 December 2019](2019-12-09-Tecnè.html) | Tecnè <br> Rete 4 | 34.1% | N/A | N/A | N/A | N/A |
 | [4–9 December 2019](2019-12-09-SWG.html) | SWG <br> La7 | 33.0% | 31.5–34.6% | 31.0–35.0% | 30.7–35.4% | 29.9–36.2% |
 | [5–6 December 2019](2019-12-06-Tecnè.html) | Tecnè <br> Agenzia Dire | 34.7% | 32.8–36.7% | 32.3–37.2% | 31.8–37.7% | 30.9–38.7% |
 | [6 December 2019](2019-12-06-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 33.0% | 31.1–34.9% | 30.6–35.5% | 30.1–36.0% | 29.3–36.9% |
@@ -256,6 +258,8 @@ Last result: **5** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 26 | 23–28 | 22–29 | 21–29 | 20–31 |
+| [9–10 December 2019](2019-12-10-Ixè.html) | Ixè <br> Rai 3 |  |  |  |  |  |
+| [8–9 December 2019](2019-12-09-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
 | [4–9 December 2019](2019-12-09-SWG.html) | SWG <br> La7 | 26 | 25–28 | 24–28 | 24–28 | 23–29 |
 | [5–6 December 2019](2019-12-06-Tecnè.html) | Tecnè <br> Agenzia Dire | 28 | 26–30 | 25–31 | 25–31 | 24–32 |
 | [6 December 2019](2019-12-06-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 25 | 24–26 | 23–27 | 23–28 | 22–28 |
