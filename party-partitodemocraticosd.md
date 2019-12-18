@@ -11,12 +11,12 @@ Last result: **40.8%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18.8% | 17.1–20.7% | 16.7–21.3% | 16.3–21.8% | 15.5–23.0% |
-| [11–16 December 2019](2019-12-16-SWG.html) | SWG <br> La7 | 17.5% | N/A | N/A | N/A | N/A |
-| [12–13 December 2019](2019-12-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 18.8% | N/A | N/A | N/A | N/A |
-| [11–12 December 2019](2019-12-12-Tecnè.html) | Tecnè <br> RTI | 18.9% | N/A | N/A | N/A | N/A |
-| [12 December 2019](2019-12-12-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 18.0% | N/A | N/A | N/A | N/A |
-| [1–11 December 2019](2019-12-11-Index.html) | Index <br> La7 | 19.2% | N/A | N/A | N/A | N/A |
-| [10–11 December 2019](2019-12-11-EMG.html) | EMG <br> Rai 3 | 19.3% | N/A | N/A | N/A | N/A |
+| [11–16 December 2019](2019-12-16-SWG.html) | SWG <br> La7 | 17.5% | 16.3–18.8% | 15.9–19.2% | 15.6–19.5% | 15.1–20.1% |
+| [12–13 December 2019](2019-12-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 18.8% | 17.3–20.5% | 16.9–20.9% | 16.5–21.4% | 15.8–22.2% |
+| [11–12 December 2019](2019-12-12-Tecnè.html) | Tecnè <br> RTI | 18.9% | 17.4–20.6% | 16.9–21.0% | 16.6–21.5% | 15.9–22.3% |
+| [12 December 2019](2019-12-12-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 18.0% | 16.5–19.6% | 16.1–20.1% | 15.7–20.5% | 15.0–21.3% |
+| [1–11 December 2019](2019-12-11-Index.html) | Index <br> La7 | 19.2% | 17.5–21.1% | 17.1–21.7% | 16.7–22.1% | 15.9–23.1% |
+| [10–11 December 2019](2019-12-11-EMG.html) | EMG <br> Rai 3 | 19.3% | 18.1–20.7% | 17.7–21.0% | 17.5–21.4% | 16.9–22.0% |
 | [9–10 December 2019](2019-12-10-Ixè.html) | Ixè <br> Rai 3 | 20.8% | 19.2–22.5% | 18.8–23.0% | 18.4–23.4% | 17.7–24.3% |
 | [8–9 December 2019](2019-12-09-Tecnè.html) | Tecnè <br> Rete 4 | 18.6% | 17.1–20.3% | 16.7–20.7% | 16.3–21.1% | 15.6–21.9% |
 | [4–9 December 2019](2019-12-09-SWG.html) | SWG <br> La7 | 18.0% | 16.8–19.3% | 16.4–19.7% | 16.1–20.0% | 15.6–20.7% |
@@ -257,12 +257,12 @@ Last result: **31** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14 | 12–15 | 12–16 | 11–16 | 11–17 |
-| [11–16 December 2019](2019-12-16-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [12–13 December 2019](2019-12-13-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
-| [11–12 December 2019](2019-12-12-Tecnè.html) | Tecnè <br> RTI |  |  |  |  |  |
-| [12 December 2019](2019-12-12-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
-| [1–11 December 2019](2019-12-11-Index.html) | Index <br> La7 |  |  |  |  |  |
-| [10–11 December 2019](2019-12-11-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
+| [11–16 December 2019](2019-12-16-SWG.html) | SWG <br> La7 | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
+| [12–13 December 2019](2019-12-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 14 | 13–15 | 12–16 | 12–16 | 11–17 |
+| [11–12 December 2019](2019-12-12-Tecnè.html) | Tecnè <br> RTI | 14 | 13–16 | 12–16 | 12–16 | 11–17 |
+| [12 December 2019](2019-12-12-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 13 | 12–14 | 11–15 | 11–15 | 11–16 |
+| [1–11 December 2019](2019-12-11-Index.html) | Index <br> La7 | 15 | 13–17 | 13–17 | 12–17 | 11–18 |
+| [10–11 December 2019](2019-12-11-EMG.html) | EMG <br> Rai 3 | 15 | 13–16 | 13–17 | 12–17 | 12–17 |
 | [9–10 December 2019](2019-12-10-Ixè.html) | Ixè <br> Rai 3 | 16 | 15–18 | 14–18 | 14–18 | 13–19 |
 | [8–9 December 2019](2019-12-09-Tecnè.html) | Tecnè <br> Rete 4 | 14 | 12–15 | 12–16 | 12–16 | 11–17 |
 | [4–9 December 2019](2019-12-09-SWG.html) | SWG <br> La7 | 13 | 12–14 | 12–15 | 12–15 | 11–16 |
