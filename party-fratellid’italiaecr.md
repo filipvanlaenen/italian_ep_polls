@@ -13,6 +13,7 @@ Last result: **3.7%** (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 9.8% | 8.4–11.2% | 8.0–11.6% | 7.7–12.0% | 7.0–12.8% |
 | [11–16 December 2019](2019-12-16-SWG.html) | SWG <br> La7 | 10.7% | 9.7–11.8% | 9.4–12.1% | 9.2–12.3% | 8.7–12.9% |
 | [12–13 December 2019](2019-12-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 10.3% | 9.2–11.6% | 8.8–12.0% | 8.6–12.3% | 8.0–13.0% |
+| [11–13 December 2019](2019-12-13-BiDiMedia.html) | BiDiMedia | 9.5% | 8.6–10.6% | 8.3–10.9% | 8.1–11.2% | 7.7–11.7% |
 | [11–12 December 2019](2019-12-12-Tecnè.html) | Tecnè <br> RTI | 10.2% | 9.1–11.5% | 8.7–11.9% | 8.5–12.2% | 8.0–12.9% |
 | [12 December 2019](2019-12-12-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 10.5% | 9.3–11.8% | 9.0–12.2% | 8.7–12.6% | 8.2–13.2% |
 | [1–11 December 2019](2019-12-11-Index.html) | Index <br> La7 | 9.8% | 8.5–11.2% | 8.2–11.6% | 7.9–12.0% | 7.3–12.8% |
@@ -44,7 +45,7 @@ Last result: **3.7%** (General Election of 26 May 2019)
 | [21 November 2019](2019-11-21-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
 | [1–20 November 2019](2019-11-20-EMG.html) | EMG <br> Rai 3 | 9.5% | 8.6–10.5% | 8.3–10.8% | 8.1–11.0% | 7.7–11.6% |
 | [18–19 November 2019](2019-11-19-Ixè.html) | Ixè <br> Rai 3 | 9.9% | 8.8–11.2% | 8.5–11.6% | 8.2–11.9% | 7.7–12.6% |
-| [18–19 November 2019](2019-11-19-BiDiMedia.html) | BiDiMedia | 9.0% | 8.2–10.0% | 7.9–10.3% | 7.7–10.5% | 7.3–11.0% |
+| [18–19 November 2019](2019-11-19-BiDiMedia.html) | BiDiMedia | 8.9% | 8.2–10.0% | 7.9–10.3% | 7.7–10.5% | 7.3–11.0% |
 | [13–18 November 2019](2019-11-18-SWG.html) | SWG <br> La7 | 9.5% | 8.6–10.6% | 8.4–10.9% | 8.1–11.1% | 7.7–11.6% |
 | [14–15 November 2019](2019-11-15-Tecnè.html) | Tecnè <br> Agenzia Dire | 9.3% | 8.2–10.6% | 7.9–10.9% | 7.7–11.3% | 7.2–11.9% |
 | [1–14 November 2019](2019-11-14-Index.html) | Index <br> La7 | 9.0% | 7.8–10.4% | 7.5–10.8% | 7.2–11.2% | 6.7–11.9% |
@@ -67,6 +68,7 @@ Last result: **3.7%** (General Election of 26 May 2019)
 | [29–31 October 2019](2019-10-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 9.8% | 8.7–11.1% | 8.4–11.5% | 8.1–11.8% | 7.6–12.5% |
 | [31 October 2019](2019-10-31-Index.html) | Index <br> La7 | 8.6% | 7.5–10.0% | 7.1–10.4% | 6.9–10.8% | 6.4–11.5% |
 | [30–31 October 2019](2019-10-31-Demopolis.html) | Demopolis <br> Rai 3 | 9.0% | 8.1–10.0% | 7.9–10.3% | 7.7–10.6% | 7.2–11.1% |
+| [30 October 2019](2019-10-30-Tecnè.html) | Tecnè | 8.5% | 7.5–9.7% | 7.2–10.1% | 6.9–10.4% | 6.4–11.0% |
 | [30 October 2019](2019-10-30-EMG.html) | EMG <br> Rai 3 | 9.4% | 8.5–10.4% | 8.2–10.7% | 8.0–11.0% | 7.6–11.5% |
 | [28–29 October 2019](2019-10-29-Ixè.html) | Ixè <br> Rai 3 | 9.5% | 8.4–10.8% | 8.1–11.2% | 7.8–11.5% | 7.3–12.1% |
 | [27 October 2019](2019-10-27-Tecnè.html) | Tecnè <br> Rete 4 | 8.6% | 7.6–9.8% | 7.3–10.2% | 7.0–10.5% | 6.5–11.1% |
@@ -129,7 +131,7 @@ Last result: **3.7%** (General Election of 26 May 2019)
 | [17–18 September 2019](2019-09-18-Euromedia.html) | Euromedia <br> Rai 1 | 7.0% | 6.0–8.3% | 5.7–8.7% | 5.4–9.0% | 5.0–9.6% |
 | [14–18 September 2019](2019-09-18-BiDiMedia.html) | BiDiMedia | 7.2% | 6.4–8.1% | 6.2–8.4% | 6.0–8.6% | 5.6–9.0% |
 | [16–17 September 2019](2019-09-17-Ixè.html) | Ixè <br> Rai 3 | 8.3% | 7.3–9.5% | 7.0–9.9% | 6.7–10.2% | 6.3–10.8% |
-| [17 September 2019](2019-09-17-EMG.html) | EMG <br> Rai 3 | 7.2% | 6.5–8.0% | 6.3–8.3% | 6.1–8.5% | 5.8–8.9% |
+| [17 September 2019](2019-09-17-EMG.html) | EMG <br> Rai 3 | 7.3% | 6.5–8.0% | 6.3–8.3% | 6.1–8.5% | 5.8–8.9% |
 | [15–16 September 2019](2019-09-16-Tecnè.html) | Tecnè <br> Rete 4 | 7.3% | 6.3–8.5% | 6.1–8.8% | 5.8–9.1% | 5.4–9.7% |
 | [11–16 September 2019](2019-09-16-SWG.html) | SWG <br> La7 | 7.0% | 6.2–7.9% | 6.0–8.2% | 5.8–8.4% | 5.5–8.9% |
 | [11–12 September 2019](2019-09-12-TermometroPolitico.html) | Termometro Politico <br> La7 | 7.9% | 7.3–8.6% | 7.1–8.8% | 7.0–8.9% | 6.7–9.3% |
@@ -241,9 +243,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 7–9 | 6–9 | 6–9 | 5–10 |
-| [11–16 December 2019](2019-12-16-SWG.html) | SWG <br> La7 | 8 | 8–9 | 7–9 | 7–10 | 7–10 |
-| [12–13 December 2019](2019-12-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 8 | 7–9 | 7–9 | 7–10 | 6–10 |
-| [11–12 December 2019](2019-12-12-Tecnè.html) | Tecnè <br> RTI | 8 | 7–9 | 7–9 | 7–10 | 6–11 |
+| [11–16 December 2019](2019-12-16-SWG.html) | SWG <br> La7 | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
+| [12–13 December 2019](2019-12-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 8 | 7–10 | 7–10 | 7–10 | 7–11 |
+| [11–13 December 2019](2019-12-13-BiDiMedia.html) | BiDiMedia | 7 | 7–8 | 7–9 | 6–9 | 6–10 |
+| [11–12 December 2019](2019-12-12-Tecnè.html) | Tecnè <br> RTI | 9 | 7–10 | 7–10 | 7–10 | 6–11 |
 | [12 December 2019](2019-12-12-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 9 | 8–9 | 7–10 | 7–10 | 7–11 |
 | [1–11 December 2019](2019-12-11-Index.html) | Index <br> La7 | 8 | 7–9 | 7–9 | 6–10 | 6–10 |
 | [10–11 December 2019](2019-12-11-EMG.html) | EMG <br> Rai 3 | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
@@ -297,6 +300,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [29–31 October 2019](2019-10-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
 | [31 October 2019](2019-10-31-Index.html) | Index <br> La7 | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
 | [30–31 October 2019](2019-10-31-Demopolis.html) | Demopolis <br> Rai 3 | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
+| [30 October 2019](2019-10-30-Tecnè.html) | Tecnè | 7 | 6–7 | 6–8 | 5–8 | 5–9 |
 | [30 October 2019](2019-10-30-EMG.html) | EMG <br> Rai 3 | 7 | 7–8 | 6–9 | 6–9 | 6–9 |
 | [28–29 October 2019](2019-10-29-Ixè.html) | Ixè <br> Rai 3 | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
 | [27 October 2019](2019-10-27-Tecnè.html) | Tecnè <br> Rete 4 | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
