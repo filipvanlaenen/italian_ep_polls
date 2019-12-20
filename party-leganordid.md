@@ -270,17 +270,17 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [12–13 December 2019](2019-12-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 28 | 26–29 | 26–29 | 25–30 | 25–31 |
 | [11–13 December 2019](2019-12-13-BiDiMedia.html) | BiDiMedia | 25 | 24–27 | 24–27 | 23–28 | 23–29 |
 | [11–12 December 2019](2019-12-12-Tecnè.html) | Tecnè <br> RTI | 27 | 25–29 | 25–30 | 25–30 | 24–31 |
-| [12 December 2019](2019-12-12-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 25 | 24–26 | 23–27 | 23–27 | 22–29 |
-| [1–11 December 2019](2019-12-11-Index.html) | Index <br> La7 | 25 | 24–27 | 24–28 | 23–29 | 22–30 |
-| [10–11 December 2019](2019-12-11-EMG.html) | EMG <br> Rai 3 | 25 | 24–26 | 23–27 | 23–27 | 23–28 |
-| [9–10 December 2019](2019-12-10-Ixè.html) | Ixè <br> Rai 3 | 25 | 23–27 | 23–27 | 22–27 | 21–28 |
-| [8–9 December 2019](2019-12-09-Tecnè.html) | Tecnè <br> Rete 4 | 28 | 25–29 | 25–30 | 24–30 | 24–31 |
-| [4–9 December 2019](2019-12-09-SWG.html) | SWG <br> La7 | 26 | 25–28 | 24–28 | 24–28 | 23–29 |
-| [5–6 December 2019](2019-12-06-Tecnè.html) | Tecnè <br> Agenzia Dire | 28 | 26–30 | 25–31 | 25–31 | 24–32 |
-| [6 December 2019](2019-12-06-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 25 | 24–26 | 23–27 | 23–28 | 22–28 |
+| [12 December 2019](2019-12-12-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 26 | 25–28 | 24–29 | 23–29 | 23–30 |
+| [1–11 December 2019](2019-12-11-Index.html) | Index <br> La7 | 27 | 25–28 | 25–28 | 24–29 | 23–30 |
+| [10–11 December 2019](2019-12-11-EMG.html) | EMG <br> Rai 3 | 27 | 25–27 | 25–28 | 24–28 | 24–29 |
+| [9–10 December 2019](2019-12-10-Ixè.html) | Ixè <br> Rai 3 | 26 | 24–27 | 23–28 | 23–28 | 22–29 |
+| [8–9 December 2019](2019-12-09-Tecnè.html) | Tecnè <br> Rete 4 | 28 | 26–29 | 26–30 | 25–31 | 25–32 |
+| [4–9 December 2019](2019-12-09-SWG.html) | SWG <br> La7 | 27 | 26–29 | 26–30 | 25–30 | 24–31 |
+| [5–6 December 2019](2019-12-06-Tecnè.html) | Tecnè <br> Agenzia Dire | 28 | 26–30 | 26–30 | 26–31 | 25–32 |
+| [6 December 2019](2019-12-06-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 26 | 25–28 | 24–28 | 24–29 | 23–29 |
 | [2–6 December 2019](2019-12-06-DemosPi.html) | Demos & Pi <br> La Repubblica | 23 | 22–25 | 21–25 | 21–25 | 20–26 |
-| [4 November–5 December 2019](2019-12-05-TermometroPolitico.html) | Termometro Politico <br> La7 | 27 | 26–29 | 26–29 | 25–29 | 25–30 |
-| [1–4 December 2019](2019-12-04-Index.html) | Index <br> La7 | 26 | 24–28 | 24–29 | 23–29 | 23–30 |
+| [4 November–5 December 2019](2019-12-05-TermometroPolitico.html) | Termometro Politico <br> La7 | 28 | 27–29 | 27–30 | 27–30 | 26–30 |
+| [1–4 December 2019](2019-12-04-Index.html) | Index <br> La7 | 27 | 25–28 | 24–29 | 24–29 | 23–30 |
 | [1–4 December 2019](2019-12-04-Euromedia.html) | Euromedia <br> Rai 1 | 24 | 23–26 | 22–26 | 22–27 | 21–28 |
 | [3–4 December 2019](2019-12-04-EMG.html) | EMG <br> Rai 3 | 25 | 24–27 | 23–27 | 23–27 | 23–28 |
 | [2–3 December 2019](2019-12-03-Ixè.html) | Ixè <br> Rai 3 | 26 | 24–28 | 23–28 | 23–28 | 22–30 |

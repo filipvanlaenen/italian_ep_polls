@@ -246,15 +246,15 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [11–13 December 2019](2019-12-13-BiDiMedia.html) | BiDiMedia | 4 | 3–4 | 3–5 | 0–5 | 0–5 |
 | [11–12 December 2019](2019-12-12-Tecnè.html) | Tecnè <br> RTI | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [12 December 2019](2019-12-12-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
-| [1–11 December 2019](2019-12-11-Index.html) | Index <br> La7 | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
-| [10–11 December 2019](2019-12-11-EMG.html) | EMG <br> Rai 3 | 4 | 4–5 | 3–5 | 3–5 | 0–5 |
-| [9–10 December 2019](2019-12-10-Ixè.html) | Ixè <br> Rai 3 | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
-| [8–9 December 2019](2019-12-09-Tecnè.html) | Tecnè <br> Rete 4 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [4–9 December 2019](2019-12-09-SWG.html) | SWG <br> La7 | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
-| [5–6 December 2019](2019-12-06-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [6 December 2019](2019-12-06-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 4 | 3–5 | 0–5 | 0–5 | 0–5 |
+| [1–11 December 2019](2019-12-11-Index.html) | Index <br> La7 | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
+| [10–11 December 2019](2019-12-11-EMG.html) | EMG <br> Rai 3 | 4 | 4–5 | 4–5 | 3–5 | 0–6 |
+| [9–10 December 2019](2019-12-10-Ixè.html) | Ixè <br> Rai 3 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [8–9 December 2019](2019-12-09-Tecnè.html) | Tecnè <br> Rete 4 | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [4–9 December 2019](2019-12-09-SWG.html) | SWG <br> La7 | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
+| [5–6 December 2019](2019-12-06-Tecnè.html) | Tecnè <br> Agenzia Dire | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [6 December 2019](2019-12-06-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 4 | 3–5 | 0–5 | 0–5 | 0–6 |
 | [2–6 December 2019](2019-12-06-DemosPi.html) | Demos & Pi <br> La Repubblica | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
-| [4 November–5 December 2019](2019-12-05-TermometroPolitico.html) | Termometro Politico <br> La7 | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
+| [4 November–5 December 2019](2019-12-05-TermometroPolitico.html) | Termometro Politico <br> La7 | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [1–4 December 2019](2019-12-04-Index.html) | Index <br> La7 | 4 | 3–5 | 0–5 | 0–5 | 0–6 |
 | [1–4 December 2019](2019-12-04-Euromedia.html) | Euromedia <br> Rai 1 | 4 | 4–5 | 3–6 | 3–6 | 0–6 |
 | [3–4 December 2019](2019-12-04-EMG.html) | EMG <br> Rai 3 | 4 | 4–5 | 3–5 | 3–5 | 0–5 |

@@ -243,11 +243,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [11–13 December 2019](2019-12-13-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
 | [11–12 December 2019](2019-12-12-Tecnè.html) | Tecnè <br> RTI | 0 | 0 | 0 | 0 | 0–4 |
 | [12 December 2019](2019-12-12-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
-| [1–11 December 2019](2019-12-11-Index.html) | Index <br> La7 | 0 | 0 | 0 | 0–3 | 0–4 |
+| [1–11 December 2019](2019-12-11-Index.html) | Index <br> La7 | 0 | 0 | 0 | 0 | 0–4 |
 | [10–11 December 2019](2019-12-11-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [9–10 December 2019](2019-12-10-Ixè.html) | Ixè <br> Rai 3 | 0 | 0 | 0 | 0–3 | 0–4 |
 | [8–9 December 2019](2019-12-09-Tecnè.html) | Tecnè <br> Rete 4 | 0 | 0 | 0 | 0 | 0 |
-| [4–9 December 2019](2019-12-09-SWG.html) | SWG <br> La7 | 0 | 0 | 0–3 | 0–3 | 0–4 |
+| [4–9 December 2019](2019-12-09-SWG.html) | SWG <br> La7 | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | [5–6 December 2019](2019-12-06-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
 | [6 December 2019](2019-12-06-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
 | [2–6 December 2019](2019-12-06-DemosPi.html) | Demos & Pi <br> La Repubblica | 0 | 0 | 0–3 | 0–3 | 0–4 |

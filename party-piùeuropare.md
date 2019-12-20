@@ -245,7 +245,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [12 December 2019](2019-12-12-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
 | [1–11 December 2019](2019-12-11-Index.html) | Index <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [10–11 December 2019](2019-12-11-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
-| [9–10 December 2019](2019-12-10-Ixè.html) | Ixè <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
+| [9–10 December 2019](2019-12-10-Ixè.html) | Ixè <br> Rai 3 | 0 | 0 | 0 | 0 | 0–3 |
 | [8–9 December 2019](2019-12-09-Tecnè.html) | Tecnè <br> Rete 4 | 0 | 0 | 0 | 0 | 0 |
 | [4–9 December 2019](2019-12-09-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [5–6 December 2019](2019-12-06-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
