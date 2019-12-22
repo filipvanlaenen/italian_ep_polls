@@ -255,7 +255,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [1–4 December 2019](2019-12-04-Index.html) | Index <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [1–4 December 2019](2019-12-04-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
 | [3–4 December 2019](2019-12-04-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
-| [2–3 December 2019](2019-12-03-Ixè.html) | Ixè <br> Rai 3 | 0 | 0 | 0 | 0–3 | 0–4 |
+| [2–3 December 2019](2019-12-03-Ixè.html) | Ixè <br> Rai 3 | 0 | 0 | 0–3 | 0–3 | 0–4 |
 | [1–2 December 2019](2019-12-02-Tecnè.html) | Tecnè <br> Rete 4 | 0 | 0 | 0 | 0 | 0 |
 | [27 November–2 December 2019](2019-12-02-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [28–29 November 2019](2019-11-29-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |

@@ -261,24 +261,24 @@ Last result: **13** seats (General Election of 26 May 2019)
 | [2–6 December 2019](2019-12-06-DemosPi.html) | Demos & Pi <br> La Repubblica | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [4 November–5 December 2019](2019-12-05-TermometroPolitico.html) | Termometro Politico <br> La7 | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [1–4 December 2019](2019-12-04-Index.html) | Index <br> La7 | 5 | 4–6 | 4–7 | 4–7 | 4–8 |
-| [1–4 December 2019](2019-12-04-Euromedia.html) | Euromedia <br> Rai 1 | 6 | 5–7 | 4–7 | 4–7 | 4–8 |
-| [3–4 December 2019](2019-12-04-EMG.html) | EMG <br> Rai 3 | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
-| [2–3 December 2019](2019-12-03-Ixè.html) | Ixè <br> Rai 3 | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
-| [1–2 December 2019](2019-12-02-Tecnè.html) | Tecnè <br> Rete 4 | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
-| [27 November–2 December 2019](2019-12-02-SWG.html) | SWG <br> La7 | 4 | 3–5 | 3–5 | 3–5 | 0–5 |
+| [1–4 December 2019](2019-12-04-Euromedia.html) | Euromedia <br> Rai 1 | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
+| [3–4 December 2019](2019-12-04-EMG.html) | EMG <br> Rai 3 | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
+| [2–3 December 2019](2019-12-03-Ixè.html) | Ixè <br> Rai 3 | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
+| [1–2 December 2019](2019-12-02-Tecnè.html) | Tecnè <br> Rete 4 | 6 | 5–8 | 5–8 | 5–8 | 5–9 |
+| [27 November–2 December 2019](2019-12-02-SWG.html) | SWG <br> La7 | 4 | 4–5 | 4–5 | 3–6 | 0–6 |
 | [28–29 November 2019](2019-11-29-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
-| [27–28 November 2019](2019-11-28-TermometroPolitico.html) | Termometro Politico <br> La7 | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
-| [26–27 November 2019](2019-11-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
-| [1–27 November 2019](2019-11-27-Index.html) | Index <br> La7 | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
-| [27 November 2019](2019-11-27-EMG.html) | EMG <br> Rai 3 | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
+| [27–28 November 2019](2019-11-28-TermometroPolitico.html) | Termometro Politico <br> La7 | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| [26–27 November 2019](2019-11-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
+| [1–27 November 2019](2019-11-27-Index.html) | Index <br> La7 | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
+| [27 November 2019](2019-11-27-EMG.html) | EMG <br> Rai 3 | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [25–26 November 2019](2019-11-26-Ixè.html) | Ixè <br> Rai 3 | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
-| [24–25 November 2019](2019-11-25-Tecnè.html) | Tecnè <br> Rete 4 | 6 | 6–7 | 5–8 | 5–8 | 5–9 |
+| [24–25 November 2019](2019-11-25-Tecnè.html) | Tecnè <br> Rete 4 | 7 | 6–7 | 5–8 | 5–8 | 5–9 |
 | [20–25 November 2019](2019-11-25-SWG.html) | SWG <br> La7 | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [21–22 November 2019](2019-11-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 6 | 6–7 | 5–8 | 5–8 | 5–8 |
-| [21–22 November 2019](2019-11-22-Piepoli.html) | Piepoli <br> Rai 2 | 6 | 5–7 | 5–8 | 4–8 | 4–9 |
+| [21–22 November 2019](2019-11-22-Piepoli.html) | Piepoli <br> Rai 2 | 6 | 5–7 | 5–8 | 5–8 | 4–9 |
 | [20–21 November 2019](2019-11-21-TermometroPolitico.html) | Termometro Politico <br> La7 | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
-| [21 November 2019](2019-11-21-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
-| [1–20 November 2019](2019-11-20-EMG.html) | EMG <br> Rai 3 | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
+| [21 November 2019](2019-11-21-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
+| [1–20 November 2019](2019-11-20-EMG.html) | EMG <br> Rai 3 | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [18–19 November 2019](2019-11-19-Ixè.html) | Ixè <br> Rai 3 | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
 | [18–19 November 2019](2019-11-19-BiDiMedia.html) | BiDiMedia | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [13–18 November 2019](2019-11-18-SWG.html) | SWG <br> La7 | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
@@ -457,13 +457,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.8% | 100% |  |
-| 4 | 20% | 99.2% |  |
-| 5 | 39% | 79% | Median |
-| 6 | 25% | 40% |  |
-| 7 | 12% | 15% |  |
+| 3 | 0.6% | 100% |  |
+| 4 | 18% | 99.3% |  |
+| 5 | 38% | 82% | Median |
+| 6 | 29% | 44% |  |
+| 7 | 11% | 15% |  |
 | 8 | 4% | 4% |  |
-| 9 | 0.3% | 0.3% |  |
+| 9 | 0.4% | 0.4% |  |
 | 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |

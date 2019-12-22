@@ -242,7 +242,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 7–9 | 6–9 | 6–9 | 5–10 |
+| N/A | [Poll Average](average.html) | 8 | 7–9 | 6–9 | 6–10 | 5–10 |
 | [11–16 December 2019](2019-12-16-SWG.html) | SWG <br> La7 | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
 | [12–13 December 2019](2019-12-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 8 | 7–10 | 7–10 | 7–10 | 7–11 |
 | [11–13 December 2019](2019-12-13-BiDiMedia.html) | BiDiMedia | 7 | 7–8 | 7–9 | 6–9 | 6–10 |
@@ -258,24 +258,24 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [2–6 December 2019](2019-12-06-DemosPi.html) | Demos & Pi <br> La Repubblica | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
 | [4 November–5 December 2019](2019-12-05-TermometroPolitico.html) | Termometro Politico <br> La7 | 8 | 8–9 | 8–9 | 7–9 | 7–10 |
 | [1–4 December 2019](2019-12-04-Index.html) | Index <br> La7 | 8 | 7–9 | 7–9 | 6–10 | 6–10 |
-| [1–4 December 2019](2019-12-04-Euromedia.html) | Euromedia <br> Rai 1 | 8 | 7–9 | 6–9 | 6–10 | 6–10 |
-| [3–4 December 2019](2019-12-04-EMG.html) | EMG <br> Rai 3 | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
-| [2–3 December 2019](2019-12-03-Ixè.html) | Ixè <br> Rai 3 | 9 | 8–10 | 8–10 | 8–11 | 7–11 |
-| [1–2 December 2019](2019-12-02-Tecnè.html) | Tecnè <br> Rete 4 | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
-| [27 November–2 December 2019](2019-12-02-SWG.html) | SWG <br> La7 | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
+| [1–4 December 2019](2019-12-04-Euromedia.html) | Euromedia <br> Rai 1 | 8 | 7–9 | 7–10 | 7–10 | 6–11 |
+| [3–4 December 2019](2019-12-04-EMG.html) | EMG <br> Rai 3 | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
+| [2–3 December 2019](2019-12-03-Ixè.html) | Ixè <br> Rai 3 | 9 | 8–10 | 8–10 | 7–11 | 7–12 |
+| [1–2 December 2019](2019-12-02-Tecnè.html) | Tecnè <br> Rete 4 | 8 | 7–9 | 6–9 | 6–10 | 6–10 |
+| [27 November–2 December 2019](2019-12-02-SWG.html) | SWG <br> La7 | 8 | 7–9 | 7–9 | 7–10 | 7–10 |
 | [28–29 November 2019](2019-11-29-Tecnè.html) | Tecnè <br> Agenzia Dire | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
-| [27–28 November 2019](2019-11-28-TermometroPolitico.html) | Termometro Politico <br> La7 | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
-| [26–27 November 2019](2019-11-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 8 | 7–9 | 7–9 | 7–10 | 6–10 |
-| [1–27 November 2019](2019-11-27-Index.html) | Index <br> La7 | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
-| [27 November 2019](2019-11-27-EMG.html) | EMG <br> Rai 3 | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
+| [27–28 November 2019](2019-11-28-TermometroPolitico.html) | Termometro Politico <br> La7 | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
+| [26–27 November 2019](2019-11-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 8 | 8–10 | 7–10 | 7–10 | 7–11 |
+| [1–27 November 2019](2019-11-27-Index.html) | Index <br> La7 | 7 | 6–8 | 6–9 | 6–9 | 5–10 |
+| [27 November 2019](2019-11-27-EMG.html) | EMG <br> Rai 3 | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
 | [25–26 November 2019](2019-11-26-Ixè.html) | Ixè <br> Rai 3 | 8 | 8–10 | 7–10 | 7–10 | 7–11 |
-| [24–25 November 2019](2019-11-25-Tecnè.html) | Tecnè <br> Rete 4 | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
+| [24–25 November 2019](2019-11-25-Tecnè.html) | Tecnè <br> Rete 4 | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | [20–25 November 2019](2019-11-25-SWG.html) | SWG <br> La7 | 8 | 8–9 | 7–9 | 7–10 | 7–10 |
 | [21–22 November 2019](2019-11-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 6–8 | 6–9 | 6–9 | 6–9 |
-| [21–22 November 2019](2019-11-22-Piepoli.html) | Piepoli <br> Rai 2 | 7 | 6–8 | 6–9 | 5–9 | 5–10 |
-| [20–21 November 2019](2019-11-21-TermometroPolitico.html) | Termometro Politico <br> La7 | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
-| [21 November 2019](2019-11-21-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
-| [1–20 November 2019](2019-11-20-EMG.html) | EMG <br> Rai 3 | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
+| [21–22 November 2019](2019-11-22-Piepoli.html) | Piepoli <br> Rai 2 | 7 | 6–8 | 5–9 | 5–9 | 5–10 |
+| [20–21 November 2019](2019-11-21-TermometroPolitico.html) | Termometro Politico <br> La7 | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
+| [21 November 2019](2019-11-21-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
+| [1–20 November 2019](2019-11-20-EMG.html) | EMG <br> Rai 3 | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
 | [18–19 November 2019](2019-11-19-Ixè.html) | Ixè <br> Rai 3 | 8 | 7–9 | 7–9 | 7–10 | 6–10 |
 | [18–19 November 2019](2019-11-19-BiDiMedia.html) | BiDiMedia | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [13–18 November 2019](2019-11-18-SWG.html) | SWG <br> La7 | 8 | 7–8 | 7–9 | 7–9 | 6–10 |
@@ -459,13 +459,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0.6% | 100% |  |
-| 6 | 9% | 99.4% |  |
-| 7 | 34% | 91% |  |
-| 8 | 39% | 57% | Median |
-| 9 | 16% | 18% |  |
-| 10 | 2% | 2% |  |
-| 11 | 0.1% | 0.1% |  |
+| 5 | 0.7% | 100% |  |
+| 6 | 8% | 99.3% |  |
+| 7 | 32% | 91% |  |
+| 8 | 37% | 59% | Median |
+| 9 | 19% | 22% |  |
+| 10 | 3% | 3% |  |
+| 11 | 0.2% | 0.2% |  |
 | 12 | 0% | 0% |  |
 
 
