@@ -12,14 +12,14 @@ Last result: **0.0%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.0% | 0.3–1.8% | 0.2–2.0% | 0.2–2.2% | 0.1–2.7% |
 | [20–24 December 2019](2019-12-24-MGResearch.html) | MG Research | 0.0% | N/A | N/A | N/A | N/A |
-| [18–23 December 2019](2019-12-23-SWG.html) | SWG <br> La7 | 1.0% | N/A | N/A | N/A | N/A |
+| [18–23 December 2019](2019-12-23-SWG.html) | SWG <br> La7 | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.9% |
 | [19–20 December 2019](2019-12-20-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
-| [18–19 December 2019](2019-12-19-TermometroPolitico.html) | Termometro Politico <br> La7 | 0.4% | N/A | N/A | N/A | N/A |
+| [18–19 December 2019](2019-12-19-TermometroPolitico.html) | Termometro Politico <br> La7 | 0.4% | 0.3–0.6% | 0.2–0.7% | 0.2–0.7% | 0.2–0.8% |
 | [18–19 December 2019](2019-12-19-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.0% | N/A | N/A | N/A | N/A |
-| [18 December 2019](2019-12-18-Index.html) | Index <br> La7 | 1.0% | N/A | N/A | N/A | N/A |
-| [17–18 December 2019](2019-12-18-EMG.html) | EMG <br> Rai 3 | 1.0% | N/A | N/A | N/A | N/A |
+| [18 December 2019](2019-12-18-Index.html) | Index <br> La7 | 1.0% | 0.7–1.6% | 0.6–1.8% | 0.5–2.0% | 0.4–2.3% |
+| [17–18 December 2019](2019-12-18-EMG.html) | EMG <br> Rai 3 | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% |
 | [17–18 December 2019](2019-12-18-Demopolis.html) | Demopolis <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
-| [16–17 December 2019](2019-12-17-Ixè.html) | Ixè <br> Rai 3 | 1.0% | N/A | N/A | N/A | N/A |
+| [16–17 December 2019](2019-12-17-Ixè.html) | Ixè <br> Rai 3 | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [11–16 December 2019](2019-12-16-SWG.html) | SWG <br> La7 | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.9% |
 | [16 December 2019](2019-12-16-Euromedia.html) | Euromedia <br> Rai 1 | 0.6% | N/A | N/A | N/A | N/A |
 | [12–13 December 2019](2019-12-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
@@ -247,14 +247,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [20–24 December 2019](2019-12-24-MGResearch.html) | MG Research |  |  |  |  |  |
-| [18–23 December 2019](2019-12-23-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [18–23 December 2019](2019-12-23-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [19–20 December 2019](2019-12-20-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
-| [18–19 December 2019](2019-12-19-TermometroPolitico.html) | Termometro Politico <br> La7 |  |  |  |  |  |
+| [18–19 December 2019](2019-12-19-TermometroPolitico.html) | Termometro Politico <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [18–19 December 2019](2019-12-19-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
-| [18 December 2019](2019-12-18-Index.html) | Index <br> La7 |  |  |  |  |  |
-| [17–18 December 2019](2019-12-18-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
+| [18 December 2019](2019-12-18-Index.html) | Index <br> La7 | 0 | 0 | 0 | 0 | 0 |
+| [17–18 December 2019](2019-12-18-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [17–18 December 2019](2019-12-18-Demopolis.html) | Demopolis <br> Rai 3 |  |  |  |  |  |
-| [16–17 December 2019](2019-12-17-Ixè.html) | Ixè <br> Rai 3 |  |  |  |  |  |
+| [16–17 December 2019](2019-12-17-Ixè.html) | Ixè <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [11–16 December 2019](2019-12-16-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [16 December 2019](2019-12-16-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
 | [12–13 December 2019](2019-12-13-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |

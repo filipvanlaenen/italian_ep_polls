@@ -12,14 +12,14 @@ Last result: **0.0%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5.3% | 4.2–6.3% | 3.9–6.6% | 3.6–6.9% | 3.2–7.5% |
 | [20–24 December 2019](2019-12-24-MGResearch.html) | MG Research | 4.5% | 3.7–5.5% | 3.4–5.9% | 3.2–6.1% | 2.9–6.7% |
-| [18–23 December 2019](2019-12-23-SWG.html) | SWG <br> La7 | 4.7% | N/A | N/A | N/A | N/A |
-| [19–20 December 2019](2019-12-20-Tecnè.html) | Tecnè <br> Agenzia Dire | 4.0% | N/A | N/A | N/A | N/A |
-| [18–19 December 2019](2019-12-19-TermometroPolitico.html) | Termometro Politico <br> La7 | 4.9% | N/A | N/A | N/A | N/A |
-| [18–19 December 2019](2019-12-19-Ipsos.html) | Ipsos <br> Corriere della Sera | 5.3% | N/A | N/A | N/A | N/A |
-| [18 December 2019](2019-12-18-Index.html) | Index <br> La7 | 4.4% | N/A | N/A | N/A | N/A |
-| [17–18 December 2019](2019-12-18-EMG.html) | EMG <br> Rai 3 | 5.0% | N/A | N/A | N/A | N/A |
-| [17–18 December 2019](2019-12-18-Demopolis.html) | Demopolis <br> Rai 3 | 4.5% | N/A | N/A | N/A | N/A |
-| [16–17 December 2019](2019-12-17-Ixè.html) | Ixè <br> Rai 3 | 3.6% | N/A | N/A | N/A | N/A |
+| [18–23 December 2019](2019-12-23-SWG.html) | SWG <br> La7 | 4.7% | 4.1–5.5% | 3.9–5.7% | 3.8–5.9% | 3.5–6.3% |
+| [19–20 December 2019](2019-12-20-Tecnè.html) | Tecnè <br> Agenzia Dire | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
+| [18–19 December 2019](2019-12-19-TermometroPolitico.html) | Termometro Politico <br> La7 | 4.9% | 4.4–5.5% | 4.3–5.6% | 4.2–5.7% | 4.0–6.0% |
+| [18–19 December 2019](2019-12-19-Ipsos.html) | Ipsos <br> Corriere della Sera | 5.3% | 4.5–6.3% | 4.3–6.6% | 4.1–6.9% | 3.7–7.4% |
+| [18 December 2019](2019-12-18-Index.html) | Index <br> La7 | 4.4% | 3.6–5.5% | 3.4–5.8% | 3.2–6.0% | 2.8–6.6% |
+| [17–18 December 2019](2019-12-18-EMG.html) | EMG <br> Rai 3 | 5.0% | 4.4–5.8% | 4.2–6.0% | 4.0–6.2% | 3.7–6.6% |
+| [17–18 December 2019](2019-12-18-Demopolis.html) | Demopolis <br> Rai 3 | 4.5% | 3.9–5.3% | 3.7–5.5% | 3.6–5.7% | 3.3–6.1% |
+| [16–17 December 2019](2019-12-17-Ixè.html) | Ixè <br> Rai 3 | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
 | [11–16 December 2019](2019-12-16-SWG.html) | SWG <br> La7 | 5.1% | 4.4–5.9% | 4.2–6.1% | 4.1–6.3% | 3.8–6.7% |
 | [16 December 2019](2019-12-16-Euromedia.html) | Euromedia <br> Rai 1 | 5.0% | N/A | N/A | N/A | N/A |
 | [12–13 December 2019](2019-12-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.8% | 3.1–4.7% | 2.9–5.0% | 2.8–5.2% | 2.5–5.6% |
@@ -252,14 +252,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–5 | 0–5 | 0–5 | 0–6 |
 | [20–24 December 2019](2019-12-24-MGResearch.html) | MG Research | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
-| [18–23 December 2019](2019-12-23-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [19–20 December 2019](2019-12-20-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
-| [18–19 December 2019](2019-12-19-TermometroPolitico.html) | Termometro Politico <br> La7 |  |  |  |  |  |
-| [18–19 December 2019](2019-12-19-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
-| [18 December 2019](2019-12-18-Index.html) | Index <br> La7 |  |  |  |  |  |
-| [17–18 December 2019](2019-12-18-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
-| [17–18 December 2019](2019-12-18-Demopolis.html) | Demopolis <br> Rai 3 |  |  |  |  |  |
-| [16–17 December 2019](2019-12-17-Ixè.html) | Ixè <br> Rai 3 |  |  |  |  |  |
+| [18–23 December 2019](2019-12-23-SWG.html) | SWG <br> La7 | 4 | 3–5 | 0–5 | 0–5 | 0–5 |
+| [19–20 December 2019](2019-12-20-Tecnè.html) | Tecnè <br> Agenzia Dire | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [18–19 December 2019](2019-12-19-TermometroPolitico.html) | Termometro Politico <br> La7 | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
+| [18–19 December 2019](2019-12-19-Ipsos.html) | Ipsos <br> Corriere della Sera | 4 | 4–5 | 3–5 | 3–5 | 0–6 |
+| [18 December 2019](2019-12-18-Index.html) | Index <br> La7 | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
+| [17–18 December 2019](2019-12-18-EMG.html) | EMG <br> Rai 3 | 4 | 4–5 | 4–5 | 3–5 | 0–5 |
+| [17–18 December 2019](2019-12-18-Demopolis.html) | Demopolis <br> Rai 3 | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [16–17 December 2019](2019-12-17-Ixè.html) | Ixè <br> Rai 3 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [11–16 December 2019](2019-12-16-SWG.html) | SWG <br> La7 | 4 | 4–5 | 4–5 | 3–5 | 0–6 |
 | [16 December 2019](2019-12-16-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
 | [12–13 December 2019](2019-12-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
