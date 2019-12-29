@@ -21,7 +21,7 @@ Last result: **16.8%** (General Election of 26 May 2019)
 | [17–18 December 2019](2019-12-18-Demopolis.html) | Demopolis <br> Rai 3 | 5.8% | 5.1–6.7% | 4.9–6.9% | 4.7–7.1% | 4.4–7.5% |
 | [16–17 December 2019](2019-12-17-Ixè.html) | Ixè <br> Rai 3 | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.3% |
 | [11–16 December 2019](2019-12-16-SWG.html) | SWG <br> La7 | 5.7% | 5.0–6.5% | 4.8–6.8% | 4.6–7.0% | 4.3–7.4% |
-| [16 December 2019](2019-12-16-Euromedia.html) | Euromedia <br> Rai 1 | 6.9% | N/A | N/A | N/A | N/A |
+| [16 December 2019](2019-12-16-Euromedia.html) | Euromedia <br> Rai 1 | 6.9% | 5.9–8.2% | 5.6–8.5% | 5.3–8.9% | 4.9–9.5% |
 | [12–13 December 2019](2019-12-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 7.9% | 6.9–9.1% | 6.6–9.4% | 6.4–9.7% | 5.9–10.3% |
 | [11–13 December 2019](2019-12-13-BiDiMedia.html) | BiDiMedia | 5.8% | 5.1–6.7% | 4.9–7.0% | 4.7–7.2% | 4.4–7.6% |
 | [11–12 December 2019](2019-12-12-Tecnè.html) | Tecnè <br> RTI | 7.9% | 6.9–9.1% | 6.6–9.4% | 6.4–9.7% | 5.9–10.3% |
@@ -266,7 +266,7 @@ Last result: **13** seats (General Election of 26 May 2019)
 | [17–18 December 2019](2019-12-18-Demopolis.html) | Demopolis <br> Rai 3 | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [16–17 December 2019](2019-12-17-Ixè.html) | Ixè <br> Rai 3 | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | [11–16 December 2019](2019-12-16-SWG.html) | SWG <br> La7 | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
-| [16 December 2019](2019-12-16-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
+| [16 December 2019](2019-12-16-Euromedia.html) | Euromedia <br> Rai 1 | 5 | 5–6 | 5–7 | 4–7 | 4–8 |
 | [12–13 December 2019](2019-12-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 6 | 6–8 | 6–8 | 5–8 | 5–9 |
 | [11–13 December 2019](2019-12-13-BiDiMedia.html) | BiDiMedia | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [11–12 December 2019](2019-12-12-Tecnè.html) | Tecnè <br> RTI | 7 | 6–7 | 5–8 | 5–8 | 5–9 |
