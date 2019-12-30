@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.3% | 4.2–6.3% | 3.9–6.6% | 3.6–6.9% | 3.2–7.5% |
+| N/A | [Poll Average](average.html) | 4.5% | 3.4–5.6% | 3.1–5.9% | 2.9–6.2% | 2.6–6.8% |
 | [20–24 December 2019](2019-12-24-MGResearch.html) | MG Research | 4.5% | 3.7–5.5% | 3.4–5.9% | 3.2–6.1% | 2.9–6.7% |
 | [18–23 December 2019](2019-12-23-SWG.html) | SWG <br> La7 | 4.7% | 4.1–5.5% | 3.9–5.7% | 3.8–5.9% | 3.5–6.3% |
 | [19–20 December 2019](2019-12-20-Tecnè.html) | Tecnè <br> Agenzia Dire | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
@@ -232,13 +232,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 2% | 100% |  |
-| 3.5–4.5% | 17% | 98% |  |
-| 4.5–5.5% | 45% | 81% | Median |
-| 5.5–6.5% | 30% | 36% |  |
-| 6.5–7.5% | 5% | 6% |  |
-| 7.5–8.5% | 0.4% | 0.5% |  |
+| 1.5–2.5% | 0.5% | 100% |  |
+| 2.5–3.5% | 13% | 99.5% |  |
+| 3.5–4.5% | 36% | 86% |  |
+| 4.5–5.5% | 39% | 50% | Median |
+| 5.5–6.5% | 9% | 10% |  |
+| 6.5–7.5% | 0.9% | 0.9% |  |
+| 7.5–8.5% | 0% | 0% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
 
@@ -250,7 +250,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–5 | 0–5 | 0–5 | 0–6 |
+| N/A | [Poll Average](average.html) | 4 | 0–4 | 0–5 | 0–5 | 0–6 |
 | [20–24 December 2019](2019-12-24-MGResearch.html) | MG Research | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [18–23 December 2019](2019-12-23-SWG.html) | SWG <br> La7 | 4 | 3–5 | 0–5 | 0–5 | 0–5 |
 | [19–20 December 2019](2019-12-20-Tecnè.html) | Tecnè <br> Agenzia Dire | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
@@ -472,13 +472,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 7% | 100% | Last Result |
-| 1 | 0% | 93% |  |
-| 2 | 0% | 93% |  |
-| 3 | 11% | 93% |  |
-| 4 | 53% | 82% | Median |
-| 5 | 27% | 29% |  |
-| 6 | 2% | 2% |  |
+| 0 | 28% | 100% | Last Result |
+| 1 | 0% | 72% |  |
+| 2 | 0% | 72% |  |
+| 3 | 16% | 72% |  |
+| 4 | 47% | 56% | Median |
+| 5 | 8% | 9% |  |
+| 6 | 0.9% | 0.9% |  |
 | 7 | 0% | 0% |  |
 
 
