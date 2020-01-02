@@ -12,6 +12,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.7% | 1.1–2.6% | 1.0–2.9% | 0.9–3.1% | 0.7–3.6% |
 | [20–24 December 2019](2019-12-24-MGResearch.html) | MG Research | 2.1% | 1.6–2.9% | 1.4–3.1% | 1.3–3.4% | 1.1–3.8% |
+| [22–23 December 2019](2019-12-23-Tecnè.html) | Tecnè <br> TGcom24 | 1.6% | N/A | N/A | N/A | N/A |
 | [18–23 December 2019](2019-12-23-SWG.html) | SWG <br> La7 | 1.6% | 1.2–2.1% | 1.2–2.3% | 1.1–2.4% | 0.9–2.6% |
 | [19–20 December 2019](2019-12-20-Tecnè.html) | Tecnè <br> Agenzia Dire | 1.8% | 1.4–2.5% | 1.2–2.7% | 1.1–2.8% | 1.0–3.2% |
 | [18–19 December 2019](2019-12-19-TermometroPolitico.html) | Termometro Politico <br> La7 | 1.1% | 0.9–1.4% | 0.8–1.5% | 0.8–1.6% | 0.7–1.7% |
@@ -230,11 +231,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 37% | 100% |  |
-| 1.5–2.5% | 51% | 63% | Median |
-| 2.5–3.5% | 11% | 12% |  |
-| 3.5–4.5% | 0.5% | 0.5% |  |
+| 0.0–0.5% | 0.1% | 100% | Last Result |
+| 0.5–1.5% | 38% | 99.9% |  |
+| 1.5–2.5% | 49% | 62% | Median |
+| 2.5–3.5% | 12% | 12% |  |
+| 3.5–4.5% | 0.6% | 0.6% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -248,6 +249,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [20–24 December 2019](2019-12-24-MGResearch.html) | MG Research | 0 | 0 | 0 | 0 | 0 |
+| [22–23 December 2019](2019-12-23-Tecnè.html) | Tecnè <br> TGcom24 |  |  |  |  |  |
 | [18–23 December 2019](2019-12-23-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [19–20 December 2019](2019-12-20-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
 | [18–19 December 2019](2019-12-19-TermometroPolitico.html) | Termometro Politico <br> La7 | 0 | 0 | 0 | 0 | 0 |
@@ -471,7 +473,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 99.9% | 100% | Last Result, Median |
 | 1 | 0% | 0.1% |  |
 | 2 | 0% | 0.1% |  |
-| 3 | 0% | 0.1% |  |
+| 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
 

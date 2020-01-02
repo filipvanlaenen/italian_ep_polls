@@ -10,8 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.5% | 3.4–5.6% | 3.1–5.9% | 2.9–6.2% | 2.6–6.8% |
+| N/A | [Poll Average](average.html) | 4.6% | 3.4–5.6% | 3.1–5.9% | 2.9–6.2% | 2.6–6.8% |
 | [20–24 December 2019](2019-12-24-MGResearch.html) | MG Research | 4.5% | 3.7–5.5% | 3.4–5.9% | 3.2–6.1% | 2.9–6.7% |
+| [22–23 December 2019](2019-12-23-Tecnè.html) | Tecnè <br> TGcom24 | 4.0% | N/A | N/A | N/A | N/A |
 | [18–23 December 2019](2019-12-23-SWG.html) | SWG <br> La7 | 4.7% | 4.1–5.5% | 3.9–5.7% | 3.8–5.9% | 3.5–6.3% |
 | [19–20 December 2019](2019-12-20-Tecnè.html) | Tecnè <br> Agenzia Dire | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
 | [18–19 December 2019](2019-12-19-TermometroPolitico.html) | Termometro Politico <br> La7 | 4.9% | 4.4–5.5% | 4.3–5.6% | 4.2–5.7% | 4.0–6.0% |
@@ -234,10 +235,10 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0.5% | 100% |  |
 | 2.5–3.5% | 13% | 99.5% |  |
-| 3.5–4.5% | 36% | 86% |  |
-| 4.5–5.5% | 39% | 50% | Median |
-| 5.5–6.5% | 9% | 10% |  |
-| 6.5–7.5% | 0.9% | 0.9% |  |
+| 3.5–4.5% | 35% | 87% |  |
+| 4.5–5.5% | 41% | 52% | Median |
+| 5.5–6.5% | 10% | 11% |  |
+| 6.5–7.5% | 0.9% | 1.0% |  |
 | 7.5–8.5% | 0% | 0% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
@@ -252,6 +253,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 0–4 | 0–5 | 0–5 | 0–6 |
 | [20–24 December 2019](2019-12-24-MGResearch.html) | MG Research | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
+| [22–23 December 2019](2019-12-23-Tecnè.html) | Tecnè <br> TGcom24 |  |  |  |  |  |
 | [18–23 December 2019](2019-12-23-SWG.html) | SWG <br> La7 | 4 | 3–5 | 0–5 | 0–5 | 0–5 |
 | [19–20 December 2019](2019-12-20-Tecnè.html) | Tecnè <br> Agenzia Dire | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [18–19 December 2019](2019-12-19-TermometroPolitico.html) | Termometro Politico <br> La7 | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
@@ -472,13 +474,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 28% | 100% | Last Result |
-| 1 | 0% | 72% |  |
-| 2 | 0% | 72% |  |
-| 3 | 16% | 72% |  |
-| 4 | 47% | 56% | Median |
-| 5 | 8% | 9% |  |
-| 6 | 0.9% | 0.9% |  |
+| 0 | 27% | 100% | Last Result |
+| 1 | 0% | 73% |  |
+| 2 | 0% | 73% |  |
+| 3 | 15% | 73% |  |
+| 4 | 48% | 58% | Median |
+| 5 | 9% | 10% |  |
+| 6 | 1.0% | 1.0% |  |
 | 7 | 0% | 0% |  |
 
 

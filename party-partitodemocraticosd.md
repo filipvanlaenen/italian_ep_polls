@@ -10,8 +10,9 @@ Last result: **40.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.7% | 16.9–20.5% | 16.3–21.1% | 15.9–21.6% | 15.0–22.5% |
+| N/A | [Poll Average](average.html) | 18.7% | 16.8–20.5% | 16.3–21.1% | 15.8–21.5% | 15.0–22.5% |
 | [20–24 December 2019](2019-12-24-MGResearch.html) | MG Research | 19.2% | 17.5–21.1% | 17.0–21.6% | 16.6–22.1% | 15.9–23.0% |
+| [22–23 December 2019](2019-12-23-Tecnè.html) | Tecnè <br> TGcom24 | 19.1% | N/A | N/A | N/A | N/A |
 | [18–23 December 2019](2019-12-23-SWG.html) | SWG <br> La7 | 17.0% | 15.8–18.3% | 15.5–18.7% | 15.2–19.0% | 14.6–19.6% |
 | [19–20 December 2019](2019-12-20-Tecnè.html) | Tecnè <br> Agenzia Dire | 19.1% | 17.6–20.8% | 17.1–21.2% | 16.8–21.7% | 16.1–22.5% |
 | [18–19 December 2019](2019-12-19-TermometroPolitico.html) | Termometro Politico <br> La7 | 18.5% | 17.6–19.4% | 17.4–19.7% | 17.1–19.9% | 16.7–20.4% |
@@ -232,14 +233,14 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0.2% | 100% |  |
-| 14.5–15.5% | 1.2% | 99.8% |  |
-| 15.5–16.5% | 5% | 98.6% |  |
+| 14.5–15.5% | 1.3% | 99.8% |  |
+| 15.5–16.5% | 6% | 98% |  |
 | 16.5–17.5% | 14% | 93% |  |
-| 17.5–18.5% | 25% | 80% |  |
-| 18.5–19.5% | 28% | 55% | Median |
-| 19.5–20.5% | 17% | 27% |  |
-| 20.5–21.5% | 7% | 10% |  |
-| 21.5–22.5% | 2% | 3% |  |
+| 17.5–18.5% | 25% | 79% |  |
+| 18.5–19.5% | 27% | 53% | Median |
+| 19.5–20.5% | 17% | 26% |  |
+| 20.5–21.5% | 7% | 9% |  |
+| 21.5–22.5% | 2% | 2% |  |
 | 22.5–23.5% | 0.4% | 0.5% |  |
 | 23.5–24.5% | 0.1% | 0.1% |  |
 | 24.5–25.5% | 0% | 0% |  |
@@ -269,8 +270,9 @@ Last result: **31** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 13–16 | 12–17 | 12–17 | 11–18 |
+| N/A | [Poll Average](average.html) | 14 | 12–16 | 12–17 | 12–17 | 11–18 |
 | [20–24 December 2019](2019-12-24-MGResearch.html) | MG Research | 14 | 12–15 | 12–16 | 12–16 | 11–17 |
+| [22–23 December 2019](2019-12-23-Tecnè.html) | Tecnè <br> TGcom24 |  |  |  |  |  |
 | [18–23 December 2019](2019-12-23-SWG.html) | SWG <br> La7 | 13 | 12–14 | 12–15 | 11–15 | 11–16 |
 | [19–20 December 2019](2019-12-20-Tecnè.html) | Tecnè <br> Agenzia Dire | 15 | 13–16 | 13–17 | 13–17 | 12–18 |
 | [18–19 December 2019](2019-12-19-TermometroPolitico.html) | Termometro Politico <br> La7 | 14 | 13–15 | 13–15 | 13–15 | 13–16 |
@@ -337,7 +339,7 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [29–31 October 2019](2019-10-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 13 | 12–14 | 11–14 | 11–15 | 10–15 |
 | [31 October 2019](2019-10-31-Index.html) | Index <br> La7 | 15 | 13–16 | 13–16 | 12–17 | 12–17 |
 | [30–31 October 2019](2019-10-31-Demopolis.html) | Demopolis <br> Rai 3 | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
-| [30 October 2019](2019-10-30-Tecnè.html) | Tecnè | 15 | 14–16 | 13–16 | 13–16 | 12–17 |
+| [30 October 2019](2019-10-30-Tecnè.html) | Tecnè | 15 | 13–16 | 13–16 | 12–16 | 12–18 |
 | [30 October 2019](2019-10-30-EMG.html) | EMG <br> Rai 3 | 14 | 14–15 | 13–16 | 13–16 | 12–17 |
 | [28–29 October 2019](2019-10-29-Ixè.html) | Ixè <br> Rai 3 | 15 | 14–17 | 14–17 | 13–17 | 13–18 |
 | [27 October 2019](2019-10-27-Tecnè.html) | Tecnè <br> Rete 4 | 15 | 13–16 | 13–16 | 13–17 | 12–17 |
@@ -491,14 +493,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.1% | 100% |  |
-| 11 | 1.3% | 99.9% |  |
-| 12 | 9% | 98.6% |  |
-| 13 | 25% | 90% |  |
-| 14 | 27% | 65% | Median |
-| 15 | 21% | 38% |  |
-| 16 | 10% | 17% |  |
-| 17 | 6% | 7% |  |
+| 10 | 0.2% | 100% |  |
+| 11 | 1.4% | 99.8% |  |
+| 12 | 9% | 98% |  |
+| 13 | 26% | 89% |  |
+| 14 | 27% | 63% | Median |
+| 15 | 20% | 36% |  |
+| 16 | 9% | 16% |  |
+| 17 | 6% | 8% |  |
 | 18 | 2% | 2% |  |
 | 19 | 0.2% | 0.3% |  |
 | 20 | 0.1% | 0.1% |  |
