@@ -145,7 +145,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [17 September 2019](2019-09-17-EMG.html) | EMG <br> Rai 3 | 1.1% | N/A | N/A | N/A | N/A |
 | [15–16 September 2019](2019-09-16-Tecnè.html) | Tecnè <br> Rete 4 | 0.0% | N/A | N/A | N/A | N/A |
 | [11–16 September 2019](2019-09-16-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
-| [11–12 September 2019](2019-09-12-TermometroPolitico.html) | Termometro Politico <br> La7 | 1.8% | N/A | N/A | N/A | N/A |
+| [11–12 September 2019](2019-09-12-TermometroPolitico.html) | Termometro Politico <br> La7 | 1.8% | 1.5–2.2% | 1.4–2.3% | 1.4–2.3% | 1.2–2.5% |
 | [12 September 2019](2019-09-12-Tecnè.html) | Tecnè <br> Rete 4 | 0.0% | N/A | N/A | N/A | N/A |
 | [9–12 September 2019](2019-09-12-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 0.0% | N/A | N/A | N/A | N/A |
 | [10–12 September 2019](2019-09-12-DemosPi.html) | Demos & Pi <br> La Repubblica | 0.0% | N/A | N/A | N/A | N/A |
@@ -383,7 +383,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [17 September 2019](2019-09-17-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [15–16 September 2019](2019-09-16-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
 | [11–16 September 2019](2019-09-16-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [11–12 September 2019](2019-09-12-TermometroPolitico.html) | Termometro Politico <br> La7 |  |  |  |  |  |
+| [11–12 September 2019](2019-09-12-TermometroPolitico.html) | Termometro Politico <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [12 September 2019](2019-09-12-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
 | [9–12 September 2019](2019-09-12-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore |  |  |  |  |  |
 | [10–12 September 2019](2019-09-12-DemosPi.html) | Demos & Pi <br> La Repubblica |  |  |  |  |  |

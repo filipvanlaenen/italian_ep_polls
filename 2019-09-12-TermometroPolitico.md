@@ -15,6 +15,7 @@
 | Movimento 5 Stelle (NI) | 21.2% | 19.8% | 18.9–20.8% |18.6–21.0% |18.4–21.3% |18.0–21.7% |
 | Fratelli d’Italia (ECR) | 3.7% | 7.9% | 7.3–8.6% |7.1–8.8% |7.0–8.9% |6.7–9.3% |
 | Forza Italia (EPP) | 16.8% | 5.1% | 4.6–5.7% |4.5–5.8% |4.4–6.0% |4.1–6.2% |
+| Azione (S&D) | 0.0% | 1.8% | 1.5–2.2% |1.4–2.3% |1.4–2.3% |1.2–2.5% |
 | Liberi e Uguali (S&D) | 0.0% | 1.7% | 1.4–2.1% |1.4–2.1% |1.3–2.2% |1.2–2.4% |
 | Europa Verde (Greens/EFA) | 0.0% | 1.7% | 1.4–2.1% |1.4–2.1% |1.3–2.2% |1.2–2.4% |
 | Più Europa (RE) | 0.0% | 1.2% | 1.0–1.5% |0.9–1.6% |0.9–1.7% |0.8–1.8% |
@@ -32,11 +33,12 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#lega-nord-(id)">Lega Nord (ID)</a> | 5 | 27 | 26–28 |26–28 |26–29 |25–30 |
-| <a href="#partito-democratico-(s&d)">Partito Democratico (S&D)</a> | 31 | 17 | 16–18 |16–18 |16–18 |15–19 |
-| <a href="#movimento-5-stelle-(ni)">Movimento 5 Stelle (NI)</a> | 17 | 16 | 15–17 |14–17 |14–17 |14–17 |
+| <a href="#lega-nord-(id)">Lega Nord (ID)</a> | 5 | 28 | 27–29 |27–29 |27–29 |26–30 |
+| <a href="#partito-democratico-(s&d)">Partito Democratico (S&D)</a> | 31 | 18 | 17–18 |17–19 |16–19 |16–19 |
+| <a href="#movimento-5-stelle-(ni)">Movimento 5 Stelle (NI)</a> | 17 | 16 | 15–17 |15–17 |15–17 |14–17 |
 | <a href="#fratelli-d’italia-(ecr)">Fratelli d’Italia (ECR)</a> | 0 | 6 | 6–7 |6–7 |6–7 |5–7 |
-| <a href="#forza-italia-(epp)">Forza Italia (EPP)</a> | 13 | 4 | 4 |4 |4 |3–5 |
+| <a href="#forza-italia-(epp)">Forza Italia (EPP)</a> | 13 | 4 | 4–5 |4–5 |3–5 |3–5 |
+| <a href="#azione-(s&d)">Azione (S&D)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#liberi-e-uguali-(s&d)">Liberi e Uguali (S&D)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#europa-verde-(greens/efa)">Europa Verde (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#più-europa-(re)">Più Europa (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
@@ -70,13 +72,14 @@
 | 22 | 0% | 100% |  |
 | 23 | 0% | 100% |  |
 | 24 | 0% | 100% |  |
-| 25 | 1.5% | 100% |  |
-| 26 | 27% | 98% |  |
-| 27 | 51% | 71% | Median |
-| 28 | 18% | 20% |  |
-| 29 | 1.4% | 3% |  |
-| 30 | 1.3% | 1.3% |  |
-| 31 | 0% | 0% |  |
+| 25 | 0% | 100% |  |
+| 26 | 2% | 100% |  |
+| 27 | 22% | 98% |  |
+| 28 | 43% | 76% | Median |
+| 29 | 31% | 33% |  |
+| 30 | 2% | 2% |  |
+| 31 | 0.1% | 0.1% |  |
+| 32 | 0% | 0% |  |
 
 ### Partito Democratico (S&D)
 
@@ -86,12 +89,12 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 15 | 0.8% | 100% |  |
-| 16 | 27% | 99.2% |  |
-| 17 | 46% | 72% | Median |
-| 18 | 26% | 27% |  |
-| 19 | 1.0% | 1.0% |  |
-| 20 | 0% | 0% |  |
+| 15 | 0.1% | 100% |  |
+| 16 | 4% | 99.9% |  |
+| 17 | 34% | 96% |  |
+| 18 | 53% | 62% | Median |
+| 19 | 8% | 8% |  |
+| 20 | 0.1% | 0.1% |  |
 | 21 | 0% | 0% |  |
 | 22 | 0% | 0% |  |
 | 23 | 0% | 0% |  |
@@ -112,11 +115,11 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 14 | 6% | 100% |  |
-| 15 | 40% | 94% |  |
-| 16 | 43% | 54% | Median |
-| 17 | 11% | 11% | Last Result |
-| 18 | 0.1% | 0.1% |  |
+| 14 | 2% | 100% |  |
+| 15 | 28% | 98% |  |
+| 16 | 52% | 70% | Median |
+| 17 | 17% | 17% | Last Result |
+| 18 | 0.5% | 0.5% |  |
 | 19 | 0% | 0% |  |
 
 ### Fratelli d’Italia (ECR)
@@ -132,10 +135,10 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 2% | 100% |  |
-| 6 | 82% | 98% | Median |
-| 7 | 16% | 16% |  |
-| 8 | 0.1% | 0.1% |  |
+| 5 | 1.2% | 100% |  |
+| 6 | 65% | 98.8% | Median |
+| 7 | 33% | 34% |  |
+| 8 | 0.3% | 0.3% |  |
 | 9 | 0% | 0% |  |
 
 ### Forza Italia (EPP)
@@ -146,12 +149,12 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% |  |
-| 1 | 0% | 99.9% |  |
-| 2 | 0% | 99.9% |  |
-| 3 | 2% | 99.9% |  |
-| 4 | 96% | 98% | Median |
-| 5 | 2% | 2% |  |
+| 0 | 0.2% | 100% |  |
+| 1 | 0% | 99.8% |  |
+| 2 | 0% | 99.8% |  |
+| 3 | 2% | 99.8% |  |
+| 4 | 86% | 97% | Median |
+| 5 | 11% | 11% |  |
 | 6 | 0% | 0% |  |
 | 7 | 0% | 0% |  |
 | 8 | 0% | 0% |  |
@@ -160,6 +163,16 @@
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |
 | 13 | 0% | 0% | Last Result |
+
+### Azione (S&D)
+
+*For a full overview of the results for this party, see the [Azione (S&D)](party-azionesd.html) page.*
+
+![Graph with seats probability mass function not yet produced](2019-09-12-TermometroPolitico-seats-pmf-azionesd.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
 
 ### Liberi e Uguali (S&D)
 
@@ -210,8 +223,8 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Lega Nord (ID) | 5 | 27 | 0% | 26–28 | 26–28 | 26–29 | 25–30 |
-| Partito Democratico (S&D) – Liberi e Uguali (S&D) | 31 | 17 | 0% | 16–18 | 16–18 | 16–18 | 15–19 |
+| Lega Nord (ID) | 5 | 28 | 0% | 27–29 | 27–29 | 27–29 | 26–30 |
+| Partito Democratico (S&D) – Azione (S&D) – Liberi e Uguali (S&D) | 31 | 18 | 0% | 17–18 | 17–19 | 16–19 | 16–19 |
 | Europa Verde (Greens/EFA) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Lega Nord (ID)
@@ -240,26 +253,27 @@
 | 22 | 0% | 100% |  |
 | 23 | 0% | 100% |  |
 | 24 | 0% | 100% |  |
-| 25 | 1.5% | 100% |  |
-| 26 | 27% | 98% |  |
-| 27 | 51% | 71% | Median |
-| 28 | 18% | 20% |  |
-| 29 | 1.4% | 3% |  |
-| 30 | 1.3% | 1.3% |  |
-| 31 | 0% | 0% |  |
+| 25 | 0% | 100% |  |
+| 26 | 2% | 100% |  |
+| 27 | 22% | 98% |  |
+| 28 | 43% | 76% | Median |
+| 29 | 31% | 33% |  |
+| 30 | 2% | 2% |  |
+| 31 | 0.1% | 0.1% |  |
+| 32 | 0% | 0% |  |
 
-### Partito Democratico (S&D) – Liberi e Uguali (S&D)
+### Partito Democratico (S&D) – Azione (S&D) – Liberi e Uguali (S&D)
 
-![Graph with seats probability mass function not yet produced](2019-09-12-TermometroPolitico-coalitions-seats-pmf-pd–leu.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-09-12-TermometroPolitico-coalitions-seats-pmf-pd–a–leu.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 15 | 0.8% | 100% |  |
-| 16 | 27% | 99.2% |  |
-| 17 | 46% | 72% | Median |
-| 18 | 26% | 27% |  |
-| 19 | 1.0% | 1.0% |  |
-| 20 | 0% | 0% |  |
+| 15 | 0.1% | 100% |  |
+| 16 | 4% | 99.9% |  |
+| 17 | 34% | 96% |  |
+| 18 | 53% | 62% | Median |
+| 19 | 8% | 8% |  |
+| 20 | 0.1% | 0.1% |  |
 | 21 | 0% | 0% |  |
 | 22 | 0% | 0% |  |
 | 23 | 0% | 0% |  |
@@ -292,6 +306,6 @@
 ### Calculations
 
 + **Sample size:** 3000
-+ **Simulations done:** 131,072
-+ **Error estimate:** 1.20%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 1.02%
 
