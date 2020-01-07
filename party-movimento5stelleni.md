@@ -394,7 +394,7 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [9–10 September 2019](2019-09-10-NotoSondaggi.html) | Noto Sondaggi | 15 | 13–16 | 13–17 | 13–17 | 12–17 |
 | [9–10 September 2019](2019-09-10-Ixè.html) | Ixè <br> Rai 3 | 17 | 16–19 | 15–19 | 15–19 | 15–20 |
 | [9–10 September 2019](2019-09-10-Euromedia.html) | Euromedia | 16 | 14–17 | 14–18 | 13–18 | 13–19 |
-| [10 September 2019](2019-09-10-EMG.html) | EMG <br> Rai 3 | 16 | 15–16 | 15–16 | 15–17 | 14–17 |
+| [10 September 2019](2019-09-10-EMG.html) | EMG <br> Rai 3 | 15 | 15–16 | 14–17 | 14–17 | 14–18 |
 | [9–10 September 2019](2019-09-10-Demopolis.html) | Demopolis <br> Rai 3 | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
 | [4–9 September 2019](2019-09-09-SWG.html) | SWG <br> La7 | 17 | 16–18 | 16–19 | 15–19 | 15–19 |
 | [7–9 September 2019](2019-09-09-Piepoli.html) | Piepoli <br> Rai 1 | 15 | 14–17 | 13–18 | 13–18 | 12–19 |
@@ -404,7 +404,7 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [4–5 September 2019](2019-09-05-Demopolis.html) | Demopolis <br> Rai 3 | 16 | 16–18 | 15–18 | 15–18 | 14–19 |
 | [2–3 September 2019](2019-09-03-Ixè.html) | Ixè <br> Rai 3 | 17 | 16–19 | 15–19 | 15–20 | 14–20 |
 | [31 August–2 September 2019](2019-09-02-Tecnè.html) | Tecnè <br> Rete 4 | 16 | 14–17 | 14–17 | 14–18 | 13–18 |
-| [29 August–2 September 2019](2019-09-02-SWG.html) | SWG <br> La7 | 17 | 16–18 | 15–18 | 15–19 | 14–19 |
+| [29 August–2 September 2019](2019-09-02-SWG.html) | SWG <br> La7 | 17 | 16–18 | 15–18 | 15–18 | 15–19 |
 | [29–30 August 2019](2019-08-30-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 | 14 | 13–16 | 13–16 | 12–16 | 12–17 |
 | [26–29 August 2019](2019-08-29-Ipsos.html) | Ipsos <br> Corriere della Sera | 19 | 18–21 | 17–21 | 17–21 | 16–22 |
 | [24–28 August 2019](2019-08-28-BiDiMedia.html) | BiDiMedia | 15 | 14–16 | 14–16 | 13–16 | 13–17 |

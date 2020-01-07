@@ -412,7 +412,7 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [9–10 September 2019](2019-09-10-NotoSondaggi.html) | Noto Sondaggi | 16 | 15–18 | 15–18 | 15–19 | 14–20 |
 | [9–10 September 2019](2019-09-10-Ixè.html) | Ixè <br> Rai 3 | 17 | 15–18 | 15–19 | 15–19 | 14–20 |
 | [9–10 September 2019](2019-09-10-Euromedia.html) | Euromedia | 15 | 14–17 | 14–17 | 13–17 | 13–19 |
-| [10 September 2019](2019-09-10-EMG.html) | EMG <br> Rai 3 | 17 | 17–18 | 16–18 | 16–19 | 15–19 |
+| [10 September 2019](2019-09-10-EMG.html) | EMG <br> Rai 3 | 17 | 16–18 | 16–19 | 16–19 | 15–20 |
 | [9–10 September 2019](2019-09-10-Demopolis.html) | Demopolis <br> Rai 3 | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
 | [4–9 September 2019](2019-09-09-SWG.html) | SWG <br> La7 | 17 | 16–18 | 16–19 | 16–19 | 15–20 |
 | [7–9 September 2019](2019-09-09-Piepoli.html) | Piepoli <br> Rai 1 | 17 | 15–19 | 14–19 | 14–20 | 13–21 |

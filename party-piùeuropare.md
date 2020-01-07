@@ -399,7 +399,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [4–5 September 2019](2019-09-05-Demopolis.html) | Demopolis <br> Rai 3 |  |  |  |  |  |
 | [2–3 September 2019](2019-09-03-Ixè.html) | Ixè <br> Rai 3 | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [31 August–2 September 2019](2019-09-02-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
-| [29 August–2 September 2019](2019-09-02-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0–3 | 0–3 |
+| [29 August–2 September 2019](2019-09-02-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0–3 |
 | [29–30 August 2019](2019-08-30-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [26–29 August 2019](2019-08-29-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
 | [24–28 August 2019](2019-08-28-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
