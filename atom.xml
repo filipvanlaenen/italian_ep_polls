@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/italian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2020-01-07T19:59:40.494658+01:00</updated>
+  <updated>2020-01-09T19:42:39.510337+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Movimento 5 Stelle (NI): 14.0–18.6%, 12–16 seats</li><li>Partito Democratico (S&amp;D): 17.6–22.6%, 14–18 seats</li><li>Lega Nord (ID): 26.7–32.4%, 22–27 seats</li><li>Forza Italia (EPP): 5.8–9.1%, 5–7 seats</li><li>Fratelli d’Italia (ECR): 8.9–12.8%, 7–11 seats</li><li>Liberi e Uguali (S&amp;D): 2.1–4.3%, 0–4 seats</li><li>Più Europa (RE): 1.5–3.4%, 0 seats</li><li>Europa Verde (Greens/EFA): 0.8–2.2%, 0 seats</li><li>Cambiamo! (*): 0.5–1.8%, 0 seats</li><li>Azione (S&amp;D): 0.8–2.2%, 0 seats</li><li>Italia Viva (RE): 2.6–5.0%, 0–4 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/italian_ep_polls/2020-01-07-Ixè.html</id>
+    <link href="https://filipvanlaenen.github.io/italian_ep_polls/2020-01-07-Ixè.html"/>
+    <title>Opinion Poll by Ixè for Rai 3, 3–7 January 2020</title>
+    <updated>2020-01-09T19:24:07.488013+01:00</updated>
+    <dc:date>2020-01-09T19:24:07.488013+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Movimento 5 Stelle (NI): 13.7–18.8%, 11–15 seats</li><li>Partito Democratico (S&amp;D): 16.6–22.1%, 12–16 seats</li><li>Lega Nord (ID): 29.9–36.4%, 23–28 seats</li><li>Forza Italia (EPP): 4.4–7.7%, 3–6 seats</li><li>Fratelli d’Italia (ECR): 8.5–12.7%, 6–10 seats</li><li>Più Europa (RE): 1.3–3.4%, 0 seats</li><li>Azione (S&amp;D): 2.1–4.5%, 0–3 seats</li><li>Italia Viva (RE): 3.2–6.1%, 0–5 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/italian_ep_polls/2019-12-24-MGResearch.html</id>
@@ -1160,6 +1168,14 @@
     <dc:date>2019-09-26T08:05:42.91968+02:00</dc:date>
   </entry>
   <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Movimento 5 Stelle (NI): 20.0–24.2%, 15–18 seats</li><li>Partito Democratico (S&amp;D): 20.9–25.2%, 15–18 seats</li><li>Lega Nord (ID): 29.7–34.4%, 22–26 seats</li><li>Forza Italia (EPP): 5.6–8.1%, 4–6 seats</li><li>Fratelli d’Italia (ECR): 5.6–8.2%, 4–6 seats</li><li>Liberi e Uguali (S&amp;D): 2.2–4.0%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/italian_ep_polls/2019-09-05-Demopolis.html</id>
+    <link href="https://filipvanlaenen.github.io/italian_ep_polls/2019-09-05-Demopolis.html"/>
+    <title>Opinion Poll by Demopolis for Rai 3, 4–5 September 2019</title>
+    <updated>2020-01-09T19:42:39.510337+01:00</updated>
+    <dc:date>2020-01-09T19:42:39.510337+01:00</dc:date>
+  </entry>
+  <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Movimento 5 Stelle (NI): 19.8–25.0%, 15–20 seats</li><li>Partito Democratico (S&amp;D): 20.5–25.7%, 15–19 seats</li><li>Lega Nord (ID): 27.3–33.0%, 21–26 seats</li><li>Forza Italia (EPP): 5.6–8.8%, 4–7 seats</li><li>Fratelli d’Italia (ECR): 5.9–9.2%, 5–7 seats</li><li>Liberi e Uguali (S&amp;D): 1.6–3.6%, 0 seats</li><li>Più Europa (RE): 2.9–5.4%, 0–4 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/italian_ep_polls/2019-09-03-Ixè.html</id>
     <link href="https://filipvanlaenen.github.io/italian_ep_polls/2019-09-03-Ixè.html"/>
@@ -1663,5 +1679,5 @@
     <updated>2019-06-29T16:56:02.59202+02:00</updated>
     <dc:date>2019-06-29T16:56:02.59202+02:00</dc:date>
   </entry>
-  <dc:date>2020-01-07T19:59:40.494658+01:00</dc:date>
+  <dc:date>2020-01-09T19:42:39.510337+01:00</dc:date>
 </feed>
