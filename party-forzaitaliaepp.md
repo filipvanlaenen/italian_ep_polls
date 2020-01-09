@@ -10,7 +10,8 @@ Last result: **16.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.5% | 5.2–7.9% | 5.0–8.4% | 4.8–8.7% | 4.4–9.4% |
+| N/A | [Poll Average](average.html) | 6.5% | 5.2–8.0% | 5.0–8.5% | 4.8–8.8% | 4.4–9.5% |
+| [3–7 January 2020](2020-01-07-Ixè.html) | Ixè <br> Rai 3 | 7.3% | 6.3–8.5% | 6.1–8.8% | 5.8–9.1% | 5.4–9.7% |
 | [20–24 December 2019](2019-12-24-MGResearch.html) | MG Research | 5.8% | 4.9–7.0% | 4.6–7.4% | 4.4–7.7% | 4.0–8.3% |
 | [22–23 December 2019](2019-12-23-Tecnè.html) | Tecnè <br> TGcom24 | 7.8% | 6.8–9.0% | 6.5–9.3% | 6.3–9.6% | 5.8–10.2% |
 | [18–23 December 2019](2019-12-23-SWG.html) | SWG <br> La7 | 5.5% | 4.8–6.4% | 4.6–6.6% | 4.5–6.8% | 4.2–7.2% |
@@ -232,12 +233,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 1.0% | 100% |  |
-| 4.5–5.5% | 18% | 99.0% |  |
-| 5.5–6.5% | 35% | 81% | Median |
-| 6.5–7.5% | 29% | 46% |  |
-| 7.5–8.5% | 13% | 17% |  |
-| 8.5–9.5% | 3% | 4% |  |
+| 3.5–4.5% | 1.1% | 100% |  |
+| 4.5–5.5% | 19% | 98.9% |  |
+| 5.5–6.5% | 33% | 80% | Median |
+| 6.5–7.5% | 28% | 47% |  |
+| 7.5–8.5% | 15% | 19% |  |
+| 8.5–9.5% | 4% | 4% |  |
 | 9.5–10.5% | 0.4% | 0.4% |  |
 | 10.5–11.5% | 0% | 0% |  |
 | 11.5–12.5% | 0% | 0% |  |
@@ -257,6 +258,7 @@ Last result: **13** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–7 | 4–7 | 4–7 | 3–8 |
+| [3–7 January 2020](2020-01-07-Ixè.html) | Ixè <br> Rai 3 | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [20–24 December 2019](2019-12-24-MGResearch.html) | MG Research | 5 | 4–5 | 3–6 | 3–6 | 0–6 |
 | [22–23 December 2019](2019-12-23-Tecnè.html) | Tecnè <br> TGcom24 | 7 | 6–8 | 6–8 | 5–8 | 5–8 |
 | [18–23 December 2019](2019-12-23-SWG.html) | SWG <br> La7 | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
@@ -483,9 +485,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 99.9% |  |
 | 2 | 0% | 99.9% |  |
 | 3 | 0.6% | 99.9% |  |
-| 4 | 20% | 99.3% |  |
-| 5 | 39% | 79% | Median |
-| 6 | 29% | 40% |  |
+| 4 | 21% | 99.3% |  |
+| 5 | 39% | 78% | Median |
+| 6 | 28% | 40% |  |
 | 7 | 9% | 11% |  |
 | 8 | 2% | 2% |  |
 | 9 | 0.1% | 0.1% |  |

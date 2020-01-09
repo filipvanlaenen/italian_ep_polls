@@ -29,9 +29,9 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#lega-nord-(id)">Lega Nord (ID)</a> | 5 | 24 | 23–25 |22–25 |22–26 |22–26 |
+| <a href="#lega-nord-(id)">Lega Nord (ID)</a> | 5 | 24 | 23–25 |23–26 |22–26 |22–26 |
 | <a href="#partito-democratico-(s&d)">Partito Democratico (S&D)</a> | 31 | 16 | 15–17 |15–18 |15–18 |14–18 |
-| <a href="#movimento-5-stelle-(ni)">Movimento 5 Stelle (NI)</a> | 17 | 16 | 16–18 |15–18 |15–18 |14–19 |
+| <a href="#movimento-5-stelle-(ni)">Movimento 5 Stelle (NI)</a> | 17 | 17 | 15–18 |15–18 |15–18 |14–19 |
 | <a href="#fratelli-d’italia-(ecr)">Fratelli d’Italia (ECR)</a> | 0 | 5 | 5–6 |4–6 |4–6 |4–7 |
 | <a href="#forza-italia-(epp)">Forza Italia (EPP)</a> | 13 | 5 | 4–6 |4–6 |4–6 |4–6 |
 | <a href="#liberi-e-uguali-(s&d)">Liberi e Uguali (S&D)</a> | 0 | 0 | 0 |0 |0 |0–3 |
@@ -60,10 +60,10 @@
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
-| 21 | 0.2% | 100% |  |
-| 22 | 5% | 99.8% |  |
-| 23 | 25% | 94% |  |
-| 24 | 41% | 70% | Median |
+| 21 | 0.3% | 100% |  |
+| 22 | 5% | 99.7% |  |
+| 23 | 24% | 95% |  |
+| 24 | 43% | 72% | Median |
 | 25 | 24% | 29% |  |
 | 26 | 5% | 5% |  |
 | 27 | 0.3% | 0.3% |  |
@@ -77,9 +77,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 14 | 1.3% | 100% |  |
-| 15 | 14% | 98.7% |  |
-| 16 | 46% | 85% | Median |
+| 14 | 1.4% | 100% |  |
+| 15 | 16% | 98.6% |  |
+| 16 | 43% | 83% | Median |
 | 17 | 32% | 39% |  |
 | 18 | 6% | 7% |  |
 | 19 | 0.4% | 0.4% |  |
@@ -105,11 +105,11 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 14 | 0.5% | 100% |  |
-| 15 | 8% | 99.4% |  |
-| 16 | 42% | 91% | Median |
-| 17 | 37% | 49% | Last Result |
+| 15 | 10% | 99.5% |  |
+| 16 | 39% | 90% |  |
+| 17 | 39% | 51% | Last Result, Median |
 | 18 | 11% | 12% |  |
-| 19 | 0.7% | 0.7% |  |
+| 19 | 0.8% | 0.8% |  |
 | 20 | 0% | 0% |  |
 
 ### Fratelli d’Italia (ECR)
@@ -124,9 +124,9 @@
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 9% | 100% |  |
-| 5 | 64% | 91% | Median |
-| 6 | 26% | 27% |  |
+| 4 | 10% | 100% |  |
+| 5 | 68% | 90% | Median |
+| 6 | 22% | 23% |  |
 | 7 | 0.5% | 0.5% |  |
 | 8 | 0% | 0% |  |
 
@@ -138,10 +138,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 11% | 100% |  |
-| 5 | 71% | 89% | Median |
-| 6 | 17% | 17% |  |
-| 7 | 0.3% | 0.3% |  |
+| 4 | 12% | 100% |  |
+| 5 | 68% | 88% | Median |
+| 6 | 20% | 20% |  |
+| 7 | 0.4% | 0.4% |  |
 | 8 | 0% | 0% |  |
 | 9 | 0% | 0% |  |
 | 10 | 0% | 0% |  |
@@ -172,8 +172,7 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Lega Nord (ID) | 5 | 24 | 0% | 23–25 | 22–25 | 22–26 | 22–26 |
-| Partito Democratico (S&D) – Liberi e Uguali (S&D) | 31 | 16 | 0% | 15–17 | 15–18 | 15–18 | 14–19 |
+| Lega Nord (ID) | 5 | 24 | 0% | 23–25 | 23–26 | 22–26 | 22–26 |
 
 ### Lega Nord (ID)
 
@@ -197,39 +196,14 @@
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
-| 21 | 0.2% | 100% |  |
-| 22 | 5% | 99.8% |  |
-| 23 | 25% | 94% |  |
-| 24 | 41% | 70% | Median |
+| 21 | 0.3% | 100% |  |
+| 22 | 5% | 99.7% |  |
+| 23 | 24% | 95% |  |
+| 24 | 43% | 72% | Median |
 | 25 | 24% | 29% |  |
 | 26 | 5% | 5% |  |
 | 27 | 0.3% | 0.3% |  |
 | 28 | 0% | 0% |  |
-
-### Partito Democratico (S&D) – Liberi e Uguali (S&D)
-
-![Graph with seats probability mass function not yet produced](2019-09-05-Demopolis-coalitions-seats-pmf-pd–leu.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 14 | 1.1% | 100% |  |
-| 15 | 13% | 98.9% |  |
-| 16 | 45% | 86% | Median |
-| 17 | 32% | 41% |  |
-| 18 | 7% | 9% |  |
-| 19 | 1.5% | 2% |  |
-| 20 | 0.4% | 0.4% |  |
-| 21 | 0% | 0% |  |
-| 22 | 0% | 0% |  |
-| 23 | 0% | 0% |  |
-| 24 | 0% | 0% |  |
-| 25 | 0% | 0% |  |
-| 26 | 0% | 0% |  |
-| 27 | 0% | 0% |  |
-| 28 | 0% | 0% |  |
-| 29 | 0% | 0% |  |
-| 30 | 0% | 0% |  |
-| 31 | 0% | 0% | Last Result |
 
 
 ## Technical Information
@@ -243,6 +217,6 @@
 ### Calculations
 
 + **Sample size:** 1500
-+ **Simulations done:** 131,072
-+ **Error estimate:** 0.96%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.61%
 
