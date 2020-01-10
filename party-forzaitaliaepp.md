@@ -339,7 +339,7 @@ Last result: **13** seats (General Election of 26 May 2019)
 | [23 October 2019](2019-10-23-EMG.html) | EMG <br> Rai 3 | 6 | 5–6 | 5–6 | 4–7 | 4–7 |
 | [22 October 2019](2019-10-22-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 6 | 4–6 | 4–7 | 4–7 | 4–7 |
 | [21–22 October 2019](2019-10-22-Ixè.html) | Ixè <br> Rai 3 | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
-| [20–21 October 2019](2019-10-21-Tecnè.html) | Tecnè <br> Rete 4 | 6 | 6–7 | 6–7 | 5–8 | 5–8 |
+| [20–21 October 2019](2019-10-21-Tecnè.html) | Tecnè <br> Rete 4 | 6 | 6–7 | 5–8 | 5–8 | 5–8 |
 | [16–21 October 2019](2019-10-21-SWG.html) | SWG <br> La7 | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [17–18 October 2019](2019-10-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 6 | 6–7 | 5–8 | 5–8 | 5–8 |
 | [16–17 October 2019](2019-10-17-TermometroPolitico.html) | Termometro Politico <br> La7 | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
