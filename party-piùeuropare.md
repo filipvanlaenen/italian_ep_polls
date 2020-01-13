@@ -11,6 +11,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.7% | 1.1–2.4% | 1.0–2.7% | 0.9–2.9% | 0.7–3.4% |
+| [9 January 2020](2020-01-09-Index.html) | Index <br> La7 | 1.6% | 1.2–2.4% | 1.1–2.6% | 0.9–2.8% | 0.8–3.2% |
+| [7–8 January 2020](2020-01-08-EMG.html) | EMG | 1.9% | 1.5–2.4% | 1.4–2.5% | 1.3–2.7% | 1.2–2.9% |
 | [3–7 January 2020](2020-01-07-Ixè.html) | Ixè <br> Rai 3 | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
 | [20–24 December 2019](2019-12-24-MGResearch.html) | MG Research | 2.1% | 1.6–2.9% | 1.4–3.1% | 1.3–3.4% | 1.1–3.8% |
 | [22–23 December 2019](2019-12-23-Tecnè.html) | Tecnè <br> TGcom24 | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
@@ -232,9 +234,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.1% | 100% | Last Result |
-| 0.5–1.5% | 42% | 99.9% |  |
-| 1.5–2.5% | 51% | 58% | Median |
+| 0.0–0.5% | 0% | 100% | Last Result |
+| 0.5–1.5% | 41% | 100% |  |
+| 1.5–2.5% | 51% | 59% | Median |
 | 2.5–3.5% | 7% | 7% |  |
 | 3.5–4.5% | 0.3% | 0.3% |  |
 | 4.5–5.5% | 0% | 0% |  |
@@ -249,6 +251,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [9 January 2020](2020-01-09-Index.html) | Index <br> La7 | 0 | 0 | 0 | 0 | 0 |
+| [7–8 January 2020](2020-01-08-EMG.html) | EMG | 0 | 0 | 0 | 0 | 0 |
 | [3–7 January 2020](2020-01-07-Ixè.html) | Ixè <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [20–24 December 2019](2019-12-24-MGResearch.html) | MG Research | 0 | 0 | 0 | 0 | 0 |
 | [22–23 December 2019](2019-12-23-Tecnè.html) | Tecnè <br> TGcom24 | 0 | 0 | 0 | 0 | 0 |

@@ -11,6 +11,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.0% | 0.4–1.7% | 0.4–1.9% | 0.3–2.2% | 0.2–2.6% |
+| [9 January 2020](2020-01-09-Index.html) | Index <br> La7 | 1.0% | 0.7–1.6% | 0.6–1.8% | 0.5–2.0% | 0.4–2.3% |
+| [7–8 January 2020](2020-01-08-EMG.html) | EMG | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% |
 | [3–7 January 2020](2020-01-07-Ixè.html) | Ixè <br> Rai 3 | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [20–24 December 2019](2019-12-24-MGResearch.html) | MG Research | 0.0% | N/A | N/A | N/A | N/A |
 | [22–23 December 2019](2019-12-23-Tecnè.html) | Tecnè <br> TGcom24 | 0.0% | N/A | N/A | N/A | N/A |
@@ -248,6 +250,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [9 January 2020](2020-01-09-Index.html) | Index <br> La7 | 0 | 0 | 0 | 0 | 0 |
+| [7–8 January 2020](2020-01-08-EMG.html) | EMG | 0 | 0 | 0 | 0 | 0 |
 | [3–7 January 2020](2020-01-07-Ixè.html) | Ixè <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [20–24 December 2019](2019-12-24-MGResearch.html) | MG Research |  |  |  |  |  |
 | [22–23 December 2019](2019-12-23-Tecnè.html) | Tecnè <br> TGcom24 |  |  |  |  |  |
