@@ -10,8 +10,9 @@ Last result: **21.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.3% | 14.8–18.1% | 14.4–18.6% | 14.0–19.1% | 13.3–20.1% |
-| [9 January 2020](2020-01-09-Index.html) | Index <br> La7 | 16.0% | 14.4–17.8% | 14.0–18.3% | 13.6–18.7% | 12.9–19.6% |
+| N/A | [Poll Average](average.html) | 16.2% | 14.7–18.1% | 14.3–18.6% | 13.9–19.1% | 13.2–20.1% |
+| [9 January 2019–10 January 2020](2020-01-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 15.4% | 14.0–16.9% | 13.6–17.4% | 13.3–17.8% | 12.7–18.5% |
+| [8 January 2020](2020-01-08-Index.html) | Index <br> La7 | 16.0% | 14.4–17.8% | 14.0–18.3% | 13.6–18.7% | 12.9–19.6% |
 | [7–8 January 2020](2020-01-08-EMG.html) | EMG | 15.9% | 14.8–17.1% | 14.5–17.4% | 14.2–17.7% | 13.7–18.3% |
 | [3–7 January 2020](2020-01-07-Ixè.html) | Ixè <br> Rai 3 | 16.2% | 14.8–17.8% | 14.4–18.2% | 14.0–18.6% | 13.4–19.4% |
 | [20–24 December 2019](2019-12-24-MGResearch.html) | MG Research | 16.1% | 14.5–17.9% | 14.1–18.4% | 13.7–18.8% | 13.0–19.7% |
@@ -236,11 +237,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0.1% | 100% |  |
-| 12.5–13.5% | 0.8% | 99.9% |  |
-| 13.5–14.5% | 6% | 99.1% |  |
-| 14.5–15.5% | 21% | 93% |  |
-| 15.5–16.5% | 31% | 72% | Median |
-| 16.5–17.5% | 23% | 41% |  |
+| 12.5–13.5% | 1.0% | 99.9% |  |
+| 13.5–14.5% | 7% | 98.9% |  |
+| 14.5–15.5% | 22% | 92% |  |
+| 15.5–16.5% | 30% | 71% | Median |
+| 16.5–17.5% | 23% | 40% |  |
 | 17.5–18.5% | 12% | 18% |  |
 | 18.5–19.5% | 4% | 6% |  |
 | 19.5–20.5% | 1.1% | 1.3% |  |
@@ -257,7 +258,8 @@ Last result: **17** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 12–15 | 12–15 | 11–16 | 11–16 |
-| [9 January 2020](2020-01-09-Index.html) | Index <br> La7 | 13 | 12–14 | 12–15 | 12–15 | 11–16 |
+| [9 January 2019–10 January 2020](2020-01-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 12 | 12–14 | 11–15 | 11–15 | 10–15 |
+| [8 January 2020](2020-01-08-Index.html) | Index <br> La7 | 13 | 12–14 | 12–15 | 12–15 | 11–16 |
 | [7–8 January 2020](2020-01-08-EMG.html) | EMG | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
 | [3–7 January 2020](2020-01-07-Ixè.html) | Ixè <br> Rai 3 | 14 | 13–15 | 12–16 | 12–16 | 11–17 |
 | [20–24 December 2019](2019-12-24-MGResearch.html) | MG Research | 12 | 11–14 | 11–14 | 11–15 | 10–15 |
@@ -354,8 +356,8 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [9–11 October 2019](2019-10-11-Demopolis.html) | Demopolis <br> Rai 3 | 15 | 14–16 | 13–17 | 13–17 | 13–18 |
 | [9–10 October 2019](2019-10-10-TermometroPolitico.html) | Termometro Politico <br> La7 | 14 | 13–16 | 13–16 | 13–16 | 12–16 |
 | [10 October 2019](2019-10-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 15 | 13–16 | 13–16 | 13–17 | 12–17 |
-| [9 October 2019](2019-10-09-Index.html) | Index <br> La7 | 14 | 13–16 | 13–16 | 13–17 | 12–18 |
-| [9 October 2019](2019-10-09-EMG.html) | EMG <br> Rai 3 | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
+| [9 October 2019](2019-10-09-Index.html) | Index <br> La7 | 15 | 13–16 | 13–17 | 13–17 | 12–18 |
+| [9 October 2019](2019-10-09-EMG.html) | EMG <br> Rai 3 | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
 | [7–9 October 2019](2019-10-09-BiDiMedia.html) | BiDiMedia | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
 | [7–8 October 2019](2019-10-08-Ixè.html) | Ixè <br> Rai 3 | 16 | 15–18 | 15–19 | 14–19 | 14–20 |
 | [7–8 October 2019](2019-10-08-Euromedia.html) | Euromedia <br> Rai 1 | 15 | 13–16 | 13–17 | 13–17 | 12–18 |
@@ -484,13 +486,13 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.3% | 100% |  |
 | 11 | 4% | 99.7% |  |
-| 12 | 26% | 96% |  |
-| 13 | 33% | 70% | Median |
-| 14 | 22% | 37% |  |
-| 15 | 12% | 15% |  |
+| 12 | 28% | 96% |  |
+| 13 | 32% | 67% | Median |
+| 14 | 21% | 35% |  |
+| 15 | 11% | 14% |  |
 | 16 | 3% | 3% |  |
 | 17 | 0.4% | 0.4% | Last Result |
-| 18 | 0.1% | 0.1% |  |
+| 18 | 0% | 0.1% |  |
 | 19 | 0% | 0% |  |
 
 

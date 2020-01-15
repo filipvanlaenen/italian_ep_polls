@@ -10,8 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.6% | 3.5–5.5% | 3.2–5.9% | 3.0–6.2% | 2.6–6.8% |
-| [9 January 2020](2020-01-09-Index.html) | Index <br> La7 | 4.2% | 3.5–5.3% | 3.2–5.6% | 3.0–5.9% | 2.7–6.4% |
+| N/A | [Poll Average](average.html) | 4.5% | 3.5–5.5% | 3.2–5.9% | 3.0–6.2% | 2.6–6.8% |
+| [9 January 2019–10 January 2020](2020-01-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.9–5.3% | 2.6–5.8% |
+| [8 January 2020](2020-01-08-Index.html) | Index <br> La7 | 4.2% | 3.5–5.3% | 3.2–5.6% | 3.0–5.9% | 2.7–6.4% |
 | [7–8 January 2020](2020-01-08-EMG.html) | EMG | 4.5% | 3.9–5.2% | 3.8–5.5% | 3.6–5.6% | 3.4–6.0% |
 | [3–7 January 2020](2020-01-07-Ixè.html) | Ixè <br> Rai 3 | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
 | [20–24 December 2019](2019-12-24-MGResearch.html) | MG Research | 4.5% | 3.7–5.5% | 3.4–5.9% | 3.2–6.1% | 2.9–6.7% |
@@ -238,7 +239,7 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0.4% | 100% |  |
 | 2.5–3.5% | 11% | 99.6% |  |
-| 3.5–4.5% | 38% | 89% |  |
+| 3.5–4.5% | 38% | 88% |  |
 | 4.5–5.5% | 40% | 50% | Median |
 | 5.5–6.5% | 9% | 10% |  |
 | 6.5–7.5% | 0.9% | 0.9% |  |
@@ -255,7 +256,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 0–4 | 0–5 | 0–5 | 0–6 |
-| [9 January 2020](2020-01-09-Index.html) | Index <br> La7 | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
+| [9 January 2019–10 January 2020](2020-01-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [8 January 2020](2020-01-08-Index.html) | Index <br> La7 | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
 | [7–8 January 2020](2020-01-08-EMG.html) | EMG | 4 | 3–4 | 0–4 | 0–4 | 0–5 |
 | [3–7 January 2020](2020-01-07-Ixè.html) | Ixè <br> Rai 3 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [20–24 December 2019](2019-12-24-MGResearch.html) | MG Research | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
@@ -352,8 +354,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [9–11 October 2019](2019-10-11-Demopolis.html) | Demopolis <br> Rai 3 | 4 | 3–5 | 3–5 | 3–5 | 0–6 |
 | [9–10 October 2019](2019-10-10-TermometroPolitico.html) | Termometro Politico <br> La7 | 4 | 3–4 | 3–5 | 0–5 | 0–5 |
 | [10 October 2019](2019-10-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
-| [9 October 2019](2019-10-09-Index.html) | Index <br> La7 | 3 | 0–5 | 0–5 | 0–5 | 0–6 |
-| [9 October 2019](2019-10-09-EMG.html) | EMG <br> Rai 3 | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
+| [9 October 2019](2019-10-09-Index.html) | Index <br> La7 | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
+| [9 October 2019](2019-10-09-EMG.html) | EMG <br> Rai 3 | 4 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [7–9 October 2019](2019-10-09-BiDiMedia.html) | BiDiMedia | 4 | 3–5 | 3–5 | 3–5 | 0–5 |
 | [7–8 October 2019](2019-10-08-Ixè.html) | Ixè <br> Rai 3 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [7–8 October 2019](2019-10-08-Euromedia.html) | Euromedia <br> Rai 1 | 4 | 3–5 | 3–6 | 0–6 | 0–6 |
@@ -480,11 +482,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 27% | 100% | Last Result |
-| 1 | 0% | 73% |  |
-| 2 | 0% | 73% |  |
-| 3 | 15% | 73% |  |
-| 4 | 50% | 59% | Median |
+| 0 | 25% | 100% | Last Result |
+| 1 | 0% | 75% |  |
+| 2 | 0% | 75% |  |
+| 3 | 15% | 75% |  |
+| 4 | 51% | 60% | Median |
 | 5 | 7% | 8% |  |
 | 6 | 1.0% | 1.0% |  |
 | 7 | 0% | 0% |  |

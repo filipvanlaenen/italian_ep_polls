@@ -10,8 +10,9 @@ Last result: **6.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31.6% | 29.4–34.5% | 28.8–35.3% | 28.2–35.9% | 27.1–36.7% |
-| [9 January 2020](2020-01-09-Index.html) | Index <br> La7 | 31.2% | 29.2–33.4% | 28.6–34.0% | 28.1–34.6% | 27.2–35.6% |
+| N/A | [Poll Average](average.html) | 31.6% | 29.4–34.6% | 28.8–35.3% | 28.2–35.9% | 27.1–36.7% |
+| [9 January 2019–10 January 2020](2020-01-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 31.9% | 30.1–33.8% | 29.5–34.4% | 29.1–34.9% | 28.2–35.8% |
+| [8 January 2020](2020-01-08-Index.html) | Index <br> La7 | 31.2% | 29.2–33.4% | 28.6–34.0% | 28.1–34.6% | 27.2–35.6% |
 | [7–8 January 2020](2020-01-08-EMG.html) | EMG | 30.4% | 29.0–31.9% | 28.6–32.3% | 28.3–32.6% | 27.6–33.3% |
 | [3–7 January 2020](2020-01-07-Ixè.html) | Ixè <br> Rai 3 | 29.5% | 27.7–31.4% | 27.2–31.9% | 26.7–32.4% | 25.9–33.3% |
 | [20–24 December 2019](2019-12-24-MGResearch.html) | MG Research | 33.1% | 31.0–35.3% | 30.4–35.9% | 29.9–36.4% | 28.9–37.5% |
@@ -279,7 +280,8 @@ Last result: **5** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 26 | 24–28 | 23–29 | 22–29 | 22–30 |
-| [9 January 2020](2020-01-09-Index.html) | Index <br> La7 | 26 | 25–28 | 24–28 | 24–29 | 23–30 |
+| [9 January 2019–10 January 2020](2020-01-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 27 | 25–28 | 24–29 | 24–29 | 23–30 |
+| [8 January 2020](2020-01-08-Index.html) | Index <br> La7 | 26 | 25–28 | 24–28 | 24–29 | 23–30 |
 | [7–8 January 2020](2020-01-08-EMG.html) | EMG | 25 | 24–26 | 24–27 | 24–27 | 23–28 |
 | [3–7 January 2020](2020-01-07-Ixè.html) | Ixè <br> Rai 3 | 25 | 23–27 | 23–27 | 22–27 | 21–27 |
 | [20–24 December 2019](2019-12-24-MGResearch.html) | MG Research | 25 | 24–27 | 23–28 | 23–28 | 22–29 |
@@ -376,8 +378,8 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [9–11 October 2019](2019-10-11-Demopolis.html) | Demopolis <br> Rai 3 | 24 | 22–25 | 22–26 | 22–26 | 21–27 |
 | [9–10 October 2019](2019-10-10-TermometroPolitico.html) | Termometro Politico <br> La7 | 27 | 25–28 | 25–29 | 25–29 | 24–30 |
 | [10 October 2019](2019-10-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 24 | 22–26 | 22–26 | 22–27 | 21–27 |
-| [9 October 2019](2019-10-09-Index.html) | Index <br> La7 | 25 | 24–27 | 23–27 | 23–28 | 22–29 |
-| [9 October 2019](2019-10-09-EMG.html) | EMG <br> Rai 3 | 25 | 24–27 | 24–27 | 24–28 | 23–29 |
+| [9 October 2019](2019-10-09-Index.html) | Index <br> La7 | 25 | 24–27 | 23–28 | 22–28 | 22–29 |
+| [9 October 2019](2019-10-09-EMG.html) | EMG <br> Rai 3 | 27 | 25–28 | 25–28 | 24–29 | 23–29 |
 | [7–9 October 2019](2019-10-09-BiDiMedia.html) | BiDiMedia | 24 | 23–25 | 22–25 | 22–26 | 21–27 |
 | [7–8 October 2019](2019-10-08-Ixè.html) | Ixè <br> Rai 3 | 25 | 23–26 | 22–27 | 22–27 | 21–28 |
 | [7–8 October 2019](2019-10-08-Euromedia.html) | Euromedia <br> Rai 1 | 25 | 23–26 | 22–27 | 22–27 | 21–28 |
@@ -524,12 +526,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 22 | 2% | 99.7% |  |
 | 23 | 7% | 97% |  |
 | 24 | 10% | 91% |  |
-| 25 | 25% | 80% |  |
-| 26 | 23% | 55% | Median |
-| 27 | 11% | 32% |  |
-| 28 | 13% | 21% |  |
+| 25 | 26% | 81% |  |
+| 26 | 24% | 55% | Median |
+| 27 | 10% | 31% |  |
+| 28 | 14% | 22% |  |
 | 29 | 6% | 8% |  |
-| 30 | 1.5% | 2% |  |
+| 30 | 1.4% | 2% |  |
 | 31 | 0.1% | 0.1% |  |
 | 32 | 0% | 0% |  |
 
