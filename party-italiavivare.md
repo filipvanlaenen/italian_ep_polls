@@ -10,10 +10,17 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.5% | 3.5–5.5% | 3.2–5.9% | 3.0–6.2% | 2.6–6.8% |
-| [9 January 2019–10 January 2020](2020-01-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.9–5.3% | 2.6–5.8% |
+| N/A | [Poll Average](average.html) | 4.7% | 3.8–5.8% | 3.5–6.1% | 3.3–6.4% | 2.9–7.0% |
+| [13–14 January 2020](2020-01-14-Ixè.html) | Ixè <br> Rai 3 | 4.2% | N/A | N/A | N/A | N/A |
+| [14 January 2020](2020-01-14-EMG.html) | EMG <br> Rai 3 | 4.6% | N/A | N/A | N/A | N/A |
+| [12–13 January 2020](2020-01-13-Tecnè.html) | Tecnè <br> RTI | 3.6% | N/A | N/A | N/A | N/A |
+| [8–13 January 2020](2020-01-13-SWG.html) | SWG <br> La7 | 4.8% | N/A | N/A | N/A | N/A |
+| [13 January 2019–13 January 2020](2020-01-13-Euromedia.html) | Euromedia <br> Rai 1 | 5.0% | N/A | N/A | N/A | N/A |
+| [9–10 January 2020](2020-01-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.9–5.3% | 2.6–5.8% |
+| [8–9 January 2020](2020-01-09-TermometroPolitico.html) | Termometro Politico <br> La7 | 4.9% | N/A | N/A | N/A | N/A |
+| [8 January 2020](2020-01-08-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 3.5% | N/A | N/A | N/A | N/A |
 | [8 January 2020](2020-01-08-Index.html) | Index <br> La7 | 4.2% | 3.5–5.3% | 3.2–5.6% | 3.0–5.9% | 2.7–6.4% |
-| [7–8 January 2020](2020-01-08-EMG.html) | EMG | 4.5% | 3.9–5.2% | 3.8–5.5% | 3.6–5.6% | 3.4–6.0% |
+| [7–8 January 2020](2020-01-08-EMG.html) | EMG <br> Rai 3 | 4.5% | 3.9–5.2% | 3.8–5.5% | 3.6–5.6% | 3.4–6.0% |
 | [3–7 January 2020](2020-01-07-Ixè.html) | Ixè <br> Rai 3 | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
 | [20–24 December 2019](2019-12-24-MGResearch.html) | MG Research | 4.5% | 3.7–5.5% | 3.4–5.9% | 3.2–6.1% | 2.9–6.7% |
 | [22–23 December 2019](2019-12-23-Tecnè.html) | Tecnè <br> TGcom24 | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
@@ -237,13 +244,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.4% | 100% |  |
-| 2.5–3.5% | 11% | 99.6% |  |
-| 3.5–4.5% | 38% | 88% |  |
-| 4.5–5.5% | 40% | 50% | Median |
-| 5.5–6.5% | 9% | 10% |  |
-| 6.5–7.5% | 0.9% | 0.9% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 1.5–2.5% | 0.1% | 100% |  |
+| 2.5–3.5% | 5% | 99.9% |  |
+| 3.5–4.5% | 38% | 94% |  |
+| 4.5–5.5% | 42% | 56% | Median |
+| 5.5–6.5% | 13% | 15% |  |
+| 6.5–7.5% | 2% | 2% |  |
+| 7.5–8.5% | 0.1% | 0.1% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
 
@@ -256,9 +263,16 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 0–4 | 0–5 | 0–5 | 0–6 |
-| [9 January 2019–10 January 2020](2020-01-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [13–14 January 2020](2020-01-14-Ixè.html) | Ixè <br> Rai 3 |  |  |  |  |  |
+| [14 January 2020](2020-01-14-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
+| [12–13 January 2020](2020-01-13-Tecnè.html) | Tecnè <br> RTI |  |  |  |  |  |
+| [8–13 January 2020](2020-01-13-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [13 January 2019–13 January 2020](2020-01-13-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
+| [9–10 January 2020](2020-01-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [8–9 January 2020](2020-01-09-TermometroPolitico.html) | Termometro Politico <br> La7 |  |  |  |  |  |
+| [8 January 2020](2020-01-08-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
 | [8 January 2020](2020-01-08-Index.html) | Index <br> La7 | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
-| [7–8 January 2020](2020-01-08-EMG.html) | EMG | 4 | 3–4 | 0–4 | 0–4 | 0–5 |
+| [7–8 January 2020](2020-01-08-EMG.html) | EMG <br> Rai 3 | 4 | 3–4 | 0–4 | 0–4 | 0–5 |
 | [3–7 January 2020](2020-01-07-Ixè.html) | Ixè <br> Rai 3 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [20–24 December 2019](2019-12-24-MGResearch.html) | MG Research | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [22–23 December 2019](2019-12-23-Tecnè.html) | Tecnè <br> TGcom24 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
@@ -482,13 +496,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 25% | 100% | Last Result |
-| 1 | 0% | 75% |  |
-| 2 | 0% | 75% |  |
-| 3 | 15% | 75% |  |
-| 4 | 51% | 60% | Median |
-| 5 | 7% | 8% |  |
-| 6 | 1.0% | 1.0% |  |
+| 0 | 14% | 100% | Last Result |
+| 1 | 0% | 86% |  |
+| 2 | 0% | 86% |  |
+| 3 | 24% | 86% |  |
+| 4 | 53% | 62% | Median |
+| 5 | 8% | 8% |  |
+| 6 | 0.6% | 0.6% |  |
 | 7 | 0% | 0% |  |
 
 
