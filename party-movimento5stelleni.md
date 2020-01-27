@@ -10,7 +10,8 @@ Last result: **21.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.0% | 14.5–17.8% | 14.1–18.4% | 13.7–18.9% | 12.9–20.0% |
+| N/A | [Poll Average](average.html) | 16.0% | 14.5–17.8% | 14.0–18.4% | 13.6–18.9% | 12.9–20.0% |
+| [23–24 January 2020](2020-01-24-Tecnè.html) | Tecnè <br> Agenzia Dire | 15.1% | 13.7–16.6% | 13.3–17.1% | 13.0–17.5% | 12.4–18.2% |
 | [21–22 January 2020](2020-01-22-TermometroPolitico.html) | Termometro Politico <br> La7 | 15.8% | 14.9–16.8% | 14.6–17.1% | 14.4–17.3% | 13.9–17.8% |
 | [22 January 2020](2020-01-22-Index.html) | Index | 16.0% | 14.4–17.8% | 14.0–18.3% | 13.6–18.7% | 12.9–19.6% |
 | [20–21 January 2020](2020-01-21-Ixè.html) | Ixè <br> Rai 3 | 16.1% | 14.7–17.7% | 14.3–18.1% | 13.9–18.5% | 13.3–19.3% |
@@ -256,8 +257,8 @@ The following table shows the probability mass function per percentage block of 
 | 11.5–12.5% | 0.2% | 100% |  |
 | 12.5–13.5% | 2% | 99.8% |  |
 | 13.5–14.5% | 9% | 98% |  |
-| 14.5–15.5% | 24% | 89% |  |
-| 15.5–16.5% | 32% | 65% | Median |
+| 14.5–15.5% | 25% | 89% |  |
+| 15.5–16.5% | 31% | 64% | Median |
 | 16.5–17.5% | 20% | 33% |  |
 | 17.5–18.5% | 9% | 13% |  |
 | 18.5–19.5% | 3% | 4% |  |
@@ -274,7 +275,8 @@ Last result: **17** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 11–15 | 11–15 | 10–16 | 10–17 |
+| N/A | [Poll Average](average.html) | 13 | 12–15 | 11–15 | 11–16 | 10–17 |
+| [23–24 January 2020](2020-01-24-Tecnè.html) | Tecnè <br> Agenzia Dire | 13 | 11–14 | 11–14 | 11–15 | 10–15 |
 | [21–22 January 2020](2020-01-22-TermometroPolitico.html) | Termometro Politico <br> La7 | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
 | [22 January 2020](2020-01-22-Index.html) | Index | 14 | 12–15 | 12–15 | 12–16 | 11–16 |
 | [20–21 January 2020](2020-01-21-Ixè.html) | Ixè <br> Rai 3 | 14 | 12–15 | 12–16 | 12–16 | 11–17 |
@@ -518,14 +520,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 0.2% | 100% |  |
-| 10 | 3% | 99.8% |  |
-| 11 | 8% | 97% |  |
-| 12 | 19% | 89% |  |
-| 13 | 31% | 70% | Median |
-| 14 | 26% | 38% |  |
-| 15 | 9% | 12% |  |
-| 16 | 3% | 3% |  |
+| 10 | 0.7% | 100% |  |
+| 11 | 5% | 99.3% |  |
+| 12 | 18% | 95% |  |
+| 13 | 35% | 77% | Median |
+| 14 | 29% | 42% |  |
+| 15 | 10% | 13% |  |
+| 16 | 3% | 4% |  |
 | 17 | 0.6% | 0.7% | Last Result |
 | 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
