@@ -11,6 +11,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4.3% | 3.3–5.4% | 3.1–5.8% | 2.9–6.1% | 2.5–6.8% |
+| [28 January 2020](2020-01-28-MGResearch.html) | MG Research <br> Affaritaliani.it | 4.5% | 3.7–5.5% | 3.4–5.9% | 3.2–6.1% | 2.9–6.7% |
+| [27–28 January 2020](2020-01-28-Ixè.html) | Ixè <br> Rai 3 | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
+| [22–26 January 2020](2020-01-26-SWG.html) | SWG | 4.6% | 4.0–5.4% | 3.8–5.6% | 3.6–5.8% | 3.4–6.2% |
 | [23–24 January 2020](2020-01-24-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
 | [21–22 January 2020](2020-01-22-TermometroPolitico.html) | Termometro Politico <br> La7 | 3.9% | 3.4–4.5% | 3.3–4.6% | 3.2–4.8% | 3.0–5.1% |
 | [22 January 2020](2020-01-22-Index.html) | Index | 4.2% | 3.5–5.3% | 3.2–5.6% | 3.0–5.9% | 2.7–6.4% |
@@ -255,9 +258,9 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.5% | 100% |  |
-| 2.5–3.5% | 15% | 99.5% |  |
-| 3.5–4.5% | 46% | 84% | Median |
+| 1.5–2.5% | 0.6% | 100% |  |
+| 2.5–3.5% | 16% | 99.4% |  |
+| 3.5–4.5% | 44% | 83% | Median |
 | 4.5–5.5% | 31% | 39% |  |
 | 5.5–6.5% | 7% | 8% |  |
 | 6.5–7.5% | 0.8% | 0.8% |  |
@@ -274,6 +277,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 0–4 | 0–5 | 0–5 | 0–5 |
+| [28 January 2020](2020-01-28-MGResearch.html) | MG Research <br> Affaritaliani.it | 4 | 0–4 | 0–5 | 0–5 | 0–6 |
+| [27–28 January 2020](2020-01-28-Ixè.html) | Ixè <br> Rai 3 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [22–26 January 2020](2020-01-26-SWG.html) | SWG | 4 | 4 | 3–4 | 3–5 | 0–5 |
 | [23–24 January 2020](2020-01-24-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [21–22 January 2020](2020-01-22-TermometroPolitico.html) | Termometro Politico <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [22 January 2020](2020-01-22-Index.html) | Index | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
@@ -518,13 +524,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 39% | 100% | Last Result |
-| 1 | 0% | 61% |  |
-| 2 | 0% | 61% |  |
-| 3 | 16% | 61% | Median |
-| 4 | 39% | 45% |  |
+| 0 | 37% | 100% | Last Result |
+| 1 | 0% | 63% |  |
+| 2 | 0% | 63% |  |
+| 3 | 15% | 63% | Median |
+| 4 | 41% | 48% |  |
 | 5 | 6% | 7% |  |
-| 6 | 0.3% | 0.4% |  |
+| 6 | 0.4% | 0.4% |  |
 | 7 | 0% | 0% |  |
 
 
