@@ -11,6 +11,7 @@ Last result: **6.2%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 31.1% | 28.5–33.5% | 27.7–34.1% | 27.1–34.6% | 25.9–35.7% |
+| [28–29 January 2020](2020-01-29-EMG.html) | EMG <br> Rai 3 | 30.1% | 28.6–31.6% | 28.2–32.0% | 27.9–32.4% | 27.2–33.1% |
 | [28 January 2020](2020-01-28-MGResearch.html) | MG Research <br> Affaritaliani.it | 30.5% | 28.5–32.6% | 27.9–33.2% | 27.4–33.8% | 26.4–34.8% |
 | [27–28 January 2020](2020-01-28-Ixè.html) | Ixè <br> Rai 3 | 28.2% | 26.4–30.1% | 25.9–30.6% | 25.5–31.1% | 24.7–32.0% |
 | [22–26 January 2020](2020-01-26-SWG.html) | SWG | 33.0% | 31.5–34.6% | 31.0–35.0% | 30.7–35.4% | 29.9–36.2% |
@@ -281,9 +282,9 @@ The following table shows the probability mass function per percentage block of 
 | 27.5–28.5% | 6% | 96% |  |
 | 28.5–29.5% | 12% | 90% |  |
 | 29.5–30.5% | 17% | 78% |  |
-| 30.5–31.5% | 19% | 61% | Median |
+| 30.5–31.5% | 19% | 62% | Median |
 | 31.5–32.5% | 19% | 42% |  |
-| 32.5–33.5% | 14% | 23% |  |
+| 32.5–33.5% | 14% | 24% |  |
 | 33.5–34.5% | 7% | 10% |  |
 | 34.5–35.5% | 2% | 3% |  |
 | 35.5–36.5% | 0.5% | 0.6% |  |
@@ -300,6 +301,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 26 | 23–28 | 23–29 | 22–29 | 21–30 |
+| [28–29 January 2020](2020-01-29-EMG.html) | EMG <br> Rai 3 | 25 | 24–26 | 24–26 | 23–27 | 22–27 |
 | [28 January 2020](2020-01-28-MGResearch.html) | MG Research <br> Affaritaliani.it | 25 | 23–28 | 22–28 | 22–28 | 21–29 |
 | [27–28 January 2020](2020-01-28-Ixè.html) | Ixè <br> Rai 3 | 23 | 22–26 | 22–26 | 22–26 | 21–27 |
 | [22–26 January 2020](2020-01-26-SWG.html) | SWG | 27 | 27–29 | 26–29 | 25–29 | 25–30 |
@@ -564,11 +566,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 0% | 100% |  |
 | 20 | 0.1% | 100% |  |
 | 21 | 0.5% | 99.9% |  |
-| 22 | 3% | 99.4% |  |
+| 22 | 3% | 99.3% |  |
 | 23 | 11% | 97% |  |
-| 24 | 13% | 86% |  |
-| 25 | 21% | 73% |  |
-| 26 | 14% | 52% | Median |
+| 24 | 14% | 86% |  |
+| 25 | 18% | 72% |  |
+| 26 | 16% | 54% | Median |
 | 27 | 19% | 38% |  |
 | 28 | 11% | 19% |  |
 | 29 | 6% | 7% |  |
