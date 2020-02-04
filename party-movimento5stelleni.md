@@ -10,7 +10,9 @@ Last result: **21.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.6% | 12.9–17.6% | 10.7–18.3% | 10.0–18.8% | 9.0–19.9% |
+| N/A | [Poll Average](average.html) | 15.6% | 12.0–17.8% | 10.5–18.4% | 9.8–19.0% | 8.9–20.1% |
+| [30–31 January 2020](2020-01-31-Tecnè.html) | Tecnè <br> Agenzia Dire | 14.3% | N/A | N/A | N/A | N/A |
+| [29–30 January 2020](2020-01-30-TermometroPolitico.html) | Termometro Politico <br> La7 | 16.0% | N/A | N/A | N/A | N/A |
 | [28–29 January 2020](2020-01-29-EMG.html) | EMG <br> Rai 3 | 14.3% | 13.2–15.5% | 12.9–15.8% | 12.7–16.1% | 12.1–16.7% |
 | [28 January 2020](2020-01-28-MGResearch.html) | MG Research <br> Affaritaliani.it | 10.5% | 9.3–12.0% | 8.9–12.5% | 8.6–12.8% | 8.0–13.6% |
 | [27–28 January 2020](2020-01-28-Ixè.html) | Ixè <br> Rai 3 | 15.9% | 14.5–17.5% | 14.1–17.9% | 13.8–18.3% | 13.1–19.1% |
@@ -259,18 +261,18 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0.2% | 100% |  |
-| 8.5–9.5% | 1.3% | 99.8% |  |
-| 9.5–10.5% | 3% | 98.5% |  |
-| 10.5–11.5% | 3% | 96% |  |
-| 11.5–12.5% | 2% | 93% |  |
-| 12.5–13.5% | 4% | 91% |  |
-| 13.5–14.5% | 13% | 87% |  |
-| 14.5–15.5% | 23% | 74% |  |
-| 15.5–16.5% | 24% | 51% | Median |
-| 16.5–17.5% | 16% | 27% |  |
-| 17.5–18.5% | 7% | 11% |  |
+| 8.5–9.5% | 2% | 99.8% |  |
+| 9.5–10.5% | 4% | 98% |  |
+| 10.5–11.5% | 4% | 95% |  |
+| 11.5–12.5% | 2% | 91% |  |
+| 12.5–13.5% | 4% | 89% |  |
+| 13.5–14.5% | 13% | 85% |  |
+| 14.5–15.5% | 20% | 72% |  |
+| 15.5–16.5% | 22% | 51% | Median |
+| 16.5–17.5% | 16% | 30% |  |
+| 17.5–18.5% | 9% | 13% |  |
 | 18.5–19.5% | 3% | 4% |  |
-| 19.5–20.5% | 0.7% | 0.9% |  |
+| 19.5–20.5% | 0.9% | 1.1% |  |
 | 20.5–21.5% | 0.2% | 0.2% | Last Result |
 | 21.5–22.5% | 0% | 0% |  |
 
@@ -283,7 +285,9 @@ Last result: **17** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 11–15 | 9–15 | 8–16 | 7–17 |
+| N/A | [Poll Average](average.html) | 13 | 10–15 | 9–15 | 8–16 | 7–17 |
+| [30–31 January 2020](2020-01-31-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [29–30 January 2020](2020-01-30-TermometroPolitico.html) | Termometro Politico <br> La7 |  |  |  |  |  |
 | [28–29 January 2020](2020-01-29-EMG.html) | EMG <br> Rai 3 | 12 | 11–13 | 11–13 | 10–13 | 10–14 |
 | [28 January 2020](2020-01-28-MGResearch.html) | MG Research <br> Affaritaliani.it | 9 | 8–10 | 7–10 | 7–11 | 6–11 |
 | [27–28 January 2020](2020-01-28-Ixè.html) | Ixè <br> Rai 3 | 14 | 12–15 | 12–15 | 12–15 | 11–16 |
@@ -532,17 +536,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 0.9% | 100% |  |
-| 8 | 3% | 99.1% |  |
-| 9 | 3% | 96% |  |
-| 10 | 3% | 93% |  |
-| 11 | 6% | 90% |  |
-| 12 | 24% | 84% |  |
-| 13 | 27% | 60% | Median |
-| 14 | 18% | 32% |  |
-| 15 | 11% | 14% |  |
-| 16 | 2% | 3% |  |
-| 17 | 0.5% | 0.6% | Last Result |
+| 6 | 0.1% | 100% |  |
+| 7 | 1.0% | 99.9% |  |
+| 8 | 3% | 98.9% |  |
+| 9 | 4% | 96% |  |
+| 10 | 3% | 91% |  |
+| 11 | 6% | 88% |  |
+| 12 | 25% | 82% |  |
+| 13 | 23% | 57% | Median |
+| 14 | 18% | 34% |  |
+| 15 | 13% | 16% |  |
+| 16 | 3% | 3% |  |
+| 17 | 0.6% | 0.8% | Last Result |
 | 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
 
