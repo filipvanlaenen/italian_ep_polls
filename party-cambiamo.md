@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.8% | 0.4–1.7% | 0.3–1.9% | 0.2–2.1% | 0.1–2.5% |
+| N/A | [Poll Average](average.html) | 0.8% | 0.3–1.8% | 0.3–2.0% | 0.2–2.2% | 0.1–2.6% |
+| [6 February 2020](2020-02-06-Index.html) | Index | 0.9% | N/A | N/A | N/A | N/A |
+| [4–6 February 2020](2020-02-06-EMG.html) | EMG <br> Rai 3 | 1.0% | N/A | N/A | N/A | N/A |
 | [4 February 2020](2020-02-04-Ixè.html) | Ixè <br> RTI | 0.8% | N/A | N/A | N/A | N/A |
 | [4 February 2020](2020-02-04-Index.html) | Index | 1.0% | N/A | N/A | N/A | N/A |
 | [29 January–3 February 2020](2020-02-03-SWG.html) | SWG <br> Agenzia Dire | 1.1% | N/A | N/A | N/A | N/A |
@@ -265,10 +267,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 21% | 100% | Last Result |
-| 0.5–1.5% | 65% | 79% | Median |
-| 1.5–2.5% | 13% | 13% |  |
-| 2.5–3.5% | 0.4% | 0.4% |  |
+| 0.0–0.5% | 27% | 100% | Last Result |
+| 0.5–1.5% | 55% | 73% | Median |
+| 1.5–2.5% | 17% | 17% |  |
+| 2.5–3.5% | 0.6% | 0.6% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -281,6 +283,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [6 February 2020](2020-02-06-Index.html) | Index |  |  |  |  |  |
+| [4–6 February 2020](2020-02-06-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [4 February 2020](2020-02-04-Ixè.html) | Ixè <br> RTI |  |  |  |  |  |
 | [4 February 2020](2020-02-04-Index.html) | Index |  |  |  |  |  |
 | [29 January–3 February 2020](2020-02-03-SWG.html) | SWG <br> Agenzia Dire |  |  |  |  |  |
