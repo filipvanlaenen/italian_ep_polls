@@ -10,23 +10,23 @@ Last result: **40.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.8% | 17.7–25.9% | 17.3–26.7% | 16.8–27.3% | 16.0–28.5% |
-| [11–12 February 2020](2020-02-12-EMG.html) | EMG <br> Rai 3 | 21.5% | N/A | N/A | N/A | N/A |
-| [12 February 2020](2020-02-12-Demopolis.html) | Demopolis <br> La7 | 20.2% | N/A | N/A | N/A | N/A |
-| [11 February 2020](2020-02-11-Ixè.html) | Ixè <br> Rai 3 | 20.3% | N/A | N/A | N/A | N/A |
-| [5–10 February 2020](2020-02-10-SWG.html) | SWG | 20.7% | N/A | N/A | N/A | N/A |
-| [6–7 February 2020](2020-02-07-Tecnè.html) | Tecnè <br> Agenzia Dire | 20.4% | N/A | N/A | N/A | N/A |
-| [4–6 February 2020](2020-02-06-TermometroPolitico.html) | Termometro Politico | 20.2% | N/A | N/A | N/A | N/A |
-| [6 February 2020](2020-02-06-Index.html) | Index | 19.2% | N/A | N/A | N/A | N/A |
-| [4–6 February 2020](2020-02-06-EMG.html) | EMG <br> Rai 3 | 21.3% | N/A | N/A | N/A | N/A |
-| [4 February 2020](2020-02-04-Ixè.html) | Ixè <br> RTI | 19.8% | N/A | N/A | N/A | N/A |
-| [29 January–3 February 2020](2020-02-03-SWG.html) | SWG <br> Agenzia Dire | 19.7% | N/A | N/A | N/A | N/A |
-| [30 January–2 February 2020](2020-02-02-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 22.6% | N/A | N/A | N/A | N/A |
-| [30–31 January 2020](2020-01-31-Tecnè.html) | Tecnè <br> Agenzia Dire | 20.2% | N/A | N/A | N/A | N/A |
-| [29–31 January 2020](2020-01-31-Piepoli.html) | Piepoli <br> Rai 2 | 20.0% | N/A | N/A | N/A | N/A |
-| [29–30 January 2020](2020-01-30-TermometroPolitico.html) | Termometro Politico <br> La7 | 20.4% | N/A | N/A | N/A | N/A |
-| [28–30 January 2020](2020-01-30-Ipsos.html) | Ipsos | 20.3% | N/A | N/A | N/A | N/A |
-| [29 January 2020](2020-01-29-Index.html) | Index | 19.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 20.4% | 18.4–23.4% | 17.8–24.8% | 17.3–25.8% | 16.4–27.4% |
+| [11–12 February 2020](2020-02-12-EMG.html) | EMG <br> Rai 3 | 21.5% | 20.2–22.9% | 19.8–23.3% | 19.5–23.6% | 18.9–24.3% |
+| [12 February 2020](2020-02-12-Demopolis.html) | Demopolis <br> La7 | 20.2% | 18.6–21.9% | 18.2–22.4% | 17.8–22.8% | 17.1–23.6% |
+| [11 February 2020](2020-02-11-Ixè.html) | Ixè <br> Rai 3 | 20.3% | 18.7–22.0% | 18.3–22.5% | 17.9–22.9% | 17.2–23.7% |
+| [5–10 February 2020](2020-02-10-SWG.html) | SWG | 20.7% | 19.4–22.1% | 19.1–22.5% | 18.7–22.9% | 18.1–23.5% |
+| [6–7 February 2020](2020-02-07-Tecnè.html) | Tecnè <br> Agenzia Dire | 20.4% | 18.8–22.1% | 18.4–22.6% | 18.0–23.0% | 17.3–23.9% |
+| [4–6 February 2020](2020-02-06-TermometroPolitico.html) | Termometro Politico | 20.2% | 19.3–21.1% | 19.0–21.4% | 18.8–21.6% | 18.4–22.1% |
+| [6 February 2020](2020-02-06-Index.html) | Index | 19.2% | 17.5–21.1% | 17.1–21.7% | 16.7–22.1% | 15.9–23.1% |
+| [4–6 February 2020](2020-02-06-EMG.html) | EMG <br> Rai 3 | 21.3% | 20.0–22.7% | 19.6–23.1% | 19.3–23.5% | 18.7–24.2% |
+| [4 February 2020](2020-02-04-Ixè.html) | Ixè <br> RTI | 19.8% | 18.2–21.5% | 17.8–22.0% | 17.4–22.4% | 16.7–23.2% |
+| [29 January–3 February 2020](2020-02-03-SWG.html) | SWG <br> Agenzia Dire | 19.7% | 18.5–21.1% | 18.1–21.5% | 17.8–21.8% | 17.2–22.5% |
+| [30 January–2 February 2020](2020-02-02-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 22.6% | 21.0–24.4% | 20.5–24.9% | 20.1–25.3% | 19.3–26.2% |
+| [30–31 January 2020](2020-01-31-Tecnè.html) | Tecnè <br> Agenzia Dire | 20.2% | 18.6–21.9% | 18.2–22.4% | 17.8–22.8% | 17.1–23.6% |
+| [29–31 January 2020](2020-01-31-Piepoli.html) | Piepoli <br> Rai 2 | 20.0% | 17.8–22.5% | 17.2–23.1% | 16.7–23.7% | 15.7–25.0% |
+| [29–30 January 2020](2020-01-30-TermometroPolitico.html) | Termometro Politico <br> La7 | 20.4% | 19.3–21.5% | 19.0–21.8% | 18.8–22.1% | 18.3–22.6% |
+| [28–30 January 2020](2020-01-30-Ipsos.html) | Ipsos | 20.3% | 18.7–22.0% | 18.3–22.5% | 17.9–22.9% | 17.2–23.7% |
+| [29 January 2020](2020-01-29-Index.html) | Index | 19.0% | 17.3–20.9% | 16.8–21.4% | 16.4–21.9% | 15.7–22.8% |
 | [28–29 January 2020](2020-01-29-EMG.html) | EMG <br> Rai 3 | 21.2% | 19.9–22.6% | 19.6–23.0% | 19.3–23.3% | 18.7–24.0% |
 | [28 January 2020](2020-01-28-MGResearch.html) | MG Research <br> Affaritaliani.it | 25.0% | 23.2–27.1% | 22.6–27.6% | 22.2–28.1% | 21.3–29.1% |
 | [27–28 January 2020](2020-01-28-Ixè.html) | Ixè <br> Rai 3 | 20.0% | 18.4–21.7% | 18.0–22.2% | 17.6–22.6% | 16.9–23.4% |
@@ -177,14 +177,14 @@ Last result: **40.8%** (General Election of 26 May 2019)
 | [18–20 September 2019](2019-09-20-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 20.7% | 19.4–22.1% | 19.0–22.5% | 18.7–22.8% | 18.1–23.5% |
 | [18–20 September 2019](2019-09-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 | 21.2% | 19.6–22.9% | 19.2–23.4% | 18.8–23.9% | 18.0–24.7% |
 | [20 September 2019](2019-09-20-IZI.html) | IZI | 19.5% | 18.0–21.2% | 17.6–21.7% | 17.2–22.1% | 16.5–22.9% |
-| [17–19 September 2019](2019-09-19-TermometroPolitico.html) | Termometro Politico <br> La7 | 19.5% | 18.5–20.8% | 18.2–21.2% | 18.0–21.5% | 17.4–22.0% |
+| [17–19 September 2019](2019-09-19-TermometroPolitico.html) | Termometro Politico <br> La7 | 19.5% | 18.4–20.7% | 18.1–21.0% | 17.8–21.3% | 17.3–21.9% |
 | [18–19 September 2019](2019-09-19-Tecnè.html) | Tecnè <br> Rete 4 | 19.4% | 17.9–21.1% | 17.4–21.6% | 17.1–22.0% | 16.4–22.8% |
 | [1–19 September 2019](2019-09-19-IndexResearch.html) | Index Research <br> La7 | 20.5% | 18.7–22.4% | 18.3–23.0% | 17.8–23.4% | 17.0–24.4% |
 | [18–19 September 2019](2019-09-19-Demopolis.html) | Demopolis <br> Rai 3 | 19.4% | 18.1–20.8% | 17.8–21.2% | 17.5–21.5% | 16.9–22.1% |
 | [17–18 September 2019](2019-09-18-Euromedia.html) | Euromedia <br> Rai 1 | 17.6% | 16.0–19.5% | 15.5–20.0% | 15.1–20.4% | 14.4–21.3% |
 | [14–18 September 2019](2019-09-18-BiDiMedia.html) | BiDiMedia | 22.1% | 20.8–23.5% | 20.4–23.9% | 20.1–24.2% | 19.5–24.9% |
 | [16–17 September 2019](2019-09-17-Ixè.html) | Ixè <br> Rai 3 | 21.6% | 20.0–23.4% | 19.5–23.8% | 19.2–24.3% | 18.4–25.1% |
-| [17 September 2019](2019-09-17-EMG.html) | EMG <br> Rai 3 | 20.2% | 18.8–21.2% | 18.4–21.6% | 18.2–21.9% | 17.6–22.5% |
+| [17 September 2019](2019-09-17-EMG.html) | EMG <br> Rai 3 | 20.2% | 19.0–21.5% | 18.7–21.8% | 18.4–22.1% | 17.9–22.8% |
 | [15–16 September 2019](2019-09-16-Tecnè.html) | Tecnè <br> Rete 4 | 23.3% | 21.6–25.1% | 21.2–25.6% | 20.8–26.0% | 20.0–26.9% |
 | [11–16 September 2019](2019-09-16-SWG.html) | SWG <br> La7 | 21.5% | 20.1–22.9% | 19.8–23.3% | 19.5–23.6% | 18.8–24.3% |
 | [11–12 September 2019](2019-09-12-TermometroPolitico.html) | Termometro Politico <br> La7 | 23.0% | 22.0–24.0% | 21.7–24.3% | 21.5–24.6% | 21.1–25.0% |
@@ -274,22 +274,22 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0.2% | 100% |  |
-| 15.5–16.5% | 1.3% | 99.8% |  |
-| 16.5–17.5% | 6% | 98.5% |  |
-| 17.5–18.5% | 16% | 92% |  |
-| 18.5–19.5% | 22% | 76% |  |
-| 19.5–20.5% | 14% | 54% | Median |
-| 20.5–21.5% | 5% | 40% |  |
-| 21.5–22.5% | 2% | 34% |  |
-| 22.5–23.5% | 4% | 32% |  |
-| 23.5–24.5% | 7% | 28% |  |
-| 24.5–25.5% | 8% | 21% |  |
-| 25.5–26.5% | 7% | 13% |  |
-| 26.5–27.5% | 4% | 6% |  |
-| 27.5–28.5% | 1.4% | 2% |  |
-| 28.5–29.5% | 0.4% | 0.4% |  |
-| 29.5–30.5% | 0.1% | 0.1% |  |
+| 14.5–15.5% | 0.1% | 100% |  |
+| 15.5–16.5% | 0.6% | 99.9% |  |
+| 16.5–17.5% | 3% | 99.3% |  |
+| 17.5–18.5% | 8% | 97% |  |
+| 18.5–19.5% | 17% | 88% |  |
+| 19.5–20.5% | 24% | 71% | Median |
+| 20.5–21.5% | 20% | 48% |  |
+| 21.5–22.5% | 12% | 27% |  |
+| 22.5–23.5% | 6% | 15% |  |
+| 23.5–24.5% | 4% | 9% |  |
+| 24.5–25.5% | 3% | 6% |  |
+| 25.5–26.5% | 2% | 3% |  |
+| 26.5–27.5% | 0.9% | 1.3% |  |
+| 27.5–28.5% | 0.3% | 0.4% |  |
+| 28.5–29.5% | 0.1% | 0.1% |  |
+| 29.5–30.5% | 0% | 0% |  |
 | 30.5–31.5% | 0% | 0% |  |
 | 31.5–32.5% | 0% | 0% |  |
 | 32.5–33.5% | 0% | 0% |  |
@@ -311,262 +311,262 @@ Last result: **31** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 13–20 | 13–21 | 12–22 | 11–23 |
-| [11–12 February 2020](2020-02-12-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
-| [12 February 2020](2020-02-12-Demopolis.html) | Demopolis <br> La7 |  |  |  |  |  |
-| [11 February 2020](2020-02-11-Ixè.html) | Ixè <br> Rai 3 |  |  |  |  |  |
-| [5–10 February 2020](2020-02-10-SWG.html) | SWG |  |  |  |  |  |
-| [6–7 February 2020](2020-02-07-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
-| [4–6 February 2020](2020-02-06-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [6 February 2020](2020-02-06-Index.html) | Index |  |  |  |  |  |
-| [4–6 February 2020](2020-02-06-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
-| [4 February 2020](2020-02-04-Ixè.html) | Ixè <br> RTI |  |  |  |  |  |
-| [29 January–3 February 2020](2020-02-03-SWG.html) | SWG <br> Agenzia Dire |  |  |  |  |  |
-| [30 January–2 February 2020](2020-02-02-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll |  |  |  |  |  |
-| [30–31 January 2020](2020-01-31-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
-| [29–31 January 2020](2020-01-31-Piepoli.html) | Piepoli <br> Rai 2 |  |  |  |  |  |
-| [29–30 January 2020](2020-01-30-TermometroPolitico.html) | Termometro Politico <br> La7 |  |  |  |  |  |
-| [28–30 January 2020](2020-01-30-Ipsos.html) | Ipsos |  |  |  |  |  |
-| [29 January 2020](2020-01-29-Index.html) | Index |  |  |  |  |  |
-| [28–29 January 2020](2020-01-29-EMG.html) | EMG <br> Rai 3 | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
-| [28 January 2020](2020-01-28-MGResearch.html) | MG Research <br> Affaritaliani.it | 20 | 18–21 | 17–22 | 17–22 | 16–23 |
-| [27–28 January 2020](2020-01-28-Ixè.html) | Ixè <br> Rai 3 | 16 | 15–17 | 14–18 | 14–18 | 13–19 |
-| [22–26 January 2020](2020-01-26-SWG.html) | SWG | 14 | 13–14 | 13–15 | 12–15 | 11–16 |
-| [23–24 January 2020](2020-01-24-Tecnè.html) | Tecnè <br> Agenzia Dire | 15 | 14–17 | 14–17 | 13–17 | 13–18 |
-| [21–22 January 2020](2020-01-22-TermometroPolitico.html) | Termometro Politico <br> La7 | 15 | 14–16 | 14–17 | 13–17 | 13–17 |
-| [22 January 2020](2020-01-22-Index.html) | Index | 15 | 14–17 | 13–17 | 13–18 | 12–18 |
-| [20–21 January 2020](2020-01-21-Ixè.html) | Ixè <br> Rai 3 | 16 | 14–17 | 13–18 | 13–18 | 13–19 |
-| [19–20 January 2020](2020-01-20-Tecnè.html) | Tecnè <br> RTI | 13 | 12–14 | 12–15 | 11–15 | 11–16 |
-| [15–20 January 2020](2020-01-20-SWG.html) | SWG <br> La7 | 15 | 13–15 | 13–16 | 13–16 | 12–17 |
-| [10–17 January 2020](2020-01-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 15 | 14–17 | 14–17 | 13–17 | 13–18 |
-| [15–16 January 2020](2020-01-16-TermometroPolitico.html) | Termometro Politico <br> La7 | 15 | 14–16 | 14–16 | 14–16 | 13–17 |
-| [14–16 January 2020](2020-01-16-BiDiMedia.html) | BiDiMedia | 14 | 13–15 | 13–15 | 12–16 | 12–16 |
-| [15 January 2020](2020-01-15-Index.html) | Index | 14 | 13–17 | 13–17 | 13–17 | 12–18 |
-| [13–14 January 2020](2020-01-14-Ixè.html) | Ixè <br> Rai 3 | 15 | 15–17 | 14–18 | 14–18 | 13–19 |
-| [14 January 2020](2020-01-14-EMG.html) | EMG <br> Rai 3 | 15 | 15–16 | 15–17 | 14–17 | 14–18 |
-| [12–13 January 2020](2020-01-13-Tecnè.html) | Tecnè <br> RTI | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
-| [8–13 January 2020](2020-01-13-SWG.html) | SWG <br> La7 | 14 | 13–15 | 13–16 | 13–16 | 12–17 |
-| [13 January 2019–13 January 2020](2020-01-13-Euromedia.html) | Euromedia <br> Rai 1 | 13 | 12–16 | 12–16 | 12–17 | 11–17 |
-| [9–10 January 2020](2020-01-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 15 | 13–17 | 13–17 | 13–17 | 12–18 |
-| [8–10 January 2020](2020-01-10-Piepoli.html) | Piepoli <br> Rai 2 | 15 | 13–17 | 12–17 | 12–18 | 11–19 |
-| [8–9 January 2020](2020-01-09-TermometroPolitico.html) | Termometro Politico <br> La7 | 14 | 14–15 | 14–15 | 13–15 | 13–16 |
-| [9 January 2020](2020-01-09-Index.html) | Index <br> La7 | 14 | 13–16 | 13–17 | 12–17 | 12–18 |
-| [8 January 2020](2020-01-08-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 14 | 13–16 | 12–16 | 12–17 | 12–18 |
-| [7–8 January 2020](2020-01-08-EMG.html) | EMG <br> Rai 3 | 16 | 15–17 | 14–17 | 14–17 | 14–17 |
-| [3–7 January 2020](2020-01-07-Ixè.html) | Ixè <br> Rai 3 | 15 | 14–17 | 14–18 | 14–18 | 13–18 |
-| [20–24 December 2019](2019-12-24-MGResearch.html) | MG Research | 14 | 12–15 | 12–16 | 12–16 | 11–17 |
-| [22–23 December 2019](2019-12-23-Tecnè.html) | Tecnè <br> TGcom24 | 15 | 14–16 | 13–17 | 13–17 | 12–18 |
-| [18–23 December 2019](2019-12-23-SWG.html) | SWG <br> La7 | 13 | 12–14 | 12–15 | 11–15 | 11–16 |
-| [19–20 December 2019](2019-12-20-Tecnè.html) | Tecnè <br> Agenzia Dire | 15 | 13–16 | 13–17 | 13–17 | 12–18 |
-| [18–19 December 2019](2019-12-19-TermometroPolitico.html) | Termometro Politico <br> La7 | 14 | 13–15 | 13–15 | 13–15 | 13–16 |
-| [18–19 December 2019](2019-12-19-Ipsos.html) | Ipsos <br> Corriere della Sera | 13 | 12–15 | 12–15 | 11–15 | 11–16 |
-| [18 December 2019](2019-12-18-Index.html) | Index <br> La7 | 15 | 13–17 | 13–17 | 13–18 | 12–18 |
-| [17–18 December 2019](2019-12-18-EMG.html) | EMG <br> Rai 3 | 16 | 14–16 | 14–16 | 14–17 | 13–17 |
-| [17–18 December 2019](2019-12-18-Demopolis.html) | Demopolis <br> Rai 3 | 13 | 12–14 | 12–15 | 12–15 | 11–16 |
-| [16–17 December 2019](2019-12-17-Ixè.html) | Ixè <br> Rai 3 | 17 | 15–18 | 14–18 | 14–19 | 13–20 |
-| [11–16 December 2019](2019-12-16-SWG.html) | SWG <br> La7 | 13 | 12–14 | 12–15 | 12–15 | 11–16 |
-| [16 December 2019](2019-12-16-Euromedia.html) | Euromedia <br> Rai 1 | 13 | 12–14 | 11–15 | 11–15 | 10–16 |
-| [12–13 December 2019](2019-12-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 14 | 13–16 | 13–16 | 13–17 | 12–17 |
-| [11–13 December 2019](2019-12-13-BiDiMedia.html) | BiDiMedia | 14 | 13–15 | 13–15 | 13–16 | 12–16 |
-| [11–12 December 2019](2019-12-12-Tecnè.html) | Tecnè <br> RTI | 15 | 13–16 | 13–16 | 13–17 | 12–18 |
-| [12 December 2019](2019-12-12-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 14 | 13–17 | 13–17 | 12–17 | 11–17 |
-| [1–11 December 2019](2019-12-11-Index.html) | Index <br> La7 | 14 | 14–16 | 13–18 | 13–18 | 12–18 |
-| [10–11 December 2019](2019-12-11-EMG.html) | EMG <br> Rai 3 | 14 | 14–16 | 14–16 | 13–17 | 13–17 |
-| [9–10 December 2019](2019-12-10-Ixè.html) | Ixè <br> Rai 3 | 16 | 15–18 | 15–18 | 14–19 | 14–19 |
-| [8–9 December 2019](2019-12-09-Tecnè.html) | Tecnè <br> Rete 4 | 14 | 13–16 | 13–16 | 12–17 | 11–17 |
-| [4–9 December 2019](2019-12-09-SWG.html) | SWG <br> La7 | 13 | 13–15 | 12–16 | 12–16 | 12–17 |
-| [5–6 December 2019](2019-12-06-Tecnè.html) | Tecnè <br> Agenzia Dire | 14 | 13–16 | 13–16 | 12–17 | 12–17 |
-| [6 December 2019](2019-12-06-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 13 | 12–15 | 12–16 | 12–16 | 11–16 |
-| [2–6 December 2019](2019-12-06-DemosPi.html) | Demos & Pi <br> La Repubblica | 14 | 13–15 | 12–15 | 12–16 | 12–16 |
-| [4 November–5 December 2019](2019-12-05-TermometroPolitico.html) | Termometro Politico <br> La7 | 14 | 13–15 | 13–15 | 13–15 | 12–16 |
-| [1–4 December 2019](2019-12-04-Index.html) | Index <br> La7 | 14 | 13–16 | 13–16 | 12–17 | 12–18 |
-| [1–4 December 2019](2019-12-04-Euromedia.html) | Euromedia <br> Rai 1 | 13 | 12–14 | 11–14 | 11–15 | 11–16 |
-| [3–4 December 2019](2019-12-04-EMG.html) | EMG <br> Rai 3 | 15 | 14–15 | 14–16 | 13–16 | 13–17 |
-| [2–3 December 2019](2019-12-03-Ixè.html) | Ixè <br> Rai 3 | 17 | 15–18 | 15–18 | 14–18 | 13–19 |
-| [1–2 December 2019](2019-12-02-Tecnè.html) | Tecnè <br> Rete 4 | 14 | 13–16 | 13–16 | 12–16 | 12–17 |
-| [27 November–2 December 2019](2019-12-02-SWG.html) | SWG <br> La7 | 14 | 12–15 | 12–15 | 12–16 | 11–16 |
-| [28–29 November 2019](2019-11-29-Tecnè.html) | Tecnè <br> Agenzia Dire | 14 | 13–16 | 13–16 | 12–16 | 12–17 |
-| [27–28 November 2019](2019-11-28-TermometroPolitico.html) | Termometro Politico <br> La7 | 14 | 13–15 | 13–15 | 13–16 | 12–16 |
-| [26–27 November 2019](2019-11-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 14 | 12–15 | 12–15 | 12–16 | 11–16 |
-| [1–27 November 2019](2019-11-27-Index.html) | Index <br> La7 | 14 | 13–16 | 12–17 | 12–17 | 12–18 |
-| [27 November 2019](2019-11-27-EMG.html) | EMG <br> Rai 3 | 14 | 14–15 | 14–16 | 13–16 | 13–17 |
-| [25–26 November 2019](2019-11-26-Ixè.html) | Ixè <br> Rai 3 | 15 | 14–17 | 14–17 | 13–17 | 13–18 |
-| [24–25 November 2019](2019-11-25-Tecnè.html) | Tecnè <br> Rete 4 | 15 | 13–16 | 13–17 | 13–17 | 12–17 |
-| [20–25 November 2019](2019-11-25-SWG.html) | SWG <br> La7 | 13 | 13–15 | 13–15 | 12–15 | 12–16 |
-| [21–22 November 2019](2019-11-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 14 | 13–16 | 13–17 | 13–17 | 12–17 |
-| [21–22 November 2019](2019-11-22-Piepoli.html) | Piepoli <br> Rai 2 | 15 | 13–17 | 12–17 | 12–18 | 11–19 |
-| [20–21 November 2019](2019-11-21-TermometroPolitico.html) | Termometro Politico <br> La7 | 13 | 13–14 | 13–15 | 12–15 | 12–15 |
-| [21 November 2019](2019-11-21-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
-| [1–20 November 2019](2019-11-20-EMG.html) | EMG <br> Rai 3 | 15 | 14–16 | 14–16 | 14–16 | 13–17 |
-| [18–19 November 2019](2019-11-19-Ixè.html) | Ixè <br> Rai 3 | 16 | 14–17 | 14–18 | 14–18 | 13–19 |
-| [18–19 November 2019](2019-11-19-BiDiMedia.html) | BiDiMedia | 13 | 13–15 | 12–15 | 12–16 | 12–16 |
-| [13–18 November 2019](2019-11-18-SWG.html) | SWG <br> La7 | 14 | 13–15 | 12–15 | 12–16 | 12–16 |
-| [14–15 November 2019](2019-11-15-Tecnè.html) | Tecnè <br> Agenzia Dire | 14 | 13–16 | 13–16 | 12–17 | 12–17 |
-| [1–14 November 2019](2019-11-14-Index.html) | Index <br> La7 | 14 | 13–15 | 12–16 | 12–16 | 11–17 |
-| [12–13 November 2019](2019-11-13-TermometroPolitico.html) | Termometro Politico <br> La7 | 14 | 13–15 | 13–15 | 12–15 | 12–15 |
-| [8–13 November 2019](2019-11-13-EMG.html) | EMG <br> Rai 3 | 15 | 13–16 | 13–16 | 13–16 | 12–17 |
-| [11–12 November 2019](2019-11-12-Ixè.html) | Ixè <br> Rai 3 | 16 | 14–18 | 14–18 | 14–19 | 13–19 |
-| [10–12 November 2019](2019-11-12-Demopolis.html) | Demopolis <br> Rai 3 | 13 | 12–14 | 12–14 | 11–14 | 11–15 |
-| [10–11 November 2019](2019-11-11-Tecnè.html) | Tecnè <br> Rete 4 | 14 | 13–15 | 13–16 | 12–16 | 12–17 |
-| [6–11 November 2019](2019-11-11-SWG.html) | SWG <br> La7 | 14 | 13–15 | 13–16 | 12–16 | 12–16 |
-| [1–11 November 2019](2019-11-11-Euromedia.html) | Euromedia <br> Rai 1 | 13 | 12–15 | 11–16 | 11–16 | 11–16 |
-| [8–9 November 2019](2019-11-09-Piepoli.html) | Piepoli <br> Rai 2 | 14 | 12–16 | 12–17 | 11–17 | 11–18 |
-| [7–8 November 2019](2019-11-08-Tecnè.html) | Tecnè <br> Agenzia Dire | 14 | 13–15 | 12–16 | 12–16 | 11–17 |
-| [6–7 November 2019](2019-11-07-TermometroPolitico.html) | Termometro Politico <br> La7 | 14 | 13–14 | 13–14 | 13–14 | 12–15 |
-| [7 November 2019](2019-11-07-Index.html) | Index <br> La7 | 14 | 13–16 | 12–16 | 12–17 | 11–17 |
-| [6 November 2019](2019-11-06-EMG.html) | EMG <br> Rai 3 | 14 | 13–15 | 13–16 | 13–16 | 12–16 |
-| [4–5 November 2019](2019-11-05-Ixè.html) | Ixè <br> Rai 3 | 15 | 14–17 | 14–17 | 13–18 | 13–19 |
-| [4–5 November 2019](2019-11-05-IZI.html) | IZI | 13 | 12–14 | 11–14 | 11–15 | 10–15 |
-| [30 October–4 November 2019](2019-11-04-SWG.html) | SWG <br> La7 | 14 | 12–14 | 12–14 | 12–15 | 11–15 |
-| [1–4 November 2019](2019-11-04-Piepoli.html) | Piepoli <br> Rai 2 | 15 | 13–16 | 12–17 | 12–18 | 11–19 |
-| [29–31 October 2019](2019-10-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 13 | 12–14 | 11–14 | 11–15 | 10–15 |
-| [31 October 2019](2019-10-31-Index.html) | Index <br> La7 | 15 | 13–16 | 13–16 | 12–17 | 12–17 |
-| [30–31 October 2019](2019-10-31-Demopolis.html) | Demopolis <br> Rai 3 | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
-| [30 October 2019](2019-10-30-Tecnè.html) | Tecnè | 15 | 13–16 | 13–16 | 12–16 | 12–18 |
-| [30 October 2019](2019-10-30-EMG.html) | EMG <br> Rai 3 | 14 | 14–15 | 13–16 | 13–16 | 12–17 |
-| [28–29 October 2019](2019-10-29-Ixè.html) | Ixè <br> Rai 3 | 15 | 14–17 | 14–17 | 13–17 | 13–18 |
-| [27 October 2019](2019-10-27-Tecnè.html) | Tecnè <br> Rete 4 | 15 | 13–16 | 13–16 | 13–17 | 12–17 |
-| [23–27 October 2019](2019-10-27-SWG.html) | SWG <br> La7 | 14 | 12–15 | 12–15 | 12–15 | 11–16 |
-| [24–25 October 2019](2019-10-25-Tecnè.html) | Tecnè <br> Agenzia Dire | 14 | 13–16 | 13–16 | 12–17 | 12–17 |
-| [23–24 October 2019](2019-10-24-TermometroPolitico.html) | Termometro Politico <br> La7 | 14 | 13–15 | 13–15 | 13–16 | 12–16 |
-| [22–24 October 2019](2019-10-24-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
-| [24 October 2019](2019-10-24-Index.html) | Index <br> La7 | 14 | 13–16 | 13–16 | 13–16 | 12–17 |
-| [23 October 2019](2019-10-23-EMG.html) | EMG <br> Rai 3 | 14 | 13–15 | 13–15 | 12–16 | 12–17 |
-| [22 October 2019](2019-10-22-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 14 | 12–15 | 12–15 | 12–16 | 11–16 |
-| [21–22 October 2019](2019-10-22-Ixè.html) | Ixè <br> Rai 3 | 15 | 14–16 | 14–17 | 13–18 | 13–18 |
-| [20–21 October 2019](2019-10-21-Tecnè.html) | Tecnè <br> Rete 4 | 14 | 13–15 | 13–16 | 13–16 | 12–17 |
-| [16–21 October 2019](2019-10-21-SWG.html) | SWG <br> La7 | 14 | 13–15 | 13–16 | 13–16 | 12–16 |
-| [17–18 October 2019](2019-10-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 15 | 14–17 | 14–17 | 13–17 | 13–18 |
-| [16–17 October 2019](2019-10-17-TermometroPolitico.html) | Termometro Politico <br> La7 | 14 | 14–16 | 14–16 | 13–16 | 13–16 |
-| [17 October 2019](2019-10-17-Index.html) | Index <br> La7 | 15 | 13–16 | 13–17 | 12–17 | 12–18 |
-| [16–17 October 2019](2019-10-17-Euromedia.html) | Euromedia <br> Rai 1 | 13 | 12–14 | 12–15 | 11–15 | 11–16 |
-| [16–17 October 2019](2019-10-17-EMG.html) | EMG <br> Rai 3 | 14 | 13–15 | 13–16 | 13–16 | 12–16 |
-| [14–15 October 2019](2019-10-15-Ixè.html) | Ixè <br> Rai 3 | 16 | 15–17 | 14–17 | 13–18 | 13–19 |
-| [13–14 October 2019](2019-10-14-Tecnè.html) | Tecnè <br> Rete 4 | 16 | 14–17 | 14–17 | 13–18 | 13–18 |
-| [9–14 October 2019](2019-10-14-SWG.html) | SWG <br> La7 | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
-| [10–11 October 2019](2019-10-11-Tecnè.html) | Tecnè <br> Agenzia Dire | 16 | 15–17 | 14–18 | 14–18 | 13–19 |
-| [9–11 October 2019](2019-10-11-Demopolis.html) | Demopolis <br> Rai 3 | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
-| [9–10 October 2019](2019-10-10-TermometroPolitico.html) | Termometro Politico <br> La7 | 14 | 13–15 | 13–16 | 13–16 | 12–17 |
-| [10 October 2019](2019-10-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 14 | 13–15 | 12–15 | 12–16 | 11–16 |
-| [9 October 2019](2019-10-09-Index.html) | Index <br> La7 | 15 | 13–16 | 13–17 | 12–17 | 12–18 |
-| [9 October 2019](2019-10-09-EMG.html) | EMG <br> Rai 3 | 14 | 13–16 | 13–16 | 13–17 | 12–17 |
-| [7–9 October 2019](2019-10-09-BiDiMedia.html) | BiDiMedia | 14 | 13–15 | 13–16 | 13–16 | 12–17 |
-| [7–8 October 2019](2019-10-08-Ixè.html) | Ixè <br> Rai 3 | 17 | 16–18 | 15–19 | 15–19 | 14–20 |
-| [7–8 October 2019](2019-10-08-Euromedia.html) | Euromedia <br> Rai 1 | 13 | 11–14 | 11–14 | 11–15 | 10–16 |
-| [6–7 October 2019](2019-10-07-Tecnè.html) | Tecnè <br> Rete 4 | 16 | 14–17 | 14–17 | 13–18 | 13–18 |
-| [2–7 October 2019](2019-10-07-SWG.html) | SWG <br> La7 | 15 | 14–17 | 14–17 | 14–17 | 13–18 |
-| [7 October 2019](2019-10-07-Ipsos.html) | Ipsos <br> La7 | 14 | 13–16 | 12–17 | 12–17 | 11–18 |
-| [3–5 October 2019](2019-10-05-Piepoli.html) | Piepoli <br> Rai 1 | 15 | 13–17 | 13–18 | 13–18 | 12–19 |
-| [3–4 October 2019](2019-10-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 15 | 13–16 | 13–16 | 13–17 | 12–18 |
-| [3 October 2019](2019-10-03-Index.html) | Index <br> La7 | 15 | 14–17 | 13–17 | 13–18 | 12–19 |
-| [1–3 October 2019](2019-10-03-DemosPi.html) | Demos & Pi <br> La Repubblica | 15 | 13–16 | 13–16 | 12–16 | 12–17 |
-| [2 October 2019](2019-10-02-EMG.html) | EMG <br> Rai 3 | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
-| [30 September–1 October 2019](2019-10-01-Ixè.html) | Ixè <br> Rai 3 | 17 | 15–18 | 14–18 | 14–19 | 14–19 |
-| [29–30 September 2019](2019-09-30-Tecnè.html) | Tecnè <br> Rete 4 | 15 | 14–16 | 13–17 | 13–17 | 12–18 |
-| [25–30 September 2019](2019-09-30-SWG.html) | SWG <br> La7 | 15 | 14–16 | 13–16 | 13–16 | 12–17 |
-| [20–27 September 2019](2019-09-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 15 | 14–16 | 13–17 | 13–18 | 12–18 |
-| [23–27 September 2019](2019-09-27-GPF.html) | GPF <br> La Notizia | 15 | 13–16 | 13–17 | 12–17 | 12–18 |
-| [25–26 September 2019](2019-09-26-TermometroPolitico.html) | Termometro Politico <br> La7 | 14 | 13–14 | 12–15 | 12–15 | 12–16 |
-| [25–26 September 2019](2019-09-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 14 | 13–16 | 13–16 | 12–16 | 12–17 |
-| [1–25 September 2019](2019-09-25-NotoSondaggi.html) | Noto Sondaggi | 15 | 14–16 | 14–17 | 13–17 | 13–18 |
-| [25 September 2019](2019-09-25-EMG.html) | EMG <br> Rai 3 | 15 | 14–17 | 14–17 | 13–17 | 13–18 |
-| [23–24 September 2019](2019-09-24-Ixè.html) | Ixè <br> Rai 3 | 17 | 16–18 | 15–19 | 15–19 | 14–20 |
-| [22–23 September 2019](2019-09-23-Tecnè.html) | Tecnè <br> Rete 4 | 15 | 13–16 | 13–17 | 13–17 | 12–17 |
-| [18–23 September 2019](2019-09-23-SWG.html) | SWG <br> La7 | 15 | 14–15 | 13–16 | 13–16 | 13–17 |
-| [20–22 September 2019](2019-09-22-Piepoli.html) | Piepoli <br> Rai 1 | 15 | 13–17 | 12–17 | 12–18 | 11–19 |
-| [19–20 September 2019](2019-09-20-Tecnè.html) | Tecnè | 15 | 13–16 | 13–16 | 13–17 | 12–18 |
-| [18–20 September 2019](2019-09-20-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
-| [18–20 September 2019](2019-09-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 | 16 | 15–17 | 14–18 | 14–18 | 13–19 |
-| [20 September 2019](2019-09-20-IZI.html) | IZI | 13 | 12–14 | 12–15 | 11–15 | 11–16 |
-| [17–19 September 2019](2019-09-19-TermometroPolitico.html) | Termometro Politico <br> La7 | 15 | 14–16 | 14–16 | 13–16 | 13–17 |
-| [18–19 September 2019](2019-09-19-Tecnè.html) | Tecnè <br> Rete 4 | 14 | 13–16 | 13–17 | 13–17 | 12–17 |
-| [1–19 September 2019](2019-09-19-IndexResearch.html) | Index Research <br> La7 | 16 | 14–17 | 14–18 | 13–18 | 13–19 |
-| [18–19 September 2019](2019-09-19-Demopolis.html) | Demopolis <br> Rai 3 | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
-| [17–18 September 2019](2019-09-18-Euromedia.html) | Euromedia <br> Rai 1 | 13 | 12–15 | 11–15 | 11–15 | 10–16 |
-| [14–18 September 2019](2019-09-18-BiDiMedia.html) | BiDiMedia | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
-| [16–17 September 2019](2019-09-17-Ixè.html) | Ixè <br> Rai 3 | 16 | 15–17 | 14–18 | 14–18 | 13–19 |
-| [17 September 2019](2019-09-17-EMG.html) | EMG <br> Rai 3 | 15 | 14–17 | 14–17 | 14–18 | 13–18 |
-| [15–16 September 2019](2019-09-16-Tecnè.html) | Tecnè <br> Rete 4 | 18 | 16–19 | 16–19 | 16–20 | 15–20 |
-| [11–16 September 2019](2019-09-16-SWG.html) | SWG <br> La7 | 17 | 15–18 | 15–18 | 15–18 | 14–19 |
-| [11–12 September 2019](2019-09-12-TermometroPolitico.html) | Termometro Politico <br> La7 | 18 | 17–18 | 17–19 | 16–19 | 16–19 |
-| [12 September 2019](2019-09-12-Tecnè.html) | Tecnè <br> Rete 4 | 18 | 16–19 | 16–20 | 16–20 | 15–21 |
-| [9–12 September 2019](2019-09-12-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 18 | 17–19 | 16–19 | 16–20 | 15–20 |
-| [10–12 September 2019](2019-09-12-DemosPi.html) | Demos & Pi <br> La Repubblica | 16 | 15–17 | 14–18 | 14–18 | 14–19 |
-| [9–10 September 2019](2019-09-10-NotoSondaggi.html) | Noto Sondaggi | 16 | 15–18 | 15–18 | 15–19 | 14–20 |
-| [9–10 September 2019](2019-09-10-Ixè.html) | Ixè <br> Rai 3 | 17 | 15–18 | 15–19 | 15–19 | 14–20 |
-| [9–10 September 2019](2019-09-10-Euromedia.html) | Euromedia | 15 | 14–17 | 14–17 | 13–17 | 13–19 |
-| [10 September 2019](2019-09-10-EMG.html) | EMG <br> Rai 3 | 17 | 16–18 | 16–19 | 16–19 | 15–20 |
-| [9–10 September 2019](2019-09-10-Demopolis.html) | Demopolis <br> Rai 3 | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
-| [4–9 September 2019](2019-09-09-SWG.html) | SWG <br> La7 | 17 | 16–18 | 16–19 | 16–19 | 15–20 |
-| [7–9 September 2019](2019-09-09-Piepoli.html) | Piepoli <br> Rai 1 | 17 | 15–19 | 14–19 | 14–20 | 13–21 |
-| [1–6 September 2019](2019-09-06-NotoSondaggi.html) | Noto Sondaggi <br> Quotidiano Nazionale | 17 | 16–19 | 15–19 | 15–19 | 15–20 |
-| [5 September 2019](2019-09-05-Tecnè.html) | Tecnè <br> Rete 4 | 18 | 17–19 | 16–20 | 16–20 | 15–21 |
-| [4–5 September 2019](2019-09-05-GPF.html) | GPF <br> La Notizia | 17 | 16–19 | 15–19 | 15–19 | 14–20 |
-| [4–5 September 2019](2019-09-05-Demopolis.html) | Demopolis <br> Rai 3 | 16 | 15–17 | 15–18 | 15–18 | 14–18 |
-| [2–3 September 2019](2019-09-03-Ixè.html) | Ixè <br> Rai 3 | 17 | 15–18 | 15–19 | 15–19 | 14–20 |
-| [31 August–2 September 2019](2019-09-02-Tecnè.html) | Tecnè <br> Rete 4 | 17 | 16–18 | 15–19 | 15–19 | 14–20 |
-| [29 August–2 September 2019](2019-09-02-SWG.html) | SWG <br> La7 | 16 | 14–17 | 14–17 | 14–17 | 13–18 |
-| [29–30 August 2019](2019-08-30-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 | 16 | 15–18 | 14–18 | 14–18 | 13–19 |
-| [26–29 August 2019](2019-08-29-Ipsos.html) | Ipsos <br> Corriere della Sera | 17 | 15–18 | 15–18 | 15–19 | 14–19 |
-| [24–28 August 2019](2019-08-28-BiDiMedia.html) | BiDiMedia | 18 | 17–19 | 16–19 | 16–19 | 16–20 |
-| [27 August 2019](2019-08-27-Piepoli.html) | Piepoli <br> La Stampa | 16 | 15–18 | 14–19 | 14–19 | 13–20 |
-| [23–25 August 2019](2019-08-25-Demopolis.html) | Demopolis | 16 | 15–17 | 15–17 | 15–17 | 14–17 |
-| [21–23 August 2019](2019-08-23-TermometroPolitico.html) | Termometro Politico <br> La7 | 17 | 17–18 | 16–18 | 16–19 | 16–19 |
-| [21–23 August 2019](2019-08-23-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 18 | 17–19 | 16–19 | 16–20 | 16–21 |
-| [21 August 2019](2019-08-21-Tecnè.html) | Tecnè | 18 | 16–19 | 16–20 | 16–20 | 15–21 |
-| [21 August 2019](2019-08-21-IZI.html) | IZI | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
-| [20–21 August 2019](2019-08-21-GPF.html) | GPF | 18 | 16–19 | 15–20 | 15–20 | 14–21 |
-| [12 August 2019](2019-08-12-GPF.html) | GPF | 16 | 15–18 | 14–18 | 14–19 | 13–19 |
-| [9–10 August 2019](2019-08-10-TermometroPolitico.html) | Termometro Politico <br> La7 | 17 | 16–18 | 16–18 | 16–18 | 15–19 |
-| [1–9 August 2019](2019-08-09-NotoSondaggi.html) | Noto Sondaggi | 16 | 15–17 | 14–17 | 14–18 | 13–18 |
-| [5 August 2019](2019-08-05-Tecnè.html) | Tecnè <br> Dire | 16 | 15–18 | 14–18 | 14–18 | 14–19 |
-| [29 July–2 August 2019](2019-08-02-TermometroPolitico.html) | Termometro Politico | 16 | 15–17 | 15–18 | 15–18 | 14–18 |
-| [30 July–1 August 2019](2019-08-01-Tecnè.html) | Tecnè <br> Dire | 16 | 15–18 | 15–18 | 14–19 | 14–19 |
-| [30–31 July 2019](2019-07-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 15 | 13–16 | 13–16 | 13–17 | 12–17 |
-| [27–30 July 2019](2019-07-30-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 17 | 16–18 | 15–18 | 15–18 | 15–19 |
-| [24–29 July 2019](2019-07-29-SWG.html) | SWG <br> La7 | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
-| [24–25 July 2019](2019-07-25-Tecnè.html) | Tecnè <br> Dire | 17 | 15–18 | 15–18 | 15–19 | 14–20 |
-| [22–24 July 2019](2019-07-24-Demopolis.html) | Demopolis <br> La7 | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
-| [17–22 July 2019](2019-07-22-SWG.html) | SWG <br> La7 | 16 | 14–17 | 14–17 | 14–17 | 13–18 |
-| [22 July 2019](2019-07-22-Euromedia.html) | Euromedia | 14 | 13–16 | 13–16 | 12–16 | 12–17 |
-| [16–18 July 2019](2019-07-18-TermometroPolitico.html) | Termometro Politico | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
-| [17–18 July 2019](2019-07-18-Tecnè.html) | Tecnè <br> Rete 4 | 17 | 16–19 | 16–19 | 15–20 | 15–20 |
-| [16–18 July 2019](2019-07-18-Ipsos.html) | Ipsos <br> Corriere della Sera | 15 | 14–17 | 14–17 | 13–18 | 13–18 |
-| [15–18 July 2019](2019-07-18-GPF.html) | GPF <br> La Notizia | 16 | 15–18 | 15–18 | 14–19 | 14–19 |
-| [10–15 July 2019](2019-07-15-SWG.html) | SWG <br> LA7 | 16 | 15–17 | 15–18 | 14–18 | 14–19 |
-| [15 July 2019](2019-07-15-Piepoli.html) | Piepoli <br> Rai 1 | 16 | 14–18 | 14–19 | 14–19 | 13–20 |
-| [9–12 July 2019](2019-07-12-TermometroPolitico.html) | Termometro Politico | 16 | 15–17 | 15–18 | 14–18 | 14–19 |
-| [10–11 July 2019](2019-07-11-Tecnè.html) | Tecnè <br> Rete 4 | 17 | 16–19 | 15–19 | 15–19 | 14–20 |
-| [8–10 July 2019](2019-07-10-GPF.html) | GPF <br> Rete 4 | 16 | 15–18 | 14–18 | 14–19 | 13–19 |
-| [8–10 July 2019](2019-07-10-DemosPi.html) | Demos & Pi | 16 | 15–18 | 15–18 | 14–18 | 14–19 |
-| [7–8 July 2019](2019-07-08-Tecnè.html) | Tecnè <br> Rete 4 | 16 | 15–17 | 14–18 | 14–18 | 14–19 |
-| [3–8 July 2019](2019-07-08-SWG.html) | SWG <br> La7 | 17 | 15–18 | 15–18 | 15–18 | 14–19 |
-| [5 July 2019](2019-07-05-NotoSondaggi.html) | Noto Sondaggi <br> Quotidiano Nazionale | 18 | 16–19 | 16–19 | 15–20 | 15–20 |
-| [1–4 July 2019](2019-07-04-TermometroPolitico.html) | Termometro Politico <br> La7 | 16 | 15–17 | 15–18 | 15–18 | 14–18 |
-| [29 June–4 July 2019](2019-07-04-BiDiMedia.html) | BiDiMedia | 17 | 16–18 | 16–18 | 15–19 | 15–19 |
-| [26 June–1 July 2019](2019-07-01-SWG.html) | SWG <br> La7 | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
-| [27 June 2019](2019-06-27-EMG.html) | EMG <br> Rai 3 | 17 | 16–18 | 16–19 | 16–19 | 15–19 |
-| [1–26 June 2019](2019-06-26-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 18 | 17–20 | 17–20 | 16–20 | 16–21 |
-| [25–26 June 2019](2019-06-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 18 | 17–20 | 17–20 | 16–20 | 16–21 |
-| [23–24 June 2019](2019-06-24-Tecnè.html) | Tecnè <br> Rete 4 | 16 | 15–17 | 14–18 | 14–18 | 14–19 |
-| [19–24 June 2019](2019-06-24-SWG.html) | SWG <br> La7 | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
-| [19–20 June 2019](2019-06-20-Demopolis.html) | Demopolis <br> La7 | 15 | 14–16 | 14–16 | 14–17 | 13–17 |
-| [1–18 June 2019](2019-06-18-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 17 | 16–19 | 16–19 | 15–19 | 15–20 |
-| [18 June 2019](2019-06-18-EMG.html) | EMG <br> Rai 3 | 18 | 17–19 | 17–20 | 17–20 | 16–20 |
-| [12–17 June 2019](2019-06-17-SWG.html) | SWG <br> LA7 | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
-| [13 June 2019](2019-06-13-IndexResearch.html) | Index Research <br> LA7 | 17 | 15–18 | 15–19 | 14–19 | 14–20 |
-| [11 June 2019](2019-06-11-EMG.html) | EMG <br> Rai 3 | 18 | 17–19 | 16–19 | 16–20 | 16–20 |
-| [9–10 June 2019](2019-06-10-Tecnè.html) | Tecnè <br> Rete 4 | 16 | 15–17 | 15–18 | 14–18 | 14–19 |
-| [5–10 June 2019](2019-06-10-SWG.html) | SWG <br> La7 | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
-| [10 June 2019](2019-06-10-Piepoli.html) | Piepoli <br> Rai 1 | 17 | 15–19 | 15–19 | 14–20 | 13–21 |
-| [1–10 June 2019](2019-06-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 18 | 16–19 | 16–20 | 16–20 | 15–21 |
-| [10 June 2019](2019-06-10-Euromedia.html) | Euromedia <br> Rai 1 | 17 | 16–19 | 15–19 | 15–20 | 14–21 |
-| [1–7 June 2019](2019-06-07-IndexResearch.html) | Index Research <br> La7 | 16 | 15–18 | 15–18 | 14–19 | 14–19 |
-| [2–3 June 2019](2019-06-03-Tecnè.html) | Tecnè <br> Rete 4 | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
-| [29 May–3 June 2019](2019-06-03-SWG.html) | SWG <br> LA7 | 17 | 16–18 | 16–19 | 15–19 | 15–20 |
-| [1 June 2019](2019-06-01-EMG.html) | EMG <br> Affari Internazionali | 18 | 17–19 | 17–19 | 16–20 | 16–20 |
-| [30 May 2019](2019-05-30-Piepoli.html) | Piepoli <br> Rai 1 | 17 | 15–18 | 15–18 | 15–19 | 14–19 |
-| [28–29 May 2019](2019-05-29-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 17 | 16–18 | 16–19 | 15–19 | 15–20 |
+| N/A | [Poll Average](average.html) | 16 | 14–19 | 13–20 | 13–21 | 12–23 |
+| [11–12 February 2020](2020-02-12-EMG.html) | EMG <br> Rai 3 | 17 | 16–18 | 16–19 | 16–20 | 15–20 |
+| [12 February 2020](2020-02-12-Demopolis.html) | Demopolis <br> La7 | 14 | 13–16 | 13–16 | 12–17 | 12–17 |
+| [11 February 2020](2020-02-11-Ixè.html) | Ixè <br> Rai 3 | 17 | 16–19 | 15–20 | 15–20 | 14–20 |
+| [5–10 February 2020](2020-02-10-SWG.html) | SWG | 18 | 17–18 | 16–18 | 16–19 | 15–20 |
+| [6–7 February 2020](2020-02-07-Tecnè.html) | Tecnè <br> Agenzia Dire | 17 | 15–19 | 15–19 | 15–19 | 14–20 |
+| [4–6 February 2020](2020-02-06-TermometroPolitico.html) | Termometro Politico | 16 | 16–17 | 15–18 | 15–18 | 15–18 |
+| [6 February 2020](2020-02-06-Index.html) | Index | 14 | 13–16 | 12–17 | 12–17 | 12–18 |
+| [4–6 February 2020](2020-02-06-EMG.html) | EMG <br> Rai 3 | 17 | 16–19 | 16–19 | 16–20 | 15–20 |
+| [4 February 2020](2020-02-04-Ixè.html) | Ixè <br> RTI | 17 | 15–18 | 14–19 | 14–19 | 13–20 |
+| [29 January–3 February 2020](2020-02-03-SWG.html) | SWG <br> Agenzia Dire | 17 | 15–18 | 15–18 | 14–18 | 14–19 |
+| [30 January–2 February 2020](2020-02-02-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 19 | 17–20 | 16–20 | 16–21 | 15–22 |
+| [30–31 January 2020](2020-01-31-Tecnè.html) | Tecnè <br> Agenzia Dire | 17 | 15–18 | 15–19 | 14–19 | 14–20 |
+| [29–31 January 2020](2020-01-31-Piepoli.html) | Piepoli <br> Rai 2 | 15 | 14–17 | 13–18 | 13–18 | 12–19 |
+| [29–30 January 2020](2020-01-30-TermometroPolitico.html) | Termometro Politico <br> La7 | 17 | 16–18 | 15–18 | 15–19 | 14–19 |
+| [28–30 January 2020](2020-01-30-Ipsos.html) | Ipsos | 17 | 15–18 | 15–18 | 14–19 | 13–19 |
+| [29 January 2020](2020-01-29-Index.html) | Index | 15 | 14–17 | 14–17 | 13–17 | 12–18 |
+| [28–29 January 2020](2020-01-29-EMG.html) | EMG <br> Rai 3 | 17 | 16–18 | 16–19 | 16–19 | 15–19 |
+| [28 January 2020](2020-01-28-MGResearch.html) | MG Research <br> Affaritaliani.it | 21 | 19–22 | 18–23 | 18–23 | 16–24 |
+| [27–28 January 2020](2020-01-28-Ixè.html) | Ixè <br> Rai 3 | 17 | 15–18 | 15–18 | 15–19 | 14–20 |
+| [22–26 January 2020](2020-01-26-SWG.html) | SWG | 14 | 14–15 | 13–15 | 13–16 | 12–17 |
+| [23–24 January 2020](2020-01-24-Tecnè.html) | Tecnè <br> Agenzia Dire | 16 | 15–18 | 14–18 | 14–18 | 13–19 |
+| [21–22 January 2020](2020-01-22-TermometroPolitico.html) | Termometro Politico <br> La7 | 15 | 14–17 | 14–18 | 14–18 | 13–18 |
+| [22 January 2020](2020-01-22-Index.html) | Index | 15 | 14–17 | 14–18 | 13–19 | 12–19 |
+| [20–21 January 2020](2020-01-21-Ixè.html) | Ixè <br> Rai 3 | 17 | 15–18 | 14–18 | 14–19 | 14–20 |
+| [19–20 January 2020](2020-01-20-Tecnè.html) | Tecnè <br> RTI | 14 | 13–15 | 12–15 | 12–16 | 11–16 |
+| [15–20 January 2020](2020-01-20-SWG.html) | SWG <br> La7 | 15 | 13–16 | 13–16 | 13–17 | 13–18 |
+| [10–17 January 2020](2020-01-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 16 | 14–17 | 14–17 | 14–18 | 13–19 |
+| [15–16 January 2020](2020-01-16-TermometroPolitico.html) | Termometro Politico <br> La7 | 16 | 14–16 | 14–17 | 14–17 | 14–17 |
+| [14–16 January 2020](2020-01-16-BiDiMedia.html) | BiDiMedia | 15 | 14–16 | 13–16 | 13–16 | 12–17 |
+| [15 January 2020](2020-01-15-Index.html) | Index | 15 | 14–17 | 14–18 | 13–18 | 12–19 |
+| [13–14 January 2020](2020-01-14-Ixè.html) | Ixè <br> Rai 3 | 16 | 15–18 | 15–18 | 14–19 | 13–19 |
+| [14 January 2020](2020-01-14-EMG.html) | EMG <br> Rai 3 | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
+| [12–13 January 2020](2020-01-13-Tecnè.html) | Tecnè <br> RTI | 14 | 13–15 | 12–16 | 12–16 | 12–17 |
+| [8–13 January 2020](2020-01-13-SWG.html) | SWG <br> La7 | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
+| [13 January 2019–13 January 2020](2020-01-13-Euromedia.html) | Euromedia <br> Rai 1 | 14 | 13–16 | 13–17 | 12–17 | 12–18 |
+| [9–10 January 2020](2020-01-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 15 | 14–17 | 14–18 | 13–18 | 13–19 |
+| [8–10 January 2020](2020-01-10-Piepoli.html) | Piepoli <br> Rai 2 | 15 | 13–18 | 13–18 | 13–18 | 12–19 |
+| [8–9 January 2020](2020-01-09-TermometroPolitico.html) | Termometro Politico <br> La7 | 15 | 14–16 | 14–16 | 14–16 | 14–17 |
+| [9 January 2020](2020-01-09-Index.html) | Index <br> La7 | 15 | 13–17 | 13–17 | 13–18 | 12–18 |
+| [8 January 2020](2020-01-08-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 15 | 13–16 | 13–17 | 13–17 | 12–18 |
+| [7–8 January 2020](2020-01-08-EMG.html) | EMG <br> Rai 3 | 17 | 15–17 | 15–17 | 15–18 | 14–18 |
+| [3–7 January 2020](2020-01-07-Ixè.html) | Ixè <br> Rai 3 | 16 | 15–18 | 15–18 | 14–18 | 13–19 |
+| [20–24 December 2019](2019-12-24-MGResearch.html) | MG Research | 14 | 13–16 | 13–16 | 12–17 | 12–18 |
+| [22–23 December 2019](2019-12-23-Tecnè.html) | Tecnè <br> TGcom24 | 16 | 14–17 | 14–17 | 14–18 | 13–19 |
+| [18–23 December 2019](2019-12-23-SWG.html) | SWG <br> La7 | 14 | 13–15 | 12–15 | 12–16 | 11–16 |
+| [19–20 December 2019](2019-12-20-Tecnè.html) | Tecnè <br> Agenzia Dire | 15 | 14–17 | 14–17 | 13–18 | 13–19 |
+| [18–19 December 2019](2019-12-19-TermometroPolitico.html) | Termometro Politico <br> La7 | 15 | 14–16 | 14–16 | 14–16 | 13–16 |
+| [18–19 December 2019](2019-12-19-Ipsos.html) | Ipsos <br> Corriere della Sera | 14 | 13–15 | 12–16 | 12–16 | 12–17 |
+| [18 December 2019](2019-12-18-Index.html) | Index <br> La7 | 15 | 14–17 | 13–18 | 13–18 | 12–19 |
+| [17–18 December 2019](2019-12-18-EMG.html) | EMG <br> Rai 3 | 16 | 15–17 | 14–17 | 14–17 | 13–18 |
+| [17–18 December 2019](2019-12-18-Demopolis.html) | Demopolis <br> Rai 3 | 14 | 13–15 | 13–15 | 12–16 | 12–16 |
+| [16–17 December 2019](2019-12-17-Ixè.html) | Ixè <br> Rai 3 | 17 | 15–19 | 15–19 | 14–19 | 14–20 |
+| [11–16 December 2019](2019-12-16-SWG.html) | SWG <br> La7 | 14 | 13–15 | 13–15 | 12–16 | 12–16 |
+| [16 December 2019](2019-12-16-Euromedia.html) | Euromedia <br> Rai 1 | 13 | 12–15 | 12–15 | 11–16 | 11–17 |
+| [12–13 December 2019](2019-12-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 15 | 14–17 | 13–17 | 13–18 | 13–18 |
+| [11–13 December 2019](2019-12-13-BiDiMedia.html) | BiDiMedia | 15 | 14–16 | 13–16 | 13–16 | 12–17 |
+| [11–12 December 2019](2019-12-12-Tecnè.html) | Tecnè <br> RTI | 15 | 14–17 | 14–17 | 13–17 | 13–18 |
+| [12 December 2019](2019-12-12-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 15 | 13–17 | 13–18 | 13–18 | 12–18 |
+| [1–11 December 2019](2019-12-11-Index.html) | Index <br> La7 | 15 | 14–17 | 14–18 | 14–18 | 13–18 |
+| [10–11 December 2019](2019-12-11-EMG.html) | EMG <br> Rai 3 | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
+| [9–10 December 2019](2019-12-10-Ixè.html) | Ixè <br> Rai 3 | 17 | 16–19 | 15–19 | 15–20 | 14–20 |
+| [8–9 December 2019](2019-12-09-Tecnè.html) | Tecnè <br> Rete 4 | 15 | 13–16 | 13–17 | 13–17 | 12–18 |
+| [4–9 December 2019](2019-12-09-SWG.html) | SWG <br> La7 | 14 | 13–16 | 13–16 | 13–16 | 12–17 |
+| [5–6 December 2019](2019-12-06-Tecnè.html) | Tecnè <br> Agenzia Dire | 15 | 13–17 | 13–17 | 13–17 | 12–18 |
+| [6 December 2019](2019-12-06-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 14 | 13–16 | 12–16 | 12–16 | 11–16 |
+| [2–6 December 2019](2019-12-06-DemosPi.html) | Demos & Pi <br> La Repubblica | 14 | 13–16 | 13–16 | 13–16 | 12–17 |
+| [4 November–5 December 2019](2019-12-05-TermometroPolitico.html) | Termometro Politico <br> La7 | 15 | 14–16 | 14–16 | 14–16 | 13–16 |
+| [1–4 December 2019](2019-12-04-Index.html) | Index <br> La7 | 15 | 13–16 | 13–17 | 13–17 | 13–19 |
+| [1–4 December 2019](2019-12-04-Euromedia.html) | Euromedia <br> Rai 1 | 13 | 12–15 | 12–15 | 12–16 | 11–17 |
+| [3–4 December 2019](2019-12-04-EMG.html) | EMG <br> Rai 3 | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
+| [2–3 December 2019](2019-12-03-Ixè.html) | Ixè <br> Rai 3 | 17 | 16–19 | 15–19 | 15–19 | 13–20 |
+| [1–2 December 2019](2019-12-02-Tecnè.html) | Tecnè <br> Rete 4 | 15 | 14–16 | 13–17 | 13–17 | 12–18 |
+| [27 November–2 December 2019](2019-12-02-SWG.html) | SWG <br> La7 | 14 | 13–16 | 13–16 | 12–16 | 12–17 |
+| [28–29 November 2019](2019-11-29-Tecnè.html) | Tecnè <br> Agenzia Dire | 15 | 14–16 | 13–17 | 13–17 | 12–18 |
+| [27–28 November 2019](2019-11-28-TermometroPolitico.html) | Termometro Politico <br> La7 | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
+| [26–27 November 2019](2019-11-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 14 | 13–15 | 13–16 | 12–16 | 12–17 |
+| [1–27 November 2019](2019-11-27-Index.html) | Index <br> La7 | 15 | 13–17 | 13–17 | 13–17 | 12–18 |
+| [27 November 2019](2019-11-27-EMG.html) | EMG <br> Rai 3 | 15 | 15–16 | 14–16 | 14–17 | 13–17 |
+| [25–26 November 2019](2019-11-26-Ixè.html) | Ixè <br> Rai 3 | 16 | 15–18 | 14–18 | 14–18 | 13–19 |
+| [24–25 November 2019](2019-11-25-Tecnè.html) | Tecnè <br> Rete 4 | 15 | 14–17 | 14–17 | 13–18 | 13–18 |
+| [20–25 November 2019](2019-11-25-SWG.html) | SWG <br> La7 | 14 | 13–15 | 13–16 | 13–16 | 12–16 |
+| [21–22 November 2019](2019-11-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 15 | 14–17 | 13–17 | 13–17 | 13–18 |
+| [21–22 November 2019](2019-11-22-Piepoli.html) | Piepoli <br> Rai 2 | 16 | 13–18 | 13–18 | 12–19 | 12–19 |
+| [20–21 November 2019](2019-11-21-TermometroPolitico.html) | Termometro Politico <br> La7 | 14 | 13–15 | 13–15 | 13–15 | 13–16 |
+| [21 November 2019](2019-11-21-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 14 | 13–15 | 12–16 | 12–16 | 11–16 |
+| [1–20 November 2019](2019-11-20-EMG.html) | EMG <br> Rai 3 | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
+| [18–19 November 2019](2019-11-19-Ixè.html) | Ixè <br> Rai 3 | 16 | 15–18 | 15–18 | 14–19 | 14–20 |
+| [18–19 November 2019](2019-11-19-BiDiMedia.html) | BiDiMedia | 14 | 13–15 | 13–16 | 12–16 | 12–17 |
+| [13–18 November 2019](2019-11-18-SWG.html) | SWG <br> La7 | 14 | 13–15 | 13–16 | 13–16 | 12–17 |
+| [14–15 November 2019](2019-11-15-Tecnè.html) | Tecnè <br> Agenzia Dire | 15 | 14–17 | 13–17 | 13–17 | 12–18 |
+| [1–14 November 2019](2019-11-14-Index.html) | Index <br> La7 | 14 | 13–16 | 13–16 | 12–17 | 12–17 |
+| [12–13 November 2019](2019-11-13-TermometroPolitico.html) | Termometro Politico <br> La7 | 14 | 13–15 | 13–15 | 13–16 | 13–16 |
+| [8–13 November 2019](2019-11-13-EMG.html) | EMG <br> Rai 3 | 15 | 14–16 | 13–17 | 13–17 | 13–17 |
+| [11–12 November 2019](2019-11-12-Ixè.html) | Ixè <br> Rai 3 | 17 | 15–18 | 15–19 | 14–20 | 14–20 |
+| [10–12 November 2019](2019-11-12-Demopolis.html) | Demopolis <br> Rai 3 | 13 | 12–14 | 12–15 | 12–15 | 11–15 |
+| [10–11 November 2019](2019-11-11-Tecnè.html) | Tecnè <br> Rete 4 | 15 | 13–16 | 13–16 | 13–17 | 12–18 |
+| [6–11 November 2019](2019-11-11-SWG.html) | SWG <br> La7 | 15 | 13–16 | 13–16 | 13–16 | 12–17 |
+| [1–11 November 2019](2019-11-11-Euromedia.html) | Euromedia <br> Rai 1 | 14 | 12–15 | 12–16 | 12–17 | 11–17 |
+| [8–9 November 2019](2019-11-09-Piepoli.html) | Piepoli <br> Rai 2 | 15 | 13–17 | 12–18 | 12–18 | 11–19 |
+| [7–8 November 2019](2019-11-08-Tecnè.html) | Tecnè <br> Agenzia Dire | 15 | 13–16 | 13–16 | 13–17 | 12–17 |
+| [6–7 November 2019](2019-11-07-TermometroPolitico.html) | Termometro Politico <br> La7 | 14 | 13–15 | 13–15 | 13–15 | 13–16 |
+| [7 November 2019](2019-11-07-Index.html) | Index <br> La7 | 15 | 13–16 | 13–17 | 13–17 | 12–18 |
+| [6 November 2019](2019-11-06-EMG.html) | EMG <br> Rai 3 | 15 | 14–16 | 13–16 | 13–17 | 13–17 |
+| [4–5 November 2019](2019-11-05-Ixè.html) | Ixè <br> Rai 3 | 16 | 15–18 | 14–18 | 13–19 | 13–19 |
+| [4–5 November 2019](2019-11-05-IZI.html) | IZI | 13 | 12–15 | 12–15 | 11–15 | 11–16 |
+| [30 October–4 November 2019](2019-11-04-SWG.html) | SWG <br> La7 | 14 | 13–15 | 13–15 | 12–15 | 12–16 |
+| [1–4 November 2019](2019-11-04-Piepoli.html) | Piepoli <br> Rai 2 | 15 | 13–17 | 13–18 | 12–18 | 11–19 |
+| [29–31 October 2019](2019-10-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 13 | 12–15 | 12–15 | 11–15 | 11–16 |
+| [31 October 2019](2019-10-31-Index.html) | Index <br> La7 | 15 | 13–17 | 13–17 | 13–18 | 12–18 |
+| [30–31 October 2019](2019-10-31-Demopolis.html) | Demopolis <br> Rai 3 | 14 | 13–15 | 13–15 | 12–15 | 12–16 |
+| [30 October 2019](2019-10-30-Tecnè.html) | Tecnè | 15 | 14–16 | 13–17 | 13–17 | 13–18 |
+| [30 October 2019](2019-10-30-EMG.html) | EMG <br> Rai 3 | 15 | 14–16 | 14–17 | 14–17 | 13–17 |
+| [28–29 October 2019](2019-10-29-Ixè.html) | Ixè <br> Rai 3 | 16 | 14–17 | 14–18 | 14–18 | 13–19 |
+| [27 October 2019](2019-10-27-Tecnè.html) | Tecnè <br> Rete 4 | 15 | 14–16 | 13–17 | 13–17 | 12–18 |
+| [23–27 October 2019](2019-10-27-SWG.html) | SWG <br> La7 | 14 | 13–16 | 13–16 | 12–16 | 12–17 |
+| [24–25 October 2019](2019-10-25-Tecnè.html) | Tecnè <br> Agenzia Dire | 15 | 14–17 | 13–17 | 13–17 | 12–18 |
+| [23–24 October 2019](2019-10-24-TermometroPolitico.html) | Termometro Politico <br> La7 | 14 | 14–16 | 13–16 | 13–16 | 13–16 |
+| [22–24 October 2019](2019-10-24-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 15 | 14–17 | 14–17 | 14–17 | 13–18 |
+| [24 October 2019](2019-10-24-Index.html) | Index <br> La7 | 15 | 14–16 | 14–17 | 13–17 | 13–18 |
+| [23 October 2019](2019-10-23-EMG.html) | EMG <br> Rai 3 | 15 | 13–16 | 13–16 | 13–16 | 13–17 |
+| [22 October 2019](2019-10-22-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 14 | 13–15 | 12–16 | 12–16 | 12–17 |
+| [21–22 October 2019](2019-10-22-Ixè.html) | Ixè <br> Rai 3 | 16 | 15–17 | 14–18 | 14–19 | 13–19 |
+| [20–21 October 2019](2019-10-21-Tecnè.html) | Tecnè <br> Rete 4 | 15 | 14–16 | 14–17 | 13–17 | 12–18 |
+| [16–21 October 2019](2019-10-21-SWG.html) | SWG <br> La7 | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
+| [17–18 October 2019](2019-10-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 16 | 15–18 | 14–18 | 14–18 | 13–19 |
+| [16–17 October 2019](2019-10-17-TermometroPolitico.html) | Termometro Politico <br> La7 | 15 | 14–16 | 14–16 | 13–16 | 13–17 |
+| [17 October 2019](2019-10-17-Index.html) | Index <br> La7 | 15 | 14–17 | 13–17 | 13–18 | 12–19 |
+| [16–17 October 2019](2019-10-17-Euromedia.html) | Euromedia <br> Rai 1 | 14 | 13–15 | 12–16 | 12–16 | 11–17 |
+| [16–17 October 2019](2019-10-17-EMG.html) | EMG <br> Rai 3 | 16 | 14–16 | 14–17 | 14–17 | 13–17 |
+| [14–15 October 2019](2019-10-15-Ixè.html) | Ixè <br> Rai 3 | 18 | 16–18 | 15–18 | 14–18 | 13–19 |
+| [13–14 October 2019](2019-10-14-Tecnè.html) | Tecnè <br> Rete 4 | 16 | 14–18 | 14–19 | 14–19 | 13–19 |
+| [9–14 October 2019](2019-10-14-SWG.html) | SWG <br> La7 | 15 | 14–17 | 14–17 | 14–17 | 13–17 |
+| [10–11 October 2019](2019-10-11-Tecnè.html) | Tecnè <br> Agenzia Dire | 16 | 15–19 | 15–19 | 15–19 | 14–19 |
+| [9–11 October 2019](2019-10-11-Demopolis.html) | Demopolis <br> Rai 3 | 14 | 13–15 | 13–15 | 12–16 | 12–17 |
+| [9–10 October 2019](2019-10-10-TermometroPolitico.html) | Termometro Politico <br> La7 | 15 | 14–15 | 14–17 | 14–17 | 13–17 |
+| [10 October 2019](2019-10-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 15 | 13–16 | 13–17 | 13–17 | 12–17 |
+| [9 October 2019](2019-10-09-Index.html) | Index <br> La7 | 16 | 14–17 | 14–18 | 13–18 | 13–19 |
+| [9 October 2019](2019-10-09-EMG.html) | EMG <br> Rai 3 | 16 | 15–16 | 14–16 | 14–16 | 12–18 |
+| [7–9 October 2019](2019-10-09-BiDiMedia.html) | BiDiMedia | 15 | 14–16 | 14–16 | 13–17 | 12–17 |
+| [7–8 October 2019](2019-10-08-Ixè.html) | Ixè <br> Rai 3 | 18 | 16–19 | 16–19 | 15–19 | 15–21 |
+| [7–8 October 2019](2019-10-08-Euromedia.html) | Euromedia <br> Rai 1 | 13 | 12–14 | 12–14 | 11–15 | 11–16 |
+| [6–7 October 2019](2019-10-07-Tecnè.html) | Tecnè <br> Rete 4 | 15 | 14–17 | 14–18 | 14–18 | 13–19 |
+| [2–7 October 2019](2019-10-07-SWG.html) | SWG <br> La7 | 16 | 15–17 | 15–17 | 15–18 | 14–19 |
+| [7 October 2019](2019-10-07-Ipsos.html) | Ipsos <br> La7 | 15 | 13–17 | 13–17 | 13–18 | 12–19 |
+| [3–5 October 2019](2019-10-05-Piepoli.html) | Piepoli <br> Rai 1 | 17 | 14–19 | 14–19 | 14–19 | 13–20 |
+| [3–4 October 2019](2019-10-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 16 | 14–17 | 14–17 | 13–17 | 13–18 |
+| [3 October 2019](2019-10-03-Index.html) | Index <br> La7 | 15 | 14–17 | 14–18 | 14–18 | 13–20 |
+| [1–3 October 2019](2019-10-03-DemosPi.html) | Demos & Pi <br> La Repubblica | 16 | 14–17 | 14–17 | 13–17 | 13–17 |
+| [2 October 2019](2019-10-02-EMG.html) | EMG <br> Rai 3 | 16 | 15–16 | 14–17 | 14–17 | 13–18 |
+| [30 September–1 October 2019](2019-10-01-Ixè.html) | Ixè <br> Rai 3 | 17 | 16–19 | 15–19 | 15–20 | 14–20 |
+| [29–30 September 2019](2019-09-30-Tecnè.html) | Tecnè <br> Rete 4 | 16 | 14–17 | 13–18 | 13–18 | 12–18 |
+| [25–30 September 2019](2019-09-30-SWG.html) | SWG <br> La7 | 15 | 14–16 | 14–17 | 14–17 | 13–17 |
+| [20–27 September 2019](2019-09-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 16 | 14–17 | 13–18 | 13–18 | 12–19 |
+| [23–27 September 2019](2019-09-27-GPF.html) | GPF <br> La Notizia | 15 | 14–16 | 14–17 | 13–18 | 13–18 |
+| [25–26 September 2019](2019-09-26-TermometroPolitico.html) | Termometro Politico <br> La7 | 14 | 14–15 | 14–15 | 13–16 | 13–16 |
+| [25–26 September 2019](2019-09-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 15 | 14–17 | 14–17 | 13–17 | 12–18 |
+| [1–25 September 2019](2019-09-25-NotoSondaggi.html) | Noto Sondaggi | 17 | 15–17 | 13–17 | 13–18 | 13–20 |
+| [25 September 2019](2019-09-25-EMG.html) | EMG <br> Rai 3 | 17 | 15–18 | 15–18 | 14–18 | 14–19 |
+| [23–24 September 2019](2019-09-24-Ixè.html) | Ixè <br> Rai 3 | 18 | 17–18 | 16–19 | 16–20 | 15–20 |
+| [22–23 September 2019](2019-09-23-Tecnè.html) | Tecnè <br> Rete 4 | 15 | 13–17 | 13–17 | 12–17 | 12–18 |
+| [18–23 September 2019](2019-09-23-SWG.html) | SWG <br> La7 | 16 | 15–16 | 14–16 | 14–16 | 13–17 |
+| [20–22 September 2019](2019-09-22-Piepoli.html) | Piepoli <br> Rai 1 | 17 | 15–19 | 14–19 | 14–19 | 13–19 |
+| [19–20 September 2019](2019-09-20-Tecnè.html) | Tecnè | 15 | 14–17 | 14–17 | 13–18 | 13–18 |
+| [18–20 September 2019](2019-09-20-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 16 | 15–16 | 14–17 | 14–17 | 14–18 |
+| [18–20 September 2019](2019-09-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 | 17 | 15–18 | 15–18 | 15–19 | 14–20 |
+| [20 September 2019](2019-09-20-IZI.html) | IZI | 14 | 13–15 | 12–16 | 12–16 | 11–16 |
+| [17–19 September 2019](2019-09-19-TermometroPolitico.html) | Termometro Politico <br> La7 | 16 | 15–16 | 15–16 | 15–16 | 14–17 |
+| [18–19 September 2019](2019-09-19-Tecnè.html) | Tecnè <br> Rete 4 | 17 | 14–17 | 14–17 | 14–17 | 13–18 |
+| [1–19 September 2019](2019-09-19-IndexResearch.html) | Index Research <br> La7 | 16 | 15–18 | 14–19 | 14–19 | 13–20 |
+| [18–19 September 2019](2019-09-19-Demopolis.html) | Demopolis <br> Rai 3 | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
+| [17–18 September 2019](2019-09-18-Euromedia.html) | Euromedia <br> Rai 1 | 13 | 12–15 | 12–15 | 12–16 | 11–17 |
+| [14–18 September 2019](2019-09-18-BiDiMedia.html) | BiDiMedia | 17 | 16–19 | 16–19 | 16–19 | 15–20 |
+| [16–17 September 2019](2019-09-17-Ixè.html) | Ixè <br> Rai 3 | 17 | 15–18 | 15–19 | 15–19 | 14–19 |
+| [17 September 2019](2019-09-17-EMG.html) | EMG <br> Rai 3 | 18 | 16–18 | 16–18 | 16–18 | 15–18 |
+| [15–16 September 2019](2019-09-16-Tecnè.html) | Tecnè <br> Rete 4 | 18 | 17–20 | 16–20 | 16–21 | 15–21 |
+| [11–16 September 2019](2019-09-16-SWG.html) | SWG <br> La7 | 18 | 17–18 | 16–18 | 15–19 | 15–20 |
+| [11–12 September 2019](2019-09-12-TermometroPolitico.html) | Termometro Politico <br> La7 | 19 | 18–19 | 18–19 | 17–19 | 17–20 |
+| [12 September 2019](2019-09-12-Tecnè.html) | Tecnè <br> Rete 4 | 19 | 17–20 | 17–21 | 16–21 | 16–22 |
+| [9–12 September 2019](2019-09-12-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 18 | 18–20 | 17–20 | 17–21 | 16–21 |
+| [10–12 September 2019](2019-09-12-DemosPi.html) | Demos & Pi <br> La Repubblica | 17 | 16–18 | 15–19 | 15–19 | 14–20 |
+| [9–10 September 2019](2019-09-10-NotoSondaggi.html) | Noto Sondaggi | 18 | 16–20 | 16–20 | 16–21 | 16–22 |
+| [9–10 September 2019](2019-09-10-Ixè.html) | Ixè <br> Rai 3 | 17 | 16–19 | 16–19 | 15–20 | 14–21 |
+| [9–10 September 2019](2019-09-10-Euromedia.html) | Euromedia | 16 | 14–19 | 14–19 | 14–19 | 14–19 |
+| [10 September 2019](2019-09-10-EMG.html) | EMG <br> Rai 3 | 18 | 17–18 | 17–19 | 17–19 | 16–20 |
+| [9–10 September 2019](2019-09-10-Demopolis.html) | Demopolis <br> Rai 3 | 17 | 16–18 | 16–19 | 16–19 | 15–19 |
+| [4–9 September 2019](2019-09-09-SWG.html) | SWG <br> La7 | 18 | 17–19 | 17–19 | 16–19 | 16–20 |
+| [7–9 September 2019](2019-09-09-Piepoli.html) | Piepoli <br> Rai 1 | 17 | 16–19 | 15–20 | 15–21 | 14–22 |
+| [1–6 September 2019](2019-09-06-NotoSondaggi.html) | Noto Sondaggi <br> Quotidiano Nazionale | 18 | 17–19 | 16–20 | 16–20 | 15–21 |
+| [5 September 2019](2019-09-05-Tecnè.html) | Tecnè <br> Rete 4 | 19 | 17–20 | 17–20 | 17–21 | 16–22 |
+| [4–5 September 2019](2019-09-05-GPF.html) | GPF <br> La Notizia | 18 | 17–19 | 16–20 | 16–20 | 15–21 |
+| [4–5 September 2019](2019-09-05-Demopolis.html) | Demopolis <br> Rai 3 | 17 | 16–18 | 16–18 | 15–19 | 15–19 |
+| [2–3 September 2019](2019-09-03-Ixè.html) | Ixè <br> Rai 3 | 18 | 16–20 | 16–20 | 15–20 | 15–20 |
+| [31 August–2 September 2019](2019-09-02-Tecnè.html) | Tecnè <br> Rete 4 | 18 | 16–19 | 16–19 | 16–20 | 15–20 |
+| [29 August–2 September 2019](2019-09-02-SWG.html) | SWG <br> La7 | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
+| [29–30 August 2019](2019-08-30-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 | 17 | 15–18 | 15–19 | 14–19 | 14–20 |
+| [26–29 August 2019](2019-08-29-Ipsos.html) | Ipsos <br> Corriere della Sera | 17 | 16–19 | 15–19 | 15–20 | 15–20 |
+| [24–28 August 2019](2019-08-28-BiDiMedia.html) | BiDiMedia | 18 | 17–19 | 17–20 | 17–20 | 16–21 |
+| [27 August 2019](2019-08-27-Piepoli.html) | Piepoli <br> La Stampa | 17 | 15–19 | 15–20 | 14–20 | 14–21 |
+| [23–25 August 2019](2019-08-25-Demopolis.html) | Demopolis | 16 | 16–17 | 16–17 | 15–18 | 15–18 |
+| [21–23 August 2019](2019-08-23-TermometroPolitico.html) | Termometro Politico <br> La7 | 18 | 17–19 | 17–19 | 17–19 | 17–20 |
+| [21–23 August 2019](2019-08-23-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 19 | 17–20 | 17–20 | 17–21 | 16–21 |
+| [21 August 2019](2019-08-21-Tecnè.html) | Tecnè | 19 | 17–20 | 17–21 | 16–21 | 16–22 |
+| [21 August 2019](2019-08-21-IZI.html) | IZI | 17 | 16–18 | 16–19 | 15–19 | 15–20 |
+| [20–21 August 2019](2019-08-21-GPF.html) | GPF | 18 | 17–20 | 16–21 | 15–21 | 15–22 |
+| [12 August 2019](2019-08-12-GPF.html) | GPF | 17 | 15–19 | 15–19 | 14–19 | 14–20 |
+| [9–10 August 2019](2019-08-10-TermometroPolitico.html) | Termometro Politico <br> La7 | 17 | 17–18 | 16–19 | 16–19 | 16–19 |
+| [1–9 August 2019](2019-08-09-NotoSondaggi.html) | Noto Sondaggi | 16 | 15–18 | 15–18 | 15–19 | 14–19 |
+| [5 August 2019](2019-08-05-Tecnè.html) | Tecnè <br> Dire | 14 | 14 | 14 | 14 | 14 |
+| [29 July–2 August 2019](2019-08-02-TermometroPolitico.html) | Termometro Politico | 17 | 16–18 | 16–18 | 15–19 | 15–19 |
+| [30 July–1 August 2019](2019-08-01-Tecnè.html) | Tecnè <br> Dire | 17 | 16–18 | 15–19 | 15–19 | 15–20 |
+| [30–31 July 2019](2019-07-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 15 | 14–17 | 13–17 | 13–17 | 13–18 |
+| [27–30 July 2019](2019-07-30-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 18 | 16–19 | 16–19 | 16–19 | 15–20 |
+| [24–29 July 2019](2019-07-29-SWG.html) | SWG <br> La7 | 17 | 15–18 | 15–19 | 15–19 | 15–19 |
+| [24–25 July 2019](2019-07-25-Tecnè.html) | Tecnè <br> Dire | 16 | 15–19 | 15–19 | 15–19 | 15–20 |
+| [22–24 July 2019](2019-07-24-Demopolis.html) | Demopolis <br> La7 | 16 | 16–17 | 15–18 | 15–18 | 14–18 |
+| [17–22 July 2019](2019-07-22-SWG.html) | SWG <br> La7 | 15 | 14–17 | 14–17 | 14–17 | 14–19 |
+| [22 July 2019](2019-07-22-Euromedia.html) | Euromedia | 15 | 14–15 | 14–16 | 14–16 | 14–16 |
+| [16–18 July 2019](2019-07-18-TermometroPolitico.html) | Termometro Politico | 17 | 17 | 17–18 | 16–19 | 15–19 |
+| [17–18 July 2019](2019-07-18-Tecnè.html) | Tecnè <br> Rete 4 | 18 | 18–19 | 18–19 | 18–19 | 16–19 |
+| [16–18 July 2019](2019-07-18-Ipsos.html) | Ipsos <br> Corriere della Sera | 18 | 16–18 | 14–18 | 13–18 | 12–20 |
+| [15–18 July 2019](2019-07-18-GPF.html) | GPF <br> La Notizia | 16 | 16 | 16 | 16–17 | 15–18 |
+| [10–15 July 2019](2019-07-15-SWG.html) | SWG <br> LA7 | 17 | 16–17 | 16–18 | 15–18 | 15–18 |
+| [15 July 2019](2019-07-15-Piepoli.html) | Piepoli <br> Rai 1 | 19 | 16–20 | 15–20 | 15–20 | 15–20 |
+| [9–12 July 2019](2019-07-12-TermometroPolitico.html) | Termometro Politico | 16 | 16–17 | 16–17 | 15–19 | 15–19 |
+| [10–11 July 2019](2019-07-11-Tecnè.html) | Tecnè <br> Rete 4 | 17 | 17 | 16–18 | 16–18 | 16–18 |
+| [8–10 July 2019](2019-07-10-GPF.html) | GPF <br> Rete 4 | 17 | 16–17 | 15–17 | 15–17 | 15–18 |
+| [8–10 July 2019](2019-07-10-DemosPi.html) | Demos & Pi | 17 | 17–18 | 16–19 | 15–19 | 14–19 |
+| [7–8 July 2019](2019-07-08-Tecnè.html) | Tecnè <br> Rete 4 | 18 | 16–19 | 16–20 | 16–20 | 15–20 |
+| [3–8 July 2019](2019-07-08-SWG.html) | SWG <br> La7 | 17 | 17–18 | 17–18 | 16–18 | 15–19 |
+| [5 July 2019](2019-07-05-NotoSondaggi.html) | Noto Sondaggi <br> Quotidiano Nazionale | 18 | 17–20 | 17–20 | 17–20 | 17–20 |
+| [1–4 July 2019](2019-07-04-TermometroPolitico.html) | Termometro Politico <br> La7 | 17 | 17–18 | 17–18 | 17–18 | 17–18 |
+| [29 June–4 July 2019](2019-07-04-BiDiMedia.html) | BiDiMedia | 17 | 16–18 | 16–18 | 16–18 | 16–20 |
+| [26 June–1 July 2019](2019-07-01-SWG.html) | SWG <br> La7 | 16 | 16–17 | 16–17 | 16–17 | 16–17 |
+| [27 June 2019](2019-06-27-EMG.html) | EMG <br> Rai 3 | 19 | 18–21 | 17–21 | 16–21 | 16–21 |
+| [1–26 June 2019](2019-06-26-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 17 | 17 | 17 | 17 | 17–19 |
+| [25–26 June 2019](2019-06-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 19 | 18–20 | 18–20 | 17–20 | 17–20 |
+| [23–24 June 2019](2019-06-24-Tecnè.html) | Tecnè <br> Rete 4 | 16 | 16–19 | 16–19 | 16–19 | 15–20 |
+| [19–24 June 2019](2019-06-24-SWG.html) | SWG <br> La7 | 15 | 15–17 | 15–18 | 15–19 | 15–19 |
+| [19–20 June 2019](2019-06-20-Demopolis.html) | Demopolis <br> La7 | 15 | 14–15 | 14–15 | 14–15 | 14–15 |
+| [1–18 June 2019](2019-06-18-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 18 | 17–19 | 17–19 | 17–19 | 17–19 |
+| [18 June 2019](2019-06-18-EMG.html) | EMG <br> Rai 3 | 21 | 18–21 | 18–21 | 17–21 | 17–21 |
+| [12–17 June 2019](2019-06-17-SWG.html) | SWG <br> LA7 | 17 | 17–18 | 16–18 | 15–18 | 15–18 |
+| [13 June 2019](2019-06-13-IndexResearch.html) | Index Research <br> LA7 | 17 | 16–19 | 15–19 | 15–20 | 14–21 |
+| [11 June 2019](2019-06-11-EMG.html) | EMG <br> Rai 3 | 18 | 18 | 18 | 18 | 17–18 |
+| [9–10 June 2019](2019-06-10-Tecnè.html) | Tecnè <br> Rete 4 | 18 | 18 | 17–18 | 17–18 | 15–20 |
+| [5–10 June 2019](2019-06-10-SWG.html) | SWG <br> La7 | 17 | 17–18 | 17–18 | 17–18 | 17–19 |
+| [10 June 2019](2019-06-10-Piepoli.html) | Piepoli <br> Rai 1 | 19 | 18–19 | 17–19 | 15–19 | 12–19 |
+| [1–10 June 2019](2019-06-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 18 | 17–18 | 17–18 | 17–18 | 17–20 |
+| [10 June 2019](2019-06-10-Euromedia.html) | Euromedia <br> Rai 1 | 18 | 17–21 | 17–22 | 17–22 | 15–22 |
+| [1–7 June 2019](2019-06-07-IndexResearch.html) | Index Research <br> La7 | 16 | 15–18 | 15–18 | 15–18 | 15–18 |
+| [2–3 June 2019](2019-06-03-Tecnè.html) | Tecnè <br> Rete 4 | 16 | 15–17 | 15–17 | 15–17 | 15–17 |
+| [29 May–3 June 2019](2019-06-03-SWG.html) | SWG <br> LA7 | 18 | 17–18 | 17–18 | 17–19 | 17–21 |
+| [1 June 2019](2019-06-01-EMG.html) | EMG <br> Affari Internazionali | 19 | 19 | 19 | 19 | 17–21 |
+| [30 May 2019](2019-05-30-Piepoli.html) | Piepoli <br> Rai 1 | 17 | 16–17 | 16–17 | 16–18 | 16–18 |
+| [28–29 May 2019](2019-05-29-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 18 | 17–19 | 16–19 | 16–19 | 16–21 |
 
 ### Probability Mass Function
 
@@ -576,20 +576,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 0.5% | 100% |  |
-| 12 | 4% | 99.5% |  |
-| 13 | 19% | 95% |  |
-| 14 | 22% | 76% |  |
-| 15 | 16% | 54% | Median |
-| 16 | 4% | 38% |  |
-| 17 | 3% | 34% |  |
-| 18 | 4% | 31% |  |
-| 19 | 8% | 27% |  |
-| 20 | 10% | 19% |  |
-| 21 | 7% | 10% |  |
-| 22 | 2% | 3% |  |
-| 23 | 0.7% | 0.8% |  |
-| 24 | 0.1% | 0.2% |  |
+| 11 | 0.1% | 100% |  |
+| 12 | 1.3% | 99.9% |  |
+| 13 | 4% | 98.7% |  |
+| 14 | 13% | 94% |  |
+| 15 | 14% | 81% |  |
+| 16 | 18% | 67% | Median |
+| 17 | 20% | 49% |  |
+| 18 | 14% | 29% |  |
+| 19 | 5% | 14% |  |
+| 20 | 5% | 9% |  |
+| 21 | 2% | 4% |  |
+| 22 | 1.4% | 2% |  |
+| 23 | 0.4% | 0.5% |  |
+| 24 | 0.2% | 0.2% |  |
 | 25 | 0% | 0% |  |
 | 26 | 0% | 0% |  |
 | 27 | 0% | 0% |  |

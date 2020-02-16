@@ -19,6 +19,7 @@
 | Europa Verde (Greens/EFA) | 0.0% | 2.0% | 1.7–2.4% |1.6–2.5% |1.5–2.7% |1.4–2.9% |
 | Liberi e Uguali (S&D) | 0.0% | 1.6% | 1.3–2.0% |1.2–2.1% |1.1–2.2% |1.0–2.4% |
 | Più Europa (RE) | 0.0% | 1.3% | 1.0–1.6% |1.0–1.8% |0.9–1.8% |0.8–2.0% |
+| Azione (S&D) | 0.0% | 1.2% | 1.0–1.6% |0.9–1.6% |0.8–1.7% |0.7–1.9% |
 | Cambiamo! (*) | 0.0% | 0.5% | 0.4–0.7% |0.3–0.8% |0.3–0.9% |0.2–1.0% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
@@ -33,15 +34,16 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#lega-nord-(id)">Lega Nord (ID)</a> | 5 | 27 | 26–29 |26–29 |26–30 |25–30 |
-| <a href="#partito-democratico-(s&d)">Partito Democratico (S&D)</a> | 31 | 14 | 13–14 |12–15 |12–15 |12–16 |
-| <a href="#movimento-5-stelle-(ni)">Movimento 5 Stelle (NI)</a> | 17 | 14 | 13–14 |12–15 |12–15 |12–16 |
-| <a href="#fratelli-d’italia-(ecr)">Fratelli d’Italia (ECR)</a> | 0 | 6 | 6–7 |6–7 |6–8 |5–8 |
-| <a href="#italia-viva-(re)">Italia Viva (RE)</a> | 0 | 4 | 4–5 |4–5 |4–5 |3–6 |
-| <a href="#forza-italia-(epp)">Forza Italia (EPP)</a> | 13 | 4 | 4–5 |4–5 |3–5 |3–5 |
+| <a href="#lega-nord-(id)">Lega Nord (ID)</a> | 5 | 30 | 29–30 |29–30 |29–31 |27–31 |
+| <a href="#partito-democratico-(s&d)">Partito Democratico (S&D)</a> | 31 | 14 | 14–15 |14–15 |13–16 |13–16 |
+| <a href="#movimento-5-stelle-(ni)">Movimento 5 Stelle (NI)</a> | 17 | 15 | 14–16 |13–16 |13–16 |13–16 |
+| <a href="#fratelli-d’italia-(ecr)">Fratelli d’Italia (ECR)</a> | 0 | 7 | 6–8 |6–8 |6–8 |6–8 |
+| <a href="#italia-viva-(re)">Italia Viva (RE)</a> | 0 | 5 | 4–5 |4–5 |4–5 |4–6 |
+| <a href="#forza-italia-(epp)">Forza Italia (EPP)</a> | 13 | 4 | 4–5 |4–5 |4–5 |4–5 |
 | <a href="#europa-verde-(greens/efa)">Europa Verde (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#liberi-e-uguali-(s&d)">Liberi e Uguali (S&D)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#più-europa-(re)">Più Europa (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#azione-(s&d)">Azione (S&D)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#cambiamo!-(*)">Cambiamo! (*)</a> | 0 | 0 | 0 |0 |0 |0 |
 
 ### Lega Nord (ID)
@@ -72,14 +74,15 @@
 | 22 | 0% | 100% |  |
 | 23 | 0% | 100% |  |
 | 24 | 0% | 100% |  |
-| 25 | 1.2% | 100% |  |
-| 26 | 15% | 98.7% |  |
-| 27 | 40% | 83% | Median |
-| 28 | 27% | 43% |  |
-| 29 | 12% | 16% |  |
-| 30 | 3% | 4% |  |
-| 31 | 0.1% | 0.1% |  |
-| 32 | 0% | 0% |  |
+| 25 | 0% | 100% |  |
+| 26 | 0% | 100% |  |
+| 27 | 0.6% | 100% |  |
+| 28 | 1.4% | 99.4% |  |
+| 29 | 21% | 98% |  |
+| 30 | 74% | 77% | Median |
+| 31 | 2% | 3% |  |
+| 32 | 0.5% | 0.5% |  |
+| 33 | 0% | 0% |  |
 
 ### Partito Democratico (S&D)
 
@@ -89,13 +92,11 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 0.2% | 100% |  |
-| 12 | 6% | 99.8% |  |
-| 13 | 39% | 94% |  |
-| 14 | 50% | 55% | Median |
-| 15 | 5% | 5% |  |
-| 16 | 0.5% | 0.6% |  |
-| 17 | 0% | 0% |  |
+| 13 | 3% | 100% |  |
+| 14 | 57% | 97% | Median |
+| 15 | 36% | 40% |  |
+| 16 | 3% | 3% |  |
+| 17 | 0.1% | 0.1% |  |
 | 18 | 0% | 0% |  |
 | 19 | 0% | 0% |  |
 | 20 | 0% | 0% |  |
@@ -119,12 +120,12 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 10% | 100% |  |
-| 13 | 38% | 90% |  |
-| 14 | 44% | 52% | Median |
-| 15 | 7% | 8% |  |
-| 16 | 0.6% | 0.6% |  |
-| 17 | 0% | 0% | Last Result |
+| 13 | 6% | 100% |  |
+| 14 | 10% | 94% |  |
+| 15 | 75% | 85% | Median |
+| 16 | 10% | 10% |  |
+| 17 | 0.4% | 0.4% | Last Result |
+| 18 | 0% | 0% |  |
 
 ### Fratelli d’Italia (ECR)
 
@@ -139,10 +140,10 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 1.2% | 100% |  |
-| 6 | 56% | 98.8% | Median |
-| 7 | 40% | 43% |  |
-| 8 | 3% | 3% |  |
+| 5 | 0.1% | 100% |  |
+| 6 | 24% | 99.9% |  |
+| 7 | 64% | 76% | Median |
+| 8 | 12% | 12% |  |
 | 9 | 0% | 0% |  |
 
 ### Italia Viva (RE)
@@ -156,10 +157,10 @@
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 2% | 100% |  |
-| 4 | 79% | 98% | Median |
-| 5 | 19% | 20% |  |
-| 6 | 0.6% | 0.6% |  |
+| 3 | 0% | 100% |  |
+| 4 | 46% | 100% |  |
+| 5 | 53% | 54% | Median |
+| 6 | 0.8% | 0.8% |  |
 | 7 | 0% | 0% |  |
 
 ### Forza Italia (EPP)
@@ -170,10 +171,13 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 3% | 100% |  |
-| 4 | 66% | 97% | Median |
-| 5 | 30% | 31% |  |
-| 6 | 0.2% | 0.2% |  |
+| 0 | 0.1% | 100% |  |
+| 1 | 0% | 99.9% |  |
+| 2 | 0% | 99.9% |  |
+| 3 | 0% | 99.9% |  |
+| 4 | 52% | 99.9% | Median |
+| 5 | 48% | 48% |  |
+| 6 | 0.3% | 0.3% |  |
 | 7 | 0% | 0% |  |
 | 8 | 0% | 0% |  |
 | 9 | 0% | 0% |  |
@@ -212,6 +216,16 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Last Result, Median |
 
+### Azione (S&D)
+
+*For a full overview of the results for this party, see the [Azione (S&D)](party-azionesd.html) page.*
+
+![Graph with seats probability mass function not yet produced](2019-09-26-TermometroPolitico-seats-pmf-azionesd.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
 ### Cambiamo! (*)
 
 *For a full overview of the results for this party, see the [Cambiamo! (*)](party-cambiamo.html) page.*
@@ -231,8 +245,8 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Lega Nord (ID) | 5 | 27 | 0% | 26–29 | 26–29 | 26–30 | 25–30 |
-| Partito Democratico (S&D) – Liberi e Uguali (S&D) | 31 | 14 | 0% | 13–14 | 12–15 | 12–15 | 12–16 |
+| Lega Nord (ID) | 5 | 30 | 0% | 29–30 | 29–30 | 29–31 | 27–31 |
+| Partito Democratico (S&D) – Liberi e Uguali (S&D) – Azione (S&D) | 31 | 14 | 0% | 14–15 | 14–15 | 13–16 | 13–16 |
 | Europa Verde (Greens/EFA) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Lega Nord (ID)
@@ -261,28 +275,27 @@
 | 22 | 0% | 100% |  |
 | 23 | 0% | 100% |  |
 | 24 | 0% | 100% |  |
-| 25 | 1.2% | 100% |  |
-| 26 | 15% | 98.7% |  |
-| 27 | 40% | 83% | Median |
-| 28 | 27% | 43% |  |
-| 29 | 12% | 16% |  |
-| 30 | 3% | 4% |  |
-| 31 | 0.1% | 0.1% |  |
-| 32 | 0% | 0% |  |
+| 25 | 0% | 100% |  |
+| 26 | 0% | 100% |  |
+| 27 | 0.6% | 100% |  |
+| 28 | 1.4% | 99.4% |  |
+| 29 | 21% | 98% |  |
+| 30 | 74% | 77% | Median |
+| 31 | 2% | 3% |  |
+| 32 | 0.5% | 0.5% |  |
+| 33 | 0% | 0% |  |
 
-### Partito Democratico (S&D) – Liberi e Uguali (S&D)
+### Partito Democratico (S&D) – Liberi e Uguali (S&D) – Azione (S&D)
 
-![Graph with seats probability mass function not yet produced](2019-09-26-TermometroPolitico-coalitions-seats-pmf-pd–leu.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-09-26-TermometroPolitico-coalitions-seats-pmf-pd–leu–a.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 0.2% | 100% |  |
-| 12 | 6% | 99.8% |  |
-| 13 | 39% | 94% |  |
-| 14 | 50% | 55% | Median |
-| 15 | 5% | 5% |  |
-| 16 | 0.5% | 0.6% |  |
-| 17 | 0% | 0% |  |
+| 13 | 3% | 100% |  |
+| 14 | 57% | 97% | Median |
+| 15 | 36% | 40% |  |
+| 16 | 3% | 3% |  |
+| 17 | 0.1% | 0.1% |  |
 | 18 | 0% | 0% |  |
 | 19 | 0% | 0% |  |
 | 20 | 0% | 0% |  |
@@ -318,6 +331,6 @@
 ### Calculations
 
 + **Sample size:** 2400
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 1.54%
++ **Simulations done:** 131,072
++ **Error estimate:** 1.40%
 
