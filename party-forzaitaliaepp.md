@@ -507,7 +507,7 @@ Last result: **13** seats (General Election of 26 May 2019)
 | [12 August 2019](2019-08-12-GPF.html) | GPF | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
 | [9–10 August 2019](2019-08-10-TermometroPolitico.html) | Termometro Politico <br> La7 | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [1–9 August 2019](2019-08-09-NotoSondaggi.html) | Noto Sondaggi | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
-| [5 August 2019](2019-08-05-Tecnè.html) | Tecnè <br> Dire | 4 | 4 | 4 | 4 | 4 |
+| [5 August 2019](2019-08-05-Tecnè.html) | Tecnè <br> Dire | 6 | 6–7 | 5–8 | 5–8 | 5–8 |
 | [29 July–2 August 2019](2019-08-02-TermometroPolitico.html) | Termometro Politico | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [30 July–1 August 2019](2019-08-01-Tecnè.html) | Tecnè <br> Dire | 6 | 6–7 | 6–7 | 6–7 | 5–8 |
 | [30–31 July 2019](2019-07-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
@@ -551,9 +551,9 @@ Last result: **13** seats (General Election of 26 May 2019)
 | [10 June 2019](2019-06-10-Euromedia.html) | Euromedia <br> Rai 1 | 6 | 5–7 | 4–7 | 4–7 | 4–8 |
 | [1–7 June 2019](2019-06-07-IndexResearch.html) | Index Research <br> La7 | 5 | 5–6 | 4–7 | 4–7 | 4–7 |
 | [2–3 June 2019](2019-06-03-Tecnè.html) | Tecnè <br> Rete 4 | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
-| [29 May–3 June 2019](2019-06-03-SWG.html) | SWG <br> LA7 | 6 | 6–7 | 6–7 | 5–7 | 4–7 |
-| [1 June 2019](2019-06-01-EMG.html) | EMG <br> Affari Internazionali | 6 | 6 | 6 | 6 | 6–8 |
-| [30 May 2019](2019-05-30-Piepoli.html) | Piepoli <br> Rai 1 | 6 | 6–8 | 6–8 | 6–8 | 6–8 |
+| [29 May–3 June 2019](2019-06-03-SWG.html) | SWG <br> LA7 | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
+| [1 June 2019](2019-06-01-EMG.html) | EMG <br> Affari Internazionali | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
+| [30 May 2019](2019-05-30-Piepoli.html) | Piepoli <br> Rai 1 | 7 | 6–8 | 6–9 | 6–9 | 6–9 |
 | [28–29 May 2019](2019-05-29-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 6 | 6 | 5–7 | 5–8 | 5–8 |
 
 ### Probability Mass Function

@@ -218,7 +218,7 @@ Last result: **6.2%** (General Election of 26 May 2019)
 | [12 August 2019](2019-08-12-GPF.html) | GPF | 32.0% | 30.0–34.2% | 29.4–34.8% | 28.9–35.4% | 27.9–36.4% |
 | [9–10 August 2019](2019-08-10-TermometroPolitico.html) | Termometro Politico <br> La7 | 36.1% | 34.9–37.4% | 34.6–37.7% | 34.2–38.0% | 33.7–38.6% |
 | [1–9 August 2019](2019-08-09-NotoSondaggi.html) | Noto Sondaggi | 38.0% | 36.1–40.0% | 35.5–40.6% | 35.0–41.1% | 34.1–42.0% |
-| [5 August 2019](2019-08-05-Tecnè.html) | Tecnè <br> Dire | 38.0% | N/A | N/A | N/A | N/A |
+| [5 August 2019](2019-08-05-Tecnè.html) | Tecnè <br> Dire | 38.0% | 36.1–40.0% | 35.5–40.6% | 35.0–41.1% | 34.1–42.0% |
 | [29 July–2 August 2019](2019-08-02-TermometroPolitico.html) | Termometro Politico | 37.5% | 36.0–39.1% | 35.6–39.5% | 35.3–39.9% | 34.5–40.6% |
 | [30 July–1 August 2019](2019-08-01-Tecnè.html) | Tecnè <br> Dire | 37.7% | 35.8–39.7% | 35.2–40.3% | 34.7–40.8% | 33.8–41.7% |
 | [30–31 July 2019](2019-07-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 36.0% | 34.1–38.0% | 33.5–38.5% | 33.1–39.0% | 32.2–40.0% |
@@ -524,7 +524,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [12 August 2019](2019-08-12-GPF.html) | GPF | 25 | 23–27 | 23–27 | 23–28 | 22–29 |
 | [9–10 August 2019](2019-08-10-TermometroPolitico.html) | Termometro Politico <br> La7 | 29 | 28–30 | 27–30 | 27–30 | 27–31 |
 | [1–9 August 2019](2019-08-09-NotoSondaggi.html) | Noto Sondaggi | 29 | 27–30 | 27–31 | 26–31 | 26–32 |
-| [5 August 2019](2019-08-05-Tecnè.html) | Tecnè <br> Dire | 26 | 26 | 26 | 26 | 26 |
+| [5 August 2019](2019-08-05-Tecnè.html) | Tecnè <br> Dire | 30 | 29–32 | 28–33 | 28–33 | 27–34 |
 | [29 July–2 August 2019](2019-08-02-TermometroPolitico.html) | Termometro Politico | 30 | 28–31 | 28–31 | 28–32 | 27–32 |
 | [30 July–1 August 2019](2019-08-01-Tecnè.html) | Tecnè <br> Dire | 30 | 29–32 | 28–33 | 28–33 | 27–34 |
 | [30–31 July 2019](2019-07-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 28 | 26–30 | 26–31 | 26–31 | 25–32 |
@@ -568,9 +568,9 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [10 June 2019](2019-06-10-Euromedia.html) | Euromedia <br> Rai 1 | 28 | 26–30 | 26–30 | 25–31 | 24–32 |
 | [1–7 June 2019](2019-06-07-IndexResearch.html) | Index Research <br> La7 | 27 | 25–28 | 24–29 | 24–29 | 23–30 |
 | [2–3 June 2019](2019-06-03-Tecnè.html) | Tecnè <br> Rete 4 | 27 | 26–29 | 25–29 | 25–29 | 24–30 |
-| [29 May–3 June 2019](2019-06-03-SWG.html) | SWG <br> LA7 | 29 | 27–29 | 27–29 | 27–31 | 27–32 |
-| [1 June 2019](2019-06-01-EMG.html) | EMG <br> Affari Internazionali | 29 | 29 | 28–29 | 27–29 | 26–29 |
-| [30 May 2019](2019-05-30-Piepoli.html) | Piepoli <br> Rai 1 | 29 | 29 | 29 | 28–29 | 26–31 |
+| [29 May–3 June 2019](2019-06-03-SWG.html) | SWG <br> LA7 | 29 | 28–31 | 27–31 | 27–32 | 26–32 |
+| [1 June 2019](2019-06-01-EMG.html) | EMG <br> Affari Internazionali | 28 | 27–29 | 26–30 | 26–30 | 25–31 |
+| [30 May 2019](2019-05-30-Piepoli.html) | Piepoli <br> Rai 1 | 28 | 26–29 | 26–30 | 26–30 | 25–31 |
 | [28–29 May 2019](2019-05-29-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 30 | 28–30 | 27–30 | 27–31 | 26–31 |
 
 ### Probability Mass Function

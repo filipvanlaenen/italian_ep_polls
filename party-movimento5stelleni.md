@@ -263,8 +263,8 @@ Last result: **21.2%** (General Election of 26 May 2019)
 | [1–7 June 2019](2019-06-07-IndexResearch.html) | Index Research <br> La7 | 18.9% | 17.2–20.7% | 16.7–21.3% | 16.3–21.7% | 15.5–22.7% |
 | [2–3 June 2019](2019-06-03-Tecnè.html) | Tecnè <br> Rete 4 | 16.8% | 15.4–18.4% | 15.0–18.9% | 14.6–19.3% | 13.9–20.0% |
 | [29 May–3 June 2019](2019-06-03-SWG.html) | SWG <br> LA7 | 17.5% | 16.3–18.9% | 16.0–19.2% | 15.7–19.6% | 15.1–20.2% |
-| [1 June 2019](2019-06-01-EMG.html) | EMG <br> Affari Internazionali | 19.1% | N/A | N/A | N/A | N/A |
-| [30 May 2019](2019-05-30-Piepoli.html) | Piepoli <br> Rai 1 | 17.0% | N/A | N/A | N/A | N/A |
+| [1 June 2019](2019-06-01-EMG.html) | EMG <br> Affari Internazionali | 19.1% | 17.9–20.4% | 17.6–20.8% | 17.3–21.1% | 16.7–21.8% |
+| [30 May 2019](2019-05-30-Piepoli.html) | Piepoli <br> Rai 1 | 17.0% | 15.5–18.6% | 15.1–19.1% | 14.8–19.5% | 14.1–20.3% |
 | [28–29 May 2019](2019-05-29-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 16.5% | N/A | N/A | N/A | N/A |
 
 ### Probability Mass Function
@@ -506,7 +506,7 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [12 August 2019](2019-08-12-GPF.html) | GPF | 19 | 17–20 | 17–21 | 16–21 | 16–22 |
 | [9–10 August 2019](2019-08-10-TermometroPolitico.html) | Termometro Politico <br> La7 | 14 | 14–15 | 13–16 | 13–16 | 13–16 |
 | [1–9 August 2019](2019-08-09-NotoSondaggi.html) | Noto Sondaggi | 13 | 11–14 | 11–14 | 11–14 | 10–15 |
-| [5 August 2019](2019-08-05-Tecnè.html) | Tecnè <br> Dire | 11 | 11 | 11 | 11 | 11 |
+| [5 August 2019](2019-08-05-Tecnè.html) | Tecnè <br> Dire | 14 | 13–15 | 12–16 | 12–16 | 12–17 |
 | [29 July–2 August 2019](2019-08-02-TermometroPolitico.html) | Termometro Politico | 14 | 13–14 | 12–14 | 12–15 | 12–15 |
 | [30 July–1 August 2019](2019-08-01-Tecnè.html) | Tecnè <br> Dire | 14 | 13–16 | 13–16 | 12–16 | 12–17 |
 | [30–31 July 2019](2019-07-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 14 | 13–16 | 13–16 | 12–16 | 12–17 |
@@ -550,9 +550,9 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [10 June 2019](2019-06-10-Euromedia.html) | Euromedia <br> Rai 1 | 14 | 13–16 | 13–16 | 12–17 | 12–18 |
 | [1–7 June 2019](2019-06-07-IndexResearch.html) | Index Research <br> La7 | 15 | 13–16 | 13–16 | 13–17 | 12–18 |
 | [2–3 June 2019](2019-06-03-Tecnè.html) | Tecnè <br> Rete 4 | 13 | 12–14 | 11–14 | 11–15 | 11–15 |
-| [29 May–3 June 2019](2019-06-03-SWG.html) | SWG <br> LA7 |  |  |  |  |  |
-| [1 June 2019](2019-06-01-EMG.html) | EMG <br> Affari Internazionali |  |  |  |  |  |
-| [30 May 2019](2019-05-30-Piepoli.html) | Piepoli <br> Rai 1 |  |  |  |  |  |
+| [29 May–3 June 2019](2019-06-03-SWG.html) | SWG <br> LA7 | 14 | 13–15 | 13–15 | 12–16 | 12–16 |
+| [1 June 2019](2019-06-01-EMG.html) | EMG <br> Affari Internazionali | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
+| [30 May 2019](2019-05-30-Piepoli.html) | Piepoli <br> Rai 1 | 14 | 12–15 | 12–15 | 12–15 | 11–16 |
 | [28–29 May 2019](2019-05-29-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll |  |  |  |  |  |
 
 ### Probability Mass Function
