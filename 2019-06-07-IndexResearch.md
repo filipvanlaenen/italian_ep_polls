@@ -1,4 +1,4 @@
-# Opinion Poll by Index Research for LA7, 1–7 June 2019
+# Opinion Poll by Index Research for La7, 1–7 June 2019
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#coalitions">Coalitions</a> | <a href="#technical-information">Technical Information</a></p>
 
@@ -23,15 +23,17 @@
 
 ![Graph with seats not yet produced](2019-06-07-IndexResearch-seats.png "Seats")
 
+![Graph with seating plan not yet produced](2019-06-07-IndexResearch-seating-plan.png "Seating Plan")
+
 ### Confidence Intervals
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#lega-nord-(id)">Lega Nord (ID)</a> | 5 | 25 | 24–27 |23–28 |23–28 |22–29 |
-| <a href="#partito-democratico-(s&d)">Partito Democratico (S&D)</a> | 31 | 16 | 15–18 |15–18 |14–19 |14–19 |
-| <a href="#movimento-5-stelle-(ni)">Movimento 5 Stelle (NI)</a> | 17 | 14 | 13–15 |12–16 |12–16 |12–17 |
-| <a href="#fratelli-d’italia-(ecr)">Fratelli d’Italia (ECR)</a> | 0 | 5 | 4–6 |4–6 |4–7 |4–7 |
-| <a href="#forza-italia-(epp)">Forza Italia (EPP)</a> | 13 | 5 | 4–6 |4–6 |4–7 |4–7 |
+| <a href="#lega-nord-(id)">Lega Nord (ID)</a> | 5 | 27 | 25–28 |24–29 |24–29 |23–30 |
+| <a href="#partito-democratico-(s&d)">Partito Democratico (S&D)</a> | 31 | 17 | 16–19 |15–19 |15–19 |14–20 |
+| <a href="#movimento-5-stelle-(ni)">Movimento 5 Stelle (NI)</a> | 17 | 15 | 13–16 |13–16 |13–17 |12–18 |
+| <a href="#fratelli-d’italia-(ecr)">Fratelli d’Italia (ECR)</a> | 0 | 5 | 5–7 |4–7 |4–7 |4–7 |
+| <a href="#forza-italia-(epp)">Forza Italia (EPP)</a> | 13 | 5 | 5–6 |4–7 |4–7 |4–7 |
 | <a href="#più-europa-(re)">Più Europa (RE)</a> | 0 | 0 | 0–3 |0–3 |0–3 |0–4 |
 
 ### Lega Nord (ID)
@@ -58,17 +60,18 @@
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
-| 21 | 0.1% | 100% |  |
-| 22 | 1.1% | 99.9% |  |
-| 23 | 6% | 98.8% |  |
-| 24 | 18% | 93% |  |
-| 25 | 29% | 76% | Median |
-| 26 | 27% | 47% |  |
-| 27 | 14% | 19% |  |
-| 28 | 4% | 5% |  |
-| 29 | 0.7% | 0.8% |  |
-| 30 | 0.1% | 0.1% |  |
-| 31 | 0% | 0% |  |
+| 21 | 0% | 100% |  |
+| 22 | 0.2% | 100% |  |
+| 23 | 1.2% | 99.8% |  |
+| 24 | 6% | 98.6% |  |
+| 25 | 16% | 93% |  |
+| 26 | 25% | 77% |  |
+| 27 | 22% | 52% | Median |
+| 28 | 21% | 30% |  |
+| 29 | 8% | 9% |  |
+| 30 | 1.1% | 1.2% |  |
+| 31 | 0.1% | 0.1% |  |
+| 32 | 0% | 0% |  |
 
 ### Partito Democratico (S&D)
 
@@ -78,15 +81,15 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 13 | 0.4% | 100% |  |
-| 14 | 4% | 99.6% |  |
-| 15 | 17% | 95% |  |
-| 16 | 32% | 78% | Median |
-| 17 | 30% | 46% |  |
-| 18 | 13% | 17% |  |
-| 19 | 3% | 4% |  |
-| 20 | 0.4% | 0.4% |  |
-| 21 | 0% | 0% |  |
+| 13 | 0.1% | 100% |  |
+| 14 | 1.2% | 99.9% |  |
+| 15 | 8% | 98.7% |  |
+| 16 | 21% | 91% |  |
+| 17 | 37% | 70% | Median |
+| 18 | 22% | 33% |  |
+| 19 | 8% | 10% |  |
+| 20 | 2% | 2% |  |
+| 21 | 0.2% | 0.2% |  |
 | 22 | 0% | 0% |  |
 | 23 | 0% | 0% |  |
 | 24 | 0% | 0% |  |
@@ -106,15 +109,16 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 0.4% | 100% |  |
-| 12 | 5% | 99.6% |  |
-| 13 | 22% | 95% |  |
-| 14 | 38% | 73% | Median |
-| 15 | 26% | 35% |  |
-| 16 | 8% | 10% |  |
-| 17 | 1.3% | 1.4% | Last Result |
-| 18 | 0.1% | 0.1% |  |
-| 19 | 0% | 0% |  |
+| 11 | 0.1% | 100% |  |
+| 12 | 2% | 99.9% |  |
+| 13 | 11% | 98% |  |
+| 14 | 30% | 87% |  |
+| 15 | 34% | 57% | Median |
+| 16 | 19% | 23% |  |
+| 17 | 4% | 5% | Last Result |
+| 18 | 0.7% | 0.8% |  |
+| 19 | 0.1% | 0.1% |  |
+| 20 | 0% | 0% |  |
 
 ### Fratelli d’Italia (ECR)
 
@@ -127,11 +131,11 @@
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0.2% | 100% |  |
-| 4 | 13% | 99.8% |  |
-| 5 | 50% | 87% | Median |
-| 6 | 32% | 37% |  |
-| 7 | 5% | 5% |  |
+| 3 | 0% | 100% |  |
+| 4 | 7% | 100% |  |
+| 5 | 55% | 93% | Median |
+| 6 | 24% | 39% |  |
+| 7 | 14% | 14% |  |
 | 8 | 0.2% | 0.2% |  |
 | 9 | 0% | 0% |  |
 
@@ -143,12 +147,12 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.3% | 100% |  |
-| 4 | 14% | 99.7% |  |
-| 5 | 53% | 86% | Median |
-| 6 | 29% | 32% |  |
-| 7 | 4% | 4% |  |
-| 8 | 0.1% | 0.1% |  |
+| 3 | 0.1% | 100% |  |
+| 4 | 10% | 99.9% |  |
+| 5 | 47% | 90% | Median |
+| 6 | 37% | 43% |  |
+| 7 | 5% | 6% |  |
+| 8 | 0.3% | 0.3% |  |
 | 9 | 0% | 0% |  |
 | 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |
@@ -163,11 +167,11 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 89% | 100% | Last Result, Median |
-| 1 | 0% | 11% |  |
-| 2 | 0% | 11% |  |
-| 3 | 10% | 11% |  |
-| 4 | 1.2% | 1.3% |  |
+| 0 | 88% | 100% | Last Result, Median |
+| 1 | 0% | 12% |  |
+| 2 | 0% | 12% |  |
+| 3 | 9% | 12% |  |
+| 4 | 2% | 2% |  |
 | 5 | 0% | 0% |  |
 
 
@@ -179,7 +183,7 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Lega Nord (ID) | 5 | 25 | 0% | 24–27 | 23–28 | 23–28 | 22–29 |
+| Lega Nord (ID) | 5 | 27 | 0% | 25–28 | 24–29 | 24–29 | 23–30 |
 
 ### Lega Nord (ID)
 
@@ -203,17 +207,18 @@
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
-| 21 | 0.1% | 100% |  |
-| 22 | 1.1% | 99.9% |  |
-| 23 | 6% | 98.8% |  |
-| 24 | 18% | 93% |  |
-| 25 | 29% | 76% | Median |
-| 26 | 27% | 47% |  |
-| 27 | 14% | 19% |  |
-| 28 | 4% | 5% |  |
-| 29 | 0.7% | 0.8% |  |
-| 30 | 0.1% | 0.1% |  |
-| 31 | 0% | 0% |  |
+| 21 | 0% | 100% |  |
+| 22 | 0.2% | 100% |  |
+| 23 | 1.2% | 99.8% |  |
+| 24 | 6% | 98.6% |  |
+| 25 | 16% | 93% |  |
+| 26 | 25% | 77% |  |
+| 27 | 22% | 52% | Median |
+| 28 | 21% | 30% |  |
+| 29 | 8% | 9% |  |
+| 30 | 1.1% | 1.2% |  |
+| 31 | 0.1% | 0.1% |  |
+| 32 | 0% | 0% |  |
 
 
 ## Technical Information
@@ -221,12 +226,12 @@
 ### Opinion Poll
 
 + **Polling firm:** Index Research
-+ **Commissioner(s):** LA7
++ **Commissioner(s):** La7
 + **Fieldwork period:** 1–7 June 2019
 
 ### Calculations
 
 + **Sample size:** 800
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 1.20%
++ **Simulations done:** 131,072
++ **Error estimate:** 1.59%
 

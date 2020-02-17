@@ -555,14 +555,14 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [18 June 2019](2019-06-18-EMG.html) | EMG <br> Rai 3 | 21 | 18–21 | 18–21 | 17–21 | 17–21 |
 | [12–17 June 2019](2019-06-17-SWG.html) | SWG <br> LA7 | 17 | 17–18 | 16–18 | 15–18 | 15–18 |
 | [13 June 2019](2019-06-13-IndexResearch.html) | Index Research <br> LA7 | 17 | 16–19 | 15–19 | 15–20 | 14–21 |
-| [11 June 2019](2019-06-11-EMG.html) | EMG <br> Rai 3 | 18 | 18 | 18 | 18 | 17–18 |
-| [9–10 June 2019](2019-06-10-Tecnè.html) | Tecnè <br> Rete 4 | 18 | 18 | 17–18 | 17–18 | 15–20 |
-| [5–10 June 2019](2019-06-10-SWG.html) | SWG <br> La7 | 17 | 17–18 | 17–18 | 17–18 | 17–19 |
-| [10 June 2019](2019-06-10-Piepoli.html) | Piepoli <br> Rai 1 | 19 | 18–19 | 17–19 | 15–19 | 12–19 |
-| [1–10 June 2019](2019-06-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 18 | 17–18 | 17–18 | 17–18 | 17–20 |
-| [10 June 2019](2019-06-10-Euromedia.html) | Euromedia <br> Rai 1 | 18 | 17–21 | 17–22 | 17–22 | 15–22 |
-| [1–7 June 2019](2019-06-07-IndexResearch.html) | Index Research <br> La7 | 16 | 15–18 | 15–18 | 15–18 | 15–18 |
-| [2–3 June 2019](2019-06-03-Tecnè.html) | Tecnè <br> Rete 4 | 16 | 15–17 | 15–17 | 15–17 | 15–17 |
+| [11 June 2019](2019-06-11-EMG.html) | EMG <br> Rai 3 | 19 | 18–20 | 17–20 | 17–20 | 16–21 |
+| [9–10 June 2019](2019-06-10-Tecnè.html) | Tecnè <br> Rete 4 | 17 | 16–18 | 15–19 | 15–19 | 14–20 |
+| [5–10 June 2019](2019-06-10-SWG.html) | SWG <br> La7 | 17 | 16–18 | 16–19 | 15–19 | 15–20 |
+| [10 June 2019](2019-06-10-Piepoli.html) | Piepoli <br> Rai 1 | 18 | 16–20 | 15–20 | 15–21 | 14–22 |
+| [1–10 June 2019](2019-06-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 18 | 17–20 | 17–20 | 16–21 | 16–22 |
+| [10 June 2019](2019-06-10-Euromedia.html) | Euromedia <br> Rai 1 | 18 | 16–20 | 15–20 | 15–21 | 14–21 |
+| [1–7 June 2019](2019-06-07-IndexResearch.html) | Index Research <br> La7 | 17 | 16–19 | 15–19 | 15–19 | 14–20 |
+| [2–3 June 2019](2019-06-03-Tecnè.html) | Tecnè <br> Rete 4 | 17 | 16–18 | 15–19 | 15–19 | 15–20 |
 | [29 May–3 June 2019](2019-06-03-SWG.html) | SWG <br> LA7 | 18 | 17–18 | 17–18 | 17–19 | 17–21 |
 | [1 June 2019](2019-06-01-EMG.html) | EMG <br> Affari Internazionali | 19 | 19 | 19 | 19 | 17–21 |
 | [30 May 2019](2019-05-30-Piepoli.html) | Piepoli <br> Rai 1 | 17 | 16–17 | 16–17 | 16–18 | 16–18 |

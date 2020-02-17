@@ -543,14 +543,14 @@ Last result: **13** seats (General Election of 26 May 2019)
 | [18 June 2019](2019-06-18-EMG.html) | EMG <br> Rai 3 | 6 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [12–17 June 2019](2019-06-17-SWG.html) | SWG <br> LA7 | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [13 June 2019](2019-06-13-IndexResearch.html) | Index Research <br> LA7 | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
-| [11 June 2019](2019-06-11-EMG.html) | EMG <br> Rai 3 | 7 | 7 | 7 | 7 | 6–7 |
-| [9–10 June 2019](2019-06-10-Tecnè.html) | Tecnè <br> Rete 4 | 7 | 6–7 | 6–8 | 5–8 | 5–9 |
-| [5–10 June 2019](2019-06-10-SWG.html) | SWG <br> La7 | 6 | 5–6 | 5–6 | 5–6 | 4–6 |
-| [10 June 2019](2019-06-10-Piepoli.html) | Piepoli <br> Rai 1 | 8 | 7–8 | 7–8 | 7–8 | 5–8 |
-| [1–10 June 2019](2019-06-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 6 | 6 | 6–7 | 6–7 | 6–8 |
-| [10 June 2019](2019-06-10-Euromedia.html) | Euromedia <br> Rai 1 | 5 | 4–6 | 4–7 | 4–7 | 4–8 |
-| [1–7 June 2019](2019-06-07-IndexResearch.html) | Index Research <br> La7 | 5 | 4–6 | 4–6 | 4–6 | 3–8 |
-| [2–3 June 2019](2019-06-03-Tecnè.html) | Tecnè <br> Rete 4 | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
+| [11 June 2019](2019-06-11-EMG.html) | EMG <br> Rai 3 | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
+| [9–10 June 2019](2019-06-10-Tecnè.html) | Tecnè <br> Rete 4 | 7 | 6–8 | 6–8 | 5–8 | 5–8 |
+| [5–10 June 2019](2019-06-10-SWG.html) | SWG <br> La7 | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
+| [10 June 2019](2019-06-10-Piepoli.html) | Piepoli <br> Rai 1 | 7 | 5–8 | 5–8 | 5–9 | 4–9 |
+| [1–10 June 2019](2019-06-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 6 | 6–8 | 5–8 | 5–8 | 5–8 |
+| [10 June 2019](2019-06-10-Euromedia.html) | Euromedia <br> Rai 1 | 6 | 5–7 | 4–7 | 4–7 | 4–8 |
+| [1–7 June 2019](2019-06-07-IndexResearch.html) | Index Research <br> La7 | 5 | 5–6 | 4–7 | 4–7 | 4–7 |
+| [2–3 June 2019](2019-06-03-Tecnè.html) | Tecnè <br> Rete 4 | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | [29 May–3 June 2019](2019-06-03-SWG.html) | SWG <br> LA7 | 6 | 6–7 | 6–7 | 5–7 | 4–7 |
 | [1 June 2019](2019-06-01-EMG.html) | EMG <br> Affari Internazionali | 6 | 6 | 6 | 6 | 6–8 |
 | [30 May 2019](2019-05-30-Piepoli.html) | Piepoli <br> Rai 1 | 6 | 6–8 | 6–8 | 6–8 | 6–8 |
