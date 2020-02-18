@@ -10,7 +10,15 @@ Last result: **40.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.4% | 18.4–23.4% | 17.8–24.8% | 17.3–25.8% | 16.4–27.4% |
+| N/A | [Poll Average](average.html) | 21.2% | 19.1–24.4% | 18.5–25.5% | 18.0–26.4% | 16.9–27.8% |
+| [16–17 February 2020](2020-02-17-Tecnè.html) | Tecnè <br> Quarta Repubblica | 20.8% | 19.2–22.5% | 18.8–23.0% | 18.4–23.4% | 17.7–24.3% |
+| [12–17 February 2020](2020-02-17-SWG.html) | SWG <br> La7 | 20.6% | 19.1–22.1% | 18.7–22.6% | 18.4–23.0% | 17.7–23.7% |
+| [13–14 February 2020](2020-02-14-Tecnè.html) | Tecnè <br> Agenzia Dire | 20.8% | N/A | N/A | N/A | N/A |
+| [12–13 February 2020](2020-02-13-TermometroPolitico.html) | Termometro Politico <br> La7 | 19.8% | N/A | N/A | N/A | N/A |
+| [10–13 February 2020](2020-02-13-DemosPi.html) | Demos & Pi <br> La Repubblica | 20.6% | N/A | N/A | N/A | N/A |
+| [13 February 2020](2020-02-13-Demopolis.html) | Demopolis | 20.2% | N/A | N/A | N/A | N/A |
+| [11–13 February 2020](2020-02-13-BiDiMedia.html) | BiDiMedia | 20.8% | N/A | N/A | N/A | N/A |
+| [12 February 2020](2020-02-12-Index.html) | Index <br> La7 | 20.0% | N/A | N/A | N/A | N/A |
 | [11–12 February 2020](2020-02-12-EMG.html) | EMG <br> Rai 3 | 21.5% | 20.2–22.9% | 19.8–23.3% | 19.5–23.6% | 18.9–24.3% |
 | [12 February 2020](2020-02-12-Demopolis.html) | Demopolis <br> La7 | 20.2% | 18.6–21.9% | 18.2–22.4% | 17.8–22.8% | 17.1–23.6% |
 | [11 February 2020](2020-02-11-Ixè.html) | Ixè <br> Rai 3 | 20.3% | 18.7–22.0% | 18.3–22.5% | 17.9–22.9% | 17.2–23.7% |
@@ -239,7 +247,7 @@ Last result: **40.8%** (General Election of 26 May 2019)
 | [8–10 July 2019](2019-07-10-GPF.html) | GPF <br> Rete 4 | 22.4% | 20.6–24.4% | 20.1–25.0% | 19.7–25.4% | 18.8–26.4% |
 | [8–10 July 2019](2019-07-10-DemosPi.html) | Demos & Pi | 22.5% | 20.9–24.3% | 20.4–24.8% | 20.0–25.2% | 19.3–26.0% |
 | [7–8 July 2019](2019-07-08-Tecnè.html) | Tecnè <br> Rete 4 | 23.4% | 21.7–25.2% | 21.3–25.7% | 20.9–26.1% | 20.1–27.0% |
-| [3–8 July 2019](2019-07-08-SWG.html) | SWG <br> La7 | 22.7% | 21.4–24.2% | 21.0–24.6% | 20.7–24.9% | 20.0–25.6% |
+| [3–8 July 2019](2019-07-08-SWG.html) | SWG <br> La7 | 22.7% | 21.3–24.3% | 21.0–24.7% | 20.6–25.0% | 20.0–25.7% |
 | [5 July 2019](2019-07-05-NotoSondaggi.html) | Noto Sondaggi <br> Quotidiano Nazionale | 23.9% | 22.2–25.7% | 21.8–26.2% | 21.4–26.6% | 20.6–27.5% |
 | [1–4 July 2019](2019-07-04-TermometroPolitico.html) | Termometro Politico <br> La7 | 22.9% | 21.6–24.2% | 21.2–24.6% | 20.9–25.0% | 20.3–25.6% |
 | [29 June–4 July 2019](2019-07-04-BiDiMedia.html) | BiDiMedia | 23.5% | 22.2–24.9% | 21.8–25.2% | 21.5–25.6% | 20.9–26.2% |
@@ -273,22 +281,21 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0.1% | 100% |  |
-| 15.5–16.5% | 0.6% | 99.9% |  |
-| 16.5–17.5% | 3% | 99.3% |  |
-| 17.5–18.5% | 8% | 97% |  |
-| 18.5–19.5% | 17% | 88% |  |
-| 19.5–20.5% | 24% | 71% | Median |
-| 20.5–21.5% | 20% | 48% |  |
-| 21.5–22.5% | 12% | 27% |  |
-| 22.5–23.5% | 6% | 15% |  |
-| 23.5–24.5% | 4% | 9% |  |
-| 24.5–25.5% | 3% | 6% |  |
-| 25.5–26.5% | 2% | 3% |  |
-| 26.5–27.5% | 0.9% | 1.3% |  |
-| 27.5–28.5% | 0.3% | 0.4% |  |
-| 28.5–29.5% | 0.1% | 0.1% |  |
+| 14.5–15.5% | 0% | 100% |  |
+| 15.5–16.5% | 0.2% | 100% |  |
+| 16.5–17.5% | 1.0% | 99.7% |  |
+| 17.5–18.5% | 4% | 98.7% |  |
+| 18.5–19.5% | 11% | 95% |  |
+| 19.5–20.5% | 20% | 84% |  |
+| 20.5–21.5% | 23% | 64% | Median |
+| 21.5–22.5% | 17% | 42% |  |
+| 22.5–23.5% | 10% | 25% |  |
+| 23.5–24.5% | 6% | 15% |  |
+| 24.5–25.5% | 4% | 9% |  |
+| 25.5–26.5% | 3% | 5% |  |
+| 26.5–27.5% | 1.5% | 2% |  |
+| 27.5–28.5% | 0.5% | 0.7% |  |
+| 28.5–29.5% | 0.1% | 0.2% |  |
 | 29.5–30.5% | 0% | 0% |  |
 | 30.5–31.5% | 0% | 0% |  |
 | 31.5–32.5% | 0% | 0% |  |
@@ -311,7 +318,15 @@ Last result: **31** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 14–19 | 13–20 | 13–21 | 12–23 |
+| N/A | [Poll Average](average.html) | 17 | 15–20 | 15–21 | 14–22 | 13–23 |
+| [16–17 February 2020](2020-02-17-Tecnè.html) | Tecnè <br> Quarta Repubblica | 17 | 16–19 | 15–19 | 15–19 | 14–20 |
+| [12–17 February 2020](2020-02-17-SWG.html) | SWG <br> La7 | 17 | 16–19 | 16–19 | 15–19 | 14–20 |
+| [13–14 February 2020](2020-02-14-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [12–13 February 2020](2020-02-13-TermometroPolitico.html) | Termometro Politico <br> La7 |  |  |  |  |  |
+| [10–13 February 2020](2020-02-13-DemosPi.html) | Demos & Pi <br> La Repubblica |  |  |  |  |  |
+| [13 February 2020](2020-02-13-Demopolis.html) | Demopolis |  |  |  |  |  |
+| [11–13 February 2020](2020-02-13-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
+| [12 February 2020](2020-02-12-Index.html) | Index <br> La7 |  |  |  |  |  |
 | [11–12 February 2020](2020-02-12-EMG.html) | EMG <br> Rai 3 | 17 | 16–18 | 16–19 | 16–20 | 15–20 |
 | [12 February 2020](2020-02-12-Demopolis.html) | Demopolis <br> La7 | 14 | 13–16 | 13–16 | 12–17 | 12–17 |
 | [11 February 2020](2020-02-11-Ixè.html) | Ixè <br> Rai 3 | 17 | 16–19 | 15–20 | 15–20 | 14–20 |
@@ -524,36 +539,36 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [30 July–1 August 2019](2019-08-01-Tecnè.html) | Tecnè <br> Dire | 17 | 16–18 | 15–19 | 15–19 | 15–20 |
 | [30–31 July 2019](2019-07-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 15 | 14–17 | 13–17 | 13–17 | 13–18 |
 | [27–30 July 2019](2019-07-30-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 18 | 16–19 | 16–19 | 16–19 | 15–20 |
-| [24–29 July 2019](2019-07-29-SWG.html) | SWG <br> La7 | 17 | 15–18 | 15–19 | 15–19 | 15–19 |
-| [24–25 July 2019](2019-07-25-Tecnè.html) | Tecnè <br> Dire | 16 | 15–19 | 15–19 | 15–19 | 15–20 |
-| [22–24 July 2019](2019-07-24-Demopolis.html) | Demopolis <br> La7 | 16 | 16–17 | 15–18 | 15–18 | 14–18 |
+| [24–29 July 2019](2019-07-29-SWG.html) | SWG <br> La7 | 17 | 15–18 | 15–18 | 15–18 | 14–19 |
+| [24–25 July 2019](2019-07-25-Tecnè.html) | Tecnè <br> Dire | 17 | 16–19 | 15–19 | 15–20 | 15–20 |
+| [22–24 July 2019](2019-07-24-Demopolis.html) | Demopolis <br> La7 | 16 | 15–17 | 15–17 | 15–18 | 14–18 |
 | [17–22 July 2019](2019-07-22-SWG.html) | SWG <br> La7 | 15 | 14–17 | 14–17 | 14–17 | 14–19 |
-| [22 July 2019](2019-07-22-Euromedia.html) | Euromedia | 15 | 14–15 | 14–16 | 14–16 | 14–16 |
-| [16–18 July 2019](2019-07-18-TermometroPolitico.html) | Termometro Politico | 17 | 17 | 17–18 | 16–19 | 15–19 |
-| [17–18 July 2019](2019-07-18-Tecnè.html) | Tecnè <br> Rete 4 | 18 | 18–19 | 18–19 | 18–19 | 16–19 |
-| [16–18 July 2019](2019-07-18-Ipsos.html) | Ipsos <br> Corriere della Sera | 18 | 16–18 | 14–18 | 13–18 | 12–20 |
-| [15–18 July 2019](2019-07-18-GPF.html) | GPF <br> La Notizia | 16 | 16 | 16 | 16–17 | 15–18 |
-| [10–15 July 2019](2019-07-15-SWG.html) | SWG <br> LA7 | 17 | 16–17 | 16–18 | 15–18 | 15–18 |
-| [15 July 2019](2019-07-15-Piepoli.html) | Piepoli <br> Rai 1 | 19 | 16–20 | 15–20 | 15–20 | 15–20 |
-| [9–12 July 2019](2019-07-12-TermometroPolitico.html) | Termometro Politico | 16 | 16–17 | 16–17 | 15–19 | 15–19 |
+| [22 July 2019](2019-07-22-Euromedia.html) | Euromedia | 15 | 14–16 | 13–17 | 13–17 | 12–18 |
+| [16–18 July 2019](2019-07-18-TermometroPolitico.html) | Termometro Politico | 17 | 16–18 | 16–19 | 16–19 | 15–20 |
+| [17–18 July 2019](2019-07-18-Tecnè.html) | Tecnè <br> Rete 4 | 18 | 17–20 | 16–20 | 16–20 | 15–21 |
+| [16–18 July 2019](2019-07-18-Ipsos.html) | Ipsos <br> Corriere della Sera | 16 | 15–18 | 14–18 | 14–19 | 13–19 |
+| [15–18 July 2019](2019-07-18-GPF.html) | GPF <br> La Notizia | 17 | 15–19 | 15–19 | 15–19 | 14–20 |
+| [10–15 July 2019](2019-07-15-SWG.html) | SWG <br> LA7 | 17 | 16–18 | 15–18 | 15–19 | 14–19 |
+| [15 July 2019](2019-07-15-Piepoli.html) | Piepoli <br> Rai 1 | 17 | 15–19 | 14–19 | 14–20 | 13–21 |
+| [9–12 July 2019](2019-07-12-TermometroPolitico.html) | Termometro Politico | 17 | 16–18 | 16–19 | 15–19 | 15–19 |
 | [10–11 July 2019](2019-07-11-Tecnè.html) | Tecnè <br> Rete 4 | 17 | 17 | 16–18 | 16–18 | 16–18 |
 | [8–10 July 2019](2019-07-10-GPF.html) | GPF <br> Rete 4 | 17 | 16–17 | 15–17 | 15–17 | 15–18 |
-| [8–10 July 2019](2019-07-10-DemosPi.html) | Demos & Pi | 17 | 17–18 | 16–19 | 15–19 | 14–19 |
-| [7–8 July 2019](2019-07-08-Tecnè.html) | Tecnè <br> Rete 4 | 18 | 16–19 | 16–20 | 16–20 | 15–20 |
+| [8–10 July 2019](2019-07-10-DemosPi.html) | Demos & Pi | 17 | 16–18 | 15–18 | 15–19 | 14–20 |
+| [7–8 July 2019](2019-07-08-Tecnè.html) | Tecnè <br> Rete 4 | 17 | 15–18 | 15–18 | 15–19 | 14–19 |
 | [3–8 July 2019](2019-07-08-SWG.html) | SWG <br> La7 | 17 | 17–18 | 17–18 | 16–18 | 15–19 |
-| [5 July 2019](2019-07-05-NotoSondaggi.html) | Noto Sondaggi <br> Quotidiano Nazionale | 18 | 17–20 | 17–20 | 17–20 | 17–20 |
+| [5 July 2019](2019-07-05-NotoSondaggi.html) | Noto Sondaggi <br> Quotidiano Nazionale | 19 | 17–20 | 17–20 | 16–21 | 16–21 |
 | [1–4 July 2019](2019-07-04-TermometroPolitico.html) | Termometro Politico <br> La7 | 17 | 17–18 | 17–18 | 17–18 | 17–18 |
-| [29 June–4 July 2019](2019-07-04-BiDiMedia.html) | BiDiMedia | 17 | 16–18 | 16–18 | 16–18 | 16–20 |
+| [29 June–4 July 2019](2019-07-04-BiDiMedia.html) | BiDiMedia | 18 | 17–19 | 16–19 | 16–19 | 16–20 |
 | [26 June–1 July 2019](2019-07-01-SWG.html) | SWG <br> La7 | 16 | 16–17 | 16–17 | 16–17 | 16–17 |
 | [27 June 2019](2019-06-27-EMG.html) | EMG <br> Rai 3 | 19 | 18–21 | 17–21 | 16–21 | 16–21 |
-| [1–26 June 2019](2019-06-26-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 17 | 17 | 17 | 17 | 17–19 |
-| [25–26 June 2019](2019-06-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 19 | 18–20 | 18–20 | 17–20 | 17–20 |
-| [23–24 June 2019](2019-06-24-Tecnè.html) | Tecnè <br> Rete 4 | 16 | 16–19 | 16–19 | 16–19 | 15–20 |
+| [1–26 June 2019](2019-06-26-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 19 | 18–20 | 17–21 | 17–21 | 17–22 |
+| [25–26 June 2019](2019-06-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 19 | 18–21 | 17–21 | 17–21 | 16–22 |
+| [23–24 June 2019](2019-06-24-Tecnè.html) | Tecnè <br> Rete 4 | 17 | 15–18 | 15–18 | 15–19 | 14–19 |
 | [19–24 June 2019](2019-06-24-SWG.html) | SWG <br> La7 | 15 | 15–17 | 15–18 | 15–19 | 15–19 |
-| [19–20 June 2019](2019-06-20-Demopolis.html) | Demopolis <br> La7 | 15 | 14–15 | 14–15 | 14–15 | 14–15 |
-| [1–18 June 2019](2019-06-18-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 18 | 17–19 | 17–19 | 17–19 | 17–19 |
-| [18 June 2019](2019-06-18-EMG.html) | EMG <br> Rai 3 | 21 | 18–21 | 18–21 | 17–21 | 17–21 |
-| [12–17 June 2019](2019-06-17-SWG.html) | SWG <br> LA7 | 17 | 17–18 | 16–18 | 15–18 | 15–18 |
+| [19–20 June 2019](2019-06-20-Demopolis.html) | Demopolis <br> La7 | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
+| [1–18 June 2019](2019-06-18-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 18 | 16–20 | 16–20 | 16–21 | 15–21 |
+| [18 June 2019](2019-06-18-EMG.html) | EMG <br> Rai 3 | 19 | 18–20 | 18–21 | 18–21 | 17–21 |
+| [12–17 June 2019](2019-06-17-SWG.html) | SWG <br> LA7 | 17 | 16–18 | 16–19 | 15–19 | 15–20 |
 | [13 June 2019](2019-06-13-IndexResearch.html) | Index Research <br> LA7 | 17 | 16–19 | 15–19 | 15–20 | 14–21 |
 | [11 June 2019](2019-06-11-EMG.html) | EMG <br> Rai 3 | 19 | 18–20 | 17–20 | 17–20 | 16–21 |
 | [9–10 June 2019](2019-06-10-Tecnè.html) | Tecnè <br> Rete 4 | 17 | 16–18 | 15–19 | 15–19 | 14–20 |
@@ -565,8 +580,8 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [2–3 June 2019](2019-06-03-Tecnè.html) | Tecnè <br> Rete 4 | 17 | 16–18 | 15–19 | 15–19 | 15–20 |
 | [29 May–3 June 2019](2019-06-03-SWG.html) | SWG <br> LA7 | 18 | 17–19 | 16–19 | 16–20 | 16–20 |
 | [1 June 2019](2019-06-01-EMG.html) | EMG <br> Affari Internazionali | 19 | 18–20 | 17–20 | 17–21 | 16–21 |
-| [30 May 2019](2019-05-30-Piepoli.html) | Piepoli <br> Rai 1 | 17 | 16–19 | 16–19 | 15–19 | 15–20 |
-| [28–29 May 2019](2019-05-29-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 18 | 17–19 | 16–19 | 16–19 | 16–21 |
+| [30 May 2019](2019-05-30-Piepoli.html) | Piepoli <br> Rai 1 | 17 | 16–19 | 16–19 | 15–20 | 15–20 |
+| [28–29 May 2019](2019-05-29-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 18 | 17–19 | 17–20 | 16–20 | 16–21 |
 
 ### Probability Mass Function
 
@@ -576,21 +591,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 0.1% | 100% |  |
-| 12 | 1.3% | 99.9% |  |
-| 13 | 4% | 98.7% |  |
-| 14 | 13% | 94% |  |
-| 15 | 14% | 81% |  |
-| 16 | 18% | 67% | Median |
-| 17 | 20% | 49% |  |
-| 18 | 14% | 29% |  |
-| 19 | 5% | 14% |  |
-| 20 | 5% | 9% |  |
-| 21 | 2% | 4% |  |
-| 22 | 1.4% | 2% |  |
-| 23 | 0.4% | 0.5% |  |
-| 24 | 0.2% | 0.2% |  |
-| 25 | 0% | 0% |  |
+| 12 | 0.2% | 100% |  |
+| 13 | 0.7% | 99.8% |  |
+| 14 | 3% | 99.1% |  |
+| 15 | 8% | 96% |  |
+| 16 | 19% | 89% |  |
+| 17 | 28% | 70% | Median |
+| 18 | 17% | 42% |  |
+| 19 | 10% | 25% |  |
+| 20 | 8% | 15% |  |
+| 21 | 4% | 7% |  |
+| 22 | 2% | 3% |  |
+| 23 | 0.6% | 0.9% |  |
+| 24 | 0.3% | 0.3% |  |
+| 25 | 0% | 0.1% |  |
 | 26 | 0% | 0% |  |
 | 27 | 0% | 0% |  |
 | 28 | 0% | 0% |  |
