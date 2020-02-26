@@ -10,7 +10,15 @@ Last result: **21.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.2% | 11.9–16.0% | 10.9–16.6% | 10.1–17.2% | 9.0–18.4% |
+| N/A | [Poll Average](average.html) | 13.8% | 10.8–16.0% | 10.0–16.7% | 9.5–17.5% | 8.7–18.9% |
+| [19–24 February 2020](2020-02-24-SWG.html) | SWG <br> Agenzia Dire | 13.4% | N/A | N/A | N/A | N/A |
+| [20–21 February 2020](2020-02-21-Tecnè.html) | Tecnè <br> Quarta Repubblica | 13.3% | N/A | N/A | N/A | N/A |
+| [19–20 February 2020](2020-02-20-TermometroPolitico.html) | Termometro Politico <br> La7 | 15.2% | N/A | N/A | N/A | N/A |
+| [19 February 2020](2020-02-19-Index.html) | Index <br> La7 | 14.2% | N/A | N/A | N/A | N/A |
+| [18–19 February 2020](2020-02-19-EMG.html) | EMG <br> Rai 3 | 14.4% | N/A | N/A | N/A | N/A |
+| [17–18 February 2020](2020-02-18-Ixè.html) | Ixè <br> Agenzia Dire | 14.9% | N/A | N/A | N/A | N/A |
+| [17–18 February 2020](2020-02-18-Euromedia.html) | Euromedia <br> Rai 1 | 14.4% | N/A | N/A | N/A | N/A |
+| [16–18 February 2020](2020-02-18-Demopolis.html) | Demopolis | 14.5% | N/A | N/A | N/A | N/A |
 | [16–17 February 2020](2020-02-17-Tecnè.html) | Tecnè <br> Quarta Repubblica | 13.4% | 12.1–14.9% | 11.7–15.3% | 11.4–15.7% | 10.8–16.4% |
 | [12–17 February 2020](2020-02-17-SWG.html) | SWG <br> La7 | 13.0% | 11.8–14.3% | 11.5–14.7% | 11.2–15.0% | 10.7–15.7% |
 | [13–14 February 2020](2020-02-14-Tecnè.html) | Tecnè <br> Agenzia Dire | 13.5% | 12.2–15.0% | 11.8–15.4% | 11.5–15.8% | 10.9–16.5% |
@@ -282,19 +290,19 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0.2% | 100% |  |
-| 8.5–9.5% | 1.1% | 99.8% |  |
-| 9.5–10.5% | 3% | 98.8% |  |
-| 10.5–11.5% | 4% | 96% |  |
-| 11.5–12.5% | 8% | 92% |  |
-| 12.5–13.5% | 17% | 84% |  |
-| 13.5–14.5% | 26% | 67% | Median |
-| 14.5–15.5% | 24% | 41% |  |
-| 15.5–16.5% | 11% | 16% |  |
-| 16.5–17.5% | 4% | 5% |  |
-| 17.5–18.5% | 1.1% | 2% |  |
-| 18.5–19.5% | 0.3% | 0.4% |  |
-| 19.5–20.5% | 0.1% | 0.1% |  |
+| 7.5–8.5% | 0.4% | 100% |  |
+| 8.5–9.5% | 2% | 99.6% |  |
+| 9.5–10.5% | 6% | 97% |  |
+| 10.5–11.5% | 7% | 92% |  |
+| 11.5–12.5% | 10% | 84% |  |
+| 12.5–13.5% | 17% | 74% |  |
+| 13.5–14.5% | 24% | 57% | Median |
+| 14.5–15.5% | 18% | 33% |  |
+| 15.5–16.5% | 9% | 15% |  |
+| 16.5–17.5% | 4% | 6% |  |
+| 17.5–18.5% | 2% | 2% |  |
+| 18.5–19.5% | 0.6% | 0.8% |  |
+| 19.5–20.5% | 0.2% | 0.2% |  |
 | 20.5–21.5% | 0% | 0% | Last Result |
 
 
@@ -306,7 +314,15 @@ Last result: **17** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 10–14 | 9–14 | 9–15 | 8–16 |
+| N/A | [Poll Average](average.html) | 12 | 9–13 | 9–14 | 8–15 | 7–16 |
+| [19–24 February 2020](2020-02-24-SWG.html) | SWG <br> Agenzia Dire |  |  |  |  |  |
+| [20–21 February 2020](2020-02-21-Tecnè.html) | Tecnè <br> Quarta Repubblica |  |  |  |  |  |
+| [19–20 February 2020](2020-02-20-TermometroPolitico.html) | Termometro Politico <br> La7 |  |  |  |  |  |
+| [19 February 2020](2020-02-19-Index.html) | Index <br> La7 |  |  |  |  |  |
+| [18–19 February 2020](2020-02-19-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
+| [17–18 February 2020](2020-02-18-Ixè.html) | Ixè <br> Agenzia Dire |  |  |  |  |  |
+| [17–18 February 2020](2020-02-18-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
+| [16–18 February 2020](2020-02-18-Demopolis.html) | Demopolis |  |  |  |  |  |
 | [16–17 February 2020](2020-02-17-Tecnè.html) | Tecnè <br> Quarta Repubblica | 12 | 11–13 | 10–13 | 10–14 | 10–14 |
 | [12–17 February 2020](2020-02-17-SWG.html) | SWG <br> La7 | 12 | 11–12 | 10–13 | 10–13 | 9–14 |
 | [13–14 February 2020](2020-02-14-Tecnè.html) | Tecnè <br> Agenzia Dire | 12 | 10–13 | 10–14 | 10–14 | 10–14 |
@@ -579,15 +595,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 0.4% | 100% |  |
-| 8 | 2% | 99.6% |  |
-| 9 | 4% | 98% |  |
-| 10 | 9% | 94% |  |
-| 11 | 18% | 85% |  |
-| 12 | 34% | 67% | Median |
-| 13 | 21% | 33% |  |
-| 14 | 8% | 12% |  |
-| 15 | 3% | 4% |  |
+| 7 | 0.8% | 100% |  |
+| 8 | 4% | 99.1% |  |
+| 9 | 8% | 95% |  |
+| 10 | 14% | 87% |  |
+| 11 | 22% | 73% |  |
+| 12 | 27% | 52% | Median |
+| 13 | 16% | 24% |  |
+| 14 | 4% | 8% |  |
+| 15 | 4% | 5% |  |
 | 16 | 0.6% | 0.6% |  |
 | 17 | 0.1% | 0.1% | Last Result |
 | 18 | 0% | 0% |  |
