@@ -10,9 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.4% | 1.5–3.4% | 1.2–3.8% | 0.9–4.1% | 0.5–4.7% |
+| N/A | [Poll Average](average.html) | 2.5% | 1.8–3.5% | 1.6–3.8% | 1.5–4.1% | 1.2–4.7% |
 | [24–25 February 2020](2020-02-25-Ixè.html) | Ixè <br> Rai 3 | 1.7% | 1.3–2.4% | 1.2–2.5% | 1.1–2.7% | 0.9–3.1% |
 | [19–24 February 2020](2020-02-24-SWG.html) | SWG <br> Agenzia Dire | 3.1% | 2.5–3.8% | 2.4–4.0% | 2.2–4.2% | 2.0–4.6% |
+| [20–22 February 2020](2020-02-22-Piepoli.html) | Piepoli <br> Rai 2 | 1.0% | N/A | N/A | N/A | N/A |
 | [20–21 February 2020](2020-02-21-Tecnè.html) | Tecnè <br> Quarta Repubblica | 2.4% | 1.9–3.2% | 1.7–3.4% | 1.6–3.6% | 1.4–3.9% |
 | [19–20 February 2020](2020-02-20-TermometroPolitico.html) | Termometro Politico <br> La7 | 2.3% | 2.0–2.7% | 1.9–2.8% | 1.8–2.9% | 1.7–3.1% |
 | [19 February 2020](2020-02-19-Index.html) | Index <br> La7 | 2.2% | 1.7–3.1% | 1.6–3.3% | 1.4–3.5% | 1.2–4.0% |
@@ -290,12 +291,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.5% | 100% | Last Result |
-| 0.5–1.5% | 10% | 99.5% |  |
-| 1.5–2.5% | 48% | 90% | Median |
-| 2.5–3.5% | 34% | 42% |  |
-| 3.5–4.5% | 7% | 8% |  |
-| 4.5–5.5% | 0.7% | 0.7% |  |
+| 0.0–0.5% | 0% | 100% | Last Result |
+| 0.5–1.5% | 4% | 100% |  |
+| 1.5–2.5% | 50% | 96% | Median |
+| 2.5–3.5% | 37% | 46% |  |
+| 3.5–4.5% | 8% | 9% |  |
+| 4.5–5.5% | 0.8% | 0.8% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -310,6 +311,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–4 |
 | [24–25 February 2020](2020-02-25-Ixè.html) | Ixè <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [19–24 February 2020](2020-02-24-SWG.html) | SWG <br> Agenzia Dire | 0 | 0 | 0 | 0–4 | 0–4 |
+| [20–22 February 2020](2020-02-22-Piepoli.html) | Piepoli <br> Rai 2 |  |  |  |  |  |
 | [20–21 February 2020](2020-02-21-Tecnè.html) | Tecnè <br> Quarta Repubblica | 0 | 0 | 0 | 0 | 0 |
 | [19–20 February 2020](2020-02-20-TermometroPolitico.html) | Termometro Politico <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [19 February 2020](2020-02-19-Index.html) | Index <br> La7 | 0 | 0 | 0 | 0 | 0–3 |
