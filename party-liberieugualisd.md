@@ -10,10 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.7% | 2.0–3.7% | 1.9–4.0% | 1.7–4.3% | 1.5–4.8% |
+| N/A | [Poll Average](average.html) | 2.7% | 1.9–3.7% | 1.7–4.0% | 1.5–4.3% | 1.2–4.8% |
+| [26–27 February 2020](2020-02-27-TermometroPolitico.html) | Termometro Politico <br> La7 | 2.0% | 1.7–2.4% | 1.6–2.6% | 1.5–2.7% | 1.3–2.9% |
+| [25–26 February 2020](2020-02-26-EMG.html) | EMG | 2.8% | N/A | N/A | N/A | N/A |
 | [24–25 February 2020](2020-02-25-Ixè.html) | Ixè <br> Rai 3 | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
 | [19–24 February 2020](2020-02-24-SWG.html) | SWG <br> Agenzia Dire | 3.3% | 2.8–4.1% | 2.6–4.3% | 2.5–4.5% | 2.2–4.9% |
-| [20–22 February 2020](2020-02-22-Piepoli.html) | Piepoli <br> Rai 2 | 2.0% | N/A | N/A | N/A | N/A |
+| [20–22 February 2020](2020-02-22-Piepoli.html) | Piepoli <br> Rai 2 | 2.0% | 1.4–3.0% | 1.2–3.4% | 1.1–3.6% | 0.9–4.2% |
 | [20–21 February 2020](2020-02-21-Tecnè.html) | Tecnè <br> Quarta Repubblica | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
 | [19–20 February 2020](2020-02-20-TermometroPolitico.html) | Termometro Politico <br> La7 | 2.3% | 2.0–2.7% | 1.9–2.8% | 1.8–2.9% | 1.7–3.1% |
 | [19 February 2020](2020-02-19-Index.html) | Index <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
@@ -292,11 +294,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.9% | 100% |  |
-| 1.5–2.5% | 39% | 99.1% |  |
-| 2.5–3.5% | 47% | 60% | Median |
+| 0.5–1.5% | 3% | 100% |  |
+| 1.5–2.5% | 42% | 97% |  |
+| 2.5–3.5% | 42% | 56% | Median |
 | 3.5–4.5% | 12% | 13% |  |
-| 4.5–5.5% | 1.0% | 1.0% |  |
+| 4.5–5.5% | 1.0% | 1.1% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -309,9 +311,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–3 | 0–4 |
+| [26–27 February 2020](2020-02-27-TermometroPolitico.html) | Termometro Politico <br> La7 | 0 | 0 | 0 | 0 | 0 |
+| [25–26 February 2020](2020-02-26-EMG.html) | EMG |  |  |  |  |  |
 | [24–25 February 2020](2020-02-25-Ixè.html) | Ixè <br> Rai 3 | 0 | 0 | 0 | 0 | 0–4 |
 | [19–24 February 2020](2020-02-24-SWG.html) | SWG <br> Agenzia Dire | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
-| [20–22 February 2020](2020-02-22-Piepoli.html) | Piepoli <br> Rai 2 |  |  |  |  |  |
+| [20–22 February 2020](2020-02-22-Piepoli.html) | Piepoli <br> Rai 2 | 0 | 0 | 0 | 0 | 0–3 |
 | [20–21 February 2020](2020-02-21-Tecnè.html) | Tecnè <br> Quarta Repubblica | 0 | 0 | 0 | 0 | 0 |
 | [19–20 February 2020](2020-02-20-TermometroPolitico.html) | Termometro Politico <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [19 February 2020](2020-02-19-Index.html) | Index <br> La7 |  |  |  |  |  |
