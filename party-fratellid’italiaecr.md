@@ -474,7 +474,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [16–17 October 2019](2019-10-17-EMG.html) | EMG <br> Rai 3 | 7 | 5–7 | 5–8 | 5–8 | 5–8 |
 | [14–15 October 2019](2019-10-15-Ixè.html) | Ixè <br> Rai 3 | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | [13–14 October 2019](2019-10-14-Tecnè.html) | Tecnè <br> Rete 4 | 6 | 5–8 | 5–8 | 5–8 | 5–8 |
-| [9–14 October 2019](2019-10-14-SWG.html) | SWG <br> La7 | 6 | 6–7 | 6–7 | 6–8 | 5–8 |
+| [9–14 October 2019](2019-10-14-SWG.html) | SWG <br> La7 | 7 | 6–7 | 6–8 | 5–8 | 5–8 |
 | [10–11 October 2019](2019-10-11-Tecnè.html) | Tecnè <br> Agenzia Dire | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
 | [9–11 October 2019](2019-10-11-Demopolis.html) | Demopolis <br> Rai 3 | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | [9–10 October 2019](2019-10-10-TermometroPolitico.html) | Termometro Politico <br> La7 | 7 | 6–7 | 6–7 | 6–7 | 5–8 |
