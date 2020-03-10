@@ -11,7 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.3% | 1.6–3.2% | 1.4–3.5% | 1.3–3.7% | 1.0–4.2% |
-| [6–7 March 2020](2020-03-07-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 2.1% | N/A | N/A | N/A | N/A |
+| [6–7 March 2020](2020-03-07-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
 | [4 March 2020](2020-03-04-Index.html) | Index <br> La7 | 2.2% | N/A | N/A | N/A | N/A |
 | [3–4 March 2020](2020-03-04-EMG.html) | EMG | 2.2% | N/A | N/A | N/A | N/A |
 | [2–3 March 2020](2020-03-03-Ixè.html) | Ixè <br> Rai 3 | 1.5% | N/A | N/A | N/A | N/A |
@@ -319,7 +319,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–4 |
-| [6–7 March 2020](2020-03-07-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll |  |  |  |  |  |
+| [6–7 March 2020](2020-03-07-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 0 | 0 | 0 | 0 | 0 |
 | [4 March 2020](2020-03-04-Index.html) | Index <br> La7 |  |  |  |  |  |
 | [3–4 March 2020](2020-03-04-EMG.html) | EMG |  |  |  |  |  |
 | [2–3 March 2020](2020-03-03-Ixè.html) | Ixè <br> Rai 3 |  |  |  |  |  |
