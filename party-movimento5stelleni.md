@@ -10,13 +10,13 @@ Last result: **21.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.3% | 12.6–15.9% | 12.2–16.3% | 11.8–16.7% | 11.0–17.6% |
+| N/A | [Poll Average](average.html) | 14.3% | 12.6–15.9% | 12.2–16.4% | 11.7–16.8% | 11.0–17.8% |
 | [6–7 March 2020](2020-03-07-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 12.5% | 11.2–13.9% | 10.9–14.3% | 10.6–14.7% | 10.0–15.4% |
-| [4 March 2020](2020-03-04-Index.html) | Index <br> La7 | 14.8% | N/A | N/A | N/A | N/A |
-| [3–4 March 2020](2020-03-04-EMG.html) | EMG | 14.7% | N/A | N/A | N/A | N/A |
-| [2–3 March 2020](2020-03-03-Ixè.html) | Ixè <br> Rai 3 | 15.7% | N/A | N/A | N/A | N/A |
-| [26 February–2 March 2020](2020-03-02-SWG.html) | SWG <br> La7 | 13.7% | N/A | N/A | N/A | N/A |
-| [25–29 February 2020](2020-02-29-Piepoli.html) | Piepoli <br> Rai 2 | 14.5% | N/A | N/A | N/A | N/A |
+| [4 March 2020](2020-03-04-Index.html) | Index <br> La7 | 14.8% | 13.2–16.5% | 12.8–17.0% | 12.5–17.4% | 11.8–18.2% |
+| [3–4 March 2020](2020-03-04-EMG.html) | EMG | 14.7% | 13.7–15.9% | 13.4–16.2% | 13.1–16.4% | 12.6–17.0% |
+| [2–3 March 2020](2020-03-03-Ixè.html) | Ixè <br> Rai 3 | 15.7% | 14.3–17.3% | 13.9–17.7% | 13.6–18.1% | 12.9–18.9% |
+| [26 February–2 March 2020](2020-03-02-SWG.html) | SWG <br> La7 | 13.7% | 12.5–15.0% | 12.1–15.4% | 11.8–15.7% | 11.3–16.4% |
+| [25–29 February 2020](2020-02-29-Piepoli.html) | Piepoli <br> Rai 2 | 14.5% | 12.6–16.7% | 12.1–17.3% | 11.7–17.8% | 10.8–18.9% |
 | [27–28 February 2020](2020-02-28-Tecnè.html) | Tecnè <br> Agenzia Dire | 13.4% | 12.1–14.9% | 11.7–15.3% | 11.4–15.7% | 10.8–16.4% |
 | [26–27 February 2020](2020-02-27-TermometroPolitico.html) | Termometro Politico <br> La7 | 15.3% | 14.4–16.4% | 14.1–16.6% | 13.9–16.9% | 13.4–17.4% |
 | [27 February 2020](2020-02-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 14.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.3% | 11.4–17.0% |
@@ -303,14 +303,14 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0.1% | 100% |  |
-| 10.5–11.5% | 2% | 99.9% |  |
+| 10.5–11.5% | 2% | 99.8% |  |
 | 11.5–12.5% | 7% | 98% |  |
 | 12.5–13.5% | 19% | 91% |  |
 | 13.5–14.5% | 30% | 72% | Median |
-| 14.5–15.5% | 27% | 42% |  |
-| 15.5–16.5% | 12% | 15% |  |
-| 16.5–17.5% | 3% | 3% |  |
-| 17.5–18.5% | 0.5% | 0.5% |  |
+| 14.5–15.5% | 26% | 43% |  |
+| 15.5–16.5% | 12% | 16% |  |
+| 16.5–17.5% | 3% | 4% |  |
+| 17.5–18.5% | 0.6% | 0.8% |  |
 | 18.5–19.5% | 0.1% | 0.1% |  |
 | 19.5–20.5% | 0% | 0% |  |
 | 20.5–21.5% | 0% | 0% | Last Result |
@@ -324,13 +324,13 @@ Last result: **17** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 11–14 | 10–14 | 10–14 | 9–15 |
+| N/A | [Poll Average](average.html) | 12 | 11–14 | 10–14 | 10–15 | 9–16 |
 | [6–7 March 2020](2020-03-07-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 11 | 10–12 | 10–12 | 10–13 | 10–14 |
-| [4 March 2020](2020-03-04-Index.html) | Index <br> La7 |  |  |  |  |  |
-| [3–4 March 2020](2020-03-04-EMG.html) | EMG |  |  |  |  |  |
-| [2–3 March 2020](2020-03-03-Ixè.html) | Ixè <br> Rai 3 |  |  |  |  |  |
-| [26 February–2 March 2020](2020-03-02-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [25–29 February 2020](2020-02-29-Piepoli.html) | Piepoli <br> Rai 2 |  |  |  |  |  |
+| [4 March 2020](2020-03-04-Index.html) | Index <br> La7 | 12 | 11–14 | 11–14 | 11–14 | 10–15 |
+| [3–4 March 2020](2020-03-04-EMG.html) | EMG | 11 | 11–12 | 11–13 | 11–14 | 11–14 |
+| [2–3 March 2020](2020-03-03-Ixè.html) | Ixè <br> Rai 3 | 14 | 13–15 | 12–16 | 12–16 | 11–16 |
+| [26 February–2 March 2020](2020-03-02-SWG.html) | SWG <br> La7 | 13 | 12–14 | 11–14 | 11–14 | 10–15 |
+| [25–29 February 2020](2020-02-29-Piepoli.html) | Piepoli <br> Rai 2 | 12 | 10–14 | 10–14 | 9–15 | 9–16 |
 | [27–28 February 2020](2020-02-28-Tecnè.html) | Tecnè <br> Agenzia Dire | 12 | 10–13 | 10–13 | 10–14 | 9–14 |
 | [26–27 February 2020](2020-02-27-TermometroPolitico.html) | Termometro Politico <br> La7 | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
 | [27 February 2020](2020-02-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 12 | 11–14 | 10–14 | 10–14 | 9–15 |
@@ -618,13 +618,13 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 8 | 0.1% | 100% |  |
-| 9 | 0.7% | 99.9% |  |
-| 10 | 8% | 99.2% |  |
-| 11 | 23% | 92% |  |
-| 12 | 34% | 68% | Median |
+| 9 | 0.9% | 99.9% |  |
+| 10 | 8% | 99.0% |  |
+| 11 | 23% | 91% |  |
+| 12 | 33% | 68% | Median |
 | 13 | 22% | 35% |  |
-| 14 | 10% | 12% |  |
-| 15 | 2% | 2% |  |
+| 14 | 10% | 13% |  |
+| 15 | 2% | 3% |  |
 | 16 | 0.5% | 0.5% |  |
 | 17 | 0% | 0% | Last Result |
 

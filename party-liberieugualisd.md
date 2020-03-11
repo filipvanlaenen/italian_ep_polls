@@ -10,13 +10,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.6% | 1.8–3.7% | 1.6–4.0% | 1.5–4.2% | 1.2–4.8% |
+| N/A | [Poll Average](average.html) | 2.6% | 1.8–3.6% | 1.6–3.9% | 1.4–4.2% | 1.1–4.7% |
 | [6–7 March 2020](2020-03-07-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.0–4.1% | 1.8–4.6% |
 | [4 March 2020](2020-03-04-Index.html) | Index <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
-| [3–4 March 2020](2020-03-04-EMG.html) | EMG | 2.9% | N/A | N/A | N/A | N/A |
-| [2–3 March 2020](2020-03-03-Ixè.html) | Ixè <br> Rai 3 | 2.8% | N/A | N/A | N/A | N/A |
-| [26 February–2 March 2020](2020-03-02-SWG.html) | SWG <br> La7 | 3.6% | N/A | N/A | N/A | N/A |
-| [25–29 February 2020](2020-02-29-Piepoli.html) | Piepoli <br> Rai 2 | 2.0% | N/A | N/A | N/A | N/A |
+| [3–4 March 2020](2020-03-04-EMG.html) | EMG | 2.9% | 2.5–3.5% | 2.3–3.7% | 2.2–3.8% | 2.0–4.1% |
+| [2–3 March 2020](2020-03-03-Ixè.html) | Ixè <br> Rai 3 | 2.8% | 2.2–3.6% | 2.1–3.8% | 1.9–4.0% | 1.7–4.4% |
+| [26 February–2 March 2020](2020-03-02-SWG.html) | SWG <br> La7 | 3.6% | 3.0–4.4% | 2.8–4.6% | 2.7–4.8% | 2.4–5.2% |
+| [25–29 February 2020](2020-02-29-Piepoli.html) | Piepoli <br> Rai 2 | 2.0% | 1.4–3.0% | 1.2–3.3% | 1.1–3.6% | 0.9–4.2% |
 | [27–28 February 2020](2020-02-28-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.6% | 2.1–3.4% | 1.9–3.6% | 1.8–3.8% | 1.6–4.2% |
 | [26–27 February 2020](2020-02-27-TermometroPolitico.html) | Termometro Politico <br> La7 | 2.0% | 1.7–2.4% | 1.6–2.6% | 1.5–2.7% | 1.3–2.9% |
 | [27 February 2020](2020-02-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 1.8% | 1.4–2.5% | 1.2–2.7% | 1.1–2.8% | 1.0–3.2% |
@@ -302,11 +302,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 3% | 100% |  |
-| 1.5–2.5% | 43% | 97% |  |
-| 2.5–3.5% | 42% | 54% | Median |
+| 0.5–1.5% | 4% | 100% |  |
+| 1.5–2.5% | 44% | 96% |  |
+| 2.5–3.5% | 40% | 52% | Median |
 | 3.5–4.5% | 11% | 12% |  |
-| 4.5–5.5% | 1.0% | 1.0% |  |
+| 4.5–5.5% | 0.9% | 0.9% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -321,10 +321,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–3 | 0–4 |
 | [6–7 March 2020](2020-03-07-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 0 | 0 | 0 | 0 | 0 |
 | [4 March 2020](2020-03-04-Index.html) | Index <br> La7 |  |  |  |  |  |
-| [3–4 March 2020](2020-03-04-EMG.html) | EMG |  |  |  |  |  |
-| [2–3 March 2020](2020-03-03-Ixè.html) | Ixè <br> Rai 3 |  |  |  |  |  |
-| [26 February–2 March 2020](2020-03-02-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [25–29 February 2020](2020-02-29-Piepoli.html) | Piepoli <br> Rai 2 |  |  |  |  |  |
+| [3–4 March 2020](2020-03-04-EMG.html) | EMG | 0 | 0 | 0 | 0 | 0 |
+| [2–3 March 2020](2020-03-03-Ixè.html) | Ixè <br> Rai 3 | 0 | 0 | 0 | 0–4 | 0–4 |
+| [26 February–2 March 2020](2020-03-02-SWG.html) | SWG <br> La7 | 4 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [25–29 February 2020](2020-02-29-Piepoli.html) | Piepoli <br> Rai 2 | 0 | 0 | 0 | 0 | 0–3 |
 | [27–28 February 2020](2020-02-28-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0–3 |
 | [26–27 February 2020](2020-02-27-TermometroPolitico.html) | Termometro Politico <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [27 February 2020](2020-02-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
@@ -611,10 +611,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 95% | 100% | Last Result, Median |
-| 1 | 0% | 5% |  |
-| 2 | 0% | 5% |  |
-| 3 | 2% | 5% |  |
+| 0 | 96% | 100% | Last Result, Median |
+| 1 | 0% | 4% |  |
+| 2 | 0% | 4% |  |
+| 3 | 2% | 4% |  |
 | 4 | 2% | 2% |  |
 | 5 | 0% | 0% |  |
 
