@@ -12,9 +12,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.8% | 1.1–2.8% | 0.9–3.1% | 0.8–3.3% | 0.6–3.8% |
 | [6–7 March 2020](2020-03-07-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.3% | 0.7–2.7% |
+| [5–6 March 2020](2020-03-06-Tecnè.html) | Tecnè | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
+| [4–5 March 2020](2020-03-05-TermometroPolitico.html) | Termometro Politico | 1.5% | 1.2–1.9% | 1.1–2.0% | 1.1–2.1% | 0.9–2.3% |
+| [5 March 2020](2020-03-05-Index.html) | Index | 2.1% | 1.6–2.9% | 1.4–3.2% | 1.3–3.4% | 1.1–3.8% |
 | [4 March 2020](2020-03-04-Index.html) | Index <br> La7 | 2.1% | 1.6–2.9% | 1.4–3.2% | 1.3–3.4% | 1.1–3.8% |
 | [3–4 March 2020](2020-03-04-EMG.html) | EMG | 1.8% | 1.5–2.3% | 1.4–2.5% | 1.3–2.6% | 1.1–2.8% |
 | [2–3 March 2020](2020-03-03-Ixè.html) | Ixè <br> Rai 3 | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
+| [3 March 2020](2020-03-03-Euromedia.html) | Euromedia | 2.0% | 1.5–2.8% | 1.4–3.0% | 1.2–3.2% | 1.0–3.7% |
 | [26 February–2 March 2020](2020-03-02-SWG.html) | SWG <br> La7 | 2.1% | 1.6–2.7% | 1.5–2.9% | 1.4–3.1% | 1.2–3.4% |
 | [25–29 February 2020](2020-02-29-Piepoli.html) | Piepoli <br> Rai 2 | 2.0% | 1.4–3.0% | 1.2–3.3% | 1.1–3.6% | 0.9–4.2% |
 | [27–28 February 2020](2020-02-28-Tecnè.html) | Tecnè <br> Agenzia Dire | 1.8% | 1.4–2.5% | 1.2–2.7% | 1.1–2.8% | 1.0–3.2% |
@@ -319,9 +323,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [6–7 March 2020](2020-03-07-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 0 | 0 | 0 | 0 | 0 |
+| [5–6 March 2020](2020-03-06-Tecnè.html) | Tecnè | 0 | 0 | 0 | 0 | 0 |
+| [4–5 March 2020](2020-03-05-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
+| [5 March 2020](2020-03-05-Index.html) | Index | 0 | 0 | 0 | 0 | 0 |
 | [4 March 2020](2020-03-04-Index.html) | Index <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [3–4 March 2020](2020-03-04-EMG.html) | EMG | 0 | 0 | 0 | 0 | 0 |
 | [2–3 March 2020](2020-03-03-Ixè.html) | Ixè <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
+| [3 March 2020](2020-03-03-Euromedia.html) | Euromedia | 0 | 0 | 0 | 0 | 0 |
 | [26 February–2 March 2020](2020-03-02-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [25–29 February 2020](2020-02-29-Piepoli.html) | Piepoli <br> Rai 2 | 0 | 0 | 0 | 0 | 0–3 |
 | [27–28 February 2020](2020-02-28-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |

@@ -12,9 +12,13 @@ Last result: **6.2%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 30.7% | 28.2–33.0% | 27.4–33.6% | 26.8–34.1% | 25.5–35.1% |
 | [6–7 March 2020](2020-03-07-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 31.1% | 29.3–33.0% | 28.7–33.6% | 28.3–34.0% | 27.4–35.0% |
+| [5–6 March 2020](2020-03-06-Tecnè.html) | Tecnè | 29.6% | 27.8–31.5% | 27.3–32.0% | 26.8–32.5% | 26.0–33.4% |
+| [4–5 March 2020](2020-03-05-TermometroPolitico.html) | Termometro Politico | 32.8% | 31.6–34.1% | 31.2–34.5% | 30.9–34.8% | 30.3–35.5% |
+| [5 March 2020](2020-03-05-Index.html) | Index | 30.2% | 28.2–32.4% | 27.6–33.0% | 27.2–33.5% | 26.2–34.6% |
 | [4 March 2020](2020-03-04-Index.html) | Index <br> La7 | 30.2% | 28.2–32.4% | 27.6–33.0% | 27.2–33.5% | 26.2–34.6% |
 | [3–4 March 2020](2020-03-04-EMG.html) | EMG | 29.6% | 28.2–31.0% | 27.8–31.4% | 27.5–31.8% | 26.8–32.5% |
 | [2–3 March 2020](2020-03-03-Ixè.html) | Ixè <br> Rai 3 | 27.2% | 25.4–29.1% | 25.0–29.6% | 24.5–30.1% | 23.7–31.0% |
+| [3 March 2020](2020-03-03-Euromedia.html) | Euromedia | 28.6% | 26.6–30.7% | 26.1–31.3% | 25.6–31.9% | 24.7–32.9% |
 | [26 February–2 March 2020](2020-03-02-SWG.html) | SWG <br> La7 | 30.9% | 29.2–32.7% | 28.8–33.2% | 28.4–33.6% | 27.6–34.4% |
 | [25–29 February 2020](2020-02-29-Piepoli.html) | Piepoli <br> Rai 2 | 30.6% | 28.0–33.3% | 27.3–34.0% | 26.7–34.7% | 25.5–36.0% |
 | [27–28 February 2020](2020-02-28-Tecnè.html) | Tecnè <br> Agenzia Dire | 30.2% | 28.4–32.1% | 27.9–32.6% | 27.4–33.1% | 26.6–34.0% |
@@ -344,10 +348,14 @@ Last result: **5** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 26 | 24–28 | 23–29 | 22–30 | 21–32 |
-| [6–7 March 2020](2020-03-07-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 28 | 28–29 | 27–30 | 26–30 | 24–31 |
+| [6–7 March 2020](2020-03-07-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 28 | 27–30 | 26–30 | 25–31 | 24–31 |
+| [5–6 March 2020](2020-03-06-Tecnè.html) | Tecnè | 26 | 24–28 | 24–28 | 23–28 | 22–30 |
+| [4–5 March 2020](2020-03-05-TermometroPolitico.html) | Termometro Politico | 29 | 27–30 | 27–30 | 26–30 | 26–31 |
+| [5 March 2020](2020-03-05-Index.html) | Index | 25 | 24–28 | 23–29 | 23–30 | 22–30 |
 | [4 March 2020](2020-03-04-Index.html) | Index <br> La7 | 26 | 24–27 | 23–27 | 23–28 | 22–29 |
 | [3–4 March 2020](2020-03-04-EMG.html) | EMG | 26 | 25–26 | 25–26 | 24–26 | 23–27 |
 | [2–3 March 2020](2020-03-03-Ixè.html) | Ixè <br> Rai 3 | 24 | 23–26 | 22–26 | 22–27 | 21–27 |
+| [3 March 2020](2020-03-03-Euromedia.html) | Euromedia | 24 | 22–27 | 22–27 | 21–28 | 20–28 |
 | [26 February–2 March 2020](2020-03-02-SWG.html) | SWG <br> La7 | 27 | 26–30 | 26–30 | 26–30 | 25–31 |
 | [25–29 February 2020](2020-02-29-Piepoli.html) | Piepoli <br> Rai 2 | 25 | 22–28 | 22–28 | 22–29 | 21–30 |
 | [27–28 February 2020](2020-02-28-Tecnè.html) | Tecnè <br> Agenzia Dire | 27 | 24–28 | 24–29 | 23–29 | 23–31 |
