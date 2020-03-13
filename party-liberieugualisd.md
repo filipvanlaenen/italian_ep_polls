@@ -323,7 +323,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–3 | 0–4 |
-| [6–7 March 2020](2020-03-07-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 0 | 0 | 0–3 | 0–4 | 0–4 |
+| [6–7 March 2020](2020-03-07-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 0 | 0 | 0–3 | 0–3 | 0–4 |
 | [5–6 March 2020](2020-03-06-Tecnè.html) | Tecnè | 0 | 0 | 0 | 0 | 0–4 |
 | [4–5 March 2020](2020-03-05-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [5 March 2020](2020-03-05-Index.html) | Index | 4 | 0–4 | 0–4 | 0–5 | 0–5 |

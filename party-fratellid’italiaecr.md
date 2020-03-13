@@ -331,12 +331,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10 | 9–12 | 8–13 | 8–13 | 7–14 |
-| [6–7 March 2020](2020-03-07-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 12 | 11–13 | 10–13 | 10–14 | 10–15 |
+| [6–7 March 2020](2020-03-07-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 12 | 11–13 | 10–14 | 10–14 | 9–14 |
 | [5–6 March 2020](2020-03-06-Tecnè.html) | Tecnè | 12 | 11–13 | 10–13 | 10–14 | 9–14 |
 | [4–5 March 2020](2020-03-05-TermometroPolitico.html) | Termometro Politico | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
 | [5 March 2020](2020-03-05-Index.html) | Index | 11 | 10–12 | 9–13 | 9–13 | 8–14 |
 | [4 March 2020](2020-03-04-Index.html) | Index <br> La7 | 10 | 9–11 | 9–12 | 9–12 | 8–13 |
-| [3–4 March 2020](2020-03-04-EMG.html) | EMG | 11 | 11 | 11 | 10–12 | 9–12 |
+| [3–4 March 2020](2020-03-04-EMG.html) | EMG | 11 | 9–12 | 9–12 | 9–12 | 9–12 |
 | [2–3 March 2020](2020-03-03-Ixè.html) | Ixè <br> Rai 3 | 12 | 11–14 | 10–14 | 10–14 | 10–14 |
 | [3 March 2020](2020-03-03-Euromedia.html) | Euromedia | 10 | 9–12 | 9–13 | 9–13 | 8–14 |
 | [26 February–2 March 2020](2020-03-02-SWG.html) | SWG <br> La7 | 11 | 10–12 | 9–12 | 9–13 | 9–13 |
