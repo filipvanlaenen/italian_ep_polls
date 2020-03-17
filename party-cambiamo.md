@@ -11,6 +11,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.8% | 0.3–1.5% | 0.2–1.7% | 0.2–1.9% | 0.1–2.2% |
+| [12–13 March 2020](2020-03-13-Tecnè.html) | Tecnè | 0.0% | N/A | N/A | N/A | N/A |
+| [11–12 March 2020](2020-03-12-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
+| [10–11 March 2020](2020-03-11-EMG.html) | EMG | 0.7% | 0.5–1.0% | 0.4–1.1% | 0.4–1.2% | 0.3–1.4% |
+| [9–11 March 2020](2020-03-11-BiDiMedia.html) | BiDiMedia | 0.5% | 0.3–0.8% | 0.2–0.9% | 0.2–1.0% | 0.2–1.2% |
+| [9–10 March 2020](2020-03-10-Ixè.html) | Ixè | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
+| [4–9 March 2020](2020-03-09-SWG.html) | SWG | 1.1% | N/A | N/A | N/A | N/A |
 | [6–7 March 2020](2020-03-07-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 0.0% | N/A | N/A | N/A | N/A |
 | [5–6 March 2020](2020-03-06-Tecnè.html) | Tecnè | 0.0% | N/A | N/A | N/A | N/A |
 | [4–5 March 2020](2020-03-05-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
@@ -321,6 +327,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [12–13 March 2020](2020-03-13-Tecnè.html) | Tecnè |  |  |  |  |  |
+| [11–12 March 2020](2020-03-12-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [10–11 March 2020](2020-03-11-EMG.html) | EMG | 0 | 0 | 0 | 0 | 0 |
+| [9–11 March 2020](2020-03-11-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
+| [9–10 March 2020](2020-03-10-Ixè.html) | Ixè | 0 | 0 | 0 | 0 | 0 |
+| [4–9 March 2020](2020-03-09-SWG.html) | SWG |  |  |  |  |  |
 | [6–7 March 2020](2020-03-07-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll |  |  |  |  |  |
 | [5–6 March 2020](2020-03-06-Tecnè.html) | Tecnè |  |  |  |  |  |
 | [4–5 March 2020](2020-03-05-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |

@@ -11,6 +11,12 @@ Last result: **40.8%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20.9% | 19.1–22.7% | 18.6–23.4% | 18.1–23.9% | 17.2–25.1% |
+| [12–13 March 2020](2020-03-13-Tecnè.html) | Tecnè | 22.0% | 20.4–23.7% | 19.9–24.2% | 19.5–24.7% | 18.8–25.5% |
+| [11–12 March 2020](2020-03-12-TermometroPolitico.html) | Termometro Politico | 21.0% | 19.9–22.1% | 19.6–22.5% | 19.3–22.8% | 18.8–23.3% |
+| [10–11 March 2020](2020-03-11-EMG.html) | EMG | 21.1% | 19.9–22.4% | 19.5–22.8% | 19.2–23.1% | 18.6–23.7% |
+| [9–11 March 2020](2020-03-11-BiDiMedia.html) | BiDiMedia | 21.2% | 19.8–22.7% | 19.4–23.2% | 19.1–23.5% | 18.4–24.3% |
+| [9–10 March 2020](2020-03-10-Ixè.html) | Ixè | 22.5% | 20.9–24.3% | 20.4–24.8% | 20.0–25.2% | 19.3–26.1% |
+| [4–9 March 2020](2020-03-09-SWG.html) | SWG | 19.6% | N/A | N/A | N/A | N/A |
 | [6–7 March 2020](2020-03-07-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 22.9% | 21.3–24.7% | 20.8–25.2% | 20.4–25.6% | 19.6–26.5% |
 | [5–6 March 2020](2020-03-06-Tecnè.html) | Tecnè | 21.5% | 19.9–23.2% | 19.4–23.7% | 19.1–24.2% | 18.3–25.0% |
 | [4–5 March 2020](2020-03-05-TermometroPolitico.html) | Termometro Politico | 20.9% | 19.8–22.1% | 19.5–22.4% | 19.3–22.7% | 18.7–23.2% |
@@ -343,6 +349,12 @@ Last result: **31** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17 | 15–18 | 14–19 | 14–20 | 13–21 |
+| [12–13 March 2020](2020-03-13-Tecnè.html) | Tecnè | 18 | 17–19 | 16–20 | 15–21 | 15–21 |
+| [11–12 March 2020](2020-03-12-TermometroPolitico.html) | Termometro Politico | 17 | 16–18 | 16–18 | 16–19 | 15–19 |
+| [10–11 March 2020](2020-03-11-EMG.html) | EMG | 17 | 16–18 | 16–18 | 16–18 | 15–19 |
+| [9–11 March 2020](2020-03-11-BiDiMedia.html) | BiDiMedia | 17 | 16–19 | 16–19 | 15–19 | 15–20 |
+| [9–10 March 2020](2020-03-10-Ixè.html) | Ixè | 18 | 17–21 | 16–21 | 16–21 | 16–22 |
+| [4–9 March 2020](2020-03-09-SWG.html) | SWG |  |  |  |  |  |
 | [6–7 March 2020](2020-03-07-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 19 | 18–21 | 17–22 | 17–22 | 17–23 |
 | [5–6 March 2020](2020-03-06-Tecnè.html) | Tecnè | 17 | 16–19 | 16–20 | 15–20 | 15–21 |
 | [4–5 March 2020](2020-03-05-TermometroPolitico.html) | Termometro Politico | 17 | 16–18 | 16–18 | 15–19 | 15–19 |
