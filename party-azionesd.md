@@ -16,7 +16,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [10–11 March 2020](2020-03-11-EMG.html) | EMG | 2.2% | 1.8–2.7% | 1.7–2.9% | 1.6–3.0% | 1.4–3.3% |
 | [9–11 March 2020](2020-03-11-BiDiMedia.html) | BiDiMedia | 2.4% | 1.9–3.0% | 1.8–3.2% | 1.7–3.4% | 1.5–3.7% |
 | [9–10 March 2020](2020-03-10-Ixè.html) | Ixè | 1.1% | 0.8–1.7% | 0.7–1.8% | 0.6–2.0% | 0.5–2.3% |
-| [4–9 March 2020](2020-03-09-SWG.html) | SWG | 2.9% | N/A | N/A | N/A | N/A |
+| [4–9 March 2020](2020-03-09-SWG.html) | SWG | 2.9% | 2.4–3.6% | 2.2–3.9% | 2.1–4.0% | 1.9–4.4% |
 | [6–7 March 2020](2020-03-07-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
 | [5–6 March 2020](2020-03-06-Tecnè.html) | Tecnè | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [4–5 March 2020](2020-03-05-TermometroPolitico.html) | Termometro Politico | 2.0% | 1.7–2.4% | 1.6–2.6% | 1.5–2.7% | 1.3–2.9% |
@@ -334,7 +334,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [10–11 March 2020](2020-03-11-EMG.html) | EMG | 0 | 0 | 0 | 0 | 0 |
 | [9–11 March 2020](2020-03-11-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
 | [9–10 March 2020](2020-03-10-Ixè.html) | Ixè | 0 | 0 | 0 | 0 | 0 |
-| [4–9 March 2020](2020-03-09-SWG.html) | SWG |  |  |  |  |  |
+| [4–9 March 2020](2020-03-09-SWG.html) | SWG | 0 | 0 | 0 | 0–4 | 0–4 |
 | [6–7 March 2020](2020-03-07-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 0 | 0 | 0 | 0 | 0 |
 | [5–6 March 2020](2020-03-06-Tecnè.html) | Tecnè | 0 | 0 | 0 | 0 | 0 |
 | [4–5 March 2020](2020-03-05-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
