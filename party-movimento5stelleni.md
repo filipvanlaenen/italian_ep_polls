@@ -10,7 +10,10 @@ Last result: **21.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.3% | 12.6–15.9% | 12.2–16.4% | 11.7–16.8% | 11.0–17.8% |
+| N/A | [Poll Average](average.html) | 14.3% | 12.6–15.9% | 12.1–16.4% | 11.7–16.8% | 10.9–17.8% |
+| [16–17 March 2020](2020-03-17-Ixè.html) | Ixè <br> Rai 3 | 14.9% | 13.5–16.4% | 13.2–16.9% | 12.8–17.3% | 12.2–18.0% |
+| [16–17 March 2020](2020-03-17-DemosPi.html) | Demos & Pi <br> La Repubblica | 14.6% | 13.3–16.1% | 12.9–16.5% | 12.6–16.9% | 11.9–17.6% |
+| [11–16 March 2020](2020-03-16-SWG.html) | SWG | 13.2% | 12.0–14.5% | 11.6–14.9% | 11.4–15.2% | 10.8–15.9% |
 | [12–13 March 2020](2020-03-13-Tecnè.html) | Tecnè | 13.7% | 12.4–15.2% | 12.0–15.6% | 11.7–16.0% | 11.1–16.7% |
 | [11–12 March 2020](2020-03-12-TermometroPolitico.html) | Termometro Politico | 15.4% | 14.4–16.4% | 14.2–16.7% | 14.0–17.0% | 13.5–17.5% |
 | [10–11 March 2020](2020-03-11-EMG.html) | EMG | 14.3% | 13.2–15.4% | 13.0–15.7% | 12.7–16.0% | 12.2–16.6% |
@@ -312,15 +315,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0.1% | 100% |  |
+| 9.5–10.5% | 0.2% | 100% |  |
 | 10.5–11.5% | 2% | 99.8% |  |
 | 11.5–12.5% | 7% | 98% |  |
 | 12.5–13.5% | 19% | 91% |  |
 | 13.5–14.5% | 30% | 72% | Median |
-| 14.5–15.5% | 26% | 43% |  |
-| 15.5–16.5% | 12% | 16% |  |
+| 14.5–15.5% | 26% | 42% |  |
+| 15.5–16.5% | 13% | 17% |  |
 | 16.5–17.5% | 3% | 4% |  |
-| 17.5–18.5% | 0.6% | 0.8% |  |
+| 17.5–18.5% | 0.6% | 0.7% |  |
 | 18.5–19.5% | 0.1% | 0.1% |  |
 | 19.5–20.5% | 0% | 0% |  |
 | 20.5–21.5% | 0% | 0% | Last Result |
@@ -335,6 +338,9 @@ Last result: **17** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12 | 11–14 | 10–14 | 10–15 | 9–16 |
+| [16–17 March 2020](2020-03-17-Ixè.html) | Ixè <br> Rai 3 | 13 | 11–15 | 11–15 | 11–16 | 10–16 |
+| [16–17 March 2020](2020-03-17-DemosPi.html) | Demos & Pi <br> La Repubblica | 12 | 11–14 | 11–14 | 11–14 | 10–15 |
+| [11–16 March 2020](2020-03-16-SWG.html) | SWG | 11 | 11–13 | 10–13 | 10–14 | 10–14 |
 | [12–13 March 2020](2020-03-13-Tecnè.html) | Tecnè | 12 | 11–13 | 10–14 | 10–14 | 9–15 |
 | [11–12 March 2020](2020-03-12-TermometroPolitico.html) | Termometro Politico | 13 | 12–14 | 12–14 | 12–15 | 12–15 |
 | [10–11 March 2020](2020-03-11-EMG.html) | EMG | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
@@ -531,7 +537,7 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [25–26 September 2019](2019-09-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 17 | 16–19 | 15–19 | 15–19 | 14–20 |
 | [1–25 September 2019](2019-09-25-NotoSondaggi.html) | Noto Sondaggi | 16 | 15–18 | 15–18 | 15–19 | 13–20 |
 | [25 September 2019](2019-09-25-EMG.html) | EMG <br> Rai 3 | 16 | 15–17 | 14–18 | 14–18 | 13–19 |
-| [23–24 September 2019](2019-09-24-Ixè.html) | Ixè <br> Rai 3 | 19 | 17–19 | 17–20 | 17–20 | 16–21 |
+| [23–24 September 2019](2019-09-24-Ixè.html) | Ixè <br> Rai 3 | 19 | 17–20 | 17–20 | 16–21 | 16–21 |
 | [22–23 September 2019](2019-09-23-Tecnè.html) | Tecnè <br> Rete 4 | 17 | 16–19 | 15–19 | 15–20 | 14–20 |
 | [18–23 September 2019](2019-09-23-SWG.html) | SWG <br> La7 | 16 | 16–17 | 16–17 | 16–18 | 15–19 |
 | [20–22 September 2019](2019-09-22-Piepoli.html) | Piepoli <br> Rai 1 | 16 | 13–17 | 13–18 | 13–20 | 12–20 |
@@ -637,14 +643,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 8 | 0.1% | 100% |  |
-| 9 | 0.9% | 99.9% |  |
-| 10 | 8% | 99.0% |  |
-| 11 | 23% | 91% |  |
-| 12 | 33% | 68% | Median |
-| 13 | 22% | 35% |  |
-| 14 | 10% | 13% |  |
-| 15 | 2% | 3% |  |
+| 9 | 0.6% | 100% |  |
+| 10 | 5% | 99.4% |  |
+| 11 | 25% | 95% |  |
+| 12 | 28% | 69% | Median |
+| 13 | 25% | 41% |  |
+| 14 | 12% | 16% |  |
+| 15 | 3% | 4% |  |
 | 16 | 0.5% | 0.5% |  |
 | 17 | 0% | 0% | Last Result |
 

@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.1% | 3.1–5.3% | 2.9–5.7% | 2.7–6.1% | 2.3–6.9% |
+| N/A | [Poll Average](average.html) | 3.7% | 2.7–5.1% | 2.4–5.6% | 2.2–6.0% | 1.8–6.8% |
+| [16–17 March 2020](2020-03-17-Ixè.html) | Ixè <br> Rai 3 | 2.4% | 1.9–3.2% | 1.7–3.4% | 1.6–3.6% | 1.4–3.9% |
+| [16–17 March 2020](2020-03-17-DemosPi.html) | Demos & Pi <br> La Repubblica | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
+| [11–16 March 2020](2020-03-16-SWG.html) | SWG | 3.2% | 2.6–3.9% | 2.4–4.1% | 2.3–4.3% | 2.1–4.7% |
 | [12–13 March 2020](2020-03-13-Tecnè.html) | Tecnè | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
 | [11–12 March 2020](2020-03-12-TermometroPolitico.html) | Termometro Politico | 3.9% | 3.4–4.5% | 3.3–4.7% | 3.2–4.8% | 3.0–5.1% |
 | [10–11 March 2020](2020-03-11-EMG.html) | EMG | 5.3% | 4.6–6.1% | 4.5–6.3% | 4.3–6.4% | 4.0–6.8% |
@@ -312,13 +315,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 22% | 98% |  |
-| 3.5–4.5% | 48% | 76% | Median |
-| 4.5–5.5% | 22% | 29% |  |
-| 5.5–6.5% | 6% | 6% |  |
-| 6.5–7.5% | 0.9% | 1.0% |  |
+| 0.5–1.5% | 0.1% | 100% |  |
+| 1.5–2.5% | 7% | 99.9% |  |
+| 2.5–3.5% | 35% | 92% |  |
+| 3.5–4.5% | 39% | 58% | Median |
+| 4.5–5.5% | 14% | 19% |  |
+| 5.5–6.5% | 5% | 5% |  |
+| 6.5–7.5% | 0.7% | 0.8% |  |
 | 7.5–8.5% | 0.1% | 0.1% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
@@ -331,7 +334,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 0–4 | 0–5 | 0–5 | 0–6 |
+| N/A | [Poll Average](average.html) | 0 | 0–4 | 0–5 | 0–5 | 0–6 |
+| [16–17 March 2020](2020-03-17-Ixè.html) | Ixè <br> Rai 3 | 0 | 0 | 0 | 0 | 0–3 |
+| [16–17 March 2020](2020-03-17-DemosPi.html) | Demos & Pi <br> La Repubblica | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [11–16 March 2020](2020-03-16-SWG.html) | SWG | 0 | 0 | 0 | 0–4 | 0–4 |
 | [12–13 March 2020](2020-03-13-Tecnè.html) | Tecnè | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | [11–12 March 2020](2020-03-12-TermometroPolitico.html) | Termometro Politico | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [10–11 March 2020](2020-03-11-EMG.html) | EMG | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
@@ -528,7 +534,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [25–26 September 2019](2019-09-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 4 | 3–5 | 0–5 | 0–5 | 0–6 |
 | [1–25 September 2019](2019-09-25-NotoSondaggi.html) | Noto Sondaggi | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
 | [25 September 2019](2019-09-25-EMG.html) | EMG <br> Rai 3 | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
-| [23–24 September 2019](2019-09-24-Ixè.html) | Ixè <br> Rai 3 | 0 | 0 | 0 | 0 | 0–4 |
+| [23–24 September 2019](2019-09-24-Ixè.html) | Ixè <br> Rai 3 | 0 | 0 | 0 | 0–3 | 0–4 |
 | [22–23 September 2019](2019-09-23-Tecnè.html) | Tecnè <br> Rete 4 | 3 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [18–23 September 2019](2019-09-23-SWG.html) | SWG <br> La7 | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [20–22 September 2019](2019-09-22-Piepoli.html) | Piepoli <br> Rai 1 | 3 | 0–5 | 0–5 | 0–6 | 0–6 |
@@ -634,13 +640,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 47% | 100% | Last Result |
-| 1 | 0% | 53% |  |
-| 2 | 0% | 53% |  |
-| 3 | 10% | 53% | Median |
-| 4 | 33% | 43% |  |
-| 5 | 9% | 10% |  |
-| 6 | 1.0% | 1.0% |  |
+| 0 | 65% | 100% | Last Result, Median |
+| 1 | 0% | 35% |  |
+| 2 | 0% | 35% |  |
+| 3 | 7% | 35% |  |
+| 4 | 21% | 28% |  |
+| 5 | 6% | 7% |  |
+| 6 | 0.6% | 0.7% |  |
 | 7 | 0% | 0% |  |
 
 
