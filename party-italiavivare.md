@@ -537,7 +537,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [23–24 September 2019](2019-09-24-Ixè.html) | Ixè <br> Rai 3 | 0 | 0 | 0 | 0–3 | 0–4 |
 | [22–23 September 2019](2019-09-23-Tecnè.html) | Tecnè <br> Rete 4 | 3 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [18–23 September 2019](2019-09-23-SWG.html) | SWG <br> La7 | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
-| [20–22 September 2019](2019-09-22-Piepoli.html) | Piepoli <br> Rai 1 | 3 | 0–5 | 0–5 | 0–6 | 0–6 |
+| [20–22 September 2019](2019-09-22-Piepoli.html) | Piepoli <br> Rai 1 | 3 | 0–4 | 0–5 | 0–5 | 0–6 |
 | [19–20 September 2019](2019-09-20-Tecnè.html) | Tecnè | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [18–20 September 2019](2019-09-20-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
 | [18–20 September 2019](2019-09-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |

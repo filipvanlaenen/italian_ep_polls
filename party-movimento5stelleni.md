@@ -523,7 +523,7 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [6–7 October 2019](2019-10-07-Tecnè.html) | Tecnè <br> Rete 4 | 17 | 16–18 | 15–18 | 15–19 | 15–20 |
 | [2–7 October 2019](2019-10-07-SWG.html) | SWG <br> La7 | 16 | 15–16 | 15–18 | 14–18 | 14–18 |
 | [7 October 2019](2019-10-07-Ipsos.html) | Ipsos <br> La7 | 16 | 14–18 | 14–18 | 13–18 | 12–19 |
-| [3–5 October 2019](2019-10-05-Piepoli.html) | Piepoli <br> Rai 1 | 17 | 15–19 | 14–19 | 14–20 | 12–20 |
+| [3–5 October 2019](2019-10-05-Piepoli.html) | Piepoli <br> Rai 1 | 16 | 14–18 | 14–19 | 13–19 | 12–20 |
 | [3–4 October 2019](2019-10-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [3 October 2019](2019-10-03-Index.html) | Index <br> La7 | 16 | 15–19 | 15–19 | 14–19 | 14–20 |
 | [1–3 October 2019](2019-10-03-DemosPi.html) | Demos & Pi <br> La Repubblica | 17 | 16–18 | 16–18 | 16–19 | 15–20 |
@@ -540,7 +540,7 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [23–24 September 2019](2019-09-24-Ixè.html) | Ixè <br> Rai 3 | 19 | 17–20 | 17–20 | 16–21 | 16–21 |
 | [22–23 September 2019](2019-09-23-Tecnè.html) | Tecnè <br> Rete 4 | 17 | 16–19 | 15–19 | 15–20 | 14–20 |
 | [18–23 September 2019](2019-09-23-SWG.html) | SWG <br> La7 | 16 | 16–17 | 16–17 | 16–18 | 15–19 |
-| [20–22 September 2019](2019-09-22-Piepoli.html) | Piepoli <br> Rai 1 | 16 | 13–17 | 13–18 | 13–20 | 12–20 |
+| [20–22 September 2019](2019-09-22-Piepoli.html) | Piepoli <br> Rai 1 | 15 | 14–18 | 13–18 | 13–19 | 12–20 |
 | [19–20 September 2019](2019-09-20-Tecnè.html) | Tecnè | 17 | 16–20 | 15–20 | 15–20 | 14–21 |
 | [18–20 September 2019](2019-09-20-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 12 | 12–13 | 11–14 | 11–14 | 10–14 |
 | [18–20 September 2019](2019-09-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 | 15 | 13–16 | 13–17 | 13–17 | 12–18 |
