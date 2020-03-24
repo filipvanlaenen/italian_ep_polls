@@ -575,7 +575,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [2–3 September 2019](2019-09-03-Ixè.html) | Ixè <br> Rai 3 | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [31 August–2 September 2019](2019-09-02-Tecnè.html) | Tecnè <br> Rete 4 | 5 | 5–6 | 4–6 | 4–7 | 4–7 |
 | [29 August–2 September 2019](2019-09-02-SWG.html) | SWG <br> La7 | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
-| [29–30 August 2019](2019-08-30-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
+| [29–30 August 2019](2019-08-30-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | [26–29 August 2019](2019-08-29-Ipsos.html) | Ipsos <br> Corriere della Sera | 6 | 6–7 | 5–8 | 5–8 | 5–8 |
 | [24–28 August 2019](2019-08-28-BiDiMedia.html) | BiDiMedia | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
 | [27 August 2019](2019-08-27-Piepoli.html) | Piepoli <br> La Stampa | 4 | 4–6 | 4–6 | 3–6 | 0–7 |
@@ -584,7 +584,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [21–23 August 2019](2019-08-23-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [21 August 2019](2019-08-21-Tecnè.html) | Tecnè | 5 | 5–6 | 4–6 | 4–7 | 4–7 |
 | [21 August 2019](2019-08-21-IZI.html) | IZI | 7 | 6–7 | 5–7 | 5–8 | 5–8 |
-| [20–21 August 2019](2019-08-21-GPF.html) | GPF | 5 | 5–6 | 5–7 | 4–7 | 4–8 |
+| [20–21 August 2019](2019-08-21-GPF.html) | GPF | 6 | 5–7 | 4–7 | 4–7 | 4–8 |
 | [12 August 2019](2019-08-12-GPF.html) | GPF | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
 | [9–10 August 2019](2019-08-10-TermometroPolitico.html) | Termometro Politico <br> La7 | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [1–9 August 2019](2019-08-09-NotoSondaggi.html) | Noto Sondaggi | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
@@ -610,12 +610,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [8–10 July 2019](2019-07-10-DemosPi.html) | Demos & Pi | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [7–8 July 2019](2019-07-08-Tecnè.html) | Tecnè <br> Rete 4 | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
 | [3–8 July 2019](2019-07-08-SWG.html) | SWG <br> La7 | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
-| [5 July 2019](2019-07-05-NotoSondaggi.html) | Noto Sondaggi <br> Quotidiano Nazionale | 7 | 6–7 | 6–8 | 5–8 | 5–8 |
+| [5 July 2019](2019-07-05-NotoSondaggi.html) | Noto Sondaggi <br> Quotidiano Nazionale | 7 | 6–7 | 5–8 | 5–8 | 5–8 |
 | [1–4 July 2019](2019-07-04-TermometroPolitico.html) | Termometro Politico <br> La7 | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
 | [29 June–4 July 2019](2019-07-04-BiDiMedia.html) | BiDiMedia | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [26 June–1 July 2019](2019-07-01-SWG.html) | SWG <br> La7 | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | [27 June 2019](2019-06-27-EMG.html) | EMG <br> Rai 3 | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
-| [1–26 June 2019](2019-06-26-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 7 | 6–7 | 6–8 | 5–8 | 5–8 |
+| [1–26 June 2019](2019-06-26-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 7 | 6–7 | 5–8 | 5–8 | 5–8 |
 | [25–26 June 2019](2019-06-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 6 | 6–7 | 5–8 | 5–8 | 5–8 |
 | [23–24 June 2019](2019-06-24-Tecnè.html) | Tecnè <br> Rete 4 | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [19–24 June 2019](2019-06-24-SWG.html) | SWG <br> La7 | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
