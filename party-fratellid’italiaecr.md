@@ -520,7 +520,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [9 October 2019](2019-10-09-Index.html) | Index <br> La7 | 6 | 5–7 | 5–8 | 5–8 | 4–8 |
 | [9 October 2019](2019-10-09-EMG.html) | EMG <br> Rai 3 | 6 | 6–7 | 6–7 | 6–7 | 5–8 |
 | [7–9 October 2019](2019-10-09-BiDiMedia.html) | BiDiMedia | 6 | 6–7 | 6–7 | 6–7 | 5–8 |
-| [7–8 October 2019](2019-10-08-Ixè.html) | Ixè <br> Rai 3 | 8 | 7–8 | 6–8 | 6–9 | 6–9 |
+| [7–8 October 2019](2019-10-08-Ixè.html) | Ixè <br> Rai 3 | 8 | 6–8 | 6–8 | 6–9 | 6–9 |
 | [7–8 October 2019](2019-10-08-Euromedia.html) | Euromedia <br> Rai 1 | 6 | 6–8 | 5–8 | 5–8 | 5–9 |
 | [6–7 October 2019](2019-10-07-Tecnè.html) | Tecnè <br> Rete 4 | 7 | 7–8 | 5–9 | 5–9 | 5–9 |
 | [2–7 October 2019](2019-10-07-SWG.html) | SWG <br> La7 | 6 | 6 | 5–7 | 5–7 | 5–8 |
@@ -538,7 +538,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [25–26 September 2019](2019-09-26-TermometroPolitico.html) | Termometro Politico <br> La7 | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [25–26 September 2019](2019-09-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 7 | 6–8 | 6–9 | 6–9 | 5–10 |
 | [1–25 September 2019](2019-09-25-NotoSondaggi.html) | Noto Sondaggi | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
-| [25 September 2019](2019-09-25-EMG.html) | EMG <br> Rai 3 | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
+| [25 September 2019](2019-09-25-EMG.html) | EMG <br> Rai 3 | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
 | [23–24 September 2019](2019-09-24-Ixè.html) | Ixè <br> Rai 3 | 8 | 6–8 | 6–9 | 6–9 | 5–9 |
 | [22–23 September 2019](2019-09-23-Tecnè.html) | Tecnè <br> Rete 4 | 6 | 6–7 | 5–8 | 5–8 | 5–8 |
 | [18–23 September 2019](2019-09-23-SWG.html) | SWG <br> La7 | 5 | 5–6 | 5–6 | 5–7 | 5–7 |
@@ -551,7 +551,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [18–19 September 2019](2019-09-19-Tecnè.html) | Tecnè <br> Rete 4 | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [1–19 September 2019](2019-09-19-IndexResearch.html) | Index Research <br> La7 | 6 | 5–7 | 5–8 | 5–8 | 4–8 |
 | [18–19 September 2019](2019-09-19-Demopolis.html) | Demopolis <br> Rai 3 | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
-| [17–18 September 2019](2019-09-18-Euromedia.html) | Euromedia <br> Rai 1 | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
+| [17–18 September 2019](2019-09-18-Euromedia.html) | Euromedia <br> Rai 1 | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
 | [14–18 September 2019](2019-09-18-BiDiMedia.html) | BiDiMedia | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [16–17 September 2019](2019-09-17-Ixè.html) | Ixè <br> Rai 3 | 7 | 6–7 | 6–8 | 5–8 | 5–9 |
 | [17 September 2019](2019-09-17-EMG.html) | EMG <br> Rai 3 | 6 | 6–7 | 6–8 | 5–8 | 5–8 |

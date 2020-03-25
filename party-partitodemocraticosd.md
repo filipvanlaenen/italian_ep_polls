@@ -532,7 +532,7 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [9 October 2019](2019-10-09-Index.html) | Index <br> La7 | 16 | 14–17 | 14–18 | 13–18 | 13–19 |
 | [9 October 2019](2019-10-09-EMG.html) | EMG <br> Rai 3 | 16 | 15–16 | 14–16 | 14–16 | 12–18 |
 | [7–9 October 2019](2019-10-09-BiDiMedia.html) | BiDiMedia | 15 | 14–16 | 14–16 | 13–17 | 12–17 |
-| [7–8 October 2019](2019-10-08-Ixè.html) | Ixè <br> Rai 3 | 18 | 16–19 | 16–19 | 15–19 | 15–21 |
+| [7–8 October 2019](2019-10-08-Ixè.html) | Ixè <br> Rai 3 | 18 | 16–19 | 16–19 | 15–20 | 15–21 |
 | [7–8 October 2019](2019-10-08-Euromedia.html) | Euromedia <br> Rai 1 | 13 | 12–14 | 12–14 | 11–15 | 11–16 |
 | [6–7 October 2019](2019-10-07-Tecnè.html) | Tecnè <br> Rete 4 | 15 | 14–17 | 14–18 | 14–18 | 13–19 |
 | [2–7 October 2019](2019-10-07-SWG.html) | SWG <br> La7 | 16 | 15–17 | 15–17 | 15–18 | 14–19 |
@@ -550,13 +550,13 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [25–26 September 2019](2019-09-26-TermometroPolitico.html) | Termometro Politico <br> La7 | 14 | 14–15 | 14–15 | 13–16 | 13–16 |
 | [25–26 September 2019](2019-09-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 15 | 14–17 | 14–17 | 13–17 | 12–18 |
 | [1–25 September 2019](2019-09-25-NotoSondaggi.html) | Noto Sondaggi | 17 | 15–17 | 13–17 | 13–18 | 13–20 |
-| [25 September 2019](2019-09-25-EMG.html) | EMG <br> Rai 3 | 17 | 15–18 | 15–18 | 14–18 | 14–19 |
+| [25 September 2019](2019-09-25-EMG.html) | EMG <br> Rai 3 | 17 | 16–18 | 15–18 | 15–18 | 14–19 |
 | [23–24 September 2019](2019-09-24-Ixè.html) | Ixè <br> Rai 3 | 18 | 16–19 | 16–20 | 15–20 | 15–21 |
 | [22–23 September 2019](2019-09-23-Tecnè.html) | Tecnè <br> Rete 4 | 16 | 14–17 | 13–18 | 13–18 | 12–18 |
 | [18–23 September 2019](2019-09-23-SWG.html) | SWG <br> La7 | 16 | 15–16 | 14–16 | 14–16 | 13–17 |
 | [20–22 September 2019](2019-09-22-Piepoli.html) | Piepoli <br> Rai 1 | 15 | 14–18 | 13–18 | 13–19 | 12–20 |
 | [19–20 September 2019](2019-09-20-Tecnè.html) | Tecnè | 15 | 14–17 | 14–17 | 13–18 | 13–18 |
-| [18–20 September 2019](2019-09-20-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 16 | 15–16 | 14–17 | 14–17 | 14–18 |
+| [18–20 September 2019](2019-09-20-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 16 | 14–17 | 14–17 | 14–17 | 13–18 |
 | [18–20 September 2019](2019-09-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 | 17 | 15–18 | 15–18 | 15–19 | 14–20 |
 | [20 September 2019](2019-09-20-IZI.html) | IZI | 14 | 13–15 | 12–16 | 12–16 | 11–16 |
 | [17–19 September 2019](2019-09-19-TermometroPolitico.html) | Termometro Politico <br> La7 | 16 | 15–16 | 15–16 | 15–16 | 14–17 |

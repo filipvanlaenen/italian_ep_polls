@@ -536,20 +536,20 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [25–26 September 2019](2019-09-26-TermometroPolitico.html) | Termometro Politico <br> La7 | 15 | 14–16 | 13–16 | 13–16 | 13–16 |
 | [25–26 September 2019](2019-09-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 17 | 16–19 | 15–19 | 15–19 | 14–20 |
 | [1–25 September 2019](2019-09-25-NotoSondaggi.html) | Noto Sondaggi | 16 | 15–18 | 15–18 | 15–19 | 13–20 |
-| [25 September 2019](2019-09-25-EMG.html) | EMG <br> Rai 3 | 16 | 15–17 | 14–18 | 14–18 | 13–19 |
+| [25 September 2019](2019-09-25-EMG.html) | EMG <br> Rai 3 | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
 | [23–24 September 2019](2019-09-24-Ixè.html) | Ixè <br> Rai 3 | 19 | 17–20 | 17–20 | 16–21 | 16–21 |
 | [22–23 September 2019](2019-09-23-Tecnè.html) | Tecnè <br> Rete 4 | 17 | 16–19 | 15–19 | 15–20 | 14–20 |
 | [18–23 September 2019](2019-09-23-SWG.html) | SWG <br> La7 | 16 | 16–17 | 16–17 | 16–18 | 15–19 |
 | [20–22 September 2019](2019-09-22-Piepoli.html) | Piepoli <br> Rai 1 | 15 | 14–18 | 13–18 | 13–19 | 12–20 |
 | [19–20 September 2019](2019-09-20-Tecnè.html) | Tecnè | 17 | 16–20 | 15–20 | 15–20 | 14–21 |
-| [18–20 September 2019](2019-09-20-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 12 | 12–13 | 11–14 | 11–14 | 10–14 |
+| [18–20 September 2019](2019-09-20-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 12 | 11–13 | 11–14 | 11–14 | 10–14 |
 | [18–20 September 2019](2019-09-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 | 15 | 13–16 | 13–17 | 13–17 | 12–18 |
 | [20 September 2019](2019-09-20-IZI.html) | IZI | 17 | 16–18 | 15–19 | 15–19 | 14–20 |
 | [17–19 September 2019](2019-09-19-TermometroPolitico.html) | Termometro Politico <br> La7 | 16 | 16–17 | 16–17 | 16–17 | 15–17 |
 | [18–19 September 2019](2019-09-19-Tecnè.html) | Tecnè <br> Rete 4 | 17 | 16–19 | 15–19 | 15–19 | 15–21 |
 | [1–19 September 2019](2019-09-19-IndexResearch.html) | Index Research <br> La7 | 17 | 15–18 | 14–18 | 14–19 | 13–21 |
 | [18–19 September 2019](2019-09-19-Demopolis.html) | Demopolis <br> Rai 3 | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
-| [17–18 September 2019](2019-09-18-Euromedia.html) | Euromedia <br> Rai 1 | 15 | 14–18 | 14–18 | 14–18 | 14–19 |
+| [17–18 September 2019](2019-09-18-Euromedia.html) | Euromedia <br> Rai 1 | 16 | 14–18 | 14–18 | 14–19 | 13–19 |
 | [14–18 September 2019](2019-09-18-BiDiMedia.html) | BiDiMedia | 16 | 15–17 | 15–18 | 15–18 | 14–18 |
 | [16–17 September 2019](2019-09-17-Ixè.html) | Ixè <br> Rai 3 | 18 | 17–20 | 16–20 | 16–20 | 15–21 |
 | [17 September 2019](2019-09-17-EMG.html) | EMG <br> Rai 3 | 15 | 15–16 | 15–17 | 14–17 | 14–18 |
