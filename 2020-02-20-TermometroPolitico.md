@@ -20,7 +20,6 @@
 | Azione (S&D) | 0.0% | 2.3% | 2.0–2.7% |1.9–2.8% |1.8–2.9% |1.7–3.1% |
 | Più Europa (RE) | 0.0% | 1.5% | 1.3–1.8% |1.2–1.9% |1.1–2.0% |1.0–2.2% |
 | Europa Verde (Greens/EFA) | 0.0% | 1.5% | 1.3–1.8% |1.2–1.9% |1.1–2.0% |1.0–2.2% |
-| CasaPound Italia (NI) | 0.0% | 1.0% | 0.8–1.3% |0.7–1.4% |0.7–1.4% |0.6–1.6% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -34,17 +33,16 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#lega-nord-(id)">Lega Nord (ID)</a> | 5 | 28 | 27–28 |27–28 |27–29 |26–29 |
+| <a href="#lega-nord-(id)">Lega Nord (ID)</a> | 5 | 27 | 27–29 |27–29 |26–29 |25–30 |
 | <a href="#partito-democratico-(s&d)">Partito Democratico (S&D)</a> | 31 | 16 | 15–17 |15–17 |15–18 |15–18 |
 | <a href="#movimento-5-stelle-(ni)">Movimento 5 Stelle (NI)</a> | 17 | 13 | 12–13 |12–14 |12–14 |12–15 |
-| <a href="#fratelli-d’italia-(ecr)">Fratelli d’Italia (ECR)</a> | 0 | 9 | 9–10 |9–10 |9–10 |8–11 |
-| <a href="#forza-italia-(epp)">Forza Italia (EPP)</a> | 13 | 5 | 4–5 |4–5 |4–5 |4–6 |
-| <a href="#italia-viva-(re)">Italia Viva (RE)</a> | 0 | 4 | 4 |3–5 |3–5 |0–5 |
+| <a href="#fratelli-d’italia-(ecr)">Fratelli d’Italia (ECR)</a> | 0 | 10 | 9–10 |9–10 |9–10 |8–11 |
+| <a href="#forza-italia-(epp)">Forza Italia (EPP)</a> | 13 | 5 | 4–5 |4–5 |4–6 |4–6 |
+| <a href="#italia-viva-(re)">Italia Viva (RE)</a> | 0 | 4 | 4 |3–4 |0–4 |0–5 |
 | <a href="#liberi-e-uguali-(s&d)">Liberi e Uguali (S&D)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#azione-(s&d)">Azione (S&D)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#più-europa-(re)">Più Europa (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#europa-verde-(greens/efa)">Europa Verde (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0 |
-| <a href="#casapound-italia-(ni)">CasaPound Italia (NI)</a> | 0 | 0 | 0 |0 |0 |0 |
 
 ### Lega Nord (ID)
 
@@ -74,12 +72,12 @@
 | 22 | 0% | 100% |  |
 | 23 | 0% | 100% |  |
 | 24 | 0% | 100% |  |
-| 25 | 0.2% | 100% |  |
-| 26 | 2% | 99.8% |  |
-| 27 | 42% | 98% |  |
-| 28 | 53% | 55% | Median |
-| 29 | 2% | 3% |  |
-| 30 | 0.4% | 0.4% |  |
+| 25 | 0.7% | 100% |  |
+| 26 | 3% | 99.3% |  |
+| 27 | 66% | 96% | Median |
+| 28 | 9% | 30% |  |
+| 29 | 20% | 21% |  |
+| 30 | 1.1% | 1.2% |  |
 | 31 | 0% | 0% |  |
 
 ### Partito Democratico (S&D)
@@ -90,9 +88,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 15 | 21% | 100% |  |
-| 16 | 35% | 78% | Median |
-| 17 | 40% | 43% |  |
+| 14 | 0.2% | 100% |  |
+| 15 | 15% | 99.8% |  |
+| 16 | 44% | 85% | Median |
+| 17 | 38% | 41% |  |
 | 18 | 3% | 3% |  |
 | 19 | 0.1% | 0.1% |  |
 | 20 | 0% | 0% |  |
@@ -116,11 +115,11 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 0.1% | 100% |  |
-| 12 | 10% | 99.9% |  |
-| 13 | 82% | 90% | Median |
-| 14 | 7% | 8% |  |
-| 15 | 1.1% | 1.1% |  |
+| 11 | 0.3% | 100% |  |
+| 12 | 15% | 99.7% |  |
+| 13 | 75% | 84% | Median |
+| 14 | 8% | 9% |  |
+| 15 | 0.5% | 0.5% |  |
 | 16 | 0% | 0% |  |
 | 17 | 0% | 0% | Last Result |
 
@@ -140,10 +139,10 @@
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 1.0% | 100% |  |
-| 9 | 51% | 99.0% | Median |
-| 10 | 48% | 48% |  |
-| 11 | 0.8% | 0.8% |  |
+| 8 | 0.6% | 100% |  |
+| 9 | 25% | 99.4% |  |
+| 10 | 74% | 75% | Median |
+| 11 | 1.0% | 1.0% |  |
 | 12 | 0% | 0% |  |
 
 ### Forza Italia (EPP)
@@ -154,9 +153,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 22% | 100% |  |
-| 5 | 76% | 78% | Median |
-| 6 | 2% | 2% |  |
+| 4 | 32% | 100% |  |
+| 5 | 65% | 68% | Median |
+| 6 | 4% | 4% |  |
 | 7 | 0% | 0% |  |
 | 8 | 0% | 0% |  |
 | 9 | 0% | 0% |  |
@@ -173,12 +172,12 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 2% | 100% | Last Result |
-| 1 | 0% | 98% |  |
-| 2 | 0% | 98% |  |
-| 3 | 4% | 98% |  |
-| 4 | 88% | 94% | Median |
-| 5 | 5% | 5% |  |
+| 0 | 5% | 100% | Last Result |
+| 1 | 0% | 95% |  |
+| 2 | 0% | 95% |  |
+| 3 | 4% | 95% |  |
+| 4 | 89% | 91% | Median |
+| 5 | 2% | 2% |  |
 | 6 | 0% | 0% |  |
 
 ### Liberi e Uguali (S&D)
@@ -221,16 +220,6 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Last Result, Median |
 
-### CasaPound Italia (NI)
-
-*For a full overview of the results for this party, see the [CasaPound Italia (NI)](party-casapounditaliani.html) page.*
-
-![Graph with seats probability mass function not yet produced](2020-02-20-TermometroPolitico-seats-pmf-casapounditaliani.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
-
 
 ## Coalitions
 
@@ -240,9 +229,8 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Lega Nord (ID) | 5 | 28 | 0% | 27–28 | 27–28 | 27–29 | 26–29 |
+| Lega Nord (ID) | 5 | 27 | 0% | 27–29 | 27–29 | 26–29 | 25–30 |
 | Partito Democratico (S&D) – Azione (S&D) – Liberi e Uguali (S&D) | 31 | 16 | 0% | 15–17 | 15–17 | 15–18 | 15–18 |
-| Movimento 5 Stelle (NI) – CasaPound Italia (NI) | 17 | 13 | 0% | 12–13 | 12–14 | 12–14 | 12–15 |
 | Europa Verde (Greens/EFA) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Lega Nord (ID)
@@ -271,12 +259,12 @@
 | 22 | 0% | 100% |  |
 | 23 | 0% | 100% |  |
 | 24 | 0% | 100% |  |
-| 25 | 0.2% | 100% |  |
-| 26 | 2% | 99.8% |  |
-| 27 | 42% | 98% |  |
-| 28 | 53% | 55% | Median |
-| 29 | 2% | 3% |  |
-| 30 | 0.4% | 0.4% |  |
+| 25 | 0.7% | 100% |  |
+| 26 | 3% | 99.3% |  |
+| 27 | 66% | 96% | Median |
+| 28 | 9% | 30% |  |
+| 29 | 20% | 21% |  |
+| 30 | 1.1% | 1.2% |  |
 | 31 | 0% | 0% |  |
 
 ### Partito Democratico (S&D) – Azione (S&D) – Liberi e Uguali (S&D)
@@ -285,9 +273,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 15 | 21% | 100% |  |
-| 16 | 35% | 78% | Median |
-| 17 | 40% | 43% |  |
+| 14 | 0.2% | 100% |  |
+| 15 | 15% | 99.8% |  |
+| 16 | 44% | 85% | Median |
+| 17 | 38% | 41% |  |
 | 18 | 3% | 3% |  |
 | 19 | 0.1% | 0.1% |  |
 | 20 | 0% | 0% |  |
@@ -302,20 +291,6 @@
 | 29 | 0% | 0% |  |
 | 30 | 0% | 0% |  |
 | 31 | 0% | 0% | Last Result |
-
-### Movimento 5 Stelle (NI) – CasaPound Italia (NI)
-
-![Graph with seats probability mass function not yet produced](2020-02-20-TermometroPolitico-coalitions-seats-pmf-m5s–cpi.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 0.1% | 100% |  |
-| 12 | 10% | 99.9% |  |
-| 13 | 82% | 90% | Median |
-| 14 | 7% | 8% |  |
-| 15 | 1.1% | 1.1% |  |
-| 16 | 0% | 0% |  |
-| 17 | 0% | 0% | Last Result |
 
 ### Europa Verde (Greens/EFA)
 
@@ -338,5 +313,5 @@
 
 + **Sample size:** 3100
 + **Simulations done:** 1,048,576
-+ **Error estimate:** 0.96%
++ **Error estimate:** 0.58%
 
