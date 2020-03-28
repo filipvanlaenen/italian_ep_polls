@@ -11,6 +11,7 @@ Last result: **21.2%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14.3% | 12.7–15.9% | 12.3–16.4% | 12.0–16.8% | 11.4–17.8% |
+| [24–25 March 2020](2020-03-25-EMG.html) | EMG <br> Rai 3 | 14.9% | 13.9–16.1% | 13.6–16.4% | 13.3–16.7% | 12.8–17.2% |
 | [23–24 March 2020](2020-03-24-Ixè.html) | Ixè <br> Rai 3 | 15.1% | 13.7–16.6% | 13.3–17.1% | 13.0–17.5% | 12.4–18.2% |
 | [18–23 March 2020](2020-03-23-SWG.html) | SWG | 13.8% | 12.6–15.2% | 12.3–15.6% | 12.0–15.9% | 11.4–16.6% |
 | [19–21 March 2020](2020-03-21-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 12.8% | 11.9–13.8% | 11.6–14.1% | 11.4–14.3% | 11.0–14.8% |
@@ -326,8 +327,8 @@ The following table shows the probability mass function per percentage block of 
 | 11.5–12.5% | 7% | 99.1% |  |
 | 12.5–13.5% | 20% | 93% |  |
 | 13.5–14.5% | 31% | 73% | Median |
-| 14.5–15.5% | 26% | 41% |  |
-| 15.5–16.5% | 11% | 15% |  |
+| 14.5–15.5% | 26% | 42% |  |
+| 15.5–16.5% | 12% | 16% |  |
 | 16.5–17.5% | 3% | 4% |  |
 | 17.5–18.5% | 0.7% | 0.8% |  |
 | 18.5–19.5% | 0.1% | 0.1% |  |
@@ -344,6 +345,7 @@ Last result: **17** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12 | 11–14 | 11–14 | 10–15 | 10–15 |
+| [24–25 March 2020](2020-03-25-EMG.html) | EMG <br> Rai 3 | 13 | 12–13 | 11–14 | 11–14 | 11–14 |
 | [23–24 March 2020](2020-03-24-Ixè.html) | Ixè <br> Rai 3 | 14 | 12–15 | 11–15 | 11–15 | 11–16 |
 | [18–23 March 2020](2020-03-23-SWG.html) | SWG | 13 | 12–14 | 11–14 | 11–14 | 10–14 |
 | [19–21 March 2020](2020-03-21-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 12 | 11–13 | 10–13 | 10–13 | 10–13 |
@@ -659,9 +661,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0.4% | 100% |  |
 | 10 | 4% | 99.6% |  |
 | 11 | 19% | 95% |  |
-| 12 | 34% | 76% | Median |
+| 12 | 33% | 76% | Median |
 | 13 | 25% | 42% |  |
-| 14 | 14% | 17% |  |
+| 14 | 14% | 18% |  |
 | 15 | 3% | 3% |  |
 | 16 | 0.4% | 0.5% |  |
 | 17 | 0% | 0% | Last Result |
