@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3.7% | 2.6–5.1% | 2.3–5.6% | 2.0–6.0% | 1.6–6.8% |
+| [26–27 March 2020](2020-03-27-Tecnè.html) | Tecnè | 3.1% | 2.5–3.9% | 2.3–4.2% | 2.2–4.4% | 1.9–4.8% |
 | [24–25 March 2020](2020-03-25-EMG.html) | EMG <br> Rai 3 | 5.3% | 4.7–6.1% | 4.5–6.3% | 4.3–6.4% | 4.1–6.8% |
 | [23–24 March 2020](2020-03-24-Ixè.html) | Ixè <br> Rai 3 | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
 | [18–23 March 2020](2020-03-23-SWG.html) | SWG | 3.2% | 2.6–3.9% | 2.4–4.1% | 2.3–4.3% | 2.1–4.7% |
@@ -324,7 +325,7 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0.3% | 100% |  |
-| 1.5–2.5% | 10% | 99.7% |  |
+| 1.5–2.5% | 9% | 99.7% |  |
 | 2.5–3.5% | 35% | 90% |  |
 | 3.5–4.5% | 35% | 55% | Median |
 | 4.5–5.5% | 15% | 20% |  |
@@ -343,6 +344,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–4 | 0–5 | 0–5 | 0–6 |
+| [26–27 March 2020](2020-03-27-Tecnè.html) | Tecnè | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | [24–25 March 2020](2020-03-25-EMG.html) | EMG <br> Rai 3 | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [23–24 March 2020](2020-03-24-Ixè.html) | Ixè <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [18–23 March 2020](2020-03-23-SWG.html) | SWG | 0 | 0 | 0 | 0–4 | 0–4 |
