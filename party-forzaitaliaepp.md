@@ -10,9 +10,17 @@ Last result: **16.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.1% | 5.0–7.5% | 4.8–7.9% | 4.6–8.3% | 4.2–9.0% |
-| [26–27 March 2020](2020-03-27-Tecnè.html) | Tecnè | 6.9% | 6.0–8.0% | 5.7–8.4% | 5.5–8.7% | 5.1–9.2% |
+| N/A | [Poll Average](average.html) | 6.2% | 5.0–7.6% | 4.7–8.1% | 4.5–8.4% | 4.1–9.1% |
+| [2–3 April 2020](2020-04-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 6.9% | 6.0–8.0% | 5.7–8.4% | 5.5–8.7% | 5.1–9.2% |
+| [1–2 April 2020](2020-04-02-TermometroPolitico.html) | Termometro Politico | 5.6% | N/A | N/A | N/A | N/A |
+| [2 April 2020](2020-04-02-Index.html) | Index <br> La7 | 6.2% | 5.3–7.5% | 5.0–7.8% | 4.8–8.2% | 4.3–8.8% |
+| [31 March–1 April 2020](2020-04-01-EMG.html) | EMG <br> Rai 3 | 5.8% | 5.2–6.6% | 5.0–6.8% | 4.8–7.0% | 4.5–7.4% |
+| [30–31 March 2020](2020-03-31-Ixè.html) | Ixè <br> Rai 3 | 7.4% | 6.4–8.6% | 6.2–8.9% | 5.9–9.2% | 5.5–9.8% |
+| [25–30 March 2020](2020-03-30-SWG.html) | SWG | 5.2% | 4.5–6.2% | 4.3–6.4% | 4.1–6.7% | 3.8–7.1% |
+| [26–27 March 2020](2020-03-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 6.9% | 6.0–8.0% | 5.7–8.4% | 5.5–8.7% | 5.1–9.2% |
+| [25–26 March 2020](2020-03-26-TermometroPolitico.html) | Termometro Politico | 5.0% | 4.5–5.7% | 4.3–5.9% | 4.2–6.1% | 3.9–6.4% |
 | [24–26 March 2020](2020-03-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 6.8% | 5.9–7.9% | 5.6–8.3% | 5.4–8.5% | 5.0–9.1% |
+| [26 March 2020](2020-03-26-Euromedia.html) | Euromedia | 6.8% | 5.7–8.0% | 5.4–8.4% | 5.2–8.7% | 4.8–9.4% |
 | [24–25 March 2020](2020-03-25-EMG.html) | EMG <br> Rai 3 | 6.0% | 5.3–6.8% | 5.1–7.0% | 5.0–7.2% | 4.6–7.6% |
 | [23–24 March 2020](2020-03-24-Ixè.html) | Ixè <br> Rai 3 | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.3% |
 | [18–23 March 2020](2020-03-23-SWG.html) | SWG | 5.7% | 4.9–6.6% | 4.7–6.9% | 4.5–7.1% | 4.1–7.6% |
@@ -325,12 +333,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 2% | 100% |  |
-| 4.5–5.5% | 24% | 98% |  |
-| 5.5–6.5% | 40% | 74% | Median |
-| 6.5–7.5% | 24% | 34% |  |
-| 7.5–8.5% | 8% | 9% |  |
-| 8.5–9.5% | 1.3% | 1.4% |  |
+| 3.5–4.5% | 3% | 100% |  |
+| 4.5–5.5% | 24% | 97% |  |
+| 5.5–6.5% | 37% | 73% | Median |
+| 6.5–7.5% | 25% | 36% |  |
+| 7.5–8.5% | 10% | 11% |  |
+| 8.5–9.5% | 2% | 2% |  |
 | 9.5–10.5% | 0.1% | 0.1% |  |
 | 10.5–11.5% | 0% | 0% |  |
 | 11.5–12.5% | 0% | 0% |  |
@@ -349,9 +357,17 @@ Last result: **13** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–7 | 4–7 | 4–8 |
-| [26–27 March 2020](2020-03-27-Tecnè.html) | Tecnè | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
+| N/A | [Poll Average](average.html) | 5 | 4–7 | 4–7 | 4–7 | 4–8 |
+| [2–3 April 2020](2020-04-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 6 | 5–6 | 5–7 | 5–7 | 5–8 |
+| [1–2 April 2020](2020-04-02-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [2 April 2020](2020-04-02-Index.html) | Index <br> La7 | 5 | 4–6 | 4–7 | 4–7 | 4–8 |
+| [31 March–1 April 2020](2020-04-01-EMG.html) | EMG <br> Rai 3 | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| [30–31 March 2020](2020-03-31-Ixè.html) | Ixè <br> Rai 3 | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
+| [25–30 March 2020](2020-03-30-SWG.html) | SWG | 5 | 4–5 | 4–6 | 4–6 | 0–7 |
+| [26–27 March 2020](2020-03-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
+| [25–26 March 2020](2020-03-26-TermometroPolitico.html) | Termometro Politico | 5 | 4–5 | 4–5 | 4–5 | 0–5 |
 | [24–26 March 2020](2020-03-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
+| [26 March 2020](2020-03-26-Euromedia.html) | Euromedia | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
 | [24–25 March 2020](2020-03-25-EMG.html) | EMG <br> Rai 3 | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | [23–24 March 2020](2020-03-24-Ixè.html) | Ixè <br> Rai 3 | 6 | 5–7 | 5–8 | 5–8 | 4–8 |
 | [18–23 March 2020](2020-03-23-SWG.html) | SWG | 6 | 4–6 | 4–6 | 4–6 | 4–7 |
@@ -665,15 +681,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.2% | 100% |  |
-| 1 | 0% | 99.8% |  |
-| 2 | 0% | 99.8% |  |
-| 3 | 0.1% | 99.8% |  |
-| 4 | 16% | 99.6% |  |
-| 5 | 42% | 83% | Median |
-| 6 | 33% | 41% |  |
-| 7 | 8% | 9% |  |
-| 8 | 1.1% | 1.2% |  |
+| 0 | 0.3% | 100% |  |
+| 1 | 0% | 99.7% |  |
+| 2 | 0% | 99.7% |  |
+| 3 | 0.1% | 99.7% |  |
+| 4 | 18% | 99.6% |  |
+| 5 | 38% | 81% | Median |
+| 6 | 33% | 43% |  |
+| 7 | 8% | 10% |  |
+| 8 | 2% | 2% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |

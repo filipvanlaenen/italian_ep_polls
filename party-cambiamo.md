@@ -10,9 +10,17 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.9% | 0.3–1.6% | 0.2–1.8% | 0.2–2.0% | 0.1–2.3% |
-| [26–27 March 2020](2020-03-27-Tecnè.html) | Tecnè | 0.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 0.8% | 0.3–1.5% | 0.3–1.7% | 0.2–1.9% | 0.1–2.2% |
+| [2–3 April 2020](2020-04-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
+| [1–2 April 2020](2020-04-02-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
+| [2 April 2020](2020-04-02-Index.html) | Index <br> La7 | 0.6% | 0.4–1.2% | 0.3–1.3% | 0.3–1.5% | 0.2–1.8% |
+| [31 March–1 April 2020](2020-04-01-EMG.html) | EMG <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
+| [30–31 March 2020](2020-03-31-Ixè.html) | Ixè <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
+| [25–30 March 2020](2020-03-30-SWG.html) | SWG | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.6–1.8% | 0.5–2.0% |
+| [26–27 March 2020](2020-03-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
+| [25–26 March 2020](2020-03-26-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
 | [24–26 March 2020](2020-03-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.0% | N/A | N/A | N/A | N/A |
+| [26 March 2020](2020-03-26-Euromedia.html) | Euromedia | 0.4% | 0.2–0.8% | 0.2–1.0% | 0.1–1.1% | 0.1–1.4% |
 | [24–25 March 2020](2020-03-25-EMG.html) | EMG <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
 | [23–24 March 2020](2020-03-24-Ixè.html) | Ixè <br> Rai 3 | 0.7% | 0.5–1.2% | 0.4–1.3% | 0.3–1.4% | 0.2–1.7% |
 | [18–23 March 2020](2020-03-23-SWG.html) | SWG | 1.3% | 1.0–1.9% | 0.9–2.0% | 0.8–2.2% | 0.7–2.5% |
@@ -324,9 +332,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 28% | 100% | Last Result |
-| 0.5–1.5% | 61% | 72% | Median |
-| 1.5–2.5% | 12% | 12% |  |
+| 0.0–0.5% | 30% | 100% | Last Result |
+| 0.5–1.5% | 62% | 70% | Median |
+| 1.5–2.5% | 8% | 8% |  |
 | 2.5–3.5% | 0.1% | 0.1% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
@@ -340,8 +348,16 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [26–27 March 2020](2020-03-27-Tecnè.html) | Tecnè |  |  |  |  |  |
+| [2–3 April 2020](2020-04-03-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [1–2 April 2020](2020-04-02-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [2 April 2020](2020-04-02-Index.html) | Index <br> La7 | 0 | 0 | 0 | 0 | 0 |
+| [31 March–1 April 2020](2020-04-01-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
+| [30–31 March 2020](2020-03-31-Ixè.html) | Ixè <br> Rai 3 |  |  |  |  |  |
+| [25–30 March 2020](2020-03-30-SWG.html) | SWG | 0 | 0 | 0 | 0 | 0 |
+| [26–27 March 2020](2020-03-27-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [25–26 March 2020](2020-03-26-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [24–26 March 2020](2020-03-26-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
+| [26 March 2020](2020-03-26-Euromedia.html) | Euromedia | 0 | 0 | 0 | 0 | 0 |
 | [24–25 March 2020](2020-03-25-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [23–24 March 2020](2020-03-24-Ixè.html) | Ixè <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [18–23 March 2020](2020-03-23-SWG.html) | SWG | 0 | 0 | 0 | 0 | 0 |
