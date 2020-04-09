@@ -10,9 +10,11 @@ Last result: **16.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.2% | 5.0–7.6% | 4.7–8.1% | 4.5–8.4% | 4.1–9.1% |
+| N/A | [Poll Average](average.html) | 6.1% | 5.0–7.6% | 4.7–8.1% | 4.5–8.5% | 4.1–9.2% |
+| [6–7 April 2020](2020-04-07-Ixè.html) | Ixè <br> Rai 3 | 7.6% | 6.6–8.8% | 6.3–9.1% | 6.1–9.4% | 5.7–10.0% |
+| [1–6 April 2020](2020-04-06-SWG.html) | SWG | 5.2% | 4.4–6.1% | 4.2–6.3% | 4.0–6.6% | 3.7–7.0% |
 | [2–3 April 2020](2020-04-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 6.9% | 6.0–8.0% | 5.7–8.4% | 5.5–8.7% | 5.1–9.2% |
-| [1–2 April 2020](2020-04-02-TermometroPolitico.html) | Termometro Politico | 5.6% | N/A | N/A | N/A | N/A |
+| [1–2 April 2020](2020-04-02-TermometroPolitico.html) | Termometro Politico | 5.6% | 5.0–6.3% | 4.8–6.5% | 4.7–6.6% | 4.4–7.0% |
 | [2 April 2020](2020-04-02-Index.html) | Index <br> La7 | 6.2% | 5.3–7.5% | 5.0–7.8% | 4.8–8.2% | 4.3–8.8% |
 | [31 March–1 April 2020](2020-04-01-EMG.html) | EMG <br> Rai 3 | 5.8% | 5.2–6.6% | 5.0–6.8% | 4.8–7.0% | 4.5–7.4% |
 | [30–31 March 2020](2020-03-31-Ixè.html) | Ixè <br> Rai 3 | 7.4% | 6.4–8.6% | 6.2–8.9% | 5.9–9.2% | 5.5–9.8% |
@@ -334,12 +336,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 3% | 100% |  |
-| 4.5–5.5% | 24% | 97% |  |
-| 5.5–6.5% | 37% | 73% | Median |
-| 6.5–7.5% | 25% | 36% |  |
-| 7.5–8.5% | 10% | 11% |  |
+| 4.5–5.5% | 25% | 97% |  |
+| 5.5–6.5% | 37% | 71% | Median |
+| 6.5–7.5% | 23% | 34% |  |
+| 7.5–8.5% | 9% | 11% |  |
 | 8.5–9.5% | 2% | 2% |  |
-| 9.5–10.5% | 0.1% | 0.1% |  |
+| 9.5–10.5% | 0.2% | 0.2% |  |
 | 10.5–11.5% | 0% | 0% |  |
 | 11.5–12.5% | 0% | 0% |  |
 | 12.5–13.5% | 0% | 0% |  |
@@ -357,9 +359,11 @@ Last result: **13** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–7 | 4–7 | 4–7 | 4–8 |
-| [2–3 April 2020](2020-04-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 6 | 5–6 | 5–7 | 5–7 | 5–8 |
-| [1–2 April 2020](2020-04-02-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–7 | 4–7 | 4–8 |
+| [6–7 April 2020](2020-04-07-Ixè.html) | Ixè <br> Rai 3 | 6 | 6–7 | 6–8 | 5–8 | 5–8 |
+| [1–6 April 2020](2020-04-06-SWG.html) | SWG | 4 | 4–5 | 4–5 | 4–6 | 0–6 |
+| [2–3 April 2020](2020-04-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
+| [1–2 April 2020](2020-04-02-TermometroPolitico.html) | Termometro Politico | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [2 April 2020](2020-04-02-Index.html) | Index <br> La7 | 5 | 4–6 | 4–7 | 4–7 | 4–8 |
 | [31 March–1 April 2020](2020-04-01-EMG.html) | EMG <br> Rai 3 | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [30–31 March 2020](2020-03-31-Ixè.html) | Ixè <br> Rai 3 | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
@@ -681,16 +685,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.3% | 100% |  |
-| 1 | 0% | 99.7% |  |
-| 2 | 0% | 99.7% |  |
-| 3 | 0.1% | 99.7% |  |
-| 4 | 18% | 99.6% |  |
-| 5 | 38% | 81% | Median |
-| 6 | 33% | 43% |  |
-| 7 | 8% | 10% |  |
-| 8 | 2% | 2% |  |
-| 9 | 0.1% | 0.1% |  |
+| 0 | 0.2% | 100% |  |
+| 1 | 0% | 99.8% |  |
+| 2 | 0% | 99.8% |  |
+| 3 | 0.1% | 99.8% |  |
+| 4 | 21% | 99.7% |  |
+| 5 | 39% | 78% | Median |
+| 6 | 30% | 39% |  |
+| 7 | 8% | 9% |  |
+| 8 | 1.1% | 1.1% |  |
+| 9 | 0% | 0% |  |
 | 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |
