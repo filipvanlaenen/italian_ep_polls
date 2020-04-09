@@ -22,7 +22,7 @@ Last result: **3.7%** (General Election of 26 May 2019)
 | [26–27 March 2020](2020-03-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 14.2% | 12.9–15.7% | 12.5–16.1% | 12.2–16.5% | 11.6–17.3% |
 | [25–26 March 2020](2020-03-26-TermometroPolitico.html) | Termometro Politico | 11.9% | 11.1–12.8% | 10.8–13.1% | 10.6–13.3% | 10.2–13.8% |
 | [24–26 March 2020](2020-03-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 13.3% | 12.0–14.8% | 11.6–15.2% | 11.3–15.6% | 10.7–16.3% |
-| [26 March 2020](2020-03-26-Euromedia.html) | Euromedia | 13.5% | 12.1–15.2% | 11.6–15.6% | 11.3–16.0% | 10.6–16.9% |
+| [25 March 2020](2020-03-25-Euromedia.html) | Euromedia | 13.5% | 12.1–15.2% | 11.6–15.6% | 11.3–16.0% | 10.6–16.9% |
 | [24–25 March 2020](2020-03-25-EMG.html) | EMG <br> Rai 3 | 12.7% | 11.7–13.8% | 11.4–14.1% | 11.2–14.3% | 10.8–14.9% |
 | [23–24 March 2020](2020-03-24-Ixè.html) | Ixè <br> Rai 3 | 12.7% | 11.4–14.1% | 11.1–14.6% | 10.8–14.9% | 10.2–15.6% |
 | [18–23 March 2020](2020-03-23-SWG.html) | SWG | 11.8% | 10.7–13.1% | 10.4–13.5% | 10.1–13.8% | 9.6–14.4% |
@@ -360,9 +360,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 10–13 | 10–13 | 9–14 | 9–14 |
+| N/A | [Poll Average](average.html) | 11 | 10–13 | 9–13 | 9–14 | 9–14 |
 | [6–7 April 2020](2020-04-07-Ixè.html) | Ixè <br> Rai 3 | 11 | 10–12 | 10–12 | 10–13 | 9–14 |
-| [1–6 April 2020](2020-04-06-SWG.html) | SWG | 11 | 10–12 | 10–12 | 10–12 | 9–14 |
+| [1–6 April 2020](2020-04-06-SWG.html) | SWG | 11 | 9–12 | 9–12 | 9–13 | 8–14 |
 | [2–3 April 2020](2020-04-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 13 | 11–14 | 11–14 | 11–14 | 10–15 |
 | [1–2 April 2020](2020-04-02-TermometroPolitico.html) | Termometro Politico | 11 | 10–12 | 10–12 | 10–12 | 10–13 |
 | [2 April 2020](2020-04-02-Index.html) | Index <br> La7 | 11 | 10–12 | 9–13 | 9–13 | 8–14 |
@@ -372,7 +372,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [26–27 March 2020](2020-03-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 13 | 11–13 | 11–14 | 11–14 | 10–15 |
 | [25–26 March 2020](2020-03-26-TermometroPolitico.html) | Termometro Politico | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
 | [24–26 March 2020](2020-03-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 12 | 10–12 | 10–13 | 10–13 | 9–14 |
-| [26 March 2020](2020-03-26-Euromedia.html) | Euromedia | 12 | 10–13 | 10–13 | 10–13 | 9–15 |
+| [25 March 2020](2020-03-25-Euromedia.html) | Euromedia | 12 | 10–13 | 10–13 | 10–13 | 9–15 |
 | [24–25 March 2020](2020-03-25-EMG.html) | EMG <br> Rai 3 | 11 | 10–12 | 10–12 | 10–12 | 9–12 |
 | [23–24 March 2020](2020-03-24-Ixè.html) | Ixè <br> Rai 3 | 11 | 10–12 | 9–13 | 9–13 | 8–15 |
 | [18–23 March 2020](2020-03-23-SWG.html) | SWG | 11 | 10–12 | 9–12 | 9–13 | 9–13 |
@@ -695,10 +695,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0.3% | 100% |  |
-| 9 | 4% | 99.7% |  |
-| 10 | 16% | 96% |  |
-| 11 | 32% | 80% | Median |
-| 12 | 34% | 47% |  |
+| 9 | 6% | 99.7% |  |
+| 10 | 17% | 94% |  |
+| 11 | 30% | 77% | Median |
+| 12 | 33% | 47% |  |
 | 13 | 11% | 14% |  |
 | 14 | 3% | 3% |  |
 | 15 | 0.3% | 0.3% |  |
