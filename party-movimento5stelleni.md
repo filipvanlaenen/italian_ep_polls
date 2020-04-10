@@ -11,6 +11,7 @@ Last result: **21.2%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14.4% | 12.8–16.2% | 12.4–16.8% | 12.0–17.3% | 11.5–18.3% |
+| [7–8 April 2020](2020-04-08-EMG.html) | EMG <br> Rai 3 | 15.0% | 13.9–16.1% | 13.6–16.4% | 13.4–16.7% | 12.9–17.3% |
 | [6–7 April 2020](2020-04-07-Ixè.html) | Ixè <br> Rai 3 | 16.2% | 14.8–17.8% | 14.4–18.2% | 14.0–18.6% | 13.4–19.4% |
 | [1–6 April 2020](2020-04-06-SWG.html) | SWG | 14.5% | 13.3–15.9% | 12.9–16.3% | 12.6–16.6% | 12.0–17.3% |
 | [2–3 April 2020](2020-04-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 13.7% | 12.4–15.2% | 12.0–15.6% | 11.7–16.0% | 11.1–16.7% |
@@ -338,9 +339,9 @@ The following table shows the probability mass function per percentage block of 
 | 10.5–11.5% | 0.7% | 100% |  |
 | 11.5–12.5% | 6% | 99.3% |  |
 | 12.5–13.5% | 19% | 93% |  |
-| 13.5–14.5% | 30% | 74% | Median |
-| 14.5–15.5% | 25% | 44% |  |
-| 15.5–16.5% | 13% | 20% |  |
+| 13.5–14.5% | 29% | 74% | Median |
+| 14.5–15.5% | 25% | 45% |  |
+| 15.5–16.5% | 14% | 20% |  |
 | 16.5–17.5% | 5% | 7% |  |
 | 17.5–18.5% | 1.4% | 2% |  |
 | 18.5–19.5% | 0.3% | 0.3% |  |
@@ -357,6 +358,7 @@ Last result: **17** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12 | 11–14 | 11–15 | 10–15 | 10–16 |
+| [7–8 April 2020](2020-04-08-EMG.html) | EMG <br> Rai 3 | 13 | 12–13 | 11–14 | 11–14 | 11–15 |
 | [6–7 April 2020](2020-04-07-Ixè.html) | Ixè <br> Rai 3 | 14 | 13–15 | 12–15 | 12–16 | 11–16 |
 | [1–6 April 2020](2020-04-06-SWG.html) | SWG | 13 | 12–15 | 12–15 | 11–15 | 11–16 |
 | [2–3 April 2020](2020-04-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 12 | 11–13 | 10–13 | 10–14 | 9–14 |
@@ -685,8 +687,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0.2% | 100% |  |
 | 10 | 3% | 99.8% |  |
 | 11 | 21% | 97% |  |
-| 12 | 32% | 76% | Median |
-| 13 | 28% | 44% |  |
+| 12 | 30% | 76% | Median |
+| 13 | 30% | 46% |  |
 | 14 | 10% | 16% |  |
 | 15 | 5% | 6% |  |
 | 16 | 0.5% | 0.6% |  |
