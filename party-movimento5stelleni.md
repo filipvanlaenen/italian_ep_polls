@@ -10,7 +10,8 @@ Last result: **21.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.7% | 12.9–16.3% | 12.5–16.9% | 12.1–17.4% | 11.5–18.3% |
+| N/A | [Poll Average](average.html) | 14.8% | 13.0–16.4% | 12.5–17.0% | 12.1–17.4% | 11.5–18.4% |
+| [15–20 April 2020](2020-04-20-SWG.html) | SWG <br> La7 | 14.4% | 13.2–15.8% | 12.8–16.2% | 12.5–16.5% | 12.0–17.2% |
 | [16–17 April 2020](2020-04-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 14.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.3% | 11.4–17.0% |
 | [15–16 April 2020](2020-04-16-TermometroPolitico.html) | Termometro Politico | 14.9% | 14.1–15.7% | 13.9–16.0% | 13.7–16.2% | 13.4–16.6% |
 | [16 April 2020](2020-04-16-Index.html) | Index <br> La7 | 14.8% | 13.2–16.5% | 12.8–17.0% | 12.5–17.4% | 11.8–18.2% |
@@ -346,15 +347,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 9.5–10.5% | 0% | 100% |  |
-| 10.5–11.5% | 0.6% | 100% |  |
-| 11.5–12.5% | 5% | 99.4% |  |
-| 12.5–13.5% | 14% | 94% |  |
-| 13.5–14.5% | 26% | 80% |  |
-| 14.5–15.5% | 30% | 54% | Median |
-| 15.5–16.5% | 17% | 24% |  |
-| 16.5–17.5% | 6% | 8% |  |
+| 10.5–11.5% | 0.5% | 100% |  |
+| 11.5–12.5% | 5% | 99.5% |  |
+| 12.5–13.5% | 13% | 95% |  |
+| 13.5–14.5% | 24% | 82% |  |
+| 14.5–15.5% | 31% | 57% | Median |
+| 15.5–16.5% | 18% | 26% |  |
+| 16.5–17.5% | 6% | 9% |  |
 | 17.5–18.5% | 2% | 2% |  |
-| 18.5–19.5% | 0.3% | 0.3% |  |
+| 18.5–19.5% | 0.3% | 0.4% |  |
 | 19.5–20.5% | 0% | 0% |  |
 | 20.5–21.5% | 0% | 0% | Last Result |
 
@@ -367,7 +368,8 @@ Last result: **17** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 11–14 | 11–15 | 10–15 | 10–16 |
+| N/A | [Poll Average](average.html) | 13 | 11–14 | 11–15 | 11–15 | 10–16 |
+| [15–20 April 2020](2020-04-20-SWG.html) | SWG <br> La7 | 13 | 11–14 | 11–15 | 11–15 | 11–16 |
 | [16–17 April 2020](2020-04-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 12 | 11–14 | 10–14 | 10–15 | 10–15 |
 | [15–16 April 2020](2020-04-16-TermometroPolitico.html) | Termometro Politico | 13 | 12–14 | 12–14 | 12–14 | 12–15 |
 | [16 April 2020](2020-04-16-Index.html) | Index <br> La7 | 13 | 11–14 | 11–15 | 10–16 | 10–16 |
@@ -704,15 +706,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 0.1% | 100% |  |
-| 10 | 3% | 99.9% |  |
-| 11 | 12% | 97% |  |
-| 12 | 32% | 85% |  |
-| 13 | 33% | 54% | Median |
-| 14 | 15% | 21% |  |
-| 15 | 6% | 6% |  |
-| 16 | 0.7% | 0.7% |  |
-| 17 | 0% | 0.1% | Last Result |
+| 10 | 2% | 100% |  |
+| 11 | 11% | 98% |  |
+| 12 | 28% | 87% |  |
+| 13 | 34% | 60% | Median |
+| 14 | 18% | 25% |  |
+| 15 | 6% | 7% |  |
+| 16 | 0.9% | 0.9% |  |
+| 17 | 0.1% | 0.1% | Last Result |
 | 18 | 0% | 0% |  |
 
 
