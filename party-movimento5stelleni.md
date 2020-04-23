@@ -582,7 +582,7 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [9 October 2019](2019-10-09-EMG.html) | EMG <br> Rai 3 | 16 | 16 | 15–17 | 15–17 | 14–18 |
 | [7–9 October 2019](2019-10-09-BiDiMedia.html) | BiDiMedia | 16 | 15–17 | 15–17 | 15–17 | 14–18 |
 | [7–8 October 2019](2019-10-08-Ixè.html) | Ixè <br> Rai 3 | 17 | 16–19 | 15–19 | 15–19 | 14–20 |
-| [7–8 October 2019](2019-10-08-Euromedia.html) | Euromedia <br> Rai 1 | 15 | 14–17 | 13–17 | 13–18 | 13–19 |
+| [7–8 October 2019](2019-10-08-Euromedia.html) | Euromedia <br> Rai 1 | 17 | 16–18 | 15–18 | 14–18 | 13–19 |
 | [6–7 October 2019](2019-10-07-Tecnè.html) | Tecnè <br> Rete 4 | 17 | 16–18 | 15–18 | 15–19 | 15–20 |
 | [2–7 October 2019](2019-10-07-SWG.html) | SWG <br> La7 | 16 | 15–16 | 15–18 | 14–18 | 14–18 |
 | [7 October 2019](2019-10-07-Ipsos.html) | Ipsos <br> La7 | 16 | 14–18 | 14–18 | 13–18 | 12–19 |
@@ -591,7 +591,7 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [3 October 2019](2019-10-03-Index.html) | Index <br> La7 | 16 | 15–19 | 15–19 | 14–19 | 14–20 |
 | [1–3 October 2019](2019-10-03-DemosPi.html) | Demos & Pi <br> La Repubblica | 17 | 16–18 | 16–18 | 16–19 | 15–20 |
 | [2 October 2019](2019-10-02-EMG.html) | EMG <br> Rai 3 | 15 | 15–17 | 15–17 | 14–17 | 14–18 |
-| [30 September–1 October 2019](2019-10-01-Ixè.html) | Ixè <br> Rai 3 | 19 | 16–20 | 16–20 | 16–20 | 15–21 |
+| [30 September–1 October 2019](2019-10-01-Ixè.html) | Ixè <br> Rai 3 | 18 | 16–19 | 16–20 | 16–20 | 15–21 |
 | [29–30 September 2019](2019-09-30-Tecnè.html) | Tecnè <br> Rete 4 | 17 | 15–18 | 15–18 | 14–19 | 14–20 |
 | [25–30 September 2019](2019-09-30-SWG.html) | SWG <br> La7 | 17 | 16–18 | 16–18 | 14–19 | 14–19 |
 | [20–27 September 2019](2019-09-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 17 | 15–18 | 15–18 | 15–19 | 14–20 |
