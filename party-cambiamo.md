@@ -11,6 +11,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.9% | 0.4–1.6% | 0.4–1.8% | 0.3–1.9% | 0.2–2.3% |
+| [21–22 April 2020](2020-04-22-EMG.html) | EMG <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
+| [20–21 April 2020](2020-04-21-Ixè.html) | Ixè <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
 | [15–20 April 2020](2020-04-20-SWG.html) | SWG <br> La7 | 1.3% | 1.0–1.9% | 0.9–2.0% | 0.8–2.2% | 0.7–2.5% |
 | [16–17 April 2020](2020-04-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [15–16 April 2020](2020-04-16-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
@@ -362,6 +364,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [21–22 April 2020](2020-04-22-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
+| [20–21 April 2020](2020-04-21-Ixè.html) | Ixè <br> Rai 3 |  |  |  |  |  |
 | [15–20 April 2020](2020-04-20-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [16–17 April 2020](2020-04-17-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [15–16 April 2020](2020-04-16-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
