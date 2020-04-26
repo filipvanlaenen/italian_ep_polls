@@ -10,8 +10,10 @@ Last result: **21.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.9% | 13.5–16.5% | 13.0–17.1% | 12.7–17.6% | 12.0–18.6% |
-| [21–22 April 2020](2020-04-22-EMG.html) | EMG <br> Rai 3 | 14.7% | 13.7–15.9% | 13.4–16.1% | 13.1–16.5% | 12.6–17.0% |
+| N/A | [Poll Average](average.html) | 15.0% | 13.6–16.7% | 13.2–17.3% | 12.8–17.8% | 12.1–18.7% |
+| [23–24 April 2020](2020-04-24-Tecnè.html) | Tecnè <br> Agenzia Dire | 14.0% | N/A | N/A | N/A | N/A |
+| [22–23 April 2020](2020-04-23-TermometroPolitico.html) | Termometro Politico | 14.2% | N/A | N/A | N/A | N/A |
+| [21–22 April 2020](2020-04-22-EMG.html) | EMG <br> Rai 3 | 14.7% | 13.7–15.8% | 13.4–16.1% | 13.1–16.4% | 12.7–17.0% |
 | [20–21 April 2020](2020-04-21-Ixè.html) | Ixè <br> Rai 3 | 16.4% | 15.0–18.0% | 14.6–18.4% | 14.2–18.8% | 13.6–19.6% |
 | [15–20 April 2020](2020-04-20-SWG.html) | SWG <br> La7 | 14.4% | 13.2–15.8% | 12.8–16.2% | 12.5–16.5% | 12.0–17.2% |
 | [16–17 April 2020](2020-04-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 14.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.3% | 11.4–17.0% |
@@ -349,15 +351,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 9.5–10.5% | 0% | 100% |  |
-| 10.5–11.5% | 0.2% | 100% |  |
-| 11.5–12.5% | 2% | 99.8% |  |
-| 12.5–13.5% | 9% | 98% |  |
-| 13.5–14.5% | 27% | 89% |  |
-| 14.5–15.5% | 34% | 62% | Median |
-| 15.5–16.5% | 19% | 28% |  |
-| 16.5–17.5% | 7% | 10% |  |
-| 17.5–18.5% | 2% | 3% |  |
-| 18.5–19.5% | 0.5% | 0.6% |  |
+| 10.5–11.5% | 0.1% | 100% |  |
+| 11.5–12.5% | 1.3% | 99.9% |  |
+| 12.5–13.5% | 9% | 98.6% |  |
+| 13.5–14.5% | 25% | 90% |  |
+| 14.5–15.5% | 32% | 65% | Median |
+| 15.5–16.5% | 21% | 33% |  |
+| 16.5–17.5% | 9% | 12% |  |
+| 17.5–18.5% | 3% | 4% |  |
+| 18.5–19.5% | 0.6% | 0.7% |  |
 | 19.5–20.5% | 0.1% | 0.1% |  |
 | 20.5–21.5% | 0% | 0% | Last Result |
 
@@ -371,7 +373,9 @@ Last result: **17** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 12–14 | 11–15 | 11–15 | 10–16 |
-| [21–22 April 2020](2020-04-22-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
+| [23–24 April 2020](2020-04-24-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [22–23 April 2020](2020-04-23-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [21–22 April 2020](2020-04-22-EMG.html) | EMG <br> Rai 3 | 12 | 12–13 | 11–14 | 11–14 | 11–14 |
 | [20–21 April 2020](2020-04-21-Ixè.html) | Ixè <br> Rai 3 | 14 | 12–15 | 12–16 | 12–16 | 11–16 |
 | [15–20 April 2020](2020-04-20-SWG.html) | SWG <br> La7 | 13 | 11–14 | 11–15 | 11–15 | 11–16 |
 | [16–17 April 2020](2020-04-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 12 | 11–14 | 10–14 | 10–15 | 10–15 |
@@ -710,13 +714,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 1.4% | 100% |  |
-| 11 | 8% | 98.5% |  |
-| 12 | 25% | 90% |  |
-| 13 | 35% | 65% | Median |
-| 14 | 22% | 30% |  |
-| 15 | 6% | 8% |  |
-| 16 | 1.4% | 2% |  |
+| 10 | 0.8% | 100% |  |
+| 11 | 7% | 99.2% |  |
+| 12 | 30% | 92% |  |
+| 13 | 34% | 62% | Median |
+| 14 | 20% | 28% |  |
+| 15 | 7% | 8% |  |
+| 16 | 2% | 2% |  |
 | 17 | 0.1% | 0.1% | Last Result |
 | 18 | 0% | 0% |  |
 
