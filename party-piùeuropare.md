@@ -13,7 +13,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 1.7% | 1.3–2.4% | 1.1–2.6% | 1.0–2.8% | 0.8–3.2% |
 | [23–24 April 2020](2020-04-24-Tecnè.html) | Tecnè <br> Agenzia Dire | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
 | [22–23 April 2020](2020-04-23-TermometroPolitico.html) | Termometro Politico | 1.5% | 1.2–1.9% | 1.1–2.0% | 1.1–2.1% | 0.9–2.3% |
-| [22–23 April 2020](2020-04-23-Ipsos.html) | Ipsos <br> Corriere della Sera | 1.7% | N/A | N/A | N/A | N/A |
+| [22–23 April 2020](2020-04-23-Ipsos.html) | Ipsos <br> Corriere della Sera | 1.7% | 1.3–2.4% | 1.2–2.5% | 1.1–2.7% | 0.9–3.1% |
 | [21–22 April 2020](2020-04-22-EMG.html) | EMG <br> Rai 3 | 1.7% | 1.3–2.1% | 1.2–2.3% | 1.2–2.4% | 1.0–2.6% |
 | [20–21 April 2020](2020-04-21-Ixè.html) | Ixè <br> Rai 3 | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
 | [15–20 April 2020](2020-04-20-SWG.html) | SWG <br> La7 | 2.0% | 1.6–2.6% | 1.4–2.8% | 1.3–3.0% | 1.2–3.3% |
@@ -354,7 +354,7 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 32% | 100% |  |
 | 1.5–2.5% | 62% | 68% | Median |
-| 2.5–3.5% | 6% | 6% |  |
+| 2.5–3.5% | 5% | 6% |  |
 | 3.5–4.5% | 0.1% | 0.1% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
@@ -370,7 +370,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [23–24 April 2020](2020-04-24-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
 | [22–23 April 2020](2020-04-23-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
-| [22–23 April 2020](2020-04-23-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
+| [22–23 April 2020](2020-04-23-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
 | [21–22 April 2020](2020-04-22-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [20–21 April 2020](2020-04-21-Ixè.html) | Ixè <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [15–20 April 2020](2020-04-20-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |

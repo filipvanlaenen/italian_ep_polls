@@ -10,10 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.9% | 1.3–2.5% | 1.2–2.7% | 1.1–2.8% | 0.9–3.2% |
+| N/A | [Poll Average](average.html) | 1.9% | 1.4–2.5% | 1.2–2.7% | 1.1–2.9% | 0.9–3.3% |
 | [23–24 April 2020](2020-04-24-Tecnè.html) | Tecnè <br> Agenzia Dire | 1.8% | 1.4–2.5% | 1.2–2.7% | 1.1–2.8% | 1.0–3.2% |
 | [22–23 April 2020](2020-04-23-TermometroPolitico.html) | Termometro Politico | 1.5% | 1.2–1.9% | 1.1–2.0% | 1.1–2.1% | 0.9–2.3% |
-| [22–23 April 2020](2020-04-23-Ipsos.html) | Ipsos <br> Corriere della Sera | 1.9% | N/A | N/A | N/A | N/A |
+| [22–23 April 2020](2020-04-23-Ipsos.html) | Ipsos <br> Corriere della Sera | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–3.0% | 1.0–3.3% |
 | [21–22 April 2020](2020-04-22-EMG.html) | EMG <br> Rai 3 | 1.9% | 1.5–2.4% | 1.4–2.5% | 1.4–2.7% | 1.2–2.9% |
 | [20–21 April 2020](2020-04-21-Ixè.html) | Ixè <br> Rai 3 | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
 | [15–20 April 2020](2020-04-20-SWG.html) | SWG <br> La7 | 1.9% | 1.5–2.5% | 1.4–2.7% | 1.3–2.9% | 1.1–3.2% |
@@ -352,9 +352,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 24% | 100% |  |
-| 1.5–2.5% | 69% | 76% | Median |
-| 2.5–3.5% | 7% | 8% |  |
+| 0.5–1.5% | 23% | 100% |  |
+| 1.5–2.5% | 69% | 77% | Median |
+| 2.5–3.5% | 8% | 8% |  |
 | 3.5–4.5% | 0.1% | 0.1% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
@@ -370,7 +370,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [23–24 April 2020](2020-04-24-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
 | [22–23 April 2020](2020-04-23-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
-| [22–23 April 2020](2020-04-23-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
+| [22–23 April 2020](2020-04-23-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
 | [21–22 April 2020](2020-04-22-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [20–21 April 2020](2020-04-21-Ixè.html) | Ixè <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [15–20 April 2020](2020-04-20-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
