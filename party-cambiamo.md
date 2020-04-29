@@ -11,9 +11,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.9% | 0.4–1.4% | 0.4–1.6% | 0.3–1.7% | 0.2–2.1% |
+| [27–28 April 2020](2020-04-28-Ixè.html) | Ixè <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
 | [22–27 April 2020](2020-04-27-SWG.html) | SWG | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.6–1.8% | 0.5–2.0% |
 | [23–24 April 2020](2020-04-24-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [22–23 April 2020](2020-04-23-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
+| [21–23 April 2020](2020-04-23-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 0.0% | N/A | N/A | N/A | N/A |
 | [22–23 April 2020](2020-04-23-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.0% | N/A | N/A | N/A | N/A |
 | [21–22 April 2020](2020-04-22-EMG.html) | EMG <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
 | [20–21 April 2020](2020-04-21-Ixè.html) | Ixè <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
@@ -368,9 +370,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [27–28 April 2020](2020-04-28-Ixè.html) | Ixè <br> Rai 3 |  |  |  |  |  |
 | [22–27 April 2020](2020-04-27-SWG.html) | SWG | 0 | 0 | 0 | 0 | 0 |
 | [23–24 April 2020](2020-04-24-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [22–23 April 2020](2020-04-23-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [21–23 April 2020](2020-04-23-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll |  |  |  |  |  |
 | [22–23 April 2020](2020-04-23-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
 | [21–22 April 2020](2020-04-22-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [20–21 April 2020](2020-04-21-Ixè.html) | Ixè <br> Rai 3 |  |  |  |  |  |
