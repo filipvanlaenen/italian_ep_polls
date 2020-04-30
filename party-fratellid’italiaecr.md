@@ -11,6 +11,7 @@ Last result: **3.7%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13.6% | 12.0–15.0% | 11.5–15.5% | 11.1–15.9% | 10.3–16.7% |
+| [28–29 April 2020](2020-04-29-EMG.html) | EMG <br> Rai 3 | 13.7% | 12.7–14.8% | 12.4–15.2% | 12.1–15.5% | 11.6–16.0% |
 | [27–28 April 2020](2020-04-28-Ixè.html) | Ixè <br> Rai 3 | 12.0% | 10.8–13.4% | 10.4–13.8% | 10.1–14.2% | 9.6–14.9% |
 | [22–27 April 2020](2020-04-27-SWG.html) | SWG | 13.8% | 12.5–15.1% | 12.2–15.5% | 11.9–15.8% | 11.4–16.5% |
 | [23–24 April 2020](2020-04-24-Tecnè.html) | Tecnè <br> Agenzia Dire | 14.3% | 13.0–15.8% | 12.6–16.2% | 12.3–16.6% | 11.6–17.4% |
@@ -381,6 +382,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12 | 10–13 | 10–14 | 9–14 | 9–15 |
+| [28–29 April 2020](2020-04-29-EMG.html) | EMG <br> Rai 3 | 12 | 11–13 | 10–13 | 10–13 | 10–14 |
 | [27–28 April 2020](2020-04-28-Ixè.html) | Ixè <br> Rai 3 | 10 | 9–12 | 9–12 | 9–13 | 8–13 |
 | [22–27 April 2020](2020-04-27-SWG.html) | SWG | 13 | 11–14 | 11–14 | 10–14 | 10–15 |
 | [23–24 April 2020](2020-04-24-Tecnè.html) | Tecnè <br> Agenzia Dire | 13 | 11–14 | 11–14 | 11–15 | 10–15 |
@@ -737,8 +739,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0.1% | 100% |  |
 | 9 | 3% | 99.9% |  |
 | 10 | 11% | 97% |  |
-| 11 | 24% | 86% |  |
-| 12 | 34% | 62% | Median |
+| 11 | 26% | 86% |  |
+| 12 | 32% | 60% | Median |
 | 13 | 19% | 27% |  |
 | 14 | 7% | 8% |  |
 | 15 | 0.6% | 0.6% |  |
