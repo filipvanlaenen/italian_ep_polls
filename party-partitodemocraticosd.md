@@ -11,6 +11,7 @@ Last result: **40.8%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 21.5% | 19.7–23.3% | 19.2–23.9% | 18.8–24.4% | 18.0–25.4% |
+| [30 April 2020](2020-04-30-Index.html) | Index <br> La7 | 21.6% | 19.8–23.6% | 19.3–24.1% | 18.9–24.6% | 18.1–25.6% |
 | [28–29 April 2020](2020-04-29-EMG.html) | EMG <br> Rai 3 | 20.7% | 19.4–22.0% | 19.1–22.4% | 18.8–22.7% | 18.2–23.4% |
 | [27–28 April 2020](2020-04-28-Ixè.html) | Ixè <br> Rai 3 | 22.9% | 21.3–24.7% | 20.8–25.2% | 20.4–25.6% | 19.6–26.5% |
 | [22–27 April 2020](2020-04-27-SWG.html) | SWG | 20.2% | 18.8–21.8% | 18.4–22.2% | 18.1–22.6% | 17.4–23.4% |
@@ -392,6 +393,7 @@ Last result: **31** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18 | 16–19 | 15–20 | 15–20 | 14–21 |
+| [30 April 2020](2020-04-30-Index.html) | Index <br> La7 | 17 | 17–19 | 16–20 | 15–20 | 14–20 |
 | [28–29 April 2020](2020-04-29-EMG.html) | EMG <br> Rai 3 | 17 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [27–28 April 2020](2020-04-28-Ixè.html) | Ixè <br> Rai 3 | 19 | 17–21 | 17–21 | 17–21 | 16–22 |
 | [22–27 April 2020](2020-04-27-SWG.html) | SWG | 17 | 15–18 | 15–19 | 15–19 | 14–20 |
@@ -616,7 +618,7 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [7–8 October 2019](2019-10-08-Ixè.html) | Ixè <br> Rai 3 | 18 | 16–19 | 16–20 | 15–20 | 15–21 |
 | [7–8 October 2019](2019-10-08-Euromedia.html) | Euromedia <br> Rai 1 | 14 | 13–15 | 12–15 | 12–16 | 11–17 |
 | [6–7 October 2019](2019-10-07-Tecnè.html) | Tecnè <br> Rete 4 | 15 | 14–17 | 14–18 | 14–18 | 13–19 |
-| [2–7 October 2019](2019-10-07-SWG.html) | SWG <br> La7 | 16 | 15–17 | 15–17 | 15–18 | 14–19 |
+| [2–7 October 2019](2019-10-07-SWG.html) | SWG <br> La7 | 16 | 15–17 | 14–17 | 14–18 | 14–18 |
 | [7 October 2019](2019-10-07-Ipsos.html) | Ipsos <br> La7 | 15 | 13–17 | 13–17 | 13–18 | 12–19 |
 | [3–5 October 2019](2019-10-05-Piepoli.html) | Piepoli <br> Rai 1 | 16 | 14–18 | 14–19 | 13–19 | 12–20 |
 | [3–4 October 2019](2019-10-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 16 | 14–17 | 14–17 | 13–17 | 13–18 |
@@ -739,16 +741,16 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 13 | 0.1% | 100% |  |
-| 14 | 0.6% | 99.9% |  |
-| 15 | 5% | 99.4% |  |
+| 14 | 0.5% | 99.9% |  |
+| 15 | 5% | 99.5% |  |
 | 16 | 12% | 95% |  |
-| 17 | 25% | 82% |  |
-| 18 | 25% | 57% | Median |
-| 19 | 25% | 32% |  |
-| 20 | 5% | 7% |  |
-| 21 | 2% | 2% |  |
+| 17 | 28% | 83% |  |
+| 18 | 24% | 55% | Median |
+| 19 | 25% | 31% |  |
+| 20 | 5% | 6% |  |
+| 21 | 1.3% | 1.5% |  |
 | 22 | 0.1% | 0.2% |  |
-| 23 | 0% | 0.1% |  |
+| 23 | 0.1% | 0.1% |  |
 | 24 | 0% | 0% |  |
 | 25 | 0% | 0% |  |
 | 26 | 0% | 0% |  |
