@@ -383,7 +383,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12 | 10–13 | 10–14 | 9–14 | 9–15 |
-| [30 April 2020](2020-04-30-Index.html) | Index <br> La7 | 12 | 11–13 | 11–13 | 10–14 | 9–15 |
+| [30 April 2020](2020-04-30-Index.html) | Index <br> La7 | 12 | 10–13 | 10–14 | 10–14 | 9–15 |
 | [28–29 April 2020](2020-04-29-EMG.html) | EMG <br> Rai 3 | 12 | 11–13 | 10–13 | 10–13 | 10–14 |
 | [27–28 April 2020](2020-04-28-Ixè.html) | Ixè <br> Rai 3 | 10 | 9–12 | 9–12 | 9–13 | 8–13 |
 | [22–27 April 2020](2020-04-27-SWG.html) | SWG | 13 | 11–14 | 11–14 | 10–14 | 10–15 |
@@ -740,12 +740,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0.1% | 100% |  |
 | 9 | 3% | 99.9% |  |
-| 10 | 7% | 97% |  |
-| 11 | 25% | 90% |  |
-| 12 | 37% | 65% | Median |
+| 10 | 8% | 97% |  |
+| 11 | 25% | 89% |  |
+| 12 | 36% | 64% | Median |
 | 13 | 19% | 28% |  |
-| 14 | 7% | 8% |  |
-| 15 | 0.8% | 0.8% |  |
+| 14 | 8% | 9% |  |
+| 15 | 0.6% | 0.7% |  |
 | 16 | 0.1% | 0.1% |  |
 | 17 | 0% | 0% |  |
 
