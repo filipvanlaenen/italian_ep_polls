@@ -38,7 +38,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [8–13 April 2020](2020-04-13-SWG.html) | SWG | 1.3% | 1.0–1.9% | 0.9–2.0% | 0.8–2.2% | 0.7–2.5% |
 | [9–10 April 2020](2020-04-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [8–9 April 2020](2020-04-09-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
-| [9 April 2020](2020-04-09-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 2.0% | N/A | N/A | N/A | N/A |
+| [9 April 2020](2020-04-09-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [9 April 2020](2020-04-09-Index.html) | Index <br> La7 | 0.5% | 0.3–1.0% | 0.2–1.1% | 0.2–1.3% | 0.1–1.6% |
 | [7–8 April 2020](2020-04-08-EMG.html) | EMG <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
 | [6–7 April 2020](2020-04-07-Ixè.html) | Ixè <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
@@ -407,7 +407,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [8–13 April 2020](2020-04-13-SWG.html) | SWG | 0 | 0 | 0 | 0 | 0 |
 | [9–10 April 2020](2020-04-10-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [8–9 April 2020](2020-04-09-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [9 April 2020](2020-04-09-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
+| [9 April 2020](2020-04-09-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
 | [9 April 2020](2020-04-09-Index.html) | Index <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [7–8 April 2020](2020-04-08-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [6–7 April 2020](2020-04-07-Ixè.html) | Ixè <br> Rai 3 |  |  |  |  |  |
