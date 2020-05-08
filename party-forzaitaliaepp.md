@@ -633,7 +633,7 @@ Last result: **13** seats (General Election of 26 May 2019)
 | [30 September–1 October 2019](2019-10-01-Ixè.html) | Ixè <br> Rai 3 | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | [29–30 September 2019](2019-09-30-Tecnè.html) | Tecnè <br> Rete 4 | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
 | [25–30 September 2019](2019-09-30-SWG.html) | SWG <br> La7 | 4 | 4 | 4–5 | 4–5 | 0–6 |
-| [20–27 September 2019](2019-09-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 6 | 5–8 | 5–8 | 5–8 | 5–9 |
+| [20–27 September 2019](2019-09-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
 | [23–27 September 2019](2019-09-27-GPF.html) | GPF <br> La Notizia | 5 | 4–5 | 4–6 | 4–6 | 3–7 |
 | [25–26 September 2019](2019-09-26-TermometroPolitico.html) | Termometro Politico <br> La7 | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [25–26 September 2019](2019-09-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 6 | 5–7 | 5–7 | 5–7 | 4–8 |

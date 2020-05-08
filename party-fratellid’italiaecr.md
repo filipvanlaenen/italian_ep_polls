@@ -634,7 +634,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [30 September–1 October 2019](2019-10-01-Ixè.html) | Ixè <br> Rai 3 | 7 | 6–8 | 6–9 | 6–9 | 6–9 |
 | [29–30 September 2019](2019-09-30-Tecnè.html) | Tecnè <br> Rete 4 | 6 | 5–7 | 5–8 | 5–8 | 5–9 |
 | [25–30 September 2019](2019-09-30-SWG.html) | SWG <br> La7 | 7 | 6–7 | 5–7 | 5–7 | 5–8 |
-| [20–27 September 2019](2019-09-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 6 | 5–7 | 5–8 | 5–8 | 4–8 |
+| [20–27 September 2019](2019-09-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 6 | 5–8 | 5–8 | 5–8 | 4–9 |
 | [23–27 September 2019](2019-09-27-GPF.html) | GPF <br> La Notizia | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
 | [25–26 September 2019](2019-09-26-TermometroPolitico.html) | Termometro Politico <br> La7 | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
 | [25–26 September 2019](2019-09-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 7 | 6–8 | 6–9 | 6–9 | 5–10 |
@@ -686,7 +686,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [21 August 2019](2019-08-21-Tecnè.html) | Tecnè | 5 | 5–6 | 4–6 | 4–7 | 4–7 |
 | [21 August 2019](2019-08-21-IZI.html) | IZI | 7 | 6–7 | 5–7 | 5–8 | 5–8 |
 | [20–21 August 2019](2019-08-21-GPF.html) | GPF | 6 | 5–7 | 4–7 | 4–7 | 4–8 |
-| [12 August 2019](2019-08-12-GPF.html) | GPF | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
+| [12 August 2019](2019-08-12-GPF.html) | GPF | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
 | [9–10 August 2019](2019-08-10-TermometroPolitico.html) | Termometro Politico <br> La7 | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [1–9 August 2019](2019-08-09-NotoSondaggi.html) | Noto Sondaggi | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [5 August 2019](2019-08-05-Tecnè.html) | Tecnè <br> Dire | 5 | 4–6 | 4–6 | 4–6 | 3–7 |

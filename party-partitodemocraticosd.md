@@ -696,7 +696,7 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [21 August 2019](2019-08-21-Tecnè.html) | Tecnè | 19 | 17–20 | 17–21 | 16–21 | 16–22 |
 | [21 August 2019](2019-08-21-IZI.html) | IZI | 17 | 16–18 | 16–19 | 15–19 | 15–20 |
 | [20–21 August 2019](2019-08-21-GPF.html) | GPF | 18 | 16–20 | 16–21 | 16–21 | 15–22 |
-| [12 August 2019](2019-08-12-GPF.html) | GPF | 17 | 15–19 | 15–19 | 14–19 | 14–20 |
+| [12 August 2019](2019-08-12-GPF.html) | GPF | 17 | 15–18 | 15–19 | 15–19 | 14–20 |
 | [9–10 August 2019](2019-08-10-TermometroPolitico.html) | Termometro Politico <br> La7 | 17 | 17–18 | 16–19 | 16–19 | 16–19 |
 | [1–9 August 2019](2019-08-09-NotoSondaggi.html) | Noto Sondaggi | 16 | 15–18 | 15–18 | 15–19 | 14–19 |
 | [5 August 2019](2019-08-05-Tecnè.html) | Tecnè <br> Dire | 17 | 15–18 | 15–19 | 15–19 | 14–20 |
