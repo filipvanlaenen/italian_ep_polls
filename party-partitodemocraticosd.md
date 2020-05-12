@@ -410,17 +410,17 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [7–8 May 2020](2020-05-08-Tecnè.html) | Tecnè <br> Agenzia Dire | 17 | 16–19 | 15–19 | 15–20 | 14–20 |
 | [6–7 May 2020](2020-05-07-TermometroPolitico.html) | Termometro Politico | 18 | 17–18 | 17–19 | 17–19 | 16–19 |
 | [7 May 2020](2020-05-07-Index.html) | Index <br> La7 | 18 | 16–20 | 16–21 | 15–21 | 14–22 |
-| [6 May 2020](2020-05-06-Euromedia.html) | Euromedia | 17 | 14–18 | 14–19 | 14–19 | 13–20 |
-| [5–6 May 2020](2020-05-06-EMG.html) | EMG <br> Rai 3 | 17 | 16–17 | 16–18 | 16–18 | 15–19 |
+| [6 May 2020](2020-05-06-Euromedia.html) | Euromedia | 17 | 15–20 | 15–20 | 14–20 | 14–22 |
+| [5–6 May 2020](2020-05-06-EMG.html) | EMG <br> Rai 3 | 17 | 16–18 | 15–18 | 15–18 | 15–19 |
 | [4–5 May 2020](2020-05-05-Ixè.html) | Ixè <br> Rai 3 | 19 | 17–20 | 17–21 | 17–21 | 16–22 |
 | [29 April–4 May 2020](2020-05-04-SWG.html) | SWG <br> La7 | 18 | 15–19 | 15–19 | 15–19 | 14–20 |
-| [4 May 2020](2020-05-04-Piepoli.html) | Piepoli | 17 | 16–19 | 15–19 | 15–19 | 14–20 |
+| [4 May 2020](2020-05-04-Piepoli.html) | Piepoli | 17 | 16–18 | 15–19 | 15–19 | 14–20 |
 | [29–30 April 2020](2020-04-30-TermometroPolitico.html) | Termometro Politico | 18 | 17–19 | 17–19 | 17–19 | 16–20 |
 | [30 April 2020](2020-04-30-Tecnè.html) | Tecnè <br> Agenzia Dire | 17 | 16–19 | 15–19 | 15–20 | 14–20 |
 | [30 April 2020](2020-04-30-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 18 | 16–20 | 16–20 | 15–20 | 15–21 |
 | [28–30 April 2020](2020-04-30-DemosPi.html) | Demos & Pi <br> La Repubblica | 17 | 16–19 | 15–19 | 15–19 | 14–20 |
 | [29–30 April 2020](2020-04-30-Demopolis.html) | Demopolis | 16 | 15–17 | 14–17 | 14–18 | 14–18 |
-| [29 April 2020](2020-04-29-Index.html) | Index <br> La7 | 17 | 17–19 | 16–20 | 15–20 | 14–20 |
+| [29 April 2020](2020-04-29-Index.html) | Index <br> La7 | 17 | 16–20 | 16–20 | 15–21 | 14–22 |
 | [28–29 April 2020](2020-04-29-EMG.html) | EMG <br> Rai 3 | 17 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [27–28 April 2020](2020-04-28-Ixè.html) | Ixè <br> Rai 3 | 19 | 17–21 | 17–21 | 17–21 | 16–22 |
 | [22–27 April 2020](2020-04-27-SWG.html) | SWG <br> La7 | 17 | 15–18 | 15–19 | 15–19 | 14–20 |
@@ -768,16 +768,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 13 | 0.1% | 100% |  |
-| 14 | 2% | 99.9% |  |
-| 15 | 6% | 98% |  |
-| 16 | 13% | 92% |  |
-| 17 | 29% | 80% |  |
-| 18 | 27% | 50% | Median |
+| 13 | 0% | 100% |  |
+| 14 | 1.0% | 99.9% |  |
+| 15 | 6% | 98.9% |  |
+| 16 | 17% | 93% |  |
+| 17 | 25% | 76% |  |
+| 18 | 27% | 51% | Median |
 | 19 | 18% | 24% |  |
-| 20 | 4% | 5% |  |
-| 21 | 0.9% | 1.2% |  |
-| 22 | 0.3% | 0.3% |  |
+| 20 | 5% | 6% |  |
+| 21 | 0.9% | 1.3% |  |
+| 22 | 0.3% | 0.4% |  |
 | 23 | 0% | 0% |  |
 | 24 | 0% | 0% |  |
 | 25 | 0% | 0% |  |

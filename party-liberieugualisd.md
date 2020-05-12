@@ -392,7 +392,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [7–8 May 2020](2020-05-08-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0–3 | 0–4 |
 | [6–7 May 2020](2020-05-07-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [7 May 2020](2020-05-07-Index.html) | Index <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [6 May 2020](2020-05-06-Euromedia.html) | Euromedia | 0 | 0 | 0 | 0 | 0 |
+| [6 May 2020](2020-05-06-Euromedia.html) | Euromedia | 0 | 0 | 0 | 0 | 0–3 |
 | [5–6 May 2020](2020-05-06-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [4–5 May 2020](2020-05-05-Ixè.html) | Ixè <br> Rai 3 | 0 | 0 | 0 | 0–3 | 0–4 |
 | [29 April–4 May 2020](2020-05-04-SWG.html) | SWG <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |

@@ -397,10 +397,10 @@ Last result: **13** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–7 | 4–7 | 4–8 | 4–8 |
 | [7–8 May 2020](2020-05-08-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
-| [6–7 May 2020](2020-05-07-TermometroPolitico.html) | Termometro Politico | 5 | 5 | 5 | 5 | 4–6 |
+| [6–7 May 2020](2020-05-07-TermometroPolitico.html) | Termometro Politico | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [7 May 2020](2020-05-07-Index.html) | Index <br> La7 | 6 | 5–7 | 5–7 | 4–8 | 4–8 |
-| [6 May 2020](2020-05-06-Euromedia.html) | Euromedia | 6 | 5–7 | 5–8 | 5–8 | 4–9 |
-| [5–6 May 2020](2020-05-06-EMG.html) | EMG <br> Rai 3 | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
+| [6 May 2020](2020-05-06-Euromedia.html) | Euromedia | 7 | 6–7 | 5–8 | 5–8 | 4–9 |
+| [5–6 May 2020](2020-05-06-EMG.html) | EMG <br> Rai 3 | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [4–5 May 2020](2020-05-05-Ixè.html) | Ixè <br> Rai 3 | 7 | 5–7 | 5–7 | 5–8 | 5–8 |
 | [29 April–4 May 2020](2020-05-04-SWG.html) | SWG <br> La7 | 5 | 4–5 | 4–6 | 4–6 | 0–6 |
 | [4 May 2020](2020-05-04-Piepoli.html) | Piepoli | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
@@ -409,7 +409,7 @@ Last result: **13** seats (General Election of 26 May 2019)
 | [30 April 2020](2020-04-30-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [28–30 April 2020](2020-04-30-DemosPi.html) | Demos & Pi <br> La Repubblica | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
 | [29–30 April 2020](2020-04-30-Demopolis.html) | Demopolis | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
-| [29 April 2020](2020-04-29-Index.html) | Index <br> La7 | 6 | 5–6 | 5–7 | 5–7 | 5–9 |
+| [29 April 2020](2020-04-29-Index.html) | Index <br> La7 | 6 | 5–7 | 5–7 | 5–9 | 4–9 |
 | [28–29 April 2020](2020-04-29-EMG.html) | EMG <br> Rai 3 | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
 | [27–28 April 2020](2020-04-28-Ixè.html) | Ixè <br> Rai 3 | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | [22–27 April 2020](2020-04-27-SWG.html) | SWG <br> La7 | 6 | 5–6 | 4–7 | 4–7 | 4–8 |
@@ -760,11 +760,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0.1% | 100% |  |
 | 1 | 0% | 99.9% |  |
 | 2 | 0% | 99.9% |  |
-| 3 | 0.2% | 99.9% |  |
-| 4 | 12% | 99.7% |  |
-| 5 | 42% | 87% | Median |
-| 6 | 24% | 45% |  |
-| 7 | 17% | 21% |  |
+| 3 | 0.1% | 99.9% |  |
+| 4 | 11% | 99.7% |  |
+| 5 | 39% | 89% | Median |
+| 6 | 27% | 50% |  |
+| 7 | 19% | 23% |  |
 | 8 | 4% | 4% |  |
 | 9 | 0.3% | 0.3% |  |
 | 10 | 0% | 0% |  |

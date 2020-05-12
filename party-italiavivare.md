@@ -393,10 +393,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [6–7 May 2020](2020-05-07-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [7 May 2020](2020-05-07-Index.html) | Index <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [6 May 2020](2020-05-06-Euromedia.html) | Euromedia | 0 | 0 | 0 | 0–4 | 0–4 |
-| [5–6 May 2020](2020-05-06-EMG.html) | EMG <br> Rai 3 | 4 | 4 | 4–5 | 4–5 | 0–5 |
+| [5–6 May 2020](2020-05-06-EMG.html) | EMG <br> Rai 3 | 4 | 4–5 | 4–5 | 4–5 | 0–5 |
 | [4–5 May 2020](2020-05-05-Ixè.html) | Ixè <br> Rai 3 | 0 | 0 | 0 | 0 | 0–3 |
 | [29 April–4 May 2020](2020-05-04-SWG.html) | SWG <br> La7 | 0 | 0 | 0–4 | 0–4 | 0–4 |
-| [4 May 2020](2020-05-04-Piepoli.html) | Piepoli | 0 | 0 | 0 | 0–3 | 0–4 |
+| [4 May 2020](2020-05-04-Piepoli.html) | Piepoli | 0 | 0 | 0–3 | 0–3 | 0–4 |
 | [29–30 April 2020](2020-04-30-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [30 April 2020](2020-04-30-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [30 April 2020](2020-04-30-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
@@ -754,8 +754,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 17% |  |
 | 2 | 0% | 17% |  |
 | 3 | 2% | 17% |  |
-| 4 | 14% | 14% |  |
-| 5 | 0.7% | 0.8% |  |
+| 4 | 12% | 14% |  |
+| 5 | 2% | 2% |  |
 | 6 | 0% | 0% |  |
 
 
