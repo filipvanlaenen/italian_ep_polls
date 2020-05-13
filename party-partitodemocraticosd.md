@@ -640,7 +640,7 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [9–11 October 2019](2019-10-11-Demopolis.html) | Demopolis <br> Rai 3 | 14 | 13–15 | 13–15 | 12–16 | 12–17 |
 | [9–10 October 2019](2019-10-10-TermometroPolitico.html) | Termometro Politico <br> La7 | 15 | 14–15 | 14–17 | 14–17 | 13–17 |
 | [10 October 2019](2019-10-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 15 | 13–16 | 13–17 | 13–17 | 12–17 |
-| [9 October 2019](2019-10-09-Index.html) | Index <br> La7 | 16 | 14–17 | 14–18 | 13–18 | 13–19 |
+| [9 October 2019](2019-10-09-Index.html) | Index <br> La7 | 15 | 14–17 | 13–18 | 13–18 | 12–19 |
 | [9 October 2019](2019-10-09-EMG.html) | EMG <br> Rai 3 | 16 | 15–16 | 14–16 | 14–16 | 12–18 |
 | [7–9 October 2019](2019-10-09-BiDiMedia.html) | BiDiMedia | 15 | 14–16 | 14–16 | 13–17 | 12–17 |
 | [7–8 October 2019](2019-10-08-Ixè.html) | Ixè <br> Rai 3 | 18 | 16–19 | 16–20 | 15–20 | 15–21 |
@@ -681,7 +681,7 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [15–16 September 2019](2019-09-16-Tecnè.html) | Tecnè <br> Rete 4 | 18 | 17–20 | 16–20 | 16–21 | 15–21 |
 | [11–16 September 2019](2019-09-16-SWG.html) | SWG <br> La7 | 18 | 17–18 | 16–18 | 15–19 | 15–20 |
 | [11–12 September 2019](2019-09-12-TermometroPolitico.html) | Termometro Politico <br> La7 | 19 | 18–19 | 18–19 | 17–19 | 17–20 |
-| [12 September 2019](2019-09-12-Tecnè.html) | Tecnè <br> Rete 4 | 19 | 17–20 | 17–21 | 16–21 | 16–22 |
+| [12 September 2019](2019-09-12-Tecnè.html) | Tecnè <br> Rete 4 | 19 | 17–20 | 17–21 | 16–21 | 15–22 |
 | [9–12 September 2019](2019-09-12-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 18 | 18–20 | 17–20 | 17–21 | 16–21 |
 | [10–12 September 2019](2019-09-12-DemosPi.html) | Demos & Pi <br> La Repubblica | 17 | 16–18 | 15–19 | 15–19 | 14–20 |
 | [9–10 September 2019](2019-09-10-NotoSondaggi.html) | Noto Sondaggi | 18 | 18–20 | 17–20 | 16–21 | 16–21 |
