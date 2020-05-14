@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/italian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2020-05-13T19:31:12.966329+02:00</updated>
+  <updated>2020-05-14T18:12:18.775768+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Movimento 5 Stelle (NI): 12.8–17.3%, 11–15 seats</li><li>Partito Democratico (S&amp;D): 18.5–23.5%, 15–20 seats</li><li>Lega Nord (ID): 23.9–29.4%, 20–26 seats</li><li>Forza Italia (EPP): 6.5–9.9%, 6–9 seats</li><li>Fratelli d’Italia (ECR): 12.5–16.9%, 11–15 seats</li><li>Liberi e Uguali (S&amp;D): 1.9–4.0%, 0–3 seats</li><li>Più Europa (RE): 1.1–2.7%, 0 seats</li><li>Europa Verde (Greens/EFA): 1.1–2.8%, 0 seats</li><li>Azione (S&amp;D): 1.1–2.8%, 0 seats</li><li>Italia Viva (RE): 2.5–4.8%, 0–4 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/italian_ep_polls/2020-05-08-Tecnè.html</id>
@@ -2048,6 +2048,14 @@
     <dc:date>2020-05-01T10:12:41.124774+02:00</dc:date>
   </entry>
   <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Movimento 5 Stelle (NI): 16.8–22.3%, 13–18 seats</li><li>Partito Democratico (S&amp;D): 20.1–25.9%, 15–20 seats</li><li>Lega Nord (ID): 31.6–38.3%, 25–31 seats</li><li>Forza Italia (EPP): 5.2–8.7%, 4–7 seats</li><li>Fratelli d’Italia (ECR): 5.3–8.9%, 4–7 seats</li><li>Liberi e Uguali (S&amp;D): 1.1–2.9%, 0 seats</li><li>Più Europa (RE): 2.0–4.4%, 0–3 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/italian_ep_polls/2019-06-13-IndexResearch.html</id>
+    <link href="https://filipvanlaenen.github.io/italian_ep_polls/2019-06-13-IndexResearch.html"/>
+    <title>Opinion Poll by Index Research for LA7, 13 June 2019</title>
+    <updated>2020-05-14T18:12:18.775768+02:00</updated>
+    <dc:date>2020-05-14T18:12:18.775768+02:00</dc:date>
+  </entry>
+  <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Movimento 5 Stelle (NI): 15.5–20.8%, 12–17 seats</li><li>Partito Democratico (S&amp;D): 20.7–26.6%, 15–20 seats</li><li>Lega Nord (ID): 31.9–38.5%, 25–31 seats</li><li>Forza Italia (EPP): 5.4–9.0%, 4–7 seats</li><li>Fratelli d’Italia (ECR): 4.8–8.2%, 4–7 seats</li><li>Liberi e Uguali (S&amp;D): 1.4–3.5%, 0 seats</li><li>Più Europa (RE): 2.4–5.0%, 0–4 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/italian_ep_polls/2019-06-10-Euromedia.html</id>
     <link href="https://filipvanlaenen.github.io/italian_ep_polls/2019-06-10-Euromedia.html"/>
@@ -2055,5 +2063,5 @@
     <updated>2020-05-06T22:25:13.440305+02:00</updated>
     <dc:date>2020-05-06T22:25:13.440305+02:00</dc:date>
   </entry>
-  <dc:date>2020-05-13T19:31:12.966329+02:00</dc:date>
+  <dc:date>2020-05-14T18:12:18.775768+02:00</dc:date>
 </feed>
