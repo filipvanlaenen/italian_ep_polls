@@ -10,10 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.3% | 2.4–4.7% | 2.1–5.1% | 1.9–5.4% | 1.6–6.0% |
-| [12–13 May 2020](2020-05-13-Demopolis.html) | Demopolis | 3.0% | N/A | N/A | N/A | N/A |
-| [11–12 May 2020](2020-05-12-Ixè.html) | Ixè <br> Rai 3 | 2.6% | N/A | N/A | N/A | N/A |
-| [6–11 May 2020](2020-05-11-SWG.html) | SWG <br> La7 | 2.7% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 3.2% | 2.3–4.5% | 2.1–5.0% | 1.9–5.3% | 1.6–5.9% |
+| [12–13 May 2020](2020-05-13-EMG.html) | EMG <br> Rai 3 | 5.0% | 4.4–5.8% | 4.2–6.0% | 4.0–6.2% | 3.7–6.6% |
+| [12–13 May 2020](2020-05-13-Demopolis.html) | Demopolis | 3.0% | 2.5–3.7% | 2.4–3.8% | 2.2–4.0% | 2.0–4.3% |
+| [11–12 May 2020](2020-05-12-Ixè.html) | Ixè <br> Rai 3 | 2.6% | 2.1–3.4% | 1.9–3.6% | 1.8–3.8% | 1.6–4.2% |
+| [6–11 May 2020](2020-05-11-SWG.html) | SWG <br> La7 | 2.7% | 2.1–3.4% | 2.0–3.6% | 1.9–3.7% | 1.7–4.1% |
 | [7–8 May 2020](2020-05-08-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
 | [6–7 May 2020](2020-05-07-TermometroPolitico.html) | Termometro Politico | 2.9% | 2.6–3.3% | 2.5–3.4% | 2.4–3.5% | 2.3–3.7% |
 | [7 May 2020](2020-05-07-Index.html) | Index <br> La7 | 3.5% | 2.8–4.5% | 2.6–4.8% | 2.4–5.0% | 2.1–5.5% |
@@ -374,14 +375,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.5% | 100% |  |
-| 1.5–2.5% | 13% | 99.5% |  |
-| 2.5–3.5% | 47% | 87% | Median |
-| 3.5–4.5% | 28% | 40% |  |
-| 4.5–5.5% | 10% | 11% |  |
-| 5.5–6.5% | 2% | 2% |  |
+| 0.5–1.5% | 0.4% | 100% |  |
+| 1.5–2.5% | 16% | 99.6% |  |
+| 2.5–3.5% | 50% | 83% | Median |
+| 3.5–4.5% | 24% | 33% |  |
+| 4.5–5.5% | 8% | 9% |  |
+| 5.5–6.5% | 1.4% | 1.4% |  |
 | 6.5–7.5% | 0% | 0% |  |
-| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -393,9 +393,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [12–13 May 2020](2020-05-13-Demopolis.html) | Demopolis |  |  |  |  |  |
-| [11–12 May 2020](2020-05-12-Ixè.html) | Ixè <br> Rai 3 |  |  |  |  |  |
-| [6–11 May 2020](2020-05-11-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [12–13 May 2020](2020-05-13-EMG.html) | EMG <br> Rai 3 | 4 | 4–5 | 4–5 | 3–5 | 0–6 |
+| [12–13 May 2020](2020-05-13-Demopolis.html) | Demopolis | 0 | 0 | 0 | 0 | 0–3 |
+| [11–12 May 2020](2020-05-12-Ixè.html) | Ixè <br> Rai 3 | 0 | 0 | 0 | 0 | 0–4 |
+| [6–11 May 2020](2020-05-11-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0–3 |
 | [7–8 May 2020](2020-05-08-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [6–7 May 2020](2020-05-07-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [7 May 2020](2020-05-07-Index.html) | Index <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
@@ -757,12 +758,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 80% | 100% | Last Result, Median |
-| 1 | 0% | 20% |  |
-| 2 | 0% | 20% |  |
-| 3 | 3% | 20% |  |
-| 4 | 15% | 18% |  |
+| 0 | 84% | 100% | Last Result, Median |
+| 1 | 0% | 16% |  |
+| 2 | 0% | 16% |  |
+| 3 | 2% | 16% |  |
+| 4 | 12% | 14% |  |
 | 5 | 2% | 2% |  |
-| 6 | 0% | 0% |  |
+| 6 | 0.1% | 0.1% |  |
+| 7 | 0% | 0% |  |
 
 
