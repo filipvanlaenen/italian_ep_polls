@@ -10,7 +10,9 @@ Last result: **16.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.5% | 5.4–8.1% | 5.2–8.6% | 4.9–8.9% | 4.5–9.7% |
+| N/A | [Poll Average](average.html) | 6.6% | 5.5–8.1% | 5.2–8.6% | 5.0–9.0% | 4.6–9.7% |
+| [14 May 2020](2020-05-14-Index.html) | Index <br> La7 | 6.8% | 5.7–8.0% | 5.4–8.4% | 5.2–8.7% | 4.8–9.4% |
+| [12–14 May 2020](2020-05-14-BiDiMedia.html) | BiDiMedia | 6.3% | 5.6–7.1% | 5.4–7.3% | 5.2–7.5% | 4.9–7.9% |
 | [12–13 May 2020](2020-05-13-EMG.html) | EMG <br> Rai 3 | 6.6% | 5.9–7.5% | 5.7–7.7% | 5.5–7.9% | 5.2–8.3% |
 | [12–13 May 2020](2020-05-13-Demopolis.html) | Demopolis | 6.0% | 5.3–6.9% | 5.1–7.1% | 4.9–7.3% | 4.6–7.8% |
 | [11–12 May 2020](2020-05-12-Ixè.html) | Ixè <br> Rai 3 | 7.5% | 6.5–8.7% | 6.2–9.0% | 6.0–9.3% | 5.6–9.9% |
@@ -375,10 +377,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.5% | 100% |  |
-| 4.5–5.5% | 13% | 99.5% |  |
-| 5.5–6.5% | 38% | 87% |  |
-| 6.5–7.5% | 28% | 48% | Median |
+| 3.5–4.5% | 0.4% | 100% |  |
+| 4.5–5.5% | 11% | 99.6% |  |
+| 5.5–6.5% | 38% | 88% |  |
+| 6.5–7.5% | 30% | 50% | Median |
 | 7.5–8.5% | 15% | 20% |  |
 | 8.5–9.5% | 4% | 5% |  |
 | 9.5–10.5% | 0.6% | 0.7% |  |
@@ -399,8 +401,10 @@ Last result: **13** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–7 | 4–7 | 4–8 | 4–8 |
-| [12–13 May 2020](2020-05-13-EMG.html) | EMG <br> Rai 3 | 6 | 5–6 | 5–6 | 5–7 | 4–8 |
+| N/A | [Poll Average](average.html) | 6 | 5–7 | 4–7 | 4–8 | 4–9 |
+| [14 May 2020](2020-05-14-Index.html) | Index <br> La7 | 6 | 5–7 | 5–7 | 5–8 | 4–9 |
+| [12–14 May 2020](2020-05-14-BiDiMedia.html) | BiDiMedia | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
+| [12–13 May 2020](2020-05-13-EMG.html) | EMG <br> Rai 3 | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
 | [12–13 May 2020](2020-05-13-Demopolis.html) | Demopolis | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [11–12 May 2020](2020-05-12-Ixè.html) | Ixè <br> Rai 3 | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
 | [6–11 May 2020](2020-05-11-SWG.html) | SWG <br> La7 | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
@@ -766,12 +770,12 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0.1% | 100% |  |
-| 4 | 7% | 99.9% |  |
-| 5 | 38% | 93% |  |
-| 6 | 32% | 55% | Median |
+| 4 | 6% | 99.9% |  |
+| 5 | 37% | 94% |  |
+| 6 | 34% | 57% | Median |
 | 7 | 18% | 23% |  |
 | 8 | 4% | 5% |  |
-| 9 | 0.4% | 0.5% |  |
+| 9 | 0.5% | 0.5% |  |
 | 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |
