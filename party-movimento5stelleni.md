@@ -402,7 +402,7 @@ Last result: **17** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 14 | 12–16 | 12–17 | 11–17 | 11–18 |
 | [14 May 2020](2020-05-14-Index.html) | Index <br> La7 | 14 | 12–15 | 12–15 | 12–15 | 11–16 |
 | [12–14 May 2020](2020-05-14-BiDiMedia.html) | BiDiMedia | 13 | 12–14 | 12–14 | 11–14 | 11–15 |
-| [12–13 May 2020](2020-05-13-EMG.html) | EMG <br> Rai 3 | 13 | 12–14 | 12–15 | 12–15 | 11–15 |
+| [12–13 May 2020](2020-05-13-EMG.html) | EMG <br> Rai 3 | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
 | [12–13 May 2020](2020-05-13-Demopolis.html) | Demopolis | 13 | 12–14 | 12–14 | 11–14 | 11–15 |
 | [11–12 May 2020](2020-05-12-Ixè.html) | Ixè <br> Rai 3 | 15 | 13–16 | 13–16 | 13–17 | 12–18 |
 | [6–11 May 2020](2020-05-11-SWG.html) | SWG <br> La7 | 15 | 13–16 | 13–17 | 13–17 | 13–17 |
@@ -768,9 +768,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.3% | 100% |  |
-| 11 | 5% | 99.7% |  |
+| 11 | 4% | 99.7% |  |
 | 12 | 17% | 95% |  |
-| 13 | 27% | 78% |  |
+| 13 | 27% | 79% |  |
 | 14 | 22% | 52% | Median |
 | 15 | 17% | 30% |  |
 | 16 | 8% | 13% |  |

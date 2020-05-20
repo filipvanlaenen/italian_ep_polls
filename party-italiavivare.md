@@ -394,10 +394,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
+| N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [14 May 2020](2020-05-14-Index.html) | Index <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [12–14 May 2020](2020-05-14-BiDiMedia.html) | BiDiMedia | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
-| [12–13 May 2020](2020-05-13-EMG.html) | EMG <br> Rai 3 | 4 | 4–5 | 3–5 | 0–5 | 0–6 |
+| [12–13 May 2020](2020-05-13-EMG.html) | EMG <br> Rai 3 | 4 | 4–5 | 4–5 | 3–5 | 0–6 |
 | [12–13 May 2020](2020-05-13-Demopolis.html) | Demopolis | 0 | 0 | 0 | 0 | 0–3 |
 | [11–12 May 2020](2020-05-12-Ixè.html) | Ixè <br> Rai 3 | 0 | 0 | 0 | 0 | 0–4 |
 | [6–11 May 2020](2020-05-11-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0–3 |
@@ -766,8 +766,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 15% |  |
 | 2 | 0% | 15% |  |
 | 3 | 2% | 15% |  |
-| 4 | 10% | 13% |  |
-| 5 | 3% | 3% |  |
+| 4 | 11% | 13% |  |
+| 5 | 2% | 2% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
 
