@@ -10,7 +10,13 @@ Last result: **16.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.6% | 5.5–8.1% | 5.2–8.6% | 5.0–9.0% | 4.6–9.7% |
+| N/A | [Poll Average](average.html) | 6.6% | 5.4–8.2% | 5.1–8.7% | 4.9–9.1% | 4.5–9.8% |
+| [18–19 May 2020](2020-05-19-Ixè.html) | Ixè | 7.2% | 6.2–8.4% | 6.0–8.7% | 5.7–9.0% | 5.3–9.6% |
+| [13–18 May 2020](2020-05-18-SWG.html) | SWG <br> La7 | 5.7% | 4.9–6.6% | 4.7–6.9% | 4.5–7.1% | 4.1–7.6% |
+| [18 May 2020](2020-05-18-Piepoli.html) | Piepoli | 6.6% | 5.4–8.2% | 5.0–8.7% | 4.7–9.1% | 4.2–10.0% |
+| [14–15 May 2020](2020-05-15-Tecnè.html) | Tecnè <br> Agenzia Dire | 8.1% | 7.1–9.3% | 6.8–9.7% | 6.6–10.0% | 6.1–10.6% |
+| [13–14 May 2020](2020-05-14-TermometroPolitico.html) | Termometro Politico | 6.2% | N/A | N/A | N/A | N/A |
+| [14 May 2020](2020-05-14-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 7.0% | N/A | N/A | N/A | N/A |
 | [14 May 2020](2020-05-14-Index.html) | Index <br> La7 | 6.8% | 5.7–8.0% | 5.4–8.4% | 5.2–8.7% | 4.8–9.4% |
 | [12–14 May 2020](2020-05-14-BiDiMedia.html) | BiDiMedia | 6.3% | 5.6–7.1% | 5.4–7.3% | 5.2–7.5% | 4.9–7.9% |
 | [12–13 May 2020](2020-05-13-EMG.html) | EMG <br> Rai 3 | 6.6% | 5.9–7.5% | 5.7–7.7% | 5.5–7.9% | 5.2–8.3% |
@@ -377,14 +383,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.4% | 100% |  |
-| 4.5–5.5% | 11% | 99.6% |  |
-| 5.5–6.5% | 38% | 88% |  |
-| 6.5–7.5% | 30% | 50% | Median |
-| 7.5–8.5% | 15% | 20% |  |
-| 8.5–9.5% | 4% | 5% |  |
-| 9.5–10.5% | 0.6% | 0.7% |  |
-| 10.5–11.5% | 0% | 0% |  |
+| 3.5–4.5% | 0.7% | 100% |  |
+| 4.5–5.5% | 12% | 99.3% |  |
+| 5.5–6.5% | 35% | 87% |  |
+| 6.5–7.5% | 30% | 52% | Median |
+| 7.5–8.5% | 16% | 22% |  |
+| 8.5–9.5% | 5% | 6% |  |
+| 9.5–10.5% | 0.8% | 0.9% |  |
+| 10.5–11.5% | 0.1% | 0.1% |  |
 | 11.5–12.5% | 0% | 0% |  |
 | 12.5–13.5% | 0% | 0% |  |
 | 13.5–14.5% | 0% | 0% |  |
@@ -402,6 +408,12 @@ Last result: **13** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–7 | 4–7 | 4–8 | 4–9 |
+| [18–19 May 2020](2020-05-19-Ixè.html) | Ixè | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
+| [13–18 May 2020](2020-05-18-SWG.html) | SWG <br> La7 | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
+| [18 May 2020](2020-05-18-Piepoli.html) | Piepoli | 6 | 5–7 | 4–7 | 4–8 | 3–8 |
+| [14–15 May 2020](2020-05-15-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 6–8 | 6–9 | 5–9 | 5–9 |
+| [13–14 May 2020](2020-05-14-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [14 May 2020](2020-05-14-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
 | [14 May 2020](2020-05-14-Index.html) | Index <br> La7 | 6 | 5–7 | 5–7 | 5–8 | 4–9 |
 | [12–14 May 2020](2020-05-14-BiDiMedia.html) | BiDiMedia | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [12–13 May 2020](2020-05-13-EMG.html) | EMG <br> Rai 3 | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
@@ -769,13 +781,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.1% | 100% |  |
-| 4 | 6% | 99.9% |  |
-| 5 | 37% | 94% |  |
-| 6 | 34% | 57% | Median |
-| 7 | 18% | 22% |  |
+| 0 | 0.1% | 100% |  |
+| 1 | 0% | 99.9% |  |
+| 2 | 0% | 99.9% |  |
+| 3 | 0.1% | 99.9% |  |
+| 4 | 7% | 99.9% |  |
+| 5 | 34% | 93% |  |
+| 6 | 37% | 59% | Median |
+| 7 | 17% | 22% |  |
 | 8 | 4% | 5% |  |
-| 9 | 0.5% | 0.5% |  |
+| 9 | 0.7% | 0.7% |  |
 | 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |
