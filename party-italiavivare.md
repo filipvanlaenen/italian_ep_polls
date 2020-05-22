@@ -10,13 +10,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.2% | 2.2–4.6% | 2.0–5.1% | 1.8–5.5% | 1.5–6.1% |
+| N/A | [Poll Average](average.html) | 3.2% | 2.3–4.5% | 2.0–5.0% | 1.8–5.4% | 1.5–6.0% |
 | [18–19 May 2020](2020-05-19-Ixè.html) | Ixè | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
 | [13–18 May 2020](2020-05-18-SWG.html) | SWG <br> La7 | 3.0% | 2.5–3.7% | 2.3–3.9% | 2.2–4.1% | 1.9–4.5% |
 | [18 May 2020](2020-05-18-Piepoli.html) | Piepoli | 4.0% | 3.1–5.4% | 2.8–5.8% | 2.6–6.1% | 2.2–6.8% |
 | [14–15 May 2020](2020-05-15-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
-| [13–14 May 2020](2020-05-14-TermometroPolitico.html) | Termometro Politico | 3.0% | N/A | N/A | N/A | N/A |
-| [14 May 2020](2020-05-14-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 3.5% | N/A | N/A | N/A | N/A |
+| [13–14 May 2020](2020-05-14-TermometroPolitico.html) | Termometro Politico | 3.0% | 2.7–3.4% | 2.5–3.5% | 2.5–3.6% | 2.3–3.9% |
+| [14 May 2020](2020-05-14-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
 | [14 May 2020](2020-05-14-Index.html) | Index <br> La7 | 3.2% | 2.6–4.2% | 2.4–4.5% | 2.2–4.7% | 1.9–5.2% |
 | [12–14 May 2020](2020-05-14-BiDiMedia.html) | BiDiMedia | 3.6% | 3.1–4.2% | 2.9–4.4% | 2.8–4.6% | 2.6–4.9% |
 | [12–13 May 2020](2020-05-13-EMG.html) | EMG <br> Rai 3 | 5.0% | 4.4–5.8% | 4.2–6.0% | 4.0–6.2% | 3.7–6.6% |
@@ -383,11 +383,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.8% | 100% |  |
-| 1.5–2.5% | 18% | 99.2% |  |
-| 2.5–3.5% | 46% | 81% | Median |
-| 3.5–4.5% | 24% | 34% |  |
-| 4.5–5.5% | 8% | 11% |  |
+| 0.5–1.5% | 0.7% | 100% |  |
+| 1.5–2.5% | 16% | 99.3% |  |
+| 2.5–3.5% | 50% | 83% | Median |
+| 3.5–4.5% | 24% | 33% |  |
+| 4.5–5.5% | 8% | 9% |  |
 | 5.5–6.5% | 2% | 2% |  |
 | 6.5–7.5% | 0.1% | 0.1% |  |
 | 7.5–8.5% | 0% | 0% |  |
@@ -406,8 +406,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [13–18 May 2020](2020-05-18-SWG.html) | SWG <br> La7 | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | [18 May 2020](2020-05-18-Piepoli.html) | Piepoli | 4 | 0–4 | 0–5 | 0–5 | 0–6 |
 | [14–15 May 2020](2020-05-15-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [13–14 May 2020](2020-05-14-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [14 May 2020](2020-05-14-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
+| [13–14 May 2020](2020-05-14-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
+| [14 May 2020](2020-05-14-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [14 May 2020](2020-05-14-Index.html) | Index <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [12–14 May 2020](2020-05-14-BiDiMedia.html) | BiDiMedia | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [12–13 May 2020](2020-05-13-EMG.html) | EMG <br> Rai 3 | 4 | 4–5 | 4–5 | 3–5 | 0–6 |
@@ -775,13 +775,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 81% | 100% | Last Result, Median |
-| 1 | 0% | 19% |  |
-| 2 | 0% | 19% |  |
-| 3 | 2% | 19% |  |
-| 4 | 14% | 17% |  |
+| 0 | 82% | 100% | Last Result, Median |
+| 1 | 0% | 18% |  |
+| 2 | 0% | 18% |  |
+| 3 | 2% | 18% |  |
+| 4 | 13% | 16% |  |
 | 5 | 3% | 3% |  |
-| 6 | 0.2% | 0.2% |  |
+| 6 | 0.1% | 0.2% |  |
 | 7 | 0% | 0% |  |
 
 
