@@ -407,9 +407,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | [20–25 May 2020](2020-05-25-SWG.html) | SWG <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
-| [21–22 May 2020](2020-05-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
+| [21–22 May 2020](2020-05-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0–3 | 0–4 |
 | [20–21 May 2020](2020-05-21-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
-| [21 May 2020](2020-05-21-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
+| [21 May 2020](2020-05-21-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0–4 | 0–4 |
 | [18–19 May 2020](2020-05-19-Ixè.html) | Ixè <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [19 May 2020](2020-05-19-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [13–18 May 2020](2020-05-18-SWG.html) | SWG <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
@@ -784,12 +784,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 94% | 100% | Last Result, Median |
-| 1 | 0% | 6% |  |
-| 2 | 0% | 6% |  |
-| 3 | 2% | 6% |  |
+| 0 | 93% | 100% | Last Result, Median |
+| 1 | 0% | 7% |  |
+| 2 | 0% | 7% |  |
+| 3 | 2% | 7% |  |
 | 4 | 4% | 4% |  |
-| 5 | 0.1% | 0.2% |  |
+| 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% |  |
 
 

@@ -412,11 +412,11 @@ Last result: **13** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 4–7 | 4–7 | 4–7 | 4–8 |
+| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–8 | 4–8 | 4–9 |
 | [20–25 May 2020](2020-05-25-SWG.html) | SWG <br> La7 | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
-| [21–22 May 2020](2020-05-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 4 | 4 | 4 | 4 | 4 |
-| [20–21 May 2020](2020-05-21-TermometroPolitico.html) | Termometro Politico | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
-| [21 May 2020](2020-05-21-Euromedia.html) | Euromedia <br> Rai 1 | 7 | 7 | 6–7 | 5–8 | 5–9 |
+| [21–22 May 2020](2020-05-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
+| [20–21 May 2020](2020-05-21-TermometroPolitico.html) | Termometro Politico | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
+| [21 May 2020](2020-05-21-Euromedia.html) | Euromedia <br> Rai 1 | 7 | 6–8 | 5–9 | 5–9 | 5–9 |
 | [18–19 May 2020](2020-05-19-Ixè.html) | Ixè <br> Rai 3 | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
 | [19 May 2020](2020-05-19-EMG.html) | EMG <br> Rai 3 | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [13–18 May 2020](2020-05-18-SWG.html) | SWG <br> La7 | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
@@ -792,12 +792,12 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0.1% | 100% |  |
-| 4 | 13% | 99.9% |  |
-| 5 | 33% | 87% |  |
-| 6 | 35% | 54% | Median |
-| 7 | 17% | 19% |  |
-| 8 | 2% | 2% |  |
-| 9 | 0.2% | 0.2% |  |
+| 4 | 5% | 99.9% |  |
+| 5 | 34% | 95% |  |
+| 6 | 38% | 61% | Median |
+| 7 | 18% | 24% |  |
+| 8 | 5% | 6% |  |
+| 9 | 1.3% | 1.3% |  |
 | 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |
