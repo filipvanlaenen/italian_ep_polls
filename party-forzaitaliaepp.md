@@ -10,8 +10,8 @@ Last result: **16.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.6% | 5.4–8.2% | 5.2–8.7% | 4.9–9.1% | 4.5–9.9% |
-| [20–25 May 2020](2020-05-25-SWG.html) | SWG <br> La7 | 6.3% | 5.5–7.4% | 5.3–7.6% | 5.1–7.9% | 4.7–8.4% |
+| N/A | [Poll Average](average.html) | 6.7% | 5.6–8.2% | 5.4–8.7% | 5.1–9.1% | 4.7–9.9% |
+| [20–25 May 2020](2020-05-25-SWG.html) | SWG <br> La7 | 6.3% | 5.5–7.3% | 5.3–7.6% | 5.1–7.9% | 4.7–8.4% |
 | [21–22 May 2020](2020-05-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 8.1% | 7.1–9.3% | 6.8–9.7% | 6.6–10.0% | 6.1–10.6% |
 | [20–21 May 2020](2020-05-21-TermometroPolitico.html) | Termometro Politico | 5.9% | 5.3–6.5% | 5.2–6.7% | 5.1–6.8% | 4.8–7.2% |
 | [21 May 2020](2020-05-21-Euromedia.html) | Euromedia <br> Rai 1 | 7.8% | 6.7–9.1% | 6.3–9.5% | 6.1–9.8% | 5.6–10.5% |
@@ -388,10 +388,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.6% | 100% |  |
-| 4.5–5.5% | 12% | 99.4% |  |
-| 5.5–6.5% | 35% | 87% |  |
-| 6.5–7.5% | 30% | 52% | Median |
+| 3.5–4.5% | 0.3% | 100% |  |
+| 4.5–5.5% | 8% | 99.7% |  |
+| 5.5–6.5% | 36% | 91% |  |
+| 6.5–7.5% | 33% | 55% | Median |
 | 7.5–8.5% | 16% | 23% |  |
 | 8.5–9.5% | 5% | 6% |  |
 | 9.5–10.5% | 0.9% | 1.0% |  |
@@ -413,7 +413,7 @@ Last result: **13** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 4–7 | 4–7 | 4–7 | 4–8 |
-| [20–25 May 2020](2020-05-25-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [20–25 May 2020](2020-05-25-SWG.html) | SWG <br> La7 | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
 | [21–22 May 2020](2020-05-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 4 | 4 | 4 | 4 | 4 |
 | [20–21 May 2020](2020-05-21-TermometroPolitico.html) | Termometro Politico | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [21 May 2020](2020-05-21-Euromedia.html) | Euromedia <br> Rai 1 | 7 | 7 | 6–7 | 5–8 | 5–9 |
@@ -794,8 +794,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0.1% | 100% |  |
 | 4 | 13% | 99.9% |  |
 | 5 | 33% | 87% |  |
-| 6 | 34% | 53% | Median |
-| 7 | 18% | 20% |  |
+| 6 | 35% | 54% | Median |
+| 7 | 17% | 19% |  |
 | 8 | 2% | 2% |  |
 | 9 | 0.2% | 0.2% |  |
 | 10 | 0% | 0% |  |
