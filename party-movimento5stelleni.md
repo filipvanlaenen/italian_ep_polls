@@ -706,14 +706,14 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [16–17 September 2019](2019-09-17-Ixè.html) | Ixè <br> Rai 3 | 18 | 17–20 | 16–20 | 16–20 | 15–21 |
 | [17 September 2019](2019-09-17-EMG.html) | EMG <br> Rai 3 | 15 | 15–16 | 15–17 | 14–17 | 14–18 |
 | [15–16 September 2019](2019-09-16-Tecnè.html) | Tecnè <br> Rete 4 | 17 | 16–19 | 15–19 | 15–19 | 15–20 |
-| [11–16 September 2019](2019-09-16-SWG.html) | SWG <br> La7 | 18 | 17–19 | 16–19 | 16–19 | 15–20 |
+| [11–16 September 2019](2019-09-16-SWG.html) | SWG <br> La7 | 17 | 16–19 | 16–19 | 16–19 | 15–20 |
 | [11–12 September 2019](2019-09-12-TermometroPolitico.html) | Termometro Politico <br> La7 | 17 | 16–17 | 16–18 | 15–18 | 15–18 |
 | [12 September 2019](2019-09-12-Tecnè.html) | Tecnè <br> Rete 4 | 18 | 16–19 | 16–20 | 15–20 | 15–21 |
 | [9–12 September 2019](2019-09-12-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 13 | 12–14 | 12–14 | 11–14 | 11–15 |
 | [10–12 September 2019](2019-09-12-DemosPi.html) | Demos & Pi <br> La Repubblica | 17 | 15–18 | 15–19 | 15–19 | 14–19 |
 | [9–10 September 2019](2019-09-10-NotoSondaggi.html) | Noto Sondaggi | 16 | 15–18 | 15–18 | 15–19 | 14–19 |
 | [9–10 September 2019](2019-09-10-Ixè.html) | Ixè <br> Rai 3 | 18 | 16–19 | 16–20 | 16–20 | 15–21 |
-| [9–10 September 2019](2019-09-10-Euromedia.html) | Euromedia | 17 | 15–18 | 15–19 | 14–19 | 14–21 |
+| [9–10 September 2019](2019-09-10-Euromedia.html) | Euromedia | 17 | 15–18 | 15–19 | 15–19 | 14–20 |
 | [10 September 2019](2019-09-10-EMG.html) | EMG <br> Rai 3 | 17 | 16–17 | 16–17 | 15–17 | 15–18 |
 | [9–10 September 2019](2019-09-10-Demopolis.html) | Demopolis <br> Rai 3 | 17 | 16–18 | 16–18 | 15–19 | 15–19 |
 | [4–9 September 2019](2019-09-09-SWG.html) | SWG <br> La7 | 18 | 17–19 | 17–19 | 16–20 | 16–20 |
@@ -747,7 +747,7 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [24–25 July 2019](2019-07-25-Tecnè.html) | Tecnè <br> Dire | 14 | 13–16 | 13–16 | 12–16 | 11–17 |
 | [22–24 July 2019](2019-07-24-Demopolis.html) | Demopolis <br> La7 | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
 | [17–22 July 2019](2019-07-22-SWG.html) | SWG <br> La7 | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
-| [22 July 2019](2019-07-22-Euromedia.html) | Euromedia | 14 | 13–16 | 13–16 | 12–16 | 12–17 |
+| [22 July 2019](2019-07-22-Euromedia.html) | Euromedia | 14 | 13–16 | 13–16 | 13–16 | 12–17 |
 | [16–18 July 2019](2019-07-18-TermometroPolitico.html) | Termometro Politico | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
 | [17–18 July 2019](2019-07-18-Tecnè.html) | Tecnè <br> Rete 4 | 14 | 13–15 | 12–16 | 12–16 | 11–17 |
 | [16–18 July 2019](2019-07-18-Ipsos.html) | Ipsos <br> Corriere della Sera | 14 | 13–15 | 12–16 | 12–16 | 11–16 |
@@ -755,7 +755,7 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [10–15 July 2019](2019-07-15-SWG.html) | SWG <br> LA7 | 14 | 13–16 | 13–16 | 13–16 | 12–17 |
 | [15 July 2019](2019-07-15-Piepoli.html) | Piepoli <br> Rai 1 | 13 | 12–15 | 11–16 | 11–16 | 10–17 |
 | [9–12 July 2019](2019-07-12-TermometroPolitico.html) | Termometro Politico | 14 | 13–15 | 12–15 | 12–15 | 11–16 |
-| [10–11 July 2019](2019-07-11-Tecnè.html) | Tecnè <br> Rete 4 | 14 | 13–15 | 12–16 | 12–16 | 12–17 |
+| [10–11 July 2019](2019-07-11-Tecnè.html) | Tecnè <br> Rete 4 | 14 | 13–15 | 12–16 | 12–16 | 11–17 |
 | [8–10 July 2019](2019-07-10-GPF.html) | GPF <br> Rete 4 | 19 | 17–21 | 17–21 | 17–22 | 16–22 |
 | [8–10 July 2019](2019-07-10-DemosPi.html) | Demos & Pi | 14 | 13–15 | 12–16 | 12–16 | 11–17 |
 | [7–8 July 2019](2019-07-08-Tecnè.html) | Tecnè <br> Rete 4 | 13 | 12–14 | 11–14 | 11–15 | 11–15 |
@@ -768,7 +768,7 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [1–26 June 2019](2019-06-26-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 14 | 13–15 | 13–16 | 12–16 | 12–17 |
 | [25–26 June 2019](2019-06-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 14 | 13–15 | 13–16 | 12–16 | 12–17 |
 | [23–24 June 2019](2019-06-24-Tecnè.html) | Tecnè <br> Rete 4 | 13 | 12–14 | 11–14 | 11–15 | 11–15 |
-| [19–24 June 2019](2019-06-24-SWG.html) | SWG <br> La7 | 14 | 13–15 | 13–16 | 13–16 | 12–17 |
+| [19–24 June 2019](2019-06-24-SWG.html) | SWG <br> La7 | 14 | 13–16 | 13–16 | 13–16 | 12–17 |
 | [19–20 June 2019](2019-06-20-Demopolis.html) | Demopolis <br> La7 | 14 | 13–15 | 13–15 | 13–16 | 12–16 |
 | [1–18 June 2019](2019-06-18-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 14 | 13–15 | 12–16 | 12–16 | 12–17 |
 | [18 June 2019](2019-06-18-EMG.html) | EMG <br> Rai 3 | 15 | 14–16 | 13–16 | 13–16 | 13–17 |

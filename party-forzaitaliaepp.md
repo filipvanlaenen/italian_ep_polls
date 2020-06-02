@@ -708,7 +708,7 @@ Last result: **13** seats (General Election of 26 May 2019)
 | [16–17 September 2019](2019-09-17-Ixè.html) | Ixè <br> Rai 3 | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
 | [17 September 2019](2019-09-17-EMG.html) | EMG <br> Rai 3 | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
 | [15–16 September 2019](2019-09-16-Tecnè.html) | Tecnè <br> Rete 4 | 6 | 6–7 | 6–8 | 5–8 | 5–9 |
-| [11–16 September 2019](2019-09-16-SWG.html) | SWG <br> La7 | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
+| [11–16 September 2019](2019-09-16-SWG.html) | SWG <br> La7 | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [11–12 September 2019](2019-09-12-TermometroPolitico.html) | Termometro Politico <br> La7 | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [12 September 2019](2019-09-12-Tecnè.html) | Tecnè <br> Rete 4 | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
 | [9–12 September 2019](2019-09-12-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
@@ -749,15 +749,15 @@ Last result: **13** seats (General Election of 26 May 2019)
 | [24–25 July 2019](2019-07-25-Tecnè.html) | Tecnè <br> Dire | 6 | 6–7 | 5–8 | 5–8 | 5–8 |
 | [22–24 July 2019](2019-07-24-Demopolis.html) | Demopolis <br> La7 | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [17–22 July 2019](2019-07-22-SWG.html) | SWG <br> La7 | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
-| [22 July 2019](2019-07-22-Euromedia.html) | Euromedia | 7 | 5–7 | 5–8 | 5–8 | 5–8 |
+| [22 July 2019](2019-07-22-Euromedia.html) | Euromedia | 7 | 6–7 | 5–8 | 5–8 | 5–8 |
 | [16–18 July 2019](2019-07-18-TermometroPolitico.html) | Termometro Politico | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [17–18 July 2019](2019-07-18-Tecnè.html) | Tecnè <br> Rete 4 | 7 | 6–7 | 5–8 | 5–8 | 5–9 |
 | [16–18 July 2019](2019-07-18-Ipsos.html) | Ipsos <br> Corriere della Sera | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
 | [15–18 July 2019](2019-07-18-GPF.html) | GPF <br> La Notizia | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
 | [10–15 July 2019](2019-07-15-SWG.html) | SWG <br> LA7 | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
-| [15 July 2019](2019-07-15-Piepoli.html) | Piepoli <br> Rai 1 | 6 | 5–7 | 5–8 | 5–8 | 4–9 |
+| [15 July 2019](2019-07-15-Piepoli.html) | Piepoli <br> Rai 1 | 6 | 5–7 | 5–8 | 4–8 | 4–9 |
 | [9–12 July 2019](2019-07-12-TermometroPolitico.html) | Termometro Politico | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
-| [10–11 July 2019](2019-07-11-Tecnè.html) | Tecnè <br> Rete 4 | 6 | 5–7 | 5–8 | 5–8 | 5–9 |
+| [10–11 July 2019](2019-07-11-Tecnè.html) | Tecnè <br> Rete 4 | 6 | 6–7 | 5–8 | 5–8 | 5–8 |
 | [8–10 July 2019](2019-07-10-GPF.html) | GPF <br> Rete 4 | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
 | [8–10 July 2019](2019-07-10-DemosPi.html) | Demos & Pi | 6 | 5–6 | 5–7 | 4–7 | 4–7 |
 | [7–8 July 2019](2019-07-08-Tecnè.html) | Tecnè <br> Rete 4 | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
