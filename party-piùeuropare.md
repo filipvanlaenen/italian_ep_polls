@@ -724,7 +724,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [27 August 2019](2019-08-27-Piepoli.html) | Piepoli <br> La Stampa | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [23–25 August 2019](2019-08-25-Demopolis.html) | Demopolis |  |  |  |  |  |
 | [21–23 August 2019](2019-08-23-TermometroPolitico.html) | Termometro Politico <br> La7 | 0 | 0 | 0 | 0 | 0 |
-| [21–23 August 2019](2019-08-23-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 0 | 0 | 0 | 0–3 | 0–4 |
+| [21–23 August 2019](2019-08-23-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 0 | 0 | 0–3 | 0–3 | 0–4 |
 | [21 August 2019](2019-08-21-Tecnè.html) | Tecnè | 0 | 0 | 0 | 0 | 0–3 |
 | [21 August 2019](2019-08-21-IZI.html) | IZI | 0 | 0 | 0 | 0 | 0 |
 | [20–21 August 2019](2019-08-21-GPF.html) | GPF | 0 | 0 | 0–4 | 0–4 | 0–4 |
@@ -736,7 +736,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [30 July–1 August 2019](2019-08-01-Tecnè.html) | Tecnè <br> Dire | 0 | 0 | 0 | 0 | 0 |
 | [30–31 July 2019](2019-07-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [27–30 July 2019](2019-07-30-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 0 | 0 | 0 | 0 | 0 |
-| [24–29 July 2019](2019-07-29-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0–3 |
+| [24–29 July 2019](2019-07-29-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [24–25 July 2019](2019-07-25-Tecnè.html) | Tecnè <br> Dire | 0 | 0 | 0 | 0 | 0–3 |
 | [22–24 July 2019](2019-07-24-Demopolis.html) | Demopolis <br> La7 |  |  |  |  |  |
 | [17–22 July 2019](2019-07-22-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
@@ -765,7 +765,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [19–20 June 2019](2019-06-20-Demopolis.html) | Demopolis <br> La7 |  |  |  |  |  |
 | [1–18 June 2019](2019-06-18-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 0 | 0 | 0 | 0 | 0–3 |
 | [18 June 2019](2019-06-18-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
-| [12–17 June 2019](2019-06-17-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0–3 |
+| [12–17 June 2019](2019-06-17-SWG.html) | SWG <br> LA7 | 0 | 0 | 0 | 0 | 0 |
 | [13 June 2019](2019-06-13-IndexResearch.html) | Index Research <br> LA7 | 0 | 0 | 0–3 | 0–3 | 0–4 |
 | [11 June 2019](2019-06-11-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [9–10 June 2019](2019-06-10-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
