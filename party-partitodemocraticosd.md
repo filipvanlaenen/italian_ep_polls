@@ -720,17 +720,17 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [17 September 2019](2019-09-17-EMG.html) | EMG <br> Rai 3 | 18 | 16–18 | 16–18 | 16–18 | 15–18 |
 | [15–16 September 2019](2019-09-16-Tecnè.html) | Tecnè <br> Rete 4 | 18 | 17–20 | 16–20 | 16–21 | 15–21 |
 | [11–16 September 2019](2019-09-16-SWG.html) | SWG <br> La7 | 17 | 16–18 | 16–19 | 16–19 | 15–20 |
-| [11–12 September 2019](2019-09-12-TermometroPolitico.html) | Termometro Politico <br> La7 | 19 | 18–19 | 18–19 | 17–19 | 17–20 |
+| [11–12 September 2019](2019-09-12-TermometroPolitico.html) | Termometro Politico <br> La7 | 18 | 17–19 | 17–20 | 17–20 | 16–20 |
 | [12 September 2019](2019-09-12-Tecnè.html) | Tecnè <br> Rete 4 | 19 | 17–20 | 17–21 | 16–21 | 15–22 |
 | [9–12 September 2019](2019-09-12-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 19 | 17–20 | 17–20 | 17–21 | 16–21 |
 | [10–12 September 2019](2019-09-12-DemosPi.html) | Demos & Pi <br> La Repubblica | 17 | 16–18 | 15–19 | 15–19 | 14–20 |
 | [9–10 September 2019](2019-09-10-NotoSondaggi.html) | Noto Sondaggi | 18 | 18–20 | 17–20 | 16–21 | 16–21 |
-| [9–10 September 2019](2019-09-10-Ixè.html) | Ixè <br> Rai 3 | 17 | 16–19 | 16–19 | 15–20 | 14–21 |
+| [9–10 September 2019](2019-09-10-Ixè.html) | Ixè <br> Rai 3 | 17 | 16–19 | 16–19 | 15–20 | 15–20 |
 | [9–10 September 2019](2019-09-10-Euromedia.html) | Euromedia | 17 | 15–19 | 14–19 | 14–19 | 13–20 |
 | [10 September 2019](2019-09-10-EMG.html) | EMG <br> Rai 3 | 18 | 17–18 | 17–19 | 17–19 | 16–20 |
 | [9–10 September 2019](2019-09-10-Demopolis.html) | Demopolis <br> Rai 3 | 17 | 16–18 | 16–19 | 16–19 | 15–19 |
 | [4–9 September 2019](2019-09-09-SWG.html) | SWG <br> La7 | 18 | 17–19 | 17–19 | 16–19 | 16–20 |
-| [7–9 September 2019](2019-09-09-Piepoli.html) | Piepoli <br> Rai 1 | 17 | 16–19 | 15–20 | 15–21 | 14–22 |
+| [7–9 September 2019](2019-09-09-Piepoli.html) | Piepoli <br> Rai 1 | 18 | 16–19 | 15–20 | 15–21 | 14–22 |
 | [1–6 September 2019](2019-09-06-NotoSondaggi.html) | Noto Sondaggi <br> Quotidiano Nazionale | 18 | 17–19 | 16–20 | 16–20 | 15–21 |
 | [5 September 2019](2019-09-05-Tecnè.html) | Tecnè <br> Rete 4 | 19 | 17–20 | 17–20 | 17–21 | 16–22 |
 | [4–5 September 2019](2019-09-05-GPF.html) | GPF <br> La Notizia | 18 | 17–19 | 16–20 | 16–20 | 15–21 |
@@ -757,7 +757,7 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [30–31 July 2019](2019-07-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 15 | 14–17 | 14–17 | 13–17 | 13–18 |
 | [27–30 July 2019](2019-07-30-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 18 | 16–19 | 16–19 | 16–19 | 15–20 |
 | [24–29 July 2019](2019-07-29-SWG.html) | SWG <br> La7 | 17 | 16–18 | 15–18 | 15–18 | 14–19 |
-| [24–25 July 2019](2019-07-25-Tecnè.html) | Tecnè <br> Dire | 17 | 16–19 | 15–19 | 15–20 | 15–20 |
+| [24–25 July 2019](2019-07-25-Tecnè.html) | Tecnè <br> Dire | 17 | 16–19 | 16–19 | 15–20 | 15–20 |
 | [22–24 July 2019](2019-07-24-Demopolis.html) | Demopolis <br> La7 | 16 | 15–17 | 15–17 | 15–18 | 14–18 |
 | [17–22 July 2019](2019-07-22-SWG.html) | SWG <br> La7 | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [22 July 2019](2019-07-22-Euromedia.html) | Euromedia | 15 | 14–16 | 13–17 | 13–17 | 12–18 |
@@ -770,7 +770,7 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [9–12 July 2019](2019-07-12-TermometroPolitico.html) | Termometro Politico | 17 | 16–18 | 16–19 | 15–19 | 15–19 |
 | [10–11 July 2019](2019-07-11-Tecnè.html) | Tecnè <br> Rete 4 | 18 | 16–19 | 16–20 | 16–20 | 15–21 |
 | [8–10 July 2019](2019-07-10-GPF.html) | GPF <br> Rete 4 | 17 | 15–19 | 15–19 | 15–19 | 14–20 |
-| [8–10 July 2019](2019-07-10-DemosPi.html) | Demos & Pi | 17 | 16–18 | 15–18 | 15–19 | 14–20 |
+| [8–10 July 2019](2019-07-10-DemosPi.html) | Demos & Pi | 17 | 16–18 | 15–19 | 15–19 | 14–20 |
 | [7–8 July 2019](2019-07-08-Tecnè.html) | Tecnè <br> Rete 4 | 17 | 15–18 | 15–18 | 15–19 | 14–19 |
 | [3–8 July 2019](2019-07-08-SWG.html) | SWG <br> La7 | 17 | 16–19 | 16–19 | 15–19 | 15–20 |
 | [5 July 2019](2019-07-05-NotoSondaggi.html) | Noto Sondaggi <br> Quotidiano Nazionale | 18 | 17–20 | 17–20 | 16–20 | 15–21 |

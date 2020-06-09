@@ -724,12 +724,12 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [17 September 2019](2019-09-17-EMG.html) | EMG <br> Rai 3 | 30 | 28–30 | 28–30 | 28–30 | 27–31 |
 | [15–16 September 2019](2019-09-16-Tecnè.html) | Tecnè <br> Rete 4 | 27 | 25–29 | 25–29 | 24–29 | 23–30 |
 | [11–16 September 2019](2019-09-16-SWG.html) | SWG <br> La7 | 29 | 28–31 | 27–31 | 27–31 | 26–32 |
-| [11–12 September 2019](2019-09-12-TermometroPolitico.html) | Termometro Politico <br> La7 | 29 | 28–30 | 27–30 | 27–30 | 27–31 |
+| [11–12 September 2019](2019-09-12-TermometroPolitico.html) | Termometro Politico <br> La7 | 29 | 28–30 | 28–31 | 28–31 | 27–31 |
 | [12 September 2019](2019-09-12-Tecnè.html) | Tecnè <br> Rete 4 | 26 | 24–28 | 24–28 | 23–29 | 22–29 |
 | [9–12 September 2019](2019-09-12-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 29 | 27–30 | 27–30 | 26–31 | 25–32 |
 | [10–12 September 2019](2019-09-12-DemosPi.html) | Demos & Pi <br> La Repubblica | 26 | 24–27 | 24–28 | 24–28 | 23–30 |
 | [9–10 September 2019](2019-09-10-NotoSondaggi.html) | Noto Sondaggi | 29 | 28–30 | 27–31 | 27–32 | 26–32 |
-| [9–10 September 2019](2019-09-10-Ixè.html) | Ixè <br> Rai 3 | 25 | 23–26 | 22–27 | 22–27 | 21–28 |
+| [9–10 September 2019](2019-09-10-Ixè.html) | Ixè <br> Rai 3 | 24 | 23–26 | 23–27 | 22–27 | 21–28 |
 | [9–10 September 2019](2019-09-10-Euromedia.html) | Euromedia | 29 | 28–31 | 26–32 | 26–32 | 25–32 |
 | [10 September 2019](2019-09-10-EMG.html) | EMG <br> Rai 3 | 28 | 27–29 | 27–29 | 26–29 | 25–30 |
 | [9–10 September 2019](2019-09-10-Demopolis.html) | Demopolis <br> Rai 3 | 25 | 24–27 | 24–27 | 24–27 | 23–28 |
@@ -761,7 +761,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [30–31 July 2019](2019-07-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 29 | 27–30 | 26–31 | 26–31 | 25–32 |
 | [27–30 July 2019](2019-07-30-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 31 | 29–32 | 29–32 | 29–33 | 28–34 |
 | [24–29 July 2019](2019-07-29-SWG.html) | SWG <br> La7 | 30 | 29–32 | 29–32 | 28–33 | 28–34 |
-| [24–25 July 2019](2019-07-25-Tecnè.html) | Tecnè <br> Dire | 31 | 29–33 | 28–33 | 28–33 | 27–34 |
+| [24–25 July 2019](2019-07-25-Tecnè.html) | Tecnè <br> Dire | 31 | 29–33 | 28–33 | 28–34 | 27–34 |
 | [22–24 July 2019](2019-07-24-Demopolis.html) | Demopolis <br> La7 | 27 | 26–29 | 26–29 | 25–29 | 25–30 |
 | [17–22 July 2019](2019-07-22-SWG.html) | SWG <br> La7 | 31 | 29–32 | 29–32 | 28–33 | 28–33 |
 | [22 July 2019](2019-07-22-Euromedia.html) | Euromedia | 29 | 27–30 | 27–31 | 26–31 | 25–32 |
@@ -774,7 +774,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [9–12 July 2019](2019-07-12-TermometroPolitico.html) | Termometro Politico | 30 | 29–32 | 29–32 | 28–32 | 27–33 |
 | [10–11 July 2019](2019-07-11-Tecnè.html) | Tecnè <br> Rete 4 | 30 | 28–32 | 28–32 | 27–33 | 26–33 |
 | [8–10 July 2019](2019-07-10-GPF.html) | GPF <br> Rete 4 | 27 | 25–29 | 25–30 | 24–30 | 24–31 |
-| [8–10 July 2019](2019-07-10-DemosPi.html) | Demos & Pi | 28 | 26–29 | 26–30 | 25–30 | 25–31 |
+| [8–10 July 2019](2019-07-10-DemosPi.html) | Demos & Pi | 28 | 26–30 | 26–30 | 25–31 | 25–31 |
 | [7–8 July 2019](2019-07-08-Tecnè.html) | Tecnè <br> Rete 4 | 29 | 27–30 | 27–31 | 26–31 | 26–32 |
 | [3–8 July 2019](2019-07-08-SWG.html) | SWG <br> La7 | 30 | 29–32 | 28–32 | 28–33 | 27–33 |
 | [5 July 2019](2019-07-05-NotoSondaggi.html) | Noto Sondaggi <br> Quotidiano Nazionale | 31 | 29–32 | 28–33 | 28–33 | 27–34 |

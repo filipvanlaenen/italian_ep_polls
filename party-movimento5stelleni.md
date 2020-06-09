@@ -707,7 +707,7 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [17 September 2019](2019-09-17-EMG.html) | EMG <br> Rai 3 | 15 | 15–16 | 15–17 | 14–17 | 14–18 |
 | [15–16 September 2019](2019-09-16-Tecnè.html) | Tecnè <br> Rete 4 | 17 | 16–19 | 15–19 | 15–19 | 15–20 |
 | [11–16 September 2019](2019-09-16-SWG.html) | SWG <br> La7 | 17 | 16–19 | 16–19 | 16–19 | 15–20 |
-| [11–12 September 2019](2019-09-12-TermometroPolitico.html) | Termometro Politico <br> La7 | 17 | 16–17 | 16–18 | 15–18 | 15–18 |
+| [11–12 September 2019](2019-09-12-TermometroPolitico.html) | Termometro Politico <br> La7 | 16 | 16–17 | 16–18 | 15–18 | 15–18 |
 | [12 September 2019](2019-09-12-Tecnè.html) | Tecnè <br> Rete 4 | 18 | 16–19 | 16–20 | 15–20 | 15–21 |
 | [9–12 September 2019](2019-09-12-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 13 | 12–14 | 12–14 | 11–15 | 11–15 |
 | [10–12 September 2019](2019-09-12-DemosPi.html) | Demos & Pi <br> La Repubblica | 17 | 15–18 | 15–19 | 15–19 | 14–19 |
@@ -744,7 +744,7 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [30–31 July 2019](2019-07-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 14 | 13–16 | 13–16 | 12–16 | 12–17 |
 | [27–30 July 2019](2019-07-30-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 12 | 11–13 | 10–13 | 10–14 | 10–14 |
 | [24–29 July 2019](2019-07-29-SWG.html) | SWG <br> La7 | 14 | 13–15 | 13–15 | 12–16 | 12–16 |
-| [24–25 July 2019](2019-07-25-Tecnè.html) | Tecnè <br> Dire | 14 | 13–16 | 13–16 | 12–16 | 11–17 |
+| [24–25 July 2019](2019-07-25-Tecnè.html) | Tecnè <br> Dire | 14 | 13–15 | 13–16 | 12–16 | 12–17 |
 | [22–24 July 2019](2019-07-24-Demopolis.html) | Demopolis <br> La7 | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
 | [17–22 July 2019](2019-07-22-SWG.html) | SWG <br> La7 | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
 | [22 July 2019](2019-07-22-Euromedia.html) | Euromedia | 14 | 13–16 | 13–16 | 13–16 | 12–17 |
@@ -757,7 +757,7 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [9–12 July 2019](2019-07-12-TermometroPolitico.html) | Termometro Politico | 14 | 13–15 | 12–15 | 12–15 | 11–16 |
 | [10–11 July 2019](2019-07-11-Tecnè.html) | Tecnè <br> Rete 4 | 14 | 13–15 | 12–16 | 12–16 | 11–17 |
 | [8–10 July 2019](2019-07-10-GPF.html) | GPF <br> Rete 4 | 19 | 17–21 | 17–21 | 17–22 | 16–22 |
-| [8–10 July 2019](2019-07-10-DemosPi.html) | Demos & Pi | 14 | 13–15 | 12–16 | 12–16 | 11–17 |
+| [8–10 July 2019](2019-07-10-DemosPi.html) | Demos & Pi | 14 | 13–15 | 12–16 | 12–16 | 12–17 |
 | [7–8 July 2019](2019-07-08-Tecnè.html) | Tecnè <br> Rete 4 | 13 | 12–14 | 11–14 | 11–15 | 11–15 |
 | [3–8 July 2019](2019-07-08-SWG.html) | SWG <br> La7 | 14 | 13–15 | 13–15 | 12–16 | 12–16 |
 | [5 July 2019](2019-07-05-NotoSondaggi.html) | Noto Sondaggi <br> Quotidiano Nazionale | 14 | 12–15 | 12–15 | 12–16 | 11–16 |
