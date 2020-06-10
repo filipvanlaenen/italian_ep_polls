@@ -266,7 +266,7 @@ Last result: **6.2%** (General Election of 26 May 2019)
 | [10 October 2019](2019-10-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 31.0% | 29.2–32.9% | 28.7–33.5% | 28.2–33.9% | 27.3–34.9% |
 | [9 October 2019](2019-10-09-Index.html) | Index <br> La7 | 32.2% | 30.2–34.4% | 29.6–35.0% | 29.1–35.6% | 28.1–36.6% |
 | [9 October 2019](2019-10-09-EMG.html) | EMG <br> Rai 3 | 32.7% | 31.2–34.2% | 30.8–34.6% | 30.5–35.0% | 29.8–35.8% |
-| [7–9 October 2019](2019-10-09-BiDiMedia.html) | BiDiMedia | 30.6% | 29.1–32.2% | 28.6–32.6% | 28.3–33.0% | 27.5–33.8% |
+| [7–9 October 2019](2019-10-09-BiDiMedia.html) | BiDiMedia | 30.6% | 29.0–32.2% | 28.6–32.6% | 28.3–33.1% | 27.5–33.8% |
 | [7–8 October 2019](2019-10-08-Ixè.html) | Ixè <br> Rai 3 | 30.0% | 28.2–31.9% | 27.7–32.4% | 27.2–32.9% | 26.4–33.9% |
 | [7–8 October 2019](2019-10-08-Euromedia.html) | Euromedia <br> Rai 1 | 32.0% | 29.9–34.2% | 29.4–34.8% | 28.9–35.3% | 27.9–36.4% |
 | [6–7 October 2019](2019-10-07-Tecnè.html) | Tecnè <br> Rete 4 | 30.8% | 29.0–32.7% | 28.5–33.3% | 28.0–33.7% | 27.1–34.7% |
@@ -701,8 +701,8 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [29–30 September 2019](2019-09-30-Tecnè.html) | Tecnè <br> Rete 4 | 26 | 24–28 | 24–28 | 24–29 | 23–29 |
 | [25–30 September 2019](2019-09-30-SWG.html) | SWG <br> La7 | 28 | 26–29 | 26–29 | 25–29 | 25–30 |
 | [20–27 September 2019](2019-09-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 26 | 25–29 | 24–29 | 24–29 | 23–31 |
-| [23–27 September 2019](2019-09-27-GPF.html) | GPF <br> La Notizia | 24 | 22–26 | 21–26 | 21–26 | 20–27 |
-| [25–26 September 2019](2019-09-26-TermometroPolitico.html) | Termometro Politico <br> La7 | 30 | 29–30 | 29–30 | 29–31 | 27–31 |
+| [23–27 September 2019](2019-09-27-GPF.html) | GPF <br> La Notizia | 24 | 23–26 | 22–27 | 22–28 | 21–29 |
+| [25–26 September 2019](2019-09-26-TermometroPolitico.html) | Termometro Politico <br> La7 | 30 | 29–31 | 29–31 | 28–31 | 28–32 |
 | [25–26 September 2019](2019-09-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 25 | 23–27 | 23–27 | 22–28 | 22–29 |
 | [1–25 September 2019](2019-09-25-NotoSondaggi.html) | Noto Sondaggi | 28 | 26–30 | 26–30 | 26–31 | 25–31 |
 | [25 September 2019](2019-09-25-EMG.html) | EMG <br> Rai 3 | 28 | 26–29 | 26–29 | 26–30 | 25–31 |
@@ -722,7 +722,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [14–18 September 2019](2019-09-18-BiDiMedia.html) | BiDiMedia | 24 | 23–26 | 23–26 | 23–26 | 22–27 |
 | [16–17 September 2019](2019-09-17-Ixè.html) | Ixè <br> Rai 3 | 24 | 23–26 | 23–26 | 22–27 | 21–28 |
 | [17 September 2019](2019-09-17-EMG.html) | EMG <br> Rai 3 | 30 | 28–30 | 28–30 | 28–30 | 27–31 |
-| [15–16 September 2019](2019-09-16-Tecnè.html) | Tecnè <br> Rete 4 | 27 | 25–29 | 25–29 | 24–29 | 23–30 |
+| [15–16 September 2019](2019-09-16-Tecnè.html) | Tecnè <br> Rete 4 | 27 | 25–28 | 25–29 | 24–29 | 24–30 |
 | [11–16 September 2019](2019-09-16-SWG.html) | SWG <br> La7 | 29 | 28–31 | 27–31 | 27–31 | 26–32 |
 | [11–12 September 2019](2019-09-12-TermometroPolitico.html) | Termometro Politico <br> La7 | 29 | 28–30 | 28–31 | 28–31 | 27–31 |
 | [12 September 2019](2019-09-12-Tecnè.html) | Tecnè <br> Rete 4 | 26 | 24–28 | 24–28 | 23–29 | 22–29 |
@@ -799,7 +799,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [10 June 2019](2019-06-10-Euromedia.html) | Euromedia <br> Rai 1 | 28 | 26–30 | 26–31 | 25–31 | 24–32 |
 | [1–7 June 2019](2019-06-07-IndexResearch.html) | Index Research <br> La7 | 26 | 25–28 | 24–29 | 24–29 | 23–30 |
 | [2–3 June 2019](2019-06-03-Tecnè.html) | Tecnè <br> Rete 4 | 27 | 26–29 | 25–29 | 25–29 | 24–30 |
-| [29 May–3 June 2019](2019-06-03-SWG.html) | SWG <br> LA7 | 29 | 28–31 | 27–31 | 27–32 | 26–32 |
+| [29 May–3 June 2019](2019-06-03-SWG.html) | SWG <br> LA7 | 29 | 28–31 | 27–31 | 27–32 | 27–32 |
 | [1 June 2019](2019-06-01-EMG.html) | EMG <br> Affari Internazionali | 28 | 27–30 | 26–30 | 26–30 | 25–31 |
 | [30 May 2019](2019-05-30-Piepoli.html) | Piepoli <br> Rai 1 | 28 | 26–30 | 26–30 | 26–30 | 25–31 |
 | [28–29 May 2019](2019-05-29-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 29 | 27–30 | 27–31 | 27–31 | 26–32 |

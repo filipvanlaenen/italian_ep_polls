@@ -697,8 +697,8 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [29–30 September 2019](2019-09-30-Tecnè.html) | Tecnè <br> Rete 4 | 16 | 14–17 | 14–17 | 13–17 | 13–18 |
 | [25–30 September 2019](2019-09-30-SWG.html) | SWG <br> La7 | 15 | 14–16 | 14–17 | 14–17 | 13–17 |
 | [20–27 September 2019](2019-09-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 16 | 14–17 | 13–18 | 13–18 | 12–19 |
-| [23–27 September 2019](2019-09-27-GPF.html) | GPF <br> La Notizia | 15 | 14–16 | 14–17 | 13–18 | 13–18 |
-| [25–26 September 2019](2019-09-26-TermometroPolitico.html) | Termometro Politico <br> La7 | 14 | 14–15 | 14–15 | 13–16 | 13–16 |
+| [23–27 September 2019](2019-09-27-GPF.html) | GPF <br> La Notizia | 16 | 14–18 | 14–18 | 13–19 | 13–20 |
+| [25–26 September 2019](2019-09-26-TermometroPolitico.html) | Termometro Politico <br> La7 | 15 | 13–15 | 13–16 | 13–16 | 13–16 |
 | [25–26 September 2019](2019-09-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 15 | 14–16 | 13–17 | 13–17 | 12–18 |
 | [1–25 September 2019](2019-09-25-NotoSondaggi.html) | Noto Sondaggi | 16 | 15–17 | 14–18 | 14–18 | 13–19 |
 | [25 September 2019](2019-09-25-EMG.html) | EMG <br> Rai 3 | 17 | 16–18 | 15–18 | 15–18 | 14–19 |
@@ -718,7 +718,7 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [14–18 September 2019](2019-09-18-BiDiMedia.html) | BiDiMedia | 17 | 16–19 | 16–19 | 16–19 | 15–20 |
 | [16–17 September 2019](2019-09-17-Ixè.html) | Ixè <br> Rai 3 | 17 | 15–18 | 15–19 | 15–19 | 14–19 |
 | [17 September 2019](2019-09-17-EMG.html) | EMG <br> Rai 3 | 18 | 16–18 | 16–18 | 16–18 | 15–18 |
-| [15–16 September 2019](2019-09-16-Tecnè.html) | Tecnè <br> Rete 4 | 18 | 17–20 | 16–20 | 16–21 | 15–21 |
+| [15–16 September 2019](2019-09-16-Tecnè.html) | Tecnè <br> Rete 4 | 18 | 17–20 | 16–20 | 16–20 | 15–21 |
 | [11–16 September 2019](2019-09-16-SWG.html) | SWG <br> La7 | 17 | 16–18 | 16–19 | 16–19 | 15–20 |
 | [11–12 September 2019](2019-09-12-TermometroPolitico.html) | Termometro Politico <br> La7 | 18 | 17–19 | 17–20 | 17–20 | 16–20 |
 | [12 September 2019](2019-09-12-Tecnè.html) | Tecnè <br> Rete 4 | 19 | 17–20 | 17–21 | 16–21 | 15–22 |

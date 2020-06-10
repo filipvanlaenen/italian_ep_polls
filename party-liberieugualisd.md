@@ -266,7 +266,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [10 October 2019](2019-10-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.3% | 0.7–2.7% |
 | [9 October 2019](2019-10-09-Index.html) | Index <br> La7 | 2.0% | 1.5–2.8% | 1.4–3.0% | 1.2–3.2% | 1.0–3.7% |
 | [9 October 2019](2019-10-09-EMG.html) | EMG <br> Rai 3 | 1.7% | 1.4–2.2% | 1.3–2.4% | 1.2–2.5% | 1.0–2.7% |
-| [7–9 October 2019](2019-10-09-BiDiMedia.html) | BiDiMedia | 1.8% | 1.4–2.3% | 1.3–2.5% | 1.2–2.6% | 1.1–2.9% |
+| [7–9 October 2019](2019-10-09-BiDiMedia.html) | BiDiMedia | 1.8% | 1.4–2.4% | 1.3–2.5% | 1.2–2.7% | 1.1–2.9% |
 | [7–8 October 2019](2019-10-08-Ixè.html) | Ixè <br> Rai 3 | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
 | [7–8 October 2019](2019-10-08-Euromedia.html) | Euromedia <br> Rai 1 | 2.0% | 1.5–2.8% | 1.4–3.0% | 1.2–3.2% | 1.0–3.7% |
 | [6–7 October 2019](2019-10-07-Tecnè.html) | Tecnè <br> Rete 4 | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |

@@ -686,8 +686,8 @@ Last result: **13** seats (General Election of 26 May 2019)
 | [29–30 September 2019](2019-09-30-Tecnè.html) | Tecnè <br> Rete 4 | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
 | [25–30 September 2019](2019-09-30-SWG.html) | SWG <br> La7 | 4 | 4 | 4–5 | 4–5 | 0–6 |
 | [20–27 September 2019](2019-09-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
-| [23–27 September 2019](2019-09-27-GPF.html) | GPF <br> La Notizia | 5 | 4–5 | 4–6 | 4–6 | 3–7 |
-| [25–26 September 2019](2019-09-26-TermometroPolitico.html) | Termometro Politico <br> La7 | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [23–27 September 2019](2019-09-27-GPF.html) | GPF <br> La Notizia | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
+| [25–26 September 2019](2019-09-26-TermometroPolitico.html) | Termometro Politico <br> La7 | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [25–26 September 2019](2019-09-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | [1–25 September 2019](2019-09-25-NotoSondaggi.html) | Noto Sondaggi | 5 | 5–6 | 4–7 | 4–7 | 4–7 |
 | [25 September 2019](2019-09-25-EMG.html) | EMG <br> Rai 3 | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
@@ -707,7 +707,7 @@ Last result: **13** seats (General Election of 26 May 2019)
 | [14–18 September 2019](2019-09-18-BiDiMedia.html) | BiDiMedia | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [16–17 September 2019](2019-09-17-Ixè.html) | Ixè <br> Rai 3 | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
 | [17 September 2019](2019-09-17-EMG.html) | EMG <br> Rai 3 | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
-| [15–16 September 2019](2019-09-16-Tecnè.html) | Tecnè <br> Rete 4 | 6 | 6–7 | 6–8 | 5–8 | 5–9 |
+| [15–16 September 2019](2019-09-16-Tecnè.html) | Tecnè <br> Rete 4 | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
 | [11–16 September 2019](2019-09-16-SWG.html) | SWG <br> La7 | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [11–12 September 2019](2019-09-12-TermometroPolitico.html) | Termometro Politico <br> La7 | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [12 September 2019](2019-09-12-Tecnè.html) | Tecnè <br> Rete 4 | 7 | 6–8 | 6–8 | 5–8 | 5–9 |

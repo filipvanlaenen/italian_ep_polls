@@ -266,7 +266,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [10 October 2019](2019-10-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
 | [9 October 2019](2019-10-09-Index.html) | Index <br> La7 | 4.8% | 3.9–5.9% | 3.7–6.2% | 3.5–6.5% | 3.1–7.0% |
 | [9 October 2019](2019-10-09-EMG.html) | EMG <br> Rai 3 | 4.5% | 3.9–5.2% | 3.7–5.4% | 3.6–5.6% | 3.3–6.0% |
-| [7–9 October 2019](2019-10-09-BiDiMedia.html) | BiDiMedia | 5.0% | 4.3–5.8% | 4.1–6.1% | 4.0–6.3% | 3.7–6.7% |
+| [7–9 October 2019](2019-10-09-BiDiMedia.html) | BiDiMedia | 5.0% | 4.3–5.9% | 4.1–6.1% | 4.0–6.3% | 3.7–6.7% |
 | [7–8 October 2019](2019-10-08-Ixè.html) | Ixè <br> Rai 3 | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
 | [7–8 October 2019](2019-10-08-Euromedia.html) | Euromedia <br> Rai 1 | 5.5% | 4.6–6.7% | 4.3–7.0% | 4.1–7.3% | 3.7–7.9% |
 | [6–7 October 2019](2019-10-07-Tecnè.html) | Tecnè <br> Rete 4 | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.1–5.6% | 2.8–6.1% |
@@ -680,7 +680,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [29–30 September 2019](2019-09-30-Tecnè.html) | Tecnè <br> Rete 4 | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [25–30 September 2019](2019-09-30-SWG.html) | SWG <br> La7 | 4 | 4–5 | 4–5 | 3–5 | 0–5 |
 | [20–27 September 2019](2019-09-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
-| [23–27 September 2019](2019-09-27-GPF.html) | GPF <br> La Notizia | 4 | 0–4 | 0–4 | 0–5 | 0–5 |
+| [23–27 September 2019](2019-09-27-GPF.html) | GPF <br> La Notizia | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [25–26 September 2019](2019-09-26-TermometroPolitico.html) | Termometro Politico <br> La7 | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [25–26 September 2019](2019-09-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 4 | 3–5 | 0–5 | 0–5 | 0–6 |
 | [1–25 September 2019](2019-09-25-NotoSondaggi.html) | Noto Sondaggi | 4 | 0–5 | 0–5 | 0–5 | 0–5 |

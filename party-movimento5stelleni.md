@@ -266,7 +266,7 @@ Last result: **21.2%** (General Election of 26 May 2019)
 | [10 October 2019](2019-10-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 19.0% | 17.5–20.7% | 17.1–21.1% | 16.7–21.6% | 16.0–22.4% |
 | [9 October 2019](2019-10-09-Index.html) | Index <br> La7 | 18.8% | 17.1–20.6% | 16.6–21.2% | 16.2–21.6% | 15.4–22.5% |
 | [9 October 2019](2019-10-09-EMG.html) | EMG <br> Rai 3 | 18.7% | 17.5–20.0% | 17.2–20.4% | 16.9–20.7% | 16.3–21.3% |
-| [7–9 October 2019](2019-10-09-BiDiMedia.html) | BiDiMedia | 19.2% | 17.9–20.6% | 17.5–21.0% | 17.2–21.3% | 16.6–22.0% |
+| [7–9 October 2019](2019-10-09-BiDiMedia.html) | BiDiMedia | 19.2% | 17.9–20.6% | 17.5–21.0% | 17.2–21.4% | 16.6–22.0% |
 | [7–8 October 2019](2019-10-08-Ixè.html) | Ixè <br> Rai 3 | 20.2% | 18.6–21.9% | 18.2–22.4% | 17.8–22.8% | 17.1–23.6% |
 | [7–8 October 2019](2019-10-08-Euromedia.html) | Euromedia <br> Rai 1 | 19.2% | 17.5–21.1% | 17.1–21.7% | 16.7–22.1% | 15.9–23.1% |
 | [6–7 October 2019](2019-10-07-Tecnè.html) | Tecnè <br> Rete 4 | 20.1% | 18.5–21.8% | 18.1–22.3% | 17.7–22.7% | 17.0–23.5% |
@@ -684,8 +684,8 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [29–30 September 2019](2019-09-30-Tecnè.html) | Tecnè <br> Rete 4 | 17 | 15–18 | 15–19 | 15–19 | 14–20 |
 | [25–30 September 2019](2019-09-30-SWG.html) | SWG <br> La7 | 17 | 16–18 | 16–18 | 14–19 | 14–19 |
 | [20–27 September 2019](2019-09-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 17 | 15–18 | 15–19 | 14–19 | 14–21 |
-| [23–27 September 2019](2019-09-27-GPF.html) | GPF <br> La Notizia | 19 | 17–22 | 17–22 | 17–22 | 17–23 |
-| [25–26 September 2019](2019-09-26-TermometroPolitico.html) | Termometro Politico <br> La7 | 15 | 14–16 | 13–16 | 13–16 | 13–16 |
+| [23–27 September 2019](2019-09-27-GPF.html) | GPF <br> La Notizia | 20 | 19–22 | 18–23 | 18–23 | 17–24 |
+| [25–26 September 2019](2019-09-26-TermometroPolitico.html) | Termometro Politico <br> La7 | 15 | 14–15 | 14–15 | 13–16 | 13–16 |
 | [25–26 September 2019](2019-09-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 17 | 15–18 | 15–19 | 15–19 | 14–20 |
 | [1–25 September 2019](2019-09-25-NotoSondaggi.html) | Noto Sondaggi | 17 | 15–19 | 15–19 | 15–19 | 14–19 |
 | [25 September 2019](2019-09-25-EMG.html) | EMG <br> Rai 3 | 16 | 15–17 | 15–17 | 14–18 | 14–18 |

@@ -266,7 +266,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [10 October 2019](2019-10-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0.5% | 0.3–0.9% | 0.3–1.1% | 0.2–1.2% | 0.2–1.4% |
 | [9 October 2019](2019-10-09-Index.html) | Index <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [9 October 2019](2019-10-09-EMG.html) | EMG <br> Rai 3 | 1.3% | 1.0–1.7% | 0.9–1.9% | 0.8–2.0% | 0.7–2.2% |
-| [7–9 October 2019](2019-10-09-BiDiMedia.html) | BiDiMedia | 1.0% | N/A | N/A | N/A | N/A |
+| [7–9 October 2019](2019-10-09-BiDiMedia.html) | BiDiMedia | 1.0% | 0.7–1.4% | 0.6–1.6% | 0.5–1.6% | 0.5–1.9% |
 | [7–8 October 2019](2019-10-08-Ixè.html) | Ixè <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
 | [7–8 October 2019](2019-10-08-Euromedia.html) | Euromedia <br> Rai 1 | 1.5% | 1.1–2.2% | 1.0–2.4% | 0.9–2.6% | 0.7–3.0% |
 | [6–7 October 2019](2019-10-07-Tecnè.html) | Tecnè <br> Rete 4 | 1.3% | 0.9–1.9% | 0.8–2.1% | 0.8–2.2% | 0.6–2.5% |
@@ -281,7 +281,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [29–30 September 2019](2019-09-30-Tecnè.html) | Tecnè <br> Rete 4 | 1.1% | 0.8–1.7% | 0.7–1.8% | 0.6–2.0% | 0.5–2.3% |
 | [25–30 September 2019](2019-09-30-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [20–27 September 2019](2019-09-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
-| [23–27 September 2019](2019-09-27-GPF.html) | GPF <br> La Notizia | 1.8% | N/A | N/A | N/A | N/A |
+| [23–27 September 2019](2019-09-27-GPF.html) | GPF <br> La Notizia | 1.8% | 1.4–2.6% | 1.2–2.8% | 1.1–3.0% | 0.9–3.4% |
 | [25–26 September 2019](2019-09-26-TermometroPolitico.html) | Termometro Politico <br> La7 | 1.2% | 1.0–1.6% | 0.9–1.6% | 0.8–1.7% | 0.7–1.9% |
 | [25–26 September 2019](2019-09-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.0% | N/A | N/A | N/A | N/A |
 | [1–25 September 2019](2019-09-25-NotoSondaggi.html) | Noto Sondaggi | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
@@ -678,7 +678,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [29–30 September 2019](2019-09-30-Tecnè.html) | Tecnè <br> Rete 4 | 0 | 0 | 0 | 0 | 0 |
 | [25–30 September 2019](2019-09-30-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [20–27 September 2019](2019-09-27-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
-| [23–27 September 2019](2019-09-27-GPF.html) | GPF <br> La Notizia |  |  |  |  |  |
+| [23–27 September 2019](2019-09-27-GPF.html) | GPF <br> La Notizia | 0 | 0 | 0 | 0 | 0 |
 | [25–26 September 2019](2019-09-26-TermometroPolitico.html) | Termometro Politico <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [25–26 September 2019](2019-09-26-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
 | [1–25 September 2019](2019-09-25-NotoSondaggi.html) | Noto Sondaggi | 0 | 0 | 0 | 0 | 0 |
