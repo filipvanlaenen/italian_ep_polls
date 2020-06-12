@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.7% | 1.1–2.5% | 0.9–2.8% | 0.8–3.0% | 0.5–3.5% |
+| N/A | [Poll Average](average.html) | 1.7% | 1.1–2.4% | 0.9–2.7% | 0.8–2.9% | 0.5–3.4% |
 | [8–9 June 2020](2020-06-09-Ixe.html) | Ixe <br> Rai 3 - Cartabianca | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
 | [3–8 June 2020](2020-06-08-SWG.html) | SWG <br> La7 | 2.1% | 1.6–2.7% | 1.5–2.9% | 1.4–3.1% | 1.2–3.4% |
 | [4–5 June 2020](2020-06-05-Tecnè.html) | Tecnè <br> Agenzia Dire | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
@@ -19,8 +19,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [3 June 2020](2020-06-03-Euromedia.html) | Euromedia <br> Rai. Porta a Porta | 1.6% | 1.2–2.4% | 1.1–2.6% | 0.9–2.8% | 0.8–3.2% |
 | [31 May–1 June 2020](2020-06-01-Tecnè.html) | Tecnè <br> rti | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
 | [27 May–1 June 2020](2020-06-01-SWG.html) | SWG <br> La7 | 1.9% | 1.5–2.5% | 1.4–2.7% | 1.3–2.9% | 1.1–3.2% |
-| [26–30 May 2020](2020-05-30-WinpollSole24Ore.html) | Winpoll Sole 24 Ore <br> Sole 24 Ore | 1.7% | N/A | N/A | N/A | N/A |
-| [26–28 May 2020](2020-05-28-TermometroPolitico.html) | Termometro Politico | 1.3% | N/A | N/A | N/A | N/A |
+| [26–30 May 2020](2020-05-30-WinpollSole24Ore.html) | Winpoll Sole 24 Ore <br> Sole 24 Ore | 1.7% | 1.3–2.2% | 1.2–2.3% | 1.2–2.5% | 1.0–2.7% |
+| [26–28 May 2020](2020-05-28-TermometroPolitico.html) | Termometro Politico | 1.3% | 1.1–1.6% | 1.0–1.7% | 1.0–1.8% | 0.9–1.9% |
 | [25–26 May 2020](2020-05-26-Ixè.html) | Ixè <br> Rai 3 | 2.4% | 1.9–3.2% | 1.7–3.4% | 1.6–3.6% | 1.4–3.9% |
 | [26 May 2020](2020-05-26-EMG.html) | EMG <br> Rai | 1.7% | 1.4–2.2% | 1.3–2.3% | 1.2–2.4% | 1.1–2.7% |
 | [24–25 May 2020](2020-05-25-Tecnè.html) | Tecnè <br> rti | 1.7% | 1.3–2.4% | 1.2–2.5% | 1.1–2.7% | 0.9–3.1% |
@@ -401,11 +401,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.7% | 100% | Last Result |
-| 0.5–1.5% | 37% | 99.3% |  |
-| 1.5–2.5% | 53% | 62% | Median |
-| 2.5–3.5% | 8% | 8% |  |
-| 3.5–4.5% | 0.4% | 0.4% |  |
+| 0.0–0.5% | 0.6% | 100% | Last Result |
+| 0.5–1.5% | 41% | 99.4% |  |
+| 1.5–2.5% | 51% | 58% | Median |
+| 2.5–3.5% | 7% | 7% |  |
+| 3.5–4.5% | 0.3% | 0.3% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -426,8 +426,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [3 June 2020](2020-06-03-Euromedia.html) | Euromedia <br> Rai. Porta a Porta | 0 | 0 | 0 | 0 | 0 |
 | [31 May–1 June 2020](2020-06-01-Tecnè.html) | Tecnè <br> rti | 0 | 0 | 0 | 0 | 0 |
 | [27 May–1 June 2020](2020-06-01-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
-| [26–30 May 2020](2020-05-30-WinpollSole24Ore.html) | Winpoll Sole 24 Ore <br> Sole 24 Ore |  |  |  |  |  |
-| [26–28 May 2020](2020-05-28-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [26–30 May 2020](2020-05-30-WinpollSole24Ore.html) | Winpoll Sole 24 Ore <br> Sole 24 Ore | 0 | 0 | 0 | 0 | 0 |
+| [26–28 May 2020](2020-05-28-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [25–26 May 2020](2020-05-26-Ixè.html) | Ixè <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [26 May 2020](2020-05-26-EMG.html) | EMG <br> Rai | 0 | 0 | 0 | 0 | 0 |
 | [24–25 May 2020](2020-05-25-Tecnè.html) | Tecnè <br> rti | 0 | 0 | 0 | 0 | 0 |
