@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.3% | 2.1–4.5% | 1.7–4.9% | 1.4–5.3% | 1.0–5.9% |
+| N/A | [Poll Average](average.html) | 3.2% | 2.1–4.5% | 1.7–4.9% | 1.4–5.2% | 1.0–5.8% |
 | [8–9 June 2020](2020-06-09-Ixe.html) | Ixe <br> Rai 3 - Cartabianca | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–3.0% | 1.0–3.3% |
 | [3–8 June 2020](2020-06-08-SWG.html) | SWG <br> La7 | 3.0% | 2.5–3.7% | 2.3–3.9% | 2.2–4.1% | 1.9–4.5% |
 | [4–5 June 2020](2020-06-05-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.8% | 2.2–3.6% | 2.1–3.8% | 1.9–4.0% | 1.7–4.4% |
@@ -27,7 +27,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [20–25 May 2020](2020-05-25-SWG.html) | SWG <br> La7 | 2.7% | 2.1–3.4% | 2.0–3.6% | 1.9–3.7% | 1.7–4.1% |
 | [21–22 May 2020](2020-05-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
 | [20–21 May 2020](2020-05-21-TermometroPolitico.html) | Termometro Politico | 3.3% | 2.9–3.8% | 2.8–3.9% | 2.7–4.1% | 2.5–4.3% |
-| [23 April–21 May 2020](2020-05-21-Ipsos.html) | Ipsos <br> Corriere della Sera | 3.0% | N/A | N/A | N/A | N/A |
+| [23 April–21 May 2020](2020-05-21-Ipsos.html) | Ipsos <br> Corriere della Sera | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [21 May 2020](2020-05-21-Euromedia.html) | Euromedia <br> Rai 1 | 2.8% | 2.1–3.7% | 2.0–3.9% | 1.8–4.1% | 1.6–4.6% |
 | [18–19 May 2020](2020-05-19-Ixè.html) | Ixè <br> Rai 3 | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
 | [19 May 2020](2020-05-19-EMG.html) | EMG <br> Rai 3 | 5.0% | 4.4–5.7% | 4.2–5.9% | 4.1–6.1% | 3.8–6.5% |
@@ -277,7 +277,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [10 October 2019](2019-10-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
 | [9 October 2019](2019-10-09-Index.html) | Index <br> La7 | 4.8% | 3.9–5.9% | 3.7–6.2% | 3.5–6.5% | 3.1–7.0% |
 | [9 October 2019](2019-10-09-EMG.html) | EMG <br> Rai 3 | 4.5% | 3.9–5.2% | 3.7–5.4% | 3.6–5.6% | 3.3–6.0% |
-| [7–9 October 2019](2019-10-09-BiDiMedia.html) | BiDiMedia | 5.0% | 4.3–5.9% | 4.1–6.1% | 4.0–6.3% | 3.7–6.7% |
+| [7–9 October 2019](2019-10-09-BiDiMedia.html) | BiDiMedia | 5.0% | 4.3–5.8% | 4.1–6.1% | 4.0–6.3% | 3.7–6.7% |
 | [7–8 October 2019](2019-10-08-Ixè.html) | Ixè <br> Rai 3 | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
 | [7–8 October 2019](2019-10-08-Euromedia.html) | Euromedia <br> Rai 1 | 5.5% | 4.6–6.7% | 4.3–7.0% | 4.1–7.3% | 3.7–7.9% |
 | [6–7 October 2019](2019-10-07-Tecnè.html) | Tecnè <br> Rete 4 | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.1–5.6% | 2.8–6.1% |
@@ -404,10 +404,10 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 4% | 100% |  |
 | 1.5–2.5% | 16% | 96% |  |
-| 2.5–3.5% | 43% | 79% | Median |
-| 3.5–4.5% | 27% | 36% |  |
+| 2.5–3.5% | 45% | 80% | Median |
+| 3.5–4.5% | 26% | 35% |  |
 | 4.5–5.5% | 8% | 9% |  |
-| 5.5–6.5% | 1.1% | 1.2% |  |
+| 5.5–6.5% | 1.0% | 1.1% |  |
 | 6.5–7.5% | 0.1% | 0.1% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
@@ -420,7 +420,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
+| N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [8–9 June 2020](2020-06-09-Ixe.html) | Ixe <br> Rai 3 - Cartabianca | 0 | 0 | 0 | 0 | 0 |
 | [3–8 June 2020](2020-06-08-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0–3 | 0–4 |
 | [4–5 June 2020](2020-06-05-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0–3 | 0–4 |
@@ -437,7 +437,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [20–25 May 2020](2020-05-25-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0–4 |
 | [21–22 May 2020](2020-05-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [20–21 May 2020](2020-05-21-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0–4 |
-| [23 April–21 May 2020](2020-05-21-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
+| [23 April–21 May 2020](2020-05-21-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0–4 |
 | [21 May 2020](2020-05-21-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0 | 0–4 |
 | [18–19 May 2020](2020-05-19-Ixè.html) | Ixè <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [19 May 2020](2020-05-19-EMG.html) | EMG <br> Rai 3 | 4 | 4–5 | 4–5 | 3–5 | 0–6 |
@@ -687,7 +687,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [10 October 2019](2019-10-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [9 October 2019](2019-10-09-Index.html) | Index <br> La7 | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [9 October 2019](2019-10-09-EMG.html) | EMG <br> Rai 3 | 4 | 4 | 0–4 | 0–4 | 0–5 |
-| [7–9 October 2019](2019-10-09-BiDiMedia.html) | BiDiMedia | 4 | 3–4 | 3–5 | 3–5 | 0–5 |
+| [7–9 October 2019](2019-10-09-BiDiMedia.html) | BiDiMedia | 4 | 3–5 | 0–5 | 0–5 | 0–6 |
 | [7–8 October 2019](2019-10-08-Ixè.html) | Ixè <br> Rai 3 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [7–8 October 2019](2019-10-08-Euromedia.html) | Euromedia <br> Rai 1 | 5 | 4–6 | 4–6 | 3–6 | 0–6 |
 | [6–7 October 2019](2019-10-07-Tecnè.html) | Tecnè <br> Rete 4 | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
@@ -813,12 +813,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 81% | 100% | Last Result, Median |
-| 1 | 0% | 19% |  |
-| 2 | 0% | 19% |  |
-| 3 | 2% | 19% |  |
-| 4 | 14% | 17% |  |
-| 5 | 3% | 3% |  |
+| 0 | 82% | 100% | Last Result, Median |
+| 1 | 0% | 18% |  |
+| 2 | 0% | 18% |  |
+| 3 | 2% | 18% |  |
+| 4 | 13% | 16% |  |
+| 5 | 2% | 2% |  |
 | 6 | 0% | 0% |  |
 
 

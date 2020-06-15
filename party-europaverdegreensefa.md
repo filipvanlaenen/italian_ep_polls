@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.7% | 1.1–2.4% | 0.9–2.7% | 0.8–2.9% | 0.5–3.4% |
+| N/A | [Poll Average](average.html) | 1.7% | 1.1–2.4% | 1.0–2.7% | 0.8–2.9% | 0.5–3.4% |
 | [8–9 June 2020](2020-06-09-Ixe.html) | Ixe <br> Rai 3 - Cartabianca | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
 | [3–8 June 2020](2020-06-08-SWG.html) | SWG <br> La7 | 2.1% | 1.6–2.7% | 1.5–2.9% | 1.4–3.1% | 1.2–3.4% |
 | [4–5 June 2020](2020-06-05-Tecnè.html) | Tecnè <br> Agenzia Dire | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
@@ -27,7 +27,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [20–25 May 2020](2020-05-25-SWG.html) | SWG <br> La7 | 1.7% | 1.3–2.3% | 1.2–2.4% | 1.1–2.6% | 0.9–2.9% |
 | [21–22 May 2020](2020-05-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
 | [20–21 May 2020](2020-05-21-TermometroPolitico.html) | Termometro Politico | 1.5% | 1.2–1.9% | 1.2–2.0% | 1.1–2.1% | 1.0–2.2% |
-| [23 April–21 May 2020](2020-05-21-Ipsos.html) | Ipsos <br> Corriere della Sera | 1.8% | N/A | N/A | N/A | N/A |
+| [23 April–21 May 2020](2020-05-21-Ipsos.html) | Ipsos <br> Corriere della Sera | 1.8% | 1.4–2.5% | 1.2–2.7% | 1.1–2.8% | 1.0–3.2% |
 | [21 May 2020](2020-05-21-Euromedia.html) | Euromedia <br> Rai 1 | 1.2% | 0.9–1.9% | 0.8–2.1% | 0.7–2.3% | 0.5–2.7% |
 | [18–19 May 2020](2020-05-19-Ixè.html) | Ixè <br> Rai 3 | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
 | [19 May 2020](2020-05-19-EMG.html) | EMG <br> Rai 3 | 1.8% | 1.4–2.3% | 1.3–2.4% | 1.3–2.5% | 1.1–2.8% |
@@ -402,8 +402,8 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0.6% | 100% | Last Result |
-| 0.5–1.5% | 41% | 99.4% |  |
-| 1.5–2.5% | 51% | 58% | Median |
+| 0.5–1.5% | 40% | 99.4% |  |
+| 1.5–2.5% | 53% | 60% | Median |
 | 2.5–3.5% | 7% | 7% |  |
 | 3.5–4.5% | 0.3% | 0.3% |  |
 | 4.5–5.5% | 0% | 0% |  |
@@ -434,7 +434,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [20–25 May 2020](2020-05-25-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [21–22 May 2020](2020-05-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
 | [20–21 May 2020](2020-05-21-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
-| [23 April–21 May 2020](2020-05-21-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
+| [23 April–21 May 2020](2020-05-21-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
 | [21 May 2020](2020-05-21-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
 | [18–19 May 2020](2020-05-19-Ixè.html) | Ixè <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [19 May 2020](2020-05-19-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |

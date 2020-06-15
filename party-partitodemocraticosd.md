@@ -10,7 +10,7 @@ Last result: **40.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.1% | 19.5–22.9% | 19.0–23.4% | 18.5–23.9% | 17.7–25.0% |
+| N/A | [Poll Average](average.html) | 21.2% | 19.5–22.9% | 19.0–23.4% | 18.5–23.9% | 17.7–25.0% |
 | [8–9 June 2020](2020-06-09-Ixe.html) | Ixe <br> Rai 3 - Cartabianca | 21.4% | 19.8–23.1% | 19.4–23.6% | 19.0–24.1% | 18.2–24.9% |
 | [3–8 June 2020](2020-06-08-SWG.html) | SWG <br> La7 | 19.1% | 17.7–20.6% | 17.3–21.0% | 16.9–21.4% | 16.3–22.2% |
 | [4–5 June 2020](2020-06-05-Tecnè.html) | Tecnè <br> Agenzia Dire | 20.0% | 18.4–21.7% | 18.0–22.2% | 17.6–22.6% | 16.9–23.4% |
@@ -27,7 +27,7 @@ Last result: **40.8%** (General Election of 26 May 2019)
 | [20–25 May 2020](2020-05-25-SWG.html) | SWG <br> La7 | 20.2% | 18.7–21.7% | 18.3–22.2% | 18.0–22.5% | 17.3–23.3% |
 | [21–22 May 2020](2020-05-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 20.7% | 19.1–22.4% | 18.7–22.9% | 18.3–23.3% | 17.6–24.2% |
 | [20–21 May 2020](2020-05-21-TermometroPolitico.html) | Termometro Politico | 21.5% | 20.5–22.6% | 20.2–22.9% | 20.0–23.1% | 19.5–23.6% |
-| [23 April–21 May 2020](2020-05-21-Ipsos.html) | Ipsos <br> Corriere della Sera | 21.2% | N/A | N/A | N/A | N/A |
+| [23 April–21 May 2020](2020-05-21-Ipsos.html) | Ipsos <br> Corriere della Sera | 21.2% | 19.6–22.9% | 19.2–23.4% | 18.8–23.9% | 18.0–24.7% |
 | [21 May 2020](2020-05-21-Euromedia.html) | Euromedia <br> Rai 1 | 20.5% | 18.7–22.4% | 18.3–23.0% | 17.8–23.4% | 17.0–24.4% |
 | [18–19 May 2020](2020-05-19-Ixè.html) | Ixè <br> Rai 3 | 21.6% | 20.0–23.4% | 19.5–23.8% | 19.2–24.3% | 18.4–25.1% |
 | [19 May 2020](2020-05-19-EMG.html) | EMG <br> Rai 3 | 20.9% | 19.7–22.2% | 19.4–22.6% | 19.1–22.9% | 18.5–23.5% |
@@ -403,7 +403,7 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0.3% | 100% |  |
-| 17.5–18.5% | 2% | 99.6% |  |
+| 17.5–18.5% | 2% | 99.7% |  |
 | 18.5–19.5% | 9% | 97% |  |
 | 19.5–20.5% | 21% | 89% |  |
 | 20.5–21.5% | 30% | 68% | Median |
@@ -454,7 +454,7 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [20–25 May 2020](2020-05-25-SWG.html) | SWG <br> La7 | 17 | 16–18 | 15–19 | 15–19 | 14–20 |
 | [21–22 May 2020](2020-05-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 17 | 16–18 | 15–19 | 15–20 | 14–20 |
 | [20–21 May 2020](2020-05-21-TermometroPolitico.html) | Termometro Politico | 18 | 17–19 | 17–19 | 17–19 | 16–20 |
-| [23 April–21 May 2020](2020-05-21-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
+| [23 April–21 May 2020](2020-05-21-Ipsos.html) | Ipsos <br> Corriere della Sera | 17 | 16–19 | 15–19 | 15–20 | 14–20 |
 | [21 May 2020](2020-05-21-Euromedia.html) | Euromedia <br> Rai 1 | 17 | 15–19 | 15–19 | 15–20 | 14–21 |
 | [18–19 May 2020](2020-05-19-Ixè.html) | Ixè <br> Rai 3 | 17 | 16–19 | 16–19 | 16–20 | 15–20 |
 | [19 May 2020](2020-05-19-EMG.html) | EMG <br> Rai 3 | 17 | 16–17 | 16–18 | 15–18 | 15–19 |
@@ -704,7 +704,7 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [10 October 2019](2019-10-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 15 | 13–16 | 13–16 | 13–16 | 12–17 |
 | [9 October 2019](2019-10-09-Index.html) | Index <br> La7 | 15 | 14–17 | 13–18 | 13–18 | 12–19 |
 | [9 October 2019](2019-10-09-EMG.html) | EMG <br> Rai 3 | 16 | 15–16 | 14–16 | 14–16 | 12–18 |
-| [7–9 October 2019](2019-10-09-BiDiMedia.html) | BiDiMedia | 15 | 14–16 | 14–16 | 13–17 | 12–17 |
+| [7–9 October 2019](2019-10-09-BiDiMedia.html) | BiDiMedia | 15 | 14–16 | 14–17 | 13–17 | 13–18 |
 | [7–8 October 2019](2019-10-08-Ixè.html) | Ixè <br> Rai 3 | 18 | 16–19 | 16–20 | 15–20 | 15–21 |
 | [7–8 October 2019](2019-10-08-Euromedia.html) | Euromedia <br> Rai 1 | 14 | 13–15 | 12–15 | 12–16 | 11–17 |
 | [6–7 October 2019](2019-10-07-Tecnè.html) | Tecnè <br> Rete 4 | 16 | 15–17 | 14–17 | 14–18 | 14–19 |
@@ -833,13 +833,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0.2% | 100% |  |
 | 14 | 2% | 99.8% |  |
 | 15 | 7% | 98% |  |
-| 16 | 21% | 91% |  |
-| 17 | 25% | 70% | Median |
-| 18 | 27% | 45% |  |
-| 19 | 13% | 18% |  |
+| 16 | 20% | 91% |  |
+| 17 | 26% | 71% | Median |
+| 18 | 27% | 44% |  |
+| 19 | 12% | 17% |  |
 | 20 | 4% | 5% |  |
-| 21 | 0.6% | 0.8% |  |
-| 22 | 0.1% | 0.2% |  |
+| 21 | 0.6% | 0.7% |  |
+| 22 | 0.1% | 0.1% |  |
 | 23 | 0% | 0% |  |
 | 24 | 0% | 0% |  |
 | 25 | 0% | 0% |  |
