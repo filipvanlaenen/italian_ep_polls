@@ -708,7 +708,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [10 October 2019](2019-10-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 25 | 24–27 | 24–28 | 23–29 | 22–29 |
 | [9 October 2019](2019-10-09-Index.html) | Index <br> La7 | 26 | 25–28 | 24–29 | 23–29 | 23–30 |
 | [9 October 2019](2019-10-09-EMG.html) | EMG <br> Rai 3 | 27 | 27–28 | 26–29 | 26–30 | 25–30 |
-| [7–9 October 2019](2019-10-09-BiDiMedia.html) | BiDiMedia | 25 | 24–27 | 24–28 | 24–28 | 22–28 |
+| [7–9 October 2019](2019-10-09-BiDiMedia.html) | BiDiMedia | 26 | 24–26 | 24–27 | 23–28 | 23–28 |
 | [7–8 October 2019](2019-10-08-Ixè.html) | Ixè <br> Rai 3 | 26 | 24–27 | 23–28 | 23–28 | 22–29 |
 | [7–8 October 2019](2019-10-08-Euromedia.html) | Euromedia <br> Rai 1 | 27 | 25–27 | 24–28 | 24–28 | 23–30 |
 | [6–7 October 2019](2019-10-07-Tecnè.html) | Tecnè <br> Rete 4 | 27 | 24–28 | 24–28 | 24–29 | 23–29 |
