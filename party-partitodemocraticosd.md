@@ -10,7 +10,7 @@ Last result: **40.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.8% | 18.7–22.7% | 18.2–23.3% | 17.7–23.8% | 16.9–25.0% |
+| N/A | [Poll Average](average.html) | 20.9% | 18.8–22.9% | 18.3–23.4% | 17.8–23.9% | 16.9–25.0% |
 | [10–15 June 2020](2020-06-15-SWG.html) | SWG <br> La7 | 19.0% | 17.6–20.5% | 17.2–21.0% | 16.9–21.3% | 16.2–22.1% |
 | [11–12 June 2020](2020-06-12-Tecnè.html) | Tecnè <br> Agenzia Dire | 19.8% | 18.2–21.5% | 17.8–22.0% | 17.4–22.4% | 16.7–23.2% |
 | [9–11 June 2020](2020-06-11-TermometroPolitico.html) | Termometro Politico | 21.0% | 19.9–22.1% | 19.6–22.5% | 19.3–22.8% | 18.8–23.3% |
@@ -23,15 +23,15 @@ Last result: **40.8%** (General Election of 26 May 2019)
 | [4–5 June 2020](2020-06-05-Tecnè.html) | Tecnè <br> Agenzia Dire | 20.0% | 18.4–21.7% | 18.0–22.2% | 17.6–22.6% | 16.9–23.4% |
 | [27 May–5 June 2020](2020-06-05-Quorum.html) | Quorum <br> Sky TG24 | 21.7% | 20.1–23.4% | 19.6–23.9% | 19.3–24.4% | 18.5–25.2% |
 | [3–4 June 2020](2020-06-04-TermometroPolitico.html) | Termometro Politico | 20.8% | 19.9–21.7% | 19.6–22.0% | 19.4–22.2% | 19.0–22.7% |
-| [4 June 2020](2020-06-04-Euromedia.html) | Euromedia <br> Rai 1 | 19.9% | N/A | N/A | N/A | N/A |
-| [1–2 June 2020](2020-06-02-EMG.html) | EMG <br> Rai 3 | 20.3% | N/A | N/A | N/A | N/A |
+| [4 June 2020](2020-06-04-Euromedia.html) | Euromedia <br> Rai 1 | 19.9% | 18.2–21.8% | 17.7–22.3% | 17.3–22.8% | 16.5–23.7% |
+| [1–2 June 2020](2020-06-02-EMG.html) | EMG <br> Rai 3 | 20.3% | 19.1–21.6% | 18.8–21.9% | 18.5–22.3% | 17.9–22.9% |
 | [31 May–1 June 2020](2020-06-01-Tecnè.html) | Tecnè <br> rti | 20.2% | 18.6–21.9% | 18.2–22.4% | 17.8–22.8% | 17.1–23.6% |
 | [27 May–1 June 2020](2020-06-01-SWG.html) | SWG <br> La7 | 19.8% | 18.3–21.3% | 17.9–21.7% | 17.6–22.1% | 16.9–22.9% |
-| [26–30 May 2020](2020-05-30-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 21.9% | N/A | N/A | N/A | N/A |
-| [27–30 May 2020](2020-05-30-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 | 21.6% | N/A | N/A | N/A | N/A |
-| [28–29 May 2020](2020-05-29-Tecnè.html) | Tecnè <br> Agenzia Dire | 20.3% | N/A | N/A | N/A | N/A |
+| [26–30 May 2020](2020-05-30-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 21.9% | 20.7–23.3% | 20.3–23.7% | 20.0–24.1% | 19.4–24.7% |
+| [27–30 May 2020](2020-05-30-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 | 21.6% | 20.0–23.3% | 19.6–23.8% | 19.2–24.3% | 18.4–25.1% |
+| [28–29 May 2020](2020-05-29-Tecnè.html) | Tecnè <br> Agenzia Dire | 20.3% | 18.7–22.0% | 18.3–22.5% | 17.9–22.9% | 17.2–23.7% |
 | [26–28 May 2020](2020-05-28-TermometroPolitico.html) | Termometro Politico | 21.3% | 20.4–22.2% | 20.1–22.5% | 19.9–22.7% | 19.5–23.2% |
-| [28 May 2020](2020-05-28-Index.html) | Index <br> La7 | 21.2% | N/A | N/A | N/A | N/A |
+| [28 May 2020](2020-05-28-Index.html) | Index <br> La7 | 21.2% | 19.5–23.2% | 19.0–23.7% | 18.5–24.2% | 17.7–25.2% |
 | [25–26 May 2020](2020-05-26-Ixè.html) | Ixè <br> Rai 3 | 20.9% | 19.3–22.6% | 18.9–23.1% | 18.5–23.5% | 17.8–24.4% |
 | [26 May 2020](2020-05-26-EMG.html) | EMG <br> Rai 3 | 20.6% | 19.4–21.9% | 19.1–22.2% | 18.8–22.6% | 18.2–23.2% |
 | [24–25 May 2020](2020-05-25-Tecnè.html) | Tecnè <br> rti | 20.8% | 19.2–22.5% | 18.8–23.0% | 18.4–23.4% | 17.7–24.3% |
@@ -414,17 +414,17 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0.2% | 100% |  |
-| 16.5–17.5% | 2% | 99.8% |  |
+| 16.5–17.5% | 1.4% | 99.8% |  |
 | 17.5–18.5% | 6% | 98% |  |
-| 18.5–19.5% | 14% | 92% |  |
-| 19.5–20.5% | 22% | 77% |  |
-| 20.5–21.5% | 25% | 55% | Median |
-| 21.5–22.5% | 18% | 30% |  |
-| 22.5–23.5% | 8% | 12% |  |
+| 18.5–19.5% | 13% | 93% |  |
+| 19.5–20.5% | 21% | 80% |  |
+| 20.5–21.5% | 25% | 59% | Median |
+| 21.5–22.5% | 20% | 34% |  |
+| 22.5–23.5% | 10% | 14% |  |
 | 23.5–24.5% | 3% | 4% |  |
 | 24.5–25.5% | 0.7% | 0.9% |  |
 | 25.5–26.5% | 0.2% | 0.2% |  |
-| 26.5–27.5% | 0% | 0.1% |  |
+| 26.5–27.5% | 0% | 0% |  |
 | 27.5–28.5% | 0% | 0% |  |
 | 28.5–29.5% | 0% | 0% |  |
 | 29.5–30.5% | 0% | 0% |  |
@@ -449,28 +449,28 @@ Last result: **31** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 15–19 | 15–19 | 14–21 | 13–21 |
-| [10–15 June 2020](2020-06-15-SWG.html) | SWG <br> La7 | 16 | 15–18 | 14–19 | 14–19 | 14–19 |
+| N/A | [Poll Average](average.html) | 17 | 15–19 | 15–20 | 14–20 | 13–21 |
+| [10–15 June 2020](2020-06-15-SWG.html) | SWG <br> La7 | 16 | 15–18 | 14–18 | 14–18 | 13–19 |
 | [11–12 June 2020](2020-06-12-Tecnè.html) | Tecnè <br> Agenzia Dire | 16 | 15–18 | 15–18 | 14–19 | 14–19 |
 | [9–11 June 2020](2020-06-11-TermometroPolitico.html) | Termometro Politico | 17 | 17–18 | 17–19 | 17–19 | 16–19 |
-| [10–11 June 2020](2020-06-11-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 16 | 15–16 | 13–18 | 13–18 | 12–19 |
-| [10–11 June 2020](2020-06-11-Ipsos.html) | Ipsos <br> Corriere della Sera | 18 | 16–19 | 15–19 | 15–19 | 15–20 |
+| [10–11 June 2020](2020-06-11-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 16 | 14–17 | 13–18 | 13–18 | 13–19 |
+| [10–11 June 2020](2020-06-11-Ipsos.html) | Ipsos <br> Corriere della Sera | 18 | 16–19 | 16–19 | 16–20 | 15–20 |
 | [9–11 June 2020](2020-06-11-BiDiMedia.html) | BiDiMedia | 18 | 16–21 | 16–21 | 16–21 | 15–21 |
 | [9–10 June 2020](2020-06-10-EMG.html) | EMG <br> Rai | 16 | 15–17 | 15–17 | 15–18 | 14–18 |
 | [8–9 June 2020](2020-06-09-Ixè.html) | Ixè <br> Rai 3 | 17 | 16–18 | 15–19 | 15–19 | 14–20 |
 | [3–8 June 2020](2020-06-08-SWG.html) | SWG <br> La7 | 18 | 15–18 | 14–18 | 14–18 | 14–19 |
 | [4–5 June 2020](2020-06-05-Tecnè.html) | Tecnè <br> Agenzia Dire | 17 | 16–18 | 15–18 | 15–18 | 14–19 |
 | [27 May–5 June 2020](2020-06-05-Quorum.html) | Quorum <br> Sky TG24 | 18 | 16–19 | 16–19 | 15–20 | 14–21 |
-| [3–4 June 2020](2020-06-04-TermometroPolitico.html) | Termometro Politico | 17 | 16–19 | 16–19 | 16–19 | 15–19 |
-| [4 June 2020](2020-06-04-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
-| [1–2 June 2020](2020-06-02-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
+| [3–4 June 2020](2020-06-04-TermometroPolitico.html) | Termometro Politico | 17 | 16–18 | 16–19 | 16–19 | 15–19 |
+| [4 June 2020](2020-06-04-Euromedia.html) | Euromedia <br> Rai 1 | 18 | 15–18 | 14–18 | 14–19 | 13–20 |
+| [1–2 June 2020](2020-06-02-EMG.html) | EMG <br> Rai 3 | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
 | [31 May–1 June 2020](2020-06-01-Tecnè.html) | Tecnè <br> rti | 16 | 15–18 | 15–18 | 14–19 | 14–19 |
 | [27 May–1 June 2020](2020-06-01-SWG.html) | SWG <br> La7 | 17 | 15–18 | 15–19 | 14–19 | 14–19 |
-| [26–30 May 2020](2020-05-30-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore |  |  |  |  |  |
-| [27–30 May 2020](2020-05-30-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 |  |  |  |  |  |
-| [28–29 May 2020](2020-05-29-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [26–30 May 2020](2020-05-30-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 19 | 18–20 | 18–20 | 17–20 | 16–21 |
+| [27–30 May 2020](2020-05-30-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 | 17 | 17–18 | 16–19 | 16–19 | 15–20 |
+| [28–29 May 2020](2020-05-29-Tecnè.html) | Tecnè <br> Agenzia Dire | 17 | 16–18 | 15–19 | 15–19 | 14–20 |
 | [26–28 May 2020](2020-05-28-TermometroPolitico.html) | Termometro Politico | 18 | 17–19 | 16–19 | 16–19 | 16–19 |
-| [28 May 2020](2020-05-28-Index.html) | Index <br> La7 |  |  |  |  |  |
+| [28 May 2020](2020-05-28-Index.html) | Index <br> La7 | 17 | 16–20 | 16–21 | 15–21 | 15–21 |
 | [25–26 May 2020](2020-05-26-Ixè.html) | Ixè <br> Rai 3 | 17 | 15–18 | 15–18 | 14–19 | 14–20 |
 | [26 May 2020](2020-05-26-EMG.html) | EMG <br> Rai 3 | 16 | 15–17 | 15–18 | 15–18 | 15–19 |
 | [24–25 May 2020](2020-05-25-Tecnè.html) | Tecnè <br> rti | 17 | 16–19 | 16–19 | 15–20 | 15–21 |
@@ -853,17 +853,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 0.2% | 100% |  |
-| 13 | 0.6% | 99.7% |  |
-| 14 | 2% | 99.2% |  |
-| 15 | 12% | 97% |  |
-| 16 | 27% | 85% |  |
-| 17 | 24% | 58% | Median |
-| 18 | 22% | 34% |  |
-| 19 | 9% | 13% |  |
-| 20 | 1.3% | 4% |  |
-| 21 | 3% | 3% |  |
-| 22 | 0% | 0% |  |
+| 13 | 0.6% | 100% |  |
+| 14 | 2% | 99.3% |  |
+| 15 | 8% | 97% |  |
+| 16 | 23% | 89% |  |
+| 17 | 27% | 66% | Median |
+| 18 | 23% | 40% |  |
+| 19 | 11% | 17% |  |
+| 20 | 4% | 6% |  |
+| 21 | 2% | 2% |  |
+| 22 | 0.1% | 0.1% |  |
 | 23 | 0% | 0% |  |
 | 24 | 0% | 0% |  |
 | 25 | 0% | 0% |  |

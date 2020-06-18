@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.7% | 0.9–2.5% | 0.6–2.8% | 0.4–3.0% | 0.3–3.4% |
+| N/A | [Poll Average](average.html) | 1.7% | 0.9–2.6% | 0.6–2.9% | 0.5–3.1% | 0.3–3.5% |
 | [10–15 June 2020](2020-06-15-SWG.html) | SWG <br> La7 | 2.3% | 1.9–3.0% | 1.7–3.2% | 1.6–3.4% | 1.4–3.7% |
 | [11–12 June 2020](2020-06-12-Tecnè.html) | Tecnè <br> Agenzia Dire | 1.8% | 1.4–2.5% | 1.2–2.7% | 1.1–2.8% | 1.0–3.2% |
 | [9–11 June 2020](2020-06-11-TermometroPolitico.html) | Termometro Politico | 1.4% | 1.1–1.8% | 1.1–1.9% | 1.0–2.0% | 0.9–2.2% |
@@ -23,15 +23,15 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [4–5 June 2020](2020-06-05-Tecnè.html) | Tecnè <br> Agenzia Dire | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–3.0% | 1.0–3.3% |
 | [27 May–5 June 2020](2020-06-05-Quorum.html) | Quorum <br> Sky TG24 | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
 | [3–4 June 2020](2020-06-04-TermometroPolitico.html) | Termometro Politico | 1.6% | 1.4–1.9% | 1.3–2.0% | 1.2–2.1% | 1.1–2.3% |
-| [4 June 2020](2020-06-04-Euromedia.html) | Euromedia <br> Rai 1 | 1.9% | N/A | N/A | N/A | N/A |
-| [1–2 June 2020](2020-06-02-EMG.html) | EMG <br> Rai 3 | 1.5% | N/A | N/A | N/A | N/A |
+| [4 June 2020](2020-06-04-Euromedia.html) | Euromedia <br> Rai 1 | 1.9% | 1.4–2.7% | 1.2–2.9% | 1.1–3.1% | 0.9–3.5% |
+| [1–2 June 2020](2020-06-02-EMG.html) | EMG <br> Rai 3 | 1.5% | 1.2–1.9% | 1.1–2.0% | 1.0–2.2% | 0.9–2.4% |
 | [31 May–1 June 2020](2020-06-01-Tecnè.html) | Tecnè <br> rti | 1.8% | 1.4–2.5% | 1.2–2.7% | 1.1–2.8% | 1.0–3.2% |
 | [27 May–1 June 2020](2020-06-01-SWG.html) | SWG <br> La7 | 2.4% | 1.9–3.1% | 1.8–3.3% | 1.7–3.5% | 1.5–3.8% |
-| [26–30 May 2020](2020-05-30-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 0.9% | N/A | N/A | N/A | N/A |
-| [27–30 May 2020](2020-05-30-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 | 2.3% | N/A | N/A | N/A | N/A |
-| [28–29 May 2020](2020-05-29-Tecnè.html) | Tecnè <br> Agenzia Dire | 1.8% | N/A | N/A | N/A | N/A |
+| [26–30 May 2020](2020-05-30-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 0.9% | 0.6–1.3% | 0.6–1.4% | 0.5–1.5% | 0.4–1.7% |
+| [27–30 May 2020](2020-05-30-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
+| [28–29 May 2020](2020-05-29-Tecnè.html) | Tecnè <br> Agenzia Dire | 1.8% | 1.4–2.5% | 1.2–2.7% | 1.1–2.8% | 1.0–3.2% |
 | [26–28 May 2020](2020-05-28-TermometroPolitico.html) | Termometro Politico | 1.4% | 1.2–1.7% | 1.1–1.8% | 1.1–1.9% | 1.0–2.1% |
-| [28 May 2020](2020-05-28-Index.html) | Index <br> La7 | 2.1% | N/A | N/A | N/A | N/A |
+| [28 May 2020](2020-05-28-Index.html) | Index <br> La7 | 2.1% | 1.6–2.9% | 1.4–3.2% | 1.3–3.4% | 1.1–3.8% |
 | [25–26 May 2020](2020-05-26-Ixè.html) | Ixè <br> Rai 3 | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
 | [26 May 2020](2020-05-26-EMG.html) | EMG <br> Rai 3 | 1.5% | 1.2–1.9% | 1.1–2.1% | 1.0–2.2% | 0.9–2.4% |
 | [24–25 May 2020](2020-05-25-Tecnè.html) | Tecnè <br> rti | 1.7% | 1.3–2.4% | 1.2–2.5% | 1.1–2.7% | 0.9–3.1% |
@@ -412,11 +412,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 5% | 100% | Last Result |
-| 0.5–1.5% | 38% | 95% |  |
-| 1.5–2.5% | 48% | 57% | Median |
-| 2.5–3.5% | 9% | 10% |  |
-| 3.5–4.5% | 0.3% | 0.3% |  |
+| 0.0–0.5% | 4% | 100% | Last Result |
+| 0.5–1.5% | 36% | 96% |  |
+| 1.5–2.5% | 48% | 60% | Median |
+| 2.5–3.5% | 12% | 12% |  |
+| 3.5–4.5% | 0.4% | 0.4% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -441,15 +441,15 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [4–5 June 2020](2020-06-05-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
 | [27 May–5 June 2020](2020-06-05-Quorum.html) | Quorum <br> Sky TG24 | 0 | 0 | 0 | 0 | 0 |
 | [3–4 June 2020](2020-06-04-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
-| [4 June 2020](2020-06-04-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
-| [1–2 June 2020](2020-06-02-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
+| [4 June 2020](2020-06-04-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
+| [1–2 June 2020](2020-06-02-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [31 May–1 June 2020](2020-06-01-Tecnè.html) | Tecnè <br> rti | 0 | 0 | 0 | 0 | 0 |
 | [27 May–1 June 2020](2020-06-01-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
-| [26–30 May 2020](2020-05-30-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore |  |  |  |  |  |
-| [27–30 May 2020](2020-05-30-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 |  |  |  |  |  |
-| [28–29 May 2020](2020-05-29-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [26–30 May 2020](2020-05-30-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 0 | 0 | 0 | 0 | 0 |
+| [27–30 May 2020](2020-05-30-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 | 0 | 0 | 0 | 0 | 0 |
+| [28–29 May 2020](2020-05-29-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
 | [26–28 May 2020](2020-05-28-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
-| [28 May 2020](2020-05-28-Index.html) | Index <br> La7 |  |  |  |  |  |
+| [28 May 2020](2020-05-28-Index.html) | Index <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [25–26 May 2020](2020-05-26-Ixè.html) | Ixè <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [26 May 2020](2020-05-26-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [24–25 May 2020](2020-05-25-Tecnè.html) | Tecnè <br> rti | 0 | 0 | 0 | 0 | 0 |
@@ -832,6 +832,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 99.9% | 100% | Last Result, Median |
+| 1 | 0% | 0.1% |  |
+| 2 | 0% | 0.1% |  |
+| 3 | 0% | 0.1% |  |
+| 4 | 0% | 0% |  |
 
 
