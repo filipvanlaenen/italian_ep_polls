@@ -452,10 +452,10 @@ Last result: **31** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 17 | 15–19 | 15–20 | 14–20 | 13–21 |
 | [10–15 June 2020](2020-06-15-SWG.html) | SWG <br> La7 | 16 | 15–18 | 14–18 | 14–18 | 13–19 |
 | [11–12 June 2020](2020-06-12-Tecnè.html) | Tecnè <br> Agenzia Dire | 16 | 15–18 | 15–18 | 14–19 | 14–19 |
-| [9–11 June 2020](2020-06-11-TermometroPolitico.html) | Termometro Politico | 17 | 17–18 | 17–19 | 17–19 | 16–19 |
+| [9–11 June 2020](2020-06-11-TermometroPolitico.html) | Termometro Politico | 18 | 17–18 | 16–19 | 16–19 | 16–19 |
 | [10–11 June 2020](2020-06-11-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 16 | 14–17 | 13–18 | 13–18 | 13–19 |
 | [10–11 June 2020](2020-06-11-Ipsos.html) | Ipsos <br> Corriere della Sera | 18 | 16–19 | 16–19 | 16–20 | 15–20 |
-| [9–11 June 2020](2020-06-11-BiDiMedia.html) | BiDiMedia | 18 | 16–21 | 16–21 | 16–21 | 15–21 |
+| [9–11 June 2020](2020-06-11-BiDiMedia.html) | BiDiMedia | 18 | 17–20 | 16–20 | 16–21 | 16–21 |
 | [9–10 June 2020](2020-06-10-EMG.html) | EMG <br> Rai | 16 | 15–17 | 15–17 | 15–18 | 14–18 |
 | [8–9 June 2020](2020-06-09-Ixè.html) | Ixè <br> Rai 3 | 17 | 16–18 | 15–19 | 15–19 | 14–20 |
 | [3–8 June 2020](2020-06-08-SWG.html) | SWG <br> La7 | 18 | 15–18 | 14–18 | 14–18 | 14–19 |
@@ -466,8 +466,8 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [1–2 June 2020](2020-06-02-EMG.html) | EMG <br> Rai 3 | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
 | [31 May–1 June 2020](2020-06-01-Tecnè.html) | Tecnè <br> rti | 16 | 15–18 | 15–18 | 14–19 | 14–19 |
 | [27 May–1 June 2020](2020-06-01-SWG.html) | SWG <br> La7 | 17 | 15–18 | 15–19 | 14–19 | 14–19 |
-| [26–30 May 2020](2020-05-30-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 19 | 18–20 | 18–20 | 17–20 | 16–21 |
-| [27–30 May 2020](2020-05-30-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 | 17 | 17–18 | 16–19 | 16–19 | 15–20 |
+| [26–30 May 2020](2020-05-30-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 19 | 17–20 | 17–20 | 16–20 | 16–21 |
+| [27–30 May 2020](2020-05-30-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 | 17 | 16–18 | 15–19 | 15–20 | 15–21 |
 | [28–29 May 2020](2020-05-29-Tecnè.html) | Tecnè <br> Agenzia Dire | 17 | 16–18 | 15–19 | 15–19 | 14–20 |
 | [26–28 May 2020](2020-05-28-TermometroPolitico.html) | Termometro Politico | 18 | 17–19 | 16–19 | 16–19 | 16–19 |
 | [28 May 2020](2020-05-28-Index.html) | Index <br> La7 | 17 | 16–20 | 16–21 | 15–21 | 15–21 |
@@ -856,12 +856,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0.6% | 100% |  |
 | 14 | 2% | 99.3% |  |
 | 15 | 8% | 97% |  |
-| 16 | 23% | 89% |  |
-| 17 | 27% | 66% | Median |
-| 18 | 23% | 40% |  |
-| 19 | 11% | 17% |  |
-| 20 | 4% | 6% |  |
-| 21 | 2% | 2% |  |
+| 16 | 24% | 89% |  |
+| 17 | 25% | 65% | Median |
+| 18 | 24% | 39% |  |
+| 19 | 10% | 15% |  |
+| 20 | 4% | 5% |  |
+| 21 | 0.9% | 1.0% |  |
 | 22 | 0.1% | 0.1% |  |
 | 23 | 0% | 0% |  |
 | 24 | 0% | 0% |  |

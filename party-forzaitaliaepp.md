@@ -437,13 +437,13 @@ Last result: **13** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–7 | 4–8 | 4–8 | 4–9 |
+| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–8 | 4–8 | 4–9 |
 | [10–15 June 2020](2020-06-15-SWG.html) | SWG <br> La7 | 6 | 5–6 | 4–7 | 4–7 | 4–7 |
 | [11–12 June 2020](2020-06-12-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 6–8 | 6–9 | 6–9 | 6–9 |
-| [9–11 June 2020](2020-06-11-TermometroPolitico.html) | Termometro Politico | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
+| [9–11 June 2020](2020-06-11-TermometroPolitico.html) | Termometro Politico | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | [10–11 June 2020](2020-06-11-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 6 | 6–7 | 5–8 | 5–8 | 5–8 |
-| [10–11 June 2020](2020-06-11-Ipsos.html) | Ipsos <br> Corriere della Sera | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
-| [9–11 June 2020](2020-06-11-BiDiMedia.html) | BiDiMedia | 6 | 5–6 | 5–6 | 4–6 | 4–7 |
+| [10–11 June 2020](2020-06-11-Ipsos.html) | Ipsos <br> Corriere della Sera | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
+| [9–11 June 2020](2020-06-11-BiDiMedia.html) | BiDiMedia | 5 | 5–6 | 5–7 | 5–7 | 4–7 |
 | [9–10 June 2020](2020-06-10-EMG.html) | EMG <br> Rai | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [8–9 June 2020](2020-06-09-Ixè.html) | Ixè <br> Rai 3 | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
 | [3–8 June 2020](2020-06-08-SWG.html) | SWG <br> La7 | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
@@ -455,7 +455,7 @@ Last result: **13** seats (General Election of 26 May 2019)
 | [31 May–1 June 2020](2020-06-01-Tecnè.html) | Tecnè <br> rti | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
 | [27 May–1 June 2020](2020-06-01-SWG.html) | SWG <br> La7 | 5 | 5–6 | 5–7 | 4–7 | 4–7 |
 | [26–30 May 2020](2020-05-30-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
-| [27–30 May 2020](2020-05-30-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
+| [27–30 May 2020](2020-05-30-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
 | [28–29 May 2020](2020-05-29-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 6–8 | 6–9 | 6–9 | 5–10 |
 | [26–28 May 2020](2020-05-28-TermometroPolitico.html) | Termometro Politico | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [28 May 2020](2020-05-28-Index.html) | Index <br> La7 | 6 | 5–7 | 5–8 | 5–8 | 4–8 |
@@ -824,7 +824,7 @@ Last result: **13** seats (General Election of 26 May 2019)
 | [9–10 June 2019](2019-06-10-Tecnè.html) | Tecnè <br> Rete 4 | 7 | 6–8 | 6–8 | 5–8 | 5–8 |
 | [5–10 June 2019](2019-06-10-SWG.html) | SWG <br> La7 | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [10 June 2019](2019-06-10-Piepoli.html) | Piepoli <br> Rai 1 | 6 | 5–8 | 5–8 | 5–8 | 4–9 |
-| [1–10 June 2019](2019-06-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 6 | 6–8 | 5–8 | 5–8 | 5–8 |
+| [1–10 June 2019](2019-06-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 6 | 6–7 | 5–8 | 5–8 | 5–8 |
 | [10 June 2019](2019-06-10-Euromedia.html) | Euromedia <br> Rai 1 | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
 | [1–7 June 2019](2019-06-07-IndexResearch.html) | Index Research <br> La7 | 5 | 5–6 | 4–7 | 4–7 | 4–7 |
 | [2–3 June 2019](2019-06-03-Tecnè.html) | Tecnè <br> Rete 4 | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
@@ -842,9 +842,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% |  |
-| 4 | 6% | 99.9% |  |
-| 5 | 30% | 94% |  |
-| 6 | 41% | 64% | Median |
+| 4 | 4% | 99.9% |  |
+| 5 | 31% | 96% |  |
+| 6 | 42% | 66% | Median |
 | 7 | 17% | 23% |  |
 | 8 | 5% | 6% |  |
 | 9 | 0.9% | 0.9% |  |

@@ -438,10 +438,10 @@ Last result: **17** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 14 | 12–15 | 12–16 | 11–16 | 10–17 |
 | [10–15 June 2020](2020-06-15-SWG.html) | SWG <br> La7 | 15 | 13–16 | 13–16 | 13–17 | 12–18 |
 | [11–12 June 2020](2020-06-12-Tecnè.html) | Tecnè <br> Agenzia Dire | 13 | 12–14 | 11–15 | 11–15 | 11–16 |
-| [9–11 June 2020](2020-06-11-TermometroPolitico.html) | Termometro Politico | 14 | 12–14 | 12–14 | 12–14 | 12–15 |
+| [9–11 June 2020](2020-06-11-TermometroPolitico.html) | Termometro Politico | 14 | 12–14 | 12–14 | 12–15 | 12–15 |
 | [10–11 June 2020](2020-06-11-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 14 | 12–16 | 12–16 | 12–16 | 11–16 |
-| [10–11 June 2020](2020-06-11-Ipsos.html) | Ipsos <br> Corriere della Sera | 15 | 14–16 | 13–17 | 13–17 | 12–17 |
-| [9–11 June 2020](2020-06-11-BiDiMedia.html) | BiDiMedia | 14 | 14–15 | 14–15 | 13–15 | 13–15 |
+| [10–11 June 2020](2020-06-11-Ipsos.html) | Ipsos <br> Corriere della Sera | 15 | 14–16 | 13–16 | 13–17 | 12–18 |
+| [9–11 June 2020](2020-06-11-BiDiMedia.html) | BiDiMedia | 14 | 13–15 | 13–16 | 12–16 | 12–16 |
 | [9–10 June 2020](2020-06-10-EMG.html) | EMG <br> Rai | 13 | 13–14 | 12–15 | 12–15 | 12–16 |
 | [8–9 June 2020](2020-06-09-Ixè.html) | Ixè <br> Rai 3 | 15 | 13–16 | 13–16 | 13–16 | 12–17 |
 | [3–8 June 2020](2020-06-08-SWG.html) | SWG <br> La7 | 14 | 14–15 | 13–15 | 13–15 | 12–16 |
@@ -452,8 +452,8 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [1–2 June 2020](2020-06-02-EMG.html) | EMG <br> Rai 3 | 14 | 12–15 | 12–15 | 12–15 | 11–16 |
 | [31 May–1 June 2020](2020-06-01-Tecnè.html) | Tecnè <br> rti | 13 | 12–15 | 11–15 | 11–16 | 11–16 |
 | [27 May–1 June 2020](2020-06-01-SWG.html) | SWG <br> La7 | 15 | 13–16 | 13–16 | 13–16 | 12–17 |
-| [26–30 May 2020](2020-05-30-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 14 | 12–14 | 12–14 | 12–14 | 11–15 |
-| [27–30 May 2020](2020-05-30-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
+| [26–30 May 2020](2020-05-30-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 13 | 12–14 | 11–14 | 11–15 | 11–15 |
+| [27–30 May 2020](2020-05-30-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 | 13 | 12–15 | 12–15 | 11–15 | 11–16 |
 | [28–29 May 2020](2020-05-29-Tecnè.html) | Tecnè <br> Agenzia Dire | 13 | 12–14 | 12–15 | 11–15 | 10–16 |
 | [26–28 May 2020](2020-05-28-TermometroPolitico.html) | Termometro Politico | 14 | 13–14 | 12–14 | 12–15 | 12–15 |
 | [28 May 2020](2020-05-28-Index.html) | Index <br> La7 | 14 | 12–15 | 12–16 | 12–16 | 11–18 |
@@ -822,7 +822,7 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [9–10 June 2019](2019-06-10-Tecnè.html) | Tecnè <br> Rete 4 | 13 | 12–14 | 11–14 | 11–15 | 11–15 |
 | [5–10 June 2019](2019-06-10-SWG.html) | SWG <br> La7 | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
 | [10 June 2019](2019-06-10-Piepoli.html) | Piepoli <br> Rai 1 | 14 | 12–15 | 11–16 | 11–16 | 10–17 |
-| [1–10 June 2019](2019-06-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 14 | 14–15 | 13–16 | 13–17 | 12–17 |
+| [1–10 June 2019](2019-06-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 15 | 13–16 | 13–16 | 13–17 | 12–17 |
 | [10 June 2019](2019-06-10-Euromedia.html) | Euromedia <br> Rai 1 | 14 | 13–16 | 13–17 | 12–17 | 12–18 |
 | [1–7 June 2019](2019-06-07-IndexResearch.html) | Index Research <br> La7 | 15 | 13–16 | 13–17 | 13–17 | 12–18 |
 | [2–3 June 2019](2019-06-03-Tecnè.html) | Tecnè <br> Rete 4 | 13 | 12–14 | 11–14 | 11–15 | 11–15 |
@@ -841,13 +841,13 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 9 | 0% | 100% |  |
 | 10 | 0.9% | 99.9% |  |
-| 11 | 2% | 99.1% |  |
-| 12 | 11% | 97% |  |
-| 13 | 27% | 86% |  |
-| 14 | 34% | 59% | Median |
-| 15 | 18% | 25% |  |
-| 16 | 6% | 7% |  |
-| 17 | 0.9% | 1.0% | Last Result |
+| 11 | 3% | 99.1% |  |
+| 12 | 13% | 96% |  |
+| 13 | 28% | 84% |  |
+| 14 | 32% | 56% | Median |
+| 15 | 17% | 24% |  |
+| 16 | 7% | 8% |  |
+| 17 | 0.7% | 1.0% | Last Result |
 | 18 | 0.2% | 0.2% |  |
 | 19 | 0% | 0% |  |
 

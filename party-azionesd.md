@@ -434,7 +434,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [11–12 June 2020](2020-06-12-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0–3 | 0–4 |
 | [9–11 June 2020](2020-06-11-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [10–11 June 2020](2020-06-11-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0–3 | 0–3 | 0–4 |
-| [10–11 June 2020](2020-06-11-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
+| [10–11 June 2020](2020-06-11-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0–3 |
 | [9–11 June 2020](2020-06-11-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
 | [9–10 June 2020](2020-06-10-EMG.html) | EMG <br> Rai | 0 | 0 | 0 | 0–3 | 0–4 |
 | [8–9 June 2020](2020-06-09-Ixè.html) | Ixè <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
@@ -837,7 +837,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 2% |  |
 | 2 | 0% | 2% |  |
 | 3 | 0.9% | 2% |  |
-| 4 | 1.5% | 1.5% |  |
+| 4 | 1.5% | 2% |  |
 | 5 | 0% | 0% |  |
 
 

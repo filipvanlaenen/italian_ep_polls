@@ -436,7 +436,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [9–11 June 2020](2020-06-11-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [10–11 June 2020](2020-06-11-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
 | [10–11 June 2020](2020-06-11-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
-| [9–11 June 2020](2020-06-11-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
+| [9–11 June 2020](2020-06-11-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0–3 |
 | [9–10 June 2020](2020-06-10-EMG.html) | EMG <br> Rai | 0 | 0 | 0 | 0 | 0 |
 | [8–9 June 2020](2020-06-09-Ixè.html) | Ixè <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [3–8 June 2020](2020-06-08-SWG.html) | SWG <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
@@ -448,7 +448,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [31 May–1 June 2020](2020-06-01-Tecnè.html) | Tecnè <br> rti | 0 | 0 | 0 | 0 | 0–4 |
 | [27 May–1 June 2020](2020-06-01-SWG.html) | SWG <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [26–30 May 2020](2020-05-30-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 0 | 0 | 0 | 0 | 0 |
-| [27–30 May 2020](2020-05-30-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 | 0 | 0 | 0 | 0 | 0–4 |
+| [27–30 May 2020](2020-05-30-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 | 0 | 0 | 0 | 0 | 0–3 |
 | [28–29 May 2020](2020-05-29-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0–4 |
 | [26–28 May 2020](2020-05-28-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [28 May 2020](2020-05-28-Index.html) | Index <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |

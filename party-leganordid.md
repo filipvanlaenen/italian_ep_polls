@@ -452,13 +452,13 @@ Last result: **5** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23 | 21–26 | 20–26 | 19–26 | 19–27 |
+| N/A | [Poll Average](average.html) | 23 | 21–26 | 20–26 | 19–27 | 19–27 |
 | [10–15 June 2020](2020-06-15-SWG.html) | SWG <br> La7 | 25 | 23–26 | 22–27 | 22–27 | 21–28 |
 | [11–12 June 2020](2020-06-12-Tecnè.html) | Tecnè <br> Agenzia Dire | 23 | 21–24 | 21–25 | 20–25 | 19–26 |
-| [9–11 June 2020](2020-06-11-TermometroPolitico.html) | Termometro Politico | 26 | 24–27 | 24–27 | 24–27 | 23–27 |
+| [9–11 June 2020](2020-06-11-TermometroPolitico.html) | Termometro Politico | 25 | 24–26 | 24–27 | 24–27 | 23–27 |
 | [10–11 June 2020](2020-06-11-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 25 | 22–26 | 21–26 | 21–26 | 20–27 |
-| [10–11 June 2020](2020-06-11-Ipsos.html) | Ipsos <br> Corriere della Sera | 20 | 19–22 | 19–22 | 18–23 | 18–23 |
-| [9–11 June 2020](2020-06-11-BiDiMedia.html) | BiDiMedia | 25 | 23–25 | 23–25 | 22–25 | 22–26 |
+| [10–11 June 2020](2020-06-11-Ipsos.html) | Ipsos <br> Corriere della Sera | 20 | 19–22 | 19–22 | 18–23 | 17–23 |
+| [9–11 June 2020](2020-06-11-BiDiMedia.html) | BiDiMedia | 25 | 23–26 | 23–27 | 23–27 | 22–27 |
 | [9–10 June 2020](2020-06-10-EMG.html) | EMG <br> Rai | 23 | 22–24 | 21–24 | 21–25 | 21–25 |
 | [8–9 June 2020](2020-06-09-Ixè.html) | Ixè <br> Rai 3 | 21 | 19–22 | 19–23 | 19–24 | 18–24 |
 | [3–8 June 2020](2020-06-08-SWG.html) | SWG <br> La7 | 24 | 23–27 | 22–27 | 22–27 | 21–28 |
@@ -469,8 +469,8 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [1–2 June 2020](2020-06-02-EMG.html) | EMG <br> Rai 3 | 23 | 22–24 | 21–25 | 21–25 | 21–26 |
 | [31 May–1 June 2020](2020-06-01-Tecnè.html) | Tecnè <br> rti | 23 | 21–25 | 21–25 | 20–25 | 20–26 |
 | [27 May–1 June 2020](2020-06-01-SWG.html) | SWG <br> La7 | 24 | 22–26 | 22–27 | 22–27 | 21–27 |
-| [26–30 May 2020](2020-05-30-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 24 | 24–25 | 24–25 | 23–26 | 22–27 |
-| [27–30 May 2020](2020-05-30-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 | 23 | 21–23 | 21–24 | 20–24 | 19–25 |
+| [26–30 May 2020](2020-05-30-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 24 | 23–25 | 23–26 | 23–26 | 21–27 |
+| [27–30 May 2020](2020-05-30-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 | 22 | 21–24 | 20–24 | 20–25 | 19–25 |
 | [28–29 May 2020](2020-05-29-Tecnè.html) | Tecnè <br> Agenzia Dire | 23 | 21–25 | 21–25 | 20–26 | 20–26 |
 | [26–28 May 2020](2020-05-28-TermometroPolitico.html) | Termometro Politico | 26 | 25–27 | 25–27 | 25–27 | 24–28 |
 | [28 May 2020](2020-05-28-Index.html) | Index <br> La7 | 23 | 20–25 | 20–25 | 20–26 | 19–27 |
@@ -839,7 +839,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [9–10 June 2019](2019-06-10-Tecnè.html) | Tecnè <br> Rete 4 | 27 | 26–29 | 25–29 | 25–29 | 24–30 |
 | [5–10 June 2019](2019-06-10-SWG.html) | SWG <br> La7 | 30 | 28–31 | 28–32 | 28–32 | 27–33 |
 | [10 June 2019](2019-06-10-Piepoli.html) | Piepoli <br> Rai 1 | 28 | 25–30 | 25–31 | 24–31 | 23–33 |
-| [1–10 June 2019](2019-06-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 29 | 27–30 | 26–30 | 26–31 | 25–32 |
+| [1–10 June 2019](2019-06-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 28 | 27–30 | 26–31 | 26–31 | 25–32 |
 | [10 June 2019](2019-06-10-Euromedia.html) | Euromedia <br> Rai 1 | 28 | 26–30 | 26–31 | 25–31 | 24–32 |
 | [1–7 June 2019](2019-06-07-IndexResearch.html) | Index Research <br> La7 | 26 | 25–28 | 24–29 | 24–29 | 23–30 |
 | [2–3 June 2019](2019-06-03-Tecnè.html) | Tecnè <br> Rete 4 | 27 | 26–29 | 25–29 | 25–29 | 24–30 |
@@ -869,17 +869,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
-| 18 | 0.4% | 100% |  |
-| 19 | 2% | 99.6% |  |
+| 18 | 0.3% | 100% |  |
+| 19 | 3% | 99.6% |  |
 | 20 | 7% | 97% |  |
-| 21 | 9% | 90% |  |
-| 22 | 15% | 81% |  |
-| 23 | 22% | 66% | Median |
-| 24 | 21% | 45% |  |
-| 25 | 13% | 24% |  |
-| 26 | 9% | 11% |  |
-| 27 | 2% | 2% |  |
-| 28 | 0.2% | 0.2% |  |
+| 21 | 10% | 90% |  |
+| 22 | 16% | 80% |  |
+| 23 | 19% | 64% | Median |
+| 24 | 21% | 46% |  |
+| 25 | 15% | 25% |  |
+| 26 | 8% | 10% |  |
+| 27 | 2% | 3% |  |
+| 28 | 0.2% | 0.3% |  |
 | 29 | 0% | 0% |  |
 
 
