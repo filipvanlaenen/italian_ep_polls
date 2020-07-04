@@ -11,7 +11,24 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.7% | 1.3–2.2% | 1.3–2.3% | 1.2–2.5% | 1.0–2.7% |
+| [24–29 June 2020](2020-06-29-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [25–26 June 2020](2020-06-26-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
+| [26 June 2020](2020-06-26-Euromedia.html) | Euromedia | 0.0% | N/A | N/A | N/A | N/A |
+| [24–26 June 2020](2020-06-26-Demopolis.html) | Demopolis | 0.0% | N/A | N/A | N/A | N/A |
+| [24–25 June 2020](2020-06-25-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
+| [25 June 2020](2020-06-25-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
+| [23–25 June 2020](2020-06-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.0% | N/A | N/A | N/A | N/A |
+| [22–23 June 2020](2020-06-23-Ixè.html) | Ixè <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
+| [23 June 2020](2020-06-23-EMG.html) | EMG <br> Rai | 0.0% | N/A | N/A | N/A | N/A |
+| [17–22 June 2020](2020-06-22-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [18–19 June 2020](2020-06-19-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
+| [16–18 June 2020](2020-06-18-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
+| [17–18 June 2020](2020-06-18-Euromedia.html) | Euromedia <br> Rai | 0.0% | N/A | N/A | N/A | N/A |
+| [15–17 June 2020](2020-06-17-DemosPi.html) | Demos & Pi <br> La Repubblica | 0.0% | N/A | N/A | N/A | N/A |
+| [15–16 June 2020](2020-06-16-Ixè.html) | Ixè <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
+| [16 June 2020](2020-06-16-EMG.html) | EMG <br> Rai | 0.0% | N/A | N/A | N/A | N/A |
 | [10–15 June 2020](2020-06-15-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [15 June 2020](2020-06-15-Euromedia.html) | Euromedia <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [11–12 June 2020](2020-06-12-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [9–11 June 2020](2020-06-11-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
 | [10–11 June 2020](2020-06-11-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
@@ -20,6 +37,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [9–10 June 2020](2020-06-10-EMG.html) | EMG <br> Rai | 0.0% | N/A | N/A | N/A | N/A |
 | [8–9 June 2020](2020-06-09-Ixè.html) | Ixè <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
 | [3–8 June 2020](2020-06-08-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [5–6 June 2020](2020-06-06-Euromedia.html) | Euromedia | 0.0% | N/A | N/A | N/A | N/A |
 | [4–5 June 2020](2020-06-05-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [27 May–5 June 2020](2020-06-05-Quorum.html) | Quorum <br> Sky TG24 | 0.0% | N/A | N/A | N/A | N/A |
 | [3–4 June 2020](2020-06-04-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
@@ -428,7 +446,24 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [24–29 June 2020](2020-06-29-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [25–26 June 2020](2020-06-26-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [26 June 2020](2020-06-26-Euromedia.html) | Euromedia |  |  |  |  |  |
+| [24–26 June 2020](2020-06-26-Demopolis.html) | Demopolis |  |  |  |  |  |
+| [24–25 June 2020](2020-06-25-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [25 June 2020](2020-06-25-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
+| [23–25 June 2020](2020-06-25-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
+| [22–23 June 2020](2020-06-23-Ixè.html) | Ixè <br> Rai 3 |  |  |  |  |  |
+| [23 June 2020](2020-06-23-EMG.html) | EMG <br> Rai |  |  |  |  |  |
+| [17–22 June 2020](2020-06-22-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [18–19 June 2020](2020-06-19-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [16–18 June 2020](2020-06-18-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [17–18 June 2020](2020-06-18-Euromedia.html) | Euromedia <br> Rai |  |  |  |  |  |
+| [15–17 June 2020](2020-06-17-DemosPi.html) | Demos & Pi <br> La Repubblica |  |  |  |  |  |
+| [15–16 June 2020](2020-06-16-Ixè.html) | Ixè <br> Rai 3 |  |  |  |  |  |
+| [16 June 2020](2020-06-16-EMG.html) | EMG <br> Rai |  |  |  |  |  |
 | [10–15 June 2020](2020-06-15-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [15 June 2020](2020-06-15-Euromedia.html) | Euromedia <br> La7 |  |  |  |  |  |
 | [11–12 June 2020](2020-06-12-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [9–11 June 2020](2020-06-11-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [10–11 June 2020](2020-06-11-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
@@ -437,6 +472,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [9–10 June 2020](2020-06-10-EMG.html) | EMG <br> Rai |  |  |  |  |  |
 | [8–9 June 2020](2020-06-09-Ixè.html) | Ixè <br> Rai 3 |  |  |  |  |  |
 | [3–8 June 2020](2020-06-08-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [5–6 June 2020](2020-06-06-Euromedia.html) | Euromedia |  |  |  |  |  |
 | [4–5 June 2020](2020-06-05-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [27 May–5 June 2020](2020-06-05-Quorum.html) | Quorum <br> Sky TG24 |  |  |  |  |  |
 | [3–4 June 2020](2020-06-04-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
