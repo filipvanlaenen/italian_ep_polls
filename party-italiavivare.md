@@ -28,7 +28,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [15–16 June 2020](2020-06-16-Ixè.html) | Ixè <br> Rai 3 | 2.7% | 2.1–3.5% | 2.0–3.7% | 1.9–3.9% | 1.6–4.3% |
 | [16 June 2020](2020-06-16-EMG.html) | EMG <br> Rai | 4.9% | 4.1–5.9% | 3.9–6.2% | 3.7–6.4% | 3.4–6.9% |
 | [10–15 June 2020](2020-06-15-SWG.html) | SWG <br> La7 | 2.9% | 2.4–3.6% | 2.2–3.9% | 2.1–4.0% | 1.9–4.4% |
-| [15 June 2020](2020-06-15-Euromedia.html) | Euromedia <br> La7 | 3.2% | N/A | N/A | N/A | N/A |
+| [15 June 2020](2020-06-15-Euromedia.html) | Euromedia <br> La7 | 3.2% | 2.6–4.2% | 2.4–4.5% | 2.2–4.7% | 1.9–5.2% |
 | [11–12 June 2020](2020-06-12-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.0–4.1% | 1.8–4.6% |
 | [9–11 June 2020](2020-06-11-TermometroPolitico.html) | Termometro Politico | 3.0% | 2.6–3.6% | 2.5–3.7% | 2.4–3.9% | 2.2–4.1% |
 | [10–11 June 2020](2020-06-11-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
@@ -466,7 +466,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [15–16 June 2020](2020-06-16-Ixè.html) | Ixè <br> Rai 3 | 0 | 0 | 0 | 0 | 0–4 |
 | [16 June 2020](2020-06-16-EMG.html) | EMG <br> Rai | 4 | 3–5 | 0–5 | 0–6 | 0–6 |
 | [10–15 June 2020](2020-06-15-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0–4 | 0–4 |
-| [15 June 2020](2020-06-15-Euromedia.html) | Euromedia <br> La7 |  |  |  |  |  |
+| [15 June 2020](2020-06-15-Euromedia.html) | Euromedia <br> La7 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [11–12 June 2020](2020-06-12-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0–3 | 0–4 |
 | [9–11 June 2020](2020-06-11-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0–4 |
 | [10–11 June 2020](2020-06-11-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
