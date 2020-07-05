@@ -10,20 +10,20 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.4% | 0.1–1.3% | 0.1–1.5% | 0.0–1.7% | 0.0–2.0% |
+| N/A | [Poll Average](average.html) | 0.6% | 0.1–1.6% | 0.1–1.9% | 0.0–2.0% | 0.0–2.4% |
 | [24–29 June 2020](2020-06-29-SWG.html) | SWG <br> La7 | 1.2% | 0.9–1.7% | 0.8–1.8% | 0.7–2.0% | 0.6–2.2% |
 | [25–26 June 2020](2020-06-26-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
-| [26 June 2020](2020-06-26-Euromedia.html) | Euromedia | 0.8% | N/A | N/A | N/A | N/A |
+| [26 June 2020](2020-06-26-Euromedia.html) | Euromedia | 0.8% | 0.5–1.3% | 0.4–1.5% | 0.4–1.6% | 0.2–2.0% |
 | [24–26 June 2020](2020-06-26-Demopolis.html) | Demopolis | 0.0% | N/A | N/A | N/A | N/A |
 | [24–25 June 2020](2020-06-25-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
-| [25 June 2020](2020-06-25-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 1.5% | N/A | N/A | N/A | N/A |
+| [25 June 2020](2020-06-25-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
 | [23–25 June 2020](2020-06-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.0% | N/A | N/A | N/A | N/A |
 | [22–23 June 2020](2020-06-23-Ixè.html) | Ixè <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
 | [23 June 2020](2020-06-23-EMG.html) | EMG <br> Rai | 0.0% | N/A | N/A | N/A | N/A |
 | [17–22 June 2020](2020-06-22-SWG.html) | SWG <br> La7 | 1.5% | 1.1–2.1% | 1.0–2.2% | 0.9–2.4% | 0.8–2.7% |
 | [18–19 June 2020](2020-06-19-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [16–18 June 2020](2020-06-18-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
-| [17–18 June 2020](2020-06-18-Euromedia.html) | Euromedia <br> Rai | 0.4% | N/A | N/A | N/A | N/A |
+| [17–18 June 2020](2020-06-18-Euromedia.html) | Euromedia <br> Rai | 0.4% | 0.2–0.8% | 0.2–1.0% | 0.1–1.1% | 0.1–1.4% |
 | [15–17 June 2020](2020-06-17-DemosPi.html) | Demos & Pi <br> La Repubblica | 0.0% | N/A | N/A | N/A | N/A |
 | [15–16 June 2020](2020-06-16-Ixè.html) | Ixè <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
 | [16 June 2020](2020-06-16-EMG.html) | EMG <br> Rai | 0.0% | N/A | N/A | N/A | N/A |
@@ -430,10 +430,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 62% | 100% | Last Result, Median |
-| 0.5–1.5% | 34% | 38% |  |
-| 1.5–2.5% | 4% | 4% |  |
-| 2.5–3.5% | 0% | 0% |  |
+| 0.0–0.5% | 44% | 100% | Last Result |
+| 0.5–1.5% | 44% | 56% | Median |
+| 1.5–2.5% | 12% | 12% |  |
+| 2.5–3.5% | 0.3% | 0.3% |  |
+| 3.5–4.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -447,17 +448,17 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [24–29 June 2020](2020-06-29-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [25–26 June 2020](2020-06-26-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
-| [26 June 2020](2020-06-26-Euromedia.html) | Euromedia |  |  |  |  |  |
+| [26 June 2020](2020-06-26-Euromedia.html) | Euromedia | 0 | 0 | 0 | 0 | 0 |
 | [24–26 June 2020](2020-06-26-Demopolis.html) | Demopolis |  |  |  |  |  |
 | [24–25 June 2020](2020-06-25-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [25 June 2020](2020-06-25-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
+| [25 June 2020](2020-06-25-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
 | [23–25 June 2020](2020-06-25-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
 | [22–23 June 2020](2020-06-23-Ixè.html) | Ixè <br> Rai 3 |  |  |  |  |  |
 | [23 June 2020](2020-06-23-EMG.html) | EMG <br> Rai |  |  |  |  |  |
 | [17–22 June 2020](2020-06-22-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [18–19 June 2020](2020-06-19-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [16–18 June 2020](2020-06-18-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [17–18 June 2020](2020-06-18-Euromedia.html) | Euromedia <br> Rai |  |  |  |  |  |
+| [17–18 June 2020](2020-06-18-Euromedia.html) | Euromedia <br> Rai | 0 | 0 | 0 | 0 | 0 |
 | [15–17 June 2020](2020-06-17-DemosPi.html) | Demos & Pi <br> La Repubblica |  |  |  |  |  |
 | [15–16 June 2020](2020-06-16-Ixè.html) | Ixè <br> Rai 3 |  |  |  |  |  |
 | [16 June 2020](2020-06-16-EMG.html) | EMG <br> Rai |  |  |  |  |  |
