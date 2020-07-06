@@ -467,25 +467,25 @@ Last result: **31** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 15–19 | 15–19 | 14–20 | 13–21 |
+| N/A | [Poll Average](average.html) | 17 | 15–19 | 15–19 | 15–20 | 14–21 |
 | [24–29 June 2020](2020-06-29-SWG.html) | SWG <br> La7 | 17 | 16–19 | 15–20 | 15–20 | 14–20 |
 | [25–26 June 2020](2020-06-26-Tecnè.html) | Tecnè <br> Agenzia Dire | 16 | 15–17 | 15–18 | 14–19 | 14–20 |
 | [26 June 2020](2020-06-26-Euromedia.html) | Euromedia | 16 | 15–18 | 15–19 | 14–19 | 13–20 |
-| [24–26 June 2020](2020-06-26-Demopolis.html) | Demopolis | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
-| [24–25 June 2020](2020-06-25-TermometroPolitico.html) | Termometro Politico | 17 | 16–18 | 16–18 | 16–19 | 15–19 |
-| [25 June 2020](2020-06-25-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 16 | 14–17 | 13–18 | 13–18 | 13–19 |
-| [23–25 June 2020](2020-06-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 17 | 16–19 | 14–19 | 14–19 | 14–20 |
+| [24–26 June 2020](2020-06-26-Demopolis.html) | Demopolis | 17 | 15–18 | 15–18 | 15–18 | 14–19 |
+| [24–25 June 2020](2020-06-25-TermometroPolitico.html) | Termometro Politico | 17 | 16–18 | 16–19 | 16–19 | 15–19 |
+| [25 June 2020](2020-06-25-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 16 | 15–17 | 15–17 | 14–17 | 13–19 |
+| [23–25 June 2020](2020-06-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 17 | 16–19 | 15–19 | 15–19 | 14–20 |
 | [22–23 June 2020](2020-06-23-Ixè.html) | Ixè <br> Rai 3 | 18 | 16–19 | 16–20 | 16–20 | 15–21 |
 | [23 June 2020](2020-06-23-EMG.html) | EMG <br> Rai | 16 | 15–17 | 14–17 | 14–18 | 14–19 |
 | [17–22 June 2020](2020-06-22-SWG.html) | SWG <br> La7 | 16 | 15–19 | 15–19 | 15–19 | 14–19 |
-| [18–19 June 2020](2020-06-19-Tecnè.html) | Tecnè <br> Agenzia Dire | 17 | 15–18 | 15–18 | 14–18 | 14–19 |
+| [18–19 June 2020](2020-06-19-Tecnè.html) | Tecnè <br> Agenzia Dire | 16 | 15–18 | 15–18 | 14–18 | 13–19 |
 | [16–18 June 2020](2020-06-18-TermometroPolitico.html) | Termometro Politico | 17 | 16–18 | 16–18 | 16–18 | 16–19 |
-| [17–18 June 2020](2020-06-18-Euromedia.html) | Euromedia <br> Rai | 18 | 15–19 | 14–19 | 13–19 | 13–19 |
+| [17–18 June 2020](2020-06-18-Euromedia.html) | Euromedia <br> Rai | 15 | 14–18 | 14–19 | 13–19 | 13–19 |
 | [15–17 June 2020](2020-06-17-DemosPi.html) | Demos & Pi <br> La Repubblica | 17 | 16–19 | 15–19 | 15–20 | 14–20 |
 | [15–16 June 2020](2020-06-16-Ixè.html) | Ixè <br> Rai 3 | 18 | 16–19 | 16–19 | 15–20 | 15–20 |
 | [16 June 2020](2020-06-16-EMG.html) | EMG <br> Rai | 16 | 14–17 | 14–18 | 14–18 | 13–19 |
 | [10–15 June 2020](2020-06-15-SWG.html) | SWG <br> La7 | 16 | 15–18 | 14–18 | 14–18 | 13–19 |
-| [15 June 2020](2020-06-15-Euromedia.html) | Euromedia <br> La7 | 17 | 14–18 | 14–18 | 14–19 | 12–20 |
+| [15 June 2020](2020-06-15-Euromedia.html) | Euromedia <br> La7 | 16 | 14–17 | 14–18 | 14–19 | 13–20 |
 | [11–12 June 2020](2020-06-12-Tecnè.html) | Tecnè <br> Agenzia Dire | 16 | 15–18 | 15–18 | 14–19 | 14–19 |
 | [9–11 June 2020](2020-06-11-TermometroPolitico.html) | Termometro Politico | 18 | 17–18 | 16–19 | 16–19 | 16–19 |
 | [10–11 June 2020](2020-06-11-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 16 | 14–17 | 13–18 | 13–18 | 13–19 |
@@ -889,13 +889,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 13 | 0.6% | 100% |  |
-| 14 | 2% | 99.4% |  |
-| 15 | 9% | 97% |  |
-| 16 | 26% | 88% |  |
-| 17 | 28% | 62% | Median |
-| 18 | 21% | 35% |  |
-| 19 | 9% | 14% |  |
+| 13 | 0.2% | 100% |  |
+| 14 | 2% | 99.8% |  |
+| 15 | 9% | 98% |  |
+| 16 | 27% | 89% |  |
+| 17 | 27% | 63% | Median |
+| 18 | 23% | 36% |  |
+| 19 | 9% | 13% |  |
 | 20 | 4% | 4% |  |
 | 21 | 0.6% | 0.6% |  |
 | 22 | 0% | 0% |  |

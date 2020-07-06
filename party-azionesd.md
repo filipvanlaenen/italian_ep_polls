@@ -452,13 +452,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [25–26 June 2020](2020-06-26-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0–4 |
 | [26 June 2020](2020-06-26-Euromedia.html) | Euromedia | 0 | 0 | 0–4 | 0–4 | 0–5 |
 | [24–26 June 2020](2020-06-26-Demopolis.html) | Demopolis | 0 | 0 | 0 | 0 | 0 |
-| [24–25 June 2020](2020-06-25-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0–4 | 0–4 | 0–4 |
+| [24–25 June 2020](2020-06-25-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0–3 | 0–4 |
 | [25 June 2020](2020-06-25-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0–4 | 0–4 |
-| [23–25 June 2020](2020-06-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0–4 | 0–4 | 0–4 |
+| [23–25 June 2020](2020-06-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0–4 |
 | [22–23 June 2020](2020-06-23-Ixè.html) | Ixè <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [23 June 2020](2020-06-23-EMG.html) | EMG <br> Rai | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [17–22 June 2020](2020-06-22-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0–3 | 0–4 |
-| [18–19 June 2020](2020-06-19-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
+| [18–19 June 2020](2020-06-19-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0–4 |
 | [16–18 June 2020](2020-06-18-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [17–18 June 2020](2020-06-18-Euromedia.html) | Euromedia <br> Rai | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [15–17 June 2020](2020-06-17-DemosPi.html) | Demos & Pi <br> La Repubblica | 0 | 0 | 0 | 0 | 0 |
