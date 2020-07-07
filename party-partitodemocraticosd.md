@@ -477,9 +477,9 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [23–25 June 2020](2020-06-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 17 | 16–19 | 15–19 | 15–19 | 14–20 |
 | [22–23 June 2020](2020-06-23-Ixè.html) | Ixè <br> Rai 3 | 18 | 16–19 | 16–20 | 16–20 | 15–21 |
 | [23 June 2020](2020-06-23-EMG.html) | EMG <br> Rai | 16 | 15–17 | 14–17 | 14–18 | 14–19 |
-| [17–22 June 2020](2020-06-22-SWG.html) | SWG <br> La7 | 16 | 15–19 | 15–19 | 15–19 | 14–19 |
+| [17–22 June 2020](2020-06-22-SWG.html) | SWG <br> La7 | 16 | 15–18 | 15–19 | 15–19 | 14–19 |
 | [18–19 June 2020](2020-06-19-Tecnè.html) | Tecnè <br> Agenzia Dire | 16 | 15–18 | 15–18 | 14–18 | 13–19 |
-| [16–18 June 2020](2020-06-18-TermometroPolitico.html) | Termometro Politico | 17 | 16–18 | 16–18 | 16–18 | 16–19 |
+| [16–18 June 2020](2020-06-18-TermometroPolitico.html) | Termometro Politico | 17 | 16–18 | 16–19 | 16–19 | 15–19 |
 | [17–18 June 2020](2020-06-18-Euromedia.html) | Euromedia <br> Rai | 15 | 14–18 | 14–19 | 13–19 | 13–19 |
 | [15–17 June 2020](2020-06-17-DemosPi.html) | Demos & Pi <br> La Repubblica | 17 | 16–19 | 15–19 | 15–20 | 14–20 |
 | [15–16 June 2020](2020-06-16-Ixè.html) | Ixè <br> Rai 3 | 18 | 16–19 | 16–19 | 15–20 | 15–20 |
