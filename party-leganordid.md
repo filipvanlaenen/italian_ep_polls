@@ -792,7 +792,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [18–20 September 2019](2019-09-20-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 27 | 25–28 | 25–29 | 25–29 | 24–30 |
 | [18–20 September 2019](2019-09-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 | 26 | 24–28 | 24–28 | 23–29 | 22–30 |
 | [20 September 2019](2019-09-20-IZI.html) | IZI | 22 | 21–23 | 20–24 | 20–24 | 19–25 |
-| [17–19 September 2019](2019-09-19-TermometroPolitico.html) | Termometro Politico <br> La7 | 32 | 31–32 | 31–32 | 31–32 | 30–32 |
+| [17–19 September 2019](2019-09-19-TermometroPolitico.html) | Termometro Politico <br> La7 | 32 | 31–32 | 30–32 | 30–32 | 29–33 |
 | [18–19 September 2019](2019-09-19-Tecnè.html) | Tecnè <br> Rete 4 | 28 | 26–30 | 26–30 | 25–31 | 25–31 |
 | [1–19 September 2019](2019-09-19-IndexResearch.html) | Index Research <br> La7 | 28 | 26–30 | 25–30 | 25–31 | 24–32 |
 | [18–19 September 2019](2019-09-19-Demopolis.html) | Demopolis <br> Rai 3 | 25 | 24–26 | 23–27 | 23–27 | 23–28 |
