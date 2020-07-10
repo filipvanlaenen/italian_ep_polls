@@ -761,7 +761,7 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [2 October 2019](2019-10-02-EMG.html) | EMG <br> Rai 3 | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
 | [30 September–1 October 2019](2019-10-01-Ixè.html) | Ixè <br> Rai 3 | 18 | 16–19 | 16–20 | 16–20 | 15–21 |
 | [29–30 September 2019](2019-09-30-Tecnè.html) | Tecnè <br> Rete 4 | 17 | 15–18 | 15–19 | 15–19 | 14–20 |
-| [25–30 September 2019](2019-09-30-SWG.html) | SWG <br> La7 | 17 | 16–18 | 16–18 | 14–19 | 14–19 |
+| [25–30 September 2019](2019-09-30-SWG.html) | SWG <br> La7 | 17 | 16–18 | 15–18 | 15–18 | 14–19 |
 | [20–27 September 2019](2019-09-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 17 | 15–18 | 15–19 | 14–19 | 14–21 |
 | [23–27 September 2019](2019-09-27-GPF.html) | GPF <br> La Notizia | 20 | 19–22 | 18–23 | 18–23 | 17–24 |
 | [25–26 September 2019](2019-09-26-TermometroPolitico.html) | Termometro Politico <br> La7 | 15 | 14–15 | 14–15 | 13–16 | 13–16 |
@@ -776,7 +776,7 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [18–20 September 2019](2019-09-20-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 12 | 11–13 | 11–14 | 11–14 | 10–14 |
 | [18–20 September 2019](2019-09-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 | 15 | 13–17 | 13–17 | 13–17 | 12–18 |
 | [20 September 2019](2019-09-20-IZI.html) | IZI | 17 | 16–18 | 15–19 | 15–19 | 15–20 |
-| [17–19 September 2019](2019-09-19-TermometroPolitico.html) | Termometro Politico <br> La7 | 16 | 16–17 | 16–17 | 15–17 | 14–17 |
+| [17–19 September 2019](2019-09-19-TermometroPolitico.html) | Termometro Politico <br> La7 | 16 | 15–17 | 15–17 | 15–18 | 14–18 |
 | [18–19 September 2019](2019-09-19-Tecnè.html) | Tecnè <br> Rete 4 | 17 | 16–19 | 15–20 | 15–20 | 15–20 |
 | [1–19 September 2019](2019-09-19-IndexResearch.html) | Index Research <br> La7 | 17 | 15–18 | 15–19 | 14–19 | 14–20 |
 | [18–19 September 2019](2019-09-19-Demopolis.html) | Demopolis <br> Rai 3 | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
@@ -821,7 +821,7 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [29 July–2 August 2019](2019-08-02-TermometroPolitico.html) | Termometro Politico | 14 | 13–14 | 12–15 | 12–15 | 12–15 |
 | [30 July–1 August 2019](2019-08-01-Tecnè.html) | Tecnè <br> Dire | 14 | 13–15 | 12–16 | 12–16 | 12–17 |
 | [30–31 July 2019](2019-07-31-Ipsos.html) | Ipsos <br> Corriere della Sera | 14 | 13–16 | 13–16 | 12–16 | 12–17 |
-| [27–30 July 2019](2019-07-30-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 12 | 11–13 | 10–13 | 10–14 | 10–14 |
+| [27–30 July 2019](2019-07-30-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 12 | 11–13 | 11–13 | 10–13 | 10–14 |
 | [24–29 July 2019](2019-07-29-SWG.html) | SWG <br> La7 | 14 | 13–15 | 13–15 | 12–16 | 12–16 |
 | [24–25 July 2019](2019-07-25-Tecnè.html) | Tecnè <br> Dire | 14 | 13–15 | 13–16 | 12–16 | 12–17 |
 | [22–24 July 2019](2019-07-24-Demopolis.html) | Demopolis <br> La7 | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
@@ -843,7 +843,7 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [1–4 July 2019](2019-07-04-TermometroPolitico.html) | Termometro Politico <br> La7 | 14 | 13–15 | 13–15 | 13–16 | 12–16 |
 | [29 June–4 July 2019](2019-07-04-BiDiMedia.html) | BiDiMedia | 14 | 14–15 | 13–16 | 13–16 | 13–16 |
 | [26 June–1 July 2019](2019-07-01-SWG.html) | SWG <br> La7 | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
-| [27 June 2019](2019-06-27-EMG.html) | EMG <br> Rai 3 | 15 | 14–16 | 14–16 | 14–17 | 13–17 |
+| [27 June 2019](2019-06-27-EMG.html) | EMG <br> Rai 3 | 15 | 14–16 | 14–17 | 14–17 | 13–17 |
 | [1–26 June 2019](2019-06-26-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 14 | 13–15 | 13–16 | 12–16 | 12–17 |
 | [25–26 June 2019](2019-06-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 14 | 13–15 | 13–16 | 12–16 | 12–17 |
 | [23–24 June 2019](2019-06-24-Tecnè.html) | Tecnè <br> Rete 4 | 13 | 12–14 | 11–14 | 11–15 | 11–15 |
