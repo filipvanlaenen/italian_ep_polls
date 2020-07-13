@@ -772,7 +772,7 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [3–5 October 2019](2019-10-05-Piepoli.html) | Piepoli <br> Rai 1 | 16 | 14–18 | 14–19 | 13–19 | 12–20 |
 | [3–4 October 2019](2019-10-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 15 | 14–17 | 14–17 | 13–17 | 13–19 |
 | [3 October 2019](2019-10-03-Index.html) | Index <br> La7 | 16 | 14–18 | 14–18 | 14–19 | 13–20 |
-| [1–3 October 2019](2019-10-03-DemosPi.html) | Demos & Pi <br> La Repubblica | 16 | 14–17 | 14–17 | 13–17 | 13–17 |
+| [1–3 October 2019](2019-10-03-DemosPi.html) | Demos & Pi <br> La Repubblica | 15 | 14–17 | 13–17 | 13–17 | 12–18 |
 | [2 October 2019](2019-10-02-EMG.html) | EMG <br> Rai 3 | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
 | [30 September–1 October 2019](2019-10-01-Ixè.html) | Ixè <br> Rai 3 | 17 | 15–19 | 15–19 | 15–19 | 14–20 |
 | [29–30 September 2019](2019-09-30-Tecnè.html) | Tecnè <br> Rete 4 | 16 | 14–17 | 14–17 | 13–17 | 13–18 |
@@ -796,7 +796,7 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [1–19 September 2019](2019-09-19-IndexResearch.html) | Index Research <br> La7 | 16 | 15–18 | 14–18 | 14–19 | 13–20 |
 | [18–19 September 2019](2019-09-19-Demopolis.html) | Demopolis <br> Rai 3 | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
 | [17–18 September 2019](2019-09-18-Euromedia.html) | Euromedia <br> Rai 1 | 13 | 12–15 | 12–15 | 12–16 | 11–17 |
-| [14–18 September 2019](2019-09-18-BiDiMedia.html) | BiDiMedia | 17 | 16–19 | 16–19 | 16–19 | 15–20 |
+| [14–18 September 2019](2019-09-18-BiDiMedia.html) | BiDiMedia | 17 | 16–18 | 16–19 | 15–19 | 15–19 |
 | [16–17 September 2019](2019-09-17-Ixè.html) | Ixè <br> Rai 3 | 17 | 15–18 | 15–19 | 15–19 | 14–20 |
 | [17 September 2019](2019-09-17-EMG.html) | EMG <br> Rai 3 | 17 | 16–18 | 16–18 | 15–19 | 15–19 |
 | [15–16 September 2019](2019-09-16-Tecnè.html) | Tecnè <br> Rete 4 | 18 | 17–20 | 16–20 | 16–20 | 15–21 |
@@ -842,9 +842,9 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [22–24 July 2019](2019-07-24-Demopolis.html) | Demopolis <br> La7 | 16 | 15–17 | 15–17 | 15–18 | 14–18 |
 | [17–22 July 2019](2019-07-22-SWG.html) | SWG <br> La7 | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [22 July 2019](2019-07-22-Euromedia.html) | Euromedia | 15 | 14–16 | 13–17 | 13–17 | 12–18 |
-| [16–18 July 2019](2019-07-18-TermometroPolitico.html) | Termometro Politico | 17 | 16–18 | 16–19 | 16–19 | 15–20 |
+| [16–18 July 2019](2019-07-18-TermometroPolitico.html) | Termometro Politico | 17 | 16–18 | 16–19 | 15–19 | 15–20 |
 | [17–18 July 2019](2019-07-18-Tecnè.html) | Tecnè <br> Rete 4 | 18 | 17–20 | 16–20 | 16–20 | 15–21 |
-| [16–18 July 2019](2019-07-18-Ipsos.html) | Ipsos <br> Corriere della Sera | 16 | 15–18 | 14–18 | 14–19 | 13–19 |
+| [16–18 July 2019](2019-07-18-Ipsos.html) | Ipsos <br> Corriere della Sera | 16 | 15–17 | 14–18 | 14–18 | 13–19 |
 | [15–18 July 2019](2019-07-18-GPF.html) | GPF <br> La Notizia | 17 | 16–19 | 15–19 | 15–19 | 14–20 |
 | [10–15 July 2019](2019-07-15-SWG.html) | SWG <br> LA7 | 17 | 16–18 | 15–18 | 15–19 | 14–19 |
 | [15 July 2019](2019-07-15-Piepoli.html) | Piepoli <br> Rai 1 | 17 | 15–19 | 15–19 | 14–20 | 13–21 |
@@ -857,7 +857,7 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [5 July 2019](2019-07-05-NotoSondaggi.html) | Noto Sondaggi <br> Quotidiano Nazionale | 18 | 17–20 | 17–20 | 16–20 | 15–21 |
 | [1–4 July 2019](2019-07-04-TermometroPolitico.html) | Termometro Politico <br> La7 | 17 | 16–18 | 16–18 | 15–19 | 15–19 |
 | [29 June–4 July 2019](2019-07-04-BiDiMedia.html) | BiDiMedia | 18 | 17–19 | 16–19 | 16–19 | 16–20 |
-| [26 June–1 July 2019](2019-07-01-SWG.html) | SWG <br> La7 | 17 | 16–18 | 16–18 | 15–19 | 15–19 |
+| [26 June–1 July 2019](2019-07-01-SWG.html) | SWG <br> La7 | 17 | 16–18 | 15–18 | 15–19 | 15–19 |
 | [27 June 2019](2019-06-27-EMG.html) | EMG <br> Rai 3 | 18 | 17–19 | 17–20 | 17–20 | 16–20 |
 | [1–26 June 2019](2019-06-26-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 19 | 18–20 | 17–21 | 17–21 | 16–22 |
 | [25–26 June 2019](2019-06-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 19 | 18–21 | 17–21 | 17–21 | 16–22 |
@@ -868,7 +868,7 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [18 June 2019](2019-06-18-EMG.html) | EMG <br> Rai 3 | 19 | 18–20 | 18–20 | 17–21 | 17–21 |
 | [12–17 June 2019](2019-06-17-SWG.html) | SWG <br> LA7 | 17 | 16–18 | 16–19 | 15–19 | 15–20 |
 | [13 June 2019](2019-06-13-IndexResearch.html) | Index Research <br> LA7 | 17 | 16–19 | 15–19 | 15–20 | 14–21 |
-| [11 June 2019](2019-06-11-EMG.html) | EMG <br> Rai 3 | 19 | 18–20 | 17–20 | 17–20 | 16–21 |
+| [11 June 2019](2019-06-11-EMG.html) | EMG <br> Rai 3 | 19 | 17–20 | 17–20 | 17–20 | 16–21 |
 | [9–10 June 2019](2019-06-10-Tecnè.html) | Tecnè <br> Rete 4 | 17 | 16–18 | 15–19 | 15–19 | 14–20 |
 | [5–10 June 2019](2019-06-10-SWG.html) | SWG <br> La7 | 17 | 16–18 | 16–19 | 15–19 | 15–20 |
 | [10 June 2019](2019-06-10-Piepoli.html) | Piepoli <br> Rai 1 | 18 | 16–20 | 15–20 | 15–21 | 14–22 |
