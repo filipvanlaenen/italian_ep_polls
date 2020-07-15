@@ -10,13 +10,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.4% | 1.5–3.9% | 1.3–4.2% | 1.2–4.5% | 0.9–5.0% |
-| [6–7 July 2020](2020-07-07-Ixè.html) | Ixè <br> Rai 3 | 3.0% | N/A | N/A | N/A | N/A |
-| [5–6 July 2020](2020-07-06-Tecnè.html) | Tecnè <br> RTI | 2.5% | N/A | N/A | N/A | N/A |
-| [1–6 July 2020](2020-07-06-SWG.html) | SWG <br> La7 | 3.8% | N/A | N/A | N/A | N/A |
-| [2–3 July 2020](2020-07-03-Tecnè.html) | Tecnè <br> RTI | 2.5% | N/A | N/A | N/A | N/A |
-| [1–2 July 2020](2020-07-02-TermometroPolitico.html) | Termometro Politico | 2.6% | N/A | N/A | N/A | N/A |
-| [30 June–2 July 2020](2020-07-02-BiDiMedia.html) | BiDiMedia | 2.6% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 2.7% | 1.7–3.9% | 1.5–4.2% | 1.3–4.5% | 1.0–5.0% |
+| [6–7 July 2020](2020-07-07-Ixè.html) | Ixè <br> Rai 3 | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
+| [5–6 July 2020](2020-07-06-Tecnè.html) | Tecnè <br> RTI | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
+| [1–6 July 2020](2020-07-06-SWG.html) | SWG <br> La7 | 3.8% | 3.2–4.6% | 3.0–4.9% | 2.9–5.1% | 2.6–5.5% |
+| [2–3 July 2020](2020-07-03-Tecnè.html) | Tecnè <br> RTI | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
+| [1–2 July 2020](2020-07-02-TermometroPolitico.html) | Termometro Politico | 2.6% | 2.2–3.0% | 2.1–3.1% | 2.1–3.2% | 1.9–3.4% |
+| [30 June–2 July 2020](2020-07-02-BiDiMedia.html) | BiDiMedia | 2.6% | 2.1–3.2% | 2.0–3.4% | 1.9–3.6% | 1.7–3.9% |
 | [24–29 June 2020](2020-06-29-SWG.html) | SWG <br> La7 | 3.5% | 2.9–4.3% | 2.7–4.5% | 2.6–4.7% | 2.3–5.1% |
 | [25–26 June 2020](2020-06-26-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.6% | 2.1–3.4% | 1.9–3.6% | 1.8–3.8% | 1.6–4.2% |
 | [26 June 2020](2020-06-26-Euromedia.html) | Euromedia | 2.2% | 1.7–3.1% | 1.6–3.3% | 1.4–3.5% | 1.2–4.0% |
@@ -437,10 +437,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 11% | 100% |  |
-| 1.5–2.5% | 43% | 89% | Median |
-| 2.5–3.5% | 28% | 46% |  |
-| 3.5–4.5% | 16% | 18% |  |
+| 0.5–1.5% | 6% | 100% |  |
+| 1.5–2.5% | 37% | 94% |  |
+| 2.5–3.5% | 39% | 57% | Median |
+| 3.5–4.5% | 16% | 19% |  |
 | 4.5–5.5% | 2% | 2% |  |
 | 5.5–6.5% | 0.1% | 0.1% |  |
 | 6.5–7.5% | 0% | 0% |  |
@@ -454,13 +454,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0–3 | 0–4 | 0–4 |
-| [6–7 July 2020](2020-07-07-Ixè.html) | Ixè <br> Rai 3 |  |  |  |  |  |
-| [5–6 July 2020](2020-07-06-Tecnè.html) | Tecnè <br> RTI |  |  |  |  |  |
-| [1–6 July 2020](2020-07-06-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [2–3 July 2020](2020-07-03-Tecnè.html) | Tecnè <br> RTI |  |  |  |  |  |
-| [1–2 July 2020](2020-07-02-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [30 June–2 July 2020](2020-07-02-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [6–7 July 2020](2020-07-07-Ixè.html) | Ixè <br> Rai 3 | 0 | 0 | 0 | 0–3 | 0–4 |
+| [5–6 July 2020](2020-07-06-Tecnè.html) | Tecnè <br> RTI | 0 | 0 | 0 | 0 | 0 |
+| [1–6 July 2020](2020-07-06-SWG.html) | SWG <br> La7 | 4 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [2–3 July 2020](2020-07-03-Tecnè.html) | Tecnè <br> RTI | 0 | 0 | 0 | 0 | 0 |
+| [1–2 July 2020](2020-07-02-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
+| [30 June–2 July 2020](2020-07-02-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
 | [24–29 June 2020](2020-06-29-SWG.html) | SWG <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [25–26 June 2020](2020-06-26-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0–3 |
 | [26 June 2020](2020-06-26-Euromedia.html) | Euromedia | 0 | 0 | 0 | 0 | 0 |
@@ -882,11 +882,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 92% | 100% | Last Result, Median |
-| 1 | 0% | 8% |  |
-| 2 | 0% | 8% |  |
-| 3 | 3% | 8% |  |
-| 4 | 4% | 4% |  |
+| 0 | 89% | 100% | Last Result, Median |
+| 1 | 0% | 11% |  |
+| 2 | 0% | 11% |  |
+| 3 | 2% | 11% |  |
+| 4 | 9% | 9% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 
