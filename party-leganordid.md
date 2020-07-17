@@ -478,12 +478,12 @@ Last result: **5** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 23 | 20–25 | 20–26 | 19–26 | 18–27 |
-| [8–13 July 2020](2020-07-13-SWG.html) | SWG <br> La7 | 24 | 22–26 | 22–26 | 21–26 | 20–26 |
+| [8–13 July 2020](2020-07-13-SWG.html) | SWG <br> La7 | 25 | 23–26 | 23–26 | 22–27 | 21–27 |
 | [13 July 2020](2020-07-13-AnalisiPolitica.html) | Analisi Politica <br> Libero Quotidiano | 26 | 21–27 | 21–27 | 20–27 | 19–27 |
 | [6–7 July 2020](2020-07-07-Ixè.html) | Ixè <br> Rai 3 | 20 | 19–22 | 19–22 | 18–23 | 18–24 |
 | [5–6 July 2020](2020-07-06-Tecnè.html) | Tecnè <br> RTI | 23 | 21–24 | 21–24 | 20–25 | 19–26 |
-| [1–6 July 2020](2020-07-06-SWG.html) | SWG <br> La7 | 24 | 23–26 | 22–26 | 22–26 | 21–26 |
-| [3–5 July 2020](2020-07-05-Lab2101.html) | Lab2101 <br> Affaritaliani.it | 21 | 21–23 | 20–24 | 20–25 | 19–26 |
+| [1–6 July 2020](2020-07-06-SWG.html) | SWG <br> La7 | 24 | 22–26 | 22–26 | 21–26 | 21–28 |
+| [3–5 July 2020](2020-07-05-Lab2101.html) | Lab2101 <br> Affaritaliani.it | 23 | 21–24 | 21–25 | 20–25 | 19–26 |
 | [2–3 July 2020](2020-07-03-Tecnè.html) | Tecnè <br> RTI | 23 | 21–24 | 20–25 | 20–25 | 19–25 |
 | [1–2 July 2020](2020-07-02-TermometroPolitico.html) | Termometro Politico | 24 | 23–25 | 23–26 | 22–26 | 22–27 |
 | [30 June–2 July 2020](2020-07-02-BiDiMedia.html) | BiDiMedia | 23 | 21–25 | 21–25 | 21–26 | 20–26 |
@@ -921,15 +921,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
-| 18 | 0.5% | 99.9% |  |
+| 18 | 0.5% | 100% |  |
 | 19 | 3% | 99.4% |  |
 | 20 | 10% | 97% |  |
-| 21 | 17% | 86% |  |
-| 22 | 18% | 69% |  |
-| 23 | 19% | 51% | Median |
-| 24 | 15% | 33% |  |
-| 25 | 9% | 18% |  |
-| 26 | 7% | 9% |  |
+| 21 | 15% | 87% |  |
+| 22 | 18% | 72% |  |
+| 23 | 20% | 54% | Median |
+| 24 | 14% | 34% |  |
+| 25 | 11% | 21% |  |
+| 26 | 8% | 10% |  |
 | 27 | 2% | 2% |  |
 | 28 | 0.1% | 0.2% |  |
 | 29 | 0% | 0% |  |

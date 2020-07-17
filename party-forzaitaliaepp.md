@@ -465,12 +465,12 @@ Last result: **13** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 4–8 | 4–9 |
-| [8–13 July 2020](2020-07-13-SWG.html) | SWG <br> La7 | 5 | 5–7 | 5–7 | 5–7 | 4–8 |
+| [8–13 July 2020](2020-07-13-SWG.html) | SWG <br> La7 | 6 | 5–6 | 5–7 | 5–7 | 4–8 |
 | [13 July 2020](2020-07-13-AnalisiPolitica.html) | Analisi Politica <br> Libero Quotidiano | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
 | [6–7 July 2020](2020-07-07-Ixè.html) | Ixè <br> Rai 3 | 7 | 5–7 | 5–7 | 5–8 | 5–8 |
 | [5–6 July 2020](2020-07-06-Tecnè.html) | Tecnè <br> RTI | 7 | 6–9 | 6–9 | 6–9 | 5–9 |
-| [1–6 July 2020](2020-07-06-SWG.html) | SWG <br> La7 | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
-| [3–5 July 2020](2020-07-05-Lab2101.html) | Lab2101 <br> Affaritaliani.it | 6 | 5–7 | 4–7 | 4–7 | 4–8 |
+| [1–6 July 2020](2020-07-06-SWG.html) | SWG <br> La7 | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
+| [3–5 July 2020](2020-07-05-Lab2101.html) | Lab2101 <br> Affaritaliani.it | 6 | 5–6 | 4–7 | 4–7 | 4–8 |
 | [2–3 July 2020](2020-07-03-Tecnè.html) | Tecnè <br> RTI | 7 | 6–8 | 6–9 | 5–9 | 5–9 |
 | [1–2 July 2020](2020-07-02-TermometroPolitico.html) | Termometro Politico | 5 | 5 | 4–6 | 4–6 | 4–6 |
 | [30 June–2 July 2020](2020-07-02-BiDiMedia.html) | BiDiMedia | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
@@ -895,10 +895,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 4% | 100% |  |
+| 4 | 3% | 100% |  |
 | 5 | 31% | 96% |  |
-| 6 | 38% | 65% | Median |
-| 7 | 23% | 27% |  |
+| 6 | 39% | 66% | Median |
+| 7 | 22% | 26% |  |
 | 8 | 3% | 5% |  |
 | 9 | 1.1% | 1.1% |  |
 | 10 | 0% | 0% |  |

@@ -462,7 +462,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [13 July 2020](2020-07-13-AnalisiPolitica.html) | Analisi Politica <br> Libero Quotidiano | 0 | 0 | 0 | 0–4 | 0–4 |
 | [6–7 July 2020](2020-07-07-Ixè.html) | Ixè <br> Rai 3 | 0 | 0 | 0 | 0 | 0–4 |
 | [5–6 July 2020](2020-07-06-Tecnè.html) | Tecnè <br> RTI | 0 | 0 | 0 | 0–4 | 0–4 |
-| [1–6 July 2020](2020-07-06-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0–3 |
+| [1–6 July 2020](2020-07-06-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0–4 | 0–4 |
 | [3–5 July 2020](2020-07-05-Lab2101.html) | Lab2101 <br> Affaritaliani.it | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [2–3 July 2020](2020-07-03-Tecnè.html) | Tecnè <br> RTI | 0 | 0 | 0 | 0–4 | 0–4 |
 | [1–2 July 2020](2020-07-02-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |

@@ -468,12 +468,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12 | 11–14 | 11–15 | 11–15 | 10–16 |
-| [8–13 July 2020](2020-07-13-SWG.html) | SWG <br> La7 | 13 | 12–14 | 12–14 | 11–15 | 10–15 |
+| [8–13 July 2020](2020-07-13-SWG.html) | SWG <br> La7 | 14 | 12–14 | 12–14 | 11–14 | 11–15 |
 | [13 July 2020](2020-07-13-AnalisiPolitica.html) | Analisi Politica <br> Libero Quotidiano | 12 | 11–14 | 11–14 | 10–14 | 10–15 |
 | [6–7 July 2020](2020-07-07-Ixè.html) | Ixè <br> Rai 3 | 12 | 11–13 | 10–13 | 10–14 | 10–15 |
 | [5–6 July 2020](2020-07-06-Tecnè.html) | Tecnè <br> RTI | 14 | 13–15 | 12–16 | 12–16 | 11–17 |
-| [1–6 July 2020](2020-07-06-SWG.html) | SWG <br> La7 | 12 | 11–13 | 11–14 | 11–15 | 11–15 |
-| [3–5 July 2020](2020-07-05-Lab2101.html) | Lab2101 <br> Affaritaliani.it | 13 | 11–13 | 11–14 | 10–14 | 10–15 |
+| [1–6 July 2020](2020-07-06-SWG.html) | SWG <br> La7 | 12 | 11–14 | 11–14 | 11–15 | 10–16 |
+| [3–5 July 2020](2020-07-05-Lab2101.html) | Lab2101 <br> Affaritaliani.it | 12 | 11–13 | 11–14 | 10–14 | 10–15 |
 | [2–3 July 2020](2020-07-03-Tecnè.html) | Tecnè <br> RTI | 14 | 13–16 | 12–16 | 12–16 | 11–17 |
 | [1–2 July 2020](2020-07-02-TermometroPolitico.html) | Termometro Politico | 12 | 11–13 | 11–13 | 11–14 | 11–14 |
 | [30 June–2 July 2020](2020-07-02-BiDiMedia.html) | BiDiMedia | 12 | 12–13 | 11–13 | 11–14 | 11–14 |
@@ -909,10 +909,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 100% |  |
 | 9 | 0.1% | 100% |  |
 | 10 | 2% | 99.9% |  |
-| 11 | 15% | 98% |  |
-| 12 | 36% | 83% | Median |
-| 13 | 25% | 47% |  |
-| 14 | 16% | 21% |  |
+| 11 | 16% | 98% |  |
+| 12 | 36% | 82% | Median |
+| 13 | 24% | 47% |  |
+| 14 | 17% | 22% |  |
 | 15 | 4% | 5% |  |
 | 16 | 1.0% | 1.2% |  |
 | 17 | 0.2% | 0.2% |  |

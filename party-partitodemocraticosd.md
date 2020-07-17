@@ -477,12 +477,12 @@ Last result: **31** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17 | 15–19 | 15–19 | 15–20 | 14–21 |
-| [8–13 July 2020](2020-07-13-SWG.html) | SWG <br> La7 | 17 | 15–18 | 15–19 | 14–19 | 13–20 |
+| [8–13 July 2020](2020-07-13-SWG.html) | SWG <br> La7 | 17 | 16–19 | 15–19 | 15–19 | 14–20 |
 | [13 July 2020](2020-07-13-AnalisiPolitica.html) | Analisi Politica <br> Libero Quotidiano | 17 | 16–19 | 15–20 | 15–21 | 14–21 |
 | [6–7 July 2020](2020-07-07-Ixè.html) | Ixè <br> Rai 3 | 18 | 17–19 | 16–20 | 16–20 | 15–21 |
 | [5–6 July 2020](2020-07-06-Tecnè.html) | Tecnè <br> RTI | 17 | 15–18 | 15–19 | 15–19 | 14–20 |
-| [1–6 July 2020](2020-07-06-SWG.html) | SWG <br> La7 | 17 | 15–17 | 15–19 | 15–19 | 15–19 |
-| [3–5 July 2020](2020-07-05-Lab2101.html) | Lab2101 <br> Affaritaliani.it | 18 | 16–19 | 15–20 | 15–20 | 15–21 |
+| [1–6 July 2020](2020-07-06-SWG.html) | SWG <br> La7 | 17 | 15–19 | 15–19 | 15–19 | 14–20 |
+| [3–5 July 2020](2020-07-05-Lab2101.html) | Lab2101 <br> Affaritaliani.it | 19 | 16–20 | 16–20 | 16–21 | 15–21 |
 | [2–3 July 2020](2020-07-03-Tecnè.html) | Tecnè <br> RTI | 17 | 15–18 | 15–18 | 15–19 | 14–20 |
 | [1–2 July 2020](2020-07-02-TermometroPolitico.html) | Termometro Politico | 17 | 16–18 | 16–19 | 16–19 | 15–19 |
 | [30 June–2 July 2020](2020-07-02-BiDiMedia.html) | BiDiMedia | 17 | 16–19 | 16–20 | 16–20 | 15–20 |
@@ -907,16 +907,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 13 | 0.3% | 100% |  |
-| 14 | 2% | 99.7% |  |
+| 13 | 0.2% | 100% |  |
+| 14 | 2% | 99.8% |  |
 | 15 | 11% | 98% |  |
-| 16 | 29% | 87% |  |
-| 17 | 26% | 58% | Median |
-| 18 | 20% | 32% |  |
-| 19 | 9% | 12% |  |
-| 20 | 2% | 3% |  |
-| 21 | 0.5% | 0.5% |  |
-| 22 | 0% | 0% |  |
+| 16 | 30% | 87% |  |
+| 17 | 25% | 58% | Median |
+| 18 | 20% | 33% |  |
+| 19 | 9% | 13% |  |
+| 20 | 3% | 4% |  |
+| 21 | 0.7% | 0.7% |  |
+| 22 | 0% | 0.1% |  |
 | 23 | 0% | 0% |  |
 | 24 | 0% | 0% |  |
 | 25 | 0% | 0% |  |
