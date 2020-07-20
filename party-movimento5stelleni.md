@@ -463,7 +463,7 @@ Last result: **17** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14 | 12–16 | 12–16 | 12–17 | 11–17 |
 | [8–13 July 2020](2020-07-13-SWG.html) | SWG <br> La7 | 13 | 13–14 | 12–15 | 12–15 | 12–16 |
-| [13 July 2020](2020-07-13-AnalisiPolitica.html) | Analisi Politica <br> Libero Quotidiano | 14 | 13–16 | 13–17 | 12–17 | 11–17 |
+| [13 July 2020](2020-07-13-AnalisiPolitica.html) | Analisi Politica <br> Libero Quotidiano | 14 | 13–16 | 13–16 | 12–16 | 12–17 |
 | [6–7 July 2020](2020-07-07-Ixè.html) | Ixè <br> Rai 3 | 13 | 12–15 | 12–15 | 11–15 | 11–16 |
 | [5–6 July 2020](2020-07-06-Tecnè.html) | Tecnè <br> RTI | 13 | 12–14 | 11–15 | 11–15 | 10–16 |
 | [1–6 July 2020](2020-07-06-SWG.html) | SWG <br> La7 | 14 | 12–15 | 12–16 | 12–16 | 12–17 |
@@ -773,7 +773,7 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [2–7 October 2019](2019-10-07-SWG.html) | SWG <br> La7 | 16 | 15–17 | 14–17 | 14–18 | 14–18 |
 | [7 October 2019](2019-10-07-Ipsos.html) | Ipsos <br> La7 | 16 | 14–17 | 14–18 | 13–18 | 12–19 |
 | [3–5 October 2019](2019-10-05-Piepoli.html) | Piepoli <br> Rai 1 | 16 | 14–18 | 14–19 | 13–19 | 12–20 |
-| [3–4 October 2019](2019-10-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 17 | 15–18 | 15–19 | 14–19 | 14–19 |
+| [3–4 October 2019](2019-10-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 16 | 15–18 | 15–19 | 14–19 | 14–20 |
 | [3 October 2019](2019-10-03-Index.html) | Index <br> La7 | 16 | 15–18 | 15–19 | 14–19 | 13–20 |
 | [1–3 October 2019](2019-10-03-DemosPi.html) | Demos & Pi <br> La Repubblica | 17 | 16–18 | 16–19 | 15–19 | 15–20 |
 | [2 October 2019](2019-10-02-EMG.html) | EMG <br> Rai 3 | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
@@ -786,7 +786,7 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [25–26 September 2019](2019-09-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 17 | 15–18 | 15–19 | 15–19 | 14–20 |
 | [1–25 September 2019](2019-09-25-NotoSondaggi.html) | Noto Sondaggi | 17 | 15–19 | 15–19 | 15–19 | 14–19 |
 | [25 September 2019](2019-09-25-EMG.html) | EMG <br> Rai 3 | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
-| [23–24 September 2019](2019-09-24-Ixè.html) | Ixè <br> Rai 3 | 19 | 17–20 | 17–20 | 16–21 | 16–21 |
+| [23–24 September 2019](2019-09-24-Ixè.html) | Ixè <br> Rai 3 | 18 | 17–20 | 17–20 | 16–21 | 16–21 |
 | [22–23 September 2019](2019-09-23-Tecnè.html) | Tecnè <br> Rete 4 | 17 | 16–19 | 15–19 | 15–20 | 14–20 |
 | [18–23 September 2019](2019-09-23-SWG.html) | SWG <br> La7 | 17 | 16–18 | 16–18 | 15–19 | 15–19 |
 | [20–22 September 2019](2019-09-22-Piepoli.html) | Piepoli <br> Rai 1 | 15 | 14–18 | 13–18 | 13–19 | 12–20 |
@@ -826,7 +826,7 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [26–29 August 2019](2019-08-29-Ipsos.html) | Ipsos <br> Corriere della Sera | 20 | 18–21 | 18–22 | 18–22 | 17–23 |
 | [24–28 August 2019](2019-08-28-BiDiMedia.html) | BiDiMedia | 15 | 14–16 | 14–17 | 14–17 | 13–17 |
 | [27 August 2019](2019-08-27-Piepoli.html) | Piepoli <br> La Stampa | 13 | 11–14 | 11–15 | 10–15 | 10–16 |
-| [23–25 August 2019](2019-08-25-Demopolis.html) | Demopolis | 14 | 14–15 | 14–15 | 13–15 | 13–16 |
+| [23–25 August 2019](2019-08-25-Demopolis.html) | Demopolis | 14 | 14–15 | 14–15 | 13–16 | 13–16 |
 | [21–23 August 2019](2019-08-23-TermometroPolitico.html) | Termometro Politico <br> La7 | 14 | 13–15 | 13–15 | 13–15 | 13–16 |
 | [21–23 August 2019](2019-08-23-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll <br> Il Sole 24 Ore | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
 | [21 August 2019](2019-08-21-Tecnè.html) | Tecnè | 16 | 15–18 | 15–18 | 15–19 | 14–19 |
@@ -896,10 +896,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 2% | 99.9% |  |
 | 12 | 15% | 98% |  |
 | 13 | 29% | 83% |  |
-| 14 | 24% | 53% | Median |
-| 15 | 19% | 30% |  |
+| 14 | 25% | 54% | Median |
+| 15 | 19% | 29% |  |
 | 16 | 6% | 11% |  |
-| 17 | 5% | 5% | Last Result |
+| 17 | 4% | 5% | Last Result |
 | 18 | 0.4% | 0.4% |  |
 | 19 | 0% | 0% |  |
 

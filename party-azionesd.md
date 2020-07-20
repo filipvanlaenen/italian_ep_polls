@@ -458,7 +458,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–3 | 0–4 |
 | [8–13 July 2020](2020-07-13-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0–3 | 0–4 |
-| [13 July 2020](2020-07-13-AnalisiPolitica.html) | Analisi Politica <br> Libero Quotidiano | 0 | 0 | 0 | 0–4 | 0–4 |
+| [13 July 2020](2020-07-13-AnalisiPolitica.html) | Analisi Politica <br> Libero Quotidiano | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | [6–7 July 2020](2020-07-07-Ixè.html) | Ixè <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [5–6 July 2020](2020-07-06-Tecnè.html) | Tecnè <br> RTI | 0 | 0 | 0 | 0–3 | 0–4 |
 | [1–6 July 2020](2020-07-06-SWG.html) | SWG <br> La7 | 0 | 0 | 0–4 | 0–4 | 0–4 |

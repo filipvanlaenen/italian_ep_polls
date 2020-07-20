@@ -479,7 +479,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 23 | 20–25 | 20–26 | 19–26 | 18–27 |
 | [8–13 July 2020](2020-07-13-SWG.html) | SWG <br> La7 | 25 | 23–26 | 23–26 | 22–27 | 21–27 |
-| [13 July 2020](2020-07-13-AnalisiPolitica.html) | Analisi Politica <br> Libero Quotidiano | 26 | 21–27 | 21–27 | 20–27 | 19–27 |
+| [13 July 2020](2020-07-13-AnalisiPolitica.html) | Analisi Politica <br> Libero Quotidiano | 23 | 22–25 | 21–26 | 21–26 | 20–27 |
 | [6–7 July 2020](2020-07-07-Ixè.html) | Ixè <br> Rai 3 | 20 | 19–22 | 19–22 | 18–23 | 18–24 |
 | [5–6 July 2020](2020-07-06-Tecnè.html) | Tecnè <br> RTI | 23 | 21–24 | 21–24 | 20–25 | 19–26 |
 | [1–6 July 2020](2020-07-06-SWG.html) | SWG <br> La7 | 24 | 22–26 | 22–26 | 21–26 | 21–28 |
@@ -802,7 +802,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [25–26 September 2019](2019-09-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 25 | 23–27 | 23–27 | 22–28 | 22–29 |
 | [1–25 September 2019](2019-09-25-NotoSondaggi.html) | Noto Sondaggi | 28 | 26–30 | 26–30 | 26–31 | 25–31 |
 | [25 September 2019](2019-09-25-EMG.html) | EMG <br> Rai 3 | 28 | 26–29 | 26–29 | 26–30 | 25–31 |
-| [23–24 September 2019](2019-09-24-Ixè.html) | Ixè <br> Rai 3 | 25 | 24–27 | 24–28 | 23–28 | 22–29 |
+| [23–24 September 2019](2019-09-24-Ixè.html) | Ixè <br> Rai 3 | 25 | 24–27 | 24–28 | 23–28 | 23–29 |
 | [22–23 September 2019](2019-09-23-Tecnè.html) | Tecnè <br> Rete 4 | 27 | 25–29 | 24–29 | 24–30 | 23–31 |
 | [18–23 September 2019](2019-09-23-SWG.html) | SWG <br> La7 | 28 | 27–29 | 27–30 | 26–30 | 26–31 |
 | [20–22 September 2019](2019-09-22-Piepoli.html) | Piepoli <br> Rai 1 | 25 | 23–27 | 22–28 | 21–29 | 20–30 |
@@ -836,7 +836,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [4–5 September 2019](2019-09-05-GPF.html) | GPF <br> La Notizia | 24 | 23–26 | 22–26 | 22–27 | 21–27 |
 | [4–5 September 2019](2019-09-05-Demopolis.html) | Demopolis <br> Rai 3 | 25 | 24–26 | 23–27 | 23–27 | 23–27 |
 | [2–3 September 2019](2019-09-03-Ixè.html) | Ixè <br> Rai 3 | 24 | 23–26 | 22–27 | 22–27 | 21–28 |
-| [31 August–2 September 2019](2019-09-02-Tecnè.html) | Tecnè <br> Rete 4 | 23 | 22–25 | 22–25 | 21–26 | 21–26 |
+| [31 August–2 September 2019](2019-09-02-Tecnè.html) | Tecnè <br> Rete 4 | 24 | 22–25 | 22–25 | 21–26 | 21–26 |
 | [29 August–2 September 2019](2019-09-02-SWG.html) | SWG <br> La7 | 26 | 25–28 | 25–28 | 25–28 | 24–29 |
 | [29–30 August 2019](2019-08-30-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky Tg24 | 25 | 24–27 | 23–28 | 23–28 | 22–29 |
 | [26–29 August 2019](2019-08-29-Ipsos.html) | Ipsos <br> Corriere della Sera | 26 | 24–28 | 24–28 | 24–28 | 23–29 |
@@ -850,7 +850,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [20–21 August 2019](2019-08-21-GPF.html) | GPF | 26 | 24–28 | 23–28 | 22–29 | 22–30 |
 | [12 August 2019](2019-08-12-GPF.html) | GPF | 25 | 23–27 | 23–27 | 23–28 | 22–29 |
 | [9–10 August 2019](2019-08-10-TermometroPolitico.html) | Termometro Politico <br> La7 | 29 | 28–30 | 27–30 | 27–30 | 27–31 |
-| [1–9 August 2019](2019-08-09-NotoSondaggi.html) | Noto Sondaggi | 29 | 27–30 | 27–31 | 26–31 | 26–32 |
+| [1–9 August 2019](2019-08-09-NotoSondaggi.html) | Noto Sondaggi | 29 | 27–30 | 27–31 | 27–31 | 26–32 |
 | [5 August 2019](2019-08-05-Tecnè.html) | Tecnè <br> Dire | 30 | 29–32 | 28–33 | 28–33 | 27–34 |
 | [29 July–2 August 2019](2019-08-02-TermometroPolitico.html) | Termometro Politico | 30 | 28–31 | 28–31 | 28–32 | 27–32 |
 | [30 July–1 August 2019](2019-08-01-Tecnè.html) | Tecnè <br> Dire | 30 | 29–32 | 28–33 | 28–33 | 27–34 |
@@ -859,7 +859,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [24–29 July 2019](2019-07-29-SWG.html) | SWG <br> La7 | 30 | 29–32 | 29–32 | 28–33 | 28–34 |
 | [24–25 July 2019](2019-07-25-Tecnè.html) | Tecnè <br> Dire | 31 | 29–33 | 28–33 | 28–34 | 27–34 |
 | [22–24 July 2019](2019-07-24-Demopolis.html) | Demopolis <br> La7 | 27 | 26–29 | 26–29 | 25–29 | 25–30 |
-| [17–22 July 2019](2019-07-22-SWG.html) | SWG <br> La7 | 31 | 29–32 | 29–32 | 28–33 | 28–33 |
+| [17–22 July 2019](2019-07-22-SWG.html) | SWG <br> La7 | 30 | 29–32 | 28–32 | 28–33 | 28–34 |
 | [22 July 2019](2019-07-22-Euromedia.html) | Euromedia | 29 | 27–30 | 27–31 | 26–31 | 25–32 |
 | [16–18 July 2019](2019-07-18-TermometroPolitico.html) | Termometro Politico | 30 | 29–31 | 28–32 | 28–32 | 27–33 |
 | [17–18 July 2019](2019-07-18-Tecnè.html) | Tecnè <br> Rete 4 | 30 | 28–32 | 28–32 | 27–32 | 26–33 |
@@ -882,7 +882,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [25–26 June 2019](2019-06-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 29 | 27–31 | 27–31 | 27–31 | 26–32 |
 | [23–24 June 2019](2019-06-24-Tecnè.html) | Tecnè <br> Rete 4 | 27 | 25–28 | 25–29 | 25–29 | 24–30 |
 | [19–24 June 2019](2019-06-24-SWG.html) | SWG <br> La7 | 30 | 28–31 | 28–32 | 28–32 | 27–33 |
-| [19–20 June 2019](2019-06-20-Demopolis.html) | Demopolis <br> La7 | 27 | 25–28 | 25–28 | 25–29 | 24–29 |
+| [19–20 June 2019](2019-06-20-Demopolis.html) | Demopolis <br> La7 | 27 | 26–28 | 25–28 | 25–29 | 24–29 |
 | [1–18 June 2019](2019-06-18-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 28 | 26–30 | 26–30 | 25–31 | 25–31 |
 | [18 June 2019](2019-06-18-EMG.html) | EMG <br> Rai 3 | 29 | 28–30 | 27–30 | 27–31 | 26–31 |
 | [12–17 June 2019](2019-06-17-SWG.html) | SWG <br> LA7 | 30 | 28–31 | 28–32 | 28–32 | 27–33 |
@@ -924,14 +924,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 0.5% | 100% |  |
 | 19 | 3% | 99.4% |  |
 | 20 | 10% | 97% |  |
-| 21 | 15% | 87% |  |
+| 21 | 14% | 87% |  |
 | 22 | 18% | 72% |  |
-| 23 | 20% | 54% | Median |
-| 24 | 14% | 34% |  |
-| 25 | 11% | 21% |  |
-| 26 | 8% | 10% |  |
-| 27 | 2% | 2% |  |
-| 28 | 0.1% | 0.2% |  |
+| 23 | 23% | 54% | Median |
+| 24 | 14% | 31% |  |
+| 25 | 11% | 17% |  |
+| 26 | 5% | 6% |  |
+| 27 | 0.8% | 1.0% |  |
+| 28 | 0.1% | 0.1% |  |
 | 29 | 0% | 0% |  |
 
 
