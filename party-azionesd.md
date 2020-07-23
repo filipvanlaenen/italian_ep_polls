@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.9% | 2.0–3.8% | 1.7–4.1% | 1.5–4.3% | 1.1–4.8% |
+| N/A | [Poll Average](average.html) | 3.0% | 2.1–3.9% | 1.7–4.2% | 1.5–4.4% | 1.1–4.9% |
+| [15–20 July 2020](2020-07-20-SWG.html) | SWG <br> La7 | 3.3% | 2.8–4.1% | 2.6–4.3% | 2.5–4.5% | 2.2–4.9% |
+| [20 July 2020](2020-07-20-Euromedia.html) | Euromedia <br> La Stampa | 3.6% | 2.9–4.6% | 2.7–4.9% | 2.5–5.2% | 2.2–5.7% |
+| [16–17 July 2020](2020-07-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.0–4.1% | 1.8–4.6% |
+| [15–16 July 2020](2020-07-16-TermometroPolitico.html) | Termometro Politico | 3.2% | 2.7–3.7% | 2.6–3.9% | 2.5–4.0% | 2.3–4.3% |
 | [8–13 July 2020](2020-07-13-SWG.html) | SWG <br> La7 | 3.1% | 2.5–3.8% | 2.4–4.0% | 2.2–4.2% | 2.0–4.6% |
 | [13 July 2020](2020-07-13-AnalisiPolitica.html) | Analisi Politica <br> Libero Quotidiano | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [6–7 July 2020](2020-07-07-Ixè.html) | Ixè <br> Rai 3 | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
@@ -441,11 +445,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 3% | 100% |  |
-| 1.5–2.5% | 26% | 97% |  |
-| 2.5–3.5% | 52% | 70% | Median |
-| 3.5–4.5% | 17% | 18% |  |
-| 4.5–5.5% | 1.1% | 1.2% |  |
-| 5.5–6.5% | 0% | 0% |  |
+| 1.5–2.5% | 22% | 97% |  |
+| 2.5–3.5% | 53% | 75% | Median |
+| 3.5–4.5% | 20% | 21% |  |
+| 4.5–5.5% | 2% | 2% |  |
+| 5.5–6.5% | 0.1% | 0.1% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -456,7 +461,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–3 | 0–4 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0–3 | 0–4 | 0–4 |
+| [15–20 July 2020](2020-07-20-SWG.html) | SWG <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [20 July 2020](2020-07-20-Euromedia.html) | Euromedia <br> La Stampa | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [16–17 July 2020](2020-07-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0–4 |
+| [15–16 July 2020](2020-07-16-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0–3 |
 | [8–13 July 2020](2020-07-13-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0–3 | 0–4 |
 | [13 July 2020](2020-07-13-AnalisiPolitica.html) | Analisi Politica <br> Libero Quotidiano | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | [6–7 July 2020](2020-07-07-Ixè.html) | Ixè <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
@@ -887,11 +896,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 95% | 100% | Last Result, Median |
-| 1 | 0% | 5% |  |
-| 2 | 0% | 5% |  |
-| 3 | 2% | 5% |  |
-| 4 | 2% | 2% |  |
+| 0 | 93% | 100% | Last Result, Median |
+| 1 | 0% | 7% |  |
+| 2 | 0% | 7% |  |
+| 3 | 3% | 7% |  |
+| 4 | 4% | 5% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 
