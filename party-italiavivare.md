@@ -464,7 +464,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [15–20 July 2020](2020-07-20-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0–4 |
 | [20 July 2020](2020-07-20-Euromedia.html) | Euromedia <br> La Stampa | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
-| [16–17 July 2020](2020-07-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0–3 | 0–3 |
+| [16–17 July 2020](2020-07-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0–4 |
 | [15–16 July 2020](2020-07-16-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [8–13 July 2020](2020-07-13-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0–4 | 0–4 |
 | [13 July 2020](2020-07-13-AnalisiPolitica.html) | Analisi Politica <br> Libero Quotidiano | 0 | 0 | 0 | 0 | 0–4 |
@@ -896,10 +896,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 84% | 100% | Last Result, Median |
-| 1 | 0% | 16% |  |
-| 2 | 0% | 16% |  |
-| 3 | 2% | 16% |  |
+| 0 | 83% | 100% | Last Result, Median |
+| 1 | 0% | 17% |  |
+| 2 | 0% | 17% |  |
+| 3 | 3% | 17% |  |
 | 4 | 13% | 14% |  |
 | 5 | 1.2% | 1.2% |  |
 | 6 | 0% | 0% |  |

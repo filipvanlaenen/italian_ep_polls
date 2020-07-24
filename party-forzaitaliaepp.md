@@ -468,10 +468,10 @@ Last result: **13** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–7 | 4–7 | 4–8 | 4–9 |
+| N/A | [Poll Average](average.html) | 6 | 5–7 | 4–8 | 4–8 | 4–9 |
 | [15–20 July 2020](2020-07-20-SWG.html) | SWG <br> La7 | 5 | 5–6 | 4–6 | 4–7 | 4–7 |
-| [20 July 2020](2020-07-20-Euromedia.html) | Euromedia <br> La Stampa | 6 | 4–6 | 4–6 | 4–6 | 4–7 |
-| [16–17 July 2020](2020-07-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 6–8 | 6–9 | 6–9 | 6–10 |
+| [20 July 2020](2020-07-20-Euromedia.html) | Euromedia <br> La Stampa | 5 | 4–6 | 4–6 | 4–7 | 0–7 |
+| [16–17 July 2020](2020-07-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 6–9 | 6–9 | 6–9 | 6–9 |
 | [15–16 July 2020](2020-07-16-TermometroPolitico.html) | Termometro Politico | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [8–13 July 2020](2020-07-13-SWG.html) | SWG <br> La7 | 6 | 5–6 | 5–7 | 5–7 | 4–8 |
 | [13 July 2020](2020-07-13-AnalisiPolitica.html) | Analisi Politica <br> Libero Quotidiano | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
@@ -903,13 +903,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 6% | 100% |  |
-| 5 | 33% | 94% |  |
-| 6 | 40% | 61% | Median |
-| 7 | 17% | 21% |  |
-| 8 | 3% | 4% |  |
-| 9 | 0.6% | 0.7% |  |
-| 10 | 0.1% | 0.1% |  |
+| 0 | 0.1% | 100% |  |
+| 1 | 0% | 99.9% |  |
+| 2 | 0% | 99.9% |  |
+| 3 | 0% | 99.9% |  |
+| 4 | 6% | 99.9% |  |
+| 5 | 34% | 94% |  |
+| 6 | 38% | 59% | Median |
+| 7 | 17% | 22% |  |
+| 8 | 4% | 5% |  |
+| 9 | 1.1% | 1.1% |  |
+| 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |
 | 13 | 0% | 0% | Last Result |

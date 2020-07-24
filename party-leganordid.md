@@ -481,10 +481,10 @@ Last result: **5** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23 | 20–25 | 20–26 | 19–26 | 19–27 |
+| N/A | [Poll Average](average.html) | 23 | 20–25 | 20–26 | 19–26 | 18–27 |
 | [15–20 July 2020](2020-07-20-SWG.html) | SWG <br> La7 | 24 | 23–26 | 22–26 | 21–27 | 21–27 |
-| [20 July 2020](2020-07-20-Euromedia.html) | Euromedia <br> La Stampa | 24 | 21–25 | 21–25 | 20–26 | 19–26 |
-| [16–17 July 2020](2020-07-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 22 | 20–23 | 20–23 | 20–24 | 19–25 |
+| [20 July 2020](2020-07-20-Euromedia.html) | Euromedia <br> La Stampa | 23 | 21–25 | 20–25 | 20–26 | 19–27 |
+| [16–17 July 2020](2020-07-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 22 | 20–24 | 20–24 | 20–25 | 19–25 |
 | [15–16 July 2020](2020-07-16-TermometroPolitico.html) | Termometro Politico | 24 | 23–25 | 23–25 | 23–25 | 22–26 |
 | [8–13 July 2020](2020-07-13-SWG.html) | SWG <br> La7 | 25 | 23–26 | 23–26 | 22–27 | 21–27 |
 | [13 July 2020](2020-07-13-AnalisiPolitica.html) | Analisi Politica <br> Libero Quotidiano | 23 | 22–25 | 21–26 | 21–26 | 20–27 |
@@ -929,13 +929,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
-| 18 | 0.4% | 100% |  |
+| 18 | 0.5% | 100% |  |
 | 19 | 3% | 99.5% |  |
 | 20 | 8% | 97% |  |
-| 21 | 14% | 89% |  |
-| 22 | 20% | 76% |  |
-| 23 | 21% | 55% | Median |
-| 24 | 19% | 34% |  |
+| 21 | 15% | 89% |  |
+| 22 | 20% | 74% |  |
+| 23 | 21% | 54% | Median |
+| 24 | 18% | 33% |  |
 | 25 | 9% | 15% |  |
 | 26 | 5% | 6% |  |
 | 27 | 0.7% | 0.9% |  |
