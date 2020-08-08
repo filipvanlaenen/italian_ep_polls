@@ -484,12 +484,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 11–15 | 11–16 | 10–16 | 10–17 |
-| [3–4 August 2020](2020-08-04-Euromedia.html) | Euromedia <br> La Stampa | 14 | 13–14 | 12–14 | 11–14 | 11–15 |
-| [29 July–3 August 2020](2020-08-03-SWG.html) | SWG | 13 | 11–14 | 11–14 | 11–14 | 11–15 |
-| [30–31 July 2020](2020-07-31-Tecnè.html) | Tecnè <br> Agenzia Dire | 15 | 13–15 | 13–15 | 13–16 | 12–17 |
+| [3–4 August 2020](2020-08-04-Euromedia.html) | Euromedia <br> La Stampa | 13 | 11–14 | 11–14 | 11–15 | 10–15 |
+| [29 July–3 August 2020](2020-08-03-SWG.html) | SWG | 13 | 12–13 | 12–14 | 11–14 | 11–15 |
+| [30–31 July 2020](2020-07-31-Tecnè.html) | Tecnè <br> Agenzia Dire | 14 | 13–15 | 13–16 | 13–16 | 12–17 |
 | [29–30 July 2020](2020-07-30-TermometroPolitico.html) | Termometro Politico | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
-| [28–30 July 2020](2020-07-30-Ixè.html) | Ixè <br> Rai 3 | 12 | 11–13 | 11–13 | 11–14 | 10–15 |
-| [22–27 July 2020](2020-07-27-SWG.html) | SWG <br> La7 | 13 | 10–14 | 10–14 | 10–14 | 9–15 |
+| [28–30 July 2020](2020-07-30-Ixè.html) | Ixè <br> Rai 3 | 12 | 11–14 | 11–14 | 11–14 | 10–15 |
+| [22–27 July 2020](2020-07-27-SWG.html) | SWG <br> La7 | 13 | 11–14 | 11–14 | 10–14 | 10–15 |
 | [23–24 July 2020](2020-07-24-Tecnè.html) | Tecnè <br> RTI | 14 | 13–15 | 12–16 | 12–16 | 12–17 |
 | [22–23 July 2020](2020-07-23-TermometroPolitico.html) | Termometro Politico | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
 | [22–23 July 2020](2020-07-23-Ipsos.html) | Ipsos <br> Corriere della Sera | 16 | 14–17 | 14–17 | 13–18 | 13–18 |
@@ -938,16 +938,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 0.3% | 100% |  |
-| 10 | 3% | 99.7% |  |
+| 9 | 0.2% | 100% |  |
+| 10 | 2% | 99.8% |  |
 | 11 | 12% | 97% |  |
-| 12 | 33% | 85% |  |
-| 13 | 25% | 52% | Median |
-| 14 | 10% | 26% |  |
-| 15 | 9% | 16% |  |
+| 12 | 30% | 85% |  |
+| 13 | 26% | 55% | Median |
+| 14 | 10% | 28% |  |
+| 15 | 11% | 19% |  |
 | 16 | 5% | 7% |  |
 | 17 | 2% | 2% |  |
-| 18 | 0.4% | 0.5% |  |
+| 18 | 0.4% | 0.4% |  |
 | 19 | 0% | 0% |  |
 
 
