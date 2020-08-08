@@ -481,7 +481,7 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [3–4 August 2020](2020-08-04-Euromedia.html) | Euromedia <br> La Stampa | 14 | 13–15 | 12–17 | 12–17 | 11–17 |
 | [29 July–3 August 2020](2020-08-03-SWG.html) | SWG | 14 | 14–16 | 13–16 | 13–17 | 12–17 |
 | [30–31 July 2020](2020-07-31-Tecnè.html) | Tecnè <br> Agenzia Dire | 14 | 13–15 | 13–15 | 12–16 | 11–17 |
-| [29–30 July 2020](2020-07-30-TermometroPolitico.html) | Termometro Politico | 12 | 12–13 | 11–14 | 11–14 | 11–14 |
+| [29–30 July 2020](2020-07-30-TermometroPolitico.html) | Termometro Politico | 13 | 12–14 | 12–14 | 12–14 | 11–15 |
 | [28–30 July 2020](2020-07-30-Ixè.html) | Ixè <br> Rai 3 | 15 | 13–16 | 13–16 | 12–17 | 12–17 |
 | [22–27 July 2020](2020-07-27-SWG.html) | SWG <br> La7 | 14 | 13–16 | 12–17 | 12–17 | 11–17 |
 | [23–24 July 2020](2020-07-24-Tecnè.html) | Tecnè <br> RTI | 14 | 12–15 | 12–15 | 12–16 | 11–17 |
@@ -923,10 +923,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 2% | 100% |  |
-| 12 | 15% | 98% |  |
-| 13 | 25% | 83% |  |
-| 14 | 25% | 58% | Median |
+| 11 | 1.4% | 100% |  |
+| 12 | 14% | 98.6% |  |
+| 13 | 25% | 85% |  |
+| 14 | 26% | 60% | Median |
 | 15 | 15% | 34% |  |
 | 16 | 11% | 18% |  |
 | 17 | 5% | 7% | Last Result |

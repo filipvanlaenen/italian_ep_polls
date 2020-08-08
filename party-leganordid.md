@@ -491,11 +491,11 @@ Last result: **5** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22 | 20–25 | 19–25 | 18–25 | 17–27 |
+| N/A | [Poll Average](average.html) | 22 | 20–24 | 19–25 | 18–25 | 17–27 |
 | [3–4 August 2020](2020-08-04-Euromedia.html) | Euromedia <br> La Stampa | 22 | 19–24 | 19–24 | 18–24 | 18–25 |
 | [29 July–3 August 2020](2020-08-03-SWG.html) | SWG | 23 | 23–25 | 22–26 | 22–26 | 21–27 |
 | [30–31 July 2020](2020-07-31-Tecnè.html) | Tecnè <br> Agenzia Dire | 22 | 20–23 | 20–23 | 19–24 | 19–25 |
-| [29–30 July 2020](2020-07-30-TermometroPolitico.html) | Termometro Politico | 23 | 23–25 | 22–25 | 22–25 | 21–26 |
+| [29–30 July 2020](2020-07-30-TermometroPolitico.html) | Termometro Politico | 23 | 22–24 | 22–25 | 21–25 | 21–25 |
 | [28–30 July 2020](2020-07-30-Ixè.html) | Ixè <br> Rai 3 | 19 | 17–21 | 17–22 | 17–22 | 16–23 |
 | [22–27 July 2020](2020-07-27-SWG.html) | SWG <br> La7 | 24 | 22–25 | 22–26 | 21–26 | 20–27 |
 | [23–24 July 2020](2020-07-24-Tecnè.html) | Tecnè <br> RTI | 22 | 20–23 | 20–24 | 20–24 | 19–25 |
@@ -953,11 +953,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 2% | 98% |  |
 | 19 | 6% | 96% |  |
 | 20 | 9% | 91% |  |
-| 21 | 18% | 81% |  |
-| 22 | 19% | 63% | Median |
-| 23 | 22% | 44% |  |
-| 24 | 12% | 22% |  |
-| 25 | 8% | 10% |  |
+| 21 | 19% | 81% |  |
+| 22 | 20% | 63% | Median |
+| 23 | 22% | 43% |  |
+| 24 | 12% | 21% |  |
+| 25 | 7% | 10% |  |
 | 26 | 2% | 2% |  |
 | 27 | 0.5% | 0.5% |  |
 | 28 | 0.1% | 0.1% |  |

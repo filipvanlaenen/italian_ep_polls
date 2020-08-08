@@ -476,7 +476,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [3–4 August 2020](2020-08-04-Euromedia.html) | Euromedia <br> La Stampa | 0 | 0 | 0 | 0 | 0 |
 | [29 July–3 August 2020](2020-08-03-SWG.html) | SWG | 4 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [30–31 July 2020](2020-07-31-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0–4 | 0–4 |
-| [29–30 July 2020](2020-07-30-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0–4 |
+| [29–30 July 2020](2020-07-30-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0–3 |
 | [28–30 July 2020](2020-07-30-Ixè.html) | Ixè <br> Rai 3 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [22–27 July 2020](2020-07-27-SWG.html) | SWG <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [23–24 July 2020](2020-07-24-Tecnè.html) | Tecnè <br> RTI | 0 | 0 | 0–4 | 0–4 | 0–4 |
