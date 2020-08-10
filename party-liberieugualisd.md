@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.1% | 2.3–4.1% | 2.0–4.4% | 1.8–4.6% | 1.5–5.1% |
+| N/A | [Poll Average](average.html) | 3.2% | 2.3–4.1% | 2.0–4.3% | 1.8–4.6% | 1.5–5.0% |
 | [3–4 August 2020](2020-08-04-Euromedia.html) | Euromedia <br> La Stampa | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
 | [29 July–3 August 2020](2020-08-03-SWG.html) | SWG | 3.6% | 3.0–4.4% | 2.8–4.6% | 2.7–4.8% | 2.4–5.2% |
 | [30–31 July 2020](2020-07-31-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.1% | 2.5–3.9% | 2.3–4.2% | 2.2–4.4% | 1.9–4.8% |
@@ -456,10 +456,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0.8% | 100% |  |
-| 1.5–2.5% | 17% | 99.2% |  |
-| 2.5–3.5% | 53% | 82% | Median |
-| 3.5–4.5% | 26% | 29% |  |
-| 4.5–5.5% | 3% | 3% |  |
+| 1.5–2.5% | 15% | 99.2% |  |
+| 2.5–3.5% | 54% | 84% | Median |
+| 3.5–4.5% | 27% | 30% |  |
+| 4.5–5.5% | 2% | 3% |  |
 | 5.5–6.5% | 0.1% | 0.1% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
@@ -472,7 +472,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [3–4 August 2020](2020-08-04-Euromedia.html) | Euromedia <br> La Stampa | 0 | 0 | 0 | 0 | 0 |
 | [29 July–3 August 2020](2020-08-03-SWG.html) | SWG | 4 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [30–31 July 2020](2020-07-31-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0–4 | 0–4 |
@@ -918,12 +918,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 89% | 100% | Last Result, Median |
-| 1 | 0% | 11% |  |
-| 2 | 0% | 11% |  |
-| 3 | 3% | 11% |  |
-| 4 | 7% | 7% |  |
-| 5 | 0.3% | 0.3% |  |
+| 0 | 84% | 100% | Last Result, Median |
+| 1 | 0% | 16% |  |
+| 2 | 0% | 16% |  |
+| 3 | 4% | 16% |  |
+| 4 | 12% | 12% |  |
+| 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% |  |
 
 
