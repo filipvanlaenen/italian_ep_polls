@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.9% | 2.2–3.7% | 1.9–4.0% | 1.8–4.2% | 1.5–4.7% |
+| N/A | [Poll Average](average.html) | 2.9% | 2.1–3.7% | 1.9–3.9% | 1.8–4.1% | 1.5–4.5% |
+| [5–6 August 2020](2020-08-06-TermometroPolitico.html) | Termometro Politico | 3.2% | 2.7–3.7% | 2.6–3.9% | 2.5–4.0% | 2.3–4.3% |
 | [3–4 August 2020](2020-08-04-Euromedia.html) | Euromedia <br> La Stampa | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.0–4.1% | 1.8–4.6% |
 | [29 July–3 August 2020](2020-08-03-SWG.html) | SWG | 3.1% | 2.5–3.8% | 2.4–4.0% | 2.2–4.2% | 2.0–4.6% |
 | [30–31 July 2020](2020-07-31-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
@@ -455,11 +456,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.7% | 100% |  |
-| 1.5–2.5% | 26% | 99.3% |  |
-| 2.5–3.5% | 58% | 73% | Median |
-| 3.5–4.5% | 14% | 15% |  |
-| 4.5–5.5% | 0.8% | 0.8% |  |
+| 0.5–1.5% | 0.8% | 100% |  |
+| 1.5–2.5% | 27% | 99.2% |  |
+| 2.5–3.5% | 58% | 72% | Median |
+| 3.5–4.5% | 13% | 14% |  |
+| 4.5–5.5% | 0.3% | 0.3% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -471,7 +472,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–4 | 0–4 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–4 |
+| [5–6 August 2020](2020-08-06-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0–3 | 0–4 |
 | [3–4 August 2020](2020-08-04-Euromedia.html) | Euromedia <br> La Stampa | 0 | 0 | 0 | 0–3 | 0–4 |
 | [29 July–3 August 2020](2020-08-03-SWG.html) | SWG | 0 | 0 | 0 | 0–3 | 0–4 |
 | [30–31 July 2020](2020-07-31-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
@@ -917,11 +919,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 96% | 100% | Last Result, Median |
-| 1 | 0% | 4% |  |
-| 2 | 0% | 4% |  |
-| 3 | 1.0% | 4% |  |
-| 4 | 3% | 3% |  |
+| 0 | 98% | 100% | Last Result, Median |
+| 1 | 0% | 2% |  |
+| 2 | 0% | 2% |  |
+| 3 | 1.0% | 2% |  |
+| 4 | 1.0% | 1.0% |  |
 | 5 | 0% | 0% |  |
 
 
