@@ -10,7 +10,10 @@ Last result: **16.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.9% | 5.6–8.6% | 5.4–9.0% | 5.2–9.4% | 4.8–10.2% |
+| N/A | [Poll Average](average.html) | 6.6% | 5.6–8.6% | 5.3–9.1% | 5.1–9.5% | 4.7–10.2% |
+| [26–27 August 2020](2020-08-27-TermometroPolitico.html) | Termometro Politico | 6.2% | 5.6–6.8% | 5.5–7.0% | 5.3–7.2% | 5.1–7.5% |
+| [23–27 August 2020](2020-08-27-BiDiMedia.html) | BiDiMedia | 6.1% | 5.4–6.9% | 5.2–7.1% | 5.0–7.3% | 4.7–7.8% |
+| [13–14 August 2020](2020-08-14-Demoskopea.html) | Demoskopea | 6.3% | 5.4–7.4% | 5.2–7.7% | 4.9–8.0% | 4.5–8.5% |
 | [5–6 August 2020](2020-08-06-TermometroPolitico.html) | Termometro Politico | 5.8% | 5.2–6.5% | 5.0–6.7% | 4.9–6.9% | 4.6–7.3% |
 | [3–4 August 2020](2020-08-04-Euromedia.html) | Euromedia <br> La Stampa | 6.8% | 5.9–7.9% | 5.6–8.3% | 5.4–8.5% | 5.0–9.1% |
 | [29 July–3 August 2020](2020-08-03-SWG.html) | SWG | 6.0% | 5.2–7.0% | 5.0–7.3% | 4.8–7.5% | 4.4–8.0% |
@@ -457,10 +460,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.2% | 100% |  |
-| 4.5–5.5% | 8% | 99.8% |  |
-| 5.5–6.5% | 31% | 92% |  |
-| 6.5–7.5% | 31% | 60% | Median |
-| 7.5–8.5% | 19% | 29% |  |
+| 4.5–5.5% | 9% | 99.8% |  |
+| 5.5–6.5% | 38% | 91% |  |
+| 6.5–7.5% | 26% | 53% | Median |
+| 7.5–8.5% | 16% | 26% |  |
 | 8.5–9.5% | 8% | 10% |  |
 | 9.5–10.5% | 2% | 2% |  |
 | 10.5–11.5% | 0.2% | 0.2% |  |
@@ -481,6 +484,9 @@ Last result: **13** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–8 | 5–8 | 4–8 | 4–9 |
+| [26–27 August 2020](2020-08-27-TermometroPolitico.html) | Termometro Politico | 6 | 5–6 | 5–6 | 4–6 | 4–7 |
+| [23–27 August 2020](2020-08-27-BiDiMedia.html) | BiDiMedia | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
+| [13–14 August 2020](2020-08-14-Demoskopea.html) | Demoskopea | 5 | 4–6 | 4–7 | 4–7 | 4–8 |
 | [5–6 August 2020](2020-08-06-TermometroPolitico.html) | Termometro Politico | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | [3–4 August 2020](2020-08-04-Euromedia.html) | Euromedia <br> La Stampa | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | [29 July–3 August 2020](2020-08-03-SWG.html) | SWG | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
@@ -928,11 +934,11 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 3% | 100% |  |
-| 5 | 32% | 97% |  |
-| 6 | 38% | 65% | Median |
-| 7 | 16% | 27% |  |
-| 8 | 10% | 11% |  |
-| 9 | 1.4% | 1.5% |  |
+| 5 | 34% | 97% |  |
+| 6 | 33% | 63% | Median |
+| 7 | 19% | 30% |  |
+| 8 | 10% | 12% |  |
+| 9 | 2% | 2% |  |
 | 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |
