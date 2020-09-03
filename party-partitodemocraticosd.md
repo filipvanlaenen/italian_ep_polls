@@ -10,9 +10,11 @@ Last result: **40.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.6% | 19.0–22.4% | 18.5–22.9% | 18.1–23.4% | 17.3–24.5% |
+| N/A | [Poll Average](average.html) | 20.5% | 19.1–22.1% | 18.6–22.5% | 18.3–22.9% | 17.5–23.8% |
+| [26–31 August 2020](2020-08-31-SWG.html) | SWG <br> La7 | 20.0% | 18.6–21.6% | 18.2–22.0% | 17.8–22.4% | 17.2–23.1% |
 | [26–27 August 2020](2020-08-27-TermometroPolitico.html) | Termometro Politico | 20.4% | 19.4–21.4% | 19.1–21.7% | 18.9–22.0% | 18.4–22.5% |
 | [23–27 August 2020](2020-08-27-BiDiMedia.html) | BiDiMedia | 21.0% | 19.8–22.3% | 19.4–22.7% | 19.1–23.0% | 18.5–23.7% |
+| [24–26 August 2020](2020-08-26-DemosPi.html) | Demos & Pi <br> La Repubblica | 20.7% | 19.1–22.4% | 18.7–22.9% | 18.3–23.3% | 17.6–24.2% |
 | [13–14 August 2020](2020-08-14-Demoskopea.html) | Demoskopea | 20.5% | 18.9–22.2% | 18.4–22.6% | 18.1–23.1% | 17.3–23.9% |
 | [5–6 August 2020](2020-08-06-TermometroPolitico.html) | Termometro Politico | 20.2% | 19.1–21.4% | 18.8–21.7% | 18.5–22.0% | 18.0–22.5% |
 | [3–4 August 2020](2020-08-04-Euromedia.html) | Euromedia <br> La Stampa | 20.5% | 18.9–22.2% | 18.5–22.7% | 18.1–23.1% | 17.4–24.0% |
@@ -458,17 +460,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 15.5–16.5% | 0.1% | 100% |  |
-| 16.5–17.5% | 0.8% | 99.9% |  |
-| 17.5–18.5% | 5% | 99.1% |  |
-| 18.5–19.5% | 15% | 94% |  |
-| 19.5–20.5% | 28% | 79% |  |
-| 20.5–21.5% | 28% | 51% | Median |
-| 21.5–22.5% | 15% | 23% |  |
-| 22.5–23.5% | 6% | 8% |  |
-| 23.5–24.5% | 2% | 2% |  |
-| 24.5–25.5% | 0.4% | 0.4% |  |
-| 25.5–26.5% | 0.1% | 0.1% |  |
+| 15.5–16.5% | 0% | 100% |  |
+| 16.5–17.5% | 0.5% | 100% |  |
+| 17.5–18.5% | 4% | 99.5% |  |
+| 18.5–19.5% | 15% | 96% |  |
+| 19.5–20.5% | 31% | 81% |  |
+| 20.5–21.5% | 30% | 50% | Median |
+| 21.5–22.5% | 15% | 19% |  |
+| 22.5–23.5% | 4% | 5% |  |
+| 23.5–24.5% | 0.7% | 0.8% |  |
+| 24.5–25.5% | 0.1% | 0.1% |  |
+| 25.5–26.5% | 0% | 0% |  |
 | 26.5–27.5% | 0% | 0% |  |
 | 27.5–28.5% | 0% | 0% |  |
 | 28.5–29.5% | 0% | 0% |  |
@@ -494,9 +496,11 @@ Last result: **31** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 16–19 | 15–19 | 15–19 | 14–20 |
+| N/A | [Poll Average](average.html) | 17 | 15–18 | 15–19 | 15–19 | 14–20 |
+| [26–31 August 2020](2020-08-31-SWG.html) | SWG <br> La7 | 17 | 15–19 | 15–19 | 14–19 | 14–20 |
 | [26–27 August 2020](2020-08-27-TermometroPolitico.html) | Termometro Politico | 16 | 15–17 | 15–17 | 15–18 | 15–18 |
-| [23–27 August 2020](2020-08-27-BiDiMedia.html) | BiDiMedia | 18 | 16–19 | 16–19 | 16–19 | 15–20 |
+| [23–27 August 2020](2020-08-27-BiDiMedia.html) | BiDiMedia | 17 | 16–18 | 16–19 | 16–19 | 15–19 |
+| [24–26 August 2020](2020-08-26-DemosPi.html) | Demos & Pi <br> La Repubblica | 16 | 15–18 | 15–18 | 14–19 | 14–19 |
 | [13–14 August 2020](2020-08-14-Demoskopea.html) | Demoskopea | 17 | 15–18 | 15–19 | 15–19 | 14–20 |
 | [5–6 August 2020](2020-08-06-TermometroPolitico.html) | Termometro Politico | 16 | 15–17 | 15–18 | 15–18 | 14–18 |
 | [3–4 August 2020](2020-08-04-Euromedia.html) | Euromedia <br> La Stampa | 17 | 15–18 | 14–18 | 14–19 | 14–20 |
@@ -944,15 +948,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 13 | 0.1% | 100% |  |
-| 14 | 1.2% | 99.9% |  |
-| 15 | 8% | 98.6% |  |
-| 16 | 30% | 91% |  |
-| 17 | 30% | 61% | Median |
-| 18 | 21% | 31% |  |
-| 19 | 8% | 10% |  |
-| 20 | 2% | 2% |  |
-| 21 | 0.4% | 0.4% |  |
+| 13 | 0.2% | 100% |  |
+| 14 | 2% | 99.8% |  |
+| 15 | 14% | 98% |  |
+| 16 | 32% | 84% |  |
+| 17 | 29% | 52% | Median |
+| 18 | 14% | 22% |  |
+| 19 | 8% | 8% |  |
+| 20 | 0.6% | 0.6% |  |
+| 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |
 | 23 | 0% | 0% |  |
 | 24 | 0% | 0% |  |
