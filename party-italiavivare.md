@@ -478,8 +478,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–3 | 0–4 | 0–4 |
-| [26–31 August 2020](2020-08-31-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0–4 | 0–4 |
-| [26–27 August 2020](2020-08-27-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0–3 |
+| [26–31 August 2020](2020-08-31-SWG.html) | SWG <br> La7 | 0 | 0 | 0–4 | 0–4 | 0–4 |
+| [26–27 August 2020](2020-08-27-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [23–27 August 2020](2020-08-27-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0–3 |
 | [24–26 August 2020](2020-08-26-DemosPi.html) | Demos & Pi <br> La Repubblica | 0 | 0 | 0 | 0 | 0–3 |
 | [13–14 August 2020](2020-08-14-Demoskopea.html) | Demoskopea | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
@@ -929,10 +929,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 95% | 100% | Last Result, Median |
-| 1 | 0% | 5% |  |
-| 2 | 0% | 5% |  |
-| 3 | 3% | 5% |  |
+| 0 | 94% | 100% | Last Result, Median |
+| 1 | 0% | 6% |  |
+| 2 | 0% | 6% |  |
+| 3 | 3% | 6% |  |
 | 4 | 3% | 3% |  |
 | 5 | 0% | 0% |  |
 

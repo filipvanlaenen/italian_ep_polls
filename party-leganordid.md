@@ -496,11 +496,11 @@ Last result: **5** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22 | 20–24 | 19–24 | 18–24 | 18–26 |
-| [26–31 August 2020](2020-08-31-SWG.html) | SWG <br> La7 | 22 | 22–24 | 22–25 | 21–26 | 20–27 |
-| [26–27 August 2020](2020-08-27-TermometroPolitico.html) | Termometro Politico | 24 | 23–24 | 22–24 | 22–24 | 21–25 |
+| N/A | [Poll Average](average.html) | 22 | 20–24 | 19–25 | 18–25 | 18–26 |
+| [26–31 August 2020](2020-08-31-SWG.html) | SWG <br> La7 | 24 | 22–25 | 22–25 | 21–26 | 20–26 |
+| [26–27 August 2020](2020-08-27-TermometroPolitico.html) | Termometro Politico | 24 | 23–25 | 22–25 | 22–25 | 21–25 |
 | [23–27 August 2020](2020-08-27-BiDiMedia.html) | BiDiMedia | 22 | 22–24 | 21–24 | 21–25 | 20–25 |
-| [24–26 August 2020](2020-08-26-DemosPi.html) | Demos & Pi <br> La Repubblica | 21 | 19–22 | 19–22 | 19–22 | 18–23 |
+| [24–26 August 2020](2020-08-26-DemosPi.html) | Demos & Pi <br> La Repubblica | 20 | 19–22 | 19–22 | 18–23 | 17–24 |
 | [13–14 August 2020](2020-08-14-Demoskopea.html) | Demoskopea | 21 | 19–21 | 18–22 | 18–23 | 17–24 |
 | [5–6 August 2020](2020-08-06-TermometroPolitico.html) | Termometro Politico | 23 | 23–25 | 22–25 | 22–25 | 21–25 |
 | [3–4 August 2020](2020-08-04-Euromedia.html) | Euromedia <br> La Stampa | 22 | 19–24 | 19–24 | 18–24 | 18–25 |
@@ -960,17 +960,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
-| 17 | 0.2% | 100% |  |
-| 18 | 2% | 99.7% |  |
-| 19 | 5% | 97% |  |
-| 20 | 14% | 92% |  |
-| 21 | 14% | 78% |  |
-| 22 | 25% | 64% | Median |
-| 23 | 11% | 38% |  |
-| 24 | 25% | 27% |  |
-| 25 | 2% | 2% |  |
-| 26 | 0.4% | 0.5% |  |
-| 27 | 0.1% | 0.2% |  |
+| 17 | 0.3% | 100% |  |
+| 18 | 3% | 99.7% |  |
+| 19 | 7% | 97% |  |
+| 20 | 13% | 90% |  |
+| 21 | 15% | 77% |  |
+| 22 | 21% | 63% | Median |
+| 23 | 12% | 41% |  |
+| 24 | 23% | 29% |  |
+| 25 | 6% | 6% |  |
+| 26 | 0.7% | 0.7% |  |
+| 27 | 0.1% | 0.1% |  |
 | 28 | 0% | 0% |  |
 
 
