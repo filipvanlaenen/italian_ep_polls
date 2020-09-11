@@ -10,7 +10,9 @@ Last result: **21.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.8% | 14.2–19.6% | 13.8–20.6% | 13.5–21.2% | 13.0–22.3% |
+| N/A | [Poll Average](average.html) | 15.9% | 14.2–19.3% | 13.9–20.4% | 13.6–21.1% | 13.1–22.2% |
+| [2–3 September 2020](2020-09-03-TermometroPolitico.html) | Termometro Politico | 14.4% | 13.5–15.3% | 13.3–15.6% | 13.1–15.8% | 12.7–16.2% |
+| [29–31 August 2020](2020-08-31-Tecnè.html) | Tecnè <br> Quarta Repubblica | 16.3% | 15.3–17.4% | 15.0–17.7% | 14.7–18.0% | 14.3–18.5% |
 | [26–31 August 2020](2020-08-31-SWG.html) | SWG <br> La7 | 15.8% | 14.5–17.3% | 14.2–17.7% | 13.9–18.0% | 13.3–18.7% |
 | [26–27 August 2020](2020-08-27-TermometroPolitico.html) | Termometro Politico | 14.4% | 13.5–15.3% | 13.3–15.6% | 13.1–15.8% | 12.7–16.2% |
 | [23–27 August 2020](2020-08-27-BiDiMedia.html) | BiDiMedia | 15.2% | 14.1–16.4% | 13.8–16.7% | 13.5–17.0% | 13.0–17.6% |
@@ -460,21 +462,19 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0.1% | 100% |  |
-| 12.5–13.5% | 3% | 99.9% |  |
-| 13.5–14.5% | 15% | 97% |  |
-| 14.5–15.5% | 25% | 82% |  |
-| 15.5–16.5% | 23% | 57% | Median |
-| 16.5–17.5% | 13% | 34% |  |
-| 17.5–18.5% | 6% | 21% |  |
-| 18.5–19.5% | 5% | 15% |  |
-| 19.5–20.5% | 5% | 10% |  |
-| 20.5–21.5% | 3% | 5% | Last Result |
-| 21.5–22.5% | 1.3% | 2% |  |
+| 12.5–13.5% | 2% | 99.9% |  |
+| 13.5–14.5% | 13% | 98% |  |
+| 14.5–15.5% | 24% | 84% |  |
+| 15.5–16.5% | 26% | 61% | Median |
+| 16.5–17.5% | 16% | 35% |  |
+| 17.5–18.5% | 6% | 19% |  |
+| 18.5–19.5% | 4% | 13% |  |
+| 19.5–20.5% | 4% | 9% |  |
+| 20.5–21.5% | 3% | 4% | Last Result |
+| 21.5–22.5% | 1.1% | 1.4% |  |
 | 22.5–23.5% | 0.3% | 0.3% |  |
 | 23.5–24.5% | 0% | 0% |  |
-| 24.5–25.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -485,7 +485,9 @@ Last result: **17** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–17 | 12–17 | 12–18 | 11–20 |
+| N/A | [Poll Average](average.html) | 14 | 12–16 | 12–17 | 12–18 | 11–20 |
+| [2–3 September 2020](2020-09-03-TermometroPolitico.html) | Termometro Politico | 12 | 12–13 | 11–13 | 11–14 | 11–14 |
+| [29–31 August 2020](2020-08-31-Tecnè.html) | Tecnè <br> Quarta Repubblica | 15 | 13–16 | 13–16 | 13–16 | 12–16 |
 | [26–31 August 2020](2020-08-31-SWG.html) | SWG <br> La7 | 14 | 13–15 | 13–15 | 12–16 | 12–17 |
 | [26–27 August 2020](2020-08-27-TermometroPolitico.html) | Termometro Politico | 12 | 12–13 | 11–13 | 11–14 | 11–14 |
 | [23–27 August 2020](2020-08-27-BiDiMedia.html) | BiDiMedia | 13 | 12–14 | 12–14 | 12–14 | 11–15 |
@@ -937,17 +939,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.1% | 100% |  |
-| 11 | 2% | 99.9% |  |
-| 12 | 20% | 98% |  |
-| 13 | 24% | 78% |  |
-| 14 | 27% | 54% | Median |
-| 15 | 11% | 27% |  |
-| 16 | 5% | 17% |  |
-| 17 | 8% | 11% | Last Result |
+| 11 | 2% | 100% |  |
+| 12 | 17% | 98% |  |
+| 13 | 23% | 81% |  |
+| 14 | 27% | 58% | Median |
+| 15 | 14% | 31% |  |
+| 16 | 7% | 17% |  |
+| 17 | 7% | 10% | Last Result |
 | 18 | 2% | 3% |  |
-| 19 | 0.7% | 1.3% |  |
-| 20 | 0.6% | 0.6% |  |
+| 19 | 0.6% | 1.1% |  |
+| 20 | 0.5% | 0.5% |  |
 | 21 | 0% | 0% |  |
 
 
