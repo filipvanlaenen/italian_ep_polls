@@ -491,7 +491,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 12–15 | 11–15 | 11–15 | 11–16 |
 | [2–3 September 2020](2020-09-03-TermometroPolitico.html) | Termometro Politico | 12 | 12–14 | 12–14 | 11–14 | 11–14 |
-| [29–31 August 2020](2020-08-31-Tecnè.html) | Tecnè <br> Quarta Repubblica | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
+| [29–31 August 2020](2020-08-31-Tecnè.html) | Tecnè <br> Quarta Repubblica | 15 | 14–15 | 13–16 | 13–16 | 13–17 |
 | [26–31 August 2020](2020-08-31-SWG.html) | SWG <br> La7 | 13 | 12–14 | 12–14 | 11–15 | 11–15 |
 | [26–27 August 2020](2020-08-27-TermometroPolitico.html) | Termometro Politico | 12 | 12–13 | 11–13 | 11–13 | 11–14 |
 | [23–27 August 2020](2020-08-27-BiDiMedia.html) | BiDiMedia | 12 | 12–13 | 11–14 | 11–14 | 11–15 |
@@ -957,9 +957,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 6% | 99.7% |  |
 | 12 | 29% | 94% |  |
 | 13 | 31% | 65% | Median |
-| 14 | 19% | 34% |  |
-| 15 | 13% | 15% |  |
-| 16 | 2% | 2% |  |
+| 14 | 20% | 34% |  |
+| 15 | 12% | 14% |  |
+| 16 | 1.5% | 2% |  |
 | 17 | 0.2% | 0.2% |  |
 | 18 | 0% | 0% |  |
 
