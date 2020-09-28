@@ -10,8 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.8% | 1.3–2.5% | 1.2–2.8% | 1.2–3.0% | 1.0–3.4% |
-| [20–21 September 2020](2020-09-21-Tecnè.html) | Tecnè <br> Quarta Repubblica | 1.8% | 1.5–2.3% | 1.4–2.4% | 1.3–2.5% | 1.2–2.7% |
+| N/A | [Poll Average](average.html) | 1.8% | 1.3–2.5% | 1.1–2.7% | 1.0–2.9% | 0.8–3.4% |
+| [23–24 September 2020](2020-09-24-TermometroPolitico.html) | Termometro Politico | 1.7% | 1.4–2.1% | 1.3–2.2% | 1.2–2.3% | 1.1–2.5% |
+| [23–24 September 2020](2020-09-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.3% | 0.7–2.7% |
+| [21–24 September 2020](2020-09-24-BiDiMedia.html) | BiDiMedia | 1.4% | 1.1–1.9% | 1.0–2.1% | 0.9–2.2% | 0.8–2.4% |
+| [19–21 September 2020](2020-09-21-Tecnè.html) | Tecnè <br> Quarta Repubblica | 1.8% | 1.6–2.1% | 1.5–2.1% | 1.5–2.2% | 1.4–2.3% |
 | [2–3 September 2020](2020-09-03-TermometroPolitico.html) | Termometro Politico | 1.5% | 1.2–1.9% | 1.2–2.0% | 1.1–2.1% | 1.0–2.2% |
 | [29–31 August 2020](2020-08-31-Tecnè.html) | Tecnè <br> Quarta Repubblica | 1.8% | 1.5–2.3% | 1.4–2.4% | 1.3–2.5% | 1.2–2.7% |
 | [26–31 August 2020](2020-08-31-SWG.html) | SWG <br> La7 | 2.0% | 1.6–2.6% | 1.4–2.8% | 1.3–3.0% | 1.2–3.3% |
@@ -464,10 +467,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 27% | 100% |  |
-| 1.5–2.5% | 63% | 73% | Median |
-| 2.5–3.5% | 9% | 10% |  |
-| 3.5–4.5% | 0.3% | 0.3% |  |
+| 0.5–1.5% | 28% | 100% |  |
+| 1.5–2.5% | 64% | 72% | Median |
+| 2.5–3.5% | 8% | 8% |  |
+| 3.5–4.5% | 0.2% | 0.2% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -480,7 +483,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [20–21 September 2020](2020-09-21-Tecnè.html) | Tecnè <br> Quarta Repubblica | 0 | 0 | 0 | 0 | 0 |
+| [23–24 September 2020](2020-09-24-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
+| [23–24 September 2020](2020-09-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
+| [21–24 September 2020](2020-09-24-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
+| [19–21 September 2020](2020-09-21-Tecnè.html) | Tecnè <br> Quarta Repubblica | 0 | 0 | 0 | 0 | 0 |
 | [2–3 September 2020](2020-09-03-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [29–31 August 2020](2020-08-31-Tecnè.html) | Tecnè <br> Quarta Repubblica | 0 | 0 | 0 | 0 | 0 |
 | [26–31 August 2020](2020-08-31-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
