@@ -10,7 +10,11 @@ Last result: **16.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.6% | 5.3–7.8% | 5.1–8.1% | 4.9–8.4% | 4.6–9.0% |
+| N/A | [Poll Average](average.html) | 6.3% | 5.3–7.6% | 5.1–7.9% | 4.9–8.1% | 4.5–8.6% |
+| [2 October 2020](2020-10-02-Index.html) | Index <br> La7 | 6.1% | 5.2–7.4% | 4.9–7.7% | 4.7–8.0% | 4.2–8.6% |
+| [30 September–1 October 2020](2020-10-01-TermometroPolitico.html) | Termometro Politico | 5.7% | 5.2–6.4% | 5.0–6.6% | 4.9–6.7% | 4.6–7.0% |
+| [23–29 September 2020](2020-09-29-Lab2101.html) | Lab2101 <br> Affari Italiani | 6.2% | 5.3–7.3% | 5.1–7.6% | 4.9–7.9% | 4.5–8.4% |
+| [23–28 September 2020](2020-09-28-SWG.html) | SWG <br> La7 | 5.8% | 5.0–6.8% | 4.8–7.1% | 4.6–7.3% | 4.3–7.8% |
 | [23–24 September 2020](2020-09-24-TermometroPolitico.html) | Termometro Politico | 5.5% | 4.9–6.1% | 4.8–6.3% | 4.6–6.4% | 4.4–6.8% |
 | [23–24 September 2020](2020-09-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 6.8% | 5.9–7.9% | 5.6–8.3% | 5.4–8.5% | 5.0–9.1% |
 | [21–24 September 2020](2020-09-24-BiDiMedia.html) | BiDiMedia | 5.9% | 5.2–6.8% | 5.0–7.1% | 4.8–7.3% | 4.5–7.7% |
@@ -467,13 +471,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.4% | 100% |  |
-| 4.5–5.5% | 15% | 99.6% |  |
-| 5.5–6.5% | 33% | 84% |  |
-| 6.5–7.5% | 33% | 51% | Median |
-| 7.5–8.5% | 16% | 18% |  |
-| 8.5–9.5% | 1.5% | 2% |  |
-| 9.5–10.5% | 0.1% | 0.1% |  |
+| 3.5–4.5% | 0.7% | 100% |  |
+| 4.5–5.5% | 18% | 99.3% |  |
+| 5.5–6.5% | 42% | 81% | Median |
+| 6.5–7.5% | 28% | 39% |  |
+| 7.5–8.5% | 11% | 11% |  |
+| 8.5–9.5% | 0.5% | 0.5% |  |
+| 9.5–10.5% | 0% | 0% |  |
 | 10.5–11.5% | 0% | 0% |  |
 | 11.5–12.5% | 0% | 0% |  |
 | 12.5–13.5% | 0% | 0% |  |
@@ -491,7 +495,11 @@ Last result: **13** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–7 | 4–7 | 4–7 | 4–8 |
+| N/A | [Poll Average](average.html) | 5 | 5–7 | 4–7 | 4–7 | 4–8 |
+| [2 October 2020](2020-10-02-Index.html) | Index <br> La7 | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
+| [30 September–1 October 2020](2020-10-01-TermometroPolitico.html) | Termometro Politico | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
+| [23–29 September 2020](2020-09-29-Lab2101.html) | Lab2101 <br> Affari Italiani | 5 | 5–6 | 4–6 | 4–7 | 4–7 |
+| [23–28 September 2020](2020-09-28-SWG.html) | SWG <br> La7 | 5 | 5–6 | 4–7 | 4–7 | 4–7 |
 | [23–24 September 2020](2020-09-24-TermometroPolitico.html) | Termometro Politico | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [23–24 September 2020](2020-09-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | [21–24 September 2020](2020-09-24-BiDiMedia.html) | BiDiMedia | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
@@ -949,11 +957,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 5% | 100% |  |
-| 5 | 38% | 94% |  |
-| 6 | 34% | 57% | Median |
-| 7 | 21% | 22% |  |
-| 8 | 1.0% | 1.0% |  |
+| 3 | 0% | 100% |  |
+| 4 | 7% | 99.9% |  |
+| 5 | 45% | 93% | Median |
+| 6 | 30% | 48% |  |
+| 7 | 17% | 18% |  |
+| 8 | 0.6% | 0.6% |  |
 | 9 | 0% | 0% |  |
 | 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |
