@@ -10,7 +10,10 @@ Last result: **21.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.5% | 13.8–18.3% | 13.4–19.2% | 13.0–19.8% | 12.4–20.9% |
+| N/A | [Poll Average](average.html) | 15.4% | 13.8–18.2% | 13.4–19.1% | 13.0–19.7% | 12.4–20.9% |
+| [6 October 2020](2020-10-06-Ixè.html) | Ixè | 16.5% | 15.1–18.1% | 14.7–18.5% | 14.3–18.9% | 13.7–19.7% |
+| [30 September–5 October 2020](2020-10-05-SWG.html) | SWG <br> La7 | 15.2% | 14.0–16.7% | 13.6–17.1% | 13.3–17.4% | 12.7–18.1% |
+| [1–2 October 2020](2020-10-02-Tecnè.html) | Tecnè <br> Agenzia Dire | 15.5% | 14.1–17.1% | 13.7–17.5% | 13.4–17.9% | 12.7–18.7% |
 | [2 October 2020](2020-10-02-Index.html) | Index <br> La7 | 16.0% | 14.4–17.8% | 14.0–18.3% | 13.6–18.7% | 12.9–19.6% |
 | [30 September–1 October 2020](2020-10-01-TermometroPolitico.html) | Termometro Politico | 14.6% | 13.7–15.5% | 13.5–15.8% | 13.3–16.0% | 12.8–16.5% |
 | [23–29 September 2020](2020-09-29-Lab2101.html) | Lab2101 <br> Affari Italiani | 14.9% | 13.5–16.4% | 13.2–16.9% | 12.8–17.3% | 12.2–18.0% |
@@ -471,17 +474,17 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 0.8% | 100% |  |
+| 11.5–12.5% | 0.7% | 100% |  |
 | 12.5–13.5% | 6% | 99.2% |  |
-| 13.5–14.5% | 18% | 93% |  |
-| 14.5–15.5% | 27% | 75% |  |
-| 15.5–16.5% | 23% | 49% | Median |
-| 16.5–17.5% | 10% | 25% |  |
-| 17.5–18.5% | 7% | 15% |  |
+| 13.5–14.5% | 20% | 93% |  |
+| 14.5–15.5% | 26% | 74% | Median |
+| 15.5–16.5% | 20% | 48% |  |
+| 16.5–17.5% | 12% | 28% |  |
+| 17.5–18.5% | 8% | 15% |  |
 | 18.5–19.5% | 5% | 8% |  |
 | 19.5–20.5% | 2% | 3% |  |
-| 20.5–21.5% | 0.8% | 0.9% | Last Result |
-| 21.5–22.5% | 0.1% | 0.2% |  |
+| 20.5–21.5% | 0.7% | 0.8% | Last Result |
+| 21.5–22.5% | 0.1% | 0.1% |  |
 | 22.5–23.5% | 0% | 0% |  |
 
 
@@ -493,7 +496,10 @@ Last result: **17** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–16 | 12–17 | 11–18 | 10–18 |
+| N/A | [Poll Average](average.html) | 14 | 12–16 | 12–17 | 11–17 | 10–18 |
+| [6 October 2020](2020-10-06-Ixè.html) | Ixè | 14 | 12–15 | 12–16 | 12–16 | 11–17 |
+| [30 September–5 October 2020](2020-10-05-SWG.html) | SWG <br> La7 | 13 | 13–15 | 12–15 | 12–16 | 11–16 |
+| [1–2 October 2020](2020-10-02-Tecnè.html) | Tecnè <br> Agenzia Dire | 14 | 12–15 | 12–15 | 12–16 | 11–17 |
 | [2 October 2020](2020-10-02-Index.html) | Index <br> La7 | 14 | 14–16 | 13–16 | 12–17 | 11–17 |
 | [30 September–1 October 2020](2020-10-01-TermometroPolitico.html) | Termometro Politico | 13 | 12–13 | 12–14 | 11–14 | 11–14 |
 | [23–29 September 2020](2020-09-29-Lab2101.html) | Lab2101 <br> Affari Italiani | 14 | 12–14 | 11–15 | 11–15 | 10–16 |
@@ -955,17 +961,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.8% | 100% |  |
-| 11 | 4% | 99.2% |  |
-| 12 | 15% | 96% |  |
-| 13 | 23% | 81% |  |
-| 14 | 32% | 58% | Median |
-| 15 | 10% | 26% |  |
-| 16 | 9% | 17% |  |
-| 17 | 5% | 7% | Last Result |
-| 18 | 2% | 3% |  |
-| 19 | 0.4% | 0.5% |  |
-| 20 | 0% | 0.1% |  |
-| 21 | 0% | 0% |  |
+| 10 | 0.7% | 100% |  |
+| 11 | 4% | 99.3% |  |
+| 12 | 16% | 96% |  |
+| 13 | 29% | 80% |  |
+| 14 | 27% | 51% | Median |
+| 15 | 10% | 25% |  |
+| 16 | 8% | 14% |  |
+| 17 | 4% | 6% | Last Result |
+| 18 | 2% | 2% |  |
+| 19 | 0.4% | 0.4% |  |
+| 20 | 0% | 0% |  |
 
 
