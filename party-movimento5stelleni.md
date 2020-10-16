@@ -501,8 +501,8 @@ Last result: **17** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 12–16 | 12–17 | 11–17 | 10–18 |
-| [7–12 October 2020](2020-10-12-SWG.html) | SWG <br> La7 | 14 | 13–15 | 13–15 | 13–17 | 12–17 |
-| [8–9 October 2020](2020-10-09-Tecnè.html) | Tecnè <br> Agenzia Dire | 13 | 12–15 | 12–16 | 11–16 | 11–16 |
+| [7–12 October 2020](2020-10-12-SWG.html) | SWG <br> La7 | 14 | 13–15 | 13–15 | 13–16 | 11–17 |
+| [8–9 October 2020](2020-10-09-Tecnè.html) | Tecnè <br> Agenzia Dire | 13 | 12–15 | 12–15 | 11–16 | 11–16 |
 | [8 October 2020](2020-10-08-Noto.html) | Noto <br> Rai 1 | 13 | 12–14 | 11–15 | 11–15 | 10–15 |
 | [6 October 2020](2020-10-06-Ixè.html) | Ixè | 14 | 12–15 | 12–16 | 12–16 | 11–17 |
 | [6 October 2020](2020-10-06-EMG.html) | EMG <br> Rai 3 | 12 | 12–13 | 12–13 | 11–14 | 11–15 |
@@ -969,14 +969,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.7% | 100% |  |
+| 10 | 0.6% | 100% |  |
 | 11 | 4% | 99.3% |  |
-| 12 | 21% | 95% |  |
-| 13 | 28% | 74% | Median |
-| 14 | 25% | 46% |  |
-| 15 | 9% | 21% |  |
-| 16 | 6% | 12% |  |
-| 17 | 4% | 5% | Last Result |
+| 12 | 20% | 95% |  |
+| 13 | 29% | 75% | Median |
+| 14 | 26% | 46% |  |
+| 15 | 9% | 20% |  |
+| 16 | 6% | 11% |  |
+| 17 | 3% | 5% | Last Result |
 | 18 | 1.4% | 2% |  |
 | 19 | 0.3% | 0.3% |  |
 | 20 | 0% | 0% |  |
