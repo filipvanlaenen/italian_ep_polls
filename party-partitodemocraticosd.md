@@ -10,10 +10,11 @@ Last result: **40.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.2% | 19.2–23.3% | 18.6–23.9% | 18.1–24.5% | 17.2–25.7% |
+| N/A | [Poll Average](average.html) | 21.1% | 19.2–23.3% | 18.6–23.9% | 18.1–24.5% | 17.2–25.7% |
+| [13 October 2020](2020-10-13-EMG.html) | EMG <br> Rai 3 | 21.0% | 19.8–22.3% | 19.4–22.7% | 19.1–23.0% | 18.5–23.6% |
 | [7–12 October 2020](2020-10-12-SWG.html) | SWG <br> La7 | 20.5% | 19.1–22.1% | 18.7–22.5% | 18.3–22.9% | 17.6–23.6% |
 | [8–9 October 2020](2020-10-09-Tecnè.html) | Tecnè <br> Agenzia Dire | 20.8% | 19.2–22.5% | 18.8–23.0% | 18.4–23.4% | 17.7–24.3% |
-| [8 October 2020](2020-10-08-Noto.html) | Noto <br> Rai 1 | 20.5% | 18.9–22.2% | 18.5–22.7% | 18.1–23.1% | 17.4–24.0% |
+| [8 October 2020](2020-10-08-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 20.5% | 18.9–22.2% | 18.5–22.7% | 18.1–23.1% | 17.4–24.0% |
 | [6 October 2020](2020-10-06-Ixè.html) | Ixè | 21.9% | 20.3–23.7% | 19.8–24.1% | 19.4–24.6% | 18.7–25.4% |
 | [6 October 2020](2020-10-06-EMG.html) | EMG <br> Rai 3 | 21.1% | 19.8–22.4% | 19.5–22.8% | 19.2–23.1% | 18.6–23.7% |
 | [30 September–5 October 2020](2020-10-05-SWG.html) | SWG <br> La7 | 20.8% | 19.4–22.4% | 19.0–22.8% | 18.6–23.2% | 18.0–24.0% |
@@ -486,7 +487,7 @@ The following table shows the probability mass function per percentage block of 
 | 20.5–21.5% | 26% | 66% | Median |
 | 21.5–22.5% | 21% | 40% |  |
 | 22.5–23.5% | 11% | 19% |  |
-| 23.5–24.5% | 5% | 8% |  |
+| 23.5–24.5% | 5% | 7% |  |
 | 24.5–25.5% | 2% | 2% |  |
 | 25.5–26.5% | 0.5% | 0.6% |  |
 | 26.5–27.5% | 0.1% | 0.1% |  |
@@ -515,9 +516,10 @@ Last result: **31** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18 | 16–19 | 15–20 | 15–20 | 14–21 |
+| [13 October 2020](2020-10-13-EMG.html) | EMG <br> Rai 3 | 18 | 16–18 | 16–19 | 15–19 | 15–20 |
 | [7–12 October 2020](2020-10-12-SWG.html) | SWG <br> La7 | 17 | 16–19 | 16–19 | 15–20 | 15–21 |
 | [8–9 October 2020](2020-10-09-Tecnè.html) | Tecnè <br> Agenzia Dire | 18 | 16–18 | 16–19 | 15–20 | 15–21 |
-| [8 October 2020](2020-10-08-Noto.html) | Noto <br> Rai 1 | 16 | 15–18 | 15–18 | 14–19 | 13–20 |
+| [8 October 2020](2020-10-08-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 17 | 16–18 | 15–18 | 14–18 | 13–19 |
 | [6 October 2020](2020-10-06-Ixè.html) | Ixè | 17 | 16–19 | 16–19 | 15–20 | 14–21 |
 | [6 October 2020](2020-10-06-EMG.html) | EMG <br> Rai 3 | 18 | 16–19 | 16–19 | 16–19 | 15–20 |
 | [30 September–5 October 2020](2020-10-05-SWG.html) | SWG <br> La7 | 18 | 17–19 | 16–19 | 16–20 | 15–20 |
@@ -984,12 +986,12 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 13 | 0.3% | 100% |  |
-| 14 | 1.4% | 99.7% |  |
-| 15 | 5% | 98% |  |
-| 16 | 16% | 93% |  |
-| 17 | 25% | 77% |  |
-| 18 | 28% | 52% | Median |
-| 19 | 15% | 24% |  |
+| 14 | 1.2% | 99.7% |  |
+| 15 | 4% | 98% |  |
+| 16 | 13% | 94% |  |
+| 17 | 28% | 81% |  |
+| 18 | 30% | 52% | Median |
+| 19 | 13% | 22% |  |
 | 20 | 8% | 9% |  |
 | 21 | 1.5% | 2% |  |
 | 22 | 0.2% | 0.2% |  |

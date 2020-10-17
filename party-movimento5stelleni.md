@@ -10,10 +10,11 @@ Last result: **21.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.3% | 13.7–17.9% | 13.3–18.8% | 13.0–19.5% | 12.4–20.7% |
+| N/A | [Poll Average](average.html) | 15.3% | 13.8–17.9% | 13.4–18.8% | 13.0–19.5% | 12.4–20.7% |
+| [13 October 2020](2020-10-13-EMG.html) | EMG <br> Rai 3 | 14.8% | 13.7–15.9% | 13.4–16.3% | 13.2–16.5% | 12.7–17.1% |
 | [7–12 October 2020](2020-10-12-SWG.html) | SWG <br> La7 | 15.5% | 14.2–16.9% | 13.9–17.3% | 13.5–17.7% | 13.0–18.4% |
 | [8–9 October 2020](2020-10-09-Tecnè.html) | Tecnè <br> Agenzia Dire | 15.2% | 13.8–16.8% | 13.4–17.2% | 13.1–17.6% | 12.5–18.3% |
-| [8 October 2020](2020-10-08-Noto.html) | Noto <br> Rai 1 | 15.0% | 13.6–16.5% | 13.2–17.0% | 12.9–17.4% | 12.3–18.1% |
+| [8 October 2020](2020-10-08-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 15.0% | 13.6–16.5% | 13.2–17.0% | 12.9–17.4% | 12.3–18.1% |
 | [6 October 2020](2020-10-06-Ixè.html) | Ixè | 16.5% | 15.1–18.1% | 14.7–18.5% | 14.3–18.9% | 13.7–19.7% |
 | [6 October 2020](2020-10-06-EMG.html) | EMG <br> Rai 3 | 14.5% | 13.4–15.6% | 13.2–16.0% | 12.9–16.2% | 12.4–16.8% |
 | [30 September–5 October 2020](2020-10-05-SWG.html) | SWG <br> La7 | 15.2% | 14.0–16.7% | 13.6–17.1% | 13.3–17.4% | 12.7–18.1% |
@@ -478,11 +479,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 0.8% | 100% |  |
-| 12.5–13.5% | 7% | 99.2% |  |
-| 13.5–14.5% | 22% | 92% |  |
-| 14.5–15.5% | 28% | 70% | Median |
-| 15.5–16.5% | 19% | 43% |  |
+| 11.5–12.5% | 0.7% | 100% |  |
+| 12.5–13.5% | 6% | 99.2% |  |
+| 13.5–14.5% | 21% | 93% |  |
+| 14.5–15.5% | 28% | 72% | Median |
+| 15.5–16.5% | 20% | 43% |  |
 | 16.5–17.5% | 11% | 23% |  |
 | 17.5–18.5% | 6% | 12% |  |
 | 18.5–19.5% | 4% | 6% |  |
@@ -500,10 +501,11 @@ Last result: **17** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 12–16 | 12–17 | 11–17 | 10–18 |
+| N/A | [Poll Average](average.html) | 14 | 12–16 | 11–17 | 11–17 | 10–18 |
+| [13 October 2020](2020-10-13-EMG.html) | EMG <br> Rai 3 | 13 | 12–14 | 12–14 | 11–14 | 11–15 |
 | [7–12 October 2020](2020-10-12-SWG.html) | SWG <br> La7 | 14 | 13–15 | 13–15 | 13–16 | 11–17 |
 | [8–9 October 2020](2020-10-09-Tecnè.html) | Tecnè <br> Agenzia Dire | 13 | 12–15 | 12–15 | 11–16 | 11–16 |
-| [8 October 2020](2020-10-08-Noto.html) | Noto <br> Rai 1 | 13 | 12–14 | 11–15 | 11–15 | 10–15 |
+| [8 October 2020](2020-10-08-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 14 | 11–15 | 11–15 | 11–15 | 11–15 |
 | [6 October 2020](2020-10-06-Ixè.html) | Ixè | 14 | 12–15 | 12–16 | 12–16 | 11–17 |
 | [6 October 2020](2020-10-06-EMG.html) | EMG <br> Rai 3 | 12 | 12–13 | 12–13 | 11–14 | 11–15 |
 | [30 September–5 October 2020](2020-10-05-SWG.html) | SWG <br> La7 | 13 | 13–15 | 12–15 | 12–16 | 11–16 |
@@ -970,11 +972,11 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.6% | 100% |  |
-| 11 | 4% | 99.3% |  |
-| 12 | 20% | 95% |  |
-| 13 | 29% | 75% | Median |
-| 14 | 26% | 46% |  |
-| 15 | 9% | 20% |  |
+| 11 | 5% | 99.4% |  |
+| 12 | 15% | 95% |  |
+| 13 | 28% | 79% |  |
+| 14 | 29% | 52% | Median |
+| 15 | 12% | 23% |  |
 | 16 | 6% | 11% |  |
 | 17 | 3% | 5% | Last Result |
 | 18 | 1.4% | 2% |  |
