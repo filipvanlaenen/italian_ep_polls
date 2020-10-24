@@ -502,14 +502,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [20–21 October 2020](2020-10-21-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
-| [20 October 2020](2020-10-20-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0 | 0–3 |
+| [20 October 2020](2020-10-20-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
 | [14–19 October 2020](2020-10-19-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [15–16 October 2020](2020-10-16-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
 | [16 October 2020](2020-10-16-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [13 October 2020](2020-10-13-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [7–12 October 2020](2020-10-12-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [8–9 October 2020](2020-10-09-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
-| [8–9 October 2020](2020-10-09-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
+| [8–9 October 2020](2020-10-09-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 0 | 0 | 0 | 0 | 0–3 |
 | [8 October 2020](2020-10-08-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
 | [6 October 2020](2020-10-06-Ixè.html) | Ixè | 0 | 0 | 0 | 0 | 0 |
 | [6 October 2020](2020-10-06-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
@@ -976,10 +976,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.8% | 100% | Last Result, Median |
-| 1 | 0% | 0.2% |  |
-| 2 | 0% | 0.2% |  |
-| 3 | 0.2% | 0.2% |  |
+| 0 | 99.9% | 100% | Last Result, Median |
+| 1 | 0% | 0.1% |  |
+| 2 | 0% | 0.1% |  |
+| 3 | 0% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
 

@@ -508,15 +508,15 @@ Last result: **17** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 12–16 | 11–16 | 11–17 | 10–18 |
-| [20–21 October 2020](2020-10-21-EMG.html) | EMG <br> Rai 3 | 13 | 12–14 | 11–15 | 11–15 | 11–16 |
-| [20 October 2020](2020-10-20-Euromedia.html) | Euromedia <br> Rai 1 | 14 | 12–14 | 11–15 | 11–15 | 10–16 |
+| [20–21 October 2020](2020-10-21-EMG.html) | EMG <br> Rai 3 | 13 | 12–14 | 12–14 | 12–14 | 11–15 |
+| [20 October 2020](2020-10-20-Euromedia.html) | Euromedia <br> Rai 1 | 13 | 12–15 | 11–15 | 11–16 | 10–16 |
 | [14–19 October 2020](2020-10-19-SWG.html) | SWG <br> La7 | 14 | 13–15 | 12–15 | 12–16 | 11–17 |
 | [15–16 October 2020](2020-10-16-Tecnè.html) | Tecnè <br> Agenzia Dire | 13 | 12–14 | 11–15 | 11–15 | 10–16 |
-| [16 October 2020](2020-10-16-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 14 | 12–15 | 11–16 | 11–17 | 10–18 |
+| [16 October 2020](2020-10-16-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 13 | 12–15 | 11–16 | 11–17 | 10–18 |
 | [13 October 2020](2020-10-13-EMG.html) | EMG <br> Rai 3 | 13 | 12–14 | 12–14 | 11–14 | 11–15 |
 | [7–12 October 2020](2020-10-12-SWG.html) | SWG <br> La7 | 14 | 13–15 | 13–15 | 13–16 | 11–17 |
 | [8–9 October 2020](2020-10-09-Tecnè.html) | Tecnè <br> Agenzia Dire | 13 | 12–15 | 12–15 | 11–16 | 11–16 |
-| [8–9 October 2020](2020-10-09-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 14 | 11–15 | 10–15 | 10–15 | 10–16 |
+| [8–9 October 2020](2020-10-09-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 13 | 11–15 | 11–15 | 11–16 | 10–17 |
 | [8 October 2020](2020-10-08-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 13 | 12–14 | 11–15 | 11–15 | 10–15 |
 | [6 October 2020](2020-10-06-Ixè.html) | Ixè | 14 | 12–15 | 12–16 | 12–16 | 11–17 |
 | [6 October 2020](2020-10-06-EMG.html) | EMG <br> Rai 3 | 12 | 12–13 | 12–13 | 11–14 | 11–15 |
@@ -984,11 +984,11 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.7% | 100% |  |
-| 11 | 5% | 99.2% |  |
-| 12 | 19% | 94% |  |
-| 13 | 27% | 76% | Median |
-| 14 | 29% | 49% |  |
-| 15 | 9% | 19% |  |
+| 11 | 5% | 99.3% |  |
+| 12 | 20% | 95% |  |
+| 13 | 29% | 74% | Median |
+| 14 | 25% | 45% |  |
+| 15 | 9% | 20% |  |
 | 16 | 6% | 10% |  |
 | 17 | 3% | 5% | Last Result |
 | 18 | 1.2% | 2% |  |

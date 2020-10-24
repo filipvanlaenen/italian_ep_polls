@@ -510,15 +510,15 @@ Last result: **13** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–7 | 4–7 | 4–7 | 4–8 |
-| [20–21 October 2020](2020-10-21-EMG.html) | EMG <br> Rai 3 | 6 | 5–6 | 4–6 | 4–6 | 4–7 |
-| [20 October 2020](2020-10-20-Euromedia.html) | Euromedia <br> Rai 1 | 6 | 4–6 | 4–6 | 4–7 | 4–7 |
+| [20–21 October 2020](2020-10-21-EMG.html) | EMG <br> Rai 3 | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
+| [20 October 2020](2020-10-20-Euromedia.html) | Euromedia <br> Rai 1 | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
 | [14–19 October 2020](2020-10-19-SWG.html) | SWG <br> La7 | 5 | 5–7 | 4–7 | 4–7 | 4–7 |
 | [15–16 October 2020](2020-10-16-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 6–7 | 6–8 | 5–8 | 5–8 |
-| [16 October 2020](2020-10-16-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 6 | 5–7 | 4–8 | 4–8 | 3–9 |
+| [16 October 2020](2020-10-16-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 6 | 4–7 | 4–8 | 4–8 | 4–9 |
 | [13 October 2020](2020-10-13-EMG.html) | EMG <br> Rai 3 | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
 | [7–12 October 2020](2020-10-12-SWG.html) | SWG <br> La7 | 5 | 5–6 | 4–6 | 4–7 | 4–7 |
 | [8–9 October 2020](2020-10-09-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
-| [8–9 October 2020](2020-10-09-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 5 | 5–7 | 4–8 | 4–8 | 4–8 |
+| [8–9 October 2020](2020-10-09-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 6 | 5–7 | 4–7 | 4–8 | 4–9 |
 | [8 October 2020](2020-10-08-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
 | [6 October 2020](2020-10-06-Ixè.html) | Ixè | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
 | [6 October 2020](2020-10-06-EMG.html) | EMG <br> Rai 3 | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
@@ -987,10 +987,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0.1% | 100% |  |
 | 4 | 8% | 99.9% |  |
-| 5 | 38% | 92% |  |
-| 6 | 39% | 54% | Median |
-| 7 | 13% | 14% |  |
-| 8 | 1.4% | 2% |  |
+| 5 | 42% | 92% |  |
+| 6 | 36% | 50% | Median |
+| 7 | 12% | 14% |  |
+| 8 | 2% | 2% |  |
 | 9 | 0.2% | 0.2% |  |
 | 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |

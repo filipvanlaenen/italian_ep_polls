@@ -522,15 +522,15 @@ Last result: **31** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17 | 15–19 | 15–20 | 14–20 | 13–21 |
-| [20–21 October 2020](2020-10-21-EMG.html) | EMG <br> Rai 3 | 17 | 15–18 | 15–19 | 15–19 | 14–20 |
+| [20–21 October 2020](2020-10-21-EMG.html) | EMG <br> Rai 3 | 17 | 16–19 | 16–19 | 15–19 | 15–19 |
 | [20 October 2020](2020-10-20-Euromedia.html) | Euromedia <br> Rai 1 | 15 | 14–17 | 14–18 | 13–19 | 13–19 |
 | [14–19 October 2020](2020-10-19-SWG.html) | SWG <br> La7 | 18 | 16–19 | 16–19 | 15–21 | 15–21 |
 | [15–16 October 2020](2020-10-16-Tecnè.html) | Tecnè <br> Agenzia Dire | 18 | 16–20 | 16–20 | 16–20 | 15–21 |
-| [16 October 2020](2020-10-16-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 16 | 15–19 | 14–19 | 14–20 | 13–21 |
+| [16 October 2020](2020-10-16-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 17 | 14–19 | 14–20 | 13–20 | 12–21 |
 | [13 October 2020](2020-10-13-EMG.html) | EMG <br> Rai 3 | 18 | 16–18 | 16–19 | 15–19 | 15–20 |
 | [7–12 October 2020](2020-10-12-SWG.html) | SWG <br> La7 | 17 | 16–19 | 16–19 | 15–20 | 15–21 |
 | [8–9 October 2020](2020-10-09-Tecnè.html) | Tecnè <br> Agenzia Dire | 18 | 16–18 | 16–19 | 15–20 | 15–21 |
-| [8–9 October 2020](2020-10-09-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 16 | 16–19 | 15–19 | 15–20 | 13–21 |
+| [8–9 October 2020](2020-10-09-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 18 | 15–19 | 14–20 | 14–20 | 13–21 |
 | [8 October 2020](2020-10-08-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 16 | 15–18 | 15–18 | 14–19 | 13–20 |
 | [6 October 2020](2020-10-06-Ixè.html) | Ixè | 17 | 16–19 | 16–19 | 15–20 | 14–21 |
 | [6 October 2020](2020-10-06-EMG.html) | EMG <br> Rai 3 | 18 | 16–19 | 16–19 | 16–19 | 15–20 |
@@ -998,14 +998,14 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 12 | 0.1% | 100% |  |
-| 13 | 0.6% | 99.9% |  |
-| 14 | 3% | 99.4% |  |
-| 15 | 11% | 96% |  |
-| 16 | 18% | 85% |  |
-| 17 | 25% | 67% | Median |
+| 13 | 0.7% | 99.9% |  |
+| 14 | 3% | 99.2% |  |
+| 15 | 10% | 97% |  |
+| 16 | 18% | 87% |  |
+| 17 | 25% | 68% | Median |
 | 18 | 20% | 43% |  |
-| 19 | 13% | 23% |  |
-| 20 | 8% | 9% |  |
+| 19 | 14% | 24% |  |
+| 20 | 8% | 10% |  |
 | 21 | 1.4% | 2% |  |
 | 22 | 0.2% | 0.2% |  |
 | 23 | 0% | 0% |  |
