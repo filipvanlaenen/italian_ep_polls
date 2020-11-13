@@ -10,10 +10,15 @@ Last result: **3.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.8% | 14.2–17.6% | 13.8–18.2% | 13.4–18.6% | 12.7–19.6% |
+| N/A | [Poll Average](average.html) | 16.2% | 14.6–17.9% | 14.2–18.4% | 13.8–18.8% | 13.0–19.7% |
+| [10 November 2020](2020-11-10-EMG.html) | EMG <br> Rai 3 | 16.3% | 15.2–17.6% | 14.8–18.0% | 14.5–18.3% | 14.0–18.9% |
+| [10 November 2020](2020-11-10-Demopolis.html) | Demopolis | 15.4% | 14.0–16.9% | 13.6–17.4% | 13.3–17.8% | 12.7–18.5% |
+| [4–9 November 2020](2020-11-09-SWG.html) | SWG <br> La7 | 16.1% | 14.8–17.5% | 14.4–17.9% | 14.1–18.3% | 13.5–19.0% |
 | [6 November 2020](2020-11-06-Tecnè.html) | Tecnè <br> Agenzia Dire | 17.0% | 15.5–18.6% | 15.1–19.1% | 14.8–19.5% | 14.1–20.3% |
+| [5–6 November 2020](2020-11-06-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 16.1% | 14.2–18.4% | 13.6–19.1% | 13.2–19.6% | 12.3–20.7% |
 | [6 November 2020](2020-11-06-Index.html) | Index <br> La7 | 16.2% | 14.7–18.0% | 14.2–18.5% | 13.9–19.0% | 13.1–19.9% |
 | [28 October–2 November 2020](2020-11-02-SWG.html) | SWG <br> La7 | 15.7% | 14.4–17.1% | 14.0–17.5% | 13.7–17.8% | 13.1–18.5% |
+| [2 November 2020](2020-11-02-EMG.html) | EMG <br> Rai 3 | 16.0% | 14.8–17.3% | 14.5–17.7% | 14.2–18.0% | 13.6–18.6% |
 | [29–30 October 2020](2020-10-30-Tecnè.html) | Tecnè <br> Agenzia Dire | 17.1% | 15.7–18.7% | 15.2–19.2% | 14.9–19.6% | 14.2–20.4% |
 | [29–30 October 2020](2020-10-30-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 15.7% | 13.8–18.0% | 13.2–18.6% | 12.8–19.2% | 11.9–20.3% |
 | [27–30 October 2020](2020-10-30-Lab2101.html) | Lab2101 <br> Affari Italiani | 16.0% | 14.4–17.7% | 14.0–18.2% | 13.6–18.7% | 12.9–19.5% |
@@ -29,6 +34,7 @@ Last result: **3.7%** (General Election of 26 May 2019)
 | [23 October 2020](2020-10-23-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 16.2% | 14.3–18.5% | 13.7–19.1% | 13.2–19.7% | 12.3–20.8% |
 | [20–21 October 2020](2020-10-21-EMG.html) | EMG <br> Rai 3 | 15.7% | 14.6–16.9% | 14.3–17.3% | 14.1–17.6% | 13.5–18.2% |
 | [20 October 2020](2020-10-20-Euromedia.html) | Euromedia <br> Rai 1 | 14.8% | 13.2–16.5% | 12.8–17.0% | 12.5–17.4% | 11.8–18.2% |
+| [19–20 October 2020](2020-10-20-Demoskopea.html) | Demoskopea | 16.4% | 15.0–18.0% | 14.6–18.4% | 14.2–18.8% | 13.6–19.6% |
 | [20 October 2020](2020-10-20-Demopolis.html) | Demopolis | 15.0% | 13.9–16.2% | 13.5–16.6% | 13.3–16.9% | 12.8–17.5% |
 | [14–19 October 2020](2020-10-19-SWG.html) | SWG <br> La7 | 15.7% | 14.4–17.1% | 14.0–17.5% | 13.7–17.8% | 13.1–18.5% |
 | [15–16 October 2020](2020-10-16-Tecnè.html) | Tecnè <br> Agenzia Dire | 16.9% | 15.5–18.5% | 15.0–19.0% | 14.7–19.4% | 14.0–20.1% |
@@ -512,15 +518,15 @@ The following table shows the probability mass function per percentage block of 
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 0.3% | 100% |  |
-| 12.5–13.5% | 3% | 99.7% |  |
-| 13.5–14.5% | 13% | 97% |  |
-| 14.5–15.5% | 25% | 83% |  |
-| 15.5–16.5% | 28% | 58% | Median |
-| 16.5–17.5% | 19% | 30% |  |
-| 17.5–18.5% | 8% | 11% |  |
-| 18.5–19.5% | 2% | 3% |  |
-| 19.5–20.5% | 0.5% | 0.5% |  |
+| 11.5–12.5% | 0.2% | 100% |  |
+| 12.5–13.5% | 1.4% | 99.8% |  |
+| 13.5–14.5% | 8% | 98% |  |
+| 14.5–15.5% | 21% | 91% |  |
+| 15.5–16.5% | 31% | 70% | Median |
+| 16.5–17.5% | 24% | 39% |  |
+| 17.5–18.5% | 11% | 15% |  |
+| 18.5–19.5% | 3% | 4% |  |
+| 19.5–20.5% | 0.6% | 0.7% |  |
 | 20.5–21.5% | 0.1% | 0.1% |  |
 | 21.5–22.5% | 0% | 0% |  |
 
@@ -533,10 +539,15 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–15 | 12–16 | 11–16 | 11–17 |
+| N/A | [Poll Average](average.html) | 14 | 12–16 | 12–16 | 12–17 | 11–17 |
+| [10 November 2020](2020-11-10-EMG.html) | EMG <br> Rai 3 | 15 | 13–16 | 12–16 | 12–17 | 12–17 |
+| [10 November 2020](2020-11-10-Demopolis.html) | Demopolis | 13 | 12–14 | 11–14 | 11–15 | 10–15 |
+| [4–9 November 2020](2020-11-09-SWG.html) | SWG <br> La7 | 15 | 13–16 | 13–16 | 13–16 | 12–17 |
 | [6 November 2020](2020-11-06-Tecnè.html) | Tecnè <br> Agenzia Dire | 15 | 13–17 | 13–17 | 13–18 | 12–18 |
+| [5–6 November 2020](2020-11-06-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 13 | 12–15 | 11–16 | 11–16 | 10–17 |
 | [6 November 2020](2020-11-06-Index.html) | Index <br> La7 | 15 | 13–16 | 13–17 | 12–17 | 12–17 |
 | [28 October–2 November 2020](2020-11-02-SWG.html) | SWG <br> La7 | 14 | 13–16 | 12–16 | 12–16 | 12–17 |
+| [2 November 2020](2020-11-02-EMG.html) | EMG <br> Rai 3 | 13 | 13–15 | 12–15 | 12–15 | 12–16 |
 | [29–30 October 2020](2020-10-30-Tecnè.html) | Tecnè <br> Agenzia Dire | 14 | 13–17 | 13–17 | 12–18 | 12–18 |
 | [29–30 October 2020](2020-10-30-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 13 | 11–15 | 11–16 | 10–16 | 10–17 |
 | [27–30 October 2020](2020-10-30-Lab2101.html) | Lab2101 <br> Affari Italiani | 14 | 13–16 | 12–16 | 12–16 | 11–17 |
@@ -552,6 +563,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [23 October 2020](2020-10-23-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 13 | 12–15 | 11–16 | 11–16 | 10–17 |
 | [20–21 October 2020](2020-10-21-EMG.html) | EMG <br> Rai 3 | 14 | 13–15 | 13–15 | 12–15 | 12–15 |
 | [20 October 2020](2020-10-20-Euromedia.html) | Euromedia <br> Rai 1 | 12 | 11–14 | 11–14 | 11–15 | 10–16 |
+| [19–20 October 2020](2020-10-20-Demoskopea.html) | Demoskopea | 15 | 13–16 | 13–17 | 13–17 | 12–17 |
 | [20 October 2020](2020-10-20-Demopolis.html) | Demopolis | 12 | 11–13 | 11–14 | 11–14 | 10–15 |
 | [14–19 October 2020](2020-10-19-SWG.html) | SWG <br> La7 | 14 | 13–15 | 12–16 | 12–16 | 11–17 |
 | [15–16 October 2020](2020-10-16-Tecnè.html) | Tecnè <br> Agenzia Dire | 15 | 14–16 | 13–17 | 13–17 | 12–18 |
@@ -1039,14 +1051,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
-| 10 | 0.4% | 100% |  |
-| 11 | 4% | 99.6% |  |
-| 12 | 15% | 96% |  |
-| 13 | 28% | 81% |  |
-| 14 | 25% | 53% | Median |
-| 15 | 18% | 27% |  |
-| 16 | 8% | 10% |  |
-| 17 | 2% | 2% |  |
+| 10 | 0.2% | 100% |  |
+| 11 | 2% | 99.8% |  |
+| 12 | 9% | 98% |  |
+| 13 | 25% | 89% |  |
+| 14 | 23% | 63% | Median |
+| 15 | 26% | 40% |  |
+| 16 | 11% | 14% |  |
+| 17 | 2% | 3% |  |
 | 18 | 0.3% | 0.3% |  |
 | 19 | 0% | 0% |  |
 
