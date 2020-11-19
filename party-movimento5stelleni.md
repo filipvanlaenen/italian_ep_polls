@@ -10,7 +10,11 @@ Last result: **21.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.3% | 13.7–17.1% | 13.3–17.7% | 12.9–18.1% | 12.3–19.1% |
+| N/A | [Poll Average](average.html) | 15.2% | 13.7–17.0% | 13.3–17.5% | 12.9–18.0% | 12.3–18.9% |
+| [11–16 November 2020](2020-11-16-SWG.html) | SWG <br> La7 | 15.3% | 14.1–16.8% | 13.7–17.1% | 13.4–17.5% | 12.8–18.2% |
+| [13 November 2020](2020-11-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 14.5% | 13.2–16.0% | 12.8–16.4% | 12.5–16.8% | 11.8–17.6% |
+| [12–13 November 2020](2020-11-13-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 15.3% | 13.4–17.6% | 12.9–18.2% | 12.5–18.8% | 11.6–19.9% |
+| [11–12 November 2020](2020-11-12-TermometroPolitico.html) | Termometro Politico | 14.6% | 13.7–15.6% | 13.4–15.9% | 13.2–16.1% | 12.8–16.6% |
 | [10 November 2020](2020-11-10-EMG.html) | EMG <br> Rai 3 | 14.3% | 13.2–15.5% | 12.9–15.9% | 12.6–16.2% | 12.1–16.8% |
 | [10 November 2020](2020-11-10-Demopolis.html) | Demopolis | 15.4% | 14.0–16.9% | 13.6–17.4% | 13.3–17.8% | 12.7–18.5% |
 | [4–9 November 2020](2020-11-09-SWG.html) | SWG <br> La7 | 14.9% | 13.7–16.3% | 13.3–16.7% | 13.0–17.1% | 12.4–17.7% |
@@ -510,16 +514,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
+| 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0.1% | 100% |  |
-| 11.5–12.5% | 1.0% | 99.9% |  |
+| 11.5–12.5% | 0.9% | 99.9% |  |
 | 12.5–13.5% | 7% | 99.0% |  |
-| 13.5–14.5% | 20% | 92% |  |
-| 14.5–15.5% | 28% | 72% | Median |
-| 15.5–16.5% | 25% | 43% |  |
-| 16.5–17.5% | 13% | 19% |  |
-| 17.5–18.5% | 5% | 6% |  |
-| 18.5–19.5% | 1.1% | 1.3% |  |
-| 19.5–20.5% | 0.2% | 0.2% |  |
+| 13.5–14.5% | 21% | 92% |  |
+| 14.5–15.5% | 30% | 71% | Median |
+| 15.5–16.5% | 24% | 41% |  |
+| 16.5–17.5% | 12% | 17% |  |
+| 17.5–18.5% | 4% | 5% |  |
+| 18.5–19.5% | 0.8% | 1.0% |  |
+| 19.5–20.5% | 0.1% | 0.1% |  |
 | 20.5–21.5% | 0% | 0% | Last Result |
 
 
@@ -532,6 +537,10 @@ Last result: **17** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 12–15 | 11–15 | 11–16 | 10–17 |
+| [11–16 November 2020](2020-11-16-SWG.html) | SWG <br> La7 | 14 | 13–15 | 12–16 | 12–16 | 10–16 |
+| [13 November 2020](2020-11-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 13 | 12–14 | 11–15 | 11–15 | 10–16 |
+| [12–13 November 2020](2020-11-13-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 13 | 11–15 | 11–16 | 10–16 | 10–17 |
+| [11–12 November 2020](2020-11-12-TermometroPolitico.html) | Termometro Politico | 13 | 12–13 | 11–14 | 11–14 | 11–14 |
 | [10 November 2020](2020-11-10-EMG.html) | EMG <br> Rai 3 | 13 | 11–14 | 11–14 | 11–14 | 10–15 |
 | [10 November 2020](2020-11-10-Demopolis.html) | Demopolis | 13 | 11–14 | 11–14 | 11–15 | 10–15 |
 | [4–9 November 2020](2020-11-09-SWG.html) | SWG <br> La7 | 13 | 13–15 | 12–15 | 12–15 | 11–16 |
@@ -1033,14 +1042,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.6% | 100% |  |
+| 10 | 0.7% | 100% |  |
 | 11 | 6% | 99.3% |  |
-| 12 | 19% | 93% |  |
-| 13 | 34% | 74% | Median |
+| 12 | 20% | 93% |  |
+| 13 | 33% | 73% | Median |
 | 14 | 23% | 40% |  |
 | 15 | 12% | 17% |  |
-| 16 | 4% | 4% |  |
-| 17 | 0.6% | 0.7% | Last Result |
+| 16 | 4% | 5% |  |
+| 17 | 0.7% | 0.7% | Last Result |
 | 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
 
