@@ -544,10 +544,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14 | 12–16 | 12–16 | 12–17 | 11–17 |
-| [11–16 November 2020](2020-11-16-SWG.html) | SWG <br> La7 | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
-| [13 November 2020](2020-11-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 16 | 14–17 | 13–17 | 13–17 | 12–18 |
+| [11–16 November 2020](2020-11-16-SWG.html) | SWG <br> La7 | 15 | 14–16 | 13–17 | 13–17 | 12–17 |
+| [13 November 2020](2020-11-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 15 | 14–17 | 13–17 | 13–17 | 12–18 |
 | [12–13 November 2020](2020-11-13-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 14 | 12–15 | 12–16 | 11–16 | 10–18 |
-| [11–12 November 2020](2020-11-12-TermometroPolitico.html) | Termometro Politico | 14 | 13–14 | 13–15 | 13–15 | 12–15 |
+| [11–12 November 2020](2020-11-12-TermometroPolitico.html) | Termometro Politico | 14 | 13–15 | 13–15 | 12–15 | 12–16 |
 | [10 November 2020](2020-11-10-EMG.html) | EMG <br> Rai 3 | 15 | 13–16 | 12–16 | 12–17 | 12–17 |
 | [10 November 2020](2020-11-10-Demopolis.html) | Demopolis | 13 | 12–14 | 11–14 | 11–15 | 10–15 |
 | [4–9 November 2020](2020-11-09-SWG.html) | SWG <br> La7 | 15 | 13–16 | 13–16 | 13–16 | 12–17 |
@@ -1061,13 +1061,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0.2% | 100% |  |
 | 11 | 2% | 99.8% |  |
-| 12 | 8% | 98% |  |
-| 13 | 25% | 90% |  |
-| 14 | 25% | 65% | Median |
-| 15 | 24% | 39% |  |
-| 16 | 13% | 15% |  |
+| 12 | 9% | 98% |  |
+| 13 | 24% | 90% |  |
+| 14 | 26% | 65% | Median |
+| 15 | 23% | 40% |  |
+| 16 | 13% | 17% |  |
 | 17 | 3% | 3% |  |
-| 18 | 0.3% | 0.3% |  |
+| 18 | 0.2% | 0.3% |  |
 | 19 | 0% | 0% |  |
 
 

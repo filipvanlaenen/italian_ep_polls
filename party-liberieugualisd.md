@@ -533,7 +533,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
-| [11–16 November 2020](2020-11-16-SWG.html) | SWG <br> La7 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [11–16 November 2020](2020-11-16-SWG.html) | SWG <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [13 November 2020](2020-11-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [12–13 November 2020](2020-11-13-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [11–12 November 2020](2020-11-12-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0–3 |
@@ -1042,7 +1042,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 11% |  |
 | 2 | 0% | 11% |  |
 | 3 | 4% | 11% |  |
-| 4 | 6% | 6% |  |
+| 4 | 7% | 7% |  |
 | 5 | 0.4% | 0.4% |  |
 | 6 | 0% | 0% |  |
 

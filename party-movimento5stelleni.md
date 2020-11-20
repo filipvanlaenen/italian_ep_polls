@@ -537,10 +537,10 @@ Last result: **17** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 12–15 | 11–15 | 11–16 | 10–17 |
-| [11–16 November 2020](2020-11-16-SWG.html) | SWG <br> La7 | 14 | 13–15 | 12–16 | 12–16 | 10–16 |
+| [11–16 November 2020](2020-11-16-SWG.html) | SWG <br> La7 | 14 | 13–16 | 12–16 | 12–16 | 11–17 |
 | [13 November 2020](2020-11-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 13 | 12–14 | 11–15 | 11–15 | 10–16 |
 | [12–13 November 2020](2020-11-13-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 13 | 11–15 | 11–16 | 10–16 | 10–17 |
-| [11–12 November 2020](2020-11-12-TermometroPolitico.html) | Termometro Politico | 13 | 12–13 | 11–14 | 11–14 | 11–14 |
+| [11–12 November 2020](2020-11-12-TermometroPolitico.html) | Termometro Politico | 13 | 12–13 | 12–14 | 11–14 | 11–14 |
 | [10 November 2020](2020-11-10-EMG.html) | EMG <br> Rai 3 | 13 | 11–14 | 11–14 | 11–14 | 10–15 |
 | [10 November 2020](2020-11-10-Demopolis.html) | Demopolis | 13 | 11–14 | 11–14 | 11–15 | 10–15 |
 | [4–9 November 2020](2020-11-09-SWG.html) | SWG <br> La7 | 13 | 13–15 | 12–15 | 12–15 | 11–16 |
@@ -1042,14 +1042,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.7% | 100% |  |
-| 11 | 6% | 99.3% |  |
-| 12 | 20% | 93% |  |
-| 13 | 33% | 73% | Median |
-| 14 | 23% | 40% |  |
+| 10 | 0.6% | 100% |  |
+| 11 | 6% | 99.4% |  |
+| 12 | 21% | 93% |  |
+| 13 | 30% | 72% | Median |
+| 14 | 25% | 42% |  |
 | 15 | 12% | 17% |  |
 | 16 | 4% | 5% |  |
-| 17 | 0.7% | 0.7% | Last Result |
+| 17 | 0.7% | 0.8% | Last Result |
 | 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
 

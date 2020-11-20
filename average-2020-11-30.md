@@ -10,10 +10,10 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 40.8% <br> 31 | 21.2% <br> 17 | 16.8% <br> 13 | 6.2% <br> 5 | 3.7% <br> 0 | 0.5% <br> 1 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 18–24% <br> 14–20 | 13–18% <br> 11–16 | 5–9% <br> 4–8 | 21–27% <br> 18–24 | 14–19% <br> 12–17 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | 2–5% <br> 0–4 | N/A <br> N/A | 2–5% <br> 0–4 | 1–3% <br> 0 | 0–2% <br> 0 | 2–5% <br> 0–4 |
-| [11–16 November 2020](2020-11-16-SWG.html) | SWG <br> La7 | 18–22% <br> 15–19 | 13–17% <br> 12–16 | 5–8% <br> 4–8 | 21–25% <br> 18–23 | 15–19% <br> 13–16 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–3% <br> 0 | 3–5% <br> 0–4 | N/A <br> N/A | 3–5% <br> 0–4 | 1–3% <br> 0 | 1–2% <br> 0 | 2–4% <br> 0–4 |
+| [11–16 November 2020](2020-11-16-SWG.html) | SWG <br> La7 | 18–22% <br> 15–19 | 13–17% <br> 12–16 | 5–8% <br> 4–7 | 21–25% <br> 18–23 | 15–19% <br> 13–17 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–3% <br> 0 | 3–5% <br> 0–4 | N/A <br> N/A | 3–5% <br> 0–4 | 1–3% <br> 0 | 1–2% <br> 0 | 2–4% <br> 0–4 |
 | [13 November 2020](2020-11-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 18–23% <br> 15–20 | 12–17% <br> 11–15 | 6–10% <br> 6–9 | 21–26% <br> 18–23 | 15–20% <br> 13–17 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | 2–5% <br> 0–4 | N/A <br> N/A | 2–5% <br> 0–4 | 1–2% <br> 0 | N/A <br> N/A | 2–5% <br> 0–4 |
 | [12–13 November 2020](2020-11-13-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 17–24% <br> 13–20 | 12–19% <br> 10–16 | 5–10% <br> 4–8 | 20–28% <br> 17–24 | 13–19% <br> 11–16 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–4% <br> 0 | 2–5% <br> 0–5 | N/A <br> N/A | 2–5% <br> 0–4 | 1–3% <br> 0 | N/A <br> N/A | 2–5% <br> 0–4 |
-| [11–12 November 2020](2020-11-12-TermometroPolitico.html) | Termometro Politico | 19–22% <br> 15–18 | 13–16% <br> 11–14 | 5–7% <br> 4–6 | 23–27% <br> 20–23 | 15–18% <br> 13–15 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | 2–4% <br> 0–3 | 1–2% <br> 0 | N/A <br> N/A | 2–4% <br> 0 |
+| [11–12 November 2020](2020-11-12-TermometroPolitico.html) | Termometro Politico | 19–22% <br> 15–18 | 13–16% <br> 11–14 | 5–7% <br> 4–6 | 23–27% <br> 20–23 | 15–18% <br> 12–15 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | 2–4% <br> 0 | 1–2% <br> 0 | N/A <br> N/A | 2–4% <br> 0 |
 | [10 November 2020](2020-11-10-EMG.html) | EMG <br> Rai 3 | 18–22% <br> 14–19 | 13–16% <br> 11–14 | 6–8% <br> 5–7 | 23–27% <br> 19–24 | 15–18% <br> 12–17 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | 3–5% <br> 0–4 | 1–3% <br> 0 | 1–2% <br> 0 | 3–5% <br> 0–5 |
 | [10 November 2020](2020-11-10-Demopolis.html) | Demopolis | 19–24% <br> 14–18 | 13–18% <br> 11–15 | 5–8% <br> 4–7 | 21–26% <br> 17–22 | 13–18% <br> 11–15 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–4 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0–3 |
 | [6 November 2020](2020-11-06-Index.html) | Index <br> La7 | 18–24% <br> 15–20 | 13–18% <br> 11–16 | 5–8% <br> 4–7 | 21–27% <br> 19–24 | 14–19% <br> 12–17 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–4% <br> 0 | 2–5% <br> 0–4 | N/A <br> N/A | 2–5% <br> 0–4 | 1–3% <br> 0 | 1–2% <br> 0 | 2–5% <br> 0–4 |
@@ -333,14 +333,14 @@ Only polls for which at least the sample size has been published are included in
 | 12 | 0.1% | 100% |  |
 | 13 | 0.6% | 99.9% |  |
 | 14 | 3% | 99.3% |  |
-| 15 | 8% | 96% |  |
-| 16 | 22% | 87% |  |
-| 17 | 32% | 65% | Median |
-| 18 | 18% | 33% |  |
+| 15 | 7% | 96% |  |
+| 16 | 22% | 88% |  |
+| 17 | 32% | 66% | Median |
+| 18 | 20% | 34% |  |
 | 19 | 12% | 15% |  |
 | 20 | 3% | 3% |  |
-| 21 | 0.5% | 0.5% |  |
-| 22 | 0% | 0.1% |  |
+| 21 | 0.5% | 0.6% |  |
+| 22 | 0.1% | 0.1% |  |
 | 23 | 0% | 0% |  |
 | 24 | 0% | 0% |  |
 | 25 | 0% | 0% |  |
@@ -359,14 +359,14 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.7% | 100% |  |
-| 11 | 6% | 99.3% |  |
-| 12 | 20% | 93% |  |
-| 13 | 33% | 73% | Median |
-| 14 | 23% | 40% |  |
+| 10 | 0.6% | 100% |  |
+| 11 | 6% | 99.4% |  |
+| 12 | 21% | 93% |  |
+| 13 | 30% | 72% | Median |
+| 14 | 25% | 42% |  |
 | 15 | 12% | 17% |  |
 | 16 | 4% | 5% |  |
-| 17 | 0.7% | 0.7% | Last Result |
+| 17 | 0.7% | 0.8% | Last Result |
 | 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
 
@@ -383,11 +383,11 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0% | 99.8% |  |
 | 3 | 0.2% | 99.8% |  |
 | 4 | 7% | 99.6% |  |
-| 5 | 35% | 93% |  |
-| 6 | 30% | 58% | Median |
-| 7 | 21% | 28% |  |
-| 8 | 6% | 7% |  |
-| 9 | 1.0% | 1.0% |  |
+| 5 | 32% | 93% |  |
+| 6 | 34% | 61% | Median |
+| 7 | 21% | 27% |  |
+| 8 | 5% | 6% |  |
+| 9 | 0.9% | 0.9% |  |
 | 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |
@@ -416,12 +416,12 @@ Only polls for which at least the sample size has been published are included in
 | 17 | 2% | 99.7% |  |
 | 18 | 6% | 98% |  |
 | 19 | 12% | 92% |  |
-| 20 | 18% | 79% |  |
-| 21 | 23% | 61% | Median |
-| 22 | 21% | 38% |  |
-| 23 | 13% | 17% |  |
-| 24 | 3% | 3% |  |
-| 25 | 0.6% | 0.7% |  |
+| 20 | 17% | 80% |  |
+| 21 | 24% | 63% | Median |
+| 22 | 22% | 39% |  |
+| 23 | 14% | 17% |  |
+| 24 | 3% | 4% |  |
+| 25 | 0.7% | 0.8% |  |
 | 26 | 0.1% | 0.1% |  |
 | 27 | 0% | 0% |  |
 
@@ -445,13 +445,13 @@ Only polls for which at least the sample size has been published are included in
 | 9 | 0% | 100% |  |
 | 10 | 0.2% | 100% |  |
 | 11 | 2% | 99.8% |  |
-| 12 | 8% | 98% |  |
-| 13 | 25% | 90% |  |
-| 14 | 25% | 65% | Median |
-| 15 | 24% | 39% |  |
-| 16 | 13% | 15% |  |
+| 12 | 9% | 98% |  |
+| 13 | 24% | 90% |  |
+| 14 | 26% | 65% | Median |
+| 15 | 23% | 40% |  |
+| 16 | 13% | 17% |  |
 | 17 | 3% | 3% |  |
-| 18 | 0.3% | 0.3% |  |
+| 18 | 0.2% | 0.3% |  |
 | 19 | 0% | 0% |  |
 
 ### Südtiroler Volkspartei (EPP)
@@ -492,10 +492,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.7% | 100% | Last Result, Median |
-| 1 | 0% | 0.3% |  |
-| 2 | 0% | 0.3% |  |
-| 3 | 0% | 0.3% |  |
+| 0 | 99.8% | 100% | Last Result, Median |
+| 1 | 0% | 0.2% |  |
+| 2 | 0% | 0.2% |  |
+| 3 | 0% | 0.2% |  |
 | 4 | 0.2% | 0.2% |  |
 | 5 | 0% | 0% |  |
 
@@ -511,7 +511,7 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 11% |  |
 | 2 | 0% | 11% |  |
 | 3 | 4% | 11% |  |
-| 4 | 6% | 6% |  |
+| 4 | 7% | 7% |  |
 | 5 | 0.4% | 0.4% |  |
 | 6 | 0% | 0% |  |
 
@@ -529,11 +529,11 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 88% | 100% | Last Result, Median |
-| 1 | 0% | 12% |  |
-| 2 | 0% | 12% |  |
-| 3 | 3% | 12% |  |
-| 4 | 9% | 9% |  |
+| 0 | 90% | 100% | Last Result, Median |
+| 1 | 0% | 10% |  |
+| 2 | 0% | 10% |  |
+| 3 | 2% | 10% |  |
+| 4 | 8% | 8% |  |
 | 5 | 0.4% | 0.4% |  |
 | 6 | 0% | 0% |  |
 
@@ -565,12 +565,12 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 85% | 100% | Last Result, Median |
-| 1 | 0% | 15% |  |
-| 2 | 0% | 15% |  |
-| 3 | 2% | 15% |  |
-| 4 | 11% | 12% |  |
-| 5 | 1.0% | 1.0% |  |
+| 0 | 87% | 100% | Last Result, Median |
+| 1 | 0% | 13% |  |
+| 2 | 0% | 13% |  |
+| 3 | 2% | 13% |  |
+| 4 | 10% | 11% |  |
+| 5 | 0.9% | 1.0% |  |
 | 6 | 0% | 0% |  |
 
 
@@ -613,12 +613,12 @@ Only polls for which at least the sample size has been published are included in
 | 17 | 2% | 99.7% |  |
 | 18 | 6% | 98% |  |
 | 19 | 12% | 92% |  |
-| 20 | 18% | 79% |  |
-| 21 | 23% | 61% | Median |
-| 22 | 21% | 38% |  |
-| 23 | 13% | 17% |  |
-| 24 | 3% | 3% |  |
-| 25 | 0.6% | 0.7% |  |
+| 20 | 17% | 80% |  |
+| 21 | 24% | 63% | Median |
+| 22 | 22% | 39% |  |
+| 23 | 14% | 17% |  |
+| 24 | 3% | 4% |  |
+| 25 | 0.7% | 0.8% |  |
 | 26 | 0.1% | 0.1% |  |
 | 27 | 0% | 0% |  |
 
@@ -630,17 +630,17 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 13 | 0.2% | 100% |  |
 | 14 | 0.9% | 99.8% |  |
-| 15 | 5% | 98.9% |  |
-| 16 | 15% | 94% |  |
-| 17 | 29% | 78% | Median |
-| 18 | 18% | 50% |  |
-| 19 | 15% | 32% |  |
-| 20 | 9% | 17% |  |
-| 21 | 3% | 8% |  |
+| 15 | 4% | 98.9% |  |
+| 16 | 17% | 94% |  |
+| 17 | 28% | 78% | Median |
+| 18 | 19% | 50% |  |
+| 19 | 14% | 30% |  |
+| 20 | 8% | 16% |  |
+| 21 | 4% | 8% |  |
 | 22 | 3% | 4% |  |
-| 23 | 0.9% | 2% |  |
-| 24 | 0.5% | 0.6% |  |
-| 25 | 0.2% | 0.2% |  |
+| 23 | 0.7% | 1.4% |  |
+| 24 | 0.5% | 0.7% |  |
+| 25 | 0.1% | 0.2% |  |
 | 26 | 0% | 0% |  |
 | 27 | 0% | 0% |  |
 | 28 | 0% | 0% |  |
@@ -666,13 +666,13 @@ Only polls for which at least the sample size has been published are included in
 | 9 | 0% | 100% |  |
 | 10 | 0.2% | 100% |  |
 | 11 | 2% | 99.8% |  |
-| 12 | 8% | 98% |  |
-| 13 | 25% | 90% |  |
-| 14 | 25% | 65% | Median |
-| 15 | 24% | 39% |  |
-| 16 | 13% | 15% |  |
+| 12 | 9% | 98% |  |
+| 13 | 24% | 90% |  |
+| 14 | 26% | 65% | Median |
+| 15 | 23% | 40% |  |
+| 16 | 13% | 17% |  |
 | 17 | 3% | 3% |  |
-| 18 | 0.3% | 0.3% |  |
+| 18 | 0.2% | 0.3% |  |
 | 19 | 0% | 0% |  |
 
 ### Movimento 5 Stelle (NI) – CasaPound Italia (NI)
@@ -681,14 +681,14 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.7% | 100% |  |
-| 11 | 6% | 99.3% |  |
-| 12 | 20% | 93% |  |
-| 13 | 33% | 73% | Median |
-| 14 | 23% | 40% |  |
+| 10 | 0.6% | 100% |  |
+| 11 | 6% | 99.4% |  |
+| 12 | 21% | 93% |  |
+| 13 | 30% | 72% | Median |
+| 14 | 25% | 42% |  |
 | 15 | 12% | 17% |  |
 | 16 | 4% | 5% |  |
-| 17 | 0.7% | 0.7% | Last Result |
+| 17 | 0.7% | 0.8% | Last Result |
 | 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
 
@@ -703,11 +703,11 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0% | 99.8% |  |
 | 4 | 0.2% | 99.8% |  |
 | 5 | 7% | 99.6% |  |
-| 6 | 35% | 93% | Median |
-| 7 | 30% | 58% |  |
-| 8 | 21% | 28% |  |
-| 9 | 6% | 7% |  |
-| 10 | 1.0% | 1.0% |  |
+| 6 | 32% | 93% | Median |
+| 7 | 34% | 61% |  |
+| 8 | 21% | 27% |  |
+| 9 | 5% | 6% |  |
+| 10 | 0.9% | 0.9% |  |
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |
 | 13 | 0% | 0% |  |
@@ -719,12 +719,12 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 85% | 100% | Last Result, Median |
-| 1 | 0% | 15% |  |
-| 2 | 0% | 15% |  |
-| 3 | 2% | 15% |  |
-| 4 | 12% | 13% |  |
-| 5 | 1.0% | 1.0% |  |
+| 0 | 86% | 100% | Last Result, Median |
+| 1 | 0% | 14% |  |
+| 2 | 0% | 14% |  |
+| 3 | 2% | 14% |  |
+| 4 | 10% | 11% |  |
+| 5 | 0.9% | 1.0% |  |
 | 6 | 0% | 0.1% |  |
 | 7 | 0% | 0% |  |
 
@@ -756,6 +756,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 14
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 12,320,768
-+ **Error estimate:** 4.18%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 14,680,064
++ **Error estimate:** 3.87%

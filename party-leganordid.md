@@ -550,10 +550,10 @@ Last result: **5** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 21 | 19–23 | 18–23 | 18–24 | 17–25 |
-| [11–16 November 2020](2020-11-16-SWG.html) | SWG <br> La7 | 20 | 19–22 | 18–23 | 18–23 | 17–23 |
+| [11–16 November 2020](2020-11-16-SWG.html) | SWG <br> La7 | 21 | 19–22 | 19–23 | 18–23 | 18–24 |
 | [13 November 2020](2020-11-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 21 | 19–23 | 19–23 | 18–23 | 17–24 |
 | [12–13 November 2020](2020-11-13-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 21 | 19–23 | 18–23 | 17–24 | 16–24 |
-| [11–12 November 2020](2020-11-12-TermometroPolitico.html) | Termometro Politico | 21 | 21–22 | 21–23 | 20–23 | 19–23 |
+| [11–12 November 2020](2020-11-12-TermometroPolitico.html) | Termometro Politico | 22 | 21–23 | 20–23 | 20–23 | 19–24 |
 | [10 November 2020](2020-11-10-EMG.html) | EMG <br> Rai 3 | 22 | 20–24 | 20–24 | 19–24 | 19–25 |
 | [10 November 2020](2020-11-10-Demopolis.html) | Demopolis | 19 | 18–21 | 17–21 | 17–22 | 16–22 |
 | [4–9 November 2020](2020-11-09-SWG.html) | SWG <br> La7 | 21 | 20–22 | 19–23 | 19–24 | 18–24 |
@@ -1070,12 +1070,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 2% | 99.7% |  |
 | 18 | 6% | 98% |  |
 | 19 | 12% | 92% |  |
-| 20 | 18% | 79% |  |
-| 21 | 23% | 61% | Median |
-| 22 | 21% | 38% |  |
-| 23 | 13% | 17% |  |
-| 24 | 3% | 3% |  |
-| 25 | 0.6% | 0.7% |  |
+| 20 | 17% | 80% |  |
+| 21 | 24% | 63% | Median |
+| 22 | 22% | 39% |  |
+| 23 | 14% | 17% |  |
+| 24 | 3% | 4% |  |
+| 25 | 0.7% | 0.8% |  |
 | 26 | 0.1% | 0.1% |  |
 | 27 | 0% | 0% |  |
 
