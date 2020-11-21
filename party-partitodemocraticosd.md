@@ -10,7 +10,9 @@ Last result: **40.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.8% | 19.0–22.8% | 18.5–23.4% | 18.0–23.8% | 17.1–24.8% |
+| N/A | [Poll Average](average.html) | 20.8% | 19.0–22.8% | 18.4–23.4% | 17.9–23.8% | 16.9–24.8% |
+| [18 November 2020](2020-11-18-Euromedia.html) | Euromedia <br> Rai 1 | 19.1% | 17.4–21.0% | 16.9–21.5% | 16.5–22.0% | 15.8–22.9% |
+| [15–16 November 2020](2020-11-16-Tecnè.html) | Tecnè <br> Quarta Repubblica | 20.7% | 19.1–22.4% | 18.7–22.9% | 18.3–23.3% | 17.6–24.2% |
 | [11–16 November 2020](2020-11-16-SWG.html) | SWG <br> La7 | 19.9% | 18.5–21.5% | 18.1–21.9% | 17.7–22.3% | 17.1–23.0% |
 | [13 November 2020](2020-11-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 20.7% | 19.1–22.4% | 18.7–22.9% | 18.3–23.3% | 17.6–24.2% |
 | [12–13 November 2020](2020-11-13-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 20.7% | 18.5–23.2% | 17.9–23.9% | 17.4–24.5% | 16.4–25.7% |
@@ -515,13 +517,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0.1% | 100% |  |
-| 16.5–17.5% | 0.9% | 99.8% |  |
-| 17.5–18.5% | 4% | 98.9% |  |
-| 18.5–19.5% | 13% | 95% |  |
-| 19.5–20.5% | 24% | 82% |  |
-| 20.5–21.5% | 26% | 58% | Median |
-| 21.5–22.5% | 19% | 31% |  |
+| 15.5–16.5% | 0.2% | 100% |  |
+| 16.5–17.5% | 1.2% | 99.8% |  |
+| 17.5–18.5% | 5% | 98.6% |  |
+| 18.5–19.5% | 13% | 94% |  |
+| 19.5–20.5% | 24% | 81% |  |
+| 20.5–21.5% | 26% | 57% | Median |
+| 21.5–22.5% | 18% | 31% |  |
 | 22.5–23.5% | 9% | 13% |  |
 | 23.5–24.5% | 3% | 4% |  |
 | 24.5–25.5% | 0.7% | 0.8% |  |
@@ -551,7 +553,9 @@ Last result: **31** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 15–19 | 15–19 | 14–20 | 13–21 |
+| N/A | [Poll Average](average.html) | 17 | 15–19 | 15–19 | 14–20 | 13–20 |
+| [18 November 2020](2020-11-18-Euromedia.html) | Euromedia <br> Rai 1 | 15 | 14–17 | 13–17 | 13–18 | 12–18 |
+| [15–16 November 2020](2020-11-16-Tecnè.html) | Tecnè <br> Quarta Repubblica | 18 | 16–19 | 16–19 | 15–19 | 14–21 |
 | [11–16 November 2020](2020-11-16-SWG.html) | SWG <br> La7 | 18 | 16–18 | 15–18 | 15–19 | 14–20 |
 | [13 November 2020](2020-11-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 17 | 16–19 | 15–19 | 15–20 | 14–21 |
 | [12–13 November 2020](2020-11-13-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 17 | 15–19 | 14–19 | 13–20 | 13–21 |
@@ -1058,16 +1062,16 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 12 | 0.1% | 100% |  |
-| 13 | 0.6% | 99.9% |  |
-| 14 | 3% | 99.3% |  |
+| 13 | 0.9% | 99.9% |  |
+| 14 | 3% | 99.1% |  |
 | 15 | 7% | 96% |  |
 | 16 | 22% | 88% |  |
-| 17 | 32% | 66% | Median |
-| 18 | 20% | 34% |  |
+| 17 | 31% | 66% | Median |
+| 18 | 20% | 35% |  |
 | 19 | 12% | 15% |  |
-| 20 | 3% | 3% |  |
-| 21 | 0.5% | 0.6% |  |
-| 22 | 0.1% | 0.1% |  |
+| 20 | 2% | 3% |  |
+| 21 | 0.4% | 0.5% |  |
+| 22 | 0% | 0.1% |  |
 | 23 | 0% | 0% |  |
 | 24 | 0% | 0% |  |
 | 25 | 0% | 0% |  |
