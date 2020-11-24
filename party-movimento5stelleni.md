@@ -10,11 +10,11 @@ Last result: **21.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.3% | 13.7–17.0% | 13.3–17.5% | 13.0–17.9% | 12.4–18.8% |
-| [23 November 2020](2020-11-23-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 15.0% | N/A | N/A | N/A | N/A |
-| [18–21 November 2020](2020-11-21-Ixè.html) | Ixè | 15.6% | N/A | N/A | N/A | N/A |
-| [19–20 November 2020](2020-11-20-Tecnè.html) | Tecnè <br> Agenzia Dire | 14.4% | N/A | N/A | N/A | N/A |
-| [18–19 November 2020](2020-11-19-TermometroPolitico.html) | Termometro Politico | 14.3% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 15.1% | 13.6–16.9% | 13.2–17.4% | 12.9–17.9% | 12.2–18.8% |
+| [23 November 2020](2020-11-23-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 15.0% | 13.1–17.2% | 12.6–17.8% | 12.1–18.4% | 11.3–19.5% |
+| [18–21 November 2020](2020-11-21-Ixè.html) | Ixè | 15.6% | 14.2–17.2% | 13.8–17.6% | 13.5–18.0% | 12.8–18.8% |
+| [19–20 November 2020](2020-11-20-Tecnè.html) | Tecnè <br> Agenzia Dire | 14.4% | 13.1–15.9% | 12.7–16.3% | 12.4–16.7% | 11.7–17.5% |
+| [18–19 November 2020](2020-11-19-TermometroPolitico.html) | Termometro Politico | 14.3% | 13.4–15.3% | 13.1–15.6% | 12.9–15.8% | 12.5–16.3% |
 | [18 November 2020](2020-11-18-Euromedia.html) | Euromedia <br> Rai 1 | 15.5% | 14.0–17.3% | 13.5–17.7% | 13.2–18.2% | 12.5–19.1% |
 | [15–16 November 2020](2020-11-16-Tecnè.html) | Tecnè <br> Quarta Repubblica | 14.5% | 13.2–16.0% | 12.8–16.4% | 12.5–16.8% | 11.8–17.6% |
 | [11–16 November 2020](2020-11-16-SWG.html) | SWG <br> La7 | 15.3% | 14.1–16.8% | 13.7–17.1% | 13.4–17.5% | 12.8–18.2% |
@@ -520,15 +520,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 0.7% | 100% |  |
-| 12.5–13.5% | 6% | 99.2% |  |
-| 13.5–14.5% | 21% | 93% |  |
-| 14.5–15.5% | 30% | 72% | Median |
-| 15.5–16.5% | 25% | 43% |  |
-| 16.5–17.5% | 13% | 18% |  |
-| 17.5–18.5% | 4% | 5% |  |
-| 18.5–19.5% | 0.8% | 0.9% |  |
+| 9.5–10.5% | 0% | 100% |  |
+| 10.5–11.5% | 0.1% | 100% |  |
+| 11.5–12.5% | 1.1% | 99.9% |  |
+| 12.5–13.5% | 8% | 98.8% |  |
+| 13.5–14.5% | 23% | 91% |  |
+| 14.5–15.5% | 29% | 68% | Median |
+| 15.5–16.5% | 23% | 38% |  |
+| 16.5–17.5% | 11% | 16% |  |
+| 17.5–18.5% | 4% | 4% |  |
+| 18.5–19.5% | 0.7% | 0.8% |  |
 | 19.5–20.5% | 0.1% | 0.1% |  |
 | 20.5–21.5% | 0% | 0% | Last Result |
 
@@ -541,11 +542,11 @@ Last result: **17** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 12–15 | 11–15 | 11–16 | 11–16 |
-| [23 November 2020](2020-11-23-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 |  |  |  |  |  |
-| [18–21 November 2020](2020-11-21-Ixè.html) | Ixè |  |  |  |  |  |
-| [19–20 November 2020](2020-11-20-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
-| [18–19 November 2020](2020-11-19-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 13 | 12–15 | 11–15 | 11–16 | 10–16 |
+| [23 November 2020](2020-11-23-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 13 | 11–15 | 11–16 | 10–16 | 9–17 |
+| [18–21 November 2020](2020-11-21-Ixè.html) | Ixè | 14 | 12–14 | 12–14 | 12–15 | 11–16 |
+| [19–20 November 2020](2020-11-20-Tecnè.html) | Tecnè <br> Agenzia Dire | 12 | 11–14 | 11–15 | 11–15 | 10–16 |
+| [18–19 November 2020](2020-11-19-TermometroPolitico.html) | Termometro Politico | 12 | 11–13 | 11–13 | 11–13 | 11–14 |
 | [18 November 2020](2020-11-18-Euromedia.html) | Euromedia <br> Rai 1 | 13 | 12–15 | 12–15 | 11–15 | 10–16 |
 | [15–16 November 2020](2020-11-16-Tecnè.html) | Tecnè <br> Quarta Repubblica | 13 | 12–14 | 11–15 | 11–15 | 10–15 |
 | [11–16 November 2020](2020-11-16-SWG.html) | SWG <br> La7 | 14 | 13–16 | 12–16 | 12–16 | 11–17 |
@@ -1053,14 +1054,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.4% | 100% |  |
-| 11 | 5% | 99.6% |  |
-| 12 | 21% | 94% |  |
-| 13 | 30% | 74% | Median |
-| 14 | 28% | 44% |  |
-| 15 | 12% | 16% |  |
-| 16 | 4% | 4% |  |
-| 17 | 0.4% | 0.4% | Last Result |
+| 9 | 0.1% | 100% |  |
+| 10 | 0.7% | 99.9% |  |
+| 11 | 6% | 99.2% |  |
+| 12 | 25% | 93% |  |
+| 13 | 29% | 68% | Median |
+| 14 | 26% | 39% |  |
+| 15 | 10% | 13% |  |
+| 16 | 3% | 4% |  |
+| 17 | 0.3% | 0.4% | Last Result |
 | 18 | 0% | 0% |  |
 
 
