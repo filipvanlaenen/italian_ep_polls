@@ -10,7 +10,8 @@ Last result: **3.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.1% | 14.5–17.7% | 14.1–18.2% | 13.6–18.7% | 12.8–19.6% |
+| N/A | [Poll Average](average.html) | 16.1% | 14.5–17.7% | 14.1–18.2% | 13.6–18.6% | 12.8–19.5% |
+| [18–23 November 2020](2020-11-23-SWG.html) | SWG <br> La7 | 16.2% | 14.9–17.6% | 14.5–18.0% | 14.2–18.4% | 13.6–19.1% |
 | [23 November 2020](2020-11-23-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 15.4% | 13.5–17.6% | 13.0–18.3% | 12.5–18.8% | 11.6–20.0% |
 | [18–21 November 2020](2020-11-21-Ixè.html) | Ixè | 16.3% | 14.9–17.9% | 14.5–18.3% | 14.1–18.7% | 13.5–19.5% |
 | [19–20 November 2020](2020-11-20-Tecnè.html) | Tecnè <br> Agenzia Dire | 17.1% | 15.7–18.7% | 15.2–19.2% | 14.9–19.6% | 14.2–20.4% |
@@ -531,11 +532,11 @@ The following table shows the probability mass function per percentage block of 
 | 11.5–12.5% | 0.3% | 100% |  |
 | 12.5–13.5% | 2% | 99.7% |  |
 | 13.5–14.5% | 8% | 98% |  |
-| 14.5–15.5% | 21% | 90% |  |
-| 15.5–16.5% | 32% | 69% | Median |
-| 16.5–17.5% | 24% | 37% |  |
-| 17.5–18.5% | 10% | 13% |  |
-| 18.5–19.5% | 3% | 3% |  |
+| 14.5–15.5% | 22% | 90% |  |
+| 15.5–16.5% | 32% | 68% | Median |
+| 16.5–17.5% | 23% | 35% |  |
+| 17.5–18.5% | 9% | 12% |  |
+| 18.5–19.5% | 2% | 3% |  |
 | 19.5–20.5% | 0.4% | 0.5% |  |
 | 20.5–21.5% | 0.1% | 0.1% |  |
 | 21.5–22.5% | 0% | 0% |  |
@@ -550,6 +551,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14 | 12–16 | 12–16 | 12–16 | 11–17 |
+| [18–23 November 2020](2020-11-23-SWG.html) | SWG <br> La7 | 14 | 13–16 | 13–16 | 13–16 | 12–17 |
 | [23 November 2020](2020-11-23-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 13 | 11–15 | 11–15 | 10–16 | 10–18 |
 | [18–21 November 2020](2020-11-21-Ixè.html) | Ixè | 14 | 13–15 | 12–15 | 12–16 | 12–16 |
 | [19–20 November 2020](2020-11-20-Tecnè.html) | Tecnè <br> Agenzia Dire | 15 | 13–16 | 13–17 | 13–17 | 12–18 |
@@ -1074,12 +1076,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0.3% | 100% |  |
 | 11 | 2% | 99.7% |  |
 | 12 | 9% | 98% |  |
-| 13 | 22% | 88% |  |
-| 14 | 30% | 66% | Median |
-| 15 | 22% | 36% |  |
-| 16 | 12% | 14% |  |
+| 13 | 23% | 88% |  |
+| 14 | 32% | 66% | Median |
+| 15 | 21% | 34% |  |
+| 16 | 11% | 13% |  |
 | 17 | 2% | 2% |  |
-| 18 | 0.2% | 0.3% |  |
+| 18 | 0.2% | 0.2% |  |
 | 19 | 0% | 0% |  |
 
 
