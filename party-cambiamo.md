@@ -10,11 +10,19 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.1% | 0.6–1.7% | 0.5–1.8% | 0.4–2.0% | 0.3–2.4% |
+| N/A | [Poll Average](average.html) | 1.1% | 0.5–1.7% | 0.4–1.9% | 0.3–2.0% | 0.2–2.4% |
+| [25–30 November 2020](2020-11-30-SWG.html) | SWG <br> La7 | 1.2% | 0.9–1.7% | 0.8–1.8% | 0.7–2.0% | 0.6–2.2% |
+| [27 November 2020](2020-11-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
+| [26–27 November 2020](2020-11-27-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
+| [24–26 November 2020](2020-11-26-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
+| [25–26 November 2020](2020-11-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.0% | N/A | N/A | N/A | N/A |
+| [22–25 November 2020](2020-11-25-BiDiMedia.html) | BiDiMedia | 0.5% | 0.3–0.8% | 0.3–0.9% | 0.2–1.0% | 0.2–1.2% |
+| [23–24 November 2020](2020-11-24-Demoskopea.html) | Demoskopea | 0.0% | N/A | N/A | N/A | N/A |
 | [18–23 November 2020](2020-11-23-SWG.html) | SWG <br> La7 | 1.1% | 0.8–1.6% | 0.7–1.7% | 0.6–1.8% | 0.5–2.1% |
-| [23 November 2020](2020-11-23-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
+| [23 November 2020](2020-11-23-EMG.html) | EMG | 1.2% | 0.9–1.7% | 0.8–1.8% | 0.7–2.0% | 0.6–2.2% |
 | [18–21 November 2020](2020-11-21-Ixè.html) | Ixè | 0.0% | N/A | N/A | N/A | N/A |
 | [19–20 November 2020](2020-11-20-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
+| [19–20 November 2020](2020-11-20-Quorum–YouTrend.html) | Quorum – YouTrend | 0.0% | N/A | N/A | N/A | N/A |
 | [18–19 November 2020](2020-11-19-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
 | [18 November 2020](2020-11-18-Euromedia.html) | Euromedia <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
 | [15–16 November 2020](2020-11-16-Tecnè.html) | Tecnè <br> Quarta Repubblica | 0.0% | N/A | N/A | N/A | N/A |
@@ -521,9 +529,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 8% | 100% | Last Result |
-| 0.5–1.5% | 78% | 92% | Median |
-| 1.5–2.5% | 14% | 14% |  |
+| 0.0–0.5% | 14% | 100% | Last Result |
+| 0.5–1.5% | 69% | 86% | Median |
+| 1.5–2.5% | 16% | 16% |  |
 | 2.5–3.5% | 0.2% | 0.2% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
@@ -537,10 +545,18 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [25–30 November 2020](2020-11-30-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
+| [27 November 2020](2020-11-27-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [26–27 November 2020](2020-11-27-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 |  |  |  |  |  |
+| [24–26 November 2020](2020-11-26-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [25–26 November 2020](2020-11-26-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
+| [22–25 November 2020](2020-11-25-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
+| [23–24 November 2020](2020-11-24-Demoskopea.html) | Demoskopea |  |  |  |  |  |
 | [18–23 November 2020](2020-11-23-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
-| [23 November 2020](2020-11-23-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 |  |  |  |  |  |
+| [23 November 2020](2020-11-23-EMG.html) | EMG | 0 | 0 | 0 | 0 | 0 |
 | [18–21 November 2020](2020-11-21-Ixè.html) | Ixè |  |  |  |  |  |
 | [19–20 November 2020](2020-11-20-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [19–20 November 2020](2020-11-20-Quorum–YouTrend.html) | Quorum – YouTrend |  |  |  |  |  |
 | [18–19 November 2020](2020-11-19-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [18 November 2020](2020-11-18-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
 | [15–16 November 2020](2020-11-16-Tecnè.html) | Tecnè <br> Quarta Repubblica |  |  |  |  |  |

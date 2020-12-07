@@ -10,11 +10,19 @@ Last result: **6.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.0% | 21.9–26.0% | 21.3–26.5% | 20.8–27.0% | 19.8–28.0% |
+| N/A | [Poll Average](average.html) | 23.9% | 21.8–25.8% | 21.2–26.4% | 20.7–26.9% | 19.6–28.0% |
+| [25–30 November 2020](2020-11-30-SWG.html) | SWG <br> La7 | 24.4% | 22.9–26.1% | 22.4–26.5% | 22.1–26.9% | 21.3–27.7% |
+| [27 November 2020](2020-11-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 23.0% | 21.4–24.8% | 20.9–25.3% | 20.5–25.7% | 19.7–26.6% |
+| [26–27 November 2020](2020-11-27-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 22.9% | 20.6–25.5% | 20.0–26.2% | 19.4–26.8% | 18.4–28.0% |
+| [24–26 November 2020](2020-11-26-TermometroPolitico.html) | Termometro Politico | 24.6% | 23.5–25.8% | 23.2–26.1% | 22.9–26.4% | 22.4–27.0% |
+| [25–26 November 2020](2020-11-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 25.5% | 23.8–27.3% | 23.3–27.8% | 22.9–28.3% | 22.1–29.2% |
+| [22–25 November 2020](2020-11-25-BiDiMedia.html) | BiDiMedia | 24.0% | 22.6–25.5% | 22.2–25.9% | 21.9–26.2% | 21.2–26.9% |
+| [23–24 November 2020](2020-11-24-Demoskopea.html) | Demoskopea | 23.5% | 21.8–25.3% | 21.4–25.8% | 21.0–26.2% | 20.2–27.1% |
 | [18–23 November 2020](2020-11-23-SWG.html) | SWG <br> La7 | 23.3% | 21.8–25.0% | 21.4–25.4% | 21.0–25.8% | 20.3–26.6% |
-| [23 November 2020](2020-11-23-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 23.4% | 21.1–26.0% | 20.5–26.7% | 19.9–27.3% | 18.8–28.6% |
+| [23 November 2020](2020-11-23-EMG.html) | EMG | 24.4% | 22.9–25.9% | 22.5–26.4% | 22.1–26.8% | 21.4–27.5% |
 | [18–21 November 2020](2020-11-21-Ixè.html) | Ixè | 22.3% | 20.7–24.1% | 20.2–24.6% | 19.8–25.0% | 19.1–25.8% |
 | [19–20 November 2020](2020-11-20-Tecnè.html) | Tecnè <br> Agenzia Dire | 23.3% | 21.6–25.1% | 21.2–25.6% | 20.8–26.0% | 20.0–26.9% |
+| [19–20 November 2020](2020-11-20-Quorum–YouTrend.html) | Quorum – YouTrend | 23.4% | 21.1–26.0% | 20.5–26.7% | 19.9–27.3% | 18.8–28.6% |
 | [18–19 November 2020](2020-11-19-TermometroPolitico.html) | Termometro Politico | 25.1% | 23.9–26.3% | 23.6–26.6% | 23.4–26.9% | 22.8–27.5% |
 | [18 November 2020](2020-11-18-Euromedia.html) | Euromedia <br> Rai 1 | 23.8% | 21.9–25.8% | 21.4–26.3% | 20.9–26.8% | 20.1–27.8% |
 | [15–16 November 2020](2020-11-16-Tecnè.html) | Tecnè <br> Quarta Repubblica | 23.4% | 21.7–25.2% | 21.3–25.7% | 20.9–26.1% | 20.1–27.0% |
@@ -533,16 +541,16 @@ The following table shows the probability mass function per percentage block of 
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0% | 100% |  |
-| 17.5–18.5% | 0% | 100% |  |
-| 18.5–19.5% | 0.3% | 100% |  |
-| 19.5–20.5% | 1.4% | 99.7% |  |
+| 17.5–18.5% | 0.1% | 100% |  |
+| 18.5–19.5% | 0.4% | 99.9% |  |
+| 19.5–20.5% | 2% | 99.6% |  |
 | 20.5–21.5% | 5% | 98% |  |
-| 21.5–22.5% | 13% | 93% |  |
-| 22.5–23.5% | 20% | 80% |  |
-| 23.5–24.5% | 24% | 61% | Median |
-| 24.5–25.5% | 21% | 37% |  |
-| 25.5–26.5% | 11% | 16% |  |
-| 26.5–27.5% | 4% | 5% |  |
+| 21.5–22.5% | 13% | 92% |  |
+| 22.5–23.5% | 21% | 80% |  |
+| 23.5–24.5% | 26% | 59% | Median |
+| 24.5–25.5% | 20% | 33% |  |
+| 25.5–26.5% | 9% | 14% |  |
+| 26.5–27.5% | 3% | 4% |  |
 | 27.5–28.5% | 0.8% | 1.0% |  |
 | 28.5–29.5% | 0.2% | 0.2% |  |
 | 29.5–30.5% | 0% | 0% |  |
@@ -557,10 +565,18 @@ Last result: **5** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 21 | 18–23 | 18–23 | 18–24 | 17–25 |
+| [25–30 November 2020](2020-11-30-SWG.html) | SWG <br> La7 | 22 | 20–24 | 20–24 | 19–24 | 19–25 |
+| [27 November 2020](2020-11-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 21 | 19–22 | 19–22 | 18–23 | 17–24 |
+| [26–27 November 2020](2020-11-27-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 20 | 17–22 | 17–22 | 16–23 | 15–24 |
+| [24–26 November 2020](2020-11-26-TermometroPolitico.html) | Termometro Politico | 21 | 20–22 | 20–22 | 20–22 | 19–23 |
+| [25–26 November 2020](2020-11-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 23 | 21–24 | 20–25 | 20–25 | 19–26 |
+| [22–25 November 2020](2020-11-25-BiDiMedia.html) | BiDiMedia | 22 | 20–22 | 19–22 | 19–23 | 18–23 |
+| [23–24 November 2020](2020-11-24-Demoskopea.html) | Demoskopea | 21 | 19–23 | 19–24 | 18–24 | 18–25 |
 | [18–23 November 2020](2020-11-23-SWG.html) | SWG <br> La7 | 21 | 19–23 | 19–23 | 18–24 | 18–25 |
-| [23 November 2020](2020-11-23-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 21 | 18–22 | 17–23 | 17–24 | 16–25 |
+| [23 November 2020](2020-11-23-EMG.html) | EMG | 20 | 19–22 | 19–22 | 19–23 | 18–24 |
 | [18–21 November 2020](2020-11-21-Ixè.html) | Ixè | 18 | 18–20 | 17–20 | 17–21 | 16–22 |
 | [19–20 November 2020](2020-11-20-Tecnè.html) | Tecnè <br> Agenzia Dire | 21 | 19–23 | 18–23 | 18–24 | 17–24 |
+| [19–20 November 2020](2020-11-20-Quorum–YouTrend.html) | Quorum – YouTrend | 21 | 18–22 | 17–23 | 17–24 | 16–25 |
 | [18–19 November 2020](2020-11-19-TermometroPolitico.html) | Termometro Politico | 22 | 20–23 | 20–23 | 20–23 | 19–24 |
 | [18 November 2020](2020-11-18-Euromedia.html) | Euromedia <br> Rai 1 | 20 | 18–22 | 18–22 | 18–23 | 17–24 |
 | [15–16 November 2020](2020-11-16-Tecnè.html) | Tecnè <br> Quarta Repubblica | 21 | 19–23 | 19–23 | 18–23 | 17–24 |
@@ -1080,16 +1096,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
-| 16 | 0.3% | 100% |  |
-| 17 | 2% | 99.7% |  |
-| 18 | 8% | 98% |  |
-| 19 | 14% | 89% |  |
-| 20 | 18% | 76% |  |
-| 21 | 24% | 58% | Median |
-| 22 | 20% | 35% |  |
-| 23 | 11% | 14% |  |
+| 16 | 0.4% | 99.9% |  |
+| 17 | 2% | 99.5% |  |
+| 18 | 9% | 98% |  |
+| 19 | 12% | 89% |  |
+| 20 | 21% | 77% |  |
+| 21 | 22% | 56% | Median |
+| 22 | 22% | 35% |  |
+| 23 | 9% | 13% |  |
 | 24 | 3% | 4% |  |
-| 25 | 0.7% | 0.7% |  |
+| 25 | 0.9% | 1.0% |  |
 | 26 | 0.1% | 0.1% |  |
 | 27 | 0% | 0% |  |
 
