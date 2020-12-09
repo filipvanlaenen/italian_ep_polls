@@ -10,7 +10,11 @@ Last result: **3.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.3% | 14.6–17.9% | 14.2–18.5% | 13.7–18.9% | 12.9–19.9% |
+| N/A | [Poll Average](average.html) | 16.2% | 14.6–17.9% | 14.1–18.5% | 13.7–19.0% | 12.9–19.9% |
+| [2–7 December 2020](2020-12-07-SWG.html) | SWG <br> La7 | 16.4% | 15.1–17.9% | 14.7–18.3% | 14.4–18.6% | 13.8–19.3% |
+| [4 December 2020](2020-12-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 17.0% | 15.5–18.6% | 15.1–19.1% | 14.8–19.5% | 14.1–20.3% |
+| [3–4 December 2020](2020-12-04-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 15.9% | 14.0–18.2% | 13.5–18.8% | 13.0–19.4% | 12.1–20.5% |
+| [1–3 December 2020](2020-12-03-TermometroPolitico.html) | Termometro Politico | 15.9% | 15.0–16.9% | 14.7–17.2% | 14.5–17.5% | 14.0–18.0% |
 | [25–30 November 2020](2020-11-30-SWG.html) | SWG <br> La7 | 16.4% | 15.1–17.9% | 14.7–18.3% | 14.4–18.6% | 13.8–19.3% |
 | [27 November 2020](2020-11-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 16.9% | 15.5–18.5% | 15.0–19.0% | 14.7–19.4% | 14.0–20.1% |
 | [26–27 November 2020](2020-11-27-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 15.9% | 14.0–18.2% | 13.5–18.8% | 13.0–19.4% | 12.1–20.5% |
@@ -540,12 +544,12 @@ The following table shows the probability mass function per percentage block of 
 | 11.5–12.5% | 0.2% | 100% |  |
 | 12.5–13.5% | 2% | 99.8% |  |
 | 13.5–14.5% | 7% | 98% |  |
-| 14.5–15.5% | 19% | 91% |  |
-| 15.5–16.5% | 30% | 72% | Median |
-| 16.5–17.5% | 25% | 42% |  |
-| 17.5–18.5% | 12% | 16% |  |
-| 18.5–19.5% | 4% | 4% |  |
-| 19.5–20.5% | 0.8% | 0.9% |  |
+| 14.5–15.5% | 21% | 91% |  |
+| 15.5–16.5% | 31% | 70% | Median |
+| 16.5–17.5% | 23% | 39% |  |
+| 17.5–18.5% | 11% | 16% |  |
+| 18.5–19.5% | 4% | 5% |  |
+| 19.5–20.5% | 0.8% | 1.0% |  |
 | 20.5–21.5% | 0.1% | 0.1% |  |
 | 21.5–22.5% | 0% | 0% |  |
 
@@ -558,7 +562,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 13–16 | 12–16 | 12–17 | 11–18 |
+| N/A | [Poll Average](average.html) | 14 | 13–16 | 12–17 | 12–17 | 11–18 |
+| [2–7 December 2020](2020-12-07-SWG.html) | SWG <br> La7 | 15 | 13–17 | 13–17 | 13–17 | 12–17 |
+| [4 December 2020](2020-12-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 15 | 14–17 | 13–18 | 13–18 | 12–18 |
+| [3–4 December 2020](2020-12-04-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 13 | 12–17 | 11–17 | 11–17 | 10–18 |
+| [1–3 December 2020](2020-12-03-TermometroPolitico.html) | Termometro Politico | 14 | 13–15 | 13–15 | 12–15 | 12–15 |
 | [25–30 November 2020](2020-11-30-SWG.html) | SWG <br> La7 | 15 | 13–16 | 13–17 | 13–17 | 12–18 |
 | [27 November 2020](2020-11-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 15 | 14–16 | 13–16 | 13–17 | 12–18 |
 | [26–27 November 2020](2020-11-27-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 13 | 12–15 | 11–16 | 11–16 | 10–18 |
@@ -1092,12 +1100,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0.2% | 100% |  |
 | 11 | 2% | 99.8% |  |
 | 12 | 8% | 98% |  |
-| 13 | 18% | 90% |  |
-| 14 | 31% | 72% | Median |
-| 15 | 24% | 41% |  |
-| 16 | 13% | 17% |  |
-| 17 | 3% | 4% |  |
-| 18 | 1.0% | 1.1% |  |
+| 13 | 20% | 90% |  |
+| 14 | 31% | 70% | Median |
+| 15 | 24% | 39% |  |
+| 16 | 9% | 15% |  |
+| 17 | 4% | 6% |  |
+| 18 | 2% | 2% |  |
 | 19 | 0.1% | 0.1% |  |
 | 20 | 0% | 0% |  |
 

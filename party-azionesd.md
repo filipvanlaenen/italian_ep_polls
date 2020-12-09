@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.2% | 2.4–4.1% | 2.2–4.4% | 2.0–4.6% | 1.7–5.2% |
+| N/A | [Poll Average](average.html) | 3.2% | 2.4–4.1% | 2.1–4.4% | 2.0–4.7% | 1.6–5.2% |
+| [2–7 December 2020](2020-12-07-SWG.html) | SWG <br> La7 | 3.4% | 2.8–4.2% | 2.7–4.4% | 2.5–4.6% | 2.3–5.0% |
+| [4 December 2020](2020-12-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
+| [3–4 December 2020](2020-12-04-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 3.2% | 2.4–4.4% | 2.2–4.8% | 2.0–5.1% | 1.6–5.8% |
+| [1–3 December 2020](2020-12-03-TermometroPolitico.html) | Termometro Politico | 3.4% | 2.9–3.9% | 2.8–4.1% | 2.7–4.2% | 2.5–4.5% |
 | [25–30 November 2020](2020-11-30-SWG.html) | SWG <br> La7 | 3.5% | 2.9–4.3% | 2.7–4.5% | 2.6–4.7% | 2.3–5.1% |
 | [27 November 2020](2020-11-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
 | [26–27 November 2020](2020-11-27-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 3.2% | 2.4–4.4% | 2.2–4.8% | 2.0–5.1% | 1.6–5.8% |
@@ -532,8 +536,8 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0.3% | 100% |  |
 | 1.5–2.5% | 15% | 99.7% |  |
-| 2.5–3.5% | 53% | 85% | Median |
-| 3.5–4.5% | 28% | 31% |  |
+| 2.5–3.5% | 52% | 85% | Median |
+| 3.5–4.5% | 29% | 32% |  |
 | 4.5–5.5% | 3% | 3% |  |
 | 5.5–6.5% | 0.1% | 0.1% |  |
 | 6.5–7.5% | 0% | 0% |  |
@@ -547,7 +551,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [2–7 December 2020](2020-12-07-SWG.html) | SWG <br> La7 | 4 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [4 December 2020](2020-12-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 4 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [3–4 December 2020](2020-12-04-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 0 | 0–3 | 0–4 | 0–5 | 0–5 |
+| [1–3 December 2020](2020-12-03-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0–3 | 0–3 | 0–4 |
 | [25–30 November 2020](2020-11-30-SWG.html) | SWG <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [27 November 2020](2020-11-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [26–27 November 2020](2020-11-27-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
@@ -1068,12 +1076,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 88% | 100% | Last Result, Median |
-| 1 | 0% | 12% |  |
-| 2 | 0% | 12% |  |
-| 3 | 2% | 12% |  |
-| 4 | 9% | 10% |  |
-| 5 | 0.3% | 0.3% |  |
+| 0 | 82% | 100% | Last Result, Median |
+| 1 | 0% | 18% |  |
+| 2 | 0% | 18% |  |
+| 3 | 3% | 18% |  |
+| 4 | 15% | 15% |  |
+| 5 | 0.6% | 0.6% |  |
 | 6 | 0% | 0% |  |
 
 
