@@ -556,10 +556,10 @@ Last result: **17** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 11–14 | 11–15 | 11–15 | 10–16 |
-| [2–7 December 2020](2020-12-07-SWG.html) | SWG <br> La7 | 13 | 12–14 | 12–14 | 12–14 | 11–15 |
-| [4 December 2020](2020-12-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 12 | 11–14 | 11–15 | 11–15 | 10–16 |
-| [3–4 December 2020](2020-12-04-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 13 | 11–15 | 10–15 | 10–16 | 10–18 |
-| [1–3 December 2020](2020-12-03-TermometroPolitico.html) | Termometro Politico | 12 | 12–13 | 11–13 | 11–13 | 11–14 |
+| [2–7 December 2020](2020-12-07-SWG.html) | SWG <br> La7 | 13 | 12–14 | 12–14 | 11–15 | 11–16 |
+| [4 December 2020](2020-12-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 13 | 12–14 | 11–14 | 11–15 | 10–15 |
+| [3–4 December 2020](2020-12-04-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 13 | 11–15 | 11–15 | 10–16 | 10–17 |
+| [1–3 December 2020](2020-12-03-TermometroPolitico.html) | Termometro Politico | 12 | 11–13 | 11–13 | 11–14 | 11–14 |
 | [25–30 November 2020](2020-11-30-SWG.html) | SWG <br> La7 | 14 | 12–15 | 12–15 | 12–16 | 11–17 |
 | [27 November 2020](2020-11-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 13 | 12–14 | 11–14 | 11–15 | 11–16 |
 | [26–27 November 2020](2020-11-27-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 13 | 12–14 | 11–15 | 11–16 | 9–18 |
@@ -1080,16 +1080,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 0.1% | 100% |  |
-| 10 | 1.4% | 99.9% |  |
-| 11 | 13% | 98.6% |  |
-| 12 | 30% | 86% |  |
-| 13 | 31% | 56% | Median |
-| 14 | 19% | 25% |  |
-| 15 | 6% | 6% |  |
+| 10 | 1.0% | 100% |  |
+| 11 | 14% | 99.0% |  |
+| 12 | 22% | 85% |  |
+| 13 | 34% | 62% | Median |
+| 14 | 21% | 28% |  |
+| 15 | 6% | 7% |  |
 | 16 | 0.7% | 0.8% |  |
-| 17 | 0.1% | 0.2% | Last Result |
-| 18 | 0.1% | 0.1% |  |
-| 19 | 0% | 0% |  |
+| 17 | 0.1% | 0.1% | Last Result |
+| 18 | 0% | 0% |  |
 
 

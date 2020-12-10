@@ -553,9 +553,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [2–7 December 2020](2020-12-07-SWG.html) | SWG <br> La7 | 0 | 0 | 0–4 | 0–4 | 0–4 |
-| [4 December 2020](2020-12-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0–4 | 0–4 |
-| [3–4 December 2020](2020-12-04-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
-| [1–3 December 2020](2020-12-03-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0–4 | 0–4 | 0–4 |
+| [4 December 2020](2020-12-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0–4 | 0–4 | 0–4 |
+| [3–4 December 2020](2020-12-04-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [1–3 December 2020](2020-12-03-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0–4 |
 | [25–30 November 2020](2020-11-30-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0–4 | 0–4 |
 | [27 November 2020](2020-11-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0–4 | 0–4 |
 | [26–27 November 2020](2020-11-27-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
@@ -1076,12 +1076,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 84% | 100% | Last Result, Median |
-| 1 | 0% | 16% |  |
-| 2 | 0% | 16% |  |
-| 3 | 3% | 16% |  |
-| 4 | 12% | 13% |  |
-| 5 | 0.7% | 0.8% |  |
+| 0 | 86% | 100% | Last Result, Median |
+| 1 | 0% | 14% |  |
+| 2 | 0% | 14% |  |
+| 3 | 3% | 14% |  |
+| 4 | 10% | 11% |  |
+| 5 | 0.5% | 0.5% |  |
 | 6 | 0% | 0% |  |
 
 
