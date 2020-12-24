@@ -10,7 +10,10 @@ Last result: **40.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.6% | 18.8–22.7% | 18.3–23.2% | 17.8–23.7% | 16.9–24.7% |
+| N/A | [Poll Average](average.html) | 20.7% | 18.9–22.7% | 18.4–23.3% | 17.9–23.8% | 16.9–24.7% |
+| [16–21 December 2020](2020-12-21-SWG.html) | SWG <br> La7 | 20.4% | 19.0–22.0% | 18.6–22.4% | 18.2–22.8% | 17.6–23.6% |
+| [18 December 2020](2020-12-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 20.6% | 19.0–22.3% | 18.6–22.8% | 18.2–23.2% | 17.5–24.1% |
+| [17–18 December 2020](2020-12-18-Quorum–YouTrend.html) | Quorum – YouTrend | 20.7% | 18.5–23.2% | 17.9–23.9% | 17.4–24.5% | 16.4–25.7% |
 | [15–17 December 2020](2020-12-17-TermometroPolitico.html) | Termometro Politico | 20.2% | 19.1–21.4% | 18.8–21.7% | 18.5–22.0% | 18.0–22.5% |
 | [16–17 December 2020](2020-12-17-Ipsos.html) | Ipsos <br> Corriere della Sera | 20.2% | 18.6–21.9% | 18.2–22.4% | 17.8–22.8% | 17.1–23.6% |
 | [15 December 2020](2020-12-15-Euromedia.html) | Euromedia <br> Rai 1 | 19.2% | 17.5–21.1% | 17.1–21.7% | 16.7–22.1% | 15.9–23.1% |
@@ -27,6 +30,7 @@ Last result: **40.8%** (General Election of 26 May 2019)
 | [4 December 2020](2020-12-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 20.5% | 18.9–22.2% | 18.5–22.7% | 18.1–23.1% | 17.4–24.0% |
 | [3–4 December 2020](2020-12-04-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 20.7% | 18.5–23.2% | 17.9–23.9% | 17.4–24.5% | 16.4–25.7% |
 | [1–3 December 2020](2020-12-03-TermometroPolitico.html) | Termometro Politico | 20.4% | 19.3–21.5% | 19.0–21.8% | 18.8–22.1% | 18.3–22.6% |
+| [3 December 2020](2020-12-03-EMG.html) | EMG <br> Rai 3 | 20.2% | 18.6–21.9% | 18.2–22.4% | 17.8–22.8% | 17.1–23.6% |
 | [2 December 2020](2020-12-02-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 21.0% | 19.4–22.7% | 19.0–23.2% | 18.6–23.6% | 17.8–24.5% |
 | [25–30 November 2020](2020-11-30-SWG.html) | SWG <br> La7 | 19.8% | 18.4–21.4% | 18.0–21.8% | 17.7–22.2% | 17.0–23.0% |
 | [27 November 2020](2020-11-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 20.8% | 19.2–22.5% | 18.8–23.0% | 18.4–23.4% | 17.7–24.3% |
@@ -548,12 +552,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0.2% | 100% |  |
-| 16.5–17.5% | 1.3% | 99.7% |  |
-| 17.5–18.5% | 5% | 98% |  |
+| 16.5–17.5% | 1.2% | 99.7% |  |
+| 17.5–18.5% | 5% | 98.5% |  |
 | 18.5–19.5% | 15% | 93% |  |
-| 19.5–20.5% | 25% | 78% |  |
-| 20.5–21.5% | 25% | 52% | Median |
-| 21.5–22.5% | 16% | 27% |  |
+| 19.5–20.5% | 25% | 79% |  |
+| 20.5–21.5% | 25% | 54% | Median |
+| 21.5–22.5% | 17% | 28% |  |
 | 22.5–23.5% | 8% | 11% |  |
 | 23.5–24.5% | 3% | 3% |  |
 | 24.5–25.5% | 0.6% | 0.7% |  |
@@ -584,6 +588,9 @@ Last result: **31** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17 | 15–19 | 15–19 | 14–20 | 13–21 |
+| [16–21 December 2020](2020-12-21-SWG.html) | SWG <br> La7 | 18 | 16–19 | 15–19 | 15–20 | 14–21 |
+| [18 December 2020](2020-12-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 17 | 15–19 | 15–20 | 15–20 | 14–20 |
+| [17–18 December 2020](2020-12-18-Quorum–YouTrend.html) | Quorum – YouTrend | 17 | 15–18 | 14–19 | 14–20 | 13–21 |
 | [15–17 December 2020](2020-12-17-TermometroPolitico.html) | Termometro Politico | 16 | 15–18 | 15–18 | 15–18 | 14–18 |
 | [16–17 December 2020](2020-12-17-Ipsos.html) | Ipsos <br> Corriere della Sera | 17 | 15–18 | 15–19 | 15–19 | 14–20 |
 | [15 December 2020](2020-12-15-Euromedia.html) | Euromedia <br> Rai 1 | 15 | 14–17 | 13–18 | 13–18 | 12–19 |
@@ -600,6 +607,7 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [4 December 2020](2020-12-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 17 | 16–19 | 15–19 | 15–19 | 14–20 |
 | [3–4 December 2020](2020-12-04-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 17 | 15–19 | 14–20 | 14–20 | 13–22 |
 | [1–3 December 2020](2020-12-03-TermometroPolitico.html) | Termometro Politico | 17 | 16–18 | 16–18 | 15–19 | 15–19 |
+| [3 December 2020](2020-12-03-EMG.html) | EMG <br> Rai 3 | 16 | 16–18 | 15–18 | 15–19 | 14–19 |
 | [2 December 2020](2020-12-02-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 17 | 16–19 | 15–20 | 15–20 | 14–21 |
 | [25–30 November 2020](2020-11-30-SWG.html) | SWG <br> La7 | 17 | 16–19 | 15–20 | 14–20 | 14–20 |
 | [27 November 2020](2020-11-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 18 | 16–19 | 16–19 | 15–20 | 15–21 |
@@ -1122,16 +1130,16 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 12 | 0.1% | 100% |  |
-| 13 | 0.9% | 99.9% |  |
-| 14 | 3% | 99.0% |  |
+| 13 | 0.7% | 99.9% |  |
+| 14 | 3% | 99.2% |  |
 | 15 | 9% | 96% |  |
-| 16 | 22% | 87% |  |
-| 17 | 26% | 65% | Median |
-| 18 | 27% | 39% |  |
-| 19 | 9% | 12% |  |
-| 20 | 3% | 4% |  |
-| 21 | 0.6% | 0.8% |  |
-| 22 | 0.1% | 0.1% |  |
+| 16 | 24% | 87% |  |
+| 17 | 25% | 63% | Median |
+| 18 | 24% | 38% |  |
+| 19 | 9% | 14% |  |
+| 20 | 4% | 5% |  |
+| 21 | 0.7% | 0.8% |  |
+| 22 | 0% | 0.1% |  |
 | 23 | 0% | 0% |  |
 | 24 | 0% | 0% |  |
 | 25 | 0% | 0% |  |
