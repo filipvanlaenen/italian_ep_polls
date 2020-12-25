@@ -605,7 +605,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [4 December 2020](2020-12-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 20 | 19–22 | 18–23 | 18–23 | 17–24 |
 | [3–4 December 2020](2020-12-04-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 21 | 19–22 | 17–23 | 17–25 | 16–25 |
 | [1–3 December 2020](2020-12-03-TermometroPolitico.html) | Termometro Politico | 22 | 21–23 | 21–23 | 21–24 | 20–24 |
-| [3 December 2020](2020-12-03-EMG.html) | EMG <br> Rai 3 | 21 | 19–22 | 19–23 | 19–24 | 19–25 |
+| [3 December 2020](2020-12-03-EMG.html) | EMG <br> Rai 3 | 21 | 19–24 | 19–24 | 19–24 | 18–25 |
 | [2 December 2020](2020-12-02-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 22 | 20–24 | 19–24 | 19–24 | 19–25 |
 | [25–30 November 2020](2020-11-30-SWG.html) | SWG <br> La7 | 22 | 20–24 | 20–24 | 19–24 | 19–25 |
 | [27 November 2020](2020-11-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 21 | 19–22 | 19–22 | 18–23 | 17–24 |
