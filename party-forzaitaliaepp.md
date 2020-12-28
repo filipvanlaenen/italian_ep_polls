@@ -10,12 +10,14 @@ Last result: **16.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.2% | 6.0–9.1% | 5.7–9.6% | 5.4–10.1% | 5.0–11.0% |
+| N/A | [Poll Average](average.html) | 7.3% | 6.0–9.1% | 5.7–9.6% | 5.5–10.1% | 5.1–11.0% |
 | [16–21 December 2020](2020-12-21-SWG.html) | SWG <br> La7 | 6.3% | 5.5–7.3% | 5.3–7.6% | 5.1–7.9% | 4.7–8.4% |
+| [21 December 2020](2020-12-21-Euromedia.html) | Euromedia <br> Italpress | 7.0% | 6.0–8.3% | 5.7–8.7% | 5.4–9.0% | 5.0–9.6% |
 | [18 December 2020](2020-12-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 8.1% | 7.1–9.3% | 6.8–9.7% | 6.6–10.0% | 6.1–10.6% |
 | [17–18 December 2020](2020-12-18-Quorum–YouTrend.html) | Quorum – YouTrend | 7.6% | 6.2–9.3% | 5.9–9.8% | 5.6–10.2% | 5.0–11.1% |
 | [15–17 December 2020](2020-12-17-TermometroPolitico.html) | Termometro Politico | 6.1% | 5.5–6.9% | 5.3–7.1% | 5.2–7.3% | 4.9–7.6% |
 | [16–17 December 2020](2020-12-17-Ipsos.html) | Ipsos <br> Corriere della Sera | 9.3% | 8.2–10.6% | 7.9–10.9% | 7.7–11.3% | 7.2–11.9% |
+| [13–16 December 2020](2020-12-16-BiDiMedia.html) | BiDiMedia | 7.0% | 6.2–8.0% | 6.0–8.2% | 5.8–8.5% | 5.4–9.0% |
 | [15 December 2020](2020-12-15-Euromedia.html) | Euromedia <br> Rai 1 | 6.8% | 5.7–8.0% | 5.4–8.4% | 5.2–8.7% | 4.8–9.4% |
 | [14 December 2020](2020-12-14-Tecnè.html) | Tecnè <br> Quarta Repubblica | 8.1% | 7.1–9.3% | 6.8–9.7% | 6.6–10.0% | 6.1–10.6% |
 | [9–14 December 2020](2020-12-14-SWG.html) | SWG <br> La7 | 5.9% | 5.1–6.9% | 4.9–7.2% | 4.7–7.4% | 4.4–7.9% |
@@ -30,8 +32,8 @@ Last result: **16.8%** (General Election of 26 May 2019)
 | [4 December 2020](2020-12-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 8.2% | 7.2–9.4% | 6.9–9.8% | 6.6–10.1% | 6.2–10.7% |
 | [3–4 December 2020](2020-12-04-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 7.4% | 6.1–9.1% | 5.7–9.6% | 5.4–10.0% | 4.8–10.9% |
 | [1–3 December 2020](2020-12-03-TermometroPolitico.html) | Termometro Politico | 6.1% | 5.5–6.8% | 5.3–7.0% | 5.2–7.1% | 4.9–7.5% |
-| [3 December 2020](2020-12-03-EMG.html) | EMG <br> Rai 3 | 7.3% | 6.3–8.5% | 6.1–8.8% | 5.8–9.1% | 5.4–9.7% |
 | [2 December 2020](2020-12-02-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.3% |
+| [1 December 2020](2020-12-01-EMG.html) | EMG <br> Rai 3 | 7.3% | 6.5–8.3% | 6.3–8.6% | 6.1–8.8% | 5.7–9.3% |
 | [25–30 November 2020](2020-11-30-SWG.html) | SWG <br> La7 | 6.2% | 5.3–7.1% | 5.1–7.4% | 4.9–7.7% | 4.6–8.2% |
 | [27 November 2020](2020-11-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 8.2% | 7.2–9.4% | 6.9–9.8% | 6.6–10.1% | 6.2–10.7% |
 | [26–27 November 2020](2020-11-27-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 7.2% | 5.9–8.9% | 5.5–9.3% | 5.2–9.8% | 4.7–10.7% |
@@ -550,12 +552,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 3.5–4.5% | 0.1% | 100% |  |
-| 4.5–5.5% | 3% | 99.9% |  |
-| 5.5–6.5% | 23% | 97% |  |
-| 6.5–7.5% | 34% | 74% | Median |
-| 7.5–8.5% | 23% | 40% |  |
-| 8.5–9.5% | 11% | 17% |  |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 3% | 100% |  |
+| 5.5–6.5% | 22% | 97% |  |
+| 6.5–7.5% | 34% | 75% | Median |
+| 7.5–8.5% | 24% | 42% |  |
+| 8.5–9.5% | 12% | 17% |  |
 | 9.5–10.5% | 4% | 5% |  |
 | 10.5–11.5% | 1.0% | 1.1% |  |
 | 11.5–12.5% | 0.1% | 0.1% |  |
@@ -576,10 +578,12 @@ Last result: **13** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–8 | 5–8 | 5–9 | 4–10 |
 | [16–21 December 2020](2020-12-21-SWG.html) | SWG <br> La7 | 6 | 5–6 | 5–7 | 4–7 | 4–7 |
+| [21 December 2020](2020-12-21-Euromedia.html) | Euromedia <br> Italpress | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
 | [18 December 2020](2020-12-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 6–8 | 6–9 | 5–9 | 5–10 |
 | [17–18 December 2020](2020-12-18-Quorum–YouTrend.html) | Quorum – YouTrend | 6 | 5–8 | 5–8 | 5–8 | 4–9 |
 | [15–17 December 2020](2020-12-17-TermometroPolitico.html) | Termometro Politico | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [16–17 December 2020](2020-12-17-Ipsos.html) | Ipsos <br> Corriere della Sera | 8 | 7–9 | 7–10 | 7–10 | 6–10 |
+| [13–16 December 2020](2020-12-16-BiDiMedia.html) | BiDiMedia | 7 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [15 December 2020](2020-12-15-Euromedia.html) | Euromedia <br> Rai 1 | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
 | [14 December 2020](2020-12-14-Tecnè.html) | Tecnè <br> Quarta Repubblica | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
 | [9–14 December 2020](2020-12-14-SWG.html) | SWG <br> La7 | 6 | 5–6 | 5–6 | 4–6 | 4–7 |
@@ -594,8 +598,8 @@ Last result: **13** seats (General Election of 26 May 2019)
 | [4 December 2020](2020-12-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 6–8 | 6–8 | 6–9 | 5–10 |
 | [3–4 December 2020](2020-12-04-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 6 | 5–8 | 5–8 | 5–9 | 4–9 |
 | [1–3 December 2020](2020-12-03-TermometroPolitico.html) | Termometro Politico | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
-| [3 December 2020](2020-12-03-EMG.html) | EMG <br> Rai 3 | 6 | 6–7 | 5–8 | 5–8 | 5–9 |
 | [2 December 2020](2020-12-02-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
+| [1 December 2020](2020-12-01-EMG.html) | EMG <br> Rai 3 | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
 | [25–30 November 2020](2020-11-30-SWG.html) | SWG <br> La7 | 6 | 5–7 | 4–7 | 4–7 | 4–7 |
 | [27 November 2020](2020-11-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
 | [26–27 November 2020](2020-11-27-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 6 | 5–8 | 5–8 | 4–9 | 4–9 |
@@ -1116,11 +1120,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 1.1% | 100% |  |
-| 5 | 17% | 98.9% |  |
-| 6 | 46% | 82% | Median |
-| 7 | 20% | 36% |  |
-| 8 | 12% | 16% |  |
+| 4 | 0.9% | 100% |  |
+| 5 | 18% | 99.1% |  |
+| 6 | 40% | 82% | Median |
+| 7 | 25% | 42% |  |
+| 8 | 12% | 17% |  |
 | 9 | 4% | 5% |  |
 | 10 | 0.7% | 0.8% |  |
 | 11 | 0% | 0% |  |
