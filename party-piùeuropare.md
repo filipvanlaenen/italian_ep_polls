@@ -15,6 +15,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [21 December 2020](2020-12-21-Euromedia.html) | Euromedia <br> Italpress | 2.1% | 1.6–2.9% | 1.4–3.2% | 1.3–3.4% | 1.1–3.8% |
 | [18 December 2020](2020-12-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [17–18 December 2020](2020-12-18-Quorum–YouTrend.html) | Quorum – YouTrend | 1.8% | 1.2–2.8% | 1.1–3.1% | 0.9–3.4% | 0.7–3.9% |
+| [17–18 December 2020](2020-12-18-Quorum-YouTrend.html) | Quorum - YouTrend <br> Rai | 1.8% | 1.2–2.8% | 1.1–3.1% | 0.9–3.4% | 0.7–3.9% |
 | [15–17 December 2020](2020-12-17-TermometroPolitico.html) | Termometro Politico | 1.4% | 1.1–1.8% | 1.0–1.9% | 1.0–2.0% | 0.8–2.2% |
 | [16–17 December 2020](2020-12-17-Ipsos.html) | Ipsos <br> Corriere della Sera | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–3.0% | 1.0–3.3% |
 | [13–16 December 2020](2020-12-16-BiDiMedia.html) | BiDiMedia | 1.5% | 1.2–2.0% | 1.1–2.2% | 1.0–2.3% | 0.8–2.6% |
@@ -554,10 +555,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0.2% | 100% | Last Result |
 | 0.5–1.5% | 25% | 99.8% |  |
-| 1.5–2.5% | 52% | 75% | Median |
-| 2.5–3.5% | 18% | 23% |  |
+| 1.5–2.5% | 53% | 75% | Median |
+| 2.5–3.5% | 18% | 22% |  |
 | 3.5–4.5% | 4% | 5% |  |
-| 4.5–5.5% | 0.5% | 0.5% |  |
+| 4.5–5.5% | 0.4% | 0.5% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -574,6 +575,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [21 December 2020](2020-12-21-Euromedia.html) | Euromedia <br> Italpress | 0 | 0 | 0 | 0 | 0 |
 | [18 December 2020](2020-12-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
 | [17–18 December 2020](2020-12-18-Quorum–YouTrend.html) | Quorum – YouTrend | 0 | 0 | 0 | 0 | 0 |
+| [17–18 December 2020](2020-12-18-Quorum-YouTrend.html) | Quorum - YouTrend <br> Rai | 0 | 0 | 0 | 0 | 0 |
 | [15–17 December 2020](2020-12-17-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [16–17 December 2020](2020-12-17-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
 | [13–16 December 2020](2020-12-16-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |

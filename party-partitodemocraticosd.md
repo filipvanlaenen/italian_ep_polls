@@ -10,11 +10,12 @@ Last result: **40.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.8% | 19.1–22.7% | 18.6–23.3% | 18.2–23.8% | 17.3–24.7% |
+| N/A | [Poll Average](average.html) | 20.8% | 19.0–22.7% | 18.5–23.3% | 18.1–23.8% | 17.2–24.9% |
 | [16–21 December 2020](2020-12-21-SWG.html) | SWG <br> La7 | 20.4% | 19.0–22.0% | 18.6–22.4% | 18.2–22.8% | 17.6–23.6% |
 | [21 December 2020](2020-12-21-Euromedia.html) | Euromedia <br> Italpress | 20.5% | 18.7–22.4% | 18.3–23.0% | 17.8–23.4% | 17.0–24.4% |
 | [18 December 2020](2020-12-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 20.6% | 19.0–22.3% | 18.6–22.8% | 18.2–23.2% | 17.5–24.1% |
 | [17–18 December 2020](2020-12-18-Quorum–YouTrend.html) | Quorum – YouTrend | 20.7% | 18.5–23.2% | 17.9–23.9% | 17.4–24.5% | 16.4–25.7% |
+| [17–18 December 2020](2020-12-18-Quorum-YouTrend.html) | Quorum - YouTrend <br> Rai | 20.7% | 18.5–23.2% | 17.9–23.9% | 17.4–24.5% | 16.4–25.7% |
 | [15–17 December 2020](2020-12-17-TermometroPolitico.html) | Termometro Politico | 20.2% | 19.1–21.4% | 18.8–21.7% | 18.5–22.0% | 18.0–22.5% |
 | [16–17 December 2020](2020-12-17-Ipsos.html) | Ipsos <br> Corriere della Sera | 20.2% | 18.6–21.9% | 18.2–22.4% | 17.8–22.8% | 17.1–23.6% |
 | [13–16 December 2020](2020-12-16-BiDiMedia.html) | BiDiMedia | 22.0% | 20.7–23.5% | 20.3–23.9% | 19.9–24.3% | 19.3–25.0% |
@@ -554,16 +555,16 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0.1% | 100% |  |
-| 16.5–17.5% | 0.7% | 99.9% |  |
-| 17.5–18.5% | 4% | 99.2% |  |
+| 16.5–17.5% | 0.8% | 99.9% |  |
+| 17.5–18.5% | 4% | 99.0% |  |
 | 18.5–19.5% | 14% | 95% |  |
-| 19.5–20.5% | 25% | 82% |  |
-| 20.5–21.5% | 27% | 56% | Median |
+| 19.5–20.5% | 25% | 81% |  |
+| 20.5–21.5% | 26% | 56% | Median |
 | 21.5–22.5% | 18% | 30% |  |
-| 22.5–23.5% | 8% | 12% |  |
-| 23.5–24.5% | 3% | 3% |  |
-| 24.5–25.5% | 0.6% | 0.7% |  |
-| 25.5–26.5% | 0.1% | 0.1% |  |
+| 22.5–23.5% | 9% | 12% |  |
+| 23.5–24.5% | 3% | 4% |  |
+| 24.5–25.5% | 0.7% | 0.8% |  |
+| 25.5–26.5% | 0.1% | 0.2% |  |
 | 26.5–27.5% | 0% | 0% |  |
 | 27.5–28.5% | 0% | 0% |  |
 | 28.5–29.5% | 0% | 0% |  |
@@ -589,11 +590,12 @@ Last result: **31** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 16–19 | 15–19 | 15–20 | 14–21 |
+| N/A | [Poll Average](average.html) | 17 | 15–19 | 15–19 | 15–20 | 14–21 |
 | [16–21 December 2020](2020-12-21-SWG.html) | SWG <br> La7 | 18 | 16–19 | 15–19 | 15–20 | 14–21 |
 | [21 December 2020](2020-12-21-Euromedia.html) | Euromedia <br> Italpress | 16 | 15–18 | 15–19 | 14–19 | 14–19 |
 | [18 December 2020](2020-12-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 17 | 15–19 | 15–20 | 15–20 | 14–20 |
 | [17–18 December 2020](2020-12-18-Quorum–YouTrend.html) | Quorum – YouTrend | 17 | 15–18 | 14–19 | 14–20 | 13–21 |
+| [17–18 December 2020](2020-12-18-Quorum-YouTrend.html) | Quorum - YouTrend <br> Rai | 17 | 15–18 | 14–19 | 14–20 | 13–21 |
 | [15–17 December 2020](2020-12-17-TermometroPolitico.html) | Termometro Politico | 16 | 15–18 | 15–18 | 15–18 | 14–18 |
 | [16–17 December 2020](2020-12-17-Ipsos.html) | Ipsos <br> Corriere della Sera | 17 | 15–18 | 15–19 | 15–19 | 14–20 |
 | [13–16 December 2020](2020-12-16-BiDiMedia.html) | BiDiMedia | 18 | 17–19 | 16–20 | 16–20 | 16–20 |
@@ -1133,16 +1135,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 13 | 0.2% | 100% |  |
-| 14 | 2% | 99.8% |  |
+| 13 | 0.3% | 100% |  |
+| 14 | 2% | 99.6% |  |
 | 15 | 8% | 98% |  |
 | 16 | 26% | 90% |  |
-| 17 | 27% | 65% | Median |
-| 18 | 22% | 38% |  |
-| 19 | 11% | 16% |  |
+| 17 | 26% | 64% | Median |
+| 18 | 23% | 38% |  |
+| 19 | 11% | 15% |  |
 | 20 | 4% | 5% |  |
 | 21 | 0.7% | 0.7% |  |
-| 22 | 0% | 0% |  |
+| 22 | 0% | 0.1% |  |
 | 23 | 0% | 0% |  |
 | 24 | 0% | 0% |  |
 | 25 | 0% | 0% |  |

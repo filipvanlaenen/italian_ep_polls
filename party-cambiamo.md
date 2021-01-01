@@ -15,6 +15,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [21 December 2020](2020-12-21-Euromedia.html) | Euromedia <br> Italpress | 0.0% | N/A | N/A | N/A | N/A |
 | [18 December 2020](2020-12-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [17–18 December 2020](2020-12-18-Quorum–YouTrend.html) | Quorum – YouTrend | 0.0% | N/A | N/A | N/A | N/A |
+| [17–18 December 2020](2020-12-18-Quorum-YouTrend.html) | Quorum - YouTrend <br> Rai | 0.0% | N/A | N/A | N/A | N/A |
 | [15–17 December 2020](2020-12-17-TermometroPolitico.html) | Termometro Politico | 0.6% | 0.4–0.9% | 0.4–1.0% | 0.4–1.1% | 0.3–1.2% |
 | [16–17 December 2020](2020-12-17-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.0% | N/A | N/A | N/A | N/A |
 | [13–16 December 2020](2020-12-16-BiDiMedia.html) | BiDiMedia | 0.6% | 0.4–0.9% | 0.3–1.0% | 0.3–1.1% | 0.2–1.3% |
@@ -572,6 +573,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [21 December 2020](2020-12-21-Euromedia.html) | Euromedia <br> Italpress |  |  |  |  |  |
 | [18 December 2020](2020-12-18-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [17–18 December 2020](2020-12-18-Quorum–YouTrend.html) | Quorum – YouTrend |  |  |  |  |  |
+| [17–18 December 2020](2020-12-18-Quorum-YouTrend.html) | Quorum - YouTrend <br> Rai |  |  |  |  |  |
 | [15–17 December 2020](2020-12-17-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [16–17 December 2020](2020-12-17-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
 | [13–16 December 2020](2020-12-16-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
