@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.0% | 0.5–1.7% | 0.4–1.9% | 0.4–2.1% | 0.3–2.5% |
+| N/A | [Poll Average](average.html) | 0.9% | 0.5–1.4% | 0.4–1.6% | 0.4–1.7% | 0.3–2.0% |
+| [2–5 January 2021](2021-01-05-Lab2101.html) | Lab2101 <br> Affari Italiani | 0.0% | N/A | N/A | N/A | N/A |
+| [4 January 2021](2021-01-04-Tecnè.html) | Tecnè <br> Quarta Repubblica | 0.0% | N/A | N/A | N/A | N/A |
+| [28–31 December 2020](2020-12-31-Lab2101.html) | Lab2101 <br> Affari Italiani | 0.0% | N/A | N/A | N/A | N/A |
+| [28 December 2020](2020-12-28-EMG.html) | EMG <br> Rai 3 | 1.1% | 0.8–1.5% | 0.7–1.6% | 0.7–1.7% | 0.6–1.9% |
 | [16–21 December 2020](2020-12-21-SWG.html) | SWG <br> La7 | 1.2% | 0.9–1.7% | 0.8–1.8% | 0.7–2.0% | 0.6–2.2% |
 | [21 December 2020](2020-12-21-Euromedia.html) | Euromedia <br> Italpress | 0.0% | N/A | N/A | N/A | N/A |
 | [18 December 2020](2020-12-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
@@ -553,11 +557,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 13% | 100% | Last Result |
-| 0.5–1.5% | 72% | 87% | Median |
-| 1.5–2.5% | 14% | 15% |  |
-| 2.5–3.5% | 0.3% | 0.4% |  |
-| 3.5–4.5% | 0% | 0% |  |
+| 0.0–0.5% | 16% | 100% | Last Result |
+| 0.5–1.5% | 78% | 84% | Median |
+| 1.5–2.5% | 6% | 6% |  |
+| 2.5–3.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -569,6 +572,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [2–5 January 2021](2021-01-05-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
+| [4 January 2021](2021-01-04-Tecnè.html) | Tecnè <br> Quarta Repubblica |  |  |  |  |  |
+| [28–31 December 2020](2020-12-31-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
+| [28 December 2020](2020-12-28-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [16–21 December 2020](2020-12-21-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [21 December 2020](2020-12-21-Euromedia.html) | Euromedia <br> Italpress |  |  |  |  |  |
 | [18 December 2020](2020-12-18-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |

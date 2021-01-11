@@ -10,7 +10,11 @@ Last result: **21.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.5% | 12.9–16.5% | 12.4–17.1% | 12.0–17.6% | 11.3–18.6% |
+| N/A | [Poll Average](average.html) | 14.6% | 12.9–16.6% | 12.4–17.2% | 12.0–17.7% | 11.3–18.6% |
+| [2–5 January 2021](2021-01-05-Lab2101.html) | Lab2101 <br> Affari Italiani | 14.4% | 13.1–15.9% | 12.7–16.3% | 12.4–16.7% | 11.7–17.5% |
+| [4 January 2021](2021-01-04-Tecnè.html) | Tecnè <br> Quarta Repubblica | 14.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.3% | 11.4–17.0% |
+| [28–31 December 2020](2020-12-31-Lab2101.html) | Lab2101 <br> Affari Italiani | 14.7% | 13.3–16.2% | 13.0–16.7% | 12.6–17.0% | 12.0–17.8% |
+| [28 December 2020](2020-12-28-EMG.html) | EMG <br> Rai 3 | 13.9% | 12.8–15.0% | 12.5–15.3% | 12.3–15.6% | 11.8–16.2% |
 | [16–21 December 2020](2020-12-21-SWG.html) | SWG <br> La7 | 14.3% | 13.1–15.7% | 12.8–16.1% | 12.5–16.4% | 11.9–17.1% |
 | [21 December 2020](2020-12-21-Euromedia.html) | Euromedia <br> Italpress | 14.5% | 13.0–16.2% | 12.6–16.7% | 12.2–17.1% | 11.5–18.0% |
 | [18 December 2020](2020-12-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 14.2% | 12.9–15.7% | 12.5–16.1% | 12.2–16.5% | 11.6–17.3% |
@@ -557,12 +561,12 @@ The following table shows the probability mass function per percentage block of 
 | 10.5–11.5% | 0.9% | 99.9% |  |
 | 11.5–12.5% | 5% | 99.0% |  |
 | 12.5–13.5% | 16% | 94% |  |
-| 13.5–14.5% | 28% | 77% |  |
-| 14.5–15.5% | 25% | 50% | Median |
-| 15.5–16.5% | 15% | 25% |  |
-| 16.5–17.5% | 7% | 9% |  |
+| 13.5–14.5% | 27% | 78% |  |
+| 14.5–15.5% | 25% | 51% | Median |
+| 15.5–16.5% | 16% | 26% |  |
+| 16.5–17.5% | 7% | 10% |  |
 | 17.5–18.5% | 2% | 3% |  |
-| 18.5–19.5% | 0.5% | 0.5% |  |
+| 18.5–19.5% | 0.5% | 0.6% |  |
 | 19.5–20.5% | 0.1% | 0.1% |  |
 | 20.5–21.5% | 0% | 0% | Last Result |
 
@@ -576,6 +580,10 @@ Last result: **17** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 11–14 | 11–15 | 10–15 | 10–16 |
+| [2–5 January 2021](2021-01-05-Lab2101.html) | Lab2101 <br> Affari Italiani | 13 | 11–14 | 11–14 | 11–15 | 10–16 |
+| [4 January 2021](2021-01-04-Tecnè.html) | Tecnè <br> Quarta Repubblica | 12 | 11–14 | 11–14 | 11–15 | 10–15 |
+| [28–31 December 2020](2020-12-31-Lab2101.html) | Lab2101 <br> Affari Italiani | 13 | 12–14 | 11–15 | 11–15 | 10–16 |
+| [28 December 2020](2020-12-28-EMG.html) | EMG <br> Rai 3 | 12 | 11–13 | 11–14 | 11–14 | 11–14 |
 | [16–21 December 2020](2020-12-21-SWG.html) | SWG <br> La7 | 12 | 11–15 | 11–15 | 11–15 | 11–15 |
 | [21 December 2020](2020-12-21-Euromedia.html) | Euromedia <br> Italpress | 13 | 11–14 | 11–14 | 10–14 | 10–15 |
 | [18 December 2020](2020-12-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 12 | 11–14 | 11–14 | 10–15 | 10–15 |
@@ -1123,12 +1131,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0.3% | 100% |  |
 | 10 | 3% | 99.7% |  |
 | 11 | 12% | 97% |  |
-| 12 | 28% | 85% |  |
-| 13 | 30% | 57% | Median |
-| 14 | 18% | 27% |  |
+| 12 | 32% | 85% |  |
+| 13 | 28% | 53% | Median |
+| 14 | 16% | 25% |  |
 | 15 | 7% | 9% |  |
 | 16 | 2% | 2% |  |
-| 17 | 0.4% | 0.4% | Last Result |
+| 17 | 0.4% | 0.5% | Last Result |
 | 18 | 0% | 0% |  |
 
 
