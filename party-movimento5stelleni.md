@@ -10,7 +10,9 @@ Last result: **21.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.6% | 12.9–16.6% | 12.4–17.2% | 12.0–17.7% | 11.3–18.6% |
+| N/A | [Poll Average](average.html) | 14.4% | 12.8–16.4% | 12.3–17.0% | 11.9–17.6% | 11.2–18.6% |
+| [11 January 2021](2021-01-11-Tecnè.html) | Tecnè <br> Quarta Repubblica | 14.1% | 12.7–15.8% | 12.2–16.3% | 11.9–16.7% | 11.2–17.6% |
+| [7–11 January 2021](2021-01-11-SWG.html) | SWG <br> La7 | 14.7% | 13.4–16.0% | 13.1–16.4% | 12.8–16.8% | 12.2–17.5% |
 | [2–5 January 2021](2021-01-05-Lab2101.html) | Lab2101 <br> Affari Italiani | 14.4% | 13.1–15.9% | 12.7–16.3% | 12.4–16.7% | 11.7–17.5% |
 | [4 January 2021](2021-01-04-Tecnè.html) | Tecnè <br> Quarta Repubblica | 14.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.3% | 11.4–17.0% |
 | [28–31 December 2020](2020-12-31-Lab2101.html) | Lab2101 <br> Affari Italiani | 14.7% | 13.3–16.2% | 13.0–16.7% | 12.6–17.0% | 12.0–17.8% |
@@ -557,14 +559,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
+| 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0.1% | 100% |  |
-| 10.5–11.5% | 0.9% | 99.9% |  |
-| 11.5–12.5% | 5% | 99.0% |  |
-| 12.5–13.5% | 16% | 94% |  |
-| 13.5–14.5% | 27% | 78% |  |
-| 14.5–15.5% | 25% | 51% | Median |
-| 15.5–16.5% | 16% | 26% |  |
-| 16.5–17.5% | 7% | 10% |  |
+| 10.5–11.5% | 1.1% | 99.9% |  |
+| 11.5–12.5% | 6% | 98.8% |  |
+| 12.5–13.5% | 18% | 93% |  |
+| 13.5–14.5% | 29% | 75% | Median |
+| 14.5–15.5% | 24% | 46% |  |
+| 15.5–16.5% | 14% | 22% |  |
+| 16.5–17.5% | 6% | 9% |  |
 | 17.5–18.5% | 2% | 3% |  |
 | 18.5–19.5% | 0.5% | 0.6% |  |
 | 19.5–20.5% | 0.1% | 0.1% |  |
@@ -580,6 +583,8 @@ Last result: **17** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 11–14 | 11–15 | 10–15 | 10–16 |
+| [11 January 2021](2021-01-11-Tecnè.html) | Tecnè <br> Quarta Repubblica | 13 | 11–14 | 11–15 | 11–15 | 10–15 |
+| [7–11 January 2021](2021-01-11-SWG.html) | SWG <br> La7 | 13 | 12–14 | 12–15 | 11–15 | 11–16 |
 | [2–5 January 2021](2021-01-05-Lab2101.html) | Lab2101 <br> Affari Italiani | 13 | 11–14 | 11–14 | 11–15 | 10–16 |
 | [4 January 2021](2021-01-04-Tecnè.html) | Tecnè <br> Quarta Repubblica | 12 | 11–14 | 11–14 | 11–15 | 10–15 |
 | [28–31 December 2020](2020-12-31-Lab2101.html) | Lab2101 <br> Affari Italiani | 13 | 12–14 | 11–15 | 11–15 | 10–16 |
@@ -1128,15 +1133,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 0.3% | 100% |  |
-| 10 | 3% | 99.7% |  |
-| 11 | 12% | 97% |  |
-| 12 | 32% | 85% |  |
-| 13 | 28% | 53% | Median |
-| 14 | 16% | 25% |  |
-| 15 | 7% | 9% |  |
-| 16 | 2% | 2% |  |
-| 17 | 0.4% | 0.5% | Last Result |
+| 9 | 0.4% | 100% |  |
+| 10 | 3% | 99.6% |  |
+| 11 | 13% | 96% |  |
+| 12 | 31% | 84% |  |
+| 13 | 30% | 53% | Median |
+| 14 | 15% | 23% |  |
+| 15 | 6% | 8% |  |
+| 16 | 1.4% | 2% |  |
+| 17 | 0.5% | 0.5% | Last Result |
 | 18 | 0% | 0% |  |
 
 
