@@ -10,11 +10,20 @@ Last result: **21.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.4% | 12.8–16.4% | 12.3–17.0% | 11.9–17.6% | 11.2–18.6% |
-| [11 January 2021](2021-01-11-Tecnè.html) | Tecnè <br> Quarta Repubblica | 14.1% | 12.7–15.8% | 12.2–16.3% | 11.9–16.7% | 11.2–17.6% |
+| N/A | [Poll Average](average.html) | 14.5% | 12.8–16.5% | 12.3–17.1% | 12.0–17.6% | 11.3–18.5% |
+| [14–18 January 2021](2021-01-18-SWG.html) | SWG <br> La7 | 15.8% | 14.5–17.3% | 14.2–17.7% | 13.9–18.0% | 13.3–18.7% |
+| [15–18 January 2021](2021-01-18-Demopolis.html) | Demopolis <br> La7 | 15.5% | 14.5–16.6% | 14.2–16.9% | 14.0–17.2% | 13.5–17.7% |
+| [16–17 January 2021](2021-01-17-Tecnè.html) | Tecnè <br> Rete 4 | 14.3% | 12.9–15.8% | 12.5–16.2% | 12.2–16.6% | 11.6–17.3% |
+| [14 January 2021](2021-01-14-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 13.5% | 12.2–15.0% | 11.8–15.4% | 11.5–15.8% | 10.9–16.5% |
+| [13–14 January 2021](2021-01-14-Ipsos.html) | Ipsos <br> Corriere della Sera | 16.3% | 14.9–17.9% | 14.5–18.3% | 14.1–18.7% | 13.5–19.5% |
+| [14 January 2021](2021-01-14-Index.html) | Index <br> La7 | 14.6% | 13.1–16.3% | 12.7–16.8% | 12.3–17.3% | 11.7–18.1% |
+| [10–13 January 2021](2021-01-13-BiDiMedia.html) | BiDiMedia | 12.9% | 11.9–14.1% | 11.6–14.4% | 11.3–14.7% | 10.9–15.3% |
+| [11–12 January 2021](2021-01-12-Euromedia.html) | Euromedia | 14.1% | 12.8–15.6% | 12.4–16.0% | 12.1–16.4% | 11.5–17.1% |
+| [12 January 2021](2021-01-12-EMG.html) | EMG <br> Rai 3 | 13.9% | 12.9–15.0% | 12.6–15.4% | 12.3–15.6% | 11.8–16.2% |
+| [11 January 2021](2021-01-11-Tecnè.html) | Tecnè <br> Rete 4 | 14.1% | 12.7–15.8% | 12.2–16.3% | 11.9–16.7% | 11.2–17.6% |
 | [7–11 January 2021](2021-01-11-SWG.html) | SWG <br> La7 | 14.7% | 13.4–16.0% | 13.1–16.4% | 12.8–16.8% | 12.2–17.5% |
 | [2–5 January 2021](2021-01-05-Lab2101.html) | Lab2101 <br> Affari Italiani | 14.4% | 13.1–15.9% | 12.7–16.3% | 12.4–16.7% | 11.7–17.5% |
-| [4 January 2021](2021-01-04-Tecnè.html) | Tecnè <br> Quarta Repubblica | 14.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.3% | 11.4–17.0% |
+| [4 January 2021](2021-01-04-Tecnè.html) | Tecnè <br> Rete 4 | 14.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.3% | 11.4–17.0% |
 | [28–31 December 2020](2020-12-31-Lab2101.html) | Lab2101 <br> Affari Italiani | 14.7% | 13.3–16.2% | 13.0–16.7% | 12.6–17.0% | 12.0–17.8% |
 | [28 December 2020](2020-12-28-EMG.html) | EMG <br> Rai 3 | 13.9% | 12.8–15.0% | 12.5–15.3% | 12.3–15.6% | 11.8–16.2% |
 | [16–21 December 2020](2020-12-21-SWG.html) | SWG <br> La7 | 14.3% | 13.1–15.7% | 12.8–16.1% | 12.5–16.4% | 11.9–17.1% |
@@ -26,7 +35,7 @@ Last result: **21.2%** (General Election of 26 May 2019)
 | [16–17 December 2020](2020-12-17-Ipsos.html) | Ipsos <br> Corriere della Sera | 16.0% | 14.6–17.6% | 14.2–18.0% | 13.9–18.4% | 13.2–19.2% |
 | [13–16 December 2020](2020-12-16-BiDiMedia.html) | BiDiMedia | 12.7% | 11.6–13.9% | 11.3–14.3% | 11.1–14.6% | 10.6–15.2% |
 | [15 December 2020](2020-12-15-Euromedia.html) | Euromedia <br> Rai 1 | 14.8% | 13.2–16.5% | 12.8–17.0% | 12.5–17.4% | 11.8–18.2% |
-| [14 December 2020](2020-12-14-Tecnè.html) | Tecnè <br> Quarta Repubblica | 14.3% | 13.0–15.8% | 12.6–16.2% | 12.3–16.6% | 11.6–17.4% |
+| [14 December 2020](2020-12-14-Tecnè.html) | Tecnè <br> Rete 4 | 14.3% | 13.0–15.8% | 12.6–16.2% | 12.3–16.6% | 11.6–17.4% |
 | [9–14 December 2020](2020-12-14-SWG.html) | SWG <br> La7 | 14.8% | 13.6–16.2% | 13.2–16.6% | 12.9–17.0% | 12.3–17.6% |
 | [14 December 2020](2020-12-14-EMG.html) | EMG <br> Rai 3 | 14.0% | 13.0–15.2% | 12.7–15.5% | 12.4–15.8% | 11.9–16.3% |
 | [11 December 2020](2020-12-11-Tecnè.html) | Tecnè <br> Agenzia Dire | 14.2% | 12.9–15.7% | 12.5–16.1% | 12.2–16.5% | 11.6–17.3% |
@@ -55,7 +64,7 @@ Last result: **21.2%** (General Election of 26 May 2019)
 | [19–20 November 2020](2020-11-20-Quorum–YouTrend.html) | Quorum – YouTrend | 15.0% | 13.1–17.2% | 12.6–17.8% | 12.1–18.4% | 11.3–19.5% |
 | [18–19 November 2020](2020-11-19-TermometroPolitico.html) | Termometro Politico | 14.3% | 13.4–15.3% | 13.1–15.6% | 12.9–15.8% | 12.5–16.3% |
 | [18 November 2020](2020-11-18-Euromedia.html) | Euromedia <br> Rai 1 | 15.5% | 14.0–17.3% | 13.5–17.7% | 13.2–18.2% | 12.5–19.1% |
-| [15–16 November 2020](2020-11-16-Tecnè.html) | Tecnè <br> Quarta Repubblica | 14.5% | 13.2–16.0% | 12.8–16.4% | 12.5–16.8% | 11.8–17.6% |
+| [15–16 November 2020](2020-11-16-Tecnè.html) | Tecnè <br> Rete 4 | 14.5% | 13.2–16.0% | 12.8–16.4% | 12.5–16.8% | 11.8–17.6% |
 | [11–16 November 2020](2020-11-16-SWG.html) | SWG <br> La7 | 15.3% | 14.1–16.8% | 13.7–17.1% | 13.4–17.5% | 12.8–18.2% |
 | [13 November 2020](2020-11-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 14.5% | 13.2–16.0% | 12.8–16.4% | 12.5–16.8% | 11.8–17.6% |
 | [12–13 November 2020](2020-11-13-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 15.3% | 13.4–17.6% | 12.9–18.2% | 12.5–18.8% | 11.6–19.9% |
@@ -107,9 +116,9 @@ Last result: **21.2%** (General Election of 26 May 2019)
 | [23–24 September 2020](2020-09-24-TermometroPolitico.html) | Termometro Politico | 14.8% | 13.9–15.7% | 13.7–16.0% | 13.5–16.2% | 13.0–16.7% |
 | [23–24 September 2020](2020-09-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 18.6% | 17.1–20.3% | 16.7–20.7% | 16.3–21.1% | 15.6–21.9% |
 | [21–24 September 2020](2020-09-24-BiDiMedia.html) | BiDiMedia | 14.1% | 12.9–15.3% | 12.6–15.7% | 12.3–16.0% | 11.8–16.6% |
-| [19–21 September 2020](2020-09-21-Tecnè.html) | Tecnè <br> Quarta Repubblica | 15.7% | 15.0–16.4% | 14.9–16.6% | 14.7–16.7% | 14.4–17.1% |
+| [19–21 September 2020](2020-09-21-Tecnè.html) | Tecnè <br> Rete 4 | 15.7% | 15.0–16.4% | 14.9–16.6% | 14.7–16.7% | 14.4–17.1% |
 | [2–3 September 2020](2020-09-03-TermometroPolitico.html) | Termometro Politico | 14.4% | 13.5–15.3% | 13.3–15.6% | 13.1–15.8% | 12.7–16.2% |
-| [29–31 August 2020](2020-08-31-Tecnè.html) | Tecnè <br> Quarta Repubblica | 16.3% | 15.3–17.4% | 15.0–17.7% | 14.7–18.0% | 14.3–18.5% |
+| [29–31 August 2020](2020-08-31-Tecnè.html) | Tecnè <br> Rete 4 | 16.3% | 15.3–17.4% | 15.0–17.7% | 14.7–18.0% | 14.3–18.5% |
 | [26–31 August 2020](2020-08-31-SWG.html) | SWG <br> La7 | 15.8% | 14.5–17.3% | 14.2–17.7% | 13.9–18.0% | 13.3–18.7% |
 | [26–27 August 2020](2020-08-27-TermometroPolitico.html) | Termometro Politico | 14.4% | 13.5–15.3% | 13.3–15.6% | 13.1–15.8% | 12.7–16.2% |
 | [23–27 August 2020](2020-08-27-BiDiMedia.html) | BiDiMedia | 15.2% | 14.1–16.4% | 13.8–16.7% | 13.5–17.0% | 13.0–17.6% |
@@ -282,14 +291,14 @@ Last result: **21.2%** (General Election of 26 May 2019)
 | [24–25 February 2020](2020-02-25-Ixè.html) | Ixè <br> Rai 3 | 15.4% | 14.0–16.9% | 13.6–17.4% | 13.3–17.8% | 12.7–18.5% |
 | [19–24 February 2020](2020-02-24-SWG.html) | SWG <br> Agenzia Dire | 13.4% | 12.2–14.8% | 11.9–15.1% | 11.6–15.5% | 11.1–16.1% |
 | [20–22 February 2020](2020-02-22-Piepoli.html) | Piepoli <br> Rai 2 | 14.9% | 13.0–17.1% | 12.5–17.7% | 12.1–18.3% | 11.2–19.4% |
-| [20–21 February 2020](2020-02-21-Tecnè.html) | Tecnè <br> Quarta Repubblica | 13.3% | 12.0–14.8% | 11.6–15.2% | 11.3–15.6% | 10.7–16.3% |
+| [20–21 February 2020](2020-02-21-Tecnè.html) | Tecnè <br> Rete 4 | 13.3% | 12.0–14.8% | 11.6–15.2% | 11.3–15.6% | 10.7–16.3% |
 | [19–20 February 2020](2020-02-20-TermometroPolitico.html) | Termometro Politico <br> La7 | 15.2% | 14.4–16.0% | 14.2–16.3% | 14.0–16.5% | 13.6–16.9% |
 | [19 February 2020](2020-02-19-Index.html) | Index <br> La7 | 14.6% | 13.1–16.3% | 12.7–16.8% | 12.3–17.3% | 11.7–18.1% |
 | [18–19 February 2020](2020-02-19-EMG.html) | EMG <br> Rai 3 | 14.4% | 13.4–15.5% | 13.2–15.8% | 12.9–16.0% | 12.5–16.5% |
 | [17–18 February 2020](2020-02-18-Ixè.html) | Ixè <br> Agenzia Dire | 14.9% | 13.5–16.4% | 13.2–16.9% | 12.8–17.3% | 12.2–18.0% |
 | [17–18 February 2020](2020-02-18-Euromedia.html) | Euromedia <br> Rai 1 | 14.4% | 12.9–16.1% | 12.5–16.6% | 12.1–17.0% | 11.4–17.8% |
 | [16–18 February 2020](2020-02-18-Demopolis.html) | Demopolis | 14.5% | 13.5–15.6% | 13.3–15.9% | 13.0–16.1% | 12.6–16.6% |
-| [16–17 February 2020](2020-02-17-Tecnè.html) | Tecnè <br> Quarta Repubblica | 13.4% | 12.1–14.9% | 11.7–15.3% | 11.4–15.7% | 10.8–16.4% |
+| [16–17 February 2020](2020-02-17-Tecnè.html) | Tecnè <br> Rete 4 | 13.4% | 12.1–14.9% | 11.7–15.3% | 11.4–15.7% | 10.8–16.4% |
 | [12–17 February 2020](2020-02-17-SWG.html) | SWG <br> La7 | 13.0% | 11.8–14.3% | 11.5–14.7% | 11.2–15.0% | 10.7–15.7% |
 | [13–14 February 2020](2020-02-14-Tecnè.html) | Tecnè <br> Agenzia Dire | 13.5% | 12.2–15.0% | 11.8–15.4% | 11.5–15.8% | 10.9–16.5% |
 | [12–13 February 2020](2020-02-13-TermometroPolitico.html) | Termometro Politico <br> La7 | 15.0% | 14.2–15.7% | 14.0–15.9% | 13.9–16.1% | 13.5–16.5% |
@@ -559,18 +568,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0.1% | 100% |  |
-| 10.5–11.5% | 1.1% | 99.9% |  |
-| 11.5–12.5% | 6% | 98.8% |  |
+| 9.5–10.5% | 0% | 100% |  |
+| 10.5–11.5% | 0.9% | 100% |  |
+| 11.5–12.5% | 6% | 99.1% |  |
 | 12.5–13.5% | 18% | 93% |  |
-| 13.5–14.5% | 29% | 75% | Median |
-| 14.5–15.5% | 24% | 46% |  |
-| 15.5–16.5% | 14% | 22% |  |
-| 16.5–17.5% | 6% | 9% |  |
+| 13.5–14.5% | 25% | 75% |  |
+| 14.5–15.5% | 23% | 49% | Median |
+| 15.5–16.5% | 16% | 26% |  |
+| 16.5–17.5% | 7% | 10% |  |
 | 17.5–18.5% | 2% | 3% |  |
-| 18.5–19.5% | 0.5% | 0.6% |  |
-| 19.5–20.5% | 0.1% | 0.1% |  |
+| 18.5–19.5% | 0.4% | 0.4% |  |
+| 19.5–20.5% | 0% | 0.1% |  |
 | 20.5–21.5% | 0% | 0% | Last Result |
 
 
@@ -582,11 +590,20 @@ Last result: **17** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 11–14 | 11–15 | 10–15 | 10–16 |
-| [11 January 2021](2021-01-11-Tecnè.html) | Tecnè <br> Quarta Repubblica | 13 | 11–14 | 11–15 | 11–15 | 10–15 |
+| N/A | [Poll Average](average.html) | 13 | 11–15 | 10–15 | 10–16 | 10–17 |
+| [14–18 January 2021](2021-01-18-SWG.html) | SWG <br> La7 | 15 | 13–16 | 12–16 | 12–16 | 11–16 |
+| [15–18 January 2021](2021-01-18-Demopolis.html) | Demopolis <br> La7 | 13 | 12–14 | 12–14 | 11–15 | 11–15 |
+| [16–17 January 2021](2021-01-17-Tecnè.html) | Tecnè <br> Rete 4 | 13 | 11–14 | 11–14 | 10–15 | 10–16 |
+| [14 January 2021](2021-01-14-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 11 | 10–12 | 10–13 | 10–13 | 9–14 |
+| [13–14 January 2021](2021-01-14-Ipsos.html) | Ipsos <br> Corriere della Sera | 14 | 13–16 | 12–17 | 12–17 | 12–18 |
+| [14 January 2021](2021-01-14-Index.html) | Index <br> La7 | 14 | 12–15 | 11–15 | 10–15 | 10–16 |
+| [10–13 January 2021](2021-01-13-BiDiMedia.html) | BiDiMedia | 11 | 10–12 | 10–13 | 10–13 | 9–13 |
+| [11–12 January 2021](2021-01-12-Euromedia.html) | Euromedia | 12 | 11–13 | 11–14 | 10–14 | 10–15 |
+| [12 January 2021](2021-01-12-EMG.html) | EMG <br> Rai 3 | 13 | 11–13 | 11–13 | 11–14 | 11–15 |
+| [11 January 2021](2021-01-11-Tecnè.html) | Tecnè <br> Rete 4 | 13 | 11–14 | 11–15 | 11–15 | 10–15 |
 | [7–11 January 2021](2021-01-11-SWG.html) | SWG <br> La7 | 13 | 12–14 | 12–15 | 11–15 | 11–16 |
 | [2–5 January 2021](2021-01-05-Lab2101.html) | Lab2101 <br> Affari Italiani | 13 | 11–14 | 11–14 | 11–15 | 10–16 |
-| [4 January 2021](2021-01-04-Tecnè.html) | Tecnè <br> Quarta Repubblica | 12 | 11–14 | 11–14 | 11–15 | 10–15 |
+| [4 January 2021](2021-01-04-Tecnè.html) | Tecnè <br> Rete 4 | 12 | 11–14 | 11–14 | 11–15 | 10–15 |
 | [28–31 December 2020](2020-12-31-Lab2101.html) | Lab2101 <br> Affari Italiani | 13 | 12–14 | 11–15 | 11–15 | 10–16 |
 | [28 December 2020](2020-12-28-EMG.html) | EMG <br> Rai 3 | 12 | 11–13 | 11–14 | 11–14 | 11–14 |
 | [16–21 December 2020](2020-12-21-SWG.html) | SWG <br> La7 | 12 | 11–15 | 11–15 | 11–15 | 11–15 |
@@ -598,7 +615,7 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [16–17 December 2020](2020-12-17-Ipsos.html) | Ipsos <br> Corriere della Sera | 14 | 13–16 | 13–16 | 12–16 | 11–17 |
 | [13–16 December 2020](2020-12-16-BiDiMedia.html) | BiDiMedia | 11 | 10–12 | 10–12 | 9–13 | 9–13 |
 | [15 December 2020](2020-12-15-Euromedia.html) | Euromedia <br> Rai 1 | 13 | 11–14 | 10–14 | 10–14 | 10–16 |
-| [14 December 2020](2020-12-14-Tecnè.html) | Tecnè <br> Quarta Repubblica | 13 | 11–14 | 11–14 | 11–15 | 10–15 |
+| [14 December 2020](2020-12-14-Tecnè.html) | Tecnè <br> Rete 4 | 13 | 11–14 | 11–14 | 11–15 | 10–15 |
 | [9–14 December 2020](2020-12-14-SWG.html) | SWG <br> La7 | 14 | 12–14 | 12–15 | 11–15 | 11–16 |
 | [14 December 2020](2020-12-14-EMG.html) | EMG <br> Rai 3 | 13 | 11–14 | 11–14 | 11–14 | 10–15 |
 | [11 December 2020](2020-12-11-Tecnè.html) | Tecnè <br> Agenzia Dire | 13 | 11–14 | 11–14 | 11–15 | 10–16 |
@@ -627,7 +644,7 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [19–20 November 2020](2020-11-20-Quorum–YouTrend.html) | Quorum – YouTrend | 13 | 11–15 | 11–16 | 10–16 | 9–17 |
 | [18–19 November 2020](2020-11-19-TermometroPolitico.html) | Termometro Politico | 12 | 11–13 | 11–13 | 11–13 | 11–14 |
 | [18 November 2020](2020-11-18-Euromedia.html) | Euromedia <br> Rai 1 | 13 | 12–15 | 12–15 | 11–15 | 10–16 |
-| [15–16 November 2020](2020-11-16-Tecnè.html) | Tecnè <br> Quarta Repubblica | 13 | 12–14 | 11–15 | 11–15 | 10–15 |
+| [15–16 November 2020](2020-11-16-Tecnè.html) | Tecnè <br> Rete 4 | 13 | 12–14 | 11–15 | 11–15 | 10–15 |
 | [11–16 November 2020](2020-11-16-SWG.html) | SWG <br> La7 | 14 | 13–16 | 12–16 | 12–16 | 11–17 |
 | [13 November 2020](2020-11-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 13 | 12–14 | 11–15 | 11–15 | 10–16 |
 | [12–13 November 2020](2020-11-13-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 13 | 11–15 | 11–16 | 10–16 | 10–17 |
@@ -679,9 +696,9 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [23–24 September 2020](2020-09-24-TermometroPolitico.html) | Termometro Politico | 13 | 12–14 | 12–14 | 12–14 | 11–14 |
 | [23–24 September 2020](2020-09-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 16 | 15–18 | 15–18 | 14–19 | 14–19 |
 | [21–24 September 2020](2020-09-24-BiDiMedia.html) | BiDiMedia | 12 | 11–13 | 11–13 | 10–14 | 10–15 |
-| [19–21 September 2020](2020-09-21-Tecnè.html) | Tecnè <br> Quarta Repubblica | 14 | 13–14 | 13–15 | 13–15 | 13–15 |
+| [19–21 September 2020](2020-09-21-Tecnè.html) | Tecnè <br> Rete 4 | 14 | 13–14 | 13–15 | 13–15 | 13–15 |
 | [2–3 September 2020](2020-09-03-TermometroPolitico.html) | Termometro Politico | 12 | 12–13 | 11–13 | 11–14 | 11–14 |
-| [29–31 August 2020](2020-08-31-Tecnè.html) | Tecnè <br> Quarta Repubblica | 15 | 13–16 | 13–16 | 13–16 | 12–16 |
+| [29–31 August 2020](2020-08-31-Tecnè.html) | Tecnè <br> Rete 4 | 15 | 13–16 | 13–16 | 13–16 | 12–16 |
 | [26–31 August 2020](2020-08-31-SWG.html) | SWG <br> La7 | 14 | 13–15 | 13–15 | 12–16 | 12–17 |
 | [26–27 August 2020](2020-08-27-TermometroPolitico.html) | Termometro Politico | 12 | 12–13 | 11–13 | 11–14 | 11–14 |
 | [23–27 August 2020](2020-08-27-BiDiMedia.html) | BiDiMedia | 13 | 12–14 | 12–14 | 12–14 | 11–15 |
@@ -854,14 +871,14 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [24–25 February 2020](2020-02-25-Ixè.html) | Ixè <br> Rai 3 | 13 | 12–15 | 12–16 | 12–16 | 11–17 |
 | [19–24 February 2020](2020-02-24-SWG.html) | SWG <br> Agenzia Dire | 12 | 11–13 | 11–14 | 10–14 | 10–15 |
 | [20–22 February 2020](2020-02-22-Piepoli.html) | Piepoli <br> Rai 2 | 12 | 11–14 | 10–14 | 10–15 | 9–16 |
-| [20–21 February 2020](2020-02-21-Tecnè.html) | Tecnè <br> Quarta Repubblica | 11 | 10–13 | 10–13 | 10–14 | 9–14 |
+| [20–21 February 2020](2020-02-21-Tecnè.html) | Tecnè <br> Rete 4 | 11 | 10–13 | 10–13 | 10–14 | 9–14 |
 | [19–20 February 2020](2020-02-20-TermometroPolitico.html) | Termometro Politico <br> La7 | 13 | 12–13 | 12–14 | 12–14 | 12–15 |
 | [19 February 2020](2020-02-19-Index.html) | Index <br> La7 | 12 | 11–14 | 11–14 | 10–15 | 10–15 |
 | [18–19 February 2020](2020-02-19-EMG.html) | EMG <br> Rai 3 | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
 | [17–18 February 2020](2020-02-18-Ixè.html) | Ixè <br> Agenzia Dire | 12 | 12–14 | 12–14 | 11–15 | 10–16 |
 | [17–18 February 2020](2020-02-18-Euromedia.html) | Euromedia <br> Rai 1 | 12 | 11–13 | 11–14 | 10–14 | 9–16 |
 | [16–18 February 2020](2020-02-18-Demopolis.html) | Demopolis | 12 | 11–12 | 10–13 | 10–13 | 10–13 |
-| [16–17 February 2020](2020-02-17-Tecnè.html) | Tecnè <br> Quarta Repubblica | 12 | 11–13 | 10–13 | 10–14 | 10–14 |
+| [16–17 February 2020](2020-02-17-Tecnè.html) | Tecnè <br> Rete 4 | 12 | 11–13 | 10–13 | 10–14 | 10–14 |
 | [12–17 February 2020](2020-02-17-SWG.html) | SWG <br> La7 | 12 | 11–12 | 10–13 | 10–13 | 9–14 |
 | [13–14 February 2020](2020-02-14-Tecnè.html) | Tecnè <br> Agenzia Dire | 12 | 10–13 | 10–14 | 10–14 | 10–14 |
 | [12–13 February 2020](2020-02-13-TermometroPolitico.html) | Termometro Politico <br> La7 | 13 | 12–13 | 12–14 | 12–14 | 12–14 |
@@ -1133,15 +1150,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 0.4% | 100% |  |
-| 10 | 3% | 99.6% |  |
-| 11 | 13% | 96% |  |
-| 12 | 31% | 84% |  |
-| 13 | 30% | 53% | Median |
-| 14 | 15% | 23% |  |
-| 15 | 6% | 8% |  |
-| 16 | 1.4% | 2% |  |
-| 17 | 0.5% | 0.5% | Last Result |
-| 18 | 0% | 0% |  |
+| 9 | 0.3% | 100% |  |
+| 10 | 6% | 99.7% |  |
+| 11 | 16% | 94% |  |
+| 12 | 23% | 78% |  |
+| 13 | 26% | 55% | Median |
+| 14 | 17% | 29% |  |
+| 15 | 9% | 13% |  |
+| 16 | 3% | 4% |  |
+| 17 | 0.6% | 0.7% | Last Result |
+| 18 | 0.1% | 0.1% |  |
+| 19 | 0% | 0% |  |
 
 
