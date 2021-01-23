@@ -587,15 +587,15 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
-| [14–18 January 2021](2021-01-18-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0–4 |
+| [14–18 January 2021](2021-01-18-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0–3 |
 | [15–18 January 2021](2021-01-18-Demopolis.html) | Demopolis <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [16–17 January 2021](2021-01-17-Tecnè.html) | Tecnè <br> Rete 4 | 0 | 0 | 0 | 0 | 0 |
-| [14 January 2021](2021-01-14-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0–3 | 0–4 | 0–4 |
+| [14 January 2021](2021-01-14-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [13–14 January 2021](2021-01-14-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
 | [14 January 2021](2021-01-14-Index.html) | Index <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [10–13 January 2021](2021-01-13-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
 | [11–12 January 2021](2021-01-12-Euromedia.html) | Euromedia | 0 | 0 | 0–3 | 0–3 | 0–4 |
-| [12 January 2021](2021-01-12-EMG.html) | EMG <br> Rai 3 | 4 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [12 January 2021](2021-01-12-EMG.html) | EMG <br> Rai 3 | 4 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [11 January 2021](2021-01-11-Tecnè.html) | Tecnè <br> Rete 4 | 0 | 0 | 0 | 0–3 | 0–4 |
 | [7–11 January 2021](2021-01-11-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0–4 |
 | [2–5 January 2021](2021-01-05-Lab2101.html) | Lab2101 <br> Affari Italiani | 0 | 0 | 0 | 0 | 0–4 |
@@ -1149,9 +1149,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 86% | 100% | Last Result, Median |
 | 1 | 0% | 14% |  |
 | 2 | 0% | 14% |  |
-| 3 | 2% | 14% |  |
-| 4 | 12% | 12% |  |
-| 5 | 0.1% | 0.1% |  |
+| 3 | 4% | 14% |  |
+| 4 | 10% | 10% |  |
+| 5 | 0.3% | 0.3% |  |
 | 6 | 0% | 0% |  |
 
 

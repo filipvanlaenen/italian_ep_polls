@@ -590,7 +590,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [16–17 January 2021](2021-01-17-Tecnè.html) | Tecnè <br> Rete 4 | 0 | 0 | 0 | 0 | 0 |
 | [14 January 2021](2021-01-14-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
 | [13–14 January 2021](2021-01-14-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0–3 |
-| [14 January 2021](2021-01-14-Index.html) | Index <br> La7 | 0 | 0 | 0 | 0 | 0 |
+| [14 January 2021](2021-01-14-Index.html) | Index <br> La7 | 0 | 0 | 0 | 0 | 0–4 |
 | [10–13 January 2021](2021-01-13-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
 | [11–12 January 2021](2021-01-12-Euromedia.html) | Euromedia | 0 | 0 | 0 | 0 | 0 |
 | [12 January 2021](2021-01-12-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
@@ -1144,10 +1144,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.9% | 100% | Last Result, Median |
-| 1 | 0% | 0.1% |  |
-| 2 | 0% | 0.1% |  |
-| 3 | 0% | 0.1% |  |
+| 0 | 99.8% | 100% | Last Result, Median |
+| 1 | 0% | 0.2% |  |
+| 2 | 0% | 0.2% |  |
+| 3 | 0% | 0.2% |  |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 

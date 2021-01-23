@@ -597,16 +597,16 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 13–16 | 12–16 | 12–16 | 11–17 |
-| [14–18 January 2021](2021-01-18-SWG.html) | SWG <br> La7 | 14 | 13–16 | 13–16 | 13–16 | 12–18 |
-| [15–18 January 2021](2021-01-18-Demopolis.html) | Demopolis <br> La7 | 14 | 13–15 | 13–15 | 12–15 | 12–16 |
+| N/A | [Poll Average](average.html) | 14 | 13–16 | 12–16 | 12–17 | 11–17 |
+| [14–18 January 2021](2021-01-18-SWG.html) | SWG <br> La7 | 14 | 13–16 | 13–16 | 12–16 | 12–17 |
+| [15–18 January 2021](2021-01-18-Demopolis.html) | Demopolis <br> La7 | 14 | 13–15 | 13–15 | 13–15 | 12–16 |
 | [16–17 January 2021](2021-01-17-Tecnè.html) | Tecnè <br> Rete 4 | 14 | 13–16 | 13–17 | 12–17 | 12–17 |
-| [14 January 2021](2021-01-14-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 14 | 13–15 | 13–16 | 13–17 | 11–17 |
+| [14 January 2021](2021-01-14-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 14 | 12–15 | 12–16 | 12–16 | 11–17 |
 | [13–14 January 2021](2021-01-14-Ipsos.html) | Ipsos <br> Corriere della Sera | 13 | 12–14 | 11–15 | 11–15 | 11–16 |
-| [14 January 2021](2021-01-14-Index.html) | Index <br> La7 | 15 | 13–16 | 13–16 | 13–16 | 12–19 |
+| [14 January 2021](2021-01-14-Index.html) | Index <br> La7 | 15 | 14–17 | 13–17 | 13–17 | 12–18 |
 | [10–13 January 2021](2021-01-13-BiDiMedia.html) | BiDiMedia | 14 | 13–15 | 13–16 | 13–16 | 12–16 |
 | [11–12 January 2021](2021-01-12-Euromedia.html) | Euromedia | 13 | 12–15 | 11–15 | 11–15 | 11–16 |
-| [12 January 2021](2021-01-12-EMG.html) | EMG <br> Rai 3 | 15 | 14–16 | 14–16 | 13–16 | 13–16 |
+| [12 January 2021](2021-01-12-EMG.html) | EMG <br> Rai 3 | 15 | 13–16 | 13–16 | 12–17 | 12–17 |
 | [11 January 2021](2021-01-11-Tecnè.html) | Tecnè <br> Rete 4 | 15 | 13–16 | 13–16 | 12–17 | 12–18 |
 | [7–11 January 2021](2021-01-11-SWG.html) | SWG <br> La7 | 16 | 14–16 | 14–17 | 14–17 | 13–18 |
 | [2–5 January 2021](2021-01-05-Lab2101.html) | Lab2101 <br> Affari Italiani | 15 | 13–16 | 13–16 | 12–17 | 12–18 |
@@ -1169,14 +1169,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0.1% | 100% |  |
 | 11 | 1.4% | 99.9% |  |
-| 12 | 6% | 98% |  |
-| 13 | 27% | 93% |  |
-| 14 | 28% | 66% | Median |
-| 15 | 26% | 38% |  |
-| 16 | 9% | 11% |  |
-| 17 | 2% | 2% |  |
-| 18 | 0.2% | 0.3% |  |
-| 19 | 0.1% | 0.1% |  |
-| 20 | 0% | 0% |  |
+| 12 | 7% | 98% |  |
+| 13 | 25% | 91% |  |
+| 14 | 31% | 67% | Median |
+| 15 | 24% | 36% |  |
+| 16 | 9% | 12% |  |
+| 17 | 3% | 3% |  |
+| 18 | 0.3% | 0.3% |  |
+| 19 | 0% | 0% |  |
 
 
