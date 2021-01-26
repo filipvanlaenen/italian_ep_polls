@@ -577,7 +577,7 @@ The following table shows the probability mass function per percentage block of 
 | 15.5–16.5% | 0.4% | 100% |  |
 | 16.5–17.5% | 2% | 99.6% |  |
 | 17.5–18.5% | 9% | 97% |  |
-| 18.5–19.5% | 21% | 89% |  |
+| 18.5–19.5% | 20% | 89% |  |
 | 19.5–20.5% | 29% | 68% | Median |
 | 20.5–21.5% | 24% | 39% |  |
 | 21.5–22.5% | 11% | 15% |  |
@@ -611,7 +611,7 @@ Last result: **31** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16 | 15–18 | 14–19 | 14–19 | 13–20 |
-| [22 January 2021](2021-01-22-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [22 January 2021](2021-01-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 16 | 15–18 | 15–19 | 15–19 | 14–20 |
 | [19–21 January 2021](2021-01-21-TermometroPolitico.html) | Termometro Politico | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [20 January 2021](2021-01-20-Euromedia.html) | Euromedia | 15 | 15–17 | 14–18 | 13–18 | 13–19 |
 | [15–19 January 2021](2021-01-19-Index.html) | Index <br> La7 | 16 | 15–18 | 15–19 | 14–19 | 14–19 |
@@ -1178,11 +1178,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0.1% | 100% |  |
 | 13 | 2% | 99.9% |  |
 | 14 | 4% | 98% |  |
-| 15 | 19% | 94% |  |
+| 15 | 20% | 94% |  |
 | 16 | 28% | 74% | Median |
-| 17 | 23% | 47% |  |
-| 18 | 17% | 23% |  |
-| 19 | 4% | 7% |  |
+| 17 | 23% | 46% |  |
+| 18 | 16% | 22% |  |
+| 19 | 5% | 7% |  |
 | 20 | 2% | 2% |  |
 | 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |
