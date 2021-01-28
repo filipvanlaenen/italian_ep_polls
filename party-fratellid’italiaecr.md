@@ -606,7 +606,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [19–21 January 2021](2021-01-21-TermometroPolitico.html) | Termometro Politico | 15 | 14–16 | 14–16 | 14–17 | 13–17 |
 | [20 January 2021](2021-01-20-Euromedia.html) | Euromedia | 13 | 12–15 | 12–15 | 11–15 | 11–16 |
 | [15–19 January 2021](2021-01-19-Index.html) | Index <br> La7 | 16 | 15–17 | 14–17 | 14–17 | 13–18 |
-| [19 January 2021](2021-01-19-EMG.html) | EMG <br> Rai | 15 | 14–16 | 13–16 | 13–16 | 13–16 |
+| [19 January 2021](2021-01-19-EMG.html) | EMG <br> Rai | 14 | 14–16 | 13–16 | 13–16 | 13–17 |
 | [14–18 January 2021](2021-01-18-SWG.html) | SWG <br> La7 | 14 | 13–16 | 13–16 | 12–16 | 12–17 |
 | [15–18 January 2021](2021-01-18-Demopolis.html) | Demopolis <br> La7 | 14 | 13–15 | 13–15 | 13–15 | 12–16 |
 | [16–17 January 2021](2021-01-17-Tecnè.html) | Tecnè <br> Rete 4 | 14 | 13–16 | 13–17 | 12–17 | 12–17 |
@@ -1177,12 +1177,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 0.1% | 100% |  |
-| 11 | 1.0% | 99.9% |  |
+| 11 | 1.1% | 99.9% |  |
 | 12 | 5% | 98.9% |  |
 | 13 | 21% | 93% |  |
-| 14 | 26% | 72% | Median |
-| 15 | 31% | 47% |  |
-| 16 | 12% | 16% |  |
+| 14 | 29% | 73% | Median |
+| 15 | 28% | 43% |  |
+| 16 | 12% | 15% |  |
 | 17 | 3% | 3% |  |
 | 18 | 0.4% | 0.4% |  |
 | 19 | 0% | 0% |  |

@@ -596,11 +596,11 @@ Last result: **17** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 11–14 | 11–15 | 10–15 | 10–17 |
-| [22 January 2021](2021-01-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 13 | 11–14 | 11–15 | 11–15 | 10–15 |
+| [22 January 2021](2021-01-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 13 | 11–14 | 11–15 | 10–15 | 10–15 |
 | [19–21 January 2021](2021-01-21-TermometroPolitico.html) | Termometro Politico | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
 | [20 January 2021](2021-01-20-Euromedia.html) | Euromedia | 12 | 11–13 | 11–14 | 10–15 | 10–15 |
 | [15–19 January 2021](2021-01-19-Index.html) | Index <br> La7 | 14 | 12–15 | 12–16 | 11–16 | 11–16 |
-| [19 January 2021](2021-01-19-EMG.html) | EMG <br> Rai | 13 | 12–14 | 12–15 | 12–15 | 11–15 |
+| [19 January 2021](2021-01-19-EMG.html) | EMG <br> Rai | 13 | 12–14 | 11–14 | 11–15 | 11–15 |
 | [14–18 January 2021](2021-01-18-SWG.html) | SWG <br> La7 | 14 | 13–15 | 12–15 | 12–16 | 11–16 |
 | [15–18 January 2021](2021-01-18-Demopolis.html) | Demopolis <br> La7 | 13 | 12–14 | 12–14 | 11–14 | 11–15 |
 | [16–17 January 2021](2021-01-17-Tecnè.html) | Tecnè <br> Rete 4 | 13 | 11–14 | 11–14 | 10–15 | 10–16 |
@@ -1162,9 +1162,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 9 | 0.2% | 100% |  |
 | 10 | 3% | 99.8% |  |
-| 11 | 13% | 97% |  |
-| 12 | 25% | 84% |  |
-| 13 | 29% | 59% | Median |
+| 11 | 12% | 97% |  |
+| 12 | 24% | 84% |  |
+| 13 | 31% | 60% | Median |
 | 14 | 21% | 30% |  |
 | 15 | 7% | 9% |  |
 | 16 | 2% | 2% |  |

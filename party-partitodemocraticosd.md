@@ -610,12 +610,12 @@ Last result: **31** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 15–18 | 14–19 | 14–19 | 13–20 |
-| [22 January 2021](2021-01-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 16 | 15–18 | 15–19 | 15–19 | 14–20 |
+| N/A | [Poll Average](average.html) | 16 | 15–18 | 14–19 | 14–20 | 13–20 |
+| [22 January 2021](2021-01-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 16 | 15–19 | 15–19 | 14–19 | 14–20 |
 | [19–21 January 2021](2021-01-21-TermometroPolitico.html) | Termometro Politico | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [20 January 2021](2021-01-20-Euromedia.html) | Euromedia | 15 | 15–17 | 14–18 | 13–18 | 13–19 |
 | [15–19 January 2021](2021-01-19-Index.html) | Index <br> La7 | 16 | 15–18 | 15–19 | 14–19 | 14–19 |
-| [19 January 2021](2021-01-19-EMG.html) | EMG <br> Rai | 16 | 15–17 | 15–18 | 15–19 | 15–19 |
+| [19 January 2021](2021-01-19-EMG.html) | EMG <br> Rai | 17 | 16–18 | 15–19 | 15–20 | 14–20 |
 | [14–18 January 2021](2021-01-18-SWG.html) | SWG <br> La7 | 16 | 15–18 | 14–18 | 14–19 | 14–19 |
 | [15–18 January 2021](2021-01-18-Demopolis.html) | Demopolis <br> La7 | 16 | 15–17 | 15–17 | 15–18 | 14–18 |
 | [16–17 January 2021](2021-01-17-Tecnè.html) | Tecnè <br> Rete 4 | 17 | 15–18 | 15–19 | 15–19 | 14–20 |
@@ -1178,12 +1178,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0.1% | 100% |  |
 | 13 | 2% | 99.9% |  |
 | 14 | 4% | 98% |  |
-| 15 | 20% | 94% |  |
-| 16 | 28% | 74% | Median |
-| 17 | 23% | 46% |  |
-| 18 | 16% | 22% |  |
+| 15 | 18% | 94% |  |
+| 16 | 27% | 76% | Median |
+| 17 | 24% | 49% |  |
+| 18 | 18% | 25% |  |
 | 19 | 5% | 7% |  |
-| 20 | 2% | 2% |  |
+| 20 | 2% | 3% |  |
 | 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |
 | 23 | 0% | 0% |  |
