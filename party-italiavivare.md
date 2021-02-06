@@ -10,7 +10,16 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.9% | 2.2–3.9% | 2.0–4.2% | 1.9–4.5% | 1.6–5.0% |
+| N/A | [Poll Average](average.html) | 2.9% | 2.1–3.9% | 1.9–4.2% | 1.7–4.5% | 1.5–5.0% |
+| [26–28 January 2021](2021-01-28-TermometroPolitico.html) | Termometro Politico | 3.3% | 2.9–3.8% | 2.8–3.9% | 2.7–4.0% | 2.5–4.2% |
+| [25–28 January 2021](2021-01-28-Ixè.html) | Ixè | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
+| [27–28 January 2021](2021-01-28-Ipsos.html) | Ipsos | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
+| [26–27 January 2021](2021-01-27-Winpoll.html) | Winpoll <br> Il Sole 24 Ore | 2.4% | 1.9–3.2% | 1.7–3.4% | 1.6–3.6% | 1.4–3.9% |
+| [25–27 January 2021](2021-01-27-Lab2101.html) | Lab2101 <br> Affari Italiani | 2.9% | 2.2–3.8% | 2.1–4.0% | 1.9–4.3% | 1.6–4.8% |
+| [27 January 2021](2021-01-27-Index.html) | Index <br> La7 | 2.9% | 2.2–3.8% | 2.1–4.1% | 1.9–4.3% | 1.7–4.8% |
+| [26 January 2021](2021-01-26-EMG.html) | EMG <br> Rai 3 | 4.1% | 3.5–4.8% | 3.4–5.0% | 3.2–5.2% | 3.0–5.6% |
+| [20–25 January 2021](2021-01-25-SWG.html) | SWG <br> La7 | 3.0% | 2.5–3.7% | 2.3–3.9% | 2.2–4.1% | 1.9–4.5% |
+| [23–25 January 2021](2021-01-25-Demopolis.html) | Demopolis <br> Radio1 Rai | 2.8% | 2.4–3.3% | 2.3–3.5% | 2.2–3.6% | 2.0–3.9% |
 | [22 January 2021](2021-01-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
 | [19–21 January 2021](2021-01-21-TermometroPolitico.html) | Termometro Politico | 3.3% | 2.8–3.8% | 2.7–4.0% | 2.6–4.1% | 2.4–4.4% |
 | [20 January 2021](2021-01-20-Euromedia.html) | Euromedia | 2.9% | 2.2–3.8% | 2.1–4.1% | 1.9–4.3% | 1.7–4.8% |
@@ -574,12 +583,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.3% | 100% |  |
-| 1.5–2.5% | 27% | 99.7% |  |
-| 2.5–3.5% | 54% | 73% | Median |
-| 3.5–4.5% | 17% | 19% |  |
+| 0.5–1.5% | 1.0% | 100% |  |
+| 1.5–2.5% | 29% | 99.0% |  |
+| 2.5–3.5% | 51% | 70% | Median |
+| 3.5–4.5% | 16% | 19% |  |
 | 4.5–5.5% | 2% | 2% |  |
-| 5.5–6.5% | 0% | 0% |  |
+| 5.5–6.5% | 0.1% | 0.1% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -591,7 +600,16 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0–4 | 0–4 | 0–4 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0–3 | 0–4 | 0–4 |
+| [26–28 January 2021](2021-01-28-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0–3 | 0–4 |
+| [25–28 January 2021](2021-01-28-Ixè.html) | Ixè | 0 | 0 | 0 | 0 | 0 |
+| [27–28 January 2021](2021-01-28-Ipsos.html) | Ipsos | 0 | 0 | 0 | 0 | 0 |
+| [26–27 January 2021](2021-01-27-Winpoll.html) | Winpoll <br> Il Sole 24 Ore | 0 | 0 | 0 | 0 | 0 |
+| [25–27 January 2021](2021-01-27-Lab2101.html) | Lab2101 <br> Affari Italiani | 0 | 0 | 0–4 | 0–4 | 0–4 |
+| [27 January 2021](2021-01-27-Index.html) | Index <br> La7 | 0 | 0 | 0–4 | 0–4 | 0–5 |
+| [26 January 2021](2021-01-26-EMG.html) | EMG <br> Rai 3 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [20–25 January 2021](2021-01-25-SWG.html) | SWG <br> La7 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [23–25 January 2021](2021-01-25-Demopolis.html) | Demopolis <br> Radio1 Rai | 0 | 0 | 0 | 0 | 0 |
 | [22 January 2021](2021-01-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0–4 |
 | [19–21 January 2021](2021-01-21-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0–3 | 0–3 | 0–4 |
 | [20 January 2021](2021-01-20-Euromedia.html) | Euromedia | 0 | 0 | 0 | 0–3 | 0–4 |
@@ -1156,12 +1174,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 90% | 100% | Last Result, Median |
-| 1 | 0% | 10% |  |
-| 2 | 0% | 10% |  |
-| 3 | 3% | 10% |  |
-| 4 | 6% | 6% |  |
-| 5 | 0.2% | 0.2% |  |
+| 0 | 93% | 100% | Last Result, Median |
+| 1 | 0% | 7% |  |
+| 2 | 0% | 7% |  |
+| 3 | 2% | 7% |  |
+| 4 | 5% | 5% |  |
+| 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 
 
