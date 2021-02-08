@@ -603,12 +603,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [26–28 January 2021](2021-01-28-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0–3 | 0–4 |
 | [25–28 January 2021](2021-01-28-Ixè.html) | Ixè | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [27–28 January 2021](2021-01-28-Ipsos.html) | Ipsos | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
-| [26–27 January 2021](2021-01-27-Winpoll.html) | Winpoll <br> Il Sole 24 Ore | 0 | 0 | 0–4 | 0–4 | 0–4 |
+| [27–28 January 2021](2021-01-28-Ipsos.html) | Ipsos | 0 | 0 | 0–3 | 0–4 | 0–4 |
+| [26–27 January 2021](2021-01-27-Winpoll.html) | Winpoll <br> Il Sole 24 Ore | 0 | 0 | 0–3 | 0–3 | 0–4 |
 | [25–27 January 2021](2021-01-27-Lab2101.html) | Lab2101 <br> Affari Italiani | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [27 January 2021](2021-01-27-Index.html) | Index <br> La7 | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
-| [26 January 2021](2021-01-26-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0–4 | 0–4 | 0–4 |
-| [20–25 January 2021](2021-01-25-SWG.html) | SWG <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [27 January 2021](2021-01-27-Index.html) | Index <br> La7 | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
+| [26 January 2021](2021-01-26-EMG.html) | EMG <br> Rai 3 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [20–25 January 2021](2021-01-25-SWG.html) | SWG <br> La7 | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [23–25 January 2021](2021-01-25-Demopolis.html) | Demopolis <br> Radio1 Rai | 0 | 0 | 0 | 0 | 0–3 |
 | [22 January 2021](2021-01-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [19–21 January 2021](2021-01-21-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0–3 | 0–3 | 0–4 |
@@ -1174,12 +1174,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 82% | 100% | Last Result, Median |
-| 1 | 0% | 18% |  |
-| 2 | 0% | 18% |  |
-| 3 | 4% | 18% |  |
-| 4 | 13% | 14% |  |
-| 5 | 0.8% | 0.8% |  |
+| 0 | 79% | 100% | Last Result, Median |
+| 1 | 0% | 21% |  |
+| 2 | 0% | 21% |  |
+| 3 | 4% | 21% |  |
+| 4 | 16% | 17% |  |
+| 5 | 1.4% | 1.5% |  |
 | 6 | 0% | 0% |  |
 
 

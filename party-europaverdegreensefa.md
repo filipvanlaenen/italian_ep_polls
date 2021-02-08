@@ -604,7 +604,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [27–28 January 2021](2021-01-28-Ipsos.html) | Ipsos |  |  |  |  |  |
 | [26–27 January 2021](2021-01-27-Winpoll.html) | Winpoll <br> Il Sole 24 Ore | 0 | 0 | 0 | 0 | 0 |
 | [25–27 January 2021](2021-01-27-Lab2101.html) | Lab2101 <br> Affari Italiani | 0 | 0 | 0 | 0 | 0 |
-| [27 January 2021](2021-01-27-Index.html) | Index <br> La7 | 0 | 0 | 0 | 0 | 0–4 |
+| [27 January 2021](2021-01-27-Index.html) | Index <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [26 January 2021](2021-01-26-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [20–25 January 2021](2021-01-25-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [23–25 January 2021](2021-01-25-Demopolis.html) | Demopolis <br> Radio1 Rai |  |  |  |  |  |
@@ -1172,11 +1172,6 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.9% | 100% | Last Result, Median |
-| 1 | 0% | 0.1% |  |
-| 2 | 0% | 0.1% |  |
-| 3 | 0% | 0.1% |  |
-| 4 | 0.1% | 0.1% |  |
-| 5 | 0% | 0% |  |
+| 0 | 100% | 100% | Last Result, Median |
 
 

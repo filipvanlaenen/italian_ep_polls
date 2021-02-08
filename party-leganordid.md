@@ -618,16 +618,16 @@ Last result: **5** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 18–23 | 18–23 | 17–24 | 17–25 |
-| [26–28 January 2021](2021-01-28-TermometroPolitico.html) | Termometro Politico | 22 | 20–22 | 20–23 | 19–23 | 19–23 |
-| [25–28 January 2021](2021-01-28-Ixè.html) | Ixè | 19 | 19–22 | 18–22 | 18–22 | 17–24 |
-| [27–28 January 2021](2021-01-28-Ipsos.html) | Ipsos | 18 | 17–21 | 17–21 | 16–21 | 16–21 |
-| [26–27 January 2021](2021-01-27-Winpoll.html) | Winpoll <br> Il Sole 24 Ore | 20 | 20–21 | 19–22 | 18–22 | 17–22 |
-| [25–27 January 2021](2021-01-27-Lab2101.html) | Lab2101 <br> Affari Italiani | 22 | 20–24 | 20–25 | 19–25 | 19–26 |
-| [27 January 2021](2021-01-27-Index.html) | Index <br> La7 | 21 | 19–24 | 18–24 | 18–25 | 18–27 |
-| [26 January 2021](2021-01-26-EMG.html) | EMG <br> Rai 3 | 23 | 21–23 | 20–23 | 19–23 | 18–24 |
-| [20–25 January 2021](2021-01-25-SWG.html) | SWG <br> La7 | 22 | 19–23 | 18–23 | 18–23 | 17–24 |
-| [23–25 January 2021](2021-01-25-Demopolis.html) | Demopolis <br> Radio1 Rai | 19 | 17–20 | 17–21 | 17–21 | 17–22 |
+| N/A | [Poll Average](average.html) | 20 | 18–23 | 18–23 | 18–24 | 17–25 |
+| [26–28 January 2021](2021-01-28-TermometroPolitico.html) | Termometro Politico | 21 | 21–22 | 20–22 | 20–22 | 19–23 |
+| [25–28 January 2021](2021-01-28-Ixè.html) | Ixè | 20 | 19–22 | 18–22 | 18–23 | 17–24 |
+| [27–28 January 2021](2021-01-28-Ipsos.html) | Ipsos | 19 | 17–20 | 17–20 | 16–21 | 16–22 |
+| [26–27 January 2021](2021-01-27-Winpoll.html) | Winpoll <br> Il Sole 24 Ore | 20 | 20–22 | 19–22 | 18–22 | 18–23 |
+| [25–27 January 2021](2021-01-27-Lab2101.html) | Lab2101 <br> Affari Italiani | 23 | 20–24 | 20–25 | 19–25 | 19–26 |
+| [27 January 2021](2021-01-27-Index.html) | Index <br> La7 | 22 | 18–23 | 18–24 | 18–24 | 18–26 |
+| [26 January 2021](2021-01-26-EMG.html) | EMG <br> Rai 3 | 21 | 20–23 | 20–24 | 19–24 | 18–24 |
+| [20–25 January 2021](2021-01-25-SWG.html) | SWG <br> La7 | 20 | 18–22 | 18–23 | 18–23 | 17–24 |
+| [23–25 January 2021](2021-01-25-Demopolis.html) | Demopolis <br> Radio1 Rai | 19 | 18–20 | 18–20 | 17–21 | 17–21 |
 | [22 January 2021](2021-01-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 21 | 19–22 | 18–23 | 18–23 | 17–24 |
 | [19–21 January 2021](2021-01-21-TermometroPolitico.html) | Termometro Politico | 21 | 19–21 | 19–22 | 19–23 | 18–23 |
 | [20 January 2021](2021-01-20-Euromedia.html) | Euromedia | 21 | 20–23 | 19–24 | 19–24 | 18–25 |
@@ -1204,17 +1204,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
 | 16 | 0.3% | 100% |  |
-| 17 | 3% | 99.7% |  |
-| 18 | 9% | 97% |  |
-| 19 | 15% | 88% |  |
-| 20 | 23% | 73% | Median |
-| 21 | 21% | 50% |  |
-| 22 | 13% | 29% |  |
-| 23 | 12% | 16% |  |
-| 24 | 2% | 3% |  |
-| 25 | 0.7% | 1.0% |  |
-| 26 | 0.2% | 0.3% |  |
-| 27 | 0.1% | 0.1% |  |
-| 28 | 0% | 0% |  |
+| 17 | 2% | 99.7% |  |
+| 18 | 9% | 98% |  |
+| 19 | 15% | 89% |  |
+| 20 | 26% | 75% | Median |
+| 21 | 24% | 49% |  |
+| 22 | 14% | 25% |  |
+| 23 | 6% | 11% |  |
+| 24 | 3% | 4% |  |
+| 25 | 0.7% | 0.8% |  |
+| 26 | 0.1% | 0.1% |  |
+| 27 | 0% | 0% |  |
 
 
