@@ -10,8 +10,17 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.0% | 0.5–1.9% | 0.4–2.2% | 0.4–2.5% | 0.3–2.9% |
+| N/A | [Poll Average](average.html) | 1.0% | 0.5–2.2% | 0.4–2.5% | 0.4–2.8% | 0.3–3.3% |
+| [3–8 February 2021](2021-02-08-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [5 February 2021](2021-02-05-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
+| [3–5 February 2021](2021-02-05-DemosPi.html) | Demos & Pi <br> La Repubblica | 0.0% | N/A | N/A | N/A | N/A |
+| [3 February 2021](2021-02-03-Index.html) | Index <br> La7 | 1.2% | 0.9–1.9% | 0.8–2.1% | 0.7–2.3% | 0.5–2.7% |
+| [2 February 2021](2021-02-02-EMG.html) | EMG <br> Rai 3 | 1.1% | 0.8–1.5% | 0.7–1.6% | 0.7–1.8% | 0.5–2.0% |
+| [27 January–1 February 2021](2021-02-01-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [1 February 2021](2021-02-01-Euromedia.html) | Euromedia <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
+| [29 January 2021](2021-01-29-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [26–28 January 2021](2021-01-28-TermometroPolitico.html) | Termometro Politico | 0.5% | 0.4–0.7% | 0.3–0.8% | 0.3–0.8% | 0.2–0.9% |
+| [27–28 January 2021](2021-01-28-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
 | [25–28 January 2021](2021-01-28-Ixè.html) | Ixè | 0.0% | N/A | N/A | N/A | N/A |
 | [27–28 January 2021](2021-01-28-Ipsos.html) | Ipsos | 0.0% | N/A | N/A | N/A | N/A |
 | [26–27 January 2021](2021-01-27-Winpoll.html) | Winpoll <br> Il Sole 24 Ore | 0.9% | 0.6–1.4% | 0.5–1.6% | 0.5–1.7% | 0.4–2.0% |
@@ -583,10 +592,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 13% | 100% | Last Result |
-| 0.5–1.5% | 67% | 87% | Median |
-| 1.5–2.5% | 18% | 20% |  |
-| 2.5–3.5% | 2% | 2% |  |
-| 3.5–4.5% | 0% | 0% |  |
+| 0.5–1.5% | 64% | 87% | Median |
+| 1.5–2.5% | 18% | 23% |  |
+| 2.5–3.5% | 5% | 5% |  |
+| 3.5–4.5% | 0.2% | 0.2% |  |
+| 4.5–5.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -598,7 +608,16 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [3–8 February 2021](2021-02-08-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [5 February 2021](2021-02-05-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [3–5 February 2021](2021-02-05-DemosPi.html) | Demos & Pi <br> La Repubblica |  |  |  |  |  |
+| [3 February 2021](2021-02-03-Index.html) | Index <br> La7 | 0 | 0 | 0 | 0 | 0 |
+| [2 February 2021](2021-02-02-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
+| [27 January–1 February 2021](2021-02-01-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [1 February 2021](2021-02-01-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
+| [29 January 2021](2021-01-29-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [26–28 January 2021](2021-01-28-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
+| [27–28 January 2021](2021-01-28-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
 | [25–28 January 2021](2021-01-28-Ixè.html) | Ixè |  |  |  |  |  |
 | [27–28 January 2021](2021-01-28-Ipsos.html) | Ipsos |  |  |  |  |  |
 | [26–27 January 2021](2021-01-27-Winpoll.html) | Winpoll <br> Il Sole 24 Ore | 0 | 0 | 0 | 0 | 0 |

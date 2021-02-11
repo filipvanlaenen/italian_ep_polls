@@ -10,8 +10,17 @@ Last result: **40.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.9% | 18.2–21.8% | 17.7–22.3% | 17.3–22.8% | 16.5–23.7% |
+| N/A | [Poll Average](average.html) | 20.0% | 18.3–21.9% | 17.8–22.4% | 17.4–22.9% | 16.6–23.8% |
+| [3–8 February 2021](2021-02-08-SWG.html) | SWG <br> La7 | 19.0% | 17.6–20.5% | 17.2–21.0% | 16.9–21.3% | 16.2–22.1% |
+| [5 February 2021](2021-02-05-Tecnè.html) | Tecnè <br> Agenzia Dire | 19.4% | 17.9–21.1% | 17.4–21.6% | 17.1–22.0% | 16.4–22.8% |
+| [3–5 February 2021](2021-02-05-DemosPi.html) | Demos & Pi <br> La Repubblica | 20.9% | 19.3–22.6% | 18.9–23.1% | 18.5–23.5% | 17.7–24.4% |
+| [3 February 2021](2021-02-03-Index.html) | Index <br> La7 | 19.6% | 17.9–21.5% | 17.4–22.1% | 17.0–22.5% | 16.2–23.5% |
+| [2 February 2021](2021-02-02-EMG.html) | EMG <br> Rai 3 | 20.1% | 18.8–21.5% | 18.5–21.9% | 18.1–22.2% | 17.5–22.9% |
+| [27 January–1 February 2021](2021-02-01-SWG.html) | SWG <br> La7 | 19.8% | 18.4–21.4% | 18.0–21.8% | 17.7–22.2% | 17.0–23.0% |
+| [1 February 2021](2021-02-01-Euromedia.html) | Euromedia <br> Rai 1 | 19.5% | 17.8–21.4% | 17.3–21.9% | 16.9–22.4% | 16.1–23.3% |
+| [29 January 2021](2021-01-29-Tecnè.html) | Tecnè <br> Agenzia Dire | 19.5% | 18.0–21.2% | 17.5–21.7% | 17.2–22.1% | 16.4–22.9% |
 | [26–28 January 2021](2021-01-28-TermometroPolitico.html) | Termometro Politico | 19.7% | 18.8–20.7% | 18.5–20.9% | 18.3–21.2% | 17.9–21.6% |
+| [27–28 January 2021](2021-01-28-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 20.0% | 18.4–21.7% | 18.0–22.2% | 17.6–22.6% | 16.9–23.4% |
 | [25–28 January 2021](2021-01-28-Ixè.html) | Ixè | 20.6% | 19.0–22.3% | 18.6–22.8% | 18.2–23.2% | 17.5–24.1% |
 | [27–28 January 2021](2021-01-28-Ipsos.html) | Ipsos | 19.3% | 17.8–21.0% | 17.3–21.5% | 17.0–21.9% | 16.3–22.7% |
 | [26–27 January 2021](2021-01-27-Winpoll.html) | Winpoll <br> Il Sole 24 Ore | 19.6% | 18.1–21.3% | 17.6–21.8% | 17.3–22.2% | 16.5–23.0% |
@@ -582,16 +591,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 14.5–15.5% | 0.1% | 100% |  |
-| 15.5–16.5% | 0.6% | 99.9% |  |
-| 16.5–17.5% | 3% | 99.4% |  |
-| 17.5–18.5% | 11% | 96% |  |
-| 18.5–19.5% | 24% | 85% |  |
-| 19.5–20.5% | 29% | 61% | Median |
-| 20.5–21.5% | 20% | 32% |  |
-| 21.5–22.5% | 9% | 13% |  |
+| 14.5–15.5% | 0% | 100% |  |
+| 15.5–16.5% | 0.4% | 100% |  |
+| 16.5–17.5% | 3% | 99.5% |  |
+| 17.5–18.5% | 10% | 97% |  |
+| 18.5–19.5% | 23% | 86% |  |
+| 19.5–20.5% | 29% | 63% | Median |
+| 20.5–21.5% | 20% | 35% |  |
+| 21.5–22.5% | 10% | 14% |  |
 | 22.5–23.5% | 3% | 4% |  |
-| 23.5–24.5% | 0.6% | 0.7% |  |
+| 23.5–24.5% | 0.7% | 0.8% |  |
 | 24.5–25.5% | 0.1% | 0.1% |  |
 | 25.5–26.5% | 0% | 0% |  |
 | 26.5–27.5% | 0% | 0% |  |
@@ -619,8 +628,17 @@ Last result: **31** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 15–18 | 14–19 | 14–19 | 13–20 |
+| N/A | [Poll Average](average.html) | 16 | 14–18 | 14–19 | 14–19 | 13–20 |
+| [3–8 February 2021](2021-02-08-SWG.html) | SWG <br> La7 | 16 | 15–18 | 14–18 | 14–18 | 13–18 |
+| [5 February 2021](2021-02-05-Tecnè.html) | Tecnè <br> Agenzia Dire | 17 | 15–19 | 15–19 | 14–19 | 14–20 |
+| [3–5 February 2021](2021-02-05-DemosPi.html) | Demos & Pi <br> La Repubblica | 18 | 16–18 | 15–18 | 15–19 | 14–20 |
+| [3 February 2021](2021-02-03-Index.html) | Index <br> La7 | 15 | 15–19 | 14–19 | 14–19 | 13–19 |
+| [2 February 2021](2021-02-02-EMG.html) | EMG <br> Rai 3 | 18 | 16–18 | 15–18 | 14–20 | 14–20 |
+| [27 January–1 February 2021](2021-02-01-SWG.html) | SWG <br> La7 | 17 | 15–17 | 14–18 | 14–19 | 13–19 |
+| [1 February 2021](2021-02-01-Euromedia.html) | Euromedia <br> Rai 1 | 14 | 14–17 | 13–17 | 13–17 | 12–17 |
+| [29 January 2021](2021-01-29-Tecnè.html) | Tecnè <br> Agenzia Dire | 17 | 15–18 | 15–18 | 14–18 | 14–19 |
 | [26–28 January 2021](2021-01-28-TermometroPolitico.html) | Termometro Politico | 16 | 15–17 | 15–17 | 15–17 | 14–18 |
+| [27–28 January 2021](2021-01-28-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 16 | 15–18 | 13–19 | 13–19 | 13–19 |
 | [25–28 January 2021](2021-01-28-Ixè.html) | Ixè | 17 | 15–19 | 15–19 | 14–20 | 14–21 |
 | [27–28 January 2021](2021-01-28-Ipsos.html) | Ipsos | 15 | 14–17 | 14–17 | 13–17 | 13–18 |
 | [26–27 January 2021](2021-01-27-Winpoll.html) | Winpoll <br> Il Sole 24 Ore | 16 | 14–17 | 14–17 | 14–17 | 13–18 |
@@ -1193,14 +1211,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 0.1% | 100% |  |
-| 13 | 2% | 99.9% |  |
-| 14 | 7% | 98% |  |
-| 15 | 25% | 90% |  |
-| 16 | 27% | 65% | Median |
-| 17 | 21% | 38% |  |
-| 18 | 12% | 17% |  |
-| 19 | 3% | 5% |  |
+| 12 | 0.2% | 100% |  |
+| 13 | 1.4% | 99.8% |  |
+| 14 | 9% | 98% |  |
+| 15 | 19% | 90% |  |
+| 16 | 26% | 71% | Median |
+| 17 | 19% | 45% |  |
+| 18 | 19% | 25% |  |
+| 19 | 4% | 6% |  |
 | 20 | 2% | 2% |  |
 | 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |
