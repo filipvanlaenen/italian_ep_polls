@@ -610,13 +610,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–3 | 0–4 | 0–4 | 0–5 |
-| [3–8 February 2021](2021-02-08-SWG.html) | SWG <br> La7 | 0 | 0 | 0–4 | 0–4 | 0–4 |
+| [3–8 February 2021](2021-02-08-SWG.html) | SWG <br> La7 | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | [5 February 2021](2021-02-05-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0–4 |
 | [3–5 February 2021](2021-02-05-DemosPi.html) | Demos & Pi <br> La Repubblica | 0 | 0 | 0 | 0–3 | 0–4 |
-| [3 February 2021](2021-02-03-Index.html) | Index <br> La7 | 0 | 0 | 0–4 | 0–4 | 0–4 |
+| [3 February 2021](2021-02-03-Index.html) | Index <br> La7 | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | [2 February 2021](2021-02-02-EMG.html) | EMG <br> Rai 3 | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
-| [27 January–1 February 2021](2021-02-01-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0–3 | 0–4 |
-| [1 February 2021](2021-02-01-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [27 January–1 February 2021](2021-02-01-SWG.html) | SWG <br> La7 | 0 | 0 | 0–3 | 0–4 | 0–4 |
+| [1 February 2021](2021-02-01-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [29 January 2021](2021-01-29-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0–4 |
 | [26–28 January 2021](2021-01-28-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0–3 |
 | [27–28 January 2021](2021-01-28-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
@@ -1192,12 +1192,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 90% | 100% | Last Result, Median |
-| 1 | 0% | 10% |  |
-| 2 | 0% | 10% |  |
-| 3 | 3% | 10% |  |
-| 4 | 6% | 7% |  |
-| 5 | 1.2% | 1.2% |  |
+| 0 | 89% | 100% | Last Result, Median |
+| 1 | 0% | 11% |  |
+| 2 | 0% | 11% |  |
+| 3 | 3% | 11% |  |
+| 4 | 7% | 8% |  |
+| 5 | 1.1% | 1.1% |  |
 | 6 | 0% | 0% |  |
 
 

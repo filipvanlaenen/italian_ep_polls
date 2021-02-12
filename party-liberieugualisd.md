@@ -615,9 +615,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [3–5 February 2021](2021-02-05-DemosPi.html) | Demos & Pi <br> La Repubblica | 0 | 0 | 0 | 0–3 | 0–4 |
 | [3 February 2021](2021-02-03-Index.html) | Index <br> La7 | 4 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [2 February 2021](2021-02-02-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0–4 |
-| [27 January–1 February 2021](2021-02-01-SWG.html) | SWG <br> La7 | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
-| [1 February 2021](2021-02-01-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0–3 | 0–4 | 0–4 |
-| [29 January 2021](2021-01-29-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0–4 | 0–4 |
+| [27 January–1 February 2021](2021-02-01-SWG.html) | SWG <br> La7 | 4 | 0–4 | 0–4 | 0–5 | 0–5 |
+| [1 February 2021](2021-02-01-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [29 January 2021](2021-01-29-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | [26–28 January 2021](2021-01-28-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0–3 |
 | [27–28 January 2021](2021-01-28-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0 | 0–3 |
 | [25–28 January 2021](2021-01-28-Ixè.html) | Ixè | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
@@ -1192,12 +1192,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 86% | 100% | Last Result, Median |
-| 1 | 0% | 14% |  |
-| 2 | 0% | 14% |  |
-| 3 | 2% | 14% |  |
-| 4 | 10% | 11% |  |
-| 5 | 0.8% | 0.8% |  |
+| 0 | 85% | 100% | Last Result, Median |
+| 1 | 0% | 15% |  |
+| 2 | 0% | 15% |  |
+| 3 | 3% | 15% |  |
+| 4 | 12% | 12% |  |
+| 5 | 0.7% | 0.7% |  |
 | 6 | 0% | 0% |  |
 
 
