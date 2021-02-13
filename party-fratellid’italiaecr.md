@@ -621,17 +621,17 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 13–16 | 12–16 | 12–16 | 11–18 |
+| N/A | [Poll Average](average.html) | 14 | 13–16 | 12–16 | 12–17 | 11–18 |
 | [3–8 February 2021](2021-02-08-SWG.html) | SWG <br> La7 | 14 | 13–16 | 13–16 | 12–16 | 12–17 |
-| [5 February 2021](2021-02-05-Tecnè.html) | Tecnè <br> Agenzia Dire | 15 | 14–16 | 14–16 | 14–17 | 13–18 |
-| [3–5 February 2021](2021-02-05-DemosPi.html) | Demos & Pi <br> La Repubblica | 14 | 13–15 | 13–16 | 13–16 | 12–17 |
+| [5 February 2021](2021-02-05-Tecnè.html) | Tecnè <br> Agenzia Dire | 15 | 13–16 | 13–17 | 13–17 | 12–18 |
+| [3–5 February 2021](2021-02-05-DemosPi.html) | Demos & Pi <br> La Repubblica | 14 | 13–16 | 13–16 | 12–16 | 12–17 |
 | [3 February 2021](2021-02-03-Index.html) | Index <br> La7 | 15 | 13–16 | 13–17 | 13–18 | 12–18 |
 | [2 February 2021](2021-02-02-EMG.html) | EMG <br> Rai 3 | 14 | 13–15 | 12–16 | 12–16 | 12–17 |
 | [27 January–1 February 2021](2021-02-01-SWG.html) | SWG <br> La7 | 14 | 13–15 | 12–16 | 12–16 | 11–17 |
 | [1 February 2021](2021-02-01-Euromedia.html) | Euromedia <br> Rai 1 | 13 | 11–14 | 11–14 | 10–15 | 10–16 |
 | [29 January 2021](2021-01-29-Tecnè.html) | Tecnè <br> Agenzia Dire | 15 | 14–16 | 14–17 | 13–18 | 12–18 |
 | [26–28 January 2021](2021-01-28-TermometroPolitico.html) | Termometro Politico | 14 | 14–15 | 14–16 | 13–16 | 13–16 |
-| [27–28 January 2021](2021-01-28-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 16 | 13–16 | 13–16 | 12–16 | 12–17 |
+| [27–28 January 2021](2021-01-28-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 15 | 13–16 | 13–16 | 12–16 | 12–17 |
 | [25–28 January 2021](2021-01-28-Ixè.html) | Ixè | 14 | 12–15 | 12–16 | 11–16 | 11–17 |
 | [27–28 January 2021](2021-01-28-Ipsos.html) | Ipsos | 13 | 12–14 | 11–14 | 11–15 | 11–15 |
 | [26–27 January 2021](2021-01-27-Winpoll.html) | Winpoll <br> Il Sole 24 Ore | 15 | 15–17 | 14–18 | 13–18 | 13–19 |
@@ -1217,12 +1217,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0.3% | 100% |  |
 | 11 | 2% | 99.7% |  |
 | 12 | 6% | 98% |  |
-| 13 | 19% | 92% |  |
-| 14 | 30% | 73% | Median |
-| 15 | 29% | 44% |  |
-| 16 | 12% | 14% |  |
-| 17 | 2% | 2% |  |
-| 18 | 0.8% | 0.9% |  |
+| 13 | 19% | 91% |  |
+| 14 | 29% | 72% | Median |
+| 15 | 29% | 43% |  |
+| 16 | 11% | 14% |  |
+| 17 | 2% | 3% |  |
+| 18 | 0.8% | 1.0% |  |
 | 19 | 0.1% | 0.1% |  |
 | 20 | 0% | 0% |  |
 
