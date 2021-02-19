@@ -620,16 +620,16 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–4 | 0–4 | 0–5 |
 | [10–15 February 2021](2021-02-15-SWG.html) | SWG <br> La7 | 0 | 0 | 0–3 | 0–4 | 0–4 |
-| [13 February 2021](2021-02-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [13 February 2021](2021-02-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0–4 | 0–4 |
 | [13 February 2021](2021-02-13-Lab2101.html) | Lab2101 <br> Affari Italiani | 0 | 0 | 0 | 0 | 0–4 |
-| [10–11 February 2021](2021-02-11-Winpoll.html) | Winpoll <br> Il Sole 24 Ore | 0 | 0 | 0 | 0 | 0–3 |
-| [9–11 February 2021](2021-02-11-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0–4 |
-| [10 February 2021](2021-02-10-Index.html) | Index <br> La7 | 0 | 0 | 0 | 0–4 | 0–4 |
+| [10–11 February 2021](2021-02-11-Winpoll.html) | Winpoll <br> Il Sole 24 Ore | 0 | 0 | 0 | 0 | 0–4 |
+| [9–11 February 2021](2021-02-11-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0–3 | 0–4 |
+| [10 February 2021](2021-02-10-Index.html) | Index <br> La7 | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | [10 February 2021](2021-02-10-Euromedia.html) | Euromedia | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [3–8 February 2021](2021-02-08-SWG.html) | SWG <br> La7 | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | [5 February 2021](2021-02-05-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0–4 |
 | [3–5 February 2021](2021-02-05-DemosPi.html) | Demos & Pi <br> La Repubblica | 0 | 0 | 0 | 0 | 0–4 |
-| [2–4 February 2021](2021-02-04-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0–4 |
+| [2–4 February 2021](2021-02-04-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | [4 February 2021](2021-02-04-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0–3 | 0–3 | 0–4 |
 | [3 February 2021](2021-02-03-Index.html) | Index <br> La7 | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | [2 February 2021](2021-02-02-EMG.html) | EMG <br> Rai 3 | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
