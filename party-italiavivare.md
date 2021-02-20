@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.0% | 2.2–4.0% | 1.9–4.3% | 1.8–4.6% | 1.5–5.1% |
+| N/A | [Poll Average](average.html) | 2.9% | 2.1–3.9% | 1.9–4.3% | 1.8–4.5% | 1.5–5.1% |
+| [15–17 February 2021](2021-02-17-TermometroPolitico.html) | Termometro Politico | 3.3% | 2.9–3.8% | 2.8–3.9% | 2.7–4.0% | 2.5–4.3% |
+| [15–16 February 2021](2021-02-16-Quorum.html) | Quorum <br> Sky TG24 | 2.6% | 2.0–3.5% | 1.8–3.7% | 1.7–3.9% | 1.5–4.4% |
 | [10–15 February 2021](2021-02-15-SWG.html) | SWG <br> La7 | 3.1% | 2.5–3.8% | 2.4–4.0% | 2.2–4.2% | 2.0–4.6% |
 | [13 February 2021](2021-02-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.8% | 2.2–3.6% | 2.1–3.8% | 1.9–4.0% | 1.7–4.4% |
 | [13 February 2021](2021-02-13-Lab2101.html) | Lab2101 <br> Affari Italiani | 2.7% | 2.1–3.6% | 2.0–3.9% | 1.8–4.1% | 1.6–4.6% |
@@ -602,10 +604,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0.8% | 100% |  |
-| 1.5–2.5% | 25% | 99.2% |  |
-| 2.5–3.5% | 53% | 74% | Median |
-| 3.5–4.5% | 19% | 21% |  |
-| 4.5–5.5% | 3% | 3% |  |
+| 1.5–2.5% | 26% | 99.2% |  |
+| 2.5–3.5% | 53% | 73% | Median |
+| 3.5–4.5% | 18% | 20% |  |
+| 4.5–5.5% | 2% | 2% |  |
 | 5.5–6.5% | 0.1% | 0.1% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
@@ -619,6 +621,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–4 | 0–4 | 0–5 |
+| [15–17 February 2021](2021-02-17-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0–3 | 0–4 |
+| [15–16 February 2021](2021-02-16-Quorum.html) | Quorum <br> Sky TG24 | 0 | 0 | 0 | 0 | 0–4 |
 | [10–15 February 2021](2021-02-15-SWG.html) | SWG <br> La7 | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | [13 February 2021](2021-02-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0–4 | 0–4 |
 | [13 February 2021](2021-02-13-Lab2101.html) | Lab2101 <br> Affari Italiani | 0 | 0 | 0 | 0 | 0–4 |
@@ -1210,11 +1214,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 92% | 100% | Last Result, Median |
-| 1 | 0% | 8% |  |
-| 2 | 0% | 8% |  |
-| 3 | 2% | 8% |  |
-| 4 | 5% | 6% |  |
+| 0 | 93% | 100% | Last Result, Median |
+| 1 | 0% | 7% |  |
+| 2 | 0% | 7% |  |
+| 3 | 2% | 7% |  |
+| 4 | 5% | 5% |  |
 | 5 | 0.5% | 0.5% |  |
 | 6 | 0% | 0% |  |
 
