@@ -633,7 +633,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14 | 12–16 | 12–17 | 12–17 | 11–18 |
-| [15–17 February 2021](2021-02-17-TermometroPolitico.html) | Termometro Politico | 16 | 15–17 | 15–17 | 15–17 | 14–17 |
+| [15–17 February 2021](2021-02-17-TermometroPolitico.html) | Termometro Politico | 15 | 15–17 | 14–17 | 14–17 | 14–17 |
 | [15–16 February 2021](2021-02-16-Quorum.html) | Quorum <br> Sky TG24 | 14 | 13–16 | 13–16 | 12–17 | 12–18 |
 | [10–15 February 2021](2021-02-15-SWG.html) | SWG <br> La7 | 14 | 12–15 | 12–16 | 12–16 | 11–16 |
 | [13 February 2021](2021-02-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 15 | 14–17 | 14–17 | 13–18 | 13–18 |
@@ -1241,9 +1241,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 9% | 98.6% |  |
 | 13 | 17% | 90% |  |
 | 14 | 25% | 73% | Median |
-| 15 | 28% | 47% |  |
-| 16 | 11% | 19% |  |
-| 17 | 7% | 8% |  |
+| 15 | 30% | 47% |  |
+| 16 | 12% | 18% |  |
+| 17 | 5% | 6% |  |
 | 18 | 0.6% | 0.7% |  |
 | 19 | 0.1% | 0.1% |  |
 | 20 | 0% | 0% |  |

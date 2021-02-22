@@ -621,7 +621,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [15–17 February 2021](2021-02-17-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0–4 |
+| [15–17 February 2021](2021-02-17-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0–3 | 0–4 |
 | [15–16 February 2021](2021-02-16-Quorum.html) | Quorum <br> Sky TG24 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [10–15 February 2021](2021-02-15-SWG.html) | SWG <br> La7 | 4 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [13 February 2021](2021-02-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0–4 | 0–4 |
