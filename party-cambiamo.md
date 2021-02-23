@@ -12,7 +12,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.3% | 0.7–2.2% | 0.6–2.5% | 0.5–2.7% | 0.3–3.1% |
 | [15–17 February 2021](2021-02-17-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
-| [15–16 February 2021](2021-02-16-Quorum.html) | Quorum <br> Sky TG24 | 0.0% | N/A | N/A | N/A | N/A |
+| [15–16 February 2021](2021-02-16-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.0% | N/A | N/A | N/A | N/A |
 | [10–15 February 2021](2021-02-15-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [13 February 2021](2021-02-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [13 February 2021](2021-02-13-Lab2101.html) | Lab2101 <br> Affari Italiani | 0.0% | N/A | N/A | N/A | N/A |
@@ -620,7 +620,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [15–17 February 2021](2021-02-17-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [15–16 February 2021](2021-02-16-Quorum.html) | Quorum <br> Sky TG24 |  |  |  |  |  |
+| [15–16 February 2021](2021-02-16-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
 | [10–15 February 2021](2021-02-15-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [13 February 2021](2021-02-13-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [13 February 2021](2021-02-13-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
