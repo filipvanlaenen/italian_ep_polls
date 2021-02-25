@@ -632,13 +632,13 @@ Last result: **17** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 11–14 | 11–15 | 10–16 | 9–17 |
-| [20–22 February 2021](2021-02-22-Tecnè.html) | Tecnè <br> Rete 4 | 12 | 11–13 | 10–13 | 10–14 | 10–14 |
+| N/A | [Poll Average](average.html) | 12 | 11–14 | 10–15 | 10–16 | 9–17 |
+| [20–22 February 2021](2021-02-22-Tecnè.html) | Tecnè <br> Rete 4 | 12 | 11–13 | 10–14 | 10–14 | 10–14 |
 | [17–22 February 2021](2021-02-22-SWG.html) | SWG <br> La7 | 12 | 12–13 | 11–14 | 11–14 | 11–15 |
 | [17–18 February 2021](2021-02-18-TermometroPolitico.html) | Termometro Politico | 13 | 13–15 | 13–15 | 13–15 | 12–15 |
-| [1–18 February 2021](2021-02-18-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 12 | 11–13 | 11–13 | 10–14 | 10–15 |
+| [1–18 February 2021](2021-02-18-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 12 | 11–13 | 11–14 | 10–14 | 10–15 |
 | [17 February 2021](2021-02-17-Index.html) | Index <br> La7 | 13 | 11–14 | 10–14 | 10–14 | 10–15 |
-| [16–17 February 2021](2021-02-17-EMG.html) | EMG <br> Rai 3 | 11 | 11–14 | 11–14 | 10–14 | 10–15 |
+| [16–17 February 2021](2021-02-17-EMG.html) | EMG <br> Rai 3 | 12 | 11–13 | 11–14 | 10–14 | 10–14 |
 | [15–16 February 2021](2021-02-16-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 12 | 10–13 | 10–14 | 10–14 | 9–15 |
 | [10–15 February 2021](2021-02-15-SWG.html) | SWG <br> La7 | 13 | 12–15 | 11–15 | 11–15 | 11–16 |
 | [13 February 2021](2021-02-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 12 | 11–13 | 10–13 | 10–14 | 9–15 |
@@ -647,7 +647,7 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [10–11 February 2021](2021-02-11-TermometroPolitico.html) | Termometro Politico | 14 | 13–15 | 13–15 | 13–15 | 13–17 |
 | [10 February 2021](2021-02-10-Index.html) | Index <br> La7 | 13 | 12–14 | 11–15 | 11–16 | 10–17 |
 | [10 February 2021](2021-02-10-Euromedia.html) | Euromedia | 13 | 12–14 | 11–15 | 11–15 | 10–15 |
-| [7–9 February 2021](2021-02-09-BiDiMedia.html) | BiDiMedia | 13 | 11–13 | 10–13 | 10–13 | 9–13 |
+| [7–9 February 2021](2021-02-09-BiDiMedia.html) | BiDiMedia | 12 | 11–13 | 10–13 | 10–13 | 10–14 |
 | [3–8 February 2021](2021-02-08-SWG.html) | SWG <br> La7 | 14 | 13–15 | 12–16 | 12–16 | 11–16 |
 | [5 February 2021](2021-02-05-Tecnè.html) | Tecnè <br> Agenzia Dire | 12 | 11–14 | 10–14 | 10–14 | 10–15 |
 | [3–5 February 2021](2021-02-05-DemosPi.html) | Demos & Pi <br> La Repubblica | 13 | 11–14 | 11–15 | 11–15 | 10–16 |
@@ -1233,11 +1233,11 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 9 | 0.6% | 100% |  |
-| 10 | 4% | 99.4% |  |
-| 11 | 18% | 95% |  |
-| 12 | 29% | 78% | Median |
-| 13 | 28% | 48% |  |
-| 14 | 12% | 20% |  |
+| 10 | 5% | 99.4% |  |
+| 11 | 20% | 95% |  |
+| 12 | 30% | 75% | Median |
+| 13 | 25% | 45% |  |
+| 14 | 11% | 20% |  |
 | 15 | 5% | 9% |  |
 | 16 | 2% | 3% |  |
 | 17 | 0.7% | 0.8% | Last Result |

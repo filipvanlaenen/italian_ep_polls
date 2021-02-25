@@ -650,9 +650,9 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [20–22 February 2021](2021-02-22-Tecnè.html) | Tecnè <br> Rete 4 | 17 | 15–18 | 15–18 | 14–18 | 14–19 |
 | [17–22 February 2021](2021-02-22-SWG.html) | SWG <br> La7 | 14 | 14–16 | 13–17 | 13–18 | 13–18 |
 | [17–18 February 2021](2021-02-18-TermometroPolitico.html) | Termometro Politico | 16 | 15–17 | 15–17 | 15–17 | 15–18 |
-| [1–18 February 2021](2021-02-18-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 16 | 14–17 | 14–18 | 13–18 | 13–18 |
+| [1–18 February 2021](2021-02-18-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 15 | 14–17 | 14–17 | 13–18 | 13–18 |
 | [17 February 2021](2021-02-17-Index.html) | Index <br> La7 | 15 | 13–17 | 13–17 | 13–18 | 12–18 |
-| [16–17 February 2021](2021-02-17-EMG.html) | EMG <br> Rai 3 | 16 | 16–18 | 15–18 | 15–18 | 15–19 |
+| [16–17 February 2021](2021-02-17-EMG.html) | EMG <br> Rai 3 | 16 | 15–18 | 15–18 | 15–19 | 14–20 |
 | [15–16 February 2021](2021-02-16-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 16 | 15–18 | 14–18 | 14–19 | 13–20 |
 | [10–15 February 2021](2021-02-15-SWG.html) | SWG <br> La7 | 15 | 13–17 | 13–17 | 13–17 | 12–18 |
 | [13 February 2021](2021-02-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 16 | 15–17 | 14–18 | 14–19 | 13–19 |
@@ -661,7 +661,7 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [10–11 February 2021](2021-02-11-TermometroPolitico.html) | Termometro Politico | 16 | 15–17 | 15–17 | 15–18 | 14–18 |
 | [10 February 2021](2021-02-10-Index.html) | Index <br> La7 | 15 | 15–18 | 14–19 | 13–19 | 12–20 |
 | [10 February 2021](2021-02-10-Euromedia.html) | Euromedia | 15 | 13–17 | 13–17 | 12–18 | 12–19 |
-| [7–9 February 2021](2021-02-09-BiDiMedia.html) | BiDiMedia | 17 | 15–17 | 15–18 | 15–19 | 15–19 |
+| [7–9 February 2021](2021-02-09-BiDiMedia.html) | BiDiMedia | 17 | 16–18 | 15–18 | 15–19 | 14–19 |
 | [3–8 February 2021](2021-02-08-SWG.html) | SWG <br> La7 | 16 | 14–17 | 14–18 | 14–18 | 13–19 |
 | [5 February 2021](2021-02-05-Tecnè.html) | Tecnè <br> Agenzia Dire | 16 | 14–18 | 14–18 | 14–19 | 13–20 |
 | [3–5 February 2021](2021-02-05-DemosPi.html) | Demos & Pi <br> La Repubblica | 17 | 15–18 | 15–18 | 14–19 | 14–20 |
@@ -1246,15 +1246,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 0.3% | 100% |  |
+| 12 | 0.4% | 100% |  |
 | 13 | 3% | 99.6% |  |
 | 14 | 12% | 97% |  |
 | 15 | 20% | 85% |  |
-| 16 | 31% | 65% | Median |
-| 17 | 21% | 33% |  |
-| 18 | 10% | 12% |  |
+| 16 | 32% | 65% | Median |
+| 17 | 22% | 33% |  |
+| 18 | 9% | 12% |  |
 | 19 | 2% | 2% |  |
-| 20 | 0.4% | 0.4% |  |
+| 20 | 0.4% | 0.5% |  |
 | 21 | 0% | 0% |  |
 | 22 | 0% | 0% |  |
 | 23 | 0% | 0% |  |

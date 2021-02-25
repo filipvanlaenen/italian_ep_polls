@@ -632,7 +632,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [17–18 February 2021](2021-02-18-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0–3 | 0–4 |
 | [1–18 February 2021](2021-02-18-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [17 February 2021](2021-02-17-Index.html) | Index <br> La7 | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
-| [16–17 February 2021](2021-02-17-EMG.html) | EMG <br> Rai 3 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [16–17 February 2021](2021-02-17-EMG.html) | EMG <br> Rai 3 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [15–16 February 2021](2021-02-16-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0 | 0 | 0–3 |
 | [10–15 February 2021](2021-02-15-SWG.html) | SWG <br> La7 | 4 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [13 February 2021](2021-02-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
@@ -641,7 +641,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [10–11 February 2021](2021-02-11-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0–3 | 0–4 |
 | [10 February 2021](2021-02-10-Index.html) | Index <br> La7 | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [10 February 2021](2021-02-10-Euromedia.html) | Euromedia | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
-| [7–9 February 2021](2021-02-09-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
+| [7–9 February 2021](2021-02-09-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0–4 | 0–4 |
 | [3–8 February 2021](2021-02-08-SWG.html) | SWG <br> La7 | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [5 February 2021](2021-02-05-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [3–5 February 2021](2021-02-05-DemosPi.html) | Demos & Pi <br> La Repubblica | 0 | 0 | 0 | 0–3 | 0–4 |
@@ -1226,12 +1226,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 84% | 100% | Last Result, Median |
-| 1 | 0% | 16% |  |
-| 2 | 0% | 16% |  |
-| 3 | 4% | 16% |  |
-| 4 | 11% | 12% |  |
-| 5 | 0.7% | 0.8% |  |
+| 0 | 83% | 100% | Last Result, Median |
+| 1 | 0% | 17% |  |
+| 2 | 0% | 17% |  |
+| 3 | 5% | 17% |  |
+| 4 | 12% | 13% |  |
+| 5 | 0.8% | 0.8% |  |
 | 6 | 0% | 0% |  |
 
 

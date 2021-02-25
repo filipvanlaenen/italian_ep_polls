@@ -632,8 +632,8 @@ Last result: **13** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 5–8 | 5–9 | 5–9 | 4–10 |
-| [20–22 February 2021](2021-02-22-Tecnè.html) | Tecnè <br> Rete 4 | 9 | 8–10 | 8–11 | 8–11 | 8–11 |
+| N/A | [Poll Average](average.html) | 7 | 5–9 | 5–9 | 5–10 | 4–11 |
+| [20–22 February 2021](2021-02-22-Tecnè.html) | Tecnè <br> Rete 4 | 10 | 9–11 | 8–11 | 8–11 | 8–11 |
 | [17–22 February 2021](2021-02-22-SWG.html) | SWG <br> La7 | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
 | [17–18 February 2021](2021-02-18-TermometroPolitico.html) | Termometro Politico | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | [1–18 February 2021](2021-02-18-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 6 | 5–7 | 5–7 | 4–7 | 4–7 |
@@ -647,7 +647,7 @@ Last result: **13** seats (General Election of 26 May 2019)
 | [10–11 February 2021](2021-02-11-TermometroPolitico.html) | Termometro Politico | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [10 February 2021](2021-02-10-Index.html) | Index <br> La7 | 6 | 5–7 | 5–8 | 5–8 | 4–8 |
 | [10 February 2021](2021-02-10-Euromedia.html) | Euromedia | 7 | 6–8 | 6–9 | 6–9 | 5–10 |
-| [7–9 February 2021](2021-02-09-BiDiMedia.html) | BiDiMedia | 6 | 6–7 | 6–8 | 6–8 | 6–8 |
+| [7–9 February 2021](2021-02-09-BiDiMedia.html) | BiDiMedia | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | [3–8 February 2021](2021-02-08-SWG.html) | SWG <br> La7 | 5 | 5–6 | 4–6 | 4–7 | 4–7 |
 | [5 February 2021](2021-02-05-Tecnè.html) | Tecnè <br> Agenzia Dire | 9 | 8–10 | 8–11 | 8–11 | 7–12 |
 | [3–5 February 2021](2021-02-05-DemosPi.html) | Demos & Pi <br> La Repubblica | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
@@ -1232,14 +1232,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.7% | 100% |  |
-| 5 | 10% | 99.3% |  |
-| 6 | 33% | 89% |  |
-| 7 | 29% | 56% | Median |
-| 8 | 17% | 27% |  |
-| 9 | 9% | 10% |  |
-| 10 | 0.8% | 1.2% |  |
-| 11 | 0.4% | 0.4% |  |
+| 4 | 0.9% | 100% |  |
+| 5 | 11% | 99.1% |  |
+| 6 | 29% | 88% |  |
+| 7 | 31% | 59% | Median |
+| 8 | 17% | 28% |  |
+| 9 | 6% | 11% |  |
+| 10 | 4% | 4% |  |
+| 11 | 0.7% | 0.7% |  |
 | 12 | 0% | 0% |  |
 | 13 | 0% | 0% | Last Result |
 
