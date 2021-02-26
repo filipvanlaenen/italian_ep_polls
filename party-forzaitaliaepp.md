@@ -634,7 +634,7 @@ Last result: **13** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 5–9 | 5–9 | 5–10 | 4–11 |
 | [20–22 February 2021](2021-02-22-Tecnè.html) | Tecnè <br> Rete 4 | 10 | 9–11 | 8–11 | 8–11 | 8–11 |
-| [17–22 February 2021](2021-02-22-SWG.html) | SWG <br> La7 | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
+| [17–22 February 2021](2021-02-22-SWG.html) | SWG <br> La7 | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [17–18 February 2021](2021-02-18-TermometroPolitico.html) | Termometro Politico | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | [1–18 February 2021](2021-02-18-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 6 | 5–7 | 5–7 | 4–7 | 4–7 |
 | [17 February 2021](2021-02-17-Index.html) | Index <br> La7 | 6 | 5–7 | 5–7 | 4–8 | 4–8 |
@@ -1232,10 +1232,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.9% | 100% |  |
-| 5 | 11% | 99.1% |  |
-| 6 | 29% | 88% |  |
-| 7 | 31% | 59% | Median |
+| 4 | 0.8% | 100% |  |
+| 5 | 13% | 99.2% |  |
+| 6 | 27% | 86% |  |
+| 7 | 32% | 59% | Median |
 | 8 | 17% | 28% |  |
 | 9 | 6% | 11% |  |
 | 10 | 4% | 4% |  |

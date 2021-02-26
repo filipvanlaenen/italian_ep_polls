@@ -646,8 +646,8 @@ Last result: **5** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20 | 18–22 | 18–23 | 17–24 | 17–25 |
 | [20–22 February 2021](2021-02-22-Tecnè.html) | Tecnè <br> Rete 4 | 21 | 20–22 | 19–23 | 19–23 | 18–24 |
-| [17–22 February 2021](2021-02-22-SWG.html) | SWG <br> La7 | 19 | 19–21 | 17–21 | 17–22 | 17–23 |
-| [17–18 February 2021](2021-02-18-TermometroPolitico.html) | Termometro Politico | 20 | 19–21 | 19–23 | 19–23 | 18–23 |
+| [17–22 February 2021](2021-02-22-SWG.html) | SWG <br> La7 | 20 | 18–22 | 18–22 | 17–22 | 16–24 |
+| [17–18 February 2021](2021-02-18-TermometroPolitico.html) | Termometro Politico | 20 | 19–22 | 19–22 | 19–22 | 18–23 |
 | [1–18 February 2021](2021-02-18-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 21 | 19–22 | 19–23 | 18–24 | 18–24 |
 | [17 February 2021](2021-02-17-Index.html) | Index <br> La7 | 20 | 19–22 | 18–23 | 18–24 | 17–24 |
 | [16–17 February 2021](2021-02-17-EMG.html) | EMG <br> Rai 3 | 21 | 19–23 | 19–23 | 19–23 | 18–24 |
@@ -1258,11 +1258,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 0.4% | 100% |  |
 | 17 | 2% | 99.6% |  |
 | 18 | 9% | 97% |  |
-| 19 | 21% | 89% |  |
-| 20 | 28% | 67% | Median |
-| 21 | 17% | 39% |  |
-| 22 | 14% | 22% |  |
-| 23 | 6% | 9% |  |
+| 19 | 18% | 88% |  |
+| 20 | 28% | 70% | Median |
+| 21 | 18% | 42% |  |
+| 22 | 15% | 24% |  |
+| 23 | 5% | 8% |  |
 | 24 | 2% | 3% |  |
 | 25 | 0.4% | 0.6% |  |
 | 26 | 0.1% | 0.2% |  |
