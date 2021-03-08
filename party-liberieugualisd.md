@@ -10,14 +10,27 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.3% | 2.0–4.3% | 1.6–4.7% | 1.4–5.0% | 1.0–5.5% |
+| N/A | [Poll Average](average.html) | 3.3% | 2.0–4.4% | 1.6–4.8% | 1.4–5.1% | 1.1–5.7% |
+| [5 March 2021](2021-03-05-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
+| [3–4 March 2021](2021-03-04-TermometroPolitico.html) | Termometro Politico | 3.5% | 3.1–4.0% | 2.9–4.1% | 2.9–4.3% | 2.7–4.5% |
+| [1–3 March 2021](2021-03-03-Ixè.html) | Ixè | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
+| [3 March 2021](2021-03-03-Index.html) | Index <br> La7 | 3.8% | 3.0–4.8% | 2.8–5.1% | 2.6–5.3% | 2.3–5.8% |
+| [24 February–1 March 2021](2021-03-01-SWG.html) | SWG <br> La7 | 4.6% | 3.9–5.5% | 3.7–5.7% | 3.5–5.9% | 3.2–6.4% |
+| [1 March 2021](2021-03-01-EMG.html) | EMG | 3.0% | 2.5–3.7% | 2.4–3.9% | 2.3–4.0% | 2.0–4.4% |
+| [26 February 2021](2021-02-26-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.2% | 2.6–4.0% | 2.4–4.3% | 2.3–4.5% | 2.0–4.9% |
+| [24–25 February 2021](2021-02-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
+| [22–24 February 2021](2021-02-24-TermometroPolitico.html) | Termometro Politico | 3.5% | 3.1–4.0% | 3.0–4.2% | 2.9–4.3% | 2.7–4.5% |
 | [20–22 February 2021](2021-02-22-Tecnè.html) | Tecnè <br> Rete 4 | 3.0% | 2.5–3.6% | 2.4–3.8% | 2.2–4.0% | 2.0–4.3% |
 | [17–22 February 2021](2021-02-22-SWG.html) | SWG <br> La7 | 4.3% | 3.7–5.2% | 3.5–5.4% | 3.3–5.6% | 3.0–6.1% |
+| [22 February 2021](2021-02-22-Euromedia.html) | Euromedia <br> Italpress | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
+| [19 February 2021](2021-02-19-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.1% | 2.5–3.9% | 2.3–4.2% | 2.2–4.4% | 1.9–4.8% |
 | [17–18 February 2021](2021-02-18-TermometroPolitico.html) | Termometro Politico | 3.3% | 2.9–3.8% | 2.8–3.9% | 2.7–4.0% | 2.5–4.3% |
 | [1–18 February 2021](2021-02-18-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
+| [15–17 February 2021](2021-02-17-TermometroPolitico.html) | Termometro Politico | 3.3% | 2.9–3.8% | 2.8–3.9% | 2.7–4.0% | 2.5–4.3% |
 | [17 February 2021](2021-02-17-Index.html) | Index <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [16–17 February 2021](2021-02-17-EMG.html) | EMG <br> Rai 3 | 2.7% | 2.2–3.3% | 2.1–3.5% | 2.0–3.6% | 1.8–4.0% |
 | [15–16 February 2021](2021-02-16-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 3.3% | 2.7–4.3% | 2.5–4.6% | 2.3–4.8% | 2.0–5.3% |
+| [15 February 2021](2021-02-15-Tecnè.html) | Tecnè <br> Rete 4 | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [10–15 February 2021](2021-02-15-SWG.html) | SWG <br> La7 | 4.0% | 3.4–4.8% | 3.2–5.1% | 3.0–5.3% | 2.7–5.7% |
 | [13 February 2021](2021-02-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [13 February 2021](2021-02-13-Lab2101.html) | Lab2101 <br> Affari Italiani | 4.0% | 3.2–5.0% | 3.0–5.3% | 2.8–5.6% | 2.5–6.1% |
@@ -27,6 +40,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [10 February 2021](2021-02-10-Euromedia.html) | Euromedia | 3.2% | 2.6–4.2% | 2.4–4.5% | 2.2–4.7% | 1.9–5.2% |
 | [7–9 February 2021](2021-02-09-BiDiMedia.html) | BiDiMedia | 3.2% | 2.7–3.9% | 2.6–4.1% | 2.4–4.2% | 2.2–4.5% |
 | [3–8 February 2021](2021-02-08-SWG.html) | SWG <br> La7 | 3.7% | 3.0–4.5% | 2.9–4.7% | 2.7–4.9% | 2.5–5.3% |
+| [8 February 2021](2021-02-08-Piepoli.html) | Piepoli <br> La Repubblica | 3.0% | 2.2–4.2% | 2.0–4.6% | 1.8–4.9% | 1.5–5.5% |
 | [5 February 2021](2021-02-05-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.0–4.1% | 1.8–4.6% |
 | [3–5 February 2021](2021-02-05-DemosPi.html) | Demos & Pi <br> La Repubblica | 3.2% | 2.6–4.0% | 2.4–4.3% | 2.3–4.5% | 2.0–4.9% |
 | [3–4 February 2021](2021-02-04-TermometroPolitico.html) | Termometro Politico | 3.3% | 2.9–3.7% | 2.8–3.9% | 2.7–4.0% | 2.6–4.2% |
@@ -609,12 +623,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 5% | 100% |  |
-| 1.5–2.5% | 16% | 95% |  |
-| 2.5–3.5% | 45% | 80% | Median |
-| 3.5–4.5% | 29% | 35% |  |
-| 4.5–5.5% | 6% | 6% |  |
-| 5.5–6.5% | 0.5% | 0.5% |  |
+| 0.5–1.5% | 4% | 100% |  |
+| 1.5–2.5% | 14% | 96% |  |
+| 2.5–3.5% | 43% | 82% | Median |
+| 3.5–4.5% | 30% | 38% |  |
+| 4.5–5.5% | 7% | 8% |  |
+| 5.5–6.5% | 0.8% | 0.9% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -627,13 +641,26 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [5 March 2021](2021-03-05-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [3–4 March 2021](2021-03-04-TermometroPolitico.html) | Termometro Politico | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
+| [1–3 March 2021](2021-03-03-Ixè.html) | Ixè | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [3 March 2021](2021-03-03-Index.html) | Index <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [24 February–1 March 2021](2021-03-01-SWG.html) | SWG <br> La7 | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
+| [1 March 2021](2021-03-01-EMG.html) | EMG | 0 | 0 | 0 | 0 | 0–4 |
+| [26 February 2021](2021-02-26-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0–4 | 0–4 | 0–4 |
+| [24–25 February 2021](2021-02-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [22–24 February 2021](2021-02-24-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | [20–22 February 2021](2021-02-22-Tecnè.html) | Tecnè <br> Rete 4 | 0 | 0 | 0 | 0 | 0–4 |
 | [17–22 February 2021](2021-02-22-SWG.html) | SWG <br> La7 | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
+| [22 February 2021](2021-02-22-Euromedia.html) | Euromedia <br> Italpress | 0 | 0 | 0 | 0 | 0–4 |
+| [19 February 2021](2021-02-19-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [17–18 February 2021](2021-02-18-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0–3 | 0–4 |
 | [1–18 February 2021](2021-02-18-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
+| [15–17 February 2021](2021-02-17-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0–3 | 0–4 |
 | [17 February 2021](2021-02-17-Index.html) | Index <br> La7 |  |  |  |  |  |
 | [16–17 February 2021](2021-02-17-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [15–16 February 2021](2021-02-16-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [15 February 2021](2021-02-15-Tecnè.html) | Tecnè <br> Rete 4 | 0 | 0 | 0 | 0–3 | 0–4 |
 | [10–15 February 2021](2021-02-15-SWG.html) | SWG <br> La7 | 4 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [13 February 2021](2021-02-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0–4 | 0–4 |
 | [13 February 2021](2021-02-13-Lab2101.html) | Lab2101 <br> Affari Italiani | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
@@ -643,6 +670,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [10 February 2021](2021-02-10-Euromedia.html) | Euromedia | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [7–9 February 2021](2021-02-09-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | [3–8 February 2021](2021-02-08-SWG.html) | SWG <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [8 February 2021](2021-02-08-Piepoli.html) | Piepoli <br> La Repubblica | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [5 February 2021](2021-02-05-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0–4 | 0–4 |
 | [3–5 February 2021](2021-02-05-DemosPi.html) | Demos & Pi <br> La Repubblica | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [3–4 February 2021](2021-02-04-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0–4 |
@@ -1226,12 +1254,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 84% | 100% | Last Result, Median |
-| 1 | 0% | 16% |  |
-| 2 | 0% | 16% |  |
-| 3 | 4% | 16% |  |
-| 4 | 11% | 12% |  |
-| 5 | 1.1% | 1.1% |  |
+| 0 | 83% | 100% | Last Result, Median |
+| 1 | 0% | 17% |  |
+| 2 | 0% | 17% |  |
+| 3 | 4% | 17% |  |
+| 4 | 12% | 13% |  |
+| 5 | 1.5% | 2% |  |
 | 6 | 0% | 0% |  |
 
 
