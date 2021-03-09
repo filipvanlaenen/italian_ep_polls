@@ -666,7 +666,7 @@ Last result: **13** seats (General Election of 26 May 2019)
 | [17 February 2021](2021-02-17-Index.html) | Index <br> La7 | 6 | 5–7 | 5–7 | 4–8 | 4–8 |
 | [16–17 February 2021](2021-02-17-EMG.html) | EMG <br> Rai 3 | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [15–16 February 2021](2021-02-16-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 8 | 7–9 | 6–9 | 6–10 | 6–11 |
-| [15 February 2021](2021-02-15-Tecnè.html) | Tecnè <br> Rete 4 | 10 | 8–11 | 8–11 | 8–11 | 7–12 |
+| [15 February 2021](2021-02-15-Tecnè.html) | Tecnè <br> Rete 4 | 9 | 8–11 | 8–11 | 8–11 | 7–12 |
 | [10–15 February 2021](2021-02-15-SWG.html) | SWG <br> La7 | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | [13 February 2021](2021-02-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 10 | 8–11 | 8–11 | 8–11 | 7–12 |
 | [13 February 2021](2021-02-13-Lab2101.html) | Lab2101 <br> Affari Italiani | 6 | 5–8 | 5–8 | 5–8 | 5–9 |
