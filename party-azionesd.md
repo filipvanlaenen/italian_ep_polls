@@ -10,9 +10,21 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.4% | 2.4–4.4% | 2.2–4.7% | 1.9–5.0% | 1.6–5.6% |
+| N/A | [Poll Average](average.html) | 3.2% | 2.2–4.5% | 2.0–4.8% | 1.9–5.2% | 1.5–5.8% |
+| [10–15 March 2021](2021-03-15-SWG.html) | SWG <br> La7 | 3.2% | 2.6–3.9% | 2.4–4.1% | 2.3–4.3% | 2.1–4.7% |
+| [12 March 2021](2021-03-12-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
+| [9–11 March 2021](2021-03-11-TermometroPolitico.html) | Termometro Politico | 3.2% | 2.8–3.7% | 2.7–3.8% | 2.6–3.9% | 2.4–4.2% |
+| [8–11 March 2021](2021-03-11-DemosPi.html) | Demos & Pi <br> La Repubblica | 2.3% | 1.9–2.9% | 1.8–3.0% | 1.6–3.2% | 1.5–3.5% |
+| [8–10 March 2021](2021-03-10-Ixè.html) | Ixè | 2.7% | 2.1–3.5% | 2.0–3.7% | 1.9–3.9% | 1.6–4.3% |
+| [9–10 March 2021](2021-03-10-Demopolis.html) | Demopolis | 2.7% | 2.3–3.3% | 2.2–3.4% | 2.1–3.6% | 1.9–3.9% |
+| [9 March 2021](2021-03-09-Euromedia.html) | Euromedia | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.1–5.6% | 2.8–6.1% |
+| [9 March 2021](2021-03-09-EMG.html) | EMG <br> Rai 3 | 3.0% | 2.5–3.7% | 2.4–3.9% | 2.3–4.0% | 2.0–4.3% |
+| [3–8 March 2021](2021-03-08-SWG.html) | SWG <br> La7 | 3.7% | 3.0–4.5% | 2.9–4.7% | 2.7–4.9% | 2.5–5.3% |
+| [8 March 2021](2021-03-08-Piepoli.html) | Piepoli | 4.0% | 3.1–5.4% | 2.8–5.8% | 2.6–6.1% | 2.2–6.8% |
+| [7 March 2021](2021-03-07-Lab2101.html) | Lab2101 <br> Affari Italiani | 3.8% | 3.1–4.7% | 2.9–5.0% | 2.8–5.2% | 2.5–5.6% |
 | [5 March 2021](2021-03-05-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
 | [3–4 March 2021](2021-03-04-TermometroPolitico.html) | Termometro Politico | 3.4% | 3.0–3.9% | 2.9–4.0% | 2.8–4.2% | 2.6–4.4% |
+| [1–4 March 2021](2021-03-04-BiDiMedia.html) | BiDiMedia | 3.1% | N/A | N/A | N/A | N/A |
 | [1–3 March 2021](2021-03-03-Ixè.html) | Ixè | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
 | [3 March 2021](2021-03-03-Index.html) | Index <br> La7 | 4.0% | 3.2–5.0% | 3.0–5.3% | 2.9–5.6% | 2.5–6.1% |
 | [24 February–1 March 2021](2021-03-01-SWG.html) | SWG <br> La7 | 3.9% | 3.3–4.7% | 3.1–5.0% | 3.0–5.2% | 2.7–5.6% |
@@ -623,13 +635,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.4% | 100% |  |
-| 1.5–2.5% | 12% | 99.6% |  |
-| 2.5–3.5% | 45% | 88% | Median |
-| 3.5–4.5% | 36% | 43% |  |
-| 4.5–5.5% | 6% | 7% |  |
-| 5.5–6.5% | 0.5% | 0.6% |  |
-| 6.5–7.5% | 0% | 0% |  |
+| 0.5–1.5% | 0.5% | 100% |  |
+| 1.5–2.5% | 20% | 99.5% |  |
+| 2.5–3.5% | 45% | 80% | Median |
+| 3.5–4.5% | 26% | 35% |  |
+| 4.5–5.5% | 7% | 8% |  |
+| 5.5–6.5% | 0.9% | 1.0% |  |
+| 6.5–7.5% | 0.1% | 0.1% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -641,8 +654,20 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [10–15 March 2021](2021-03-15-SWG.html) | SWG <br> La7 | 0 | 0 | 0–3 | 0–4 | 0–4 |
+| [12 March 2021](2021-03-12-Tecnè.html) | Tecnè <br> Agenzia Dire | 4 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [9–11 March 2021](2021-03-11-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
+| [8–11 March 2021](2021-03-11-DemosPi.html) | Demos & Pi <br> La Repubblica | 0 | 0 | 0 | 0 | 0 |
+| [8–10 March 2021](2021-03-10-Ixè.html) | Ixè | 0 | 0 | 0 | 0 | 0–3 |
+| [9–10 March 2021](2021-03-10-Demopolis.html) | Demopolis | 0 | 0 | 0 | 0 | 0 |
+| [9 March 2021](2021-03-09-Euromedia.html) | Euromedia | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
+| [9 March 2021](2021-03-09-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
+| [3–8 March 2021](2021-03-08-SWG.html) | SWG <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [8 March 2021](2021-03-08-Piepoli.html) | Piepoli | 4 | 0–4 | 0–5 | 0–5 | 0–6 |
+| [7 March 2021](2021-03-07-Lab2101.html) | Lab2101 <br> Affari Italiani | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [5 March 2021](2021-03-05-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [3–4 March 2021](2021-03-04-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0–3 | 0–3 | 0–4 |
+| [1–4 March 2021](2021-03-04-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
 | [1–3 March 2021](2021-03-03-Ixè.html) | Ixè | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [3 March 2021](2021-03-03-Index.html) | Index <br> La7 | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [24 February–1 March 2021](2021-03-01-SWG.html) | SWG <br> La7 | 4 | 0–4 | 0–4 | 0–4 | 0–5 |
@@ -1254,12 +1279,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 76% | 100% | Last Result, Median |
-| 1 | 0% | 24% |  |
-| 2 | 0% | 24% |  |
-| 3 | 4% | 24% |  |
-| 4 | 19% | 20% |  |
-| 5 | 0.9% | 0.9% |  |
-| 6 | 0% | 0% |  |
+| 0 | 77% | 100% | Last Result, Median |
+| 1 | 0% | 23% |  |
+| 2 | 0% | 23% |  |
+| 3 | 2% | 23% |  |
+| 4 | 19% | 21% |  |
+| 5 | 2% | 2% |  |
+| 6 | 0.1% | 0.1% |  |
+| 7 | 0% | 0% |  |
 
 
