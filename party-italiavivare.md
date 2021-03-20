@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.7% | 1.9–3.8% | 1.7–4.2% | 1.6–4.5% | 1.3–5.0% |
+| N/A | [Poll Average](average.html) | 2.7% | 1.9–3.8% | 1.7–4.1% | 1.6–4.4% | 1.3–4.9% |
+| [16–18 March 2021](2021-03-18-TermometroPolitico.html) | Termometro Politico | 3.1% | 2.7–3.6% | 2.6–3.7% | 2.5–3.8% | 2.3–4.1% |
+| [17 March 2021](2021-03-17-Euromedia.html) | Euromedia <br> Rai 1 | 2.7% | 2.2–3.4% | 2.0–3.7% | 1.9–3.8% | 1.7–4.2% |
+| [16 March 2021](2021-03-16-EMG.html) | EMG <br> Rai 3 | 4.0% | 3.4–4.7% | 3.3–4.9% | 3.1–5.1% | 2.9–5.5% |
 | [10–15 March 2021](2021-03-15-SWG.html) | SWG <br> La7 | 2.2% | 1.7–2.8% | 1.6–3.0% | 1.5–3.2% | 1.3–3.5% |
 | [12 March 2021](2021-03-12-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.4% | 1.9–3.2% | 1.7–3.4% | 1.6–3.6% | 1.4–3.9% |
 | [9–11 March 2021](2021-03-11-TermometroPolitico.html) | Termometro Politico | 3.0% | 2.6–3.5% | 2.5–3.6% | 2.4–3.7% | 2.2–4.0% |
@@ -640,7 +643,7 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 44% | 60% | Median |
 | 3.5–4.5% | 14% | 16% |  |
 | 4.5–5.5% | 2% | 2% |  |
-| 5.5–6.5% | 0.1% | 0.1% |  |
+| 5.5–6.5% | 0% | 0% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -653,20 +656,23 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–3 | 0–4 | 0–4 |
+| [16–18 March 2021](2021-03-18-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0–3 |
+| [17 March 2021](2021-03-17-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0–3 | 0–3 | 0–3 |
+| [16 March 2021](2021-03-16-EMG.html) | EMG <br> Rai 3 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [10–15 March 2021](2021-03-15-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [12 March 2021](2021-03-12-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
 | [9–11 March 2021](2021-03-11-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [8–11 March 2021](2021-03-11-DemosPi.html) | Demos & Pi <br> La Repubblica | 0 | 0 | 0 | 0 | 0 |
 | [8–10 March 2021](2021-03-10-Ixè.html) | Ixè | 0 | 0 | 0 | 0 | 0 |
 | [9–10 March 2021](2021-03-10-Demopolis.html) | Demopolis | 0 | 0 | 0 | 0 | 0 |
-| [9 March 2021](2021-03-09-Euromedia.html) | Euromedia | 0 | 0 | 0 | 0–3 | 0–4 |
-| [9 March 2021](2021-03-09-EMG.html) | EMG <br> Rai 3 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [9 March 2021](2021-03-09-Euromedia.html) | Euromedia | 0 | 0 | 0–3 | 0–4 | 0–4 |
+| [9 March 2021](2021-03-09-EMG.html) | EMG <br> Rai 3 | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [3–8 March 2021](2021-03-08-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
-| [8 March 2021](2021-03-08-Piepoli.html) | Piepoli | 0 | 0 | 0 | 0–4 | 0–4 |
-| [7 March 2021](2021-03-07-Lab2101.html) | Lab2101 <br> Affari Italiani | 0 | 0 | 0 | 0 | 0–4 |
+| [8 March 2021](2021-03-08-Piepoli.html) | Piepoli | 0 | 0 | 0–3 | 0–4 | 0–4 |
+| [7 March 2021](2021-03-07-Lab2101.html) | Lab2101 <br> Affari Italiani | 0 | 0 | 0 | 0–3 | 0–4 |
 | [5 March 2021](2021-03-05-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
 | [3–4 March 2021](2021-03-04-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
-| [1–4 March 2021](2021-03-04-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
+| [1–4 March 2021](2021-03-04-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0–3 |
 | [1–3 March 2021](2021-03-03-Ixè.html) | Ixè | 0 | 0 | 0 | 0 | 0 |
 | [3 March 2021](2021-03-03-Index.html) | Index <br> La7 | 0 | 0 | 0 | 0–4 | 0–4 |
 | [24 February–1 March 2021](2021-03-01-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0–4 |
@@ -1278,11 +1284,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 95% | 100% | Last Result, Median |
-| 1 | 0% | 5% |  |
-| 2 | 0% | 5% |  |
-| 3 | 0.9% | 5% |  |
-| 4 | 4% | 4% |  |
+| 0 | 94% | 100% | Last Result, Median |
+| 1 | 0% | 6% |  |
+| 2 | 0% | 6% |  |
+| 3 | 1.0% | 6% |  |
+| 4 | 4% | 5% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 
