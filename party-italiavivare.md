@@ -657,7 +657,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | [16–18 March 2021](2021-03-18-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0–3 |
-| [17 March 2021](2021-03-17-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0–3 | 0–3 | 0–3 |
+| [17 March 2021](2021-03-17-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0–3 | 0–3 |
 | [16 March 2021](2021-03-16-EMG.html) | EMG <br> Rai 3 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [10–15 March 2021](2021-03-15-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [12 March 2021](2021-03-12-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
@@ -1287,7 +1287,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 94% | 100% | Last Result, Median |
 | 1 | 0% | 6% |  |
 | 2 | 0% | 6% |  |
-| 3 | 1.0% | 6% |  |
+| 3 | 1.1% | 6% |  |
 | 4 | 4% | 5% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |

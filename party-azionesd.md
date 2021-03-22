@@ -662,7 +662,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [16 March 2021](2021-03-16-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0–3 |
 | [10–15 March 2021](2021-03-15-SWG.html) | SWG <br> La7 | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | [12 March 2021](2021-03-12-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
-| [9–11 March 2021](2021-03-11-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
+| [9–11 March 2021](2021-03-11-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0–4 |
 | [8–11 March 2021](2021-03-11-DemosPi.html) | Demos & Pi <br> La Repubblica | 0 | 0 | 0 | 0 | 0 |
 | [8–10 March 2021](2021-03-10-Ixè.html) | Ixè | 0 | 0 | 0 | 0 | 0–3 |
 | [9–10 March 2021](2021-03-10-Demopolis.html) | Demopolis | 0 | 0 | 0 | 0 | 0 |
@@ -1289,8 +1289,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 21% |  |
 | 2 | 0% | 21% |  |
 | 3 | 3% | 21% |  |
-| 4 | 17% | 19% |  |
-| 5 | 1.5% | 2% |  |
+| 4 | 16% | 18% |  |
+| 5 | 1.3% | 1.4% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
 

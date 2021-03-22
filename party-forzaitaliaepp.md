@@ -664,11 +664,11 @@ Last result: **13** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–8 | 5–9 | 5–10 | 4–11 |
 | [16–18 March 2021](2021-03-18-TermometroPolitico.html) | Termometro Politico | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
-| [17 March 2021](2021-03-17-Euromedia.html) | Euromedia <br> Rai 1 | 6 | 6–7 | 5–8 | 5–8 | 4–8 |
+| [17 March 2021](2021-03-17-Euromedia.html) | Euromedia <br> Rai 1 | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
 | [16 March 2021](2021-03-16-EMG.html) | EMG <br> Rai 3 | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
-| [10–15 March 2021](2021-03-15-SWG.html) | SWG <br> La7 | 6 | 5–6 | 4–7 | 4–7 | 4–7 |
+| [10–15 March 2021](2021-03-15-SWG.html) | SWG <br> La7 | 5 | 5–7 | 5–7 | 4–7 | 4–7 |
 | [12 March 2021](2021-03-12-Tecnè.html) | Tecnè <br> Agenzia Dire | 9 | 8–10 | 8–11 | 8–11 | 7–11 |
-| [9–11 March 2021](2021-03-11-TermometroPolitico.html) | Termometro Politico | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
+| [9–11 March 2021](2021-03-11-TermometroPolitico.html) | Termometro Politico | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | [8–11 March 2021](2021-03-11-DemosPi.html) | Demos & Pi <br> La Repubblica | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | [8–10 March 2021](2021-03-10-Ixè.html) | Ixè | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | [9–10 March 2021](2021-03-10-Demopolis.html) | Demopolis | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
@@ -1292,9 +1292,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 2% | 100% |  |
-| 5 | 20% | 98% |  |
+| 5 | 21% | 98% |  |
 | 6 | 29% | 78% | Median |
-| 7 | 26% | 49% |  |
+| 7 | 27% | 49% |  |
 | 8 | 13% | 22% |  |
 | 9 | 6% | 9% |  |
 | 10 | 2% | 3% |  |
