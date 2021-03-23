@@ -10,8 +10,10 @@ Last result: **16.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.7% | 6.0–9.7% | 5.7–10.4% | 5.4–11.0% | 5.0–12.0% |
+| N/A | [Poll Average](average.html) | 7.6% | 5.9–9.7% | 5.6–10.4% | 5.3–11.0% | 4.8–12.0% |
+| [17–22 March 2021](2021-03-22-SWG.html) | SWG <br> La7 | 6.7% | 5.8–7.7% | 5.6–8.0% | 5.4–8.2% | 5.0–8.7% |
 | [16–18 March 2021](2021-03-18-TermometroPolitico.html) | Termometro Politico | 6.1% | 5.5–6.8% | 5.4–6.9% | 5.3–7.1% | 5.0–7.4% |
+| [17 March 2021](2021-03-17-Index.html) | Index <br> La7 | 6.1% | 5.2–7.4% | 4.9–7.7% | 4.7–8.0% | 4.2–8.6% |
 | [17 March 2021](2021-03-17-Euromedia.html) | Euromedia <br> Rai 1 | 7.6% | 6.6–8.7% | 6.4–9.0% | 6.1–9.3% | 5.7–9.8% |
 | [16 March 2021](2021-03-16-EMG.html) | EMG <br> Rai 3 | 6.5% | 5.7–7.4% | 5.5–7.6% | 5.3–7.8% | 5.0–8.3% |
 | [10–15 March 2021](2021-03-15-SWG.html) | SWG <br> La7 | 6.4% | 5.6–7.4% | 5.3–7.7% | 5.2–8.0% | 4.8–8.5% |
@@ -638,16 +640,16 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.1% | 100% |  |
-| 4.5–5.5% | 3% | 99.9% |  |
-| 5.5–6.5% | 19% | 97% |  |
-| 6.5–7.5% | 24% | 78% |  |
-| 7.5–8.5% | 25% | 53% | Median |
-| 8.5–9.5% | 16% | 28% |  |
-| 9.5–10.5% | 7% | 12% |  |
+| 3.5–4.5% | 0.2% | 100% |  |
+| 4.5–5.5% | 4% | 99.7% |  |
+| 5.5–6.5% | 20% | 96% |  |
+| 6.5–7.5% | 24% | 76% |  |
+| 7.5–8.5% | 25% | 52% | Median |
+| 8.5–9.5% | 15% | 27% |  |
+| 9.5–10.5% | 7% | 11% |  |
 | 10.5–11.5% | 3% | 4% |  |
-| 11.5–12.5% | 0.9% | 1.0% |  |
-| 12.5–13.5% | 0.1% | 0.1% |  |
+| 11.5–12.5% | 1.0% | 1.1% |  |
+| 12.5–13.5% | 0.1% | 0.2% |  |
 | 13.5–14.5% | 0% | 0% |  |
 | 14.5–15.5% | 0% | 0% |  |
 | 15.5–16.5% | 0% | 0% |  |
@@ -663,7 +665,9 @@ Last result: **13** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–8 | 5–9 | 5–10 | 4–11 |
+| [17–22 March 2021](2021-03-22-SWG.html) | SWG <br> La7 | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | [16–18 March 2021](2021-03-18-TermometroPolitico.html) | Termometro Politico | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
+| [17 March 2021](2021-03-17-Index.html) | Index <br> La7 | 6 | 4–6 | 4–7 | 4–7 | 4–8 |
 | [17 March 2021](2021-03-17-Euromedia.html) | Euromedia <br> Rai 1 | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
 | [16 March 2021](2021-03-16-EMG.html) | EMG <br> Rai 3 | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
 | [10–15 March 2021](2021-03-15-SWG.html) | SWG <br> La7 | 5 | 5–7 | 5–7 | 4–7 | 4–7 |
@@ -1291,14 +1295,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 2% | 100% |  |
-| 5 | 21% | 98% |  |
-| 6 | 29% | 78% | Median |
-| 7 | 27% | 49% |  |
-| 8 | 13% | 22% |  |
-| 9 | 6% | 9% |  |
-| 10 | 2% | 3% |  |
-| 11 | 0.5% | 0.6% |  |
+| 3 | 0% | 100% |  |
+| 4 | 2% | 99.9% |  |
+| 5 | 18% | 98% |  |
+| 6 | 33% | 80% | Median |
+| 7 | 28% | 47% |  |
+| 8 | 11% | 19% |  |
+| 9 | 5% | 8% |  |
+| 10 | 3% | 3% |  |
+| 11 | 0.6% | 0.6% |  |
 | 12 | 0% | 0% |  |
 | 13 | 0% | 0% | Last Result |
 
