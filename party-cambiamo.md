@@ -10,13 +10,20 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.0% | 0.5–1.8% | 0.4–2.0% | 0.3–2.2% | 0.3–2.7% |
+| N/A | [Poll Average](average.html) | 1.2% | 0.5–2.2% | 0.4–2.5% | 0.4–2.7% | 0.3–3.1% |
+| [26 March 2021](2021-03-26-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
+| [23–25 March 2021](2021-03-25-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
+| [24–25 March 2021](2021-03-25-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
+| [23–25 March 2021](2021-03-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.0% | N/A | N/A | N/A | N/A |
 | [17–22 March 2021](2021-03-22-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [22 March 2021](2021-03-22-Demopolis.html) | Demopolis | 0.0% | N/A | N/A | N/A | N/A |
 | [19 March 2021](2021-03-19-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [16–18 March 2021](2021-03-18-Winpoll.html) | Winpoll | 0.5% | 0.4–0.8% | 0.3–0.9% | 0.3–0.9% | 0.2–1.1% |
 | [16–18 March 2021](2021-03-18-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
 | [17 March 2021](2021-03-17-Index.html) | Index <br> La7 | 1.5% | 1.1–2.2% | 1.0–2.4% | 0.9–2.6% | 0.7–3.0% |
 | [17 March 2021](2021-03-17-Euromedia.html) | Euromedia <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
+| [16 March 2021](2021-03-16-Piepoli.html) | Piepoli | 0.0% | N/A | N/A | N/A | N/A |
+| [12–16 March 2021](2021-03-16-FormatResearch.html) | Format Research | 0.0% | N/A | N/A | N/A | N/A |
 | [16 March 2021](2021-03-16-EMG.html) | EMG <br> Rai 3 | 1.3% | 1.0–1.8% | 0.9–1.9% | 0.8–2.0% | 0.7–2.3% |
 | [10–15 March 2021](2021-03-15-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [12 March 2021](2021-03-12-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
@@ -641,11 +648,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 18% | 100% | Last Result |
-| 0.5–1.5% | 62% | 82% | Median |
-| 1.5–2.5% | 19% | 20% |  |
-| 2.5–3.5% | 0.8% | 0.8% |  |
-| 3.5–4.5% | 0% | 0% |  |
+| 0.0–0.5% | 15% | 100% | Last Result |
+| 0.5–1.5% | 52% | 85% | Median |
+| 1.5–2.5% | 30% | 34% |  |
+| 2.5–3.5% | 4% | 4% |  |
+| 3.5–4.5% | 0.1% | 0.1% |  |
+| 4.5–5.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -657,12 +665,19 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [26 March 2021](2021-03-26-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [23–25 March 2021](2021-03-25-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [24–25 March 2021](2021-03-25-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
+| [23–25 March 2021](2021-03-25-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
 | [17–22 March 2021](2021-03-22-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [22 March 2021](2021-03-22-Demopolis.html) | Demopolis |  |  |  |  |  |
 | [19 March 2021](2021-03-19-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [16–18 March 2021](2021-03-18-Winpoll.html) | Winpoll | 0 | 0 | 0 | 0 | 0 |
 | [16–18 March 2021](2021-03-18-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [17 March 2021](2021-03-17-Index.html) | Index <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [17 March 2021](2021-03-17-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
+| [16 March 2021](2021-03-16-Piepoli.html) | Piepoli |  |  |  |  |  |
+| [12–16 March 2021](2021-03-16-FormatResearch.html) | Format Research |  |  |  |  |  |
 | [16 March 2021](2021-03-16-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [10–15 March 2021](2021-03-15-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [12 March 2021](2021-03-12-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
