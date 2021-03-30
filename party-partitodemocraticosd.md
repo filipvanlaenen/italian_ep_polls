@@ -10,20 +10,20 @@ Last result: **40.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.5% | 16.1–20.7% | 15.6–21.2% | 15.1–21.7% | 14.4–22.6% |
+| N/A | [Poll Average](average.html) | 18.5% | 16.2–20.6% | 15.7–21.2% | 15.2–21.7% | 14.4–22.7% |
 | [26 March 2021](2021-03-26-Tecnè.html) | Tecnè <br> Agenzia Dire | 18.3% | 16.8–20.0% | 16.4–20.4% | 16.0–20.8% | 15.3–21.6% |
 | [23–25 March 2021](2021-03-25-TermometroPolitico.html) | Termometro Politico | 19.4% | 18.4–20.5% | 18.1–20.9% | 17.8–21.1% | 17.3–21.7% |
 | [24–25 March 2021](2021-03-25-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 18.0% | 16.5–19.6% | 16.1–20.1% | 15.7–20.5% | 15.0–21.3% |
-| [23–25 March 2021](2021-03-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 20.3% | 18.7–22.0% | 18.3–22.5% | 17.9–22.9% | 17.2–23.8% |
+| [23–25 March 2021](2021-03-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 20.3% | 18.7–22.0% | 18.3–22.5% | 17.9–22.9% | 17.2–23.7% |
 | [17–22 March 2021](2021-03-22-SWG.html) | SWG <br> La7 | 19.0% | 17.6–20.5% | 17.2–21.0% | 16.9–21.3% | 16.2–22.1% |
-| [22 March 2021](2021-03-22-Demopolis.html) | Demopolis | 18.0% | N/A | N/A | N/A | N/A |
+| [22 March 2021](2021-03-22-Demopolis.html) | Demopolis | 18.0% | 16.5–19.6% | 16.1–20.1% | 15.7–20.5% | 15.0–21.3% |
 | [19 March 2021](2021-03-19-Tecnè.html) | Tecnè <br> Agenzia Dire | 18.0% | 16.5–19.6% | 16.1–20.1% | 15.7–20.5% | 15.0–21.3% |
 | [16–18 March 2021](2021-03-18-Winpoll.html) | Winpoll | 20.1% | 19.0–21.3% | 18.7–21.6% | 18.4–21.9% | 17.9–22.5% |
 | [16–18 March 2021](2021-03-18-TermometroPolitico.html) | Termometro Politico | 19.7% | 18.7–20.7% | 18.5–21.0% | 18.2–21.3% | 17.8–21.7% |
 | [17 March 2021](2021-03-17-Index.html) | Index <br> La7 | 18.1% | 16.5–20.0% | 16.0–20.5% | 15.6–21.0% | 14.8–21.9% |
 | [17 March 2021](2021-03-17-Euromedia.html) | Euromedia <br> Rai 1 | 16.3% | 15.0–17.8% | 14.6–18.2% | 14.3–18.6% | 13.6–19.3% |
-| [16 March 2021](2021-03-16-Piepoli.html) | Piepoli | 19.0% | N/A | N/A | N/A | N/A |
-| [12–16 March 2021](2021-03-16-FormatResearch.html) | Format Research | 18.3% | N/A | N/A | N/A | N/A |
+| [16 March 2021](2021-03-16-Piepoli.html) | Piepoli | 19.0% | 16.9–21.4% | 16.3–22.1% | 15.8–22.7% | 14.8–23.9% |
+| [12–16 March 2021](2021-03-16-FormatResearch.html) | Format Research | 18.3% | 17.1–19.7% | 16.8–20.0% | 16.4–20.4% | 15.9–21.0% |
 | [16 March 2021](2021-03-16-EMG.html) | EMG <br> Rai 3 | 16.1% | 15.0–17.4% | 14.6–17.7% | 14.4–18.1% | 13.8–18.7% |
 | [10–15 March 2021](2021-03-15-SWG.html) | SWG <br> La7 | 17.4% | 16.1–18.9% | 15.7–19.3% | 15.4–19.7% | 14.8–20.4% |
 | [12 March 2021](2021-03-12-Tecnè.html) | Tecnè <br> Agenzia Dire | 17.3% | 15.8–18.9% | 15.4–19.4% | 15.1–19.8% | 14.4–20.6% |
@@ -649,16 +649,16 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 12.5–13.5% | 0% | 100% |  |
-| 13.5–14.5% | 0.7% | 100% |  |
-| 14.5–15.5% | 4% | 99.2% |  |
-| 15.5–16.5% | 11% | 95% |  |
-| 16.5–17.5% | 16% | 84% |  |
-| 17.5–18.5% | 18% | 68% |  |
-| 18.5–19.5% | 21% | 50% | Median |
-| 19.5–20.5% | 17% | 29% |  |
-| 20.5–21.5% | 9% | 12% |  |
+| 13.5–14.5% | 0.6% | 100% |  |
+| 14.5–15.5% | 4% | 99.3% |  |
+| 15.5–16.5% | 10% | 96% |  |
+| 16.5–17.5% | 16% | 86% |  |
+| 17.5–18.5% | 21% | 70% | Median |
+| 18.5–19.5% | 22% | 49% |  |
+| 19.5–20.5% | 16% | 27% |  |
+| 20.5–21.5% | 8% | 11% |  |
 | 21.5–22.5% | 2% | 3% |  |
-| 22.5–23.5% | 0.5% | 0.5% |  |
+| 22.5–23.5% | 0.5% | 0.6% |  |
 | 23.5–24.5% | 0.1% | 0.1% |  |
 | 24.5–25.5% | 0% | 0% |  |
 | 25.5–26.5% | 0% | 0% |  |
@@ -687,20 +687,20 @@ Last result: **31** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 12–17 | 12–17 | 12–17 | 11–18 |
-| [26 March 2021](2021-03-26-Tecnè.html) | Tecnè <br> Agenzia Dire | 15 | 14–16 | 13–16 | 13–16 | 12–17 |
-| [23–25 March 2021](2021-03-25-TermometroPolitico.html) | Termometro Politico | 16 | 15–17 | 15–17 | 14–17 | 14–18 |
-| [24–25 March 2021](2021-03-25-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 15 | 13–16 | 12–16 | 12–17 | 11–18 |
-| [23–25 March 2021](2021-03-25-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 15 | 13–17 | 12–17 | 12–18 | 11–18 |
+| [26 March 2021](2021-03-26-Tecnè.html) | Tecnè <br> Agenzia Dire | 15 | 13–16 | 13–17 | 13–17 | 12–18 |
+| [23–25 March 2021](2021-03-25-TermometroPolitico.html) | Termometro Politico | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
+| [24–25 March 2021](2021-03-25-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 14 | 13–16 | 12–16 | 12–17 | 11–18 |
+| [23–25 March 2021](2021-03-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 16 | 15–18 | 15–18 | 14–19 | 14–20 |
 | [17–22 March 2021](2021-03-22-SWG.html) | SWG <br> La7 | 16 | 14–17 | 14–17 | 13–18 | 13–18 |
-| [22 March 2021](2021-03-22-Demopolis.html) | Demopolis |  |  |  |  |  |
+| [22 March 2021](2021-03-22-Demopolis.html) | Demopolis | 14 | 12–15 | 12–15 | 12–16 | 11–16 |
 | [19 March 2021](2021-03-19-Tecnè.html) | Tecnè <br> Agenzia Dire | 15 | 13–16 | 13–16 | 13–17 | 12–18 |
 | [16–18 March 2021](2021-03-18-Winpoll.html) | Winpoll | 16 | 15–17 | 15–17 | 15–17 | 14–18 |
 | [16–18 March 2021](2021-03-18-TermometroPolitico.html) | Termometro Politico | 16 | 15–17 | 15–17 | 15–17 | 14–18 |
 | [17 March 2021](2021-03-17-Index.html) | Index <br> La7 | 15 | 14–17 | 13–18 | 13–18 | 12–19 |
 | [17 March 2021](2021-03-17-Euromedia.html) | Euromedia <br> Rai 1 | 12 | 11–14 | 11–15 | 11–15 | 10–15 |
-| [16 March 2021](2021-03-16-Piepoli.html) | Piepoli |  |  |  |  |  |
-| [12–16 March 2021](2021-03-16-FormatResearch.html) | Format Research |  |  |  |  |  |
+| [16 March 2021](2021-03-16-Piepoli.html) | Piepoli | 15 | 13–17 | 13–17 | 12–18 | 11–19 |
+| [12–16 March 2021](2021-03-16-FormatResearch.html) | Format Research | 14 | 13–15 | 13–16 | 13–16 | 12–17 |
 | [16 March 2021](2021-03-16-EMG.html) | EMG <br> Rai 3 | 14 | 12–15 | 12–15 | 11–15 | 11–16 |
 | [10–15 March 2021](2021-03-15-SWG.html) | SWG <br> La7 | 14 | 13–15 | 12–15 | 12–16 | 11–17 |
 | [12 March 2021](2021-03-12-Tecnè.html) | Tecnè <br> Agenzia Dire | 14 | 13–15 | 13–15 | 12–16 | 12–17 |
@@ -1328,16 +1328,16 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.1% | 100% |  |
-| 11 | 2% | 99.9% |  |
-| 12 | 9% | 98% |  |
-| 13 | 15% | 89% |  |
-| 14 | 18% | 75% |  |
-| 15 | 20% | 56% | Median |
-| 16 | 21% | 36% |  |
-| 17 | 13% | 15% |  |
-| 18 | 2% | 2% |  |
-| 19 | 0.2% | 0.3% |  |
-| 20 | 0% | 0% |  |
+| 11 | 1.5% | 99.9% |  |
+| 12 | 7% | 98% |  |
+| 13 | 15% | 91% |  |
+| 14 | 22% | 76% |  |
+| 15 | 22% | 54% | Median |
+| 16 | 19% | 33% |  |
+| 17 | 10% | 13% |  |
+| 18 | 3% | 3% |  |
+| 19 | 0.4% | 0.4% |  |
+| 20 | 0.1% | 0.1% |  |
 | 21 | 0% | 0% |  |
 | 22 | 0% | 0% |  |
 | 23 | 0% | 0% |  |

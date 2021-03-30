@@ -10,20 +10,20 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.7% | 1.9–3.7% | 1.7–4.1% | 1.6–4.4% | 1.3–4.9% |
+| N/A | [Poll Average](average.html) | 2.6% | 1.9–3.6% | 1.7–4.0% | 1.5–4.3% | 1.3–4.8% |
 | [26 March 2021](2021-03-26-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
 | [23–25 March 2021](2021-03-25-TermometroPolitico.html) | Termometro Politico | 3.1% | 2.7–3.6% | 2.5–3.8% | 2.4–3.9% | 2.3–4.2% |
 | [24–25 March 2021](2021-03-25-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
-| [23–25 March 2021](2021-03-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 2.2% | 1.7–2.9% | 1.6–3.2% | 1.4–3.3% | 1.2–3.7% |
+| [23–25 March 2021](2021-03-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
 | [17–22 March 2021](2021-03-22-SWG.html) | SWG <br> La7 | 2.3% | 1.9–3.0% | 1.7–3.2% | 1.6–3.4% | 1.4–3.7% |
-| [22 March 2021](2021-03-22-Demopolis.html) | Demopolis | 2.0% | N/A | N/A | N/A | N/A |
+| [22 March 2021](2021-03-22-Demopolis.html) | Demopolis | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [19 March 2021](2021-03-19-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
 | [16–18 March 2021](2021-03-18-Winpoll.html) | Winpoll | 2.5% | 2.1–3.0% | 2.0–3.2% | 1.9–3.3% | 1.7–3.6% |
 | [16–18 March 2021](2021-03-18-TermometroPolitico.html) | Termometro Politico | 3.1% | 2.7–3.6% | 2.6–3.7% | 2.5–3.8% | 2.3–4.1% |
 | [17 March 2021](2021-03-17-Index.html) | Index <br> La7 | 2.9% | 2.2–3.8% | 2.1–4.1% | 1.9–4.3% | 1.7–4.8% |
 | [17 March 2021](2021-03-17-Euromedia.html) | Euromedia <br> Rai 1 | 2.7% | 2.2–3.4% | 2.0–3.7% | 1.9–3.8% | 1.7–4.2% |
-| [16 March 2021](2021-03-16-Piepoli.html) | Piepoli | 2.6% | N/A | N/A | N/A | N/A |
-| [12–16 March 2021](2021-03-16-FormatResearch.html) | Format Research | 2.9% | N/A | N/A | N/A | N/A |
+| [16 March 2021](2021-03-16-Piepoli.html) | Piepoli | 2.6% | 1.9–3.8% | 1.7–4.1% | 1.5–4.4% | 1.2–5.0% |
+| [12–16 March 2021](2021-03-16-FormatResearch.html) | Format Research | 2.9% | 2.4–3.6% | 2.3–3.8% | 2.2–3.9% | 2.0–4.3% |
 | [16 March 2021](2021-03-16-EMG.html) | EMG <br> Rai 3 | 4.0% | 3.4–4.7% | 3.3–4.9% | 3.1–5.1% | 2.9–5.5% |
 | [10–15 March 2021](2021-03-15-SWG.html) | SWG <br> La7 | 2.2% | 1.7–2.8% | 1.6–3.0% | 1.5–3.2% | 1.3–3.5% |
 | [12 March 2021](2021-03-12-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.4% | 1.9–3.2% | 1.7–3.4% | 1.6–3.6% | 1.4–3.9% |
@@ -649,11 +649,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 2% | 100% |  |
-| 1.5–2.5% | 41% | 98% |  |
-| 2.5–3.5% | 45% | 57% | Median |
-| 3.5–4.5% | 11% | 12% |  |
-| 4.5–5.5% | 1.4% | 1.5% |  |
+| 0.5–1.5% | 3% | 100% |  |
+| 1.5–2.5% | 43% | 97% |  |
+| 2.5–3.5% | 44% | 55% | Median |
+| 3.5–4.5% | 10% | 11% |  |
+| 4.5–5.5% | 1.2% | 1.2% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -665,20 +665,20 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0–3 | 0–4 | 0–4 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–4 | 0–4 |
 | [26 March 2021](2021-03-26-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
-| [23–25 March 2021](2021-03-25-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0–3 | 0–4 | 0–4 |
-| [24–25 March 2021](2021-03-25-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
-| [23–25 March 2021](2021-03-25-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
+| [23–25 March 2021](2021-03-25-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0–4 |
+| [24–25 March 2021](2021-03-25-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0 | 0–3 |
+| [23–25 March 2021](2021-03-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
 | [17–22 March 2021](2021-03-22-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
-| [22 March 2021](2021-03-22-Demopolis.html) | Demopolis |  |  |  |  |  |
+| [22 March 2021](2021-03-22-Demopolis.html) | Demopolis | 0 | 0 | 0 | 0 | 0 |
 | [19 March 2021](2021-03-19-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
 | [16–18 March 2021](2021-03-18-Winpoll.html) | Winpoll | 0 | 0 | 0 | 0 | 0 |
 | [16–18 March 2021](2021-03-18-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0–3 |
 | [17 March 2021](2021-03-17-Index.html) | Index <br> La7 | 0 | 0 | 0 | 0–4 | 0–4 |
 | [17 March 2021](2021-03-17-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0–3 | 0–3 |
-| [16 March 2021](2021-03-16-Piepoli.html) | Piepoli |  |  |  |  |  |
-| [12–16 March 2021](2021-03-16-FormatResearch.html) | Format Research |  |  |  |  |  |
+| [16 March 2021](2021-03-16-Piepoli.html) | Piepoli | 0 | 0 | 0–3 | 0–4 | 0–4 |
+| [12–16 March 2021](2021-03-16-FormatResearch.html) | Format Research | 0 | 0 | 0 | 0 | 0–3 |
 | [16 March 2021](2021-03-16-EMG.html) | EMG <br> Rai 3 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [10–15 March 2021](2021-03-15-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [12 March 2021](2021-03-12-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
@@ -1305,11 +1305,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 95% | 100% | Last Result, Median |
-| 1 | 0% | 5% |  |
-| 2 | 0% | 5% |  |
-| 3 | 1.0% | 5% |  |
-| 4 | 4% | 4% |  |
+| 0 | 96% | 100% | Last Result, Median |
+| 1 | 0% | 4% |  |
+| 2 | 0% | 4% |  |
+| 3 | 1.0% | 4% |  |
+| 4 | 3% | 3% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 
