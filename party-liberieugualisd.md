@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3.7% | 2.7–5.0% | 2.4–5.5% | 2.2–5.9% | 1.9–6.7% |
+| [24–29 March 2021](2021-03-29-SWG.html) | SWG <br> La7 | 4.5% | 3.8–5.4% | 3.6–5.6% | 3.5–5.8% | 3.2–6.3% |
 | [26 March 2021](2021-03-26-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
 | [23–25 March 2021](2021-03-25-TermometroPolitico.html) | Termometro Politico | 3.1% | 2.7–3.6% | 2.5–3.8% | 2.4–3.9% | 2.3–4.2% |
 | [24–25 March 2021](2021-03-25-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
@@ -668,6 +669,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
+| [24–29 March 2021](2021-03-29-SWG.html) | SWG <br> La7 | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
 | [26 March 2021](2021-03-26-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [23–25 March 2021](2021-03-25-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0–3 |
 | [24–25 March 2021](2021-03-25-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
@@ -1310,10 +1312,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 64% | 100% | Last Result, Median |
 | 1 | 0% | 36% |  |
 | 2 | 0% | 36% |  |
-| 3 | 7% | 36% |  |
-| 4 | 23% | 29% |  |
+| 3 | 6% | 36% |  |
+| 4 | 24% | 30% |  |
 | 5 | 5% | 6% |  |
-| 6 | 0.4% | 0.4% |  |
+| 6 | 0.3% | 0.3% |  |
 | 7 | 0% | 0% |  |
 
 
