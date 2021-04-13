@@ -690,14 +690,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 15 | 13–17 | 13–17 | 12–17 | 11–18 |
-| [7 April 2021](2021-04-07-Index.html) | Index <br> La7 | 16 | 14–18 | 12–18 | 12–18 | 12–18 |
-| [7 April 2021](2021-04-07-Euromedia.html) | Euromedia <br> Rai 1 | 14 | 13–17 | 13–17 | 13–17 | 12–19 |
+| [7 April 2021](2021-04-07-Index.html) | Index <br> La7 | 15 | 13–17 | 13–17 | 13–18 | 12–18 |
+| [7 April 2021](2021-04-07-Euromedia.html) | Euromedia <br> Rai 1 | 15 | 13–17 | 13–17 | 13–17 | 12–18 |
 | [31 March–6 April 2021](2021-04-06-SWG.html) | SWG <br> La7 | 15 | 14–15 | 13–15 | 12–16 | 12–17 |
 | [6 April 2021](2021-04-06-Piepoli.html) | Piepoli <br> RaiNews24 | 15 | 13–16 | 13–17 | 12–17 | 11–19 |
-| [4 April 2021](2021-04-04-Lab2101.html) | Lab2101 <br> Affari Italiani | 14 | 13–15 | 13–16 | 13–16 | 12–17 |
-| [31 March–1 April 2021](2021-04-01-TermometroPolitico.html) | Termometro Politico | 16 | 16–17 | 16–17 | 15–17 | 15–18 |
-| [1 April 2021](2021-04-01-Tecnè.html) | Tecnè <br> Agenzia Dire | 16 | 14–17 | 14–17 | 14–17 | 14–19 |
-| [30 March–1 April 2021](2021-04-01-Ipsos.html) | Ipsos <br> Corriere della Sera | 16 | 14–17 | 13–18 | 13–18 | 12–19 |
+| [4 April 2021](2021-04-04-Lab2101.html) | Lab2101 <br> Affari Italiani | 14 | 13–16 | 12–16 | 12–17 | 12–17 |
+| [31 March–1 April 2021](2021-04-01-TermometroPolitico.html) | Termometro Politico | 16 | 16–17 | 15–18 | 15–18 | 14–18 |
+| [1 April 2021](2021-04-01-Tecnè.html) | Tecnè <br> Agenzia Dire | 16 | 14–17 | 14–17 | 14–18 | 13–19 |
+| [30 March–1 April 2021](2021-04-01-Ipsos.html) | Ipsos <br> Corriere della Sera | 16 | 14–17 | 14–17 | 14–18 | 13–19 |
 | [31 March 2021](2021-03-31-Index.html) | Index <br> La7 | 15 | 13–17 | 13–17 | 13–18 | 12–18 |
 | [24–29 March 2021](2021-03-29-SWG.html) | SWG <br> La7 | 16 | 14–17 | 14–17 | 14–17 | 13–19 |
 | [26 March 2021](2021-03-26-Tecnè.html) | Tecnè <br> Agenzia Dire | 15 | 14–17 | 14–18 | 14–18 | 13–19 |
@@ -1351,14 +1351,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0.5% | 100% |  |
-| 12 | 4% | 99.5% |  |
-| 13 | 11% | 96% |  |
-| 14 | 24% | 85% |  |
-| 15 | 24% | 60% | Median |
-| 16 | 24% | 36% |  |
-| 17 | 10% | 12% |  |
+| 12 | 4% | 99.4% |  |
+| 13 | 11% | 95% |  |
+| 14 | 21% | 85% |  |
+| 15 | 28% | 64% | Median |
+| 16 | 23% | 36% |  |
+| 17 | 11% | 13% |  |
 | 18 | 2% | 2% |  |
-| 19 | 0.2% | 0.2% |  |
+| 19 | 0.2% | 0.3% |  |
 | 20 | 0% | 0% |  |
 
 
