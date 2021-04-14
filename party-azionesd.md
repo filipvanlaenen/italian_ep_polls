@@ -676,10 +676,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| N/A | [Poll Average](average.html) | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [7 April 2021](2021-04-07-Index.html) | Index <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [7 April 2021](2021-04-07-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [31 March–6 April 2021](2021-04-06-SWG.html) | SWG <br> La7 | 4 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [31 March–6 April 2021](2021-04-06-SWG.html) | SWG <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [6 April 2021](2021-04-06-Piepoli.html) | Piepoli <br> RaiNews24 | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [4 April 2021](2021-04-04-Lab2101.html) | Lab2101 <br> Affari Italiani | 0 | 0 | 0 | 0–4 | 0–4 |
 | [31 March–1 April 2021](2021-04-01-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
@@ -1326,12 +1326,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 86% | 100% | Last Result, Median |
-| 1 | 0% | 14% |  |
-| 2 | 0% | 14% |  |
-| 3 | 3% | 14% |  |
-| 4 | 11% | 11% |  |
-| 5 | 0.4% | 0.4% |  |
+| 0 | 88% | 100% | Last Result, Median |
+| 1 | 0% | 12% |  |
+| 2 | 0% | 12% |  |
+| 3 | 4% | 12% |  |
+| 4 | 7% | 8% |  |
+| 5 | 0.5% | 0.5% |  |
 | 6 | 0% | 0% |  |
 
 

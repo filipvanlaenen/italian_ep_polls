@@ -700,8 +700,8 @@ Last result: **31** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 15 | 13–17 | 12–18 | 12–18 | 11–19 |
 | [7 April 2021](2021-04-07-Index.html) | Index <br> La7 | 17 | 15–19 | 15–19 | 14–19 | 13–20 |
 | [7 April 2021](2021-04-07-Euromedia.html) | Euromedia <br> Rai 1 | 16 | 14–18 | 14–18 | 13–19 | 12–19 |
-| [31 March–6 April 2021](2021-04-06-SWG.html) | SWG <br> La7 | 14 | 14–15 | 14–16 | 14–18 | 13–18 |
-| [6 April 2021](2021-04-06-Piepoli.html) | Piepoli <br> RaiNews24 | 15 | 13–17 | 13–17 | 13–18 | 12–19 |
+| [31 March–6 April 2021](2021-04-06-SWG.html) | SWG <br> La7 | 15 | 14–17 | 13–17 | 13–17 | 13–18 |
+| [6 April 2021](2021-04-06-Piepoli.html) | Piepoli <br> RaiNews24 | 15 | 14–17 | 13–18 | 13–18 | 12–20 |
 | [4 April 2021](2021-04-04-Lab2101.html) | Lab2101 <br> Affari Italiani | 16 | 15–18 | 15–18 | 14–19 | 13–19 |
 | [31 March–1 April 2021](2021-04-01-TermometroPolitico.html) | Termometro Politico | 16 | 15–17 | 15–17 | 15–17 | 14–18 |
 | [1 April 2021](2021-04-01-Tecnè.html) | Tecnè <br> Agenzia Dire | 15 | 14–17 | 13–17 | 13–17 | 12–18 |
@@ -1350,13 +1350,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0.8% | 100% |  |
 | 12 | 4% | 99.2% |  |
 | 13 | 14% | 95% |  |
-| 14 | 22% | 81% |  |
-| 15 | 22% | 59% | Median |
-| 16 | 20% | 37% |  |
-| 17 | 11% | 17% |  |
+| 14 | 20% | 81% |  |
+| 15 | 21% | 61% | Median |
+| 16 | 21% | 39% |  |
+| 17 | 12% | 18% |  |
 | 18 | 4% | 6% |  |
 | 19 | 2% | 2% |  |
-| 20 | 0.1% | 0.2% |  |
+| 20 | 0.2% | 0.2% |  |
 | 21 | 0% | 0% |  |
 | 22 | 0% | 0% |  |
 | 23 | 0% | 0% |  |

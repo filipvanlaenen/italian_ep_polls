@@ -696,8 +696,8 @@ Last result: **5** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 20 | 18–21 | 17–22 | 17–23 | 16–24 |
 | [7 April 2021](2021-04-07-Index.html) | Index <br> La7 | 20 | 18–22 | 18–22 | 17–23 | 17–24 |
 | [7 April 2021](2021-04-07-Euromedia.html) | Euromedia <br> Rai 1 | 19 | 17–21 | 17–21 | 16–23 | 15–23 |
-| [31 March–6 April 2021](2021-04-06-SWG.html) | SWG <br> La7 | 19 | 19–20 | 19–21 | 18–21 | 18–23 |
-| [6 April 2021](2021-04-06-Piepoli.html) | Piepoli <br> RaiNews24 | 20 | 17–21 | 17–22 | 16–23 | 15–23 |
+| [31 March–6 April 2021](2021-04-06-SWG.html) | SWG <br> La7 | 19 | 19–21 | 18–22 | 18–22 | 17–23 |
+| [6 April 2021](2021-04-06-Piepoli.html) | Piepoli <br> RaiNews24 | 19 | 17–21 | 17–22 | 16–22 | 15–24 |
 | [4 April 2021](2021-04-04-Lab2101.html) | Lab2101 <br> Affari Italiani | 22 | 19–23 | 19–24 | 19–24 | 18–25 |
 | [31 March–1 April 2021](2021-04-01-TermometroPolitico.html) | Termometro Politico | 20 | 19–21 | 19–21 | 19–22 | 18–23 |
 | [1 April 2021](2021-04-01-Tecnè.html) | Tecnè <br> Agenzia Dire | 20 | 18–21 | 18–22 | 17–22 | 17–23 |
@@ -1353,16 +1353,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 0.2% | 100% |  |
-| 16 | 0.8% | 99.8% |  |
+| 15 | 0.1% | 100% |  |
+| 16 | 0.9% | 99.9% |  |
 | 17 | 6% | 99.0% |  |
 | 18 | 18% | 93% |  |
-| 19 | 25% | 75% |  |
-| 20 | 26% | 50% | Median |
-| 21 | 15% | 24% |  |
+| 19 | 24% | 75% |  |
+| 20 | 26% | 51% | Median |
+| 21 | 15% | 25% |  |
 | 22 | 6% | 10% |  |
 | 23 | 3% | 4% |  |
-| 24 | 0.7% | 0.9% |  |
+| 24 | 0.8% | 0.9% |  |
 | 25 | 0.1% | 0.1% |  |
 | 26 | 0% | 0% |  |
 

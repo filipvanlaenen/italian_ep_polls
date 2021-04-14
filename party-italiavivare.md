@@ -679,7 +679,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [7 April 2021](2021-04-07-Index.html) | Index <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [7 April 2021](2021-04-07-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0–3 | 0–4 |
 | [31 March–6 April 2021](2021-04-06-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
-| [6 April 2021](2021-04-06-Piepoli.html) | Piepoli <br> RaiNews24 | 0 | 0 | 0 | 0–4 | 0–4 |
+| [6 April 2021](2021-04-06-Piepoli.html) | Piepoli <br> RaiNews24 | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | [4 April 2021](2021-04-04-Lab2101.html) | Lab2101 <br> Affari Italiani | 0 | 0 | 0 | 0–4 | 0–4 |
 | [31 March–1 April 2021](2021-04-01-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [1 April 2021](2021-04-01-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
@@ -1329,7 +1329,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 4% |  |
 | 2 | 0% | 4% |  |
 | 3 | 0.4% | 4% |  |
-| 4 | 3% | 4% |  |
+| 4 | 4% | 4% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 
