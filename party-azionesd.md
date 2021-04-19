@@ -10,7 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.1% | 2.2–4.0% | 2.0–4.4% | 1.9–4.7% | 1.6–5.3% |
+| N/A | [Poll Average](average.html) | 3.1% | 2.4–4.0% | 2.1–4.4% | 1.9–4.7% | 1.6–5.4% |
+| [15–16 April 2021](2021-04-16-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.9% | 2.3–3.8% | 2.1–4.1% | 1.9–4.3% | 1.7–4.8% |
+| [7–12 April 2021](2021-04-12-SWG.html) | SWG <br> La7 | 3.4% | 2.8–4.2% | 2.7–4.4% | 2.5–4.6% | 2.3–5.0% |
+| [10 April 2021](2021-04-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.8% | 2.1–3.7% | 2.0–3.9% | 1.8–4.1% | 1.6–4.6% |
+| [7–8 April 2021](2021-04-08-Termometropolitico.html) | Termometro politico | 3.2% | 2.8–3.8% | 2.7–3.9% | 2.6–4.0% | 2.4–4.3% |
+| [5–8 April 2021](2021-04-08-BiDiMedia.html) | BiDiMedia | 3.0% | 2.7–3.4% | 2.6–3.5% | 2.5–3.6% | 2.3–3.8% |
 | [7 April 2021](2021-04-07-Index.html) | Index <br> La7 | 3.4% | 2.7–4.3% | 2.5–4.6% | 2.3–4.9% | 2.0–5.4% |
 | [7 April 2021](2021-04-07-Euromedia.html) | Euromedia <br> Rai 1 | 3.8% | 3.0–4.8% | 2.8–5.1% | 2.6–5.3% | 2.3–5.8% |
 | [31 March–6 April 2021](2021-04-06-SWG.html) | SWG <br> La7 | 3.5% | 2.9–4.3% | 2.7–4.5% | 2.6–4.7% | 2.3–5.1% |
@@ -659,11 +664,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.5% | 100% |  |
-| 1.5–2.5% | 20% | 99.5% |  |
-| 2.5–3.5% | 54% | 79% | Median |
+| 0.5–1.5% | 0.4% | 100% |  |
+| 1.5–2.5% | 15% | 99.6% |  |
+| 2.5–3.5% | 59% | 84% | Median |
 | 3.5–4.5% | 22% | 26% |  |
-| 4.5–5.5% | 3% | 3% |  |
+| 4.5–5.5% | 3% | 4% |  |
 | 5.5–6.5% | 0.3% | 0.3% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
@@ -676,7 +681,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0–4 | 0–4 | 0–5 |
+| [15–16 April 2021](2021-04-16-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0–3 | 0–4 |
+| [7–12 April 2021](2021-04-12-SWG.html) | SWG <br> La7 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [10 April 2021](2021-04-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0–4 |
+| [7–8 April 2021](2021-04-08-Termometropolitico.html) | Termometro politico | 0 | 0 | 0 | 0 | 0–4 |
+| [5–8 April 2021](2021-04-08-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
 | [7 April 2021](2021-04-07-Index.html) | Index <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [7 April 2021](2021-04-07-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [31 March–6 April 2021](2021-04-06-SWG.html) | SWG <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
@@ -1326,12 +1336,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 88% | 100% | Last Result, Median |
-| 1 | 0% | 12% |  |
-| 2 | 0% | 12% |  |
-| 3 | 4% | 12% |  |
-| 4 | 7% | 8% |  |
-| 5 | 0.5% | 0.5% |  |
+| 0 | 90% | 100% | Last Result, Median |
+| 1 | 0% | 10% |  |
+| 2 | 0% | 10% |  |
+| 3 | 3% | 10% |  |
+| 4 | 6% | 7% |  |
+| 5 | 0.5% | 0.6% |  |
 | 6 | 0% | 0% |  |
 
 
