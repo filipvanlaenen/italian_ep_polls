@@ -10,11 +10,17 @@ Last result: **16.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.9% | 5.7–8.8% | 5.4–9.7% | 5.1–10.4% | 4.5–11.5% |
-| [15–16 April 2021](2021-04-16-Tecnè.html) | Tecnè <br> Agenzia Dire | 9.8% | 8.6–11.3% | 8.2–11.7% | 7.9–12.1% | 7.3–12.8% |
+| N/A | [Poll Average](average.html) | 7.4% | 6.0–8.6% | 5.6–9.0% | 5.3–9.4% | 4.8–10.1% |
+| [19 April 2021](2021-04-19-SWG.html) | SWG <br> La7 | 6.4% | N/A | N/A | N/A | N/A |
+| [15–16 April 2021](2021-04-16-Tecnè.html) | Tecnè <br> Agenzia Dire | 9.8% | N/A | N/A | N/A | N/A |
+| [13–15 April 2021](2021-04-15-TermometroPolitico.html) | Termometro Politico | 6.0% | N/A | N/A | N/A | N/A |
+| [12–13 April 2021](2021-04-13-Piepoli.html) | Piepoli | 5.9% | N/A | N/A | N/A | N/A |
+| [13 April 2021](2021-04-13-EMG.html) | EMG <br> Rai 3 | 7.5% | N/A | N/A | N/A | N/A |
+| [9–12 April 2021](2021-04-12-Tecnè.html) | Tecnè <br> Rete 4 | 9.9% | N/A | N/A | N/A | N/A |
 | [7–12 April 2021](2021-04-12-SWG.html) | SWG <br> La7 | 6.7% | 5.8–7.7% | 5.6–8.0% | 5.4–8.2% | 5.0–8.7% |
-| [10 April 2021](2021-04-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 9.9% | 8.7–11.4% | 8.3–11.8% | 8.0–12.2% | 7.5–12.9% |
-| [7–8 April 2021](2021-04-08-Termometropolitico.html) | Termometro politico | 6.0% | 5.4–6.6% | 5.2–6.8% | 5.1–7.0% | 4.8–7.3% |
+| [1–12 April 2021](2021-04-12-NotoSondaggi.html) | Noto Sondaggi <br> Noi con l’Italia | 6.5% | N/A | N/A | N/A | N/A |
+| [8–9 April 2021](2021-04-09-Tecnè.html) | Tecnè <br> Agenzia Dire | 9.9% | N/A | N/A | N/A | N/A |
+| [7–8 April 2021](2021-04-08-TermometroPolitico.html) | Termometro Politico | 5.9% | N/A | N/A | N/A | N/A |
 | [5–8 April 2021](2021-04-08-BiDiMedia.html) | BiDiMedia | 7.8% | 7.3–8.4% | 7.1–8.6% | 7.0–8.7% | 6.7–9.0% |
 | [7 April 2021](2021-04-07-Index.html) | Index <br> La7 | 6.4% | 5.4–7.6% | 5.1–8.0% | 4.9–8.3% | 4.5–8.9% |
 | [7 April 2021](2021-04-07-Euromedia.html) | Euromedia <br> Rai 1 | 7.2% | 6.2–8.6% | 5.9–8.9% | 5.6–9.3% | 5.2–9.9% |
@@ -664,16 +670,16 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.5% | 100% |  |
-| 4.5–5.5% | 7% | 99.5% |  |
-| 5.5–6.5% | 31% | 92% |  |
-| 6.5–7.5% | 30% | 61% | Median |
-| 7.5–8.5% | 19% | 32% |  |
-| 8.5–9.5% | 7% | 13% |  |
-| 9.5–10.5% | 3% | 6% |  |
-| 10.5–11.5% | 2% | 2% |  |
-| 11.5–12.5% | 0.4% | 0.5% |  |
-| 12.5–13.5% | 0.1% | 0.1% |  |
+| 3.5–4.5% | 0.2% | 100% |  |
+| 4.5–5.5% | 4% | 99.8% |  |
+| 5.5–6.5% | 19% | 96% |  |
+| 6.5–7.5% | 32% | 77% | Median |
+| 7.5–8.5% | 33% | 45% |  |
+| 8.5–9.5% | 10% | 12% |  |
+| 9.5–10.5% | 2% | 2% |  |
+| 10.5–11.5% | 0.1% | 0.2% |  |
+| 11.5–12.5% | 0% | 0% |  |
+| 12.5–13.5% | 0% | 0% |  |
 | 13.5–14.5% | 0% | 0% |  |
 | 14.5–15.5% | 0% | 0% |  |
 | 15.5–16.5% | 0% | 0% |  |
@@ -688,11 +694,17 @@ Last result: **13** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–8 | 5–8 | 4–9 | 4–10 |
-| [15–16 April 2021](2021-04-16-Tecnè.html) | Tecnè <br> Agenzia Dire | 9 | 8–10 | 7–10 | 7–10 | 6–11 |
+| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–8 | 5–8 | 4–9 |
+| [19 April 2021](2021-04-19-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [15–16 April 2021](2021-04-16-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [13–15 April 2021](2021-04-15-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [12–13 April 2021](2021-04-13-Piepoli.html) | Piepoli |  |  |  |  |  |
+| [13 April 2021](2021-04-13-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
+| [9–12 April 2021](2021-04-12-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
 | [7–12 April 2021](2021-04-12-SWG.html) | SWG <br> La7 | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
-| [10 April 2021](2021-04-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 9 | 7–10 | 7–10 | 7–10 | 6–11 |
-| [7–8 April 2021](2021-04-08-Termometropolitico.html) | Termometro politico | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
+| [1–12 April 2021](2021-04-12-NotoSondaggi.html) | Noto Sondaggi <br> Noi con l’Italia |  |  |  |  |  |
+| [8–9 April 2021](2021-04-09-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [7–8 April 2021](2021-04-08-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [5–8 April 2021](2021-04-08-BiDiMedia.html) | BiDiMedia | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [7 April 2021](2021-04-07-Index.html) | Index <br> La7 | 6 | 5–8 | 4–8 | 4–8 | 4–8 |
 | [7 April 2021](2021-04-07-Euromedia.html) | Euromedia <br> Rai 1 | 6 | 5–7 | 5–8 | 5–8 | 4–9 |
@@ -1343,18 +1355,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% |  |
-| 1 | 0% | 99.9% |  |
-| 2 | 0% | 99.9% |  |
-| 3 | 0.1% | 99.9% |  |
-| 4 | 3% | 99.8% |  |
-| 5 | 33% | 97% |  |
-| 6 | 34% | 64% | Median |
-| 7 | 19% | 30% |  |
-| 8 | 6% | 11% |  |
-| 9 | 3% | 4% |  |
-| 10 | 0.8% | 1.0% |  |
-| 11 | 0.2% | 0.2% |  |
+| 4 | 2% | 100% |  |
+| 5 | 19% | 98% |  |
+| 6 | 38% | 79% | Median |
+| 7 | 33% | 41% |  |
+| 8 | 6% | 7% |  |
+| 9 | 0.7% | 0.8% |  |
+| 10 | 0% | 0% |  |
+| 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |
 | 13 | 0% | 0% | Last Result |
 
