@@ -10,10 +10,10 @@ Last result: **16.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.4% | 6.0–8.6% | 5.6–9.0% | 5.3–9.4% | 4.8–10.1% |
-| [19 April 2021](2021-04-19-SWG.html) | SWG <br> La7 | 6.4% | N/A | N/A | N/A | N/A |
-| [15–16 April 2021](2021-04-16-Tecnè.html) | Tecnè <br> Agenzia Dire | 9.8% | N/A | N/A | N/A | N/A |
-| [13–15 April 2021](2021-04-15-TermometroPolitico.html) | Termometro Politico | 6.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 7.2% | 5.8–9.4% | 5.5–10.0% | 5.3–10.4% | 4.9–11.0% |
+| [19 April 2021](2021-04-19-SWG.html) | SWG <br> La7 | 6.4% | 5.6–7.4% | 5.3–7.7% | 5.2–8.0% | 4.8–8.5% |
+| [15–16 April 2021](2021-04-16-Tecnè.html) | Tecnè <br> Agenzia Dire | 9.8% | 9.0–10.7% | 8.8–11.0% | 8.6–11.2% | 8.2–11.6% |
+| [13–15 April 2021](2021-04-15-TermometroPolitico.html) | Termometro Politico | 6.0% | 5.5–6.6% | 5.3–6.8% | 5.2–6.9% | 5.0–7.2% |
 | [12–13 April 2021](2021-04-13-Piepoli.html) | Piepoli | 5.9% | N/A | N/A | N/A | N/A |
 | [13 April 2021](2021-04-13-EMG.html) | EMG <br> Rai 3 | 7.5% | N/A | N/A | N/A | N/A |
 | [9–12 April 2021](2021-04-12-Tecnè.html) | Tecnè <br> Rete 4 | 9.9% | N/A | N/A | N/A | N/A |
@@ -670,15 +670,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.2% | 100% |  |
-| 4.5–5.5% | 4% | 99.8% |  |
-| 5.5–6.5% | 19% | 96% |  |
-| 6.5–7.5% | 32% | 77% | Median |
-| 7.5–8.5% | 33% | 45% |  |
-| 8.5–9.5% | 10% | 12% |  |
-| 9.5–10.5% | 2% | 2% |  |
-| 10.5–11.5% | 0.1% | 0.2% |  |
-| 11.5–12.5% | 0% | 0% |  |
+| 3.5–4.5% | 0.1% | 100% |  |
+| 4.5–5.5% | 5% | 99.9% |  |
+| 5.5–6.5% | 26% | 95% |  |
+| 6.5–7.5% | 27% | 69% | Median |
+| 7.5–8.5% | 23% | 42% |  |
+| 8.5–9.5% | 10% | 19% |  |
+| 9.5–10.5% | 7% | 8% |  |
+| 10.5–11.5% | 2% | 2% |  |
+| 11.5–12.5% | 0.1% | 0.1% |  |
 | 12.5–13.5% | 0% | 0% |  |
 | 13.5–14.5% | 0% | 0% |  |
 | 14.5–15.5% | 0% | 0% |  |
@@ -694,10 +694,10 @@ Last result: **13** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–8 | 5–8 | 4–9 |
-| [19 April 2021](2021-04-19-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [15–16 April 2021](2021-04-16-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
-| [13–15 April 2021](2021-04-15-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 6 | 5–8 | 5–9 | 5–9 | 4–9 |
+| [19 April 2021](2021-04-19-SWG.html) | SWG <br> La7 | 5 | 5 | 5 | 5 | 4–7 |
+| [15–16 April 2021](2021-04-16-Tecnè.html) | Tecnè <br> Agenzia Dire | 8 | 8–9 | 8–9 | 7–10 | 7–10 |
+| [13–15 April 2021](2021-04-15-TermometroPolitico.html) | Termometro Politico | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [12–13 April 2021](2021-04-13-Piepoli.html) | Piepoli |  |  |  |  |  |
 | [13 April 2021](2021-04-13-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [9–12 April 2021](2021-04-12-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
@@ -1355,13 +1355,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 2% | 100% |  |
-| 5 | 19% | 98% |  |
-| 6 | 38% | 79% | Median |
-| 7 | 33% | 41% |  |
-| 8 | 6% | 7% |  |
-| 9 | 0.7% | 0.8% |  |
-| 10 | 0% | 0% |  |
+| 4 | 1.4% | 100% |  |
+| 5 | 32% | 98.6% |  |
+| 6 | 29% | 67% | Median |
+| 7 | 23% | 38% |  |
+| 8 | 10% | 15% |  |
+| 9 | 5% | 6% |  |
+| 10 | 0.3% | 0.3% |  |
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |
 | 13 | 0% | 0% | Last Result |

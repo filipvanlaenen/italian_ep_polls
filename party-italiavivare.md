@@ -10,10 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.6% | 1.8–3.3% | 1.7–3.5% | 1.5–3.7% | 1.3–4.2% |
-| [19 April 2021](2021-04-19-SWG.html) | SWG <br> La7 | 2.1% | N/A | N/A | N/A | N/A |
-| [15–16 April 2021](2021-04-16-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.0% | N/A | N/A | N/A | N/A |
-| [13–15 April 2021](2021-04-15-TermometroPolitico.html) | Termometro Politico | 3.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 2.5% | 1.8–3.2% | 1.6–3.5% | 1.5–3.7% | 1.3–4.1% |
+| [19 April 2021](2021-04-19-SWG.html) | SWG <br> La7 | 2.1% | 1.6–2.7% | 1.5–2.9% | 1.4–3.1% | 1.2–3.4% |
+| [15–16 April 2021](2021-04-16-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.0% | 1.6–2.5% | 1.6–2.6% | 1.5–2.7% | 1.3–3.0% |
+| [13–15 April 2021](2021-04-15-TermometroPolitico.html) | Termometro Politico | 3.0% | 2.6–3.4% | 2.5–3.6% | 2.5–3.7% | 2.3–3.9% |
 | [12–13 April 2021](2021-04-13-Piepoli.html) | Piepoli | 2.6% | N/A | N/A | N/A | N/A |
 | [13 April 2021](2021-04-13-EMG.html) | EMG <br> Rai 3 | 4.0% | N/A | N/A | N/A | N/A |
 | [9–12 April 2021](2021-04-12-Tecnè.html) | Tecnè <br> Rete 4 | 2.1% | N/A | N/A | N/A | N/A |
@@ -671,9 +671,9 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 3% | 100% |  |
-| 1.5–2.5% | 47% | 97% |  |
-| 2.5–3.5% | 46% | 50% | Median |
-| 3.5–4.5% | 4% | 4% |  |
+| 1.5–2.5% | 50% | 97% | Median |
+| 2.5–3.5% | 43% | 47% |  |
+| 3.5–4.5% | 3% | 4% |  |
 | 4.5–5.5% | 0.1% | 0.1% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
@@ -687,9 +687,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–4 |
-| [19 April 2021](2021-04-19-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [15–16 April 2021](2021-04-16-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
-| [13–15 April 2021](2021-04-15-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [19 April 2021](2021-04-19-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
+| [15–16 April 2021](2021-04-16-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
+| [13–15 April 2021](2021-04-15-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [12–13 April 2021](2021-04-13-Piepoli.html) | Piepoli |  |  |  |  |  |
 | [13 April 2021](2021-04-13-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [9–12 April 2021](2021-04-12-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
@@ -1347,11 +1347,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98.7% | 100% | Last Result, Median |
-| 1 | 0% | 1.3% |  |
-| 2 | 0% | 1.3% |  |
-| 3 | 0.2% | 1.3% |  |
-| 4 | 1.1% | 1.1% |  |
+| 0 | 99.1% | 100% | Last Result, Median |
+| 1 | 0% | 0.9% |  |
+| 2 | 0% | 0.9% |  |
+| 3 | 0.2% | 0.9% |  |
+| 4 | 0.7% | 0.7% |  |
 | 5 | 0% | 0% |  |
 
 
