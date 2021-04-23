@@ -10,17 +10,17 @@ Last result: **6.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.6% | 20.8–24.6% | 20.2–25.3% | 19.8–26.0% | 18.9–27.2% |
+| N/A | [Poll Average](average.html) | 22.7% | 20.9–24.7% | 20.3–25.3% | 19.8–26.0% | 18.9–27.2% |
 | [19 April 2021](2021-04-19-SWG.html) | SWG <br> La7 | 21.2% | 19.7–22.7% | 19.3–23.2% | 18.9–23.6% | 18.3–24.3% |
 | [15–16 April 2021](2021-04-16-Tecnè.html) | Tecnè <br> Agenzia Dire | 22.0% | 20.8–23.2% | 20.5–23.6% | 20.2–23.9% | 19.7–24.5% |
 | [13–15 April 2021](2021-04-15-TermometroPolitico.html) | Termometro Politico | 23.3% | 22.3–24.3% | 22.1–24.6% | 21.8–24.8% | 21.4–25.3% |
-| [12–13 April 2021](2021-04-13-Piepoli.html) | Piepoli | 23.0% | N/A | N/A | N/A | N/A |
-| [13 April 2021](2021-04-13-EMG.html) | EMG <br> Rai 3 | 22.9% | N/A | N/A | N/A | N/A |
-| [9–12 April 2021](2021-04-12-Tecnè.html) | Tecnè <br> Rete 4 | 22.4% | N/A | N/A | N/A | N/A |
+| [12–13 April 2021](2021-04-13-Piepoli.html) | Piepoli | 23.0% | 20.7–25.5% | 20.1–26.2% | 19.5–26.8% | 18.5–28.1% |
+| [13 April 2021](2021-04-13-EMG.html) | EMG <br> Rai 3 | 22.9% | 21.6–24.3% | 21.2–24.7% | 20.9–25.0% | 20.3–25.7% |
+| [9–12 April 2021](2021-04-12-Tecnè.html) | Tecnè <br> Rete 4 | 22.4% | 21.2–23.7% | 20.9–24.0% | 20.6–24.3% | 20.1–24.9% |
 | [7–12 April 2021](2021-04-12-SWG.html) | SWG <br> La7 | 22.0% | 20.5–23.6% | 20.1–24.1% | 19.7–24.4% | 19.1–25.2% |
-| [1–12 April 2021](2021-04-12-NotoSondaggi.html) | Noto Sondaggi <br> Noi con l’Italia | 23.5% | N/A | N/A | N/A | N/A |
-| [8–9 April 2021](2021-04-09-Tecnè.html) | Tecnè <br> Agenzia Dire | 22.3% | N/A | N/A | N/A | N/A |
-| [7–8 April 2021](2021-04-08-TermometroPolitico.html) | Termometro Politico | 23.3% | N/A | N/A | N/A | N/A |
+| [1–12 April 2021](2021-04-12-NotoSondaggi.html) | Noto Sondaggi <br> Noi con l’Italia | 23.5% | 22.3–24.8% | 22.0–25.1% | 21.7–25.4% | 21.1–26.0% |
+| [8–9 April 2021](2021-04-09-Tecnè.html) | Tecnè <br> Agenzia Dire | 22.3% | 21.0–23.7% | 20.6–24.1% | 20.3–24.5% | 19.6–25.2% |
+| [7–8 April 2021](2021-04-08-TermometroPolitico.html) | Termometro Politico | 23.3% | 22.2–24.4% | 21.9–24.8% | 21.6–25.0% | 21.1–25.6% |
 | [5–8 April 2021](2021-04-08-BiDiMedia.html) | BiDiMedia | 22.5% | 21.6–23.4% | 21.4–23.6% | 21.2–23.9% | 20.8–24.3% |
 | [7 April 2021](2021-04-07-Index.html) | Index <br> La7 | 22.8% | 20.9–24.7% | 20.4–25.3% | 20.0–25.8% | 19.1–26.8% |
 | [7 April 2021](2021-04-07-Euromedia.html) | Euromedia <br> Rai 1 | 22.0% | 20.2–24.0% | 19.7–24.5% | 19.3–25.0% | 18.4–26.0% |
@@ -682,17 +682,18 @@ The following table shows the probability mass function per percentage block of 
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0% | 100% |  |
 | 17.5–18.5% | 0.2% | 100% |  |
-| 18.5–19.5% | 2% | 99.8% |  |
-| 19.5–20.5% | 6% | 98% |  |
-| 20.5–21.5% | 15% | 92% |  |
-| 21.5–22.5% | 26% | 77% |  |
-| 22.5–23.5% | 26% | 51% | Median |
-| 23.5–24.5% | 15% | 25% |  |
-| 24.5–25.5% | 6% | 10% |  |
+| 18.5–19.5% | 1.3% | 99.8% |  |
+| 19.5–20.5% | 5% | 98% |  |
+| 20.5–21.5% | 13% | 93% |  |
+| 21.5–22.5% | 25% | 80% |  |
+| 22.5–23.5% | 27% | 55% | Median |
+| 23.5–24.5% | 17% | 29% |  |
+| 24.5–25.5% | 7% | 11% |  |
 | 25.5–26.5% | 3% | 4% |  |
-| 26.5–27.5% | 1.0% | 1.2% |  |
+| 26.5–27.5% | 0.9% | 1.2% |  |
 | 27.5–28.5% | 0.2% | 0.3% |  |
-| 28.5–29.5% | 0% | 0% |  |
+| 28.5–29.5% | 0% | 0.1% |  |
+| 29.5–30.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -703,17 +704,17 @@ Last result: **5** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 17–21 | 17–22 | 17–23 | 16–24 |
+| N/A | [Poll Average](average.html) | 20 | 17–21 | 17–22 | 17–23 | 16–24 |
 | [19 April 2021](2021-04-19-SWG.html) | SWG <br> La7 | 17 | 17–18 | 17–19 | 17–20 | 16–21 |
 | [15–16 April 2021](2021-04-16-Tecnè.html) | Tecnè <br> Agenzia Dire | 19 | 18–20 | 17–20 | 17–21 | 17–22 |
 | [13–15 April 2021](2021-04-15-TermometroPolitico.html) | Termometro Politico | 20 | 20–21 | 20–21 | 19–21 | 19–22 |
-| [12–13 April 2021](2021-04-13-Piepoli.html) | Piepoli |  |  |  |  |  |
-| [13 April 2021](2021-04-13-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
-| [9–12 April 2021](2021-04-12-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
+| [12–13 April 2021](2021-04-13-Piepoli.html) | Piepoli | 19 | 17–21 | 17–22 | 16–22 | 15–23 |
+| [13 April 2021](2021-04-13-EMG.html) | EMG <br> Rai 3 | 21 | 20–21 | 19–22 | 18–22 | 18–24 |
+| [9–12 April 2021](2021-04-12-Tecnè.html) | Tecnè <br> Rete 4 | 20 | 19–21 | 19–21 | 19–21 | 18–22 |
 | [7–12 April 2021](2021-04-12-SWG.html) | SWG <br> La7 | 19 | 18–20 | 17–21 | 16–21 | 16–22 |
-| [1–12 April 2021](2021-04-12-NotoSondaggi.html) | Noto Sondaggi <br> Noi con l’Italia |  |  |  |  |  |
-| [8–9 April 2021](2021-04-09-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
-| [7–8 April 2021](2021-04-08-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [1–12 April 2021](2021-04-12-NotoSondaggi.html) | Noto Sondaggi <br> Noi con l’Italia | 21 | 19–21 | 19–21 | 19–21 | 18–22 |
+| [8–9 April 2021](2021-04-09-Tecnè.html) | Tecnè <br> Agenzia Dire | 20 | 18–21 | 18–21 | 18–21 | 17–22 |
+| [7–8 April 2021](2021-04-08-TermometroPolitico.html) | Termometro Politico | 20 | 19–21 | 19–21 | 19–21 | 18–22 |
 | [5–8 April 2021](2021-04-08-BiDiMedia.html) | BiDiMedia | 20 | 19–20 | 18–20 | 18–20 | 18–21 |
 | [7 April 2021](2021-04-07-Index.html) | Index <br> La7 | 20 | 18–22 | 18–22 | 17–23 | 17–24 |
 | [7 April 2021](2021-04-07-Euromedia.html) | Euromedia <br> Rai 1 | 19 | 17–21 | 17–21 | 16–23 | 15–23 |
@@ -1374,17 +1375,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 0.1% | 100% |  |
-| 16 | 0.8% | 99.9% |  |
-| 17 | 16% | 99.1% |  |
-| 18 | 15% | 83% |  |
-| 19 | 23% | 69% | Median |
-| 20 | 28% | 46% |  |
-| 21 | 9% | 18% |  |
-| 22 | 5% | 9% |  |
-| 23 | 3% | 4% |  |
-| 24 | 0.5% | 0.7% |  |
-| 25 | 0.1% | 0.2% |  |
+| 15 | 0.2% | 100% |  |
+| 16 | 0.9% | 99.8% |  |
+| 17 | 13% | 98.9% |  |
+| 18 | 13% | 86% |  |
+| 19 | 20% | 73% |  |
+| 20 | 24% | 53% | Median |
+| 21 | 20% | 28% |  |
+| 22 | 5% | 8% |  |
+| 23 | 3% | 3% |  |
+| 24 | 0.5% | 0.6% |  |
+| 25 | 0.1% | 0.1% |  |
 | 26 | 0% | 0% |  |
 
 
