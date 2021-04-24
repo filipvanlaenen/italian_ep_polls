@@ -694,13 +694,13 @@ Last result: **13** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–8 | 5–8 | 4–9 | 4–9 |
-| [19 April 2021](2021-04-19-SWG.html) | SWG <br> La7 | 5 | 5 | 5 | 5 | 4–7 |
-| [15–16 April 2021](2021-04-16-Tecnè.html) | Tecnè <br> Agenzia Dire | 8 | 8–9 | 8–9 | 7–10 | 7–10 |
+| N/A | [Poll Average](average.html) | 6 | 5–8 | 5–9 | 4–9 | 4–9 |
+| [19 April 2021](2021-04-19-SWG.html) | SWG <br> La7 | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
+| [15–16 April 2021](2021-04-16-Tecnè.html) | Tecnè <br> Agenzia Dire | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
 | [13–15 April 2021](2021-04-15-TermometroPolitico.html) | Termometro Politico | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [12–13 April 2021](2021-04-13-Piepoli.html) | Piepoli | 5 | 4–6 | 4–7 | 3–7 | 0–8 |
 | [13 April 2021](2021-04-13-EMG.html) | EMG <br> Rai 3 | 7 | 6–7 | 6–7 | 6–8 | 5–8 |
-| [9–12 April 2021](2021-04-12-Tecnè.html) | Tecnè <br> Rete 4 | 9 | 8–9 | 8–10 | 8–10 | 7–11 |
+| [9–12 April 2021](2021-04-12-Tecnè.html) | Tecnè <br> Rete 4 | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
 | [7–12 April 2021](2021-04-12-SWG.html) | SWG <br> La7 | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
 | [1–12 April 2021](2021-04-12-NotoSondaggi.html) | Noto Sondaggi <br> Noi con l’Italia | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [8–9 April 2021](2021-04-09-Tecnè.html) | Tecnè <br> Agenzia Dire | 9 | 8–10 | 8–10 | 7–10 | 7–11 |
@@ -1360,12 +1360,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 99.9% |  |
 | 3 | 0.1% | 99.9% |  |
 | 4 | 3% | 99.7% |  |
-| 5 | 34% | 97% |  |
-| 6 | 26% | 63% | Median |
-| 7 | 25% | 37% |  |
-| 8 | 8% | 12% |  |
-| 9 | 4% | 4% |  |
-| 10 | 0.2% | 0.2% |  |
+| 5 | 32% | 96% |  |
+| 6 | 30% | 65% | Median |
+| 7 | 22% | 34% |  |
+| 8 | 6% | 12% |  |
+| 9 | 6% | 6% |  |
+| 10 | 0.5% | 0.5% |  |
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |
 | 13 | 0% | 0% | Last Result |

@@ -691,13 +691,13 @@ Last result: **17** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 13–17 | 12–17 | 12–17 | 11–18 |
-| [19 April 2021](2021-04-19-SWG.html) | SWG <br> La7 | 17 | 16–17 | 14–17 | 14–17 | 13–18 |
-| [15–16 April 2021](2021-04-16-Tecnè.html) | Tecnè <br> Agenzia Dire | 14 | 14–15 | 14–16 | 13–16 | 12–17 |
-| [13–15 April 2021](2021-04-15-TermometroPolitico.html) | Termometro Politico | 13 | 13–14 | 12–15 | 12–15 | 12–15 |
+| N/A | [Poll Average](average.html) | 14 | 13–16 | 12–17 | 12–17 | 11–18 |
+| [19 April 2021](2021-04-19-SWG.html) | SWG <br> La7 | 17 | 14–17 | 14–17 | 14–18 | 13–18 |
+| [15–16 April 2021](2021-04-16-Tecnè.html) | Tecnè <br> Agenzia Dire | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
+| [13–15 April 2021](2021-04-15-TermometroPolitico.html) | Termometro Politico | 14 | 13–14 | 13–15 | 12–15 | 12–15 |
 | [12–13 April 2021](2021-04-13-Piepoli.html) | Piepoli | 14 | 13–17 | 12–17 | 12–18 | 11–19 |
-| [13 April 2021](2021-04-13-EMG.html) | EMG <br> Rai 3 | 15 | 14–15 | 14–15 | 13–16 | 12–16 |
-| [9–12 April 2021](2021-04-12-Tecnè.html) | Tecnè <br> Rete 4 | 15 | 15–16 | 14–16 | 14–16 | 13–17 |
+| [13 April 2021](2021-04-13-EMG.html) | EMG <br> Rai 3 | 14 | 13–16 | 13–16 | 13–16 | 12–17 |
+| [9–12 April 2021](2021-04-12-Tecnè.html) | Tecnè <br> Rete 4 | 14 | 14–15 | 14–16 | 13–16 | 13–17 |
 | [7–12 April 2021](2021-04-12-SWG.html) | SWG <br> La7 | 16 | 14–16 | 14–17 | 13–17 | 13–18 |
 | [1–12 April 2021](2021-04-12-NotoSondaggi.html) | Noto Sondaggi <br> Noi con l’Italia | 14 | 13–14 | 13–15 | 13–15 | 12–16 |
 | [8–9 April 2021](2021-04-09-Tecnè.html) | Tecnè <br> Agenzia Dire | 15 | 13–16 | 13–16 | 13–16 | 12–17 |
@@ -1353,13 +1353,13 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 0.7% | 100% |  |
-| 12 | 8% | 99.3% |  |
+| 12 | 7% | 99.3% |  |
 | 13 | 20% | 92% |  |
-| 14 | 30% | 72% | Median |
-| 15 | 21% | 41% |  |
-| 16 | 9% | 20% |  |
-| 17 | 10% | 11% | Last Result |
-| 18 | 0.9% | 1.0% |  |
+| 14 | 31% | 72% | Median |
+| 15 | 20% | 41% |  |
+| 16 | 12% | 20% |  |
+| 17 | 7% | 8% | Last Result |
+| 18 | 1.2% | 1.3% |  |
 | 19 | 0.1% | 0.1% |  |
 | 20 | 0% | 0% |  |
 

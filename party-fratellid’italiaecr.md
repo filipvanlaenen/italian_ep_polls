@@ -700,12 +700,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 15 | 14–17 | 13–17 | 13–17 | 12–18 |
-| [19 April 2021](2021-04-19-SWG.html) | SWG <br> La7 | 16 | 16 | 15–16 | 15–16 | 14–18 |
-| [15–16 April 2021](2021-04-16-Tecnè.html) | Tecnè <br> Agenzia Dire | 16 | 15–17 | 15–17 | 15–18 | 14–18 |
+| [19 April 2021](2021-04-19-SWG.html) | SWG <br> La7 | 16 | 15–17 | 14–17 | 14–18 | 13–18 |
+| [15–16 April 2021](2021-04-16-Tecnè.html) | Tecnè <br> Agenzia Dire | 16 | 15–17 | 15–17 | 15–17 | 14–18 |
 | [13–15 April 2021](2021-04-15-TermometroPolitico.html) | Termometro Politico | 16 | 16–17 | 15–17 | 15–17 | 15–18 |
 | [12–13 April 2021](2021-04-13-Piepoli.html) | Piepoli | 14 | 13–17 | 12–17 | 12–18 | 11–18 |
-| [13 April 2021](2021-04-13-EMG.html) | EMG <br> Rai 3 | 16 | 15–16 | 15–16 | 14–17 | 13–17 |
-| [9–12 April 2021](2021-04-12-Tecnè.html) | Tecnè <br> Rete 4 | 16 | 15–16 | 15–16 | 15–17 | 14–18 |
+| [13 April 2021](2021-04-13-EMG.html) | EMG <br> Rai 3 | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
+| [9–12 April 2021](2021-04-12-Tecnè.html) | Tecnè <br> Rete 4 | 16 | 15–17 | 15–17 | 15–18 | 14–18 |
 | [7–12 April 2021](2021-04-12-SWG.html) | SWG <br> La7 | 14 | 14–16 | 13–17 | 13–17 | 13–17 |
 | [1–12 April 2021](2021-04-12-NotoSondaggi.html) | Noto Sondaggi <br> Noi con l’Italia | 14 | 14–15 | 14–15 | 13–16 | 13–16 |
 | [8–9 April 2021](2021-04-09-Tecnè.html) | Tecnè <br> Agenzia Dire | 16 | 15–17 | 14–17 | 14–18 | 13–18 |
@@ -1372,13 +1372,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0.2% | 100% |  |
-| 12 | 1.3% | 99.8% |  |
-| 13 | 7% | 98% |  |
-| 14 | 22% | 91% |  |
-| 15 | 22% | 69% | Median |
-| 16 | 37% | 47% |  |
-| 17 | 9% | 11% |  |
-| 18 | 1.2% | 1.4% |  |
+| 12 | 1.4% | 99.8% |  |
+| 13 | 8% | 98% |  |
+| 14 | 25% | 91% |  |
+| 15 | 25% | 66% | Median |
+| 16 | 30% | 41% |  |
+| 17 | 10% | 11% |  |
+| 18 | 2% | 2% |  |
 | 19 | 0.2% | 0.2% |  |
 | 20 | 0% | 0% |  |
 
