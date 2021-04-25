@@ -10,7 +10,10 @@ Last result: **3.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.6% | 16.0–19.3% | 15.5–19.7% | 15.1–20.1% | 14.2–21.0% |
+| N/A | [Poll Average](average.html) | 17.4% | 15.9–19.2% | 15.4–19.7% | 15.0–20.1% | 14.1–21.1% |
+| [21–22 April 2021](2021-04-22-TermometroPolitico.html) | Termometro Politico | 19.0% | N/A | N/A | N/A | N/A |
+| [22 April 2021](2021-04-22-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 17.0% | N/A | N/A | N/A | N/A |
+| [20 April 2021](2021-04-20-Demopolis.html) | Demopolis | 18.2% | N/A | N/A | N/A | N/A |
 | [19 April 2021](2021-04-19-SWG.html) | SWG <br> La7 | 18.0% | 16.6–19.5% | 16.2–19.9% | 15.9–20.3% | 15.3–21.0% |
 | [15–16 April 2021](2021-04-16-Tecnè.html) | Tecnè <br> Agenzia Dire | 18.3% | 17.2–19.4% | 16.9–19.8% | 16.7–20.1% | 16.2–20.6% |
 | [13–15 April 2021](2021-04-15-TermometroPolitico.html) | Termometro Politico | 18.8% | 17.9–19.7% | 17.7–20.0% | 17.5–20.2% | 17.1–20.7% |
@@ -679,14 +682,14 @@ The following table shows the probability mass function per percentage block of 
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0.1% | 100% |  |
-| 13.5–14.5% | 0.8% | 99.9% |  |
-| 14.5–15.5% | 4% | 99.1% |  |
-| 15.5–16.5% | 16% | 95% |  |
-| 16.5–17.5% | 28% | 79% |  |
-| 17.5–18.5% | 27% | 51% | Median |
-| 18.5–19.5% | 17% | 24% |  |
-| 19.5–20.5% | 6% | 7% |  |
-| 20.5–21.5% | 1.0% | 1.2% |  |
+| 13.5–14.5% | 1.1% | 99.9% |  |
+| 14.5–15.5% | 5% | 98.8% |  |
+| 15.5–16.5% | 18% | 94% |  |
+| 16.5–17.5% | 29% | 76% | Median |
+| 17.5–18.5% | 26% | 47% |  |
+| 18.5–19.5% | 15% | 21% |  |
+| 19.5–20.5% | 5% | 6% |  |
+| 20.5–21.5% | 1.1% | 1.3% |  |
 | 21.5–22.5% | 0.2% | 0.2% |  |
 | 22.5–23.5% | 0% | 0% |  |
 
@@ -699,7 +702,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 14–17 | 13–17 | 13–17 | 12–18 |
+| N/A | [Poll Average](average.html) | 15 | 13–17 | 13–17 | 13–17 | 12–18 |
+| [21–22 April 2021](2021-04-22-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [22 April 2021](2021-04-22-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
+| [20 April 2021](2021-04-20-Demopolis.html) | Demopolis |  |  |  |  |  |
 | [19 April 2021](2021-04-19-SWG.html) | SWG <br> La7 | 16 | 15–17 | 14–17 | 14–18 | 13–18 |
 | [15–16 April 2021](2021-04-16-Tecnè.html) | Tecnè <br> Agenzia Dire | 16 | 15–17 | 15–17 | 15–17 | 14–18 |
 | [13–15 April 2021](2021-04-15-TermometroPolitico.html) | Termometro Politico | 16 | 16–17 | 15–17 | 15–17 | 15–18 |
@@ -1372,14 +1378,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0.2% | 100% |  |
-| 12 | 1.4% | 99.8% |  |
-| 13 | 8% | 98% |  |
-| 14 | 25% | 91% |  |
-| 15 | 25% | 66% | Median |
-| 16 | 30% | 41% |  |
-| 17 | 10% | 11% |  |
+| 12 | 2% | 99.8% |  |
+| 13 | 9% | 98% |  |
+| 14 | 21% | 89% |  |
+| 15 | 27% | 69% | Median |
+| 16 | 30% | 42% |  |
+| 17 | 10% | 12% |  |
 | 18 | 2% | 2% |  |
-| 19 | 0.2% | 0.2% |  |
+| 19 | 0.3% | 0.3% |  |
 | 20 | 0% | 0% |  |
 
 
