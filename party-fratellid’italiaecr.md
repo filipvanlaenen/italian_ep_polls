@@ -713,9 +713,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 15 | 13–17 | 13–17 | 12–18 | 11–19 |
-| [28 April–3 May 2021](2021-05-03-SWG.html) | SWG <br> La7 | 16 | 15–18 | 15–18 | 14–19 | 14–19 |
+| [28 April–3 May 2021](2021-05-03-SWG.html) | SWG <br> La7 | 16 | 15–18 | 14–18 | 14–19 | 14–19 |
 | [2 May 2021](2021-05-02-Tecnè.html) | Tecnè <br> Agenzia Dire | 14 | 14–17 | 13–17 | 13–17 | 13–18 |
-| [28–29 April 2021](2021-04-29-TermometroPolitico.html) | Termometro Politico | 17 | 16–17 | 16–17 | 16–17 | 16–18 |
+| [28–29 April 2021](2021-04-29-TermometroPolitico.html) | Termometro Politico | 16 | 16–17 | 16–17 | 15–18 | 15–18 |
 | [27–29 April 2021](2021-04-29-Ipsos.html) | Ipsos <br> Corriere della Sera | 16 | 14–18 | 14–18 | 14–19 | 13–20 |
 | [28 April 2021](2021-04-28-Index.html) | Index <br> La7 | 15 | 15–17 | 14–17 | 13–18 | 12–19 |
 | [21–26 April 2021](2021-04-26-SWG.html) | SWG <br> La7 | 15 | 14–16 | 13–17 | 13–17 | 13–18 |
@@ -1401,10 +1401,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 9% | 97% |  |
 | 14 | 21% | 89% |  |
 | 15 | 29% | 68% | Median |
-| 16 | 20% | 39% |  |
-| 17 | 16% | 19% |  |
-| 18 | 2% | 3% |  |
-| 19 | 0.8% | 0.9% |  |
+| 16 | 24% | 39% |  |
+| 17 | 11% | 14% |  |
+| 18 | 3% | 4% |  |
+| 19 | 0.7% | 0.8% |  |
 | 20 | 0.1% | 0.1% |  |
 | 21 | 0% | 0% |  |
 

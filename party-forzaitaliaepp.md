@@ -708,13 +708,13 @@ Last result: **13** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–8 | 5–8 | 4–8 | 3–9 |
-| [28 April–3 May 2021](2021-05-03-SWG.html) | SWG <br> La7 | 6 | 5–6 | 5–7 | 4–7 | 4–7 |
+| [28 April–3 May 2021](2021-05-03-SWG.html) | SWG <br> La7 | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
 | [2 May 2021](2021-05-02-Tecnè.html) | Tecnè <br> Agenzia Dire | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
-| [28–29 April 2021](2021-04-29-TermometroPolitico.html) | Termometro Politico | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
+| [28–29 April 2021](2021-04-29-TermometroPolitico.html) | Termometro Politico | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [27–29 April 2021](2021-04-29-Ipsos.html) | Ipsos <br> Corriere della Sera | 7 | 6–8 | 6–8 | 5–9 | 5–9 |
 | [28 April 2021](2021-04-28-Index.html) | Index <br> La7 | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
 | [21–26 April 2021](2021-04-26-SWG.html) | SWG <br> La7 | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
-| [23 April 2021](2021-04-23-Tecnè.html) | Tecnè <br> Agenzia Dire | 8 | 8–10 | 7–10 | 7–10 | 7–11 |
+| [23 April 2021](2021-04-23-Tecnè.html) | Tecnè <br> Agenzia Dire | 8 | 7–10 | 7–10 | 7–10 | 7–11 |
 | [21–22 April 2021](2021-04-22-TermometroPolitico.html) | Termometro Politico | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [22 April 2021](2021-04-22-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 5 | 5–6 | 5–7 | 4–7 | 4–7 |
 | [20–22 April 2021](2021-04-22-Index.html) | Index <br> La7 | 6 | 5–7 | 4–7 | 4–7 | 4–8 |
@@ -1385,8 +1385,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 99.7% |  |
 | 3 | 0.3% | 99.7% |  |
 | 4 | 4% | 99.4% |  |
-| 5 | 24% | 96% |  |
-| 6 | 36% | 71% | Median |
+| 5 | 22% | 96% |  |
+| 6 | 38% | 74% | Median |
 | 7 | 25% | 36% |  |
 | 8 | 8% | 11% |  |
 | 9 | 2% | 2% |  |
