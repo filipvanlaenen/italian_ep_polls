@@ -716,9 +716,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 15 | 14–17 | 13–17 | 13–18 | 11–19 |
-| [4–6 May 2021](2021-05-06-TermometroPolitico.html) | Termometro Politico | 16 | 15–17 | 15–18 | 15–18 | 15–18 |
-| [5 May 2021](2021-05-05-Euromedia.html) | Euromedia <br> La Stampa | 15 | 14–16 | 14–16 | 14–16 | 13–18 |
-| [1–5 May 2021](2021-05-05-BiDiMedia.html) | BiDiMedia | 15 | 14–15 | 14–15 | 14–15 | 13–16 |
+| [4–6 May 2021](2021-05-06-TermometroPolitico.html) | Termometro Politico | 16 | 15–17 | 15–17 | 15–17 | 15–18 |
+| [5 May 2021](2021-05-05-Euromedia.html) | Euromedia <br> La Stampa | 14 | 13–16 | 13–17 | 13–17 | 12–18 |
+| [1–5 May 2021](2021-05-05-BiDiMedia.html) | BiDiMedia | 15 | 14–15 | 13–16 | 13–16 | 13–17 |
 | [28 April–3 May 2021](2021-05-03-SWG.html) | SWG <br> La7 | 16 | 15–18 | 14–18 | 14–19 | 14–19 |
 | [30 April 2021](2021-04-30-Tecnè.html) | Tecnè <br> Agenzia Dire | 15 | 14–17 | 13–17 | 13–17 | 12–18 |
 | [28–29 April 2021](2021-04-29-TermometroPolitico.html) | Termometro Politico | 16 | 16–17 | 16–17 | 15–18 | 15–18 |
@@ -1404,13 +1404,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0.1% | 100% |  |
 | 11 | 0.4% | 99.9% |  |
 | 12 | 2% | 99.4% |  |
-| 13 | 6% | 98% |  |
-| 14 | 17% | 92% |  |
-| 15 | 38% | 75% | Median |
-| 16 | 24% | 37% |  |
-| 17 | 9% | 13% |  |
-| 18 | 4% | 5% |  |
-| 19 | 0.8% | 0.8% |  |
+| 13 | 7% | 98% |  |
+| 14 | 20% | 90% |  |
+| 15 | 31% | 70% | Median |
+| 16 | 25% | 39% |  |
+| 17 | 10% | 14% |  |
+| 18 | 3% | 4% |  |
+| 19 | 0.8% | 0.9% |  |
 | 20 | 0.1% | 0.1% |  |
 | 21 | 0% | 0% |  |
 

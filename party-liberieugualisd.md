@@ -707,7 +707,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [4–6 May 2021](2021-05-06-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [5 May 2021](2021-05-05-Euromedia.html) | Euromedia <br> La Stampa | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [1–5 May 2021](2021-05-05-BiDiMedia.html) | BiDiMedia | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
+| [1–5 May 2021](2021-05-05-BiDiMedia.html) | BiDiMedia | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [28 April–3 May 2021](2021-05-03-SWG.html) | SWG <br> La7 | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [30 April 2021](2021-04-30-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
 | [28–29 April 2021](2021-04-29-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
@@ -1383,8 +1383,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 68% | 100% | Last Result, Median |
 | 1 | 0% | 32% |  |
 | 2 | 0% | 32% |  |
-| 3 | 3% | 32% |  |
-| 4 | 17% | 29% |  |
+| 3 | 4% | 32% |  |
+| 4 | 16% | 28% |  |
 | 5 | 10% | 12% |  |
 | 6 | 2% | 2% |  |
 | 7 | 0.1% | 0.1% |  |
