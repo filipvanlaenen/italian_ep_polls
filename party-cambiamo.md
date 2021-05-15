@@ -10,13 +10,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.2% | 0.6–2.2% | 0.6–2.5% | 0.5–2.7% | 0.4–3.1% |
+| N/A | [Poll Average](average.html) | 1.3% | 0.7–2.1% | 0.6–2.4% | 0.5–2.6% | 0.4–3.1% |
 | [5–10 May 2021](2021-05-10-SWG.html) | SWG <br> La7 | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.6–1.8% | 0.5–2.0% |
 | [7 May 2021](2021-05-07-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [5–7 May 2021](2021-05-07-Ixè.html) | Ixè | 0.0% | N/A | N/A | N/A | N/A |
 | [4–6 May 2021](2021-05-06-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
 | [5–6 May 2021](2021-05-06-Demopolis.html) | Demopolis | 0.0% | N/A | N/A | N/A | N/A |
-| [5 May 2021](2021-05-05-Index.html) | Index <br> La7 | 1.2% | N/A | N/A | N/A | N/A |
+| [5 May 2021](2021-05-05-Index.html) | Index <br> La7 | 1.2% | 0.9–1.9% | 0.8–2.1% | 0.7–2.3% | 0.5–2.7% |
 | [5 May 2021](2021-05-05-Euromedia.html) | Euromedia <br> La Stampa | 0.0% | N/A | N/A | N/A | N/A |
 | [1–5 May 2021](2021-05-05-BiDiMedia.html) | BiDiMedia | 0.7% | 0.5–1.0% | 0.4–1.1% | 0.4–1.2% | 0.3–1.4% |
 | [28 April–3 May 2021](2021-05-03-SWG.html) | SWG <br> La7 | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.6–1.8% | 0.5–2.0% |
@@ -690,9 +690,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 4% | 100% | Last Result |
-| 0.5–1.5% | 63% | 96% | Median |
-| 1.5–2.5% | 29% | 33% |  |
-| 2.5–3.5% | 4% | 4% |  |
+| 0.5–1.5% | 64% | 96% | Median |
+| 1.5–2.5% | 29% | 32% |  |
+| 2.5–3.5% | 3% | 3% |  |
 | 3.5–4.5% | 0.1% | 0.1% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
@@ -711,7 +711,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [5–7 May 2021](2021-05-07-Ixè.html) | Ixè |  |  |  |  |  |
 | [4–6 May 2021](2021-05-06-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [5–6 May 2021](2021-05-06-Demopolis.html) | Demopolis |  |  |  |  |  |
-| [5 May 2021](2021-05-05-Index.html) | Index <br> La7 |  |  |  |  |  |
+| [5 May 2021](2021-05-05-Index.html) | Index <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [5 May 2021](2021-05-05-Euromedia.html) | Euromedia <br> La Stampa |  |  |  |  |  |
 | [1–5 May 2021](2021-05-05-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
 | [28 April–3 May 2021](2021-05-03-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
