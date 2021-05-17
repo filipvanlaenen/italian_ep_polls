@@ -710,11 +710,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–5 | 0–5 | 0–6 | 0–6 |
-| [5–10 May 2021](2021-05-10-SWG.html) | SWG <br> La7 | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
+| [5–10 May 2021](2021-05-10-SWG.html) | SWG <br> La7 | 4 | 3–4 | 0–5 | 0–5 | 0–5 |
 | [7 May 2021](2021-05-07-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
 | [5–7 May 2021](2021-05-07-Ixè.html) | Ixè | 4 | 4–5 | 4–6 | 0–6 | 0–6 |
 | [4–6 May 2021](2021-05-06-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
-| [5–6 May 2021](2021-05-06-Demopolis.html) | Demopolis | 0 | 0 | 0–3 | 0–4 | 0–4 |
+| [5–6 May 2021](2021-05-06-Demopolis.html) | Demopolis | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [5 May 2021](2021-05-05-Index.html) | Index <br> La7 | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [5 May 2021](2021-05-05-Euromedia.html) | Euromedia <br> La Stampa | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [1–5 May 2021](2021-05-05-BiDiMedia.html) | BiDiMedia | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
@@ -1390,12 +1390,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 63% | 100% | Last Result, Median |
-| 1 | 0% | 37% |  |
-| 2 | 0% | 37% |  |
-| 3 | 2% | 37% |  |
-| 4 | 17% | 35% |  |
-| 5 | 15% | 18% |  |
+| 0 | 62% | 100% | Last Result, Median |
+| 1 | 0% | 38% |  |
+| 2 | 0% | 38% |  |
+| 3 | 4% | 38% |  |
+| 4 | 19% | 34% |  |
+| 5 | 13% | 15% |  |
 | 6 | 2% | 3% |  |
 | 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |

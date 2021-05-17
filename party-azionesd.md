@@ -710,7 +710,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [5–10 May 2021](2021-05-10-SWG.html) | SWG <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
-| [7 May 2021](2021-05-07-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
+| [7 May 2021](2021-05-07-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [5–7 May 2021](2021-05-07-Ixè.html) | Ixè | 0 | 0 | 0 | 0–3 | 0–4 |
 | [4–6 May 2021](2021-05-06-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [5–6 May 2021](2021-05-06-Demopolis.html) | Demopolis | 0 | 0 | 0 | 0 | 0 |
@@ -1392,8 +1392,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 88% | 100% | Last Result, Median |
 | 1 | 0% | 12% |  |
 | 2 | 0% | 12% |  |
-| 3 | 3% | 12% |  |
-| 4 | 8% | 8% |  |
+| 3 | 4% | 12% |  |
+| 4 | 7% | 7% |  |
 | 5 | 0.3% | 0.4% |  |
 | 6 | 0% | 0% |  |
 

@@ -724,8 +724,8 @@ Last result: **5** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 19 | 17–20 | 16–21 | 16–21 | 15–22 |
-| [5–10 May 2021](2021-05-10-SWG.html) | SWG <br> La7 | 17 | 17–19 | 17–20 | 16–20 | 16–22 |
-| [7 May 2021](2021-05-07-Tecnè.html) | Tecnè <br> Agenzia Dire | 18 | 16–19 | 16–19 | 16–20 | 15–21 |
+| [5–10 May 2021](2021-05-10-SWG.html) | SWG <br> La7 | 18 | 17–19 | 17–20 | 17–20 | 16–21 |
+| [7 May 2021](2021-05-07-Tecnè.html) | Tecnè <br> Agenzia Dire | 18 | 16–19 | 16–20 | 16–20 | 15–21 |
 | [5–7 May 2021](2021-05-07-Ixè.html) | Ixè | 18 | 17–20 | 16–20 | 16–20 | 16–21 |
 | [4–6 May 2021](2021-05-06-TermometroPolitico.html) | Termometro Politico | 19 | 19–20 | 19–20 | 18–21 | 18–21 |
 | [5–6 May 2021](2021-05-06-Demopolis.html) | Demopolis | 18 | 17–19 | 16–19 | 16–19 | 16–20 |
@@ -1414,14 +1414,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0.3% | 100% |  |
-| 15 | 1.0% | 99.7% |  |
-| 16 | 5% | 98.7% |  |
+| 15 | 1.1% | 99.7% |  |
+| 16 | 5% | 98.6% |  |
 | 17 | 15% | 94% |  |
-| 18 | 28% | 79% |  |
+| 18 | 27% | 78% |  |
 | 19 | 26% | 51% | Median |
 | 20 | 18% | 25% |  |
 | 21 | 5% | 7% |  |
-| 22 | 1.5% | 2% |  |
+| 22 | 1.4% | 2% |  |
 | 23 | 0.3% | 0.4% |  |
 | 24 | 0% | 0% |  |
 

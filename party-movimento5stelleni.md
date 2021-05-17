@@ -714,11 +714,11 @@ Last result: **17** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14 | 13–16 | 12–16 | 12–17 | 11–18 |
-| [5–10 May 2021](2021-05-10-SWG.html) | SWG <br> La7 | 14 | 13–16 | 13–17 | 13–17 | 12–17 |
-| [7 May 2021](2021-05-07-Tecnè.html) | Tecnè <br> Agenzia Dire | 14 | 12–14 | 12–15 | 12–15 | 11–16 |
+| [5–10 May 2021](2021-05-10-SWG.html) | SWG <br> La7 | 15 | 14–16 | 13–16 | 13–17 | 12–17 |
+| [7 May 2021](2021-05-07-Tecnè.html) | Tecnè <br> Agenzia Dire | 14 | 12–15 | 12–15 | 12–15 | 11–16 |
 | [5–7 May 2021](2021-05-07-Ixè.html) | Ixè | 14 | 13–16 | 12–16 | 12–17 | 12–17 |
 | [4–6 May 2021](2021-05-06-TermometroPolitico.html) | Termometro Politico | 14 | 13–15 | 13–15 | 13–15 | 13–15 |
-| [5–6 May 2021](2021-05-06-Demopolis.html) | Demopolis | 13 | 13–14 | 13–14 | 12–15 | 12–15 |
+| [5–6 May 2021](2021-05-06-Demopolis.html) | Demopolis | 14 | 13–14 | 12–15 | 12–15 | 12–15 |
 | [5 May 2021](2021-05-05-Index.html) | Index <br> La7 | 14 | 12–16 | 12–17 | 12–17 | 11–18 |
 | [5 May 2021](2021-05-05-Euromedia.html) | Euromedia <br> La Stampa | 14 | 12–15 | 12–16 | 12–17 | 11–17 |
 | [1–5 May 2021](2021-05-05-BiDiMedia.html) | BiDiMedia | 13 | 12–14 | 12–14 | 12–15 | 12–15 |
@@ -1396,12 +1396,12 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.1% | 100% |  |
 | 11 | 0.9% | 99.9% |  |
-| 12 | 8% | 99.1% |  |
-| 13 | 22% | 91% |  |
-| 14 | 36% | 69% | Median |
-| 15 | 20% | 33% |  |
-| 16 | 9% | 13% |  |
-| 17 | 3% | 4% | Last Result |
+| 12 | 8% | 99.0% |  |
+| 13 | 19% | 91% |  |
+| 14 | 36% | 72% | Median |
+| 15 | 22% | 36% |  |
+| 16 | 11% | 14% |  |
+| 17 | 2% | 3% | Last Result |
 | 18 | 0.5% | 0.7% |  |
 | 19 | 0.2% | 0.2% |  |
 | 20 | 0% | 0% |  |
