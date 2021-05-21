@@ -10,7 +10,7 @@ Last result: **16.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.4% | 6.1–8.9% | 5.7–9.5% | 5.4–10.1% | 4.9–11.0% |
+| N/A | [Poll Average](average.html) | 7.4% | 6.1–8.9% | 5.8–9.5% | 5.5–10.0% | 4.9–10.9% |
 | [12–17 May 2021](2021-05-17-SWG.html) | SWG <br> La7 | 7.0% | 6.1–8.0% | 5.9–8.3% | 5.7–8.6% | 5.3–9.1% |
 | [14 May 2021](2021-05-14-Tecnè.html) | Tecnè <br> Agenzia Dire | 9.4% | 8.3–10.7% | 8.0–11.1% | 7.7–11.4% | 7.2–12.0% |
 | [11–13 May 2021](2021-05-13-TermometroPolitico.html) | Termometro Politico | 6.5% | 5.7–7.4% | 5.5–7.7% | 5.3–7.9% | 5.0–8.4% |
@@ -21,6 +21,7 @@ Last result: **16.8%** (General Election of 26 May 2019)
 | [7 May 2021](2021-05-07-Tecnè.html) | Tecnè <br> Agenzia Dire | 9.6% | 8.5–10.9% | 8.2–11.3% | 7.9–11.6% | 7.4–12.2% |
 | [5–7 May 2021](2021-05-07-Ixè.html) | Ixè | 7.8% | 6.8–9.0% | 6.5–9.3% | 6.3–9.6% | 5.8–10.2% |
 | [4–6 May 2021](2021-05-06-TermometroPolitico.html) | Termometro Politico | 6.2% | 5.7–6.7% | 5.6–6.9% | 5.5–7.0% | 5.3–7.2% |
+| [3–6 May 2021](2021-05-06-Lab2101.html) | Lab2101 <br> Affari Italiani | 7.1% | 6.2–8.3% | 5.9–8.6% | 5.7–8.9% | 5.2–9.4% |
 | [5–6 May 2021](2021-05-06-Demopolis.html) | Demopolis | 7.6% | 6.9–8.4% | 6.7–8.7% | 6.5–8.9% | 6.2–9.3% |
 | [5 May 2021](2021-05-05-Index.html) | Index <br> La7 | 6.8% | 5.7–8.0% | 5.4–8.4% | 5.2–8.7% | 4.8–9.4% |
 | [5 May 2021](2021-05-05-Euromedia.html) | Euromedia <br> La Stampa | 7.1% | 6.1–8.4% | 5.8–8.8% | 5.5–9.1% | 5.1–9.8% |
@@ -699,11 +700,11 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0.2% | 100% |  |
 | 4.5–5.5% | 3% | 99.8% |  |
 | 5.5–6.5% | 18% | 97% |  |
-| 6.5–7.5% | 35% | 79% | Median |
-| 7.5–8.5% | 28% | 44% |  |
-| 8.5–9.5% | 11% | 15% |  |
-| 9.5–10.5% | 4% | 5% |  |
-| 10.5–11.5% | 1.0% | 1.1% |  |
+| 6.5–7.5% | 36% | 79% | Median |
+| 7.5–8.5% | 28% | 43% |  |
+| 8.5–9.5% | 10% | 15% |  |
+| 9.5–10.5% | 3% | 4% |  |
+| 10.5–11.5% | 0.9% | 1.0% |  |
 | 11.5–12.5% | 0.1% | 0.1% |  |
 | 12.5–13.5% | 0% | 0% |  |
 | 13.5–14.5% | 0% | 0% |  |
@@ -731,6 +732,7 @@ Last result: **13** seats (General Election of 26 May 2019)
 | [7 May 2021](2021-05-07-Tecnè.html) | Tecnè <br> Agenzia Dire | 8 | 7–9 | 7–9 | 7–10 | 6–10 |
 | [5–7 May 2021](2021-05-07-Ixè.html) | Ixè | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
 | [4–6 May 2021](2021-05-06-TermometroPolitico.html) | Termometro Politico | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
+| [3–6 May 2021](2021-05-06-Lab2101.html) | Lab2101 <br> Affari Italiani | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | [5–6 May 2021](2021-05-06-Demopolis.html) | Demopolis | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
 | [5 May 2021](2021-05-05-Index.html) | Index <br> La7 | 6 | 5–7 | 5–7 | 4–8 | 4–8 |
 | [5 May 2021](2021-05-05-Euromedia.html) | Euromedia <br> La Stampa | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
@@ -1409,12 +1411,12 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% |  |
 | 4 | 2% | 99.9% |  |
-| 5 | 19% | 98% |  |
-| 6 | 42% | 79% | Median |
-| 7 | 26% | 37% |  |
-| 8 | 9% | 11% |  |
+| 5 | 20% | 98% |  |
+| 6 | 42% | 78% | Median |
+| 7 | 25% | 35% |  |
+| 8 | 8% | 10% |  |
 | 9 | 2% | 2% |  |
-| 10 | 0.2% | 0.2% |  |
+| 10 | 0.1% | 0.2% |  |
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |
 | 13 | 0% | 0% | Last Result |

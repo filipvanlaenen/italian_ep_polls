@@ -21,6 +21,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [7 May 2021](2021-05-07-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [5–7 May 2021](2021-05-07-Ixè.html) | Ixè | 0.0% | N/A | N/A | N/A | N/A |
 | [4–6 May 2021](2021-05-06-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
+| [3–6 May 2021](2021-05-06-Lab2101.html) | Lab2101 <br> Affari Italiani | 0.0% | N/A | N/A | N/A | N/A |
 | [5–6 May 2021](2021-05-06-Demopolis.html) | Demopolis | 0.0% | N/A | N/A | N/A | N/A |
 | [5 May 2021](2021-05-05-Index.html) | Index <br> La7 | 1.2% | 0.9–1.9% | 0.8–2.1% | 0.7–2.3% | 0.5–2.7% |
 | [5 May 2021](2021-05-05-Euromedia.html) | Euromedia <br> La Stampa | 0.0% | N/A | N/A | N/A | N/A |
@@ -722,6 +723,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [7 May 2021](2021-05-07-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [5–7 May 2021](2021-05-07-Ixè.html) | Ixè |  |  |  |  |  |
 | [4–6 May 2021](2021-05-06-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [3–6 May 2021](2021-05-06-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
 | [5–6 May 2021](2021-05-06-Demopolis.html) | Demopolis |  |  |  |  |  |
 | [5 May 2021](2021-05-05-Index.html) | Index <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [5 May 2021](2021-05-05-Euromedia.html) | Euromedia <br> La Stampa |  |  |  |  |  |
