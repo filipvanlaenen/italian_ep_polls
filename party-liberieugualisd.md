@@ -727,7 +727,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [7 May 2021](2021-05-07-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
 | [5–7 May 2021](2021-05-07-Ixè.html) | Ixè | 4 | 4–5 | 4–6 | 0–6 | 0–6 |
 | [4–6 May 2021](2021-05-06-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
-| [3–6 May 2021](2021-05-06-Lab2101.html) | Lab2101 <br> Affari Italiani | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [3–6 May 2021](2021-05-06-Lab2101.html) | Lab2101 <br> Affari Italiani | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [5–6 May 2021](2021-05-06-Demopolis.html) | Demopolis | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [5 May 2021](2021-05-05-Index.html) | Index <br> La7 | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [5 May 2021](2021-05-05-Euromedia.html) | Euromedia <br> La Stampa | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
@@ -1404,12 +1404,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 57% | 100% | Last Result, Median |
-| 1 | 0% | 43% |  |
-| 2 | 0% | 43% |  |
-| 3 | 5% | 43% |  |
-| 4 | 23% | 37% |  |
-| 5 | 12% | 14% |  |
+| 0 | 55% | 100% | Last Result, Median |
+| 1 | 0% | 45% |  |
+| 2 | 0% | 45% |  |
+| 3 | 6% | 45% |  |
+| 4 | 24% | 39% |  |
+| 5 | 12% | 15% |  |
 | 6 | 2% | 2% |  |
 | 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |
