@@ -10,7 +10,10 @@ Last result: **16.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.4% | 6.1–8.9% | 5.8–9.5% | 5.5–10.0% | 4.9–10.9% |
+| N/A | [Poll Average](average.html) | 7.3% | 6.1–8.9% | 5.8–9.5% | 5.5–10.0% | 4.9–10.9% |
+| [19–20 May 2021](2021-05-20-TermometroPolitico.html) | Termometro Politico | 6.4% | 5.9–7.0% | 5.7–7.2% | 5.6–7.3% | 5.4–7.6% |
+| [20 May 2021](2021-05-20-Index.html) | Index <br> La7 | 6.8% | 5.7–8.0% | 5.4–8.4% | 5.2–8.7% | 4.8–9.4% |
+| [17–18 May 2021](2021-05-18-Piepoli.html) | Piepoli <br> RaiNews24 | 6.5% | 5.3–8.2% | 5.0–8.6% | 4.7–9.0% | 4.2–9.9% |
 | [12–17 May 2021](2021-05-17-SWG.html) | SWG <br> La7 | 7.0% | 6.1–8.0% | 5.9–8.3% | 5.7–8.6% | 5.3–9.1% |
 | [14 May 2021](2021-05-14-Tecnè.html) | Tecnè <br> Agenzia Dire | 9.4% | 8.3–10.7% | 8.0–11.1% | 7.7–11.4% | 7.2–12.0% |
 | [11–13 May 2021](2021-05-13-TermometroPolitico.html) | Termometro Politico | 6.5% | 5.7–7.4% | 5.5–7.7% | 5.3–7.9% | 5.0–8.4% |
@@ -699,9 +702,9 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.2% | 100% |  |
 | 4.5–5.5% | 3% | 99.8% |  |
-| 5.5–6.5% | 18% | 97% |  |
-| 6.5–7.5% | 36% | 79% | Median |
-| 7.5–8.5% | 28% | 43% |  |
+| 5.5–6.5% | 19% | 97% |  |
+| 6.5–7.5% | 35% | 78% | Median |
+| 7.5–8.5% | 28% | 42% |  |
 | 8.5–9.5% | 10% | 15% |  |
 | 9.5–10.5% | 3% | 4% |  |
 | 10.5–11.5% | 0.9% | 1.0% |  |
@@ -722,6 +725,9 @@ Last result: **13** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–8 | 5–8 | 5–8 | 4–9 |
+| [19–20 May 2021](2021-05-20-TermometroPolitico.html) | Termometro Politico | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
+| [20 May 2021](2021-05-20-Index.html) | Index <br> La7 | 5 | 5–7 | 5–7 | 4–8 | 4–8 |
+| [17–18 May 2021](2021-05-18-Piepoli.html) | Piepoli <br> RaiNews24 | 5 | 4–7 | 4–7 | 4–8 | 3–8 |
 | [12–17 May 2021](2021-05-17-SWG.html) | SWG <br> La7 | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [14 May 2021](2021-05-14-Tecnè.html) | Tecnè <br> Agenzia Dire | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | [11–13 May 2021](2021-05-13-TermometroPolitico.html) | Termometro Politico | 6 | 5–6 | 5–7 | 4–7 | 4–7 |
@@ -1411,9 +1417,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% |  |
 | 4 | 2% | 99.9% |  |
-| 5 | 20% | 98% |  |
-| 6 | 42% | 78% | Median |
-| 7 | 26% | 36% |  |
+| 5 | 23% | 98% |  |
+| 6 | 41% | 75% | Median |
+| 7 | 24% | 34% |  |
 | 8 | 8% | 10% |  |
 | 9 | 2% | 2% |  |
 | 10 | 0.1% | 0.2% |  |
