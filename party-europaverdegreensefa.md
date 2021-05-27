@@ -727,7 +727,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [19–20 May 2021](2021-05-20-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [19–20 May 2021](2021-05-20-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
 | [19 May 2021](2021-05-19-Index.html) | Index <br> La7 | 0 | 0 | 0 | 0 | 0 |
-| [19 May 2021](2021-05-19-Euromedia.html) | Euromedia | 0 | 0 | 0 | 0 | 0 |
+| [19 May 2021](2021-05-19-Euromedia.html) | Euromedia | 0 | 0 | 0 | 0 | 0–3 |
 | [17–18 May 2021](2021-05-18-Piepoli.html) | Piepoli <br> RaiNews24 |  |  |  |  |  |
 | [12–17 May 2021](2021-05-17-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [14 May 2021](2021-05-14-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
@@ -1416,6 +1416,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 99.9% | 100% | Last Result, Median |
+| 1 | 0% | 0.1% |  |
+| 2 | 0% | 0.1% |  |
+| 3 | 0% | 0.1% |  |
+| 4 | 0% | 0% |  |
 
 

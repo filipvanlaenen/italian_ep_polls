@@ -721,7 +721,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–4 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–3 |
 | [19–24 May 2021](2021-05-24-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [21 May 2021](2021-05-21-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
 | [20–21 May 2021](2021-05-21-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0 | 0–4 | 0–4 |

@@ -731,12 +731,12 @@ Last result: **13** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–8 | 5–8 | 5–8 | 4–9 |
 | [19–24 May 2021](2021-05-24-SWG.html) | SWG <br> La7 | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
-| [21 May 2021](2021-05-21-Tecnè.html) | Tecnè <br> Agenzia Dire | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
+| [21 May 2021](2021-05-21-Tecnè.html) | Tecnè <br> Agenzia Dire | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | [20–21 May 2021](2021-05-21-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 7 | 5–8 | 5–8 | 5–9 | 5–9 |
 | [19–20 May 2021](2021-05-20-TermometroPolitico.html) | Termometro Politico | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
-| [19–20 May 2021](2021-05-20-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
+| [19–20 May 2021](2021-05-20-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
 | [19 May 2021](2021-05-19-Index.html) | Index <br> La7 | 5 | 5–7 | 5–7 | 4–8 | 4–8 |
-| [19 May 2021](2021-05-19-Euromedia.html) | Euromedia | 6 | 6–8 | 5–8 | 5–9 | 5–9 |
+| [19 May 2021](2021-05-19-Euromedia.html) | Euromedia | 7 | 6–7 | 6–8 | 5–8 | 5–9 |
 | [17–18 May 2021](2021-05-18-Piepoli.html) | Piepoli <br> RaiNews24 | 5 | 4–7 | 4–7 | 4–8 | 3–8 |
 | [12–17 May 2021](2021-05-17-SWG.html) | SWG <br> La7 | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [14 May 2021](2021-05-14-Tecnè.html) | Tecnè <br> Agenzia Dire | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
@@ -1427,8 +1427,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 1.4% | 100% |  |
 | 5 | 18% | 98.5% |  |
-| 6 | 43% | 80% | Median |
-| 7 | 25% | 38% |  |
+| 6 | 40% | 81% | Median |
+| 7 | 28% | 41% |  |
 | 8 | 11% | 13% |  |
 | 9 | 2% | 2% |  |
 | 10 | 0.1% | 0.1% |  |
