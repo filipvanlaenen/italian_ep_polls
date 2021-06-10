@@ -755,19 +755,19 @@ Last result: **5** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18 | 17–20 | 16–21 | 16–21 | 15–22 |
 | [2–7 June 2021](2021-06-07-SWG.html) | SWG <br> La7 | 19 | 17–20 | 17–20 | 17–20 | 16–21 |
-| [4 June 2021](2021-06-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 18 | 17–20 | 16–20 | 16–21 | 15–21 |
+| [4 June 2021](2021-06-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 18 | 17–20 | 17–21 | 16–21 | 15–22 |
 | [1–3 June 2021](2021-06-03-TermometroPolitico.html) | Termometro Politico | 19 | 19–21 | 19–21 | 18–21 | 18–21 |
-| [3 June 2021](2021-06-03-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 18 | 17–19 | 17–19 | 17–20 | 16–20 |
-| [3 June 2021](2021-06-03-EMG.html) | EMG <br> Rai 3 | 18 | 18–21 | 18–21 | 18–21 | 17–21 |
-| [30–31 May 2021](2021-05-31-Tecnè.html) | Tecnè <br> Rete 4 | 18 | 16–19 | 16–19 | 15–20 | 15–20 |
+| [3 June 2021](2021-06-03-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 18 | 17–20 | 16–20 | 16–20 | 15–21 |
+| [3 June 2021](2021-06-03-EMG.html) | EMG <br> Rai 3 | 18 | 17–21 | 17–21 | 17–21 | 16–22 |
+| [30–31 May 2021](2021-05-31-Tecnè.html) | Tecnè <br> Rete 4 | 17 | 16–19 | 16–19 | 16–20 | 15–21 |
 | [26–31 May 2021](2021-05-31-SWG.html) | SWG <br> La7 | 18 | 16–19 | 16–19 | 16–19 | 16–21 |
-| [31 May 2021](2021-05-31-Piepoli.html) | Piepoli | 18 | 16–19 | 15–20 | 15–21 | 14–22 |
+| [31 May 2021](2021-05-31-Piepoli.html) | Piepoli | 18 | 16–20 | 15–21 | 15–21 | 14–22 |
 | [30 May 2021](2021-05-30-Piepoli.html) | Piepoli <br> La7 | 18 | 16–20 | 16–21 | 15–22 | 14–23 |
-| [28 May 2021](2021-05-28-Tecnè.html) | Tecnè <br> Agenzia Dire | 17 | 16–19 | 15–19 | 15–19 | 15–20 |
+| [28 May 2021](2021-05-28-Tecnè.html) | Tecnè <br> Agenzia Dire | 18 | 16–19 | 15–19 | 15–20 | 15–21 |
 | [26–27 May 2021](2021-05-27-TermometroPolitico.html) | Termometro Politico | 19 | 18–20 | 18–20 | 18–20 | 17–21 |
 | [26–27 May 2021](2021-05-27-Tecnè.html) | Tecnè <br> Rete 4 | 18 | 16–19 | 16–19 | 16–20 | 15–20 |
 | [25–27 May 2021](2021-05-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 19 | 18–21 | 17–22 | 17–22 | 16–22 |
-| [27 May 2021](2021-05-27-EMG.html) | EMG <br> Rai 3 | 21 | 18–21 | 17–21 | 16–21 | 16–21 |
+| [27 May 2021](2021-05-27-EMG.html) | EMG <br> Rai 3 | 19 | 17–21 | 17–21 | 16–21 | 15–22 |
 | [26 May 2021](2021-05-26-Euromedia.html) | Euromedia <br> Rai 1 | 19 | 17–20 | 16–20 | 16–21 | 15–22 |
 | [19–24 May 2021](2021-05-24-SWG.html) | SWG <br> La7 | 19 | 17–19 | 17–20 | 16–21 | 16–21 |
 | [21 May 2021](2021-05-21-Tecnè.html) | Tecnè <br> Agenzia Dire | 17 | 16–19 | 16–19 | 16–20 | 15–20 |
@@ -777,7 +777,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [20 May 2021](2021-05-20-EMG.html) | EMG <br> Rai 3 | 19 | 17–21 | 17–21 | 16–22 | 16–22 |
 | [19 May 2021](2021-05-19-Index.html) | Index <br> La7 | 18 | 16–20 | 16–20 | 16–20 | 14–21 |
 | [19 May 2021](2021-05-19-Euromedia.html) | Euromedia | 19 | 17–20 | 17–20 | 16–22 | 15–22 |
-| [17–18 May 2021](2021-05-18-Piepoli.html) | Piepoli <br> RaiNews24 | 18 | 16–21 | 16–21 | 15–22 | 15–23 |
+| [17–18 May 2021](2021-05-18-Piepoli.html) | Piepoli <br> RaiNews24 | 19 | 17–21 | 16–21 | 16–22 | 15–23 |
 | [12–17 May 2021](2021-05-17-SWG.html) | SWG <br> La7 | 18 | 17–20 | 16–20 | 16–20 | 15–21 |
 | [14 May 2021](2021-05-14-Tecnè.html) | Tecnè <br> Agenzia Dire | 18 | 16–19 | 16–19 | 15–20 | 15–21 |
 | [11–13 May 2021](2021-05-13-TermometroPolitico.html) | Termometro Politico | 20 | 19–21 | 18–22 | 18–22 | 17–22 |
@@ -792,7 +792,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [5–6 May 2021](2021-05-06-Demopolis.html) | Demopolis | 18 | 17–19 | 16–19 | 16–19 | 16–20 |
 | [5 May 2021](2021-05-05-Index.html) | Index <br> La7 | 19 | 17–20 | 16–21 | 16–21 | 15–22 |
 | [5 May 2021](2021-05-05-Euromedia.html) | Euromedia <br> La Stampa | 18 | 16–20 | 16–20 | 15–21 | 15–21 |
-| [1–5 May 2021](2021-05-05-BiDiMedia.html) | BiDiMedia | 18 | 18–20 | 18–20 | 18–20 | 18–21 |
+| [1–5 May 2021](2021-05-05-BiDiMedia.html) | BiDiMedia | 19 | 18–20 | 17–20 | 17–20 | 17–21 |
 | [28 April–3 May 2021](2021-05-03-SWG.html) | SWG <br> La7 | 18 | 16–20 | 16–20 | 16–21 | 15–21 |
 | [30 April 2021](2021-04-30-Tecnè.html) | Tecnè <br> Agenzia Dire | 18 | 16–19 | 16–19 | 15–20 | 15–20 |
 | [28–29 April 2021](2021-04-29-TermometroPolitico.html) | Termometro Politico | 19 | 19–20 | 18–20 | 18–20 | 18–21 |
@@ -1474,15 +1474,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
-| 14 | 0.3% | 100% |  |
-| 15 | 1.4% | 99.7% |  |
+| 14 | 0.2% | 100% |  |
+| 15 | 2% | 99.8% |  |
 | 16 | 6% | 98% |  |
 | 17 | 14% | 92% |  |
-| 18 | 32% | 78% | Median |
-| 19 | 26% | 46% |  |
-| 20 | 13% | 21% |  |
+| 18 | 28% | 78% | Median |
+| 19 | 28% | 50% |  |
+| 20 | 14% | 22% |  |
 | 21 | 7% | 8% |  |
-| 22 | 1.2% | 1.3% |  |
+| 22 | 1.3% | 1.4% |  |
 | 23 | 0.1% | 0.1% |  |
 | 24 | 0% | 0% |  |
 

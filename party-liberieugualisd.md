@@ -743,17 +743,17 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [2–7 June 2021](2021-06-07-SWG.html) | SWG <br> La7 | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [4 June 2021](2021-06-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
 | [1–3 June 2021](2021-06-03-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
-| [3 June 2021](2021-06-03-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0–3 | 0–3 |
-| [3 June 2021](2021-06-03-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0–3 | 0–4 | 0–4 |
+| [3 June 2021](2021-06-03-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0 | 0–3 |
+| [3 June 2021](2021-06-03-EMG.html) | EMG <br> Rai 3 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [30–31 May 2021](2021-05-31-Tecnè.html) | Tecnè <br> Rete 4 | 0 | 0 | 0 | 0 | 0 |
 | [26–31 May 2021](2021-05-31-SWG.html) | SWG <br> La7 | 5 | 4–5 | 4–5 | 4–6 | 0–6 |
-| [31 May 2021](2021-05-31-Piepoli.html) | Piepoli | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
-| [30 May 2021](2021-05-30-Piepoli.html) | Piepoli <br> La7 | 0 | 0 | 0–3 | 0–4 | 0–4 |
+| [31 May 2021](2021-05-31-Piepoli.html) | Piepoli | 0 | 0 | 0–3 | 0–4 | 0–4 |
+| [30 May 2021](2021-05-30-Piepoli.html) | Piepoli <br> La7 | 0 | 0 | 0 | 0–4 | 0–4 |
 | [28 May 2021](2021-05-28-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0–3 |
-| [26–27 May 2021](2021-05-27-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0–4 |
+| [26–27 May 2021](2021-05-27-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0–3 |
 | [26–27 May 2021](2021-05-27-Tecnè.html) | Tecnè <br> Rete 4 | 0 | 0 | 0 | 0 | 0 |
 | [25–27 May 2021](2021-05-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
-| [27 May 2021](2021-05-27-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0–5 |
+| [27 May 2021](2021-05-27-EMG.html) | EMG <br> Rai 3 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [26 May 2021](2021-05-26-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [19–24 May 2021](2021-05-24-SWG.html) | SWG <br> La7 | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
 | [21 May 2021](2021-05-21-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
@@ -763,7 +763,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [20 May 2021](2021-05-20-EMG.html) | EMG <br> Rai 3 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [19 May 2021](2021-05-19-Index.html) | Index <br> La7 | 4 | 0–5 | 0–6 | 0–6 | 0–6 |
 | [19 May 2021](2021-05-19-Euromedia.html) | Euromedia | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [17–18 May 2021](2021-05-18-Piepoli.html) | Piepoli <br> RaiNews24 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [17–18 May 2021](2021-05-18-Piepoli.html) | Piepoli <br> RaiNews24 | 0 | 0 | 0 | 0–4 | 0–4 |
 | [12–17 May 2021](2021-05-17-SWG.html) | SWG <br> La7 | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
 | [14 May 2021](2021-05-14-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
 | [11–13 May 2021](2021-05-13-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0–3 | 0–4 |
@@ -778,7 +778,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [5–6 May 2021](2021-05-06-Demopolis.html) | Demopolis | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | [5 May 2021](2021-05-05-Index.html) | Index <br> La7 | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [5 May 2021](2021-05-05-Euromedia.html) | Euromedia <br> La Stampa | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [1–5 May 2021](2021-05-05-BiDiMedia.html) | BiDiMedia | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
+| [1–5 May 2021](2021-05-05-BiDiMedia.html) | BiDiMedia | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [28 April–3 May 2021](2021-05-03-SWG.html) | SWG <br> La7 | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [30 April 2021](2021-04-30-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
 | [28–29 April 2021](2021-04-29-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
@@ -1451,11 +1451,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 73% | 100% | Last Result, Median |
-| 1 | 0% | 27% |  |
-| 2 | 0% | 27% |  |
-| 3 | 4% | 27% |  |
-| 4 | 19% | 24% |  |
+| 0 | 72% | 100% | Last Result, Median |
+| 1 | 0% | 28% |  |
+| 2 | 0% | 28% |  |
+| 3 | 4% | 28% |  |
+| 4 | 20% | 25% |  |
 | 5 | 4% | 5% |  |
 | 6 | 0.6% | 0.6% |  |
 | 7 | 0% | 0% |  |
