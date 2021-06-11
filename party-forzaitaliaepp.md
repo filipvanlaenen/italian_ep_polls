@@ -10,22 +10,22 @@ Last result: **16.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.1% | 6.0–8.8% | 5.7–9.3% | 5.4–9.8% | 4.9–10.6% |
+| N/A | [Poll Average](average.html) | 7.2% | 6.0–8.8% | 5.7–9.3% | 5.5–9.8% | 5.0–10.6% |
 | [2–7 June 2021](2021-06-07-SWG.html) | SWG <br> La7 | 6.9% | 6.1–8.0% | 5.8–8.2% | 5.6–8.5% | 5.2–9.0% |
-| [4 June 2021](2021-06-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
+| [4 June 2021](2021-06-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 9.0% | 7.9–10.2% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
 | [1–3 June 2021](2021-06-03-TermometroPolitico.html) | Termometro Politico | 6.2% | 5.7–6.8% | 5.5–7.0% | 5.4–7.1% | 5.1–7.4% |
 | [3 June 2021](2021-06-03-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.3% |
-| [3 June 2021](2021-06-03-EMG.html) | EMG <br> Rai 3 | 6.8% | 6.1–7.7% | 5.8–7.9% | 5.7–8.2% | 5.3–8.6% |
+| [1 June 2021](2021-06-01-EMG.html) | EMG <br> Rai 3 | 6.8% | 6.0–7.7% | 5.8–7.9% | 5.7–8.1% | 5.3–8.6% |
 | [30–31 May 2021](2021-05-31-Tecnè.html) | Tecnè <br> Rete 4 | 9.2% | 8.1–10.5% | 7.8–10.8% | 7.6–11.2% | 7.1–11.8% |
 | [26–31 May 2021](2021-05-31-SWG.html) | SWG <br> La7 | 6.3% | 5.5–7.3% | 5.3–7.6% | 5.1–7.9% | 4.7–8.4% |
-| [31 May 2021](2021-05-31-Piepoli.html) | Piepoli | 7.0% | 5.7–8.7% | 5.4–9.2% | 5.1–9.6% | 4.5–10.5% |
-| [30 May 2021](2021-05-30-Piepoli.html) | Piepoli <br> La7 | 7.0% | 5.7–8.7% | 5.4–9.2% | 5.1–9.6% | 4.5–10.5% |
+| [31 May 2021](2021-05-31-Piepoli.html) | Piepoli | 7.2% | 5.9–8.9% | 5.5–9.4% | 5.2–9.8% | 4.7–10.7% |
+| [30 May 2021](2021-05-30-Piepoli.html) | Piepoli <br> La7 | 7.2% | 5.9–8.9% | 5.5–9.4% | 5.2–9.8% | 4.7–10.7% |
 | [28 May 2021](2021-05-28-Tecnè.html) | Tecnè <br> Agenzia Dire | 9.2% | 8.1–10.5% | 7.8–10.8% | 7.6–11.2% | 7.1–11.8% |
 | [26–27 May 2021](2021-05-27-TermometroPolitico.html) | Termometro Politico | 6.6% | 6.1–7.2% | 5.9–7.4% | 5.8–7.5% | 5.5–7.8% |
 | [26–27 May 2021](2021-05-27-Tecnè.html) | Tecnè <br> Rete 4 | 9.3% | 8.2–10.6% | 7.9–10.9% | 7.7–11.3% | 7.2–11.9% |
 | [25–27 May 2021](2021-05-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 7.7% | 6.7–8.9% | 6.4–9.2% | 6.2–9.5% | 5.8–10.1% |
-| [27 May 2021](2021-05-27-EMG.html) | EMG <br> Rai 3 | 6.9% | 6.0–8.0% | 5.7–8.4% | 5.5–8.7% | 5.1–9.2% |
 | [26 May 2021](2021-05-26-Euromedia.html) | Euromedia <br> Rai 1 | 6.5% | 5.5–7.8% | 5.2–8.1% | 5.0–8.4% | 4.5–9.1% |
+| [25 May 2021](2021-05-25-EMG.html) | EMG <br> Rai 3 | 6.9% | 6.1–7.8% | 5.9–8.0% | 5.7–8.2% | 5.4–8.7% |
 | [19–24 May 2021](2021-05-24-SWG.html) | SWG <br> La7 | 6.9% | 6.1–8.0% | 5.8–8.2% | 5.6–8.5% | 5.2–9.0% |
 | [21 May 2021](2021-05-21-Tecnè.html) | Tecnè <br> Agenzia Dire | 9.3% | 8.2–10.6% | 7.9–10.9% | 7.7–11.3% | 7.2–11.9% |
 | [20–21 May 2021](2021-05-21-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 7.4% | 6.4–8.8% | 6.1–9.1% | 5.8–9.5% | 5.3–10.1% |
@@ -725,8 +725,8 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 3% | 99.9% |  |
 | 5.5–6.5% | 25% | 97% |  |
 | 6.5–7.5% | 36% | 72% | Median |
-| 7.5–8.5% | 23% | 36% |  |
-| 8.5–9.5% | 9% | 13% |  |
+| 7.5–8.5% | 23% | 37% |  |
+| 8.5–9.5% | 10% | 13% |  |
 | 9.5–10.5% | 3% | 4% |  |
 | 10.5–11.5% | 0.5% | 0.6% |  |
 | 11.5–12.5% | 0.1% | 0.1% |  |
@@ -745,24 +745,24 @@ Last result: **13** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–8 | 5–8 | 5–9 | 4–10 |
-| [2–7 June 2021](2021-06-07-SWG.html) | SWG <br> La7 | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
-| [4 June 2021](2021-06-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 8 | 7–10 | 7–10 | 6–10 | 6–10 |
+| N/A | [Poll Average](average.html) | 6 | 5–8 | 5–8 | 5–8 | 4–9 |
+| [2–7 June 2021](2021-06-07-SWG.html) | SWG <br> La7 | 6 | 5–7 | 5–7 | 5–7 | 5–9 |
+| [4 June 2021](2021-06-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [1–3 June 2021](2021-06-03-TermometroPolitico.html) | Termometro Politico | 5 | 5 | 5–6 | 5–6 | 5–6 |
-| [3 June 2021](2021-06-03-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
-| [3 June 2021](2021-06-03-EMG.html) | EMG <br> Rai 3 | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
+| [3 June 2021](2021-06-03-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 7 | 5–7 | 5–7 | 5–8 | 5–8 |
+| [1 June 2021](2021-06-01-EMG.html) | EMG <br> Rai 3 | 6 | 6–7 | 6–7 | 6–7 | 5–8 |
 | [30–31 May 2021](2021-05-31-Tecnè.html) | Tecnè <br> Rete 4 | 8 | 7–9 | 6–9 | 6–10 | 6–10 |
-| [26–31 May 2021](2021-05-31-SWG.html) | SWG <br> La7 | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
-| [31 May 2021](2021-05-31-Piepoli.html) | Piepoli | 6 | 5–7 | 4–8 | 4–8 | 4–9 |
-| [30 May 2021](2021-05-30-Piepoli.html) | Piepoli <br> La7 | 6 | 5–7 | 4–8 | 4–8 | 4–9 |
-| [28 May 2021](2021-05-28-Tecnè.html) | Tecnè <br> Agenzia Dire | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
+| [26–31 May 2021](2021-05-31-SWG.html) | SWG <br> La7 | 6 | 5–6 | 5–6 | 4–7 | 4–8 |
+| [31 May 2021](2021-05-31-Piepoli.html) | Piepoli | 6 | 5–7 | 4–7 | 4–7 | 4–8 |
+| [30 May 2021](2021-05-30-Piepoli.html) | Piepoli <br> La7 | 6 | 5–7 | 4–8 | 4–8 | 4–8 |
+| [28 May 2021](2021-05-28-Tecnè.html) | Tecnè <br> Agenzia Dire | 8 | 7–9 | 6–10 | 6–10 | 6–10 |
 | [26–27 May 2021](2021-05-27-TermometroPolitico.html) | Termometro Politico | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
-| [26–27 May 2021](2021-05-27-Tecnè.html) | Tecnè <br> Rete 4 | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
-| [25–27 May 2021](2021-05-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
-| [27 May 2021](2021-05-27-EMG.html) | EMG <br> Rai 3 | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
-| [26 May 2021](2021-05-26-Euromedia.html) | Euromedia <br> Rai 1 | 5 | 4–7 | 4–7 | 4–7 | 4–8 |
+| [26–27 May 2021](2021-05-27-Tecnè.html) | Tecnè <br> Rete 4 | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
+| [25–27 May 2021](2021-05-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 6 | 6–8 | 6–8 | 5–8 | 5–8 |
+| [26 May 2021](2021-05-26-Euromedia.html) | Euromedia <br> Rai 1 | 6 | 5–7 | 4–7 | 4–8 | 4–8 |
+| [25 May 2021](2021-05-25-EMG.html) | EMG <br> Rai 3 | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [19–24 May 2021](2021-05-24-SWG.html) | SWG <br> La7 | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
-| [21 May 2021](2021-05-21-Tecnè.html) | Tecnè <br> Agenzia Dire | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
+| [21 May 2021](2021-05-21-Tecnè.html) | Tecnè <br> Agenzia Dire | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
 | [20–21 May 2021](2021-05-21-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 7 | 5–8 | 5–8 | 5–8 | 4–9 |
 | [19–20 May 2021](2021-05-20-TermometroPolitico.html) | Termometro Politico | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [19–20 May 2021](2021-05-20-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
@@ -774,7 +774,7 @@ Last result: **13** seats (General Election of 26 May 2019)
 | [14 May 2021](2021-05-14-Tecnè.html) | Tecnè <br> Agenzia Dire | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | [11–13 May 2021](2021-05-13-TermometroPolitico.html) | Termometro Politico | 6 | 5–6 | 5–7 | 4–7 | 4–7 |
 | [11–12 May 2021](2021-05-12-Index.html) | Index | 6 | 5–7 | 5–7 | 4–8 | 4–8 |
-| [10–12 May 2021](2021-05-12-DemosPi.html) | Demos & Pi | 6 | 6–7 | 5–8 | 5–8 | 5–8 |
+| [10–12 May 2021](2021-05-12-DemosPi.html) | Demos & Pi | 6 | 6–7 | 5–8 | 5–8 | 5–9 |
 | [11 May 2021](2021-05-11-Piepoli.html) | Piepoli <br> RaiNews24 | 5 | 4–7 | 4–7 | 4–8 | 3–8 |
 | [5–10 May 2021](2021-05-10-SWG.html) | SWG <br> La7 | 5 | 5–6 | 5–7 | 5–7 | 4–8 |
 | [7 May 2021](2021-05-07-Tecnè.html) | Tecnè <br> Agenzia Dire | 8 | 7–9 | 7–9 | 7–10 | 6–10 |
@@ -1458,12 +1458,12 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 2% | 100% |  |
-| 5 | 26% | 98% |  |
-| 6 | 37% | 72% | Median |
-| 7 | 22% | 35% |  |
-| 8 | 8% | 13% |  |
-| 9 | 4% | 5% |  |
-| 10 | 1.0% | 1.0% |  |
+| 5 | 21% | 98% |  |
+| 6 | 40% | 77% | Median |
+| 7 | 24% | 37% |  |
+| 8 | 12% | 14% |  |
+| 9 | 1.4% | 2% |  |
+| 10 | 0.2% | 0.2% |  |
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |
 | 13 | 0% | 0% | Last Result |

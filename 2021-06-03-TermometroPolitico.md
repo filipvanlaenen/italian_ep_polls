@@ -16,7 +16,7 @@
 | Movimento 5 Stelle (NI) | 21.2% | 15.7% | 14.9–16.6% |14.6–16.8% |14.4–17.1% |14.1–17.5% |
 | Forza Italia (EPP) | 16.8% | 6.2% | 5.7–6.8% |5.5–7.0% |5.4–7.1% |5.1–7.4% |
 | Azione (S&D) | 0.0% | 3.2% | 2.8–3.7% |2.7–3.8% |2.6–3.9% |2.5–4.1% |
-| Liberi e Uguali (S&D) | 0.0% | 3.0% | 2.6–3.4% |2.5–3.6% |2.4–3.7% |2.3–3.9% |
+| Sinistra Italiana (GUE/NGL) | 0.0% | 3.0% | 2.6–3.4% |2.5–3.6% |2.4–3.7% |2.3–3.9% |
 | Italia Viva (RE) | 0.0% | 2.8% | 2.4–3.2% |2.3–3.4% |2.3–3.5% |2.1–3.7% |
 | Più Europa (RE) | 0.0% | 1.5% | 1.2–1.8% |1.2–1.9% |1.1–2.0% |1.0–2.2% |
 | Europa Verde (Greens/EFA) | 0.0% | 1.4% | 1.2–1.7% |1.1–1.8% |1.0–1.9% |0.9–2.1% |
@@ -39,7 +39,7 @@
 | <a href="#movimento-5-stelle-(ni)">Movimento 5 Stelle (NI)</a> | 17 | 13 | 13–14 |13–14 |13–15 |13–15 |
 | <a href="#forza-italia-(epp)">Forza Italia (EPP)</a> | 13 | 5 | 5 |5–6 |5–6 |5–6 |
 | <a href="#azione-(s&d)">Azione (S&D)</a> | 0 | 0 | 0 |0 |0 |0 |
-| <a href="#liberi-e-uguali-(s&d)">Liberi e Uguali (S&D)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#sinistra-italiana-(gue/ngl)">Sinistra Italiana (GUE/NGL)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#italia-viva-(re)">Italia Viva (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#più-europa-(re)">Più Europa (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#europa-verde-(greens/efa)">Europa Verde (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0 |
@@ -175,11 +175,11 @@
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
-### Liberi e Uguali (S&D)
+### Sinistra Italiana (GUE/NGL)
 
-*For a full overview of the results for this party, see the [Liberi e Uguali (S&D)](party-liberieugualisd.html) page.*
+*For a full overview of the results for this party, see the [Sinistra Italiana (GUE/NGL)](party-sinistraitalianaguengl.html) page.*
 
-![Graph with seats probability mass function not yet produced](2021-06-03-TermometroPolitico-seats-pmf-liberieugualisd.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2021-06-03-TermometroPolitico-seats-pmf-sinistraitalianaguengl.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -225,7 +225,6 @@
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Lega Nord (ID) | 5 | 19 | 0% | 19–21 | 19–21 | 18–21 | 18–21 |
-| Partito Democratico (S&D) – Azione (S&D) – Liberi e Uguali (S&D) | 31 | 17 | 0% | 16–17 | 15–17 | 15–17 | 15–18 |
 | Europa Verde (Greens/EFA) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Lega Nord (ID)
@@ -253,30 +252,6 @@
 | 21 | 14% | 14% |  |
 | 22 | 0.1% | 0.1% |  |
 | 23 | 0% | 0% |  |
-
-### Partito Democratico (S&D) – Azione (S&D) – Liberi e Uguali (S&D)
-
-![Graph with seats probability mass function not yet produced](2021-06-03-TermometroPolitico-coalitions-seats-pmf-pd–a–leu.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 15 | 6% | 100% |  |
-| 16 | 14% | 94% |  |
-| 17 | 79% | 80% | Median |
-| 18 | 0.4% | 0.6% |  |
-| 19 | 0.2% | 0.2% |  |
-| 20 | 0% | 0% |  |
-| 21 | 0% | 0% |  |
-| 22 | 0% | 0% |  |
-| 23 | 0% | 0% |  |
-| 24 | 0% | 0% |  |
-| 25 | 0% | 0% |  |
-| 26 | 0% | 0% |  |
-| 27 | 0% | 0% |  |
-| 28 | 0% | 0% |  |
-| 29 | 0% | 0% |  |
-| 30 | 0% | 0% |  |
-| 31 | 0% | 0% | Last Result |
 
 ### Europa Verde (Greens/EFA)
 

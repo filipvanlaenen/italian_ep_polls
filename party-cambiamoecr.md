@@ -15,7 +15,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [4 June 2021](2021-06-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [1–3 June 2021](2021-06-03-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
 | [3 June 2021](2021-06-03-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
-| [3 June 2021](2021-06-03-EMG.html) | EMG <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
+| [1 June 2021](2021-06-01-EMG.html) | EMG <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
 | [30–31 May 2021](2021-05-31-Tecnè.html) | Tecnè <br> Rete 4 | 0.0% | N/A | N/A | N/A | N/A |
 | [26–31 May 2021](2021-05-31-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [31 May 2021](2021-05-31-Piepoli.html) | Piepoli | 0.0% | N/A | N/A | N/A | N/A |
@@ -24,8 +24,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [26–27 May 2021](2021-05-27-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
 | [26–27 May 2021](2021-05-27-Tecnè.html) | Tecnè <br> Rete 4 | 0.0% | N/A | N/A | N/A | N/A |
 | [25–27 May 2021](2021-05-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.0% | N/A | N/A | N/A | N/A |
-| [27 May 2021](2021-05-27-EMG.html) | EMG <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
 | [26 May 2021](2021-05-26-Euromedia.html) | Euromedia <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
+| [25 May 2021](2021-05-25-EMG.html) | EMG <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
 | [19–24 May 2021](2021-05-24-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [21 May 2021](2021-05-21-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [20–21 May 2021](2021-05-21-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.0% | N/A | N/A | N/A | N/A |
@@ -740,7 +740,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [4 June 2021](2021-06-04-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [1–3 June 2021](2021-06-03-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [3 June 2021](2021-06-03-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
-| [3 June 2021](2021-06-03-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
+| [1 June 2021](2021-06-01-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [30–31 May 2021](2021-05-31-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
 | [26–31 May 2021](2021-05-31-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [31 May 2021](2021-05-31-Piepoli.html) | Piepoli |  |  |  |  |  |
@@ -749,8 +749,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [26–27 May 2021](2021-05-27-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [26–27 May 2021](2021-05-27-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
 | [25–27 May 2021](2021-05-27-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
-| [27 May 2021](2021-05-27-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [26 May 2021](2021-05-26-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
+| [25 May 2021](2021-05-25-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [19–24 May 2021](2021-05-24-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [21 May 2021](2021-05-21-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [20–21 May 2021](2021-05-21-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
