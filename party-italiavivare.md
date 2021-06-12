@@ -737,22 +737,22 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0–4 | 0–4 | 0–4 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–4 | 0–4 |
 | [2–7 June 2021](2021-06-07-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [4 June 2021](2021-06-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
 | [1–3 June 2021](2021-06-03-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [3 June 2021](2021-06-03-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
-| [1 June 2021](2021-06-01-EMG.html) | EMG <br> Rai 3 | 4 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [1 June 2021](2021-06-01-EMG.html) | EMG <br> Rai 3 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [30–31 May 2021](2021-05-31-Tecnè.html) | Tecnè <br> Rete 4 | 0 | 0 | 0 | 0 | 0 |
 | [26–31 May 2021](2021-05-31-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [31 May 2021](2021-05-31-Piepoli.html) | Piepoli | 0 | 0 | 0 | 0 | 0–3 |
-| [30 May 2021](2021-05-30-Piepoli.html) | Piepoli <br> La7 | 0 | 0 | 0–3 | 0–4 | 0–4 |
+| [30 May 2021](2021-05-30-Piepoli.html) | Piepoli <br> La7 | 0 | 0 | 0–3 | 0–3 | 0–4 |
 | [28 May 2021](2021-05-28-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
 | [26–27 May 2021](2021-05-27-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [26–27 May 2021](2021-05-27-Tecnè.html) | Tecnè <br> Rete 4 | 0 | 0 | 0 | 0 | 0 |
 | [25–27 May 2021](2021-05-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
 | [26 May 2021](2021-05-26-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
-| [25 May 2021](2021-05-25-EMG.html) | EMG <br> Rai 3 | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [25 May 2021](2021-05-25-EMG.html) | EMG <br> Rai 3 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [19–24 May 2021](2021-05-24-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [21 May 2021](2021-05-21-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
 | [20–21 May 2021](2021-05-21-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0 | 0–4 | 0–4 |
@@ -1449,11 +1449,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 91% | 100% | Last Result, Median |
-| 1 | 0% | 9% |  |
-| 2 | 0% | 9% |  |
-| 3 | 1.4% | 9% |  |
-| 4 | 7% | 7% |  |
+| 0 | 96% | 100% | Last Result, Median |
+| 1 | 0% | 4% |  |
+| 2 | 0% | 4% |  |
+| 3 | 0.4% | 4% |  |
+| 4 | 3% | 3% |  |
 | 5 | 0% | 0% |  |
 
 

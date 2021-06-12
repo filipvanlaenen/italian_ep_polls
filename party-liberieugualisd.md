@@ -739,7 +739,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 0–5 | 0–5 | 0–5 | 0–6 |
+| N/A | [Poll Average](average.html) | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [2–7 June 2021](2021-06-07-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [4 June 2021](2021-06-04-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [1–3 June 2021](2021-06-03-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
@@ -761,7 +761,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [19–20 May 2021](2021-05-20-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0–3 |
 | [19–20 May 2021](2021-05-20-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | [20 May 2021](2021-05-20-EMG.html) | EMG <br> Rai 3 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
-| [19 May 2021](2021-05-19-Index.html) | Index <br> La7 | 4 | 0–5 | 0–6 | 0–6 | 0–6 |
+| [19 May 2021](2021-05-19-Index.html) | Index <br> La7 | 4 | 0–5 | 0–5 | 0–6 | 0–6 |
 | [19 May 2021](2021-05-19-Euromedia.html) | Euromedia | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [17–18 May 2021](2021-05-18-Piepoli.html) | Piepoli <br> RaiNews24 | 0 | 0 | 0 | 0–4 | 0–4 |
 | [12–17 May 2021](2021-05-17-SWG.html) | SWG <br> La7 | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
@@ -774,8 +774,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [7 May 2021](2021-05-07-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
 | [5–7 May 2021](2021-05-07-Ixè.html) | Ixè | 4 | 4–5 | 4–6 | 0–6 | 0–6 |
 | [4–6 May 2021](2021-05-06-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
-| [3–6 May 2021](2021-05-06-Lab2101.html) | Lab2101 <br> Affari Italiani | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [5–6 May 2021](2021-05-06-Demopolis.html) | Demopolis | 0 | 0 | 0–3 | 0–4 | 0–4 |
+| [3–6 May 2021](2021-05-06-Lab2101.html) | Lab2101 <br> Affari Italiani | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
+| [5–6 May 2021](2021-05-06-Demopolis.html) | Demopolis | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [5 May 2021](2021-05-05-Index.html) | Index <br> La7 | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [5 May 2021](2021-05-05-Euromedia.html) | Euromedia <br> La Stampa | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [1–5 May 2021](2021-05-05-BiDiMedia.html) | BiDiMedia | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
@@ -1451,13 +1451,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 46% | 100% | Last Result |
-| 1 | 0% | 54% |  |
-| 2 | 0% | 54% |  |
-| 3 | 6% | 54% | Median |
-| 4 | 35% | 48% |  |
-| 5 | 11% | 13% |  |
-| 6 | 2% | 2% |  |
+| 0 | 41% | 100% | Last Result |
+| 1 | 0% | 59% |  |
+| 2 | 0% | 59% |  |
+| 3 | 6% | 59% |  |
+| 4 | 41% | 53% | Median |
+| 5 | 11% | 12% |  |
+| 6 | 1.0% | 1.0% |  |
 | 7 | 0% | 0% |  |
 
 
