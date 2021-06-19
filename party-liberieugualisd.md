@@ -10,11 +10,23 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.2% | 3.1–5.4% | 2.8–5.7% | 2.6–6.0% | 2.2–6.7% |
+| N/A | [Poll Average](average.html) | 4.1% | 2.9–5.5% | 2.7–5.9% | 2.5–6.2% | 2.1–6.8% |
+| [15–17 June 2021](2021-06-17-Ixè.html) | Ixè | 0.0% | N/A | N/A | N/A | N/A |
+| [9–14 June 2021](2021-06-14-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [14 June 2021](2021-06-14-Euromedia.html) | Euromedia <br> La Stampa | 0.0% | N/A | N/A | N/A | N/A |
+| [12 June 2021](2021-06-12-Ipsos.html) | Ipsos <br> La Stampa | 0.0% | N/A | N/A | N/A | N/A |
+| [11 June 2021](2021-06-11-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
+| [8–10 June 2021](2021-06-10-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
+| [7–8 June 2021](2021-06-08-Piepoli.html) | Piepoli <br> RaiNews24 | 0.0% | N/A | N/A | N/A | N/A |
+| [8 June 2021](2021-06-08-Euromedia.html) | Euromedia <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
+| [7–8 June 2021](2021-06-08-Demopolis.html) | Demopolis <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [6–7 June 2021](2021-06-07-Tecnè.html) | Tecnè <br> Rete 4 | 0.0% | N/A | N/A | N/A | N/A |
 | [2–7 June 2021](2021-06-07-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [7 June 2021](2021-06-07-EMG.html) | EMG <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
 | [4 June 2021](2021-06-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [1–3 June 2021](2021-06-03-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
 | [3 June 2021](2021-06-03-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
+| [1 June 2021](2021-06-01-Euromedia.html) | Euromedia <br> Italpress | 0.0% | N/A | N/A | N/A | N/A |
 | [1 June 2021](2021-06-01-EMG.html) | EMG <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
 | [30–31 May 2021](2021-05-31-Tecnè.html) | Tecnè <br> Rete 4 | 0.0% | N/A | N/A | N/A | N/A |
 | [26–31 May 2021](2021-05-31-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
@@ -722,13 +734,14 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 22% | 98% |  |
-| 3.5–4.5% | 41% | 76% | Median |
-| 4.5–5.5% | 28% | 35% |  |
-| 5.5–6.5% | 7% | 7% |  |
-| 6.5–7.5% | 0.6% | 0.7% |  |
+| 1.5–2.5% | 3% | 100% |  |
+| 2.5–3.5% | 27% | 97% |  |
+| 3.5–4.5% | 35% | 69% | Median |
+| 4.5–5.5% | 26% | 35% |  |
+| 5.5–6.5% | 8% | 9% |  |
+| 6.5–7.5% | 0.9% | 1.0% |  |
 | 7.5–8.5% | 0% | 0% |  |
+| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -740,10 +753,22 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
+| [15–17 June 2021](2021-06-17-Ixè.html) | Ixè |  |  |  |  |  |
+| [9–14 June 2021](2021-06-14-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [14 June 2021](2021-06-14-Euromedia.html) | Euromedia <br> La Stampa |  |  |  |  |  |
+| [12 June 2021](2021-06-12-Ipsos.html) | Ipsos <br> La Stampa |  |  |  |  |  |
+| [11 June 2021](2021-06-11-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [8–10 June 2021](2021-06-10-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [7–8 June 2021](2021-06-08-Piepoli.html) | Piepoli <br> RaiNews24 |  |  |  |  |  |
+| [8 June 2021](2021-06-08-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
+| [7–8 June 2021](2021-06-08-Demopolis.html) | Demopolis <br> La7 |  |  |  |  |  |
+| [6–7 June 2021](2021-06-07-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
 | [2–7 June 2021](2021-06-07-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [7 June 2021](2021-06-07-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [4 June 2021](2021-06-04-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [1–3 June 2021](2021-06-03-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [3 June 2021](2021-06-03-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
+| [1 June 2021](2021-06-01-Euromedia.html) | Euromedia <br> Italpress |  |  |  |  |  |
 | [1 June 2021](2021-06-01-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [30–31 May 2021](2021-05-31-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
 | [26–31 May 2021](2021-05-31-SWG.html) | SWG <br> La7 |  |  |  |  |  |
@@ -1451,13 +1476,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 41% | 100% | Last Result |
-| 1 | 0% | 59% |  |
-| 2 | 0% | 59% |  |
-| 3 | 6% | 59% |  |
-| 4 | 41% | 53% | Median |
-| 5 | 11% | 12% |  |
-| 6 | 1.0% | 1.0% |  |
+| 0 | 47% | 100% | Last Result |
+| 1 | 0% | 53% |  |
+| 2 | 0% | 53% |  |
+| 3 | 0.9% | 53% |  |
+| 4 | 39% | 52% | Median |
+| 5 | 12% | 13% |  |
+| 6 | 1.4% | 1.5% |  |
 | 7 | 0% | 0% |  |
 
 
