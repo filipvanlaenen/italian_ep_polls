@@ -766,7 +766,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [4 June 2021](2021-06-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0–4 |
 | [1–3 June 2021](2021-06-03-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [3 June 2021](2021-06-03-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
-| [1 June 2021](2021-06-01-Euromedia.html) | Euromedia <br> Italpress | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [1 June 2021](2021-06-01-Euromedia.html) | Euromedia <br> Italpress | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [1 June 2021](2021-06-01-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | [30–31 May 2021](2021-05-31-Tecnè.html) | Tecnè <br> Rete 4 | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [26–31 May 2021](2021-05-31-SWG.html) | SWG <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |

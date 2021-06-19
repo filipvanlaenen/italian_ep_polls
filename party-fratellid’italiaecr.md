@@ -768,12 +768,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 17 | 15–18 | 14–19 | 14–19 | 13–21 |
 | [15–17 June 2021](2021-06-17-Ixè.html) | Ixè | 16 | 16–17 | 15–17 | 15–17 | 15–17 |
 | [9–14 June 2021](2021-06-14-SWG.html) | SWG <br> La7 | 18 | 17–20 | 17–21 | 17–21 | 16–22 |
-| [14 June 2021](2021-06-14-Euromedia.html) | Euromedia <br> La Stampa | 18 | 16–19 | 15–19 | 15–20 | 15–21 |
+| [14 June 2021](2021-06-14-Euromedia.html) | Euromedia <br> La Stampa | 17 | 17–19 | 16–20 | 16–20 | 15–20 |
 | [12 June 2021](2021-06-12-Ipsos.html) | Ipsos <br> La Stampa | 18 | 18 | 17–18 | 16–19 | 16–20 |
 | [11 June 2021](2021-06-11-Tecnè.html) | Tecnè <br> Agenzia Dire | 18 | 16–19 | 16–19 | 16–19 | 14–20 |
 | [8–10 June 2021](2021-06-10-TermometroPolitico.html) | Termometro Politico | 16 | 16–17 | 16–18 | 16–18 | 15–18 |
 | [7–8 June 2021](2021-06-08-Piepoli.html) | Piepoli <br> RaiNews24 | 15 | 14–18 | 14–19 | 13–20 | 12–21 |
-| [8 June 2021](2021-06-08-Euromedia.html) | Euromedia <br> Rai 1 | 16 | 16–19 | 15–19 | 15–19 | 15–19 |
+| [8 June 2021](2021-06-08-Euromedia.html) | Euromedia <br> Rai 1 | 17 | 16–18 | 16–19 | 15–19 | 14–20 |
 | [7–8 June 2021](2021-06-08-Demopolis.html) | Demopolis <br> La7 | 17 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [6–7 June 2021](2021-06-07-Tecnè.html) | Tecnè <br> Rete 4 | 18 | 18 | 17–18 | 16–18 | 15–19 |
 | [2–7 June 2021](2021-06-07-SWG.html) | SWG <br> La7 | 19 | 17–20 | 17–20 | 16–20 | 16–21 |
@@ -781,7 +781,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [4 June 2021](2021-06-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 17 | 16–19 | 16–19 | 16–19 | 15–20 |
 | [1–3 June 2021](2021-06-03-TermometroPolitico.html) | Termometro Politico | 17 | 16–17 | 16–17 | 15–18 | 15–18 |
 | [3 June 2021](2021-06-03-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 16 | 14–17 | 14–17 | 14–18 | 13–18 |
-| [1 June 2021](2021-06-01-Euromedia.html) | Euromedia <br> Italpress | 17 | 15–18 | 15–18 | 15–18 | 14–18 |
+| [1 June 2021](2021-06-01-Euromedia.html) | Euromedia <br> Italpress | 17 | 15–17 | 15–18 | 14–18 | 14–19 |
 | [1 June 2021](2021-06-01-EMG.html) | EMG <br> Rai 3 | 17 | 15–18 | 15–19 | 15–19 | 15–19 |
 | [30–31 May 2021](2021-05-31-Tecnè.html) | Tecnè <br> Rete 4 | 16 | 15–18 | 14–18 | 14–18 | 14–19 |
 | [26–31 May 2021](2021-05-31-SWG.html) | SWG <br> La7 | 18 | 17–19 | 16–20 | 16–20 | 15–21 |
@@ -1504,12 +1504,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0.1% | 100% |  |
 | 13 | 0.7% | 99.9% |  |
 | 14 | 6% | 99.2% |  |
-| 15 | 9% | 93% |  |
-| 16 | 29% | 84% |  |
-| 17 | 19% | 56% | Median |
-| 18 | 27% | 36% |  |
-| 19 | 7% | 9% |  |
-| 20 | 1.2% | 2% |  |
+| 15 | 8% | 93% |  |
+| 16 | 28% | 85% |  |
+| 17 | 22% | 57% | Median |
+| 18 | 27% | 34% |  |
+| 19 | 5% | 7% |  |
+| 20 | 2% | 2% |  |
 | 21 | 0.6% | 0.8% |  |
 | 22 | 0.2% | 0.2% |  |
 | 23 | 0% | 0% |  |
