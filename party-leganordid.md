@@ -777,21 +777,21 @@ Last result: **5** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 17–20 | 16–20 | 16–21 | 15–22 |
-| [25 June 2021](2021-06-25-Tecnè.html) | Tecnè <br> Agenzia Dire | 18 | 16–18 | 16–18 | 16–19 | 15–20 |
-| [24 June 2021](2021-06-24-TermometroPolitico.html) | Termometro Politico | 19 | 19 | 18–19 | 17–20 | 17–21 |
-| [22–24 June 2021](2021-06-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 18 | 16–19 | 16–20 | 16–20 | 15–20 |
-| [23–24 June 2021](2021-06-24-Demopolis.html) | Demopolis <br> La7 | 18 | 17–19 | 17–19 | 17–20 | 16–20 |
-| [22 June 2021](2021-06-22-EMG.html) | EMG <br> Rai 3 | 17 | 17–20 | 16–21 | 16–21 | 16–21 |
-| [16–21 June 2021](2021-06-21-SWG.html) | SWG <br> La7 | 18 | 17–20 | 17–20 | 16–20 | 16–21 |
+| N/A | [Poll Average](average.html) | 18 | 16–20 | 16–20 | 16–21 | 14–22 |
+| [25 June 2021](2021-06-25-Tecnè.html) | Tecnè <br> Agenzia Dire | 18 | 16–19 | 16–20 | 16–21 | 15–21 |
+| [24 June 2021](2021-06-24-TermometroPolitico.html) | Termometro Politico | 18 | 18–19 | 18–20 | 18–20 | 17–20 |
+| [22–24 June 2021](2021-06-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 17 | 16–19 | 15–19 | 15–19 | 14–20 |
+| [23–24 June 2021](2021-06-24-Demopolis.html) | Demopolis <br> La7 | 18 | 17–19 | 17–20 | 17–20 | 16–20 |
+| [22 June 2021](2021-06-22-EMG.html) | EMG <br> Rai 3 | 18 | 17–20 | 17–21 | 16–21 | 16–23 |
+| [16–21 June 2021](2021-06-21-SWG.html) | SWG <br> La7 | 18 | 17–19 | 17–20 | 16–20 | 16–21 |
 | [18 June 2021](2021-06-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 18 | 17–20 | 16–20 | 16–20 | 14–21 |
 | [15–17 June 2021](2021-06-17-TermometroPolitico.html) | Termometro Politico | 19 | 18–21 | 18–21 | 18–21 | 17–21 |
-| [17 June 2021](2021-06-17-Tecnè.html) | Tecnè | 18 | 17–19 | 16–19 | 15–20 | 15–21 |
+| [17 June 2021](2021-06-17-Tecnè.html) | Tecnè | 19 | 16–20 | 16–20 | 16–21 | 15–21 |
 | [15–17 June 2021](2021-06-17-Ixè.html) | Ixè | 18 | 17–20 | 16–20 | 16–20 | 15–22 |
-| [14–17 June 2021](2021-06-17-BiDiMedia.html) | BiDiMedia | 17 | 17–19 | 16–19 | 16–19 | 16–20 |
+| [14–17 June 2021](2021-06-17-BiDiMedia.html) | BiDiMedia | 17 | 16–18 | 16–18 | 16–19 | 16–19 |
 | [15 June 2021](2021-06-15-EMG.html) | EMG <br> Rai 3 | 19 | 18–21 | 17–21 | 17–21 | 17–21 |
 | [9–14 June 2021](2021-06-14-SWG.html) | SWG <br> La7 | 19 | 18–20 | 18–20 | 17–20 | 17–21 |
-| [12–14 June 2021](2021-06-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 19 | 18–21 | 17–21 | 17–22 | 16–22 |
+| [12–14 June 2021](2021-06-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 19 | 17–20 | 17–20 | 17–21 | 17–22 |
 | [14 June 2021](2021-06-14-Euromedia.html) | Euromedia <br> La Stampa | 20 | 17–20 | 17–20 | 16–21 | 16–22 |
 | [12 June 2021](2021-06-12-Ipsos.html) | Ipsos <br> La Stampa | 16 | 16–18 | 16–18 | 16–19 | 14–20 |
 | [11 June 2021](2021-06-11-Tecnè.html) | Tecnè <br> Agenzia Dire | 19 | 18–20 | 17–20 | 17–21 | 16–21 |
@@ -1523,15 +1523,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0.1% | 100% |  |
 | 14 | 0.4% | 99.9% |  |
-| 15 | 1.1% | 99.5% |  |
-| 16 | 8% | 98% |  |
-| 17 | 21% | 90% |  |
-| 18 | 29% | 70% | Median |
-| 19 | 25% | 41% |  |
-| 20 | 12% | 15% |  |
-| 21 | 3% | 3% |  |
-| 22 | 0.7% | 0.8% |  |
-| 23 | 0.1% | 0.1% |  |
+| 15 | 2% | 99.5% |  |
+| 16 | 9% | 98% |  |
+| 17 | 17% | 89% |  |
+| 18 | 37% | 72% | Median |
+| 19 | 19% | 35% |  |
+| 20 | 13% | 17% |  |
+| 21 | 2% | 3% |  |
+| 22 | 0.7% | 0.9% |  |
+| 23 | 0.2% | 0.2% |  |
 | 24 | 0% | 0% |  |
 
 

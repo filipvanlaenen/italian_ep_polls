@@ -762,18 +762,18 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
-| [25 June 2021](2021-06-25-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0–4 | 0–4 | 0–4 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0–4 | 0–4 | 0–4 |
+| [25 June 2021](2021-06-25-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [24 June 2021](2021-06-24-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [22–24 June 2021](2021-06-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
 | [23–24 June 2021](2021-06-24-Demopolis.html) | Demopolis <br> La7 | 0 | 0 | 0 | 0 | 0 |
-| [22 June 2021](2021-06-22-EMG.html) | EMG <br> Rai 3 | 4 | 0–4 | 0–4 | 0–4 | 0–4 |
-| [16–21 June 2021](2021-06-21-SWG.html) | SWG <br> La7 | 4 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [22 June 2021](2021-06-22-EMG.html) | EMG <br> Rai 3 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [16–21 June 2021](2021-06-21-SWG.html) | SWG <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [18 June 2021](2021-06-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | [15–17 June 2021](2021-06-17-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [17 June 2021](2021-06-17-Tecnè.html) | Tecnè | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | [15–17 June 2021](2021-06-17-Ixè.html) | Ixè | 0 | 0 | 0 | 0–3 | 0–4 |
-| [14–17 June 2021](2021-06-17-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
+| [14–17 June 2021](2021-06-17-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0–3 |
 | [15 June 2021](2021-06-15-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | [9–14 June 2021](2021-06-14-SWG.html) | SWG <br> La7 | 0 | 0 | 0–3 | 0–3 | 0–4 |
 | [12–14 June 2021](2021-06-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 0 | 0 | 0 | 0 | 0 |
@@ -1498,12 +1498,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 87% | 100% | Last Result, Median |
-| 1 | 0% | 13% |  |
-| 2 | 0% | 13% |  |
-| 3 | 0.2% | 13% |  |
-| 4 | 13% | 13% |  |
-| 5 | 0.2% | 0.2% |  |
+| 0 | 92% | 100% | Last Result, Median |
+| 1 | 0% | 8% |  |
+| 2 | 0% | 8% |  |
+| 3 | 1.0% | 8% |  |
+| 4 | 7% | 7% |  |
+| 5 | 0.3% | 0.3% |  |
 | 6 | 0% | 0% |  |
 
 
