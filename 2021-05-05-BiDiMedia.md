@@ -245,29 +245,8 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Partito Democratico (S&D) – Liberi e Uguali (S&D) – Azione (S&D) | 31 | 22 | 0% | 21–23 | 20–24 | 20–24 | 19–24 |
 | Lega Nord (ID) | 5 | 19 | 0% | 18–20 | 17–20 | 17–20 | 17–21 |
 | Europa Verde (Greens/EFA) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
-
-### Partito Democratico (S&D) – Liberi e Uguali (S&D) – Azione (S&D)
-
-![Graph with seats probability mass function not yet produced](2021-05-05-BiDiMedia-coalitions-seats-pmf-pd–leu–a.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 19 | 2% | 100% |  |
-| 20 | 5% | 98% |  |
-| 21 | 30% | 92% |  |
-| 22 | 46% | 63% | Median |
-| 23 | 11% | 16% |  |
-| 24 | 5% | 5% |  |
-| 25 | 0.2% | 0.2% |  |
-| 26 | 0% | 0% |  |
-| 27 | 0% | 0% |  |
-| 28 | 0% | 0% |  |
-| 29 | 0% | 0% |  |
-| 30 | 0% | 0% |  |
-| 31 | 0% | 0% | Last Result |
 
 ### Lega Nord (ID)
 

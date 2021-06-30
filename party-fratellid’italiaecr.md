@@ -784,12 +784,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [23–24 June 2021](2021-06-24-Demopolis.html) | Demopolis <br> La7 | 19 | 17–19 | 17–20 | 17–20 | 16–20 |
 | [22 June 2021](2021-06-22-EMG.html) | EMG <br> Rai 3 | 18 | 16–20 | 15–20 | 15–20 | 14–21 |
 | [16–21 June 2021](2021-06-21-SWG.html) | SWG <br> La7 | 20 | 17–21 | 16–21 | 16–21 | 16–21 |
-| [18 June 2021](2021-06-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 17 | 16–18 | 16–19 | 16–20 | 15–21 |
-| [15–17 June 2021](2021-06-17-TermometroPolitico.html) | Termometro Politico | 17 | 16–18 | 16–18 | 16–18 | 15–18 |
+| [18 June 2021](2021-06-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 18 | 16–19 | 16–20 | 15–21 | 14–21 |
+| [15–17 June 2021](2021-06-17-TermometroPolitico.html) | Termometro Politico | 17 | 16–17 | 16–18 | 16–18 | 15–19 |
 | [17 June 2021](2021-06-17-Tecnè.html) | Tecnè | 18 | 16–19 | 16–20 | 15–20 | 15–21 |
 | [15–17 June 2021](2021-06-17-Ixè.html) | Ixè | 16 | 15–18 | 14–18 | 14–18 | 13–18 |
 | [14–17 June 2021](2021-06-17-BiDiMedia.html) | BiDiMedia | 17 | 16–18 | 15–18 | 15–19 | 14–19 |
-| [15 June 2021](2021-06-15-EMG.html) | EMG <br> Rai 3 | 17 | 16–19 | 15–19 | 15–19 | 15–19 |
+| [15 June 2021](2021-06-15-EMG.html) | EMG <br> Rai 3 | 17 | 16–18 | 16–19 | 15–19 | 15–20 |
 | [9–14 June 2021](2021-06-14-SWG.html) | SWG <br> La7 | 18 | 18–20 | 17–20 | 17–20 | 16–21 |
 | [12–14 June 2021](2021-06-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 16 | 15–17 | 14–17 | 14–17 | 13–18 |
 | [14 June 2021](2021-06-14-Euromedia.html) | Euromedia <br> La Stampa | 17 | 17–19 | 16–20 | 16–20 | 15–20 |
