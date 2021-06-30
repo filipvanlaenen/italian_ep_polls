@@ -778,9 +778,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [17 June 2021](2021-06-17-Tecnè.html) | Tecnè | 0 | 0 | 0 | 0 | 0 |
 | [15–17 June 2021](2021-06-17-Ixè.html) | Ixè |  |  |  |  |  |
 | [14–17 June 2021](2021-06-17-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
-| [15 June 2021](2021-06-15-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
+| [15 June 2021](2021-06-15-EMG.html) | EMG <br> Rai 3 |  | 0 | 0 | 0 | 0 |
 | [9–14 June 2021](2021-06-14-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
-| [12–14 June 2021](2021-06-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 4 | 3–4 | 0–4 | 0–5 | 0–5 |
+| [12–14 June 2021](2021-06-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 4 | 0–4 | 0–4 | 0–5 | 0–6 |
 | [14 June 2021](2021-06-14-Euromedia.html) | Euromedia <br> La Stampa |  |  |  |  |  |
 | [12 June 2021](2021-06-12-Ipsos.html) | Ipsos <br> La Stampa |  |  |  |  |  |
 | [11 June 2021](2021-06-11-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
@@ -1502,12 +1502,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 66% | 100% | Last Result, Median |
-| 1 | 0% | 34% |  |
-| 2 | 0% | 34% |  |
-| 3 | 0.7% | 34% |  |
-| 4 | 21% | 33% |  |
-| 5 | 5% | 12% |  |
+| 0 | 68% | 100% | Last Result, Median |
+| 1 | 0% | 32% |  |
+| 2 | 0% | 32% |  |
+| 3 | 1.0% | 32% |  |
+| 4 | 20% | 31% |  |
+| 5 | 5% | 11% |  |
 | 6 | 4% | 6% |  |
 | 7 | 2% | 3% |  |
 | 8 | 0.8% | 0.9% |  |
