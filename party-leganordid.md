@@ -10,14 +10,14 @@ Last result: **6.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.7% | 19.1–22.6% | 18.6–23.2% | 18.3–23.8% | 17.5–24.9% |
+| N/A | [Poll Average](average.html) | 20.9% | 19.1–22.7% | 18.6–23.3% | 18.2–23.8% | 17.3–24.9% |
 | [30 June–5 July 2021](2021-07-05-SWG.html) | SWG <br> La7 | 20.6% | 19.1–22.1% | 18.7–22.6% | 18.4–23.0% | 17.7–23.7% |
 | [3 July 2021](2021-07-03-Euromedia.html) | Euromedia <br> La Stampa | 20.5% | 18.7–22.4% | 18.3–23.0% | 17.8–23.4% | 17.0–24.4% |
 | [2 July 2021](2021-07-02-Tecnè.html) | Tecnè <br> Agenzia Dire | 20.5% | 18.9–22.2% | 18.5–22.7% | 18.1–23.1% | 17.4–24.0% |
-| [30 June–1 July 2021](2021-07-01-TermometroPolitico.html) | Termometro Politico | 21.8% | N/A | N/A | N/A | N/A |
-| [29 June–1 July 2021](2021-07-01-Ixè.html) | Ixè | 21.0% | N/A | N/A | N/A | N/A |
-| [30 June 2021](2021-06-30-Piepoli.html) | Piepoli <br> RaiNews24 | 20.6% | N/A | N/A | N/A | N/A |
-| [23–28 June 2021](2021-06-28-SWG.html) | SWG <br> La7 | 20.3% | N/A | N/A | N/A | N/A |
+| [30 June–1 July 2021](2021-07-01-TermometroPolitico.html) | Termometro Politico | 21.8% | 20.9–22.8% | 20.6–23.0% | 20.4–23.3% | 20.0–23.7% |
+| [29 June–1 July 2021](2021-07-01-Ixè.html) | Ixè | 21.0% | 19.4–22.7% | 19.0–23.2% | 18.6–23.6% | 17.8–24.5% |
+| [30 June 2021](2021-06-30-Piepoli.html) | Piepoli <br> RaiNews24 | 20.6% | 18.4–23.1% | 17.8–23.8% | 17.3–24.4% | 16.3–25.6% |
+| [23–28 June 2021](2021-06-28-SWG.html) | SWG <br> La7 | 20.3% | 18.9–21.9% | 18.5–22.3% | 18.2–22.7% | 17.5–23.5% |
 | [25 June 2021](2021-06-25-Tecnè.html) | Tecnè <br> Agenzia Dire | 20.4% | 18.8–22.1% | 18.4–22.6% | 18.0–23.0% | 17.3–23.9% |
 | [24 June 2021](2021-06-24-TermometroPolitico.html) | Termometro Politico | 21.8% | 20.9–22.8% | 20.6–23.1% | 20.3–23.3% | 19.9–23.8% |
 | [22–24 June 2021](2021-06-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 20.1% | 18.5–21.8% | 18.1–22.3% | 17.7–22.7% | 17.0–23.5% |
@@ -761,17 +761,17 @@ The following table shows the probability mass function per percentage block of 
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0.5% | 100% |  |
-| 17.5–18.5% | 4% | 99.4% |  |
-| 18.5–19.5% | 14% | 96% |  |
-| 19.5–20.5% | 27% | 82% |  |
-| 20.5–21.5% | 28% | 55% | Median |
-| 21.5–22.5% | 17% | 27% |  |
-| 22.5–23.5% | 7% | 10% |  |
+| 15.5–16.5% | 0.1% | 100% |  |
+| 16.5–17.5% | 0.7% | 99.9% |  |
+| 17.5–18.5% | 4% | 99.2% |  |
+| 18.5–19.5% | 12% | 96% |  |
+| 19.5–20.5% | 24% | 83% |  |
+| 20.5–21.5% | 28% | 60% | Median |
+| 21.5–22.5% | 20% | 32% |  |
+| 22.5–23.5% | 8% | 12% |  |
 | 23.5–24.5% | 3% | 3% |  |
 | 24.5–25.5% | 0.7% | 0.8% |  |
-| 25.5–26.5% | 0.1% | 0.1% |  |
+| 25.5–26.5% | 0.1% | 0.2% |  |
 | 26.5–27.5% | 0% | 0% |  |
 
 
@@ -783,14 +783,14 @@ Last result: **5** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 17–20 | 16–20 | 16–21 | 15–21 |
+| N/A | [Poll Average](average.html) | 18 | 17–20 | 16–20 | 16–20 | 14–22 |
 | [30 June–5 July 2021](2021-07-05-SWG.html) | SWG <br> La7 | 18 | 17–18 | 16–19 | 16–19 | 16–21 |
 | [3 July 2021](2021-07-03-Euromedia.html) | Euromedia <br> La Stampa | 17 | 17–18 | 16–18 | 16–19 | 15–20 |
 | [2 July 2021](2021-07-02-Tecnè.html) | Tecnè <br> Agenzia Dire | 19 | 17–19 | 16–19 | 16–19 | 15–20 |
-| [30 June–1 July 2021](2021-07-01-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [29 June–1 July 2021](2021-07-01-Ixè.html) | Ixè |  |  |  |  |  |
-| [30 June 2021](2021-06-30-Piepoli.html) | Piepoli <br> RaiNews24 |  |  |  |  |  |
-| [23–28 June 2021](2021-06-28-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [30 June–1 July 2021](2021-07-01-TermometroPolitico.html) | Termometro Politico | 19 | 18–20 | 18–20 | 18–20 | 17–21 |
+| [29 June–1 July 2021](2021-07-01-Ixè.html) | Ixè | 18 | 17–20 | 16–20 | 16–21 | 15–23 |
+| [30 June 2021](2021-06-30-Piepoli.html) | Piepoli <br> RaiNews24 | 17 | 15–19 | 14–19 | 14–20 | 14–21 |
+| [23–28 June 2021](2021-06-28-SWG.html) | SWG <br> La7 | 18 | 17–19 | 17–19 | 16–20 | 16–21 |
 | [25 June 2021](2021-06-25-Tecnè.html) | Tecnè <br> Agenzia Dire | 18 | 16–19 | 16–20 | 16–21 | 15–21 |
 | [24 June 2021](2021-06-24-TermometroPolitico.html) | Termometro Politico | 19 | 18–19 | 18–20 | 18–20 | 17–21 |
 | [22–24 June 2021](2021-06-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 17 | 16–19 | 15–19 | 15–19 | 14–20 |
@@ -1535,16 +1535,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
-| 14 | 0.1% | 100% |  |
-| 15 | 1.2% | 99.9% |  |
-| 16 | 7% | 98.7% |  |
-| 17 | 26% | 91% |  |
-| 18 | 36% | 66% | Median |
-| 19 | 20% | 30% |  |
-| 20 | 7% | 10% |  |
-| 21 | 2% | 3% |  |
-| 22 | 0.2% | 0.4% |  |
-| 23 | 0.2% | 0.2% |  |
+| 14 | 0.6% | 100% |  |
+| 15 | 2% | 99.4% |  |
+| 16 | 7% | 98% |  |
+| 17 | 25% | 90% |  |
+| 18 | 32% | 65% | Median |
+| 19 | 21% | 33% |  |
+| 20 | 9% | 12% |  |
+| 21 | 2% | 2% |  |
+| 22 | 0.2% | 0.5% |  |
+| 23 | 0.3% | 0.3% |  |
 | 24 | 0% | 0% |  |
 
 
