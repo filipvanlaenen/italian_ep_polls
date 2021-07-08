@@ -774,7 +774,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [2 July 2021](2021-07-02-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
 | [30 June–1 July 2021](2021-07-01-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [29 June–1 July 2021](2021-07-01-Ixè.html) | Ixè | 0 | 0 | 0 | 0 | 0 |
-| [30 June 2021](2021-06-30-Piepoli.html) | Piepoli <br> RaiNews24 | 0 | 0 | 0 | 0 | 0–4 |
+| [30 June 2021](2021-06-30-Piepoli.html) | Piepoli <br> RaiNews24 | 0 | 0 | 0 | 0 | 0–3 |
 | [23–28 June 2021](2021-06-28-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [25 June 2021](2021-06-25-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
 | [24 June 2021](2021-06-24-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
@@ -808,7 +808,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [30–31 May 2021](2021-05-31-Tecnè.html) | Tecnè <br> Rete 4 | 0 | 0 | 0 | 0 | 0 |
 | [26–31 May 2021](2021-05-31-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [31 May 2021](2021-05-31-Piepoli.html) | Piepoli | 0 | 0 | 0 | 0 | 0–3 |
-| [30 May 2021](2021-05-30-Piepoli.html) | Piepoli <br> La7 | 0 | 0 | 0–3 | 0–4 | 0–4 |
+| [30 May 2021](2021-05-30-Piepoli.html) | Piepoli <br> La7 | 0 | 0 | 0 | 0–4 | 0–4 |
 | [28 May 2021](2021-05-28-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
 | [26–27 May 2021](2021-05-27-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [26–27 May 2021](2021-05-27-Tecnè.html) | Tecnè <br> Rete 4 | 0 | 0 | 0 | 0 | 0 |
@@ -1516,7 +1516,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 2% |  |
 | 3 | 0.1% | 2% |  |
 | 4 | 1.3% | 1.4% |  |
-| 5 | 0.1% | 0.2% |  |
+| 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% |  |
 
 

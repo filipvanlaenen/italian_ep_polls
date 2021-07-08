@@ -789,14 +789,14 @@ Last result: **31** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 15–17 | 14–18 | 14–18 | 13–19 |
-| [30 June–5 July 2021](2021-07-05-SWG.html) | SWG <br> La7 | 16 | 15–17 | 14–19 | 14–19 | 14–19 |
-| [3 July 2021](2021-07-03-Euromedia.html) | Euromedia <br> La Stampa | 15 | 15 | 14–17 | 14–17 | 13–18 |
+| N/A | [Poll Average](average.html) | 16 | 14–18 | 14–18 | 14–18 | 13–20 |
+| [30 June–5 July 2021](2021-07-05-SWG.html) | SWG <br> La7 | 16 | 15–17 | 14–19 | 14–20 | 14–20 |
+| [3 July 2021](2021-07-03-Euromedia.html) | Euromedia <br> La Stampa | 15 | 14–17 | 14–18 | 14–18 | 13–19 |
 | [2 July 2021](2021-07-02-Tecnè.html) | Tecnè <br> Agenzia Dire | 15 | 15–17 | 14–18 | 14–18 | 13–19 |
 | [30 June–1 July 2021](2021-07-01-TermometroPolitico.html) | Termometro Politico | 16 | 15–17 | 15–17 | 15–17 | 14–18 |
-| [29 June–1 July 2021](2021-07-01-Ixè.html) | Ixè | 17 | 15–18 | 15–19 | 15–20 | 14–20 |
-| [30 June 2021](2021-06-30-Piepoli.html) | Piepoli <br> RaiNews24 | 16 | 14–17 | 13–18 | 13–19 | 12–19 |
-| [23–28 June 2021](2021-06-28-SWG.html) | SWG <br> La7 | 16 | 14–16 | 14–17 | 14–17 | 14–19 |
+| [29 June–1 July 2021](2021-07-01-Ixè.html) | Ixè | 17 | 15–18 | 15–19 | 14–19 | 13–20 |
+| [30 June 2021](2021-06-30-Piepoli.html) | Piepoli <br> RaiNews24 | 15 | 13–17 | 13–18 | 12–18 | 12–19 |
+| [23–28 June 2021](2021-06-28-SWG.html) | SWG <br> La7 | 16 | 15–17 | 14–17 | 14–17 | 13–18 |
 | [25 June 2021](2021-06-25-Tecnè.html) | Tecnè <br> Agenzia Dire | 15 | 14–17 | 13–18 | 13–18 | 13–19 |
 | [24 June 2021](2021-06-24-TermometroPolitico.html) | Termometro Politico | 16 | 15–17 | 15–17 | 15–17 | 14–18 |
 | [22–24 June 2021](2021-06-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 16 | 14–18 | 14–18 | 14–18 | 13–19 |
@@ -804,7 +804,7 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [22 June 2021](2021-06-22-EMG.html) | EMG <br> Rai 3 | 15 | 14–17 | 13–18 | 13–18 | 12–18 |
 | [16–21 June 2021](2021-06-21-SWG.html) | SWG <br> La7 | 16 | 15–17 | 14–17 | 14–18 | 13–18 |
 | [18 June 2021](2021-06-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 16 | 14–17 | 13–18 | 13–19 | 12–19 |
-| [15–17 June 2021](2021-06-17-TermometroPolitico.html) | Termometro Politico | 16 | 15–17 | 15–17 | 15–17 | 14–17 |
+| [15–17 June 2021](2021-06-17-TermometroPolitico.html) | Termometro Politico | 16 | 15–17 | 15–17 | 15–17 | 14–18 |
 | [17 June 2021](2021-06-17-Tecnè.html) | Tecnè | 15 | 14–17 | 14–18 | 13–18 | 13–19 |
 | [15–17 June 2021](2021-06-17-Ixè.html) | Ixè | 17 | 16–18 | 15–18 | 15–19 | 14–20 |
 | [14–17 June 2021](2021-06-17-BiDiMedia.html) | BiDiMedia | 17 | 16–18 | 15–18 | 15–18 | 15–19 |
@@ -814,7 +814,7 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [14 June 2021](2021-06-14-Euromedia.html) | Euromedia <br> La Stampa | 16 | 15–16 | 14–17 | 14–18 | 13–19 |
 | [12 June 2021](2021-06-12-Ipsos.html) | Ipsos <br> La Stampa | 16 | 16–18 | 15–18 | 15–19 | 14–19 |
 | [11 June 2021](2021-06-11-Tecnè.html) | Tecnè <br> Agenzia Dire | 16 | 14–17 | 14–17 | 14–18 | 13–18 |
-| [8–10 June 2021](2021-06-10-TermometroPolitico.html) | Termometro Politico | 16 | 15–17 | 15–17 | 15–17 | 14–18 |
+| [8–10 June 2021](2021-06-10-TermometroPolitico.html) | Termometro Politico | 16 | 15–17 | 15–17 | 15–17 | 15–18 |
 | [7–8 June 2021](2021-06-08-Piepoli.html) | Piepoli <br> RaiNews24 | 15 | 13–17 | 13–18 | 12–18 | 12–19 |
 | [8 June 2021](2021-06-08-Euromedia.html) | Euromedia <br> Rai 1 | 15 | 13–16 | 13–16 | 12–16 | 12–18 |
 | [7–8 June 2021](2021-06-08-Demopolis.html) | Demopolis <br> La7 | 15 | 14–17 | 14–17 | 14–17 | 13–18 |
@@ -1532,15 +1532,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 0.3% | 100% |  |
-| 13 | 1.5% | 99.6% |  |
+| 11 | 0% | 100% |  |
+| 12 | 0.4% | 99.9% |  |
+| 13 | 2% | 99.5% |  |
 | 14 | 8% | 98% |  |
-| 15 | 24% | 91% |  |
-| 16 | 32% | 67% | Median |
-| 17 | 25% | 35% |  |
-| 18 | 7% | 9% |  |
+| 15 | 23% | 89% |  |
+| 16 | 33% | 66% | Median |
+| 17 | 23% | 33% |  |
+| 18 | 9% | 11% |  |
 | 19 | 2% | 2% |  |
-| 20 | 0.3% | 0.4% |  |
+| 20 | 0.5% | 0.5% |  |
 | 21 | 0% | 0% |  |
 | 22 | 0% | 0% |  |
 | 23 | 0% | 0% |  |
