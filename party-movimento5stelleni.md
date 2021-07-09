@@ -777,7 +777,7 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [30 June–5 July 2021](2021-07-05-SWG.html) | SWG <br> La7 | 13 | 13–14 | 12–15 | 12–15 | 11–16 |
 | [3 July 2021](2021-07-03-Euromedia.html) | Euromedia <br> La Stampa | 13 | 11–14 | 11–14 | 11–15 | 10–15 |
 | [2 July 2021](2021-07-02-Tecnè.html) | Tecnè <br> Agenzia Dire | 13 | 11–14 | 11–14 | 11–15 | 10–15 |
-| [30 June–1 July 2021](2021-07-01-TermometroPolitico.html) | Termometro Politico | 13 | 13–14 | 13–14 | 12–15 | 12–15 |
+| [30 June–1 July 2021](2021-07-01-TermometroPolitico.html) | Termometro Politico | 13 | 13–14 | 12–14 | 12–14 | 12–15 |
 | [29 June–1 July 2021](2021-07-01-Ixè.html) | Ixè | 14 | 13–16 | 13–17 | 12–17 | 12–18 |
 | [30 June 2021](2021-06-30-Piepoli.html) | Piepoli <br> RaiNews24 | 14 | 12–16 | 12–16 | 11–17 | 10–18 |
 | [23–28 June 2021](2021-06-28-SWG.html) | SWG <br> La7 | 15 | 14–16 | 13–16 | 13–16 | 12–17 |
@@ -798,7 +798,7 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [14 June 2021](2021-06-14-Euromedia.html) | Euromedia <br> La Stampa | 16 | 13–16 | 13–16 | 12–16 | 12–17 |
 | [12 June 2021](2021-06-12-Ipsos.html) | Ipsos <br> La Stampa | 12 | 12–13 | 11–13 | 10–13 | 10–14 |
 | [11 June 2021](2021-06-11-Tecnè.html) | Tecnè <br> Agenzia Dire | 14 | 13–15 | 13–15 | 12–16 | 12–17 |
-| [8–10 June 2021](2021-06-10-TermometroPolitico.html) | Termometro Politico | 14 | 13–14 | 13–15 | 13–15 | 12–15 |
+| [8–10 June 2021](2021-06-10-TermometroPolitico.html) | Termometro Politico | 14 | 13–15 | 13–15 | 13–15 | 12–15 |
 | [7–8 June 2021](2021-06-08-Piepoli.html) | Piepoli <br> RaiNews24 | 14 | 12–16 | 11–16 | 11–17 | 10–18 |
 | [8 June 2021](2021-06-08-Euromedia.html) | Euromedia <br> Rai 1 | 14 | 13–15 | 12–15 | 12–16 | 11–17 |
 | [7–8 June 2021](2021-06-08-Demopolis.html) | Demopolis <br> La7 | 15 | 13–15 | 13–16 | 13–16 | 12–16 |
@@ -1518,8 +1518,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.3% | 100% |  |
 | 11 | 3% | 99.6% |  |
-| 12 | 12% | 97% |  |
-| 13 | 29% | 85% |  |
+| 12 | 13% | 97% |  |
+| 13 | 29% | 84% |  |
 | 14 | 28% | 55% | Median |
 | 15 | 16% | 27% |  |
 | 16 | 7% | 11% |  |

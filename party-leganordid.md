@@ -808,7 +808,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [14 June 2021](2021-06-14-Euromedia.html) | Euromedia <br> La Stampa | 20 | 17–20 | 17–20 | 16–21 | 16–22 |
 | [12 June 2021](2021-06-12-Ipsos.html) | Ipsos <br> La Stampa | 16 | 16–18 | 16–18 | 16–19 | 14–20 |
 | [11 June 2021](2021-06-11-Tecnè.html) | Tecnè <br> Agenzia Dire | 19 | 18–20 | 17–20 | 17–21 | 16–21 |
-| [8–10 June 2021](2021-06-10-TermometroPolitico.html) | Termometro Politico | 19 | 19–20 | 18–20 | 18–21 | 18–21 |
+| [8–10 June 2021](2021-06-10-TermometroPolitico.html) | Termometro Politico | 19 | 18–20 | 18–20 | 18–21 | 18–21 |
 | [7–8 June 2021](2021-06-08-Piepoli.html) | Piepoli <br> RaiNews24 | 18 | 16–20 | 16–20 | 15–21 | 14–22 |
 | [8 June 2021](2021-06-08-Euromedia.html) | Euromedia <br> Rai 1 | 18 | 17–20 | 17–20 | 17–21 | 16–22 |
 | [7–8 June 2021](2021-06-08-Demopolis.html) | Demopolis <br> La7 | 18 | 17–19 | 17–20 | 16–20 | 16–21 |
@@ -1540,8 +1540,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 7% | 97% |  |
 | 17 | 23% | 90% |  |
 | 18 | 32% | 67% | Median |
-| 19 | 21% | 35% |  |
-| 20 | 11% | 14% |  |
+| 19 | 20% | 35% |  |
+| 20 | 12% | 15% |  |
 | 21 | 2% | 3% |  |
 | 22 | 0.2% | 0.4% |  |
 | 23 | 0.2% | 0.2% |  |
