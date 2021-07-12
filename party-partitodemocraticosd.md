@@ -11,6 +11,8 @@ Last result: **40.8%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 19.6% | 17.7–21.3% | 17.1–21.8% | 16.6–22.3% | 15.6–23.3% |
+| [8–9 July 2021](2021-07-09-Tecnè.html) | Tecnè <br> Agenzia Dire | 19.6% | 18.1–21.3% | 17.6–21.8% | 17.3–22.2% | 16.5–23.0% |
+| [7–8 July 2021](2021-07-08-TermometroPolitico.html) | Termometro Politico | 19.4% | 18.5–20.4% | 18.2–20.7% | 18.0–21.0% | 17.5–21.4% |
 | [30 June–5 July 2021](2021-07-05-SWG.html) | SWG <br> La7 | 18.7% | 17.3–20.2% | 16.9–20.6% | 16.6–21.0% | 15.9–21.7% |
 | [3 July 2021](2021-07-03-Euromedia.html) | Euromedia <br> La Stampa | 19.8% | 18.0–21.7% | 17.5–22.2% | 17.1–22.7% | 16.3–23.6% |
 | [2 July 2021](2021-07-02-Tecnè.html) | Tecnè <br> Agenzia Dire | 19.5% | 18.0–21.2% | 17.5–21.7% | 17.2–22.1% | 16.4–22.9% |
@@ -758,7 +760,7 @@ The following table shows the probability mass function per percentage block of 
 | 17.5–18.5% | 14% | 92% |  |
 | 18.5–19.5% | 26% | 78% |  |
 | 19.5–20.5% | 28% | 52% | Median |
-| 20.5–21.5% | 17% | 24% |  |
+| 20.5–21.5% | 16% | 24% |  |
 | 21.5–22.5% | 6% | 7% |  |
 | 22.5–23.5% | 1.3% | 2% |  |
 | 23.5–24.5% | 0.3% | 0.3% |  |
@@ -789,7 +791,9 @@ Last result: **31** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 14–18 | 14–18 | 14–18 | 13–20 |
+| N/A | [Poll Average](average.html) | 16 | 14–18 | 14–18 | 14–19 | 13–20 |
+| [8–9 July 2021](2021-07-09-Tecnè.html) | Tecnè <br> Agenzia Dire | 16 | 15–19 | 15–19 | 15–19 | 14–19 |
+| [7–8 July 2021](2021-07-08-TermometroPolitico.html) | Termometro Politico | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
 | [30 June–5 July 2021](2021-07-05-SWG.html) | SWG <br> La7 | 16 | 15–17 | 14–19 | 14–20 | 14–20 |
 | [3 July 2021](2021-07-03-Euromedia.html) | Euromedia <br> La Stampa | 15 | 14–17 | 14–18 | 14–18 | 13–19 |
 | [2 July 2021](2021-07-02-Tecnè.html) | Tecnè <br> Agenzia Dire | 15 | 15–17 | 14–18 | 14–18 | 13–19 |
@@ -1534,13 +1538,13 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 0% | 100% |  |
 | 12 | 0.4% | 99.9% |  |
-| 13 | 2% | 99.5% |  |
+| 13 | 2% | 99.6% |  |
 | 14 | 8% | 98% |  |
-| 15 | 24% | 89% |  |
-| 16 | 32% | 65% | Median |
-| 17 | 23% | 33% |  |
-| 18 | 9% | 11% |  |
-| 19 | 2% | 2% |  |
+| 15 | 22% | 89% |  |
+| 16 | 33% | 67% | Median |
+| 17 | 21% | 34% |  |
+| 18 | 9% | 13% |  |
+| 19 | 4% | 4% |  |
 | 20 | 0.5% | 0.5% |  |
 | 21 | 0% | 0% |  |
 | 22 | 0% | 0% |  |

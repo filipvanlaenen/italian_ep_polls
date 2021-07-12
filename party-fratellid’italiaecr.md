@@ -10,7 +10,9 @@ Last result: **3.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.6% | 17.7–21.6% | 17.1–22.2% | 16.7–22.7% | 15.8–23.6% |
+| N/A | [Poll Average](average.html) | 19.7% | 17.7–21.6% | 17.1–22.1% | 16.7–22.6% | 15.8–23.6% |
+| [8–9 July 2021](2021-07-09-Tecnè.html) | Tecnè <br> Agenzia Dire | 20.6% | 19.0–22.3% | 18.6–22.8% | 18.2–23.2% | 17.5–24.1% |
+| [7–8 July 2021](2021-07-08-TermometroPolitico.html) | Termometro Politico | 20.0% | 19.0–21.0% | 18.8–21.3% | 18.5–21.6% | 18.1–22.1% |
 | [30 June–5 July 2021](2021-07-05-SWG.html) | SWG <br> La7 | 20.5% | 19.1–22.1% | 18.7–22.5% | 18.3–22.9% | 17.6–23.6% |
 | [3 July 2021](2021-07-03-Euromedia.html) | Euromedia <br> La Stampa | 20.2% | 18.5–22.2% | 18.0–22.7% | 17.6–23.2% | 16.8–24.1% |
 | [2 July 2021](2021-07-02-Tecnè.html) | Tecnè <br> Agenzia Dire | 20.8% | 19.2–22.5% | 18.8–23.0% | 18.4–23.4% | 17.7–24.3% |
@@ -766,12 +768,12 @@ The following table shows the probability mass function per percentage block of 
 | 15.5–16.5% | 2% | 99.7% |  |
 | 16.5–17.5% | 6% | 98% |  |
 | 17.5–18.5% | 15% | 92% |  |
-| 18.5–19.5% | 24% | 77% |  |
-| 19.5–20.5% | 24% | 52% | Median |
-| 20.5–21.5% | 17% | 28% |  |
+| 18.5–19.5% | 23% | 77% |  |
+| 19.5–20.5% | 25% | 54% | Median |
+| 20.5–21.5% | 18% | 29% |  |
 | 21.5–22.5% | 8% | 11% |  |
 | 22.5–23.5% | 2% | 3% |  |
-| 23.5–24.5% | 0.5% | 0.6% |  |
+| 23.5–24.5% | 0.4% | 0.5% |  |
 | 24.5–25.5% | 0.1% | 0.1% |  |
 | 25.5–26.5% | 0% | 0% |  |
 
@@ -784,7 +786,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 15–20 | 15–20 | 14–20 | 13–21 |
+| N/A | [Poll Average](average.html) | 17 | 15–19 | 15–20 | 14–20 | 13–21 |
+| [8–9 July 2021](2021-07-09-Tecnè.html) | Tecnè <br> Agenzia Dire | 18 | 17–20 | 17–20 | 16–21 | 15–21 |
+| [7–8 July 2021](2021-07-08-TermometroPolitico.html) | Termometro Politico | 17 | 16–18 | 16–18 | 16–19 | 16–19 |
 | [30 June–5 July 2021](2021-07-05-SWG.html) | SWG <br> La7 | 19 | 18–20 | 16–21 | 16–22 | 16–22 |
 | [3 July 2021](2021-07-03-Euromedia.html) | Euromedia <br> La Stampa | 18 | 16–19 | 16–19 | 15–20 | 15–21 |
 | [2 July 2021](2021-07-02-Tecnè.html) | Tecnè <br> Agenzia Dire | 18 | 17–20 | 16–20 | 16–21 | 15–21 |
@@ -1543,12 +1547,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0.8% | 99.9% |  |
 | 14 | 4% | 99.1% |  |
 | 15 | 9% | 95% |  |
-| 16 | 17% | 86% |  |
-| 17 | 27% | 69% | Median |
-| 18 | 20% | 42% |  |
-| 19 | 12% | 22% |  |
-| 20 | 9% | 10% |  |
-| 21 | 1.0% | 1.4% |  |
+| 16 | 16% | 86% |  |
+| 17 | 28% | 71% | Median |
+| 18 | 21% | 42% |  |
+| 19 | 12% | 21% |  |
+| 20 | 7% | 9% |  |
+| 21 | 1.0% | 1.5% |  |
 | 22 | 0.4% | 0.4% |  |
 | 23 | 0% | 0% |  |
 
