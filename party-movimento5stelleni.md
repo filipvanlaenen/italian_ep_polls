@@ -10,7 +10,11 @@ Last result: **21.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.9% | 14.1–17.9% | 13.6–18.4% | 13.2–18.9% | 12.4–19.9% |
+| N/A | [Poll Average](average.html) | 15.8% | 14.0–17.8% | 13.5–18.4% | 13.1–18.9% | 12.3–19.9% |
+| [16 July 2021](2021-07-16-Tecnè.html) | Tecnè <br> Agenzia Dire | 14.8% | 13.4–16.3% | 13.1–16.8% | 12.7–17.1% | 12.1–17.9% |
+| [14–15 July 2021](2021-07-15-TermometroPolitico.html) | Termometro Politico | 15.7% | 14.9–16.6% | 14.7–16.8% | 14.5–17.0% | 14.1–17.4% |
+| [12–14 July 2021](2021-07-14-DemosPi.html) | Demos & Pi <br> La Repubblica | 15.3% | 14.0–16.9% | 13.6–17.3% | 13.2–17.7% | 12.6–18.5% |
+| [12–13 July 2021](2021-07-13-Euromedia.html) | Euromedia | 14.3% | 13.0–15.8% | 12.6–16.2% | 12.3–16.6% | 11.6–17.4% |
 | [7–12 July 2021](2021-07-12-SWG.html) | SWG <br> La7 | 14.4% | 13.2–15.8% | 12.8–16.2% | 12.5–16.5% | 12.0–17.2% |
 | [8–9 July 2021](2021-07-09-Tecnè.html) | Tecnè <br> Agenzia Dire | 15.1% | 13.7–16.6% | 13.3–17.1% | 13.0–17.5% | 12.4–18.2% |
 | [7–8 July 2021](2021-07-08-TermometroPolitico.html) | Termometro Politico | 15.5% | 14.6–16.4% | 14.4–16.7% | 14.2–16.9% | 13.8–17.4% |
@@ -755,13 +759,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 10.5–11.5% | 0.1% | 100% |  |
-| 11.5–12.5% | 0.7% | 99.9% |  |
-| 12.5–13.5% | 4% | 99.2% |  |
-| 13.5–14.5% | 12% | 95% |  |
-| 14.5–15.5% | 23% | 83% |  |
-| 15.5–16.5% | 26% | 60% | Median |
-| 16.5–17.5% | 19% | 34% |  |
-| 17.5–18.5% | 10% | 15% |  |
+| 11.5–12.5% | 0.8% | 99.9% |  |
+| 12.5–13.5% | 5% | 99.1% |  |
+| 13.5–14.5% | 14% | 94% |  |
+| 14.5–15.5% | 24% | 81% |  |
+| 15.5–16.5% | 25% | 57% | Median |
+| 16.5–17.5% | 18% | 32% |  |
+| 17.5–18.5% | 10% | 14% |  |
 | 18.5–19.5% | 3% | 4% |  |
 | 19.5–20.5% | 0.7% | 0.9% |  |
 | 20.5–21.5% | 0.1% | 0.2% | Last Result |
@@ -776,7 +780,11 @@ Last result: **17** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–16 | 12–16 | 12–17 | 11–17 |
+| N/A | [Poll Average](average.html) | 14 | 12–16 | 12–16 | 11–17 | 11–17 |
+| [16 July 2021](2021-07-16-Tecnè.html) | Tecnè <br> Agenzia Dire | 13 | 13–14 | 12–14 | 12–15 | 11–16 |
+| [14–15 July 2021](2021-07-15-TermometroPolitico.html) | Termometro Politico | 13 | 13–15 | 13–15 | 13–15 | 12–15 |
+| [12–14 July 2021](2021-07-14-DemosPi.html) | Demos & Pi <br> La Repubblica | 13 | 12–14 | 11–14 | 11–15 | 10–16 |
+| [12–13 July 2021](2021-07-13-Euromedia.html) | Euromedia | 12 | 11–13 | 11–14 | 11–14 | 10–15 |
 | [7–12 July 2021](2021-07-12-SWG.html) | SWG <br> La7 | 14 | 13–15 | 13–16 | 12–16 | 11–16 |
 | [8–9 July 2021](2021-07-09-Tecnè.html) | Tecnè <br> Agenzia Dire | 14 | 13–15 | 12–15 | 12–15 | 11–16 |
 | [7–8 July 2021](2021-07-08-TermometroPolitico.html) | Termometro Politico | 14 | 13–14 | 13–15 | 12–15 | 12–15 |
@@ -1524,11 +1532,11 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.2% | 100% |  |
 | 11 | 2% | 99.8% |  |
-| 12 | 10% | 98% |  |
-| 13 | 27% | 88% |  |
-| 14 | 31% | 61% | Median |
-| 15 | 18% | 30% |  |
-| 16 | 8% | 12% |  |
+| 12 | 12% | 97% |  |
+| 13 | 30% | 85% |  |
+| 14 | 28% | 55% | Median |
+| 15 | 15% | 27% |  |
+| 16 | 7% | 12% |  |
 | 17 | 4% | 5% | Last Result |
 | 18 | 0.3% | 0.3% |  |
 | 19 | 0% | 0% |  |
