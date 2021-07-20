@@ -10,7 +10,8 @@ Last result: **21.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.8% | 14.0–17.8% | 13.5–18.4% | 13.1–18.9% | 12.3–19.9% |
+| N/A | [Poll Average](average.html) | 16.0% | 14.1–17.9% | 13.6–18.5% | 13.2–18.9% | 12.4–20.0% |
+| [14–19 July 2021](2021-07-19-SWG.html) | SWG <br> La7 | 15.2% | 13.9–16.6% | 13.5–17.0% | 13.2–17.3% | 12.7–18.0% |
 | [16 July 2021](2021-07-16-Tecnè.html) | Tecnè <br> Agenzia Dire | 14.8% | 13.4–16.3% | 13.1–16.8% | 12.7–17.1% | 12.1–17.9% |
 | [14–15 July 2021](2021-07-15-TermometroPolitico.html) | Termometro Politico | 15.7% | 14.9–16.6% | 14.7–16.8% | 14.5–17.0% | 14.1–17.4% |
 | [12–14 July 2021](2021-07-14-DemosPi.html) | Demos & Pi <br> La Repubblica | 15.3% | 14.0–16.9% | 13.6–17.3% | 13.2–17.7% | 12.6–18.5% |
@@ -758,17 +759,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 10.5–11.5% | 0.1% | 100% |  |
-| 11.5–12.5% | 0.8% | 99.9% |  |
-| 12.5–13.5% | 5% | 99.1% |  |
-| 13.5–14.5% | 14% | 94% |  |
-| 14.5–15.5% | 24% | 81% |  |
-| 15.5–16.5% | 25% | 57% | Median |
-| 16.5–17.5% | 18% | 32% |  |
-| 17.5–18.5% | 10% | 14% |  |
+| 10.5–11.5% | 0% | 100% |  |
+| 11.5–12.5% | 0.7% | 99.9% |  |
+| 12.5–13.5% | 4% | 99.3% |  |
+| 13.5–14.5% | 12% | 95% |  |
+| 14.5–15.5% | 22% | 83% |  |
+| 15.5–16.5% | 26% | 61% | Median |
+| 16.5–17.5% | 20% | 35% |  |
+| 17.5–18.5% | 11% | 15% |  |
 | 18.5–19.5% | 3% | 4% |  |
-| 19.5–20.5% | 0.7% | 0.9% |  |
-| 20.5–21.5% | 0.1% | 0.2% | Last Result |
+| 19.5–20.5% | 0.8% | 1.0% |  |
+| 20.5–21.5% | 0.2% | 0.2% | Last Result |
 | 21.5–22.5% | 0% | 0% |  |
 
 
@@ -780,7 +781,8 @@ Last result: **17** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–16 | 12–16 | 11–17 | 11–17 |
+| N/A | [Poll Average](average.html) | 14 | 12–16 | 12–17 | 11–17 | 11–17 |
+| [14–19 July 2021](2021-07-19-SWG.html) | SWG <br> La7 | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
 | [16 July 2021](2021-07-16-Tecnè.html) | Tecnè <br> Agenzia Dire | 13 | 13–14 | 12–14 | 12–15 | 11–16 |
 | [14–15 July 2021](2021-07-15-TermometroPolitico.html) | Termometro Politico | 13 | 13–15 | 13–15 | 13–15 | 12–15 |
 | [12–14 July 2021](2021-07-14-DemosPi.html) | Demos & Pi <br> La Repubblica | 13 | 12–14 | 11–14 | 11–15 | 10–16 |
@@ -1530,14 +1532,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.2% | 100% |  |
-| 11 | 2% | 99.8% |  |
+| 10 | 0.3% | 100% |  |
+| 11 | 2% | 99.7% |  |
 | 12 | 12% | 97% |  |
-| 13 | 30% | 85% |  |
-| 14 | 28% | 55% | Median |
-| 15 | 15% | 27% |  |
+| 13 | 24% | 86% |  |
+| 14 | 33% | 62% | Median |
+| 15 | 17% | 30% |  |
 | 16 | 7% | 12% |  |
-| 17 | 4% | 5% | Last Result |
+| 17 | 5% | 5% | Last Result |
 | 18 | 0.3% | 0.3% |  |
 | 19 | 0% | 0% |  |
 
