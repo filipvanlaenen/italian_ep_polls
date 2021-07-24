@@ -10,7 +10,9 @@ Last result: **21.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.0% | 14.1–17.9% | 13.6–18.5% | 13.2–18.9% | 12.4–20.0% |
+| N/A | [Poll Average](average.html) | 16.0% | 14.1–18.0% | 13.6–18.5% | 13.2–19.0% | 12.4–20.1% |
+| [21–22 July 2021](2021-07-22-TermometroPolitico.html) | Termometro Politico | 15.9% | 15.1–16.8% | 14.9–17.0% | 14.7–17.2% | 14.3–17.6% |
+| [21–22 July 2021](2021-07-22-Ixè.html) | Ixè | 17.3% | 15.8–18.9% | 15.4–19.4% | 15.1–19.8% | 14.4–20.6% |
 | [14–19 July 2021](2021-07-19-SWG.html) | SWG <br> La7 | 15.2% | 13.9–16.6% | 13.5–17.0% | 13.2–17.3% | 12.7–18.0% |
 | [16 July 2021](2021-07-16-Tecnè.html) | Tecnè <br> Agenzia Dire | 14.8% | 13.4–16.3% | 13.1–16.8% | 12.7–17.1% | 12.1–17.9% |
 | [14–15 July 2021](2021-07-15-TermometroPolitico.html) | Termometro Politico | 15.7% | 14.9–16.6% | 14.7–16.8% | 14.5–17.0% | 14.1–17.4% |
@@ -763,12 +765,12 @@ The following table shows the probability mass function per percentage block of 
 | 11.5–12.5% | 0.7% | 99.9% |  |
 | 12.5–13.5% | 4% | 99.3% |  |
 | 13.5–14.5% | 12% | 95% |  |
-| 14.5–15.5% | 22% | 83% |  |
-| 15.5–16.5% | 26% | 61% | Median |
-| 16.5–17.5% | 20% | 35% |  |
-| 17.5–18.5% | 11% | 15% |  |
-| 18.5–19.5% | 3% | 4% |  |
-| 19.5–20.5% | 0.8% | 1.0% |  |
+| 14.5–15.5% | 21% | 84% |  |
+| 15.5–16.5% | 26% | 63% | Median |
+| 16.5–17.5% | 20% | 37% |  |
+| 17.5–18.5% | 11% | 16% |  |
+| 18.5–19.5% | 4% | 5% |  |
+| 19.5–20.5% | 0.9% | 1.1% |  |
 | 20.5–21.5% | 0.2% | 0.2% | Last Result |
 | 21.5–22.5% | 0% | 0% |  |
 
@@ -782,6 +784,8 @@ Last result: **17** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14 | 12–16 | 12–17 | 11–17 | 11–17 |
+| [21–22 July 2021](2021-07-22-TermometroPolitico.html) | Termometro Politico | 13 | 13–15 | 13–15 | 13–15 | 12–15 |
+| [21–22 July 2021](2021-07-22-Ixè.html) | Ixè | 14 | 12–16 | 12–17 | 12–17 | 12–18 |
 | [14–19 July 2021](2021-07-19-SWG.html) | SWG <br> La7 | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
 | [16 July 2021](2021-07-16-Tecnè.html) | Tecnè <br> Agenzia Dire | 13 | 13–14 | 12–14 | 12–15 | 11–16 |
 | [14–15 July 2021](2021-07-15-TermometroPolitico.html) | Termometro Politico | 13 | 13–15 | 13–15 | 13–15 | 12–15 |
@@ -1534,11 +1538,11 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.3% | 100% |  |
 | 11 | 2% | 99.7% |  |
-| 12 | 12% | 97% |  |
-| 13 | 24% | 86% |  |
-| 14 | 33% | 62% | Median |
+| 12 | 16% | 97% |  |
+| 13 | 22% | 82% |  |
+| 14 | 29% | 59% | Median |
 | 15 | 17% | 30% |  |
-| 16 | 7% | 12% |  |
+| 16 | 8% | 13% |  |
 | 17 | 5% | 5% | Last Result |
 | 18 | 0.3% | 0.3% |  |
 | 19 | 0% | 0% |  |
