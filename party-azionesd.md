@@ -10,10 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.1% | 2.3–4.3% | 2.1–4.6% | 1.9–4.8% | 1.6–5.4% |
+| N/A | [Poll Average](average.html) | 3.1% | 2.2–4.2% | 2.0–4.5% | 1.9–4.8% | 1.6–5.3% |
 | [21–22 July 2021](2021-07-22-TermometroPolitico.html) | Termometro Politico | 2.9% | 2.5–3.3% | 2.5–3.4% | 2.4–3.6% | 2.2–3.8% |
 | [21–22 July 2021](2021-07-22-Ixè.html) | Ixè | 3.1% | 2.5–3.9% | 2.3–4.2% | 2.2–4.4% | 1.9–4.8% |
-| [20–22 July 2021](2021-07-22-Ipsos.html) | Ipsos <br> Corriere della Sera | 2.5% | N/A | N/A | N/A | N/A |
+| [20–22 July 2021](2021-07-22-Ipsos.html) | Ipsos <br> Corriere della Sera | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
 | [14–19 July 2021](2021-07-19-SWG.html) | SWG <br> La7 | 4.1% | 3.4–4.9% | 3.2–5.2% | 3.1–5.4% | 2.8–5.8% |
 | [16 July 2021](2021-07-16-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
 | [14–15 July 2021](2021-07-15-TermometroPolitico.html) | Termometro Politico | 3.0% | 2.6–3.4% | 2.5–3.6% | 2.5–3.7% | 2.3–3.9% |
@@ -763,10 +763,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.4% | 100% |  |
-| 1.5–2.5% | 19% | 99.6% |  |
-| 2.5–3.5% | 49% | 81% | Median |
-| 3.5–4.5% | 26% | 31% |  |
+| 0.5–1.5% | 0.5% | 100% |  |
+| 1.5–2.5% | 22% | 99.5% |  |
+| 2.5–3.5% | 49% | 78% | Median |
+| 3.5–4.5% | 24% | 29% |  |
 | 4.5–5.5% | 5% | 5% |  |
 | 5.5–6.5% | 0.2% | 0.2% |  |
 | 6.5–7.5% | 0% | 0% |  |
@@ -783,7 +783,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [21–22 July 2021](2021-07-22-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [21–22 July 2021](2021-07-22-Ixè.html) | Ixè | 0 | 0 | 0–4 | 0–4 | 0–4 |
-| [20–22 July 2021](2021-07-22-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
+| [20–22 July 2021](2021-07-22-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0–4 |
 | [14–19 July 2021](2021-07-19-SWG.html) | SWG <br> La7 | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [16 July 2021](2021-07-16-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | [14–15 July 2021](2021-07-15-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
@@ -1534,12 +1534,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 83% | 100% | Last Result, Median |
-| 1 | 0% | 17% |  |
-| 2 | 0% | 17% |  |
-| 3 | 0.7% | 17% |  |
-| 4 | 15% | 16% |  |
-| 5 | 0.8% | 0.8% |  |
+| 0 | 85% | 100% | Last Result, Median |
+| 1 | 0% | 15% |  |
+| 2 | 0% | 15% |  |
+| 3 | 0.7% | 15% |  |
+| 4 | 14% | 15% |  |
+| 5 | 0.7% | 0.7% |  |
 | 6 | 0% | 0% |  |
 
 
