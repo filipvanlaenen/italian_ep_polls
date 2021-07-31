@@ -788,9 +788,9 @@ Last result: **17** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–16 | 12–16 | 12–17 | 11–17 |
+| N/A | [Poll Average](average.html) | 14 | 12–16 | 12–16 | 11–17 | 11–17 |
 | [21–26 July 2021](2021-07-26-SWG.html) | SWG <br> La7 | 14 | 13–16 | 13–16 | 12–17 | 12–17 |
-| [20–24 July 2021](2021-07-24-BiDiMedia.html) | BiDiMedia | 13 | 12–14 | 12–14 | 12–15 | 12–15 |
+| [20–24 July 2021](2021-07-24-BiDiMedia.html) | BiDiMedia | 13 | 12–14 | 12–14 | 11–14 | 11–15 |
 | [23 July 2021](2021-07-23-Tecnè.html) | Tecnè <br> Agenzia Dire | 13 | 12–15 | 12–15 | 11–16 | 11–17 |
 | [22–23 July 2021](2021-07-23-Euromedia.html) | Euromedia <br> La Stampa | 13 | 12–15 | 12–15 | 11–16 | 11–16 |
 | [21–22 July 2021](2021-07-22-TermometroPolitico.html) | Termometro Politico | 14 | 13–15 | 13–15 | 13–15 | 12–15 |
@@ -1548,9 +1548,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.2% | 100% |  |
 | 11 | 2% | 99.8% |  |
-| 12 | 14% | 98% |  |
-| 13 | 27% | 83% |  |
-| 14 | 27% | 56% | Median |
+| 12 | 13% | 97% |  |
+| 13 | 26% | 85% |  |
+| 14 | 30% | 59% | Median |
 | 15 | 18% | 29% |  |
 | 16 | 7% | 11% |  |
 | 17 | 3% | 3% | Last Result |
