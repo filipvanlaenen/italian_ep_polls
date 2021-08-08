@@ -10,7 +10,8 @@ Last result: **6.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.3% | 18.8–21.9% | 18.4–22.4% | 18.0–22.9% | 17.2–23.8% |
+| N/A | [Poll Average](average.html) | 20.3% | 18.7–22.0% | 18.3–22.5% | 17.9–22.9% | 17.1–23.8% |
+| [4–5 August 2021](2021-08-05-TermometroPolitico.html) | Termometro Politico | 20.6% | N/A | N/A | N/A | N/A |
 | [28 July–2 August 2021](2021-08-02-SWG.html) | SWG <br> La7 | 20.3% | 18.9–21.9% | 18.5–22.3% | 18.2–22.7% | 17.5–23.5% |
 | [28–29 July 2021](2021-07-29-TermometroPolitico.html) | Termometro Politico | 20.4% | 19.5–21.4% | 19.3–21.6% | 19.0–21.8% | 18.6–22.3% |
 | [27 July 2021](2021-07-27-Euromedia.html) | Euromedia <br> La Stampa | 19.8% | 18.2–21.5% | 17.8–22.0% | 17.4–22.4% | 16.7–23.2% |
@@ -780,14 +781,14 @@ The following table shows the probability mass function per percentage block of 
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0.1% | 100% |  |
-| 16.5–17.5% | 1.0% | 99.9% |  |
-| 17.5–18.5% | 6% | 98.9% |  |
-| 18.5–19.5% | 18% | 93% |  |
-| 19.5–20.5% | 32% | 75% | Median |
-| 20.5–21.5% | 27% | 42% |  |
-| 21.5–22.5% | 11% | 15% |  |
-| 22.5–23.5% | 3% | 4% |  |
-| 23.5–24.5% | 0.7% | 0.7% |  |
+| 16.5–17.5% | 1.1% | 99.9% |  |
+| 17.5–18.5% | 6% | 98.7% |  |
+| 18.5–19.5% | 19% | 92% |  |
+| 19.5–20.5% | 30% | 73% | Median |
+| 20.5–21.5% | 26% | 42% |  |
+| 21.5–22.5% | 12% | 17% |  |
+| 22.5–23.5% | 4% | 4% |  |
+| 23.5–24.5% | 0.7% | 0.9% |  |
 | 24.5–25.5% | 0.1% | 0.1% |  |
 | 25.5–26.5% | 0% | 0% |  |
 
@@ -801,6 +802,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18 | 16–19 | 16–20 | 15–20 | 15–21 |
+| [4–5 August 2021](2021-08-05-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [28 July–2 August 2021](2021-08-02-SWG.html) | SWG <br> La7 | 18 | 17–20 | 17–21 | 16–21 | 16–21 |
 | [28–29 July 2021](2021-07-29-TermometroPolitico.html) | Termometro Politico | 18 | 17–18 | 17–18 | 17–19 | 16–19 |
 | [27 July 2021](2021-07-27-Euromedia.html) | Euromedia <br> La Stampa | 16 | 15–18 | 15–19 | 15–20 | 14–20 |
@@ -1570,13 +1572,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
-| 14 | 0.3% | 100% |  |
-| 15 | 3% | 99.6% |  |
-| 16 | 18% | 97% |  |
-| 17 | 24% | 79% |  |
-| 18 | 36% | 55% | Median |
-| 19 | 13% | 19% |  |
-| 20 | 4% | 6% |  |
+| 14 | 0.4% | 100% |  |
+| 15 | 4% | 99.6% |  |
+| 16 | 20% | 96% |  |
+| 17 | 22% | 76% |  |
+| 18 | 33% | 54% | Median |
+| 19 | 15% | 21% |  |
+| 20 | 5% | 7% |  |
 | 21 | 2% | 2% |  |
 | 22 | 0.1% | 0.1% |  |
 | 23 | 0% | 0% |  |
