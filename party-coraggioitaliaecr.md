@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.2% | 0.8–1.6% | 0.8–1.8% | 0.7–1.9% | 0.6–2.2% |
+| [15 August 2021](2021-08-15-Lab2101.html) | Lab2101 <br> Affari Italiani | 0.0% | N/A | N/A | N/A | N/A |
 | [4–5 August 2021](2021-08-05-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
 | [2–3 August 2021](2021-08-03-Demopolis.html) | Demopolis | 0.0% | N/A | N/A | N/A | N/A |
 | [28 July–2 August 2021](2021-08-02-SWG.html) | SWG <br> La7 | 1.1% | 0.8–1.6% | 0.7–1.7% | 0.6–1.8% | 0.5–2.1% |
@@ -787,6 +788,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [15 August 2021](2021-08-15-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
 | [4–5 August 2021](2021-08-05-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [2–3 August 2021](2021-08-03-Demopolis.html) | Demopolis |  |  |  |  |  |
 | [28 July–2 August 2021](2021-08-02-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |

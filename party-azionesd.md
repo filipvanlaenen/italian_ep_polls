@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.0% | 2.3–4.0% | 2.1–4.3% | 1.9–4.6% | 1.7–5.1% |
+| N/A | [Poll Average](average.html) | 3.1% | 2.4–4.1% | 2.2–4.4% | 2.0–4.7% | 1.7–5.2% |
+| [15 August 2021](2021-08-15-Lab2101.html) | Lab2101 <br> Affari Italiani | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
 | [4–5 August 2021](2021-08-05-TermometroPolitico.html) | Termometro Politico | 2.8% | 2.5–3.2% | 2.4–3.4% | 2.3–3.5% | 2.1–3.7% |
 | [2–3 August 2021](2021-08-03-Demopolis.html) | Demopolis | 2.6% | 2.1–3.3% | 1.9–3.5% | 1.8–3.7% | 1.6–4.0% |
 | [28 July–2 August 2021](2021-08-02-SWG.html) | SWG <br> La7 | 3.9% | 3.3–4.7% | 3.1–5.0% | 3.0–5.2% | 2.7–5.6% |
@@ -772,10 +773,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.2% | 100% |  |
-| 1.5–2.5% | 21% | 99.8% |  |
-| 2.5–3.5% | 56% | 79% | Median |
-| 3.5–4.5% | 21% | 24% |  |
+| 0.5–1.5% | 0.1% | 100% |  |
+| 1.5–2.5% | 15% | 99.9% |  |
+| 2.5–3.5% | 56% | 85% | Median |
+| 3.5–4.5% | 25% | 29% |  |
 | 4.5–5.5% | 3% | 3% |  |
 | 5.5–6.5% | 0.1% | 0.1% |  |
 | 6.5–7.5% | 0% | 0% |  |
@@ -789,7 +790,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0–4 | 0–4 | 0–4 |
+| N/A | [Poll Average](average.html) | 0 | 0–3 | 0–4 | 0–4 | 0–5 |
+| [15 August 2021](2021-08-15-Lab2101.html) | Lab2101 <br> Affari Italiani | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [4–5 August 2021](2021-08-05-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [2–3 August 2021](2021-08-03-Demopolis.html) | Demopolis | 0 | 0 | 0 | 0 | 0 |
 | [28 July–2 August 2021](2021-08-02-SWG.html) | SWG <br> La7 | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
@@ -1552,12 +1554,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 92% | 100% | Last Result, Median |
-| 1 | 0% | 8% |  |
-| 2 | 0% | 8% |  |
-| 3 | 1.1% | 8% |  |
-| 4 | 7% | 7% |  |
-| 5 | 0.4% | 0.4% |  |
+| 0 | 89% | 100% | Last Result, Median |
+| 1 | 0% | 11% |  |
+| 2 | 0% | 11% |  |
+| 3 | 2% | 11% |  |
+| 4 | 9% | 9% |  |
+| 5 | 0.5% | 0.5% |  |
 | 6 | 0% | 0% |  |
 
 
