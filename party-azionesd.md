@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.2% | 2.5–4.2% | 2.3–4.4% | 2.1–4.7% | 1.8–5.1% |
+| N/A | [Poll Average](average.html) | 3.4% | 2.8–4.2% | 2.6–4.5% | 2.5–4.7% | 2.2–5.2% |
+| [3 September 2021](2021-09-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
+| [1–2 September 2021](2021-09-02-TermometroPolitico.html) | Termometro Politico | 3.0% | 2.6–3.6% | 2.5–3.7% | 2.3–3.7% | 2.2–4.0% |
+| [1–2 September 2021](2021-09-02-DemosPi.html) | Demos & Pi <br> La Repubblica | 2.5% | N/A | N/A | N/A | N/A |
 | [25–30 August 2021](2021-08-30-SWG.html) | SWG <br> La7 | 3.7% | 3.0–4.5% | 2.9–4.7% | 2.7–4.9% | 2.5–5.3% |
 | [15 August 2021](2021-08-15-Lab2101.html) | Lab2101 <br> Affari Italiani | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
 | [4–5 August 2021](2021-08-05-TermometroPolitico.html) | Termometro Politico | 2.8% | 2.5–3.2% | 2.4–3.4% | 2.3–3.5% | 2.1–3.7% |
@@ -774,11 +777,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.1% | 100% |  |
-| 1.5–2.5% | 13% | 99.9% |  |
-| 2.5–3.5% | 55% | 87% | Median |
-| 3.5–4.5% | 29% | 32% |  |
-| 4.5–5.5% | 3% | 4% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 4% | 100% |  |
+| 2.5–3.5% | 57% | 96% | Median |
+| 3.5–4.5% | 35% | 39% |  |
+| 4.5–5.5% | 4% | 4% |  |
 | 5.5–6.5% | 0.1% | 0.1% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
@@ -791,7 +794,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [3 September 2021](2021-09-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0–3 | 0–4 |
+| [1–2 September 2021](2021-09-02-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [1–2 September 2021](2021-09-02-DemosPi.html) | Demos & Pi <br> La Repubblica |  |  |  |  |  |
 | [25–30 August 2021](2021-08-30-SWG.html) | SWG <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [15 August 2021](2021-08-15-Lab2101.html) | Lab2101 <br> Affari Italiani | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [4–5 August 2021](2021-08-05-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
@@ -1556,12 +1562,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 89% | 100% | Last Result, Median |
-| 1 | 0% | 11% |  |
-| 2 | 0% | 11% |  |
-| 3 | 2% | 11% |  |
-| 4 | 9% | 9% |  |
-| 5 | 0.2% | 0.2% |  |
+| 0 | 85% | 100% | Last Result, Median |
+| 1 | 0% | 15% |  |
+| 2 | 0% | 15% |  |
+| 3 | 2% | 15% |  |
+| 4 | 12% | 13% |  |
+| 5 | 0.4% | 0.4% |  |
 | 6 | 0% | 0% |  |
 
 
