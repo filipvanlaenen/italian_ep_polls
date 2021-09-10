@@ -10,10 +10,10 @@ Last result: **3.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.6% | 18.6–22.2% | 18.0–22.6% | 17.6–23.0% | 16.7–23.9% |
+| N/A | [Poll Average](average.html) | 20.7% | 18.7–22.2% | 18.2–22.7% | 17.7–23.1% | 16.8–24.0% |
 | [3 September 2021](2021-09-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 21.0% | 19.4–22.7% | 19.0–23.2% | 18.6–23.6% | 17.8–24.5% |
-| [1–2 September 2021](2021-09-02-TermometroPolitico.html) | Termometro Politico | 21.2% | 20.2–22.2% | 19.9–22.5% | 19.8–22.8% | 19.2–23.3% |
-| [1–2 September 2021](2021-09-02-DemosPi.html) | Demos & Pi <br> La Repubblica | 20.8% | N/A | N/A | N/A | N/A |
+| [1–2 September 2021](2021-09-02-TermometroPolitico.html) | Termometro Politico | 21.2% | 20.3–22.2% | 20.0–22.5% | 19.8–22.7% | 19.3–23.2% |
+| [1–2 September 2021](2021-09-02-DemosPi.html) | Demos & Pi <br> La Repubblica | 20.8% | 19.2–22.5% | 18.8–23.0% | 18.4–23.4% | 17.7–24.2% |
 | [25–30 August 2021](2021-08-30-SWG.html) | SWG <br> La7 | 20.6% | 19.1–22.1% | 18.7–22.6% | 18.4–23.0% | 17.7–23.7% |
 | [15 August 2021](2021-08-15-Lab2101.html) | Lab2101 <br> Affari Italiani | 19.1% | 17.6–20.8% | 17.1–21.2% | 16.8–21.7% | 16.1–22.5% |
 | [4–5 August 2021](2021-08-05-TermometroPolitico.html) | Termometro Politico | 20.9% | 20.0–21.9% | 19.7–22.1% | 19.5–22.4% | 19.1–22.8% |
@@ -788,15 +788,15 @@ The following table shows the probability mass function per percentage block of 
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0.4% | 100% |  |
-| 16.5–17.5% | 2% | 99.6% |  |
-| 17.5–18.5% | 7% | 98% |  |
-| 18.5–19.5% | 14% | 91% |  |
-| 19.5–20.5% | 24% | 76% |  |
-| 20.5–21.5% | 30% | 53% | Median |
-| 21.5–22.5% | 18% | 23% |  |
+| 15.5–16.5% | 0.3% | 100% |  |
+| 16.5–17.5% | 2% | 99.7% |  |
+| 17.5–18.5% | 6% | 98% |  |
+| 18.5–19.5% | 14% | 92% |  |
+| 19.5–20.5% | 24% | 78% |  |
+| 20.5–21.5% | 30% | 54% | Median |
+| 21.5–22.5% | 18% | 24% |  |
 | 22.5–23.5% | 5% | 6% |  |
-| 23.5–24.5% | 0.8% | 0.9% |  |
+| 23.5–24.5% | 1.0% | 1.2% |  |
 | 24.5–25.5% | 0.1% | 0.1% |  |
 | 25.5–26.5% | 0% | 0% |  |
 
@@ -809,10 +809,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 16–19 | 15–20 | 15–20 | 14–21 |
+| N/A | [Poll Average](average.html) | 18 | 16–19 | 16–20 | 15–20 | 14–21 |
 | [3 September 2021](2021-09-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 19 | 18–19 | 17–20 | 17–20 | 17–21 |
-| [1–2 September 2021](2021-09-02-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [1–2 September 2021](2021-09-02-DemosPi.html) | Demos & Pi <br> La Repubblica |  |  |  |  |  |
+| [1–2 September 2021](2021-09-02-TermometroPolitico.html) | Termometro Politico | 18 | 17–19 | 17–19 | 17–19 | 16–20 |
+| [1–2 September 2021](2021-09-02-DemosPi.html) | Demos & Pi <br> La Repubblica | 18 | 17–20 | 16–20 | 15–21 | 15–21 |
 | [25–30 August 2021](2021-08-30-SWG.html) | SWG <br> La7 | 19 | 18–20 | 17–20 | 17–21 | 16–21 |
 | [15 August 2021](2021-08-15-Lab2101.html) | Lab2101 <br> Affari Italiani | 17 | 15–18 | 15–19 | 14–19 | 14–20 |
 | [4–5 August 2021](2021-08-05-TermometroPolitico.html) | Termometro Politico | 18 | 17–18 | 17–19 | 17–19 | 16–20 |
@@ -1590,16 +1590,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 0.1% | 100% |  |
-| 14 | 1.0% | 99.9% |  |
-| 15 | 4% | 98.9% |  |
-| 16 | 11% | 95% |  |
-| 17 | 11% | 83% |  |
-| 18 | 24% | 72% | Median |
-| 19 | 42% | 48% |  |
-| 20 | 5% | 6% |  |
+| 13 | 0% | 100% |  |
+| 14 | 0.6% | 100% |  |
+| 15 | 3% | 99.3% |  |
+| 16 | 8% | 96% |  |
+| 17 | 25% | 88% |  |
+| 18 | 27% | 64% | Median |
+| 19 | 30% | 36% |  |
+| 20 | 5% | 7% |  |
 | 21 | 2% | 2% |  |
-| 22 | 0.2% | 0.2% |  |
+| 22 | 0.1% | 0.1% |  |
 | 23 | 0% | 0% |  |
 
 
