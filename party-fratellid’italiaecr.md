@@ -810,9 +810,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18 | 16–19 | 16–20 | 15–20 | 14–21 |
-| [3 September 2021](2021-09-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 19 | 18–19 | 17–20 | 17–20 | 17–21 |
-| [1–2 September 2021](2021-09-02-TermometroPolitico.html) | Termometro Politico | 18 | 17–19 | 17–19 | 17–19 | 16–20 |
-| [1–2 September 2021](2021-09-02-DemosPi.html) | Demos & Pi <br> La Repubblica | 18 | 17–20 | 16–20 | 15–21 | 15–21 |
+| [3 September 2021](2021-09-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 19 | 17–20 | 17–20 | 16–21 | 16–21 |
+| [1–2 September 2021](2021-09-02-TermometroPolitico.html) | Termometro Politico | 18 | 17–19 | 17–20 | 17–20 | 16–20 |
+| [1–2 September 2021](2021-09-02-DemosPi.html) | Demos & Pi <br> La Repubblica | 18 | 17–19 | 16–20 | 16–20 | 15–21 |
 | [25–30 August 2021](2021-08-30-SWG.html) | SWG <br> La7 | 19 | 18–20 | 17–20 | 17–21 | 16–21 |
 | [15 August 2021](2021-08-15-Lab2101.html) | Lab2101 <br> Affari Italiani | 17 | 15–18 | 15–19 | 14–19 | 14–20 |
 | [4–5 August 2021](2021-08-05-TermometroPolitico.html) | Termometro Politico | 18 | 17–18 | 17–19 | 17–19 | 16–20 |
@@ -1592,14 +1592,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0.6% | 100% |  |
-| 15 | 3% | 99.3% |  |
-| 16 | 8% | 96% |  |
-| 17 | 25% | 88% |  |
-| 18 | 27% | 64% | Median |
-| 19 | 30% | 36% |  |
-| 20 | 5% | 7% |  |
-| 21 | 2% | 2% |  |
-| 22 | 0.1% | 0.1% |  |
+| 15 | 3% | 99.4% |  |
+| 16 | 9% | 97% |  |
+| 17 | 17% | 88% |  |
+| 18 | 28% | 71% | Median |
+| 19 | 34% | 42% |  |
+| 20 | 7% | 8% |  |
+| 21 | 1.5% | 2% |  |
+| 22 | 0.2% | 0.2% |  |
 | 23 | 0% | 0% |  |
 
 

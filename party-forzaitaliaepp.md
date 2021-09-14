@@ -801,8 +801,8 @@ Last result: **13** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 6–8 | 5–8 | 5–8 | 5–8 |
-| [3 September 2021](2021-09-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
-| [1–2 September 2021](2021-09-02-TermometroPolitico.html) | Termometro Politico | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
+| [3 September 2021](2021-09-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
+| [1–2 September 2021](2021-09-02-TermometroPolitico.html) | Termometro Politico | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [1–2 September 2021](2021-09-02-DemosPi.html) | Demos & Pi <br> La Repubblica | 6 | 6–8 | 6–8 | 5–8 | 5–9 |
 | [25–30 August 2021](2021-08-30-SWG.html) | SWG <br> La7 | 7 | 6–8 | 5–8 | 5–8 | 5–8 |
 | [15 August 2021](2021-08-15-Lab2101.html) | Lab2101 <br> Affari Italiani | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
@@ -1569,12 +1569,12 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.2% | 100% |  |
-| 5 | 8% | 99.8% |  |
-| 6 | 48% | 91% | Median |
-| 7 | 31% | 43% |  |
-| 8 | 12% | 13% |  |
-| 9 | 0.3% | 0.3% |  |
-| 10 | 0% | 0% |  |
+| 5 | 10% | 99.8% |  |
+| 6 | 45% | 90% | Median |
+| 7 | 29% | 45% |  |
+| 8 | 15% | 16% |  |
+| 9 | 0.4% | 0.4% |  |
+| 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |
 | 13 | 0% | 0% | Last Result |
