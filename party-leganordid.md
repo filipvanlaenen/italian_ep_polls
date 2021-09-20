@@ -816,11 +816,11 @@ Last result: **5** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 17 | 16–19 | 16–20 | 15–20 | 14–22 |
 | [8–13 September 2021](2021-09-13-SWG.html) | SWG <br> La7 | 19 | 18–19 | 17–19 | 17–20 | 17–20 |
 | [8–9 September 2021](2021-09-09-TermometroPolitico.html) | Termometro Politico | 17 | 17–18 | 17–18 | 16–19 | 16–19 |
-| [7–9 September 2021](2021-09-09-Ipsos.html) | Ipsos <br> Corriere della Sera | 17 | 16–18 | 15–19 | 15–20 | 15–20 |
-| [1–6 September 2021](2021-09-06-SWG.html) | SWG <br> La7 | 18 | 18 | 18–19 | 17–20 | 16–20 |
+| [7–9 September 2021](2021-09-09-Ipsos.html) | Ipsos <br> Corriere della Sera | 18 | 16–19 | 16–19 | 15–19 | 15–20 |
+| [1–6 September 2021](2021-09-06-SWG.html) | SWG <br> La7 | 18 | 16–19 | 16–19 | 16–20 | 16–21 |
 | [3 September 2021](2021-09-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 18 | 16–19 | 16–19 | 15–19 | 14–20 |
 | [1–2 September 2021](2021-09-02-TermometroPolitico.html) | Termometro Politico | 18 | 17–19 | 17–19 | 16–19 | 16–20 |
-| [2 September 2021](2021-09-02-Euromedia.html) | Euromedia | 16 | 15–18 | 14–18 | 14–19 | 14–20 |
+| [2 September 2021](2021-09-02-Euromedia.html) | Euromedia | 16 | 15–18 | 15–19 | 14–19 | 14–20 |
 | [1–2 September 2021](2021-09-02-DemosPi.html) | Demos & Pi <br> La Repubblica | 17 | 16–18 | 15–19 | 15–19 | 14–20 |
 | [25–30 August 2021](2021-08-30-SWG.html) | SWG <br> La7 | 18 | 17–19 | 15–20 | 15–20 | 15–20 |
 | [15 August 2021](2021-08-15-Lab2101.html) | Lab2101 <br> Affari Italiani | 19 | 17–20 | 17–21 | 17–22 | 16–23 |
@@ -1595,14 +1595,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
-| 14 | 1.0% | 100% |  |
-| 15 | 4% | 99.0% |  |
-| 16 | 19% | 95% |  |
-| 17 | 28% | 76% | Median |
-| 18 | 21% | 48% |  |
-| 19 | 21% | 27% |  |
-| 20 | 5% | 6% |  |
-| 21 | 0.9% | 1.5% |  |
+| 14 | 0.6% | 99.9% |  |
+| 15 | 4% | 99.3% |  |
+| 16 | 13% | 95% |  |
+| 17 | 33% | 83% | Median |
+| 18 | 21% | 50% |  |
+| 19 | 23% | 29% |  |
+| 20 | 4% | 6% |  |
+| 21 | 0.9% | 2% |  |
 | 22 | 0.2% | 0.6% |  |
 | 23 | 0.3% | 0.3% |  |
 | 24 | 0% | 0% |  |

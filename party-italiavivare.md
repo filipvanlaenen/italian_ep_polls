@@ -802,7 +802,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [8–13 September 2021](2021-09-13-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [8–9 September 2021](2021-09-09-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [7–9 September 2021](2021-09-09-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
-| [1–6 September 2021](2021-09-06-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
+| [1–6 September 2021](2021-09-06-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0–4 |
 | [3 September 2021](2021-09-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
 | [1–2 September 2021](2021-09-02-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [2 September 2021](2021-09-02-Euromedia.html) | Euromedia | 0 | 0 | 0 | 0 | 0 |

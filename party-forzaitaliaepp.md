@@ -808,11 +808,11 @@ Last result: **13** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 6 | 6–8 | 5–8 | 5–8 | 5–8 |
 | [8–13 September 2021](2021-09-13-SWG.html) | SWG <br> La7 | 6 | 6–7 | 6–7 | 6–7 | 6–8 |
 | [8–9 September 2021](2021-09-09-TermometroPolitico.html) | Termometro Politico | 6 | 6 | 6–7 | 5–7 | 5–7 |
-| [7–9 September 2021](2021-09-09-Ipsos.html) | Ipsos <br> Corriere della Sera | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
-| [1–6 September 2021](2021-09-06-SWG.html) | SWG <br> La7 | 7 | 7 | 7 | 6–8 | 5–8 |
+| [7–9 September 2021](2021-09-09-Ipsos.html) | Ipsos <br> Corriere della Sera | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
+| [1–6 September 2021](2021-09-06-SWG.html) | SWG <br> La7 | 6 | 6–7 | 6–7 | 5–8 | 5–8 |
 | [3 September 2021](2021-09-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
 | [1–2 September 2021](2021-09-02-TermometroPolitico.html) | Termometro Politico | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
-| [2 September 2021](2021-09-02-Euromedia.html) | Euromedia | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
+| [2 September 2021](2021-09-02-Euromedia.html) | Euromedia | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
 | [1–2 September 2021](2021-09-02-DemosPi.html) | Demos & Pi <br> La Repubblica | 6 | 6–8 | 6–8 | 5–8 | 5–9 |
 | [25–30 August 2021](2021-08-30-SWG.html) | SWG <br> La7 | 7 | 6–8 | 5–8 | 5–8 | 5–8 |
 | [15 August 2021](2021-08-15-Lab2101.html) | Lab2101 <br> Affari Italiani | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
@@ -1578,12 +1578,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.1% | 100% |  |
-| 5 | 8% | 99.9% |  |
-| 6 | 48% | 92% | Median |
-| 7 | 30% | 44% |  |
-| 8 | 13% | 14% |  |
-| 9 | 0.4% | 0.5% |  |
+| 4 | 0.2% | 100% |  |
+| 5 | 6% | 99.8% |  |
+| 6 | 54% | 93% | Median |
+| 7 | 29% | 40% |  |
+| 8 | 11% | 11% |  |
+| 9 | 0.4% | 0.4% |  |
 | 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |

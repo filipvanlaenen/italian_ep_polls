@@ -802,14 +802,14 @@ Last result: **17** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 13–16 | 12–16 | 12–16 | 12–17 |
+| N/A | [Poll Average](average.html) | 14 | 13–15 | 13–16 | 12–16 | 12–17 |
 | [8–13 September 2021](2021-09-13-SWG.html) | SWG <br> La7 | 14 | 14 | 14 | 13–14 | 13–17 |
 | [8–9 September 2021](2021-09-09-TermometroPolitico.html) | Termometro Politico | 14 | 13–14 | 13–14 | 13–15 | 12–15 |
-| [7–9 September 2021](2021-09-09-Ipsos.html) | Ipsos <br> Corriere della Sera | 14 | 13–16 | 13–16 | 13–17 | 12–17 |
-| [1–6 September 2021](2021-09-06-SWG.html) | SWG <br> La7 | 15 | 15 | 14–16 | 14–16 | 13–17 |
+| [7–9 September 2021](2021-09-09-Ipsos.html) | Ipsos <br> Corriere della Sera | 14 | 14–15 | 13–16 | 13–16 | 12–17 |
+| [1–6 September 2021](2021-09-06-SWG.html) | SWG <br> La7 | 14 | 13–16 | 13–16 | 12–16 | 12–17 |
 | [3 September 2021](2021-09-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 14 | 13–16 | 13–16 | 13–17 | 12–17 |
 | [1–2 September 2021](2021-09-02-TermometroPolitico.html) | Termometro Politico | 13 | 13–14 | 12–14 | 12–15 | 12–15 |
-| [2 September 2021](2021-09-02-Euromedia.html) | Euromedia | 14 | 12–16 | 12–16 | 12–16 | 12–16 |
+| [2 September 2021](2021-09-02-Euromedia.html) | Euromedia | 14 | 13–15 | 12–16 | 12–17 | 11–17 |
 | [1–2 September 2021](2021-09-02-DemosPi.html) | Demos & Pi <br> La Repubblica | 15 | 13–16 | 13–16 | 12–16 | 12–17 |
 | [25–30 August 2021](2021-08-30-SWG.html) | SWG <br> La7 | 14 | 13–16 | 13–16 | 13–17 | 12–17 |
 | [15 August 2021](2021-08-15-Lab2101.html) | Lab2101 <br> Affari Italiani | 14 | 13–16 | 12–16 | 12–16 | 11–17 |
@@ -1576,12 +1576,12 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 0.2% | 100% |  |
-| 12 | 5% | 99.8% |  |
-| 13 | 19% | 94% |  |
-| 14 | 45% | 75% | Median |
-| 15 | 19% | 31% |  |
-| 16 | 11% | 12% |  |
-| 17 | 1.5% | 2% | Last Result |
+| 12 | 3% | 99.8% |  |
+| 13 | 18% | 97% |  |
+| 14 | 50% | 79% | Median |
+| 15 | 20% | 30% |  |
+| 16 | 7% | 9% |  |
+| 17 | 2% | 2% | Last Result |
 | 18 | 0.2% | 0.2% |  |
 | 19 | 0% | 0% |  |
 
