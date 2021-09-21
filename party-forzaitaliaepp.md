@@ -806,7 +806,7 @@ Last result: **13** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 6–8 | 5–8 | 5–8 | 5–8 |
-| [8–13 September 2021](2021-09-13-SWG.html) | SWG <br> La7 | 6 | 6–7 | 6–7 | 6–7 | 6–8 |
+| [8–13 September 2021](2021-09-13-SWG.html) | SWG <br> La7 | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
 | [8–9 September 2021](2021-09-09-TermometroPolitico.html) | Termometro Politico | 6 | 6 | 6–7 | 5–7 | 5–7 |
 | [7–9 September 2021](2021-09-09-Ipsos.html) | Ipsos <br> Corriere della Sera | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [1–6 September 2021](2021-09-06-SWG.html) | SWG <br> La7 | 6 | 6–7 | 6–7 | 5–8 | 5–8 |
@@ -1579,11 +1579,11 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.2% | 100% |  |
-| 5 | 6% | 99.8% |  |
-| 6 | 54% | 93% | Median |
-| 7 | 29% | 40% |  |
+| 5 | 7% | 99.8% |  |
+| 6 | 52% | 93% | Median |
+| 7 | 29% | 41% |  |
 | 8 | 11% | 11% |  |
-| 9 | 0.4% | 0.4% |  |
+| 9 | 0.4% | 0.5% |  |
 | 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |
