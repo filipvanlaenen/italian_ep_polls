@@ -10,10 +10,15 @@ Last result: **16.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.5% | 6.5–8.9% | 6.2–9.3% | 6.0–9.6% | 5.5–10.3% |
+| N/A | [Poll Average](average.html) | 7.5% | 6.5–8.9% | 6.3–9.3% | 6.1–9.6% | 5.7–10.4% |
+| [14–17 September 2021](2021-09-17-Ixè.html) | Ixè | 7.9% | 6.9–9.1% | 6.6–9.4% | 6.4–9.7% | 5.9–10.3% |
+| [14 September 2021](2021-09-14-Euromedia.html) | Euromedia <br> Rai 1 | 7.3% | 6.4–8.4% | 6.2–8.7% | 6.0–9.0% | 5.6–9.5% |
+| [14 September 2021](2021-09-14-EMG.html) | EMG | 7.0% | 6.2–7.9% | 6.0–8.1% | 5.8–8.4% | 5.4–8.8% |
 | [8–13 September 2021](2021-09-13-SWG.html) | SWG <br> La7 | 7.2% | 6.3–8.2% | 6.0–8.5% | 5.8–8.8% | 5.4–9.3% |
+| [11 September 2021](2021-09-11-Tecnè.html) | Tecnè <br> Agenzia Dire | 8.2% | 7.0–9.5% | 6.7–9.9% | 6.4–10.3% | 5.9–11.0% |
 | [8–9 September 2021](2021-09-09-TermometroPolitico.html) | Termometro Politico | 7.0% | 6.4–7.6% | 6.3–7.8% | 6.2–7.9% | 5.9–8.2% |
 | [7–9 September 2021](2021-09-09-Ipsos.html) | Ipsos <br> Corriere della Sera | 8.2% | 7.2–9.4% | 6.9–9.8% | 6.6–10.1% | 6.2–10.7% |
+| [9 September 2021](2021-09-09-EMG.html) | EMG <br> Rai 3 | 7.1% | 6.2–8.3% | 5.9–8.6% | 5.7–8.9% | 5.2–9.4% |
 | [1–6 September 2021](2021-09-06-SWG.html) | SWG <br> La7 | 6.8% | 5.9–7.8% | 5.7–8.1% | 5.5–8.3% | 5.1–8.8% |
 | [3 September 2021](2021-09-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 8.3% | 7.3–9.5% | 7.0–9.9% | 6.7–10.2% | 6.3–10.8% |
 | [1–2 September 2021](2021-09-02-TermometroPolitico.html) | Termometro Politico | 6.7% | 6.1–7.3% | 6.0–7.5% | 5.8–7.7% | 5.6–8.0% |
@@ -782,10 +787,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.6% | 100% |  |
-| 5.5–6.5% | 12% | 99.4% |  |
-| 6.5–7.5% | 40% | 88% | Median |
-| 7.5–8.5% | 32% | 48% |  |
+| 4.5–5.5% | 0.3% | 100% |  |
+| 5.5–6.5% | 10% | 99.7% |  |
+| 6.5–7.5% | 40% | 89% |  |
+| 7.5–8.5% | 33% | 49% | Median |
 | 8.5–9.5% | 13% | 16% |  |
 | 9.5–10.5% | 3% | 3% |  |
 | 10.5–11.5% | 0.3% | 0.3% |  |
@@ -805,10 +810,15 @@ Last result: **13** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 6–8 | 5–8 | 5–8 | 5–8 |
+| N/A | [Poll Average](average.html) | 6 | 6–8 | 6–8 | 5–8 | 5–9 |
+| [14–17 September 2021](2021-09-17-Ixè.html) | Ixè | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
+| [14 September 2021](2021-09-14-Euromedia.html) | Euromedia <br> Rai 1 | 7 | 5–7 | 5–7 | 5–8 | 4–8 |
+| [14 September 2021](2021-09-14-EMG.html) | EMG | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
 | [8–13 September 2021](2021-09-13-SWG.html) | SWG <br> La7 | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
+| [11 September 2021](2021-09-11-Tecnè.html) | Tecnè <br> Agenzia Dire | 8 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [8–9 September 2021](2021-09-09-TermometroPolitico.html) | Termometro Politico | 6 | 6 | 6–7 | 5–7 | 5–7 |
 | [7–9 September 2021](2021-09-09-Ipsos.html) | Ipsos <br> Corriere della Sera | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
+| [9 September 2021](2021-09-09-EMG.html) | EMG <br> Rai 3 | 7 | 6–7 | 5–7 | 5–7 | 5–8 |
 | [1–6 September 2021](2021-09-06-SWG.html) | SWG <br> La7 | 6 | 6–7 | 6–7 | 5–8 | 5–8 |
 | [3 September 2021](2021-09-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
 | [1–2 September 2021](2021-09-02-TermometroPolitico.html) | Termometro Politico | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
@@ -1579,12 +1589,12 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.2% | 100% |  |
-| 5 | 7% | 99.8% |  |
-| 6 | 52% | 93% | Median |
-| 7 | 29% | 41% |  |
-| 8 | 11% | 11% |  |
-| 9 | 0.4% | 0.5% |  |
-| 10 | 0.1% | 0.1% |  |
+| 5 | 4% | 99.8% |  |
+| 6 | 51% | 96% | Median |
+| 7 | 31% | 45% |  |
+| 8 | 13% | 15% |  |
+| 9 | 1.4% | 1.4% |  |
+| 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |
 | 13 | 0% | 0% | Last Result |
