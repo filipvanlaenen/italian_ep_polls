@@ -10,15 +10,17 @@ Last result: **21.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.6% | 15.1–18.4% | 14.7–19.0% | 14.4–19.4% | 13.7–20.4% |
+| N/A | [Poll Average](average.html) | 16.8% | 15.2–18.6% | 14.8–19.1% | 14.4–19.6% | 13.8–20.5% |
 | [14–17 September 2021](2021-09-17-Ixè.html) | Ixè | 18.0% | 16.5–19.6% | 16.1–20.1% | 15.7–20.5% | 15.0–21.3% |
+| [14–16 September 2021](2021-09-16-TermometroPolitico.html) | Termometro Politico | 16.0% | N/A | N/A | N/A | N/A |
 | [14 September 2021](2021-09-14-Euromedia.html) | Euromedia <br> Rai 1 | 17.1% | 15.7–18.6% | 15.3–19.0% | 15.0–19.4% | 14.4–20.1% |
 | [14 September 2021](2021-09-14-EMG.html) | EMG | 16.1% | 15.0–17.4% | 14.6–17.7% | 14.3–18.0% | 13.8–18.7% |
 | [8–13 September 2021](2021-09-13-SWG.html) | SWG <br> La7 | 15.8% | 14.5–17.3% | 14.2–17.7% | 13.9–18.0% | 13.3–18.7% |
-| [11 September 2021](2021-09-11-Tecnè.html) | Tecnè <br> Agenzia Dire | 16.3% | 14.7–18.1% | 14.3–18.6% | 13.9–19.1% | 13.2–19.9% |
+| [10 September 2021](2021-09-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 16.3% | N/A | N/A | N/A | N/A |
 | [8–9 September 2021](2021-09-09-TermometroPolitico.html) | Termometro Politico | 16.0% | 15.2–16.9% | 15.0–17.1% | 14.8–17.3% | 14.4–17.7% |
 | [7–9 September 2021](2021-09-09-Ipsos.html) | Ipsos <br> Corriere della Sera | 17.0% | 15.5–18.6% | 15.1–19.1% | 14.8–19.5% | 14.1–20.3% |
 | [9 September 2021](2021-09-09-EMG.html) | EMG <br> Rai 3 | 16.2% | 14.8–17.8% | 14.4–18.2% | 14.0–18.6% | 13.4–19.4% |
+| [7–8 September 2021](2021-09-08-EMG.html) | EMG <br> Rai 3 | 16.2% | N/A | N/A | N/A | N/A |
 | [1–6 September 2021](2021-09-06-SWG.html) | SWG <br> La7 | 15.8% | 14.5–17.2% | 14.1–17.6% | 13.8–17.9% | 13.2–18.6% |
 | [3 September 2021](2021-09-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 16.1% | 14.7–17.7% | 14.3–18.1% | 13.9–18.5% | 13.3–19.3% |
 | [1–2 September 2021](2021-09-02-TermometroPolitico.html) | Termometro Politico | 15.6% | 14.7–16.5% | 14.5–16.7% | 14.3–17.0% | 13.9–17.4% |
@@ -47,24 +49,24 @@ Last result: **21.2%** (General Election of 26 May 2019)
 | [8–9 July 2021](2021-07-09-Tecnè.html) | Tecnè <br> Agenzia Dire | 15.1% | 13.7–16.6% | 13.3–17.1% | 13.0–17.5% | 12.4–18.2% |
 | [7–8 July 2021](2021-07-08-TermometroPolitico.html) | Termometro Politico | 15.5% | 14.6–16.4% | 14.4–16.7% | 14.2–16.9% | 13.8–17.4% |
 | [30 June–5 July 2021](2021-07-05-SWG.html) | SWG <br> La7 | 14.6% | 13.3–16.0% | 13.0–16.4% | 12.7–16.7% | 12.1–17.4% |
-| [3 July 2021](2021-07-03-Euromedia.html) | Euromedia <br> La Stampa | 14.5% | 13.0–16.2% | 12.6–16.7% | 12.2–17.1% | 11.5–18.0% |
 | [2 July 2021](2021-07-02-Tecnè.html) | Tecnè <br> Agenzia Dire | 14.7% | 13.3–16.2% | 13.0–16.7% | 12.6–17.0% | 12.0–17.8% |
+| [1–2 July 2021](2021-07-02-Euromedia.html) | Euromedia <br> La Stampa | 14.5% | N/A | N/A | N/A | N/A |
 | [30 June–1 July 2021](2021-07-01-TermometroPolitico.html) | Termometro Politico | 15.4% | 14.6–16.3% | 14.4–16.5% | 14.2–16.7% | 13.8–17.1% |
 | [29 June–1 July 2021](2021-07-01-Ixè.html) | Ixè | 17.0% | 15.5–18.6% | 15.1–19.1% | 14.8–19.5% | 14.1–20.3% |
-| [30 June 2021](2021-06-30-Piepoli.html) | Piepoli <br> RaiNews24 | 16.6% | 14.6–18.9% | 14.1–19.6% | 13.6–20.1% | 12.7–21.3% |
 | [23–28 June 2021](2021-06-28-SWG.html) | SWG <br> La7 | 16.6% | 15.3–18.0% | 14.9–18.4% | 14.6–18.8% | 14.0–19.5% |
 | [25 June 2021](2021-06-25-Tecnè.html) | Tecnè <br> Agenzia Dire | 15.2% | 13.8–16.8% | 13.4–17.2% | 13.1–17.6% | 12.5–18.3% |
 | [24 June 2021](2021-06-24-TermometroPolitico.html) | Termometro Politico | 16.1% | 15.3–17.0% | 15.0–17.3% | 14.8–17.5% | 14.4–17.9% |
 | [22–24 June 2021](2021-06-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 16.5% | 15.1–18.1% | 14.7–18.5% | 14.3–18.9% | 13.7–19.7% |
 | [23–24 June 2021](2021-06-24-Demopolis.html) | Demopolis <br> La7 | 17.2% | 16.2–18.3% | 15.9–18.6% | 15.6–18.9% | 15.1–19.5% |
-| [22 June 2021](2021-06-22-EMG.html) | EMG <br> Rai 3 | 16.8% | 15.4–18.4% | 15.0–18.9% | 14.6–19.3% | 13.9–20.0% |
+| [22 June 2021](2021-06-22-Piepoli.html) | Piepoli <br> RaiNews24 | 16.5% | N/A | N/A | N/A | N/A |
 | [16–21 June 2021](2021-06-21-SWG.html) | SWG <br> La7 | 16.0% | 14.7–17.4% | 14.3–17.8% | 14.0–18.2% | 13.4–18.9% |
+| [21 June 2021](2021-06-21-EMG.html) | EMG <br> Rai 3 | 16.8% | N/A | N/A | N/A | N/A |
 | [18 June 2021](2021-06-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 15.6% | 14.2–17.2% | 13.8–17.6% | 13.5–18.0% | 12.8–18.8% |
 | [15–17 June 2021](2021-06-17-TermometroPolitico.html) | Termometro Politico | 15.8% | 15.0–16.7% | 14.7–16.9% | 14.5–17.2% | 14.1–17.6% |
 | [17 June 2021](2021-06-17-Tecnè.html) | Tecnè | 15.7% | 14.3–17.3% | 13.9–17.7% | 13.6–18.1% | 12.9–18.9% |
 | [15–17 June 2021](2021-06-17-Ixè.html) | Ixè | 17.6% | 16.1–19.2% | 15.7–19.7% | 15.4–20.1% | 14.7–20.9% |
+| [15–17 June 2021](2021-06-17-EMG.html) | EMG <br> Rai 3 | 17.0% | N/A | N/A | N/A | N/A |
 | [14–17 June 2021](2021-06-17-BiDiMedia.html) | BiDiMedia | 15.3% | 14.3–16.4% | 14.0–16.7% | 13.8–16.9% | 13.3–17.5% |
-| [15 June 2021](2021-06-15-EMG.html) | EMG <br> Rai 3 | 17.0% | 15.8–18.4% | 15.4–18.7% | 15.2–19.1% | 14.6–19.7% |
 | [9–14 June 2021](2021-06-14-SWG.html) | SWG <br> La7 | 16.2% | 14.9–17.6% | 14.5–18.0% | 14.2–18.4% | 13.6–19.1% |
 | [12–14 June 2021](2021-06-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 15.9% | 14.5–17.5% | 14.1–17.9% | 13.8–18.3% | 13.1–19.1% |
 | [14 June 2021](2021-06-14-Euromedia.html) | Euromedia <br> La Stampa | 16.2% | 14.8–17.8% | 14.4–18.2% | 14.0–18.6% | 13.4–19.4% |
@@ -91,6 +93,7 @@ Last result: **21.2%** (General Election of 26 May 2019)
 | [26–27 May 2021](2021-05-27-Tecnè.html) | Tecnè <br> Rete 4 | 16.8% | 15.4–18.4% | 15.0–18.9% | 14.6–19.3% | 13.9–20.0% |
 | [25–27 May 2021](2021-05-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 15.4% | 14.0–16.9% | 13.6–17.4% | 13.3–17.8% | 12.7–18.5% |
 | [26 May 2021](2021-05-26-Euromedia.html) | Euromedia <br> Rai 1 | 15.5% | 14.0–17.3% | 13.5–17.7% | 13.2–18.2% | 12.5–19.1% |
+| [25 May 2021](2021-05-25-Piepoli.html) | Piepoli <br> RaiNews24 | 17.1% | N/A | N/A | N/A | N/A |
 | [25 May 2021](2021-05-25-EMG.html) | EMG <br> Rai 3 | 17.6% | 16.4–18.9% | 16.1–19.3% | 15.8–19.6% | 15.3–20.2% |
 | [19–24 May 2021](2021-05-24-SWG.html) | SWG <br> La7 | 16.5% | 15.2–18.0% | 14.8–18.4% | 14.5–18.7% | 13.9–19.4% |
 | [21 May 2021](2021-05-21-Tecnè.html) | Tecnè <br> Agenzia Dire | 16.7% | 15.3–18.3% | 14.9–18.7% | 14.5–19.1% | 13.9–19.9% |
@@ -788,15 +791,16 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0.3% | 100% |  |
-| 13.5–14.5% | 3% | 99.6% |  |
-| 14.5–15.5% | 15% | 96% |  |
-| 15.5–16.5% | 31% | 81% |  |
-| 16.5–17.5% | 27% | 50% | Median |
-| 17.5–18.5% | 15% | 24% |  |
-| 18.5–19.5% | 6% | 8% |  |
-| 19.5–20.5% | 2% | 2% |  |
-| 20.5–21.5% | 0.3% | 0.4% | Last Result |
-| 21.5–22.5% | 0% | 0% |  |
+| 13.5–14.5% | 3% | 99.7% |  |
+| 14.5–15.5% | 13% | 97% |  |
+| 15.5–16.5% | 27% | 83% |  |
+| 16.5–17.5% | 28% | 57% | Median |
+| 17.5–18.5% | 18% | 29% |  |
+| 18.5–19.5% | 8% | 10% |  |
+| 19.5–20.5% | 2% | 3% |  |
+| 20.5–21.5% | 0.4% | 0.5% | Last Result |
+| 21.5–22.5% | 0% | 0.1% |  |
+| 22.5–23.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -807,15 +811,17 @@ Last result: **17** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 13–16 | 13–17 | 13–17 | 12–18 |
+| N/A | [Poll Average](average.html) | 15 | 14–17 | 13–17 | 13–17 | 12–18 |
 | [14–17 September 2021](2021-09-17-Ixè.html) | Ixè | 16 | 14–17 | 14–17 | 14–17 | 13–19 |
-| [14 September 2021](2021-09-14-Euromedia.html) | Euromedia <br> Rai 1 | 16 | 14–17 | 13–17 | 13–17 | 12–18 |
-| [14 September 2021](2021-09-14-EMG.html) | EMG | 15 | 14–15 | 14–17 | 14–17 | 13–17 |
+| [14–16 September 2021](2021-09-16-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [14 September 2021](2021-09-14-Euromedia.html) | Euromedia <br> Rai 1 | 15 | 14–16 | 13–16 | 13–17 | 12–18 |
+| [14 September 2021](2021-09-14-EMG.html) | EMG | 15 | 14–16 | 13–17 | 13–17 | 13–17 |
 | [8–13 September 2021](2021-09-13-SWG.html) | SWG <br> La7 | 14 | 14–15 | 13–16 | 12–16 | 12–17 |
-| [11 September 2021](2021-09-11-Tecnè.html) | Tecnè <br> Agenzia Dire | 14 | 13–15 | 13–16 | 12–16 | 12–16 |
-| [8–9 September 2021](2021-09-09-TermometroPolitico.html) | Termometro Politico | 14 | 13–14 | 13–14 | 13–15 | 12–15 |
+| [10 September 2021](2021-09-10-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [8–9 September 2021](2021-09-09-TermometroPolitico.html) | Termometro Politico | 14 | 13–14 | 13–15 | 13–15 | 12–15 |
 | [7–9 September 2021](2021-09-09-Ipsos.html) | Ipsos <br> Corriere della Sera | 14 | 14–15 | 13–16 | 13–16 | 12–17 |
-| [9 September 2021](2021-09-09-EMG.html) | EMG <br> Rai 3 | 14 | 13–17 | 13–18 | 13–18 | 12–18 |
+| [9 September 2021](2021-09-09-EMG.html) | EMG <br> Rai 3 | 14 | 13–15 | 12–16 | 12–17 | 12–18 |
+| [7–8 September 2021](2021-09-08-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [1–6 September 2021](2021-09-06-SWG.html) | SWG <br> La7 | 14 | 13–16 | 13–16 | 12–16 | 12–17 |
 | [3 September 2021](2021-09-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 14 | 13–16 | 13–16 | 13–17 | 12–17 |
 | [1–2 September 2021](2021-09-02-TermometroPolitico.html) | Termometro Politico | 13 | 13–14 | 12–14 | 12–15 | 12–15 |
@@ -844,24 +850,24 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [8–9 July 2021](2021-07-09-Tecnè.html) | Tecnè <br> Agenzia Dire | 14 | 13–15 | 12–15 | 12–15 | 11–16 |
 | [7–8 July 2021](2021-07-08-TermometroPolitico.html) | Termometro Politico | 14 | 13–14 | 13–15 | 12–15 | 12–15 |
 | [30 June–5 July 2021](2021-07-05-SWG.html) | SWG <br> La7 | 13 | 13–14 | 12–15 | 12–15 | 11–16 |
-| [3 July 2021](2021-07-03-Euromedia.html) | Euromedia <br> La Stampa | 13 | 11–14 | 11–14 | 11–15 | 10–15 |
 | [2 July 2021](2021-07-02-Tecnè.html) | Tecnè <br> Agenzia Dire | 13 | 11–14 | 11–14 | 11–15 | 10–15 |
+| [1–2 July 2021](2021-07-02-Euromedia.html) | Euromedia <br> La Stampa |  |  |  |  |  |
 | [30 June–1 July 2021](2021-07-01-TermometroPolitico.html) | Termometro Politico | 13 | 13–14 | 12–14 | 12–14 | 12–15 |
 | [29 June–1 July 2021](2021-07-01-Ixè.html) | Ixè | 14 | 13–16 | 13–17 | 12–17 | 12–18 |
-| [30 June 2021](2021-06-30-Piepoli.html) | Piepoli <br> RaiNews24 | 14 | 12–16 | 12–16 | 11–17 | 10–18 |
 | [23–28 June 2021](2021-06-28-SWG.html) | SWG <br> La7 | 15 | 14–16 | 13–16 | 13–16 | 12–17 |
 | [25 June 2021](2021-06-25-Tecnè.html) | Tecnè <br> Agenzia Dire | 13 | 12–14 | 12–15 | 11–15 | 11–16 |
 | [24 June 2021](2021-06-24-TermometroPolitico.html) | Termometro Politico | 14 | 13–15 | 13–15 | 13–15 | 12–15 |
 | [22–24 June 2021](2021-06-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 14 | 13–16 | 12–16 | 12–16 | 12–17 |
 | [23–24 June 2021](2021-06-24-Demopolis.html) | Demopolis <br> La7 | 15 | 14–16 | 14–17 | 14–17 | 13–17 |
-| [22 June 2021](2021-06-22-EMG.html) | EMG <br> Rai 3 | 15 | 14–17 | 14–17 | 13–17 | 12–18 |
+| [22 June 2021](2021-06-22-Piepoli.html) | Piepoli <br> RaiNews24 |  |  |  |  |  |
 | [16–21 June 2021](2021-06-21-SWG.html) | SWG <br> La7 | 15 | 13–16 | 13–16 | 12–16 | 12–17 |
+| [21 June 2021](2021-06-21-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [18 June 2021](2021-06-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 14 | 12–16 | 12–16 | 11–16 | 11–17 |
 | [15–17 June 2021](2021-06-17-TermometroPolitico.html) | Termometro Politico | 13 | 13–14 | 13–14 | 12–15 | 12–15 |
 | [17 June 2021](2021-06-17-Tecnè.html) | Tecnè | 14 | 12–15 | 12–15 | 12–16 | 11–17 |
 | [15–17 June 2021](2021-06-17-Ixè.html) | Ixè | 15 | 14–16 | 14–17 | 14–18 | 13–19 |
+| [15–17 June 2021](2021-06-17-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [14–17 June 2021](2021-06-17-BiDiMedia.html) | BiDiMedia | 13 | 12–14 | 12–14 | 12–14 | 11–15 |
-| [15 June 2021](2021-06-15-EMG.html) | EMG <br> Rai 3 | 16 | 14–17 | 14–18 | 14–18 | 13–18 |
 | [9–14 June 2021](2021-06-14-SWG.html) | SWG <br> La7 | 15 | 14–15 | 14–16 | 14–16 | 13–17 |
 | [12–14 June 2021](2021-06-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 13 | 12–15 | 12–16 | 12–16 | 11–16 |
 | [14 June 2021](2021-06-14-Euromedia.html) | Euromedia <br> La Stampa | 16 | 13–16 | 13–16 | 12–16 | 12–17 |
@@ -888,6 +894,7 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [26–27 May 2021](2021-05-27-Tecnè.html) | Tecnè <br> Rete 4 | 14 | 13–15 | 12–16 | 12–16 | 12–17 |
 | [25–27 May 2021](2021-05-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 14 | 12–15 | 12–15 | 12–15 | 11–16 |
 | [26 May 2021](2021-05-26-Euromedia.html) | Euromedia <br> Rai 1 | 14 | 12–16 | 12–16 | 12–16 | 10–16 |
+| [25 May 2021](2021-05-25-Piepoli.html) | Piepoli <br> RaiNews24 |  |  |  |  |  |
 | [25 May 2021](2021-05-25-EMG.html) | EMG <br> Rai 3 | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
 | [19–24 May 2021](2021-05-24-SWG.html) | SWG <br> La7 | 15 | 14–16 | 14–16 | 13–16 | 13–17 |
 | [21 May 2021](2021-05-21-Tecnè.html) | Tecnè <br> Agenzia Dire | 14 | 13–15 | 12–16 | 12–16 | 12–16 |
@@ -1585,15 +1592,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 0% | 100% |  |
-| 12 | 2% | 99.9% |  |
-| 13 | 11% | 98% |  |
-| 14 | 41% | 87% | Median |
-| 15 | 25% | 46% |  |
-| 16 | 13% | 21% |  |
-| 17 | 8% | 8% | Last Result |
-| 18 | 0.3% | 0.5% |  |
-| 19 | 0.2% | 0.2% |  |
+| 11 | 0.1% | 100% |  |
+| 12 | 1.3% | 99.9% |  |
+| 13 | 8% | 98.6% |  |
+| 14 | 39% | 91% |  |
+| 15 | 29% | 52% | Median |
+| 16 | 14% | 24% |  |
+| 17 | 9% | 10% | Last Result |
+| 18 | 0.5% | 0.6% |  |
+| 19 | 0.1% | 0.1% |  |
 | 20 | 0% | 0% |  |
 
 
