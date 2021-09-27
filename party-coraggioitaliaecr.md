@@ -60,12 +60,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [23–24 June 2021](2021-06-24-Demopolis.html) | Demopolis <br> La7 | 1.6% | 1.3–2.0% | 1.2–2.1% | 1.1–2.3% | 1.0–2.5% |
 | [22 June 2021](2021-06-22-Piepoli.html) | Piepoli <br> RaiNews24 | 0.0% | N/A | N/A | N/A | N/A |
 | [16–21 June 2021](2021-06-21-SWG.html) | SWG <br> La7 | 1.3% | 1.0–1.9% | 0.9–2.0% | 0.8–2.2% | 0.7–2.5% |
-| [21 June 2021](2021-06-21-EMG.html) | EMG <br> Rai 3 | 1.5% | N/A | N/A | N/A | N/A |
+| [21 June 2021](2021-06-21-EMG.html) | EMG <br> Rai 3 | 1.5% | 1.1–2.0% | 1.0–2.1% | 1.0–2.2% | 0.8–2.5% |
 | [18 June 2021](2021-06-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 1.1% | 0.8–1.7% | 0.7–1.8% | 0.6–2.0% | 0.5–2.3% |
 | [15–17 June 2021](2021-06-17-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
 | [17 June 2021](2021-06-17-Tecnè.html) | Tecnè | 1.1% | 0.8–1.7% | 0.7–1.8% | 0.6–2.0% | 0.5–2.3% |
 | [15–17 June 2021](2021-06-17-Ixè.html) | Ixè | 0.0% | N/A | N/A | N/A | N/A |
-| [15–17 June 2021](2021-06-17-EMG.html) | EMG <br> Rai 3 | 1.6% | N/A | N/A | N/A | N/A |
+| [15–17 June 2021](2021-06-17-EMG.html) | EMG <br> Rai 3 | 1.6% | 1.2–2.1% | 1.2–2.3% | 1.1–2.4% | 0.9–2.7% |
 | [14–17 June 2021](2021-06-17-BiDiMedia.html) | BiDiMedia | 1.3% | 1.0–1.7% | 0.9–1.8% | 0.9–1.9% | 0.8–2.1% |
 | [9–14 June 2021](2021-06-14-SWG.html) | SWG <br> La7 | 1.2% | 0.9–1.7% | 0.8–1.8% | 0.7–2.0% | 0.6–2.2% |
 | [12–14 June 2021](2021-06-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 0.0% | N/A | N/A | N/A | N/A |
@@ -93,7 +93,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [26–27 May 2021](2021-05-27-Tecnè.html) | Tecnè <br> Rete 4 | 0.0% | N/A | N/A | N/A | N/A |
 | [25–27 May 2021](2021-05-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.0% | N/A | N/A | N/A | N/A |
 | [26 May 2021](2021-05-26-Euromedia.html) | Euromedia <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
-| [25 May 2021](2021-05-25-Piepoli.html) | Piepoli <br> RaiNews24 | 6.8% | N/A | N/A | N/A | N/A |
+| [25 May 2021](2021-05-25-Piepoli.html) | Piepoli <br> RaiNews24 | 6.8% | 5.5–8.4% | 5.2–8.9% | 4.9–9.3% | 4.3–10.2% |
 | [25 May 2021](2021-05-25-EMG.html) | EMG <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
 | [19–24 May 2021](2021-05-24-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [21 May 2021](2021-05-21-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
@@ -854,12 +854,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [23–24 June 2021](2021-06-24-Demopolis.html) | Demopolis <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [22 June 2021](2021-06-22-Piepoli.html) | Piepoli <br> RaiNews24 |  |  |  |  |  |
 | [16–21 June 2021](2021-06-21-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
-| [21 June 2021](2021-06-21-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
+| [21 June 2021](2021-06-21-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [18 June 2021](2021-06-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
 | [15–17 June 2021](2021-06-17-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [17 June 2021](2021-06-17-Tecnè.html) | Tecnè | 0 | 0 | 0 | 0 | 0 |
 | [15–17 June 2021](2021-06-17-Ixè.html) | Ixè |  |  |  |  |  |
-| [15–17 June 2021](2021-06-17-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
+| [15–17 June 2021](2021-06-17-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [14–17 June 2021](2021-06-17-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
 | [9–14 June 2021](2021-06-14-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [12–14 June 2021](2021-06-14-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
@@ -887,7 +887,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [26–27 May 2021](2021-05-27-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
 | [25–27 May 2021](2021-05-27-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
 | [26 May 2021](2021-05-26-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
-| [25 May 2021](2021-05-25-Piepoli.html) | Piepoli <br> RaiNews24 |  |  |  |  |  |
+| [25 May 2021](2021-05-25-Piepoli.html) | Piepoli <br> RaiNews24 | 5 | 4–7 | 4–8 | 4–8 | 0–9 |
 | [25 May 2021](2021-05-25-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [19–24 May 2021](2021-05-24-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [21 May 2021](2021-05-21-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |

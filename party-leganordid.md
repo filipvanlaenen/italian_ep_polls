@@ -60,12 +60,12 @@ Last result: **6.2%** (General Election of 26 May 2019)
 | [23–24 June 2021](2021-06-24-Demopolis.html) | Demopolis <br> La7 | 21.0% | 19.9–22.2% | 19.5–22.6% | 19.3–22.8% | 18.7–23.4% |
 | [22 June 2021](2021-06-22-Piepoli.html) | Piepoli <br> RaiNews24 | 20.6% | 18.4–23.0% | 17.8–23.7% | 17.3–24.3% | 16.3–25.5% |
 | [16–21 June 2021](2021-06-21-SWG.html) | SWG <br> La7 | 20.6% | 19.1–22.1% | 18.7–22.6% | 18.4–23.0% | 17.7–23.7% |
-| [21 June 2021](2021-06-21-EMG.html) | EMG <br> Rai 3 | 20.8% | N/A | N/A | N/A | N/A |
+| [21 June 2021](2021-06-21-EMG.html) | EMG <br> Rai 3 | 20.8% | 19.5–22.2% | 19.2–22.6% | 18.8–23.0% | 18.2–23.6% |
 | [18 June 2021](2021-06-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 20.7% | 19.1–22.4% | 18.7–22.9% | 18.3–23.3% | 17.6–24.2% |
 | [15–17 June 2021](2021-06-17-TermometroPolitico.html) | Termometro Politico | 22.2% | 21.2–23.2% | 21.0–23.5% | 20.7–23.8% | 20.3–24.2% |
 | [17 June 2021](2021-06-17-Tecnè.html) | Tecnè | 20.7% | 19.1–22.4% | 18.7–22.9% | 18.3–23.3% | 17.6–24.2% |
 | [15–17 June 2021](2021-06-17-Ixè.html) | Ixè | 20.4% | 18.8–22.1% | 18.4–22.6% | 18.0–23.0% | 17.3–23.9% |
-| [15–17 June 2021](2021-06-17-EMG.html) | EMG <br> Rai 3 | 21.3% | N/A | N/A | N/A | N/A |
+| [15–17 June 2021](2021-06-17-EMG.html) | EMG <br> Rai 3 | 21.3% | 19.9–22.7% | 19.6–23.1% | 19.2–23.5% | 18.6–24.2% |
 | [14–17 June 2021](2021-06-17-BiDiMedia.html) | BiDiMedia | 20.1% | 19.0–21.3% | 18.7–21.6% | 18.4–21.9% | 17.9–22.5% |
 | [9–14 June 2021](2021-06-14-SWG.html) | SWG <br> La7 | 20.9% | 19.5–22.5% | 19.1–22.9% | 18.7–23.3% | 18.0–24.1% |
 | [12–14 June 2021](2021-06-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 22.4% | 20.8–24.2% | 20.3–24.7% | 19.9–25.1% | 19.2–26.0% |
@@ -93,7 +93,7 @@ Last result: **6.2%** (General Election of 26 May 2019)
 | [26–27 May 2021](2021-05-27-Tecnè.html) | Tecnè <br> Rete 4 | 21.0% | 19.4–22.7% | 19.0–23.2% | 18.6–23.6% | 17.8–24.5% |
 | [25–27 May 2021](2021-05-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 22.4% | 20.8–24.2% | 20.3–24.7% | 19.9–25.1% | 19.2–26.0% |
 | [26 May 2021](2021-05-26-Euromedia.html) | Euromedia <br> Rai 1 | 21.8% | 20.0–23.7% | 19.4–24.3% | 19.0–24.8% | 18.2–25.7% |
-| [25 May 2021](2021-05-25-Piepoli.html) | Piepoli <br> RaiNews24 | 21.1% | N/A | N/A | N/A | N/A |
+| [25 May 2021](2021-05-25-Piepoli.html) | Piepoli <br> RaiNews24 | 21.1% | 18.9–23.5% | 18.3–24.2% | 17.7–24.9% | 16.7–26.1% |
 | [25 May 2021](2021-05-25-EMG.html) | EMG <br> Rai 3 | 21.5% | 20.2–22.9% | 19.8–23.3% | 19.5–23.6% | 18.9–24.3% |
 | [19–24 May 2021](2021-05-24-SWG.html) | SWG <br> La7 | 21.3% | 19.9–22.9% | 19.5–23.4% | 19.1–23.7% | 18.4–24.5% |
 | [21 May 2021](2021-05-21-Tecnè.html) | Tecnè <br> Agenzia Dire | 21.1% | 19.5–22.8% | 19.1–23.3% | 18.7–23.7% | 17.9–24.6% |
@@ -829,7 +829,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [8–9 September 2021](2021-09-09-TermometroPolitico.html) | Termometro Politico | 18 | 17–18 | 16–19 | 16–19 | 16–19 |
 | [7–9 September 2021](2021-09-09-Ipsos.html) | Ipsos <br> Corriere della Sera | 18 | 16–19 | 16–19 | 15–19 | 15–20 |
 | [9 September 2021](2021-09-09-EMG.html) | EMG <br> Rai 3 | 18 | 16–19 | 16–19 | 15–20 | 15–21 |
-| [7–8 September 2021](2021-09-08-EMG.html) | EMG <br> Rai 3 | 18 | 16–20 | 16–20 | 16–20 | 15–20 |
+| [7–8 September 2021](2021-09-08-EMG.html) | EMG <br> Rai 3 | 18 | 16–19 | 16–20 | 16–20 | 15–20 |
 | [1–6 September 2021](2021-09-06-SWG.html) | SWG <br> La7 | 18 | 16–19 | 16–19 | 16–20 | 16–21 |
 | [3 September 2021](2021-09-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 18 | 16–19 | 16–19 | 15–19 | 14–20 |
 | [1–2 September 2021](2021-09-02-TermometroPolitico.html) | Termometro Politico | 18 | 17–19 | 17–19 | 16–19 | 16–20 |
@@ -867,14 +867,14 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [24 June 2021](2021-06-24-TermometroPolitico.html) | Termometro Politico | 19 | 18–19 | 18–20 | 18–20 | 17–21 |
 | [22–24 June 2021](2021-06-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 17 | 16–19 | 15–19 | 15–19 | 14–20 |
 | [23–24 June 2021](2021-06-24-Demopolis.html) | Demopolis <br> La7 | 18 | 17–19 | 17–20 | 17–20 | 16–20 |
-| [22 June 2021](2021-06-22-Piepoli.html) | Piepoli <br> RaiNews24 | 10 | 10 | 10 | 10 | 10 |
+| [22 June 2021](2021-06-22-Piepoli.html) | Piepoli <br> RaiNews24 | 18 | 15–20 | 15–20 | 15–21 | 14–21 |
 | [16–21 June 2021](2021-06-21-SWG.html) | SWG <br> La7 | 18 | 17–19 | 17–20 | 16–20 | 16–21 |
-| [21 June 2021](2021-06-21-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
+| [21 June 2021](2021-06-21-EMG.html) | EMG <br> Rai 3 | 18 | 18–20 | 18–20 | 18–20 | 18–22 |
 | [18 June 2021](2021-06-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 18 | 16–20 | 16–20 | 15–20 | 15–21 |
 | [15–17 June 2021](2021-06-17-TermometroPolitico.html) | Termometro Politico | 19 | 18–20 | 18–20 | 18–21 | 17–21 |
 | [17 June 2021](2021-06-17-Tecnè.html) | Tecnè | 19 | 16–20 | 16–20 | 16–21 | 15–21 |
 | [15–17 June 2021](2021-06-17-Ixè.html) | Ixè | 18 | 17–20 | 16–20 | 16–20 | 15–22 |
-| [15–17 June 2021](2021-06-17-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
+| [15–17 June 2021](2021-06-17-EMG.html) | EMG <br> Rai 3 | 19 | 18–21 | 17–21 | 17–21 | 17–21 |
 | [14–17 June 2021](2021-06-17-BiDiMedia.html) | BiDiMedia | 17 | 16–18 | 16–18 | 16–19 | 16–19 |
 | [9–14 June 2021](2021-06-14-SWG.html) | SWG <br> La7 | 19 | 18–20 | 18–20 | 17–20 | 17–21 |
 | [12–14 June 2021](2021-06-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 19 | 17–21 | 17–21 | 17–21 | 16–23 |
@@ -902,7 +902,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [26–27 May 2021](2021-05-27-Tecnè.html) | Tecnè <br> Rete 4 | 18 | 16–19 | 16–19 | 16–20 | 15–20 |
 | [25–27 May 2021](2021-05-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 20 | 18–21 | 18–22 | 18–22 | 17–23 |
 | [26 May 2021](2021-05-26-Euromedia.html) | Euromedia <br> Rai 1 | 18 | 17–20 | 17–21 | 16–22 | 15–22 |
-| [25 May 2021](2021-05-25-Piepoli.html) | Piepoli <br> RaiNews24 |  |  |  |  |  |
+| [25 May 2021](2021-05-25-Piepoli.html) | Piepoli <br> RaiNews24 | 18 | 16–20 | 15–21 | 15–21 | 14–23 |
 | [25 May 2021](2021-05-25-EMG.html) | EMG <br> Rai 3 | 19 | 18–20 | 17–20 | 17–20 | 16–22 |
 | [19–24 May 2021](2021-05-24-SWG.html) | SWG <br> La7 | 20 | 18–20 | 18–21 | 17–21 | 16–22 |
 | [21 May 2021](2021-05-21-Tecnè.html) | Tecnè <br> Agenzia Dire | 17 | 16–19 | 16–19 | 16–20 | 15–20 |
