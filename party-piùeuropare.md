@@ -888,7 +888,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [26–27 May 2021](2021-05-27-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
 | [25–27 May 2021](2021-05-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
 | [26 May 2021](2021-05-26-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
-| [25 May 2021](2021-05-25-Piepoli.html) | Piepoli <br> RaiNews24 | 0 | 0 | 0 | 0 | 0–4 |
+| [25 May 2021](2021-05-25-Piepoli.html) | Piepoli <br> RaiNews24 | 0 | 0 | 0 | 0 | 0–3 |
 | [25 May 2021](2021-05-25-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [19–24 May 2021](2021-05-24-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [21 May 2021](2021-05-21-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |

@@ -846,7 +846,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [7–8 July 2021](2021-07-08-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0–3 |
 | [30 June–5 July 2021](2021-07-05-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [2 July 2021](2021-07-02-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
-| [1–2 July 2021](2021-07-02-Euromedia.html) | Euromedia <br> La Stampa | 0 | 0 | 0 | 0 | 0–3 |
+| [1–2 July 2021](2021-07-02-Euromedia.html) | Euromedia <br> La Stampa | 0 | 0 | 0 | 0 | 0 |
 | [30 June–1 July 2021](2021-07-01-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [29 June–1 July 2021](2021-07-01-Ixè.html) | Ixè | 0 | 0 | 0 | 0 | 0 |
 | [23–28 June 2021](2021-06-28-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
@@ -856,7 +856,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [23–24 June 2021](2021-06-24-Demopolis.html) | Demopolis <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [22 June 2021](2021-06-22-Piepoli.html) | Piepoli <br> RaiNews24 | 0 | 0 | 0 | 0 | 0–3 |
 | [16–21 June 2021](2021-06-21-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
-| [21 June 2021](2021-06-21-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0–4 |
+| [21 June 2021](2021-06-21-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | [18 June 2021](2021-06-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
 | [15–17 June 2021](2021-06-17-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [17 June 2021](2021-06-17-Tecnè.html) | Tecnè | 0 | 0 | 0 | 0 | 0 |

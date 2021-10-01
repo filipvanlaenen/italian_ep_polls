@@ -866,7 +866,7 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [7–8 July 2021](2021-07-08-TermometroPolitico.html) | Termometro Politico | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
 | [30 June–5 July 2021](2021-07-05-SWG.html) | SWG <br> La7 | 16 | 15–17 | 14–19 | 14–20 | 14–20 |
 | [2 July 2021](2021-07-02-Tecnè.html) | Tecnè <br> Agenzia Dire | 15 | 15–17 | 14–18 | 14–18 | 13–19 |
-| [1–2 July 2021](2021-07-02-Euromedia.html) | Euromedia <br> La Stampa | 15 | 14–17 | 14–18 | 14–18 | 13–18 |
+| [1–2 July 2021](2021-07-02-Euromedia.html) | Euromedia <br> La Stampa | 17 | 15–18 | 14–18 | 14–18 | 13–19 |
 | [30 June–1 July 2021](2021-07-01-TermometroPolitico.html) | Termometro Politico | 16 | 15–17 | 15–17 | 15–17 | 14–17 |
 | [29 June–1 July 2021](2021-07-01-Ixè.html) | Ixè | 17 | 15–18 | 15–19 | 14–19 | 13–20 |
 | [23–28 June 2021](2021-06-28-SWG.html) | SWG <br> La7 | 16 | 15–17 | 14–17 | 14–17 | 13–18 |
@@ -876,12 +876,12 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [23–24 June 2021](2021-06-24-Demopolis.html) | Demopolis <br> La7 | 17 | 15–17 | 15–18 | 15–18 | 14–18 |
 | [22 June 2021](2021-06-22-Piepoli.html) | Piepoli <br> RaiNews24 | 15 | 13–17 | 13–18 | 12–18 | 12–19 |
 | [16–21 June 2021](2021-06-21-SWG.html) | SWG <br> La7 | 16 | 15–17 | 14–17 | 14–18 | 13–18 |
-| [21 June 2021](2021-06-21-EMG.html) | EMG <br> Rai 3 | 16 | 15–16 | 15–16 | 15–16 | 14–16 |
+| [21 June 2021](2021-06-21-EMG.html) | EMG <br> Rai 3 | 15 | 15–16 | 14–16 | 14–16 | 13–17 |
 | [18 June 2021](2021-06-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 16 | 14–17 | 13–18 | 13–19 | 12–19 |
 | [15–17 June 2021](2021-06-17-TermometroPolitico.html) | Termometro Politico | 16 | 15–17 | 15–17 | 15–17 | 14–18 |
 | [17 June 2021](2021-06-17-Tecnè.html) | Tecnè | 15 | 14–17 | 14–18 | 13–18 | 13–19 |
 | [15–17 June 2021](2021-06-17-Ixè.html) | Ixè | 17 | 16–18 | 15–18 | 15–19 | 14–20 |
-| [15–17 June 2021](2021-06-17-EMG.html) | EMG <br> Rai 3 | 15 | 14–16 | 14–16 | 14–16 | 12–16 |
+| [15–17 June 2021](2021-06-17-EMG.html) | EMG <br> Rai 3 | 14 | 13–16 | 13–16 | 13–17 | 12–18 |
 | [14–17 June 2021](2021-06-17-BiDiMedia.html) | BiDiMedia | 17 | 16–18 | 15–18 | 15–18 | 15–19 |
 | [9–14 June 2021](2021-06-14-SWG.html) | SWG <br> La7 | 17 | 15–17 | 15–17 | 15–17 | 14–18 |
 | [12–14 June 2021](2021-06-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 16 | 14–18 | 14–18 | 13–18 | 13–19 |
@@ -909,7 +909,7 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [26–27 May 2021](2021-05-27-Tecnè.html) | Tecnè <br> Rete 4 | 15 | 13–16 | 13–16 | 13–17 | 12–17 |
 | [25–27 May 2021](2021-05-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 16 | 14–17 | 14–18 | 14–19 | 13–19 |
 | [26 May 2021](2021-05-26-Euromedia.html) | Euromedia <br> Rai 1 | 15 | 13–17 | 12–17 | 12–18 | 12–18 |
-| [25 May 2021](2021-05-25-Piepoli.html) | Piepoli <br> RaiNews24 | 15 | 12–17 | 11–17 | 11–18 | 11–19 |
+| [25 May 2021](2021-05-25-Piepoli.html) | Piepoli <br> RaiNews24 | 14 | 12–17 | 12–17 | 11–18 | 11–19 |
 | [25 May 2021](2021-05-25-EMG.html) | EMG <br> Rai 3 | 14 | 13–15 | 13–15 | 13–16 | 12–17 |
 | [19–24 May 2021](2021-05-24-SWG.html) | SWG <br> La7 | 17 | 15–18 | 15–18 | 15–19 | 14–19 |
 | [21 May 2021](2021-05-21-Tecnè.html) | Tecnè <br> Agenzia Dire | 15 | 13–16 | 13–17 | 13–17 | 12–18 |

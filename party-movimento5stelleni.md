@@ -850,7 +850,7 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [7–8 July 2021](2021-07-08-TermometroPolitico.html) | Termometro Politico | 14 | 13–14 | 13–15 | 12–15 | 12–15 |
 | [30 June–5 July 2021](2021-07-05-SWG.html) | SWG <br> La7 | 13 | 13–14 | 12–15 | 12–15 | 11–16 |
 | [2 July 2021](2021-07-02-Tecnè.html) | Tecnè <br> Agenzia Dire | 13 | 11–14 | 11–14 | 11–15 | 10–15 |
-| [1–2 July 2021](2021-07-02-Euromedia.html) | Euromedia <br> La Stampa | 12 | 12–14 | 11–14 | 11–14 | 10–15 |
+| [1–2 July 2021](2021-07-02-Euromedia.html) | Euromedia <br> La Stampa | 12 | 12–13 | 11–14 | 11–14 | 10–15 |
 | [30 June–1 July 2021](2021-07-01-TermometroPolitico.html) | Termometro Politico | 13 | 13–14 | 12–14 | 12–14 | 12–15 |
 | [29 June–1 July 2021](2021-07-01-Ixè.html) | Ixè | 14 | 13–16 | 13–17 | 12–17 | 12–18 |
 | [23–28 June 2021](2021-06-28-SWG.html) | SWG <br> La7 | 15 | 14–16 | 13–16 | 13–16 | 12–17 |
@@ -858,14 +858,14 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [24 June 2021](2021-06-24-TermometroPolitico.html) | Termometro Politico | 14 | 13–15 | 13–15 | 13–15 | 12–15 |
 | [22–24 June 2021](2021-06-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 14 | 13–16 | 12–16 | 12–16 | 12–17 |
 | [23–24 June 2021](2021-06-24-Demopolis.html) | Demopolis <br> La7 | 15 | 14–16 | 14–17 | 14–17 | 13–17 |
-| [22 June 2021](2021-06-22-Piepoli.html) | Piepoli <br> RaiNews24 | 14 | 12–15 | 12–16 | 11–16 | 11–17 |
+| [22 June 2021](2021-06-22-Piepoli.html) | Piepoli <br> RaiNews24 | 14 | 12–15 | 12–16 | 11–16 | 10–17 |
 | [16–21 June 2021](2021-06-21-SWG.html) | SWG <br> La7 | 15 | 13–16 | 13–16 | 12–16 | 12–17 |
-| [21 June 2021](2021-06-21-EMG.html) | EMG <br> Rai 3 | 15 | 15 | 15 | 15 | 14–16 |
+| [21 June 2021](2021-06-21-EMG.html) | EMG <br> Rai 3 | 15 | 15–16 | 14–16 | 14–17 | 13–18 |
 | [18 June 2021](2021-06-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 14 | 12–16 | 12–16 | 11–16 | 11–17 |
 | [15–17 June 2021](2021-06-17-TermometroPolitico.html) | Termometro Politico | 13 | 13–14 | 13–14 | 12–15 | 12–15 |
 | [17 June 2021](2021-06-17-Tecnè.html) | Tecnè | 14 | 12–15 | 12–15 | 12–16 | 11–17 |
 | [15–17 June 2021](2021-06-17-Ixè.html) | Ixè | 15 | 14–16 | 14–17 | 14–18 | 13–19 |
-| [15–17 June 2021](2021-06-17-EMG.html) | EMG <br> Rai 3 | 16 | 14–17 | 14–17 | 13–17 | 13–17 |
+| [15–17 June 2021](2021-06-17-EMG.html) | EMG <br> Rai 3 | 16 | 14–17 | 14–18 | 14–18 | 13–18 |
 | [14–17 June 2021](2021-06-17-BiDiMedia.html) | BiDiMedia | 13 | 12–14 | 12–14 | 12–14 | 11–15 |
 | [9–14 June 2021](2021-06-14-SWG.html) | SWG <br> La7 | 15 | 14–15 | 14–16 | 14–16 | 13–17 |
 | [12–14 June 2021](2021-06-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 13 | 12–15 | 12–16 | 12–16 | 11–16 |
