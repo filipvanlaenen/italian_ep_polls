@@ -10,9 +10,10 @@ Last result: **21.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.6% | 15.1–18.4% | 14.8–18.9% | 14.4–19.4% | 13.8–20.4% |
+| N/A | [Poll Average](average.html) | 16.7% | 15.2–18.8% | 14.8–19.4% | 14.5–19.9% | 13.8–20.9% |
 | [14–17 September 2021](2021-09-17-Ixè.html) | Ixè | 18.0% | 16.5–19.6% | 16.1–20.1% | 15.7–20.5% | 15.0–21.3% |
 | [14–16 September 2021](2021-09-16-TermometroPolitico.html) | Termometro Politico | 16.0% | 15.2–16.9% | 15.0–17.1% | 14.8–17.3% | 14.4–17.7% |
+| [12–15 September 2021](2021-09-15-NotoSondaggi.html) | Noto Sondaggi | 18.5% | 17.0–20.2% | 16.6–20.6% | 16.2–21.0% | 15.5–21.8% |
 | [14 September 2021](2021-09-14-Euromedia.html) | Euromedia <br> Rai 1 | 17.1% | 15.7–18.6% | 15.3–19.0% | 15.0–19.4% | 14.4–20.1% |
 | [14 September 2021](2021-09-14-EMG.html) | EMG | 16.1% | 15.0–17.4% | 14.6–17.7% | 14.3–18.0% | 13.8–18.7% |
 | [8–13 September 2021](2021-09-13-SWG.html) | SWG <br> La7 | 15.8% | 14.5–17.3% | 14.2–17.7% | 13.9–18.0% | 13.3–18.7% |
@@ -790,16 +791,17 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 0.3% | 100% |  |
-| 13.5–14.5% | 3% | 99.7% |  |
-| 14.5–15.5% | 15% | 97% |  |
-| 15.5–16.5% | 31% | 82% |  |
-| 16.5–17.5% | 27% | 50% | Median |
-| 17.5–18.5% | 15% | 24% |  |
-| 18.5–19.5% | 6% | 8% |  |
-| 19.5–20.5% | 2% | 2% |  |
-| 20.5–21.5% | 0.3% | 0.4% | Last Result |
-| 21.5–22.5% | 0% | 0% |  |
+| 12.5–13.5% | 0.2% | 100% |  |
+| 13.5–14.5% | 3% | 99.8% |  |
+| 14.5–15.5% | 13% | 97% |  |
+| 15.5–16.5% | 28% | 84% |  |
+| 16.5–17.5% | 26% | 55% | Median |
+| 17.5–18.5% | 17% | 30% |  |
+| 18.5–19.5% | 9% | 13% |  |
+| 19.5–20.5% | 3% | 4% |  |
+| 20.5–21.5% | 0.8% | 0.9% | Last Result |
+| 21.5–22.5% | 0.1% | 0.1% |  |
+| 22.5–23.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -810,9 +812,10 @@ Last result: **17** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 13–16 | 13–17 | 13–17 | 12–17 |
+| N/A | [Poll Average](average.html) | 14 | 13–17 | 13–17 | 13–17 | 12–18 |
 | [14–17 September 2021](2021-09-17-Ixè.html) | Ixè | 16 | 14–17 | 14–17 | 14–17 | 13–19 |
 | [14–16 September 2021](2021-09-16-TermometroPolitico.html) | Termometro Politico | 14 | 13–14 | 13–15 | 13–15 | 12–15 |
+| [12–15 September 2021](2021-09-15-NotoSondaggi.html) | Noto Sondaggi | 16 | 14–18 | 14–18 | 14–19 | 13–19 |
 | [14 September 2021](2021-09-14-Euromedia.html) | Euromedia <br> Rai 1 | 15 | 14–16 | 13–16 | 13–17 | 12–18 |
 | [14 September 2021](2021-09-14-EMG.html) | EMG | 15 | 14–16 | 13–17 | 13–17 | 13–17 |
 | [8–13 September 2021](2021-09-13-SWG.html) | SWG <br> La7 | 14 | 14–15 | 13–16 | 12–16 | 12–17 |
@@ -1593,13 +1596,13 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 0.1% | 100% |  |
 | 12 | 2% | 99.9% |  |
-| 13 | 14% | 98% |  |
-| 14 | 40% | 84% | Median |
-| 15 | 25% | 44% |  |
-| 16 | 11% | 20% |  |
-| 17 | 8% | 8% | Last Result |
-| 18 | 0.4% | 0.5% |  |
-| 19 | 0.1% | 0.1% |  |
+| 13 | 13% | 98% |  |
+| 14 | 36% | 85% | Median |
+| 15 | 23% | 49% |  |
+| 16 | 15% | 26% |  |
+| 17 | 9% | 11% | Last Result |
+| 18 | 2% | 2% |  |
+| 19 | 0.4% | 0.5% |  |
 | 20 | 0% | 0% |  |
 
 
