@@ -10,7 +10,8 @@ Last result: **40.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.3% | 17.8–20.9% | 17.4–21.4% | 17.0–21.8% | 16.3–22.7% |
+| N/A | [Poll Average](average.html) | 19.5% | 17.9–21.3% | 17.4–21.9% | 17.0–22.4% | 16.3–23.3% |
+| [2–3 October 2021](2021-10-03-BiDiMedia.html) | BiDiMedia | 21.2% | 19.9–22.7% | 19.5–23.1% | 19.2–23.5% | 18.5–24.2% |
 | [14–17 September 2021](2021-09-17-Ixè.html) | Ixè | 19.4% | 17.9–21.1% | 17.4–21.6% | 17.1–22.0% | 16.4–22.8% |
 | [14–16 September 2021](2021-09-16-TermometroPolitico.html) | Termometro Politico | 19.5% | 18.6–20.4% | 18.4–20.7% | 18.2–20.9% | 17.7–21.4% |
 | [12–15 September 2021](2021-09-15-NotoSondaggi.html) | Noto Sondaggi | 19.6% | 18.1–21.3% | 17.6–21.8% | 17.3–22.2% | 16.5–23.0% |
@@ -790,16 +791,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 14.5–15.5% | 0.1% | 100% |  |
-| 15.5–16.5% | 0.9% | 99.9% |  |
-| 16.5–17.5% | 6% | 99.1% |  |
-| 17.5–18.5% | 19% | 93% |  |
-| 18.5–19.5% | 32% | 74% | Median |
-| 19.5–20.5% | 26% | 42% |  |
-| 20.5–21.5% | 12% | 16% |  |
-| 21.5–22.5% | 3% | 4% |  |
-| 22.5–23.5% | 0.6% | 0.7% |  |
-| 23.5–24.5% | 0.1% | 0.1% |  |
+| 14.5–15.5% | 0% | 100% |  |
+| 15.5–16.5% | 0.8% | 100% |  |
+| 16.5–17.5% | 5% | 99.2% |  |
+| 17.5–18.5% | 17% | 94% |  |
+| 18.5–19.5% | 29% | 77% | Median |
+| 19.5–20.5% | 26% | 48% |  |
+| 20.5–21.5% | 14% | 22% |  |
+| 21.5–22.5% | 6% | 8% |  |
+| 22.5–23.5% | 2% | 2% |  |
+| 23.5–24.5% | 0.3% | 0.3% |  |
 | 24.5–25.5% | 0% | 0% |  |
 | 25.5–26.5% | 0% | 0% |  |
 | 26.5–27.5% | 0% | 0% |  |
@@ -827,10 +828,11 @@ Last result: **31** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 14–17 | 14–17 | 14–18 | 13–19 |
+| N/A | [Poll Average](average.html) | 16 | 15–17 | 14–18 | 14–19 | 13–19 |
+| [2–3 October 2021](2021-10-03-BiDiMedia.html) | BiDiMedia | 17 | 16–19 | 15–19 | 15–19 | 15–19 |
 | [14–17 September 2021](2021-09-17-Ixè.html) | Ixè | 16 | 14–17 | 14–18 | 14–18 | 13–19 |
 | [14–16 September 2021](2021-09-16-TermometroPolitico.html) | Termometro Politico | 16 | 15–17 | 15–17 | 14–17 | 14–17 |
-| [12–15 September 2021](2021-09-15-NotoSondaggi.html) | Noto Sondaggi | 16 | 14–17 | 14–18 | 13–19 | 13–19 |
+| [12–15 September 2021](2021-09-15-NotoSondaggi.html) | Noto Sondaggi | 17 | 15–18 | 14–18 | 14–18 | 13–19 |
 | [14 September 2021](2021-09-14-Euromedia.html) | Euromedia <br> Rai 1 | 15 | 14–17 | 14–18 | 14–18 | 13–18 |
 | [14 September 2021](2021-09-14-EMG.html) | EMG | 16 | 14–17 | 14–17 | 14–18 | 13–19 |
 | [8–13 September 2021](2021-09-13-SWG.html) | SWG <br> La7 | 16 | 15–17 | 14–17 | 14–18 | 13–18 |
@@ -1610,13 +1612,13 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 12 | 0.1% | 100% |  |
-| 13 | 1.4% | 99.9% |  |
-| 14 | 10% | 98.5% |  |
-| 15 | 29% | 89% |  |
-| 16 | 34% | 60% | Median |
-| 17 | 21% | 26% |  |
-| 18 | 4% | 5% |  |
-| 19 | 0.7% | 0.9% |  |
+| 13 | 1.1% | 99.9% |  |
+| 14 | 9% | 98.9% |  |
+| 15 | 23% | 90% |  |
+| 16 | 33% | 67% | Median |
+| 17 | 24% | 34% |  |
+| 18 | 5% | 10% |  |
+| 19 | 4% | 4% |  |
 | 20 | 0.1% | 0.1% |  |
 | 21 | 0% | 0% |  |
 | 22 | 0% | 0% |  |

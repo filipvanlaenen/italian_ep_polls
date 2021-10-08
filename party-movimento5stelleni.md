@@ -10,7 +10,8 @@ Last result: **21.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.7% | 15.2–18.8% | 14.8–19.4% | 14.5–19.9% | 13.8–20.9% |
+| N/A | [Poll Average](average.html) | 16.8% | 15.2–18.8% | 14.9–19.4% | 14.5–19.9% | 13.8–20.9% |
+| [2–3 October 2021](2021-10-03-BiDiMedia.html) | BiDiMedia | 16.8% | 15.6–18.2% | 15.3–18.6% | 15.0–18.9% | 14.4–19.6% |
 | [14–17 September 2021](2021-09-17-Ixè.html) | Ixè | 18.0% | 16.5–19.6% | 16.1–20.1% | 15.7–20.5% | 15.0–21.3% |
 | [14–16 September 2021](2021-09-16-TermometroPolitico.html) | Termometro Politico | 16.0% | 15.2–16.9% | 15.0–17.1% | 14.8–17.3% | 14.4–17.7% |
 | [12–15 September 2021](2021-09-15-NotoSondaggi.html) | Noto Sondaggi | 18.5% | 17.0–20.2% | 16.6–20.6% | 16.2–21.0% | 15.5–21.8% |
@@ -792,10 +793,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0.2% | 100% |  |
-| 13.5–14.5% | 3% | 99.8% |  |
+| 13.5–14.5% | 2% | 99.8% |  |
 | 14.5–15.5% | 13% | 97% |  |
 | 15.5–16.5% | 28% | 84% |  |
-| 16.5–17.5% | 26% | 55% | Median |
+| 16.5–17.5% | 26% | 56% | Median |
 | 17.5–18.5% | 17% | 30% |  |
 | 18.5–19.5% | 9% | 13% |  |
 | 19.5–20.5% | 3% | 4% |  |
@@ -813,9 +814,10 @@ Last result: **17** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14 | 13–17 | 13–17 | 13–17 | 12–18 |
+| [2–3 October 2021](2021-10-03-BiDiMedia.html) | BiDiMedia | 13 | 13–15 | 13–15 | 12–16 | 12–16 |
 | [14–17 September 2021](2021-09-17-Ixè.html) | Ixè | 16 | 14–17 | 14–17 | 14–17 | 13–19 |
 | [14–16 September 2021](2021-09-16-TermometroPolitico.html) | Termometro Politico | 14 | 13–14 | 13–15 | 13–15 | 12–15 |
-| [12–15 September 2021](2021-09-15-NotoSondaggi.html) | Noto Sondaggi | 16 | 14–18 | 14–18 | 14–19 | 13–19 |
+| [12–15 September 2021](2021-09-15-NotoSondaggi.html) | Noto Sondaggi | 16 | 15–18 | 14–18 | 14–18 | 13–19 |
 | [14 September 2021](2021-09-14-Euromedia.html) | Euromedia <br> Rai 1 | 15 | 14–16 | 13–16 | 13–17 | 12–18 |
 | [14 September 2021](2021-09-14-EMG.html) | EMG | 15 | 14–16 | 13–17 | 13–17 | 13–17 |
 | [8–13 September 2021](2021-09-13-SWG.html) | SWG <br> La7 | 14 | 14–15 | 13–16 | 12–16 | 12–17 |
@@ -1594,15 +1596,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 0.1% | 100% |  |
-| 12 | 2% | 99.9% |  |
-| 13 | 13% | 98% |  |
-| 14 | 36% | 85% | Median |
-| 15 | 23% | 49% |  |
-| 16 | 15% | 26% |  |
+| 12 | 2% | 100% |  |
+| 13 | 17% | 98% |  |
+| 14 | 35% | 81% | Median |
+| 15 | 22% | 46% |  |
+| 16 | 13% | 24% |  |
 | 17 | 9% | 11% | Last Result |
 | 18 | 2% | 2% |  |
-| 19 | 0.4% | 0.5% |  |
+| 19 | 0.3% | 0.3% |  |
 | 20 | 0% | 0% |  |
 
 
