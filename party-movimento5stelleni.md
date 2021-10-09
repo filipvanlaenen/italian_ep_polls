@@ -814,7 +814,7 @@ Last result: **17** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14 | 13–17 | 13–17 | 13–17 | 12–18 |
-| [2–3 October 2021](2021-10-03-BiDiMedia.html) | BiDiMedia | 13 | 13–15 | 13–15 | 12–16 | 12–16 |
+| [2–3 October 2021](2021-10-03-BiDiMedia.html) | BiDiMedia | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
 | [14–17 September 2021](2021-09-17-Ixè.html) | Ixè | 16 | 14–17 | 14–17 | 14–17 | 13–19 |
 | [14–16 September 2021](2021-09-16-TermometroPolitico.html) | Termometro Politico | 14 | 13–14 | 13–15 | 13–15 | 12–15 |
 | [12–15 September 2021](2021-09-15-NotoSondaggi.html) | Noto Sondaggi | 16 | 15–18 | 14–18 | 14–18 | 13–19 |
@@ -1597,9 +1597,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 12 | 2% | 100% |  |
-| 13 | 17% | 98% |  |
-| 14 | 35% | 81% | Median |
-| 15 | 22% | 46% |  |
+| 13 | 15% | 98% |  |
+| 14 | 36% | 83% | Median |
+| 15 | 23% | 47% |  |
 | 16 | 13% | 24% |  |
 | 17 | 9% | 11% | Last Result |
 | 18 | 2% | 2% |  |
