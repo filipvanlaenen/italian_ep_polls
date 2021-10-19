@@ -10,10 +10,10 @@ Last result: **21.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.9% | 15.4–19.1% | 15.0–19.7% | 14.7–20.2% | 14.1–21.1% |
+| N/A | [Poll Average](average.html) | 17.0% | 15.5–19.0% | 15.1–19.5% | 14.8–20.0% | 14.2–21.0% |
 | [11–14 October 2021](2021-10-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 16.5% | 15.1–18.1% | 14.7–18.5% | 14.3–18.9% | 13.7–19.7% |
-| [6–11 October 2021](2021-10-11-SWG.html) | SWG <br> La7 | 17.6% | N/A | N/A | N/A | N/A |
-| [3–7 October 2021](2021-10-07-BiDiMedia.html) | BiDiMedia | 16.6% | N/A | N/A | N/A | N/A |
+| [6–11 October 2021](2021-10-11-SWG.html) | SWG <br> La7 | 17.6% | 16.2–19.1% | 15.9–19.5% | 15.5–19.8% | 14.9–20.6% |
+| [3–7 October 2021](2021-10-07-BiDiMedia.html) | BiDiMedia | 16.6% | 15.5–17.7% | 15.2–18.0% | 15.0–18.3% | 14.5–18.9% |
 | [2–3 October 2021](2021-10-03-BiDiMedia.html) | BiDiMedia | 16.8% | 15.6–18.2% | 15.3–18.6% | 15.0–18.9% | 14.4–19.6% |
 | [14–17 September 2021](2021-09-17-Ixè.html) | Ixè | 18.0% | 16.5–19.6% | 16.1–20.1% | 15.7–20.5% | 15.0–21.3% |
 | [14–16 September 2021](2021-09-16-TermometroPolitico.html) | Termometro Politico | 16.0% | 15.2–16.9% | 15.0–17.1% | 14.8–17.3% | 14.4–17.7% |
@@ -796,15 +796,15 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0.1% | 100% |  |
-| 13.5–14.5% | 2% | 99.9% |  |
-| 14.5–15.5% | 11% | 98% |  |
-| 15.5–16.5% | 27% | 87% |  |
-| 16.5–17.5% | 25% | 60% | Median |
-| 17.5–18.5% | 18% | 35% |  |
-| 18.5–19.5% | 11% | 17% |  |
-| 19.5–20.5% | 4% | 6% |  |
-| 20.5–21.5% | 1.2% | 1.4% | Last Result |
-| 21.5–22.5% | 0.2% | 0.2% |  |
+| 13.5–14.5% | 1.3% | 99.9% |  |
+| 14.5–15.5% | 10% | 98.6% |  |
+| 15.5–16.5% | 27% | 89% |  |
+| 16.5–17.5% | 27% | 62% | Median |
+| 17.5–18.5% | 19% | 34% |  |
+| 18.5–19.5% | 10% | 15% |  |
+| 19.5–20.5% | 4% | 5% |  |
+| 20.5–21.5% | 0.9% | 1.1% | Last Result |
+| 21.5–22.5% | 0.1% | 0.2% |  |
 | 22.5–23.5% | 0% | 0% |  |
 
 
@@ -816,10 +816,10 @@ Last result: **17** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 13–17 | 13–17 | 13–18 | 12–18 |
+| N/A | [Poll Average](average.html) | 15 | 13–17 | 13–17 | 13–17 | 12–18 |
 | [11–14 October 2021](2021-10-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 14 | 13–15 | 12–16 | 12–16 | 11–16 |
-| [6–11 October 2021](2021-10-11-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [3–7 October 2021](2021-10-07-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
+| [6–11 October 2021](2021-10-11-SWG.html) | SWG <br> La7 | 15 | 14–17 | 14–17 | 14–17 | 14–18 |
+| [3–7 October 2021](2021-10-07-BiDiMedia.html) | BiDiMedia | 14 | 13–15 | 13–15 | 13–15 | 12–15 |
 | [2–3 October 2021](2021-10-03-BiDiMedia.html) | BiDiMedia | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
 | [14–17 September 2021](2021-09-17-Ixè.html) | Ixè | 16 | 14–17 | 14–17 | 14–17 | 13–19 |
 | [14–16 September 2021](2021-09-16-TermometroPolitico.html) | Termometro Politico | 14 | 13–14 | 13–15 | 13–15 | 12–15 |
@@ -1603,14 +1603,14 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 0.1% | 100% |  |
-| 12 | 1.4% | 99.9% |  |
-| 13 | 13% | 98% |  |
-| 14 | 29% | 86% |  |
-| 15 | 25% | 57% | Median |
-| 16 | 17% | 32% |  |
-| 17 | 13% | 15% | Last Result |
-| 18 | 2% | 3% |  |
-| 19 | 0.4% | 0.4% |  |
+| 12 | 1.2% | 99.9% |  |
+| 13 | 14% | 98.7% |  |
+| 14 | 27% | 85% |  |
+| 15 | 32% | 58% | Median |
+| 16 | 13% | 26% |  |
+| 17 | 11% | 13% | Last Result |
+| 18 | 2% | 2% |  |
+| 19 | 0.3% | 0.3% |  |
 | 20 | 0% | 0% |  |
 
 
