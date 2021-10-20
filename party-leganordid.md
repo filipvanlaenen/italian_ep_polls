@@ -826,7 +826,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17 | 16–19 | 15–20 | 15–20 | 14–20 |
-| [11–14 October 2021](2021-10-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 19 | 17–20 | 16–20 | 16–20 | 15–21 |
+| [11–14 October 2021](2021-10-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 18 | 16–20 | 16–20 | 16–20 | 15–21 |
 | [6–11 October 2021](2021-10-11-SWG.html) | SWG <br> La7 | 18 | 17–19 | 16–19 | 16–19 | 16–20 |
 | [3–7 October 2021](2021-10-07-BiDiMedia.html) | BiDiMedia | 17 | 15–18 | 15–18 | 15–18 | 15–18 |
 | [2–3 October 2021](2021-10-03-BiDiMedia.html) | BiDiMedia | 17 | 15–18 | 15–19 | 15–19 | 14–19 |
@@ -1623,12 +1623,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0.9% | 99.8% |  |
 | 15 | 7% | 98.9% |  |
 | 16 | 20% | 91% |  |
-| 17 | 24% | 72% | Median |
-| 18 | 29% | 48% |  |
-| 19 | 11% | 18% |  |
-| 20 | 7% | 7% |  |
-| 21 | 0.3% | 0.3% |  |
-| 22 | 0% | 0.1% |  |
+| 17 | 24% | 71% | Median |
+| 18 | 33% | 47% |  |
+| 19 | 9% | 15% |  |
+| 20 | 5% | 5% |  |
+| 21 | 0.2% | 0.3% |  |
+| 22 | 0.1% | 0.1% |  |
 | 23 | 0% | 0% |  |
 
 
