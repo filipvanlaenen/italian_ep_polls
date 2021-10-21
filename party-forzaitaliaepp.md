@@ -818,10 +818,10 @@ Last result: **13** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
+| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–8 | 5–8 | 4–8 |
 | [11–14 October 2021](2021-10-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
 | [6–11 October 2021](2021-10-11-SWG.html) | SWG <br> La7 | 6 | 6–7 | 6–7 | 5–8 | 5–8 |
-| [3–7 October 2021](2021-10-07-BiDiMedia.html) | BiDiMedia | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
+| [3–7 October 2021](2021-10-07-BiDiMedia.html) | BiDiMedia | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
 | [2–3 October 2021](2021-10-03-BiDiMedia.html) | BiDiMedia | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [14–17 September 2021](2021-09-17-Ixè.html) | Ixè | 7 | 6–8 | 6–8 | 5–9 | 5–9 |
 | [14–16 September 2021](2021-09-16-TermometroPolitico.html) | Termometro Politico | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
@@ -1604,9 +1604,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.3% | 100% |  |
-| 5 | 15% | 99.7% |  |
-| 6 | 52% | 85% | Median |
+| 4 | 0.5% | 100% |  |
+| 5 | 18% | 99.5% |  |
+| 6 | 49% | 82% | Median |
 | 7 | 26% | 33% |  |
 | 8 | 7% | 7% |  |
 | 9 | 0.5% | 0.5% |  |
