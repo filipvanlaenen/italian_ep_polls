@@ -10,7 +10,10 @@ Last result: **16.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.2% | 6.3–8.4% | 6.1–8.8% | 5.9–9.1% | 5.5–9.7% |
+| N/A | [Poll Average](average.html) | 6.9% | 6.3–7.9% | 6.1–8.2% | 5.9–8.5% | 5.5–9.2% |
+| [13–18 October 2021](2021-10-18-SWG.html) | SWG <br> La7 | 7.2% | 6.4–8.3% | 6.1–8.6% | 5.9–8.9% | 5.5–9.4% |
+| [13–16 October 2021](2021-10-16-Demopolis.html) | Demopolis <br> Today.it | 6.7% | 6.4–7.1% | 6.3–7.2% | 6.2–7.3% | 6.0–7.4% |
+| [12–14 October 2021](2021-10-14-TermometroPolitico.html) | Termometro Politico | 7.0% | 6.5–7.6% | 6.4–7.8% | 6.2–7.9% | 6.0–8.2% |
 | [11–14 October 2021](2021-10-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 7.2% | 6.2–8.4% | 6.0–8.7% | 5.7–9.0% | 5.3–9.6% |
 | [6–11 October 2021](2021-10-11-SWG.html) | SWG <br> La7 | 7.4% | 6.5–8.5% | 6.3–8.8% | 6.1–9.1% | 5.7–9.6% |
 | [3–7 October 2021](2021-10-07-BiDiMedia.html) | BiDiMedia | 6.7% | 6.0–7.5% | 5.8–7.7% | 5.7–7.9% | 5.3–8.3% |
@@ -796,11 +799,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0.6% | 100% |  |
-| 5.5–6.5% | 19% | 99.4% |  |
-| 6.5–7.5% | 46% | 80% | Median |
-| 7.5–8.5% | 27% | 34% |  |
-| 8.5–9.5% | 7% | 7% |  |
-| 9.5–10.5% | 0.7% | 0.8% |  |
+| 5.5–6.5% | 22% | 99.4% |  |
+| 6.5–7.5% | 59% | 78% | Median |
+| 7.5–8.5% | 16% | 19% |  |
+| 8.5–9.5% | 2% | 2% |  |
+| 9.5–10.5% | 0.2% | 0.2% |  |
 | 10.5–11.5% | 0% | 0% |  |
 | 11.5–12.5% | 0% | 0% |  |
 | 12.5–13.5% | 0% | 0% |  |
@@ -818,7 +821,10 @@ Last result: **13** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–8 | 5–8 | 4–8 |
+| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
+| [13–18 October 2021](2021-10-18-SWG.html) | SWG <br> La7 | 6 | 6–7 | 6–7 | 5–8 | 5–8 |
+| [13–16 October 2021](2021-10-16-Demopolis.html) | Demopolis <br> Today.it | 5 | 5 | 5–6 | 5–6 | 5–6 |
+| [12–14 October 2021](2021-10-14-TermometroPolitico.html) | Termometro Politico | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [11–14 October 2021](2021-10-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
 | [6–11 October 2021](2021-10-11-SWG.html) | SWG <br> La7 | 6 | 6–7 | 6–7 | 5–8 | 5–8 |
 | [3–7 October 2021](2021-10-07-BiDiMedia.html) | BiDiMedia | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
@@ -1604,12 +1610,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.5% | 100% |  |
-| 5 | 18% | 99.5% |  |
-| 6 | 49% | 82% | Median |
-| 7 | 26% | 33% |  |
-| 8 | 7% | 7% |  |
-| 9 | 0.5% | 0.5% |  |
+| 4 | 0.7% | 100% |  |
+| 5 | 35% | 99.3% |  |
+| 6 | 47% | 64% | Median |
+| 7 | 16% | 17% |  |
+| 8 | 1.2% | 1.2% |  |
+| 9 | 0% | 0% |  |
 | 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |
