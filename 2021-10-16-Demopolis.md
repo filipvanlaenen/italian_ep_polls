@@ -30,7 +30,7 @@
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#fratelli-d’italia-(ecr)">Fratelli d’Italia (ECR)</a> | 0 | 16 | 16–17 |16–17 |16–17 |16–17 |
-| <a href="#partito-democratico-(s&d)">Partito Democratico (S&D)</a> | 31 | 15 | 15–16 |15–16 |15–16 |14–16 |
+| <a href="#partito-democratico-(s&d)">Partito Democratico (S&D)</a> | 31 | 15 | 15–16 |15–16 |14–16 |14–16 |
 | <a href="#lega-nord-(id)">Lega Nord (ID)</a> | 5 | 16 | 15–16 |15–16 |15–16 |15–17 |
 | <a href="#movimento-5-stelle-(ni)">Movimento 5 Stelle (NI)</a> | 17 | 13 | 12–13 |12–13 |12–13 |12–13 |
 | <a href="#forza-italia-(epp)">Forza Italia (EPP)</a> | 13 | 5 | 5 |5–6 |5–6 |5–6 |
@@ -61,7 +61,7 @@
 | 14 | 0% | 100% |  |
 | 15 | 0.4% | 100% |  |
 | 16 | 62% | 99.6% | Median |
-| 17 | 37% | 38% |  |
+| 17 | 38% | 38% |  |
 | 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
 
@@ -73,8 +73,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 14 | 2% | 100% |  |
-| 15 | 81% | 98% | Median |
+| 14 | 3% | 100% |  |
+| 15 | 81% | 97% | Median |
 | 16 | 16% | 16% |  |
 | 17 | 0% | 0% |  |
 | 18 | 0% | 0% |  |
@@ -110,9 +110,9 @@
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 29% | 100% |  |
-| 16 | 70% | 71% | Median |
-| 17 | 1.0% | 1.0% |  |
+| 15 | 28% | 100% |  |
+| 16 | 71% | 72% | Median |
+| 17 | 0.9% | 0.9% |  |
 | 18 | 0% | 0% |  |
 
 ### Movimento 5 Stelle (NI)
@@ -123,8 +123,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 29% | 100% |  |
-| 13 | 71% | 71% | Median |
+| 12 | 30% | 100% |  |
+| 13 | 69% | 70% | Median |
 | 14 | 0.4% | 0.4% |  |
 | 15 | 0% | 0% |  |
 | 16 | 0% | 0% |  |
@@ -186,9 +186,9 @@
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 29% | 100% |  |
-| 16 | 70% | 71% | Median |
-| 17 | 1.0% | 1.0% |  |
+| 15 | 28% | 100% |  |
+| 16 | 71% | 72% | Median |
+| 17 | 0.9% | 0.9% |  |
 | 18 | 0% | 0% |  |
 
 
@@ -203,6 +203,6 @@
 ### Calculations
 
 + **Sample size:** 8860
-+ **Simulations done:** 131,072
-+ **Error estimate:** 0.37%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.14%
 

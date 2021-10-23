@@ -819,7 +819,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [13–16 October 2021](2021-10-16-Demopolis.html) | Demopolis <br> Today.it |  |  |  |  |  |
 | [12–14 October 2021](2021-10-14-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [11–14 October 2021](2021-10-14-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
-| [6–11 October 2021](2021-10-11-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
+| [6–11 October 2021](2021-10-11-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0–4 |
 | [3–7 October 2021](2021-10-07-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
 | [2–3 October 2021](2021-10-03-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
 | [14–17 September 2021](2021-09-17-Ixè.html) | Ixè | 0 | 0 | 0 | 0 | 0 |

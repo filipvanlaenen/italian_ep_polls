@@ -820,9 +820,9 @@ Last result: **17** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 14 | 12–15 | 12–16 | 12–16 | 12–17 |
 | [13–18 October 2021](2021-10-18-SWG.html) | SWG <br> La7 | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
 | [13–16 October 2021](2021-10-16-Demopolis.html) | Demopolis <br> Today.it | 13 | 12–13 | 12–13 | 12–13 | 12–13 |
-| [12–14 October 2021](2021-10-14-TermometroPolitico.html) | Termometro Politico | 14 | 13–14 | 13–14 | 12–15 | 12–15 |
+| [12–14 October 2021](2021-10-14-TermometroPolitico.html) | Termometro Politico | 14 | 13–14 | 13–15 | 13–15 | 12–15 |
 | [11–14 October 2021](2021-10-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 14 | 12–15 | 12–15 | 12–16 | 11–17 |
-| [6–11 October 2021](2021-10-11-SWG.html) | SWG <br> La7 | 15 | 14–17 | 14–17 | 14–17 | 14–18 |
+| [6–11 October 2021](2021-10-11-SWG.html) | SWG <br> La7 | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
 | [3–7 October 2021](2021-10-07-BiDiMedia.html) | BiDiMedia | 14 | 13–15 | 13–15 | 13–15 | 12–16 |
 | [2–3 October 2021](2021-10-03-BiDiMedia.html) | BiDiMedia | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
 | [14–17 September 2021](2021-09-17-Ixè.html) | Ixè | 16 | 14–17 | 14–17 | 14–17 | 13–19 |
@@ -1608,9 +1608,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 0.2% | 100% |  |
 | 12 | 11% | 99.8% |  |
-| 13 | 33% | 89% |  |
-| 14 | 32% | 56% | Median |
-| 15 | 18% | 24% |  |
+| 13 | 32% | 89% |  |
+| 14 | 33% | 57% | Median |
+| 15 | 19% | 24% |  |
 | 16 | 4% | 5% |  |
 | 17 | 0.8% | 0.9% | Last Result |
 | 18 | 0.1% | 0.1% |  |

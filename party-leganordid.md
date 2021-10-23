@@ -833,7 +833,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [13–16 October 2021](2021-10-16-Demopolis.html) | Demopolis <br> Today.it | 16 | 15–16 | 15–16 | 15–16 | 15–17 |
 | [12–14 October 2021](2021-10-14-TermometroPolitico.html) | Termometro Politico | 17 | 16–18 | 16–18 | 16–18 | 16–19 |
 | [11–14 October 2021](2021-10-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 18 | 16–20 | 16–20 | 16–20 | 15–21 |
-| [6–11 October 2021](2021-10-11-SWG.html) | SWG <br> La7 | 18 | 17–19 | 16–19 | 16–19 | 16–20 |
+| [6–11 October 2021](2021-10-11-SWG.html) | SWG <br> La7 | 18 | 17–19 | 16–19 | 16–19 | 15–20 |
 | [3–7 October 2021](2021-10-07-BiDiMedia.html) | BiDiMedia | 17 | 16–17 | 15–18 | 15–18 | 15–18 |
 | [2–3 October 2021](2021-10-03-BiDiMedia.html) | BiDiMedia | 17 | 15–18 | 15–19 | 15–19 | 14–19 |
 | [14–17 September 2021](2021-09-17-Ixè.html) | Ixè | 16 | 15–18 | 15–19 | 15–20 | 14–20 |
@@ -1628,9 +1628,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0.1% | 100% |  |
 | 15 | 8% | 99.9% |  |
-| 16 | 28% | 92% |  |
-| 17 | 34% | 63% | Median |
-| 18 | 19% | 29% |  |
+| 16 | 29% | 92% |  |
+| 17 | 33% | 63% | Median |
+| 18 | 20% | 30% |  |
 | 19 | 6% | 10% |  |
 | 20 | 4% | 4% |  |
 | 21 | 0.3% | 0.4% |  |
