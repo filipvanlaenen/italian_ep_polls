@@ -10,7 +10,9 @@ Last result: **40.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.8% | 19.4–22.2% | 18.9–22.6% | 18.4–23.0% | 17.6–23.8% |
+| N/A | [Poll Average](average.html) | 20.9% | 19.4–22.3% | 18.9–22.8% | 18.5–23.2% | 17.7–24.0% |
+| [19–21 October 2021](2021-10-21-TermometroPolitico.html) | Termometro Politico | 21.0% | 20.1–21.9% | 19.9–22.2% | 19.7–22.4% | 19.3–22.9% |
+| [19–21 October 2021](2021-10-21-Ipsos.html) | Ipsos <br> Corriere della Sera | 21.1% | 19.5–22.8% | 19.1–23.3% | 18.7–23.7% | 17.9–24.6% |
 | [13–18 October 2021](2021-10-18-SWG.html) | SWG <br> La7 | 20.0% | 18.6–21.6% | 18.2–22.0% | 17.8–22.4% | 17.2–23.1% |
 | [13–16 October 2021](2021-10-16-Demopolis.html) | Demopolis <br> Today.it | 20.8% | 20.3–21.4% | 20.1–21.6% | 20.0–21.7% | 19.7–22.0% |
 | [12–14 October 2021](2021-10-14-TermometroPolitico.html) | Termometro Politico | 20.6% | 19.7–21.4% | 19.5–21.7% | 19.3–21.9% | 18.9–22.3% |
@@ -798,14 +800,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0.4% | 100% |  |
-| 17.5–18.5% | 3% | 99.6% |  |
-| 18.5–19.5% | 10% | 97% |  |
-| 19.5–20.5% | 28% | 87% |  |
-| 20.5–21.5% | 39% | 60% | Median |
-| 21.5–22.5% | 15% | 20% |  |
-| 22.5–23.5% | 5% | 6% |  |
-| 23.5–24.5% | 0.8% | 0.9% |  |
+| 16.5–17.5% | 0.3% | 100% |  |
+| 17.5–18.5% | 2% | 99.6% |  |
+| 18.5–19.5% | 9% | 97% |  |
+| 19.5–20.5% | 23% | 89% |  |
+| 20.5–21.5% | 39% | 65% | Median |
+| 21.5–22.5% | 19% | 26% |  |
+| 22.5–23.5% | 6% | 7% |  |
+| 23.5–24.5% | 1.2% | 1.3% |  |
 | 24.5–25.5% | 0.1% | 0.1% |  |
 | 25.5–26.5% | 0% | 0% |  |
 | 26.5–27.5% | 0% | 0% |  |
@@ -833,7 +835,9 @@ Last result: **31** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 15–18 | 15–18 | 14–19 | 14–19 |
+| N/A | [Poll Average](average.html) | 16 | 15–18 | 15–18 | 15–19 | 14–19 |
+| [19–21 October 2021](2021-10-21-TermometroPolitico.html) | Termometro Politico | 16 | 16–17 | 16–17 | 15–18 | 15–18 |
+| [19–21 October 2021](2021-10-21-Ipsos.html) | Ipsos <br> Corriere della Sera | 16 | 15–18 | 15–18 | 15–19 | 14–19 |
 | [13–18 October 2021](2021-10-18-SWG.html) | SWG <br> La7 | 17 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [13–16 October 2021](2021-10-16-Demopolis.html) | Demopolis <br> Today.it | 15 | 15–16 | 15–16 | 14–16 | 14–16 |
 | [12–14 October 2021](2021-10-14-TermometroPolitico.html) | Termometro Politico | 16 | 15–17 | 15–17 | 15–17 | 15–18 |
@@ -1623,13 +1627,13 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 13 | 0.2% | 100% |  |
-| 14 | 2% | 99.7% |  |
-| 15 | 25% | 97% |  |
-| 16 | 36% | 73% | Median |
-| 17 | 21% | 36% |  |
-| 18 | 13% | 16% |  |
-| 19 | 2% | 3% |  |
-| 20 | 0.1% | 0.1% |  |
+| 14 | 2% | 99.8% |  |
+| 15 | 21% | 98% |  |
+| 16 | 35% | 76% | Median |
+| 17 | 23% | 41% |  |
+| 18 | 16% | 19% |  |
+| 19 | 3% | 3% |  |
+| 20 | 0.1% | 0.2% |  |
 | 21 | 0% | 0% |  |
 | 22 | 0% | 0% |  |
 | 23 | 0% | 0% |  |
