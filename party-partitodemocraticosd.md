@@ -842,12 +842,12 @@ Last result: **31** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 15–18 | 15–18 | 14–19 | 13–19 |
+| N/A | [Poll Average](average.html) | 16 | 15–18 | 15–18 | 14–19 | 13–20 |
 | [20–25 October 2021](2021-10-25-SWG.html) | SWG <br> La7 | 17 | 15–18 | 15–19 | 15–19 | 15–20 |
-| [22 October 2021](2021-10-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 17 | 16–18 | 15–19 | 15–20 | 14–20 |
+| [22 October 2021](2021-10-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 16 | 16–18 | 15–19 | 15–20 | 14–20 |
 | [19–21 October 2021](2021-10-21-TermometroPolitico.html) | Termometro Politico | 16 | 16–17 | 16–17 | 15–18 | 15–18 |
 | [19–21 October 2021](2021-10-21-Ipsos.html) | Ipsos <br> Corriere della Sera | 16 | 15–18 | 15–18 | 15–19 | 14–19 |
-| [20 October 2021](2021-10-20-Euromedia.html) | Euromedia <br> Rai 1 | 15 | 14–16 | 14–17 | 13–17 | 12–18 |
+| [20 October 2021](2021-10-20-Euromedia.html) | Euromedia <br> Rai 1 | 15 | 14–16 | 13–17 | 13–17 | 12–18 |
 | [19–20 October 2021](2021-10-20-EMG.html) | EMG <br> Rai 3 | 17 | 15–17 | 15–17 | 15–18 | 14–19 |
 | [18–19 October 2021](2021-10-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 16 | 15–18 | 14–18 | 14–18 | 13–18 |
 | [18–19 October 2021](2021-10-19-EMG.html) | EMG <br> Rai 3 | 17 | 14–17 | 14–17 | 14–19 | 14–19 |
@@ -1640,12 +1640,12 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 12 | 0.1% | 100% |  |
-| 13 | 0.7% | 99.9% |  |
-| 14 | 3% | 99.2% |  |
-| 15 | 24% | 96% |  |
-| 16 | 30% | 72% | Median |
-| 17 | 24% | 42% |  |
-| 18 | 15% | 18% |  |
+| 13 | 1.1% | 99.9% |  |
+| 14 | 4% | 98.8% |  |
+| 15 | 23% | 95% |  |
+| 16 | 32% | 73% | Median |
+| 17 | 25% | 41% |  |
+| 18 | 12% | 15% |  |
 | 19 | 3% | 3% |  |
 | 20 | 0.5% | 0.5% |  |
 | 21 | 0% | 0% |  |

@@ -831,10 +831,10 @@ Last result: **13** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–7 | 5–8 | 5–8 | 5–9 |
 | [20–25 October 2021](2021-10-25-SWG.html) | SWG <br> La7 | 6 | 6–7 | 6–7 | 6–7 | 5–8 |
-| [22 October 2021](2021-10-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
+| [22 October 2021](2021-10-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 6–7 | 6–8 | 5–8 | 5–9 |
 | [19–21 October 2021](2021-10-21-TermometroPolitico.html) | Termometro Politico | 6 | 6 | 5–7 | 5–7 | 5–7 |
 | [19–21 October 2021](2021-10-21-Ipsos.html) | Ipsos <br> Corriere della Sera | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
-| [20 October 2021](2021-10-20-Euromedia.html) | Euromedia <br> Rai 1 | 7 | 6–8 | 6–8 | 5–9 | 5–9 |
+| [20 October 2021](2021-10-20-Euromedia.html) | Euromedia <br> Rai 1 | 7 | 6–7 | 6–8 | 6–8 | 5–9 |
 | [19–20 October 2021](2021-10-20-EMG.html) | EMG <br> Rai 3 | 7 | 7 | 6–8 | 6–8 | 6–8 |
 | [18–19 October 2021](2021-10-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 7 | 6–7 | 6–8 | 5–9 | 5–9 |
 | [18–19 October 2021](2021-10-19-EMG.html) | EMG <br> Rai 3 | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
@@ -1626,12 +1626,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.3% | 100% |  |
-| 5 | 18% | 99.7% |  |
-| 6 | 38% | 82% | Median |
-| 7 | 37% | 44% |  |
-| 8 | 6% | 8% |  |
-| 9 | 2% | 2% |  |
+| 4 | 0.4% | 100% |  |
+| 5 | 18% | 99.6% |  |
+| 6 | 39% | 82% | Median |
+| 7 | 37% | 43% |  |
+| 8 | 5% | 6% |  |
+| 9 | 0.9% | 0.9% |  |
 | 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |
