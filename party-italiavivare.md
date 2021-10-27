@@ -829,8 +829,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [19–21 October 2021](2021-10-21-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [19–21 October 2021](2021-10-21-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
 | [20 October 2021](2021-10-20-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
-| [19–20 October 2021](2021-10-20-EMG.html) | EMG <br> Rai 3 | 4 | 0–4 | 0–4 | 0–4 | 0–4 |
-| [18–19 October 2021](2021-10-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0 | 0–4 |
+| [19–20 October 2021](2021-10-20-EMG.html) | EMG <br> Rai 3 | 4 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [18–19 October 2021](2021-10-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0–3 | 0–4 |
 | [18–19 October 2021](2021-10-19-EMG.html) | EMG <br> Rai 3 | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
 | [13–18 October 2021](2021-10-18-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [13–16 October 2021](2021-10-16-Demopolis.html) | Demopolis <br> Today.it |  |  |  |  |  |
@@ -1625,6 +1625,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 10% |  |
 | 3 | 0.6% | 10% |  |
 | 4 | 9% | 9% |  |
-| 5 | 0% | 0% |  |
+| 5 | 0.1% | 0.1% |  |
+| 6 | 0% | 0% |  |
 
 

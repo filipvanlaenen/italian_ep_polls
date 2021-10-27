@@ -827,14 +827,14 @@ Last result: **17** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14 | 13–15 | 12–15 | 12–16 | 12–17 |
-| [20–25 October 2021](2021-10-25-SWG.html) | SWG <br> La7 | 15 | 13–16 | 13–16 | 13–16 | 13–17 |
-| [22 October 2021](2021-10-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 14 | 13–15 | 12–16 | 12–17 | 12–17 |
+| [20–25 October 2021](2021-10-25-SWG.html) | SWG <br> La7 | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
+| [22 October 2021](2021-10-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 14 | 13–15 | 12–16 | 12–17 | 11–17 |
 | [19–21 October 2021](2021-10-21-TermometroPolitico.html) | Termometro Politico | 13 | 13–14 | 12–14 | 12–14 | 12–15 |
 | [19–21 October 2021](2021-10-21-Ipsos.html) | Ipsos <br> Corriere della Sera | 14 | 13–15 | 13–16 | 12–16 | 12–17 |
 | [20 October 2021](2021-10-20-Euromedia.html) | Euromedia <br> Rai 1 | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
-| [19–20 October 2021](2021-10-20-EMG.html) | EMG <br> Rai 3 | 13 | 13–15 | 13–15 | 13–15 | 12–15 |
-| [18–19 October 2021](2021-10-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 15 | 12–15 | 12–15 | 12–15 | 11–16 |
-| [18–19 October 2021](2021-10-19-EMG.html) | EMG <br> Rai 3 | 13 | 12–14 | 12–14 | 12–15 | 11–16 |
+| [19–20 October 2021](2021-10-20-EMG.html) | EMG <br> Rai 3 | 14 | 13–15 | 13–15 | 13–15 | 12–16 |
+| [18–19 October 2021](2021-10-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 14 | 13–15 | 12–15 | 12–16 | 12–16 |
+| [18–19 October 2021](2021-10-19-EMG.html) | EMG <br> Rai 3 | 13 | 12–15 | 12–15 | 11–16 | 11–16 |
 | [13–18 October 2021](2021-10-18-SWG.html) | SWG <br> La7 | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
 | [13–16 October 2021](2021-10-16-Demopolis.html) | Demopolis <br> Today.it | 13 | 12–13 | 12–13 | 12–13 | 12–13 |
 | [12–14 October 2021](2021-10-14-TermometroPolitico.html) | Termometro Politico | 14 | 13–14 | 13–15 | 13–15 | 12–15 |
@@ -1624,12 +1624,13 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 0.4% | 100% |  |
-| 12 | 9% | 99.6% |  |
-| 13 | 34% | 91% |  |
-| 14 | 30% | 56% | Median |
-| 15 | 23% | 27% |  |
-| 16 | 3% | 4% |  |
-| 17 | 0.8% | 0.8% | Last Result |
-| 18 | 0% | 0% |  |
+| 12 | 8% | 99.6% |  |
+| 13 | 31% | 91% |  |
+| 14 | 34% | 60% | Median |
+| 15 | 21% | 26% |  |
+| 16 | 4% | 5% |  |
+| 17 | 0.8% | 0.9% | Last Result |
+| 18 | 0.1% | 0.1% |  |
+| 19 | 0% | 0% |  |
 
 
