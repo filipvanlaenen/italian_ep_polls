@@ -10,7 +10,12 @@ Last result: **21.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.4% | 15.1–17.9% | 14.7–18.4% | 14.3–18.9% | 13.6–19.7% |
+| N/A | [Poll Average](average.html) | 16.5% | 15.1–18.1% | 14.7–18.6% | 14.3–19.0% | 13.6–19.7% |
+| [27–31 October 2021](2021-10-31-SWG.html) | SWG <br> La7 | 17.0% | 15.7–18.5% | 15.3–18.9% | 15.0–19.2% | 14.4–20.0% |
+| [29 October 2021](2021-10-29-Tecnè.html) | Tecnè <br> Agenzia Dire | 16.5% | 15.1–18.1% | 14.7–18.5% | 14.3–18.9% | 13.7–19.7% |
+| [26–28 October 2021](2021-10-28-TermometroPolitico.html) | Termometro Politico | 16.0% | 15.2–16.9% | 15.0–17.1% | 14.8–17.3% | 14.4–17.7% |
+| [27 October 2021](2021-10-27-Index.html) | Index <br> La7 | 16.6% | 15.0–18.4% | 14.6–18.9% | 14.2–19.4% | 13.5–20.3% |
+| [25–27 October 2021](2021-10-27-Demopolis.html) | Demopolis <br> Rai Radio 1 | 17.4% | 16.3–18.5% | 16.0–18.8% | 15.7–19.1% | 15.3–19.6% |
 | [20–25 October 2021](2021-10-25-SWG.html) | SWG <br> La7 | 17.3% | 16.0–18.8% | 15.6–19.2% | 15.3–19.6% | 14.7–20.3% |
 | [22 October 2021](2021-10-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 16.2% | 14.8–17.8% | 14.4–18.2% | 14.0–18.6% | 13.4–19.4% |
 | [19–21 October 2021](2021-10-21-TermometroPolitico.html) | Termometro Politico | 16.1% | 15.3–16.9% | 15.0–17.1% | 14.9–17.3% | 14.5–17.7% |
@@ -35,7 +40,6 @@ Last result: **21.2%** (General Election of 26 May 2019)
 | [10 September 2021](2021-09-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 16.3% | 14.9–17.9% | 14.5–18.3% | 14.1–18.7% | 13.5–19.5% |
 | [8–9 September 2021](2021-09-09-TermometroPolitico.html) | Termometro Politico | 16.0% | 15.2–16.9% | 15.0–17.1% | 14.8–17.3% | 14.4–17.7% |
 | [7–9 September 2021](2021-09-09-Ipsos.html) | Ipsos <br> Corriere della Sera | 17.0% | 15.5–18.6% | 15.1–19.1% | 14.8–19.5% | 14.1–20.3% |
-| [9 September 2021](2021-09-09-EMG.html) | EMG <br> Rai 3 | 16.2% | 14.8–17.8% | 14.4–18.2% | 14.0–18.6% | 13.4–19.4% |
 | [7–8 September 2021](2021-09-08-EMG.html) | EMG <br> Rai 3 | 16.2% | 15.0–17.5% | 14.7–17.8% | 14.4–18.1% | 13.8–18.8% |
 | [1–6 September 2021](2021-09-06-SWG.html) | SWG <br> La7 | 15.8% | 14.5–17.2% | 14.1–17.6% | 13.8–17.9% | 13.2–18.6% |
 | [3 September 2021](2021-09-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 16.1% | 14.7–17.7% | 14.3–18.1% | 13.9–18.5% | 13.3–19.3% |
@@ -807,13 +811,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0.4% | 100% |  |
-| 13.5–14.5% | 4% | 99.6% |  |
+| 13.5–14.5% | 3% | 99.6% |  |
 | 14.5–15.5% | 15% | 96% |  |
-| 15.5–16.5% | 37% | 81% | Median |
-| 16.5–17.5% | 27% | 44% |  |
-| 17.5–18.5% | 12% | 16% |  |
-| 18.5–19.5% | 4% | 4% |  |
-| 19.5–20.5% | 0.6% | 0.7% |  |
+| 15.5–16.5% | 31% | 81% |  |
+| 16.5–17.5% | 29% | 50% | Median |
+| 17.5–18.5% | 15% | 20% |  |
+| 18.5–19.5% | 4% | 5% |  |
+| 19.5–20.5% | 0.7% | 0.8% |  |
 | 20.5–21.5% | 0.1% | 0.1% | Last Result |
 | 21.5–22.5% | 0% | 0% |  |
 
@@ -826,7 +830,12 @@ Last result: **17** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 13–15 | 12–15 | 12–16 | 12–17 |
+| N/A | [Poll Average](average.html) | 14 | 13–15 | 12–16 | 12–16 | 12–17 |
+| [27–31 October 2021](2021-10-31-SWG.html) | SWG <br> La7 | 15 | 15–16 | 14–16 | 14–17 | 13–17 |
+| [29 October 2021](2021-10-29-Tecnè.html) | Tecnè <br> Agenzia Dire | 15 | 14–16 | 13–16 | 12–16 | 11–17 |
+| [26–28 October 2021](2021-10-28-TermometroPolitico.html) | Termometro Politico | 13 | 13–14 | 13–14 | 13–14 | 12–14 |
+| [27 October 2021](2021-10-27-Index.html) | Index <br> La7 | 15 | 13–15 | 12–16 | 12–16 | 12–17 |
+| [25–27 October 2021](2021-10-27-Demopolis.html) | Demopolis <br> Rai Radio 1 | 14 | 13–15 | 13–15 | 13–15 | 12–16 |
 | [20–25 October 2021](2021-10-25-SWG.html) | SWG <br> La7 | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
 | [22 October 2021](2021-10-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 14 | 13–15 | 12–16 | 12–17 | 11–17 |
 | [19–21 October 2021](2021-10-21-TermometroPolitico.html) | Termometro Politico | 13 | 13–14 | 12–14 | 12–14 | 12–15 |
@@ -851,7 +860,6 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [10 September 2021](2021-09-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 14 | 13–16 | 12–17 | 12–17 | 12–17 |
 | [8–9 September 2021](2021-09-09-TermometroPolitico.html) | Termometro Politico | 14 | 13–14 | 13–15 | 13–15 | 12–15 |
 | [7–9 September 2021](2021-09-09-Ipsos.html) | Ipsos <br> Corriere della Sera | 14 | 14–15 | 13–16 | 13–16 | 12–17 |
-| [9 September 2021](2021-09-09-EMG.html) | EMG <br> Rai 3 | 14 | 13–15 | 12–16 | 12–17 | 12–18 |
 | [7–8 September 2021](2021-09-08-EMG.html) | EMG <br> Rai 3 | 15 | 14–16 | 13–17 | 13–17 | 12–17 |
 | [1–6 September 2021](2021-09-06-SWG.html) | SWG <br> La7 | 14 | 13–16 | 13–16 | 12–16 | 12–17 |
 | [3 September 2021](2021-09-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 14 | 13–16 | 13–16 | 13–17 | 12–17 |
@@ -1624,11 +1632,11 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 11 | 0.4% | 100% |  |
-| 12 | 8% | 99.6% |  |
-| 13 | 31% | 91% |  |
-| 14 | 34% | 60% | Median |
-| 15 | 21% | 26% |  |
-| 16 | 4% | 5% |  |
+| 12 | 5% | 99.6% |  |
+| 13 | 24% | 95% |  |
+| 14 | 34% | 70% | Median |
+| 15 | 29% | 36% |  |
+| 16 | 7% | 7% |  |
 | 17 | 0.8% | 0.9% | Last Result |
 | 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
