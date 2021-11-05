@@ -847,8 +847,8 @@ Last result: **31** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16 | 15–18 | 14–18 | 14–19 | 13–20 |
-| [27–31 October 2021](2021-10-31-SWG.html) | SWG <br> La7 | 17 | 16–18 | 16–19 | 16–19 | 15–20 |
-| [29 October 2021](2021-10-29-Tecnè.html) | Tecnè <br> Agenzia Dire | 17 | 17–18 | 16–18 | 15–19 | 14–20 |
+| [27–31 October 2021](2021-10-31-SWG.html) | SWG <br> La7 | 17 | 16–19 | 16–19 | 16–19 | 15–20 |
+| [29 October 2021](2021-10-29-Tecnè.html) | Tecnè <br> Agenzia Dire | 17 | 16–19 | 15–19 | 15–20 | 14–20 |
 | [26–28 October 2021](2021-10-28-TermometroPolitico.html) | Termometro Politico | 16 | 16–17 | 16–17 | 15–17 | 15–18 |
 | [27 October 2021](2021-10-27-Index.html) | Index <br> La7 | 16 | 15–19 | 15–20 | 14–20 | 14–20 |
 | [25–27 October 2021](2021-10-27-Demopolis.html) | Demopolis <br> Rai Radio 1 | 16 | 15–17 | 14–17 | 14–18 | 14–18 |
@@ -1651,11 +1651,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 1.1% | 99.9% |  |
 | 14 | 4% | 98.9% |  |
 | 15 | 16% | 95% |  |
-| 16 | 32% | 79% | Median |
-| 17 | 27% | 47% |  |
-| 18 | 15% | 19% |  |
-| 19 | 3% | 4% |  |
-| 20 | 0.7% | 0.7% |  |
+| 16 | 34% | 78% | Median |
+| 17 | 24% | 44% |  |
+| 18 | 15% | 20% |  |
+| 19 | 4% | 5% |  |
+| 20 | 1.0% | 1.0% |  |
 | 21 | 0% | 0% |  |
 | 22 | 0% | 0% |  |
 | 23 | 0% | 0% |  |

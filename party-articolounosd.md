@@ -826,7 +826,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [27–31 October 2021](2021-10-31-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
+| [27–31 October 2021](2021-10-31-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0–3 |
 | [29 October 2021](2021-10-29-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
 | [26–28 October 2021](2021-10-28-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [27 October 2021](2021-10-27-Index.html) | Index <br> La7 | 0 | 0 | 0 | 0 | 0 |
@@ -1629,7 +1629,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 99.9% | 100% | Last Result, Median |
 | 1 | 0% | 0.1% |  |
 | 2 | 0% | 0.1% |  |
-| 3 | 0% | 0.1% |  |
+| 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
 
