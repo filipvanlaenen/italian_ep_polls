@@ -830,7 +830,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | [27–31 October 2021](2021-10-31-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [29 October 2021](2021-10-29-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
-| [26–28 October 2021](2021-10-28-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
+| [26–28 October 2021](2021-10-28-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0–3 |
 | [27 October 2021](2021-10-27-Index.html) | Index <br> La7 | 0 | 0 | 0 | 0 | 0–3 |
 | [25–27 October 2021](2021-10-27-Demopolis.html) | Demopolis <br> Rai Radio 1 | 0 | 0 | 0 | 0 | 0 |
 | [20–25 October 2021](2021-10-25-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
