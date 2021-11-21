@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.1% | 0.7–1.5% | 0.6–1.7% | 0.5–1.9% | 0.4–2.2% |
+| N/A | [Poll Average](average.html) | 1.2% | 0.8–1.9% | 0.7–2.1% | 0.6–2.3% | 0.4–2.7% |
 | [16–18 November 2021](2021-11-18-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
 | [17 November 2021](2021-11-17-Index.html) | Index <br> La7 | 1.0% | 0.7–1.6% | 0.6–1.8% | 0.5–2.0% | 0.4–2.3% |
 | [17 November 2021](2021-11-17-Euromedia.html) | Euromedia <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
@@ -25,7 +25,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [5–8 November 2021](2021-11-08-Ixè.html) | Ixè | 0.0% | N/A | N/A | N/A | N/A |
 | [5 November 2021](2021-11-05-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [2–4 November 2021](2021-11-04-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
-| [3–4 November 2021](2021-11-04-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 1.6% | N/A | N/A | N/A | N/A |
+| [3–4 November 2021](2021-11-04-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
 | [3 November 2021](2021-11-03-Index.html) | Index <br> La7 | 1.0% | N/A | N/A | N/A | N/A |
 | [2 November 2021](2021-11-02-Euromedia.html) | Euromedia <br> La Stampa | 0.0% | N/A | N/A | N/A | N/A |
 | [1–2 November 2021](2021-11-02-EMG.html) | EMG <br> Rai 3 | 1.6% | N/A | N/A | N/A | N/A |
@@ -832,10 +832,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 3% | 100% | Last Result |
-| 0.5–1.5% | 88% | 97% | Median |
-| 1.5–2.5% | 10% | 10% |  |
-| 2.5–3.5% | 0.1% | 0.1% |  |
+| 0.0–0.5% | 2% | 100% | Last Result |
+| 0.5–1.5% | 71% | 98% | Median |
+| 1.5–2.5% | 26% | 27% |  |
+| 2.5–3.5% | 1.0% | 1.0% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -862,7 +862,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [5–8 November 2021](2021-11-08-Ixè.html) | Ixè |  |  |  |  |  |
 | [5 November 2021](2021-11-05-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [2–4 November 2021](2021-11-04-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [3–4 November 2021](2021-11-04-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
+| [3–4 November 2021](2021-11-04-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
 | [3 November 2021](2021-11-03-Index.html) | Index <br> La7 |  |  |  |  |  |
 | [2 November 2021](2021-11-02-Euromedia.html) | Euromedia <br> La Stampa |  |  |  |  |  |
 | [1–2 November 2021](2021-11-02-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
