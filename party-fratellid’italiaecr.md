@@ -10,10 +10,29 @@ Last result: **3.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.2% | 19.7–22.7% | 19.3–23.2% | 19.0–23.6% | 18.3–24.3% |
+| N/A | [Poll Average](average.html) | 20.5% | 18.3–22.2% | 17.8–22.6% | 17.3–23.0% | 16.5–23.8% |
+| [16–18 November 2021](2021-11-18-TermometroPolitico.html) | Termometro Politico | 21.7% | 20.7–22.6% | 20.5–22.9% | 20.3–23.1% | 19.8–23.6% |
+| [17 November 2021](2021-11-17-Index.html) | Index <br> La7 | 20.0% | 18.3–21.9% | 17.8–22.5% | 17.4–22.9% | 16.6–23.9% |
+| [17 November 2021](2021-11-17-Euromedia.html) | Euromedia <br> Rai 1 | 19.8% | 18.0–21.7% | 17.5–22.2% | 17.1–22.7% | 16.3–23.6% |
+| [10–15 November 2021](2021-11-15-SWG.html) | SWG <br> La7 | 21.0% | 19.5–22.6% | 19.1–23.0% | 18.8–23.4% | 18.1–24.2% |
+| [15 November 2021](2021-11-15-EMG.html) | EMG <br> Rai 3 | 19.9% | N/A | N/A | N/A | N/A |
+| [8–14 November 2021](2021-11-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 19.1% | 17.6–20.8% | 17.1–21.2% | 16.8–21.7% | 16.1–22.5% |
+| [12 November 2021](2021-11-12-Tecnè.html) | Tecnè <br> Agenzia Dire | 20.8% | N/A | N/A | N/A | N/A |
+| [10 November 2021](2021-11-10-Index.html) | Index <br> La7 | 19.8% | N/A | N/A | N/A | N/A |
+| [8–10 November 2021](2021-11-10-DemosPi.html) | Demos & Pi <br> La Repubblica | 20.4% | N/A | N/A | N/A | N/A |
+| [9 November 2021](2021-11-09-EMG.html) | EMG <br> Rai 3 | 20.0% | N/A | N/A | N/A | N/A |
+| [3–8 November 2021](2021-11-08-SWG.html) | SWG <br> La7 | 20.8% | N/A | N/A | N/A | N/A |
+| [5–8 November 2021](2021-11-08-Ixè.html) | Ixè | 18.7% | N/A | N/A | N/A | N/A |
+| [5 November 2021](2021-11-05-Tecnè.html) | Tecnè <br> Agenzia Dire | 21.1% | N/A | N/A | N/A | N/A |
+| [2–4 November 2021](2021-11-04-TermometroPolitico.html) | Termometro Politico | 21.6% | N/A | N/A | N/A | N/A |
+| [3–4 November 2021](2021-11-04-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 21.5% | N/A | N/A | N/A | N/A |
+| [3 November 2021](2021-11-03-Index.html) | Index <br> La7 | 19.9% | N/A | N/A | N/A | N/A |
+| [2 November 2021](2021-11-02-Euromedia.html) | Euromedia <br> La Stampa | 19.6% | N/A | N/A | N/A | N/A |
+| [1–2 November 2021](2021-11-02-EMG.html) | EMG <br> Rai 3 | 20.2% | N/A | N/A | N/A | N/A |
 | [27–31 October 2021](2021-10-31-SWG.html) | SWG <br> La7 | 21.2% | 19.7–22.7% | 19.3–23.2% | 18.9–23.6% | 18.3–24.3% |
 | [29 October 2021](2021-10-29-Tecnè.html) | Tecnè <br> Agenzia Dire | 21.3% | N/A | N/A | N/A | N/A |
 | [26–28 October 2021](2021-10-28-TermometroPolitico.html) | Termometro Politico | 21.3% | N/A | N/A | N/A | N/A |
+| [28 October 2021](2021-10-28-Piepoli.html) | Piepoli <br> RaiNews24 | 19.8% | N/A | N/A | N/A | N/A |
 | [27 October 2021](2021-10-27-Index.html) | Index <br> La7 | 19.8% | N/A | N/A | N/A | N/A |
 | [25–27 October 2021](2021-10-27-Demopolis.html) | Demopolis <br> Rai Radio 1 | 21.2% | N/A | N/A | N/A | N/A |
 | [20–25 October 2021](2021-10-25-SWG.html) | SWG <br> La7 | 21.6% | N/A | N/A | N/A | N/A |
@@ -825,16 +844,16 @@ The following table shows the probability mass function per percentage block of 
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0.1% | 100% |  |
-| 17.5–18.5% | 1.0% | 99.9% |  |
-| 18.5–19.5% | 7% | 99.0% |  |
-| 19.5–20.5% | 21% | 92% |  |
-| 20.5–21.5% | 33% | 71% | Median |
-| 21.5–22.5% | 25% | 38% |  |
-| 22.5–23.5% | 10% | 13% |  |
-| 23.5–24.5% | 2% | 3% |  |
-| 24.5–25.5% | 0.3% | 0.3% |  |
+| 15.5–16.5% | 0.5% | 100% |  |
+| 16.5–17.5% | 3% | 99.4% |  |
+| 17.5–18.5% | 10% | 96% |  |
+| 18.5–19.5% | 17% | 87% |  |
+| 19.5–20.5% | 22% | 70% | Median |
+| 20.5–21.5% | 24% | 48% |  |
+| 21.5–22.5% | 18% | 24% |  |
+| 22.5–23.5% | 5% | 6% |  |
+| 23.5–24.5% | 0.7% | 0.8% |  |
+| 24.5–25.5% | 0.1% | 0.1% |  |
 | 25.5–26.5% | 0% | 0% |  |
 
 
@@ -846,10 +865,29 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 17–20 | 17–20 | 17–21 | 16–21 |
+| N/A | [Poll Average](average.html) | 17 | 14–19 | 14–20 | 14–20 | 13–21 |
+| [16–18 November 2021](2021-11-18-TermometroPolitico.html) | Termometro Politico | 18 | 17–19 | 17–20 | 17–20 | 17–20 |
+| [17 November 2021](2021-11-17-Index.html) | Index <br> La7 | 18 | 16–19 | 15–20 | 15–20 | 14–21 |
+| [17 November 2021](2021-11-17-Euromedia.html) | Euromedia <br> Rai 1 | 17 | 15–18 | 15–19 | 14–19 | 14–20 |
+| [10–15 November 2021](2021-11-15-SWG.html) | SWG <br> La7 | 19 | 17–20 | 17–20 | 17–20 | 16–21 |
+| [15 November 2021](2021-11-15-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
+| [8–14 November 2021](2021-11-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 14 | 14–17 | 13–17 | 13–18 | 13–19 |
+| [12 November 2021](2021-11-12-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [10 November 2021](2021-11-10-Index.html) | Index <br> La7 |  |  |  |  |  |
+| [8–10 November 2021](2021-11-10-DemosPi.html) | Demos & Pi <br> La Repubblica |  |  |  |  |  |
+| [9 November 2021](2021-11-09-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
+| [3–8 November 2021](2021-11-08-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [5–8 November 2021](2021-11-08-Ixè.html) | Ixè |  |  |  |  |  |
+| [5 November 2021](2021-11-05-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [2–4 November 2021](2021-11-04-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [3–4 November 2021](2021-11-04-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
+| [3 November 2021](2021-11-03-Index.html) | Index <br> La7 |  |  |  |  |  |
+| [2 November 2021](2021-11-02-Euromedia.html) | Euromedia <br> La Stampa |  |  |  |  |  |
+| [1–2 November 2021](2021-11-02-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [27–31 October 2021](2021-10-31-SWG.html) | SWG <br> La7 | 18 | 17–20 | 17–20 | 17–21 | 16–21 |
 | [29 October 2021](2021-10-29-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [26–28 October 2021](2021-10-28-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [28 October 2021](2021-10-28-Piepoli.html) | Piepoli <br> RaiNews24 |  |  |  |  |  |
 | [27 October 2021](2021-10-27-Index.html) | Index <br> La7 |  |  |  |  |  |
 | [25–27 October 2021](2021-10-27-Demopolis.html) | Demopolis <br> Rai Radio 1 |  |  |  |  |  |
 | [20–25 October 2021](2021-10-25-SWG.html) | SWG <br> La7 |  |  |  |  |  |
@@ -1664,16 +1702,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 0% | 100% |  |
-| 14 | 0% | 100% |  |
-| 15 | 0.1% | 100% |  |
-| 16 | 0.9% | 99.9% |  |
-| 17 | 14% | 99.0% |  |
-| 18 | 39% | 85% | Median |
-| 19 | 28% | 45% |  |
-| 20 | 13% | 17% |  |
-| 21 | 4% | 4% |  |
-| 22 | 0.1% | 0.2% |  |
+| 13 | 1.3% | 100% |  |
+| 14 | 10% | 98.7% |  |
+| 15 | 6% | 89% |  |
+| 16 | 13% | 83% |  |
+| 17 | 19% | 69% | Median |
+| 18 | 24% | 50% |  |
+| 19 | 19% | 25% |  |
+| 20 | 5% | 6% |  |
+| 21 | 0.8% | 0.9% |  |
+| 22 | 0.1% | 0.1% |  |
 | 23 | 0% | 0% |  |
 
 
