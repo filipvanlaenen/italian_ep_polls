@@ -48,7 +48,7 @@ Last result: **3.7%** (General Election of 26 May 2019)
 | [12–14 October 2021](2021-10-14-TermometroPolitico.html) | Termometro Politico | 21.9% | N/A | N/A | N/A | N/A |
 | [11–14 October 2021](2021-10-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 19.5% | N/A | N/A | N/A | N/A |
 | [6–11 October 2021](2021-10-11-SWG.html) | SWG <br> La7 | 21.6% | N/A | N/A | N/A | N/A |
-| [3–7 October 2021](2021-10-07-BiDiMedia.html) | BiDiMedia | 20.4% | N/A | N/A | N/A | N/A |
+| [3–7 October 2021](2021-10-07-BiDiMedia.html) | BiDiMedia | 20.4% | 19.2–21.6% | 18.9–21.9% | 18.6–22.3% | 18.1–22.8% |
 | [2–3 October 2021](2021-10-03-BiDiMedia.html) | BiDiMedia | 20.2% | N/A | N/A | N/A | N/A |
 | [14–17 September 2021](2021-09-17-Ixè.html) | Ixè | 18.2% | N/A | N/A | N/A | N/A |
 | [14–16 September 2021](2021-09-16-TermometroPolitico.html) | Termometro Politico | 21.0% | N/A | N/A | N/A | N/A |
@@ -903,7 +903,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [12–14 October 2021](2021-10-14-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [11–14 October 2021](2021-10-14-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
 | [6–11 October 2021](2021-10-11-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [3–7 October 2021](2021-10-07-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
+| [3–7 October 2021](2021-10-07-BiDiMedia.html) | BiDiMedia | 17 | 16–18 | 16–18 | 15–19 | 15–19 |
 | [2–3 October 2021](2021-10-03-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
 | [14–17 September 2021](2021-09-17-Ixè.html) | Ixè |  |  |  |  |  |
 | [14–16 September 2021](2021-09-16-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
