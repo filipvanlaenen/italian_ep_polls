@@ -10,7 +10,10 @@ Last result: **6.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.5% | 17.7–21.3% | 17.1–21.8% | 16.6–22.3% | 15.7–23.3% |
+| N/A | [Poll Average](average.html) | 19.6% | 17.6–21.7% | 17.1–22.5% | 16.6–23.3% | 15.7–24.6% |
+| [17–22 November 2021](2021-11-22-SWG.html) | SWG <br> La7 | 19.2% | 17.8–20.7% | 17.4–21.1% | 17.0–21.5% | 16.4–22.3% |
+| [19 November 2021](2021-11-19-Tecnè.html) | Tecnè <br> Agenzia Dire | 19.1% | 17.6–20.8% | 17.1–21.2% | 16.8–21.7% | 16.1–22.5% |
+| [16–18 November 2021](2021-11-18-Winpoll.html) | Winpoll <br> Il Sole 24 Ore | 22.5% | 20.9–24.3% | 20.4–24.8% | 20.0–25.2% | 19.3–26.1% |
 | [16–18 November 2021](2021-11-18-TermometroPolitico.html) | Termometro Politico | 20.4% | 19.5–21.4% | 19.3–21.6% | 19.0–21.8% | 18.6–22.3% |
 | [17 November 2021](2021-11-17-Index.html) | Index <br> La7 | 19.1% | 17.4–21.0% | 16.9–21.5% | 16.5–22.0% | 15.8–22.9% |
 | [17 November 2021](2021-11-17-Euromedia.html) | Euromedia <br> Rai 1 | 18.9% | 17.2–20.7% | 16.7–21.3% | 16.3–21.7% | 15.5–22.7% |
@@ -845,13 +848,15 @@ The following table shows the probability mass function per percentage block of 
 | 15.5–16.5% | 2% | 99.6% |  |
 | 16.5–17.5% | 7% | 98% |  |
 | 17.5–18.5% | 16% | 91% |  |
-| 18.5–19.5% | 26% | 76% |  |
-| 19.5–20.5% | 27% | 50% | Median |
-| 20.5–21.5% | 16% | 23% |  |
-| 21.5–22.5% | 5% | 7% |  |
-| 22.5–23.5% | 1.3% | 2% |  |
-| 23.5–24.5% | 0.3% | 0.3% |  |
-| 24.5–25.5% | 0% | 0% |  |
+| 18.5–19.5% | 25% | 75% |  |
+| 19.5–20.5% | 25% | 51% | Median |
+| 20.5–21.5% | 15% | 26% |  |
+| 21.5–22.5% | 6% | 11% |  |
+| 22.5–23.5% | 3% | 5% |  |
+| 23.5–24.5% | 1.4% | 2% |  |
+| 24.5–25.5% | 0.4% | 0.6% |  |
+| 25.5–26.5% | 0.1% | 0.1% |  |
+| 26.5–27.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -862,7 +867,10 @@ Last result: **5** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 15–18 | 14–19 | 14–19 | 13–20 |
+| N/A | [Poll Average](average.html) | 17 | 15–19 | 14–19 | 14–20 | 13–21 |
+| [17–22 November 2021](2021-11-22-SWG.html) | SWG <br> La7 | 17 | 16–18 | 16–18 | 15–19 | 15–20 |
+| [19 November 2021](2021-11-19-Tecnè.html) | Tecnè <br> Agenzia Dire | 16 | 15–18 | 15–18 | 14–19 | 14–20 |
+| [16–18 November 2021](2021-11-18-Winpoll.html) | Winpoll <br> Il Sole 24 Ore | 19 | 18–20 | 17–21 | 17–21 | 16–22 |
 | [16–18 November 2021](2021-11-18-TermometroPolitico.html) | Termometro Politico | 17 | 16–18 | 16–19 | 16–19 | 15–20 |
 | [17 November 2021](2021-11-17-Index.html) | Index <br> La7 | 17 | 15–19 | 14–19 | 14–20 | 13–20 |
 | [17 November 2021](2021-11-17-Euromedia.html) | Euromedia <br> Rai 1 | 16 | 14–18 | 14–18 | 14–19 | 13–19 |
@@ -1696,13 +1704,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0.1% | 100% |  |
 | 13 | 1.2% | 99.9% |  |
 | 14 | 7% | 98.7% |  |
-| 15 | 15% | 91% |  |
-| 16 | 27% | 76% | Median |
-| 17 | 27% | 49% |  |
-| 18 | 14% | 22% |  |
-| 19 | 7% | 8% |  |
-| 20 | 0.8% | 0.8% |  |
-| 21 | 0.1% | 0.1% |  |
-| 22 | 0% | 0% |  |
+| 15 | 14% | 91% |  |
+| 16 | 25% | 77% |  |
+| 17 | 25% | 52% | Median |
+| 18 | 16% | 27% |  |
+| 19 | 9% | 11% |  |
+| 20 | 2% | 3% |  |
+| 21 | 0.6% | 0.7% |  |
+| 22 | 0.1% | 0.1% |  |
+| 23 | 0% | 0% |  |
 
 
