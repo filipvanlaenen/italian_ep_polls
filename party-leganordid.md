@@ -10,7 +10,7 @@ Last result: **6.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.6% | 17.8–21.6% | 17.2–22.4% | 16.7–23.2% | 15.8–24.5% |
+| N/A | [Poll Average](average.html) | 19.6% | 17.7–21.6% | 17.2–22.4% | 16.7–23.2% | 15.8–24.5% |
 | [29–30 November 2021](2021-11-30-Demopolis.html) | Demopolis <br> La7 | 19.8% | 18.6–21.0% | 18.3–21.4% | 18.0–21.7% | 17.5–22.3% |
 | [24–29 November 2021](2021-11-29-SWG.html) | SWG <br> La7 | 19.6% | 18.2–21.1% | 17.8–21.6% | 17.4–21.9% | 16.8–22.7% |
 | [29 November 2021](2021-11-29-EMG.html) | EMG <br> Rai 3 | 19.4% | 18.2–20.8% | 17.8–21.1% | 17.5–21.5% | 17.0–22.1% |
@@ -27,7 +27,7 @@ Last result: **6.2%** (General Election of 26 May 2019)
 | [17 November 2021](2021-11-17-Euromedia.html) | Euromedia <br> Rai 1 | 18.9% | 17.2–20.7% | 16.7–21.3% | 16.3–21.7% | 15.5–22.7% |
 | [16 November 2021](2021-11-16-EMG.html) | EMG <br> Rai 3 | 19.2% | N/A | N/A | N/A | N/A |
 | [10–15 November 2021](2021-11-15-SWG.html) | SWG <br> La7 | 19.5% | 18.1–21.0% | 17.7–21.5% | 17.3–21.8% | 16.7–22.6% |
-| [15 November 2021](2021-11-15-Piepoli.html) | Piepoli <br> RaiNews24 | 19.2% | N/A | N/A | N/A | N/A |
+| [15 November 2021](2021-11-15-Piepoli.html) | Piepoli <br> RaiNews24 | 19.2% | 17.1–21.6% | 16.5–22.3% | 16.0–22.9% | 15.0–24.1% |
 | [15 November 2021](2021-11-15-EMG.html) | EMG <br> Rai 3 | 19.6% | 18.4–20.9% | 18.0–21.2% | 17.7–21.6% | 17.1–22.2% |
 | [8–14 November 2021](2021-11-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 20.6% | 19.0–22.3% | 18.6–22.8% | 18.2–23.2% | 17.5–24.1% |
 | [12 November 2021](2021-11-12-Tecnè.html) | Tecnè <br> Agenzia Dire | 19.1% | 17.6–20.8% | 17.1–21.2% | 16.8–21.7% | 16.1–22.5% |
@@ -854,12 +854,12 @@ The following table shows the probability mass function per percentage block of 
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0.2% | 100% |  |
+| 14.5–15.5% | 0.3% | 100% |  |
 | 15.5–16.5% | 2% | 99.7% |  |
 | 16.5–17.5% | 6% | 98% |  |
-| 17.5–18.5% | 14% | 92% |  |
-| 18.5–19.5% | 27% | 78% |  |
-| 19.5–20.5% | 27% | 51% | Median |
+| 17.5–18.5% | 15% | 92% |  |
+| 18.5–19.5% | 26% | 77% |  |
+| 19.5–20.5% | 26% | 51% | Median |
 | 20.5–21.5% | 14% | 25% |  |
 | 21.5–22.5% | 6% | 10% |  |
 | 22.5–23.5% | 3% | 4% |  |
@@ -894,7 +894,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [17 November 2021](2021-11-17-Euromedia.html) | Euromedia <br> Rai 1 | 16 | 14–18 | 14–18 | 14–19 | 13–19 |
 | [16 November 2021](2021-11-16-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [10–15 November 2021](2021-11-15-SWG.html) | SWG <br> La7 | 17 | 16–18 | 16–19 | 15–19 | 15–20 |
-| [15 November 2021](2021-11-15-Piepoli.html) | Piepoli <br> RaiNews24 |  |  |  |  |  |
+| [15 November 2021](2021-11-15-Piepoli.html) | Piepoli <br> RaiNews24 | 16 | 14–17 | 13–18 | 13–18 | 12–19 |
 | [15 November 2021](2021-11-15-EMG.html) | EMG <br> Rai 3 | 18 | 16–19 | 16–19 | 15–19 | 14–20 |
 | [8–14 November 2021](2021-11-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 17 | 16–18 | 15–19 | 15–19 | 14–20 |
 | [12 November 2021](2021-11-12-Tecnè.html) | Tecnè <br> Agenzia Dire | 16 | 15–18 | 15–18 | 14–19 | 14–19 |
@@ -1722,12 +1722,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0.1% | 100% |  |
-| 13 | 0.7% | 99.9% |  |
-| 14 | 7% | 99.3% |  |
-| 15 | 14% | 93% |  |
-| 16 | 29% | 78% | Median |
-| 17 | 28% | 49% |  |
-| 18 | 13% | 21% |  |
+| 13 | 1.1% | 99.9% |  |
+| 14 | 7% | 98.8% |  |
+| 15 | 15% | 91% |  |
+| 16 | 29% | 77% | Median |
+| 17 | 28% | 47% |  |
+| 18 | 12% | 20% |  |
 | 19 | 6% | 8% |  |
 | 20 | 2% | 2% |  |
 | 21 | 0.5% | 0.6% |  |
