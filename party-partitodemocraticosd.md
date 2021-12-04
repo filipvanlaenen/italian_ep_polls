@@ -10,13 +10,13 @@ Last result: **40.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.5% | 19.8–23.5% | 19.4–24.2% | 19.0–24.8% | 18.2–25.9% |
+| N/A | [Poll Average](average.html) | 21.5% | 19.8–23.4% | 19.4–24.0% | 19.0–24.6% | 18.2–25.8% |
 | [29–30 November 2021](2021-11-30-Demopolis.html) | Demopolis <br> La7 | 21.6% | 20.4–22.9% | 20.1–23.3% | 19.8–23.6% | 19.2–24.2% |
 | [24–29 November 2021](2021-11-29-SWG.html) | SWG <br> La7 | 22.0% | 20.5–23.6% | 20.1–24.1% | 19.7–24.4% | 19.1–25.2% |
 | [29 November 2021](2021-11-29-EMG.html) | EMG <br> Rai 3 | 20.7% | 19.4–22.1% | 19.1–22.4% | 18.8–22.8% | 18.2–23.4% |
-| [26 November 2021](2021-11-26-Tecnè.html) | Tecnè <br> Agenzia Dire | 21.1% | N/A | N/A | N/A | N/A |
-| [23–25 November 2021](2021-11-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 21.3% | N/A | N/A | N/A | N/A |
-| [22–25 November 2021](2021-11-25-BiDiMedia.html) | BiDiMedia | 22.1% | N/A | N/A | N/A | N/A |
+| [26 November 2021](2021-11-26-Tecnè.html) | Tecnè <br> Agenzia Dire | 21.1% | 19.5–22.8% | 19.1–23.3% | 18.7–23.7% | 17.9–24.6% |
+| [23–25 November 2021](2021-11-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 21.3% | 19.7–23.0% | 19.3–23.5% | 18.9–24.0% | 18.1–24.8% |
+| [22–25 November 2021](2021-11-25-BiDiMedia.html) | BiDiMedia | 22.1% | 21.5–22.9% | 21.3–23.1% | 21.1–23.2% | 20.8–23.6% |
 | [24 November 2021](2021-11-24-Index.html) | Index <br> La7 | 21.4% | N/A | N/A | N/A | N/A |
 | [23 November 2021](2021-11-23-EMG.html) | EMG <br> Rai 3 | 20.6% | N/A | N/A | N/A | N/A |
 | [17–22 November 2021](2021-11-22-SWG.html) | SWG <br> La7 | 21.7% | 20.2–23.3% | 19.8–23.7% | 19.4–24.1% | 18.7–24.9% |
@@ -848,15 +848,15 @@ The following table shows the probability mass function per percentage block of 
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0.1% | 100% |  |
 | 17.5–18.5% | 0.9% | 99.9% |  |
-| 18.5–19.5% | 6% | 99.0% |  |
-| 19.5–20.5% | 18% | 93% |  |
-| 20.5–21.5% | 28% | 75% | Median |
-| 21.5–22.5% | 24% | 47% |  |
-| 22.5–23.5% | 14% | 23% |  |
-| 23.5–24.5% | 6% | 10% |  |
+| 18.5–19.5% | 5% | 99.0% |  |
+| 19.5–20.5% | 17% | 94% |  |
+| 20.5–21.5% | 27% | 76% |  |
+| 21.5–22.5% | 27% | 49% | Median |
+| 22.5–23.5% | 14% | 22% |  |
+| 23.5–24.5% | 5% | 8% |  |
 | 24.5–25.5% | 2% | 3% |  |
-| 25.5–26.5% | 0.7% | 0.9% |  |
-| 26.5–27.5% | 0.2% | 0.2% |  |
+| 25.5–26.5% | 0.6% | 0.7% |  |
+| 26.5–27.5% | 0.1% | 0.1% |  |
 | 27.5–28.5% | 0% | 0% |  |
 | 28.5–29.5% | 0% | 0% |  |
 | 29.5–30.5% | 0% | 0% |  |
@@ -885,9 +885,9 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [29–30 November 2021](2021-11-30-Demopolis.html) | Demopolis <br> La7 | 17 | 16–18 | 15–18 | 15–18 | 15–19 |
 | [24–29 November 2021](2021-11-29-SWG.html) | SWG <br> La7 | 19 | 17–20 | 17–20 | 16–20 | 16–21 |
 | [29 November 2021](2021-11-29-EMG.html) | EMG <br> Rai 3 | 17 | 16–18 | 15–18 | 15–19 | 15–19 |
-| [26 November 2021](2021-11-26-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
-| [23–25 November 2021](2021-11-25-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
-| [22–25 November 2021](2021-11-25-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
+| [26 November 2021](2021-11-26-Tecnè.html) | Tecnè <br> Agenzia Dire | 17 | 16–19 | 16–19 | 15–20 | 15–20 |
+| [23–25 November 2021](2021-11-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 17 | 15–18 | 15–19 | 15–19 | 14–19 |
+| [22–25 November 2021](2021-11-25-BiDiMedia.html) | BiDiMedia | 17 | 17–18 | 17–18 | 17–18 | 17–19 |
 | [24 November 2021](2021-11-24-Index.html) | Index <br> La7 |  |  |  |  |  |
 | [23 November 2021](2021-11-23-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [17–22 November 2021](2021-11-22-SWG.html) | SWG <br> La7 | 18 | 17–19 | 17–20 | 16–21 | 16–21 |
@@ -1719,15 +1719,15 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 13 | 0.1% | 100% |  |
-| 14 | 0.9% | 99.9% |  |
-| 15 | 7% | 99.1% |  |
-| 16 | 22% | 92% |  |
-| 17 | 31% | 70% | Median |
-| 18 | 23% | 39% |  |
-| 19 | 11% | 16% |  |
-| 20 | 4% | 5% |  |
-| 21 | 0.9% | 1.1% |  |
-| 22 | 0.2% | 0.2% |  |
+| 14 | 0.7% | 99.9% |  |
+| 15 | 7% | 99.2% |  |
+| 16 | 20% | 92% |  |
+| 17 | 34% | 72% | Median |
+| 18 | 24% | 38% |  |
+| 19 | 10% | 14% |  |
+| 20 | 3% | 4% |  |
+| 21 | 0.8% | 0.9% |  |
+| 22 | 0.1% | 0.1% |  |
 | 23 | 0% | 0% |  |
 | 24 | 0% | 0% |  |
 | 25 | 0% | 0% |  |

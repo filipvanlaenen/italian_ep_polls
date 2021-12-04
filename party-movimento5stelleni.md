@@ -10,13 +10,13 @@ Last result: **21.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.5% | 13.6–18.4% | 11.5–19.1% | 10.8–19.7% | 9.9–20.9% |
+| N/A | [Poll Average](average.html) | 16.3% | 14.4–18.2% | 11.8–18.9% | 11.0–19.5% | 10.0–20.7% |
 | [29–30 November 2021](2021-11-30-Demopolis.html) | Demopolis <br> La7 | 16.3% | 15.2–17.5% | 14.9–17.8% | 14.6–18.1% | 14.1–18.6% |
 | [24–29 November 2021](2021-11-29-SWG.html) | SWG <br> La7 | 16.4% | 15.1–17.9% | 14.7–18.3% | 14.4–18.6% | 13.8–19.3% |
 | [29 November 2021](2021-11-29-EMG.html) | EMG <br> Rai 3 | 16.1% | 14.9–17.3% | 14.6–17.7% | 14.3–18.0% | 13.8–18.6% |
-| [26 November 2021](2021-11-26-Tecnè.html) | Tecnè <br> Agenzia Dire | 16.5% | N/A | N/A | N/A | N/A |
-| [23–25 November 2021](2021-11-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 15.9% | N/A | N/A | N/A | N/A |
-| [22–25 November 2021](2021-11-25-BiDiMedia.html) | BiDiMedia | 15.9% | N/A | N/A | N/A | N/A |
+| [26 November 2021](2021-11-26-Tecnè.html) | Tecnè <br> Agenzia Dire | 16.5% | 15.1–18.1% | 14.7–18.5% | 14.3–18.9% | 13.7–19.7% |
+| [23–25 November 2021](2021-11-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 15.9% | 14.5–17.5% | 14.1–17.9% | 13.8–18.3% | 13.1–19.1% |
+| [22–25 November 2021](2021-11-25-BiDiMedia.html) | BiDiMedia | 15.9% | 15.3–16.6% | 15.2–16.8% | 15.0–16.9% | 14.7–17.2% |
 | [24 November 2021](2021-11-24-Index.html) | Index <br> La7 | 16.5% | N/A | N/A | N/A | N/A |
 | [23 November 2021](2021-11-23-EMG.html) | EMG <br> Rai 3 | 16.2% | N/A | N/A | N/A | N/A |
 | [17–22 November 2021](2021-11-22-SWG.html) | SWG <br> La7 | 16.3% | 15.0–17.8% | 14.7–18.2% | 14.3–18.5% | 13.7–19.3% |
@@ -847,18 +847,18 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0.2% | 100% |  |
-| 9.5–10.5% | 2% | 99.8% |  |
-| 10.5–11.5% | 4% | 98% |  |
-| 11.5–12.5% | 3% | 95% |  |
-| 12.5–13.5% | 1.4% | 91% |  |
-| 13.5–14.5% | 3% | 90% |  |
-| 14.5–15.5% | 12% | 87% |  |
-| 15.5–16.5% | 28% | 75% | Median |
-| 16.5–17.5% | 26% | 47% |  |
-| 17.5–18.5% | 12% | 21% |  |
-| 18.5–19.5% | 6% | 9% |  |
-| 19.5–20.5% | 2% | 3% |  |
-| 20.5–21.5% | 0.7% | 0.8% | Last Result |
+| 9.5–10.5% | 1.2% | 99.8% |  |
+| 10.5–11.5% | 3% | 98.6% |  |
+| 11.5–12.5% | 2% | 96% |  |
+| 12.5–13.5% | 1.2% | 93% |  |
+| 13.5–14.5% | 3% | 92% |  |
+| 14.5–15.5% | 14% | 89% |  |
+| 15.5–16.5% | 32% | 75% | Median |
+| 16.5–17.5% | 24% | 43% |  |
+| 17.5–18.5% | 11% | 18% |  |
+| 18.5–19.5% | 5% | 7% |  |
+| 19.5–20.5% | 2% | 2% |  |
+| 20.5–21.5% | 0.5% | 0.6% | Last Result |
 | 21.5–22.5% | 0.1% | 0.1% |  |
 | 22.5–23.5% | 0% | 0% |  |
 
@@ -871,13 +871,13 @@ Last result: **17** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 11–16 | 10–16 | 9–17 | 8–18 |
+| N/A | [Poll Average](average.html) | 14 | 12–16 | 10–16 | 9–17 | 9–18 |
 | [29–30 November 2021](2021-11-30-Demopolis.html) | Demopolis <br> La7 | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
 | [24–29 November 2021](2021-11-29-SWG.html) | SWG <br> La7 | 15 | 13–16 | 13–16 | 13–16 | 12–17 |
 | [29 November 2021](2021-11-29-EMG.html) | EMG <br> Rai 3 | 14 | 13–15 | 13–15 | 12–16 | 12–16 |
-| [26 November 2021](2021-11-26-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
-| [23–25 November 2021](2021-11-25-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
-| [22–25 November 2021](2021-11-25-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
+| [26 November 2021](2021-11-26-Tecnè.html) | Tecnè <br> Agenzia Dire | 14 | 13–16 | 13–16 | 12–16 | 12–17 |
+| [23–25 November 2021](2021-11-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 13 | 12–14 | 12–15 | 11–15 | 11–16 |
+| [22–25 November 2021](2021-11-25-BiDiMedia.html) | BiDiMedia | 14 | 13–14 | 13–14 | 13–14 | 12–14 |
 | [24 November 2021](2021-11-24-Index.html) | Index <br> La7 |  |  |  |  |  |
 | [23 November 2021](2021-11-23-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [17–22 November 2021](2021-11-22-SWG.html) | SWG <br> La7 | 16 | 14–16 | 13–17 | 13–17 | 12–17 |
@@ -1708,17 +1708,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 8 | 0.6% | 100% |  |
-| 9 | 4% | 99.4% |  |
-| 10 | 4% | 96% |  |
-| 11 | 2% | 92% |  |
-| 12 | 6% | 90% |  |
-| 13 | 25% | 84% |  |
-| 14 | 29% | 59% | Median |
-| 15 | 18% | 30% |  |
-| 16 | 7% | 12% |  |
-| 17 | 3% | 4% | Last Result |
-| 18 | 1.5% | 2% |  |
+| 8 | 0.4% | 100% |  |
+| 9 | 3% | 99.6% |  |
+| 10 | 3% | 97% |  |
+| 11 | 2% | 94% |  |
+| 12 | 6% | 92% |  |
+| 13 | 27% | 86% |  |
+| 14 | 33% | 59% | Median |
+| 15 | 16% | 26% |  |
+| 16 | 6% | 10% |  |
+| 17 | 2% | 4% | Last Result |
+| 18 | 1.2% | 1.2% |  |
 | 19 | 0.1% | 0.1% |  |
 | 20 | 0% | 0% |  |
 
