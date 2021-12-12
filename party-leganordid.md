@@ -10,15 +10,15 @@ Last result: **6.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.6% | 17.9–22.0% | 17.4–22.8% | 16.9–23.6% | 16.0–24.8% |
+| N/A | [Poll Average](average.html) | 19.5% | 17.7–21.5% | 17.1–22.4% | 16.6–23.2% | 15.5–24.5% |
 | [7–9 December 2021](2021-12-09-Index.html) | Index <br> La7 | 19.1% | 17.4–21.0% | 16.9–21.5% | 16.5–22.0% | 15.8–22.9% |
 | [1–6 December 2021](2021-12-06-SWG.html) | SWG <br> La7 | 19.2% | 17.8–20.8% | 17.5–21.2% | 17.1–21.6% | 16.5–22.3% |
-| [5 December 2021](2021-12-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 18.2% | N/A | N/A | N/A | N/A |
-| [3 December 2021](2021-12-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 19.0% | N/A | N/A | N/A | N/A |
-| [1–2 December 2021](2021-12-02-TermometroPolitico.html) | Termometro Politico | 19.9% | N/A | N/A | N/A | N/A |
-| [1 December 2021](2021-12-01-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 18.6% | N/A | N/A | N/A | N/A |
+| [5 December 2021](2021-12-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 18.2% | 16.1–20.6% | 15.6–21.2% | 15.1–21.8% | 14.1–23.0% |
+| [3 December 2021](2021-12-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 19.0% | 17.5–20.7% | 17.1–21.1% | 16.7–21.6% | 16.0–22.4% |
+| [1–2 December 2021](2021-12-02-TermometroPolitico.html) | Termometro Politico | 19.9% | 19.0–20.8% | 18.7–21.1% | 18.5–21.3% | 18.1–21.7% |
+| [1 December 2021](2021-12-01-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 18.6% | 17.1–20.3% | 16.7–20.7% | 16.3–21.1% | 15.6–21.9% |
 | [30 November–1 December 2021](2021-12-01-Index.html) | Index <br> La7 | 19.1% | N/A | N/A | N/A | N/A |
-| [30 November 2021](2021-11-30-EMG.html) | EMG <br> Rai 3 | 19.4% | N/A | N/A | N/A | N/A |
+| [30 November 2021](2021-11-30-EMG.html) | EMG <br> Rai 3 | 19.4% | 18.1–20.8% | 17.7–21.2% | 17.4–21.5% | 16.8–22.2% |
 | [29–30 November 2021](2021-11-30-Demopolis.html) | Demopolis <br> La7 | 19.8% | 18.6–21.0% | 18.3–21.4% | 18.0–21.7% | 17.5–22.3% |
 | [24–29 November 2021](2021-11-29-SWG.html) | SWG <br> La7 | 19.6% | 18.2–21.1% | 17.8–21.6% | 17.4–21.9% | 16.8–22.7% |
 | [29 November 2021](2021-11-29-EMG.html) | EMG <br> Rai 3 | 19.4% | 18.2–20.8% | 17.8–21.1% | 17.5–21.5% | 17.0–22.1% |
@@ -861,18 +861,18 @@ The following table shows the probability mass function per percentage block of 
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0% | 100% |  |
-| 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0.2% | 100% |  |
-| 15.5–16.5% | 1.2% | 99.8% |  |
-| 16.5–17.5% | 5% | 98.5% |  |
-| 17.5–18.5% | 14% | 93% |  |
-| 18.5–19.5% | 27% | 80% |  |
-| 19.5–20.5% | 25% | 52% | Median |
-| 20.5–21.5% | 14% | 27% |  |
-| 21.5–22.5% | 7% | 13% |  |
-| 22.5–23.5% | 4% | 6% |  |
-| 23.5–24.5% | 2% | 3% |  |
-| 24.5–25.5% | 0.6% | 0.7% |  |
+| 13.5–14.5% | 0.1% | 100% |  |
+| 14.5–15.5% | 0.4% | 99.9% |  |
+| 15.5–16.5% | 2% | 99.5% |  |
+| 16.5–17.5% | 6% | 98% |  |
+| 17.5–18.5% | 16% | 91% |  |
+| 18.5–19.5% | 28% | 76% | Median |
+| 19.5–20.5% | 26% | 48% |  |
+| 20.5–21.5% | 12% | 22% |  |
+| 21.5–22.5% | 5% | 10% |  |
+| 22.5–23.5% | 3% | 4% |  |
+| 23.5–24.5% | 1.2% | 2% |  |
+| 24.5–25.5% | 0.4% | 0.5% |  |
 | 25.5–26.5% | 0.1% | 0.1% |  |
 | 26.5–27.5% | 0% | 0% |  |
 
@@ -885,15 +885,15 @@ Last result: **5** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 15–18 | 14–19 | 14–20 | 13–21 |
+| N/A | [Poll Average](average.html) | 16 | 15–18 | 14–19 | 14–19 | 13–21 |
 | [7–9 December 2021](2021-12-09-Index.html) | Index <br> La7 | 17 | 15–18 | 15–20 | 15–20 | 14–20 |
 | [1–6 December 2021](2021-12-06-SWG.html) | SWG <br> La7 | 17 | 16–18 | 16–19 | 15–19 | 14–20 |
-| [5 December 2021](2021-12-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
-| [3 December 2021](2021-12-03-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
-| [1–2 December 2021](2021-12-02-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [1 December 2021](2021-12-01-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
+| [5 December 2021](2021-12-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 15 | 13–17 | 13–18 | 12–18 | 11–19 |
+| [3 December 2021](2021-12-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 16 | 15–18 | 14–19 | 14–19 | 13–20 |
+| [1–2 December 2021](2021-12-02-TermometroPolitico.html) | Termometro Politico | 17 | 16–17 | 16–18 | 15–18 | 15–18 |
+| [1 December 2021](2021-12-01-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 15 | 14–16 | 14–17 | 13–17 | 13–18 |
 | [30 November–1 December 2021](2021-12-01-Index.html) | Index <br> La7 |  |  |  |  |  |
-| [30 November 2021](2021-11-30-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
+| [30 November 2021](2021-11-30-EMG.html) | EMG <br> Rai 3 | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [29–30 November 2021](2021-11-30-Demopolis.html) | Demopolis <br> La7 | 16 | 15–17 | 15–17 | 15–18 | 14–18 |
 | [24–29 November 2021](2021-11-29-SWG.html) | SWG <br> La7 | 17 | 16–19 | 16–19 | 15–19 | 15–20 |
 | [29 November 2021](2021-11-29-EMG.html) | EMG <br> Rai 3 | 17 | 15–18 | 15–18 | 15–18 | 14–19 |
@@ -1737,17 +1737,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
-| 12 | 0.1% | 100% |  |
-| 13 | 1.1% | 99.9% |  |
-| 14 | 5% | 98.8% |  |
-| 15 | 14% | 94% |  |
-| 16 | 34% | 80% | Median |
-| 17 | 25% | 46% |  |
-| 18 | 12% | 21% |  |
-| 19 | 6% | 10% |  |
-| 20 | 2% | 3% |  |
-| 21 | 0.7% | 0.9% |  |
-| 22 | 0.1% | 0.2% |  |
+| 12 | 0.3% | 100% |  |
+| 13 | 2% | 99.7% |  |
+| 14 | 6% | 98% |  |
+| 15 | 18% | 92% |  |
+| 16 | 32% | 74% | Median |
+| 17 | 24% | 42% |  |
+| 18 | 10% | 17% |  |
+| 19 | 5% | 7% |  |
+| 20 | 2% | 2% |  |
+| 21 | 0.5% | 0.6% |  |
+| 22 | 0.1% | 0.1% |  |
 | 23 | 0% | 0% |  |
 
 
