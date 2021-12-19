@@ -10,9 +10,12 @@ Last result: **21.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.1% | 14.2–17.8% | 12.1–18.4% | 11.1–19.0% | 10.1–20.2% |
+| N/A | [Poll Average](average.html) | 15.9% | 13.8–17.7% | 12.0–18.3% | 11.1–18.9% | 10.0–20.2% |
+| [7–13 December 2021](2021-12-13-SWG.html) | SWG <br> La7 | 14.8% | 13.6–16.2% | 13.2–16.6% | 12.9–17.0% | 12.3–17.6% |
+| [10 December 2021](2021-12-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 15.6% | 14.2–17.2% | 13.8–17.6% | 13.5–18.0% | 12.8–18.8% |
 | [7–9 December 2021](2021-12-09-Index.html) | Index <br> La7 | 16.0% | 14.4–17.8% | 14.0–18.3% | 13.6–18.7% | 12.9–19.6% |
 | [1–6 December 2021](2021-12-06-SWG.html) | SWG <br> La7 | 15.8% | 14.5–17.2% | 14.1–17.6% | 13.8–17.9% | 13.2–18.6% |
+| [5–6 December 2021](2021-12-06-Euromedia.html) | Euromedia <br> La Stampa | 16.5% | 14.9–18.3% | 14.5–18.8% | 14.1–19.2% | 13.4–20.1% |
 | [5 December 2021](2021-12-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 16.2% | 14.3–18.5% | 13.7–19.1% | 13.2–19.7% | 12.3–20.8% |
 | [3 December 2021](2021-12-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 15.9% | 14.5–17.5% | 14.1–17.9% | 13.8–18.3% | 13.1–19.1% |
 | [1–2 December 2021](2021-12-02-TermometroPolitico.html) | Termometro Politico | 15.8% | 14.9–16.6% | 14.7–16.9% | 14.5–17.1% | 14.1–17.5% |
@@ -855,17 +858,17 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0.2% | 100% |  |
-| 9.5–10.5% | 1.0% | 99.8% |  |
-| 10.5–11.5% | 2% | 98.8% |  |
+| 9.5–10.5% | 1.1% | 99.8% |  |
+| 10.5–11.5% | 3% | 98.7% |  |
 | 11.5–12.5% | 2% | 96% |  |
 | 12.5–13.5% | 2% | 94% |  |
-| 13.5–14.5% | 5% | 93% |  |
-| 14.5–15.5% | 19% | 87% |  |
-| 15.5–16.5% | 33% | 68% | Median |
-| 16.5–17.5% | 21% | 35% |  |
-| 17.5–18.5% | 9% | 14% |  |
+| 13.5–14.5% | 7% | 91% |  |
+| 14.5–15.5% | 21% | 84% |  |
+| 15.5–16.5% | 32% | 63% | Median |
+| 16.5–17.5% | 19% | 31% |  |
+| 17.5–18.5% | 8% | 12% |  |
 | 18.5–19.5% | 3% | 4% |  |
-| 19.5–20.5% | 0.9% | 1.2% |  |
+| 19.5–20.5% | 0.8% | 1.1% |  |
 | 20.5–21.5% | 0.2% | 0.3% | Last Result |
 | 21.5–22.5% | 0.1% | 0.1% |  |
 | 22.5–23.5% | 0% | 0% |  |
@@ -880,8 +883,11 @@ Last result: **17** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 12–15 | 10–15 | 9–16 | 9–17 |
+| [7–13 December 2021](2021-12-13-SWG.html) | SWG <br> La7 | 13 | 12–14 | 12–15 | 11–15 | 11–15 |
+| [10 December 2021](2021-12-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 13 | 12–15 | 12–16 | 12–16 | 11–16 |
 | [7–9 December 2021](2021-12-09-Index.html) | Index <br> La7 | 14 | 12–16 | 12–17 | 12–17 | 11–17 |
 | [1–6 December 2021](2021-12-06-SWG.html) | SWG <br> La7 | 14 | 13–15 | 13–15 | 12–16 | 12–16 |
+| [5–6 December 2021](2021-12-06-Euromedia.html) | Euromedia <br> La Stampa | 14 | 12–15 | 12–16 | 12–16 | 11–17 |
 | [5 December 2021](2021-12-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 13 | 12–15 | 11–16 | 11–16 | 10–17 |
 | [3 December 2021](2021-12-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 14 | 12–15 | 12–16 | 12–16 | 11–17 |
 | [1–2 December 2021](2021-12-02-TermometroPolitico.html) | Termometro Politico | 13 | 12–14 | 12–14 | 12–14 | 12–15 |
@@ -1725,15 +1731,15 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 8 | 0.4% | 100% |  |
-| 9 | 2% | 99.6% |  |
+| 9 | 3% | 99.6% |  |
 | 10 | 3% | 97% |  |
 | 11 | 3% | 94% |  |
-| 12 | 12% | 92% |  |
-| 13 | 30% | 79% | Median |
-| 14 | 29% | 49% |  |
-| 15 | 15% | 20% |  |
-| 16 | 3% | 5% |  |
-| 17 | 1.1% | 1.2% | Last Result |
+| 12 | 15% | 91% |  |
+| 13 | 31% | 75% | Median |
+| 14 | 28% | 44% |  |
+| 15 | 12% | 16% |  |
+| 16 | 3% | 4% |  |
+| 17 | 1.0% | 1.1% | Last Result |
 | 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
 

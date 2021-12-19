@@ -10,9 +10,12 @@ Last result: **3.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.5% | 18.6–22.4% | 18.1–22.9% | 17.6–23.4% | 16.6–24.4% |
+| N/A | [Poll Average](average.html) | 20.5% | 18.7–22.4% | 18.1–22.9% | 17.6–23.4% | 16.6–24.4% |
+| [7–13 December 2021](2021-12-13-SWG.html) | SWG <br> La7 | 21.0% | 19.5–22.6% | 19.1–23.0% | 18.8–23.4% | 18.1–24.2% |
+| [10 December 2021](2021-12-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 21.1% | 19.5–22.8% | 19.1–23.3% | 18.7–23.7% | 17.9–24.6% |
 | [7–9 December 2021](2021-12-09-Index.html) | Index <br> La7 | 20.1% | 18.4–22.0% | 17.9–22.6% | 17.5–23.1% | 16.7–24.0% |
 | [1–6 December 2021](2021-12-06-SWG.html) | SWG <br> La7 | 20.7% | 19.2–22.2% | 18.8–22.7% | 18.5–23.1% | 17.8–23.8% |
+| [5–6 December 2021](2021-12-06-Euromedia.html) | Euromedia <br> La Stampa | 20.1% | 18.4–22.0% | 17.9–22.6% | 17.5–23.1% | 16.7–24.0% |
 | [5 December 2021](2021-12-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 20.4% | 18.2–22.9% | 17.6–23.5% | 17.1–24.2% | 16.1–25.4% |
 | [3 December 2021](2021-12-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 21.1% | 19.5–22.8% | 19.1–23.3% | 18.7–23.7% | 17.9–24.6% |
 | [1–2 December 2021](2021-12-02-TermometroPolitico.html) | Termometro Politico | 21.9% | 21.0–22.9% | 20.8–23.2% | 20.5–23.4% | 20.1–23.9% |
@@ -866,14 +869,14 @@ The following table shows the probability mass function per percentage block of 
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0.1% | 100% |  |
 | 15.5–16.5% | 0.4% | 99.9% |  |
-| 16.5–17.5% | 2% | 99.5% |  |
-| 17.5–18.5% | 7% | 98% |  |
+| 16.5–17.5% | 2% | 99.6% |  |
+| 17.5–18.5% | 6% | 98% |  |
 | 18.5–19.5% | 16% | 91% |  |
-| 19.5–20.5% | 26% | 75% | Median |
-| 20.5–21.5% | 24% | 48% |  |
-| 21.5–22.5% | 16% | 24% |  |
-| 22.5–23.5% | 6% | 8% |  |
-| 23.5–24.5% | 1.5% | 2% |  |
+| 19.5–20.5% | 26% | 76% |  |
+| 20.5–21.5% | 24% | 50% | Median |
+| 21.5–22.5% | 17% | 26% |  |
+| 22.5–23.5% | 7% | 9% |  |
+| 23.5–24.5% | 2% | 2% |  |
 | 24.5–25.5% | 0.3% | 0.4% |  |
 | 25.5–26.5% | 0.1% | 0.1% |  |
 | 26.5–27.5% | 0% | 0% |  |
@@ -888,8 +891,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17 | 15–19 | 15–19 | 14–20 | 14–21 |
+| [7–13 December 2021](2021-12-13-SWG.html) | SWG <br> La7 | 18 | 17–20 | 17–20 | 16–21 | 16–21 |
+| [10 December 2021](2021-12-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 18 | 17–20 | 16–20 | 16–21 | 15–21 |
 | [7–9 December 2021](2021-12-09-Index.html) | Index <br> La7 | 18 | 16–19 | 16–20 | 15–20 | 15–21 |
 | [1–6 December 2021](2021-12-06-SWG.html) | SWG <br> La7 | 18 | 17–20 | 17–20 | 16–21 | 16–21 |
+| [5–6 December 2021](2021-12-06-Euromedia.html) | Euromedia <br> La Stampa | 17 | 15–18 | 15–19 | 15–19 | 14–20 |
 | [5 December 2021](2021-12-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 17 | 15–19 | 14–20 | 14–20 | 13–21 |
 | [3 December 2021](2021-12-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 18 | 16–20 | 16–20 | 16–21 | 15–22 |
 | [1–2 December 2021](2021-12-02-TermometroPolitico.html) | Termometro Politico | 18 | 17–19 | 17–19 | 17–19 | 17–20 |
@@ -1748,13 +1754,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0.4% | 99.9% |  |
 | 14 | 3% | 99.5% |  |
 | 15 | 7% | 97% |  |
-| 16 | 19% | 89% |  |
-| 17 | 28% | 71% | Median |
-| 18 | 22% | 43% |  |
-| 19 | 18% | 21% |  |
-| 20 | 3% | 4% |  |
+| 16 | 18% | 90% |  |
+| 17 | 27% | 72% | Median |
+| 18 | 23% | 45% |  |
+| 19 | 17% | 22% |  |
+| 20 | 4% | 4% |  |
 | 21 | 0.7% | 0.8% |  |
-| 22 | 0.1% | 0.1% |  |
+| 22 | 0% | 0.1% |  |
 | 23 | 0% | 0% |  |
 
 
