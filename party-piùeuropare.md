@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.6% | 1.0–2.6% | 0.6–2.9% | 0.5–3.2% | 0.3–3.8% |
+| N/A | [Poll Average](average.html) | 1.6% | 0.9–2.5% | 0.6–2.9% | 0.4–3.1% | 0.3–3.7% |
+| [15–20 December 2021](2021-12-20-SWG.html) | SWG <br> La7 | 1.6% | 1.2–2.2% | 1.1–2.3% | 1.0–2.5% | 0.9–2.8% |
+| [18 December 2021](2021-12-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 1.6% | 1.2–2.4% | 1.1–2.6% | 1.0–2.8% | 0.8–3.2% |
+| [14–16 December 2021](2021-12-16-TermometroPolitico.html) | Termometro Politico | 1.6% | 1.3–1.9% | 1.2–2.0% | 1.2–2.1% | 1.1–2.2% |
+| [13–16 December 2021](2021-12-16-BiDiMedia.html) | BiDiMedia | 1.5% | 1.2–1.8% | 1.1–1.9% | 1.1–2.0% | 0.9–2.2% |
 | [7–13 December 2021](2021-12-13-SWG.html) | SWG <br> La7 | 1.6% | 1.2–2.2% | 1.1–2.3% | 1.0–2.5% | 0.9–2.8% |
 | [10 December 2021](2021-12-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 1.8% | 1.4–2.5% | 1.2–2.7% | 1.1–2.8% | 1.0–3.2% |
 | [7–9 December 2021](2021-12-09-Index.html) | Index <br> La7 | 1.6% | 1.2–2.4% | 1.1–2.6% | 0.9–2.8% | 0.8–3.2% |
@@ -856,11 +860,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 4% | 100% | Last Result |
-| 0.5–1.5% | 40% | 96% |  |
+| 0.0–0.5% | 5% | 100% | Last Result |
+| 0.5–1.5% | 39% | 95% |  |
 | 1.5–2.5% | 46% | 56% | Median |
-| 2.5–3.5% | 10% | 11% |  |
-| 3.5–4.5% | 0.9% | 0.9% |  |
+| 2.5–3.5% | 9% | 10% |  |
+| 3.5–4.5% | 0.8% | 0.8% |  |
 | 4.5–5.5% | 0% | 0% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
@@ -874,6 +878,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [15–20 December 2021](2021-12-20-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
+| [18 December 2021](2021-12-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
+| [14–16 December 2021](2021-12-16-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
+| [13–16 December 2021](2021-12-16-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
 | [7–13 December 2021](2021-12-13-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [10 December 2021](2021-12-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
 | [7–9 December 2021](2021-12-09-Index.html) | Index <br> La7 | 0 | 0 | 0 | 0 | 0 |
