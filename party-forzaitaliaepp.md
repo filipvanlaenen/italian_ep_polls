@@ -18,6 +18,7 @@ Last result: **16.8%** (General Election of 26 May 2019)
 | [20 December 2021](2021-12-20-Euromedia.html) | Euromedia | 9.0% | 7.8–10.4% | 7.5–10.8% | 7.2–11.2% | 6.7–11.9% |
 | [17 December 2021](2021-12-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 9.0% | 7.8–10.5% | 7.5–10.9% | 7.2–11.2% | 6.7–11.9% |
 | [14–16 December 2021](2021-12-16-TermometroPolitico.html) | Termometro Politico | 7.4% | 6.8–8.0% | 6.6–8.2% | 6.5–8.3% | 6.2–8.7% |
+| [14–16 December 2021](2021-12-16-Demopolis.html) | Demopolis <br> Rai Radio 1 | 7.6% | 6.8–8.4% | 6.6–8.6% | 6.5–8.8% | 6.1–9.2% |
 | [13–16 December 2021](2021-12-16-BiDiMedia.html) | BiDiMedia | 7.0% | 6.4–7.7% | 6.2–8.0% | 6.1–8.1% | 5.8–8.5% |
 | [7–13 December 2021](2021-12-13-SWG.html) | SWG <br> La7 | 8.0% | 7.1–9.1% | 6.8–9.4% | 6.6–9.7% | 6.2–10.2% |
 | [10 December 2021](2021-12-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
@@ -868,7 +869,7 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 0.4% | 100% |  |
 | 5.5–6.5% | 5% | 99.6% |  |
 | 6.5–7.5% | 26% | 95% |  |
-| 7.5–8.5% | 34% | 69% | Median |
+| 7.5–8.5% | 34% | 68% | Median |
 | 8.5–9.5% | 21% | 34% |  |
 | 9.5–10.5% | 10% | 13% |  |
 | 10.5–11.5% | 3% | 3% |  |
@@ -896,6 +897,7 @@ Last result: **13** seats (General Election of 26 May 2019)
 | [20 December 2021](2021-12-20-Euromedia.html) | Euromedia | 7 | 7–9 | 6–9 | 6–10 | 6–10 |
 | [17 December 2021](2021-12-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 8 | 7–9 | 6–9 | 6–10 | 6–10 |
 | [14–16 December 2021](2021-12-16-TermometroPolitico.html) | Termometro Politico | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
+| [14–16 December 2021](2021-12-16-Demopolis.html) | Demopolis <br> Rai Radio 1 | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
 | [13–16 December 2021](2021-12-16-BiDiMedia.html) | BiDiMedia | 6 | 6 | 5–6 | 5–7 | 5–7 |
 | [7–13 December 2021](2021-12-13-SWG.html) | SWG <br> La7 | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | [10 December 2021](2021-12-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
@@ -1746,8 +1748,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.6% | 100% |  |
 | 5 | 6% | 99.4% |  |
-| 6 | 31% | 93% |  |
-| 7 | 38% | 63% | Median |
+| 6 | 30% | 93% |  |
+| 7 | 39% | 64% | Median |
 | 8 | 17% | 25% |  |
 | 9 | 7% | 8% |  |
 | 10 | 0.9% | 1.0% |  |

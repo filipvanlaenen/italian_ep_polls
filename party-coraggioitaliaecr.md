@@ -18,6 +18,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [20 December 2021](2021-12-20-Euromedia.html) | Euromedia | 0.0% | N/A | N/A | N/A | N/A |
 | [17 December 2021](2021-12-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [14–16 December 2021](2021-12-16-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
+| [14–16 December 2021](2021-12-16-Demopolis.html) | Demopolis <br> Rai Radio 1 | 0.0% | N/A | N/A | N/A | N/A |
 | [13–16 December 2021](2021-12-16-BiDiMedia.html) | BiDiMedia | 0.7% | 0.5–1.0% | 0.5–1.1% | 0.4–1.1% | 0.4–1.3% |
 | [7–13 December 2021](2021-12-13-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [10 December 2021](2021-12-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
@@ -887,6 +888,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [20 December 2021](2021-12-20-Euromedia.html) | Euromedia |  |  |  |  |  |
 | [17 December 2021](2021-12-17-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [14–16 December 2021](2021-12-16-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [14–16 December 2021](2021-12-16-Demopolis.html) | Demopolis <br> Rai Radio 1 |  |  |  |  |  |
 | [13–16 December 2021](2021-12-16-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
 | [7–13 December 2021](2021-12-13-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [10 December 2021](2021-12-10-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |

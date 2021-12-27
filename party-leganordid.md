@@ -18,6 +18,7 @@ Last result: **6.2%** (General Election of 26 May 2019)
 | [20 December 2021](2021-12-20-Euromedia.html) | Euromedia | 18.5% | 16.8–20.4% | 16.4–20.9% | 16.0–21.4% | 15.2–22.3% |
 | [17 December 2021](2021-12-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 18.9% | 17.3–20.8% | 16.8–21.4% | 16.4–21.8% | 15.6–22.7% |
 | [14–16 December 2021](2021-12-16-TermometroPolitico.html) | Termometro Politico | 20.2% | 19.3–21.2% | 19.1–21.4% | 18.9–21.7% | 18.4–22.1% |
+| [14–16 December 2021](2021-12-16-Demopolis.html) | Demopolis <br> Rai Radio 1 | 19.6% | 18.5–20.8% | 18.2–21.2% | 18.0–21.5% | 17.4–22.0% |
 | [13–16 December 2021](2021-12-16-BiDiMedia.html) | BiDiMedia | 19.6% | 18.6–20.7% | 18.3–21.0% | 18.0–21.2% | 17.5–21.7% |
 | [7–13 December 2021](2021-12-13-SWG.html) | SWG <br> La7 | 19.8% | 18.3–21.3% | 17.9–21.7% | 17.6–22.1% | 16.9–22.9% |
 | [10 December 2021](2021-12-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 18.8% | 17.3–20.5% | 16.9–20.9% | 16.5–21.4% | 15.8–22.2% |
@@ -877,7 +878,7 @@ The following table shows the probability mass function per percentage block of 
 | 15.5–16.5% | 2% | 99.4% |  |
 | 16.5–17.5% | 6% | 97% |  |
 | 17.5–18.5% | 15% | 91% |  |
-| 18.5–19.5% | 26% | 76% |  |
+| 18.5–19.5% | 27% | 76% |  |
 | 19.5–20.5% | 28% | 49% | Median |
 | 20.5–21.5% | 15% | 21% |  |
 | 21.5–22.5% | 5% | 6% |  |
@@ -902,6 +903,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [20 December 2021](2021-12-20-Euromedia.html) | Euromedia | 15 | 14–17 | 14–18 | 14–19 | 13–20 |
 | [17 December 2021](2021-12-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 16 | 15–18 | 14–18 | 14–18 | 13–19 |
 | [14–16 December 2021](2021-12-16-TermometroPolitico.html) | Termometro Politico | 17 | 16–18 | 16–18 | 16–18 | 15–19 |
+| [14–16 December 2021](2021-12-16-Demopolis.html) | Demopolis <br> Rai Radio 1 | 16 | 15–17 | 15–17 | 15–18 | 14–18 |
 | [13–16 December 2021](2021-12-16-BiDiMedia.html) | BiDiMedia | 16 | 16–17 | 16–17 | 15–17 | 15–18 |
 | [7–13 December 2021](2021-12-13-SWG.html) | SWG <br> La7 | 17 | 16–19 | 16–19 | 15–19 | 15–20 |
 | [10 December 2021](2021-12-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 16 | 15–18 | 14–18 | 14–18 | 13–19 |
@@ -1760,10 +1762,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0.3% | 100% |  |
 | 13 | 1.4% | 99.7% |  |
 | 14 | 6% | 98% |  |
-| 15 | 20% | 93% |  |
-| 16 | 29% | 72% | Median |
-| 17 | 27% | 43% |  |
-| 18 | 12% | 16% |  |
+| 15 | 19% | 93% |  |
+| 16 | 30% | 73% | Median |
+| 17 | 27% | 44% |  |
+| 18 | 13% | 17% |  |
 | 19 | 3% | 4% |  |
 | 20 | 1.1% | 1.2% |  |
 | 21 | 0.1% | 0.1% |  |

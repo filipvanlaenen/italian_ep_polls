@@ -10,7 +10,7 @@ Last result: **3.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.5% | 18.3–22.6% | 17.6–23.1% | 17.1–23.6% | 16.1–24.5% |
+| N/A | [Poll Average](average.html) | 20.6% | 18.3–22.7% | 17.6–23.2% | 17.1–23.6% | 16.1–24.5% |
 | [21–23 December 2021](2021-12-23-TermometroPolitico.html) | Termometro Politico | 22.3% | 21.4–23.3% | 21.1–23.6% | 20.9–23.8% | 20.5–24.3% |
 | [20–22 December 2021](2021-12-22-Ipsos.html) | Ipsos <br> Corriere della Sera | 19.2% | 17.7–20.9% | 17.2–21.4% | 16.9–21.8% | 16.2–22.6% |
 | [15–20 December 2021](2021-12-20-SWG.html) | SWG <br> La7 | 20.5% | 19.1–22.1% | 18.7–22.5% | 18.3–22.9% | 17.6–23.6% |
@@ -18,6 +18,7 @@ Last result: **3.7%** (General Election of 26 May 2019)
 | [20 December 2021](2021-12-20-Euromedia.html) | Euromedia | 20.2% | 18.5–22.2% | 18.0–22.7% | 17.6–23.2% | 16.8–24.1% |
 | [17 December 2021](2021-12-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 21.2% | 19.4–23.2% | 18.9–23.7% | 18.5–24.2% | 17.7–25.1% |
 | [14–16 December 2021](2021-12-16-TermometroPolitico.html) | Termometro Politico | 21.9% | 21.0–22.8% | 20.7–23.1% | 20.5–23.4% | 20.0–23.8% |
+| [14–16 December 2021](2021-12-16-Demopolis.html) | Demopolis <br> Rai Radio 1 | 21.7% | 20.5–22.9% | 20.2–23.3% | 19.9–23.6% | 19.4–24.2% |
 | [13–16 December 2021](2021-12-16-BiDiMedia.html) | BiDiMedia | 19.5% | 18.5–20.6% | 18.2–20.9% | 17.9–21.1% | 17.5–21.7% |
 | [7–13 December 2021](2021-12-13-SWG.html) | SWG <br> La7 | 21.0% | 19.5–22.6% | 19.1–23.0% | 18.8–23.4% | 18.1–24.2% |
 | [10 December 2021](2021-12-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 21.1% | 19.5–22.8% | 19.1–23.3% | 18.7–23.7% | 17.9–24.6% |
@@ -880,10 +881,10 @@ The following table shows the probability mass function per percentage block of 
 | 16.5–17.5% | 3% | 98.9% |  |
 | 17.5–18.5% | 8% | 96% |  |
 | 18.5–19.5% | 16% | 87% |  |
-| 19.5–20.5% | 22% | 71% | Median |
-| 20.5–21.5% | 22% | 49% |  |
-| 21.5–22.5% | 17% | 27% |  |
-| 22.5–23.5% | 8% | 10% |  |
+| 19.5–20.5% | 21% | 71% |  |
+| 20.5–21.5% | 21% | 51% | Median |
+| 21.5–22.5% | 18% | 30% |  |
+| 22.5–23.5% | 9% | 12% |  |
 | 23.5–24.5% | 2% | 3% |  |
 | 24.5–25.5% | 0.4% | 0.5% |  |
 | 25.5–26.5% | 0.1% | 0.1% |  |
@@ -906,6 +907,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [20 December 2021](2021-12-20-Euromedia.html) | Euromedia | 17 | 16–20 | 16–20 | 15–20 | 14–21 |
 | [17 December 2021](2021-12-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 18 | 16–19 | 16–20 | 16–21 | 15–22 |
 | [14–16 December 2021](2021-12-16-TermometroPolitico.html) | Termometro Politico | 18 | 18–19 | 17–19 | 17–20 | 17–20 |
+| [14–16 December 2021](2021-12-16-Demopolis.html) | Demopolis <br> Rai Radio 1 | 18 | 17–19 | 17–19 | 16–20 | 16–20 |
 | [13–16 December 2021](2021-12-16-BiDiMedia.html) | BiDiMedia | 16 | 16–17 | 16–17 | 15–17 | 15–18 |
 | [7–13 December 2021](2021-12-13-SWG.html) | SWG <br> La7 | 18 | 17–20 | 17–20 | 16–21 | 16–21 |
 | [10 December 2021](2021-12-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 18 | 17–20 | 16–20 | 16–21 | 15–21 |
@@ -1770,10 +1772,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0.7% | 99.9% |  |
 | 14 | 2% | 99.3% |  |
 | 15 | 8% | 97% |  |
-| 16 | 24% | 88% |  |
-| 17 | 20% | 64% | Median |
-| 18 | 20% | 45% |  |
-| 19 | 19% | 24% |  |
+| 16 | 21% | 88% |  |
+| 17 | 19% | 67% | Median |
+| 18 | 22% | 48% |  |
+| 19 | 20% | 26% |  |
 | 20 | 5% | 6% |  |
 | 21 | 0.8% | 0.9% |  |
 | 22 | 0.1% | 0.1% |  |

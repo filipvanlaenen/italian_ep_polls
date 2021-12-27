@@ -18,6 +18,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [20 December 2021](2021-12-20-Euromedia.html) | Euromedia | 2.1% | 1.6–2.9% | 1.4–3.2% | 1.3–3.4% | 1.1–3.8% |
 | [17 December 2021](2021-12-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.1% | 1.6–3.0% | 1.4–3.2% | 1.3–3.4% | 1.1–3.8% |
 | [14–16 December 2021](2021-12-16-TermometroPolitico.html) | Termometro Politico | 2.7% | 2.3–3.1% | 2.3–3.2% | 2.2–3.3% | 2.0–3.5% |
+| [14–16 December 2021](2021-12-16-Demopolis.html) | Demopolis <br> Rai Radio 1 | 1.8% | 1.5–2.3% | 1.4–2.4% | 1.3–2.5% | 1.2–2.8% |
 | [13–16 December 2021](2021-12-16-BiDiMedia.html) | BiDiMedia | 1.8% | 1.4–2.2% | 1.4–2.3% | 1.3–2.4% | 1.2–2.6% |
 | [7–13 December 2021](2021-12-13-SWG.html) | SWG <br> La7 | 2.2% | 1.7–2.8% | 1.6–3.0% | 1.5–3.2% | 1.3–3.5% |
 | [10 December 2021](2021-12-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
@@ -865,8 +866,8 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 8% | 100% |  |
-| 1.5–2.5% | 52% | 92% | Median |
+| 0.5–1.5% | 9% | 100% |  |
+| 1.5–2.5% | 51% | 91% | Median |
 | 2.5–3.5% | 29% | 40% |  |
 | 3.5–4.5% | 7% | 11% |  |
 | 4.5–5.5% | 4% | 4% |  |
@@ -890,6 +891,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [20 December 2021](2021-12-20-Euromedia.html) | Euromedia | 0 | 0 | 0 | 0 | 0 |
 | [17 December 2021](2021-12-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
 | [14–16 December 2021](2021-12-16-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
+| [14–16 December 2021](2021-12-16-Demopolis.html) | Demopolis <br> Rai Radio 1 | 0 | 0 | 0 | 0 | 0 |
 | [13–16 December 2021](2021-12-16-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
 | [7–13 December 2021](2021-12-13-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [10 December 2021](2021-12-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
