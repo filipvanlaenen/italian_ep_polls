@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.1% | 1.5–3.5% | 1.3–4.4% | 1.2–4.7% | 1.0–5.3% |
+| N/A | [Poll Average](average.html) | 2.2% | 1.5–3.5% | 1.4–4.2% | 1.3–4.6% | 1.0–5.2% |
 | [21–23 December 2021](2021-12-23-TermometroPolitico.html) | Termometro Politico | 2.7% | 2.4–3.1% | 2.3–3.2% | 2.2–3.4% | 2.1–3.6% |
 | [20–22 December 2021](2021-12-22-Ipsos.html) | Ipsos <br> Corriere della Sera | 1.8% | 1.4–2.5% | 1.2–2.7% | 1.1–2.8% | 1.0–3.2% |
 | [20–22 December 2021](2021-12-22-DemosPi.html) | Demos & Pi <br> La Repubblica | 2.1% | 1.6–2.8% | 1.4–3.0% | 1.3–3.2% | 1.1–3.6% |
@@ -24,13 +24,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [13–16 December 2021](2021-12-16-BiDiMedia.html) | BiDiMedia | 1.7% | 1.4–2.1% | 1.3–2.2% | 1.3–2.3% | 1.1–2.5% |
 | [7–13 December 2021](2021-12-13-SWG.html) | SWG <br> La7 | 2.1% | N/A | N/A | N/A | N/A |
 | [10 December 2021](2021-12-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.4% | N/A | N/A | N/A | N/A |
-| [7–9 December 2021](2021-12-09-Index.html) | Index <br> La7 | 2.5% | N/A | N/A | N/A | N/A |
+| [7–9 December 2021](2021-12-09-Index.html) | Index <br> La7 | 2.5% | 1.9–3.4% | 1.8–3.6% | 1.6–3.8% | 1.4–4.3% |
 | [1–6 December 2021](2021-12-06-SWG.html) | SWG <br> La7 | 2.5% | N/A | N/A | N/A | N/A |
 | [5–6 December 2021](2021-12-06-Euromedia.html) | Euromedia <br> La Stampa | 2.2% | N/A | N/A | N/A | N/A |
-| [5 December 2021](2021-12-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 2.6% | N/A | N/A | N/A | N/A |
+| [5 December 2021](2021-12-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 2.6% | 1.9–3.8% | 1.7–4.1% | 1.5–4.4% | 1.2–5.0% |
 | [3 December 2021](2021-12-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.5% | N/A | N/A | N/A | N/A |
 | [1–2 December 2021](2021-12-02-TermometroPolitico.html) | Termometro Politico | 2.6% | N/A | N/A | N/A | N/A |
-| [1 December 2021](2021-12-01-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 2.5% | N/A | N/A | N/A | N/A |
+| [1 December 2021](2021-12-01-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
 | [30 November–1 December 2021](2021-12-01-Index.html) | Index <br> La7 | 2.5% | N/A | N/A | N/A | N/A |
 | [30 November 2021](2021-11-30-EMG.html) | EMG <br> Rai 3 | 4.4% | N/A | N/A | N/A | N/A |
 | [29–30 November 2021](2021-11-30-Demopolis.html) | Demopolis <br> La7 | 1.9% | N/A | N/A | N/A | N/A |
@@ -868,10 +868,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 13% | 100% |  |
-| 1.5–2.5% | 59% | 87% | Median |
-| 2.5–3.5% | 18% | 28% |  |
-| 3.5–4.5% | 6% | 10% |  |
+| 0.5–1.5% | 11% | 100% |  |
+| 1.5–2.5% | 55% | 89% | Median |
+| 2.5–3.5% | 25% | 34% |  |
+| 3.5–4.5% | 7% | 9% |  |
 | 4.5–5.5% | 3% | 3% |  |
 | 5.5–6.5% | 0.2% | 0.2% |  |
 | 6.5–7.5% | 0% | 0% |  |
@@ -899,13 +899,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [13–16 December 2021](2021-12-16-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
 | [7–13 December 2021](2021-12-13-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [10 December 2021](2021-12-10-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
-| [7–9 December 2021](2021-12-09-Index.html) | Index <br> La7 |  |  |  |  |  |
+| [7–9 December 2021](2021-12-09-Index.html) | Index <br> La7 | 0 | 0 | 0 | 0 | 0–4 |
 | [1–6 December 2021](2021-12-06-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [5–6 December 2021](2021-12-06-Euromedia.html) | Euromedia <br> La Stampa |  |  |  |  |  |
-| [5 December 2021](2021-12-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
+| [5 December 2021](2021-12-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | [3 December 2021](2021-12-03-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [1–2 December 2021](2021-12-02-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [1 December 2021](2021-12-01-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
+| [1 December 2021](2021-12-01-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0 | 0–3 |
 | [30 November–1 December 2021](2021-12-01-Index.html) | Index <br> La7 |  |  |  |  |  |
 | [30 November 2021](2021-11-30-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [29–30 November 2021](2021-11-30-Demopolis.html) | Demopolis <br> La7 |  |  |  |  |  |
@@ -1744,12 +1744,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 92% | 100% | Last Result, Median |
-| 1 | 0% | 8% |  |
-| 2 | 0% | 8% |  |
-| 3 | 0.1% | 8% |  |
-| 4 | 7% | 8% |  |
-| 5 | 0.8% | 0.8% |  |
+| 0 | 93% | 100% | Last Result, Median |
+| 1 | 0% | 7% |  |
+| 2 | 0% | 7% |  |
+| 3 | 0.3% | 7% |  |
+| 4 | 6% | 6% |  |
+| 5 | 0.6% | 0.6% |  |
 | 6 | 0% | 0% |  |
 
 

@@ -10,7 +10,7 @@ Last result: **16.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.9% | 6.7–9.6% | 6.5–10.1% | 6.3–10.5% | 5.9–11.3% |
+| N/A | [Poll Average](average.html) | 7.8% | 6.6–9.5% | 6.3–10.0% | 6.1–10.4% | 5.4–11.1% |
 | [21–23 December 2021](2021-12-23-TermometroPolitico.html) | Termometro Politico | 7.4% | 6.8–8.0% | 6.6–8.2% | 6.5–8.3% | 6.2–8.7% |
 | [20–22 December 2021](2021-12-22-Ipsos.html) | Ipsos <br> Corriere della Sera | 8.7% | 7.7–10.0% | 7.3–10.3% | 7.1–10.6% | 6.6–11.2% |
 | [20–22 December 2021](2021-12-22-DemosPi.html) | Demos & Pi <br> La Repubblica | 7.9% | 6.8–9.1% | 6.5–9.5% | 6.3–9.8% | 5.8–10.4% |
@@ -24,13 +24,13 @@ Last result: **16.8%** (General Election of 26 May 2019)
 | [13–16 December 2021](2021-12-16-BiDiMedia.html) | BiDiMedia | 6.8% | 6.2–7.5% | 6.0–7.7% | 5.9–7.9% | 5.6–8.3% |
 | [7–13 December 2021](2021-12-13-SWG.html) | SWG <br> La7 | 7.7% | N/A | N/A | N/A | N/A |
 | [10 December 2021](2021-12-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 8.7% | N/A | N/A | N/A | N/A |
-| [7–9 December 2021](2021-12-09-Index.html) | Index <br> La7 | 7.8% | N/A | N/A | N/A | N/A |
+| [7–9 December 2021](2021-12-09-Index.html) | Index <br> La7 | 7.8% | 6.7–9.1% | 6.3–9.5% | 6.1–9.8% | 5.6–10.5% |
 | [1–6 December 2021](2021-12-06-SWG.html) | SWG <br> La7 | 7.3% | N/A | N/A | N/A | N/A |
 | [5–6 December 2021](2021-12-06-Euromedia.html) | Euromedia <br> La Stampa | 8.2% | N/A | N/A | N/A | N/A |
-| [5 December 2021](2021-12-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 7.0% | N/A | N/A | N/A | N/A |
+| [5 December 2021](2021-12-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 7.0% | 5.7–8.7% | 5.4–9.2% | 5.1–9.6% | 4.5–10.5% |
 | [3 December 2021](2021-12-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 8.5% | N/A | N/A | N/A | N/A |
 | [1–2 December 2021](2021-12-02-TermometroPolitico.html) | Termometro Politico | 7.3% | N/A | N/A | N/A | N/A |
-| [1 December 2021](2021-12-01-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 7.6% | N/A | N/A | N/A | N/A |
+| [1 December 2021](2021-12-01-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 7.6% | 6.6–8.8% | 6.3–9.1% | 6.1–9.4% | 5.7–10.0% |
 | [30 November–1 December 2021](2021-12-01-Index.html) | Index <br> La7 | 7.6% | N/A | N/A | N/A | N/A |
 | [30 November 2021](2021-11-30-EMG.html) | EMG <br> Rai 3 | 7.3% | N/A | N/A | N/A | N/A |
 | [29–30 November 2021](2021-11-30-Demopolis.html) | Demopolis <br> La7 | 7.4% | N/A | N/A | N/A | N/A |
@@ -868,12 +868,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.1% | 100% |  |
-| 5.5–6.5% | 6% | 99.9% |  |
-| 6.5–7.5% | 32% | 94% |  |
-| 7.5–8.5% | 32% | 62% | Median |
-| 8.5–9.5% | 20% | 31% |  |
-| 9.5–10.5% | 9% | 11% |  |
+| 4.5–5.5% | 0.6% | 100% |  |
+| 5.5–6.5% | 8% | 99.3% |  |
+| 6.5–7.5% | 32% | 92% |  |
+| 7.5–8.5% | 32% | 59% | Median |
+| 8.5–9.5% | 18% | 27% |  |
+| 9.5–10.5% | 7% | 9% |  |
 | 10.5–11.5% | 2% | 2% |  |
 | 11.5–12.5% | 0.2% | 0.2% |  |
 | 12.5–13.5% | 0% | 0% |  |
@@ -891,7 +891,7 @@ Last result: **13** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–9 | 6–9 | 5–9 | 5–10 |
+| N/A | [Poll Average](average.html) | 7 | 6–8 | 5–9 | 5–9 | 5–10 |
 | [21–23 December 2021](2021-12-23-TermometroPolitico.html) | Termometro Politico | 7 | 6–7 | 6–7 | 6–8 | 5–8 |
 | [20–22 December 2021](2021-12-22-Ipsos.html) | Ipsos <br> Corriere della Sera | 8 | 6–9 | 6–9 | 6–9 | 6–10 |
 | [20–22 December 2021](2021-12-22-DemosPi.html) | Demos & Pi <br> La Repubblica | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
@@ -905,13 +905,13 @@ Last result: **13** seats (General Election of 26 May 2019)
 | [13–16 December 2021](2021-12-16-BiDiMedia.html) | BiDiMedia | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [7–13 December 2021](2021-12-13-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [10 December 2021](2021-12-10-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
-| [7–9 December 2021](2021-12-09-Index.html) | Index <br> La7 |  |  |  |  |  |
+| [7–9 December 2021](2021-12-09-Index.html) | Index <br> La7 | 7 | 6–9 | 5–9 | 5–9 | 5–9 |
 | [1–6 December 2021](2021-12-06-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [5–6 December 2021](2021-12-06-Euromedia.html) | Euromedia <br> La Stampa |  |  |  |  |  |
-| [5 December 2021](2021-12-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
+| [5 December 2021](2021-12-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 6 | 5–8 | 4–8 | 4–8 | 4–9 |
 | [3 December 2021](2021-12-03-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [1–2 December 2021](2021-12-02-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [1 December 2021](2021-12-01-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
+| [1 December 2021](2021-12-01-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
 | [30 November–1 December 2021](2021-12-01-Index.html) | Index <br> La7 |  |  |  |  |  |
 | [30 November 2021](2021-11-30-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [29–30 November 2021](2021-11-30-Demopolis.html) | Demopolis <br> La7 |  |  |  |  |  |
@@ -1750,11 +1750,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 3% | 100% |  |
-| 6 | 28% | 97% |  |
-| 7 | 40% | 69% | Median |
-| 8 | 18% | 28% |  |
-| 9 | 8% | 10% |  |
+| 4 | 0.4% | 100% |  |
+| 5 | 7% | 99.6% |  |
+| 6 | 30% | 92% |  |
+| 7 | 37% | 62% | Median |
+| 8 | 17% | 25% |  |
+| 9 | 7% | 9% |  |
 | 10 | 2% | 2% |  |
 | 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0% |  |
