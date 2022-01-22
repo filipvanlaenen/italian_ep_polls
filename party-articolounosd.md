@@ -10,78 +10,80 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.9% | 1.2–2.8% | 1.0–3.0% | 0.9–3.3% | 0.7–3.8% |
+| N/A | [Poll Average](average.html) | 1.9% | 1.3–2.6% | 1.1–2.9% | 1.0–3.1% | 0.8–3.6% |
 | [21–23 December 2021](2021-12-23-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
 | [20–22 December 2021](2021-12-22-Ipsos.html) | Ipsos <br> Corriere della Sera | 1.3% | 0.9–1.9% | 0.8–2.1% | 0.8–2.2% | 0.6–2.5% |
-| [15–20 December 2021](2021-12-20-SWG.html) | SWG <br> La7 | 2.3% | 1.9–3.0% | 1.7–3.2% | 1.6–3.4% | 1.4–3.7% |
-| [16–20 December 2021](2021-12-20-Ixè.html) | Ixè | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
-| [20 December 2021](2021-12-20-Euromedia.html) | Euromedia | 2.5% | 1.9–3.4% | 1.8–3.6% | 1.6–3.8% | 1.4–4.3% |
+| [20–22 December 2021](2021-12-22-DemosPi.html) | Demos & Pi <br> La Repubblica | 0.0% | N/A | N/A | N/A | N/A |
+| [21 December 2021](2021-12-21-EMG.html) | EMG <br> Rai 3 | 1.7% | 1.3–2.2% | 1.2–2.4% | 1.2–2.5% | 1.0–2.8% |
+| [15–20 December 2021](2021-12-20-SWG.html) | SWG <br> La7 | 2.2% | 1.7–2.8% | 1.6–3.0% | 1.5–3.2% | 1.3–3.5% |
+| [16–20 December 2021](2021-12-20-Ixè.html) | Ixè | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
+| [20 December 2021](2021-12-20-Euromedia.html) | Euromedia | 2.4% | 1.8–3.2% | 1.6–3.5% | 1.5–3.7% | 1.3–4.1% |
 | [17 December 2021](2021-12-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 1.8% | 1.3–2.5% | 1.2–2.7% | 1.1–2.9% | 0.9–3.3% |
 | [14–16 December 2021](2021-12-16-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
-| [14–16 December 2021](2021-12-16-Demopolis.html) | Demopolis <br> Rai Radio 1 | 2.2% | 1.8–2.6% | 1.7–2.8% | 1.6–2.9% | 1.4–3.1% |
-| [13–16 December 2021](2021-12-16-BiDiMedia.html) | BiDiMedia | 1.5% | 1.2–1.8% | 1.1–1.9% | 1.1–2.0% | 0.9–2.2% |
-| [7–13 December 2021](2021-12-13-SWG.html) | SWG <br> La7 | 2.4% | 1.9–3.1% | 1.8–3.3% | 1.7–3.5% | 1.5–3.8% |
-| [10 December 2021](2021-12-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 1.7% | 1.3–2.4% | 1.2–2.5% | 1.1–2.7% | 0.9–3.1% |
-| [7–9 December 2021](2021-12-09-Index.html) | Index <br> La7 | 2.2% | 1.7–3.1% | 1.6–3.3% | 1.4–3.5% | 1.2–4.0% |
-| [1–6 December 2021](2021-12-06-SWG.html) | SWG <br> La7 | 2.3% | 1.9–3.0% | 1.7–3.2% | 1.6–3.4% | 1.4–3.7% |
-| [5–6 December 2021](2021-12-06-Euromedia.html) | Euromedia <br> La Stampa | 1.9% | 1.4–2.7% | 1.2–2.9% | 1.1–3.1% | 0.9–3.5% |
+| [14–16 December 2021](2021-12-16-Demopolis.html) | Demopolis <br> Rai Radio 1 | 2.1% | 1.7–2.6% | 1.6–2.7% | 1.6–2.8% | 1.4–3.1% |
+| [13–16 December 2021](2021-12-16-BiDiMedia.html) | BiDiMedia | 1.4% | 1.1–1.8% | 1.0–1.8% | 1.0–1.9% | 0.9–2.1% |
+| [7–13 December 2021](2021-12-13-SWG.html) | SWG <br> La7 | 2.3% | N/A | N/A | N/A | N/A |
+| [10 December 2021](2021-12-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 1.6% | N/A | N/A | N/A | N/A |
+| [7–9 December 2021](2021-12-09-Index.html) | Index <br> La7 | 2.2% | N/A | N/A | N/A | N/A |
+| [1–6 December 2021](2021-12-06-SWG.html) | SWG <br> La7 | 2.2% | N/A | N/A | N/A | N/A |
+| [5–6 December 2021](2021-12-06-Euromedia.html) | Euromedia <br> La Stampa | 1.8% | N/A | N/A | N/A | N/A |
 | [5 December 2021](2021-12-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.0% | N/A | N/A | N/A | N/A |
-| [3 December 2021](2021-12-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–3.0% | 1.0–3.3% |
+| [3 December 2021](2021-12-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 1.8% | N/A | N/A | N/A | N/A |
 | [1–2 December 2021](2021-12-02-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
-| [1 December 2021](2021-12-01-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 1.1% | 0.8–1.7% | 0.7–1.8% | 0.6–2.0% | 0.5–2.3% |
-| [30 November–1 December 2021](2021-12-01-Index.html) | Index <br> La7 | 2.2% | N/A | N/A | N/A | N/A |
-| [30 November 2021](2021-11-30-EMG.html) | EMG <br> Rai 3 | 1.8% | 1.4–2.3% | 1.3–2.5% | 1.2–2.6% | 1.1–2.9% |
-| [29–30 November 2021](2021-11-30-Demopolis.html) | Demopolis <br> La7 | 2.1% | 1.7–2.6% | 1.6–2.7% | 1.5–2.8% | 1.3–3.1% |
-| [24–29 November 2021](2021-11-29-SWG.html) | SWG <br> La7 | 2.1% | 1.6–2.7% | 1.5–2.9% | 1.4–3.1% | 1.2–3.4% |
-| [29 November 2021](2021-11-29-EMG.html) | EMG <br> Rai 3 | 1.8% | 1.4–2.3% | 1.3–2.4% | 1.2–2.6% | 1.1–2.8% |
-| [26 November 2021](2021-11-26-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
-| [23–25 November 2021](2021-11-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.9% | 0.6–1.4% | 0.5–1.6% | 0.5–1.7% | 0.4–2.0% |
-| [22–25 November 2021](2021-11-25-BiDiMedia.html) | BiDiMedia | 1.5% | 1.4–1.8% | 1.3–1.8% | 1.2–1.9% | 1.2–2.0% |
-| [24 November 2021](2021-11-24-Index.html) | Index <br> La7 | 2.2% | 1.7–3.1% | 1.6–3.3% | 1.4–3.5% | 1.2–4.0% |
-| [23 November 2021](2021-11-23-EMG.html) | EMG <br> Rai 3 | 1.8% | N/A | N/A | N/A | N/A |
-| [17–22 November 2021](2021-11-22-SWG.html) | SWG <br> La7 | 2.3% | 1.9–3.0% | 1.7–3.2% | 1.6–3.4% | 1.4–3.7% |
-| [19 November 2021](2021-11-19-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
+| [1 December 2021](2021-12-01-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 1.0% | N/A | N/A | N/A | N/A |
+| [30 November–1 December 2021](2021-12-01-Index.html) | Index <br> La7 | 2.1% | N/A | N/A | N/A | N/A |
+| [30 November 2021](2021-11-30-EMG.html) | EMG <br> Rai 3 | 1.7% | N/A | N/A | N/A | N/A |
+| [29–30 November 2021](2021-11-30-Demopolis.html) | Demopolis <br> La7 | 2.0% | N/A | N/A | N/A | N/A |
+| [24–29 November 2021](2021-11-29-SWG.html) | SWG <br> La7 | 2.0% | N/A | N/A | N/A | N/A |
+| [29 November 2021](2021-11-29-EMG.html) | EMG <br> Rai 3 | 1.7% | N/A | N/A | N/A | N/A |
+| [26 November 2021](2021-11-26-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.1% | N/A | N/A | N/A | N/A |
+| [23–25 November 2021](2021-11-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.9% | N/A | N/A | N/A | N/A |
+| [22–25 November 2021](2021-11-25-BiDiMedia.html) | BiDiMedia | 1.5% | N/A | N/A | N/A | N/A |
+| [24 November 2021](2021-11-24-Index.html) | Index <br> La7 | 2.2% | N/A | N/A | N/A | N/A |
+| [23 November 2021](2021-11-23-EMG.html) | EMG <br> Rai 3 | 1.7% | N/A | N/A | N/A | N/A |
+| [17–22 November 2021](2021-11-22-SWG.html) | SWG <br> La7 | 2.2% | N/A | N/A | N/A | N/A |
+| [19 November 2021](2021-11-19-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.0% | N/A | N/A | N/A | N/A |
 | [16–18 November 2021](2021-11-18-Winpoll.html) | Winpoll <br> Il Sole 24 Ore | 0.0% | N/A | N/A | N/A | N/A |
 | [16–18 November 2021](2021-11-18-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
-| [17 November 2021](2021-11-17-Index.html) | Index <br> La7 | 2.2% | 1.7–3.1% | 1.6–3.3% | 1.4–3.5% | 1.2–4.0% |
-| [17 November 2021](2021-11-17-Euromedia.html) | Euromedia <br> Rai 1 | 2.1% | 1.6–2.9% | 1.4–3.2% | 1.3–3.4% | 1.1–3.8% |
-| [16 November 2021](2021-11-16-EMG.html) | EMG <br> Rai 3 | 1.9% | N/A | N/A | N/A | N/A |
-| [10–15 November 2021](2021-11-15-SWG.html) | SWG <br> La7 | 2.5% | 2.0–3.2% | 1.9–3.4% | 1.8–3.6% | 1.5–3.9% |
+| [17 November 2021](2021-11-17-Index.html) | Index <br> La7 | 2.2% | N/A | N/A | N/A | N/A |
+| [17 November 2021](2021-11-17-Euromedia.html) | Euromedia <br> Rai 1 | 2.0% | N/A | N/A | N/A | N/A |
+| [16 November 2021](2021-11-16-EMG.html) | EMG <br> Rai 3 | 1.8% | N/A | N/A | N/A | N/A |
+| [10–15 November 2021](2021-11-15-SWG.html) | SWG <br> La7 | 2.4% | N/A | N/A | N/A | N/A |
 | [15 November 2021](2021-11-15-Piepoli.html) | Piepoli <br> RaiNews24 | 0.0% | N/A | N/A | N/A | N/A |
-| [15 November 2021](2021-11-15-EMG.html) | EMG <br> Rai 3 | 1.8% | 1.4–2.3% | 1.3–2.4% | 1.2–2.6% | 1.1–2.8% |
+| [15 November 2021](2021-11-15-EMG.html) | EMG <br> Rai 3 | 1.7% | N/A | N/A | N/A | N/A |
 | [8–14 November 2021](2021-11-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 0.0% | N/A | N/A | N/A | N/A |
-| [12 November 2021](2021-11-12-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
-| [10 November 2021](2021-11-10-Index.html) | Index <br> La7 | 2.2% | N/A | N/A | N/A | N/A |
+| [12 November 2021](2021-11-12-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.1% | N/A | N/A | N/A | N/A |
+| [10 November 2021](2021-11-10-Index.html) | Index <br> La7 | 2.1% | N/A | N/A | N/A | N/A |
 | [8–10 November 2021](2021-11-10-DemosPi.html) | Demos & Pi <br> La Repubblica | 0.0% | N/A | N/A | N/A | N/A |
-| [9 November 2021](2021-11-09-EMG.html) | EMG <br> Rai 3 | 1.9% | N/A | N/A | N/A | N/A |
-| [3–8 November 2021](2021-11-08-SWG.html) | SWG <br> La7 | 2.4% | N/A | N/A | N/A | N/A |
-| [5–8 November 2021](2021-11-08-Ixè.html) | Ixè | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
-| [5 November 2021](2021-11-05-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.1% | N/A | N/A | N/A | N/A |
+| [9 November 2021](2021-11-09-EMG.html) | EMG <br> Rai 3 | 1.8% | N/A | N/A | N/A | N/A |
+| [3–8 November 2021](2021-11-08-SWG.html) | SWG <br> La7 | 2.3% | N/A | N/A | N/A | N/A |
+| [5–8 November 2021](2021-11-08-Ixè.html) | Ixè | 2.1% | N/A | N/A | N/A | N/A |
+| [5 November 2021](2021-11-05-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.0% | N/A | N/A | N/A | N/A |
 | [2–4 November 2021](2021-11-04-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
-| [3–4 November 2021](2021-11-04-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
-| [3 November 2021](2021-11-03-Index.html) | Index <br> La7 | 2.2% | N/A | N/A | N/A | N/A |
+| [3–4 November 2021](2021-11-04-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 1.0% | N/A | N/A | N/A | N/A |
+| [3 November 2021](2021-11-03-Index.html) | Index <br> La7 | 2.1% | N/A | N/A | N/A | N/A |
 | [2 November 2021](2021-11-02-Euromedia.html) | Euromedia <br> La Stampa | 1.8% | N/A | N/A | N/A | N/A |
-| [1–2 November 2021](2021-11-02-EMG.html) | EMG <br> Rai 3 | 1.9% | N/A | N/A | N/A | N/A |
-| [27–31 October 2021](2021-10-31-SWG.html) | SWG <br> La7 | 2.6% | 2.1–3.3% | 1.9–3.5% | 1.8–3.7% | 1.6–4.0% |
-| [29 October 2021](2021-10-29-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.2% | N/A | N/A | N/A | N/A |
+| [1–2 November 2021](2021-11-02-EMG.html) | EMG <br> Rai 3 | 1.8% | N/A | N/A | N/A | N/A |
+| [27–31 October 2021](2021-10-31-SWG.html) | SWG <br> La7 | 2.5% | N/A | N/A | N/A | N/A |
+| [29 October 2021](2021-10-29-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.1% | N/A | N/A | N/A | N/A |
 | [26–28 October 2021](2021-10-28-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
 | [28 October 2021](2021-10-28-Piepoli.html) | Piepoli <br> RaiNews24 | 0.0% | N/A | N/A | N/A | N/A |
 | [27 October 2021](2021-10-27-Index.html) | Index <br> La7 | 2.0% | N/A | N/A | N/A | N/A |
-| [25–27 October 2021](2021-10-27-Demopolis.html) | Demopolis <br> Rai Radio 1 | 2.0% | 1.7–2.5% | 1.6–2.7% | 1.5–2.8% | 1.4–3.0% |
-| [20–25 October 2021](2021-10-25-SWG.html) | SWG <br> La7 | 2.6% | N/A | N/A | N/A | N/A |
-| [22 October 2021](2021-10-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.1% | N/A | N/A | N/A | N/A |
+| [25–27 October 2021](2021-10-27-Demopolis.html) | Demopolis <br> Rai Radio 1 | 2.0% | N/A | N/A | N/A | N/A |
+| [20–25 October 2021](2021-10-25-SWG.html) | SWG <br> La7 | 2.5% | N/A | N/A | N/A | N/A |
+| [22 October 2021](2021-10-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.0% | N/A | N/A | N/A | N/A |
 | [19–21 October 2021](2021-10-21-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
-| [19–21 October 2021](2021-10-21-Ipsos.html) | Ipsos <br> Corriere della Sera | 1.2% | 0.9–1.8% | 0.8–1.9% | 0.7–2.1% | 0.5–2.4% |
+| [19–21 October 2021](2021-10-21-Ipsos.html) | Ipsos <br> Corriere della Sera | 1.2% | N/A | N/A | N/A | N/A |
 | [20 October 2021](2021-10-20-Euromedia.html) | Euromedia <br> Rai 1 | 1.5% | N/A | N/A | N/A | N/A |
-| [19–20 October 2021](2021-10-20-EMG.html) | EMG <br> Rai 3 | 2.0% | N/A | N/A | N/A | N/A |
-| [18–19 October 2021](2021-10-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 1.6% | N/A | N/A | N/A | N/A |
-| [18–19 October 2021](2021-10-19-EMG.html) | EMG <br> Rai 3 | 1.9% | N/A | N/A | N/A | N/A |
-| [13–18 October 2021](2021-10-18-SWG.html) | SWG <br> La7 | 3.0% | N/A | N/A | N/A | N/A |
+| [19–20 October 2021](2021-10-20-EMG.html) | EMG <br> Rai 3 | 1.9% | N/A | N/A | N/A | N/A |
+| [18–19 October 2021](2021-10-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 1.5% | N/A | N/A | N/A | N/A |
+| [18–19 October 2021](2021-10-19-EMG.html) | EMG <br> Rai 3 | 1.8% | N/A | N/A | N/A | N/A |
+| [13–18 October 2021](2021-10-18-SWG.html) | SWG <br> La7 | 2.9% | N/A | N/A | N/A | N/A |
 | [13–16 October 2021](2021-10-16-Demopolis.html) | Demopolis <br> Today.it | 0.0% | N/A | N/A | N/A | N/A |
 | [12–14 October 2021](2021-10-14-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
 | [11–14 October 2021](2021-10-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 0.0% | N/A | N/A | N/A | N/A |
-| [6–11 October 2021](2021-10-11-SWG.html) | SWG <br> La7 | 2.8% | N/A | N/A | N/A | N/A |
-| [3–7 October 2021](2021-10-07-BiDiMedia.html) | BiDiMedia | 1.5% | 1.2–2.0% | 1.1–2.1% | 1.1–2.2% | 0.9–2.4% |
+| [6–11 October 2021](2021-10-11-SWG.html) | SWG <br> La7 | 2.6% | N/A | N/A | N/A | N/A |
+| [3–7 October 2021](2021-10-07-BiDiMedia.html) | BiDiMedia | 1.5% | N/A | N/A | N/A | N/A |
 | [2–3 October 2021](2021-10-03-BiDiMedia.html) | BiDiMedia | 1.5% | N/A | N/A | N/A | N/A |
 | [14–17 September 2021](2021-09-17-Ixè.html) | Ixè | 2.5% | N/A | N/A | N/A | N/A |
 | [14–16 September 2021](2021-09-16-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
@@ -865,11 +867,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.1% | 100% | Last Result |
-| 0.5–1.5% | 28% | 99.9% |  |
-| 1.5–2.5% | 55% | 72% | Median |
-| 2.5–3.5% | 16% | 17% |  |
-| 3.5–4.5% | 1.0% | 1.0% |  |
+| 0.0–0.5% | 0% | 100% | Last Result |
+| 0.5–1.5% | 27% | 100% |  |
+| 1.5–2.5% | 60% | 73% | Median |
+| 2.5–3.5% | 13% | 13% |  |
+| 3.5–4.5% | 0.6% | 0.6% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -884,6 +886,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [21–23 December 2021](2021-12-23-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [20–22 December 2021](2021-12-22-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
+| [20–22 December 2021](2021-12-22-DemosPi.html) | Demos & Pi <br> La Repubblica |  |  |  |  |  |
+| [21 December 2021](2021-12-21-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [15–20 December 2021](2021-12-20-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [16–20 December 2021](2021-12-20-Ixè.html) | Ixè | 0 | 0 | 0 | 0 | 0 |
 | [20 December 2021](2021-12-20-Euromedia.html) | Euromedia | 0 | 0 | 0 | 0 | 0–4 |
@@ -891,58 +895,58 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [14–16 December 2021](2021-12-16-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [14–16 December 2021](2021-12-16-Demopolis.html) | Demopolis <br> Rai Radio 1 | 0 | 0 | 0 | 0 | 0 |
 | [13–16 December 2021](2021-12-16-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
-| [7–13 December 2021](2021-12-13-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
-| [10 December 2021](2021-12-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
-| [7–9 December 2021](2021-12-09-Index.html) | Index <br> La7 | 0 | 0 | 0 | 0 | 0–3 |
-| [1–6 December 2021](2021-12-06-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
-| [5–6 December 2021](2021-12-06-Euromedia.html) | Euromedia <br> La Stampa | 0 | 0 | 0 | 0 | 0 |
+| [7–13 December 2021](2021-12-13-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [10 December 2021](2021-12-10-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [7–9 December 2021](2021-12-09-Index.html) | Index <br> La7 |  |  |  |  |  |
+| [1–6 December 2021](2021-12-06-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [5–6 December 2021](2021-12-06-Euromedia.html) | Euromedia <br> La Stampa |  |  |  |  |  |
 | [5 December 2021](2021-12-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
-| [3 December 2021](2021-12-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
+| [3 December 2021](2021-12-03-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [1–2 December 2021](2021-12-02-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [1 December 2021](2021-12-01-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
+| [1 December 2021](2021-12-01-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
 | [30 November–1 December 2021](2021-12-01-Index.html) | Index <br> La7 |  |  |  |  |  |
-| [30 November 2021](2021-11-30-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
-| [29–30 November 2021](2021-11-30-Demopolis.html) | Demopolis <br> La7 | 0 | 0 | 0 | 0 | 0 |
-| [24–29 November 2021](2021-11-29-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
-| [29 November 2021](2021-11-29-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
-| [26 November 2021](2021-11-26-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
-| [23–25 November 2021](2021-11-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
-| [22–25 November 2021](2021-11-25-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
-| [24 November 2021](2021-11-24-Index.html) | Index <br> La7 | 0 | 0 | 0 | 0 | 0 |
+| [30 November 2021](2021-11-30-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
+| [29–30 November 2021](2021-11-30-Demopolis.html) | Demopolis <br> La7 |  |  |  |  |  |
+| [24–29 November 2021](2021-11-29-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [29 November 2021](2021-11-29-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
+| [26 November 2021](2021-11-26-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [23–25 November 2021](2021-11-25-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
+| [22–25 November 2021](2021-11-25-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
+| [24 November 2021](2021-11-24-Index.html) | Index <br> La7 |  |  |  |  |  |
 | [23 November 2021](2021-11-23-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
-| [17–22 November 2021](2021-11-22-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
-| [19 November 2021](2021-11-19-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
+| [17–22 November 2021](2021-11-22-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [19 November 2021](2021-11-19-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [16–18 November 2021](2021-11-18-Winpoll.html) | Winpoll <br> Il Sole 24 Ore |  |  |  |  |  |
 | [16–18 November 2021](2021-11-18-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [17 November 2021](2021-11-17-Index.html) | Index <br> La7 | 0 | 0 | 0 | 0 | 0 |
-| [17 November 2021](2021-11-17-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
+| [17 November 2021](2021-11-17-Index.html) | Index <br> La7 |  |  |  |  |  |
+| [17 November 2021](2021-11-17-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
 | [16 November 2021](2021-11-16-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
-| [10–15 November 2021](2021-11-15-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
+| [10–15 November 2021](2021-11-15-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [15 November 2021](2021-11-15-Piepoli.html) | Piepoli <br> RaiNews24 |  |  |  |  |  |
-| [15 November 2021](2021-11-15-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
+| [15 November 2021](2021-11-15-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [8–14 November 2021](2021-11-14-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
-| [12 November 2021](2021-11-12-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
+| [12 November 2021](2021-11-12-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [10 November 2021](2021-11-10-Index.html) | Index <br> La7 |  |  |  |  |  |
 | [8–10 November 2021](2021-11-10-DemosPi.html) | Demos & Pi <br> La Repubblica |  |  |  |  |  |
 | [9 November 2021](2021-11-09-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [3–8 November 2021](2021-11-08-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [5–8 November 2021](2021-11-08-Ixè.html) | Ixè | 0 | 0 | 0 | 0 | 0 |
+| [5–8 November 2021](2021-11-08-Ixè.html) | Ixè |  |  |  |  |  |
 | [5 November 2021](2021-11-05-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [2–4 November 2021](2021-11-04-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [3–4 November 2021](2021-11-04-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
+| [3–4 November 2021](2021-11-04-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
 | [3 November 2021](2021-11-03-Index.html) | Index <br> La7 |  |  |  |  |  |
 | [2 November 2021](2021-11-02-Euromedia.html) | Euromedia <br> La Stampa |  |  |  |  |  |
 | [1–2 November 2021](2021-11-02-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
-| [27–31 October 2021](2021-10-31-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0–3 |
+| [27–31 October 2021](2021-10-31-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [29 October 2021](2021-10-29-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [26–28 October 2021](2021-10-28-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [28 October 2021](2021-10-28-Piepoli.html) | Piepoli <br> RaiNews24 |  |  |  |  |  |
 | [27 October 2021](2021-10-27-Index.html) | Index <br> La7 |  |  |  |  |  |
-| [25–27 October 2021](2021-10-27-Demopolis.html) | Demopolis <br> Rai Radio 1 | 0 | 0 | 0 | 0 | 0 |
+| [25–27 October 2021](2021-10-27-Demopolis.html) | Demopolis <br> Rai Radio 1 |  |  |  |  |  |
 | [20–25 October 2021](2021-10-25-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [22 October 2021](2021-10-22-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [19–21 October 2021](2021-10-21-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [19–21 October 2021](2021-10-21-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
+| [19–21 October 2021](2021-10-21-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
 | [20 October 2021](2021-10-20-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
 | [19–20 October 2021](2021-10-20-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [18–19 October 2021](2021-10-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
@@ -952,7 +956,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [12–14 October 2021](2021-10-14-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [11–14 October 2021](2021-10-14-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
 | [6–11 October 2021](2021-10-11-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [3–7 October 2021](2021-10-07-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
+| [3–7 October 2021](2021-10-07-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
 | [2–3 October 2021](2021-10-03-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
 | [14–17 September 2021](2021-09-17-Ixè.html) | Ixè |  |  |  |  |  |
 | [14–16 September 2021](2021-09-16-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
@@ -1738,10 +1742,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.8% | 100% | Last Result, Median |
-| 1 | 0% | 0.2% |  |
-| 2 | 0% | 0.2% |  |
-| 3 | 0.1% | 0.2% |  |
+| 0 | 99.9% | 100% | Last Result, Median |
+| 1 | 0% | 0.1% |  |
+| 2 | 0% | 0.1% |  |
+| 3 | 0% | 0.1% |  |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 
