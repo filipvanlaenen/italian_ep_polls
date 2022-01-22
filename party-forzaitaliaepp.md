@@ -43,15 +43,15 @@ Last result: **16.8%** (General Election of 26 May 2019)
 | [23 November 2021](2021-11-23-EMG.html) | EMG <br> Rai 3 | 7.2% | N/A | N/A | N/A | N/A |
 | [17–22 November 2021](2021-11-22-SWG.html) | SWG <br> La7 | 6.8% | N/A | N/A | N/A | N/A |
 | [19 November 2021](2021-11-19-Tecnè.html) | Tecnè <br> Agenzia Dire | 7.6% | N/A | N/A | N/A | N/A |
-| [16–18 November 2021](2021-11-18-Winpoll.html) | Winpoll <br> Il Sole 24 Ore | 10.3% | N/A | N/A | N/A | N/A |
+| [16–18 November 2021](2021-11-18-Winpoll.html) | Winpoll <br> Il Sole 24 Ore | 10.3% | 9.2–11.6% | 8.8–12.0% | 8.6–12.3% | 8.0–13.0% |
 | [16–18 November 2021](2021-11-18-TermometroPolitico.html) | Termometro Politico | 7.2% | N/A | N/A | N/A | N/A |
 | [17 November 2021](2021-11-17-Index.html) | Index <br> La7 | 7.8% | N/A | N/A | N/A | N/A |
 | [17 November 2021](2021-11-17-Euromedia.html) | Euromedia <br> Rai 1 | 8.0% | N/A | N/A | N/A | N/A |
 | [16 November 2021](2021-11-16-EMG.html) | EMG <br> Rai 3 | 7.0% | N/A | N/A | N/A | N/A |
 | [10–15 November 2021](2021-11-15-SWG.html) | SWG <br> La7 | 6.9% | N/A | N/A | N/A | N/A |
-| [15 November 2021](2021-11-15-Piepoli.html) | Piepoli <br> RaiNews24 | 7.0% | N/A | N/A | N/A | N/A |
+| [15 November 2021](2021-11-15-Piepoli.html) | Piepoli <br> RaiNews24 | 7.0% | 5.7–8.7% | 5.4–9.2% | 5.1–9.6% | 4.5–10.5% |
 | [15 November 2021](2021-11-15-EMG.html) | EMG <br> Rai 3 | 7.0% | N/A | N/A | N/A | N/A |
-| [8–14 November 2021](2021-11-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 7.1% | N/A | N/A | N/A | N/A |
+| [8–14 November 2021](2021-11-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 7.1% | 6.2–8.3% | 5.9–8.6% | 5.7–8.9% | 5.2–9.4% |
 | [12 November 2021](2021-11-12-Tecnè.html) | Tecnè <br> Agenzia Dire | 7.5% | N/A | N/A | N/A | N/A |
 | [10 November 2021](2021-11-10-Index.html) | Index <br> La7 | 7.8% | N/A | N/A | N/A | N/A |
 | [8–10 November 2021](2021-11-10-DemosPi.html) | Demos & Pi <br> La Repubblica | 8.3% | N/A | N/A | N/A | N/A |
@@ -924,15 +924,15 @@ Last result: **13** seats (General Election of 26 May 2019)
 | [23 November 2021](2021-11-23-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [17–22 November 2021](2021-11-22-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [19 November 2021](2021-11-19-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
-| [16–18 November 2021](2021-11-18-Winpoll.html) | Winpoll <br> Il Sole 24 Ore |  |  |  |  |  |
+| [16–18 November 2021](2021-11-18-Winpoll.html) | Winpoll <br> Il Sole 24 Ore | 9 | 7–11 | 7–11 | 7–11 | 7–12 |
 | [16–18 November 2021](2021-11-18-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [17 November 2021](2021-11-17-Index.html) | Index <br> La7 |  |  |  |  |  |
 | [17 November 2021](2021-11-17-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
 | [16 November 2021](2021-11-16-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [10–15 November 2021](2021-11-15-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [15 November 2021](2021-11-15-Piepoli.html) | Piepoli <br> RaiNews24 |  |  |  |  |  |
+| [15 November 2021](2021-11-15-Piepoli.html) | Piepoli <br> RaiNews24 | 6 | 5–7 | 4–8 | 4–8 | 4–9 |
 | [15 November 2021](2021-11-15-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
-| [8–14 November 2021](2021-11-14-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
+| [8–14 November 2021](2021-11-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
 | [12 November 2021](2021-11-12-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [10 November 2021](2021-11-10-Index.html) | Index <br> La7 |  |  |  |  |  |
 | [8–10 November 2021](2021-11-10-DemosPi.html) | Demos & Pi <br> La Repubblica |  |  |  |  |  |
@@ -1751,9 +1751,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.4% | 100% |  |
-| 5 | 7% | 99.6% |  |
-| 6 | 30% | 92% |  |
-| 7 | 37% | 62% | Median |
+| 5 | 6% | 99.6% |  |
+| 6 | 31% | 94% |  |
+| 7 | 38% | 63% | Median |
 | 8 | 17% | 25% |  |
 | 9 | 7% | 9% |  |
 | 10 | 2% | 2% |  |
