@@ -933,20 +933,20 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [21 December 2021](2021-12-21-EMG.html) | EMG <br> Rai 3 | 18 | 16–18 | 15–19 | 15–19 | 14–20 |
 | [15–20 December 2021](2021-12-20-SWG.html) | SWG <br> La7 | 19 | 18–21 | 17–21 | 17–21 | 16–22 |
 | [16–20 December 2021](2021-12-20-Ixè.html) | Ixè | 18 | 17–20 | 17–20 | 16–20 | 15–21 |
-| [20 December 2021](2021-12-20-Euromedia.html) | Euromedia | 19 | 16–21 | 16–21 | 15–21 | 14–22 |
-| [17 December 2021](2021-12-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 17 | 15–20 | 15–21 | 15–22 | 15–22 |
+| [20 December 2021](2021-12-20-Euromedia.html) | Euromedia | 18 | 16–20 | 16–21 | 15–21 | 14–22 |
+| [17 December 2021](2021-12-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 19 | 16–20 | 15–20 | 15–21 | 15–22 |
 | [14–16 December 2021](2021-12-16-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [14–16 December 2021](2021-12-16-Demopolis.html) | Demopolis <br> Rai Radio 1 | 17 | 16–18 | 16–19 | 16–19 | 15–19 |
-| [13–16 December 2021](2021-12-16-BiDiMedia.html) | BiDiMedia | 16 | 16–18 | 16–18 | 16–19 | 16–19 |
+| [14–16 December 2021](2021-12-16-Demopolis.html) | Demopolis <br> Rai Radio 1 | 17 | 16–18 | 16–18 | 16–19 | 15–19 |
+| [13–16 December 2021](2021-12-16-BiDiMedia.html) | BiDiMedia | 18 | 16–18 | 16–18 | 16–19 | 15–20 |
 | [7–13 December 2021](2021-12-13-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [10 December 2021](2021-12-10-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
-| [7–9 December 2021](2021-12-09-Index.html) | Index <br> La7 | 19 | 17–19 | 16–19 | 15–20 | 15–21 |
+| [7–9 December 2021](2021-12-09-Index.html) | Index <br> La7 | 17 | 16–19 | 15–20 | 15–20 | 15–21 |
 | [1–6 December 2021](2021-12-06-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [5–6 December 2021](2021-12-06-Euromedia.html) | Euromedia <br> La Stampa |  |  |  |  |  |
-| [5 December 2021](2021-12-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 16 | 13–21 | 13–21 | 13–21 | 12–22 |
+| [5 December 2021](2021-12-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 16 | 13–18 | 13–20 | 13–21 | 12–21 |
 | [3 December 2021](2021-12-03-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [1–2 December 2021](2021-12-02-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [1 December 2021](2021-12-01-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 15 | 14–17 | 14–18 | 14–18 | 14–19 |
+| [1 December 2021](2021-12-01-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 17 | 15–18 | 15–18 | 14–18 | 13–19 |
 | [30 November–1 December 2021](2021-12-01-Index.html) | Index <br> La7 |  |  |  |  |  |
 | [30 November 2021](2021-11-30-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [29–30 November 2021](2021-11-30-Demopolis.html) | Demopolis <br> La7 |  |  |  |  |  |

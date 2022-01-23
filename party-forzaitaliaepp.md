@@ -920,14 +920,14 @@ Last result: **13** seats (General Election of 26 May 2019)
 | [21 December 2021](2021-12-21-EMG.html) | EMG <br> Rai 3 | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | [15–20 December 2021](2021-12-20-SWG.html) | SWG <br> La7 | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
 | [16–20 December 2021](2021-12-20-Ixè.html) | Ixè | 8 | 7–9 | 7–9 | 6–10 | 6–10 |
-| [20 December 2021](2021-12-20-Euromedia.html) | Euromedia | 7 | 6–8 | 6–9 | 6–9 | 6–10 |
-| [17 December 2021](2021-12-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 8 | 6–8 | 6–9 | 6–9 | 6–10 |
+| [20 December 2021](2021-12-20-Euromedia.html) | Euromedia | 7 | 6–9 | 6–9 | 6–10 | 6–10 |
+| [17 December 2021](2021-12-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 8 | 6–10 | 6–10 | 6–10 | 6–10 |
 | [14–16 December 2021](2021-12-16-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [14–16 December 2021](2021-12-16-Demopolis.html) | Demopolis <br> Rai Radio 1 | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
-| [13–16 December 2021](2021-12-16-BiDiMedia.html) | BiDiMedia | 6 | 6 | 6–7 | 5–7 | 5–7 |
+| [14–16 December 2021](2021-12-16-Demopolis.html) | Demopolis <br> Rai Radio 1 | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
+| [13–16 December 2021](2021-12-16-BiDiMedia.html) | BiDiMedia | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [7–13 December 2021](2021-12-13-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [10 December 2021](2021-12-10-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
-| [7–9 December 2021](2021-12-09-Index.html) | Index <br> La7 | 7 | 5–8 | 5–8 | 5–9 | 5–10 |
+| [7–9 December 2021](2021-12-09-Index.html) | Index <br> La7 | 7 | 6–9 | 5–9 | 5–9 | 5–9 |
 | [1–6 December 2021](2021-12-06-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [5–6 December 2021](2021-12-06-Euromedia.html) | Euromedia <br> La Stampa |  |  |  |  |  |
 | [5 December 2021](2021-12-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 6 | 5–8 | 4–8 | 4–8 | 4–9 |
