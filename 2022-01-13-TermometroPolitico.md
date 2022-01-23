@@ -1,54 +1,54 @@
-# Opinion Poll by Termometro Politico, 21–23 December 2021
+# Opinion Poll by Termometro Politico, 11–13 January 2022
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#coalitions">Coalitions</a> | <a href="#technical-information">Technical Information</a></p>
 
 ## Voting Intentions
 
-![Graph with voting intentions not yet produced](2021-12-23-TermometroPolitico.png "Voting Intentions")
+![Graph with voting intentions not yet produced](2022-01-13-TermometroPolitico.png "Voting Intentions")
 
 ### Confidence Intervals
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Fratelli d’Italia (ECR) | 3.7% | 21.5% | 20.6–22.5% |20.3–22.7% |20.1–23.0% |19.7–23.4% |
-| Partito Democratico (S&D) | 40.8% | 20.2% | 19.3–21.1% |19.0–21.4% |18.8–21.6% |18.4–22.1% |
-| Lega Nord (ID) | 6.2% | 19.4% | 18.5–20.3% |18.3–20.6% |18.1–20.8% |17.6–21.3% |
-| Movimento 5 Stelle (NI) | 21.2% | 15.1% | 14.3–15.9% |14.1–16.1% |13.9–16.4% |13.5–16.8% |
-| Forza Italia (EPP) | 16.8% | 7.4% | 6.8–8.0% |6.6–8.2% |6.5–8.3% |6.2–8.7% |
-| Azione (RE) | 0.0% | 3.5% | 3.1–4.0% |3.0–4.1% |2.9–4.2% |2.8–4.5% |
-| Sinistra Italiana (GUE/NGL) | 0.0% | 2.9% | 2.6–3.4% |2.5–3.5% |2.4–3.6% |2.2–3.8% |
-| Italia Viva (RE) | 0.0% | 2.7% | 2.4–3.1% |2.3–3.2% |2.2–3.4% |2.1–3.6% |
-| Europa Verde (Greens/EFA) | 0.0% | 1.8% | 1.5–2.2% |1.5–2.3% |1.4–2.3% |1.3–2.5% |
-| Più Europa (RE) | 0.0% | 1.5% | 1.2–1.8% |1.2–1.9% |1.1–2.0% |1.0–2.1% |
+| Fratelli d’Italia (ECR) | 3.7% | 21.1% | 20.2–22.0% |20.0–22.3% |19.7–22.5% |19.3–22.9% |
+| Partito Democratico (S&D) | 40.8% | 20.4% | 19.5–21.3% |19.3–21.6% |19.1–21.8% |18.7–22.3% |
+| Lega Nord (ID) | 6.2% | 18.8% | 18.0–19.7% |17.7–19.9% |17.5–20.1% |17.1–20.6% |
+| Movimento 5 Stelle (NI) | 21.2% | 15.2% | 14.4–16.0% |14.2–16.3% |14.0–16.5% |13.7–16.9% |
+| Forza Italia (EPP) | 16.8% | 7.3% | 6.8–7.9% |6.6–8.1% |6.5–8.2% |6.2–8.5% |
+| Azione (RE) | 0.0% | 3.4% | 3.0–3.9% |2.9–4.0% |2.9–4.1% |2.7–4.3% |
+| Sinistra Italiana (GUE/NGL) | 0.0% | 2.9% | 2.6–3.3% |2.5–3.4% |2.4–3.5% |2.2–3.7% |
+| Italia Viva (RE) | 0.0% | 2.5% | 2.2–2.9% |2.1–3.0% |2.0–3.1% |1.9–3.3% |
+| Più Europa (RE) | 0.0% | 1.7% | 1.4–2.0% |1.4–2.1% |1.3–2.2% |1.2–2.4% |
+| Europa Verde (Greens/EFA) | 0.0% | 1.6% | 1.3–1.9% |1.3–2.0% |1.2–2.1% |1.1–2.2% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
 ## Seats
 
-![Graph with seats not yet produced](2021-12-23-TermometroPolitico-seats.png "Seats")
+![Graph with seats not yet produced](2022-01-13-TermometroPolitico-seats.png "Seats")
 
-![Graph with seating plan not yet produced](2021-12-23-TermometroPolitico-seating-plan.png "Seating Plan")
+![Graph with seating plan not yet produced](2022-01-13-TermometroPolitico-seating-plan.png "Seating Plan")
 
 ### Confidence Intervals
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#fratelli-d’italia-(ecr)">Fratelli d’Italia (ECR)</a> | 0 | 19 | 18–20 |18–20 |17–21 |17–21 |
-| <a href="#partito-democratico-(s&d)">Partito Democratico (S&D)</a> | 31 | 17 | 16–18 |15–18 |15–18 |15–19 |
-| <a href="#lega-nord-(id)">Lega Nord (ID)</a> | 5 | 17 | 16–18 |16–19 |16–19 |15–19 |
-| <a href="#movimento-5-stelle-(ni)">Movimento 5 Stelle (NI)</a> | 17 | 14 | 13–15 |12–15 |12–15 |12–15 |
-| <a href="#forza-italia-(epp)">Forza Italia (EPP)</a> | 13 | 7 | 6–7 |6–7 |6–8 |5–8 |
-| <a href="#azione-(re)">Azione (RE)</a> | 0 | 0 | 0 |0–4 |0–4 |0–4 |
+| <a href="#fratelli-d’italia-(ecr)">Fratelli d’Italia (ECR)</a> | 0 | 18 | 18–19 |17–19 |17–19 |17–20 |
+| <a href="#partito-democratico-(s&d)">Partito Democratico (S&D)</a> | 31 | 17 | 16–17 |16–17 |16–18 |15–18 |
+| <a href="#lega-nord-(id)">Lega Nord (ID)</a> | 5 | 16 | 16–17 |15–17 |15–17 |15–18 |
+| <a href="#movimento-5-stelle-(ni)">Movimento 5 Stelle (NI)</a> | 17 | 13 | 13–14 |12–14 |12–14 |12–15 |
+| <a href="#forza-italia-(epp)">Forza Italia (EPP)</a> | 13 | 6 | 6–7 |6–7 |6–7 |5–7 |
+| <a href="#azione-(re)">Azione (RE)</a> | 0 | 0 | 0 |0 |0 |0–3 |
 | <a href="#sinistra-italiana-(gue/ngl)">Sinistra Italiana (GUE/NGL)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#italia-viva-(re)">Italia Viva (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
-| <a href="#europa-verde-(greens/efa)">Europa Verde (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#più-europa-(re)">Più Europa (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#europa-verde-(greens/efa)">Europa Verde (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0 |
 
 ### Fratelli d’Italia (ECR)
 
 *For a full overview of the results for this party, see the [Fratelli d’Italia (ECR)](party-fratellid’italiaecr.html) page.*
 
-![Graph with seats probability mass function not yet produced](2021-12-23-TermometroPolitico-seats-pmf-fratellid’italiaecr.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2022-01-13-TermometroPolitico-seats-pmf-fratellid’italiaecr.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -68,29 +68,27 @@
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
-| 16 | 0.1% | 100% |  |
-| 17 | 4% | 99.9% |  |
-| 18 | 19% | 96% |  |
-| 19 | 57% | 77% | Median |
-| 20 | 17% | 20% |  |
-| 21 | 3% | 3% |  |
-| 22 | 0.1% | 0.1% |  |
-| 23 | 0% | 0% |  |
+| 16 | 0.5% | 100% |  |
+| 17 | 9% | 99.5% |  |
+| 18 | 64% | 91% | Median |
+| 19 | 25% | 27% |  |
+| 20 | 2% | 2% |  |
+| 21 | 0% | 0% |  |
 
 ### Partito Democratico (S&D)
 
 *For a full overview of the results for this party, see the [Partito Democratico (S&D)](party-partitodemocraticosd.html) page.*
 
-![Graph with seats probability mass function not yet produced](2021-12-23-TermometroPolitico-seats-pmf-partitodemocraticosd.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2022-01-13-TermometroPolitico-seats-pmf-partitodemocraticosd.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 14 | 0.3% | 100% |  |
-| 15 | 5% | 99.7% |  |
-| 16 | 24% | 94% |  |
-| 17 | 44% | 70% | Median |
-| 18 | 25% | 27% |  |
-| 19 | 2% | 2% |  |
+| 14 | 0.1% | 100% |  |
+| 15 | 2% | 99.9% |  |
+| 16 | 42% | 98% |  |
+| 17 | 52% | 56% | Median |
+| 18 | 4% | 4% |  |
+| 19 | 0.1% | 0.1% |  |
 | 20 | 0% | 0% |  |
 | 21 | 0% | 0% |  |
 | 22 | 0% | 0% |  |
@@ -108,7 +106,7 @@
 
 *For a full overview of the results for this party, see the [Lega Nord (ID)](party-leganordid.html) page.*
 
-![Graph with seats probability mass function not yet produced](2021-12-23-TermometroPolitico-seats-pmf-leganordid.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2022-01-13-TermometroPolitico-seats-pmf-leganordid.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -121,28 +119,26 @@
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
-| 14 | 0% | 100% |  |
-| 15 | 2% | 100% |  |
-| 16 | 17% | 98% |  |
-| 17 | 48% | 81% | Median |
-| 18 | 27% | 32% |  |
-| 19 | 6% | 6% |  |
-| 20 | 0.1% | 0.1% |  |
-| 21 | 0% | 0% |  |
+| 14 | 0.2% | 100% |  |
+| 15 | 7% | 99.8% |  |
+| 16 | 54% | 93% | Median |
+| 17 | 38% | 39% |  |
+| 18 | 1.1% | 1.2% |  |
+| 19 | 0% | 0% |  |
 
 ### Movimento 5 Stelle (NI)
 
 *For a full overview of the results for this party, see the [Movimento 5 Stelle (NI)](party-movimento5stelleni.html) page.*
 
-![Graph with seats probability mass function not yet produced](2021-12-23-TermometroPolitico-seats-pmf-movimento5stelleni.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2022-01-13-TermometroPolitico-seats-pmf-movimento5stelleni.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 0.5% | 100% |  |
-| 12 | 8% | 99.5% |  |
-| 13 | 33% | 92% |  |
-| 14 | 48% | 59% | Median |
-| 15 | 10% | 10% |  |
+| 11 | 0.1% | 100% |  |
+| 12 | 9% | 99.9% |  |
+| 13 | 63% | 91% | Median |
+| 14 | 27% | 28% |  |
+| 15 | 1.0% | 1.0% |  |
 | 16 | 0% | 0% |  |
 | 17 | 0% | 0% | Last Result |
 
@@ -150,14 +146,14 @@
 
 *For a full overview of the results for this party, see the [Forza Italia (EPP)](party-forzaitaliaepp.html) page.*
 
-![Graph with seats probability mass function not yet produced](2021-12-23-TermometroPolitico-seats-pmf-forzaitaliaepp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2022-01-13-TermometroPolitico-seats-pmf-forzaitaliaepp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 0.8% | 100% |  |
-| 6 | 37% | 99.2% |  |
-| 7 | 59% | 63% | Median |
-| 8 | 3% | 3% |  |
+| 5 | 2% | 100% |  |
+| 6 | 70% | 98% | Median |
+| 7 | 27% | 28% |  |
+| 8 | 0.2% | 0.2% |  |
 | 9 | 0% | 0% |  |
 | 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |
@@ -168,46 +164,32 @@
 
 *For a full overview of the results for this party, see the [Azione (RE)](party-azionere.html) page.*
 
-![Graph with seats probability mass function not yet produced](2021-12-23-TermometroPolitico-seats-pmf-azionere.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2022-01-13-TermometroPolitico-seats-pmf-azionere.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 94% | 100% | Last Result, Median |
-| 1 | 0% | 6% |  |
-| 2 | 0% | 6% |  |
-| 3 | 1.2% | 6% |  |
-| 4 | 5% | 5% |  |
+| 0 | 98% | 100% | Last Result, Median |
+| 1 | 0% | 2% |  |
+| 2 | 0% | 2% |  |
+| 3 | 1.2% | 2% |  |
+| 4 | 0.4% | 0.4% |  |
 | 5 | 0% | 0% |  |
 
 ### Sinistra Italiana (GUE/NGL)
 
 *For a full overview of the results for this party, see the [Sinistra Italiana (GUE/NGL)](party-sinistraitalianaguengl.html) page.*
 
-![Graph with seats probability mass function not yet produced](2021-12-23-TermometroPolitico-seats-pmf-sinistraitalianaguengl.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.9% | 100% | Last Result, Median |
-| 1 | 0% | 0.1% |  |
-| 2 | 0% | 0.1% |  |
-| 3 | 0% | 0.1% |  |
-| 4 | 0% | 0% |  |
-
-### Italia Viva (RE)
-
-*For a full overview of the results for this party, see the [Italia Viva (RE)](party-italiavivare.html) page.*
-
-![Graph with seats probability mass function not yet produced](2021-12-23-TermometroPolitico-seats-pmf-italiavivare.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2022-01-13-TermometroPolitico-seats-pmf-sinistraitalianaguengl.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Last Result, Median |
 
-### Europa Verde (Greens/EFA)
+### Italia Viva (RE)
 
-*For a full overview of the results for this party, see the [Europa Verde (Greens/EFA)](party-europaverdegreensefa.html) page.*
+*For a full overview of the results for this party, see the [Italia Viva (RE)](party-italiavivare.html) page.*
 
-![Graph with seats probability mass function not yet produced](2021-12-23-TermometroPolitico-seats-pmf-europaverdegreensefa.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2022-01-13-TermometroPolitico-seats-pmf-italiavivare.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -217,7 +199,17 @@
 
 *For a full overview of the results for this party, see the [Più Europa (RE)](party-piùeuropare.html) page.*
 
-![Graph with seats probability mass function not yet produced](2021-12-23-TermometroPolitico-seats-pmf-piùeuropare.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2022-01-13-TermometroPolitico-seats-pmf-piùeuropare.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
+### Europa Verde (Greens/EFA)
+
+*For a full overview of the results for this party, see the [Europa Verde (Greens/EFA)](party-europaverdegreensefa.html) page.*
+
+![Graph with seats probability mass function not yet produced](2022-01-13-TermometroPolitico-seats-pmf-europaverdegreensefa.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -226,18 +218,18 @@
 
 ## Coalitions
 
-![Graph with coalitions seats not yet produced](2021-12-23-TermometroPolitico-coalitions-seats.png "Coalitions Seats")
+![Graph with coalitions seats not yet produced](2022-01-13-TermometroPolitico-coalitions-seats.png "Coalitions Seats")
 
 ### Confidence Intervals
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Lega Nord (ID) | 5 | 17 | 0% | 16–18 | 16–19 | 16–19 | 15–19 |
+| Lega Nord (ID) | 5 | 16 | 0% | 16–17 | 15–17 | 15–17 | 15–18 |
 | Europa Verde (Greens/EFA) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Lega Nord (ID)
 
-![Graph with seats probability mass function not yet produced](2021-12-23-TermometroPolitico-coalitions-seats-pmf-ln.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2022-01-13-TermometroPolitico-coalitions-seats-pmf-ln.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -250,18 +242,16 @@
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
-| 14 | 0% | 100% |  |
-| 15 | 2% | 100% |  |
-| 16 | 17% | 98% |  |
-| 17 | 48% | 81% | Median |
-| 18 | 27% | 32% |  |
-| 19 | 6% | 6% |  |
-| 20 | 0.1% | 0.1% |  |
-| 21 | 0% | 0% |  |
+| 14 | 0.2% | 100% |  |
+| 15 | 7% | 99.8% |  |
+| 16 | 54% | 93% | Median |
+| 17 | 38% | 39% |  |
+| 18 | 1.1% | 1.2% |  |
+| 19 | 0% | 0% |  |
 
 ### Europa Verde (Greens/EFA)
 
-![Graph with seats probability mass function not yet produced](2021-12-23-TermometroPolitico-coalitions-seats-pmf-ev.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2022-01-13-TermometroPolitico-coalitions-seats-pmf-ev.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -274,11 +264,11 @@
 
 + **Polling firm:** Termometro Politico
 + **Commissioner(s):** —
-+ **Fieldwork period:** 21–23 December 2021
++ **Fieldwork period:** 11–13 January 2022
 
 ### Calculations
 
-+ **Sample size:** 3200
++ **Sample size:** 3400
 + **Simulations done:** 1,048,576
-+ **Error estimate:** 0.99%
++ **Error estimate:** 1.07%
 
