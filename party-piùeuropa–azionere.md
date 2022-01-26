@@ -11,7 +11,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5.0% | 4.0–5.8% | 3.8–6.1% | 3.6–6.3% | 3.2–6.8% |
+| [19–24 January 2022](2022-01-24-SWG.html) | SWG <br> La7 | 4.8% | 4.1–5.7% | 3.9–6.0% | 3.7–6.2% | 3.4–6.7% |
 | [21 January 2022](2022-01-21-Tecnè.html) | Tecnè <br> Agenzia Dire | 4.9% | 4.1–5.9% | 3.9–6.2% | 3.7–6.4% | 3.4–6.9% |
+| [18–20 January 2022](2022-01-20-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
 | [17–20 January 2022](2022-01-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 4.5% | 3.7–5.6% | 3.4–5.9% | 3.2–6.1% | 2.9–6.7% |
 | [19 January 2022](2022-01-19-Euromedia.html) | Euromedia <br> Rai 1 | 4.8% | 3.9–5.9% | 3.7–6.2% | 3.5–6.5% | 3.1–7.0% |
 | [12–17 January 2022](2022-01-17-SWG.html) | SWG <br> La7 | 4.8% | 4.1–5.7% | 3.9–6.0% | 3.7–6.2% | 3.4–6.7% |
@@ -898,7 +900,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
+| [19–24 January 2022](2022-01-24-SWG.html) | SWG <br> La7 | 4 | 4–5 | 0–5 | 0–5 | 0–6 |
 | [21 January 2022](2022-01-21-Tecnè.html) | Tecnè <br> Agenzia Dire | 4 | 3–5 | 3–5 | 0–5 | 0–6 |
+| [18–20 January 2022](2022-01-20-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [17–20 January 2022](2022-01-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 4 | 0–4 | 0–5 | 0–5 | 0–6 |
 | [19 January 2022](2022-01-19-Euromedia.html) | Euromedia <br> Rai 1 | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [12–17 January 2022](2022-01-17-SWG.html) | SWG <br> La7 | 4 | 4–5 | 0–5 | 0–5 | 0–6 |
@@ -1771,8 +1775,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 89% |  |
 | 2 | 0% | 89% |  |
 | 3 | 4% | 89% |  |
-| 4 | 61% | 85% | Median |
-| 5 | 22% | 23% |  |
+| 4 | 56% | 85% | Median |
+| 5 | 28% | 29% |  |
 | 6 | 0.9% | 0.9% |  |
 | 7 | 0% | 0% |  |
 

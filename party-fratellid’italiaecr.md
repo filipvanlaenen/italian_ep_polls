@@ -10,8 +10,10 @@ Last result: **3.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.7% | 17.9–21.6% | 17.4–22.0% | 17.0–22.5% | 16.2–23.3% |
+| N/A | [Poll Average](average.html) | 19.7% | 17.9–21.7% | 17.4–22.1% | 17.0–22.5% | 16.2–23.3% |
+| [19–24 January 2022](2022-01-24-SWG.html) | SWG <br> La7 | 19.8% | 18.4–21.4% | 18.0–21.8% | 17.7–22.2% | 17.0–23.0% |
 | [21 January 2022](2022-01-21-Tecnè.html) | Tecnè <br> Agenzia Dire | 20.6% | 19.0–22.3% | 18.6–22.8% | 18.2–23.2% | 17.5–24.1% |
+| [18–20 January 2022](2022-01-20-TermometroPolitico.html) | Termometro Politico | 21.2% | 20.3–22.1% | 20.1–22.4% | 19.8–22.6% | 19.4–23.1% |
 | [17–20 January 2022](2022-01-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 19.2% | 17.5–21.0% | 17.0–21.6% | 16.6–22.0% | 15.8–23.0% |
 | [19 January 2022](2022-01-19-Euromedia.html) | Euromedia <br> Rai 1 | 18.9% | 17.2–20.7% | 16.7–21.3% | 16.3–21.7% | 15.5–22.7% |
 | [12–17 January 2022](2022-01-17-SWG.html) | SWG <br> La7 | 20.0% | 18.6–21.6% | 18.2–22.0% | 17.8–22.4% | 17.2–23.1% |
@@ -890,13 +892,13 @@ The following table shows the probability mass function per percentage block of 
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0.1% | 100% |  |
-| 15.5–16.5% | 1.0% | 99.9% |  |
-| 16.5–17.5% | 5% | 98.9% |  |
+| 15.5–16.5% | 0.9% | 99.9% |  |
+| 16.5–17.5% | 5% | 99.0% |  |
 | 17.5–18.5% | 16% | 94% |  |
 | 18.5–19.5% | 24% | 78% |  |
-| 19.5–20.5% | 24% | 54% | Median |
-| 20.5–21.5% | 20% | 30% |  |
-| 21.5–22.5% | 8% | 10% |  |
+| 19.5–20.5% | 23% | 55% | Median |
+| 20.5–21.5% | 20% | 32% |  |
+| 21.5–22.5% | 9% | 12% |  |
 | 22.5–23.5% | 2% | 2% |  |
 | 23.5–24.5% | 0.3% | 0.3% |  |
 | 24.5–25.5% | 0% | 0% |  |
@@ -911,7 +913,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17 | 15–18 | 14–19 | 14–19 | 14–20 |
+| [19–24 January 2022](2022-01-24-SWG.html) | SWG <br> La7 | 17 | 16–18 | 15–19 | 15–19 | 15–20 |
 | [21 January 2022](2022-01-21-Tecnè.html) | Tecnè <br> Agenzia Dire | 17 | 16–18 | 15–19 | 15–19 | 14–20 |
+| [18–20 January 2022](2022-01-20-TermometroPolitico.html) | Termometro Politico | 18 | 17–19 | 17–19 | 17–19 | 17–20 |
 | [17–20 January 2022](2022-01-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 16 | 16–17 | 15–18 | 15–19 | 13–20 |
 | [19 January 2022](2022-01-19-Euromedia.html) | Euromedia <br> Rai 1 | 16 | 14–17 | 14–18 | 14–18 | 13–19 |
 | [12–17 January 2022](2022-01-17-SWG.html) | SWG <br> La7 | 17 | 16–19 | 16–19 | 15–19 | 15–20 |
@@ -1795,11 +1799,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0.3% | 100% |  |
 | 14 | 7% | 99.7% |  |
-| 15 | 13% | 93% |  |
-| 16 | 27% | 80% |  |
-| 17 | 19% | 53% | Median |
-| 18 | 24% | 34% |  |
-| 19 | 8% | 9% |  |
+| 15 | 11% | 92% |  |
+| 16 | 24% | 81% |  |
+| 17 | 21% | 57% | Median |
+| 18 | 27% | 36% |  |
+| 19 | 9% | 10% |  |
 | 20 | 0.8% | 0.9% |  |
 | 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |
