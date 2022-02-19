@@ -10,11 +10,34 @@ Last result: **3.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.7% | 17.9–21.7% | 17.4–22.1% | 17.0–22.5% | 16.2–23.3% |
+| N/A | [Poll Average](average.html) | 20.4% | 18.3–22.3% | 17.6–22.8% | 17.0–23.3% | 16.0–24.2% |
+| [16–18 February 2022](2022-02-18-Ixè.html) | Ixè | 17.9% | 16.4–19.5% | 16.0–20.0% | 15.6–20.4% | 15.0–21.2% |
+| [16 February 2022](2022-02-16-Euromedia.html) | Euromedia <br> Rai 1 | 21.2% | 19.7–22.9% | 19.3–23.3% | 18.9–23.7% | 18.2–24.5% |
+| [9–14 February 2022](2022-02-14-SWG.html) | SWG <br> La7 | 21.4% | 20.0–23.0% | 19.5–23.4% | 19.2–23.8% | 18.5–24.6% |
+| [7–12 February 2022](2022-02-12-BiDiMedia.html) | BiDiMedia | 19.6% | 18.7–20.6% | 18.4–20.8% | 18.2–21.1% | 17.8–21.5% |
+| [11 February 2022](2022-02-11-Tecnè.html) | Tecnè <br> Agenzia Dire | 21.6% | 20.0–23.4% | 19.5–23.8% | 19.2–24.3% | 18.4–25.1% |
+| [9–10 February 2022](2022-02-10-TermometroPolitico.html) | Termometro Politico | 21.7% | 20.8–22.6% | 20.6–22.9% | 20.4–23.1% | 20.0–23.5% |
+| [8–10 February 2022](2022-02-10-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 20.1% | 18.4–22.0% | 17.9–22.5% | 17.4–23.0% | 16.6–23.9% |
+| [9–10 February 2022](2022-02-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 20.0% | 18.4–21.7% | 18.0–22.2% | 17.6–22.6% | 16.9–23.4% |
+| [8 February 2022](2022-02-08-EMG.html) | EMG <br> Rai 3 | 19.6% | 18.4–21.0% | 18.0–21.4% | 17.7–21.7% | 17.1–22.4% |
+| [2–7 February 2022](2022-02-07-SWG.html) | SWG <br> La7 | 21.1% | N/A | N/A | N/A | N/A |
+| [2–3 February 2022](2022-02-03-TermometroPolitico.html) | Termometro Politico | 21.9% | N/A | N/A | N/A | N/A |
+| [1–3 February 2022](2022-02-03-Ipsos.html) | Ipsos <br> Corriere della Sera | 19.3% | 17.8–21.0% | 17.3–21.5% | 17.0–21.9% | 16.3–22.7% |
+| [1–3 February 2022](2022-02-03-Demopolis.html) | Demopolis <br> Rai Radio 1 | 20.6% | 19.3–22.0% | 18.9–22.4% | 18.6–22.7% | 18.0–23.4% |
+| [2 February 2022](2022-02-02-Tecnè.html) | Tecnè <br> Agenzia Dire | 21.6% | N/A | N/A | N/A | N/A |
+| [2 February 2022](2022-02-02-Index.html) | Index <br> La7 | 20.9% | N/A | N/A | N/A | N/A |
+| [31 January–1 February 2022](2022-02-01-DemosPi.html) | Demos & Pi <br> La Repubblica | 20.5% | N/A | N/A | N/A | N/A |
+| [26–31 January 2022](2022-01-31-SWG.html) | SWG <br> La7 | 20.5% | N/A | N/A | N/A | N/A |
+| [28–31 January 2022](2022-01-31-Ixè.html) | Ixè | 18.5% | N/A | N/A | N/A | N/A |
+| [31 January 2022](2022-01-31-Euromedia.html) | Euromedia <br> La Stampa | 21.1% | N/A | N/A | N/A | N/A |
+| [31 January 2022](2022-01-31-EMG.html) | EMG <br> Rai 3 | 19.4% | N/A | N/A | N/A | N/A |
+| [26–27 January 2022](2022-01-27-TermometroPolitico.html) | Termometro Politico | 21.0% | N/A | N/A | N/A | N/A |
+| [25 January 2022](2022-01-25-Piepoli.html) | Piepoli <br> RaiNews24 | 20.6% | N/A | N/A | N/A | N/A |
 | [19–24 January 2022](2022-01-24-SWG.html) | SWG <br> La7 | 19.8% | 18.4–21.4% | 18.0–21.8% | 17.7–22.2% | 17.0–23.0% |
 | [21 January 2022](2022-01-21-Tecnè.html) | Tecnè <br> Agenzia Dire | 20.6% | 19.0–22.3% | 18.6–22.8% | 18.2–23.2% | 17.5–24.1% |
 | [18–20 January 2022](2022-01-20-TermometroPolitico.html) | Termometro Politico | 21.2% | 20.3–22.1% | 20.1–22.4% | 19.8–22.6% | 19.4–23.1% |
 | [17–20 January 2022](2022-01-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 19.2% | 17.5–21.0% | 17.0–21.6% | 16.6–22.0% | 15.8–23.0% |
+| [19 January 2022](2022-01-19-Index.html) | Index <br> La7 | 19.2% | N/A | N/A | N/A | N/A |
 | [19 January 2022](2022-01-19-Euromedia.html) | Euromedia <br> Rai 1 | 18.9% | 17.2–20.7% | 16.7–21.3% | 16.3–21.7% | 15.5–22.7% |
 | [12–17 January 2022](2022-01-17-SWG.html) | SWG <br> La7 | 20.0% | 18.6–21.6% | 18.2–22.0% | 17.8–22.4% | 17.2–23.1% |
 | [12–15 January 2022](2022-01-15-BiDiMedia.html) | BiDiMedia | 18.5% | 17.6–19.5% | 17.3–19.8% | 17.1–20.0% | 16.6–20.5% |
@@ -891,17 +914,18 @@ The following table shows the probability mass function per percentage block of 
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0.1% | 100% |  |
-| 15.5–16.5% | 0.9% | 99.9% |  |
-| 16.5–17.5% | 5% | 99.0% |  |
-| 17.5–18.5% | 16% | 94% |  |
-| 18.5–19.5% | 24% | 78% |  |
-| 19.5–20.5% | 23% | 55% | Median |
-| 20.5–21.5% | 20% | 32% |  |
-| 21.5–22.5% | 9% | 12% |  |
-| 22.5–23.5% | 2% | 2% |  |
-| 23.5–24.5% | 0.3% | 0.3% |  |
-| 24.5–25.5% | 0% | 0% |  |
+| 14.5–15.5% | 0.2% | 100% |  |
+| 15.5–16.5% | 1.1% | 99.8% |  |
+| 16.5–17.5% | 3% | 98.8% |  |
+| 17.5–18.5% | 8% | 95% |  |
+| 18.5–19.5% | 18% | 87% |  |
+| 19.5–20.5% | 23% | 69% | Median |
+| 20.5–21.5% | 22% | 46% |  |
+| 21.5–22.5% | 16% | 23% |  |
+| 22.5–23.5% | 6% | 7% |  |
+| 23.5–24.5% | 1.3% | 2% |  |
+| 24.5–25.5% | 0.2% | 0.2% |  |
+| 25.5–26.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -912,11 +936,34 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 15–18 | 14–19 | 14–19 | 14–20 |
+| N/A | [Poll Average](average.html) | 17 | 15–19 | 14–19 | 14–20 | 13–20 |
+| [16–18 February 2022](2022-02-18-Ixè.html) | Ixè | 15 | 14–16 | 13–16 | 13–17 | 12–18 |
+| [16 February 2022](2022-02-16-Euromedia.html) | Euromedia <br> Rai 1 | 18 | 17–19 | 16–20 | 16–20 | 15–21 |
+| [9–14 February 2022](2022-02-14-SWG.html) | SWG <br> La7 | 18 | 17–20 | 16–20 | 16–20 | 16–21 |
+| [7–12 February 2022](2022-02-12-BiDiMedia.html) | BiDiMedia | 16 | 15–17 | 15–17 | 15–17 | 15–18 |
+| [11 February 2022](2022-02-11-Tecnè.html) | Tecnè <br> Agenzia Dire | 18 | 17–20 | 16–20 | 16–20 | 15–22 |
+| [9–10 February 2022](2022-02-10-TermometroPolitico.html) | Termometro Politico | 18 | 17–19 | 17–19 | 17–19 | 16–20 |
+| [8–10 February 2022](2022-02-10-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 17 | 16–19 | 15–19 | 15–20 | 14–21 |
+| [9–10 February 2022](2022-02-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 17 | 15–19 | 15–19 | 14–19 | 14–20 |
+| [8 February 2022](2022-02-08-EMG.html) | EMG <br> Rai 3 | 16 | 15–17 | 15–18 | 14–19 | 14–19 |
+| [2–7 February 2022](2022-02-07-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [2–3 February 2022](2022-02-03-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [1–3 February 2022](2022-02-03-Ipsos.html) | Ipsos <br> Corriere della Sera | 16 | 15–18 | 14–18 | 14–18 | 13–19 |
+| [1–3 February 2022](2022-02-03-Demopolis.html) | Demopolis <br> Rai Radio 1 | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
+| [2 February 2022](2022-02-02-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [2 February 2022](2022-02-02-Index.html) | Index <br> La7 |  |  |  |  |  |
+| [31 January–1 February 2022](2022-02-01-DemosPi.html) | Demos & Pi <br> La Repubblica |  |  |  |  |  |
+| [26–31 January 2022](2022-01-31-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [28–31 January 2022](2022-01-31-Ixè.html) | Ixè |  |  |  |  |  |
+| [31 January 2022](2022-01-31-Euromedia.html) | Euromedia <br> La Stampa |  |  |  |  |  |
+| [31 January 2022](2022-01-31-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
+| [26–27 January 2022](2022-01-27-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [25 January 2022](2022-01-25-Piepoli.html) | Piepoli <br> RaiNews24 |  |  |  |  |  |
 | [19–24 January 2022](2022-01-24-SWG.html) | SWG <br> La7 | 17 | 16–18 | 15–19 | 15–19 | 15–20 |
 | [21 January 2022](2022-01-21-Tecnè.html) | Tecnè <br> Agenzia Dire | 17 | 16–18 | 15–19 | 15–19 | 14–20 |
 | [18–20 January 2022](2022-01-20-TermometroPolitico.html) | Termometro Politico | 18 | 17–19 | 17–19 | 17–19 | 17–20 |
 | [17–20 January 2022](2022-01-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 16 | 16–17 | 15–18 | 15–19 | 13–20 |
+| [19 January 2022](2022-01-19-Index.html) | Index <br> La7 |  |  |  |  |  |
 | [19 January 2022](2022-01-19-Euromedia.html) | Euromedia <br> Rai 1 | 16 | 14–17 | 14–18 | 14–18 | 13–19 |
 | [12–17 January 2022](2022-01-17-SWG.html) | SWG <br> La7 | 17 | 16–19 | 16–19 | 15–19 | 15–20 |
 | [12–15 January 2022](2022-01-15-BiDiMedia.html) | BiDiMedia | 15 | 14–16 | 14–16 | 14–16 | 14–17 |
@@ -1797,15 +1844,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 0.3% | 100% |  |
-| 14 | 7% | 99.7% |  |
-| 15 | 11% | 92% |  |
-| 16 | 24% | 81% |  |
-| 17 | 21% | 57% | Median |
-| 18 | 27% | 36% |  |
-| 19 | 9% | 10% |  |
-| 20 | 0.8% | 0.9% |  |
-| 21 | 0.1% | 0.1% |  |
-| 22 | 0% | 0% |  |
+| 13 | 0.8% | 100% |  |
+| 14 | 4% | 99.1% |  |
+| 15 | 12% | 95% |  |
+| 16 | 24% | 83% |  |
+| 17 | 24% | 59% | Median |
+| 18 | 22% | 35% |  |
+| 19 | 9% | 13% |  |
+| 20 | 4% | 4% |  |
+| 21 | 0.4% | 0.5% |  |
+| 22 | 0.1% | 0.1% |  |
+| 23 | 0% | 0% |  |
 
 
