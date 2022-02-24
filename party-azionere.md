@@ -11,8 +11,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3.7% | 2.7–4.9% | 2.5–5.3% | 2.3–5.6% | 1.9–6.3% |
+| [16–21 February 2022](2022-02-21-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [18 February 2022](2022-02-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [16–18 February 2022](2022-02-18-Ixè.html) | Ixè | 0.0% | N/A | N/A | N/A | N/A |
 | [16 February 2022](2022-02-16-Euromedia.html) | Euromedia <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
+| [15 February 2022](2022-02-15-Piepoli.html) | Piepoli <br> RaiNews24 | 3.6% | 2.7–4.9% | 2.5–5.3% | 2.3–5.6% | 1.9–6.3% |
 | [9–14 February 2022](2022-02-14-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [7–12 February 2022](2022-02-12-BiDiMedia.html) | BiDiMedia | 0.0% | N/A | N/A | N/A | N/A |
 | [11 February 2022](2022-02-11-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
@@ -923,8 +926,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
+| [16–21 February 2022](2022-02-21-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [18 February 2022](2022-02-18-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [16–18 February 2022](2022-02-18-Ixè.html) | Ixè |  |  |  |  |  |
 | [16 February 2022](2022-02-16-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
+| [15 February 2022](2022-02-15-Piepoli.html) | Piepoli <br> RaiNews24 | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [9–14 February 2022](2022-02-14-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [7–12 February 2022](2022-02-12-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
 | [11 February 2022](2022-02-11-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
@@ -1817,13 +1823,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 73% | 100% | Last Result, Median |
-| 1 | 0% | 27% |  |
-| 2 | 0% | 27% |  |
-| 3 | 6% | 27% |  |
-| 4 | 16% | 21% |  |
-| 5 | 5% | 5% |  |
-| 6 | 0.1% | 0.1% |  |
+| 0 | 70% | 100% | Last Result, Median |
+| 1 | 0% | 30% |  |
+| 2 | 0% | 30% |  |
+| 3 | 3% | 30% |  |
+| 4 | 22% | 27% |  |
+| 5 | 4% | 5% |  |
+| 6 | 0.3% | 0.3% |  |
 | 7 | 0% | 0% |  |
 
 
