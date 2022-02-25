@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/italian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2022-02-24T18:11:41.901841+01:00</updated>
+  <updated>2022-02-25T18:45:49.186459+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Movimento 5 Stelle (NI): 11.3–15.1%, 9–13 seats</li><li>Partito Democratico (S&amp;D): 18.5–23.1%, 14–18 seats</li><li>Lega Nord (ID): 14.8–19.1%, 12–16 seats</li><li>Forza Italia (EPP): 6.4–9.5%, 5–8 seats</li><li>Fratelli d’Italia (ECR): 19.2–23.8%, 16–20 seats</li><li>Europa Verde (Greens/EFA): 1.9–3.7%, 0 seats</li><li>Italia Viva (RE): 1.7–3.5%, 0 seats</li><li>Articolo Uno (S&amp;D): 1.7–3.5%, 0 seats</li><li>Sinistra Italiana (GUE/NGL): 1.6–3.4%, 0 seats</li><li>Più Europa–Azione (RE): 4.0–6.5%, 0–5 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/italian_ep_polls/2022-02-21-SWG.html</id>
@@ -14,6 +14,14 @@
     <title>Opinion Poll by SWG for La7, 16–21 February 2022</title>
     <updated>2022-02-24T17:34:53.42033+01:00</updated>
     <dc:date>2022-02-24T17:34:53.42033+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Movimento 5 Stelle (NI): 12.1–15.5%, 10–13 seats</li><li>Partito Democratico (S&amp;D): 19.5–23.5%, 15–19 seats</li><li>Lega Nord (ID): 16.1–19.9%, 14–17 seats</li><li>Forza Italia (EPP): 7.0–9.8%, 6–8 seats</li><li>Fratelli d’Italia (ECR): 17.6–21.6%, 15–19 seats</li><li>Europa Verde (Greens/EFA): 2.0–3.6%, 0 seats</li><li>Italia Viva (RE): 3.2–5.2%, 0–4 seats</li><li>Articolo Uno (S&amp;D): 0.8–2.0%, 0 seats</li><li>Sinistra Italiana (GUE/NGL): 1.9–3.5%, 0 seats</li><li>Più Europa–Azione (RE): 3.2–5.2%, 0–4 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/italian_ep_polls/2022-02-21-EMG.html</id>
+    <link href="https://filipvanlaenen.github.io/italian_ep_polls/2022-02-21-EMG.html"/>
+    <title>Opinion Poll by EMG for Rai 3, 21 February 2022</title>
+    <updated>2022-02-25T18:45:49.186459+01:00</updated>
+    <dc:date>2022-02-25T18:45:49.186459+01:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Movimento 5 Stelle (NI): 10.9–15.0%, 9–13 seats</li><li>Partito Democratico (S&amp;D): 19.3–24.4%, 15–19 seats</li><li>Lega Nord (ID): 14.3–18.9%, 12–16 seats</li><li>Forza Italia (EPP): 8.5–12.2%, 7–10 seats</li><li>Fratelli d’Italia (ECR): 19.5–24.7%, 16–21 seats</li><li>Europa Verde (Greens/EFA): 1.5–3.4%, 0 seats</li><li>Italia Viva (RE): 1.8–3.8%, 0 seats</li><li>Sinistra Italiana (GUE/NGL): 1.4–3.3%, 0 seats</li><li>Più Europa–Azione (RE): 3.3–5.9%, 0–5 seats</li></ul></div></content>
@@ -6415,5 +6423,5 @@
     <updated>2020-05-29T18:04:39+02:00</updated>
     <dc:date>2020-05-29T18:04:39+02:00</dc:date>
   </entry>
-  <dc:date>2022-02-24T18:11:41.901841+01:00</dc:date>
+  <dc:date>2022-02-25T18:45:49.186459+01:00</dc:date>
 </feed>
