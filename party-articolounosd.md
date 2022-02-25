@@ -12,6 +12,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.7% | 1.0–2.7% | 0.8–3.0% | 0.7–3.2% | 0.5–3.7% |
 | [16–21 February 2022](2022-02-21-SWG.html) | SWG <br> La7 | 2.4% | 1.9–3.1% | 1.8–3.3% | 1.7–3.5% | 1.5–3.8% |
+| [21 February 2022](2022-02-21-EMG.html) | EMG <br> Rai 3 | 1.3% | 1.0–1.7% | 0.9–1.9% | 0.8–2.0% | 0.7–2.2% |
 | [18 February 2022](2022-02-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [16–18 February 2022](2022-02-18-Ixè.html) | Ixè | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–3.0% | 1.0–3.3% |
 | [16 February 2022](2022-02-16-Euromedia.html) | Euromedia <br> Rai 1 | 2.0% | 1.5–2.6% | 1.4–2.8% | 1.3–3.0% | 1.1–3.3% |
@@ -907,8 +908,8 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0.5% | 100% | Last Result |
-| 0.5–1.5% | 39% | 99.5% |  |
-| 1.5–2.5% | 45% | 61% | Median |
+| 0.5–1.5% | 40% | 99.5% |  |
+| 1.5–2.5% | 44% | 59% | Median |
 | 2.5–3.5% | 15% | 16% |  |
 | 3.5–4.5% | 0.8% | 0.9% |  |
 | 4.5–5.5% | 0% | 0% |  |
@@ -924,6 +925,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [16–21 February 2022](2022-02-21-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
+| [21 February 2022](2022-02-21-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [18 February 2022](2022-02-18-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [16–18 February 2022](2022-02-18-Ixè.html) | Ixè | 0 | 0 | 0 | 0 | 0 |
 | [16 February 2022](2022-02-16-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |

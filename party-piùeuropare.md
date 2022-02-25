@@ -12,6 +12,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.7% | 1.9–3.8% | 1.7–4.1% | 1.5–4.4% | 1.3–5.0% |
 | [16–21 February 2022](2022-02-21-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [21 February 2022](2022-02-21-EMG.html) | EMG <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
 | [18 February 2022](2022-02-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [16–18 February 2022](2022-02-18-Ixè.html) | Ixè | 0.0% | N/A | N/A | N/A | N/A |
 | [16 February 2022](2022-02-16-Euromedia.html) | Euromedia <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
@@ -926,6 +927,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–4 | 0–4 |
 | [16–21 February 2022](2022-02-21-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [21 February 2022](2022-02-21-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [18 February 2022](2022-02-18-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [16–18 February 2022](2022-02-18-Ixè.html) | Ixè |  |  |  |  |  |
 | [16 February 2022](2022-02-16-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
