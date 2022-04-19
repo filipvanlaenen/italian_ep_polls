@@ -10,9 +10,17 @@ Last result: **21.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.5% | 11.9–15.8% | 11.4–16.4% | 11.0–16.9% | 10.3–17.9% |
+| N/A | [Poll Average](average.html) | 13.7% | 12.0–15.7% | 11.4–16.3% | 11.0–16.7% | 10.3–17.7% |
+| [1 April 2022](2022-04-01-Tecnè.html) | Tecnè <br> Agenzia Dire | 12.5% | 11.2–13.9% | 10.9–14.3% | 10.6–14.7% | 10.0–15.4% |
+| [30–31 March 2022](2022-03-31-TermometroPolitico.html) | Termometro Politico | 13.2% | 12.5–14.0% | 12.3–14.2% | 12.1–14.4% | 11.8–14.7% |
+| [30–31 March 2022](2022-03-31-Euromedia.html) | Euromedia | 14.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.3% | 11.4–17.0% |
+| [23–28 March 2022](2022-03-28-SWG.html) | SWG <br> La7 | 13.3% | 12.1–14.7% | 11.8–15.1% | 11.5–15.4% | 11.0–16.0% |
+| [28 March 2022](2022-03-28-Euromedia.html) | Euromedia | 13.1% | N/A | N/A | N/A | N/A |
+| [25 March 2022](2022-03-25-Tecnè.html) | Tecnè <br> Agenzia Dire | 12.3% | 11.1–13.7% | 10.7–14.1% | 10.4–14.5% | 9.8–15.2% |
 | [22–25 March 2022](2022-03-25-Ixè.html) | Ixè | 14.1% | 12.8–15.6% | 12.4–16.0% | 12.1–16.4% | 11.5–17.1% |
 | [23–24 March 2022](2022-03-24-TermometroPolitico.html) | Termometro Politico | 13.0% | 12.2–13.8% | 12.0–14.1% | 11.8–14.3% | 11.5–14.7% |
+| [22–24 March 2022](2022-03-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 14.5% | 13.2–16.0% | 12.8–16.4% | 12.5–16.8% | 11.8–17.6% |
+| [22 March 2022](2022-03-22-Euromedia.html) | Euromedia <br> Rai 1 | 12.5% | N/A | N/A | N/A | N/A |
 | [16–21 March 2022](2022-03-21-SWG.html) | SWG <br> La7 | 12.9% | 11.7–14.2% | 11.4–14.6% | 11.1–14.9% | 10.6–15.6% |
 | [18 March 2022](2022-03-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 12.4% | 11.1–13.8% | 10.8–14.2% | 10.5–14.6% | 9.9–15.3% |
 | [15–17 March 2022](2022-03-17-TermometroPolitico.html) | Termometro Politico | 13.2% | 12.4–14.0% | 12.2–14.2% | 12.1–14.4% | 11.7–14.8% |
@@ -931,13 +939,13 @@ The following table shows the probability mass function per percentage block of 
 | 8.5–9.5% | 0.1% | 100% |  |
 | 9.5–10.5% | 0.9% | 99.9% |  |
 | 10.5–11.5% | 5% | 99.0% |  |
-| 11.5–12.5% | 16% | 94% |  |
-| 12.5–13.5% | 28% | 77% |  |
-| 13.5–14.5% | 22% | 50% | Median |
-| 14.5–15.5% | 15% | 27% |  |
-| 15.5–16.5% | 9% | 13% |  |
-| 16.5–17.5% | 3% | 4% |  |
-| 17.5–18.5% | 0.8% | 0.9% |  |
+| 11.5–12.5% | 13% | 94% |  |
+| 12.5–13.5% | 26% | 81% |  |
+| 13.5–14.5% | 26% | 54% | Median |
+| 14.5–15.5% | 17% | 29% |  |
+| 15.5–16.5% | 8% | 12% |  |
+| 16.5–17.5% | 3% | 3% |  |
+| 17.5–18.5% | 0.6% | 0.7% |  |
 | 18.5–19.5% | 0.1% | 0.1% |  |
 | 19.5–20.5% | 0% | 0% |  |
 | 20.5–21.5% | 0% | 0% | Last Result |
@@ -951,9 +959,17 @@ Last result: **17** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 10–14 | 9–14 | 9–14 | 8–15 |
+| N/A | [Poll Average](average.html) | 12 | 10–14 | 9–14 | 9–14 | 8–15 |
+| [1 April 2022](2022-04-01-Tecnè.html) | Tecnè <br> Agenzia Dire | 10 | 9–11 | 9–12 | 9–12 | 8–13 |
+| [30–31 March 2022](2022-03-31-TermometroPolitico.html) | Termometro Politico | 11 | 11–12 | 10–12 | 10–13 | 10–13 |
+| [30–31 March 2022](2022-03-31-Euromedia.html) | Euromedia | 12 | 11–13 | 10–14 | 10–14 | 10–15 |
+| [23–28 March 2022](2022-03-28-SWG.html) | SWG <br> La7 | 12 | 11–13 | 11–13 | 10–13 | 10–14 |
+| [28 March 2022](2022-03-28-Euromedia.html) | Euromedia |  |  |  |  |  |
+| [25 March 2022](2022-03-25-Tecnè.html) | Tecnè <br> Agenzia Dire | 10 | 9–11 | 9–12 | 8–12 | 8–13 |
 | [22–25 March 2022](2022-03-25-Ixè.html) | Ixè | 12 | 11–13 | 10–13 | 10–14 | 9–14 |
 | [23–24 March 2022](2022-03-24-TermometroPolitico.html) | Termometro Politico | 11 | 10–11 | 10–12 | 10–12 | 9–12 |
+| [22–24 March 2022](2022-03-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 12 | 11–14 | 11–14 | 11–14 | 10–15 |
+| [22 March 2022](2022-03-22-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
 | [16–21 March 2022](2022-03-21-SWG.html) | SWG <br> La7 | 11 | 10–12 | 9–12 | 9–13 | 9–13 |
 | [18 March 2022](2022-03-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 10 | 9–11 | 9–12 | 9–12 | 8–13 |
 | [15–17 March 2022](2022-03-17-TermometroPolitico.html) | Termometro Politico | 11 | 10–12 | 10–12 | 10–12 | 10–13 |
@@ -1872,13 +1888,13 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 8 | 0.6% | 100% |  |
-| 9 | 7% | 99.4% |  |
-| 10 | 23% | 92% |  |
-| 11 | 29% | 69% | Median |
-| 12 | 20% | 40% |  |
-| 13 | 9% | 20% |  |
-| 14 | 9% | 11% |  |
-| 15 | 2% | 2% |  |
+| 9 | 6% | 99.4% |  |
+| 10 | 13% | 94% |  |
+| 11 | 25% | 81% |  |
+| 12 | 30% | 56% | Median |
+| 13 | 14% | 27% |  |
+| 14 | 11% | 12% |  |
+| 15 | 0.9% | 1.4% |  |
 | 16 | 0.4% | 0.5% |  |
 | 17 | 0.1% | 0.1% | Last Result |
 | 18 | 0% | 0% |  |

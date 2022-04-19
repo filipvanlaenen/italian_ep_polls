@@ -11,8 +11,16 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3.5% | 2.6–4.6% | 2.4–4.9% | 2.2–5.2% | 1.9–5.8% |
+| [1 April 2022](2022-04-01-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
+| [30–31 March 2022](2022-03-31-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
+| [30–31 March 2022](2022-03-31-Euromedia.html) | Euromedia | 0.0% | N/A | N/A | N/A | N/A |
+| [23–28 March 2022](2022-03-28-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [28 March 2022](2022-03-28-Euromedia.html) | Euromedia | 0.0% | N/A | N/A | N/A | N/A |
+| [25 March 2022](2022-03-25-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [22–25 March 2022](2022-03-25-Ixè.html) | Ixè | 0.0% | N/A | N/A | N/A | N/A |
 | [23–24 March 2022](2022-03-24-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
+| [22–24 March 2022](2022-03-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.0% | N/A | N/A | N/A | N/A |
+| [22 March 2022](2022-03-22-Euromedia.html) | Euromedia <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
 | [16–21 March 2022](2022-03-21-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [18 March 2022](2022-03-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [15–17 March 2022](2022-03-17-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
@@ -948,8 +956,16 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [1 April 2022](2022-04-01-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [30–31 March 2022](2022-03-31-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [30–31 March 2022](2022-03-31-Euromedia.html) | Euromedia |  |  |  |  |  |
+| [23–28 March 2022](2022-03-28-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [28 March 2022](2022-03-28-Euromedia.html) | Euromedia |  |  |  |  |  |
+| [25 March 2022](2022-03-25-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [22–25 March 2022](2022-03-25-Ixè.html) | Ixè |  |  |  |  |  |
 | [23–24 March 2022](2022-03-24-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [22–24 March 2022](2022-03-24-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
+| [22 March 2022](2022-03-22-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
 | [16–21 March 2022](2022-03-21-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [18 March 2022](2022-03-18-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [15–17 March 2022](2022-03-17-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
