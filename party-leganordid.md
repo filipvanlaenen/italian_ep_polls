@@ -10,17 +10,17 @@ Last result: **6.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.3% | 14.2–18.6% | 13.7–19.1% | 13.3–19.6% | 12.6–20.4% |
+| N/A | [Poll Average](average.html) | 17.1% | 14.9–19.0% | 14.4–19.5% | 14.0–19.9% | 13.2–20.8% |
 | [13–15 April 2022](2022-04-15-Ixè.html) | Ixè | 15.1% | 13.7–16.6% | 13.3–17.1% | 13.0–17.5% | 12.4–18.2% |
-| [13–14 April 2022](2022-04-14-TermometroPolitico.html) | Termometro Politico | 18.0% | N/A | N/A | N/A | N/A |
-| [14 April 2022](2022-04-14-Euromedia.html) | Euromedia <br> Rai 1 | 15.9% | N/A | N/A | N/A | N/A |
-| [11–12 April 2022](2022-04-12-DemosPi.html) | Demos & Pi <br> La Repubblica | 16.8% | N/A | N/A | N/A | N/A |
-| [6–11 April 2022](2022-04-11-SWG.html) | SWG <br> La7 | 15.9% | N/A | N/A | N/A | N/A |
-| [9 April 2022](2022-04-09-Lab2101.html) | Lab2101 <br> Affari Italiani | 18.3% | N/A | N/A | N/A | N/A |
-| [7–9 April 2022](2022-04-09-BiDiMedia.html) | BiDiMedia | 18.0% | N/A | N/A | N/A | N/A |
-| [8 April 2022](2022-04-08-Tecnè.html) | Tecnè <br> Agenzia Dire | 15.8% | N/A | N/A | N/A | N/A |
+| [13–14 April 2022](2022-04-14-TermometroPolitico.html) | Termometro Politico | 18.0% | 17.1–19.0% | 16.8–19.2% | 16.6–19.5% | 16.2–19.9% |
+| [14 April 2022](2022-04-14-Euromedia.html) | Euromedia <br> Rai 1 | 15.9% | 14.5–17.5% | 14.1–17.9% | 13.8–18.3% | 13.1–19.1% |
+| [11–12 April 2022](2022-04-12-DemosPi.html) | Demos & Pi <br> La Repubblica | 16.8% | 15.4–18.4% | 15.0–18.8% | 14.6–19.2% | 14.0–20.0% |
+| [6–11 April 2022](2022-04-11-SWG.html) | SWG <br> La7 | 15.9% | 14.6–17.3% | 14.3–17.8% | 13.9–18.1% | 13.4–18.8% |
+| [9 April 2022](2022-04-09-Lab2101.html) | Lab2101 <br> Affari Italiani | 18.3% | 16.8–20.0% | 16.4–20.4% | 16.0–20.8% | 15.3–21.6% |
+| [7–9 April 2022](2022-04-09-BiDiMedia.html) | BiDiMedia | 18.0% | 16.8–19.3% | 16.4–19.7% | 16.1–20.0% | 15.6–20.7% |
+| [8 April 2022](2022-04-08-Tecnè.html) | Tecnè <br> Agenzia Dire | 15.8% | 14.4–17.4% | 14.0–17.8% | 13.7–18.2% | 13.0–19.0% |
 | [6–7 April 2022](2022-04-07-TermometroPolitico.html) | Termometro Politico | 18.1% | N/A | N/A | N/A | N/A |
-| [4–5 April 2022](2022-04-05-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 18.0% | N/A | N/A | N/A | N/A |
+| [4–5 April 2022](2022-04-05-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 18.0% | 16.5–19.6% | 16.1–20.1% | 15.7–20.5% | 15.0–21.3% |
 | [30 March–4 April 2022](2022-04-04-SWG.html) | SWG <br> La7 | 15.8% | N/A | N/A | N/A | N/A |
 | [1 April 2022](2022-04-01-Tecnè.html) | Tecnè <br> Agenzia Dire | 15.8% | 14.4–17.4% | 14.0–17.8% | 13.7–18.2% | 13.0–19.0% |
 | [30–31 March 2022](2022-03-31-TermometroPolitico.html) | Termometro Politico | 18.4% | 17.6–19.3% | 17.3–19.5% | 17.1–19.7% | 16.8–20.1% |
@@ -40,10 +40,10 @@ Last result: **6.2%** (General Election of 26 May 2019)
 | [11 March 2022](2022-03-11-Tecnè.html) | Tecnè <br> Agenzia Dire | 16.1% | N/A | N/A | N/A | N/A |
 | [9 March 2022](2022-03-09-Lab2101.html) | Lab2101 <br> Affari Italiani | 17.9% | 16.0–20.1% | 15.5–20.7% | 15.0–21.2% | 14.1–22.3% |
 | [5–9 March 2022](2022-03-09-Ixè.html) | Ixè | 17.0% | 15.5–18.6% | 15.1–19.1% | 14.8–19.5% | 14.1–20.3% |
-| [8 March 2022](2022-03-08-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 17.0% | N/A | N/A | N/A | N/A |
+| [8 March 2022](2022-03-08-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 17.0% | 15.5–18.6% | 15.1–19.1% | 14.8–19.5% | 14.1–20.3% |
 | [2–7 March 2022](2022-03-07-SWG.html) | SWG <br> La7 | 17.0% | N/A | N/A | N/A | N/A |
 | [4 March 2022](2022-03-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 16.3% | N/A | N/A | N/A | N/A |
-| [2–4 March 2022](2022-03-04-DemosPi.html) | Demos & Pi <br> La Repubblica | 17.6% | N/A | N/A | N/A | N/A |
+| [2–4 March 2022](2022-03-04-DemosPi.html) | Demos & Pi <br> La Repubblica | 17.6% | 16.2–19.3% | 15.8–19.7% | 15.4–20.1% | 14.7–20.9% |
 | [2–3 March 2022](2022-03-03-TermometroPolitico.html) | Termometro Politico | 18.6% | N/A | N/A | N/A | N/A |
 | [23–28 February 2022](2022-02-28-SWG.html) | SWG <br> La7 | 17.2% | N/A | N/A | N/A | N/A |
 | [25 February 2022](2022-02-25-Tecnè.html) | Tecnè <br> Agenzia Dire | 16.3% | 14.9–17.9% | 14.5–18.3% | 14.1–18.7% | 13.5–19.5% |
@@ -953,17 +953,18 @@ The following table shows the probability mass function per percentage block of 
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 0.4% | 100% |  |
-| 12.5–13.5% | 3% | 99.6% |  |
-| 13.5–14.5% | 12% | 96% |  |
-| 14.5–15.5% | 19% | 85% |  |
-| 15.5–16.5% | 20% | 66% | Median |
-| 16.5–17.5% | 20% | 46% |  |
-| 17.5–18.5% | 16% | 26% |  |
-| 18.5–19.5% | 8% | 10% |  |
-| 19.5–20.5% | 2% | 3% |  |
-| 20.5–21.5% | 0.4% | 0.4% |  |
-| 21.5–22.5% | 0% | 0% |  |
+| 11.5–12.5% | 0.1% | 100% |  |
+| 12.5–13.5% | 1.1% | 99.9% |  |
+| 13.5–14.5% | 5% | 98.8% |  |
+| 14.5–15.5% | 13% | 94% |  |
+| 15.5–16.5% | 19% | 81% |  |
+| 16.5–17.5% | 22% | 61% | Median |
+| 17.5–18.5% | 22% | 39% |  |
+| 18.5–19.5% | 12% | 16% |  |
+| 19.5–20.5% | 3% | 4% |  |
+| 20.5–21.5% | 0.7% | 0.8% |  |
+| 21.5–22.5% | 0.1% | 0.1% |  |
+| 22.5–23.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -974,17 +975,17 @@ Last result: **5** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–16 | 11–16 | 11–16 | 10–17 |
+| N/A | [Poll Average](average.html) | 14 | 12–16 | 12–16 | 12–17 | 11–18 |
 | [13–15 April 2022](2022-04-15-Ixè.html) | Ixè | 12 | 11–14 | 11–14 | 11–15 | 10–15 |
-| [13–14 April 2022](2022-04-14-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [14 April 2022](2022-04-14-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
-| [11–12 April 2022](2022-04-12-DemosPi.html) | Demos & Pi <br> La Repubblica |  |  |  |  |  |
-| [6–11 April 2022](2022-04-11-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [9 April 2022](2022-04-09-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
-| [7–9 April 2022](2022-04-09-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
-| [8 April 2022](2022-04-08-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [13–14 April 2022](2022-04-14-TermometroPolitico.html) | Termometro Politico | 15 | 14–16 | 14–16 | 14–17 | 14–17 |
+| [14 April 2022](2022-04-14-Euromedia.html) | Euromedia <br> Rai 1 | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
+| [11–12 April 2022](2022-04-12-DemosPi.html) | Demos & Pi <br> La Repubblica | 14 | 13–16 | 13–16 | 12–16 | 12–17 |
+| [6–11 April 2022](2022-04-11-SWG.html) | SWG <br> La7 | 14 | 13–15 | 13–15 | 13–15 | 12–17 |
+| [9 April 2022](2022-04-09-Lab2101.html) | Lab2101 <br> Affari Italiani | 16 | 14–17 | 14–17 | 14–18 | 13–19 |
+| [7–9 April 2022](2022-04-09-BiDiMedia.html) | BiDiMedia | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
+| [8 April 2022](2022-04-08-Tecnè.html) | Tecnè <br> Agenzia Dire | 13 | 12–14 | 12–15 | 11–15 | 11–16 |
 | [6–7 April 2022](2022-04-07-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [4–5 April 2022](2022-04-05-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
+| [4–5 April 2022](2022-04-05-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 16 | 14–17 | 14–17 | 14–17 | 13–18 |
 | [30 March–4 April 2022](2022-04-04-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [1 April 2022](2022-04-01-Tecnè.html) | Tecnè <br> Agenzia Dire | 13 | 12–14 | 11–15 | 11–15 | 11–15 |
 | [30–31 March 2022](2022-03-31-TermometroPolitico.html) | Termometro Politico | 16 | 15–17 | 15–17 | 15–17 | 14–18 |
@@ -1004,10 +1005,10 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [11 March 2022](2022-03-11-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [9 March 2022](2022-03-09-Lab2101.html) | Lab2101 <br> Affari Italiani | 16 | 14–17 | 13–18 | 13–19 | 12–19 |
 | [5–9 March 2022](2022-03-09-Ixè.html) | Ixè | 14 | 13–15 | 12–16 | 12–16 | 12–17 |
-| [8 March 2022](2022-03-08-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
+| [8 March 2022](2022-03-08-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 14 | 13–16 | 12–16 | 12–16 | 12–17 |
 | [2–7 March 2022](2022-03-07-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [4 March 2022](2022-03-04-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
-| [2–4 March 2022](2022-03-04-DemosPi.html) | Demos & Pi <br> La Repubblica |  |  |  |  |  |
+| [2–4 March 2022](2022-03-04-DemosPi.html) | Demos & Pi <br> La Repubblica | 14 | 13–16 | 13–16 | 13–16 | 12–17 |
 | [2–3 March 2022](2022-03-03-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [23–28 February 2022](2022-02-28-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [25 February 2022](2022-02-25-Tecnè.html) | Tecnè <br> Agenzia Dire | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
@@ -1918,15 +1919,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
-| 10 | 0.6% | 100% |  |
-| 11 | 5% | 99.4% |  |
-| 12 | 26% | 95% |  |
-| 13 | 14% | 69% |  |
-| 14 | 10% | 55% | Median |
-| 15 | 32% | 44% |  |
-| 16 | 10% | 12% |  |
-| 17 | 2% | 2% |  |
-| 18 | 0.4% | 0.4% |  |
-| 19 | 0% | 0% |  |
+| 10 | 0.2% | 100% |  |
+| 11 | 2% | 99.8% |  |
+| 12 | 8% | 98% |  |
+| 13 | 15% | 90% |  |
+| 14 | 25% | 75% | Median |
+| 15 | 26% | 50% |  |
+| 16 | 20% | 24% |  |
+| 17 | 3% | 4% |  |
+| 18 | 0.6% | 0.7% |  |
+| 19 | 0.1% | 0.1% |  |
+| 20 | 0% | 0% |  |
 
 
