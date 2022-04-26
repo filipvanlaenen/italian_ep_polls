@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.4% | 3.4–5.4% | 3.1–5.7% | 2.9–6.0% | 2.6–6.5% |
+| N/A | [Poll Average](average.html) | 4.4% | 3.5–5.4% | 3.2–5.7% | 3.0–6.0% | 2.6–6.5% |
+| [20–23 April 2022](2022-04-23-Lab2101.html) | Lab2101 <br> Affari Italiani | 0.0% | N/A | N/A | N/A | N/A |
+| [19–20 April 2022](2022-04-20-Demopolis.html) | Demopolis <br> La7 | 4.2% | 3.6–5.0% | 3.4–5.2% | 3.3–5.3% | 3.0–5.7% |
+| [13–19 April 2022](2022-04-19-SWG.html) | SWG <br> La7 | 5.0% | 4.3–5.9% | 4.1–6.2% | 3.9–6.4% | 3.6–6.8% |
 | [13–15 April 2022](2022-04-15-Ixè.html) | Ixè | 4.9% | 4.1–5.9% | 3.9–6.2% | 3.7–6.4% | 3.4–6.9% |
 | [13–14 April 2022](2022-04-14-TermometroPolitico.html) | Termometro Politico | 4.4% | 3.9–4.9% | 3.8–5.1% | 3.7–5.2% | 3.5–5.5% |
 | [14 April 2022](2022-04-14-Euromedia.html) | Euromedia <br> Rai 1 | 4.7% | 3.9–5.7% | 3.7–6.0% | 3.6–6.2% | 3.2–6.7% |
@@ -949,10 +952,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.4% | 100% |  |
-| 2.5–3.5% | 14% | 99.6% |  |
-| 3.5–4.5% | 44% | 86% | Median |
-| 4.5–5.5% | 34% | 42% |  |
+| 1.5–2.5% | 0.3% | 100% |  |
+| 2.5–3.5% | 11% | 99.7% |  |
+| 3.5–4.5% | 45% | 89% | Median |
+| 4.5–5.5% | 36% | 44% |  |
 | 5.5–6.5% | 7% | 8% |  |
 | 6.5–7.5% | 0.4% | 0.5% |  |
 | 7.5–8.5% | 0% | 0% |  |
@@ -967,6 +970,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
+| [20–23 April 2022](2022-04-23-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
+| [19–20 April 2022](2022-04-20-Demopolis.html) | Demopolis <br> La7 | 4 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [13–19 April 2022](2022-04-19-SWG.html) | SWG <br> La7 | 4 | 4–5 | 4–5 | 4–5 | 0–6 |
 | [13–15 April 2022](2022-04-15-Ixè.html) | Ixè | 4 | 3–5 | 0–5 | 0–5 | 0–6 |
 | [13–14 April 2022](2022-04-14-TermometroPolitico.html) | Termometro Politico | 4 | 3–4 | 0–4 | 0–4 | 0–5 |
 | [14 April 2022](2022-04-14-Euromedia.html) | Euromedia <br> Rai 1 | 4 | 4–5 | 0–5 | 0–6 | 0–6 |
@@ -1905,12 +1911,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 33% | 100% | Last Result |
-| 1 | 0% | 67% |  |
-| 2 | 0% | 67% |  |
-| 3 | 7% | 67% |  |
-| 4 | 49% | 61% | Median |
-| 5 | 11% | 12% |  |
+| 0 | 28% | 100% | Last Result |
+| 1 | 0% | 72% |  |
+| 2 | 0% | 72% |  |
+| 3 | 6% | 72% |  |
+| 4 | 54% | 65% | Median |
+| 5 | 11% | 11% |  |
 | 6 | 0.7% | 0.7% |  |
 | 7 | 0% | 0% |  |
 
