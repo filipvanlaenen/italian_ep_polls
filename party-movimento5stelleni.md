@@ -10,10 +10,28 @@ Last result: **21.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.2% | 11.8–15.1% | 11.4–15.6% | 11.0–16.1% | 10.4–17.0% |
+| N/A | [Poll Average](average.html) | 13.2% | 11.7–15.1% | 11.2–15.9% | 10.9–16.5% | 10.2–17.7% |
+| [19 May 2022](2022-05-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 12.3% | 11.1–13.7% | 10.7–14.1% | 10.4–14.5% | 9.8–15.2% |
+| [17 May 2022](2022-05-17-EMG.html) | EMG <br> Rai 3 | 13.3% | 12.3–14.5% | 12.0–14.9% | 11.7–15.2% | 11.2–15.7% |
+| [11–16 May 2022](2022-05-16-SWG.html) | SWG <br> La7 | 12.6% | 11.4–13.9% | 11.1–14.3% | 10.8–14.6% | 10.3–15.2% |
+| [14 May 2022](2022-05-14-Tecnè.html) | Tecnè <br> Agenzia Dire | 12.8% | 11.5–14.3% | 11.2–14.7% | 10.9–15.0% | 10.3–15.7% |
+| [11–12 May 2022](2022-05-12-TermometroPolitico.html) | Termometro Politico | 13.3% | 12.5–14.1% | 12.3–14.4% | 12.1–14.6% | 11.8–15.0% |
+| [11 May 2022](2022-05-11-Index.html) | Index <br> La7 | 12.5% | 11.1–14.1% | 10.7–14.6% | 10.4–15.0% | 9.8–15.8% |
+| [4–9 May 2022](2022-05-09-SWG.html) | SWG <br> La7 | 12.8% | N/A | N/A | N/A | N/A |
+| [7 May 2022](2022-05-07-Tecnè.html) | Tecnè <br> Agenzia Dire | 12.9% | N/A | N/A | N/A | N/A |
+| [4–5 May 2022](2022-05-05-TermometroPolitico.html) | Termometro Politico | 13.3% | N/A | N/A | N/A | N/A |
+| [4 May 2022](2022-05-04-Piepoli.html) | Piepoli <br> RaiNews24 | 13.6% | 11.8–15.7% | 11.3–16.4% | 10.9–16.9% | 10.1–18.0% |
+| [4 May 2022](2022-05-04-Index.html) | Index <br> La7 | 12.8% | N/A | N/A | N/A | N/A |
+| [27 April–2 May 2022](2022-05-02-SWG.html) | SWG <br> La7 | 12.5% | N/A | N/A | N/A | N/A |
+| [1 May 2022](2022-05-01-Euromedia.html) | Euromedia <br> La Stampa | 12.5% | 11.1–14.1% | 10.7–14.6% | 10.4–15.0% | 9.8–15.8% |
+| [29 April 2022](2022-04-29-Tecnè.html) | Tecnè <br> Agenzia Dire | 12.7% | 11.4–14.1% | 11.1–14.6% | 10.8–14.9% | 10.2–15.6% |
+| [27–28 April 2022](2022-04-28-TermometroPolitico.html) | Termometro Politico | 13.1% | 12.3–14.0% | 12.1–14.2% | 11.9–14.4% | 11.5–14.8% |
+| [26 April 2022](2022-04-26-Piepoli.html) | Piepoli <br> RaiNews24 | 13.0% | 11.2–15.1% | 10.7–15.7% | 10.3–16.2% | 9.5–17.3% |
 | [20–24 April 2022](2022-04-24-SWG.html) | SWG <br> La7 | 12.7% | 11.5–14.0% | 11.2–14.4% | 10.9–14.7% | 10.4–15.3% |
+| [24 April 2022](2022-04-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 15.0% | 13.3–17.0% | 12.8–17.6% | 12.4–18.1% | 11.6–19.1% |
 | [20–23 April 2022](2022-04-23-Lab2101.html) | Lab2101 <br> Affari Italiani | 14.6% | 13.2–16.1% | 12.9–16.6% | 12.5–16.9% | 11.9–17.7% |
 | [22 April 2022](2022-04-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 12.6% | 11.3–14.0% | 11.0–14.4% | 10.7–14.8% | 10.1–15.5% |
+| [20–21 April 2022](2022-04-21-TermometroPolitico.html) | Termometro Politico | 13.0% | N/A | N/A | N/A | N/A |
 | [19–20 April 2022](2022-04-20-Demopolis.html) | Demopolis <br> La7 | 13.2% | 12.1–14.4% | 11.8–14.7% | 11.6–15.0% | 11.1–15.6% |
 | [13–19 April 2022](2022-04-19-SWG.html) | SWG <br> La7 | 12.9% | 11.7–14.2% | 11.4–14.6% | 11.1–14.9% | 10.6–15.6% |
 | [13–15 April 2022](2022-04-15-Ixè.html) | Ixè | 14.4% | 13.1–15.9% | 12.7–16.3% | 12.4–16.7% | 11.7–17.5% |
@@ -952,17 +970,18 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0.7% | 100% |  |
-| 10.5–11.5% | 6% | 99.2% |  |
-| 11.5–12.5% | 21% | 93% |  |
-| 12.5–13.5% | 32% | 72% | Median |
-| 13.5–14.5% | 23% | 40% |  |
-| 14.5–15.5% | 12% | 18% |  |
-| 15.5–16.5% | 5% | 6% |  |
-| 16.5–17.5% | 1.0% | 1.1% |  |
-| 17.5–18.5% | 0.1% | 0.1% |  |
-| 18.5–19.5% | 0% | 0% |  |
+| 7.5–8.5% | 0% | 100% |  |
+| 8.5–9.5% | 0.1% | 100% |  |
+| 9.5–10.5% | 1.2% | 99.9% |  |
+| 10.5–11.5% | 7% | 98.7% |  |
+| 11.5–12.5% | 20% | 91% |  |
+| 12.5–13.5% | 32% | 71% | Median |
+| 13.5–14.5% | 23% | 39% |  |
+| 14.5–15.5% | 10% | 17% |  |
+| 15.5–16.5% | 5% | 7% |  |
+| 16.5–17.5% | 2% | 2% |  |
+| 17.5–18.5% | 0.5% | 0.6% |  |
+| 18.5–19.5% | 0.1% | 0.1% |  |
 | 19.5–20.5% | 0% | 0% |  |
 | 20.5–21.5% | 0% | 0% | Last Result |
 
@@ -975,10 +994,28 @@ Last result: **17** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 10–13 | 10–13 | 9–14 | 9–15 |
+| N/A | [Poll Average](average.html) | 11 | 10–13 | 10–14 | 9–14 | 8–15 |
+| [19 May 2022](2022-05-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 11 | 9–12 | 9–12 | 8–12 | 8–13 |
+| [17 May 2022](2022-05-17-EMG.html) | EMG <br> Rai 3 | 12 | 11–13 | 11–13 | 10–13 | 9–14 |
+| [11–16 May 2022](2022-05-16-SWG.html) | SWG <br> La7 | 11 | 10–12 | 10–13 | 10–13 | 9–13 |
+| [14 May 2022](2022-05-14-Tecnè.html) | Tecnè <br> Agenzia Dire | 11 | 10–12 | 10–13 | 9–13 | 9–14 |
+| [11–12 May 2022](2022-05-12-TermometroPolitico.html) | Termometro Politico | 11 | 10–12 | 10–12 | 10–12 | 10–13 |
+| [11 May 2022](2022-05-11-Index.html) | Index <br> La7 | 11 | 10–12 | 9–13 | 9–13 | 9–14 |
+| [4–9 May 2022](2022-05-09-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [7 May 2022](2022-05-07-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [4–5 May 2022](2022-05-05-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [4 May 2022](2022-05-04-Piepoli.html) | Piepoli <br> RaiNews24 | 11 | 10–14 | 10–14 | 9–15 | 8–16 |
+| [4 May 2022](2022-05-04-Index.html) | Index <br> La7 |  |  |  |  |  |
+| [27 April–2 May 2022](2022-05-02-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [1 May 2022](2022-05-01-Euromedia.html) | Euromedia <br> La Stampa | 10 | 10–12 | 9–12 | 9–12 | 8–13 |
+| [29 April 2022](2022-04-29-Tecnè.html) | Tecnè <br> Agenzia Dire | 10 | 10–12 | 9–12 | 9–13 | 9–14 |
+| [27–28 April 2022](2022-04-28-TermometroPolitico.html) | Termometro Politico | 11 | 10–12 | 10–12 | 10–12 | 10–12 |
+| [26 April 2022](2022-04-26-Piepoli.html) | Piepoli <br> RaiNews24 | 12 | 11–14 | 10–14 | 10–15 | 9–16 |
 | [20–24 April 2022](2022-04-24-SWG.html) | SWG <br> La7 | 11 | 10–12 | 9–12 | 9–13 | 9–13 |
+| [24 April 2022](2022-04-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 13 | 11–14 | 10–15 | 10–16 | 9–16 |
 | [20–23 April 2022](2022-04-23-Lab2101.html) | Lab2101 <br> Affari Italiani | 12 | 11–14 | 11–15 | 11–15 | 10–16 |
 | [22 April 2022](2022-04-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 11 | 10–12 | 9–12 | 9–13 | 8–13 |
+| [20–21 April 2022](2022-04-21-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [19–20 April 2022](2022-04-20-Demopolis.html) | Demopolis <br> La7 | 10 | 10–12 | 10–12 | 10–13 | 10–14 |
 | [13–19 April 2022](2022-04-19-SWG.html) | SWG <br> La7 | 12 | 11–12 | 10–13 | 10–13 | 10–14 |
 | [13–15 April 2022](2022-04-15-Ixè.html) | Ixè | 12 | 11–13 | 10–14 | 10–14 | 10–14 |
@@ -1919,15 +1956,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 8 | 0.2% | 100% |  |
-| 9 | 5% | 99.8% |  |
-| 10 | 25% | 95% |  |
-| 11 | 32% | 70% | Median |
-| 12 | 26% | 38% |  |
-| 13 | 8% | 12% |  |
-| 14 | 3% | 4% |  |
-| 15 | 0.8% | 0.9% |  |
-| 16 | 0.1% | 0.1% |  |
+| 8 | 0.5% | 100% |  |
+| 9 | 4% | 99.5% |  |
+| 10 | 22% | 96% |  |
+| 11 | 33% | 73% | Median |
+| 12 | 24% | 41% |  |
+| 13 | 9% | 17% |  |
+| 14 | 6% | 8% |  |
+| 15 | 1.3% | 2% |  |
+| 16 | 0.4% | 0.5% |  |
 | 17 | 0% | 0% | Last Result |
 
 
