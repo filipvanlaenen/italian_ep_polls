@@ -10,7 +10,7 @@ Last result: **3.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.6% | 21.1–24.2% | 20.6–24.7% | 20.2–25.2% | 19.5–26.1% |
+| N/A | [Poll Average](average.html) | 22.5% | 20.7–24.2% | 20.2–24.7% | 19.7–25.2% | 18.8–26.1% |
 | [15–20 June 2022](2022-06-20-SWG.html) | SWG <br> La7 | 23.1% | 21.6–24.7% | 21.1–25.2% | 20.8–25.6% | 20.1–26.4% |
 | [16–17 June 2022](2022-06-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 23.0% | 21.4–24.8% | 20.9–25.3% | 20.5–25.7% | 19.7–26.6% |
 | [15–16 June 2022](2022-06-16-TermometroPolitico.html) | Termometro Politico | 23.1% | 22.1–24.1% | 21.9–24.4% | 21.7–24.6% | 21.2–25.1% |
@@ -19,11 +19,11 @@ Last result: **3.7%** (General Election of 26 May 2019)
 | [13 June 2022](2022-06-13-EMG.html) | EMG <br> Rai 3 | 22.1% | 20.8–23.5% | 20.4–23.9% | 20.1–24.2% | 19.5–24.9% |
 | [12 June 2022](2022-06-12-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 22.5% | 20.9–24.3% | 20.4–24.8% | 20.0–25.2% | 19.3–26.1% |
 | [25–26 May 2022](2022-05-26-TermometroPolitico.html) | Termometro Politico | 22.5% | 21.5–23.5% | 21.3–23.8% | 21.0–24.0% | 20.6–24.5% |
-| [23–25 May 2022](2022-05-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 21.0% | N/A | N/A | N/A | N/A |
-| [25 May 2022](2022-05-25-Index.html) | Index <br> La7 | 22.6% | N/A | N/A | N/A | N/A |
-| [25 May 2022](2022-05-25-Euromedia.html) | Euromedia <br> Rai 1 | 22.2% | N/A | N/A | N/A | N/A |
-| [23–25 May 2022](2022-05-25-DemosPi.html) | Demos & Pi <br> La Repubblica | 22.3% | N/A | N/A | N/A | N/A |
-| [24 May 2022](2022-05-24-EMG.html) | EMG <br> Rai 3 | 22.3% | N/A | N/A | N/A | N/A |
+| [23–25 May 2022](2022-05-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 21.0% | 19.4–22.7% | 19.0–23.2% | 18.6–23.6% | 17.8–24.5% |
+| [25 May 2022](2022-05-25-Index.html) | Index <br> La7 | 22.6% | 20.8–24.6% | 20.3–25.2% | 19.9–25.7% | 19.0–26.6% |
+| [25 May 2022](2022-05-25-Euromedia.html) | Euromedia <br> Rai 1 | 22.2% | 20.4–24.2% | 19.9–24.8% | 19.5–25.3% | 18.7–26.2% |
+| [23–25 May 2022](2022-05-25-DemosPi.html) | Demos & Pi <br> La Repubblica | 22.3% | 20.7–24.1% | 20.2–24.6% | 19.8–25.0% | 19.1–25.8% |
+| [24 May 2022](2022-05-24-EMG.html) | EMG <br> Rai 3 | 22.3% | 20.9–23.7% | 20.5–24.1% | 20.2–24.5% | 19.6–25.2% |
 | [24 May 2022](2022-05-24-Demopolis.html) | Demopolis | 22.0% | 20.8–23.2% | 20.5–23.6% | 20.2–23.9% | 19.7–24.5% |
 | [18–23 May 2022](2022-05-23-SWG.html) | SWG <br> La7 | 22.6% | 21.1–24.2% | 20.7–24.6% | 20.3–25.0% | 19.6–25.8% |
 | [18–19 May 2022](2022-05-19-TermometroPolitico.html) | Termometro Politico | 22.3% | 21.4–23.3% | 21.1–23.5% | 20.9–23.8% | 20.4–24.3% |
@@ -1003,15 +1003,15 @@ The following table shows the probability mass function per percentage block of 
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0% | 100% |  |
-| 17.5–18.5% | 0% | 100% |  |
-| 18.5–19.5% | 0.5% | 99.9% |  |
-| 19.5–20.5% | 4% | 99.4% |  |
-| 20.5–21.5% | 14% | 96% |  |
-| 21.5–22.5% | 28% | 81% |  |
-| 22.5–23.5% | 30% | 53% | Median |
-| 23.5–24.5% | 16% | 23% |  |
+| 17.5–18.5% | 0.3% | 100% |  |
+| 18.5–19.5% | 2% | 99.7% |  |
+| 19.5–20.5% | 6% | 98% |  |
+| 20.5–21.5% | 17% | 92% |  |
+| 21.5–22.5% | 28% | 75% | Median |
+| 22.5–23.5% | 27% | 48% |  |
+| 23.5–24.5% | 15% | 21% |  |
 | 24.5–25.5% | 5% | 6% |  |
-| 25.5–26.5% | 1.2% | 1.4% |  |
+| 25.5–26.5% | 1.1% | 1.4% |  |
 | 26.5–27.5% | 0.2% | 0.2% |  |
 | 27.5–28.5% | 0% | 0% |  |
 
@@ -1024,7 +1024,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 18–21 | 17–21 | 17–22 | 16–23 |
+| N/A | [Poll Average](average.html) | 19 | 18–21 | 17–21 | 16–22 | 16–23 |
 | [15–20 June 2022](2022-06-20-SWG.html) | SWG <br> La7 | 20 | 19–21 | 19–22 | 18–23 | 18–23 |
 | [16–17 June 2022](2022-06-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 20 | 18–21 | 18–21 | 17–22 | 16–22 |
 | [15–16 June 2022](2022-06-16-TermometroPolitico.html) | Termometro Politico | 19 | 18–20 | 18–21 | 18–21 | 17–21 |
@@ -1033,11 +1033,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [13 June 2022](2022-06-13-EMG.html) | EMG <br> Rai 3 | 19 | 18–20 | 17–20 | 17–21 | 16–22 |
 | [12 June 2022](2022-06-12-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 19 | 17–21 | 17–21 | 17–21 | 16–22 |
 | [25–26 May 2022](2022-05-26-TermometroPolitico.html) | Termometro Politico | 18 | 18–20 | 18–20 | 17–20 | 17–21 |
-| [23–25 May 2022](2022-05-25-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
-| [25 May 2022](2022-05-25-Index.html) | Index <br> La7 |  |  |  |  |  |
-| [25 May 2022](2022-05-25-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
-| [23–25 May 2022](2022-05-25-DemosPi.html) | Demos & Pi <br> La Repubblica |  |  |  |  |  |
-| [24 May 2022](2022-05-24-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
+| [23–25 May 2022](2022-05-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 18 | 16–19 | 16–20 | 16–20 | 15–21 |
+| [25 May 2022](2022-05-25-Index.html) | Index <br> La7 | 20 | 18–22 | 18–23 | 17–23 | 17–24 |
+| [25 May 2022](2022-05-25-Euromedia.html) | Euromedia <br> Rai 1 | 19 | 17–21 | 17–21 | 17–22 | 16–23 |
+| [23–25 May 2022](2022-05-25-DemosPi.html) | Demos & Pi <br> La Repubblica | 19 | 18–21 | 17–21 | 17–21 | 16–22 |
+| [24 May 2022](2022-05-24-EMG.html) | EMG <br> Rai 3 | 19 | 18–20 | 18–21 | 17–21 | 16–22 |
 | [24 May 2022](2022-05-24-Demopolis.html) | Demopolis | 18 | 18–20 | 18–20 | 17–20 | 17–21 |
 | [18–23 May 2022](2022-05-23-SWG.html) | SWG <br> La7 | 20 | 19–21 | 19–22 | 18–22 | 17–23 |
 | [18–19 May 2022](2022-05-19-TermometroPolitico.html) | Termometro Politico | 19 | 18–20 | 17–20 | 17–20 | 17–21 |
@@ -2020,16 +2020,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 0.1% | 100% |  |
-| 16 | 1.4% | 99.9% |  |
-| 17 | 7% | 98.6% |  |
-| 18 | 22% | 91% |  |
-| 19 | 32% | 69% | Median |
-| 20 | 21% | 37% |  |
-| 21 | 12% | 15% |  |
-| 22 | 2% | 3% |  |
-| 23 | 0.9% | 1.0% |  |
-| 24 | 0.1% | 0.1% |  |
+| 15 | 0.2% | 100% |  |
+| 16 | 2% | 99.8% |  |
+| 17 | 7% | 97% |  |
+| 18 | 25% | 90% |  |
+| 19 | 30% | 65% | Median |
+| 20 | 18% | 35% |  |
+| 21 | 13% | 17% |  |
+| 22 | 2% | 4% |  |
+| 23 | 1.2% | 1.4% |  |
+| 24 | 0.2% | 0.2% |  |
 | 25 | 0% | 0% |  |
 
 
