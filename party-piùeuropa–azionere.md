@@ -10,7 +10,14 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.5% | 3.4–6.0% | 3.1–6.3% | 2.9–6.6% | 2.5–7.2% |
+| N/A | [Poll Average](average.html) | 4.6% | 3.5–5.8% | 3.2–6.1% | 2.9–6.4% | 2.5–7.0% |
+| [13–14 July 2022](2022-07-14-TermometroPolitico.html) | Termometro Politico | 4.3% | 3.9–4.8% | 3.7–4.9% | 3.7–5.0% | 3.5–5.3% |
+| [11–14 July 2022](2022-07-14-BiDiMedia.html) | BiDiMedia | 4.7% | 4.1–5.4% | 4.0–5.6% | 3.9–5.7% | 3.6–6.1% |
+| [6–11 July 2022](2022-07-11-SWG.html) | SWG <br> La7 | 5.1% | 4.3–6.0% | 4.1–6.2% | 4.0–6.5% | 3.6–7.0% |
+| [8 July 2022](2022-07-08-Tecnè.html) | Tecnè <br> Agenzia Dire | 4.9% | 4.1–5.9% | 3.9–6.2% | 3.7–6.4% | 3.4–6.9% |
+| [6–7 July 2022](2022-07-07-TermometroPolitico.html) | Termometro Politico | 4.3% | N/A | N/A | N/A | N/A |
+| [29 June–4 July 2022](2022-07-04-SWG.html) | SWG <br> La7 | 5.2% | N/A | N/A | N/A | N/A |
+| [4 July 2022](2022-07-04-Euromedia.html) | Euromedia <br> La Stampa | 4.8% | 4.0–5.8% | 3.8–6.1% | 3.6–6.3% | 3.3–6.8% |
 | [30 June–1 July 2022](2022-07-01-Tecnè.html) | Tecnè <br> Agenzia Dire | 5.2% | 4.4–6.2% | 4.2–6.5% | 4.0–6.8% | 3.6–7.3% |
 | [29–30 June 2022](2022-06-30-TermometroPolitico.html) | Termometro Politico | 4.1% | 3.7–4.6% | 3.6–4.7% | 3.5–4.8% | 3.3–5.1% |
 | [28–30 June 2022](2022-06-30-Ipsos.html) | Ipsos <br> Corriere della Sera | 3.8% | 3.1–4.7% | 2.9–5.0% | 2.8–5.2% | 2.5–5.6% |
@@ -25,6 +32,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [15–20 June 2022](2022-06-20-SWG.html) | SWG <br> La7 | 5.4% | 4.7–6.4% | 4.5–6.6% | 4.3–6.9% | 3.9–7.3% |
 | [16–17 June 2022](2022-06-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 4.9% | 4.1–5.9% | 3.9–6.2% | 3.7–6.4% | 3.4–6.9% |
 | [15–16 June 2022](2022-06-16-TermometroPolitico.html) | Termometro Politico | 4.3% | 3.9–4.8% | 3.8–5.0% | 3.7–5.1% | 3.5–5.3% |
+| [15–16 June 2022](2022-06-16-Lab2101.html) | Lab2101 <br> Affari Italiani | 5.2% | 4.4–6.2% | 4.2–6.5% | 4.0–6.8% | 3.6–7.3% |
 | [13–14 June 2022](2022-06-14-Euromedia.html) | Euromedia | 5.1% | 4.3–6.3% | 4.0–6.6% | 3.8–6.9% | 3.4–7.5% |
 | [8–13 June 2022](2022-06-13-SWG.html) | SWG <br> La7 | 5.1% | N/A | N/A | N/A | N/A |
 | [13 June 2022](2022-06-13-EMG.html) | EMG <br> Rai 3 | 4.5% | 3.9–5.2% | 3.7–5.4% | 3.6–5.6% | 3.3–6.0% |
@@ -1002,12 +1010,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.7% | 100% |  |
-| 2.5–3.5% | 12% | 99.3% |  |
-| 3.5–4.5% | 38% | 87% |  |
-| 4.5–5.5% | 30% | 49% | Median |
-| 5.5–6.5% | 16% | 19% |  |
-| 6.5–7.5% | 3% | 3% |  |
+| 1.5–2.5% | 0.6% | 100% |  |
+| 2.5–3.5% | 10% | 99.4% |  |
+| 3.5–4.5% | 38% | 89% |  |
+| 4.5–5.5% | 37% | 51% | Median |
+| 5.5–6.5% | 13% | 15% |  |
+| 6.5–7.5% | 2% | 2% |  |
 | 7.5–8.5% | 0.1% | 0.1% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
@@ -1020,7 +1028,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 0–5 | 0–5 | 0–6 | 0–6 |
+| N/A | [Poll Average](average.html) | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
+| [13–14 July 2022](2022-07-14-TermometroPolitico.html) | Termometro Politico | 4 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [11–14 July 2022](2022-07-14-BiDiMedia.html) | BiDiMedia | 4 | 4 | 3–5 | 0–5 | 0–5 |
+| [6–11 July 2022](2022-07-11-SWG.html) | SWG <br> La7 | 4 | 4–5 | 3–5 | 0–5 | 0–6 |
+| [8 July 2022](2022-07-08-Tecnè.html) | Tecnè <br> Agenzia Dire | 4 | 4–5 | 3–5 | 0–5 | 0–6 |
+| [6–7 July 2022](2022-07-07-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [29 June–4 July 2022](2022-07-04-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [4 July 2022](2022-07-04-Euromedia.html) | Euromedia <br> La Stampa | 4 | 3–5 | 0–5 | 0–5 | 0–6 |
 | [30 June–1 July 2022](2022-07-01-Tecnè.html) | Tecnè <br> Agenzia Dire | 4 | 4–5 | 3–5 | 3–6 | 0–6 |
 | [29–30 June 2022](2022-06-30-TermometroPolitico.html) | Termometro Politico | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [28–30 June 2022](2022-06-30-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
@@ -1035,6 +1050,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [15–20 June 2022](2022-06-20-SWG.html) | SWG <br> La7 | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
 | [16–17 June 2022](2022-06-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 4 | 3–5 | 0–5 | 0–5 | 0–6 |
 | [15–16 June 2022](2022-06-16-TermometroPolitico.html) | Termometro Politico | 4 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [15–16 June 2022](2022-06-16-Lab2101.html) | Lab2101 <br> Affari Italiani | 4 | 4–5 | 3–5 | 0–6 | 0–6 |
 | [13–14 June 2022](2022-06-14-Euromedia.html) | Euromedia | 4 | 3–5 | 0–6 | 0–6 | 0–7 |
 | [8–13 June 2022](2022-06-13-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [13 June 2022](2022-06-13-EMG.html) | EMG <br> Rai 3 | 4 | 3–4 | 0–5 | 0–5 | 0–5 |
@@ -2012,14 +2028,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 30% | 100% | Last Result |
-| 1 | 0% | 70% |  |
-| 2 | 0% | 70% |  |
-| 3 | 9% | 70% |  |
-| 4 | 35% | 61% | Median |
-| 5 | 23% | 26% |  |
-| 6 | 3% | 3% |  |
-| 7 | 0.2% | 0.2% |  |
+| 0 | 24% | 100% | Last Result |
+| 1 | 0% | 76% |  |
+| 2 | 0% | 76% |  |
+| 3 | 10% | 76% |  |
+| 4 | 50% | 66% | Median |
+| 5 | 14% | 16% |  |
+| 6 | 1.5% | 2% |  |
+| 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |
 
 

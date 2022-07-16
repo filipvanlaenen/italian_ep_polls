@@ -10,7 +10,14 @@ Last result: **40.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.7% | 19.9–23.4% | 19.3–23.9% | 18.9–24.4% | 18.1–25.4% |
+| N/A | [Poll Average](average.html) | 21.9% | 20.0–23.6% | 19.5–24.1% | 19.0–24.6% | 18.1–25.5% |
+| [13–14 July 2022](2022-07-14-TermometroPolitico.html) | Termometro Politico | 22.3% | 21.4–23.2% | 21.1–23.5% | 20.9–23.7% | 20.5–24.2% |
+| [11–14 July 2022](2022-07-14-BiDiMedia.html) | BiDiMedia | 22.4% | 21.2–23.6% | 20.9–24.0% | 20.6–24.3% | 20.1–24.9% |
+| [6–11 July 2022](2022-07-11-SWG.html) | SWG <br> La7 | 21.7% | 20.2–23.3% | 19.8–23.7% | 19.4–24.1% | 18.7–24.9% |
+| [8 July 2022](2022-07-08-Tecnè.html) | Tecnè <br> Agenzia Dire | 22.5% | 20.9–24.3% | 20.4–24.8% | 20.0–25.2% | 19.3–26.1% |
+| [6–7 July 2022](2022-07-07-TermometroPolitico.html) | Termometro Politico | 22.0% | N/A | N/A | N/A | N/A |
+| [29 June–4 July 2022](2022-07-04-SWG.html) | SWG <br> La7 | 21.8% | N/A | N/A | N/A | N/A |
+| [4 July 2022](2022-07-04-Euromedia.html) | Euromedia <br> La Stampa | 21.4% | 19.8–23.1% | 19.4–23.6% | 19.0–24.1% | 18.2–24.9% |
 | [30 June–1 July 2022](2022-07-01-Tecnè.html) | Tecnè <br> Agenzia Dire | 22.8% | 21.2–24.6% | 20.7–25.1% | 20.3–25.5% | 19.5–26.4% |
 | [29–30 June 2022](2022-06-30-TermometroPolitico.html) | Termometro Politico | 22.2% | 21.3–23.2% | 21.0–23.4% | 20.8–23.7% | 20.4–24.1% |
 | [28–30 June 2022](2022-06-30-Ipsos.html) | Ipsos <br> Corriere della Sera | 20.8% | 19.2–22.5% | 18.8–23.0% | 18.4–23.4% | 17.7–24.3% |
@@ -25,6 +32,7 @@ Last result: **40.8%** (General Election of 26 May 2019)
 | [15–20 June 2022](2022-06-20-SWG.html) | SWG <br> La7 | 21.3% | 19.9–22.9% | 19.5–23.4% | 19.1–23.7% | 18.4–24.5% |
 | [16–17 June 2022](2022-06-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 21.5% | 19.9–23.2% | 19.4–23.7% | 19.1–24.2% | 18.3–25.0% |
 | [15–16 June 2022](2022-06-16-TermometroPolitico.html) | Termometro Politico | 22.7% | 21.7–23.7% | 21.5–23.9% | 21.3–24.2% | 20.8–24.6% |
+| [15–16 June 2022](2022-06-16-Lab2101.html) | Lab2101 <br> Affari Italiani | 22.9% | 21.3–24.7% | 20.8–25.2% | 20.4–25.6% | 19.6–26.5% |
 | [13–14 June 2022](2022-06-14-Euromedia.html) | Euromedia | 22.2% | 20.4–24.2% | 19.9–24.8% | 19.5–25.3% | 18.7–26.2% |
 | [8–13 June 2022](2022-06-13-SWG.html) | SWG <br> La7 | 21.2% | N/A | N/A | N/A | N/A |
 | [13 June 2022](2022-06-13-EMG.html) | EMG <br> Rai 3 | 21.8% | 20.5–23.2% | 20.2–23.6% | 19.8–24.0% | 19.2–24.6% |
@@ -1002,16 +1010,16 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0.1% | 100% |  |
-| 17.5–18.5% | 1.2% | 99.8% |  |
-| 18.5–19.5% | 5% | 98.6% |  |
-| 19.5–20.5% | 14% | 93% |  |
-| 20.5–21.5% | 24% | 80% |  |
-| 21.5–22.5% | 29% | 55% | Median |
-| 22.5–23.5% | 18% | 26% |  |
-| 23.5–24.5% | 6% | 8% |  |
-| 24.5–25.5% | 2% | 2% |  |
-| 25.5–26.5% | 0.3% | 0.4% |  |
-| 26.5–27.5% | 0% | 0.1% |  |
+| 17.5–18.5% | 1.0% | 99.9% |  |
+| 18.5–19.5% | 5% | 98.8% |  |
+| 19.5–20.5% | 12% | 94% |  |
+| 20.5–21.5% | 23% | 83% |  |
+| 21.5–22.5% | 30% | 60% | Median |
+| 22.5–23.5% | 20% | 30% |  |
+| 23.5–24.5% | 8% | 10% |  |
+| 24.5–25.5% | 2% | 3% |  |
+| 25.5–26.5% | 0.4% | 0.5% |  |
+| 26.5–27.5% | 0.1% | 0.1% |  |
 | 27.5–28.5% | 0% | 0% |  |
 | 28.5–29.5% | 0% | 0% |  |
 | 29.5–30.5% | 0% | 0% |  |
@@ -1036,7 +1044,14 @@ Last result: **31** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 16–19 | 15–20 | 15–20 | 14–21 |
+| N/A | [Poll Average](average.html) | 17 | 16–19 | 15–19 | 15–20 | 14–21 |
+| [13–14 July 2022](2022-07-14-TermometroPolitico.html) | Termometro Politico | 17 | 17–18 | 16–19 | 16–19 | 16–19 |
+| [11–14 July 2022](2022-07-14-BiDiMedia.html) | BiDiMedia | 18 | 16–18 | 16–19 | 16–19 | 16–20 |
+| [6–11 July 2022](2022-07-11-SWG.html) | SWG <br> La7 | 17 | 16–18 | 15–19 | 15–19 | 15–20 |
+| [8 July 2022](2022-07-08-Tecnè.html) | Tecnè <br> Agenzia Dire | 18 | 17–20 | 17–20 | 17–21 | 16–22 |
+| [6–7 July 2022](2022-07-07-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [29 June–4 July 2022](2022-07-04-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [4 July 2022](2022-07-04-Euromedia.html) | Euromedia <br> La Stampa | 17 | 16–18 | 15–19 | 15–19 | 14–20 |
 | [30 June–1 July 2022](2022-07-01-Tecnè.html) | Tecnè <br> Agenzia Dire | 18 | 17–20 | 16–20 | 16–20 | 15–21 |
 | [29–30 June 2022](2022-06-30-TermometroPolitico.html) | Termometro Politico | 18 | 17–18 | 17–19 | 17–19 | 16–19 |
 | [28–30 June 2022](2022-06-30-Ipsos.html) | Ipsos <br> Corriere della Sera | 17 | 16–19 | 16–19 | 15–21 | 14–21 |
@@ -1051,6 +1066,7 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [15–20 June 2022](2022-06-20-SWG.html) | SWG <br> La7 | 18 | 17–20 | 17–20 | 16–20 | 15–21 |
 | [16–17 June 2022](2022-06-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 17 | 16–19 | 15–19 | 15–20 | 14–21 |
 | [15–16 June 2022](2022-06-16-TermometroPolitico.html) | Termometro Politico | 18 | 17–19 | 17–19 | 17–19 | 16–20 |
+| [15–16 June 2022](2022-06-16-Lab2101.html) | Lab2101 <br> Affari Italiani | 18 | 17–19 | 16–20 | 16–20 | 15–21 |
 | [13–14 June 2022](2022-06-14-Euromedia.html) | Euromedia | 18 | 16–20 | 16–21 | 15–21 | 15–22 |
 | [8–13 June 2022](2022-06-13-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [13 June 2022](2022-06-13-EMG.html) | EMG <br> Rai 3 | 18 | 17–19 | 16–20 | 16–20 | 15–20 |
@@ -2029,13 +2045,13 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 14 | 1.1% | 100% |  |
-| 15 | 6% | 98.8% |  |
-| 16 | 20% | 92% |  |
-| 17 | 24% | 72% | Median |
-| 18 | 30% | 48% |  |
-| 19 | 13% | 18% |  |
-| 20 | 3% | 5% |  |
-| 21 | 2% | 2% |  |
+| 15 | 6% | 98.9% |  |
+| 16 | 20% | 93% |  |
+| 17 | 27% | 73% | Median |
+| 18 | 26% | 46% |  |
+| 19 | 15% | 20% |  |
+| 20 | 3% | 4% |  |
+| 21 | 0.9% | 1.3% |  |
 | 22 | 0.4% | 0.4% |  |
 | 23 | 0% | 0% |  |
 | 24 | 0% | 0% |  |
