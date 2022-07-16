@@ -10,11 +10,11 @@ Last result: **40.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.0% | 20.1–23.6% | 19.5–24.2% | 19.1–24.7% | 18.2–25.7% |
+| N/A | [Poll Average](average.html) | 22.0% | 20.2–23.7% | 19.6–24.3% | 19.2–24.8% | 18.3–25.7% |
 | [30 June–1 July 2022](2022-07-01-Tecnè.html) | Tecnè <br> Agenzia Dire | 22.8% | 21.2–24.6% | 20.7–25.1% | 20.3–25.5% | 19.5–26.4% |
 | [29–30 June 2022](2022-06-30-TermometroPolitico.html) | Termometro Politico | 22.2% | 21.3–23.2% | 21.0–23.4% | 20.8–23.7% | 20.4–24.1% |
 | [28–30 June 2022](2022-06-30-Ipsos.html) | Ipsos <br> Corriere della Sera | 20.8% | 19.2–22.5% | 18.8–23.0% | 18.4–23.4% | 17.7–24.3% |
-| [27–28 June 2022](2022-06-28-EMG.html) | EMG | 22.3% | N/A | N/A | N/A | N/A |
+| [27–28 June 2022](2022-06-28-EMG.html) | EMG | 22.3% | 20.7–24.1% | 20.2–24.6% | 19.8–25.0% | 19.1–25.8% |
 | [27–28 June 2022](2022-06-28-Demopolis.html) | Demopolis | 22.0% | N/A | N/A | N/A | N/A |
 | [22–27 June 2022](2022-06-27-SWG.html) | SWG <br> La7 | 21.6% | N/A | N/A | N/A | N/A |
 | [27 June 2022](2022-06-27-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 21.0% | N/A | N/A | N/A | N/A |
@@ -1002,15 +1002,15 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0.1% | 100% |  |
-| 17.5–18.5% | 0.9% | 99.9% |  |
-| 18.5–19.5% | 4% | 99.0% |  |
-| 19.5–20.5% | 11% | 95% |  |
-| 20.5–21.5% | 22% | 84% |  |
-| 21.5–22.5% | 31% | 62% | Median |
-| 22.5–23.5% | 20% | 31% |  |
-| 23.5–24.5% | 8% | 11% |  |
-| 24.5–25.5% | 2% | 3% |  |
-| 25.5–26.5% | 0.5% | 0.6% |  |
+| 17.5–18.5% | 0.7% | 99.9% |  |
+| 18.5–19.5% | 4% | 99.2% |  |
+| 19.5–20.5% | 10% | 96% |  |
+| 20.5–21.5% | 21% | 85% |  |
+| 21.5–22.5% | 31% | 64% | Median |
+| 22.5–23.5% | 21% | 34% |  |
+| 23.5–24.5% | 9% | 12% |  |
+| 24.5–25.5% | 3% | 3% |  |
+| 25.5–26.5% | 0.6% | 0.7% |  |
 | 26.5–27.5% | 0.1% | 0.1% |  |
 | 27.5–28.5% | 0% | 0% |  |
 | 28.5–29.5% | 0% | 0% |  |
@@ -1036,11 +1036,11 @@ Last result: **31** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 17–19 | 16–20 | 16–21 | 15–21 |
+| N/A | [Poll Average](average.html) | 18 | 16–20 | 16–21 | 16–21 | 15–21 |
 | [30 June–1 July 2022](2022-07-01-Tecnè.html) | Tecnè <br> Agenzia Dire | 18 | 17–20 | 16–20 | 16–20 | 15–21 |
 | [29–30 June 2022](2022-06-30-TermometroPolitico.html) | Termometro Politico | 18 | 17–18 | 17–19 | 17–19 | 16–19 |
-| [28–30 June 2022](2022-06-30-Ipsos.html) | Ipsos <br> Corriere della Sera | 16 | 16–17 | 16–17 | 16–17 | 16–19 |
-| [27–28 June 2022](2022-06-28-EMG.html) | EMG |  |  |  |  |  |
+| [28–30 June 2022](2022-06-30-Ipsos.html) | Ipsos <br> Corriere della Sera | 17 | 16–19 | 16–19 | 15–21 | 14–21 |
+| [27–28 June 2022](2022-06-28-EMG.html) | EMG | 19 | 16–21 | 16–21 | 15–21 | 15–21 |
 | [27–28 June 2022](2022-06-28-Demopolis.html) | Demopolis |  |  |  |  |  |
 | [22–27 June 2022](2022-06-27-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [27 June 2022](2022-06-27-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
@@ -2028,15 +2028,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 14 | 0.1% | 100% |  |
-| 15 | 1.1% | 99.9% |  |
-| 16 | 7% | 98.8% |  |
-| 17 | 27% | 92% |  |
-| 18 | 45% | 65% | Median |
-| 19 | 12% | 20% |  |
-| 20 | 5% | 8% |  |
-| 21 | 2% | 3% |  |
-| 22 | 0.1% | 0.1% |  |
+| 14 | 0.5% | 100% |  |
+| 15 | 2% | 99.5% |  |
+| 16 | 10% | 98% |  |
+| 17 | 24% | 87% |  |
+| 18 | 33% | 63% | Median |
+| 19 | 17% | 30% |  |
+| 20 | 5% | 13% |  |
+| 21 | 8% | 9% |  |
+| 22 | 0.2% | 0.2% |  |
 | 23 | 0% | 0% |  |
 | 24 | 0% | 0% |  |
 | 25 | 0% | 0% |  |

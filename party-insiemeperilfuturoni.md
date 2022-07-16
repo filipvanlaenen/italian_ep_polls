@@ -10,11 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.9% | 0.6–1.4% | 0.6–1.5% | 0.5–1.7% | 0.4–2.0% |
+| N/A | [Poll Average](average.html) | 1.2% | 0.7–2.5% | 0.6–2.8% | 0.6–3.0% | 0.5–3.5% |
 | [30 June–1 July 2022](2022-07-01-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [29–30 June 2022](2022-06-30-TermometroPolitico.html) | Termometro Politico | 0.8% | 0.6–1.0% | 0.6–1.1% | 0.5–1.2% | 0.5–1.3% |
 | [28–30 June 2022](2022-06-30-Ipsos.html) | Ipsos <br> Corriere della Sera | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
-| [27–28 June 2022](2022-06-28-EMG.html) | EMG | 1.3% | N/A | N/A | N/A | N/A |
+| [27–28 June 2022](2022-06-28-EMG.html) | EMG | 1.3% | 0.9–1.9% | 0.8–2.1% | 0.8–2.2% | 0.6–2.5% |
 | [27–28 June 2022](2022-06-28-Demopolis.html) | Demopolis | 0.0% | N/A | N/A | N/A | N/A |
 | [22–27 June 2022](2022-06-27-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [27 June 2022](2022-06-27-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 3.0% | N/A | N/A | N/A | N/A |
@@ -1000,10 +1000,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 3% | 100% | Last Result |
-| 0.5–1.5% | 93% | 97% | Median |
-| 1.5–2.5% | 5% | 5% |  |
-| 2.5–3.5% | 0% | 0% |  |
+| 0.0–0.5% | 1.4% | 100% | Last Result |
+| 0.5–1.5% | 64% | 98.6% | Median |
+| 1.5–2.5% | 25% | 34% |  |
+| 2.5–3.5% | 9% | 9% |  |
+| 3.5–4.5% | 0.4% | 0.4% |  |
+| 4.5–5.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -1018,7 +1020,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [30 June–1 July 2022](2022-07-01-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [29–30 June 2022](2022-06-30-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [28–30 June 2022](2022-06-30-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
-| [27–28 June 2022](2022-06-28-EMG.html) | EMG |  |  |  |  |  |
+| [27–28 June 2022](2022-06-28-EMG.html) | EMG | 0 | 0 | 0 | 0 | 0 |
 | [27–28 June 2022](2022-06-28-Demopolis.html) | Demopolis |  |  |  |  |  |
 | [22–27 June 2022](2022-06-27-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [27 June 2022](2022-06-27-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
