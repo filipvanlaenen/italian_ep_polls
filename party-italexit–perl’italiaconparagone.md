@@ -10,17 +10,17 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.7% | 2.1–4.1% | 1.9–4.5% | 1.8–4.8% | 1.5–5.4% |
+| N/A | [Poll Average](average.html) | 2.5% | 1.8–3.7% | 1.6–4.2% | 1.5–4.6% | 1.2–5.3% |
 | [30 June–1 July 2022](2022-07-01-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.6% | 2.1–3.4% | 1.9–3.6% | 1.8–3.8% | 1.6–4.2% |
 | [29–30 June 2022](2022-06-30-TermometroPolitico.html) | Termometro Politico | 2.5% | 2.2–2.9% | 2.1–3.0% | 2.0–3.1% | 1.9–3.3% |
 | [28–30 June 2022](2022-06-30-Ipsos.html) | Ipsos <br> Corriere della Sera | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
 | [27–28 June 2022](2022-06-28-EMG.html) | EMG | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
 | [27–28 June 2022](2022-06-28-Demopolis.html) | Demopolis | 0.0% | N/A | N/A | N/A | N/A |
-| [22–27 June 2022](2022-06-27-SWG.html) | SWG <br> La7 | 2.2% | N/A | N/A | N/A | N/A |
-| [27 June 2022](2022-06-27-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 2.0% | N/A | N/A | N/A | N/A |
-| [24–25 June 2022](2022-06-25-Winpoll.html) | Winpoll <br> Il Sole 24 Ore | 1.9% | N/A | N/A | N/A | N/A |
+| [22–27 June 2022](2022-06-27-SWG.html) | SWG <br> La7 | 2.2% | 1.7–2.8% | 1.6–3.0% | 1.5–3.2% | 1.3–3.5% |
+| [27 June 2022](2022-06-27-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
+| [24–25 June 2022](2022-06-25-Winpoll.html) | Winpoll <br> Il Sole 24 Ore | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–3.0% | 1.0–3.3% |
 | [21–24 June 2022](2022-06-24-TermometroPolitico.html) | Termometro Politico | 2.2% | N/A | N/A | N/A | N/A |
-| [23–24 June 2022](2022-06-24-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.5% | N/A | N/A | N/A | N/A |
+| [23–24 June 2022](2022-06-24-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
 | [22 June 2022](2022-06-22-Euromedia.html) | Euromedia <br> La Stampa | 2.8% | 2.2–3.6% | 2.1–3.8% | 1.9–4.0% | 1.7–4.4% |
 | [15–20 June 2022](2022-06-20-SWG.html) | SWG <br> La7 | 2.4% | 1.9–3.1% | 1.8–3.3% | 1.7–3.5% | 1.5–3.8% |
 | [16–17 June 2022](2022-06-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
@@ -1001,12 +1001,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.7% | 100% |  |
-| 1.5–2.5% | 36% | 99.3% |  |
-| 2.5–3.5% | 44% | 63% | Median |
-| 3.5–4.5% | 15% | 20% |  |
-| 4.5–5.5% | 4% | 5% |  |
-| 5.5–6.5% | 0.3% | 0.3% |  |
+| 0.5–1.5% | 4% | 100% |  |
+| 1.5–2.5% | 50% | 96% | Median |
+| 2.5–3.5% | 33% | 46% |  |
+| 3.5–4.5% | 10% | 12% |  |
+| 4.5–5.5% | 3% | 3% |  |
+| 5.5–6.5% | 0.2% | 0.2% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -1018,17 +1018,17 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0–4 | 0–4 | 0–5 |
 | [30 June–1 July 2022](2022-07-01-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0–3 |
 | [29–30 June 2022](2022-06-30-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [28–30 June 2022](2022-06-30-Ipsos.html) | Ipsos <br> Corriere della Sera | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [27–28 June 2022](2022-06-28-EMG.html) | EMG | 0 | 0 | 0 | 0 | 0 |
 | [27–28 June 2022](2022-06-28-Demopolis.html) | Demopolis |  |  |  |  |  |
-| [22–27 June 2022](2022-06-27-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [27 June 2022](2022-06-27-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
-| [24–25 June 2022](2022-06-25-Winpoll.html) | Winpoll <br> Il Sole 24 Ore |  |  |  |  |  |
+| [22–27 June 2022](2022-06-27-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
+| [27 June 2022](2022-06-27-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
+| [24–25 June 2022](2022-06-25-Winpoll.html) | Winpoll <br> Il Sole 24 Ore | 0 | 0 | 0 | 0 | 0 |
 | [21–24 June 2022](2022-06-24-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [23–24 June 2022](2022-06-24-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [23–24 June 2022](2022-06-24-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0–3 |
 | [22 June 2022](2022-06-22-Euromedia.html) | Euromedia <br> La Stampa | 0 | 0 | 0 | 0 | 0–3 |
 | [15–20 June 2022](2022-06-20-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [16–17 June 2022](2022-06-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
@@ -2010,12 +2010,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 88% | 100% | Last Result, Median |
-| 1 | 0% | 12% |  |
-| 2 | 0% | 12% |  |
-| 3 | 2% | 12% |  |
-| 4 | 9% | 10% |  |
-| 5 | 1.0% | 1.0% |  |
+| 0 | 92% | 100% | Last Result, Median |
+| 1 | 0% | 8% |  |
+| 2 | 0% | 8% |  |
+| 3 | 1.1% | 8% |  |
+| 4 | 6% | 6% |  |
+| 5 | 0.6% | 0.6% |  |
 | 6 | 0% | 0% |  |
 
 

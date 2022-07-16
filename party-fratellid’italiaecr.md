@@ -10,17 +10,17 @@ Last result: **3.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.5% | 19.9–24.2% | 19.2–24.8% | 18.6–25.3% | 17.6–26.3% |
+| N/A | [Poll Average](average.html) | 22.8% | 20.5–25.1% | 19.7–25.9% | 19.0–26.7% | 17.9–27.9% |
 | [30 June–1 July 2022](2022-07-01-Tecnè.html) | Tecnè <br> Agenzia Dire | 23.3% | 21.6–25.1% | 21.2–25.6% | 20.8–26.0% | 20.0–26.9% |
 | [29–30 June 2022](2022-06-30-TermometroPolitico.html) | Termometro Politico | 22.8% | 21.9–23.7% | 21.6–24.0% | 21.4–24.3% | 20.9–24.7% |
 | [28–30 June 2022](2022-06-30-Ipsos.html) | Ipsos <br> Corriere della Sera | 20.0% | 18.4–21.7% | 18.0–22.2% | 17.6–22.6% | 16.9–23.4% |
 | [27–28 June 2022](2022-06-28-EMG.html) | EMG | 22.8% | 21.2–24.6% | 20.7–25.1% | 20.3–25.5% | 19.5–26.4% |
-| [27–28 June 2022](2022-06-28-Demopolis.html) | Demopolis | 23.0% | N/A | N/A | N/A | N/A |
-| [22–27 June 2022](2022-06-27-SWG.html) | SWG <br> La7 | 23.4% | N/A | N/A | N/A | N/A |
-| [27 June 2022](2022-06-27-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 22.0% | N/A | N/A | N/A | N/A |
-| [24–25 June 2022](2022-06-25-Winpoll.html) | Winpoll <br> Il Sole 24 Ore | 25.5% | N/A | N/A | N/A | N/A |
+| [27–28 June 2022](2022-06-28-Demopolis.html) | Demopolis | 23.0% | 21.8–24.2% | 21.5–24.6% | 21.2–24.9% | 20.7–25.5% |
+| [22–27 June 2022](2022-06-27-SWG.html) | SWG <br> La7 | 23.4% | 21.9–25.0% | 21.5–25.5% | 21.1–25.9% | 20.4–26.7% |
+| [27 June 2022](2022-06-27-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 22.0% | 20.4–23.7% | 19.9–24.2% | 19.5–24.7% | 18.8–25.5% |
+| [24–25 June 2022](2022-06-25-Winpoll.html) | Winpoll <br> Il Sole 24 Ore | 25.5% | 23.8–27.3% | 23.3–27.8% | 22.9–28.3% | 22.1–29.2% |
 | [21–24 June 2022](2022-06-24-TermometroPolitico.html) | Termometro Politico | 22.9% | N/A | N/A | N/A | N/A |
-| [23–24 June 2022](2022-06-24-Tecnè.html) | Tecnè <br> Agenzia Dire | 23.3% | N/A | N/A | N/A | N/A |
+| [23–24 June 2022](2022-06-24-Tecnè.html) | Tecnè <br> Agenzia Dire | 23.3% | 21.6–25.1% | 21.2–25.6% | 20.8–26.0% | 20.0–26.9% |
 | [22 June 2022](2022-06-22-Euromedia.html) | Euromedia <br> La Stampa | 22.3% | 20.7–24.1% | 20.2–24.6% | 19.8–25.0% | 19.1–25.8% |
 | [15–20 June 2022](2022-06-20-SWG.html) | SWG <br> La7 | 23.1% | 21.6–24.7% | 21.1–25.2% | 20.8–25.6% | 20.1–26.4% |
 | [16–17 June 2022](2022-06-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 23.0% | 21.4–24.8% | 20.9–25.3% | 20.5–25.7% | 19.7–26.6% |
@@ -1013,18 +1013,20 @@ The following table shows the probability mass function per percentage block of 
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0.4% | 100% |  |
-| 17.5–18.5% | 2% | 99.6% |  |
-| 18.5–19.5% | 5% | 98% |  |
-| 19.5–20.5% | 8% | 93% |  |
-| 20.5–21.5% | 13% | 84% |  |
-| 21.5–22.5% | 23% | 71% | Median |
-| 22.5–23.5% | 26% | 48% |  |
-| 23.5–24.5% | 15% | 21% |  |
-| 24.5–25.5% | 5% | 7% |  |
-| 25.5–26.5% | 1.4% | 2% |  |
-| 26.5–27.5% | 0.3% | 0.3% |  |
-| 27.5–28.5% | 0% | 0% |  |
+| 16.5–17.5% | 0.2% | 100% |  |
+| 17.5–18.5% | 1.1% | 99.8% |  |
+| 18.5–19.5% | 3% | 98.7% |  |
+| 19.5–20.5% | 6% | 96% |  |
+| 20.5–21.5% | 11% | 90% |  |
+| 21.5–22.5% | 21% | 79% |  |
+| 22.5–23.5% | 26% | 58% | Median |
+| 23.5–24.5% | 17% | 32% |  |
+| 24.5–25.5% | 8% | 15% |  |
+| 25.5–26.5% | 4% | 7% |  |
+| 26.5–27.5% | 2% | 3% |  |
+| 27.5–28.5% | 0.7% | 0.8% |  |
+| 28.5–29.5% | 0.2% | 0.2% |  |
+| 29.5–30.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -1035,17 +1037,17 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 18–21 | 16–21 | 16–22 | 16–23 |
+| N/A | [Poll Average](average.html) | 19 | 17–22 | 17–22 | 16–23 | 16–24 |
 | [30 June–1 July 2022](2022-07-01-Tecnè.html) | Tecnè <br> Agenzia Dire | 20 | 18–21 | 18–22 | 17–23 | 16–23 |
 | [29–30 June 2022](2022-06-30-TermometroPolitico.html) | Termometro Politico | 19 | 19–20 | 18–20 | 18–21 | 18–21 |
 | [28–30 June 2022](2022-06-30-Ipsos.html) | Ipsos <br> Corriere della Sera | 18 | 16–20 | 16–20 | 16–20 | 14–21 |
-| [27–28 June 2022](2022-06-28-EMG.html) | EMG | 19 | 18–22 | 18–22 | 17–23 | 16–24 |
-| [27–28 June 2022](2022-06-28-Demopolis.html) | Demopolis |  |  |  |  |  |
-| [22–27 June 2022](2022-06-27-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [27 June 2022](2022-06-27-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
-| [24–25 June 2022](2022-06-25-Winpoll.html) | Winpoll <br> Il Sole 24 Ore |  |  |  |  |  |
+| [27–28 June 2022](2022-06-28-EMG.html) | EMG | 20 | 19–21 | 18–21 | 18–22 | 17–22 |
+| [27–28 June 2022](2022-06-28-Demopolis.html) | Demopolis | 18 | 17–19 | 16–19 | 16–19 | 16–20 |
+| [22–27 June 2022](2022-06-27-SWG.html) | SWG <br> La7 | 21 | 19–22 | 19–23 | 19–23 | 18–24 |
+| [27 June 2022](2022-06-27-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 19 | 17–20 | 17–21 | 16–22 | 16–22 |
+| [24–25 June 2022](2022-06-25-Winpoll.html) | Winpoll <br> Il Sole 24 Ore | 22 | 20–24 | 20–24 | 20–24 | 18–25 |
 | [21–24 June 2022](2022-06-24-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [23–24 June 2022](2022-06-24-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [23–24 June 2022](2022-06-24-Tecnè.html) | Tecnè <br> Agenzia Dire | 19 | 18–21 | 18–22 | 17–22 | 17–23 |
 | [22 June 2022](2022-06-22-Euromedia.html) | Euromedia <br> La Stampa | 19 | 18–21 | 17–21 | 17–21 | 16–22 |
 | [15–20 June 2022](2022-06-20-SWG.html) | SWG <br> La7 | 20 | 19–21 | 19–22 | 18–23 | 18–23 |
 | [16–17 June 2022](2022-06-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 20 | 18–21 | 18–21 | 17–22 | 16–22 |
@@ -2041,17 +2043,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
-| 14 | 0.2% | 100% |  |
-| 15 | 0.1% | 99.8% |  |
-| 16 | 5% | 99.7% |  |
-| 17 | 4% | 94% |  |
-| 18 | 19% | 90% |  |
-| 19 | 36% | 71% | Median |
-| 20 | 22% | 35% |  |
-| 21 | 8% | 13% |  |
-| 22 | 3% | 4% |  |
-| 23 | 0.8% | 1.2% |  |
-| 24 | 0.4% | 0.4% |  |
-| 25 | 0% | 0% |  |
+| 14 | 0.1% | 100% |  |
+| 15 | 0.1% | 99.9% |  |
+| 16 | 4% | 99.8% |  |
+| 17 | 7% | 96% |  |
+| 18 | 17% | 89% |  |
+| 19 | 27% | 72% | Median |
+| 20 | 22% | 45% |  |
+| 21 | 13% | 23% |  |
+| 22 | 5% | 10% |  |
+| 23 | 3% | 5% |  |
+| 24 | 1.2% | 1.4% |  |
+| 25 | 0.2% | 0.2% |  |
+| 26 | 0% | 0% |  |
 
 
