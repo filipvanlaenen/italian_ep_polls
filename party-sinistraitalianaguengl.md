@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.8% | 1.0–2.7% | 0.9–2.9% | 0.8–3.1% | 0.6–3.5% |
+| N/A | [Poll Average](average.html) | 1.8% | 1.0–2.7% | 0.8–2.9% | 0.7–3.1% | 0.5–3.6% |
+| [20–21 July 2022](2022-07-21-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
+| [13–18 July 2022](2022-07-18-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [15–16 July 2022](2022-07-16-Euromedia.html) | Euromedia <br> La Stampa | 0.0% | N/A | N/A | N/A | N/A |
 | [13–14 July 2022](2022-07-14-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
 | [11–14 July 2022](2022-07-14-BiDiMedia.html) | BiDiMedia | 0.0% | N/A | N/A | N/A | N/A |
 | [6–11 July 2022](2022-07-11-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
@@ -1008,11 +1011,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.4% | 100% | Last Result |
-| 0.5–1.5% | 33% | 99.6% |  |
-| 1.5–2.5% | 53% | 66% | Median |
-| 2.5–3.5% | 13% | 13% |  |
-| 3.5–4.5% | 0.4% | 0.4% |  |
+| 0.0–0.5% | 0.5% | 100% | Last Result |
+| 0.5–1.5% | 35% | 99.5% |  |
+| 1.5–2.5% | 50% | 64% | Median |
+| 2.5–3.5% | 14% | 14% |  |
+| 3.5–4.5% | 0.5% | 0.5% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -1025,6 +1028,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [20–21 July 2022](2022-07-21-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [13–18 July 2022](2022-07-18-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [15–16 July 2022](2022-07-16-Euromedia.html) | Euromedia <br> La Stampa |  |  |  |  |  |
 | [13–14 July 2022](2022-07-14-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [11–14 July 2022](2022-07-14-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
 | [6–11 July 2022](2022-07-11-SWG.html) | SWG <br> La7 |  |  |  |  |  |

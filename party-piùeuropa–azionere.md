@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.6% | 3.5–5.8% | 3.2–6.1% | 2.9–6.4% | 2.5–7.0% |
+| N/A | [Poll Average](average.html) | 4.5% | 3.5–5.6% | 3.1–6.0% | 2.9–6.3% | 2.5–6.9% |
+| [20–21 July 2022](2022-07-21-TermometroPolitico.html) | Termometro Politico | 4.3% | 3.9–4.8% | 3.8–4.9% | 3.7–5.0% | 3.5–5.2% |
+| [13–18 July 2022](2022-07-18-SWG.html) | SWG <br> La7 | 4.9% | 4.2–5.8% | 4.0–6.1% | 3.8–6.3% | 3.5–6.8% |
+| [15–16 July 2022](2022-07-16-Euromedia.html) | Euromedia <br> La Stampa | 4.5% | 3.8–5.5% | 3.6–5.7% | 3.4–6.0% | 3.0–6.5% |
 | [13–14 July 2022](2022-07-14-TermometroPolitico.html) | Termometro Politico | 4.3% | 3.9–4.8% | 3.7–4.9% | 3.7–5.0% | 3.5–5.3% |
 | [11–14 July 2022](2022-07-14-BiDiMedia.html) | BiDiMedia | 4.7% | 4.1–5.4% | 4.0–5.6% | 3.9–5.7% | 3.6–6.1% |
 | [6–11 July 2022](2022-07-11-SWG.html) | SWG <br> La7 | 5.1% | 4.3–6.0% | 4.1–6.2% | 4.0–6.5% | 3.6–7.0% |
@@ -1010,12 +1013,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.6% | 100% |  |
-| 2.5–3.5% | 10% | 99.4% |  |
-| 3.5–4.5% | 38% | 89% |  |
-| 4.5–5.5% | 37% | 51% | Median |
-| 5.5–6.5% | 13% | 15% |  |
-| 6.5–7.5% | 2% | 2% |  |
+| 1.5–2.5% | 0.7% | 100% |  |
+| 2.5–3.5% | 11% | 99.3% |  |
+| 3.5–4.5% | 43% | 88% | Median |
+| 4.5–5.5% | 34% | 45% |  |
+| 5.5–6.5% | 10% | 11% |  |
+| 6.5–7.5% | 1.2% | 1.3% |  |
 | 7.5–8.5% | 0.1% | 0.1% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
@@ -1029,6 +1032,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
+| [20–21 July 2022](2022-07-21-TermometroPolitico.html) | Termometro Politico | 4 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [13–18 July 2022](2022-07-18-SWG.html) | SWG <br> La7 | 4 | 3–5 | 0–5 | 0–5 | 0–6 |
+| [15–16 July 2022](2022-07-16-Euromedia.html) | Euromedia <br> La Stampa | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
 | [13–14 July 2022](2022-07-14-TermometroPolitico.html) | Termometro Politico | 4 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [11–14 July 2022](2022-07-14-BiDiMedia.html) | BiDiMedia | 4 | 4 | 3–5 | 0–5 | 0–5 |
 | [6–11 July 2022](2022-07-11-SWG.html) | SWG <br> La7 | 4 | 4–5 | 3–5 | 0–5 | 0–6 |
@@ -2028,13 +2034,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 24% | 100% | Last Result |
-| 1 | 0% | 76% |  |
-| 2 | 0% | 76% |  |
-| 3 | 10% | 76% |  |
-| 4 | 50% | 66% | Median |
-| 5 | 14% | 16% |  |
-| 6 | 1.5% | 2% |  |
+| 0 | 28% | 100% | Last Result |
+| 1 | 0% | 72% |  |
+| 2 | 0% | 72% |  |
+| 3 | 10% | 72% |  |
+| 4 | 48% | 62% | Median |
+| 5 | 12% | 14% |  |
+| 6 | 1.3% | 1.4% |  |
 | 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |
 
