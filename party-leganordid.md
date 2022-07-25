@@ -10,8 +10,10 @@ Last result: **6.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.6% | 13.1–16.0% | 12.6–16.4% | 12.3–16.8% | 11.6–17.6% |
+| N/A | [Poll Average](average.html) | 14.6% | 12.9–16.0% | 12.5–16.4% | 12.1–16.8% | 11.4–17.6% |
+| [22–23 July 2022](2022-07-23-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 13.4% | 12.1–14.9% | 11.7–15.3% | 11.4–15.7% | 10.8–16.4% |
 | [20–21 July 2022](2022-07-21-TermometroPolitico.html) | Termometro Politico | 15.4% | 14.7–16.2% | 14.4–16.4% | 14.3–16.6% | 13.9–16.9% |
+| [21 July 2022](2022-07-21-Tecnè.html) | Tecnè <br> Agenzia Dire | 14.6% | 13.1–16.3% | 12.7–16.8% | 12.3–17.3% | 11.7–18.1% |
 | [13–18 July 2022](2022-07-18-SWG.html) | SWG <br> La7 | 14.0% | 12.8–15.4% | 12.4–15.7% | 12.1–16.1% | 11.6–16.8% |
 | [15–16 July 2022](2022-07-16-Euromedia.html) | Euromedia <br> La Stampa | 14.6% | 13.2–16.1% | 12.9–16.6% | 12.5–16.9% | 11.9–17.7% |
 | [13–14 July 2022](2022-07-14-TermometroPolitico.html) | Termometro Politico | 16.0% | 15.2–16.8% | 15.0–17.1% | 14.8–17.3% | 14.4–17.7% |
@@ -1016,15 +1018,15 @@ The following table shows the probability mass function per percentage block of 
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
-| 10.5–11.5% | 0.5% | 100% |  |
-| 11.5–12.5% | 4% | 99.5% |  |
-| 12.5–13.5% | 15% | 96% |  |
-| 13.5–14.5% | 29% | 81% |  |
-| 14.5–15.5% | 31% | 52% | Median |
+| 10.5–11.5% | 0.7% | 100% |  |
+| 11.5–12.5% | 5% | 99.3% |  |
+| 12.5–13.5% | 16% | 95% |  |
+| 13.5–14.5% | 29% | 79% |  |
+| 14.5–15.5% | 30% | 50% | Median |
 | 15.5–16.5% | 16% | 20% |  |
 | 16.5–17.5% | 3% | 4% |  |
-| 17.5–18.5% | 0.5% | 0.5% |  |
-| 18.5–19.5% | 0% | 0% |  |
+| 17.5–18.5% | 0.5% | 0.6% |  |
+| 18.5–19.5% | 0.1% | 0.1% |  |
 | 19.5–20.5% | 0% | 0% |  |
 
 
@@ -1036,8 +1038,10 @@ Last result: **5** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 11–14 | 11–14 | 10–15 | 10–15 |
+| N/A | [Poll Average](average.html) | 12 | 11–14 | 10–14 | 10–15 | 10–15 |
+| [22–23 July 2022](2022-07-23-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 11 | 10–13 | 10–13 | 10–13 | 9–14 |
 | [20–21 July 2022](2022-07-21-TermometroPolitico.html) | Termometro Politico | 13 | 12–14 | 12–14 | 12–14 | 11–14 |
+| [21 July 2022](2022-07-21-Tecnè.html) | Tecnè <br> Agenzia Dire | 12 | 11–14 | 10–14 | 10–14 | 10–15 |
 | [13–18 July 2022](2022-07-18-SWG.html) | SWG <br> La7 | 12 | 11–13 | 10–13 | 10–14 | 10–14 |
 | [15–16 July 2022](2022-07-16-Euromedia.html) | Euromedia <br> La Stampa | 12 | 11–14 | 11–14 | 11–15 | 10–15 |
 | [13–14 July 2022](2022-07-14-TermometroPolitico.html) | Termometro Politico | 13 | 12–14 | 12–14 | 12–14 | 12–15 |
@@ -2043,13 +2047,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 0.1% | 100% |  |
-| 10 | 4% | 99.9% |  |
-| 11 | 25% | 96% |  |
-| 12 | 35% | 71% | Median |
-| 13 | 24% | 36% |  |
+| 9 | 0.3% | 100% |  |
+| 10 | 6% | 99.7% |  |
+| 11 | 24% | 94% |  |
+| 12 | 36% | 71% | Median |
+| 13 | 23% | 35% |  |
 | 14 | 9% | 12% |  |
-| 15 | 3% | 3% |  |
+| 15 | 2% | 3% |  |
 | 16 | 0.1% | 0.1% |  |
 | 17 | 0% | 0% |  |
 
