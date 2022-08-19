@@ -10,7 +10,22 @@ Last result: **21.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.3% | 8.9–11.8% | 8.6–12.2% | 8.2–12.7% | 7.6–13.5% |
+| N/A | [Poll Average](average.html) | 10.6% | 9.2–12.3% | 8.8–12.8% | 8.4–13.4% | 7.8–14.3% |
+| [17–18 August 2022](2022-08-18-Tecnè.html) | Tecnè | 10.2% | 9.3–11.3% | 9.0–11.6% | 8.8–11.9% | 8.4–12.4% |
+| [17–18 August 2022](2022-08-18-BiDiMedia.html) | BiDiMedia | 10.0% | 9.2–10.9% | 9.0–11.2% | 8.8–11.4% | 8.4–11.8% |
+| [17 August 2022](2022-08-17-NotoSondaggi.html) | Noto Sondaggi | 12.5% | 11.2–13.9% | 10.9–14.3% | 10.6–14.7% | 10.0–15.4% |
+| [6–12 August 2022](2022-08-12-Lab2101.html) | Lab2101 <br> Affari Italiani | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
+| [8–11 August 2022](2022-08-11-Tecnè.html) | Tecnè <br> Rete 4 | 9.8% | N/A | N/A | N/A | N/A |
+| [10–11 August 2022](2022-08-11-Demopolis.html) | Demopolis | 10.6% | 9.5–11.8% | 9.3–12.2% | 9.0–12.5% | 8.5–13.1% |
+| [8–9 August 2022](2022-08-09-EMG.html) | EMG | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
+| [3–8 August 2022](2022-08-08-SWG.html) | SWG | 10.4% | 9.4–11.6% | 9.1–12.0% | 8.8–12.3% | 8.3–12.9% |
+| [5–7 August 2022](2022-08-07-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 10.6% | 9.4–11.9% | 9.1–12.3% | 8.8–12.7% | 8.3–13.3% |
+| [4–6 August 2022](2022-08-06-BiDiMedia.html) | BiDiMedia | 9.6% | 9.0–10.2% | 8.9–10.4% | 8.7–10.5% | 8.5–10.9% |
+| [5 August 2022](2022-08-05-Lab2101.html) | Lab2101 <br> Affari Italiani | 10.1% | 9.0–11.4% | 8.6–11.8% | 8.4–12.1% | 7.9–12.8% |
+| [4 August 2022](2022-08-04-Tecnè.html) | Tecnè | 9.5% | 8.3–11.0% | 7.9–11.4% | 7.7–11.7% | 7.1–12.5% |
+| [3 August 2022](2022-08-03-BiDiMedia.html) | BiDiMedia | 9.7% | N/A | N/A | N/A | N/A |
+| [29 July–2 August 2022](2022-08-02-DemosPi.html) | Demos & Pi | 11.3% | 10.1–12.7% | 9.8–13.1% | 9.5–13.4% | 8.9–14.1% |
+| [27 July–1 August 2022](2022-08-01-SWG.html) | SWG <br> La7 | 10.0% | N/A | N/A | N/A | N/A |
 | [29–31 July 2022](2022-07-31-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 9.9% | 8.8–11.2% | 8.5–11.6% | 8.2–11.9% | 7.7–12.6% |
 | [30 July 2022](2022-07-30-NotoSondaggi.html) | Noto Sondaggi | 11.0% | 9.8–12.4% | 9.5–12.8% | 9.2–13.1% | 8.7–13.8% |
 | [29–30 July 2022](2022-07-30-Ipsos.html) | Ipsos <br> Corriere della Sera | 11.3% | 10.1–12.7% | 9.8–13.1% | 9.5–13.4% | 8.9–14.1% |
@@ -1029,15 +1044,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.4% | 100% |  |
-| 7.5–8.5% | 5% | 99.6% |  |
-| 8.5–9.5% | 20% | 95% |  |
-| 9.5–10.5% | 32% | 75% | Median |
-| 10.5–11.5% | 28% | 43% |  |
-| 11.5–12.5% | 12% | 15% |  |
-| 12.5–13.5% | 3% | 3% |  |
-| 13.5–14.5% | 0.4% | 0.5% |  |
-| 14.5–15.5% | 0.1% | 0.1% |  |
+| 6.5–7.5% | 0.3% | 100% |  |
+| 7.5–8.5% | 3% | 99.7% |  |
+| 8.5–9.5% | 14% | 97% |  |
+| 9.5–10.5% | 30% | 83% |  |
+| 10.5–11.5% | 30% | 53% | Median |
+| 11.5–12.5% | 15% | 23% |  |
+| 12.5–13.5% | 5% | 7% |  |
+| 13.5–14.5% | 2% | 2% |  |
+| 14.5–15.5% | 0.3% | 0.3% |  |
 | 15.5–16.5% | 0% | 0% |  |
 | 16.5–17.5% | 0% | 0% |  |
 | 17.5–18.5% | 0% | 0% |  |
@@ -1054,7 +1069,22 @@ Last result: **17** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 7–10 | 7–10 | 7–11 | 6–12 |
+| N/A | [Poll Average](average.html) | 9 | 8–10 | 7–11 | 7–11 | 7–12 |
+| [17–18 August 2022](2022-08-18-Tecnè.html) | Tecnè | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
+| [17–18 August 2022](2022-08-18-BiDiMedia.html) | BiDiMedia | 8 | 8–9 | 8–10 | 7–10 | 7–10 |
+| [17 August 2022](2022-08-17-NotoSondaggi.html) | Noto Sondaggi | 10 | 9–12 | 9–12 | 9–12 | 8–12 |
+| [6–12 August 2022](2022-08-12-Lab2101.html) | Lab2101 <br> Affari Italiani | 9 | 8–10 | 7–11 | 7–11 | 7–11 |
+| [8–11 August 2022](2022-08-11-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
+| [10–11 August 2022](2022-08-11-Demopolis.html) | Demopolis | 8 | 8–9 | 7–10 | 7–10 | 7–10 |
+| [8–9 August 2022](2022-08-09-EMG.html) | EMG | 8 | 8–10 | 7–10 | 7–10 | 6–11 |
+| [3–8 August 2022](2022-08-08-SWG.html) | SWG | 9 | 8–10 | 7–10 | 7–11 | 7–11 |
+| [5–7 August 2022](2022-08-07-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 9 | 8–10 | 8–10 | 7–10 | 7–12 |
+| [4–6 August 2022](2022-08-06-BiDiMedia.html) | BiDiMedia | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
+| [5 August 2022](2022-08-05-Lab2101.html) | Lab2101 <br> Affari Italiani | 8 | 8–10 | 7–10 | 7–10 | 7–11 |
+| [4 August 2022](2022-08-04-Tecnè.html) | Tecnè | 8 | 7–9 | 7–10 | 6–10 | 6–11 |
+| [3 August 2022](2022-08-03-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
+| [29 July–2 August 2022](2022-08-02-DemosPi.html) | Demos & Pi | 10 | 8–11 | 8–11 | 8–11 | 7–12 |
+| [27 July–1 August 2022](2022-08-01-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [29–31 July 2022](2022-07-31-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 8 | 7–9 | 7–10 | 7–10 | 6–11 |
 | [30 July 2022](2022-07-30-NotoSondaggi.html) | Noto Sondaggi | 9 | 8–10 | 8–11 | 8–11 | 7–11 |
 | [29–30 July 2022](2022-07-30-Ipsos.html) | Ipsos <br> Corriere della Sera | 10 | 9–11 | 9–11 | 9–12 | 8–12 |
@@ -2074,14 +2104,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 0.9% | 100% |  |
-| 7 | 13% | 99.1% |  |
-| 8 | 31% | 86% |  |
-| 9 | 32% | 55% | Median |
-| 10 | 19% | 23% |  |
-| 11 | 3% | 4% |  |
-| 12 | 1.0% | 1.1% |  |
-| 13 | 0% | 0.1% |  |
+| 6 | 0.3% | 100% |  |
+| 7 | 5% | 99.7% |  |
+| 8 | 29% | 94% |  |
+| 9 | 35% | 65% | Median |
+| 10 | 22% | 30% |  |
+| 11 | 7% | 9% |  |
+| 12 | 2% | 2% |  |
+| 13 | 0.1% | 0.1% |  |
 | 14 | 0% | 0% |  |
 | 15 | 0% | 0% |  |
 | 16 | 0% | 0% |  |
