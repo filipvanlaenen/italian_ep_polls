@@ -10,12 +10,27 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.0% | 1.7–4.5% | 1.4–4.8% | 1.3–5.1% | 1.0–5.7% |
+| N/A | [Poll Average](average.html) | 3.3% | 1.1–4.6% | 0.9–4.9% | 0.7–5.2% | 0.6–5.7% |
+| [29–31 July 2022](2022-07-31-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
+| [30 July 2022](2022-07-30-NotoSondaggi.html) | Noto Sondaggi | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
+| [29–30 July 2022](2022-07-30-Ipsos.html) | Ipsos <br> Corriere della Sera | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
+| [26–28 July 2022](2022-07-28-TermometroPolitico.html) | Termometro Politico | 2.5% | 2.2–2.9% | 2.1–2.9% | 2.1–3.0% | 2.0–3.2% |
+| [28 July 2022](2022-07-28-Tecnè.html) | Tecnè <br> Agenzia Dire | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–6.0% |
+| [27 July 2022](2022-07-27-EMG.html) | EMG | 3.5% | N/A | N/A | N/A | N/A |
+| [26 July 2022](2022-07-26-Piepoli.html) | Piepoli | 2.6% | N/A | N/A | N/A | N/A |
+| [21–25 July 2022](2022-07-25-SWG.html) | SWG <br> La7 | 3.6% | N/A | N/A | N/A | N/A |
 | [22–23 July 2022](2022-07-23-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.1–5.6% | 2.8–6.1% |
+| [21–23 July 2022](2022-07-23-Demopolis.html) | Demopolis | 0.0% | N/A | N/A | N/A | N/A |
+| [21–23 July 2022](2022-07-23-BiDiMedia.html) | BiDiMedia | 4.5% | N/A | N/A | N/A | N/A |
+| [22 July 2022](2022-07-22-Euromedia.html) | Euromedia <br> La Stampa | 3.2% | N/A | N/A | N/A | N/A |
 | [20–21 July 2022](2022-07-21-TermometroPolitico.html) | Termometro Politico | 2.6% | 2.3–3.0% | 2.2–3.0% | 2.1–3.1% | 2.0–3.3% |
 | [21 July 2022](2022-07-21-Tecnè.html) | Tecnè <br> Agenzia Dire | 4.1% | 3.4–5.2% | 3.1–5.5% | 3.0–5.7% | 2.6–6.3% |
+| [20–21 July 2022](2022-07-21-Lab2101.html) | Lab2101 <br> Affari Italiani | 1.4% | N/A | N/A | N/A | N/A |
+| [19 July 2022](2022-07-19-Piepoli.html) | Piepoli | 2.6% | N/A | N/A | N/A | N/A |
 | [13–18 July 2022](2022-07-18-SWG.html) | SWG <br> La7 | 3.8% | 3.2–4.6% | 3.0–4.9% | 2.9–5.1% | 2.6–5.5% |
+| [17 July 2022](2022-07-17-Piepoli.html) | Piepoli <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [15–16 July 2022](2022-07-16-Euromedia.html) | Euromedia <br> La Stampa | 3.1% | 2.5–3.9% | 2.3–4.2% | 2.2–4.4% | 1.9–4.8% |
+| [15 July 2022](2022-07-15-Tecnè.html) | Tecnè <br> Agenzia Dire | 4.4% | N/A | N/A | N/A | N/A |
 | [13–14 July 2022](2022-07-14-TermometroPolitico.html) | Termometro Politico | 2.6% | 2.3–3.0% | 2.2–3.1% | 2.1–3.2% | 2.0–3.4% |
 | [11–14 July 2022](2022-07-14-BiDiMedia.html) | BiDiMedia | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–5.0% | 3.0–5.3% |
 | [6–11 July 2022](2022-07-11-SWG.html) | SWG <br> La7 | 3.9% | 3.3–4.7% | 3.1–5.0% | 3.0–5.2% | 2.7–5.6% |
@@ -1013,12 +1028,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 7% | 100% |  |
-| 1.5–2.5% | 28% | 93% |  |
-| 2.5–3.5% | 29% | 65% | Median |
-| 3.5–4.5% | 27% | 36% |  |
-| 4.5–5.5% | 8% | 9% |  |
+| 0.0–0.5% | 0.5% | 100% | Last Result |
+| 0.5–1.5% | 18% | 99.5% |  |
+| 1.5–2.5% | 13% | 82% |  |
+| 2.5–3.5% | 27% | 68% | Median |
+| 3.5–4.5% | 31% | 42% |  |
+| 4.5–5.5% | 10% | 11% |  |
 | 5.5–6.5% | 0.8% | 0.8% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
@@ -1032,11 +1047,26 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [29–31 July 2022](2022-07-31-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
+| [30 July 2022](2022-07-30-NotoSondaggi.html) | Noto Sondaggi | 0 | 0 | 0 | 0 | 0 |
+| [29–30 July 2022](2022-07-30-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [26–28 July 2022](2022-07-28-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
+| [28 July 2022](2022-07-28-Tecnè.html) | Tecnè <br> Agenzia Dire | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
+| [27 July 2022](2022-07-27-EMG.html) | EMG |  |  |  |  |  |
+| [26 July 2022](2022-07-26-Piepoli.html) | Piepoli |  |  |  |  |  |
+| [21–25 July 2022](2022-07-25-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [22–23 July 2022](2022-07-23-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
+| [21–23 July 2022](2022-07-23-Demopolis.html) | Demopolis |  |  |  |  |  |
+| [21–23 July 2022](2022-07-23-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
+| [22 July 2022](2022-07-22-Euromedia.html) | Euromedia <br> La Stampa |  |  |  |  |  |
 | [20–21 July 2022](2022-07-21-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [21 July 2022](2022-07-21-Tecnè.html) | Tecnè <br> Agenzia Dire | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
+| [20–21 July 2022](2022-07-21-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
+| [19 July 2022](2022-07-19-Piepoli.html) | Piepoli |  |  |  |  |  |
 | [13–18 July 2022](2022-07-18-SWG.html) | SWG <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [17 July 2022](2022-07-17-Piepoli.html) | Piepoli <br> La7 |  |  |  |  |  |
 | [15–16 July 2022](2022-07-16-Euromedia.html) | Euromedia <br> La Stampa | 0 | 0 | 0 | 0–4 | 0–4 |
+| [15 July 2022](2022-07-15-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [13–14 July 2022](2022-07-14-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [11–14 July 2022](2022-07-14-BiDiMedia.html) | BiDiMedia | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [6–11 July 2022](2022-07-11-SWG.html) | SWG <br> La7 | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
@@ -2036,12 +2066,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 77% | 100% | Last Result, Median |
-| 1 | 0% | 23% |  |
-| 2 | 0% | 23% |  |
-| 3 | 10% | 23% |  |
-| 4 | 12% | 13% |  |
-| 5 | 0.9% | 0.9% |  |
+| 0 | 74% | 100% | Last Result, Median |
+| 1 | 0% | 26% |  |
+| 2 | 0% | 26% |  |
+| 3 | 7% | 26% |  |
+| 4 | 17% | 19% |  |
+| 5 | 1.3% | 1.3% |  |
 | 6 | 0% | 0% |  |
 
 
