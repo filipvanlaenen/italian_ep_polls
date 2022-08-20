@@ -259,7 +259,6 @@
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Lega Nord (ID) | 5 | 12 | 0% | 11–13 | 10–13 | 10–13 | 10–14 |
-| Europa Verde (Greens/EFA) | 0 | 0 | 0% | 0 | 0–3 | 0–4 | 0–4 |
 
 ### Lega Nord (ID)
 
@@ -279,19 +278,6 @@
 | 14 | 2% | 2% |  |
 | 15 | 0.3% | 0.3% |  |
 | 16 | 0% | 0% |  |
-
-### Europa Verde (Greens/EFA)
-
-![Graph with seats probability mass function not yet produced](2022-07-22-Euromedia-coalitions-seats-pmf-ev.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 93% | 100% | Last Result, Median |
-| 1 | 0% | 7% |  |
-| 2 | 0% | 7% |  |
-| 3 | 4% | 7% |  |
-| 4 | 3% | 3% |  |
-| 5 | 0% | 0% |  |
 
 
 ## Technical Information
