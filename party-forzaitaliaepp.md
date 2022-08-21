@@ -10,10 +10,12 @@ Last result: **16.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.8% | 6.3–10.1% | 5.7–11.2% | 5.3–11.9% | 4.6–12.7% |
+| N/A | [Poll Average](average.html) | 7.8% | 6.3–10.0% | 5.7–11.1% | 5.2–11.8% | 4.5–12.7% |
+| [13–20 August 2022](2022-08-20-Lab2101.html) | Lab2101 <br> Affari Italiani | 5.4% | 4.6–6.4% | 4.3–6.7% | 4.2–7.0% | 3.8–7.5% |
 | [17–18 August 2022](2022-08-18-Tecnè.html) | Tecnè | 11.4% | 10.4–12.5% | 10.2–12.9% | 9.9–13.1% | 9.4–13.7% |
 | [17–18 August 2022](2022-08-18-BiDiMedia.html) | BiDiMedia | 7.0% | 6.3–7.7% | 6.1–8.0% | 6.0–8.2% | 5.7–8.5% |
 | [17 August 2022](2022-08-17-NotoSondaggi.html) | Noto Sondaggi | 7.5% | 6.5–8.7% | 6.2–9.0% | 6.0–9.3% | 5.6–9.9% |
+| [11–14 August 2022](2022-08-14-GDC.html) | GDC | 7.5% | 6.6–8.5% | 6.4–8.7% | 6.2–9.0% | 5.8–9.5% |
 | [6–12 August 2022](2022-08-12-Lab2101.html) | Lab2101 <br> Affari Italiani | 5.6% | 4.8–6.6% | 4.5–7.0% | 4.3–7.2% | 4.0–7.7% |
 | [8–11 August 2022](2022-08-11-Tecnè.html) | Tecnè <br> Rete 4 | 11.4% | N/A | N/A | N/A | N/A |
 | [10–11 August 2022](2022-08-11-Demopolis.html) | Demopolis | 6.8% | 5.9–7.8% | 5.7–8.1% | 5.5–8.4% | 5.1–8.9% |
@@ -1044,16 +1046,16 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.4% | 100% |  |
-| 4.5–5.5% | 3% | 99.6% |  |
+| 3.5–4.5% | 0.7% | 100% |  |
+| 4.5–5.5% | 4% | 99.3% |  |
 | 5.5–6.5% | 10% | 96% |  |
-| 6.5–7.5% | 28% | 86% |  |
-| 7.5–8.5% | 27% | 57% | Median |
-| 8.5–9.5% | 16% | 30% |  |
-| 9.5–10.5% | 6% | 14% |  |
-| 10.5–11.5% | 4% | 8% |  |
-| 11.5–12.5% | 3% | 4% |  |
-| 12.5–13.5% | 0.7% | 0.8% |  |
+| 6.5–7.5% | 29% | 86% |  |
+| 7.5–8.5% | 28% | 57% | Median |
+| 8.5–9.5% | 16% | 29% |  |
+| 9.5–10.5% | 6% | 13% |  |
+| 10.5–11.5% | 4% | 7% |  |
+| 11.5–12.5% | 3% | 3% |  |
+| 12.5–13.5% | 0.7% | 0.7% |  |
 | 13.5–14.5% | 0.1% | 0.1% |  |
 | 14.5–15.5% | 0% | 0% |  |
 | 15.5–16.5% | 0% | 0% |  |
@@ -1068,10 +1070,12 @@ Last result: **13** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 5–8 | 5–10 | 4–10 | 4–11 |
+| N/A | [Poll Average](average.html) | 7 | 5–8 | 5–10 | 5–10 | 4–11 |
+| [13–20 August 2022](2022-08-20-Lab2101.html) | Lab2101 <br> Affari Italiani | 5 | 4–5 | 4–6 | 4–6 | 0–6 |
 | [17–18 August 2022](2022-08-18-Tecnè.html) | Tecnè | 10 | 9–11 | 9–11 | 8–11 | 8–12 |
 | [17–18 August 2022](2022-08-18-BiDiMedia.html) | BiDiMedia | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [17 August 2022](2022-08-17-NotoSondaggi.html) | Noto Sondaggi | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
+| [11–14 August 2022](2022-08-14-GDC.html) | GDC | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [6–12 August 2022](2022-08-12-Lab2101.html) | Lab2101 <br> Affari Italiani | 5 | 4–6 | 4–6 | 4–6 | 0–7 |
 | [8–11 August 2022](2022-08-11-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
 | [10–11 August 2022](2022-08-11-Demopolis.html) | Demopolis | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
@@ -2103,15 +2107,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0% | 100% |  |
-| 4 | 3% | 99.9% |  |
-| 5 | 13% | 97% |  |
-| 6 | 33% | 84% |  |
-| 7 | 28% | 51% | Median |
-| 8 | 13% | 23% |  |
-| 9 | 5% | 10% |  |
+| 0 | 0.1% | 100% |  |
+| 1 | 0% | 99.9% |  |
+| 2 | 0% | 99.9% |  |
+| 3 | 0% | 99.9% |  |
+| 4 | 1.4% | 99.8% |  |
+| 5 | 14% | 98% |  |
+| 6 | 32% | 85% |  |
+| 7 | 30% | 53% | Median |
+| 8 | 13% | 22% |  |
+| 9 | 4% | 9% |  |
 | 10 | 4% | 5% |  |
-| 11 | 1.0% | 1.2% |  |
+| 11 | 0.9% | 1.1% |  |
 | 12 | 0.2% | 0.2% |  |
 | 13 | 0% | 0% | Last Result |
 
