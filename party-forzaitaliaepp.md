@@ -1075,7 +1075,7 @@ Last result: **13** seats (General Election of 26 May 2019)
 | [17–18 August 2022](2022-08-18-Tecnè.html) | Tecnè | 10 | 9–11 | 9–11 | 8–11 | 8–12 |
 | [17–18 August 2022](2022-08-18-BiDiMedia.html) | BiDiMedia | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [17 August 2022](2022-08-17-NotoSondaggi.html) | Noto Sondaggi | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
-| [11–14 August 2022](2022-08-14-GDC.html) | GDC | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
+| [11–14 August 2022](2022-08-14-GDC.html) | GDC | 6 | 6–7 | 5–8 | 5–8 | 5–8 |
 | [6–12 August 2022](2022-08-12-Lab2101.html) | Lab2101 <br> Affari Italiani | 5 | 4–6 | 4–6 | 4–6 | 0–7 |
 | [8–11 August 2022](2022-08-11-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
 | [10–11 August 2022](2022-08-11-Demopolis.html) | Demopolis | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
@@ -2113,8 +2113,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 99.9% |  |
 | 4 | 1.4% | 99.8% |  |
 | 5 | 14% | 98% |  |
-| 6 | 32% | 85% |  |
-| 7 | 30% | 53% | Median |
+| 6 | 34% | 84% |  |
+| 7 | 28% | 50% | Median |
 | 8 | 13% | 22% |  |
 | 9 | 4% | 9% |  |
 | 10 | 4% | 5% |  |

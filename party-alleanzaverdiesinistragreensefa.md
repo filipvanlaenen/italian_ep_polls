@@ -10,12 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.6% | 2.6–4.5% | 2.3–4.7% | 2.1–4.9% | 1.8–5.4% |
+| N/A | [Poll Average](average.html) | 3.6% | 2.6–4.4% | 2.3–4.7% | 2.1–4.9% | 1.8–5.4% |
 | [13–20 August 2022](2022-08-20-Lab2101.html) | Lab2101 <br> Affari Italiani | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
 | [17–18 August 2022](2022-08-18-Tecnè.html) | Tecnè | 3.7% | 3.2–4.4% | 3.0–4.6% | 2.9–4.8% | 2.6–5.2% |
 | [17–18 August 2022](2022-08-18-BiDiMedia.html) | BiDiMedia | 3.9% | 3.4–4.5% | 3.3–4.7% | 3.1–4.8% | 2.9–5.1% |
 | [17 August 2022](2022-08-17-NotoSondaggi.html) | Noto Sondaggi | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
-| [11–14 August 2022](2022-08-14-GDC.html) | GDC | 3.5% | 2.9–4.2% | 2.8–4.4% | 2.6–4.6% | 2.4–5.0% |
+| [11–14 August 2022](2022-08-14-GDC.html) | GDC | 3.4% | 2.9–4.1% | 2.7–4.3% | 2.6–4.5% | 2.3–4.9% |
 | [6–12 August 2022](2022-08-12-Lab2101.html) | Lab2101 <br> Affari Italiani | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
 | [8–11 August 2022](2022-08-11-Tecnè.html) | Tecnè <br> Rete 4 | 3.8% | N/A | N/A | N/A | N/A |
 | [10–11 August 2022](2022-08-11-Demopolis.html) | Demopolis | 4.1% | 3.4–4.9% | 3.2–5.1% | 3.1–5.3% | 2.8–5.8% |
@@ -1049,8 +1049,8 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0.1% | 100% |  |
 | 1.5–2.5% | 9% | 99.9% |  |
 | 2.5–3.5% | 39% | 91% |  |
-| 3.5–4.5% | 45% | 52% | Median |
-| 4.5–5.5% | 7% | 8% |  |
+| 3.5–4.5% | 44% | 51% | Median |
+| 4.5–5.5% | 7% | 7% |  |
 | 5.5–6.5% | 0.3% | 0.3% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
@@ -1068,7 +1068,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [17–18 August 2022](2022-08-18-Tecnè.html) | Tecnè | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [17–18 August 2022](2022-08-18-BiDiMedia.html) | BiDiMedia | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [17 August 2022](2022-08-17-NotoSondaggi.html) | Noto Sondaggi | 0 | 0 | 0 | 0 | 0 |
-| [11–14 August 2022](2022-08-14-GDC.html) | GDC | 0 | 0 | 0 | 0–4 | 0–4 |
+| [11–14 August 2022](2022-08-14-GDC.html) | GDC | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [6–12 August 2022](2022-08-12-Lab2101.html) | Lab2101 <br> Affari Italiani | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [8–11 August 2022](2022-08-11-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
 | [10–11 August 2022](2022-08-11-Demopolis.html) | Demopolis | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
@@ -2100,11 +2100,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 78% | 100% | Last Result, Median |
-| 1 | 0% | 22% |  |
-| 2 | 0% | 22% |  |
-| 3 | 10% | 22% |  |
-| 4 | 12% | 13% |  |
+| 0 | 77% | 100% | Last Result, Median |
+| 1 | 0% | 23% |  |
+| 2 | 0% | 23% |  |
+| 3 | 10% | 23% |  |
+| 4 | 13% | 13% |  |
 | 5 | 0.4% | 0.4% |  |
 | 6 | 0% | 0% |  |
 
