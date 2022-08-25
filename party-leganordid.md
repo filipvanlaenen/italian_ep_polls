@@ -10,12 +10,12 @@ Last result: **6.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.5% | 11.9–16.5% | 11.5–17.4% | 11.1–18.0% | 10.5–19.0% |
+| N/A | [Poll Average](average.html) | 13.5% | 11.8–15.9% | 11.3–16.9% | 11.0–17.7% | 10.2–18.8% |
 | [22–24 August 2022](2022-08-24-Demopolis.html) | Demopolis | 14.5% | 13.3–15.8% | 13.0–16.1% | 12.7–16.4% | 12.2–17.1% |
-| [20 August 2022](2022-08-20-NotoSondaggi.html) | Noto Sondaggi | 12.5% | N/A | N/A | N/A | N/A |
+| [20 August 2022](2022-08-20-NotoSondaggi.html) | Noto Sondaggi | 12.5% | 11.2–13.9% | 10.9–14.3% | 10.6–14.7% | 10.0–15.4% |
 | [13–20 August 2022](2022-08-20-Lab2101.html) | Lab2101 <br> Affari Italiani | 16.7% | 15.3–18.3% | 14.9–18.7% | 14.5–19.1% | 13.9–19.9% |
-| [19 August 2022](2022-08-19-Piepoli.html) | Piepoli | 13.0% | N/A | N/A | N/A | N/A |
-| [16–18 August 2022](2022-08-18-TermometroPolitico.html) | Termometro Politico | 15.0% | N/A | N/A | N/A | N/A |
+| [19 August 2022](2022-08-19-Piepoli.html) | Piepoli | 13.0% | 11.2–15.1% | 10.7–15.7% | 10.3–16.2% | 9.5–17.3% |
+| [16–18 August 2022](2022-08-18-TermometroPolitico.html) | Termometro Politico | 15.0% | 14.3–15.7% | 14.2–15.9% | 14.0–16.0% | 13.7–16.3% |
 | [17–18 August 2022](2022-08-18-Tecnè.html) | Tecnè | 12.9% | 11.8–14.1% | 11.5–14.4% | 11.3–14.7% | 10.8–15.3% |
 | [17–18 August 2022](2022-08-18-BiDiMedia.html) | BiDiMedia | 13.6% | 12.7–14.6% | 12.4–14.9% | 12.2–15.2% | 11.8–15.7% |
 | [17 August 2022](2022-08-17-NotoSondaggi.html) | Noto Sondaggi | 12.5% | 11.2–13.9% | 10.9–14.3% | 10.6–14.7% | 10.0–15.4% |
@@ -1052,18 +1052,18 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 0% | 100% | Last Result |
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0.6% | 100% |  |
-| 10.5–11.5% | 5% | 99.4% |  |
-| 11.5–12.5% | 18% | 94% |  |
-| 12.5–13.5% | 27% | 76% |  |
-| 13.5–14.5% | 21% | 49% | Median |
-| 14.5–15.5% | 11% | 28% |  |
-| 15.5–16.5% | 7% | 17% |  |
-| 16.5–17.5% | 6% | 10% |  |
-| 17.5–18.5% | 3% | 4% |  |
-| 18.5–19.5% | 1.0% | 1.1% |  |
-| 19.5–20.5% | 0.2% | 0.2% |  |
+| 8.5–9.5% | 0.1% | 100% |  |
+| 9.5–10.5% | 0.9% | 99.9% |  |
+| 10.5–11.5% | 6% | 99.0% |  |
+| 11.5–12.5% | 18% | 93% |  |
+| 12.5–13.5% | 25% | 75% |  |
+| 13.5–14.5% | 20% | 50% | Median |
+| 14.5–15.5% | 16% | 30% |  |
+| 15.5–16.5% | 7% | 13% |  |
+| 16.5–17.5% | 4% | 7% |  |
+| 17.5–18.5% | 2% | 3% |  |
+| 18.5–19.5% | 0.6% | 0.8% |  |
+| 19.5–20.5% | 0.1% | 0.1% |  |
 | 20.5–21.5% | 0% | 0% |  |
 
 
@@ -1075,12 +1075,12 @@ Last result: **5** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 10–15 | 10–15 | 9–15 | 9–16 |
+| N/A | [Poll Average](average.html) | 11 | 10–14 | 10–15 | 9–15 | 8–16 |
 | [22–24 August 2022](2022-08-24-Demopolis.html) | Demopolis | 12 | 11–13 | 10–13 | 10–13 | 10–14 |
-| [20 August 2022](2022-08-20-NotoSondaggi.html) | Noto Sondaggi |  |  |  |  |  |
+| [20 August 2022](2022-08-20-NotoSondaggi.html) | Noto Sondaggi | 11 | 10–11 | 9–12 | 9–13 | 9–13 |
 | [13–20 August 2022](2022-08-20-Lab2101.html) | Lab2101 <br> Affari Italiani | 15 | 13–16 | 13–16 | 12–16 | 12–17 |
-| [19 August 2022](2022-08-19-Piepoli.html) | Piepoli |  |  |  |  |  |
-| [16–18 August 2022](2022-08-18-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [19 August 2022](2022-08-19-Piepoli.html) | Piepoli | 11 | 9–13 | 9–13 | 9–13 | 8–14 |
+| [16–18 August 2022](2022-08-18-TermometroPolitico.html) | Termometro Politico | 13 | 12–13 | 12–13 | 12–14 | 11–14 |
 | [17–18 August 2022](2022-08-18-Tecnè.html) | Tecnè | 11 | 10–12 | 10–12 | 10–13 | 9–13 |
 | [17–18 August 2022](2022-08-18-BiDiMedia.html) | BiDiMedia | 12 | 11–12 | 10–12 | 10–13 | 10–14 |
 | [17 August 2022](2022-08-17-NotoSondaggi.html) | Noto Sondaggi | 11 | 9–12 | 9–12 | 9–12 | 8–13 |
@@ -2119,16 +2119,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% | Last Result |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 0.3% | 100% |  |
-| 9 | 3% | 99.7% |  |
-| 10 | 15% | 97% |  |
-| 11 | 29% | 81% |  |
-| 12 | 32% | 53% | Median |
-| 13 | 6% | 21% |  |
-| 14 | 4% | 15% |  |
-| 15 | 8% | 10% |  |
-| 16 | 2% | 2% |  |
-| 17 | 0.4% | 0.4% |  |
+| 8 | 0.5% | 100% |  |
+| 9 | 4% | 99.5% |  |
+| 10 | 17% | 95% |  |
+| 11 | 29% | 79% | Median |
+| 12 | 28% | 50% |  |
+| 13 | 12% | 22% |  |
+| 14 | 3% | 10% |  |
+| 15 | 5% | 7% |  |
+| 16 | 1.3% | 2% |  |
+| 17 | 0.2% | 0.3% |  |
 | 18 | 0% | 0% |  |
 
 

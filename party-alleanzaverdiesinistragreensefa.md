@@ -10,12 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.6% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.1–5.1% |
+| N/A | [Poll Average](average.html) | 3.4% | 2.6–4.3% | 2.4–4.5% | 2.2–4.8% | 1.9–5.4% |
 | [22–24 August 2022](2022-08-24-Demopolis.html) | Demopolis | 3.7% | 3.1–4.4% | 3.0–4.6% | 2.8–4.8% | 2.6–5.2% |
-| [20 August 2022](2022-08-20-NotoSondaggi.html) | Noto Sondaggi | 2.7% | N/A | N/A | N/A | N/A |
+| [20 August 2022](2022-08-20-NotoSondaggi.html) | Noto Sondaggi | 2.7% | 2.1–3.5% | 2.0–3.7% | 1.9–3.9% | 1.6–4.3% |
 | [13–20 August 2022](2022-08-20-Lab2101.html) | Lab2101 <br> Affari Italiani | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
-| [19 August 2022](2022-08-19-Piepoli.html) | Piepoli | 3.6% | N/A | N/A | N/A | N/A |
-| [16–18 August 2022](2022-08-18-TermometroPolitico.html) | Termometro Politico | 2.7% | N/A | N/A | N/A | N/A |
+| [19 August 2022](2022-08-19-Piepoli.html) | Piepoli | 3.6% | 2.7–4.9% | 2.5–5.3% | 2.3–5.6% | 1.9–6.3% |
+| [16–18 August 2022](2022-08-18-TermometroPolitico.html) | Termometro Politico | 2.7% | 2.4–3.0% | 2.3–3.1% | 2.3–3.2% | 2.2–3.4% |
 | [17–18 August 2022](2022-08-18-Tecnè.html) | Tecnè | 3.7% | 3.2–4.4% | 3.0–4.6% | 2.9–4.8% | 2.6–5.2% |
 | [17–18 August 2022](2022-08-18-BiDiMedia.html) | BiDiMedia | 3.9% | 3.4–4.5% | 3.3–4.7% | 3.1–4.8% | 2.9–5.1% |
 | [17 August 2022](2022-08-17-NotoSondaggi.html) | Noto Sondaggi | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
@@ -1051,11 +1051,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 4% | 100% |  |
-| 2.5–3.5% | 44% | 96% |  |
-| 3.5–4.5% | 48% | 52% | Median |
-| 4.5–5.5% | 4% | 4% |  |
-| 5.5–6.5% | 0% | 0% |  |
+| 1.5–2.5% | 9% | 100% |  |
+| 2.5–3.5% | 49% | 91% | Median |
+| 3.5–4.5% | 37% | 42% |  |
+| 4.5–5.5% | 5% | 5% |  |
+| 5.5–6.5% | 0.3% | 0.4% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -1067,12 +1067,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [22–24 August 2022](2022-08-24-Demopolis.html) | Demopolis | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
-| [20 August 2022](2022-08-20-NotoSondaggi.html) | Noto Sondaggi |  |  |  |  |  |
+| [20 August 2022](2022-08-20-NotoSondaggi.html) | Noto Sondaggi | 0 | 0 | 0 | 0 | 0 |
 | [13–20 August 2022](2022-08-20-Lab2101.html) | Lab2101 <br> Affari Italiani | 0 | 0 | 0–3 | 0–4 | 0–4 |
-| [19 August 2022](2022-08-19-Piepoli.html) | Piepoli |  |  |  |  |  |
-| [16–18 August 2022](2022-08-18-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [19 August 2022](2022-08-19-Piepoli.html) | Piepoli | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [16–18 August 2022](2022-08-18-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [17–18 August 2022](2022-08-18-Tecnè.html) | Tecnè | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [17–18 August 2022](2022-08-18-BiDiMedia.html) | BiDiMedia | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [17 August 2022](2022-08-17-NotoSondaggi.html) | Noto Sondaggi | 0 | 0 | 0 | 0 | 0 |
@@ -2111,9 +2111,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 81% | 100% | Last Result, Median |
 | 1 | 0% | 19% |  |
 | 2 | 0% | 19% |  |
-| 3 | 10% | 19% |  |
-| 4 | 9% | 9% |  |
-| 5 | 0.1% | 0.1% |  |
+| 3 | 9% | 19% |  |
+| 4 | 10% | 10% |  |
+| 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% |  |
 
 
