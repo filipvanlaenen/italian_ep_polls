@@ -10,22 +10,36 @@ Last result: **16.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.5% | 6.0–10.5% | 5.3–11.6% | 4.9–12.1% | 4.3–12.9% |
-| [22–24 August 2022](2022-08-24-Demopolis.html) | Demopolis | 7.0% | 6.2–8.0% | 6.0–8.3% | 5.8–8.5% | 5.4–9.0% |
-| [20 August 2022](2022-08-20-NotoSondaggi.html) | Noto Sondaggi | 7.5% | 6.5–8.7% | 6.2–9.0% | 6.0–9.3% | 5.6–9.9% |
-| [13–20 August 2022](2022-08-20-Lab2101.html) | Lab2101 <br> Affari Italiani | 5.4% | 4.6–6.4% | 4.3–6.7% | 4.2–7.0% | 3.8–7.5% |
-| [19 August 2022](2022-08-19-Piepoli.html) | Piepoli | 7.6% | 6.3–9.3% | 5.9–9.8% | 5.6–10.3% | 5.0–11.2% |
-| [16–18 August 2022](2022-08-18-TermometroPolitico.html) | Termometro Politico | 7.7% | 7.2–8.2% | 7.0–8.3% | 6.9–8.4% | 6.7–8.7% |
-| [17–18 August 2022](2022-08-18-Tecnè.html) | Tecnè | 11.4% | 10.4–12.5% | 10.2–12.9% | 9.9–13.1% | 9.4–13.7% |
-| [17–18 August 2022](2022-08-18-BiDiMedia.html) | BiDiMedia | 7.0% | 6.3–7.7% | 6.1–8.0% | 6.0–8.2% | 5.7–8.5% |
+| N/A | [Poll Average](average.html) | 7.7% | 6.4–10.3% | 6.1–11.0% | 5.8–11.5% | 5.4–12.1% |
+| [31 August 2022](2022-08-31-BiDiMedia.html) | BiDiMedia | 6.6% | 5.9–7.3% | 5.8–7.6% | 5.6–7.7% | 5.3–8.1% |
+| [30 August 2022](2022-08-30-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 7.5% | 6.5–8.7% | 6.2–9.0% | 6.0–9.3% | 5.6–9.9% |
+| [29–30 August 2022](2022-08-30-Ipsos.html) | Ipsos <br> Corriere della Sera | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
+| [29–30 August 2022](2022-08-30-Euromedia.html) | Euromedia <br> Rai 1 | 7.0% | 6.0–8.3% | 5.7–8.7% | 5.4–9.0% | 5.0–9.6% |
+| [26–29 August 2022](2022-08-29-Tecnè.html) | Tecnè | 10.9% | 10.0–11.8% | 9.8–12.1% | 9.6–12.3% | 9.2–12.8% |
+| [24–29 August 2022](2022-08-29-SWG.html) | SWG <br> La7 | 7.0% | 6.1–8.0% | 5.9–8.3% | 5.7–8.6% | 5.3–9.1% |
+| [29 August 2022](2022-08-29-EMG.html) | EMG <br> Rai 3 | 8.3% | 7.5–9.3% | 7.3–9.6% | 7.0–9.8% | 6.7–10.3% |
+| [25–28 August 2022](2022-08-28-GDC.html) | GDC | 7.3% | 6.4–8.4% | 6.1–8.7% | 5.9–9.0% | 5.5–9.6% |
+| [24–27 August 2022](2022-08-27-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 8.7% | 7.6–9.9% | 7.3–10.3% | 7.1–10.6% | 6.6–11.2% |
+| [24–25 August 2022](2022-08-25-TermometroPolitico.html) | Termometro Politico | 7.2% | N/A | N/A | N/A | N/A |
+| [25 August 2022](2022-08-25-Piepoli.html) | Piepoli <br> RaiNews24 | 8.0% | N/A | N/A | N/A | N/A |
+| [25 August 2022](2022-08-25-BiDiMedia.html) | BiDiMedia | 6.6% | N/A | N/A | N/A | N/A |
+| [23–24 August 2022](2022-08-24-Tecnè.html) | Tecnè | 11.1% | N/A | N/A | N/A | N/A |
+| [22–24 August 2022](2022-08-24-Demopolis.html) | Demopolis | 7.0% | N/A | N/A | N/A | N/A |
+| [10–23 August 2022](2022-08-23-Lab2101.html) | Lab2101 <br> Affari Italiani | 5.6% | N/A | N/A | N/A | N/A |
+| [20 August 2022](2022-08-20-NotoSondaggi.html) | Noto Sondaggi | 7.5% | N/A | N/A | N/A | N/A |
+| [13–20 August 2022](2022-08-20-Lab2101.html) | Lab2101 <br> Affari Italiani | 5.4% | N/A | N/A | N/A | N/A |
+| [19 August 2022](2022-08-19-Piepoli.html) | Piepoli | 7.6% | N/A | N/A | N/A | N/A |
+| [16–18 August 2022](2022-08-18-TermometroPolitico.html) | Termometro Politico | 7.3% | N/A | N/A | N/A | N/A |
+| [17–18 August 2022](2022-08-18-Tecnè.html) | Tecnè | 11.4% | N/A | N/A | N/A | N/A |
+| [17–18 August 2022](2022-08-18-BiDiMedia.html) | BiDiMedia | 7.0% | N/A | N/A | N/A | N/A |
 | [17 August 2022](2022-08-17-NotoSondaggi.html) | Noto Sondaggi | 7.5% | 6.5–8.7% | 6.2–9.0% | 6.0–9.3% | 5.6–9.9% |
-| [11–14 August 2022](2022-08-14-GDC.html) | GDC | 7.5% | 6.6–8.5% | 6.4–8.7% | 6.2–9.0% | 5.8–9.5% |
+| [11–14 August 2022](2022-08-14-GDC.html) | GDC | 7.5% | N/A | N/A | N/A | N/A |
 | [6–12 August 2022](2022-08-12-Lab2101.html) | Lab2101 <br> Affari Italiani | 5.6% | 4.8–6.6% | 4.5–7.0% | 4.3–7.2% | 4.0–7.7% |
 | [8–11 August 2022](2022-08-11-Tecnè.html) | Tecnè <br> Rete 4 | 11.4% | N/A | N/A | N/A | N/A |
 | [10–11 August 2022](2022-08-11-Demopolis.html) | Demopolis | 6.8% | 5.9–7.8% | 5.7–8.1% | 5.5–8.4% | 5.1–8.9% |
-| [8–9 August 2022](2022-08-09-EMG.html) | EMG | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
+| [8–9 August 2022](2022-08-09-EMG.html) | EMG | 8.0% | N/A | N/A | N/A | N/A |
 | [3–8 August 2022](2022-08-08-SWG.html) | SWG | 8.0% | 7.1–9.1% | 6.8–9.4% | 6.6–9.7% | 6.2–10.2% |
-| [5–7 August 2022](2022-08-07-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 8.9% | 7.8–10.2% | 7.5–10.5% | 7.3–10.8% | 6.8–11.5% |
+| [5–7 August 2022](2022-08-07-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 8.9% | N/A | N/A | N/A | N/A |
 | [4–6 August 2022](2022-08-06-BiDiMedia.html) | BiDiMedia | 6.7% | 6.2–7.2% | 6.1–7.4% | 6.0–7.5% | 5.7–7.8% |
 | [5 August 2022](2022-08-05-Lab2101.html) | Lab2101 <br> Affari Italiani | 5.4% | 4.6–6.4% | 4.3–6.7% | 4.2–7.0% | 3.8–7.5% |
 | [4 August 2022](2022-08-04-Tecnè.html) | Tecnè | 10.9% | 9.6–12.4% | 9.2–12.8% | 8.9–13.2% | 8.3–14.0% |
@@ -1049,18 +1063,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 1.0% | 100% |  |
-| 4.5–5.5% | 5% | 99.0% |  |
-| 5.5–6.5% | 13% | 93% |  |
-| 6.5–7.5% | 33% | 81% | Median |
-| 7.5–8.5% | 28% | 48% |  |
-| 8.5–9.5% | 7% | 20% |  |
-| 9.5–10.5% | 3% | 13% |  |
-| 10.5–11.5% | 5% | 10% |  |
-| 11.5–12.5% | 4% | 5% |  |
-| 12.5–13.5% | 1.0% | 1.1% |  |
-| 13.5–14.5% | 0.1% | 0.1% |  |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 0.9% | 100% |  |
+| 5.5–6.5% | 13% | 99.1% |  |
+| 6.5–7.5% | 30% | 86% |  |
+| 7.5–8.5% | 28% | 56% | Median |
+| 8.5–9.5% | 14% | 28% |  |
+| 9.5–10.5% | 6% | 14% |  |
+| 10.5–11.5% | 6% | 8% |  |
+| 11.5–12.5% | 2% | 2% |  |
+| 12.5–13.5% | 0.1% | 0.1% |  |
+| 13.5–14.5% | 0% | 0% |  |
 | 14.5–15.5% | 0% | 0% |  |
 | 15.5–16.5% | 0% | 0% |  |
 | 16.5–17.5% | 0% | 0% | Last Result |
@@ -1074,22 +1087,36 @@ Last result: **13** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–9 | 5–10 | 5–10 | 4–11 |
-| [22–24 August 2022](2022-08-24-Demopolis.html) | Demopolis | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
-| [20 August 2022](2022-08-20-NotoSondaggi.html) | Noto Sondaggi | 6 | 6–7 | 5–8 | 5–8 | 5–9 |
-| [13–20 August 2022](2022-08-20-Lab2101.html) | Lab2101 <br> Affari Italiani | 5 | 4–5 | 4–6 | 4–6 | 0–6 |
-| [19 August 2022](2022-08-19-Piepoli.html) | Piepoli | 6 | 6–7 | 5–8 | 5–8 | 4–9 |
-| [16–18 August 2022](2022-08-18-TermometroPolitico.html) | Termometro Politico | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
-| [17–18 August 2022](2022-08-18-Tecnè.html) | Tecnè | 10 | 9–11 | 9–11 | 8–11 | 8–12 |
-| [17–18 August 2022](2022-08-18-BiDiMedia.html) | BiDiMedia | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
+| N/A | [Poll Average](average.html) | 7 | 6–9 | 5–10 | 5–10 | 5–11 |
+| [31 August 2022](2022-08-31-BiDiMedia.html) | BiDiMedia | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
+| [30 August 2022](2022-08-30-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 6 | 5–8 | 5–8 | 5–8 | 5–9 |
+| [29–30 August 2022](2022-08-30-Ipsos.html) | Ipsos <br> Corriere della Sera | 6 | 6–8 | 5–9 | 5–9 | 5–9 |
+| [29–30 August 2022](2022-08-30-Euromedia.html) | Euromedia <br> Rai 1 | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
+| [26–29 August 2022](2022-08-29-Tecnè.html) | Tecnè | 10 | 9–11 | 9–11 | 8–11 | 8–11 |
+| [24–29 August 2022](2022-08-29-SWG.html) | SWG <br> La7 | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
+| [29 August 2022](2022-08-29-EMG.html) | EMG <br> Rai 3 | 8 | 7–8 | 6–9 | 6–9 | 6–9 |
+| [25–28 August 2022](2022-08-28-GDC.html) | GDC | 7 | 6–7 | 6–7 | 5–8 | 5–9 |
+| [24–27 August 2022](2022-08-27-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 8 | 6–9 | 6–9 | 6–9 | 6–9 |
+| [24–25 August 2022](2022-08-25-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [25 August 2022](2022-08-25-Piepoli.html) | Piepoli <br> RaiNews24 |  |  |  |  |  |
+| [25 August 2022](2022-08-25-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
+| [23–24 August 2022](2022-08-24-Tecnè.html) | Tecnè |  |  |  |  |  |
+| [22–24 August 2022](2022-08-24-Demopolis.html) | Demopolis |  |  |  |  |  |
+| [10–23 August 2022](2022-08-23-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
+| [20 August 2022](2022-08-20-NotoSondaggi.html) | Noto Sondaggi |  |  |  |  |  |
+| [13–20 August 2022](2022-08-20-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
+| [19 August 2022](2022-08-19-Piepoli.html) | Piepoli |  |  |  |  |  |
+| [16–18 August 2022](2022-08-18-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [17–18 August 2022](2022-08-18-Tecnè.html) | Tecnè |  |  |  |  |  |
+| [17–18 August 2022](2022-08-18-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
 | [17 August 2022](2022-08-17-NotoSondaggi.html) | Noto Sondaggi | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
-| [11–14 August 2022](2022-08-14-GDC.html) | GDC | 6 | 6–7 | 5–8 | 5–8 | 5–8 |
+| [11–14 August 2022](2022-08-14-GDC.html) | GDC |  |  |  |  |  |
 | [6–12 August 2022](2022-08-12-Lab2101.html) | Lab2101 <br> Affari Italiani | 5 | 4–6 | 4–6 | 4–6 | 0–7 |
 | [8–11 August 2022](2022-08-11-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
 | [10–11 August 2022](2022-08-11-Demopolis.html) | Demopolis | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
-| [8–9 August 2022](2022-08-09-EMG.html) | EMG | 7 | 6–8 | 6–8 | 5–9 | 5–9 |
+| [8–9 August 2022](2022-08-09-EMG.html) | EMG |  |  |  |  |  |
 | [3–8 August 2022](2022-08-08-SWG.html) | SWG | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
-| [5–7 August 2022](2022-08-07-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 8 | 6–9 | 6–9 | 6–9 | 6–10 |
+| [5–7 August 2022](2022-08-07-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
 | [4–6 August 2022](2022-08-06-BiDiMedia.html) | BiDiMedia | 6 | 5–6 | 5–6 | 5–6 | 5–6 |
 | [5 August 2022](2022-08-05-Lab2101.html) | Lab2101 <br> Affari Italiani | 4 | 4–6 | 4–6 | 0–6 | 0–6 |
 | [4 August 2022](2022-08-04-Tecnè.html) | Tecnè | 9 | 8–11 | 8–11 | 7–11 | 7–12 |
@@ -2115,19 +2142,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.2% | 100% |  |
-| 1 | 0% | 99.8% |  |
-| 2 | 0% | 99.8% |  |
-| 3 | 0.1% | 99.8% |  |
-| 4 | 2% | 99.8% |  |
-| 5 | 17% | 98% |  |
-| 6 | 43% | 81% | Median |
-| 7 | 22% | 38% |  |
-| 8 | 4% | 15% |  |
-| 9 | 4% | 11% |  |
-| 10 | 6% | 7% |  |
-| 11 | 1.4% | 2% |  |
-| 12 | 0.3% | 0.3% |  |
+| 4 | 0.2% | 100% |  |
+| 5 | 9% | 99.8% |  |
+| 6 | 34% | 91% |  |
+| 7 | 26% | 56% | Median |
+| 8 | 16% | 30% |  |
+| 9 | 7% | 14% |  |
+| 10 | 5% | 7% |  |
+| 11 | 2% | 2% |  |
+| 12 | 0% | 0% |  |
 | 13 | 0% | 0% | Last Result |
 
 
