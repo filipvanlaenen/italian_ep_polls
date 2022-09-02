@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.3% | 4.8–8.0% | 4.5–8.5% | 4.3–9.0% | 3.9–9.7% |
+| N/A | [Poll Average](average.html) | 6.2% | 4.8–8.0% | 4.5–8.5% | 4.4–8.9% | 4.0–9.7% |
 | [31 August 2022](2022-08-31-BiDiMedia.html) | BiDiMedia | 6.2% | 5.6–7.0% | 5.4–7.2% | 5.3–7.3% | 5.0–7.7% |
 | [30 August 2022](2022-08-30-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
 | [29–30 August 2022](2022-08-30-Ipsos.html) | Ipsos <br> Corriere della Sera | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.1% |
@@ -20,12 +20,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [29 August 2022](2022-08-29-EMG.html) | EMG <br> Rai 3 | 7.0% | 6.2–7.9% | 6.0–8.1% | 5.8–8.4% | 5.4–8.8% |
 | [25–28 August 2022](2022-08-28-GDC.html) | GDC | 5.8% | 5.0–6.9% | 4.8–7.1% | 4.6–7.4% | 4.2–7.9% |
 | [24–27 August 2022](2022-08-27-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 5.3% | 4.5–6.3% | 4.2–6.6% | 4.1–6.8% | 3.7–7.4% |
-| [24–25 August 2022](2022-08-25-TermometroPolitico.html) | Termometro Politico | 4.8% | N/A | N/A | N/A | N/A |
-| [25 August 2022](2022-08-25-Piepoli.html) | Piepoli <br> RaiNews24 | 7.0% | N/A | N/A | N/A | N/A |
+| [24–25 August 2022](2022-08-25-TermometroPolitico.html) | Termometro Politico | 4.8% | 4.4–5.2% | 4.3–5.3% | 4.2–5.4% | 4.1–5.6% |
+| [25 August 2022](2022-08-25-Piepoli.html) | Piepoli <br> RaiNews24 | 7.0% | 5.7–8.7% | 5.4–9.2% | 5.1–9.6% | 4.5–10.5% |
 | [25 August 2022](2022-08-25-BiDiMedia.html) | BiDiMedia | 6.1% | N/A | N/A | N/A | N/A |
 | [23–24 August 2022](2022-08-24-Tecnè.html) | Tecnè | 4.9% | N/A | N/A | N/A | N/A |
-| [22–24 August 2022](2022-08-24-Demopolis.html) | Demopolis | 5.8% | N/A | N/A | N/A | N/A |
-| [10–23 August 2022](2022-08-23-Lab2101.html) | Lab2101 <br> Affari Italiani | 6.9% | N/A | N/A | N/A | N/A |
+| [22–24 August 2022](2022-08-24-Demopolis.html) | Demopolis | 5.8% | 5.1–6.7% | 4.9–7.0% | 4.7–7.2% | 4.4–7.6% |
+| [10–23 August 2022](2022-08-23-Lab2101.html) | Lab2101 <br> Affari Italiani | 6.9% | 6.1–7.8% | 5.9–8.0% | 5.7–8.3% | 5.3–8.7% |
 | [20 August 2022](2022-08-20-NotoSondaggi.html) | Noto Sondaggi | 7.5% | N/A | N/A | N/A | N/A |
 | [13–20 August 2022](2022-08-20-Lab2101.html) | Lab2101 <br> Affari Italiani | 6.7% | N/A | N/A | N/A | N/A |
 | [19 August 2022](2022-08-19-Piepoli.html) | Piepoli | 6.6% | N/A | N/A | N/A | N/A |
@@ -1068,12 +1068,12 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0.1% | 100% |  |
 | 3.5–4.5% | 5% | 99.9% |  |
-| 4.5–5.5% | 24% | 95% |  |
-| 5.5–6.5% | 29% | 71% | Median |
-| 6.5–7.5% | 24% | 42% |  |
-| 7.5–8.5% | 13% | 18% |  |
-| 8.5–9.5% | 4% | 5% |  |
-| 9.5–10.5% | 0.7% | 0.7% |  |
+| 4.5–5.5% | 25% | 95% |  |
+| 5.5–6.5% | 28% | 69% | Median |
+| 6.5–7.5% | 25% | 41% |  |
+| 7.5–8.5% | 12% | 16% |  |
+| 8.5–9.5% | 4% | 4% |  |
+| 9.5–10.5% | 0.6% | 0.7% |  |
 | 10.5–11.5% | 0.1% | 0.1% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
@@ -1086,7 +1086,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 4–7 | 4–8 | 4–8 | 0–9 |
+| N/A | [Poll Average](average.html) | 5 | 4–7 | 4–7 | 4–8 | 3–8 |
 | [31 August 2022](2022-08-31-BiDiMedia.html) | BiDiMedia | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [30 August 2022](2022-08-30-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 7 | 6–8 | 6–8 | 5–9 | 5–9 |
 | [29–30 August 2022](2022-08-30-Ipsos.html) | Ipsos <br> Corriere della Sera | 4 | 4–5 | 4–5 | 4–6 | 0–6 |
@@ -1096,12 +1096,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [29 August 2022](2022-08-29-EMG.html) | EMG <br> Rai 3 | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
 | [25–28 August 2022](2022-08-28-GDC.html) | GDC | 6 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [24–27 August 2022](2022-08-27-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 5 | 4–5 | 4–6 | 0–6 | 0–6 |
-| [24–25 August 2022](2022-08-25-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [25 August 2022](2022-08-25-Piepoli.html) | Piepoli <br> RaiNews24 |  |  |  |  |  |
+| [24–25 August 2022](2022-08-25-TermometroPolitico.html) | Termometro Politico | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [25 August 2022](2022-08-25-Piepoli.html) | Piepoli <br> RaiNews24 | 6 | 5–7 | 5–8 | 4–8 | 4–9 |
 | [25 August 2022](2022-08-25-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
 | [23–24 August 2022](2022-08-24-Tecnè.html) | Tecnè |  |  |  |  |  |
-| [22–24 August 2022](2022-08-24-Demopolis.html) | Demopolis |  |  |  |  |  |
-| [10–23 August 2022](2022-08-23-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
+| [22–24 August 2022](2022-08-24-Demopolis.html) | Demopolis | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
+| [10–23 August 2022](2022-08-23-Lab2101.html) | Lab2101 <br> Affari Italiani | 6 | 5–6 | 5–7 | 5–7 | 5–8 |
 | [20 August 2022](2022-08-20-NotoSondaggi.html) | Noto Sondaggi |  |  |  |  |  |
 | [13–20 August 2022](2022-08-20-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
 | [19 August 2022](2022-08-19-Piepoli.html) | Piepoli |  |  |  |  |  |
@@ -2141,16 +2141,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.6% | 100% | Last Result |
-| 1 | 0% | 99.4% |  |
-| 2 | 0% | 99.4% |  |
-| 3 | 0.1% | 99.4% |  |
-| 4 | 20% | 99.3% |  |
-| 5 | 24% | 79% |  |
-| 6 | 36% | 55% | Median |
-| 7 | 14% | 19% |  |
-| 8 | 4% | 5% |  |
-| 9 | 0.6% | 0.6% |  |
+| 0 | 0.4% | 100% | Last Result |
+| 1 | 0% | 99.6% |  |
+| 2 | 0% | 99.6% |  |
+| 3 | 0.1% | 99.6% |  |
+| 4 | 23% | 99.4% |  |
+| 5 | 27% | 76% | Median |
+| 6 | 33% | 49% |  |
+| 7 | 12% | 16% |  |
+| 8 | 4% | 4% |  |
+| 9 | 0.5% | 0.5% |  |
 | 10 | 0% | 0% |  |
 
 

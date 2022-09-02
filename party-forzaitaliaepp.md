@@ -10,7 +10,7 @@ Last result: **16.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.7% | 6.4–10.3% | 6.1–11.0% | 5.8–11.5% | 5.4–12.1% |
+| N/A | [Poll Average](average.html) | 7.5% | 6.1–9.7% | 5.6–10.7% | 5.3–11.3% | 4.8–12.0% |
 | [31 August 2022](2022-08-31-BiDiMedia.html) | BiDiMedia | 6.6% | 5.9–7.3% | 5.8–7.6% | 5.6–7.7% | 5.3–8.1% |
 | [30 August 2022](2022-08-30-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 7.5% | 6.5–8.7% | 6.2–9.0% | 6.0–9.3% | 5.6–9.9% |
 | [29–30 August 2022](2022-08-30-Ipsos.html) | Ipsos <br> Corriere della Sera | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
@@ -20,12 +20,12 @@ Last result: **16.8%** (General Election of 26 May 2019)
 | [29 August 2022](2022-08-29-EMG.html) | EMG <br> Rai 3 | 8.3% | 7.5–9.3% | 7.3–9.6% | 7.0–9.8% | 6.7–10.3% |
 | [25–28 August 2022](2022-08-28-GDC.html) | GDC | 7.3% | 6.4–8.4% | 6.1–8.7% | 5.9–9.0% | 5.5–9.6% |
 | [24–27 August 2022](2022-08-27-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 8.7% | 7.6–9.9% | 7.3–10.3% | 7.1–10.6% | 6.6–11.2% |
-| [24–25 August 2022](2022-08-25-TermometroPolitico.html) | Termometro Politico | 7.2% | N/A | N/A | N/A | N/A |
-| [25 August 2022](2022-08-25-Piepoli.html) | Piepoli <br> RaiNews24 | 8.0% | N/A | N/A | N/A | N/A |
+| [24–25 August 2022](2022-08-25-TermometroPolitico.html) | Termometro Politico | 7.2% | 6.8–7.7% | 6.6–7.8% | 6.5–7.9% | 6.3–8.2% |
+| [25 August 2022](2022-08-25-Piepoli.html) | Piepoli <br> RaiNews24 | 8.0% | 6.6–9.8% | 6.2–10.3% | 5.9–10.7% | 5.3–11.6% |
 | [25 August 2022](2022-08-25-BiDiMedia.html) | BiDiMedia | 6.6% | N/A | N/A | N/A | N/A |
 | [23–24 August 2022](2022-08-24-Tecnè.html) | Tecnè | 11.1% | N/A | N/A | N/A | N/A |
-| [22–24 August 2022](2022-08-24-Demopolis.html) | Demopolis | 7.0% | N/A | N/A | N/A | N/A |
-| [10–23 August 2022](2022-08-23-Lab2101.html) | Lab2101 <br> Affari Italiani | 5.6% | N/A | N/A | N/A | N/A |
+| [22–24 August 2022](2022-08-24-Demopolis.html) | Demopolis | 7.0% | 6.2–8.0% | 6.0–8.3% | 5.8–8.5% | 5.4–9.0% |
+| [10–23 August 2022](2022-08-23-Lab2101.html) | Lab2101 <br> Affari Italiani | 5.6% | 4.9–6.4% | 4.7–6.7% | 4.5–6.9% | 4.2–7.3% |
 | [20 August 2022](2022-08-20-NotoSondaggi.html) | Noto Sondaggi | 7.5% | N/A | N/A | N/A | N/A |
 | [13–20 August 2022](2022-08-20-Lab2101.html) | Lab2101 <br> Affari Italiani | 5.4% | N/A | N/A | N/A | N/A |
 | [19 August 2022](2022-08-19-Piepoli.html) | Piepoli | 7.6% | N/A | N/A | N/A | N/A |
@@ -1063,15 +1063,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.9% | 100% |  |
-| 5.5–6.5% | 13% | 99.1% |  |
-| 6.5–7.5% | 30% | 86% |  |
-| 7.5–8.5% | 28% | 56% | Median |
-| 8.5–9.5% | 14% | 28% |  |
-| 9.5–10.5% | 6% | 14% |  |
-| 10.5–11.5% | 6% | 8% |  |
-| 11.5–12.5% | 2% | 2% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 0.2% | 100% |  |
+| 4.5–5.5% | 4% | 99.8% |  |
+| 5.5–6.5% | 15% | 96% |  |
+| 6.5–7.5% | 33% | 81% | Median |
+| 7.5–8.5% | 25% | 47% |  |
+| 8.5–9.5% | 12% | 23% |  |
+| 9.5–10.5% | 5% | 11% |  |
+| 10.5–11.5% | 4% | 6% |  |
+| 11.5–12.5% | 1.4% | 2% |  |
 | 12.5–13.5% | 0.1% | 0.1% |  |
 | 13.5–14.5% | 0% | 0% |  |
 | 14.5–15.5% | 0% | 0% |  |
@@ -1087,7 +1088,7 @@ Last result: **13** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–9 | 5–10 | 5–10 | 5–11 |
+| N/A | [Poll Average](average.html) | 6 | 5–8 | 5–9 | 4–10 | 4–11 |
 | [31 August 2022](2022-08-31-BiDiMedia.html) | BiDiMedia | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [30 August 2022](2022-08-30-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 6 | 5–8 | 5–8 | 5–8 | 5–9 |
 | [29–30 August 2022](2022-08-30-Ipsos.html) | Ipsos <br> Corriere della Sera | 6 | 6–8 | 5–9 | 5–9 | 5–9 |
@@ -1097,12 +1098,12 @@ Last result: **13** seats (General Election of 26 May 2019)
 | [29 August 2022](2022-08-29-EMG.html) | EMG <br> Rai 3 | 8 | 7–8 | 6–9 | 6–9 | 6–9 |
 | [25–28 August 2022](2022-08-28-GDC.html) | GDC | 7 | 6–7 | 6–7 | 5–8 | 5–9 |
 | [24–27 August 2022](2022-08-27-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 8 | 6–9 | 6–9 | 6–9 | 6–9 |
-| [24–25 August 2022](2022-08-25-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [25 August 2022](2022-08-25-Piepoli.html) | Piepoli <br> RaiNews24 |  |  |  |  |  |
+| [24–25 August 2022](2022-08-25-TermometroPolitico.html) | Termometro Politico | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
+| [25 August 2022](2022-08-25-Piepoli.html) | Piepoli <br> RaiNews24 | 7 | 5–8 | 5–9 | 5–9 | 4–10 |
 | [25 August 2022](2022-08-25-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
 | [23–24 August 2022](2022-08-24-Tecnè.html) | Tecnè |  |  |  |  |  |
-| [22–24 August 2022](2022-08-24-Demopolis.html) | Demopolis |  |  |  |  |  |
-| [10–23 August 2022](2022-08-23-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
+| [22–24 August 2022](2022-08-24-Demopolis.html) | Demopolis | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
+| [10–23 August 2022](2022-08-23-Lab2101.html) | Lab2101 <br> Affari Italiani | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [20 August 2022](2022-08-20-NotoSondaggi.html) | Noto Sondaggi |  |  |  |  |  |
 | [13–20 August 2022](2022-08-20-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
 | [19 August 2022](2022-08-19-Piepoli.html) | Piepoli |  |  |  |  |  |
@@ -2142,14 +2143,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.2% | 100% |  |
-| 5 | 9% | 99.8% |  |
-| 6 | 34% | 91% |  |
-| 7 | 26% | 56% | Median |
-| 8 | 16% | 30% |  |
-| 9 | 7% | 14% |  |
-| 10 | 5% | 7% |  |
-| 11 | 2% | 2% |  |
+| 4 | 3% | 100% |  |
+| 5 | 15% | 97% |  |
+| 6 | 37% | 83% | Median |
+| 7 | 23% | 45% |  |
+| 8 | 13% | 23% |  |
+| 9 | 5% | 10% |  |
+| 10 | 3% | 5% |  |
+| 11 | 1.4% | 1.4% |  |
 | 12 | 0% | 0% |  |
 | 13 | 0% | 0% | Last Result |
 
