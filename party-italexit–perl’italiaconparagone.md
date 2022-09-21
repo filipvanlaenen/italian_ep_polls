@@ -15,10 +15,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [7–9 September 2022](2022-09-09-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 2.4% | 1.9–3.2% | 1.7–3.4% | 1.6–3.6% | 1.4–3.9% |
 | [9 September 2022](2022-09-09-Piepoli.html) | Piepoli | 2.0% | 1.4–3.1% | 1.2–3.4% | 1.1–3.6% | 0.9–4.2% |
 | [6–9 September 2022](2022-09-09-Lab2101.html) | Lab2101 <br> Affari Italiani | 0.0% | N/A | N/A | N/A | N/A |
-| [9 September 2022](2022-09-09-IZI.html) | IZI | 2.9% | 2.3–3.7% | 2.1–3.9% | 2.0–4.1% | 1.8–4.5% |
 | [8–9 September 2022](2022-09-09-BiDiMedia.html) | BiDiMedia | 2.4% | 2.1–2.8% | 2.0–2.9% | 1.9–3.0% | 1.8–3.2% |
 | [6–8 September 2022](2022-09-08-TermometroPolitico.html) | Termometro Politico | 2.8% | 2.5–3.2% | 2.4–3.2% | 2.4–3.3% | 2.2–3.5% |
 | [6–8 September 2022](2022-09-08-Tecnè.html) | Tecnè <br> Canale 5 | 2.6% | 2.2–3.1% | 2.1–3.3% | 2.0–3.4% | 1.8–3.7% |
+| [7–8 September 2022](2022-09-08-IZI.html) | IZI | 2.9% | 2.3–3.7% | 2.1–3.9% | 2.0–4.1% | 1.8–4.6% |
 | [6–7 September 2022](2022-09-07-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 2.7% | 2.1–3.5% | 2.0–3.7% | 1.9–3.9% | 1.6–4.3% |
 | [6–7 September 2022](2022-09-07-IndexResearch.html) | Index Research | 3.0% | 2.3–3.9% | 2.2–4.2% | 2.0–4.4% | 1.8–4.9% |
 | [3–7 September 2022](2022-09-07-Hokuto.html) | Hokuto | 3.2% | 2.7–3.9% | 2.5–4.1% | 2.4–4.2% | 2.2–4.6% |
@@ -1117,10 +1117,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [7–9 September 2022](2022-09-09-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0 | 0 | 0 |
 | [9 September 2022](2022-09-09-Piepoli.html) | Piepoli | 0 | 0 | 0 | 0 | 0–4 |
 | [6–9 September 2022](2022-09-09-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
-| [9 September 2022](2022-09-09-IZI.html) | IZI | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | [8–9 September 2022](2022-09-09-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
 | [6–8 September 2022](2022-09-08-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [6–8 September 2022](2022-09-08-Tecnè.html) | Tecnè <br> Canale 5 | 0 | 0 | 0 | 0 | 0 |
+| [7–8 September 2022](2022-09-08-IZI.html) | IZI | 0 | 0 | 0 | 0–4 | 0–4 |
 | [6–7 September 2022](2022-09-07-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0–3 | 0–4 |
 | [6–7 September 2022](2022-09-07-IndexResearch.html) | Index Research | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [3–7 September 2022](2022-09-07-Hokuto.html) | Hokuto | 0 | 0 | 0 | 0–4 | 0–4 |

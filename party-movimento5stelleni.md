@@ -10,15 +10,15 @@ Last result: **21.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.3% | 11.7–15.6% | 11.2–16.3% | 10.7–17.1% | 9.8–18.4% |
+| N/A | [Poll Average](average.html) | 13.3% | 11.7–15.5% | 11.2–16.3% | 10.7–17.1% | 9.8–18.4% |
 | [6–9 September 2022](2022-09-09-SWG.html) | SWG <br> La7 | 12.0% | 10.9–13.3% | 10.5–13.7% | 10.3–14.0% | 9.8–14.6% |
 | [7–9 September 2022](2022-09-09-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 13.8% | 12.5–15.3% | 12.1–15.7% | 11.8–16.1% | 11.2–16.8% |
 | [9 September 2022](2022-09-09-Piepoli.html) | Piepoli | 11.6% | 9.9–13.6% | 9.5–14.2% | 9.1–14.7% | 8.3–15.7% |
 | [6–9 September 2022](2022-09-09-Lab2101.html) | Lab2101 <br> Affari Italiani | 12.0% | 10.8–13.4% | 10.4–13.8% | 10.1–14.2% | 9.6–14.9% |
-| [9 September 2022](2022-09-09-IZI.html) | IZI | 15.4% | 14.1–17.0% | 13.7–17.4% | 13.3–17.8% | 12.7–18.6% |
 | [8–9 September 2022](2022-09-09-BiDiMedia.html) | BiDiMedia | 13.1% | 12.3–13.9% | 12.1–14.2% | 11.9–14.4% | 11.6–14.8% |
 | [6–8 September 2022](2022-09-08-TermometroPolitico.html) | Termometro Politico | 13.3% | 12.7–14.0% | 12.5–14.2% | 12.3–14.3% | 12.1–14.6% |
 | [6–8 September 2022](2022-09-08-Tecnè.html) | Tecnè <br> Canale 5 | 12.2% | 11.3–13.2% | 11.0–13.5% | 10.8–13.7% | 10.4–14.2% |
+| [7–8 September 2022](2022-09-08-IZI.html) | IZI | 15.4% | 14.0–16.9% | 13.6–17.4% | 13.3–17.8% | 12.6–18.5% |
 | [6–7 September 2022](2022-09-07-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 13.5% | 12.2–15.0% | 11.8–15.4% | 11.5–15.8% | 10.9–16.5% |
 | [6–7 September 2022](2022-09-07-IndexResearch.html) | Index Research | 14.0% | 12.5–15.7% | 12.1–16.2% | 11.8–16.6% | 11.1–17.4% |
 | [3–7 September 2022](2022-09-07-Hokuto.html) | Hokuto | 14.5% | 13.4–15.8% | 13.1–16.1% | 12.8–16.4% | 12.3–17.0% |
@@ -1124,10 +1124,10 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [7–9 September 2022](2022-09-09-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 12 | 11–13 | 10–14 | 10–14 | 10–14 |
 | [9 September 2022](2022-09-09-Piepoli.html) | Piepoli | 10 | 8–12 | 8–12 | 8–12 | 7–14 |
 | [6–9 September 2022](2022-09-09-Lab2101.html) | Lab2101 <br> Affari Italiani | 10 | 9–11 | 9–12 | 9–12 | 8–13 |
-| [9 September 2022](2022-09-09-IZI.html) | IZI | 14 | 12–14 | 12–15 | 11–15 | 10–16 |
 | [8–9 September 2022](2022-09-09-BiDiMedia.html) | BiDiMedia | 12 | 11–12 | 10–12 | 10–12 | 10–13 |
 | [6–8 September 2022](2022-09-08-TermometroPolitico.html) | Termometro Politico | 12 | 11–12 | 11–12 | 11–12 | 11–13 |
 | [6–8 September 2022](2022-09-08-Tecnè.html) | Tecnè <br> Canale 5 | 11 | 10–12 | 9–12 | 9–12 | 9–12 |
+| [7–8 September 2022](2022-09-08-IZI.html) | IZI | 13 | 12–14 | 12–15 | 11–15 | 11–16 |
 | [6–7 September 2022](2022-09-07-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 12 | 10–13 | 10–13 | 10–14 | 9–14 |
 | [6–7 September 2022](2022-09-07-IndexResearch.html) | Index Research | 11 | 10–13 | 9–14 | 9–14 | 9–14 |
 | [3–7 September 2022](2022-09-07-Hokuto.html) | Hokuto | 12 | 11–13 | 11–14 | 11–14 | 10–15 |
@@ -2212,11 +2212,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 18% | 95% |  |
 | 11 | 30% | 77% | Median |
 | 12 | 26% | 47% |  |
-| 13 | 12% | 21% |  |
-| 14 | 6% | 9% |  |
+| 13 | 14% | 21% |  |
+| 14 | 4% | 7% |  |
 | 15 | 2% | 3% |  |
-| 16 | 0.4% | 0.4% |  |
-| 17 | 0.1% | 0.1% | Last Result |
+| 16 | 0.4% | 0.5% |  |
+| 17 | 0% | 0.1% | Last Result |
 | 18 | 0% | 0% |  |
 
 

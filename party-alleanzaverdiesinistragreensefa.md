@@ -15,10 +15,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [7–9 September 2022](2022-09-09-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
 | [9 September 2022](2022-09-09-Piepoli.html) | Piepoli | 4.0% | 3.1–5.4% | 2.8–5.8% | 2.6–6.1% | 2.2–6.8% |
 | [6–9 September 2022](2022-09-09-Lab2101.html) | Lab2101 <br> Affari Italiani | 2.6% | 2.1–3.4% | 1.9–3.6% | 1.8–3.8% | 1.6–4.2% |
-| [9 September 2022](2022-09-09-IZI.html) | IZI | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.1–5.6% | 2.8–6.1% |
 | [8–9 September 2022](2022-09-09-BiDiMedia.html) | BiDiMedia | 4.0% | 3.6–4.5% | 3.5–4.6% | 3.4–4.8% | 3.2–5.0% |
 | [6–8 September 2022](2022-09-08-TermometroPolitico.html) | Termometro Politico | 2.6% | 2.3–2.9% | 2.2–3.0% | 2.2–3.1% | 2.1–3.3% |
 | [6–8 September 2022](2022-09-08-Tecnè.html) | Tecnè <br> Canale 5 | 3.2% | 2.7–3.8% | 2.6–3.9% | 2.5–4.1% | 2.3–4.4% |
+| [7–8 September 2022](2022-09-08-IZI.html) | IZI | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.1–5.6% | 2.8–6.1% |
 | [6–7 September 2022](2022-09-07-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 2.7% | 2.1–3.5% | 2.0–3.7% | 1.9–3.9% | 1.6–4.3% |
 | [6–7 September 2022](2022-09-07-IndexResearch.html) | Index Research | 4.0% | 3.2–5.0% | 3.0–5.3% | 2.9–5.6% | 2.5–6.1% |
 | [3–7 September 2022](2022-09-07-Hokuto.html) | Hokuto | 3.5% | 3.0–4.2% | 2.8–4.4% | 2.7–4.6% | 2.5–5.0% |
@@ -1120,10 +1120,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [7–9 September 2022](2022-09-09-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [9 September 2022](2022-09-09-Piepoli.html) | Piepoli | 4 | 0–4 | 0–5 | 0–5 | 0–6 |
 | [6–9 September 2022](2022-09-09-Lab2101.html) | Lab2101 <br> Affari Italiani | 0 | 0 | 0 | 0 | 0 |
-| [9 September 2022](2022-09-09-IZI.html) | IZI | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
 | [8–9 September 2022](2022-09-09-BiDiMedia.html) | BiDiMedia | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [6–8 September 2022](2022-09-08-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [6–8 September 2022](2022-09-08-Tecnè.html) | Tecnè <br> Canale 5 | 0 | 0 | 0 | 0–3 | 0–4 |
+| [7–8 September 2022](2022-09-08-IZI.html) | IZI | 4 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [6–7 September 2022](2022-09-07-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0 | 0–4 |
 | [6–7 September 2022](2022-09-07-IndexResearch.html) | Index Research | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [3–7 September 2022](2022-09-07-Hokuto.html) | Hokuto | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
@@ -2206,7 +2206,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 29% |  |
 | 2 | 0% | 29% |  |
 | 3 | 5% | 29% |  |
-| 4 | 18% | 24% |  |
+| 4 | 19% | 24% |  |
 | 5 | 4% | 6% |  |
 | 6 | 2% | 2% |  |
 | 7 | 0.1% | 0.1% |  |
