@@ -10,7 +10,18 @@ Last result: **40.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.6% | 19.4–23.5% | 18.8–24.3% | 18.3–25.1% | 17.4–26.6% |
+| N/A | [Poll Average](average.html) | 18.0% | 16.3–19.4% | 15.9–19.8% | 15.5–20.2% | 14.8–21.1% |
+| [12–17 October 2022](2022-10-17-SWG.html) | SWG <br> La7 | 17.0% | 15.7–18.5% | 15.3–18.9% | 15.0–19.2% | 14.4–20.0% |
+| [17 October 2022](2022-10-17-EMG.html) | EMG <br> Rai 3 | 18.0% | 16.8–19.3% | 16.5–19.7% | 16.2–20.0% | 15.7–20.6% |
+| [16 October 2022](2022-10-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 18.5% | 17.0–20.2% | 16.6–20.6% | 16.2–21.0% | 15.5–21.8% |
+| [14–15 October 2022](2022-10-15-Euromedia.html) | Euromedia | 17.5% | 16.0–19.1% | 15.6–19.6% | 15.3–20.0% | 14.6–20.8% |
+| [8–14 October 2022](2022-10-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 17.6% | 16.1–19.2% | 15.7–19.7% | 15.4–20.1% | 14.7–20.9% |
+| [11–13 October 2022](2022-10-13-TermometroPolitico.html) | Termometro Politico | 18.7% | 17.9–19.5% | 17.7–19.7% | 17.5–19.9% | 17.1–20.3% |
+| [5–10 October 2022](2022-10-10-SWG.html) | SWG <br> La7 | 17.5% | N/A | N/A | N/A | N/A |
+| [8 October 2022](2022-10-08-DemosPi.html) | Demos & Pi <br> La Repubblica | 17.8% | N/A | N/A | N/A | N/A |
+| [5–6 October 2022](2022-10-06-TermometroPolitico.html) | Termometro Politico | 18.7% | N/A | N/A | N/A | N/A |
+| [28 September–3 October 2022](2022-10-03-SWG.html) | SWG <br> La7 | 18.1% | N/A | N/A | N/A | N/A |
+| [29 September 2022](2022-09-29-Euromedia.html) | Euromedia <br> Rai 1 | 19.0% | N/A | N/A | N/A | N/A |
 | [6–9 September 2022](2022-09-09-SWG.html) | SWG <br> La7 | 20.4% | 19.0–22.0% | 18.6–22.4% | 18.2–22.8% | 17.6–23.6% |
 | [7–9 September 2022](2022-09-09-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 21.2% | 19.6–22.9% | 19.2–23.4% | 18.8–23.9% | 18.0–24.7% |
 | [9 September 2022](2022-09-09-Piepoli.html) | Piepoli | 21.6% | 19.4–24.1% | 18.7–24.8% | 18.2–25.4% | 17.2–26.7% |
@@ -1095,20 +1106,22 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0.1% | 100% |  |
-| 16.5–17.5% | 0.6% | 99.9% |  |
-| 17.5–18.5% | 3% | 99.3% |  |
-| 18.5–19.5% | 8% | 96% |  |
-| 19.5–20.5% | 15% | 88% |  |
-| 20.5–21.5% | 22% | 73% |  |
-| 21.5–22.5% | 26% | 51% | Median |
-| 22.5–23.5% | 16% | 26% |  |
-| 23.5–24.5% | 6% | 10% |  |
-| 24.5–25.5% | 2% | 4% |  |
-| 25.5–26.5% | 1.1% | 2% |  |
-| 26.5–27.5% | 0.4% | 0.5% |  |
-| 27.5–28.5% | 0.1% | 0.1% |  |
+| 12.5–13.5% | 0% | 100% |  |
+| 13.5–14.5% | 0.3% | 100% |  |
+| 14.5–15.5% | 3% | 99.7% |  |
+| 15.5–16.5% | 11% | 97% |  |
+| 16.5–17.5% | 23% | 87% |  |
+| 17.5–18.5% | 32% | 64% | Median |
+| 18.5–19.5% | 24% | 32% |  |
+| 19.5–20.5% | 6% | 8% |  |
+| 20.5–21.5% | 1.2% | 1.4% |  |
+| 21.5–22.5% | 0.2% | 0.2% |  |
+| 22.5–23.5% | 0% | 0% |  |
+| 23.5–24.5% | 0% | 0% |  |
+| 24.5–25.5% | 0% | 0% |  |
+| 25.5–26.5% | 0% | 0% |  |
+| 26.5–27.5% | 0% | 0% |  |
+| 27.5–28.5% | 0% | 0% |  |
 | 28.5–29.5% | 0% | 0% |  |
 | 29.5–30.5% | 0% | 0% |  |
 | 30.5–31.5% | 0% | 0% |  |
@@ -1132,7 +1145,18 @@ Last result: **31** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 15–19 | 15–20 | 14–21 | 14–22 |
+| N/A | [Poll Average](average.html) | 14 | 13–16 | 12–16 | 12–16 | 11–17 |
+| [12–17 October 2022](2022-10-17-SWG.html) | SWG <br> La7 | 13 | 12–16 | 11–16 | 11–16 | 11–16 |
+| [17 October 2022](2022-10-17-EMG.html) | EMG <br> Rai 3 | 15 | 14–16 | 14–16 | 13–16 | 13–17 |
+| [16 October 2022](2022-10-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 14 | 13–15 | 12–16 | 12–16 | 12–17 |
+| [14–15 October 2022](2022-10-15-Euromedia.html) | Euromedia | 14 | 13–14 | 12–14 | 12–15 | 11–16 |
+| [8–14 October 2022](2022-10-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 13 | 12–15 | 12–16 | 11–16 | 11–17 |
+| [11–13 October 2022](2022-10-13-TermometroPolitico.html) | Termometro Politico | 15 | 14–16 | 14–16 | 14–16 | 14–17 |
+| [5–10 October 2022](2022-10-10-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [8 October 2022](2022-10-08-DemosPi.html) | Demos & Pi <br> La Repubblica |  |  |  |  |  |
+| [5–6 October 2022](2022-10-06-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [28 September–3 October 2022](2022-10-03-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [29 September 2022](2022-09-29-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
 | [6–9 September 2022](2022-09-09-SWG.html) | SWG <br> La7 | 17 | 15–18 | 15–19 | 14–19 | 14–19 |
 | [7–9 September 2022](2022-09-09-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 17 | 16–19 | 16–19 | 15–20 | 15–21 |
 | [9 September 2022](2022-09-09-Piepoli.html) | Piepoli | 17 | 15–20 | 15–20 | 14–21 | 14–22 |
@@ -2219,17 +2243,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 13 | 0.3% | 100% |  |
-| 14 | 2% | 99.7% |  |
-| 15 | 9% | 97% |  |
-| 16 | 19% | 89% |  |
-| 17 | 28% | 70% | Median |
-| 18 | 20% | 42% |  |
-| 19 | 14% | 22% |  |
-| 20 | 5% | 8% |  |
-| 21 | 2% | 3% |  |
-| 22 | 1.0% | 1.1% |  |
-| 23 | 0.1% | 0.1% |  |
+| 11 | 2% | 100% |  |
+| 12 | 8% | 98% |  |
+| 13 | 19% | 90% |  |
+| 14 | 29% | 71% | Median |
+| 15 | 25% | 43% |  |
+| 16 | 17% | 18% |  |
+| 17 | 0.9% | 0.9% |  |
+| 18 | 0% | 0% |  |
+| 19 | 0% | 0% |  |
+| 20 | 0% | 0% |  |
+| 21 | 0% | 0% |  |
+| 22 | 0% | 0% |  |
+| 23 | 0% | 0% |  |
 | 24 | 0% | 0% |  |
 | 25 | 0% | 0% |  |
 | 26 | 0% | 0% |  |

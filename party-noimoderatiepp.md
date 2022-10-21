@@ -10,7 +10,18 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.3% | 0.6–2.9% | 0.5–3.3% | 0.4–3.6% | 0.3–4.1% |
+| N/A | [Poll Average](average.html) | 1.0% | 0.6–1.5% | 0.5–1.6% | 0.4–1.8% | 0.3–2.1% |
+| [12–17 October 2022](2022-10-17-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [17 October 2022](2022-10-17-EMG.html) | EMG <br> Rai 3 | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% |
+| [16 October 2022](2022-10-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
+| [14–15 October 2022](2022-10-15-Euromedia.html) | Euromedia | 1.1% | 0.8–1.7% | 0.7–1.8% | 0.6–2.0% | 0.5–2.3% |
+| [8–14 October 2022](2022-10-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 0.7% | 0.5–1.2% | 0.4–1.3% | 0.3–1.4% | 0.2–1.7% |
+| [11–13 October 2022](2022-10-13-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
+| [5–10 October 2022](2022-10-10-SWG.html) | SWG <br> La7 | 1.0% | N/A | N/A | N/A | N/A |
+| [8 October 2022](2022-10-08-DemosPi.html) | Demos & Pi <br> La Repubblica | 0.0% | N/A | N/A | N/A | N/A |
+| [5–6 October 2022](2022-10-06-TermometroPolitico.html) | Termometro Politico | 0.7% | N/A | N/A | N/A | N/A |
+| [28 September–3 October 2022](2022-10-03-SWG.html) | SWG <br> La7 | 1.2% | N/A | N/A | N/A | N/A |
+| [29 September 2022](2022-09-29-Euromedia.html) | Euromedia <br> Rai 1 | 0.9% | N/A | N/A | N/A | N/A |
 | [6–9 September 2022](2022-09-09-SWG.html) | SWG <br> La7 | 1.4% | 1.1–2.0% | 1.0–2.1% | 0.9–2.3% | 0.7–2.6% |
 | [7–9 September 2022](2022-09-09-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 1.1% | 0.8–1.7% | 0.7–1.8% | 0.6–2.0% | 0.5–2.3% |
 | [9 September 2022](2022-09-09-Piepoli.html) | Piepoli | 2.0% | 1.4–3.1% | 1.2–3.4% | 1.1–3.6% | 0.9–4.2% |
@@ -1095,13 +1106,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 8% | 100% | Last Result |
-| 0.5–1.5% | 53% | 92% | Median |
-| 1.5–2.5% | 24% | 39% |  |
-| 2.5–3.5% | 13% | 16% |  |
-| 3.5–4.5% | 3% | 3% |  |
-| 4.5–5.5% | 0.1% | 0.1% |  |
-| 5.5–6.5% | 0% | 0% |  |
+| 0.0–0.5% | 6% | 100% | Last Result |
+| 0.5–1.5% | 87% | 94% | Median |
+| 1.5–2.5% | 7% | 7% |  |
+| 2.5–3.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -1112,7 +1120,18 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–4 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [12–17 October 2022](2022-10-17-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [17 October 2022](2022-10-17-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
+| [16 October 2022](2022-10-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
+| [14–15 October 2022](2022-10-15-Euromedia.html) | Euromedia | 0 | 0 | 0 | 0 | 0 |
+| [8–14 October 2022](2022-10-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 0 | 0 | 0 | 0 | 0 |
+| [11–13 October 2022](2022-10-13-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [5–10 October 2022](2022-10-10-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [8 October 2022](2022-10-08-DemosPi.html) | Demos & Pi <br> La Repubblica |  |  |  |  |  |
+| [5–6 October 2022](2022-10-06-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [28 September–3 October 2022](2022-10-03-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [29 September 2022](2022-09-29-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
 | [6–9 September 2022](2022-09-09-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [7–9 September 2022](2022-09-09-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0 | 0 | 0 |
 | [9 September 2022](2022-09-09-Piepoli.html) | Piepoli | 0 | 0 | 0 | 0 | 0–4 |
@@ -2199,11 +2218,6 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.0% | 100% | Last Result, Median |
-| 1 | 0% | 1.0% |  |
-| 2 | 0% | 1.0% |  |
-| 3 | 0.3% | 1.0% |  |
-| 4 | 0.7% | 0.7% |  |
-| 5 | 0% | 0% |  |
+| 0 | 100% | 100% | Last Result, Median |
 
 
