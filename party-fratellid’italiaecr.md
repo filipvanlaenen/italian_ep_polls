@@ -1152,7 +1152,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [16 October 2022](2022-10-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 23 | 21–24 | 21–26 | 20–26 | 19–27 |
 | [14–15 October 2022](2022-10-15-Euromedia.html) | Euromedia | 22 | 22–23 | 21–24 | 21–25 | 20–25 |
 | [8–14 October 2022](2022-10-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 23 | 21–25 | 21–25 | 21–25 | 19–26 |
-| [11–13 October 2022](2022-10-13-TermometroPolitico.html) | Termometro Politico | 24 | 22–25 | 22–25 | 22–25 | 22–26 |
+| [11–13 October 2022](2022-10-13-TermometroPolitico.html) | Termometro Politico | 24 | 22–25 | 22–25 | 22–26 | 22–26 |
 | [5–10 October 2022](2022-10-10-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [8 October 2022](2022-10-08-DemosPi.html) | Demos & Pi <br> La Repubblica |  |  |  |  |  |
 | [5–6 October 2022](2022-10-06-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
@@ -2266,11 +2266,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 0.3% | 100% |  |
 | 20 | 2% | 99.7% |  |
 | 21 | 8% | 98% |  |
-| 22 | 26% | 90% |  |
-| 23 | 20% | 64% | Median |
-| 24 | 22% | 44% |  |
-| 25 | 19% | 23% |  |
-| 26 | 3% | 3% |  |
+| 22 | 27% | 90% |  |
+| 23 | 23% | 63% | Median |
+| 24 | 27% | 40% |  |
+| 25 | 9% | 13% |  |
+| 26 | 4% | 4% |  |
 | 27 | 0.2% | 0.3% |  |
 | 28 | 0% | 0% |  |
 
