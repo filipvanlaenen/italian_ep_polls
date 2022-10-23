@@ -10,7 +10,8 @@ Last result: **6.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.5% | 7.5–9.6% | 7.2–10.0% | 6.9–10.3% | 6.4–11.0% |
+| N/A | [Poll Average](average.html) | 8.6% | 7.5–9.6% | 7.2–10.0% | 6.9–10.3% | 6.4–11.0% |
+| [18–20 October 2022](2022-10-20-TermometroPolitico.html) | Termometro Politico | 8.7% | 8.1–9.4% | 7.9–9.5% | 7.8–9.7% | 7.5–10.0% |
 | [12–17 October 2022](2022-10-17-SWG.html) | SWG <br> La7 | 8.5% | 7.5–9.6% | 7.3–9.9% | 7.0–10.2% | 6.6–10.8% |
 | [17 October 2022](2022-10-17-EMG.html) | EMG <br> Rai 3 | 8.5% | 7.7–9.4% | 7.4–9.7% | 7.2–10.0% | 6.8–10.4% |
 | [16 October 2022](2022-10-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 8.5% | 7.5–9.7% | 7.2–10.1% | 6.9–10.4% | 6.4–11.0% |
@@ -1109,8 +1110,8 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0.9% | 100% | Last Result |
 | 6.5–7.5% | 10% | 99.1% |  |
-| 7.5–8.5% | 39% | 89% |  |
-| 8.5–9.5% | 38% | 49% | Median |
+| 7.5–8.5% | 38% | 89% |  |
+| 8.5–9.5% | 39% | 50% | Median |
 | 9.5–10.5% | 10% | 11% |  |
 | 10.5–11.5% | 1.3% | 1.4% |  |
 | 11.5–12.5% | 0.1% | 0.1% |  |
@@ -1126,6 +1127,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
+| [18–20 October 2022](2022-10-20-TermometroPolitico.html) | Termometro Politico | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
 | [12–17 October 2022](2022-10-17-SWG.html) | SWG <br> La7 | 7 | 6–8 | 6–8 | 6–9 | 5–10 |
 | [17 October 2022](2022-10-17-EMG.html) | EMG <br> Rai 3 | 8 | 7–8 | 7–8 | 6–8 | 6–9 |
 | [16 October 2022](2022-10-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
@@ -2225,9 +2227,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 1.5% | 100% | Last Result |
 | 6 | 16% | 98% |  |
-| 7 | 47% | 83% | Median |
-| 8 | 31% | 36% |  |
-| 9 | 4% | 5% |  |
+| 7 | 50% | 83% | Median |
+| 8 | 28% | 33% |  |
+| 9 | 5% | 5% |  |
 | 10 | 0.3% | 0.3% |  |
 | 11 | 0% | 0% |  |
 
