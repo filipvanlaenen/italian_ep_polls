@@ -1,4 +1,4 @@
-# Unione Popolare (GUE/NGL)
+# Italia Sovrana e Popolare (NI)
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a></p>
 
@@ -10,90 +10,90 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.7% | 1.3–2.1% | 1.2–2.2% | 1.1–2.4% | 0.9–2.6% |
-| [8–10 November 2022](2022-11-10-TermometroPolitico.html) | Termometro Politico | 1.8% | 1.6–2.1% | 1.5–2.2% | 1.4–2.3% | 1.3–2.4% |
-| [2–7 November 2022](2022-11-07-SWG.html) | SWG <br> La7 | 1.6% | 1.2–2.2% | 1.1–2.3% | 1.0–2.5% | 0.9–2.8% |
-| [7 November 2022](2022-11-07-EMG.html) | EMG <br> Rai 3 | 1.6% | 1.3–2.1% | 1.2–2.3% | 1.1–2.4% | 0.9–2.7% |
+| N/A | [Poll Average](average.html) | 1.4% | 1.2–1.7% | 1.1–1.7% | 1.1–1.8% | 1.0–2.0% |
+| [8–10 November 2022](2022-11-10-TermometroPolitico.html) | Termometro Politico | 1.4% | 1.2–1.7% | 1.1–1.8% | 1.1–1.8% | 1.0–2.0% |
+| [2–7 November 2022](2022-11-07-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [7 November 2022](2022-11-07-EMG.html) | EMG <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
 | [4 November 2022](2022-11-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
-| [1–3 November 2022](2022-11-03-TermometroPolitico.html) | Termometro Politico | 1.6% | N/A | N/A | N/A | N/A |
+| [1–3 November 2022](2022-11-03-TermometroPolitico.html) | Termometro Politico | 1.4% | N/A | N/A | N/A | N/A |
 | [2–3 November 2022](2022-11-03-Euromedia.html) | Euromedia | 0.0% | N/A | N/A | N/A | N/A |
-| [26–31 October 2022](2022-10-31-SWG.html) | SWG <br> La7 | 1.4% | 1.1–2.0% | 1.0–2.1% | 0.9–2.3% | 0.7–2.6% |
+| [26–31 October 2022](2022-10-31-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [28 October 2022](2022-10-28-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
-| [28 October 2022](2022-10-28-EMG.html) | EMG <br> Rai 3 | 1.4% | 1.1–1.9% | 1.0–2.0% | 0.9–2.1% | 0.8–2.4% |
-| [25–27 October 2022](2022-10-27-TermometroPolitico.html) | Termometro Politico | 1.6% | 1.4–1.9% | 1.3–2.0% | 1.2–2.0% | 1.1–2.2% |
-| [25–27 October 2022](2022-10-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 2.1% | N/A | N/A | N/A | N/A |
+| [28 October 2022](2022-10-28-EMG.html) | EMG <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
+| [25–27 October 2022](2022-10-27-TermometroPolitico.html) | Termometro Politico | 1.4% | 1.2–1.7% | 1.1–1.8% | 1.1–1.8% | 1.0–2.0% |
+| [25–27 October 2022](2022-10-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 1.0% | N/A | N/A | N/A | N/A |
 | [26 October 2022](2022-10-26-ProgerIndex.html) | Proger Index <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [26 October 2022](2022-10-26-Piepoli.html) | Piepoli | 0.0% | N/A | N/A | N/A | N/A |
 | [26 October 2022](2022-10-26-Euromedia.html) | Euromedia <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
-| [19–24 October 2022](2022-10-24-SWG.html) | SWG <br> La7 | 1.2% | N/A | N/A | N/A | N/A |
+| [19–24 October 2022](2022-10-24-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [21 October 2022](2022-10-21-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
-| [18–20 October 2022](2022-10-20-TermometroPolitico.html) | Termometro Politico | 1.5% | N/A | N/A | N/A | N/A |
-| [20 October 2022](2022-10-20-EMG.html) | EMG <br> Rai 3 | 1.3% | N/A | N/A | N/A | N/A |
-| [20 October 2022](2022-10-20-BiDiMedia.html) | BiDiMedia | 1.3% | N/A | N/A | N/A | N/A |
-| [12–17 October 2022](2022-10-17-SWG.html) | SWG <br> La7 | 1.1% | 0.8–1.6% | 0.7–1.7% | 0.6–1.8% | 0.5–2.1% |
-| [17 October 2022](2022-10-17-EMG.html) | EMG <br> Rai 3 | 1.2% | 0.9–1.6% | 0.8–1.7% | 0.7–1.8% | 0.6–2.1% |
+| [18–20 October 2022](2022-10-20-TermometroPolitico.html) | Termometro Politico | 1.3% | N/A | N/A | N/A | N/A |
+| [20 October 2022](2022-10-20-EMG.html) | EMG <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
+| [20 October 2022](2022-10-20-BiDiMedia.html) | BiDiMedia | 1.0% | N/A | N/A | N/A | N/A |
+| [12–17 October 2022](2022-10-17-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [17 October 2022](2022-10-17-EMG.html) | EMG <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
 | [16 October 2022](2022-10-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
 | [14–15 October 2022](2022-10-15-Euromedia.html) | Euromedia | 0.0% | N/A | N/A | N/A | N/A |
 | [8–14 October 2022](2022-10-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 0.0% | N/A | N/A | N/A | N/A |
 | [11–13 October 2022](2022-10-13-TermometroPolitico.html) | Termometro Politico | 1.4% | N/A | N/A | N/A | N/A |
 | [5–10 October 2022](2022-10-10-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [8 October 2022](2022-10-08-DemosPi.html) | Demos & Pi <br> La Repubblica | 0.0% | N/A | N/A | N/A | N/A |
-| [5–6 October 2022](2022-10-06-TermometroPolitico.html) | Termometro Politico | 1.4% | N/A | N/A | N/A | N/A |
+| [5–6 October 2022](2022-10-06-TermometroPolitico.html) | Termometro Politico | 1.3% | N/A | N/A | N/A | N/A |
 | [28 September–3 October 2022](2022-10-03-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [28 September 2022](2022-09-28-Euromedia.html) | Euromedia <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
-| [6–9 September 2022](2022-09-09-SWG.html) | SWG <br> La7 | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.6–1.8% | 0.5–2.0% |
-| [7–9 September 2022](2022-09-09-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
+| [6–9 September 2022](2022-09-09-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [7–9 September 2022](2022-09-09-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.0% | N/A | N/A | N/A | N/A |
 | [9 September 2022](2022-09-09-Piepoli.html) | Piepoli | 0.0% | N/A | N/A | N/A | N/A |
 | [6–9 September 2022](2022-09-09-Lab2101.html) | Lab2101 <br> Affari Italiani | 0.0% | N/A | N/A | N/A | N/A |
-| [8–9 September 2022](2022-09-09-BiDiMedia.html) | BiDiMedia | 1.2% | 1.0–1.5% | 0.9–1.6% | 0.9–1.7% | 0.8–1.8% |
-| [6–8 September 2022](2022-09-08-TermometroPolitico.html) | Termometro Politico | 1.7% | 1.5–2.0% | 1.4–2.1% | 1.4–2.1% | 1.2–2.3% |
+| [8–9 September 2022](2022-09-09-BiDiMedia.html) | BiDiMedia | 0.0% | N/A | N/A | N/A | N/A |
+| [6–8 September 2022](2022-09-08-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
 | [6–8 September 2022](2022-09-08-Tecnè.html) | Tecnè <br> Canale 5 | 0.0% | N/A | N/A | N/A | N/A |
-| [7–8 September 2022](2022-09-08-IZI.html) | IZI | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
+| [7–8 September 2022](2022-09-08-IZI.html) | IZI | 0.0% | N/A | N/A | N/A | N/A |
 | [6–7 September 2022](2022-09-07-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
-| [6–7 September 2022](2022-09-07-IndexResearch.html) | Index Research | 1.0% | 0.7–1.6% | 0.6–1.8% | 0.5–2.0% | 0.4–2.3% |
+| [6–7 September 2022](2022-09-07-IndexResearch.html) | Index Research | 0.0% | N/A | N/A | N/A | N/A |
 | [3–7 September 2022](2022-09-07-Hokuto.html) | Hokuto | 0.0% | N/A | N/A | N/A | N/A |
 | [7 September 2022](2022-09-07-GDC.html) | GDC | 0.0% | N/A | N/A | N/A | N/A |
 | [7 September 2022](2022-09-07-Euromedia.html) | Euromedia | 0.0% | N/A | N/A | N/A | N/A |
 | [5–7 September 2022](2022-09-07-EMG.html) | EMG | 0.0% | N/A | N/A | N/A | N/A |
 | [5–7 September 2022](2022-09-07-DemosPi.html) | Demos & Pi <br> La Repubblica | 0.0% | N/A | N/A | N/A | N/A |
 | [5–7 September 2022](2022-09-07-Demopolis.html) | Demopolis | 0.0% | N/A | N/A | N/A | N/A |
-| [4–7 September 2022](2022-09-07-BiDiMedia.html) | BiDiMedia <br> Fanpage.it | 1.3% | N/A | N/A | N/A | N/A |
-| [4–6 September 2022](2022-09-06-Ipsos.html) | Ipsos <br> Corriere della Sera | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
-| [5–6 September 2022](2022-09-06-BiDiMedia.html) | BiDiMedia | 1.5% | N/A | N/A | N/A | N/A |
+| [4–7 September 2022](2022-09-07-BiDiMedia.html) | BiDiMedia <br> Fanpage.it | 0.0% | N/A | N/A | N/A | N/A |
+| [4–6 September 2022](2022-09-06-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.0% | N/A | N/A | N/A | N/A |
+| [5–6 September 2022](2022-09-06-BiDiMedia.html) | BiDiMedia | 0.0% | N/A | N/A | N/A | N/A |
 | [1–5 September 2022](2022-09-05-Tecnè.html) | Tecnè <br> Canale 5 | 0.0% | N/A | N/A | N/A | N/A |
-| [31 August–5 September 2022](2022-09-05-SWG.html) | SWG <br> La7 | 1.2% | N/A | N/A | N/A | N/A |
-| [4–5 September 2022](2022-09-05-Ipsos.html) | Ipsos | 0.7% | N/A | N/A | N/A | N/A |
-| [5 September 2022](2022-09-05-EMG.html) | EMG | 1.1% | N/A | N/A | N/A | N/A |
+| [31 August–5 September 2022](2022-09-05-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [4–5 September 2022](2022-09-05-Ipsos.html) | Ipsos | 0.0% | N/A | N/A | N/A | N/A |
+| [5 September 2022](2022-09-05-EMG.html) | EMG | 0.0% | N/A | N/A | N/A | N/A |
 | [31 August–5 September 2022](2022-09-05-CISE.html) | CISE | 0.0% | N/A | N/A | N/A | N/A |
-| [2–4 September 2022](2022-09-04-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 1.2% | N/A | N/A | N/A | N/A |
-| [31 August–4 September 2022](2022-09-04-GPF.html) | GPF | 0.8% | 0.6–1.1% | 0.6–1.1% | 0.5–1.2% | 0.5–1.3% |
+| [2–4 September 2022](2022-09-04-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.0% | N/A | N/A | N/A | N/A |
+| [31 August–4 September 2022](2022-09-04-GPF.html) | GPF | 0.0% | N/A | N/A | N/A | N/A |
 | [29 August–2 September 2022](2022-09-02-Lab2101.html) | Lab2101 <br> Affari Italiani | 0.0% | N/A | N/A | N/A | N/A |
 | [29 August–2 September 2022](2022-09-02-Ixè.html) | Ixè | 0.0% | N/A | N/A | N/A | N/A |
 | [1–2 September 2022](2022-09-02-Demopolis.html) | Demopolis | 0.0% | N/A | N/A | N/A | N/A |
-| [31 August–1 September 2022](2022-09-01-TermometroPolitico.html) | Termometro Politico | 1.5% | N/A | N/A | N/A | N/A |
+| [31 August–1 September 2022](2022-09-01-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
 | [30–31 August 2022](2022-08-31-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
-| [30–31 August 2022](2022-08-31-IZI.html) | IZI | 1.4% | 1.1–2.1% | 1.0–2.2% | 0.9–2.4% | 0.7–2.7% |
+| [30–31 August 2022](2022-08-31-IZI.html) | IZI | 0.0% | N/A | N/A | N/A | N/A |
 | [30 August 2022](2022-08-30-Piepoli.html) | Piepoli | 0.0% | N/A | N/A | N/A | N/A |
-| [29–30 August 2022](2022-08-30-Ipsos.html) | Ipsos <br> Corriere della Sera | 1.1% | 0.8–1.7% | 0.7–1.8% | 0.6–2.0% | 0.5–2.3% |
+| [29–30 August 2022](2022-08-30-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.0% | N/A | N/A | N/A | N/A |
 | [29–30 August 2022](2022-08-30-Euromedia.html) | Euromedia <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
-| [29–30 August 2022](2022-08-30-BiDiMedia.html) | BiDiMedia | 1.3% | 1.0–1.9% | 0.9–2.0% | 0.8–2.1% | 0.7–2.4% |
+| [29–30 August 2022](2022-08-30-BiDiMedia.html) | BiDiMedia | 0.0% | N/A | N/A | N/A | N/A |
 | [26–29 August 2022](2022-08-29-Tecnè.html) | Tecnè | 0.0% | N/A | N/A | N/A | N/A |
 | [24–29 August 2022](2022-08-29-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
-| [29 August 2022](2022-08-29-EMG.html) | EMG <br> Rai 3 | 1.2% | 0.9–1.6% | 0.8–1.8% | 0.7–1.9% | 0.6–2.1% |
+| [29 August 2022](2022-08-29-EMG.html) | EMG <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
 | [25–28 August 2022](2022-08-28-GDC.html) | GDC | 0.0% | N/A | N/A | N/A | N/A |
-| [24–27 August 2022](2022-08-27-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 1.2% | 0.9–1.8% | 0.8–1.9% | 0.7–2.1% | 0.5–2.4% |
-| [24–25 August 2022](2022-08-25-TermometroPolitico.html) | Termometro Politico | 1.5% | 1.3–1.8% | 1.2–1.8% | 1.2–1.9% | 1.1–2.0% |
+| [24–27 August 2022](2022-08-27-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.0% | N/A | N/A | N/A | N/A |
+| [24–25 August 2022](2022-08-25-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
 | [25 August 2022](2022-08-25-Piepoli.html) | Piepoli <br> RaiNews24 | 0.0% | N/A | N/A | N/A | N/A |
-| [25 August 2022](2022-08-25-BiDiMedia.html) | BiDiMedia | 0.9% | N/A | N/A | N/A | N/A |
+| [25 August 2022](2022-08-25-BiDiMedia.html) | BiDiMedia | 0.0% | N/A | N/A | N/A | N/A |
 | [23–24 August 2022](2022-08-24-Tecnè.html) | Tecnè | 0.0% | N/A | N/A | N/A | N/A |
 | [22–24 August 2022](2022-08-24-Demopolis.html) | Demopolis | 0.0% | N/A | N/A | N/A | N/A |
 | [10–23 August 2022](2022-08-23-Lab2101.html) | Lab2101 <br> Affari Italiani | 0.0% | N/A | N/A | N/A | N/A |
 | [20 August 2022](2022-08-20-NotoSondaggi.html) | Noto Sondaggi | 0.0% | N/A | N/A | N/A | N/A |
 | [13–20 August 2022](2022-08-20-Lab2101.html) | Lab2101 <br> Affari Italiani | 0.0% | N/A | N/A | N/A | N/A |
 | [19 August 2022](2022-08-19-Piepoli.html) | Piepoli | 0.0% | N/A | N/A | N/A | N/A |
-| [16–18 August 2022](2022-08-18-TermometroPolitico.html) | Termometro Politico | 1.5% | N/A | N/A | N/A | N/A |
+| [16–18 August 2022](2022-08-18-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
 | [17–18 August 2022](2022-08-18-Tecnè.html) | Tecnè | 0.0% | N/A | N/A | N/A | N/A |
-| [17–18 August 2022](2022-08-18-BiDiMedia.html) | BiDiMedia | 0.9% | N/A | N/A | N/A | N/A |
+| [17–18 August 2022](2022-08-18-BiDiMedia.html) | BiDiMedia | 0.0% | N/A | N/A | N/A | N/A |
 | [17 August 2022](2022-08-17-NotoSondaggi.html) | Noto Sondaggi | 0.0% | N/A | N/A | N/A | N/A |
 | [11–14 August 2022](2022-08-14-GDC.html) | GDC | 0.0% | N/A | N/A | N/A | N/A |
 | [6–12 August 2022](2022-08-12-Lab2101.html) | Lab2101 <br> Affari Italiani | 0.0% | N/A | N/A | N/A | N/A |
@@ -101,7 +101,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [10–11 August 2022](2022-08-11-Demopolis.html) | Demopolis | 0.0% | N/A | N/A | N/A | N/A |
 | [8–9 August 2022](2022-08-09-EMG.html) | EMG | 0.0% | N/A | N/A | N/A | N/A |
 | [3–8 August 2022](2022-08-08-SWG.html) | SWG | 0.0% | N/A | N/A | N/A | N/A |
-| [5–7 August 2022](2022-08-07-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.7% | N/A | N/A | N/A | N/A |
+| [5–7 August 2022](2022-08-07-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.0% | N/A | N/A | N/A | N/A |
 | [4–6 August 2022](2022-08-06-BiDiMedia.html) | BiDiMedia | 0.0% | N/A | N/A | N/A | N/A |
 | [5 August 2022](2022-08-05-Lab2101.html) | Lab2101 <br> Affari Italiani | 0.0% | N/A | N/A | N/A | N/A |
 | [4 August 2022](2022-08-04-Tecnè.html) | Tecnè | 0.0% | N/A | N/A | N/A | N/A |
@@ -1121,15 +1121,14 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 ### Probability Mass Function
 
-The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Unione Popolare (GUE/NGL).
+The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Italia Sovrana e Popolare (NI).
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 29% | 100% |  |
-| 1.5–2.5% | 70% | 71% | Median |
-| 2.5–3.5% | 0.9% | 0.9% |  |
-| 3.5–4.5% | 0% | 0% |  |
+| 0.5–1.5% | 76% | 100% | Median |
+| 1.5–2.5% | 24% | 24% |  |
+| 2.5–3.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -1142,14 +1141,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [8–10 November 2022](2022-11-10-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
-| [2–7 November 2022](2022-11-07-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
-| [7 November 2022](2022-11-07-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
+| [2–7 November 2022](2022-11-07-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [7 November 2022](2022-11-07-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [4 November 2022](2022-11-04-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [1–3 November 2022](2022-11-03-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [2–3 November 2022](2022-11-03-Euromedia.html) | Euromedia |  |  |  |  |  |
-| [26–31 October 2022](2022-10-31-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
+| [26–31 October 2022](2022-10-31-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [28 October 2022](2022-10-28-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
-| [28 October 2022](2022-10-28-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
+| [28 October 2022](2022-10-28-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [25–27 October 2022](2022-10-27-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [25–27 October 2022](2022-10-27-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
 | [26 October 2022](2022-10-26-ProgerIndex.html) | Proger Index <br> La7 |  |  |  |  |  |
@@ -1160,8 +1159,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [18–20 October 2022](2022-10-20-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [20 October 2022](2022-10-20-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [20 October 2022](2022-10-20-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
-| [12–17 October 2022](2022-10-17-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
-| [17 October 2022](2022-10-17-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
+| [12–17 October 2022](2022-10-17-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [17 October 2022](2022-10-17-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [16 October 2022](2022-10-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
 | [14–15 October 2022](2022-10-15-Euromedia.html) | Euromedia |  |  |  |  |  |
 | [8–14 October 2022](2022-10-14-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
@@ -1171,16 +1170,16 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [5–6 October 2022](2022-10-06-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [28 September–3 October 2022](2022-10-03-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [28 September 2022](2022-09-28-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
-| [6–9 September 2022](2022-09-09-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
-| [7–9 September 2022](2022-09-09-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0 | 0 | 0 |
+| [6–9 September 2022](2022-09-09-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [7–9 September 2022](2022-09-09-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
 | [9 September 2022](2022-09-09-Piepoli.html) | Piepoli |  |  |  |  |  |
 | [6–9 September 2022](2022-09-09-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
-| [8–9 September 2022](2022-09-09-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
-| [6–8 September 2022](2022-09-08-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
+| [8–9 September 2022](2022-09-09-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
+| [6–8 September 2022](2022-09-08-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [6–8 September 2022](2022-09-08-Tecnè.html) | Tecnè <br> Canale 5 |  |  |  |  |  |
-| [7–8 September 2022](2022-09-08-IZI.html) | IZI | 0 | 0 | 0 | 0 | 0 |
+| [7–8 September 2022](2022-09-08-IZI.html) | IZI |  |  |  |  |  |
 | [6–7 September 2022](2022-09-07-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
-| [6–7 September 2022](2022-09-07-IndexResearch.html) | Index Research | 0 | 0 | 0 | 0 | 0 |
+| [6–7 September 2022](2022-09-07-IndexResearch.html) | Index Research |  |  |  |  |  |
 | [3–7 September 2022](2022-09-07-Hokuto.html) | Hokuto |  |  |  |  |  |
 | [7 September 2022](2022-09-07-GDC.html) | GDC |  |  |  |  |  |
 | [7 September 2022](2022-09-07-Euromedia.html) | Euromedia |  |  |  |  |  |
@@ -1188,7 +1187,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [5–7 September 2022](2022-09-07-DemosPi.html) | Demos & Pi <br> La Repubblica |  |  |  |  |  |
 | [5–7 September 2022](2022-09-07-Demopolis.html) | Demopolis |  |  |  |  |  |
 | [4–7 September 2022](2022-09-07-BiDiMedia.html) | BiDiMedia <br> Fanpage.it |  |  |  |  |  |
-| [4–6 September 2022](2022-09-06-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
+| [4–6 September 2022](2022-09-06-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
 | [5–6 September 2022](2022-09-06-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
 | [1–5 September 2022](2022-09-05-Tecnè.html) | Tecnè <br> Canale 5 |  |  |  |  |  |
 | [31 August–5 September 2022](2022-09-05-SWG.html) | SWG <br> La7 |  |  |  |  |  |
@@ -1196,23 +1195,23 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [5 September 2022](2022-09-05-EMG.html) | EMG |  |  |  |  |  |
 | [31 August–5 September 2022](2022-09-05-CISE.html) | CISE |  |  |  |  |  |
 | [2–4 September 2022](2022-09-04-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
-| [31 August–4 September 2022](2022-09-04-GPF.html) | GPF | 0 | 0 | 0 | 0 | 0 |
+| [31 August–4 September 2022](2022-09-04-GPF.html) | GPF |  |  |  |  |  |
 | [29 August–2 September 2022](2022-09-02-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
 | [29 August–2 September 2022](2022-09-02-Ixè.html) | Ixè |  |  |  |  |  |
 | [1–2 September 2022](2022-09-02-Demopolis.html) | Demopolis |  |  |  |  |  |
 | [31 August–1 September 2022](2022-09-01-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [30–31 August 2022](2022-08-31-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
-| [30–31 August 2022](2022-08-31-IZI.html) | IZI | 0 | 0 | 0 | 0 | 0 |
+| [30–31 August 2022](2022-08-31-IZI.html) | IZI |  |  |  |  |  |
 | [30 August 2022](2022-08-30-Piepoli.html) | Piepoli |  |  |  |  |  |
-| [29–30 August 2022](2022-08-30-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
+| [29–30 August 2022](2022-08-30-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
 | [29–30 August 2022](2022-08-30-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
-| [29–30 August 2022](2022-08-30-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
+| [29–30 August 2022](2022-08-30-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
 | [26–29 August 2022](2022-08-29-Tecnè.html) | Tecnè |  |  |  |  |  |
 | [24–29 August 2022](2022-08-29-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [29 August 2022](2022-08-29-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
+| [29 August 2022](2022-08-29-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [25–28 August 2022](2022-08-28-GDC.html) | GDC |  |  |  |  |  |
-| [24–27 August 2022](2022-08-27-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0 | 0 | 0 |
-| [24–25 August 2022](2022-08-25-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
+| [24–27 August 2022](2022-08-27-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
+| [24–25 August 2022](2022-08-25-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [25 August 2022](2022-08-25-Piepoli.html) | Piepoli <br> RaiNews24 |  |  |  |  |  |
 | [25 August 2022](2022-08-25-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
 | [23–24 August 2022](2022-08-24-Tecnè.html) | Tecnè |  |  |  |  |  |
@@ -2251,9 +2250,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-unionepopolareguengl.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-italiasovranaepopolareni.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average.html) for Unione Popolare (GUE/NGL).
+The following table shows the probability mass function per seat for the [poll average](average.html) for Italia Sovrana e Popolare (NI).
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
