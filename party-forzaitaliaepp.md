@@ -10,7 +10,7 @@ Last result: **16.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.0% | 6.0–8.3% | 5.7–8.7% | 5.4–9.1% | 4.9–9.8% |
+| N/A | [Poll Average](average.html) | 7.0% | 5.9–8.6% | 5.6–9.1% | 5.3–9.5% | 4.8–10.4% |
 | [8–10 November 2022](2022-11-10-TermometroPolitico.html) | Termometro Politico | 6.6% | 6.1–7.1% | 6.0–7.3% | 5.9–7.4% | 5.6–7.7% |
 | [2–7 November 2022](2022-11-07-SWG.html) | SWG <br> La7 | 6.3% | 5.5–7.3% | 5.3–7.6% | 5.1–7.9% | 4.7–8.4% |
 | [7 November 2022](2022-11-07-EMG.html) | EMG <br> Rai 3 | 7.1% | 6.3–8.0% | 6.1–8.3% | 5.9–8.5% | 5.5–9.0% |
@@ -21,15 +21,15 @@ Last result: **16.8%** (General Election of 26 May 2019)
 | [28 October 2022](2022-10-28-Tecnè.html) | Tecnè <br> Agenzia Dire | 7.4% | 6.4–8.6% | 6.2–8.9% | 5.9–9.2% | 5.5–9.8% |
 | [28 October 2022](2022-10-28-EMG.html) | EMG <br> Rai 3 | 7.5% | 6.7–8.4% | 6.5–8.7% | 6.3–8.9% | 5.9–9.4% |
 | [25–27 October 2022](2022-10-27-TermometroPolitico.html) | Termometro Politico | 6.8% | 6.3–7.3% | 6.2–7.5% | 6.1–7.6% | 5.8–7.9% |
-| [25–27 October 2022](2022-10-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 6.1% | N/A | N/A | N/A | N/A |
-| [26 October 2022](2022-10-26-ProgerIndex.html) | Proger Index <br> La7 | 6.8% | N/A | N/A | N/A | N/A |
-| [26 October 2022](2022-10-26-Piepoli.html) | Piepoli | 7.9% | N/A | N/A | N/A | N/A |
-| [26 October 2022](2022-10-26-Euromedia.html) | Euromedia <br> Rai 1 | 6.8% | N/A | N/A | N/A | N/A |
+| [25–27 October 2022](2022-10-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 6.1% | 5.2–7.2% | 5.0–7.5% | 4.8–7.8% | 4.4–8.3% |
+| [26 October 2022](2022-10-26-ProgerIndex.html) | Proger Index <br> La7 | 6.8% | 5.7–8.0% | 5.4–8.4% | 5.2–8.7% | 4.8–9.4% |
+| [26 October 2022](2022-10-26-Piepoli.html) | Piepoli | 7.9% | 6.6–9.7% | 6.2–10.2% | 5.9–10.6% | 5.3–11.5% |
+| [26 October 2022](2022-10-26-Euromedia.html) | Euromedia <br> Rai 1 | 6.8% | 5.7–8.0% | 5.4–8.4% | 5.2–8.7% | 4.8–9.4% |
 | [19–24 October 2022](2022-10-24-SWG.html) | SWG <br> La7 | 6.2% | N/A | N/A | N/A | N/A |
 | [21 October 2022](2022-10-21-Tecnè.html) | Tecnè <br> Agenzia Dire | 7.6% | N/A | N/A | N/A | N/A |
 | [18–20 October 2022](2022-10-20-TermometroPolitico.html) | Termometro Politico | 7.0% | N/A | N/A | N/A | N/A |
 | [20 October 2022](2022-10-20-EMG.html) | EMG <br> Rai 3 | 7.6% | N/A | N/A | N/A | N/A |
-| [20 October 2022](2022-10-20-BiDiMedia.html) | BiDiMedia | 7.9% | N/A | N/A | N/A | N/A |
+| [20 October 2022](2022-10-20-BiDiMedia.html) | BiDiMedia | 7.9% | 6.8–9.3% | 6.5–9.7% | 6.2–10.1% | 5.7–10.8% |
 | [12–17 October 2022](2022-10-17-SWG.html) | SWG <br> La7 | 7.5% | 6.6–8.6% | 6.4–8.9% | 6.1–9.1% | 5.7–9.7% |
 | [17 October 2022](2022-10-17-EMG.html) | EMG <br> Rai 3 | 7.7% | 6.9–8.6% | 6.7–8.9% | 6.5–9.1% | 6.1–9.5% |
 | [16 October 2022](2022-10-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
@@ -1126,14 +1126,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.1% | 100% |  |
-| 4.5–5.5% | 4% | 99.9% |  |
-| 5.5–6.5% | 27% | 96% |  |
-| 6.5–7.5% | 42% | 69% | Median |
-| 7.5–8.5% | 21% | 28% |  |
-| 8.5–9.5% | 6% | 7% |  |
-| 9.5–10.5% | 0.8% | 0.9% |  |
-| 10.5–11.5% | 0.1% | 0.1% |  |
+| 3.5–4.5% | 0.2% | 100% |  |
+| 4.5–5.5% | 5% | 99.8% |  |
+| 5.5–6.5% | 26% | 95% |  |
+| 6.5–7.5% | 37% | 69% | Median |
+| 7.5–8.5% | 22% | 32% |  |
+| 8.5–9.5% | 8% | 10% |  |
+| 9.5–10.5% | 2% | 2% |  |
+| 10.5–11.5% | 0.3% | 0.4% |  |
 | 11.5–12.5% | 0% | 0% |  |
 | 12.5–13.5% | 0% | 0% |  |
 | 13.5–14.5% | 0% | 0% |  |
@@ -1150,7 +1150,7 @@ Last result: **13** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
+| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–8 | 4–8 | 4–9 |
 | [8–10 November 2022](2022-11-10-TermometroPolitico.html) | Termometro Politico | 6 | 6 | 5–6 | 5–7 | 5–7 |
 | [2–7 November 2022](2022-11-07-SWG.html) | SWG <br> La7 | 5 | 5–6 | 4–6 | 4–7 | 4–7 |
 | [7 November 2022](2022-11-07-EMG.html) | EMG <br> Rai 3 | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
@@ -1161,15 +1161,15 @@ Last result: **13** seats (General Election of 26 May 2019)
 | [28 October 2022](2022-10-28-Tecnè.html) | Tecnè <br> Agenzia Dire | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
 | [28 October 2022](2022-10-28-EMG.html) | EMG <br> Rai 3 | 7 | 6–7 | 6–7 | 5–7 | 5–8 |
 | [25–27 October 2022](2022-10-27-TermometroPolitico.html) | Termometro Politico | 6 | 6–7 | 6–7 | 6–7 | 5–7 |
-| [25–27 October 2022](2022-10-27-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
-| [26 October 2022](2022-10-26-ProgerIndex.html) | Proger Index <br> La7 |  |  |  |  |  |
-| [26 October 2022](2022-10-26-Piepoli.html) | Piepoli |  |  |  |  |  |
-| [26 October 2022](2022-10-26-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
+| [25–27 October 2022](2022-10-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 5 | 5–6 | 4–7 | 4–7 | 0–8 |
+| [26 October 2022](2022-10-26-ProgerIndex.html) | Proger Index <br> La7 | 6 | 5–6 | 4–7 | 4–7 | 4–8 |
+| [26 October 2022](2022-10-26-Piepoli.html) | Piepoli | 7 | 6–8 | 5–9 | 5–9 | 5–10 |
+| [26 October 2022](2022-10-26-Euromedia.html) | Euromedia <br> Rai 1 | 5 | 5–7 | 5–7 | 5–7 | 4–8 |
 | [19–24 October 2022](2022-10-24-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [21 October 2022](2022-10-21-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [18–20 October 2022](2022-10-20-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [20 October 2022](2022-10-20-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
-| [20 October 2022](2022-10-20-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
+| [20 October 2022](2022-10-20-BiDiMedia.html) | BiDiMedia | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
 | [12–17 October 2022](2022-10-17-SWG.html) | SWG <br> La7 | 6 | 6–7 | 5–8 | 5–8 | 5–8 |
 | [17 October 2022](2022-10-17-EMG.html) | EMG <br> Rai 3 | 6 | 6–7 | 6–8 | 6–8 | 5–8 |
 | [16 October 2022](2022-10-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 7 | 6–7 | 6–8 | 5–8 | 5–9 |
@@ -2267,13 +2267,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 2% | 100% |  |
-| 5 | 26% | 97% |  |
-| 6 | 51% | 72% | Median |
-| 7 | 18% | 21% |  |
-| 8 | 2% | 2% |  |
-| 9 | 0.2% | 0.2% |  |
-| 10 | 0% | 0% |  |
+| 0 | 0.1% | 100% |  |
+| 1 | 0% | 99.9% |  |
+| 2 | 0% | 99.9% |  |
+| 3 | 0% | 99.9% |  |
+| 4 | 3% | 99.9% |  |
+| 5 | 25% | 97% |  |
+| 6 | 45% | 71% | Median |
+| 7 | 21% | 27% |  |
+| 8 | 5% | 6% |  |
+| 9 | 0.7% | 0.7% |  |
+| 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |
 | 13 | 0% | 0% | Last Result |
