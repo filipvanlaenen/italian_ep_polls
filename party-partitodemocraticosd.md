@@ -10,8 +10,12 @@ Last result: **40.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.5% | 15.7–19.6% | 15.2–20.2% | 14.8–20.7% | 14.0–21.8% |
+| N/A | [Poll Average](average.html) | 17.4% | 15.6–19.5% | 15.2–20.2% | 14.7–20.7% | 14.0–21.8% |
+| [9–14 November 2022](2022-11-14-SWG.html) | SWG <br> La7 | 16.0% | 14.7–17.4% | 14.3–17.8% | 14.0–18.2% | 13.4–18.9% |
+| [12 November 2022](2022-11-12-DemosPi.html) | Demos & Pi <br> La Repubblica | 16.9% | 15.4–18.5% | 15.0–18.9% | 14.7–19.3% | 14.0–20.1% |
+| [11 November 2022](2022-11-11-Tecnè.html) | Tecnè <br> Agenzia Dire | 16.9% | 15.5–18.5% | 15.0–19.0% | 14.7–19.4% | 14.0–20.1% |
 | [8–10 November 2022](2022-11-10-TermometroPolitico.html) | Termometro Politico | 17.4% | 16.6–18.2% | 16.4–18.4% | 16.2–18.6% | 15.9–19.0% |
+| [10 November 2022](2022-11-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 18.5% | 17.0–20.2% | 16.6–20.6% | 16.2–21.0% | 15.5–21.8% |
 | [2–7 November 2022](2022-11-07-SWG.html) | SWG <br> La7 | 16.0% | 14.7–17.4% | 14.3–17.8% | 14.0–18.2% | 13.4–18.9% |
 | [7 November 2022](2022-11-07-EMG.html) | EMG <br> Rai 3 | 16.8% | 15.6–18.1% | 15.3–18.5% | 15.0–18.8% | 14.4–19.4% |
 | [4 November 2022](2022-11-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 17.1% | 15.7–18.7% | 15.2–19.2% | 14.9–19.6% | 14.2–20.4% |
@@ -1126,13 +1130,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 0.1% | 100% |  |
-| 13.5–14.5% | 1.4% | 99.8% |  |
-| 14.5–15.5% | 6% | 98% |  |
-| 15.5–16.5% | 16% | 92% |  |
-| 16.5–17.5% | 26% | 76% |  |
-| 17.5–18.5% | 25% | 50% | Median |
-| 18.5–19.5% | 15% | 25% |  |
+| 12.5–13.5% | 0.2% | 100% |  |
+| 13.5–14.5% | 2% | 99.8% |  |
+| 14.5–15.5% | 7% | 98% |  |
+| 15.5–16.5% | 17% | 91% |  |
+| 16.5–17.5% | 27% | 74% | Median |
+| 17.5–18.5% | 23% | 47% |  |
+| 18.5–19.5% | 14% | 24% |  |
 | 19.5–20.5% | 7% | 10% |  |
 | 20.5–21.5% | 2% | 3% |  |
 | 21.5–22.5% | 0.6% | 0.8% |  |
@@ -1165,8 +1169,12 @@ Last result: **31** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–15 | 12–16 | 11–16 | 10–18 |
+| N/A | [Poll Average](average.html) | 14 | 12–15 | 11–16 | 11–16 | 10–18 |
+| [9–14 November 2022](2022-11-14-SWG.html) | SWG <br> La7 | 13 | 11–14 | 11–14 | 10–15 | 10–15 |
+| [12 November 2022](2022-11-12-DemosPi.html) | Demos & Pi <br> La Repubblica | 13 | 11–14 | 11–14 | 11–15 | 10–16 |
+| [11 November 2022](2022-11-11-Tecnè.html) | Tecnè <br> Agenzia Dire | 13 | 12–14 | 11–14 | 11–15 | 10–16 |
 | [8–10 November 2022](2022-11-10-TermometroPolitico.html) | Termometro Politico | 14 | 14–15 | 13–15 | 13–15 | 13–16 |
+| [10 November 2022](2022-11-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 14 | 13–15 | 12–16 | 12–16 | 11–17 |
 | [2–7 November 2022](2022-11-07-SWG.html) | SWG <br> La7 | 13 | 11–14 | 11–14 | 10–14 | 10–15 |
 | [7 November 2022](2022-11-07-EMG.html) | EMG <br> Rai 3 | 13 | 12–14 | 12–15 | 12–15 | 12–16 |
 | [4 November 2022](2022-11-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 13 | 12–14 | 12–14 | 11–15 | 10–16 |
@@ -2282,13 +2290,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.7% | 100% |  |
-| 11 | 4% | 99.3% |  |
-| 12 | 11% | 95% |  |
-| 13 | 31% | 84% |  |
-| 14 | 28% | 53% | Median |
-| 15 | 17% | 25% |  |
-| 16 | 5% | 7% |  |
+| 10 | 0.8% | 100% |  |
+| 11 | 5% | 99.1% |  |
+| 12 | 15% | 94% |  |
+| 13 | 29% | 80% |  |
+| 14 | 27% | 50% | Median |
+| 15 | 17% | 23% |  |
+| 16 | 4% | 6% |  |
 | 17 | 2% | 2% |  |
 | 18 | 0.6% | 0.7% |  |
 | 19 | 0.1% | 0.1% |  |

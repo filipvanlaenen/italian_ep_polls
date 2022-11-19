@@ -11,7 +11,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.2% | 0.8–1.6% | 0.7–1.8% | 0.6–1.9% | 0.4–2.2% |
+| [9–14 November 2022](2022-11-14-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [12 November 2022](2022-11-12-DemosPi.html) | Demos & Pi <br> La Repubblica | 0.0% | N/A | N/A | N/A | N/A |
+| [11 November 2022](2022-11-11-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [8–10 November 2022](2022-11-10-TermometroPolitico.html) | Termometro Politico | 1.4% | 1.2–1.7% | 1.1–1.8% | 1.1–1.8% | 1.0–2.0% |
+| [10 November 2022](2022-11-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
 | [2–7 November 2022](2022-11-07-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [7 November 2022](2022-11-07-EMG.html) | EMG <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
 | [4 November 2022](2022-11-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
@@ -1141,7 +1145,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [9–14 November 2022](2022-11-14-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [12 November 2022](2022-11-12-DemosPi.html) | Demos & Pi <br> La Repubblica |  |  |  |  |  |
+| [11 November 2022](2022-11-11-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [8–10 November 2022](2022-11-10-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
+| [10 November 2022](2022-11-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
 | [2–7 November 2022](2022-11-07-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [7 November 2022](2022-11-07-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [4 November 2022](2022-11-04-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |

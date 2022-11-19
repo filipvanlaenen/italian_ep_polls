@@ -10,8 +10,12 @@ Last result: **21.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.7% | 15.1–18.4% | 14.6–18.9% | 14.2–19.3% | 13.4–20.2% |
+| N/A | [Poll Average](average.html) | 16.9% | 15.3–18.8% | 14.8–19.3% | 14.3–19.8% | 13.5–20.8% |
+| [9–14 November 2022](2022-11-14-SWG.html) | SWG <br> La7 | 17.0% | 15.7–18.5% | 15.3–18.9% | 15.0–19.2% | 14.4–20.0% |
+| [12 November 2022](2022-11-12-DemosPi.html) | Demos & Pi <br> La Repubblica | 17.3% | 15.8–18.9% | 15.4–19.4% | 15.1–19.8% | 14.4–20.5% |
+| [11 November 2022](2022-11-11-Tecnè.html) | Tecnè <br> Agenzia Dire | 17.1% | 15.7–18.7% | 15.2–19.2% | 14.9–19.6% | 14.2–20.4% |
 | [8–10 November 2022](2022-11-10-TermometroPolitico.html) | Termometro Politico | 16.5% | 15.8–17.3% | 15.5–17.5% | 15.4–17.7% | 15.0–18.1% |
+| [10 November 2022](2022-11-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 18.5% | 17.0–20.2% | 16.6–20.6% | 16.2–21.0% | 15.5–21.8% |
 | [2–7 November 2022](2022-11-07-SWG.html) | SWG <br> La7 | 16.8% | 15.5–18.3% | 15.1–18.7% | 14.8–19.1% | 14.2–19.8% |
 | [7 November 2022](2022-11-07-EMG.html) | EMG <br> Rai 3 | 17.5% | 16.3–18.9% | 16.0–19.2% | 15.7–19.6% | 15.1–20.2% |
 | [4 November 2022](2022-11-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 16.9% | 15.5–18.5% | 15.0–19.0% | 14.7–19.4% | 14.0–20.1% |
@@ -1125,18 +1129,18 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0.1% | 100% |  |
-| 12.5–13.5% | 0.7% | 99.9% |  |
-| 13.5–14.5% | 4% | 99.3% |  |
-| 14.5–15.5% | 13% | 95% |  |
-| 15.5–16.5% | 28% | 83% |  |
-| 16.5–17.5% | 29% | 55% | Median |
-| 17.5–18.5% | 17% | 26% |  |
-| 18.5–19.5% | 6% | 8% |  |
-| 19.5–20.5% | 1.5% | 2% |  |
-| 20.5–21.5% | 0.2% | 0.3% | Last Result |
-| 21.5–22.5% | 0% | 0% |  |
+| 12.5–13.5% | 0.5% | 99.9% |  |
+| 13.5–14.5% | 3% | 99.4% |  |
+| 14.5–15.5% | 10% | 96% |  |
+| 15.5–16.5% | 25% | 86% |  |
+| 16.5–17.5% | 29% | 61% | Median |
+| 17.5–18.5% | 20% | 33% |  |
+| 18.5–19.5% | 9% | 13% |  |
+| 19.5–20.5% | 3% | 4% |  |
+| 20.5–21.5% | 0.7% | 0.8% | Last Result |
+| 21.5–22.5% | 0.1% | 0.1% |  |
+| 22.5–23.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -1147,8 +1151,12 @@ Last result: **17** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 13–16 | 12–16 | 12–17 | 11–18 |
+| N/A | [Poll Average](average.html) | 14 | 13–16 | 12–16 | 12–17 | 11–17 |
+| [9–14 November 2022](2022-11-14-SWG.html) | SWG <br> La7 | 14 | 13–16 | 12–17 | 12–17 | 12–17 |
+| [12 November 2022](2022-11-12-DemosPi.html) | Demos & Pi <br> La Repubblica | 14 | 13–16 | 13–16 | 12–16 | 12–17 |
+| [11 November 2022](2022-11-11-Tecnè.html) | Tecnè <br> Agenzia Dire | 14 | 12–15 | 12–16 | 12–16 | 12–17 |
 | [8–10 November 2022](2022-11-10-TermometroPolitico.html) | Termometro Politico | 15 | 14–15 | 14–15 | 14–15 | 13–16 |
+| [10 November 2022](2022-11-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 15 | 14–16 | 13–17 | 13–17 | 12–18 |
 | [2–7 November 2022](2022-11-07-SWG.html) | SWG <br> La7 | 14 | 13–15 | 12–16 | 12–16 | 12–17 |
 | [7 November 2022](2022-11-07-EMG.html) | EMG <br> Rai 3 | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
 | [4 November 2022](2022-11-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 14 | 13–15 | 12–15 | 12–15 | 11–16 |
@@ -2264,15 +2272,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.2% | 100% |  |
-| 11 | 2% | 99.8% |  |
-| 12 | 7% | 98% |  |
-| 13 | 19% | 91% |  |
-| 14 | 32% | 72% | Median |
-| 15 | 29% | 40% |  |
-| 16 | 8% | 11% |  |
-| 17 | 2% | 3% | Last Result |
-| 18 | 1.1% | 1.2% |  |
+| 10 | 0.1% | 100% |  |
+| 11 | 1.1% | 99.9% |  |
+| 12 | 6% | 98.7% |  |
+| 13 | 16% | 92% |  |
+| 14 | 31% | 77% | Median |
+| 15 | 32% | 46% |  |
+| 16 | 11% | 14% |  |
+| 17 | 3% | 3% | Last Result |
+| 18 | 0.2% | 0.2% |  |
 | 19 | 0% | 0% |  |
 
 

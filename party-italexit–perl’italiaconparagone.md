@@ -10,8 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.3% | 1.7–3.0% | 1.5–3.3% | 1.3–3.5% | 1.1–3.9% |
+| N/A | [Poll Average](average.html) | 2.3% | 1.7–3.0% | 1.5–3.2% | 1.4–3.4% | 1.1–3.9% |
+| [9–14 November 2022](2022-11-14-SWG.html) | SWG <br> La7 | 2.1% | 1.6–2.7% | 1.5–2.9% | 1.4–3.1% | 1.2–3.4% |
+| [12 November 2022](2022-11-12-DemosPi.html) | Demos & Pi <br> La Repubblica | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
+| [11 November 2022](2022-11-11-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [8–10 November 2022](2022-11-10-TermometroPolitico.html) | Termometro Politico | 2.2% | 1.9–2.5% | 1.8–2.6% | 1.8–2.7% | 1.7–2.9% |
+| [10 November 2022](2022-11-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
 | [2–7 November 2022](2022-11-07-SWG.html) | SWG <br> La7 | 2.5% | 2.0–3.2% | 1.9–3.4% | 1.8–3.6% | 1.5–3.9% |
 | [7 November 2022](2022-11-07-EMG.html) | EMG <br> Rai 3 | 2.5% | 2.0–3.1% | 1.9–3.3% | 1.8–3.4% | 1.6–3.7% |
 | [4 November 2022](2022-11-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
@@ -1127,11 +1131,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 6% | 100% |  |
-| 1.5–2.5% | 62% | 94% | Median |
-| 2.5–3.5% | 30% | 31% |  |
+| 1.5–2.5% | 65% | 94% | Median |
+| 2.5–3.5% | 27% | 29% |  |
 | 3.5–4.5% | 2% | 2% |  |
 | 4.5–5.5% | 0% | 0% |  |
-| 5.5–6.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -1143,7 +1146,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [9–14 November 2022](2022-11-14-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
+| [12 November 2022](2022-11-12-DemosPi.html) | Demos & Pi <br> La Repubblica | 0 | 0 | 0 | 0 | 0 |
+| [11 November 2022](2022-11-11-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
 | [8–10 November 2022](2022-11-10-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
+| [10 November 2022](2022-11-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
 | [2–7 November 2022](2022-11-07-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [7 November 2022](2022-11-07-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [4 November 2022](2022-11-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
