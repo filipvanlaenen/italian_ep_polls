@@ -10,7 +10,12 @@ Last result: **40.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.4% | 15.6–19.5% | 15.2–20.2% | 14.7–20.7% | 14.0–21.8% |
+| N/A | [Poll Average](average.html) | 17.2% | 15.5–19.4% | 15.1–20.1% | 14.7–20.6% | 13.9–21.8% |
+| [16–21 November 2022](2022-11-21-SWG.html) | SWG <br> La7 | 16.2% | 14.9–17.6% | 14.5–18.0% | 14.2–18.4% | 13.6–19.1% |
+| [18 November 2022](2022-11-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 16.4% | 15.0–18.0% | 14.6–18.4% | 14.2–18.8% | 13.6–19.6% |
+| [15–17 November 2022](2022-11-17-TermometroPolitico.html) | Termometro Politico | 17.0% | 16.2–17.8% | 16.0–18.0% | 15.9–18.2% | 15.5–18.6% |
+| [17 November 2022](2022-11-17-Euromedia.html) | Euromedia <br> Rai 1 | 17.4% | 15.7–19.2% | 15.3–19.7% | 14.9–20.2% | 14.2–21.1% |
+| [16 November 2022](2022-11-16-IndexResearch.html) | Index Research <br> La7 | 16.5% | 14.9–18.3% | 14.5–18.8% | 14.1–19.2% | 13.4–20.1% |
 | [9–14 November 2022](2022-11-14-SWG.html) | SWG <br> La7 | 16.0% | 14.7–17.4% | 14.3–17.8% | 14.0–18.2% | 13.4–18.9% |
 | [12 November 2022](2022-11-12-DemosPi.html) | Demos & Pi <br> La Repubblica | 16.9% | 15.4–18.5% | 15.0–18.9% | 14.7–19.3% | 14.0–20.1% |
 | [11 November 2022](2022-11-11-Tecnè.html) | Tecnè <br> Agenzia Dire | 16.9% | 15.5–18.5% | 15.0–19.0% | 14.7–19.4% | 14.0–20.1% |
@@ -26,8 +31,8 @@ Last result: **40.8%** (General Election of 26 May 2019)
 | [28 October 2022](2022-10-28-EMG.html) | EMG <br> Rai 3 | 17.3% | 16.1–18.6% | 15.7–18.9% | 15.5–19.3% | 14.9–19.9% |
 | [25–27 October 2022](2022-10-27-TermometroPolitico.html) | Termometro Politico | 17.8% | 17.0–18.6% | 16.8–18.8% | 16.6–19.0% | 16.3–19.4% |
 | [25–27 October 2022](2022-10-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 18.8% | 17.3–20.5% | 16.9–20.9% | 16.5–21.4% | 15.8–22.2% |
-| [26 October 2022](2022-10-26-ProgerIndex.html) | Proger Index <br> La7 | 17.6% | 16.0–19.5% | 15.5–20.0% | 15.1–20.4% | 14.4–21.3% |
 | [26 October 2022](2022-10-26-Piepoli.html) | Piepoli | 18.4% | 16.4–20.8% | 15.8–21.4% | 15.3–22.0% | 14.4–23.2% |
+| [26 October 2022](2022-10-26-IndexResearch.html) | Index Research <br> La7 | 17.6% | N/A | N/A | N/A | N/A |
 | [26 October 2022](2022-10-26-Euromedia.html) | Euromedia <br> Rai 1 | 17.0% | 15.4–18.8% | 14.9–19.3% | 14.6–19.8% | 13.8–20.7% |
 | [19–24 October 2022](2022-10-24-SWG.html) | SWG <br> La7 | 17.0% | N/A | N/A | N/A | N/A |
 | [21 October 2022](2022-10-21-Tecnè.html) | Tecnè <br> Agenzia Dire | 17.5% | N/A | N/A | N/A | N/A |
@@ -40,6 +45,7 @@ Last result: **40.8%** (General Election of 26 May 2019)
 | [14–15 October 2022](2022-10-15-Euromedia.html) | Euromedia | 17.5% | 16.0–19.1% | 15.6–19.6% | 15.3–20.0% | 14.6–20.8% |
 | [8–14 October 2022](2022-10-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 17.6% | 16.1–19.2% | 15.7–19.7% | 15.4–20.1% | 14.7–20.9% |
 | [11–13 October 2022](2022-10-13-TermometroPolitico.html) | Termometro Politico | 18.4% | N/A | N/A | N/A | N/A |
+| [12 October 2022](2022-10-12-IndexResearch.html) | Index Research | 17.8% | N/A | N/A | N/A | N/A |
 | [5–10 October 2022](2022-10-10-SWG.html) | SWG <br> La7 | 17.5% | N/A | N/A | N/A | N/A |
 | [8 October 2022](2022-10-08-DemosPi.html) | Demos & Pi <br> La Repubblica | 17.8% | 16.4–19.5% | 15.9–19.9% | 15.6–20.3% | 14.9–21.1% |
 | [5–6 October 2022](2022-10-06-TermometroPolitico.html) | Termometro Politico | 18.7% | N/A | N/A | N/A | N/A |
@@ -1132,15 +1138,15 @@ The following table shows the probability mass function per percentage block of 
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0.2% | 100% |  |
 | 13.5–14.5% | 2% | 99.8% |  |
-| 14.5–15.5% | 7% | 98% |  |
-| 15.5–16.5% | 17% | 91% |  |
-| 16.5–17.5% | 27% | 74% | Median |
-| 17.5–18.5% | 23% | 47% |  |
-| 18.5–19.5% | 14% | 24% |  |
-| 19.5–20.5% | 7% | 10% |  |
+| 14.5–15.5% | 8% | 98% |  |
+| 15.5–16.5% | 21% | 90% |  |
+| 16.5–17.5% | 28% | 69% | Median |
+| 17.5–18.5% | 20% | 41% |  |
+| 18.5–19.5% | 12% | 21% |  |
+| 19.5–20.5% | 6% | 9% |  |
 | 20.5–21.5% | 2% | 3% |  |
-| 21.5–22.5% | 0.6% | 0.8% |  |
-| 22.5–23.5% | 0.1% | 0.2% |  |
+| 21.5–22.5% | 0.6% | 0.7% |  |
+| 22.5–23.5% | 0.1% | 0.1% |  |
 | 23.5–24.5% | 0% | 0% |  |
 | 24.5–25.5% | 0% | 0% |  |
 | 25.5–26.5% | 0% | 0% |  |
@@ -1169,7 +1175,12 @@ Last result: **31** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–15 | 11–16 | 11–16 | 10–18 |
+| N/A | [Poll Average](average.html) | 13 | 12–15 | 11–16 | 11–16 | 10–18 |
+| [16–21 November 2022](2022-11-21-SWG.html) | SWG <br> La7 | 13 | 11–14 | 11–14 | 11–15 | 10–15 |
+| [18 November 2022](2022-11-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 12 | 11–14 | 11–14 | 11–14 | 10–15 |
+| [15–17 November 2022](2022-11-17-TermometroPolitico.html) | Termometro Politico | 14 | 13–15 | 13–15 | 13–15 | 13–15 |
+| [17 November 2022](2022-11-17-Euromedia.html) | Euromedia <br> Rai 1 | 14 | 12–15 | 12–16 | 11–16 | 11–17 |
+| [16 November 2022](2022-11-16-IndexResearch.html) | Index Research <br> La7 | 12 | 11–14 | 11–14 | 10–15 | 10–15 |
 | [9–14 November 2022](2022-11-14-SWG.html) | SWG <br> La7 | 13 | 11–14 | 11–14 | 10–15 | 10–15 |
 | [12 November 2022](2022-11-12-DemosPi.html) | Demos & Pi <br> La Repubblica | 13 | 11–14 | 11–14 | 11–15 | 10–16 |
 | [11 November 2022](2022-11-11-Tecnè.html) | Tecnè <br> Agenzia Dire | 13 | 12–14 | 11–14 | 11–15 | 10–16 |
@@ -1185,8 +1196,8 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [28 October 2022](2022-10-28-EMG.html) | EMG <br> Rai 3 | 14 | 13–15 | 13–15 | 12–15 | 12–16 |
 | [25–27 October 2022](2022-10-27-TermometroPolitico.html) | Termometro Politico | 15 | 14–15 | 14–15 | 14–16 | 13–16 |
 | [25–27 October 2022](2022-10-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 15 | 13–17 | 13–17 | 13–18 | 12–19 |
-| [26 October 2022](2022-10-26-ProgerIndex.html) | Proger Index <br> La7 | 13 | 12–15 | 11–15 | 11–16 | 10–17 |
 | [26 October 2022](2022-10-26-Piepoli.html) | Piepoli | 14 | 13–16 | 12–17 | 12–17 | 11–18 |
+| [26 October 2022](2022-10-26-IndexResearch.html) | Index Research <br> La7 |  |  |  |  |  |
 | [26 October 2022](2022-10-26-Euromedia.html) | Euromedia <br> Rai 1 | 14 | 12–15 | 12–16 | 11–16 | 10–17 |
 | [19–24 October 2022](2022-10-24-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [21 October 2022](2022-10-21-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
@@ -1199,6 +1210,7 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [14–15 October 2022](2022-10-15-Euromedia.html) | Euromedia | 14 | 13–14 | 12–14 | 12–15 | 11–16 |
 | [8–14 October 2022](2022-10-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 13 | 12–15 | 12–16 | 11–16 | 11–17 |
 | [11–13 October 2022](2022-10-13-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [12 October 2022](2022-10-12-IndexResearch.html) | Index Research |  |  |  |  |  |
 | [5–10 October 2022](2022-10-10-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [8 October 2022](2022-10-08-DemosPi.html) | Demos & Pi <br> La Repubblica | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
 | [5–6 October 2022](2022-10-06-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
@@ -2290,14 +2302,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.8% | 100% |  |
-| 11 | 5% | 99.1% |  |
-| 12 | 15% | 94% |  |
-| 13 | 29% | 80% |  |
-| 14 | 27% | 50% | Median |
-| 15 | 17% | 23% |  |
-| 16 | 4% | 6% |  |
-| 17 | 2% | 2% |  |
+| 9 | 0.1% | 100% |  |
+| 10 | 0.9% | 99.9% |  |
+| 11 | 6% | 99.1% |  |
+| 12 | 17% | 93% |  |
+| 13 | 31% | 75% | Median |
+| 14 | 26% | 45% |  |
+| 15 | 14% | 19% |  |
+| 16 | 3% | 5% |  |
+| 17 | 1.4% | 2% |  |
 | 18 | 0.6% | 0.7% |  |
 | 19 | 0.1% | 0.1% |  |
 | 20 | 0% | 0% |  |
