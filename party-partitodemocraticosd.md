@@ -32,7 +32,7 @@ Last result: **40.8%** (General Election of 26 May 2019)
 | [25–27 October 2022](2022-10-27-TermometroPolitico.html) | Termometro Politico | 17.8% | 17.0–18.6% | 16.8–18.8% | 16.6–19.0% | 16.3–19.4% |
 | [25–27 October 2022](2022-10-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 18.8% | 17.3–20.5% | 16.9–20.9% | 16.5–21.4% | 15.8–22.2% |
 | [26 October 2022](2022-10-26-Piepoli.html) | Piepoli | 18.4% | 16.4–20.8% | 15.8–21.4% | 15.3–22.0% | 14.4–23.2% |
-| [26 October 2022](2022-10-26-IndexResearch.html) | Index Research <br> La7 | 17.6% | N/A | N/A | N/A | N/A |
+| [26 October 2022](2022-10-26-IndexResearch.html) | Index Research <br> La7 | 17.6% | 16.0–19.5% | 15.5–20.0% | 15.1–20.4% | 14.4–21.3% |
 | [26 October 2022](2022-10-26-Euromedia.html) | Euromedia <br> Rai 1 | 17.0% | 15.4–18.8% | 14.9–19.3% | 14.6–19.8% | 13.8–20.7% |
 | [19–24 October 2022](2022-10-24-SWG.html) | SWG <br> La7 | 17.0% | N/A | N/A | N/A | N/A |
 | [21 October 2022](2022-10-21-Tecnè.html) | Tecnè <br> Agenzia Dire | 17.5% | N/A | N/A | N/A | N/A |
@@ -1197,7 +1197,7 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [25–27 October 2022](2022-10-27-TermometroPolitico.html) | Termometro Politico | 15 | 14–15 | 14–15 | 14–16 | 13–16 |
 | [25–27 October 2022](2022-10-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 15 | 13–17 | 13–17 | 13–18 | 12–19 |
 | [26 October 2022](2022-10-26-Piepoli.html) | Piepoli | 14 | 13–16 | 12–17 | 12–17 | 11–18 |
-| [26 October 2022](2022-10-26-IndexResearch.html) | Index Research <br> La7 |  |  |  |  |  |
+| [26 October 2022](2022-10-26-IndexResearch.html) | Index Research <br> La7 | 13 | 12–15 | 11–15 | 11–16 | 10–17 |
 | [26 October 2022](2022-10-26-Euromedia.html) | Euromedia <br> Rai 1 | 14 | 12–15 | 12–16 | 11–16 | 10–17 |
 | [19–24 October 2022](2022-10-24-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [21 October 2022](2022-10-21-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
