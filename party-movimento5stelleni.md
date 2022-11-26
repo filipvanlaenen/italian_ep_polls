@@ -10,7 +10,8 @@ Last result: **21.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.0% | 15.4–18.8% | 14.9–19.4% | 14.4–19.9% | 13.5–20.9% |
+| N/A | [Poll Average](average.html) | 17.2% | 15.7–19.0% | 15.3–19.5% | 14.9–20.0% | 14.1–20.9% |
+| [26 November 2022](2022-11-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 17.5% | 16.0–19.1% | 15.6–19.6% | 15.3–20.0% | 14.6–20.8% |
 | [16–21 November 2022](2022-11-21-SWG.html) | SWG <br> La7 | 16.9% | 15.6–18.4% | 15.2–18.8% | 14.9–19.2% | 14.3–19.9% |
 | [18 November 2022](2022-11-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 17.4% | 15.9–19.0% | 15.5–19.5% | 15.2–19.9% | 14.5–20.7% |
 | [15–17 November 2022](2022-11-17-TermometroPolitico.html) | Termometro Politico | 16.6% | 15.8–17.4% | 15.6–17.6% | 15.5–17.8% | 15.1–18.2% |
@@ -1135,16 +1136,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 11.5–12.5% | 0.1% | 100% |  |
-| 12.5–13.5% | 0.5% | 99.9% |  |
-| 13.5–14.5% | 3% | 99.5% |  |
-| 14.5–15.5% | 9% | 97% |  |
-| 15.5–16.5% | 23% | 88% |  |
-| 16.5–17.5% | 30% | 64% | Median |
-| 17.5–18.5% | 21% | 35% |  |
-| 18.5–19.5% | 10% | 14% |  |
-| 19.5–20.5% | 3% | 4% |  |
-| 20.5–21.5% | 0.7% | 0.9% | Last Result |
+| 11.5–12.5% | 0% | 100% |  |
+| 12.5–13.5% | 0.1% | 100% |  |
+| 13.5–14.5% | 1.2% | 99.8% |  |
+| 14.5–15.5% | 6% | 98.6% |  |
+| 15.5–16.5% | 21% | 92% |  |
+| 16.5–17.5% | 31% | 71% | Median |
+| 17.5–18.5% | 24% | 40% |  |
+| 18.5–19.5% | 12% | 16% |  |
+| 19.5–20.5% | 4% | 5% |  |
+| 20.5–21.5% | 0.8% | 0.9% | Last Result |
 | 21.5–22.5% | 0.1% | 0.1% |  |
 | 22.5–23.5% | 0% | 0% |  |
 
@@ -1157,7 +1158,8 @@ Last result: **17** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 13–16 | 12–16 | 12–16 | 11–17 |
+| N/A | [Poll Average](average.html) | 14 | 13–16 | 13–16 | 12–17 | 11–17 |
+| [26 November 2022](2022-11-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 15 | 14–16 | 13–17 | 13–17 | 12–17 |
 | [16–21 November 2022](2022-11-21-SWG.html) | SWG <br> La7 | 14 | 13–15 | 13–16 | 12–16 | 11–17 |
 | [18 November 2022](2022-11-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 14 | 13–16 | 13–16 | 12–16 | 12–17 |
 | [15–17 November 2022](2022-11-17-TermometroPolitico.html) | Termometro Politico | 14 | 14–15 | 14–15 | 14–16 | 13–16 |
@@ -2284,14 +2286,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.1% | 100% |  |
-| 11 | 0.9% | 99.9% |  |
-| 12 | 5% | 99.0% |  |
-| 13 | 17% | 94% |  |
-| 14 | 33% | 77% | Median |
-| 15 | 31% | 43% |  |
-| 16 | 10% | 13% |  |
-| 17 | 2% | 2% | Last Result |
+| 11 | 0.6% | 100% |  |
+| 12 | 4% | 99.4% |  |
+| 13 | 16% | 95% |  |
+| 14 | 32% | 79% | Median |
+| 15 | 35% | 47% |  |
+| 16 | 10% | 12% |  |
+| 17 | 2% | 3% | Last Result |
 | 18 | 0.2% | 0.2% |  |
 | 19 | 0% | 0% |  |
 
