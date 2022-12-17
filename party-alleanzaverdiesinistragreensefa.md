@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.6% | 2.8–4.4% | 2.6–4.7% | 2.5–5.0% | 2.1–5.5% |
+| N/A | [Poll Average](average.html) | 3.7% | 2.9–4.6% | 2.7–4.9% | 2.5–5.2% | 2.2–5.8% |
 | [15 December 2022](2022-12-15-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 3.1% | 2.5–4.1% | 2.3–4.3% | 2.1–4.6% | 1.8–5.1% |
 | [7–12 December 2022](2022-12-12-SWG.html) | SWG <br> La7 | 4.1% | 3.4–4.9% | 3.2–5.2% | 3.1–5.4% | 2.8–5.8% |
 | [8–12 December 2022](2022-12-12-BiDiMedia.html) | BiDiMedia | 3.8% | 3.3–4.4% | 3.2–4.6% | 3.1–4.8% | 2.8–5.1% |
@@ -27,11 +27,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [25 November 2022](2022-11-25-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
 | [23–25 November 2022](2022-11-25-BiDiMedia.html) | BiDiMedia | 3.7% | 3.0–4.6% | 2.9–4.8% | 2.7–5.1% | 2.4–5.5% |
 | [22–24 November 2022](2022-11-24-TermometroPolitico.html) | Termometro Politico | 3.3% | 2.9–3.7% | 2.9–3.8% | 2.8–3.9% | 2.6–4.1% |
-| [22–24 November 2022](2022-11-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 4.2% | N/A | N/A | N/A | N/A |
-| [24 November 2022](2022-11-24-EMG.html) | EMG <br> Rai 3 | 3.3% | N/A | N/A | N/A | N/A |
+| [22–24 November 2022](2022-11-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.1–5.6% | 2.8–6.1% |
+| [24 November 2022](2022-11-24-EMG.html) | EMG <br> Rai 3 | 3.3% | 2.8–3.9% | 2.6–4.1% | 2.5–4.3% | 2.3–4.6% |
 | [23 November 2022](2022-11-23-Euromedia.html) | Euromedia | 3.0% | N/A | N/A | N/A | N/A |
-| [21–22 November 2022](2022-11-22-Piepoli.html) | Piepoli | 3.9% | N/A | N/A | N/A | N/A |
-| [21–22 November 2022](2022-11-22-Demopolis.html) | Demopolis | 3.5% | N/A | N/A | N/A | N/A |
+| [21–22 November 2022](2022-11-22-Piepoli.html) | Piepoli | 3.9% | 3.0–5.3% | 2.8–5.7% | 2.6–6.0% | 2.2–6.7% |
+| [21–22 November 2022](2022-11-22-Demopolis.html) | Demopolis | 3.5% | 3.0–4.1% | 2.9–4.3% | 2.8–4.4% | 2.6–4.7% |
 | [16–21 November 2022](2022-11-21-SWG.html) | SWG <br> La7 | 4.0% | 3.4–4.8% | 3.2–5.1% | 3.0–5.3% | 2.7–5.7% |
 | [21 November 2022](2022-11-21-EMG.html) | EMG <br> Rai 3 | 3.4% | N/A | N/A | N/A | N/A |
 | [18 November 2022](2022-11-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
@@ -42,7 +42,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [11 November 2022](2022-11-11-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
 | [8–10 November 2022](2022-11-10-TermometroPolitico.html) | Termometro Politico | 3.6% | 3.2–4.0% | 3.1–4.1% | 3.1–4.2% | 2.9–4.4% |
 | [10 November 2022](2022-11-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 4.5% | 3.8–5.5% | 3.6–5.7% | 3.4–6.0% | 3.0–6.5% |
-| [7–10 November 2022](2022-11-10-DemosPi.html) | Demos & Pi <br> La Repubblica | 3.8% | N/A | N/A | N/A | N/A |
+| [7–10 November 2022](2022-11-10-DemosPi.html) | Demos & Pi <br> La Repubblica | 3.8% | 3.1–4.7% | 2.9–5.0% | 2.8–5.2% | 2.5–5.6% |
 | [2–7 November 2022](2022-11-07-SWG.html) | SWG <br> La7 | 4.0% | 3.4–4.8% | 3.2–5.1% | 3.0–5.3% | 2.7–5.7% |
 | [7 November 2022](2022-11-07-EMG.html) | EMG <br> Rai 3 | 4.0% | 3.4–4.7% | 3.2–4.9% | 3.1–5.1% | 2.8–5.5% |
 | [4 November 2022](2022-11-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
@@ -1160,12 +1160,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 4% | 100% |  |
-| 2.5–3.5% | 44% | 96% |  |
-| 3.5–4.5% | 45% | 52% | Median |
-| 4.5–5.5% | 7% | 7% |  |
-| 5.5–6.5% | 0.4% | 0.4% |  |
-| 6.5–7.5% | 0% | 0% |  |
+| 1.5–2.5% | 3% | 100% |  |
+| 2.5–3.5% | 41% | 97% |  |
+| 3.5–4.5% | 46% | 57% | Median |
+| 4.5–5.5% | 10% | 11% |  |
+| 5.5–6.5% | 1.0% | 1.1% |  |
+| 6.5–7.5% | 0.1% | 0.1% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -1176,7 +1177,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [15 December 2022](2022-12-15-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | [7–12 December 2022](2022-12-12-SWG.html) | SWG <br> La7 | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [8–12 December 2022](2022-12-12-BiDiMedia.html) | BiDiMedia | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
@@ -1193,11 +1194,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [25 November 2022](2022-11-25-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [23–25 November 2022](2022-11-25-BiDiMedia.html) | BiDiMedia | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [22–24 November 2022](2022-11-24-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0–4 |
-| [22–24 November 2022](2022-11-24-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
-| [24 November 2022](2022-11-24-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
+| [22–24 November 2022](2022-11-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 4 | 0–4 | 0–4 | 0–5 | 0–5 |
+| [24 November 2022](2022-11-24-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | [23 November 2022](2022-11-23-Euromedia.html) | Euromedia |  |  |  |  |  |
-| [21–22 November 2022](2022-11-22-Piepoli.html) | Piepoli |  |  |  |  |  |
-| [21–22 November 2022](2022-11-22-Demopolis.html) | Demopolis |  |  |  |  |  |
+| [21–22 November 2022](2022-11-22-Piepoli.html) | Piepoli | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
+| [21–22 November 2022](2022-11-22-Demopolis.html) | Demopolis | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [16–21 November 2022](2022-11-21-SWG.html) | SWG <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [21 November 2022](2022-11-21-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [18 November 2022](2022-11-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
@@ -1208,7 +1209,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [11 November 2022](2022-11-11-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [8–10 November 2022](2022-11-10-TermometroPolitico.html) | Termometro Politico | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [10 November 2022](2022-11-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
-| [7–10 November 2022](2022-11-10-DemosPi.html) | Demos & Pi <br> La Repubblica |  |  |  |  |  |
+| [7–10 November 2022](2022-11-10-DemosPi.html) | Demos & Pi <br> La Repubblica | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [2–7 November 2022](2022-11-07-SWG.html) | SWG <br> La7 | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [7 November 2022](2022-11-07-EMG.html) | EMG <br> Rai 3 | 4 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [4 November 2022](2022-11-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
@@ -2326,12 +2327,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 74% | 100% | Last Result, Median |
-| 1 | 0% | 26% |  |
-| 2 | 0% | 26% |  |
-| 3 | 10% | 26% |  |
-| 4 | 16% | 16% |  |
-| 5 | 0.4% | 0.4% |  |
+| 0 | 71% | 100% | Last Result, Median |
+| 1 | 0% | 29% |  |
+| 2 | 0% | 29% |  |
+| 3 | 9% | 29% |  |
+| 4 | 19% | 20% |  |
+| 5 | 1.0% | 1.1% |  |
 | 6 | 0% | 0% |  |
 
 
