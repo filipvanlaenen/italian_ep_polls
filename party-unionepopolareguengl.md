@@ -25,8 +25,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [30 November 2022](2022-11-30-Euromedia.html) | Euromedia <br> La Stampa | 0.0% | N/A | N/A | N/A | N/A |
 | [23–28 November 2022](2022-11-28-SWG.html) | SWG <br> La7 | 1.6% | 1.2–2.2% | 1.1–2.3% | 1.0–2.5% | 0.9–2.8% |
 | [25 November 2022](2022-11-25-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
-| [23–25 November 2022](2022-11-25-BiDiMedia.html) | BiDiMedia | 1.6% | N/A | N/A | N/A | N/A |
-| [22–24 November 2022](2022-11-24-TermometroPolitico.html) | Termometro Politico | 1.6% | N/A | N/A | N/A | N/A |
+| [23–25 November 2022](2022-11-25-BiDiMedia.html) | BiDiMedia | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
+| [22–24 November 2022](2022-11-24-TermometroPolitico.html) | Termometro Politico | 1.6% | 1.4–1.9% | 1.3–2.0% | 1.2–2.1% | 1.1–2.2% |
 | [22–24 November 2022](2022-11-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 2.0% | N/A | N/A | N/A | N/A |
 | [24 November 2022](2022-11-24-EMG.html) | EMG <br> Rai 3 | 2.0% | N/A | N/A | N/A | N/A |
 | [23 November 2022](2022-11-23-Euromedia.html) | Euromedia | 0.0% | N/A | N/A | N/A | N/A |
@@ -1189,8 +1189,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [30 November 2022](2022-11-30-Euromedia.html) | Euromedia <br> La Stampa |  |  |  |  |  |
 | [23–28 November 2022](2022-11-28-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [25 November 2022](2022-11-25-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
-| [23–25 November 2022](2022-11-25-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
-| [22–24 November 2022](2022-11-24-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [23–25 November 2022](2022-11-25-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
+| [22–24 November 2022](2022-11-24-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [22–24 November 2022](2022-11-24-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
 | [24 November 2022](2022-11-24-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [23 November 2022](2022-11-23-Euromedia.html) | Euromedia |  |  |  |  |  |

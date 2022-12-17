@@ -24,9 +24,9 @@ Last result: **3.7%** (General Election of 26 May 2019)
 | [1 December 2022](2022-12-01-EMG.html) | EMG <br> Rai 3 | 29.0% | N/A | N/A | N/A | N/A |
 | [30 November 2022](2022-11-30-Euromedia.html) | Euromedia <br> La Stampa | 28.1% | 26.3–30.0% | 25.8–30.5% | 25.4–31.0% | 24.6–31.9% |
 | [23–28 November 2022](2022-11-28-SWG.html) | SWG <br> La7 | 30.3% | 28.7–32.1% | 28.2–32.6% | 27.8–33.0% | 27.0–33.9% |
-| [25 November 2022](2022-11-25-Tecnè.html) | Tecnè <br> Agenzia Dire | 30.3% | N/A | N/A | N/A | N/A |
-| [23–25 November 2022](2022-11-25-BiDiMedia.html) | BiDiMedia | 28.4% | N/A | N/A | N/A | N/A |
-| [22–24 November 2022](2022-11-24-TermometroPolitico.html) | Termometro Politico | 28.7% | N/A | N/A | N/A | N/A |
+| [25 November 2022](2022-11-25-Tecnè.html) | Tecnè <br> Agenzia Dire | 30.3% | 28.5–32.2% | 28.0–32.8% | 27.5–33.2% | 26.7–34.2% |
+| [23–25 November 2022](2022-11-25-BiDiMedia.html) | BiDiMedia | 28.4% | 26.6–30.3% | 26.1–30.8% | 25.7–31.3% | 24.8–32.2% |
+| [22–24 November 2022](2022-11-24-TermometroPolitico.html) | Termometro Politico | 28.7% | 27.8–29.7% | 27.5–29.9% | 27.3–30.2% | 26.8–30.6% |
 | [22–24 November 2022](2022-11-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 31.4% | N/A | N/A | N/A | N/A |
 | [24 November 2022](2022-11-24-EMG.html) | EMG <br> Rai 3 | 28.9% | N/A | N/A | N/A | N/A |
 | [23 November 2022](2022-11-23-Euromedia.html) | Euromedia | 28.3% | N/A | N/A | N/A | N/A |
@@ -1217,9 +1217,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [1 December 2022](2022-12-01-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [30 November 2022](2022-11-30-Euromedia.html) | Euromedia <br> La Stampa | 24 | 22–26 | 22–26 | 21–26 | 20–27 |
 | [23–28 November 2022](2022-11-28-SWG.html) | SWG <br> La7 | 26 | 24–27 | 24–27 | 23–28 | 23–29 |
-| [25 November 2022](2022-11-25-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
-| [23–25 November 2022](2022-11-25-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
-| [22–24 November 2022](2022-11-24-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [25 November 2022](2022-11-25-Tecnè.html) | Tecnè <br> Agenzia Dire | 25 | 23–26 | 23–27 | 22–27 | 21–28 |
+| [23–25 November 2022](2022-11-25-BiDiMedia.html) | BiDiMedia | 24 | 23–26 | 23–27 | 22–28 | 21–28 |
+| [22–24 November 2022](2022-11-24-TermometroPolitico.html) | Termometro Politico | 25 | 24–26 | 24–26 | 24–27 | 23–27 |
 | [22–24 November 2022](2022-11-24-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
 | [24 November 2022](2022-11-24-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [23 November 2022](2022-11-23-Euromedia.html) | Euromedia |  |  |  |  |  |
