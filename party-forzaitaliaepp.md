@@ -10,8 +10,15 @@ Last result: **16.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.0% | 5.8–8.2% | 5.4–8.6% | 5.2–9.0% | 4.6–9.8% |
+| N/A | [Poll Average](average.html) | 7.0% | 5.9–8.3% | 5.5–8.8% | 5.2–9.2% | 4.7–10.0% |
+| [19–21 December 2022](2022-12-21-Ixè.html) | Ixè | 6.9% | 6.0–8.0% | 5.7–8.4% | 5.5–8.7% | 5.1–9.2% |
+| [14–19 December 2022](2022-12-19-SWG.html) | SWG <br> La7 | 6.1% | 5.3–7.1% | 5.0–7.3% | 4.9–7.6% | 4.5–8.1% |
+| [19 December 2022](2022-12-19-EMG.html) | EMG <br> Rai 3 | 6.7% | 5.9–7.7% | 5.7–7.9% | 5.5–8.2% | 5.1–8.6% |
+| [15–16 December 2022](2022-12-16-Tecnè.html) | Tecnè <br> Agenzia Dire | 7.4% | 6.4–8.6% | 6.2–8.9% | 5.9–9.2% | 5.5–9.8% |
+| [14–15 December 2022](2022-12-15-TermometroPolitico.html) | Termometro Politico | 7.0% | 6.5–7.6% | 6.3–7.7% | 6.2–7.9% | 6.0–8.2% |
 | [15 December 2022](2022-12-15-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 6.0% | 5.0–7.2% | 4.8–7.6% | 4.6–7.9% | 4.1–8.5% |
+| [15 December 2022](2022-12-15-Euromedia.html) | Euromedia | 7.9% | 6.8–9.2% | 6.5–9.6% | 6.2–10.0% | 5.7–10.6% |
+| [15 December 2022](2022-12-15-EMG.html) | EMG <br> Rai 3 | 6.7% | N/A | N/A | N/A | N/A |
 | [7–12 December 2022](2022-12-12-SWG.html) | SWG <br> La7 | 6.0% | 5.2–7.0% | 5.0–7.3% | 4.8–7.5% | 4.4–8.0% |
 | [8–12 December 2022](2022-12-12-BiDiMedia.html) | BiDiMedia | 7.0% | 6.3–7.8% | 6.1–8.0% | 5.9–8.2% | 5.6–8.6% |
 | [9 December 2022](2022-12-09-Tecnè.html) | Tecnè <br> Agenzia Dire | 7.3% | 6.3–8.5% | 6.1–8.8% | 5.8–9.1% | 5.4–9.7% |
@@ -1159,13 +1166,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.4% | 100% |  |
-| 4.5–5.5% | 6% | 99.6% |  |
-| 5.5–6.5% | 26% | 94% |  |
-| 6.5–7.5% | 42% | 68% | Median |
-| 7.5–8.5% | 20% | 25% |  |
-| 8.5–9.5% | 5% | 6% |  |
-| 9.5–10.5% | 0.7% | 0.8% |  |
+| 3.5–4.5% | 0.3% | 100% |  |
+| 4.5–5.5% | 5% | 99.7% |  |
+| 5.5–6.5% | 23% | 95% |  |
+| 6.5–7.5% | 42% | 72% | Median |
+| 7.5–8.5% | 22% | 29% |  |
+| 8.5–9.5% | 6% | 7% |  |
+| 9.5–10.5% | 1.1% | 1.2% |  |
 | 10.5–11.5% | 0.1% | 0.1% |  |
 | 11.5–12.5% | 0% | 0% |  |
 | 12.5–13.5% | 0% | 0% |  |
@@ -1183,8 +1190,15 @@ Last result: **13** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–7 | 4–7 | 4–7 | 4–8 |
+| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 4–8 | 4–8 |
+| [19–21 December 2022](2022-12-21-Ixè.html) | Ixè | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
+| [14–19 December 2022](2022-12-19-SWG.html) | SWG <br> La7 | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
+| [19 December 2022](2022-12-19-EMG.html) | EMG <br> Rai 3 | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
+| [15–16 December 2022](2022-12-16-Tecnè.html) | Tecnè <br> Agenzia Dire | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
+| [14–15 December 2022](2022-12-15-TermometroPolitico.html) | Termometro Politico | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [15 December 2022](2022-12-15-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
+| [15 December 2022](2022-12-15-Euromedia.html) | Euromedia | 7 | 5–8 | 5–8 | 5–8 | 5–9 |
+| [15 December 2022](2022-12-15-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [7–12 December 2022](2022-12-12-SWG.html) | SWG <br> La7 | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [8–12 December 2022](2022-12-12-BiDiMedia.html) | BiDiMedia | 6 | 6 | 5–7 | 5–7 | 5–7 |
 | [9 December 2022](2022-12-09-Tecnè.html) | Tecnè <br> Agenzia Dire | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
@@ -2333,13 +2347,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.1% | 100% |  |
-| 4 | 6% | 99.9% |  |
-| 5 | 28% | 94% |  |
-| 6 | 48% | 66% | Median |
-| 7 | 16% | 19% |  |
-| 8 | 2% | 2% |  |
-| 9 | 0.1% | 0.1% |  |
+| 4 | 4% | 100% |  |
+| 5 | 26% | 96% |  |
+| 6 | 48% | 70% | Median |
+| 7 | 18% | 22% |  |
+| 8 | 4% | 4% |  |
+| 9 | 0.2% | 0.2% |  |
 | 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |
