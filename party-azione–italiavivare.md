@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7.9% | 6.8–9.2% | 6.4–9.6% | 6.1–10.1% | 5.6–11.0% |
+| [19–21 December 2022](2022-12-21-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
 | [19–21 December 2022](2022-12-21-Ixè.html) | Ixè | 7.7% | 6.7–8.9% | 6.4–9.2% | 6.2–9.5% | 5.8–10.1% |
 | [14–19 December 2022](2022-12-19-SWG.html) | SWG <br> La7 | 7.8% | 6.9–8.9% | 6.7–9.2% | 6.4–9.5% | 6.0–10.0% |
 | [19 December 2022](2022-12-19-EMG.html) | EMG <br> Rai 3 | 7.5% | 6.7–8.5% | 6.4–8.8% | 6.2–9.0% | 5.8–9.5% |
@@ -1190,6 +1191,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
+| [19–21 December 2022](2022-12-21-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
 | [19–21 December 2022](2022-12-21-Ixè.html) | Ixè | 6 | 6–7 | 5–8 | 5–8 | 5–8 |
 | [14–19 December 2022](2022-12-19-SWG.html) | SWG <br> La7 | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
 | [19 December 2022](2022-12-19-EMG.html) | EMG <br> Rai 3 | 7 | 6–7 | 6–8 | 5–8 | 5–9 |
@@ -2352,8 +2354,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0.2% | 100% |  |
 | 5 | 8% | 99.8% |  |
-| 6 | 33% | 92% |  |
-| 7 | 43% | 59% | Median |
+| 6 | 34% | 91% |  |
+| 7 | 41% | 57% | Median |
 | 8 | 14% | 16% |  |
 | 9 | 2% | 2% |  |
 | 10 | 0.2% | 0.3% |  |

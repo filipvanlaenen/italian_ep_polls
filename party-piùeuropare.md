@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.5% | 1.8–3.3% | 1.6–3.6% | 1.5–3.8% | 1.2–4.5% |
+| [19–21 December 2022](2022-12-21-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [19–21 December 2022](2022-12-21-Ixè.html) | Ixè | 2.6% | 2.1–3.4% | 1.9–3.6% | 1.8–3.8% | 1.6–4.2% |
 | [14–19 December 2022](2022-12-19-SWG.html) | SWG <br> La7 | 2.8% | 2.3–3.6% | 2.1–3.8% | 2.0–3.9% | 1.8–4.3% |
 | [19 December 2022](2022-12-19-EMG.html) | EMG <br> Rai 3 | 2.4% | 2.0–3.1% | 1.8–3.2% | 1.7–3.4% | 1.5–3.7% |
@@ -1183,6 +1184,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–4 |
+| [19–21 December 2022](2022-12-21-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
 | [19–21 December 2022](2022-12-21-Ixè.html) | Ixè | 0 | 0 | 0 | 0 | 0–3 |
 | [14–19 December 2022](2022-12-19-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0–4 |
 | [19 December 2022](2022-12-19-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
