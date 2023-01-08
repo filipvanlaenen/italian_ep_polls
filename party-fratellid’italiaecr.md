@@ -10,11 +10,17 @@ Last result: **3.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.7% | 27.7–32.5% | 27.1–33.4% | 26.6–34.2% | 25.4–35.7% |
+| N/A | [Poll Average](average.html) | 29.9% | 27.7–32.7% | 27.2–33.5% | 26.6–34.3% | 25.5–35.7% |
+| [31 December 2022](2022-12-31-Demopolis.html) | Demopolis | 30.0% | 28.2–31.9% | 27.7–32.4% | 27.2–32.9% | 26.4–33.9% |
+| [27–29 December 2022](2022-12-29-TermometroPolitico.html) | Termometro Politico | 28.7% | 27.7–29.7% | 27.5–30.0% | 27.2–30.2% | 26.8–30.7% |
+| [20–22 December 2022](2022-12-22-TermometroPolitico.html) | Termometro Politico | 28.7% | N/A | N/A | N/A | N/A |
+| [20–22 December 2022](2022-12-22-Ipsos.html) | Ipsos <br> Corriere della Sera | 31.7% | 29.9–33.6% | 29.3–34.2% | 28.9–34.7% | 28.0–35.6% |
 | [19–21 December 2022](2022-12-21-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 28.5% | 26.7–30.4% | 26.2–30.9% | 25.8–31.4% | 25.0–32.3% |
 | [19–21 December 2022](2022-12-21-Ixè.html) | Ixè | 30.3% | 28.5–32.2% | 28.0–32.8% | 27.5–33.2% | 26.7–34.2% |
+| [20 December 2022](2022-12-20-Piepoli.html) | Piepoli <br> RaiNews24 | 29.6% | 27.1–32.3% | 26.4–33.1% | 25.8–33.8% | 24.6–35.1% |
 | [14–19 December 2022](2022-12-19-SWG.html) | SWG <br> La7 | 30.6% | 28.9–32.3% | 28.4–32.8% | 28.0–33.3% | 27.3–34.1% |
 | [19 December 2022](2022-12-19-EMG.html) | EMG <br> Rai 3 | 29.2% | 27.7–30.9% | 27.3–31.3% | 26.9–31.7% | 26.1–32.5% |
+| [17–19 December 2022](2022-12-19-BiDiMedia.html) | BiDiMedia | 29.3% | 27.6–31.1% | 27.1–31.6% | 26.7–32.1% | 25.9–32.9% |
 | [15–16 December 2022](2022-12-16-Tecnè.html) | Tecnè <br> Agenzia Dire | 30.8% | 29.0–32.7% | 28.5–33.3% | 28.0–33.7% | 27.1–34.7% |
 | [14–15 December 2022](2022-12-15-TermometroPolitico.html) | Termometro Politico | 28.7% | 27.8–29.7% | 27.5–29.9% | 27.3–30.2% | 26.8–30.7% |
 | [15 December 2022](2022-12-15-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 33.0% | 30.9–35.2% | 30.3–35.8% | 29.8–36.3% | 28.8–37.4% |
@@ -1187,18 +1193,18 @@ The following table shows the probability mass function per percentage block of 
 | 21.5–22.5% | 0% | 100% |  |
 | 22.5–23.5% | 0% | 100% |  |
 | 23.5–24.5% | 0.1% | 100% |  |
-| 24.5–25.5% | 0.5% | 99.9% |  |
-| 25.5–26.5% | 2% | 99.4% |  |
+| 24.5–25.5% | 0.4% | 99.9% |  |
+| 25.5–26.5% | 2% | 99.5% |  |
 | 26.5–27.5% | 6% | 98% |  |
-| 27.5–28.5% | 16% | 91% |  |
-| 28.5–29.5% | 23% | 76% |  |
-| 29.5–30.5% | 20% | 52% | Median |
-| 30.5–31.5% | 14% | 33% |  |
-| 31.5–32.5% | 9% | 19% |  |
-| 32.5–33.5% | 5% | 10% |  |
-| 33.5–34.5% | 3% | 4% |  |
-| 34.5–35.5% | 1.2% | 2% |  |
-| 35.5–36.5% | 0.4% | 0.6% |  |
+| 27.5–28.5% | 14% | 92% |  |
+| 28.5–29.5% | 21% | 78% |  |
+| 29.5–30.5% | 20% | 57% | Median |
+| 30.5–31.5% | 16% | 38% |  |
+| 31.5–32.5% | 11% | 22% |  |
+| 32.5–33.5% | 6% | 11% |  |
+| 33.5–34.5% | 3% | 5% |  |
+| 34.5–35.5% | 1.3% | 2% |  |
+| 35.5–36.5% | 0.5% | 0.6% |  |
 | 36.5–37.5% | 0.1% | 0.2% |  |
 | 37.5–38.5% | 0% | 0% |  |
 
@@ -1212,10 +1218,16 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 25 | 23–28 | 22–29 | 22–30 | 21–30 |
+| [31 December 2022](2022-12-31-Demopolis.html) | Demopolis | 23 | 22–25 | 21–25 | 21–26 | 20–26 |
+| [27–29 December 2022](2022-12-29-TermometroPolitico.html) | Termometro Politico | 25 | 24–26 | 24–26 | 24–27 | 24–27 |
+| [20–22 December 2022](2022-12-22-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [20–22 December 2022](2022-12-22-Ipsos.html) | Ipsos <br> Corriere della Sera | 28 | 26–29 | 25–29 | 25–29 | 24–30 |
 | [19–21 December 2022](2022-12-21-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 23 | 22–25 | 21–25 | 21–25 | 20–26 |
 | [19–21 December 2022](2022-12-21-Ixè.html) | Ixè | 26 | 23–27 | 23–28 | 23–28 | 22–29 |
+| [20 December 2022](2022-12-20-Piepoli.html) | Piepoli <br> RaiNews24 | 24 | 22–27 | 22–28 | 21–28 | 20–30 |
 | [14–19 December 2022](2022-12-19-SWG.html) | SWG <br> La7 | 26 | 24–28 | 24–29 | 24–29 | 23–29 |
 | [19 December 2022](2022-12-19-EMG.html) | EMG <br> Rai 3 | 26 | 24–28 | 24–28 | 23–28 | 23–29 |
+| [17–19 December 2022](2022-12-19-BiDiMedia.html) | BiDiMedia | 25 | 24–27 | 24–27 | 23–28 | 22–29 |
 | [15–16 December 2022](2022-12-16-Tecnè.html) | Tecnè <br> Agenzia Dire | 25 | 24–27 | 23–28 | 23–28 | 22–29 |
 | [14–15 December 2022](2022-12-15-TermometroPolitico.html) | Termometro Politico | 25 | 24–26 | 24–26 | 24–26 | 23–27 |
 | [15 December 2022](2022-12-15-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 28 | 26–30 | 26–30 | 25–30 | 24–31 |
@@ -2390,17 +2402,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0.3% | 100% |  |
-| 21 | 2% | 99.6% |  |
-| 22 | 6% | 98% |  |
-| 23 | 12% | 92% |  |
-| 24 | 17% | 80% |  |
-| 25 | 25% | 63% | Median |
-| 26 | 15% | 38% |  |
-| 27 | 7% | 23% |  |
-| 28 | 9% | 16% |  |
-| 29 | 3% | 7% |  |
-| 30 | 3% | 3% |  |
-| 31 | 0.1% | 0.2% |  |
+| 21 | 2% | 99.7% |  |
+| 22 | 5% | 98% |  |
+| 23 | 10% | 93% |  |
+| 24 | 18% | 83% |  |
+| 25 | 21% | 65% | Median |
+| 26 | 17% | 44% |  |
+| 27 | 10% | 27% |  |
+| 28 | 11% | 17% |  |
+| 29 | 2% | 6% |  |
+| 30 | 3% | 4% |  |
+| 31 | 0.2% | 0.2% |  |
 | 32 | 0% | 0% |  |
 
 

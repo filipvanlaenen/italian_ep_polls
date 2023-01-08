@@ -10,11 +10,17 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.8% | 1.4–2.4% | 1.3–2.6% | 1.2–2.8% | 1.0–3.2% |
+| N/A | [Poll Average](average.html) | 1.7% | 1.3–2.3% | 1.2–2.5% | 1.1–2.7% | 0.9–3.0% |
+| [31 December 2022](2022-12-31-Demopolis.html) | Demopolis | 0.0% | N/A | N/A | N/A | N/A |
+| [27–29 December 2022](2022-12-29-TermometroPolitico.html) | Termometro Politico | 1.7% | 1.4–2.0% | 1.4–2.1% | 1.3–2.2% | 1.2–2.3% |
+| [20–22 December 2022](2022-12-22-TermometroPolitico.html) | Termometro Politico | 1.6% | N/A | N/A | N/A | N/A |
+| [20–22 December 2022](2022-12-22-Ipsos.html) | Ipsos <br> Corriere della Sera | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
 | [19–21 December 2022](2022-12-21-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
 | [19–21 December 2022](2022-12-21-Ixè.html) | Ixè | 0.0% | N/A | N/A | N/A | N/A |
+| [20 December 2022](2022-12-20-Piepoli.html) | Piepoli <br> RaiNews24 | 0.0% | N/A | N/A | N/A | N/A |
 | [14–19 December 2022](2022-12-19-SWG.html) | SWG <br> La7 | 1.8% | 1.4–2.4% | 1.3–2.6% | 1.2–2.8% | 1.0–3.1% |
 | [19 December 2022](2022-12-19-EMG.html) | EMG <br> Rai 3 | 1.8% | 1.4–2.3% | 1.3–2.5% | 1.2–2.6% | 1.0–2.9% |
+| [17–19 December 2022](2022-12-19-BiDiMedia.html) | BiDiMedia | 1.5% | 1.1–2.1% | 1.0–2.3% | 1.0–2.4% | 0.8–2.8% |
 | [15–16 December 2022](2022-12-16-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [14–15 December 2022](2022-12-15-TermometroPolitico.html) | Termometro Politico | 1.6% | 1.4–1.9% | 1.3–2.0% | 1.2–2.1% | 1.1–2.2% |
 | [15 December 2022](2022-12-15-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 1.8% | 1.3–2.5% | 1.1–2.7% | 1.1–2.9% | 0.9–3.3% |
@@ -1167,10 +1173,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 24% | 100% |  |
-| 1.5–2.5% | 70% | 76% | Median |
-| 2.5–3.5% | 6% | 6% |  |
-| 3.5–4.5% | 0.1% | 0.1% |  |
+| 0.5–1.5% | 29% | 100% |  |
+| 1.5–2.5% | 67% | 71% | Median |
+| 2.5–3.5% | 4% | 4% |  |
+| 3.5–4.5% | 0% | 0% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -1183,10 +1189,16 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [31 December 2022](2022-12-31-Demopolis.html) | Demopolis |  |  |  |  |  |
+| [27–29 December 2022](2022-12-29-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
+| [20–22 December 2022](2022-12-22-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [20–22 December 2022](2022-12-22-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
 | [19–21 December 2022](2022-12-21-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
 | [19–21 December 2022](2022-12-21-Ixè.html) | Ixè |  |  |  |  |  |
+| [20 December 2022](2022-12-20-Piepoli.html) | Piepoli <br> RaiNews24 |  |  |  |  |  |
 | [14–19 December 2022](2022-12-19-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [19 December 2022](2022-12-19-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
+| [17–19 December 2022](2022-12-19-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
 | [15–16 December 2022](2022-12-16-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [14–15 December 2022](2022-12-15-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [15 December 2022](2022-12-15-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0 | 0 | 0 |
