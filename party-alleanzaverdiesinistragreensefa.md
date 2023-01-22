@@ -10,9 +10,20 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.5% | 2.5–4.6% | 2.3–4.9% | 2.1–5.2% | 1.7–5.9% |
+| N/A | [Poll Average](average.html) | 3.5% | 2.4–4.5% | 2.0–4.8% | 1.7–5.1% | 1.3–5.6% |
+| [17–19 January 2023](2023-01-19-TermometroPolitico.html) | Termometro Politico | 3.0% | 2.7–3.4% | 2.6–3.5% | 2.5–3.6% | 2.3–3.8% |
+| [11–16 January 2023](2023-01-16-SWG.html) | SWG <br> La7 | 3.7% | 3.0–4.5% | 2.9–4.7% | 2.7–4.9% | 2.5–5.3% |
+| [11–16 January 2023](2023-01-16-BiDimedia.html) | BiDimedia | 3.6% | 3.0–4.4% | 2.8–4.6% | 2.7–4.8% | 2.4–5.2% |
+| [12–13 January 2023](2023-01-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
+| [12–13 January 2023](2023-01-13-Piepoli.html) | Piepoli | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
+| [10–12 January 2023](2023-01-12-TermometroPolitico.html) | Termometro Politico | 3.2% | N/A | N/A | N/A | N/A |
+| [10 January 2023](2023-01-10-Euromedia.html) | Euromedia | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–3.0% | 1.0–3.3% |
+| [4–9 January 2023](2023-01-09-SWG.html) | SWG <br> La7 | 3.7% | N/A | N/A | N/A | N/A |
+| [4 January 2023](2023-01-04-EMG.html) | EMG <br> Rai 3 | 3.5% | 2.9–4.2% | 2.8–4.4% | 2.7–4.6% | 2.4–4.9% |
+| [27–31 December 2022](2022-12-31-Lab2101.html) | Lab2101 <br> Affari Italiani | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
 | [31 December 2022](2022-12-31-Demopolis.html) | Demopolis | 3.2% | 2.6–4.0% | 2.4–4.3% | 2.3–4.5% | 2.0–4.9% |
 | [27–29 December 2022](2022-12-29-TermometroPolitico.html) | Termometro Politico | 3.3% | 2.9–3.7% | 2.9–3.8% | 2.8–3.9% | 2.6–4.2% |
+| [29 December 2022](2022-12-29-EMG.html) | EMG <br> Rai 3 | 3.3% | 2.7–4.0% | 2.6–4.2% | 2.5–4.3% | 2.2–4.7% |
 | [20–22 December 2022](2022-12-22-TermometroPolitico.html) | Termometro Politico | 3.2% | N/A | N/A | N/A | N/A |
 | [20–22 December 2022](2022-12-22-Ipsos.html) | Ipsos <br> Corriere della Sera | 3.8% | 3.1–4.7% | 2.9–5.0% | 2.8–5.2% | 2.5–5.6% |
 | [19–21 December 2022](2022-12-21-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
@@ -1173,14 +1184,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.2% | 100% |  |
-| 1.5–2.5% | 10% | 99.8% |  |
-| 2.5–3.5% | 44% | 90% | Median |
-| 3.5–4.5% | 35% | 45% |  |
-| 4.5–5.5% | 9% | 10% |  |
-| 5.5–6.5% | 1.1% | 1.1% |  |
-| 6.5–7.5% | 0.1% | 0.1% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 0.5–1.5% | 1.4% | 100% |  |
+| 1.5–2.5% | 12% | 98.6% |  |
+| 2.5–3.5% | 41% | 87% | Median |
+| 3.5–4.5% | 37% | 46% |  |
+| 4.5–5.5% | 8% | 9% |  |
+| 5.5–6.5% | 0.6% | 0.6% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -1192,8 +1202,19 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [17–19 January 2023](2023-01-19-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
+| [11–16 January 2023](2023-01-16-SWG.html) | SWG <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [11–16 January 2023](2023-01-16-BiDimedia.html) | BiDimedia | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [12–13 January 2023](2023-01-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [12–13 January 2023](2023-01-13-Piepoli.html) | Piepoli | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [10–12 January 2023](2023-01-12-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [10 January 2023](2023-01-10-Euromedia.html) | Euromedia | 0 | 0 | 0 | 0 | 0 |
+| [4–9 January 2023](2023-01-09-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [4 January 2023](2023-01-04-EMG.html) | EMG <br> Rai 3 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [27–31 December 2022](2022-12-31-Lab2101.html) | Lab2101 <br> Affari Italiani | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [31 December 2022](2022-12-31-Demopolis.html) | Demopolis | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [27–29 December 2022](2022-12-29-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0–3 | 0–3 | 0–3 |
+| [29 December 2022](2022-12-29-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | [20–22 December 2022](2022-12-22-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [20–22 December 2022](2022-12-22-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [19–21 December 2022](2022-12-21-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0 | 0–3 |
@@ -2355,13 +2376,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 76% | 100% | Last Result, Median |
-| 1 | 0% | 24% |  |
-| 2 | 0% | 24% |  |
-| 3 | 5% | 24% |  |
-| 4 | 17% | 19% |  |
-| 5 | 2% | 2% |  |
-| 6 | 0.1% | 0.1% |  |
-| 7 | 0% | 0% |  |
+| 0 | 78% | 100% | Last Result, Median |
+| 1 | 0% | 22% |  |
+| 2 | 0% | 22% |  |
+| 3 | 7% | 22% |  |
+| 4 | 14% | 15% |  |
+| 5 | 1.2% | 1.3% |  |
+| 6 | 0% | 0% |  |
 
 

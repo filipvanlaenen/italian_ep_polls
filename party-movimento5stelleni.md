@@ -10,9 +10,20 @@ Last result: **21.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.6% | 16.0–19.3% | 15.5–19.8% | 15.1–20.3% | 14.3–21.2% |
+| N/A | [Poll Average](average.html) | 17.7% | 16.3–19.3% | 15.9–19.8% | 15.5–20.2% | 14.8–21.1% |
+| [17–19 January 2023](2023-01-19-TermometroPolitico.html) | Termometro Politico | 17.3% | 16.5–18.1% | 16.3–18.3% | 16.1–18.5% | 15.7–18.9% |
+| [11–16 January 2023](2023-01-16-SWG.html) | SWG <br> La7 | 17.6% | 16.2–19.1% | 15.9–19.5% | 15.5–19.8% | 14.9–20.6% |
+| [11–16 January 2023](2023-01-16-BiDimedia.html) | BiDimedia | 17.1% | 15.7–18.5% | 15.4–19.0% | 15.1–19.3% | 14.4–20.0% |
+| [12–13 January 2023](2023-01-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 17.6% | 16.1–19.2% | 15.7–19.7% | 15.4–20.1% | 14.7–20.9% |
+| [12–13 January 2023](2023-01-13-Piepoli.html) | Piepoli | 17.5% | 16.0–19.1% | 15.6–19.6% | 15.3–20.0% | 14.6–20.8% |
+| [10–12 January 2023](2023-01-12-TermometroPolitico.html) | Termometro Politico | 17.5% | N/A | N/A | N/A | N/A |
+| [10 January 2023](2023-01-10-Euromedia.html) | Euromedia | 17.5% | 16.0–19.1% | 15.6–19.6% | 15.3–20.0% | 14.6–20.8% |
+| [4–9 January 2023](2023-01-09-SWG.html) | SWG <br> La7 | 17.7% | N/A | N/A | N/A | N/A |
+| [4 January 2023](2023-01-04-EMG.html) | EMG <br> Rai 3 | 17.5% | 16.3–18.9% | 16.0–19.2% | 15.7–19.6% | 15.1–20.2% |
+| [27–31 December 2022](2022-12-31-Lab2101.html) | Lab2101 <br> Affari Italiani | 18.1% | 16.6–19.7% | 16.2–20.2% | 15.8–20.6% | 15.2–21.4% |
 | [31 December 2022](2022-12-31-Demopolis.html) | Demopolis | 17.8% | 16.3–19.4% | 15.9–19.9% | 15.5–20.3% | 14.9–21.1% |
 | [27–29 December 2022](2022-12-29-TermometroPolitico.html) | Termometro Politico | 17.7% | 16.9–18.5% | 16.7–18.8% | 16.5–19.0% | 16.1–19.4% |
+| [29 December 2022](2022-12-29-EMG.html) | EMG <br> Rai 3 | 17.3% | 16.1–18.6% | 15.7–19.0% | 15.4–19.3% | 14.8–20.0% |
 | [20–22 December 2022](2022-12-22-TermometroPolitico.html) | Termometro Politico | 17.6% | N/A | N/A | N/A | N/A |
 | [20–22 December 2022](2022-12-22-Ipsos.html) | Ipsos <br> Corriere della Sera | 17.6% | 16.1–19.2% | 15.7–19.7% | 15.4–20.1% | 14.7–20.9% |
 | [19–21 December 2022](2022-12-21-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 18.5% | 17.0–20.2% | 16.6–20.6% | 16.2–21.0% | 15.5–21.8% |
@@ -1172,17 +1183,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 0.1% | 100% |  |
-| 13.5–14.5% | 0.8% | 99.9% |  |
-| 14.5–15.5% | 4% | 99.1% |  |
-| 15.5–16.5% | 15% | 95% |  |
-| 16.5–17.5% | 28% | 80% |  |
-| 17.5–18.5% | 30% | 52% | Median |
-| 18.5–19.5% | 15% | 22% |  |
-| 19.5–20.5% | 5% | 7% |  |
-| 20.5–21.5% | 1.3% | 2% | Last Result |
-| 21.5–22.5% | 0.2% | 0.3% |  |
+| 12.5–13.5% | 0% | 100% |  |
+| 13.5–14.5% | 0.2% | 100% |  |
+| 14.5–15.5% | 2% | 99.8% |  |
+| 15.5–16.5% | 13% | 97% |  |
+| 16.5–17.5% | 30% | 85% |  |
+| 17.5–18.5% | 31% | 55% | Median |
+| 18.5–19.5% | 17% | 24% |  |
+| 19.5–20.5% | 6% | 7% |  |
+| 20.5–21.5% | 1.3% | 1.4% | Last Result |
+| 21.5–22.5% | 0.2% | 0.2% |  |
 | 22.5–23.5% | 0% | 0% |  |
 
 
@@ -1195,8 +1205,19 @@ Last result: **17** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 15 | 13–16 | 13–17 | 13–17 | 12–18 |
+| [17–19 January 2023](2023-01-19-TermometroPolitico.html) | Termometro Politico | 15 | 14–15 | 14–16 | 13–16 | 13–17 |
+| [11–16 January 2023](2023-01-16-SWG.html) | SWG <br> La7 | 15 | 14–16 | 14–17 | 13–17 | 13–18 |
+| [11–16 January 2023](2023-01-16-BiDimedia.html) | BiDimedia | 14 | 13–16 | 13–16 | 13–17 | 13–18 |
+| [12–13 January 2023](2023-01-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 15 | 13–16 | 13–16 | 12–17 | 12–17 |
+| [12–13 January 2023](2023-01-13-Piepoli.html) | Piepoli | 15 | 14–17 | 13–17 | 13–17 | 12–18 |
+| [10–12 January 2023](2023-01-12-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [10 January 2023](2023-01-10-Euromedia.html) | Euromedia | 15 | 13–15 | 13–16 | 13–17 | 12–17 |
+| [4–9 January 2023](2023-01-09-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [4 January 2023](2023-01-04-EMG.html) | EMG <br> Rai 3 | 15 | 14–16 | 14–17 | 14–17 | 13–17 |
+| [27–31 December 2022](2022-12-31-Lab2101.html) | Lab2101 <br> Affari Italiani | 15 | 14–16 | 14–17 | 13–17 | 12–18 |
 | [31 December 2022](2022-12-31-Demopolis.html) | Demopolis | 14 | 13–15 | 12–15 | 12–16 | 12–16 |
 | [27–29 December 2022](2022-12-29-TermometroPolitico.html) | Termometro Politico | 16 | 15–16 | 15–17 | 14–17 | 14–17 |
+| [29 December 2022](2022-12-29-EMG.html) | EMG <br> Rai 3 | 15 | 14–16 | 14–17 | 13–17 | 13–17 |
 | [20–22 December 2022](2022-12-22-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [20–22 December 2022](2022-12-22-Ipsos.html) | Ipsos <br> Corriere della Sera | 16 | 14–17 | 13–17 | 12–17 | 12–18 |
 | [19–21 December 2022](2022-12-21-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 15 | 14–16 | 13–16 | 13–17 | 12–18 |
@@ -2358,15 +2379,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 0.2% | 100% |  |
-| 12 | 2% | 99.8% |  |
-| 13 | 11% | 98% |  |
-| 14 | 26% | 86% |  |
-| 15 | 29% | 60% | Median |
-| 16 | 25% | 31% |  |
+| 11 | 0.1% | 100% |  |
+| 12 | 2% | 99.9% |  |
+| 13 | 10% | 98% |  |
+| 14 | 25% | 88% |  |
+| 15 | 35% | 63% | Median |
+| 16 | 21% | 28% |  |
 | 17 | 6% | 7% | Last Result |
-| 18 | 0.9% | 1.0% |  |
-| 19 | 0.1% | 0.2% |  |
+| 18 | 0.7% | 0.8% |  |
+| 19 | 0.1% | 0.1% |  |
 | 20 | 0% | 0% |  |
 
 
