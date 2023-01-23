@@ -35,10 +35,10 @@
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#fratelli-d’italia-(ecr)">Fratelli d’Italia (ECR)</a> | 0 | 24 | 22–25 |21–25 |21–26 |20–26 |
 | <a href="#movimento-5-stelle-(ni)">Movimento 5 Stelle (NI)</a> | 17 | 15 | 13–15 |13–16 |13–17 |12–17 |
-| <a href="#partito-democratico-(s&d)">Partito Democratico (S&D)</a> | 31 | 13 | 11–14 |11–14 |11–15 |10–16 |
+| <a href="#partito-democratico-(s&d)">Partito Democratico (S&D)</a> | 31 | 14 | 12–15 |12–15 |12–16 |11–17 |
 | <a href="#lega-nord-(id)">Lega Nord (ID)</a> | 5 | 8 | 6–8 |6–9 |6–9 |6–10 |
 | <a href="#azione–italia-viva-(re)">Azione–Italia Viva (RE)</a> | 0 | 7 | 6–8 |6–8 |6–8 |5–9 |
-| <a href="#forza-italia-(epp)">Forza Italia (EPP)</a> | 13 | 6 | 5–7 |5–7 |5–7 |4–8 |
+| <a href="#forza-italia-(epp)">Forza Italia (EPP)</a> | 13 | 5 | 4–6 |4–6 |4–6 |3–7 |
 | <a href="#italexit–per-l’italia-con-paragone-(*)">Italexit–Per l’Italia con Paragone (*)</a> | 0 | 0 | 0 |0 |0 |0–3 |
 | <a href="#più-europa-(re)">Più Europa (RE)</a> | 0 | 0 | 0 |0 |0 |0–3 |
 | <a href="#alleanza-verdi-e-sinistra-(greens/efa)">Alleanza Verdi e Sinistra (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0 |
@@ -108,14 +108,13 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.8% | 100% |  |
-| 11 | 12% | 99.2% |  |
-| 12 | 27% | 88% |  |
-| 13 | 44% | 61% | Median |
-| 14 | 14% | 18% |  |
-| 15 | 3% | 3% |  |
-| 16 | 0.7% | 0.7% |  |
-| 17 | 0% | 0% |  |
+| 11 | 0.8% | 100% |  |
+| 12 | 12% | 99.2% |  |
+| 13 | 27% | 88% |  |
+| 14 | 44% | 61% | Median |
+| 15 | 14% | 18% |  |
+| 16 | 3% | 3% |  |
+| 17 | 0.7% | 0.7% |  |
 | 18 | 0% | 0% |  |
 | 19 | 0% | 0% |  |
 | 20 | 0% | 0% |  |
@@ -175,11 +174,12 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 1.4% | 100% |  |
-| 5 | 33% | 98.6% |  |
-| 6 | 53% | 66% | Median |
-| 7 | 11% | 12% |  |
-| 8 | 1.0% | 1.0% |  |
+| 3 | 1.4% | 100% |  |
+| 4 | 33% | 98.6% |  |
+| 5 | 53% | 66% | Median |
+| 6 | 11% | 12% |  |
+| 7 | 1.0% | 1.0% |  |
+| 8 | 0% | 0% |  |
 | 9 | 0% | 0% |  |
 | 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |

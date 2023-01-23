@@ -30,15 +30,15 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [19–21 December 2022](2022-12-21-Ixè.html) | Ixè | 4.3% | 3.6–5.2% | 3.4–5.5% | 3.2–5.7% | 2.9–6.2% |
 | [20 December 2022](2022-12-20-Piepoli.html) | Piepoli <br> RaiNews24 | 4.0% | 3.1–5.4% | 2.8–5.8% | 2.6–6.1% | 2.2–6.8% |
 | [14–19 December 2022](2022-12-19-SWG.html) | SWG <br> La7 | 4.0% | 3.4–4.8% | 3.2–5.1% | 3.0–5.3% | 2.7–5.7% |
-| [19 December 2022](2022-12-19-EMG.html) | EMG <br> Rai 3 | 3.2% | 2.6–3.9% | 2.5–4.1% | 2.3–4.3% | 2.1–4.6% |
+| [19 December 2022](2022-12-19-EMG.html) | EMG <br> Rai 3 | 3.2% | N/A | N/A | N/A | N/A |
 | [17–19 December 2022](2022-12-19-BiDiMedia.html) | BiDiMedia | 3.7% | 3.0–4.5% | 2.9–4.8% | 2.7–5.0% | 2.5–5.4% |
 | [15–16 December 2022](2022-12-16-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
-| [14–15 December 2022](2022-12-15-TermometroPolitico.html) | Termometro Politico | 3.3% | 2.9–3.7% | 2.9–3.8% | 2.8–3.9% | 2.6–4.1% |
+| [14–15 December 2022](2022-12-15-TermometroPolitico.html) | Termometro Politico | 3.3% | N/A | N/A | N/A | N/A |
 | [15 December 2022](2022-12-15-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 3.1% | 2.5–4.1% | 2.3–4.3% | 2.1–4.6% | 1.8–5.1% |
 | [15 December 2022](2022-12-15-Euromedia.html) | Euromedia | 2.6% | 2.0–3.5% | 1.9–3.8% | 1.7–4.0% | 1.5–4.5% |
 | [15 December 2022](2022-12-15-EMG.html) | EMG <br> Rai 3 | 3.2% | N/A | N/A | N/A | N/A |
-| [7–12 December 2022](2022-12-12-SWG.html) | SWG <br> La7 | 4.1% | 3.4–4.9% | 3.2–5.2% | 3.1–5.4% | 2.8–5.8% |
-| [8–12 December 2022](2022-12-12-BiDiMedia.html) | BiDiMedia | 3.8% | 3.3–4.4% | 3.2–4.6% | 3.1–4.8% | 2.8–5.1% |
+| [7–12 December 2022](2022-12-12-SWG.html) | SWG <br> La7 | 4.1% | N/A | N/A | N/A | N/A |
+| [8–12 December 2022](2022-12-12-BiDiMedia.html) | BiDiMedia | 3.8% | N/A | N/A | N/A | N/A |
 | [9 December 2022](2022-12-09-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
 | [7–8 December 2022](2022-12-08-TermometroPolitico.html) | Termometro Politico | 3.5% | 3.1–3.9% | 3.0–4.1% | 2.9–4.2% | 2.8–4.4% |
 | [8 December 2022](2022-12-08-EMG.html) | EMG <br> Rai 3 | 3.2% | 2.7–3.9% | 2.5–4.1% | 2.4–4.3% | 2.2–4.6% |
@@ -1221,15 +1221,15 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [19–21 December 2022](2022-12-21-Ixè.html) | Ixè | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [20 December 2022](2022-12-20-Piepoli.html) | Piepoli <br> RaiNews24 | 4 | 0–4 | 0–5 | 0–5 | 0–6 |
 | [14–19 December 2022](2022-12-19-SWG.html) | SWG <br> La7 | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [19 December 2022](2022-12-19-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0–4 | 0–4 |
+| [19 December 2022](2022-12-19-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [17–19 December 2022](2022-12-19-BiDiMedia.html) | BiDiMedia | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [15–16 December 2022](2022-12-16-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
-| [14–15 December 2022](2022-12-15-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0–3 |
+| [14–15 December 2022](2022-12-15-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [15 December 2022](2022-12-15-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | [15 December 2022](2022-12-15-Euromedia.html) | Euromedia | 0 | 0 | 0 | 0 | 0–4 |
 | [15 December 2022](2022-12-15-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
-| [7–12 December 2022](2022-12-12-SWG.html) | SWG <br> La7 | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [8–12 December 2022](2022-12-12-BiDiMedia.html) | BiDiMedia | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [7–12 December 2022](2022-12-12-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [8–12 December 2022](2022-12-12-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
 | [9 December 2022](2022-12-09-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [7–8 December 2022](2022-12-08-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | [8 December 2022](2022-12-08-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0–4 | 0–4 |

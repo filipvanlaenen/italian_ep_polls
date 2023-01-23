@@ -30,15 +30,15 @@ Last result: **16.8%** (General Election of 26 May 2019)
 | [19–21 December 2022](2022-12-21-Ixè.html) | Ixè | 6.9% | 6.0–8.0% | 5.7–8.4% | 5.5–8.7% | 5.1–9.2% |
 | [20 December 2022](2022-12-20-Piepoli.html) | Piepoli <br> RaiNews24 | 6.0% | 4.8–7.6% | 4.5–8.0% | 4.2–8.4% | 3.7–9.3% |
 | [14–19 December 2022](2022-12-19-SWG.html) | SWG <br> La7 | 6.1% | 5.3–7.1% | 5.0–7.3% | 4.9–7.6% | 4.5–8.1% |
-| [19 December 2022](2022-12-19-EMG.html) | EMG <br> Rai 3 | 6.7% | 5.9–7.7% | 5.7–7.9% | 5.5–8.2% | 5.1–8.6% |
+| [19 December 2022](2022-12-19-EMG.html) | EMG <br> Rai 3 | 6.7% | N/A | N/A | N/A | N/A |
 | [17–19 December 2022](2022-12-19-BiDiMedia.html) | BiDiMedia | 6.9% | 6.0–8.0% | 5.8–8.3% | 5.6–8.6% | 5.2–9.1% |
 | [15–16 December 2022](2022-12-16-Tecnè.html) | Tecnè <br> Agenzia Dire | 7.4% | 6.4–8.6% | 6.2–8.9% | 5.9–9.2% | 5.5–9.8% |
-| [14–15 December 2022](2022-12-15-TermometroPolitico.html) | Termometro Politico | 7.0% | 6.5–7.6% | 6.3–7.7% | 6.2–7.9% | 6.0–8.2% |
+| [14–15 December 2022](2022-12-15-TermometroPolitico.html) | Termometro Politico | 7.0% | N/A | N/A | N/A | N/A |
 | [15 December 2022](2022-12-15-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 6.0% | 5.0–7.2% | 4.8–7.6% | 4.6–7.9% | 4.1–8.5% |
 | [15 December 2022](2022-12-15-Euromedia.html) | Euromedia | 7.9% | 6.8–9.2% | 6.5–9.6% | 6.2–10.0% | 5.7–10.6% |
 | [15 December 2022](2022-12-15-EMG.html) | EMG <br> Rai 3 | 6.7% | N/A | N/A | N/A | N/A |
-| [7–12 December 2022](2022-12-12-SWG.html) | SWG <br> La7 | 6.0% | 5.2–7.0% | 5.0–7.3% | 4.8–7.5% | 4.4–8.0% |
-| [8–12 December 2022](2022-12-12-BiDiMedia.html) | BiDiMedia | 7.0% | 6.3–7.8% | 6.1–8.0% | 5.9–8.2% | 5.6–8.6% |
+| [7–12 December 2022](2022-12-12-SWG.html) | SWG <br> La7 | 6.0% | N/A | N/A | N/A | N/A |
+| [8–12 December 2022](2022-12-12-BiDiMedia.html) | BiDiMedia | 7.0% | N/A | N/A | N/A | N/A |
 | [9 December 2022](2022-12-09-Tecnè.html) | Tecnè <br> Agenzia Dire | 7.3% | 6.3–8.5% | 6.1–8.8% | 5.8–9.1% | 5.4–9.7% |
 | [7–8 December 2022](2022-12-08-TermometroPolitico.html) | Termometro Politico | 6.9% | 6.4–7.5% | 6.2–7.7% | 6.1–7.8% | 5.9–8.1% |
 | [8 December 2022](2022-12-08-EMG.html) | EMG <br> Rai 3 | 6.6% | 5.8–7.5% | 5.6–7.8% | 5.4–8.0% | 5.1–8.5% |
@@ -1208,35 +1208,35 @@ Last result: **13** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
-| [17–19 January 2023](2023-01-19-TermometroPolitico.html) | Termometro Politico | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
-| [11–16 January 2023](2023-01-16-SWG.html) | SWG <br> La7 | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
-| [11–16 January 2023](2023-01-16-BiDimedia.html) | BiDimedia | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
-| [12–13 January 2023](2023-01-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
-| [12–13 January 2023](2023-01-13-Piepoli.html) | Piepoli | 5 | 5–7 | 5–7 | 4–7 | 4–7 |
+| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 3–6 | 3–7 |
+| [17–19 January 2023](2023-01-19-TermometroPolitico.html) | Termometro Politico | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
+| [11–16 January 2023](2023-01-16-SWG.html) | SWG <br> La7 | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
+| [11–16 January 2023](2023-01-16-BiDimedia.html) | BiDimedia | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
+| [12–13 January 2023](2023-01-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
+| [12–13 January 2023](2023-01-13-Piepoli.html) | Piepoli | 4 | 4–6 | 4–6 | 3–6 | 3–6 |
 | [10–12 January 2023](2023-01-12-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [10 January 2023](2023-01-10-Euromedia.html) | Euromedia | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
+| [10 January 2023](2023-01-10-Euromedia.html) | Euromedia | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
 | [4–9 January 2023](2023-01-09-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [4 January 2023](2023-01-04-EMG.html) | EMG <br> Rai 3 | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
-| [27–31 December 2022](2022-12-31-Lab2101.html) | Lab2101 <br> Affari Italiani | 5 | 5–7 | 5–7 | 4–7 | 4–7 |
-| [31 December 2022](2022-12-31-Demopolis.html) | Demopolis | 5 | 5–6 | 4–6 | 4–7 | 4–7 |
-| [27–29 December 2022](2022-12-29-TermometroPolitico.html) | Termometro Politico | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
-| [29 December 2022](2022-12-29-EMG.html) | EMG <br> Rai 3 | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
+| [4 January 2023](2023-01-04-EMG.html) | EMG <br> Rai 3 | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
+| [27–31 December 2022](2022-12-31-Lab2101.html) | Lab2101 <br> Affari Italiani | 4 | 4–6 | 4–6 | 3–6 | 3–6 |
+| [31 December 2022](2022-12-31-Demopolis.html) | Demopolis | 4 | 4–5 | 3–5 | 3–6 | 3–6 |
+| [27–29 December 2022](2022-12-29-TermometroPolitico.html) | Termometro Politico | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
+| [29 December 2022](2022-12-29-EMG.html) | EMG <br> Rai 3 | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [20–22 December 2022](2022-12-22-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [20–22 December 2022](2022-12-22-Ipsos.html) | Ipsos <br> Corriere della Sera | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
-| [19–21 December 2022](2022-12-21-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
-| [19–21 December 2022](2022-12-21-Ixè.html) | Ixè | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
-| [20 December 2022](2022-12-20-Piepoli.html) | Piepoli <br> RaiNews24 | 5 | 4–6 | 4–7 | 4–7 | 0–8 |
-| [14–19 December 2022](2022-12-19-SWG.html) | SWG <br> La7 | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
-| [19 December 2022](2022-12-19-EMG.html) | EMG <br> Rai 3 | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
-| [17–19 December 2022](2022-12-19-BiDiMedia.html) | BiDiMedia | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
-| [15–16 December 2022](2022-12-16-Tecnè.html) | Tecnè <br> Agenzia Dire | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
-| [14–15 December 2022](2022-12-15-TermometroPolitico.html) | Termometro Politico | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
-| [15 December 2022](2022-12-15-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
-| [15 December 2022](2022-12-15-Euromedia.html) | Euromedia | 7 | 5–8 | 5–8 | 5–8 | 5–9 |
+| [20–22 December 2022](2022-12-22-Ipsos.html) | Ipsos <br> Corriere della Sera | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
+| [19–21 December 2022](2022-12-21-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
+| [19–21 December 2022](2022-12-21-Ixè.html) | Ixè | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
+| [20 December 2022](2022-12-20-Piepoli.html) | Piepoli <br> RaiNews24 | 4 | 3–5 | 3–6 | 3–6 | 0–7 |
+| [14–19 December 2022](2022-12-19-SWG.html) | SWG <br> La7 | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
+| [19 December 2022](2022-12-19-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
+| [17–19 December 2022](2022-12-19-BiDiMedia.html) | BiDiMedia | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
+| [15–16 December 2022](2022-12-16-Tecnè.html) | Tecnè <br> Agenzia Dire | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
+| [14–15 December 2022](2022-12-15-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [15 December 2022](2022-12-15-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
+| [15 December 2022](2022-12-15-Euromedia.html) | Euromedia | 6 | 4–7 | 4–7 | 4–7 | 4–8 |
 | [15 December 2022](2022-12-15-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
-| [7–12 December 2022](2022-12-12-SWG.html) | SWG <br> La7 | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
-| [8–12 December 2022](2022-12-12-BiDiMedia.html) | BiDiMedia | 6 | 6 | 5–7 | 5–7 | 5–7 |
+| [7–12 December 2022](2022-12-12-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [8–12 December 2022](2022-12-12-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
 | [9 December 2022](2022-12-09-Tecnè.html) | Tecnè <br> Agenzia Dire | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
 | [7–8 December 2022](2022-12-08-TermometroPolitico.html) | Termometro Politico | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
 | [8 December 2022](2022-12-08-EMG.html) | EMG <br> Rai 3 | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
@@ -2383,12 +2383,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 3% | 100% |  |
-| 5 | 32% | 97% |  |
-| 6 | 43% | 65% | Median |
-| 7 | 20% | 22% |  |
-| 8 | 2% | 2% |  |
-| 9 | 0.2% | 0.2% |  |
+| 3 | 3% | 100% |  |
+| 4 | 32% | 97% |  |
+| 5 | 43% | 65% | Median |
+| 6 | 20% | 22% |  |
+| 7 | 2% | 2% |  |
+| 8 | 0.2% | 0.2% |  |
+| 9 | 0% | 0% |  |
 | 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |

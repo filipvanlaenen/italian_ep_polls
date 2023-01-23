@@ -30,15 +30,15 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [19–21 December 2022](2022-12-21-Ixè.html) | Ixè | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
 | [20 December 2022](2022-12-20-Piepoli.html) | Piepoli <br> RaiNews24 | 2.6% | 1.9–3.8% | 1.7–4.1% | 1.5–4.4% | 1.2–5.0% |
 | [14–19 December 2022](2022-12-19-SWG.html) | SWG <br> La7 | 2.2% | 1.7–2.8% | 1.6–3.0% | 1.5–3.2% | 1.3–3.5% |
-| [19 December 2022](2022-12-19-EMG.html) | EMG <br> Rai 3 | 2.3% | 1.8–2.9% | 1.7–3.1% | 1.6–3.2% | 1.4–3.6% |
+| [19 December 2022](2022-12-19-EMG.html) | EMG <br> Rai 3 | 2.3% | N/A | N/A | N/A | N/A |
 | [17–19 December 2022](2022-12-19-BiDiMedia.html) | BiDiMedia | 2.2% | 1.7–2.8% | 1.6–3.0% | 1.4–3.2% | 1.2–3.6% |
 | [15–16 December 2022](2022-12-16-Tecnè.html) | Tecnè <br> Agenzia Dire | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–3.0% | 1.0–3.3% |
-| [14–15 December 2022](2022-12-15-TermometroPolitico.html) | Termometro Politico | 2.4% | 2.1–2.8% | 2.0–2.9% | 2.0–3.0% | 1.8–3.1% |
+| [14–15 December 2022](2022-12-15-TermometroPolitico.html) | Termometro Politico | 2.4% | N/A | N/A | N/A | N/A |
 | [15 December 2022](2022-12-15-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 2.4% | 1.8–3.2% | 1.6–3.5% | 1.5–3.7% | 1.3–4.1% |
 | [15 December 2022](2022-12-15-Euromedia.html) | Euromedia | 2.5% | 1.9–3.4% | 1.8–3.6% | 1.6–3.8% | 1.4–4.3% |
 | [15 December 2022](2022-12-15-EMG.html) | EMG <br> Rai 3 | 2.3% | N/A | N/A | N/A | N/A |
-| [7–12 December 2022](2022-12-12-SWG.html) | SWG <br> La7 | 2.1% | 1.6–2.7% | 1.5–2.9% | 1.4–3.1% | 1.2–3.4% |
-| [8–12 December 2022](2022-12-12-BiDiMedia.html) | BiDiMedia | 2.1% | 1.7–2.6% | 1.6–2.7% | 1.5–2.8% | 1.4–3.0% |
+| [7–12 December 2022](2022-12-12-SWG.html) | SWG <br> La7 | 2.1% | N/A | N/A | N/A | N/A |
+| [8–12 December 2022](2022-12-12-BiDiMedia.html) | BiDiMedia | 2.1% | N/A | N/A | N/A | N/A |
 | [9 December 2022](2022-12-09-Tecnè.html) | Tecnè <br> Agenzia Dire | 1.8% | 1.4–2.5% | 1.2–2.7% | 1.1–2.8% | 1.0–3.2% |
 | [7–8 December 2022](2022-12-08-TermometroPolitico.html) | Termometro Politico | 2.2% | 1.9–2.6% | 1.8–2.7% | 1.8–2.8% | 1.6–2.9% |
 | [8 December 2022](2022-12-08-EMG.html) | EMG <br> Rai 3 | 2.5% | 2.1–3.1% | 1.9–3.3% | 1.8–3.5% | 1.6–3.8% |
@@ -1219,15 +1219,15 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [19–21 December 2022](2022-12-21-Ixè.html) | Ixè | 0 | 0 | 0 | 0 | 0 |
 | [20 December 2022](2022-12-20-Piepoli.html) | Piepoli <br> RaiNews24 | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | [14–19 December 2022](2022-12-19-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
-| [19 December 2022](2022-12-19-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
+| [19 December 2022](2022-12-19-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [17–19 December 2022](2022-12-19-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
 | [15–16 December 2022](2022-12-16-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
-| [14–15 December 2022](2022-12-15-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
+| [14–15 December 2022](2022-12-15-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [15 December 2022](2022-12-15-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0 | 0 | 0 |
 | [15 December 2022](2022-12-15-Euromedia.html) | Euromedia | 0 | 0 | 0 | 0 | 0–4 |
 | [15 December 2022](2022-12-15-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
-| [7–12 December 2022](2022-12-12-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
-| [8–12 December 2022](2022-12-12-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
+| [7–12 December 2022](2022-12-12-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [8–12 December 2022](2022-12-12-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
 | [9 December 2022](2022-12-09-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
 | [7–8 December 2022](2022-12-08-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [8 December 2022](2022-12-08-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0–3 |

@@ -30,15 +30,15 @@ Last result: **3.7%** (General Election of 26 May 2019)
 | [19–21 December 2022](2022-12-21-Ixè.html) | Ixè | 30.3% | 28.5–32.2% | 28.0–32.8% | 27.5–33.2% | 26.7–34.2% |
 | [20 December 2022](2022-12-20-Piepoli.html) | Piepoli <br> RaiNews24 | 29.6% | 27.1–32.3% | 26.4–33.1% | 25.8–33.8% | 24.6–35.1% |
 | [14–19 December 2022](2022-12-19-SWG.html) | SWG <br> La7 | 30.6% | 28.9–32.3% | 28.4–32.8% | 28.0–33.3% | 27.3–34.1% |
-| [19 December 2022](2022-12-19-EMG.html) | EMG <br> Rai 3 | 29.2% | 27.7–30.9% | 27.3–31.3% | 26.9–31.7% | 26.1–32.5% |
+| [19 December 2022](2022-12-19-EMG.html) | EMG <br> Rai 3 | 29.2% | N/A | N/A | N/A | N/A |
 | [17–19 December 2022](2022-12-19-BiDiMedia.html) | BiDiMedia | 29.3% | 27.6–31.1% | 27.1–31.6% | 26.7–32.1% | 25.9–32.9% |
 | [15–16 December 2022](2022-12-16-Tecnè.html) | Tecnè <br> Agenzia Dire | 30.8% | 29.0–32.7% | 28.5–33.3% | 28.0–33.7% | 27.1–34.7% |
-| [14–15 December 2022](2022-12-15-TermometroPolitico.html) | Termometro Politico | 28.7% | 27.8–29.7% | 27.5–29.9% | 27.3–30.2% | 26.8–30.7% |
+| [14–15 December 2022](2022-12-15-TermometroPolitico.html) | Termometro Politico | 28.7% | N/A | N/A | N/A | N/A |
 | [15 December 2022](2022-12-15-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 33.0% | 30.9–35.2% | 30.3–35.8% | 29.8–36.3% | 28.8–37.4% |
 | [15 December 2022](2022-12-15-Euromedia.html) | Euromedia | 28.6% | 26.6–30.7% | 26.1–31.3% | 25.6–31.9% | 24.7–32.9% |
 | [15 December 2022](2022-12-15-EMG.html) | EMG <br> Rai 3 | 29.2% | N/A | N/A | N/A | N/A |
-| [7–12 December 2022](2022-12-12-SWG.html) | SWG <br> La7 | 30.8% | 29.2–32.6% | 28.7–33.1% | 28.3–33.5% | 27.5–34.4% |
-| [8–12 December 2022](2022-12-12-BiDiMedia.html) | BiDiMedia | 29.1% | 27.8–30.4% | 27.5–30.8% | 27.1–31.1% | 26.5–31.8% |
+| [7–12 December 2022](2022-12-12-SWG.html) | SWG <br> La7 | 30.8% | N/A | N/A | N/A | N/A |
+| [8–12 December 2022](2022-12-12-BiDiMedia.html) | BiDiMedia | 29.1% | N/A | N/A | N/A | N/A |
 | [9 December 2022](2022-12-09-Tecnè.html) | Tecnè <br> Agenzia Dire | 30.4% | 28.6–32.3% | 28.1–32.9% | 27.6–33.3% | 26.8–34.3% |
 | [7–8 December 2022](2022-12-08-TermometroPolitico.html) | Termometro Politico | 28.5% | 27.5–29.5% | 27.2–29.8% | 27.0–30.1% | 26.5–30.5% |
 | [8 December 2022](2022-12-08-EMG.html) | EMG <br> Rai 3 | 29.2% | 27.7–30.8% | 27.3–31.2% | 26.9–31.6% | 26.2–32.4% |
@@ -1247,15 +1247,15 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [19–21 December 2022](2022-12-21-Ixè.html) | Ixè | 26 | 23–27 | 23–28 | 23–28 | 22–29 |
 | [20 December 2022](2022-12-20-Piepoli.html) | Piepoli <br> RaiNews24 | 24 | 22–27 | 22–28 | 21–28 | 20–30 |
 | [14–19 December 2022](2022-12-19-SWG.html) | SWG <br> La7 | 26 | 24–28 | 24–29 | 24–29 | 23–29 |
-| [19 December 2022](2022-12-19-EMG.html) | EMG <br> Rai 3 | 26 | 24–28 | 24–28 | 23–28 | 23–29 |
+| [19 December 2022](2022-12-19-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [17–19 December 2022](2022-12-19-BiDiMedia.html) | BiDiMedia | 25 | 24–27 | 24–27 | 23–28 | 22–29 |
 | [15–16 December 2022](2022-12-16-Tecnè.html) | Tecnè <br> Agenzia Dire | 25 | 24–27 | 23–28 | 23–28 | 22–29 |
-| [14–15 December 2022](2022-12-15-TermometroPolitico.html) | Termometro Politico | 25 | 24–26 | 24–26 | 24–26 | 23–27 |
+| [14–15 December 2022](2022-12-15-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [15 December 2022](2022-12-15-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 28 | 26–30 | 26–30 | 25–30 | 24–31 |
 | [15 December 2022](2022-12-15-Euromedia.html) | Euromedia | 24 | 22–25 | 22–26 | 21–26 | 20–27 |
 | [15 December 2022](2022-12-15-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
-| [7–12 December 2022](2022-12-12-SWG.html) | SWG <br> La7 | 26 | 24–28 | 24–29 | 23–29 | 22–29 |
-| [8–12 December 2022](2022-12-12-BiDiMedia.html) | BiDiMedia | 25 | 24–26 | 24–26 | 24–27 | 22–28 |
+| [7–12 December 2022](2022-12-12-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [8–12 December 2022](2022-12-12-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
 | [9 December 2022](2022-12-09-Tecnè.html) | Tecnè <br> Agenzia Dire | 25 | 23–27 | 23–27 | 22–28 | 22–29 |
 | [7–8 December 2022](2022-12-08-TermometroPolitico.html) | Termometro Politico | 25 | 24–26 | 24–26 | 23–27 | 23–27 |
 | [8 December 2022](2022-12-08-EMG.html) | EMG <br> Rai 3 | 26 | 24–27 | 24–27 | 24–27 | 23–28 |

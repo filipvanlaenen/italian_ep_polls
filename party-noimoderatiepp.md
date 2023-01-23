@@ -30,7 +30,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [19–21 December 2022](2022-12-21-Ixè.html) | Ixè | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [20 December 2022](2022-12-20-Piepoli.html) | Piepoli <br> RaiNews24 | 1.6% | 1.1–2.6% | 0.9–2.9% | 0.8–3.1% | 0.6–3.7% |
 | [14–19 December 2022](2022-12-19-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
-| [19 December 2022](2022-12-19-EMG.html) | EMG <br> Rai 3 | 1.4% | 1.1–1.9% | 1.0–2.1% | 0.9–2.2% | 0.8–2.5% |
+| [19 December 2022](2022-12-19-EMG.html) | EMG <br> Rai 3 | 1.4% | N/A | N/A | N/A | N/A |
 | [17–19 December 2022](2022-12-19-BiDiMedia.html) | BiDiMedia | 0.8% | 0.5–1.3% | 0.5–1.4% | 0.4–1.5% | 0.3–1.8% |
 | [15–16 December 2022](2022-12-16-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [14–15 December 2022](2022-12-15-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
@@ -38,7 +38,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [15 December 2022](2022-12-15-Euromedia.html) | Euromedia | 0.6% | 0.4–1.2% | 0.3–1.3% | 0.3–1.5% | 0.2–1.8% |
 | [15 December 2022](2022-12-15-EMG.html) | EMG <br> Rai 3 | 1.4% | N/A | N/A | N/A | N/A |
 | [7–12 December 2022](2022-12-12-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
-| [8–12 December 2022](2022-12-12-BiDiMedia.html) | BiDiMedia | 0.7% | 0.5–1.0% | 0.5–1.1% | 0.4–1.2% | 0.3–1.3% |
+| [8–12 December 2022](2022-12-12-BiDiMedia.html) | BiDiMedia | 0.7% | N/A | N/A | N/A | N/A |
 | [9 December 2022](2022-12-09-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [7–8 December 2022](2022-12-08-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
 | [8 December 2022](2022-12-08-EMG.html) | EMG <br> Rai 3 | 1.4% | 1.1–1.9% | 1.0–2.0% | 0.9–2.2% | 0.8–2.4% |
@@ -1218,7 +1218,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [19–21 December 2022](2022-12-21-Ixè.html) | Ixè | 0 | 0 | 0 | 0 | 0 |
 | [20 December 2022](2022-12-20-Piepoli.html) | Piepoli <br> RaiNews24 | 0 | 0 | 0 | 0 | 0 |
 | [14–19 December 2022](2022-12-19-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [19 December 2022](2022-12-19-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
+| [19 December 2022](2022-12-19-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [17–19 December 2022](2022-12-19-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
 | [15–16 December 2022](2022-12-16-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [14–15 December 2022](2022-12-15-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
@@ -1226,7 +1226,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [15 December 2022](2022-12-15-Euromedia.html) | Euromedia | 0 | 0 | 0 | 0 | 0 |
 | [15 December 2022](2022-12-15-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [7–12 December 2022](2022-12-12-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [8–12 December 2022](2022-12-12-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
+| [8–12 December 2022](2022-12-12-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
 | [9 December 2022](2022-12-09-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [7–8 December 2022](2022-12-08-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [8 December 2022](2022-12-08-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |

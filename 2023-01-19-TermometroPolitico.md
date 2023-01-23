@@ -35,10 +35,10 @@
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#fratelli-d’italia-(ecr)">Fratelli d’Italia (ECR)</a> | 0 | 25 | 24–26 |23–26 |23–26 |23–27 |
 | <a href="#movimento-5-stelle-(ni)">Movimento 5 Stelle (NI)</a> | 17 | 15 | 14–15 |14–16 |13–16 |13–17 |
-| <a href="#partito-democratico-(s&d)">Partito Democratico (S&D)</a> | 31 | 13 | 12–14 |12–14 |12–14 |12–15 |
+| <a href="#partito-democratico-(s&d)">Partito Democratico (S&D)</a> | 31 | 14 | 13–15 |13–15 |13–15 |13–16 |
 | <a href="#lega-nord-(id)">Lega Nord (ID)</a> | 5 | 7 | 7–8 |6–8 |6–8 |6–8 |
 | <a href="#azione–italia-viva-(re)">Azione–Italia Viva (RE)</a> | 0 | 7 | 6–7 |6–8 |6–8 |6–8 |
-| <a href="#forza-italia-(epp)">Forza Italia (EPP)</a> | 13 | 6 | 6–7 |6–7 |5–7 |5–7 |
+| <a href="#forza-italia-(epp)">Forza Italia (EPP)</a> | 13 | 5 | 5–6 |5–6 |4–6 |4–6 |
 | <a href="#alleanza-verdi-e-sinistra-(greens/efa)">Alleanza Verdi e Sinistra (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#più-europa-(re)">Più Europa (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#italexit–per-l’italia-con-paragone-(*)">Italexit–Per l’Italia con Paragone (*)</a> | 0 | 0 | 0 |0 |0 |0 |
@@ -106,12 +106,11 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 0.3% | 100% |  |
-| 12 | 24% | 99.7% |  |
-| 13 | 51% | 76% | Median |
-| 14 | 23% | 25% |  |
-| 15 | 1.1% | 1.1% |  |
-| 16 | 0% | 0% |  |
+| 12 | 0.3% | 100% |  |
+| 13 | 24% | 99.7% |  |
+| 14 | 51% | 76% | Median |
+| 15 | 23% | 25% |  |
+| 16 | 1.1% | 1.1% |  |
 | 17 | 0% | 0% |  |
 | 18 | 0% | 0% |  |
 | 19 | 0% | 0% |  |
@@ -170,10 +169,11 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 3% | 100% |  |
-| 6 | 72% | 97% | Median |
-| 7 | 25% | 25% |  |
-| 8 | 0.1% | 0.1% |  |
+| 4 | 3% | 100% |  |
+| 5 | 72% | 97% | Median |
+| 6 | 25% | 25% |  |
+| 7 | 0.1% | 0.1% |  |
+| 8 | 0% | 0% |  |
 | 9 | 0% | 0% |  |
 | 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |

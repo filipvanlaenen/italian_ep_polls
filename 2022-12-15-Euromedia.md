@@ -35,10 +35,10 @@
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#fratelli-d’italia-(ecr)">Fratelli d’Italia (ECR)</a> | 0 | 24 | 22–25 |22–26 |21–26 |20–27 |
 | <a href="#movimento-5-stelle-(ni)">Movimento 5 Stelle (NI)</a> | 17 | 15 | 13–16 |13–16 |12–17 |12–18 |
-| <a href="#partito-democratico-(s&d)">Partito Democratico (S&D)</a> | 31 | 12 | 11–14 |10–15 |10–15 |10–15 |
+| <a href="#partito-democratico-(s&d)">Partito Democratico (S&D)</a> | 31 | 13 | 12–15 |11–16 |11–16 |11–16 |
 | <a href="#lega-nord-(id)">Lega Nord (ID)</a> | 5 | 8 | 7–9 |7–10 |7–10 |6–11 |
 | <a href="#azione–italia-viva-(re)">Azione–Italia Viva (RE)</a> | 0 | 7 | 6–8 |6–8 |6–9 |5–10 |
-| <a href="#forza-italia-(epp)">Forza Italia (EPP)</a> | 13 | 7 | 5–8 |5–8 |5–8 |5–9 |
+| <a href="#forza-italia-(epp)">Forza Italia (EPP)</a> | 13 | 6 | 4–7 |4–7 |4–7 |4–8 |
 | <a href="#alleanza-verdi-e-sinistra-(greens/efa)">Alleanza Verdi e Sinistra (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0–4 |
 | <a href="#italexit–per-l’italia-con-paragone-(*)">Italexit–Per l’Italia con Paragone (*)</a> | 0 | 0 | 0 |0 |0 |0–4 |
 | <a href="#più-europa-(re)">Più Europa (RE)</a> | 0 | 0 | 0 |0 |0 |0–3 |
@@ -111,15 +111,14 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 0.3% | 100% |  |
-| 10 | 5% | 99.7% |  |
-| 11 | 19% | 95% |  |
-| 12 | 40% | 75% | Median |
-| 13 | 15% | 36% |  |
-| 14 | 15% | 21% |  |
-| 15 | 5% | 5% |  |
-| 16 | 0.5% | 0.5% |  |
-| 17 | 0% | 0% |  |
+| 10 | 0.3% | 100% |  |
+| 11 | 5% | 99.7% |  |
+| 12 | 19% | 95% |  |
+| 13 | 40% | 75% | Median |
+| 14 | 15% | 36% |  |
+| 15 | 15% | 21% |  |
+| 16 | 5% | 5% |  |
+| 17 | 0.5% | 0.5% |  |
 | 18 | 0% | 0% |  |
 | 19 | 0% | 0% |  |
 | 20 | 0% | 0% |  |
@@ -181,13 +180,14 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.2% | 100% |  |
-| 5 | 14% | 99.8% |  |
-| 6 | 20% | 86% |  |
-| 7 | 43% | 66% | Median |
-| 8 | 22% | 23% |  |
-| 9 | 0.9% | 1.0% |  |
-| 10 | 0.1% | 0.1% |  |
+| 3 | 0.2% | 100% |  |
+| 4 | 14% | 99.8% |  |
+| 5 | 20% | 86% |  |
+| 6 | 43% | 66% | Median |
+| 7 | 22% | 23% |  |
+| 8 | 0.9% | 1.0% |  |
+| 9 | 0.1% | 0.1% |  |
+| 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |
 | 13 | 0% | 0% | Last Result |

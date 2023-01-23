@@ -34,9 +34,9 @@
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#fratelli-d’italia-(ecr)">Fratelli d’Italia (ECR)</a> | 0 | 23 | 22–25 |21–25 |21–25 |20–26 |
 | <a href="#movimento-5-stelle-(ni)">Movimento 5 Stelle (NI)</a> | 17 | 15 | 14–16 |13–16 |13–17 |12–18 |
-| <a href="#partito-democratico-(s&d)">Partito Democratico (S&D)</a> | 31 | 12 | 11–13 |11–14 |10–14 |10–15 |
+| <a href="#partito-democratico-(s&d)">Partito Democratico (S&D)</a> | 31 | 13 | 12–14 |12–15 |11–15 |11–16 |
 | <a href="#lega-nord-(id)">Lega Nord (ID)</a> | 5 | 8 | 7–9 |6–9 |6–9 |6–10 |
-| <a href="#forza-italia-(epp)">Forza Italia (EPP)</a> | 13 | 7 | 6–8 |6–8 |6–8 |5–9 |
+| <a href="#forza-italia-(epp)">Forza Italia (EPP)</a> | 13 | 6 | 5–7 |5–7 |5–7 |4–8 |
 | <a href="#azione–italia-viva-(re)">Azione–Italia Viva (RE)</a> | 0 | 6 | 5–7 |5–8 |5–8 |5–8 |
 | <a href="#alleanza-verdi-e-sinistra-(greens/efa)">Alleanza Verdi e Sinistra (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0–3 |
 | <a href="#più-europa-(re)">Più Europa (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
@@ -106,14 +106,13 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 0.4% | 100% |  |
-| 10 | 4% | 99.6% |  |
-| 11 | 33% | 95% |  |
-| 12 | 43% | 62% | Median |
-| 13 | 12% | 19% |  |
-| 14 | 6% | 7% |  |
-| 15 | 0.7% | 0.8% |  |
-| 16 | 0% | 0% |  |
+| 10 | 0.4% | 100% |  |
+| 11 | 4% | 99.6% |  |
+| 12 | 33% | 95% |  |
+| 13 | 43% | 62% | Median |
+| 14 | 12% | 19% |  |
+| 15 | 6% | 7% |  |
+| 16 | 0.7% | 0.8% |  |
 | 17 | 0% | 0% |  |
 | 18 | 0% | 0% |  |
 | 19 | 0% | 0% |  |
@@ -155,11 +154,12 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 2% | 100% |  |
-| 6 | 28% | 98% |  |
-| 7 | 51% | 70% | Median |
-| 8 | 16% | 18% |  |
-| 9 | 2% | 2% |  |
+| 4 | 2% | 100% |  |
+| 5 | 28% | 98% |  |
+| 6 | 51% | 70% | Median |
+| 7 | 16% | 18% |  |
+| 8 | 2% | 2% |  |
+| 9 | 0% | 0% |  |
 | 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |
