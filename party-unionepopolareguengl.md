@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.5% | 1.1–2.1% | 1.0–2.4% | 0.9–2.6% | 0.7–3.0% |
+| [15–21 February 2023](2023-02-21-Ixè.html) | Ixè | 0.0% | N/A | N/A | N/A | N/A |
 | [15–20 February 2023](2023-02-20-SWG.html) | SWG <br> La7 | 2.0% | 1.6–2.6% | 1.4–2.8% | 1.3–3.0% | 1.2–3.3% |
 | [16–18 February 2023](2023-02-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [14–16 February 2023](2023-02-16-TermometroPolitico.html) | Termometro Politico | 1.5% | 1.3–1.8% | 1.2–1.9% | 1.2–1.9% | 1.1–2.1% |
@@ -1227,6 +1228,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [15–21 February 2023](2023-02-21-Ixè.html) | Ixè |  |  |  |  |  |
 | [15–20 February 2023](2023-02-20-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [16–18 February 2023](2023-02-18-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [14–16 February 2023](2023-02-16-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |

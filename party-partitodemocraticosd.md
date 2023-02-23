@@ -10,7 +10,8 @@ Last result: **40.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.2% | 14.5–18.1% | 14.0–18.8% | 13.6–19.3% | 12.6–20.2% |
+| N/A | [Poll Average](average.html) | 16.2% | 14.5–18.2% | 14.0–18.8% | 13.6–19.3% | 12.6–20.2% |
+| [15–21 February 2023](2023-02-21-Ixè.html) | Ixè | 16.9% | 15.5–18.5% | 15.0–19.0% | 14.7–19.4% | 14.0–20.1% |
 | [15–20 February 2023](2023-02-20-SWG.html) | SWG <br> La7 | 15.8% | 14.5–17.3% | 14.2–17.7% | 13.9–18.0% | 13.3–18.7% |
 | [16–18 February 2023](2023-02-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 16.7% | 15.3–18.3% | 14.9–18.7% | 14.5–19.1% | 13.9–19.9% |
 | [14–16 February 2023](2023-02-16-TermometroPolitico.html) | Termometro Politico | 16.8% | 16.1–17.6% | 15.9–17.8% | 15.7–18.0% | 15.3–18.4% |
@@ -1215,13 +1216,13 @@ The following table shows the probability mass function per percentage block of 
 | 10.5–11.5% | 0.1% | 100% |  |
 | 11.5–12.5% | 0.4% | 99.9% |  |
 | 12.5–13.5% | 2% | 99.5% |  |
-| 13.5–14.5% | 9% | 98% |  |
+| 13.5–14.5% | 8% | 98% |  |
 | 14.5–15.5% | 22% | 89% |  |
 | 15.5–16.5% | 27% | 67% | Median |
 | 16.5–17.5% | 22% | 40% |  |
-| 17.5–18.5% | 11% | 18% |  |
-| 18.5–19.5% | 5% | 6% |  |
-| 19.5–20.5% | 1.3% | 2% |  |
+| 17.5–18.5% | 12% | 18% |  |
+| 18.5–19.5% | 5% | 7% |  |
+| 19.5–20.5% | 1.4% | 2% |  |
 | 20.5–21.5% | 0.2% | 0.2% |  |
 | 21.5–22.5% | 0% | 0% |  |
 | 22.5–23.5% | 0% | 0% |  |
@@ -1254,6 +1255,7 @@ Last result: **31** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14 | 12–15 | 11–16 | 11–16 | 10–18 |
+| [15–21 February 2023](2023-02-21-Ixè.html) | Ixè | 14 | 13–15 | 12–15 | 12–16 | 11–16 |
 | [15–20 February 2023](2023-02-20-SWG.html) | SWG <br> La7 | 14 | 12–15 | 12–15 | 12–16 | 11–16 |
 | [16–18 February 2023](2023-02-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 14 | 13–15 | 12–16 | 12–16 | 12–17 |
 | [14–16 February 2023](2023-02-16-TermometroPolitico.html) | Termometro Politico | 15 | 14–15 | 14–16 | 14–16 | 13–16 |
@@ -2461,11 +2463,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 6% | 99.1% |  |
 | 12 | 18% | 93% |  |
 | 13 | 21% | 75% |  |
-| 14 | 25% | 54% | Median |
-| 15 | 19% | 29% |  |
+| 14 | 27% | 53% | Median |
+| 15 | 17% | 26% |  |
 | 16 | 8% | 10% |  |
-| 17 | 1.4% | 2% |  |
-| 18 | 0.7% | 0.7% |  |
+| 17 | 1.3% | 2% |  |
+| 18 | 0.6% | 0.7% |  |
 | 19 | 0% | 0% |  |
 | 20 | 0% | 0% |  |
 | 21 | 0% | 0% |  |

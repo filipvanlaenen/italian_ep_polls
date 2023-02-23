@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.5% | 1.1–1.9% | 1.0–2.0% | 0.8–2.1% | 0.7–2.4% |
+| N/A | [Poll Average](average.html) | 1.4% | 0.8–1.8% | 0.7–1.9% | 0.6–2.0% | 0.4–2.3% |
+| [15–21 February 2023](2023-02-21-Ixè.html) | Ixè | 0.9% | 0.6–1.4% | 0.5–1.6% | 0.5–1.7% | 0.4–2.0% |
 | [15–20 February 2023](2023-02-20-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [16–18 February 2023](2023-02-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [14–16 February 2023](2023-02-16-TermometroPolitico.html) | Termometro Politico | 1.6% | 1.4–1.9% | 1.3–2.0% | 1.3–2.1% | 1.2–2.2% |
@@ -1211,9 +1212,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.1% | 100% | Last Result |
-| 0.5–1.5% | 52% | 99.9% |  |
-| 1.5–2.5% | 47% | 48% | Median |
+| 0.0–0.5% | 2% | 100% | Last Result |
+| 0.5–1.5% | 65% | 98% | Median |
+| 1.5–2.5% | 33% | 33% |  |
 | 2.5–3.5% | 0.2% | 0.2% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
@@ -1227,6 +1228,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [15–21 February 2023](2023-02-21-Ixè.html) | Ixè | 0 | 0 | 0 | 0 | 0 |
 | [15–20 February 2023](2023-02-20-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [16–18 February 2023](2023-02-18-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [14–16 February 2023](2023-02-16-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
