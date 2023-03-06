@@ -58,7 +58,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [17–19 January 2023](2023-01-19-TermometroPolitico.html) | Termometro Politico | 1.5% | N/A | N/A | N/A | N/A |
 | [19 January 2023](2023-01-19-EMG.html) | EMG <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
 | [13–18 January 2023](2023-01-18-Lab2101.html) | Lab2101 <br> Affari Italiani | 0.0% | N/A | N/A | N/A | N/A |
-| [16–18 January 2023](2023-01-18-BiDimedia.html) | BiDimedia | 0.9% | N/A | N/A | N/A | N/A |
+| [16–18 January 2023](2023-01-18-BiDimedia.html) | BiDimedia | 0.9% | 0.6–1.4% | 0.6–1.5% | 0.5–1.6% | 0.4–1.9% |
 | [11–16 January 2023](2023-01-16-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [12–13 January 2023](2023-01-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [10–12 January 2023](2023-01-12-TermometroPolitico.html) | Termometro Politico | 1.4% | N/A | N/A | N/A | N/A |
@@ -1293,7 +1293,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [17–19 January 2023](2023-01-19-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [19 January 2023](2023-01-19-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [13–18 January 2023](2023-01-18-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
-| [16–18 January 2023](2023-01-18-BiDimedia.html) | BiDimedia |  |  |  |  |  |
+| [16–18 January 2023](2023-01-18-BiDimedia.html) | BiDimedia | 0 | 0 | 0 | 0 | 0 |
 | [11–16 January 2023](2023-01-16-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [12–13 January 2023](2023-01-13-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [10–12 January 2023](2023-01-12-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
