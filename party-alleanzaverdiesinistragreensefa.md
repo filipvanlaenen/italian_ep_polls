@@ -10,18 +10,33 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.5% | 2.6–4.6% | 2.3–4.9% | 2.1–5.2% | 1.8–5.9% |
+| N/A | [Poll Average](average.html) | 3.5% | 1.7–4.6% | 1.4–4.9% | 1.2–5.2% | 1.0–5.7% |
+| [2 March 2023](2023-03-02-Lab2101.html) | Lab2101 <br> Affari Italiani | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–6.0% |
+| [1 March 2023](2023-03-01-TermometroPolitico.html) | Termometro Politico | 2.0% | 1.8–2.3% | 1.7–2.4% | 1.6–2.5% | 1.5–2.6% |
+| [28 February 2023](2023-02-28-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
+| [23–27 February 2023](2023-02-27-SWG.html) | SWG <br> La7 | 3.8% | 3.2–4.6% | 3.0–4.9% | 2.9–5.1% | 2.6–5.5% |
+| [23–24 February 2023](2023-02-24-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.2% | 2.6–4.0% | 2.4–4.3% | 2.3–4.5% | 2.0–4.9% |
+| [21–23 February 2023](2023-02-23-TermometroPolitico.html) | Termometro Politico | 2.7% | 2.4–3.0% | 2.3–3.1% | 2.2–3.2% | 2.1–3.4% |
+| [20–23 February 2023](2023-02-23-Lab2101.html) | Lab2101 <br> Affari Italiani | 4.3% | 3.6–5.2% | 3.4–5.5% | 3.2–5.7% | 2.9–6.2% |
+| [21–23 February 2023](2023-02-23-Ipsos.html) | Ipsos <br> Corriere della Sera | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
+| [23 February 2023](2023-02-23-EMG.html) | EMG <br> Rai 3 | 3.2% | N/A | N/A | N/A | N/A |
+| [22 February 2023](2023-02-22-IndexResearch.html) | Index Research | 4.0% | N/A | N/A | N/A | N/A |
+| [20–22 February 2023](2023-02-22-DemosPi.html) | Demos & Pi <br> La Repubblica | 3.3% | N/A | N/A | N/A | N/A |
 | [15–21 February 2023](2023-02-21-Ixè.html) | Ixè | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.1–5.6% | 2.8–6.1% |
+| [21 February 2023](2023-02-21-Euromedia.html) | Euromedia <br> Rai 1 | 3.0% | N/A | N/A | N/A | N/A |
 | [15–20 February 2023](2023-02-20-SWG.html) | SWG <br> La7 | 3.4% | 2.8–4.2% | 2.7–4.4% | 2.5–4.6% | 2.3–5.0% |
+| [20 February 2023](2023-02-20-Piepoli.html) | Piepoli | 2.9% | N/A | N/A | N/A | N/A |
 | [16–18 February 2023](2023-02-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.1% | 2.5–3.9% | 2.3–4.2% | 2.2–4.4% | 1.9–4.8% |
 | [14–16 February 2023](2023-02-16-TermometroPolitico.html) | Termometro Politico | 2.8% | 2.5–3.2% | 2.4–3.3% | 2.3–3.4% | 2.2–3.6% |
 | [14–16 February 2023](2023-02-16-Lab2101.html) | Lab2101 <br> Affari Italiani | 4.0% | 3.6–4.5% | 3.6–4.6% | 3.5–4.7% | 3.3–4.9% |
+| [15 February 2023](2023-02-15-IndexResearch.html) | Index Research <br> La7 | 3.9% | N/A | N/A | N/A | N/A |
 | [13–14 February 2023](2023-02-14-EMG.html) | EMG <br> Rai 3 | 3.5% | 2.9–4.2% | 2.8–4.4% | 2.7–4.5% | 2.4–4.9% |
 | [11–13 February 2023](2023-02-13-Tecnè.html) | Tecnè | 3.3% | N/A | N/A | N/A | N/A |
 | [8–13 February 2023](2023-02-13-SWG.html) | SWG <br> La7 | 3.6% | N/A | N/A | N/A | N/A |
 | [13 February 2023](2023-02-13-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
+| [9 February 2023](2023-02-09-Lab2101.html) | Lab2101 <br> Affari Italiani | 4.0% | N/A | N/A | N/A | N/A |
 | [1–6 February 2023](2023-02-06-SWG.html) | SWG <br> La7 | 3.5% | N/A | N/A | N/A | N/A |
-| [4 February 2023](2023-02-04-Lab2101.html) | Lab2101 <br> Affari Italiani | 3.9% | N/A | N/A | N/A | N/A |
+| [27 January–3 February 2023](2023-02-03-Lab2101.html) | Lab2101 <br> Affari Italiani | 3.9% | N/A | N/A | N/A | N/A |
 | [2 February 2023](2023-02-02-TermometroPolitico.html) | Termometro Politico | 2.9% | N/A | N/A | N/A | N/A |
 | [2 February 2023](2023-02-02-Ixè.html) | Ixè | 3.8% | 3.1–4.7% | 2.9–5.0% | 2.8–5.2% | 2.5–5.6% |
 | [2 February 2023](2023-02-02-EMG.html) | EMG <br> Rai 3 | 3.4% | N/A | N/A | N/A | N/A |
@@ -31,23 +46,27 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [25–26 January 2023](2023-01-26-TermometroPolitico.html) | Termometro Politico | 2.8% | 2.5–3.2% | 2.3–3.3% | 2.3–3.4% | 2.1–3.6% |
 | [23–26 January 2023](2023-01-26-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 3.5% | 3.0–4.2% | 2.8–4.4% | 2.7–4.5% | 2.5–4.9% |
 | [23–26 January 2023](2023-01-26-Piepoli.html) | Piepoli | 4.0% | 3.1–5.4% | 2.8–5.8% | 2.6–6.1% | 2.2–6.8% |
+| [19–26 January 2023](2023-01-26-Lab2101.html) | Lab2101 <br> Affari Italiani | 3.8% | N/A | N/A | N/A | N/A |
 | [25 January 2023](2023-01-25-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [25 January 2023](2023-01-25-IndexResearch.html) | Index Research <br> La7 | 4.0% | 3.2–5.0% | 3.0–5.3% | 2.9–5.6% | 2.5–6.1% |
 | [24–25 January 2023](2023-01-25-Demopolis.html) | Demopolis | 3.2% | 2.7–3.8% | 2.6–3.9% | 2.5–4.1% | 2.3–4.4% |
 | [24 January 2023](2023-01-24-Euromedia.html) | Euromedia <br> Rai 1 | 2.6% | 2.0–3.5% | 1.9–3.8% | 1.7–4.0% | 1.5–4.5% |
 | [18–23 January 2023](2023-01-23-SWG.html) | SWG <br> La7 | 3.8% | N/A | N/A | N/A | N/A |
 | [19–23 January 2023](2023-01-23-Ipsos.html) | Ipsos <br> Corriere della Sera | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–6.0% |
-| [23 January 2023](2023-01-23-EMG.html) | EMG <br> Rai 3 | 3.8% | N/A | N/A | N/A | N/A |
 | [22 January 2023](2023-01-22-Lab2101.html) | Lab2101 <br> Affari Italiani | 3.9% | 3.1–5.2% | 2.8–5.5% | 2.6–5.8% | 2.3–6.5% |
+| [19–20 January 2023](2023-01-20-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.2% | N/A | N/A | N/A | N/A |
 | [17–19 January 2023](2023-01-19-TermometroPolitico.html) | Termometro Politico | 3.0% | N/A | N/A | N/A | N/A |
+| [19 January 2023](2023-01-19-EMG.html) | EMG <br> Rai 3 | 3.8% | N/A | N/A | N/A | N/A |
+| [13–18 January 2023](2023-01-18-Lab2101.html) | Lab2101 <br> Affari Italiani | 3.9% | N/A | N/A | N/A | N/A |
+| [16–18 January 2023](2023-01-18-BiDimedia.html) | BiDimedia | 3.6% | N/A | N/A | N/A | N/A |
 | [11–16 January 2023](2023-01-16-SWG.html) | SWG <br> La7 | 3.7% | 3.0–4.5% | 2.9–4.7% | 2.7–4.9% | 2.5–5.3% |
-| [11–16 January 2023](2023-01-16-BiDimedia.html) | BiDimedia | 3.6% | 3.0–4.4% | 2.8–4.6% | 2.7–4.8% | 2.4–5.2% |
 | [12–13 January 2023](2023-01-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
-| [12–13 January 2023](2023-01-13-Piepoli.html) | Piepoli | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
 | [10–12 January 2023](2023-01-12-TermometroPolitico.html) | Termometro Politico | 3.2% | N/A | N/A | N/A | N/A |
+| [6–12 January 2023](2023-01-12-Lab2101.html) | Lab2101 <br> Affari Italiani | 4.0% | N/A | N/A | N/A | N/A |
 | [12 January 2023](2023-01-12-EMG.html) | EMG <br> Rai 3 | 3.5% | N/A | N/A | N/A | N/A |
-| [10 January 2023](2023-01-10-Euromedia.html) | Euromedia | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–3.0% | 1.0–3.3% |
+| [10–11 January 2023](2023-01-11-Euromedia.html) | Euromedia | 1.9% | N/A | N/A | N/A | N/A |
 | [4–9 January 2023](2023-01-09-SWG.html) | SWG <br> La7 | 3.7% | N/A | N/A | N/A | N/A |
+| [2–5 January 2023](2023-01-05-Lab2101.html) | Lab2101 <br> Affari Italiani | 3.9% | N/A | N/A | N/A | N/A |
 | [4 January 2023](2023-01-04-EMG.html) | EMG <br> Rai 3 | 3.5% | 2.9–4.2% | 2.8–4.4% | 2.7–4.6% | 2.4–4.9% |
 | [27–31 December 2022](2022-12-31-Lab2101.html) | Lab2101 <br> Affari Italiani | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
 | [31 December 2022](2022-12-31-Demopolis.html) | Demopolis | 3.2% | 2.6–4.0% | 2.4–4.3% | 2.3–4.5% | 2.0–4.9% |
@@ -1213,14 +1232,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.1% | 100% |  |
-| 1.5–2.5% | 9% | 99.9% |  |
-| 2.5–3.5% | 43% | 91% | Median |
-| 3.5–4.5% | 38% | 48% |  |
-| 4.5–5.5% | 9% | 10% |  |
-| 5.5–6.5% | 1.1% | 1.2% |  |
-| 6.5–7.5% | 0.1% | 0.1% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 0.5–1.5% | 7% | 100% |  |
+| 1.5–2.5% | 23% | 93% |  |
+| 2.5–3.5% | 23% | 70% | Median |
+| 3.5–4.5% | 35% | 47% |  |
+| 4.5–5.5% | 11% | 11% |  |
+| 5.5–6.5% | 0.8% | 0.9% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -1232,17 +1250,32 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [2 March 2023](2023-03-02-Lab2101.html) | Lab2101 <br> Affari Italiani | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
+| [1 March 2023](2023-03-01-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
+| [28 February 2023](2023-02-28-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
+| [23–27 February 2023](2023-02-27-SWG.html) | SWG <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [23–24 February 2023](2023-02-24-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
+| [21–23 February 2023](2023-02-23-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
+| [20–23 February 2023](2023-02-23-Lab2101.html) | Lab2101 <br> Affari Italiani | 4 | 0–4 | 0–4 | 0–5 | 0–5 |
+| [21–23 February 2023](2023-02-23-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [23 February 2023](2023-02-23-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
+| [22 February 2023](2023-02-22-IndexResearch.html) | Index Research |  |  |  |  |  |
+| [20–22 February 2023](2023-02-22-DemosPi.html) | Demos & Pi <br> La Repubblica |  |  |  |  |  |
 | [15–21 February 2023](2023-02-21-Ixè.html) | Ixè | 4 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [21 February 2023](2023-02-21-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
 | [15–20 February 2023](2023-02-20-SWG.html) | SWG <br> La7 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [20 February 2023](2023-02-20-Piepoli.html) | Piepoli |  |  |  |  |  |
 | [16–18 February 2023](2023-02-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | [14–16 February 2023](2023-02-16-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [14–16 February 2023](2023-02-16-Lab2101.html) | Lab2101 <br> Affari Italiani | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [15 February 2023](2023-02-15-IndexResearch.html) | Index Research <br> La7 |  |  |  |  |  |
 | [13–14 February 2023](2023-02-14-EMG.html) | EMG <br> Rai 3 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [11–13 February 2023](2023-02-13-Tecnè.html) | Tecnè |  |  |  |  |  |
 | [8–13 February 2023](2023-02-13-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [13 February 2023](2023-02-13-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0 | 0–3 |
+| [9 February 2023](2023-02-09-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
 | [1–6 February 2023](2023-02-06-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [4 February 2023](2023-02-04-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
+| [27 January–3 February 2023](2023-02-03-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
 | [2 February 2023](2023-02-02-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [2 February 2023](2023-02-02-Ixè.html) | Ixè | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [2 February 2023](2023-02-02-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
@@ -1252,23 +1285,27 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [25–26 January 2023](2023-01-26-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [23–26 January 2023](2023-01-26-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [23–26 January 2023](2023-01-26-Piepoli.html) | Piepoli | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
+| [19–26 January 2023](2023-01-26-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
 | [25 January 2023](2023-01-25-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0–3 | 0–3 | 0–4 |
 | [25 January 2023](2023-01-25-IndexResearch.html) | Index Research <br> La7 | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [24–25 January 2023](2023-01-25-Demopolis.html) | Demopolis | 0 | 0 | 0 | 0–3 | 0–3 |
 | [24 January 2023](2023-01-24-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0–3 | 0–4 |
 | [18–23 January 2023](2023-01-23-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [19–23 January 2023](2023-01-23-Ipsos.html) | Ipsos <br> Corriere della Sera | 4 | 0–4 | 0–4 | 0–5 | 0–5 |
-| [23 January 2023](2023-01-23-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [22 January 2023](2023-01-22-Lab2101.html) | Lab2101 <br> Affari Italiani | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
+| [19–20 January 2023](2023-01-20-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [17–19 January 2023](2023-01-19-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [19 January 2023](2023-01-19-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
+| [13–18 January 2023](2023-01-18-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
+| [16–18 January 2023](2023-01-18-BiDimedia.html) | BiDimedia |  |  |  |  |  |
 | [11–16 January 2023](2023-01-16-SWG.html) | SWG <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
-| [11–16 January 2023](2023-01-16-BiDimedia.html) | BiDimedia | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [12–13 January 2023](2023-01-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
-| [12–13 January 2023](2023-01-13-Piepoli.html) | Piepoli | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [10–12 January 2023](2023-01-12-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [6–12 January 2023](2023-01-12-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
 | [12 January 2023](2023-01-12-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
-| [10 January 2023](2023-01-10-Euromedia.html) | Euromedia | 0 | 0 | 0 | 0 | 0 |
+| [10–11 January 2023](2023-01-11-Euromedia.html) | Euromedia |  |  |  |  |  |
 | [4–9 January 2023](2023-01-09-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [2–5 January 2023](2023-01-05-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
 | [4 January 2023](2023-01-04-EMG.html) | EMG <br> Rai 3 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [27–31 December 2022](2022-12-31-Lab2101.html) | Lab2101 <br> Affari Italiani | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [31 December 2022](2022-12-31-Demopolis.html) | Demopolis | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
@@ -2435,12 +2472,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 73% | 100% | Last Result, Median |
-| 1 | 0% | 27% |  |
-| 2 | 0% | 27% |  |
-| 3 | 10% | 27% |  |
-| 4 | 16% | 18% |  |
-| 5 | 1.3% | 1.4% |  |
+| 0 | 72% | 100% | Last Result, Median |
+| 1 | 0% | 28% |  |
+| 2 | 0% | 28% |  |
+| 3 | 9% | 28% |  |
+| 4 | 18% | 19% |  |
+| 5 | 1.1% | 1.2% |  |
 | 6 | 0% | 0% |  |
 
 
