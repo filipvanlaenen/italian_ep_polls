@@ -10,7 +10,7 @@ Last result: **3.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.6% | 27.2–31.8% | 26.6–32.5% | 26.0–33.1% | 25.0–34.3% |
+| N/A | [Poll Average](average.html) | 29.5% | 27.2–31.7% | 26.5–32.4% | 26.0–33.0% | 25.0–34.2% |
 | [15–20 March 2023](2023-03-20-SWG.html) | SWG <br> La7 | 30.3% | 28.7–32.1% | 28.2–32.6% | 27.8–33.0% | 27.0–33.9% |
 | [16–20 March 2023](2023-03-20-Ixè.html) | Ixè | 28.9% | 27.1–30.8% | 26.6–31.3% | 26.2–31.8% | 25.3–32.7% |
 | [16–17 March 2023](2023-03-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 30.1% | 28.3–32.0% | 27.8–32.6% | 27.3–33.0% | 26.5–33.9% |
@@ -19,10 +19,10 @@ Last result: **3.7%** (General Election of 26 May 2019)
 | [14–16 March 2023](2023-03-16-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 28.9% | 26.9–31.1% | 26.4–31.7% | 25.9–32.2% | 25.0–33.2% |
 | [14–16 March 2023](2023-03-16-Ipsos.html) | Ipsos <br> Corriere della Sera | 30.3% | 28.5–32.2% | 28.0–32.8% | 27.5–33.2% | 26.7–34.2% |
 | [16 March 2023](2023-03-16-EMG.html) | EMG <br> Rai 3 | 27.1% | 25.6–28.7% | 25.2–29.1% | 24.8–29.5% | 24.1–30.3% |
-| [15 March 2023](2023-03-15-IndexResearch.html) | Index Research <br> La7 | 29.8% | N/A | N/A | N/A | N/A |
+| [15 March 2023](2023-03-15-IndexResearch.html) | Index Research <br> La7 | 29.8% | 27.7–31.9% | 27.2–32.5% | 26.7–33.0% | 25.7–34.0% |
 | [8–13 March 2023](2023-03-13-SWG.html) | SWG <br> La7 | 30.3% | N/A | N/A | N/A | N/A |
-| [13 March 2023](2023-03-13-Euromedia.html) | Euromedia <br> Rai 1 | 29.2% | N/A | N/A | N/A | N/A |
-| [10–11 March 2023](2023-03-11-Bidimedia.html) | Bidimedia | 28.1% | N/A | N/A | N/A | N/A |
+| [13 March 2023](2023-03-13-Euromedia.html) | Euromedia <br> Rai 1 | 29.2% | 27.3–31.4% | 26.7–32.0% | 26.2–32.5% | 25.3–33.5% |
+| [10–11 March 2023](2023-03-11-Bidimedia.html) | Bidimedia | 28.1% | 26.4–30.0% | 25.9–30.5% | 25.5–31.0% | 24.7–31.9% |
 | [9–10 March 2023](2023-03-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 30.6% | N/A | N/A | N/A | N/A |
 | [7–10 March 2023](2023-03-10-Lab2101.html) | Lab2101 <br> Affari Italiani | 30.1% | N/A | N/A | N/A | N/A |
 | [7–9 March 2023](2023-03-09-TermometroPolitico.html) | Termometro Politico | 29.2% | N/A | N/A | N/A | N/A |
@@ -37,7 +37,7 @@ Last result: **3.7%** (General Election of 26 May 2019)
 | [2 March 2023](2023-03-02-EMG.html) | EMG | 27.3% | N/A | N/A | N/A | N/A |
 | [1 March 2023](2023-03-01-TermometroPolitico.html) | Termometro Politico | 28.9% | 28.0–29.8% | 27.8–30.0% | 27.6–30.2% | 27.2–30.7% |
 | [28 February 2023](2023-02-28-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 28.4% | 26.6–30.3% | 26.1–30.8% | 25.7–31.3% | 24.8–32.2% |
-| [28 February 2023](2023-02-28-Euromedia.html) | Euromedia | 29.6% | N/A | N/A | N/A | N/A |
+| [28 February 2023](2023-02-28-Euromedia.html) | Euromedia | 29.6% | 27.8–31.5% | 27.3–32.1% | 26.8–32.5% | 26.0–33.5% |
 | [23–27 February 2023](2023-02-27-SWG.html) | SWG <br> La7 | 30.7% | 29.0–32.4% | 28.5–32.9% | 28.1–33.3% | 27.3–34.2% |
 | [23–24 February 2023](2023-02-24-Tecnè.html) | Tecnè <br> Agenzia Dire | 31.0% | 29.2–32.9% | 28.7–33.5% | 28.2–33.9% | 27.3–34.9% |
 | [21–23 February 2023](2023-02-23-TermometroPolitico.html) | Termometro Politico | 28.5% | 27.6–29.4% | 27.4–29.7% | 27.2–29.9% | 26.8–30.3% |
@@ -1278,15 +1278,15 @@ The following table shows the probability mass function per percentage block of 
 | 23.5–24.5% | 0.2% | 100% |  |
 | 24.5–25.5% | 1.1% | 99.8% |  |
 | 25.5–26.5% | 4% | 98.7% |  |
-| 26.5–27.5% | 8% | 95% |  |
-| 27.5–28.5% | 14% | 87% |  |
-| 28.5–29.5% | 22% | 73% |  |
-| 29.5–30.5% | 23% | 51% | Median |
-| 30.5–31.5% | 16% | 29% |  |
-| 31.5–32.5% | 8% | 13% |  |
-| 32.5–33.5% | 3% | 5% |  |
-| 33.5–34.5% | 1.0% | 1.4% |  |
-| 34.5–35.5% | 0.3% | 0.4% |  |
+| 26.5–27.5% | 9% | 95% |  |
+| 27.5–28.5% | 15% | 86% |  |
+| 28.5–29.5% | 22% | 71% |  |
+| 29.5–30.5% | 22% | 49% | Median |
+| 30.5–31.5% | 15% | 27% |  |
+| 31.5–32.5% | 8% | 12% |  |
+| 32.5–33.5% | 3% | 4% |  |
+| 33.5–34.5% | 0.9% | 1.2% |  |
+| 34.5–35.5% | 0.2% | 0.3% |  |
 | 35.5–36.5% | 0.1% | 0.1% |  |
 | 36.5–37.5% | 0% | 0% |  |
 
@@ -1299,7 +1299,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25 | 22–27 | 22–28 | 22–28 | 21–29 |
+| N/A | [Poll Average](average.html) | 25 | 23–27 | 22–28 | 22–28 | 21–29 |
 | [15–20 March 2023](2023-03-20-SWG.html) | SWG <br> La7 | 26 | 25–27 | 24–28 | 23–28 | 23–29 |
 | [16–20 March 2023](2023-03-20-Ixè.html) | Ixè | 23 | 22–25 | 21–25 | 21–26 | 20–27 |
 | [16–17 March 2023](2023-03-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 25 | 23–27 | 23–27 | 22–27 | 22–28 |
@@ -1308,10 +1308,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [14–16 March 2023](2023-03-16-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 24 | 22–26 | 22–26 | 21–26 | 21–28 |
 | [14–16 March 2023](2023-03-16-Ipsos.html) | Ipsos <br> Corriere della Sera | 27 | 25–28 | 24–28 | 24–28 | 23–29 |
 | [16 March 2023](2023-03-16-EMG.html) | EMG <br> Rai 3 | 24 | 22–25 | 22–26 | 22–26 | 21–26 |
-| [15 March 2023](2023-03-15-IndexResearch.html) | Index Research <br> La7 |  |  |  |  |  |
+| [15 March 2023](2023-03-15-IndexResearch.html) | Index Research <br> La7 | 25 | 23–27 | 23–27 | 23–28 | 22–29 |
 | [8–13 March 2023](2023-03-13-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [13 March 2023](2023-03-13-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
-| [10–11 March 2023](2023-03-11-Bidimedia.html) | Bidimedia |  |  |  |  |  |
+| [13 March 2023](2023-03-13-Euromedia.html) | Euromedia <br> Rai 1 | 24 | 23–26 | 22–27 | 22–27 | 21–28 |
+| [10–11 March 2023](2023-03-11-Bidimedia.html) | Bidimedia | 23 | 23–25 | 22–26 | 22–26 | 21–27 |
 | [9–10 March 2023](2023-03-10-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [7–10 March 2023](2023-03-10-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
 | [7–9 March 2023](2023-03-09-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
@@ -2567,17 +2567,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0.3% | 100% |  |
-| 21 | 2% | 99.6% |  |
-| 22 | 8% | 98% |  |
-| 23 | 15% | 90% |  |
-| 24 | 19% | 74% |  |
-| 25 | 21% | 55% | Median |
-| 26 | 19% | 35% |  |
-| 27 | 9% | 15% |  |
+| 21 | 2% | 99.7% |  |
+| 22 | 7% | 98% |  |
+| 23 | 18% | 91% |  |
+| 24 | 20% | 73% |  |
+| 25 | 21% | 53% | Median |
+| 26 | 18% | 32% |  |
+| 27 | 8% | 14% |  |
 | 28 | 5% | 6% |  |
-| 29 | 0.7% | 0.9% |  |
+| 29 | 0.6% | 0.8% |  |
 | 30 | 0.1% | 0.2% |  |
-| 31 | 0.1% | 0.1% |  |
+| 31 | 0% | 0.1% |  |
 | 32 | 0% | 0% |  |
 
 
