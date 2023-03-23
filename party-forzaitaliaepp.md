@@ -10,10 +10,34 @@ Last result: **16.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.2% | 6.0–8.5% | 5.6–8.9% | 5.3–9.2% | 4.7–9.9% |
+| N/A | [Poll Average](average.html) | 7.1% | 5.8–8.5% | 5.4–8.9% | 5.1–9.3% | 4.6–10.0% |
+| [15–20 March 2023](2023-03-20-SWG.html) | SWG <br> La7 | 6.3% | 5.5–7.3% | 5.3–7.6% | 5.1–7.9% | 4.7–8.4% |
+| [16–20 March 2023](2023-03-20-Ixè.html) | Ixè | 6.3% | 5.4–7.4% | 5.2–7.7% | 5.0–8.0% | 4.6–8.6% |
+| [16–17 March 2023](2023-03-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 7.2% | 6.2–8.4% | 6.0–8.7% | 5.7–9.0% | 5.3–9.6% |
+| [11–17 March 2023](2023-03-17-Lab2101.html) | Lab2101 <br> Affari Italiani | 6.9% | 6.0–8.0% | 5.7–8.4% | 5.5–8.7% | 5.1–9.2% |
+| [14–16 March 2023](2023-03-16-TermometroPolitico.html) | Termometro Politico | 7.5% | 7.0–8.0% | 6.9–8.2% | 6.7–8.3% | 6.5–8.6% |
+| [14–16 March 2023](2023-03-16-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 5.8% | 4.9–7.0% | 4.6–7.4% | 4.4–7.7% | 4.0–8.3% |
+| [14–16 March 2023](2023-03-16-Ipsos.html) | Ipsos <br> Corriere della Sera | 7.2% | 6.2–8.4% | 6.0–8.7% | 5.7–9.0% | 5.3–9.6% |
+| [16 March 2023](2023-03-16-EMG.html) | EMG <br> Rai 3 | 8.5% | 7.6–9.5% | 7.3–9.8% | 7.1–10.1% | 6.7–10.6% |
+| [15 March 2023](2023-03-15-IndexResearch.html) | Index Research <br> La7 | 6.2% | N/A | N/A | N/A | N/A |
+| [8–13 March 2023](2023-03-13-SWG.html) | SWG <br> La7 | 6.4% | N/A | N/A | N/A | N/A |
+| [13 March 2023](2023-03-13-Euromedia.html) | Euromedia <br> Rai 1 | 6.5% | N/A | N/A | N/A | N/A |
+| [10–11 March 2023](2023-03-11-Bidimedia.html) | Bidimedia | 7.1% | N/A | N/A | N/A | N/A |
+| [9–10 March 2023](2023-03-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 7.4% | N/A | N/A | N/A | N/A |
+| [7–10 March 2023](2023-03-10-Lab2101.html) | Lab2101 <br> Affari Italiani | 7.1% | N/A | N/A | N/A | N/A |
+| [7–9 March 2023](2023-03-09-TermometroPolitico.html) | Termometro Politico | 7.2% | N/A | N/A | N/A | N/A |
+| [7–9 March 2023](2023-03-09-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 5.8% | N/A | N/A | N/A | N/A |
+| [9 March 2023](2023-03-09-EMG.html) | EMG <br> Rai 3 | 8.4% | N/A | N/A | N/A | N/A |
+| [8 March 2023](2023-03-08-IndexResearch.html) | Index Research <br> La7 | 6.1% | N/A | N/A | N/A | N/A |
+| [1–6 March 2023](2023-03-06-SWG.html) | SWG <br> La7 | 6.6% | N/A | N/A | N/A | N/A |
+| [2 March 2023](2023-03-02-Tecnè.html) | Tecnè <br> Agenzia Dire | 7.5% | N/A | N/A | N/A | N/A |
+| [2 March 2023](2023-03-02-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 5.7% | N/A | N/A | N/A | N/A |
 | [2 March 2023](2023-03-02-Lab2101.html) | Lab2101 <br> Affari Italiani | 7.2% | 6.2–8.4% | 6.0–8.7% | 5.7–9.0% | 5.3–9.6% |
+| [2 March 2023](2023-03-02-IndexResearch.html) | Index Research <br> La7 | 6.0% | N/A | N/A | N/A | N/A |
+| [2 March 2023](2023-03-02-EMG.html) | EMG | 8.2% | N/A | N/A | N/A | N/A |
 | [1 March 2023](2023-03-01-TermometroPolitico.html) | Termometro Politico | 7.1% | 6.6–7.6% | 6.5–7.8% | 6.4–7.9% | 6.2–8.1% |
 | [28 February 2023](2023-02-28-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 7.5% | 6.5–8.7% | 6.2–9.0% | 6.0–9.3% | 5.6–9.9% |
+| [28 February 2023](2023-02-28-Euromedia.html) | Euromedia | 6.9% | N/A | N/A | N/A | N/A |
 | [23–27 February 2023](2023-02-27-SWG.html) | SWG <br> La7 | 6.4% | 5.6–7.4% | 5.3–7.7% | 5.2–8.0% | 4.8–8.5% |
 | [23–24 February 2023](2023-02-24-Tecnè.html) | Tecnè <br> Agenzia Dire | 7.7% | 6.7–8.9% | 6.4–9.2% | 6.2–9.5% | 5.8–10.1% |
 | [21–23 February 2023](2023-02-23-TermometroPolitico.html) | Termometro Politico | 7.5% | 7.0–8.1% | 6.9–8.2% | 6.8–8.4% | 6.5–8.6% |
@@ -1232,13 +1256,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.3% | 100% |  |
-| 4.5–5.5% | 4% | 99.7% |  |
-| 5.5–6.5% | 20% | 96% |  |
-| 6.5–7.5% | 40% | 76% | Median |
-| 7.5–8.5% | 27% | 36% |  |
-| 8.5–9.5% | 8% | 9% |  |
-| 9.5–10.5% | 1.0% | 1.1% |  |
+| 3.5–4.5% | 0.5% | 100% |  |
+| 4.5–5.5% | 6% | 99.5% |  |
+| 5.5–6.5% | 24% | 93% |  |
+| 6.5–7.5% | 36% | 70% | Median |
+| 7.5–8.5% | 25% | 33% |  |
+| 8.5–9.5% | 7% | 9% |  |
+| 9.5–10.5% | 1.3% | 1.4% |  |
 | 10.5–11.5% | 0.1% | 0.1% |  |
 | 11.5–12.5% | 0% | 0% |  |
 | 12.5–13.5% | 0% | 0% |  |
@@ -1256,10 +1280,34 @@ Last result: **13** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 3–7 | 3–7 |
+| N/A | [Poll Average](average.html) | 5 | 4–6 | 3–7 | 3–7 | 3–8 |
+| [15–20 March 2023](2023-03-20-SWG.html) | SWG <br> La7 | 5 | 4–5 | 4–6 | 3–6 | 3–6 |
+| [16–20 March 2023](2023-03-20-Ixè.html) | Ixè | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
+| [16–17 March 2023](2023-03-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
+| [11–17 March 2023](2023-03-17-Lab2101.html) | Lab2101 <br> Affari Italiani | 5 | 4–6 | 4–6 | 3–6 | 3–7 |
+| [14–16 March 2023](2023-03-16-TermometroPolitico.html) | Termometro Politico | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
+| [14–16 March 2023](2023-03-16-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 4 | 3–5 | 3–5 | 3–5 | 0–6 |
+| [14–16 March 2023](2023-03-16-Ipsos.html) | Ipsos <br> Corriere della Sera | 5 | 4–6 | 4–7 | 4–7 | 3–7 |
+| [16 March 2023](2023-03-16-EMG.html) | EMG <br> Rai 3 | 7 | 6–7 | 5–8 | 5–8 | 5–8 |
+| [15 March 2023](2023-03-15-IndexResearch.html) | Index Research <br> La7 |  |  |  |  |  |
+| [8–13 March 2023](2023-03-13-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [13 March 2023](2023-03-13-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
+| [10–11 March 2023](2023-03-11-Bidimedia.html) | Bidimedia |  |  |  |  |  |
+| [9–10 March 2023](2023-03-10-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [7–10 March 2023](2023-03-10-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
+| [7–9 March 2023](2023-03-09-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [7–9 March 2023](2023-03-09-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
+| [9 March 2023](2023-03-09-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
+| [8 March 2023](2023-03-08-IndexResearch.html) | Index Research <br> La7 |  |  |  |  |  |
+| [1–6 March 2023](2023-03-06-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [2 March 2023](2023-03-02-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [2 March 2023](2023-03-02-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
 | [2 March 2023](2023-03-02-Lab2101.html) | Lab2101 <br> Affari Italiani | 5 | 4–6 | 4–7 | 4–7 | 3–7 |
+| [2 March 2023](2023-03-02-IndexResearch.html) | Index Research <br> La7 |  |  |  |  |  |
+| [2 March 2023](2023-03-02-EMG.html) | EMG |  |  |  |  |  |
 | [1 March 2023](2023-03-01-TermometroPolitico.html) | Termometro Politico | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [28 February 2023](2023-02-28-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
+| [28 February 2023](2023-02-28-Euromedia.html) | Euromedia |  |  |  |  |  |
 | [23–27 February 2023](2023-02-27-SWG.html) | SWG <br> La7 | 5 | 4–5 | 3–6 | 3–6 | 3–6 |
 | [23–24 February 2023](2023-02-24-Tecnè.html) | Tecnè <br> Agenzia Dire | 5 | 5–6 | 4–7 | 4–7 | 4–7 |
 | [21–23 February 2023](2023-02-23-TermometroPolitico.html) | Termometro Politico | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
@@ -2479,13 +2527,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.1% | 100% |  |
-| 3 | 4% | 99.9% |  |
-| 4 | 22% | 95% |  |
-| 5 | 39% | 73% | Median |
-| 6 | 29% | 34% |  |
-| 7 | 5% | 5% |  |
-| 8 | 0.3% | 0.4% |  |
+| 0 | 0.1% | 100% |  |
+| 1 | 0% | 99.9% |  |
+| 2 | 0.1% | 99.9% |  |
+| 3 | 5% | 99.8% |  |
+| 4 | 26% | 95% |  |
+| 5 | 41% | 69% | Median |
+| 6 | 21% | 27% |  |
+| 7 | 6% | 6% |  |
+| 8 | 0.7% | 0.7% |  |
 | 9 | 0% | 0% |  |
 | 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |
