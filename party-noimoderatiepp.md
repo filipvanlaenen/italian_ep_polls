@@ -37,7 +37,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [2 March 2023](2023-03-02-EMG.html) | EMG | 1.5% | N/A | N/A | N/A | N/A |
 | [1 March 2023](2023-03-01-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
 | [28 February 2023](2023-02-28-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
-| [28 February 2023](2023-02-28-Euromedia.html) | Euromedia | 0.5% | 0.3–1.0% | 0.2–1.1% | 0.2–1.2% | 0.1–1.4% |
+| [28 February 2023](2023-02-28-Euromedia.html) | Euromedia | 0.5% | 0.3–0.9% | 0.3–1.1% | 0.2–1.2% | 0.2–1.4% |
 | [23–27 February 2023](2023-02-27-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [23–24 February 2023](2023-02-24-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [21–23 February 2023](2023-02-23-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
@@ -1298,7 +1298,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [2 March 2023](2023-03-02-EMG.html) | EMG |  |  |  |  |  |
 | [1 March 2023](2023-03-01-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [28 February 2023](2023-02-28-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
-| [28 February 2023](2023-02-28-Euromedia.html) | Euromedia |  |  |  |  |  |
+| [28 February 2023](2023-02-28-Euromedia.html) | Euromedia | 0 | 0 | 0 | 0 | 0 |
 | [23–27 February 2023](2023-02-27-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [23–24 February 2023](2023-02-24-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [21–23 February 2023](2023-02-23-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |

@@ -1299,7 +1299,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [2 March 2023](2023-03-02-EMG.html) | EMG |  |  |  |  |  |
 | [1 March 2023](2023-03-01-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [28 February 2023](2023-02-28-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
-| [28 February 2023](2023-02-28-Euromedia.html) | Euromedia |  |  |  |  |  |
+| [28 February 2023](2023-02-28-Euromedia.html) | Euromedia | 0 | 0 | 0 | 0 | 0–3 |
 | [23–27 February 2023](2023-02-27-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [23–24 February 2023](2023-02-24-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
 | [21–23 February 2023](2023-02-23-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
