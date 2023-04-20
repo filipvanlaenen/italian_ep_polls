@@ -29,7 +29,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [5 April 2023](2023-04-05-IndexResearch.html) | Index Research <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [3 April 2023](2023-04-03-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [30–31 March 2023](2023-03-31-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
-| [28–30 March 2023](2023-03-30-TermometroPolitico.html) | Termometro Politico | 1.5% | 1.2–2.5% | 1.2–2.5% | 1.2–2.5% | 1.2–2.5% |
+| [28–30 March 2023](2023-03-30-TermometroPolitico.html) | Termometro Politico | 1.5% | 1.3–1.8% | 1.2–1.9% | 1.2–1.9% | 1.1–2.1% |
 | [29–30 March 2023](2023-03-30-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.0% | N/A | N/A | N/A | N/A |
 | [24–30 March 2023](2023-03-30-Lab2101.html) | Lab2101 <br> Affari Italiani | 0.0% | N/A | N/A | N/A | N/A |
 | [27–30 March 2023](2023-03-30-Ixè.html) | Ixè | 0.0% | N/A | N/A | N/A | N/A |
@@ -1324,7 +1324,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [5 April 2023](2023-04-05-IndexResearch.html) | Index Research <br> La7 |  |  |  |  |  |
 | [3 April 2023](2023-04-03-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [30–31 March 2023](2023-03-31-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
-| [28–30 March 2023](2023-03-30-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [28–30 March 2023](2023-03-30-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [29–30 March 2023](2023-03-30-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
 | [24–30 March 2023](2023-03-30-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
 | [27–30 March 2023](2023-03-30-Ixè.html) | Ixè |  |  |  |  |  |
