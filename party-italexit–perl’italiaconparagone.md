@@ -36,9 +36,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [30 March 2023](2023-03-30-EMG.html) | EMG <br> Rai 3 | 2.6% | 2.1–3.3% | 2.0–3.5% | 1.9–3.6% | 1.7–4.0% |
 | [29 March 2023](2023-03-29-IndexResearch.html) | Index Research <br> La7 | 1.8% | 1.3–2.5% | 1.1–2.7% | 1.1–2.9% | 0.9–3.3% |
 | [29 March 2023](2023-03-29-Euromedia.html) | Euromedia | 2.4% | 1.9–3.2% | 1.7–3.4% | 1.6–3.6% | 1.4–3.9% |
-| [22–27 March 2023](2023-03-27-SWG.html) | SWG <br> La7 | 1.8% | N/A | N/A | N/A | N/A |
+| [22–27 March 2023](2023-03-27-SWG.html) | SWG <br> La7 | 1.8% | 1.4–2.4% | 1.3–2.6% | 1.2–2.8% | 1.0–3.1% |
 | [23–24 March 2023](2023-03-24-Tecnè.html) | Tecnè <br> Agenzia Dire | 1.8% | N/A | N/A | N/A | N/A |
-| [24 March 2023](2023-03-24-Piepoli.html) | Piepoli | 2.0% | N/A | N/A | N/A | N/A |
+| [24 March 2023](2023-03-24-Piepoli.html) | Piepoli | 2.0% | 1.4–3.1% | 1.2–3.4% | 1.1–3.6% | 0.9–4.2% |
 | [22–23 March 2023](2023-03-23-TermometroPolitico.html) | Termometro Politico | 2.4% | 2.1–2.7% | 2.0–2.8% | 2.0–2.9% | 1.8–3.1% |
 | [21–23 March 2023](2023-03-23-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 2.4% | N/A | N/A | N/A | N/A |
 | [23 March 2023](2023-03-23-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
@@ -1332,9 +1332,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [30 March 2023](2023-03-30-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [29 March 2023](2023-03-29-IndexResearch.html) | Index Research <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [29 March 2023](2023-03-29-Euromedia.html) | Euromedia | 0 | 0 | 0 | 0 | 0 |
-| [22–27 March 2023](2023-03-27-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [22–27 March 2023](2023-03-27-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [23–24 March 2023](2023-03-24-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
-| [24 March 2023](2023-03-24-Piepoli.html) | Piepoli |  |  |  |  |  |
+| [24 March 2023](2023-03-24-Piepoli.html) | Piepoli | 0 | 0 | 0 | 0 | 0–4 |
 | [22–23 March 2023](2023-03-23-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [21–23 March 2023](2023-03-23-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
 | [23 March 2023](2023-03-23-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |

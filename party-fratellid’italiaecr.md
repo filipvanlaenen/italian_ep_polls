@@ -10,7 +10,7 @@ Last result: **3.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.3% | 27.1–31.1% | 26.4–31.7% | 25.9–32.3% | 25.0–33.5% |
+| N/A | [Poll Average](average.html) | 29.2% | 27.1–31.1% | 26.5–31.7% | 25.9–32.3% | 25.0–33.4% |
 | [12–17 April 2023](2023-04-17-SWG.html) | SWG <br> La7 | 29.0% | 27.4–30.7% | 26.9–31.2% | 26.5–31.6% | 25.7–32.5% |
 | [15 April 2023](2023-04-15-Piepoli.html) | Piepoli | 29.6% | 27.1–32.3% | 26.4–33.1% | 25.8–33.8% | 24.6–35.1% |
 | [13–14 April 2023](2023-04-14-Tecnè.html) | Tecnè <br> Agenzia Dire | 29.4% | 27.6–31.3% | 27.1–31.8% | 26.7–32.3% | 25.8–33.2% |
@@ -36,12 +36,12 @@ Last result: **3.7%** (General Election of 26 May 2019)
 | [30 March 2023](2023-03-30-EMG.html) | EMG <br> Rai 3 | 26.8% | 25.3–28.4% | 24.8–28.8% | 24.5–29.2% | 23.8–30.0% |
 | [29 March 2023](2023-03-29-IndexResearch.html) | Index Research <br> La7 | 29.8% | 27.7–31.9% | 27.2–32.5% | 26.7–33.0% | 25.7–34.0% |
 | [29 March 2023](2023-03-29-Euromedia.html) | Euromedia | 28.7% | 26.9–30.6% | 26.4–31.1% | 26.0–31.6% | 25.1–32.5% |
-| [22–27 March 2023](2023-03-27-SWG.html) | SWG <br> La7 | 29.6% | N/A | N/A | N/A | N/A |
+| [22–27 March 2023](2023-03-27-SWG.html) | SWG <br> La7 | 29.6% | 27.9–31.3% | 27.5–31.8% | 27.1–32.2% | 26.3–33.1% |
 | [23–24 March 2023](2023-03-24-Tecnè.html) | Tecnè <br> Agenzia Dire | 30.0% | N/A | N/A | N/A | N/A |
-| [24 March 2023](2023-03-24-Piepoli.html) | Piepoli | 30.0% | N/A | N/A | N/A | N/A |
+| [24 March 2023](2023-03-24-Piepoli.html) | Piepoli | 30.0% | 27.5–32.7% | 26.7–33.5% | 26.1–34.2% | 25.0–35.5% |
 | [22–23 March 2023](2023-03-23-TermometroPolitico.html) | Termometro Politico | 29.4% | 28.5–30.3% | 28.3–30.6% | 28.0–30.8% | 27.6–31.2% |
 | [21–23 March 2023](2023-03-23-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 28.9% | N/A | N/A | N/A | N/A |
-| [23 March 2023](2023-03-23-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 29.0% | N/A | N/A | N/A | N/A |
+| [23 March 2023](2023-03-23-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 29.0% | 27.2–30.9% | 26.7–31.4% | 26.3–31.9% | 25.4–32.8% |
 | [18–23 March 2023](2023-03-23-Lab2101.html) | Lab2101 <br> Affari Italiani | 30.1% | N/A | N/A | N/A | N/A |
 | [23 March 2023](2023-03-23-EMG.html) | EMG <br> Rai 3 | 27.0% | N/A | N/A | N/A | N/A |
 | [21–22 March 2023](2023-03-22-Demopolis.html) | Demopolis <br> La7 | 30.0% | 28.7–31.4% | 28.3–31.7% | 28.0–32.1% | 27.4–32.7% |
@@ -1311,16 +1311,16 @@ The following table shows the probability mass function per percentage block of 
 | 21.5–22.5% | 0% | 100% |  |
 | 22.5–23.5% | 0% | 100% |  |
 | 23.5–24.5% | 0.2% | 100% |  |
-| 24.5–25.5% | 1.2% | 99.8% |  |
+| 24.5–25.5% | 1.1% | 99.8% |  |
 | 25.5–26.5% | 4% | 98.6% |  |
 | 26.5–27.5% | 10% | 94% |  |
 | 27.5–28.5% | 17% | 84% |  |
 | 28.5–29.5% | 25% | 67% | Median |
 | 29.5–30.5% | 23% | 42% |  |
-| 30.5–31.5% | 12% | 19% |  |
-| 31.5–32.5% | 5% | 6% |  |
+| 30.5–31.5% | 12% | 18% |  |
+| 31.5–32.5% | 4% | 6% |  |
 | 32.5–33.5% | 1.3% | 2% |  |
-| 33.5–34.5% | 0.3% | 0.5% |  |
+| 33.5–34.5% | 0.3% | 0.4% |  |
 | 34.5–35.5% | 0.1% | 0.1% |  |
 | 35.5–36.5% | 0% | 0% |  |
 
@@ -1333,7 +1333,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24 | 23–26 | 22–27 | 22–27 | 21–29 |
+| N/A | [Poll Average](average.html) | 24 | 22–26 | 22–27 | 22–27 | 21–29 |
 | [12–17 April 2023](2023-04-17-SWG.html) | SWG <br> La7 | 24 | 24–27 | 24–27 | 23–29 | 23–29 |
 | [15 April 2023](2023-04-15-Piepoli.html) | Piepoli | 25 | 23–27 | 22–28 | 22–29 | 21–30 |
 | [13–14 April 2023](2023-04-14-Tecnè.html) | Tecnè <br> Agenzia Dire | 24 | 22–26 | 22–26 | 22–27 | 21–28 |
@@ -1359,12 +1359,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [30 March 2023](2023-03-30-EMG.html) | EMG <br> Rai 3 | 24 | 23–24 | 22–24 | 21–25 | 21–26 |
 | [29 March 2023](2023-03-29-IndexResearch.html) | Index Research <br> La7 | 24 | 23–26 | 22–27 | 22–28 | 21–29 |
 | [29 March 2023](2023-03-29-Euromedia.html) | Euromedia | 24 | 23–26 | 22–26 | 22–27 | 21–27 |
-| [22–27 March 2023](2023-03-27-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [22–27 March 2023](2023-03-27-SWG.html) | SWG <br> La7 | 25 | 23–27 | 23–27 | 23–28 | 22–28 |
 | [23–24 March 2023](2023-03-24-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
-| [24 March 2023](2023-03-24-Piepoli.html) | Piepoli |  |  |  |  |  |
+| [24 March 2023](2023-03-24-Piepoli.html) | Piepoli | 25 | 23–27 | 22–29 | 22–29 | 21–30 |
 | [22–23 March 2023](2023-03-23-TermometroPolitico.html) | Termometro Politico | 25 | 24–26 | 24–26 | 24–26 | 24–27 |
 | [21–23 March 2023](2023-03-23-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
-| [23 March 2023](2023-03-23-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
+| [23 March 2023](2023-03-23-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 23 | 22–25 | 21–25 | 21–26 | 20–26 |
 | [18–23 March 2023](2023-03-23-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
 | [23 March 2023](2023-03-23-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [21–22 March 2023](2023-03-22-Demopolis.html) | Demopolis <br> La7 | 23 | 22–24 | 22–25 | 22–25 | 21–26 |
@@ -2637,14 +2637,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 0% | 100% |  |
 | 20 | 0.2% | 100% |  |
 | 21 | 2% | 99.8% |  |
-| 22 | 8% | 98% |  |
-| 23 | 19% | 90% |  |
-| 24 | 31% | 71% | Median |
-| 25 | 22% | 40% |  |
-| 26 | 12% | 18% |  |
-| 27 | 5% | 6% |  |
-| 28 | 1.0% | 2% |  |
-| 29 | 0.6% | 0.7% |  |
+| 22 | 9% | 98% |  |
+| 23 | 21% | 89% |  |
+| 24 | 30% | 69% | Median |
+| 25 | 21% | 38% |  |
+| 26 | 11% | 17% |  |
+| 27 | 4% | 6% |  |
+| 28 | 0.9% | 2% |  |
+| 29 | 0.6% | 0.6% |  |
 | 30 | 0.1% | 0.1% |  |
 | 31 | 0% | 0% |  |
 

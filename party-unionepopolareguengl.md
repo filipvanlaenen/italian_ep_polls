@@ -36,7 +36,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [30 March 2023](2023-03-30-EMG.html) | EMG <br> Rai 3 | 1.4% | 1.1–2.0% | 1.0–2.1% | 0.9–2.2% | 0.8–2.5% |
 | [29 March 2023](2023-03-29-IndexResearch.html) | Index Research <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [29 March 2023](2023-03-29-Euromedia.html) | Euromedia | 0.0% | N/A | N/A | N/A | N/A |
-| [22–27 March 2023](2023-03-27-SWG.html) | SWG <br> La7 | 1.7% | N/A | N/A | N/A | N/A |
+| [22–27 March 2023](2023-03-27-SWG.html) | SWG <br> La7 | 1.7% | 1.3–2.3% | 1.2–2.4% | 1.1–2.6% | 0.9–2.9% |
 | [23–24 March 2023](2023-03-24-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [24 March 2023](2023-03-24-Piepoli.html) | Piepoli | 0.0% | N/A | N/A | N/A | N/A |
 | [22–23 March 2023](2023-03-23-TermometroPolitico.html) | Termometro Politico | 1.4% | 1.2–1.7% | 1.1–1.8% | 1.1–1.8% | 1.0–2.0% |
@@ -1332,7 +1332,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [30 March 2023](2023-03-30-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [29 March 2023](2023-03-29-IndexResearch.html) | Index Research <br> La7 |  |  |  |  |  |
 | [29 March 2023](2023-03-29-Euromedia.html) | Euromedia |  |  |  |  |  |
-| [22–27 March 2023](2023-03-27-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [22–27 March 2023](2023-03-27-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [23–24 March 2023](2023-03-24-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [24 March 2023](2023-03-24-Piepoli.html) | Piepoli |  |  |  |  |  |
 | [22–23 March 2023](2023-03-23-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
