@@ -10,8 +10,39 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.6% | 4.1–8.5% | 3.9–8.9% | 3.7–9.3% | 3.3–10.1% |
+| N/A | [Poll Average](average.html) | 4.3% | 3.8–4.9% | 3.6–5.1% | 3.5–5.3% | 3.3–5.6% |
+| [10–15 May 2023](2023-05-15-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [11–12 May 2023](2023-05-12-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
+| [9–12 May 2023](2023-05-12-Lab2101.html) | Lab2101 <br> Affari Italiani | 0.0% | N/A | N/A | N/A | N/A |
+| [9–11 May 2023](2023-05-11-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
+| [11 May 2023](2023-05-11-EMG.html) | EMG <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
+| [10 May 2023](2023-05-10-IndexResearch.html) | Index Research <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [3–8 May 2023](2023-05-08-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [8 May 2023](2023-05-08-Euromedia.html) | Euromedia <br> La Stampa | 0.0% | N/A | N/A | N/A | N/A |
+| [4–5 May 2023](2023-05-05-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
+| [2–4 May 2023](2023-05-04-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
+| [3–4 May 2023](2023-05-04-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.0% | N/A | N/A | N/A | N/A |
+| [4 May 2023](2023-05-04-Piepoli.html) | Piepoli | 0.0% | N/A | N/A | N/A | N/A |
+| [2–4 May 2023](2023-05-04-Lab2101.html) | Lab2101 <br> Affari Italiani | 0.0% | N/A | N/A | N/A | N/A |
+| [4 May 2023](2023-05-04-EMG.html) | EMG <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
+| [3 May 2023](2023-05-03-IndexResearch.html) | Index Research <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [26–30 April 2023](2023-04-30-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [27–28 April 2023](2023-04-28-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
+| [25–27 April 2023](2023-04-27-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
+| [26–27 April 2023](2023-04-27-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.0% | N/A | N/A | N/A | N/A |
+| [24–27 April 2023](2023-04-27-Lab2101.html) | Lab2101 <br> Affari Italiani | 0.0% | N/A | N/A | N/A | N/A |
+| [27 April 2023](2023-04-27-EMG.html) | EMG <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
+| [26–27 April 2023](2023-04-27-DemosPi.html) | Demos & Pi <br> La Repubblica | 0.0% | N/A | N/A | N/A | N/A |
+| [26 April 2023](2023-04-26-Euromedia.html) | Euromedia <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
+| [19–24 April 2023](2023-04-24-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [20–21 April 2023](2023-04-21-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
+| [21 April 2023](2023-04-21-Piepoli.html) | Piepoli | 0.0% | N/A | N/A | N/A | N/A |
+| [18–21 April 2023](2023-04-21-Lab2101.html) | Lab2101 <br> Affari Italiani | 0.0% | N/A | N/A | N/A | N/A |
 | [18–20 April 2023](2023-04-20-TermometroPolitico.html) | Termometro Politico | 4.3% | 3.9–4.7% | 3.8–4.9% | 3.7–5.0% | 3.5–5.2% |
+| [18–20 April 2023](2023-04-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.0% | N/A | N/A | N/A | N/A |
+| [18–20 April 2023](2023-04-20-Ipsos.html) | Ipsos <br> Corriere della Sera | 5.2% | N/A | N/A | N/A | N/A |
+| [20 April 2023](2023-04-20-EMG.html) | EMG <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
+| [18–19 April 2023](2023-04-19-NotoSondaggi.html) | Noto Sondaggi | 0.0% | N/A | N/A | N/A | N/A |
 | [19 April 2023](2023-04-19-IndexResearch.html) | Index Research <br> La7 | 4.2% | 3.5–5.3% | 3.2–5.6% | 3.0–5.9% | 2.7–6.4% |
 | [18–19 April 2023](2023-04-19-Demopolis.html) | Demopolis | 4.3% | 3.8–5.0% | 3.6–5.1% | 3.5–5.3% | 3.2–5.6% |
 | [12–17 April 2023](2023-04-17-SWG.html) | SWG <br> La7 | 4.6% | 3.9–5.5% | 3.7–5.7% | 3.5–5.9% | 3.2–6.4% |
@@ -1297,16 +1328,11 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 2% | 100% |  |
-| 3.5–4.5% | 19% | 98% |  |
-| 4.5–5.5% | 15% | 79% |  |
-| 5.5–6.5% | 13% | 64% |  |
-| 6.5–7.5% | 23% | 51% | Median |
-| 7.5–8.5% | 19% | 28% |  |
-| 8.5–9.5% | 7% | 9% |  |
-| 9.5–10.5% | 1.4% | 2% |  |
-| 10.5–11.5% | 0.2% | 0.2% |  |
-| 11.5–12.5% | 0% | 0% |  |
+| 2.5–3.5% | 3% | 100% |  |
+| 3.5–4.5% | 65% | 97% | Median |
+| 4.5–5.5% | 31% | 31% |  |
+| 5.5–6.5% | 0.7% | 0.7% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -1317,8 +1343,39 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 4–7 | 0–7 | 0–8 | 0–8 |
+| N/A | [Poll Average](average.html) | 4 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [10–15 May 2023](2023-05-15-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [11–12 May 2023](2023-05-12-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [9–12 May 2023](2023-05-12-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
+| [9–11 May 2023](2023-05-11-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [11 May 2023](2023-05-11-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
+| [10 May 2023](2023-05-10-IndexResearch.html) | Index Research <br> La7 |  |  |  |  |  |
+| [3–8 May 2023](2023-05-08-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [8 May 2023](2023-05-08-Euromedia.html) | Euromedia <br> La Stampa |  |  |  |  |  |
+| [4–5 May 2023](2023-05-05-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [2–4 May 2023](2023-05-04-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [3–4 May 2023](2023-05-04-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
+| [4 May 2023](2023-05-04-Piepoli.html) | Piepoli |  |  |  |  |  |
+| [2–4 May 2023](2023-05-04-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
+| [4 May 2023](2023-05-04-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
+| [3 May 2023](2023-05-03-IndexResearch.html) | Index Research <br> La7 |  |  |  |  |  |
+| [26–30 April 2023](2023-04-30-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [27–28 April 2023](2023-04-28-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [25–27 April 2023](2023-04-27-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [26–27 April 2023](2023-04-27-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
+| [24–27 April 2023](2023-04-27-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
+| [27 April 2023](2023-04-27-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
+| [26–27 April 2023](2023-04-27-DemosPi.html) | Demos & Pi <br> La Repubblica |  |  |  |  |  |
+| [26 April 2023](2023-04-26-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
+| [19–24 April 2023](2023-04-24-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [20–21 April 2023](2023-04-21-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [21 April 2023](2023-04-21-Piepoli.html) | Piepoli |  |  |  |  |  |
+| [18–21 April 2023](2023-04-21-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
 | [18–20 April 2023](2023-04-20-TermometroPolitico.html) | Termometro Politico | 4 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [18–20 April 2023](2023-04-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
+| [18–20 April 2023](2023-04-20-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
+| [20 April 2023](2023-04-20-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
+| [18–19 April 2023](2023-04-19-NotoSondaggi.html) | Noto Sondaggi |  |  |  |  |  |
 | [19 April 2023](2023-04-19-IndexResearch.html) | Index Research <br> La7 | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [18–19 April 2023](2023-04-19-Demopolis.html) | Demopolis | 4 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [12–17 April 2023](2023-04-17-SWG.html) | SWG <br> La7 | 5 | 4–5 | 4–5 | 0–5 | 0–6 |
@@ -2603,16 +2660,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 6% | 100% | Last Result |
-| 1 | 0% | 94% |  |
-| 2 | 0% | 94% |  |
-| 3 | 0.9% | 94% |  |
-| 4 | 22% | 93% |  |
-| 5 | 20% | 71% |  |
-| 6 | 28% | 51% | Median |
-| 7 | 20% | 23% |  |
-| 8 | 3% | 3% |  |
-| 9 | 0.4% | 0.4% |  |
-| 10 | 0% | 0% |  |
+| 0 | 12% | 100% | Last Result |
+| 1 | 0% | 88% |  |
+| 2 | 0% | 88% |  |
+| 3 | 2% | 88% |  |
+| 4 | 85% | 86% | Median |
+| 5 | 0.5% | 0.5% |  |
+| 6 | 0% | 0% |  |
 
 
