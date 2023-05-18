@@ -36,13 +36,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [26 April 2023](2023-04-26-Euromedia.html) | Euromedia <br> Rai 1 | 3.9% | 3.1–4.9% | 2.9–5.2% | 2.7–5.5% | 2.4–6.0% |
 | [19–24 April 2023](2023-04-24-SWG.html) | SWG <br> La7 | 2.4% | N/A | N/A | N/A | N/A |
 | [20–21 April 2023](2023-04-21-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.5% | N/A | N/A | N/A | N/A |
-| [21 April 2023](2023-04-21-Piepoli.html) | Piepoli | 2.4% | N/A | N/A | N/A | N/A |
+| [21 April 2023](2023-04-21-Piepoli.html) | Piepoli | 2.4% | 1.7–3.5% | 1.5–3.9% | 1.4–4.2% | 1.1–4.8% |
 | [18–21 April 2023](2023-04-21-Lab2101.html) | Lab2101 <br> Affari Italiani | 2.5% | N/A | N/A | N/A | N/A |
 | [18–20 April 2023](2023-04-20-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
 | [18–20 April 2023](2023-04-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 2.1% | N/A | N/A | N/A | N/A |
 | [18–20 April 2023](2023-04-20-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.0% | N/A | N/A | N/A | N/A |
 | [20 April 2023](2023-04-20-EMG.html) | EMG <br> Rai 3 | 3.6% | N/A | N/A | N/A | N/A |
-| [18–19 April 2023](2023-04-19-NotoSondaggi.html) | Noto Sondaggi | 2.5% | N/A | N/A | N/A | N/A |
+| [18–19 April 2023](2023-04-19-NotoSondaggi.html) | Noto Sondaggi | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
 | [19 April 2023](2023-04-19-IndexResearch.html) | Index Research <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [18–19 April 2023](2023-04-19-Demopolis.html) | Demopolis | 0.0% | N/A | N/A | N/A | N/A |
 | [12–17 April 2023](2023-04-17-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
@@ -1327,10 +1327,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 1.0% | 100% |  |
-| 1.5–2.5% | 40% | 99.0% |  |
-| 2.5–3.5% | 47% | 59% | Median |
-| 3.5–4.5% | 11% | 12% |  |
-| 4.5–5.5% | 0.8% | 0.9% |  |
+| 1.5–2.5% | 41% | 99.0% |  |
+| 2.5–3.5% | 47% | 58% | Median |
+| 3.5–4.5% | 10% | 11% |  |
+| 4.5–5.5% | 0.8% | 0.8% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -1368,13 +1368,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [26 April 2023](2023-04-26-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [19–24 April 2023](2023-04-24-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [20–21 April 2023](2023-04-21-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
-| [21 April 2023](2023-04-21-Piepoli.html) | Piepoli |  |  |  |  |  |
+| [21 April 2023](2023-04-21-Piepoli.html) | Piepoli | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | [18–21 April 2023](2023-04-21-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
 | [18–20 April 2023](2023-04-20-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [18–20 April 2023](2023-04-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
 | [18–20 April 2023](2023-04-20-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
 | [20 April 2023](2023-04-20-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
-| [18–19 April 2023](2023-04-19-NotoSondaggi.html) | Noto Sondaggi |  |  |  |  |  |
+| [18–19 April 2023](2023-04-19-NotoSondaggi.html) | Noto Sondaggi | 0 | 0 | 0 | 0 | 0 |
 | [19 April 2023](2023-04-19-IndexResearch.html) | Index Research <br> La7 |  |  |  |  |  |
 | [18–19 April 2023](2023-04-19-Demopolis.html) | Demopolis |  |  |  |  |  |
 | [12–17 April 2023](2023-04-17-SWG.html) | SWG <br> La7 |  |  |  |  |  |
@@ -2662,7 +2662,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 96% | 100% | Last Result, Median |
 | 1 | 0% | 4% |  |
 | 2 | 0% | 4% |  |
-| 3 | 0.8% | 4% |  |
+| 3 | 0.7% | 4% |  |
 | 4 | 3% | 3% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
