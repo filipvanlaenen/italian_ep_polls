@@ -10,7 +10,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.4% | 0.9–1.9% | 0.8–2.1% | 0.7–2.2% | 0.5–2.5% |
+| N/A | [Poll Average](average.html) | 1.3% | 0.8–1.9% | 0.7–2.0% | 0.6–2.2% | 0.5–2.6% |
+| [17–22 May 2023](2023-05-22-SWG.html) | SWG <br> La7 | 1.6% | 1.2–2.2% | 1.1–2.3% | 1.0–2.5% | 0.9–2.8% |
+| [18–19 May 2023](2023-05-19-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
+| [15–19 May 2023](2023-05-19-Lab2101.html) | Lab2101 <br> Affari Italiani | 0.0% | N/A | N/A | N/A | N/A |
+| [16–18 May 2023](2023-05-18-TermometroPolitico.html) | Termometro Politico | 1.3% | 1.1–1.6% | 1.1–1.6% | 1.0–1.7% | 0.9–1.8% |
+| [17–18 May 2023](2023-05-18-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.0% | N/A | N/A | N/A | N/A |
+| [17 May 2023](2023-05-17-Piepoli.html) | Piepoli | 0.0% | N/A | N/A | N/A | N/A |
 | [10–15 May 2023](2023-05-15-SWG.html) | SWG <br> La7 | 1.4% | 1.1–2.0% | 1.0–2.1% | 0.9–2.3% | 0.7–2.6% |
 | [11–12 May 2023](2023-05-12-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [9–12 May 2023](2023-05-12-Lab2101.html) | Lab2101 <br> Affari Italiani | 0.0% | N/A | N/A | N/A | N/A |
@@ -1325,10 +1331,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.6% | 100% | Last Result |
-| 0.5–1.5% | 68% | 99.4% | Median |
-| 1.5–2.5% | 31% | 32% |  |
-| 2.5–3.5% | 0.3% | 0.3% |  |
+| 0.0–0.5% | 1.0% | 100% | Last Result |
+| 0.5–1.5% | 75% | 99.0% | Median |
+| 1.5–2.5% | 24% | 24% |  |
+| 2.5–3.5% | 0.5% | 0.5% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -1341,6 +1347,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [17–22 May 2023](2023-05-22-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
+| [18–19 May 2023](2023-05-19-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [15–19 May 2023](2023-05-19-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
+| [16–18 May 2023](2023-05-18-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
+| [17–18 May 2023](2023-05-18-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
+| [17 May 2023](2023-05-17-Piepoli.html) | Piepoli |  |  |  |  |  |
 | [10–15 May 2023](2023-05-15-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [11–12 May 2023](2023-05-12-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [9–12 May 2023](2023-05-12-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
