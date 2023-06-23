@@ -10,7 +10,7 @@ Last result: **21.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.4% | 13.8–17.0% | 13.4–17.5% | 13.0–18.0% | 12.3–19.1% |
+| N/A | [Poll Average](average.html) | 15.4% | 13.8–17.0% | 13.3–17.6% | 13.0–18.1% | 12.2–19.3% |
 | [14–19 June 2023](2023-06-19-SWG.html) | SWG <br> La7 | 16.0% | 14.7–17.4% | 14.3–17.8% | 14.0–18.2% | 13.4–18.9% |
 | [19 June 2023](2023-06-19-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 16.0% | 14.1–18.3% | 13.5–18.9% | 13.0–19.5% | 12.2–20.6% |
 | [19 June 2023](2023-06-19-EMG.html) | EMG <br> Rai 3 | 14.6% | 13.4–16.0% | 13.0–16.4% | 12.7–16.7% | 12.2–17.4% |
@@ -32,7 +32,7 @@ Last result: **21.2%** (General Election of 26 May 2019)
 | [1 June 2023](2023-06-01-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 16.0% | 14.4–17.8% | 14.0–18.2% | 13.6–18.7% | 12.9–19.6% |
 | [1 June 2023](2023-06-01-Lab2101.html) | Lab2101 <br> Affari Italiani | 16.1% | 14.7–17.7% | 14.3–18.1% | 13.9–18.5% | 13.3–19.3% |
 | [1 June 2023](2023-06-01-EMG.html) | EMG <br> Rai 3 | 15.4% | 14.2–16.7% | 13.9–17.1% | 13.6–17.4% | 13.0–18.0% |
-| [30 May 2023](2023-05-30-Piepoli.html) | Piepoli | 15.6% | N/A | N/A | N/A | N/A |
+| [30 May 2023](2023-05-30-Piepoli.html) | Piepoli | 15.6% | 13.7–17.8% | 13.1–18.5% | 12.7–19.1% | 11.8–20.2% |
 | [24–29 May 2023](2023-05-29-SWG.html) | SWG <br> La7 | 16.3% | 15.0–17.8% | 14.7–18.2% | 14.3–18.5% | 13.7–19.3% |
 | [25–26 May 2023](2023-05-26-Tecnè.html) | Tecnè <br> Agenzia Dire | 15.5% | 14.1–17.1% | 13.7–17.5% | 13.4–17.9% | 12.7–18.7% |
 | [23–25 May 2023](2023-05-25-TermometroPolitico.html) | Termometro Politico | 16.0% | 15.3–16.8% | 15.1–17.0% | 14.9–17.2% | 14.5–17.6% |
@@ -1363,17 +1363,18 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
+| 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0.1% | 100% |  |
 | 11.5–12.5% | 0.9% | 99.9% |  |
-| 12.5–13.5% | 6% | 99.1% |  |
+| 12.5–13.5% | 6% | 99.0% |  |
 | 13.5–14.5% | 18% | 93% |  |
-| 14.5–15.5% | 29% | 75% | Median |
-| 15.5–16.5% | 29% | 46% |  |
-| 16.5–17.5% | 12% | 17% |  |
+| 14.5–15.5% | 28% | 75% | Median |
+| 15.5–16.5% | 28% | 46% |  |
+| 16.5–17.5% | 13% | 18% |  |
 | 17.5–18.5% | 4% | 5% |  |
-| 18.5–19.5% | 0.9% | 1.1% |  |
-| 19.5–20.5% | 0.2% | 0.2% |  |
-| 20.5–21.5% | 0% | 0.1% | Last Result |
+| 18.5–19.5% | 1.1% | 1.4% |  |
+| 19.5–20.5% | 0.3% | 0.3% |  |
+| 20.5–21.5% | 0.1% | 0.1% | Last Result |
 | 21.5–22.5% | 0% | 0% |  |
 
 
@@ -1407,7 +1408,7 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [1 June 2023](2023-06-01-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 13 | 13–15 | 12–15 | 12–16 | 11–18 |
 | [1 June 2023](2023-06-01-Lab2101.html) | Lab2101 <br> Affari Italiani | 14 | 12–16 | 12–16 | 12–16 | 11–17 |
 | [1 June 2023](2023-06-01-EMG.html) | EMG <br> Rai 3 | 15 | 13–15 | 13–16 | 12–16 | 12–17 |
-| [30 May 2023](2023-05-30-Piepoli.html) | Piepoli |  |  |  |  |  |
+| [30 May 2023](2023-05-30-Piepoli.html) | Piepoli | 14 | 12–16 | 11–17 | 11–17 | 10–18 |
 | [24–29 May 2023](2023-05-29-SWG.html) | SWG <br> La7 | 15 | 13–16 | 13–17 | 13–17 | 12–17 |
 | [25–26 May 2023](2023-05-26-Tecnè.html) | Tecnè <br> Agenzia Dire | 13 | 12–14 | 11–15 | 11–15 | 11–16 |
 | [23–25 May 2023](2023-05-25-TermometroPolitico.html) | Termometro Politico | 14 | 13–15 | 13–16 | 13–16 | 13–16 |
@@ -2746,9 +2747,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 26% | 77% |  |
 | 14 | 27% | 51% | Median |
 | 15 | 19% | 24% |  |
-| 16 | 4% | 5% |  |
-| 17 | 1.0% | 1.1% | Last Result |
-| 18 | 0.1% | 0.1% |  |
+| 16 | 4% | 6% |  |
+| 17 | 1.3% | 1.5% | Last Result |
+| 18 | 0.1% | 0.2% |  |
 | 19 | 0% | 0% |  |
 
 

@@ -10,7 +10,7 @@ Last result: **16.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.7% | 6.5–12.5% | 6.1–13.4% | 5.8–14.1% | 5.2–15.1% |
+| N/A | [Poll Average](average.html) | 8.6% | 6.5–12.3% | 6.1–13.3% | 5.8–14.0% | 5.2–15.1% |
 | [14–19 June 2023](2023-06-19-SWG.html) | SWG <br> La7 | 7.2% | 6.3–8.2% | 6.0–8.5% | 5.8–8.8% | 5.4–9.3% |
 | [19 June 2023](2023-06-19-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 9.6% | 8.1–11.5% | 7.7–12.0% | 7.3–12.5% | 6.6–13.5% |
 | [19 June 2023](2023-06-19-EMG.html) | EMG <br> Rai 3 | 8.9% | 7.9–10.1% | 7.7–10.4% | 7.4–10.7% | 7.0–11.2% |
@@ -32,7 +32,7 @@ Last result: **16.8%** (General Election of 26 May 2019)
 | [1 June 2023](2023-06-01-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 6.7% | 5.7–8.0% | 5.4–8.4% | 5.2–8.7% | 4.8–9.3% |
 | [1 June 2023](2023-06-01-Lab2101.html) | Lab2101 <br> Affari Italiani | 6.8% | 5.9–7.9% | 5.6–8.3% | 5.4–8.5% | 5.0–9.1% |
 | [1 June 2023](2023-06-01-EMG.html) | EMG <br> Rai 3 | 7.1% | 6.3–8.0% | 6.0–8.3% | 5.8–8.6% | 5.5–9.0% |
-| [30 May 2023](2023-05-30-Piepoli.html) | Piepoli | 7.6% | N/A | N/A | N/A | N/A |
+| [30 May 2023](2023-05-30-Piepoli.html) | Piepoli | 7.6% | 6.3–9.3% | 5.9–9.8% | 5.6–10.3% | 5.0–11.2% |
 | [24–29 May 2023](2023-05-29-SWG.html) | SWG <br> La7 | 6.6% | 5.7–7.6% | 5.5–7.9% | 5.3–8.1% | 4.9–8.6% |
 | [25–26 May 2023](2023-05-26-Tecnè.html) | Tecnè <br> Agenzia Dire | 8.2% | 7.2–9.4% | 6.9–9.8% | 6.6–10.1% | 6.2–10.7% |
 | [23–25 May 2023](2023-05-25-TermometroPolitico.html) | Termometro Politico | 7.4% | 6.9–8.0% | 6.8–8.1% | 6.6–8.3% | 6.4–8.6% |
@@ -1365,16 +1365,16 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 1.4% | 100% |  |
-| 5.5–6.5% | 9% | 98.6% |  |
-| 6.5–7.5% | 16% | 89% |  |
-| 7.5–8.5% | 20% | 74% |  |
-| 8.5–9.5% | 17% | 53% | Median |
-| 9.5–10.5% | 12% | 36% |  |
-| 10.5–11.5% | 8% | 24% |  |
-| 11.5–12.5% | 6% | 16% |  |
-| 12.5–13.5% | 5% | 10% |  |
+| 5.5–6.5% | 10% | 98.5% |  |
+| 6.5–7.5% | 17% | 89% |  |
+| 7.5–8.5% | 21% | 72% |  |
+| 8.5–9.5% | 17% | 51% | Median |
+| 9.5–10.5% | 12% | 34% |  |
+| 10.5–11.5% | 8% | 22% |  |
+| 11.5–12.5% | 6% | 15% |  |
+| 12.5–13.5% | 5% | 9% |  |
 | 13.5–14.5% | 3% | 4% |  |
-| 14.5–15.5% | 1.1% | 1.3% |  |
+| 14.5–15.5% | 1.0% | 1.2% |  |
 | 15.5–16.5% | 0.2% | 0.2% |  |
 | 16.5–17.5% | 0% | 0% | Last Result |
 
@@ -1387,7 +1387,7 @@ Last result: **13** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 5–10 | 4–11 | 4–11 | 4–13 |
+| N/A | [Poll Average](average.html) | 7 | 5–10 | 4–10 | 4–11 | 4–13 |
 | [14–19 June 2023](2023-06-19-SWG.html) | SWG <br> La7 | 5 | 5–6 | 5–7 | 4–7 | 4–7 |
 | [19 June 2023](2023-06-19-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 7 | 6–9 | 6–9 | 5–10 | 4–10 |
 | [19 June 2023](2023-06-19-EMG.html) | EMG <br> Rai 3 | 8 | 7–9 | 6–9 | 6–9 | 5–9 |
@@ -1409,7 +1409,7 @@ Last result: **13** seats (General Election of 26 May 2019)
 | [1 June 2023](2023-06-01-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
 | [1 June 2023](2023-06-01-Lab2101.html) | Lab2101 <br> Affari Italiani | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
 | [1 June 2023](2023-06-01-EMG.html) | EMG <br> Rai 3 | 6 | 5–7 | 5–7 | 4–7 | 4–7 |
-| [30 May 2023](2023-05-30-Piepoli.html) | Piepoli |  |  |  |  |  |
+| [30 May 2023](2023-05-30-Piepoli.html) | Piepoli | 6 | 5–7 | 4–8 | 4–8 | 3–9 |
 | [24–29 May 2023](2023-05-29-SWG.html) | SWG <br> La7 | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
 | [25–26 May 2023](2023-05-26-Tecnè.html) | Tecnè <br> Agenzia Dire | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | [23–25 May 2023](2023-05-25-TermometroPolitico.html) | Termometro Politico | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
@@ -2745,14 +2745,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0.2% | 100% |  |
 | 4 | 7% | 99.8% |  |
 | 5 | 15% | 93% |  |
-| 6 | 22% | 78% |  |
-| 7 | 22% | 57% | Median |
-| 8 | 15% | 35% |  |
-| 9 | 10% | 21% |  |
-| 10 | 6% | 11% |  |
-| 11 | 4% | 5% |  |
-| 12 | 1.1% | 2% |  |
-| 13 | 0.6% | 0.6% | Last Result |
+| 6 | 23% | 78% |  |
+| 7 | 22% | 55% | Median |
+| 8 | 14% | 33% |  |
+| 9 | 9% | 19% |  |
+| 10 | 5% | 10% |  |
+| 11 | 3% | 5% |  |
+| 12 | 1.0% | 2% |  |
+| 13 | 0.5% | 0.6% | Last Result |
 | 14 | 0% | 0% |  |
 
 
