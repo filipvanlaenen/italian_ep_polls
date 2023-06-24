@@ -11,6 +11,7 @@ Last result: **40.8%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20.2% | 18.5–22.2% | 18.0–22.8% | 17.6–23.3% | 16.6–24.4% |
+| [20–23 June 2023](2023-06-23-TermometroPolitico.html) | Termometro Politico | 19.6% | 18.8–20.4% | 18.6–20.6% | 18.4–20.8% | 18.1–21.2% |
 | [14–19 June 2023](2023-06-19-SWG.html) | SWG <br> La7 | 20.5% | 19.1–22.1% | 18.7–22.5% | 18.3–22.9% | 17.6–23.6% |
 | [19 June 2023](2023-06-19-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 20.8% | 18.6–23.3% | 18.0–24.0% | 17.5–24.6% | 16.5–25.8% |
 | [19 June 2023](2023-06-19-EMG.html) | EMG <br> Rai 3 | 20.0% | 18.6–21.5% | 18.2–22.0% | 17.8–22.3% | 17.2–23.1% |
@@ -1402,6 +1403,7 @@ Last result: **31** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18 | 16–20 | 15–20 | 15–21 | 14–22 |
+| [20–23 June 2023](2023-06-23-TermometroPolitico.html) | Termometro Politico | 18 | 18–19 | 17–19 | 17–19 | 17–19 |
 | [14–19 June 2023](2023-06-19-SWG.html) | SWG <br> La7 | 18 | 18–20 | 17–20 | 17–21 | 16–21 |
 | [19 June 2023](2023-06-19-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 18 | 15–20 | 14–21 | 14–21 | 14–22 |
 | [19 June 2023](2023-06-19-EMG.html) | EMG <br> Rai 3 | 18 | 17–20 | 16–20 | 16–21 | 16–22 |
@@ -2760,9 +2762,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 2% | 99.9% |  |
 | 15 | 5% | 98% |  |
 | 16 | 10% | 93% |  |
-| 17 | 24% | 83% |  |
-| 18 | 30% | 60% | Median |
-| 19 | 15% | 30% |  |
+| 17 | 19% | 83% |  |
+| 18 | 34% | 65% | Median |
+| 19 | 15% | 31% |  |
 | 20 | 12% | 16% |  |
 | 21 | 3% | 4% |  |
 | 22 | 0.7% | 0.8% |  |

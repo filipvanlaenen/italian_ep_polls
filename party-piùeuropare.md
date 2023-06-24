@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.3% | 1.6–3.2% | 1.4–3.5% | 1.3–3.7% | 1.1–4.2% |
+| N/A | [Poll Average](average.html) | 2.4% | 1.6–3.2% | 1.4–3.5% | 1.3–3.7% | 1.1–4.2% |
+| [20–23 June 2023](2023-06-23-TermometroPolitico.html) | Termometro Politico | 2.5% | 2.2–2.8% | 2.1–2.9% | 2.1–3.0% | 2.0–3.2% |
 | [14–19 June 2023](2023-06-19-SWG.html) | SWG <br> La7 | 2.5% | 2.0–3.2% | 1.9–3.4% | 1.8–3.6% | 1.5–3.9% |
 | [19 June 2023](2023-06-19-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 2.0% | 1.4–3.1% | 1.2–3.4% | 1.1–3.6% | 0.9–4.2% |
 | [19 June 2023](2023-06-19-EMG.html) | EMG <br> Rai 3 | 3.0% | 2.4–3.7% | 2.3–3.9% | 2.1–4.1% | 1.9–4.5% |
@@ -1365,8 +1366,8 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 8% | 100% |  |
-| 1.5–2.5% | 57% | 92% | Median |
-| 2.5–3.5% | 31% | 35% |  |
+| 1.5–2.5% | 55% | 92% | Median |
+| 2.5–3.5% | 33% | 37% |  |
 | 3.5–4.5% | 4% | 4% |  |
 | 4.5–5.5% | 0.2% | 0.2% |  |
 | 5.5–6.5% | 0% | 0% |  |
@@ -1381,6 +1382,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–3 |
+| [20–23 June 2023](2023-06-23-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [14–19 June 2023](2023-06-19-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [19 June 2023](2023-06-19-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0 | 0 | 0–4 |
 | [19 June 2023](2023-06-19-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0–4 |

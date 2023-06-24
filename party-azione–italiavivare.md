@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6.6% | 5.6–7.6% | 5.3–7.9% | 5.1–8.2% | 4.7–8.8% |
+| [20–23 June 2023](2023-06-23-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
 | [14–19 June 2023](2023-06-19-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [19 June 2023](2023-06-19-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.0% | N/A | N/A | N/A | N/A |
 | [19 June 2023](2023-06-19-EMG.html) | EMG <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
@@ -1385,6 +1386,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 5–6 | 4–6 | 4–7 | 4–7 |
+| [20–23 June 2023](2023-06-23-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [14–19 June 2023](2023-06-19-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [19 June 2023](2023-06-19-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
 | [19 June 2023](2023-06-19-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |

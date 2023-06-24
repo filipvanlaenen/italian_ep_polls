@@ -10,7 +10,8 @@ Last result: **16.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.6% | 6.5–12.3% | 6.1–13.3% | 5.8–14.0% | 5.2–15.1% |
+| N/A | [Poll Average](average.html) | 8.5% | 6.5–12.3% | 6.1–13.3% | 5.8–14.0% | 5.2–15.1% |
+| [20–23 June 2023](2023-06-23-TermometroPolitico.html) | Termometro Politico | 8.0% | 7.5–8.6% | 7.3–8.7% | 7.2–8.8% | 7.0–9.1% |
 | [14–19 June 2023](2023-06-19-SWG.html) | SWG <br> La7 | 7.2% | 6.3–8.2% | 6.0–8.5% | 5.8–8.8% | 5.4–9.3% |
 | [19 June 2023](2023-06-19-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 9.6% | 8.1–11.5% | 7.7–12.0% | 7.3–12.5% | 6.6–13.5% |
 | [19 June 2023](2023-06-19-EMG.html) | EMG <br> Rai 3 | 8.9% | 7.9–10.1% | 7.7–10.4% | 7.4–10.7% | 7.0–11.2% |
@@ -1366,9 +1367,9 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 1.4% | 100% |  |
 | 5.5–6.5% | 10% | 98.5% |  |
-| 6.5–7.5% | 17% | 89% |  |
-| 7.5–8.5% | 21% | 72% |  |
-| 8.5–9.5% | 17% | 51% | Median |
+| 6.5–7.5% | 18% | 89% |  |
+| 7.5–8.5% | 22% | 71% |  |
+| 8.5–9.5% | 15% | 49% | Median |
 | 9.5–10.5% | 12% | 34% |  |
 | 10.5–11.5% | 8% | 22% |  |
 | 11.5–12.5% | 6% | 15% |  |
@@ -1388,6 +1389,7 @@ Last result: **13** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 5–10 | 4–10 | 4–11 | 4–13 |
+| [20–23 June 2023](2023-06-23-TermometroPolitico.html) | Termometro Politico | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [14–19 June 2023](2023-06-19-SWG.html) | SWG <br> La7 | 5 | 5–6 | 5–7 | 4–7 | 4–7 |
 | [19 June 2023](2023-06-19-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 7 | 6–9 | 6–9 | 5–10 | 4–10 |
 | [19 June 2023](2023-06-19-EMG.html) | EMG <br> Rai 3 | 8 | 7–9 | 6–9 | 6–9 | 5–9 |
@@ -2745,8 +2747,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0.2% | 100% |  |
 | 4 | 7% | 99.8% |  |
 | 5 | 15% | 93% |  |
-| 6 | 23% | 78% |  |
-| 7 | 22% | 55% | Median |
+| 6 | 20% | 78% |  |
+| 7 | 25% | 58% | Median |
 | 8 | 14% | 33% |  |
 | 9 | 9% | 19% |  |
 | 10 | 5% | 10% |  |
