@@ -1,0 +1,312 @@
+# Opinion Poll by Quorum – YouTrend for Sky TG24, 13 June 2023
+
+<p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#coalitions">Coalitions</a> | <a href="#technical-information">Technical Information</a></p>
+
+## Voting Intentions
+
+![Graph with voting intentions not yet produced](2023-06-13-Quorum–YouTrend.png "Voting Intentions")
+
+### Confidence Intervals
+
+| Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| Fratelli d’Italia (ECR) | 3.7% | 28.0% | 25.5–30.7% |24.8–31.4% |24.2–32.1% |23.1–33.4% |
+| Partito Democratico (S&D) | 40.8% | 20.8% | 18.6–23.3% |18.0–24.0% |17.5–24.6% |16.5–25.8% |
+| Movimento 5 Stelle (NI) | 21.2% | 16.0% | 14.1–18.3% |13.5–18.9% |13.0–19.5% |12.2–20.6% |
+| Forza Italia (EPP) | 16.8% | 9.6% | 8.1–11.5% |7.7–12.0% |7.3–12.5% |6.6–13.5% |
+| Lega Nord (ID) | 6.2% | 7.2% | 5.9–8.9% |5.5–9.4% |5.2–9.8% |4.7–10.7% |
+| Alleanza Verdi e Sinistra (Greens/EFA) | 0.0% | 3.6% | 2.7–4.9% |2.5–5.3% |2.3–5.6% |1.9–6.3% |
+| Azione (RE) | 0.0% | 3.0% | 2.2–4.2% |2.0–4.6% |1.8–4.9% |1.5–5.5% |
+| Italia Viva (RE) | 0.0% | 2.2% | 1.6–3.3% |1.4–3.6% |1.2–3.9% |1.0–4.5% |
+| Più Europa (RE) | 0.0% | 2.0% | 1.4–3.1% |1.2–3.4% |1.1–3.6% |0.9–4.2% |
+| Italexit–Per l’Italia con Paragone (*) | 0.0% | 1.6% | 1.1–2.6% |0.9–2.9% |0.8–3.1% |0.6–3.7% |
+| Noi Moderati (EPP) | 0.0% | 1.2% | 0.8–2.1% |0.7–2.4% |0.5–2.6% |0.4–3.1% |
+
+*Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
+
+## Seats
+
+![Graph with seats not yet produced](2023-06-13-Quorum–YouTrend-seats.png "Seats")
+
+![Graph with seating plan not yet produced](2023-06-13-Quorum–YouTrend-seating-plan.png "Seating Plan")
+
+### Confidence Intervals
+
+| Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| <a href="#fratelli-d’italia-(ecr)">Fratelli d’Italia (ECR)</a> | 0 | 23 | 21–26 |21–27 |20–28 |19–29 |
+| <a href="#partito-democratico-(s&d)">Partito Democratico (S&D)</a> | 31 | 18 | 15–20 |14–21 |14–21 |14–22 |
+| <a href="#movimento-5-stelle-(ni)">Movimento 5 Stelle (NI)</a> | 17 | 14 | 12–16 |11–16 |11–17 |10–18 |
+| <a href="#forza-italia-(epp)">Forza Italia (EPP)</a> | 13 | 7 | 6–9 |6–9 |5–10 |4–10 |
+| <a href="#lega-nord-(id)">Lega Nord (ID)</a> | 5 | 7 | 5–8 |5–8 |4–9 |4–9 |
+| <a href="#alleanza-verdi-e-sinistra-(greens/efa)">Alleanza Verdi e Sinistra (Greens/EFA)</a> | 0 | 0 | 0–4 |0–4 |0–5 |0–5 |
+| <a href="#azione-(re)">Azione (RE)</a> | 0 | 0 | 0–4 |0–4 |0–4 |0–5 |
+| <a href="#italia-viva-(re)">Italia Viva (RE)</a> | 0 | 0 | 0 |0 |0 |0–4 |
+| <a href="#più-europa-(re)">Più Europa (RE)</a> | 0 | 0 | 0 |0 |0 |0–4 |
+| <a href="#italexit–per-l’italia-con-paragone-(*)">Italexit–Per l’Italia con Paragone (*)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#noi-moderati-(epp)">Noi Moderati (EPP)</a> | 0 | 0 | 0 |0 |0 |0 |
+
+### Fratelli d’Italia (ECR)
+
+*For a full overview of the results for this party, see the [Fratelli d’Italia (ECR)](party-fratellid’italiaecr.html) page.*
+
+![Graph with seats probability mass function not yet produced](2023-06-13-Quorum–YouTrend-seats-pmf-fratellid’italiaecr.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0% | 100% |  |
+| 5 | 0% | 100% |  |
+| 6 | 0% | 100% |  |
+| 7 | 0% | 100% |  |
+| 8 | 0% | 100% |  |
+| 9 | 0% | 100% |  |
+| 10 | 0% | 100% |  |
+| 11 | 0% | 100% |  |
+| 12 | 0% | 100% |  |
+| 13 | 0% | 100% |  |
+| 14 | 0% | 100% |  |
+| 15 | 0% | 100% |  |
+| 16 | 0% | 100% |  |
+| 17 | 0% | 100% |  |
+| 18 | 0.1% | 100% |  |
+| 19 | 0.6% | 99.8% |  |
+| 20 | 4% | 99.3% |  |
+| 21 | 13% | 95% |  |
+| 22 | 10% | 82% |  |
+| 23 | 23% | 73% | Median |
+| 24 | 16% | 49% |  |
+| 25 | 15% | 33% |  |
+| 26 | 10% | 18% |  |
+| 27 | 5% | 8% |  |
+| 28 | 2% | 3% |  |
+| 29 | 0.3% | 0.5% |  |
+| 30 | 0.1% | 0.2% |  |
+| 31 | 0.1% | 0.1% |  |
+| 32 | 0% | 0% |  |
+
+### Partito Democratico (S&D)
+
+*For a full overview of the results for this party, see the [Partito Democratico (S&D)](party-partitodemocraticosd.html) page.*
+
+![Graph with seats probability mass function not yet produced](2023-06-13-Quorum–YouTrend-seats-pmf-partitodemocraticosd.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 13 | 0.2% | 100% |  |
+| 14 | 7% | 99.7% |  |
+| 15 | 6% | 93% |  |
+| 16 | 8% | 87% |  |
+| 17 | 18% | 79% |  |
+| 18 | 27% | 61% | Median |
+| 19 | 13% | 34% |  |
+| 20 | 14% | 21% |  |
+| 21 | 6% | 7% |  |
+| 22 | 1.1% | 1.3% |  |
+| 23 | 0.2% | 0.2% |  |
+| 24 | 0% | 0% |  |
+| 25 | 0% | 0% |  |
+| 26 | 0% | 0% |  |
+| 27 | 0% | 0% |  |
+| 28 | 0% | 0% |  |
+| 29 | 0% | 0% |  |
+| 30 | 0% | 0% |  |
+| 31 | 0% | 0% | Last Result |
+
+### Movimento 5 Stelle (NI)
+
+*For a full overview of the results for this party, see the [Movimento 5 Stelle (NI)](party-movimento5stelleni.html) page.*
+
+![Graph with seats probability mass function not yet produced](2023-06-13-Quorum–YouTrend-seats-pmf-movimento5stelleni.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 9 | 0% | 100% |  |
+| 10 | 1.0% | 99.9% |  |
+| 11 | 6% | 99.0% |  |
+| 12 | 15% | 93% |  |
+| 13 | 14% | 78% |  |
+| 14 | 32% | 64% | Median |
+| 15 | 15% | 32% |  |
+| 16 | 13% | 17% |  |
+| 17 | 3% | 4% | Last Result |
+| 18 | 0.3% | 0.5% |  |
+| 19 | 0.2% | 0.2% |  |
+| 20 | 0% | 0% |  |
+
+### Forza Italia (EPP)
+
+*For a full overview of the results for this party, see the [Forza Italia (EPP)](party-forzaitaliaepp.html) page.*
+
+![Graph with seats probability mass function not yet produced](2023-06-13-Quorum–YouTrend-seats-pmf-forzaitaliaepp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 4 | 0.6% | 100% |  |
+| 5 | 4% | 99.4% |  |
+| 6 | 25% | 96% |  |
+| 7 | 33% | 71% | Median |
+| 8 | 27% | 38% |  |
+| 9 | 7% | 11% |  |
+| 10 | 3% | 4% |  |
+| 11 | 0.3% | 0.5% |  |
+| 12 | 0.2% | 0.2% |  |
+| 13 | 0% | 0% | Last Result |
+
+### Lega Nord (ID)
+
+*For a full overview of the results for this party, see the [Lega Nord (ID)](party-leganordid.html) page.*
+
+![Graph with seats probability mass function not yet produced](2023-06-13-Quorum–YouTrend-seats-pmf-leganordid.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0.1% | 100% |  |
+| 1 | 0% | 99.9% |  |
+| 2 | 0% | 99.9% |  |
+| 3 | 0% | 99.9% |  |
+| 4 | 3% | 99.9% |  |
+| 5 | 12% | 97% | Last Result |
+| 6 | 31% | 84% |  |
+| 7 | 34% | 54% | Median |
+| 8 | 17% | 20% |  |
+| 9 | 2% | 3% |  |
+| 10 | 0.1% | 0.2% |  |
+| 11 | 0% | 0% |  |
+
+### Alleanza Verdi e Sinistra (Greens/EFA)
+
+*For a full overview of the results for this party, see the [Alleanza Verdi e Sinistra (Greens/EFA)](party-alleanzaverdiesinistragreensefa.html) page.*
+
+![Graph with seats probability mass function not yet produced](2023-06-13-Quorum–YouTrend-seats-pmf-alleanzaverdiesinistragreensefa.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 52% | 100% | Last Result, Median |
+| 1 | 0% | 48% |  |
+| 2 | 0% | 48% |  |
+| 3 | 6% | 48% |  |
+| 4 | 37% | 42% |  |
+| 5 | 4% | 5% |  |
+| 6 | 0.4% | 0.5% |  |
+| 7 | 0% | 0% |  |
+
+### Azione (RE)
+
+*For a full overview of the results for this party, see the [Azione (RE)](party-azionere.html) page.*
+
+![Graph with seats probability mass function not yet produced](2023-06-13-Quorum–YouTrend-seats-pmf-azionere.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 84% | 100% | Last Result, Median |
+| 1 | 0% | 16% |  |
+| 2 | 0% | 16% |  |
+| 3 | 3% | 16% |  |
+| 4 | 12% | 13% |  |
+| 5 | 0.7% | 0.7% |  |
+| 6 | 0% | 0% |  |
+
+### Italia Viva (RE)
+
+*For a full overview of the results for this party, see the [Italia Viva (RE)](party-italiavivare.html) page.*
+
+![Graph with seats probability mass function not yet produced](2023-06-13-Quorum–YouTrend-seats-pmf-italiavivare.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 98% | 100% | Last Result, Median |
+| 1 | 0% | 2% |  |
+| 2 | 0% | 2% |  |
+| 3 | 0.3% | 2% |  |
+| 4 | 1.3% | 1.4% |  |
+| 5 | 0% | 0% |  |
+
+### Più Europa (RE)
+
+*For a full overview of the results for this party, see the [Più Europa (RE)](party-piùeuropare.html) page.*
+
+![Graph with seats probability mass function not yet produced](2023-06-13-Quorum–YouTrend-seats-pmf-piùeuropare.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 99.1% | 100% | Last Result, Median |
+| 1 | 0% | 0.9% |  |
+| 2 | 0% | 0.9% |  |
+| 3 | 0.2% | 0.9% |  |
+| 4 | 0.7% | 0.7% |  |
+| 5 | 0% | 0% |  |
+
+### Italexit–Per l’Italia con Paragone (*)
+
+*For a full overview of the results for this party, see the [Italexit–Per l’Italia con Paragone (*)](party-italexit–perl’italiaconparagone.html) page.*
+
+![Graph with seats probability mass function not yet produced](2023-06-13-Quorum–YouTrend-seats-pmf-italexit–perl’italiaconparagone.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 99.8% | 100% | Last Result, Median |
+| 1 | 0% | 0.2% |  |
+| 2 | 0% | 0.2% |  |
+| 3 | 0% | 0.2% |  |
+| 4 | 0.1% | 0.1% |  |
+| 5 | 0% | 0% |  |
+
+### Noi Moderati (EPP)
+
+*For a full overview of the results for this party, see the [Noi Moderati (EPP)](party-noimoderatiepp.html) page.*
+
+![Graph with seats probability mass function not yet produced](2023-06-13-Quorum–YouTrend-seats-pmf-noimoderatiepp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
+
+## Coalitions
+
+![Graph with coalitions seats not yet produced](2023-06-13-Quorum–YouTrend-coalitions-seats.png "Coalitions Seats")
+
+### Confidence Intervals
+
+| Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| Lega Nord (ID) | 5 | 7 | 0% | 5–8 | 5–8 | 4–9 | 4–9 |
+
+### Lega Nord (ID)
+
+![Graph with seats probability mass function not yet produced](2023-06-13-Quorum–YouTrend-coalitions-seats-pmf-ln.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0.1% | 100% |  |
+| 1 | 0% | 99.9% |  |
+| 2 | 0% | 99.9% |  |
+| 3 | 0% | 99.9% |  |
+| 4 | 3% | 99.9% |  |
+| 5 | 12% | 97% | Last Result |
+| 6 | 31% | 84% |  |
+| 7 | 34% | 54% | Median |
+| 8 | 17% | 20% |  |
+| 9 | 2% | 3% |  |
+| 10 | 0.1% | 0.2% |  |
+| 11 | 0% | 0% |  |
+
+
+## Technical Information
+
+### Opinion Poll
+
++ **Polling firm:** Quorum – YouTrend
++ **Commissioner(s):** Sky TG24
++ **Fieldwork period:** 13 June 2023
+
+### Calculations
+
++ **Sample size:** 500
++ **Simulations done:** 1,048,576
++ **Error estimate:** 2.59%
+
