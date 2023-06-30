@@ -47,7 +47,7 @@ Last result: **6.2%** (General Election of 26 May 2019)
 | [16–18 May 2023](2023-05-18-TermometroPolitico.html) | Termometro Politico | 9.4% | 8.8–10.0% | 8.7–10.2% | 8.6–10.3% | 8.3–10.6% |
 | [17–18 May 2023](2023-05-18-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 8.2% | 7.1–9.6% | 6.8–10.0% | 6.5–10.4% | 6.0–11.1% |
 | [17 May 2023](2023-05-17-Piepoli.html) | Piepoli | 9.0% | 7.5–10.9% | 7.1–11.4% | 6.8–11.8% | 6.2–12.8% |
-| [16–17 May 2023](2023-05-17-NotoSondaggi.html) | Noto Sondaggi <br> La Repubblica | 10.0% | N/A | N/A | N/A | N/A |
+| [16–17 May 2023](2023-05-17-NotoSondaggi.html) | Noto Sondaggi <br> La Repubblica | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
 | [10–15 May 2023](2023-05-15-SWG.html) | SWG <br> La7 | 8.6% | 7.6–9.7% | 7.3–10.0% | 7.1–10.3% | 6.7–10.9% |
 | [11–12 May 2023](2023-05-12-Tecnè.html) | Tecnè <br> Agenzia Dire | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
 | [9–12 May 2023](2023-05-12-Lab2101.html) | Lab2101 <br> Affari Italiani | 9.9% | 8.8–11.2% | 8.5–11.6% | 8.2–11.9% | 7.7–12.6% |
@@ -1420,7 +1420,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [16–18 May 2023](2023-05-18-TermometroPolitico.html) | Termometro Politico | 9 | 8–9 | 8–9 | 8–9 | 7–10 |
 | [17–18 May 2023](2023-05-18-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 7 | 6–8 | 6–9 | 5–9 | 5–10 |
 | [17 May 2023](2023-05-17-Piepoli.html) | Piepoli | 8 | 7–10 | 6–10 | 6–10 | 5–11 |
-| [16–17 May 2023](2023-05-17-NotoSondaggi.html) | Noto Sondaggi <br> La Repubblica |  |  |  |  |  |
+| [16–17 May 2023](2023-05-17-NotoSondaggi.html) | Noto Sondaggi <br> La Repubblica | 9 | 8–9 | 7–10 | 7–10 | 7–10 |
 | [10–15 May 2023](2023-05-15-SWG.html) | SWG <br> La7 | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | [11–12 May 2023](2023-05-12-Tecnè.html) | Tecnè <br> Agenzia Dire | 8 | 6–9 | 6–9 | 6–9 | 6–10 |
 | [9–12 May 2023](2023-05-12-Lab2101.html) | Lab2101 <br> Affari Italiani | 9 | 8–9 | 8–10 | 8–10 | 7–10 |

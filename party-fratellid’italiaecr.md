@@ -47,7 +47,7 @@ Last result: **3.7%** (General Election of 26 May 2019)
 | [16–18 May 2023](2023-05-18-TermometroPolitico.html) | Termometro Politico | 29.5% | 28.6–30.4% | 28.3–30.7% | 28.1–30.9% | 27.7–31.4% |
 | [17–18 May 2023](2023-05-18-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 29.3% | 27.3–31.5% | 26.8–32.1% | 26.3–32.6% | 25.3–33.6% |
 | [17 May 2023](2023-05-17-Piepoli.html) | Piepoli | 30.0% | 27.5–32.7% | 26.7–33.5% | 26.1–34.2% | 25.0–35.5% |
-| [16–17 May 2023](2023-05-17-NotoSondaggi.html) | Noto Sondaggi <br> La Repubblica | 27.5% | N/A | N/A | N/A | N/A |
+| [16–17 May 2023](2023-05-17-NotoSondaggi.html) | Noto Sondaggi <br> La Repubblica | 27.5% | 25.7–29.4% | 25.2–29.9% | 24.8–30.4% | 24.0–31.3% |
 | [10–15 May 2023](2023-05-15-SWG.html) | SWG <br> La7 | 29.8% | 28.2–31.6% | 27.7–32.1% | 27.3–32.5% | 26.5–33.3% |
 | [11–12 May 2023](2023-05-12-Tecnè.html) | Tecnè <br> Agenzia Dire | 29.3% | 27.5–31.2% | 27.0–31.7% | 26.6–32.2% | 25.7–33.1% |
 | [9–12 May 2023](2023-05-12-Lab2101.html) | Lab2101 <br> Affari Italiani | 29.3% | 27.5–31.2% | 27.0–31.7% | 26.6–32.2% | 25.7–33.1% |
@@ -1442,7 +1442,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [16–18 May 2023](2023-05-18-TermometroPolitico.html) | Termometro Politico | 26 | 26–28 | 25–28 | 25–28 | 24–29 |
 | [17–18 May 2023](2023-05-18-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 25 | 23–27 | 23–28 | 22–29 | 21–30 |
 | [17 May 2023](2023-05-17-Piepoli.html) | Piepoli | 26 | 24–29 | 24–30 | 23–30 | 22–32 |
-| [16–17 May 2023](2023-05-17-NotoSondaggi.html) | Noto Sondaggi <br> La Repubblica |  |  |  |  |  |
+| [16–17 May 2023](2023-05-17-NotoSondaggi.html) | Noto Sondaggi <br> La Repubblica | 23 | 21–25 | 21–25 | 21–25 | 20–26 |
 | [10–15 May 2023](2023-05-15-SWG.html) | SWG <br> La7 | 26 | 24–28 | 24–28 | 23–29 | 23–30 |
 | [11–12 May 2023](2023-05-12-Tecnè.html) | Tecnè <br> Agenzia Dire | 24 | 22–26 | 22–26 | 22–27 | 21–28 |
 | [9–12 May 2023](2023-05-12-Lab2101.html) | Lab2101 <br> Affari Italiani | 26 | 24–26 | 24–27 | 23–27 | 22–28 |

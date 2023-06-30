@@ -47,7 +47,7 @@ Last result: **21.2%** (General Election of 26 May 2019)
 | [16–18 May 2023](2023-05-18-TermometroPolitico.html) | Termometro Politico | 16.0% | 15.3–16.8% | 15.1–17.0% | 14.9–17.1% | 14.6–17.5% |
 | [17–18 May 2023](2023-05-18-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 16.1% | 14.5–17.9% | 14.1–18.4% | 13.7–18.8% | 13.0–19.7% |
 | [17 May 2023](2023-05-17-Piepoli.html) | Piepoli | 16.0% | 14.1–18.3% | 13.5–18.9% | 13.0–19.5% | 12.2–20.6% |
-| [16–17 May 2023](2023-05-17-NotoSondaggi.html) | Noto Sondaggi <br> La Repubblica | 14.0% | N/A | N/A | N/A | N/A |
+| [16–17 May 2023](2023-05-17-NotoSondaggi.html) | Noto Sondaggi <br> La Repubblica | 14.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.3% | 11.4–17.0% |
 | [10–15 May 2023](2023-05-15-SWG.html) | SWG <br> La7 | 15.8% | 14.5–17.3% | 14.2–17.7% | 13.9–18.0% | 13.3–18.7% |
 | [11–12 May 2023](2023-05-12-Tecnè.html) | Tecnè <br> Agenzia Dire | 15.9% | 14.5–17.5% | 14.1–17.9% | 13.8–18.3% | 13.1–19.1% |
 | [9–12 May 2023](2023-05-12-Lab2101.html) | Lab2101 <br> Affari Italiani | 15.6% | 14.2–17.2% | 13.8–17.6% | 13.5–18.0% | 12.8–18.8% |
@@ -1422,7 +1422,7 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [16–18 May 2023](2023-05-18-TermometroPolitico.html) | Termometro Politico | 15 | 14–15 | 14–15 | 13–16 | 13–16 |
 | [17–18 May 2023](2023-05-18-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 14 | 13–15 | 12–16 | 12–17 | 11–17 |
 | [17 May 2023](2023-05-17-Piepoli.html) | Piepoli | 14 | 12–16 | 11–16 | 11–17 | 11–19 |
-| [16–17 May 2023](2023-05-17-NotoSondaggi.html) | Noto Sondaggi <br> La Repubblica |  |  |  |  |  |
+| [16–17 May 2023](2023-05-17-NotoSondaggi.html) | Noto Sondaggi <br> La Repubblica | 12 | 11–13 | 10–13 | 10–14 | 10–15 |
 | [10–15 May 2023](2023-05-15-SWG.html) | SWG <br> La7 | 14 | 13–16 | 13–16 | 12–16 | 12–16 |
 | [11–12 May 2023](2023-05-12-Tecnè.html) | Tecnè <br> Agenzia Dire | 13 | 12–14 | 12–15 | 11–15 | 11–16 |
 | [9–12 May 2023](2023-05-12-Lab2101.html) | Lab2101 <br> Affari Italiani | 13 | 13–14 | 12–15 | 12–15 | 11–16 |
