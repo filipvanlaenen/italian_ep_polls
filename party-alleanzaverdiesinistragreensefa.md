@@ -10,12 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.2% | 2.2–4.5% | 2.0–4.9% | 1.9–5.1% | 1.6–5.7% |
-| [3 July 2023](2023-07-03-SWG.html) | SWG <br> La7 | 3.3% | N/A | N/A | N/A | N/A |
-| [27–29 June 2023](2023-06-29-TermometroPolitico.html) | Termometro Politico | 2.7% | N/A | N/A | N/A | N/A |
-| [27–29 June 2023](2023-06-29-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 3.5% | N/A | N/A | N/A | N/A |
-| [27–29 June 2023](2023-06-29-Ipsos.html) | Ipsos | 3.2% | N/A | N/A | N/A | N/A |
-| [27–28 June 2023](2023-06-28-Euromedia.html) | Euromedia | 2.4% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 3.1% | 2.3–4.2% | 2.1–4.6% | 1.9–4.9% | 1.6–5.4% |
+| [3 July 2023](2023-07-03-SWG.html) | SWG <br> La7 | 3.3% | 2.8–4.1% | 2.6–4.3% | 2.5–4.5% | 2.2–4.9% |
+| [27–29 June 2023](2023-06-29-TermometroPolitico.html) | Termometro Politico | 2.7% | 2.4–3.1% | 2.3–3.2% | 2.2–3.3% | 2.1–3.5% |
+| [27–29 June 2023](2023-06-29-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 3.5% | 2.8–4.5% | 2.6–4.8% | 2.4–5.0% | 2.1–5.5% |
+| [27–29 June 2023](2023-06-29-Ipsos.html) | Ipsos | 3.2% | 2.6–4.0% | 2.4–4.3% | 2.3–4.5% | 2.0–4.9% |
+| [27–28 June 2023](2023-06-28-Euromedia.html) | Euromedia | 2.4% | 1.9–3.2% | 1.7–3.4% | 1.6–3.6% | 1.4–3.9% |
 | [26–28 June 2023](2023-06-28-DemosPi.html) | Demos & Pi <br> La Repubblica | 3.3% | N/A | N/A | N/A | N/A |
 | [21–26 June 2023](2023-06-26-SWG.html) | SWG <br> La7 | 3.3% | N/A | N/A | N/A | N/A |
 | [20–26 June 2023](2023-06-26-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 3.2% | N/A | N/A | N/A | N/A |
@@ -1378,11 +1378,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0.3% | 100% |  |
-| 1.5–2.5% | 23% | 99.7% |  |
-| 2.5–3.5% | 40% | 77% | Median |
-| 3.5–4.5% | 27% | 37% |  |
-| 4.5–5.5% | 9% | 9% |  |
-| 5.5–6.5% | 0.7% | 0.8% |  |
+| 1.5–2.5% | 21% | 99.7% |  |
+| 2.5–3.5% | 50% | 79% | Median |
+| 3.5–4.5% | 24% | 29% |  |
+| 4.5–5.5% | 5% | 5% |  |
+| 5.5–6.5% | 0.3% | 0.3% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -1394,12 +1394,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
-| [3 July 2023](2023-07-03-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [27–29 June 2023](2023-06-29-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [27–29 June 2023](2023-06-29-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
-| [27–29 June 2023](2023-06-29-Ipsos.html) | Ipsos |  |  |  |  |  |
-| [27–28 June 2023](2023-06-28-Euromedia.html) | Euromedia |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [3 July 2023](2023-07-03-SWG.html) | SWG <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [27–29 June 2023](2023-06-29-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
+| [27–29 June 2023](2023-06-29-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [27–29 June 2023](2023-06-29-Ipsos.html) | Ipsos | 0 | 0 | 0–4 | 0–4 | 0–4 |
+| [27–28 June 2023](2023-06-28-Euromedia.html) | Euromedia | 0 | 0 | 0 | 0 | 0 |
 | [26–28 June 2023](2023-06-28-DemosPi.html) | Demos & Pi <br> La Repubblica |  |  |  |  |  |
 | [21–26 June 2023](2023-06-26-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [20–26 June 2023](2023-06-26-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
@@ -2762,12 +2762,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 76% | 100% | Last Result, Median |
-| 1 | 0% | 24% |  |
-| 2 | 0% | 24% |  |
-| 3 | 1.0% | 24% |  |
-| 4 | 19% | 23% |  |
-| 5 | 3% | 3% |  |
+| 0 | 85% | 100% | Last Result, Median |
+| 1 | 0% | 15% |  |
+| 2 | 0% | 15% |  |
+| 3 | 0.7% | 15% |  |
+| 4 | 13% | 14% |  |
+| 5 | 1.4% | 1.4% |  |
 | 6 | 0% | 0% |  |
 
 
