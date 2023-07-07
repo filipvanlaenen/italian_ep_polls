@@ -10,8 +10,19 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.4% | 1.0–1.9% | 0.9–2.1% | 0.8–2.2% | 0.7–2.5% |
+| N/A | [Poll Average](average.html) | 1.5% | 1.0–2.0% | 0.9–2.1% | 0.8–2.3% | 0.7–2.6% |
+| [3 July 2023](2023-07-03-SWG.html) | SWG <br> La7 | 1.7% | N/A | N/A | N/A | N/A |
+| [27–29 June 2023](2023-06-29-TermometroPolitico.html) | Termometro Politico | 1.3% | N/A | N/A | N/A | N/A |
+| [27–29 June 2023](2023-06-29-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.0% | N/A | N/A | N/A | N/A |
+| [27–29 June 2023](2023-06-29-Ipsos.html) | Ipsos | 1.5% | N/A | N/A | N/A | N/A |
+| [27–28 June 2023](2023-06-28-Euromedia.html) | Euromedia | 0.0% | N/A | N/A | N/A | N/A |
+| [26–28 June 2023](2023-06-28-DemosPi.html) | Demos & Pi <br> La Repubblica | 0.0% | N/A | N/A | N/A | N/A |
+| [21–26 June 2023](2023-06-26-SWG.html) | SWG <br> La7 | 1.7% | N/A | N/A | N/A | N/A |
+| [20–26 June 2023](2023-06-26-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.0% | N/A | N/A | N/A | N/A |
+| [19–24 June 2023](2023-06-24-Tecnè.html) | Tecnè | 0.0% | N/A | N/A | N/A | N/A |
+| [23–24 June 2023](2023-06-24-BiDiMedia.html) | BiDiMedia | 1.3% | N/A | N/A | N/A | N/A |
 | [20–23 June 2023](2023-06-23-TermometroPolitico.html) | Termometro Politico | 1.3% | 1.1–1.6% | 1.0–1.6% | 1.0–1.7% | 0.9–1.8% |
+| [15–22 June 2023](2023-06-22-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 1.4% | N/A | N/A | N/A | N/A |
 | [14–19 June 2023](2023-06-19-SWG.html) | SWG <br> La7 | 1.5% | 1.1–2.1% | 1.0–2.2% | 0.9–2.4% | 0.8–2.7% |
 | [15–19 June 2023](2023-06-19-Ixè.html) | Ixè | 0.0% | N/A | N/A | N/A | N/A |
 | [15–16 June 2023](2023-06-16-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
@@ -19,11 +30,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [12–15 June 2023](2023-06-15-TermometroPolitico.html) | Termometro Politico | 1.3% | 1.1–1.5% | 1.1–1.6% | 1.0–1.7% | 0.9–1.8% |
 | [14 June 2023](2023-06-14-Euromedia.html) | Euromedia | 0.0% | N/A | N/A | N/A | N/A |
 | [13 June 2023](2023-06-13-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.0% | N/A | N/A | N/A | N/A |
+| [13 June 2023](2023-06-13-NotoSondaggi.html) | Noto Sondaggi | 0.0% | N/A | N/A | N/A | N/A |
 | [12 June 2023](2023-06-12-Winpoll.html) | Winpoll | 1.3% | 0.9–1.9% | 0.8–2.1% | 0.8–2.2% | 0.6–2.5% |
 | [7–12 June 2023](2023-06-12-SWG.html) | SWG <br> La7 | 1.6% | N/A | N/A | N/A | N/A |
 | [8–9 June 2023](2023-06-09-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [6–8 June 2023](2023-06-08-TermometroPolitico.html) | Termometro Politico | 1.4% | 1.2–1.7% | 1.1–1.8% | 1.1–1.8% | 0.9–2.0% |
 | [8 June 2023](2023-06-08-EMG.html) | EMG <br> Rai 3 | 1.7% | N/A | N/A | N/A | N/A |
+| [6 June 2023](2023-06-06-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
 | [6 June 2023](2023-06-06-Euromedia.html) | Euromedia | 0.0% | N/A | N/A | N/A | N/A |
 | [5 June 2023](2023-06-05-SWG.html) | SWG <br> La7 | 1.5% | 1.1–2.1% | 1.0–2.2% | 0.9–2.4% | 0.8–2.7% |
 | [3 June 2023](2023-06-03-BiDiMedia.html) | BiDiMedia | 1.3% | 1.0–1.9% | 0.9–2.0% | 0.8–2.2% | 0.7–2.5% |
@@ -36,6 +49,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [24–29 May 2023](2023-05-29-SWG.html) | SWG <br> La7 | 1.4% | 1.1–2.0% | 1.0–2.1% | 0.9–2.3% | 0.7–2.6% |
 | [25–26 May 2023](2023-05-26-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [23–25 May 2023](2023-05-25-TermometroPolitico.html) | Termometro Politico | 1.4% | 1.2–1.7% | 1.1–1.8% | 1.1–1.8% | 1.0–2.0% |
+| [25 May 2023](2023-05-25-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
 | [22–25 May 2023](2023-05-25-Lab2101.html) | Lab2101 <br> Affari Italiani | 0.0% | N/A | N/A | N/A | N/A |
 | [23–25 May 2023](2023-05-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 1.2% | 0.9–1.8% | 0.8–1.9% | 0.7–2.1% | 0.5–2.4% |
 | [25 May 2023](2023-05-25-EMG.html) | EMG <br> Rai 3 | 1.3% | 1.0–1.8% | 0.9–1.9% | 0.8–2.1% | 0.7–2.3% |
@@ -1363,9 +1377,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0.1% | 100% | Last Result |
-| 0.5–1.5% | 68% | 99.9% | Median |
-| 1.5–2.5% | 32% | 32% |  |
-| 2.5–3.5% | 0.5% | 0.5% |  |
+| 0.5–1.5% | 60% | 99.9% | Median |
+| 1.5–2.5% | 39% | 40% |  |
+| 2.5–3.5% | 0.6% | 0.6% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -1378,7 +1392,18 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [3 July 2023](2023-07-03-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [27–29 June 2023](2023-06-29-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [27–29 June 2023](2023-06-29-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
+| [27–29 June 2023](2023-06-29-Ipsos.html) | Ipsos |  |  |  |  |  |
+| [27–28 June 2023](2023-06-28-Euromedia.html) | Euromedia |  |  |  |  |  |
+| [26–28 June 2023](2023-06-28-DemosPi.html) | Demos & Pi <br> La Repubblica |  |  |  |  |  |
+| [21–26 June 2023](2023-06-26-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [20–26 June 2023](2023-06-26-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
+| [19–24 June 2023](2023-06-24-Tecnè.html) | Tecnè |  |  |  |  |  |
+| [23–24 June 2023](2023-06-24-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
 | [20–23 June 2023](2023-06-23-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
+| [15–22 June 2023](2023-06-22-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
 | [14–19 June 2023](2023-06-19-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [15–19 June 2023](2023-06-19-Ixè.html) | Ixè |  |  |  |  |  |
 | [15–16 June 2023](2023-06-16-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
@@ -1386,11 +1411,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [12–15 June 2023](2023-06-15-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [14 June 2023](2023-06-14-Euromedia.html) | Euromedia |  |  |  |  |  |
 | [13 June 2023](2023-06-13-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
+| [13 June 2023](2023-06-13-NotoSondaggi.html) | Noto Sondaggi |  |  |  |  |  |
 | [12 June 2023](2023-06-12-Winpoll.html) | Winpoll | 0 | 0 | 0 | 0 | 0 |
 | [7–12 June 2023](2023-06-12-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [8–9 June 2023](2023-06-09-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [6–8 June 2023](2023-06-08-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [8 June 2023](2023-06-08-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
+| [6 June 2023](2023-06-06-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
 | [6 June 2023](2023-06-06-Euromedia.html) | Euromedia |  |  |  |  |  |
 | [5 June 2023](2023-06-05-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [3 June 2023](2023-06-03-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
@@ -1403,6 +1430,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [24–29 May 2023](2023-05-29-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [25–26 May 2023](2023-05-26-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [23–25 May 2023](2023-05-25-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
+| [25 May 2023](2023-05-25-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
 | [22–25 May 2023](2023-05-25-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
 | [23–25 May 2023](2023-05-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
 | [25 May 2023](2023-05-25-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
