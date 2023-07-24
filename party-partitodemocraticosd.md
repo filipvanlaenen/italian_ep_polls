@@ -10,9 +10,12 @@ Last result: **40.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.1% | 18.4–21.8% | 17.9–22.3% | 17.4–22.8% | 16.5–23.7% |
+| N/A | [Poll Average](average.html) | 20.1% | 18.4–21.9% | 17.9–22.4% | 17.5–22.9% | 16.6–23.8% |
+| [18–20 July 2023](2023-07-20-TermometroPolitico.html) | Termometro Politico | 19.5% | 18.7–20.4% | 18.5–20.6% | 18.3–20.8% | 17.9–21.2% |
+| [19 July 2023](2023-07-19-Euromedia.html) | Euromedia <br> La Stampa | 21.0% | 19.4–22.7% | 19.0–23.2% | 18.6–23.6% | 17.8–24.5% |
 | [12–17 July 2023](2023-07-17-SWG.html) | SWG <br> La7 | 20.0% | 18.6–21.6% | 18.2–22.0% | 17.8–22.4% | 17.2–23.1% |
 | [13–14 July 2023](2023-07-14-Tecnè.html) | Tecnè <br> Agenzia Dire | 20.1% | 18.6–21.8% | 18.1–22.3% | 17.8–22.8% | 17.0–23.6% |
+| [14 July 2023](2023-07-14-Piepoli.html) | Piepoli | 20.0% | 17.8–22.5% | 17.2–23.1% | 16.7–23.7% | 15.7–25.0% |
 | [11–14 July 2023](2023-07-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 20.1% | 18.5–21.8% | 18.1–22.3% | 17.7–22.7% | 17.0–23.5% |
 | [11–13 July 2023](2023-07-13-TermometroPolitico.html) | Termometro Politico | 19.8% | 19.0–20.6% | 18.8–20.9% | 18.6–21.1% | 18.2–21.5% |
 | [11–13 July 2023](2023-07-13-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 19.5% | 17.8–21.4% | 17.3–21.9% | 16.9–22.4% | 16.1–23.3% |
@@ -1393,17 +1396,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0.1% | 100% |  |
-| 15.5–16.5% | 0.5% | 99.9% |  |
+| 14.5–15.5% | 0% | 100% |  |
+| 15.5–16.5% | 0.4% | 100% |  |
 | 16.5–17.5% | 2% | 99.5% |  |
 | 17.5–18.5% | 9% | 97% |  |
-| 18.5–19.5% | 22% | 88% |  |
-| 19.5–20.5% | 30% | 66% | Median |
+| 18.5–19.5% | 23% | 88% |  |
+| 19.5–20.5% | 29% | 65% | Median |
 | 20.5–21.5% | 22% | 36% |  |
-| 21.5–22.5% | 10% | 14% |  |
+| 21.5–22.5% | 11% | 15% |  |
 | 22.5–23.5% | 3% | 4% |  |
-| 23.5–24.5% | 0.6% | 0.6% |  |
+| 23.5–24.5% | 0.7% | 0.8% |  |
 | 24.5–25.5% | 0.1% | 0.1% |  |
 | 25.5–26.5% | 0% | 0% |  |
 | 26.5–27.5% | 0% | 0% |  |
@@ -1431,9 +1433,12 @@ Last result: **31** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 16–19 | 15–20 | 15–20 | 14–21 |
+| N/A | [Poll Average](average.html) | 18 | 16–19 | 16–20 | 15–20 | 14–21 |
+| [18–20 July 2023](2023-07-20-TermometroPolitico.html) | Termometro Politico | 18 | 17–19 | 17–19 | 17–19 | 16–20 |
+| [19 July 2023](2023-07-19-Euromedia.html) | Euromedia <br> La Stampa | 18 | 16–19 | 16–19 | 16–20 | 15–21 |
 | [12–17 July 2023](2023-07-17-SWG.html) | SWG <br> La7 | 18 | 17–20 | 16–21 | 16–21 | 15–22 |
 | [13–14 July 2023](2023-07-14-Tecnè.html) | Tecnè <br> Agenzia Dire | 17 | 16–19 | 15–20 | 15–20 | 14–21 |
+| [14 July 2023](2023-07-14-Piepoli.html) | Piepoli | 18 | 16–20 | 15–21 | 15–21 | 13–22 |
 | [11–14 July 2023](2023-07-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 18 | 16–20 | 16–20 | 16–20 | 15–21 |
 | [11–13 July 2023](2023-07-13-TermometroPolitico.html) | Termometro Politico | 18 | 17–19 | 17–19 | 17–20 | 17–20 |
 | [11–13 July 2023](2023-07-13-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 17 | 16–19 | 15–20 | 15–20 | 14–21 |
@@ -2817,15 +2822,15 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 13 | 0.1% | 100% |  |
-| 14 | 0.8% | 99.9% |  |
-| 15 | 6% | 99.1% |  |
-| 16 | 17% | 93% |  |
-| 17 | 20% | 76% |  |
-| 18 | 33% | 57% | Median |
-| 19 | 17% | 23% |  |
+| 14 | 0.9% | 99.9% |  |
+| 15 | 4% | 99.0% |  |
+| 16 | 14% | 95% |  |
+| 17 | 22% | 81% |  |
+| 18 | 38% | 60% | Median |
+| 19 | 15% | 22% |  |
 | 20 | 4% | 6% |  |
 | 21 | 2% | 2% |  |
-| 22 | 0.1% | 0.1% |  |
+| 22 | 0.2% | 0.2% |  |
 | 23 | 0% | 0% |  |
 | 24 | 0% | 0% |  |
 | 25 | 0% | 0% |  |
