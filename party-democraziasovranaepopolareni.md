@@ -10,8 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.1% | 0.6–1.6% | 0.5–1.7% | 0.4–1.8% | 0.3–2.0% |
+| N/A | [Poll Average](average.html) | 1.2% | 0.6–1.6% | 0.5–1.7% | 0.4–1.8% | 0.3–2.1% |
+| [24–25 July 2023](2023-07-25-BiDiMedia.html) | BiDiMedia | 1.1% | 0.8–1.7% | 0.7–1.8% | 0.6–2.0% | 0.5–2.3% |
+| [19–24 July 2023](2023-07-24-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [20–21 July 2023](2023-07-21-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [18–20 July 2023](2023-07-20-TermometroPolitico.html) | Termometro Politico | 1.4% | 1.2–1.7% | 1.1–1.8% | 1.1–1.8% | 1.0–2.0% |
+| [15–20 July 2023](2023-07-20-Lab2101.html) | Lab2101 <br> Affari Italiani | 0.0% | N/A | N/A | N/A | N/A |
 | [19 July 2023](2023-07-19-Euromedia.html) | Euromedia <br> La Stampa | 0.0% | N/A | N/A | N/A | N/A |
 | [12–17 July 2023](2023-07-17-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [13–14 July 2023](2023-07-14-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
@@ -1397,8 +1401,8 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 7% | 100% | Last Result |
-| 0.5–1.5% | 81% | 93% | Median |
-| 1.5–2.5% | 12% | 12% |  |
+| 0.5–1.5% | 79% | 93% | Median |
+| 1.5–2.5% | 14% | 14% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -1411,7 +1415,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [24–25 July 2023](2023-07-25-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
+| [19–24 July 2023](2023-07-24-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [20–21 July 2023](2023-07-21-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [18–20 July 2023](2023-07-20-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
+| [15–20 July 2023](2023-07-20-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
 | [19 July 2023](2023-07-19-Euromedia.html) | Euromedia <br> La Stampa |  |  |  |  |  |
 | [12–17 July 2023](2023-07-17-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [13–14 July 2023](2023-07-14-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
