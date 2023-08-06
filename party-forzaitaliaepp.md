@@ -10,11 +10,19 @@ Last result: **16.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.5% | 6.2–9.5% | 5.8–11.0% | 5.4–11.8% | 4.8–12.8% |
+| N/A | [Poll Average](average.html) | 7.4% | 6.0–9.5% | 5.5–10.9% | 5.2–11.6% | 4.6–12.6% |
+| [1–2 August 2023](2023-08-02-Demopolis.html) | Demopolis | 7.7% | 6.9–8.7% | 6.7–9.0% | 6.5–9.2% | 6.1–9.7% |
+| [26–31 July 2023](2023-07-31-SWG.html) | SWG <br> La7 | 7.2% | 6.3–8.2% | 6.0–8.5% | 5.8–8.8% | 5.4–9.3% |
+| [27–28 July 2023](2023-07-28-Tecnè.html) | Tecnè <br> Agenzia Dire | 10.9% | 9.8–12.3% | 9.4–12.7% | 9.1–13.0% | 8.6–13.7% |
+| [24–28 July 2023](2023-07-28-Lab2101.html) | Lab2101 <br> Affari Italiani | 7.2% | 6.2–8.4% | 6.0–8.7% | 5.7–9.0% | 5.3–9.6% |
+| [27 July 2023](2023-07-27-Ipsos.html) | Ipsos | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
+| [26 July 2023](2023-07-26-Euromedia.html) | Euromedia <br> La Stampa | 7.3% | 6.3–8.5% | 6.1–8.8% | 5.8–9.1% | 5.4–9.7% |
 | [24–25 July 2023](2023-07-25-BiDiMedia.html) | BiDiMedia | 7.4% | 6.4–8.6% | 6.2–8.9% | 5.9–9.2% | 5.5–9.8% |
 | [19–24 July 2023](2023-07-24-SWG.html) | SWG <br> La7 | 7.2% | 6.3–8.2% | 6.0–8.5% | 5.8–8.8% | 5.4–9.3% |
+| [23 July 2023](2023-07-23-NotoSondaggi.html) | Noto Sondaggi | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
 | [20–21 July 2023](2023-07-21-Tecnè.html) | Tecnè <br> Agenzia Dire | 11.1% | 9.9–12.5% | 9.6–12.9% | 9.3–13.2% | 8.7–13.9% |
 | [18–20 July 2023](2023-07-20-TermometroPolitico.html) | Termometro Politico | 7.5% | 7.0–8.1% | 6.8–8.3% | 6.7–8.4% | 6.5–8.7% |
+| [18–20 July 2023](2023-07-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 6.0% | 5.0–7.2% | 4.8–7.5% | 4.5–7.8% | 4.1–8.5% |
 | [15–20 July 2023](2023-07-20-Lab2101.html) | Lab2101 <br> Affari Italiani | 7.5% | 6.5–8.7% | 6.2–9.0% | 6.0–9.3% | 5.6–9.9% |
 | [19 July 2023](2023-07-19-Euromedia.html) | Euromedia <br> La Stampa | 7.1% | 6.2–8.3% | 5.9–8.6% | 5.7–8.9% | 5.2–9.4% |
 | [12–17 July 2023](2023-07-17-SWG.html) | SWG <br> La7 | 7.5% | 6.6–8.6% | 6.4–8.9% | 6.1–9.1% | 5.7–9.7% |
@@ -1401,16 +1409,16 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.3% | 100% |  |
-| 4.5–5.5% | 3% | 99.7% |  |
-| 5.5–6.5% | 13% | 97% |  |
-| 6.5–7.5% | 36% | 84% | Median |
-| 7.5–8.5% | 30% | 48% |  |
-| 8.5–9.5% | 8% | 17% |  |
-| 9.5–10.5% | 3% | 10% |  |
-| 10.5–11.5% | 4% | 7% |  |
+| 3.5–4.5% | 0.4% | 100% |  |
+| 4.5–5.5% | 5% | 99.6% |  |
+| 5.5–6.5% | 16% | 95% |  |
+| 6.5–7.5% | 33% | 79% | Median |
+| 7.5–8.5% | 28% | 46% |  |
+| 8.5–9.5% | 8% | 18% |  |
+| 9.5–10.5% | 4% | 10% |  |
+| 10.5–11.5% | 4% | 6% |  |
 | 11.5–12.5% | 2% | 3% |  |
-| 12.5–13.5% | 0.7% | 0.8% |  |
+| 12.5–13.5% | 0.5% | 0.6% |  |
 | 13.5–14.5% | 0.1% | 0.1% |  |
 | 14.5–15.5% | 0% | 0% |  |
 | 15.5–16.5% | 0% | 0% |  |
@@ -1425,11 +1433,19 @@ Last result: **13** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–8 | 4–9 | 4–9 | 3–10 |
+| N/A | [Poll Average](average.html) | 6 | 4–7 | 4–8 | 4–9 | 3–10 |
+| [1–2 August 2023](2023-08-02-Demopolis.html) | Demopolis | 5 | 5–6 | 4–6 | 4–7 | 4–7 |
+| [26–31 July 2023](2023-07-31-SWG.html) | SWG <br> La7 | 6 | 4–6 | 4–7 | 4–7 | 4–7 |
+| [27–28 July 2023](2023-07-28-Tecnè.html) | Tecnè <br> Agenzia Dire | 8 | 7–10 | 7–10 | 7–11 | 6–11 |
+| [24–28 July 2023](2023-07-28-Lab2101.html) | Lab2101 <br> Affari Italiani | 6 | 5–6 | 4–7 | 4–7 | 4–8 |
+| [27 July 2023](2023-07-27-Ipsos.html) | Ipsos | 5 | 3–5 | 3–6 | 3–6 | 0–6 |
+| [26 July 2023](2023-07-26-Euromedia.html) | Euromedia <br> La Stampa | 5 | 4–7 | 4–7 | 4–7 | 3–8 |
 | [24–25 July 2023](2023-07-25-BiDiMedia.html) | BiDiMedia | 6 | 6 | 5–7 | 5–8 | 4–8 |
 | [19–24 July 2023](2023-07-24-SWG.html) | SWG <br> La7 | 5 | 5–7 | 5–7 | 5–7 | 4–7 |
+| [23 July 2023](2023-07-23-NotoSondaggi.html) | Noto Sondaggi | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
 | [20–21 July 2023](2023-07-21-Tecnè.html) | Tecnè <br> Agenzia Dire | 9 | 8–10 | 7–10 | 7–10 | 6–11 |
 | [18–20 July 2023](2023-07-20-TermometroPolitico.html) | Termometro Politico | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
+| [18–20 July 2023](2023-07-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 4 | 4–5 | 3–6 | 3–6 | 0–6 |
 | [15–20 July 2023](2023-07-20-Lab2101.html) | Lab2101 <br> Affari Italiani | 6 | 5–6 | 4–7 | 4–7 | 4–8 |
 | [19 July 2023](2023-07-19-Euromedia.html) | Euromedia <br> La Stampa | 5 | 4–6 | 4–6 | 4–7 | 3–8 |
 | [12–17 July 2023](2023-07-17-SWG.html) | SWG <br> La7 | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
@@ -2817,16 +2833,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0% | 100% |  |
-| 3 | 1.4% | 99.9% |  |
-| 4 | 8% | 98.6% |  |
-| 5 | 32% | 90% |  |
-| 6 | 38% | 58% | Median |
-| 7 | 10% | 21% |  |
-| 8 | 5% | 10% |  |
-| 9 | 4% | 5% |  |
-| 10 | 0.9% | 1.0% |  |
-| 11 | 0.2% | 0.2% |  |
+| 0 | 0.1% | 100% |  |
+| 1 | 0% | 99.9% |  |
+| 2 | 0% | 99.9% |  |
+| 3 | 2% | 99.9% |  |
+| 4 | 13% | 98% |  |
+| 5 | 30% | 85% |  |
+| 6 | 37% | 55% | Median |
+| 7 | 10% | 18% |  |
+| 8 | 5% | 9% |  |
+| 9 | 2% | 4% |  |
+| 10 | 1.0% | 1.3% |  |
+| 11 | 0.3% | 0.3% |  |
 | 12 | 0% | 0% |  |
 | 13 | 0% | 0% | Last Result |
 
