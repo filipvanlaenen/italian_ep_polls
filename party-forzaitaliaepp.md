@@ -11,6 +11,7 @@ Last result: **16.8%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7.4% | 6.0–9.5% | 5.5–10.9% | 5.2–11.6% | 4.6–12.6% |
+| [8–9 August 2023](2023-08-09-Lab2101.html) | Lab2101 <br> Affari Italiani | 7.3% | 6.3–8.5% | 6.1–8.8% | 5.8–9.1% | 5.4–9.7% |
 | [1–2 August 2023](2023-08-02-Demopolis.html) | Demopolis | 7.7% | 6.9–8.7% | 6.7–9.0% | 6.5–9.2% | 6.1–9.7% |
 | [26–31 July 2023](2023-07-31-SWG.html) | SWG <br> La7 | 7.2% | 6.3–8.2% | 6.0–8.5% | 5.8–8.8% | 5.4–9.3% |
 | [27–28 July 2023](2023-07-28-Tecnè.html) | Tecnè <br> Agenzia Dire | 10.9% | 9.8–12.3% | 9.4–12.7% | 9.1–13.0% | 8.6–13.7% |
@@ -1434,6 +1435,7 @@ Last result: **13** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 4–7 | 4–8 | 4–9 | 3–10 |
+| [8–9 August 2023](2023-08-09-Lab2101.html) | Lab2101 <br> Affari Italiani | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
 | [1–2 August 2023](2023-08-02-Demopolis.html) | Demopolis | 5 | 5–6 | 4–6 | 4–7 | 4–7 |
 | [26–31 July 2023](2023-07-31-SWG.html) | SWG <br> La7 | 6 | 4–6 | 4–7 | 4–7 | 4–7 |
 | [27–28 July 2023](2023-07-28-Tecnè.html) | Tecnè <br> Agenzia Dire | 8 | 7–10 | 7–10 | 7–11 | 6–11 |
@@ -2837,10 +2839,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 99.9% |  |
 | 2 | 0% | 99.9% |  |
 | 3 | 2% | 99.9% |  |
-| 4 | 13% | 98% |  |
-| 5 | 30% | 85% |  |
-| 6 | 37% | 55% | Median |
-| 7 | 10% | 18% |  |
+| 4 | 12% | 98% |  |
+| 5 | 33% | 86% |  |
+| 6 | 35% | 53% | Median |
+| 7 | 9% | 18% |  |
 | 8 | 5% | 9% |  |
 | 9 | 2% | 4% |  |
 | 10 | 1.0% | 1.3% |  |

@@ -11,6 +11,7 @@ Last result: **40.8%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20.1% | 18.4–22.2% | 17.9–22.8% | 17.5–23.3% | 16.6–24.3% |
+| [8–9 August 2023](2023-08-09-Lab2101.html) | Lab2101 <br> Affari Italiani | 20.2% | 18.6–21.9% | 18.2–22.4% | 17.8–22.8% | 17.1–23.6% |
 | [1–2 August 2023](2023-08-02-Demopolis.html) | Demopolis | 22.3% | 20.9–23.7% | 20.5–24.1% | 20.2–24.4% | 19.6–25.1% |
 | [26–31 July 2023](2023-07-31-SWG.html) | SWG <br> La7 | 20.0% | 18.6–21.6% | 18.2–22.0% | 17.8–22.4% | 17.2–23.1% |
 | [27–28 July 2023](2023-07-28-Tecnè.html) | Tecnè <br> Agenzia Dire | 20.0% | 18.4–21.7% | 18.0–22.1% | 17.6–22.6% | 16.9–23.4% |
@@ -1413,7 +1414,7 @@ The following table shows the probability mass function per percentage block of 
 | 16.5–17.5% | 2% | 99.5% |  |
 | 17.5–18.5% | 9% | 97% |  |
 | 18.5–19.5% | 23% | 88% |  |
-| 19.5–20.5% | 27% | 66% | Median |
+| 19.5–20.5% | 27% | 65% | Median |
 | 20.5–21.5% | 20% | 38% |  |
 | 21.5–22.5% | 11% | 18% |  |
 | 22.5–23.5% | 5% | 7% |  |
@@ -1446,6 +1447,7 @@ Last result: **31** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18 | 16–19 | 16–20 | 15–20 | 14–21 |
+| [8–9 August 2023](2023-08-09-Lab2101.html) | Lab2101 <br> Affari Italiani | 18 | 17–20 | 16–20 | 16–20 | 15–21 |
 | [1–2 August 2023](2023-08-02-Demopolis.html) | Demopolis | 18 | 17–20 | 17–20 | 16–20 | 16–21 |
 | [26–31 July 2023](2023-07-31-SWG.html) | SWG <br> La7 | 18 | 17–20 | 16–20 | 16–20 | 16–21 |
 | [27–28 July 2023](2023-07-28-Tecnè.html) | Tecnè <br> Agenzia Dire | 17 | 15–19 | 15–19 | 14–20 | 14–20 |
@@ -2848,11 +2850,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0.1% | 100% |  |
 | 14 | 0.9% | 99.9% |  |
 | 15 | 3% | 99.0% |  |
-| 16 | 14% | 96% |  |
-| 17 | 28% | 82% |  |
-| 18 | 25% | 54% | Median |
-| 19 | 20% | 28% |  |
-| 20 | 6% | 8% |  |
+| 16 | 13% | 96% |  |
+| 17 | 28% | 83% |  |
+| 18 | 23% | 54% | Median |
+| 19 | 23% | 31% |  |
+| 20 | 7% | 8% |  |
 | 21 | 1.4% | 2% |  |
 | 22 | 0.2% | 0.3% |  |
 | 23 | 0% | 0% |  |

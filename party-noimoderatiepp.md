@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.1% | 0.4–1.9% | 0.4–2.2% | 0.3–2.4% | 0.2–3.0% |
+| N/A | [Poll Average](average.html) | 1.1% | 0.5–1.9% | 0.4–2.2% | 0.3–2.4% | 0.2–3.0% |
+| [8–9 August 2023](2023-08-09-Lab2101.html) | Lab2101 <br> Affari Italiani | 0.7% | 0.5–1.2% | 0.4–1.3% | 0.3–1.4% | 0.2–1.7% |
 | [1–2 August 2023](2023-08-02-Demopolis.html) | Demopolis | 0.0% | N/A | N/A | N/A | N/A |
 | [26–31 July 2023](2023-07-31-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [27–28 July 2023](2023-07-28-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
@@ -1408,9 +1409,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 16% | 100% | Last Result |
-| 0.5–1.5% | 61% | 84% | Median |
-| 1.5–2.5% | 21% | 22% |  |
+| 0.0–0.5% | 12% | 100% | Last Result |
+| 0.5–1.5% | 65% | 88% | Median |
+| 1.5–2.5% | 21% | 23% |  |
 | 2.5–3.5% | 2% | 2% |  |
 | 3.5–4.5% | 0.1% | 0.1% |  |
 | 4.5–5.5% | 0% | 0% |  |
@@ -1425,6 +1426,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [8–9 August 2023](2023-08-09-Lab2101.html) | Lab2101 <br> Affari Italiani | 0 | 0 | 0 | 0 | 0 |
 | [1–2 August 2023](2023-08-02-Demopolis.html) | Demopolis |  |  |  |  |  |
 | [26–31 July 2023](2023-07-31-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [27–28 July 2023](2023-07-28-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |

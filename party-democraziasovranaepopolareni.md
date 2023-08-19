@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.2% | 0.7–1.6% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
+| [8–9 August 2023](2023-08-09-Lab2101.html) | Lab2101 <br> Affari Italiani | 0.0% | N/A | N/A | N/A | N/A |
 | [1–2 August 2023](2023-08-02-Demopolis.html) | Demopolis | 0.0% | N/A | N/A | N/A | N/A |
 | [26–31 July 2023](2023-07-31-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [27–28 July 2023](2023-07-28-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
@@ -1423,6 +1424,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [8–9 August 2023](2023-08-09-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
 | [1–2 August 2023](2023-08-02-Demopolis.html) | Demopolis |  |  |  |  |  |
 | [26–31 July 2023](2023-07-31-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [27–28 July 2023](2023-07-28-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
