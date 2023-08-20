@@ -10,7 +10,8 @@ Last result: **21.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.0% | 14.5–17.7% | 14.0–18.2% | 13.6–18.7% | 12.8–19.5% |
+| N/A | [Poll Average](average.html) | 16.1% | 14.6–17.7% | 14.1–18.2% | 13.7–18.6% | 13.0–19.4% |
+| [10–17 August 2023](2023-08-17-Lab2101.html) | Lab2101 <br> Affari Italiani | 15.9% | 14.5–17.5% | 14.1–17.9% | 13.8–18.3% | 13.1–19.1% |
 | [8–9 August 2023](2023-08-09-Lab2101.html) | Lab2101 <br> Affari Italiani | 15.8% | 14.4–17.4% | 14.0–17.8% | 13.7–18.2% | 13.0–19.0% |
 | [1–2 August 2023](2023-08-02-Demopolis.html) | Demopolis | 17.5% | 16.3–18.9% | 16.0–19.2% | 15.7–19.6% | 15.1–20.2% |
 | [26–31 July 2023](2023-07-31-SWG.html) | SWG <br> La7 | 16.3% | 15.0–17.8% | 14.7–18.2% | 14.3–18.5% | 13.7–19.3% |
@@ -1410,17 +1411,16 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 0.3% | 100% |  |
-| 12.5–13.5% | 2% | 99.7% |  |
-| 13.5–14.5% | 9% | 98% |  |
-| 14.5–15.5% | 22% | 89% |  |
-| 15.5–16.5% | 32% | 66% | Median |
-| 16.5–17.5% | 21% | 34% |  |
+| 11.5–12.5% | 0.1% | 100% |  |
+| 12.5–13.5% | 2% | 99.9% |  |
+| 13.5–14.5% | 8% | 98% |  |
+| 14.5–15.5% | 22% | 90% |  |
+| 15.5–16.5% | 33% | 68% | Median |
+| 16.5–17.5% | 22% | 35% |  |
 | 17.5–18.5% | 10% | 13% |  |
 | 18.5–19.5% | 3% | 3% |  |
-| 19.5–20.5% | 0.4% | 0.5% |  |
-| 20.5–21.5% | 0% | 0.1% | Last Result |
-| 21.5–22.5% | 0% | 0% |  |
+| 19.5–20.5% | 0.4% | 0.4% |  |
+| 20.5–21.5% | 0% | 0% | Last Result |
 
 
 ## Seats
@@ -1431,7 +1431,8 @@ Last result: **17** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 13–16 | 12–16 | 12–16 | 11–17 |
+| N/A | [Poll Average](average.html) | 14 | 13–15 | 12–16 | 12–16 | 11–17 |
+| [10–17 August 2023](2023-08-17-Lab2101.html) | Lab2101 <br> Affari Italiani | 14 | 13–15 | 13–16 | 12–17 | 11–17 |
 | [8–9 August 2023](2023-08-09-Lab2101.html) | Lab2101 <br> Affari Italiani | 14 | 12–15 | 12–16 | 12–16 | 11–17 |
 | [1–2 August 2023](2023-08-02-Demopolis.html) | Demopolis | 15 | 13–16 | 13–16 | 13–16 | 12–17 |
 | [26–31 July 2023](2023-07-31-SWG.html) | SWG <br> La7 | 14 | 14–15 | 14–16 | 13–16 | 13–17 |
@@ -2832,15 +2833,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.2% | 100% |  |
-| 11 | 1.5% | 99.8% |  |
-| 12 | 8% | 98% |  |
-| 13 | 19% | 91% |  |
-| 14 | 30% | 72% | Median |
-| 15 | 31% | 42% |  |
-| 16 | 9% | 11% |  |
-| 17 | 2% | 2% | Last Result |
-| 18 | 0.2% | 0.2% |  |
+| 10 | 0.1% | 100% |  |
+| 11 | 1.3% | 99.9% |  |
+| 12 | 7% | 98.6% |  |
+| 13 | 17% | 92% |  |
+| 14 | 32% | 74% | Median |
+| 15 | 32% | 42% |  |
+| 16 | 8% | 10% |  |
+| 17 | 1.3% | 1.4% | Last Result |
+| 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
 
 
