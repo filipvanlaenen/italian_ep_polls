@@ -10,10 +10,14 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.8% | 3.1–4.7% | 2.9–4.9% | 2.7–5.2% | 2.4–5.7% |
+| N/A | [Poll Average](average.html) | 3.7% | 3.0–4.6% | 2.8–4.9% | 2.6–5.2% | 2.2–5.8% |
+| [1 September 2023](2023-09-01-Tecné.html) | Tecné <br> Agenzia Dire | 3.7% | 3.0–4.6% | 2.8–4.8% | 2.7–5.0% | 2.4–5.5% |
+| [1 September 2023](2023-09-01-Lab2101.html) | Lab2101 <br> Affari Italiani | 3.8% | 3.1–4.7% | 2.9–5.0% | 2.8–5.2% | 2.5–5.6% |
 | [23–24 August 2023](2023-08-24-TermometroPolitico.html) | Termometro Politico | 3.5% | 3.1–4.0% | 3.0–4.1% | 2.9–4.2% | 2.7–4.4% |
+| [1–20 August 2023](2023-08-20-Lab2101.html) | Lab2101 <br> Affari Italiani | 3.9% | 3.4–4.5% | 3.2–4.7% | 3.1–4.8% | 2.9–5.2% |
 | [10–17 August 2023](2023-08-17-Lab2101.html) | Lab2101 <br> Affari Italiani | 3.8% | 3.1–4.7% | 2.9–5.0% | 2.8–5.2% | 2.5–5.6% |
 | [8–9 August 2023](2023-08-09-Lab2101.html) | Lab2101 <br> Affari Italiani | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.9–5.3% | 2.6–5.8% |
+| [5 August 2023](2023-08-05-Piepoli.html) | Piepoli | 3.6% | 2.7–4.9% | 2.5–5.3% | 2.3–5.6% | 1.9–6.3% |
 | [1–2 August 2023](2023-08-02-Demopolis.html) | Demopolis | 3.7% | 3.2–4.5% | 3.0–4.6% | 2.9–4.8% | 2.6–5.2% |
 | [26–31 July 2023](2023-07-31-SWG.html) | SWG <br> La7 | 3.4% | 2.8–4.2% | 2.7–4.4% | 2.5–4.6% | 2.3–5.0% |
 | [27–28 July 2023](2023-07-28-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.3–5.3% |
@@ -25,6 +29,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [19–24 July 2023](2023-07-24-SWG.html) | SWG <br> La7 | 3.6% | 3.0–4.4% | 2.8–4.6% | 2.7–4.8% | 2.4–5.2% |
 | [23 July 2023](2023-07-23-NotoSondaggi.html) | Noto Sondaggi | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
 | [20–21 July 2023](2023-07-21-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
+| [20–21 July 2023](2023-07-21-AnalisiPolitica.html) | AnalisiPolitica <br> Libero Quotidiano | 3.8% | 3.1–4.7% | 2.9–5.0% | 2.8–5.2% | 2.5–5.6% |
 | [18–20 July 2023](2023-07-20-TermometroPolitico.html) | Termometro Politico | 3.8% | 3.4–4.3% | 3.3–4.4% | 3.2–4.5% | 3.1–4.7% |
 | [18–20 July 2023](2023-07-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 3.6% | 2.9–4.6% | 2.7–4.9% | 2.5–5.2% | 2.2–5.7% |
 | [15–20 July 2023](2023-07-20-Lab2101.html) | Lab2101 <br> Affari Italiani | 4.3% | 3.6–5.2% | 3.4–5.5% | 3.2–5.7% | 2.9–6.2% |
@@ -1414,12 +1419,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 1.0% | 100% |  |
-| 2.5–3.5% | 35% | 99.0% |  |
-| 3.5–4.5% | 51% | 64% | Median |
-| 4.5–5.5% | 11% | 12% |  |
-| 5.5–6.5% | 0.9% | 0.9% |  |
-| 6.5–7.5% | 0% | 0% |  |
+| 1.5–2.5% | 2% | 100% |  |
+| 2.5–3.5% | 39% | 98% |  |
+| 3.5–4.5% | 49% | 59% | Median |
+| 4.5–5.5% | 10% | 11% |  |
+| 5.5–6.5% | 0.9% | 1.0% |  |
+| 6.5–7.5% | 0.1% | 0.1% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -1430,10 +1436,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
+| N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [1 September 2023](2023-09-01-Tecné.html) | Tecné <br> Agenzia Dire | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [1 September 2023](2023-09-01-Lab2101.html) | Lab2101 <br> Affari Italiani | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [23–24 August 2023](2023-08-24-TermometroPolitico.html) | Termometro Politico | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [1–20 August 2023](2023-08-20-Lab2101.html) | Lab2101 <br> Affari Italiani | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [10–17 August 2023](2023-08-17-Lab2101.html) | Lab2101 <br> Affari Italiani | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [8–9 August 2023](2023-08-09-Lab2101.html) | Lab2101 <br> Affari Italiani | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
+| [5 August 2023](2023-08-05-Piepoli.html) | Piepoli | 0 | 0–4 | 0–4 | 0–5 | 0–6 |
 | [1–2 August 2023](2023-08-02-Demopolis.html) | Demopolis | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [26–31 July 2023](2023-07-31-SWG.html) | SWG <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [27–28 July 2023](2023-07-28-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
@@ -1445,6 +1455,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [19–24 July 2023](2023-07-24-SWG.html) | SWG <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [23 July 2023](2023-07-23-NotoSondaggi.html) | Noto Sondaggi | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [20–21 July 2023](2023-07-21-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [20–21 July 2023](2023-07-21-AnalisiPolitica.html) | AnalisiPolitica <br> Libero Quotidiano | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [18–20 July 2023](2023-07-20-TermometroPolitico.html) | Termometro Politico | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [18–20 July 2023](2023-07-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [15–20 July 2023](2023-07-20-Lab2101.html) | Lab2101 <br> Affari Italiani | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
@@ -2834,13 +2845,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 64% | 100% | Last Result, Median |
-| 1 | 0% | 36% |  |
-| 2 | 0% | 36% |  |
-| 3 | 11% | 36% |  |
-| 4 | 20% | 24% |  |
-| 5 | 4% | 4% |  |
-| 6 | 0.1% | 0.1% |  |
+| 0 | 65% | 100% | Last Result, Median |
+| 1 | 0% | 35% |  |
+| 2 | 0% | 35% |  |
+| 3 | 4% | 35% |  |
+| 4 | 29% | 31% |  |
+| 5 | 2% | 2% |  |
+| 6 | 0.2% | 0.2% |  |
 | 7 | 0% | 0% |  |
 
 
