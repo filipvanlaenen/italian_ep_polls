@@ -10,8 +10,15 @@ Last result: **40.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.7% | 18.0–21.5% | 17.5–22.1% | 17.1–22.6% | 16.2–23.5% |
+| N/A | [Poll Average](average.html) | 19.6% | 18.0–21.5% | 17.5–22.0% | 17.1–22.5% | 16.2–23.5% |
+| [20–25 September 2023](2023-09-25-SWG.html) | SWG <br> La7 | 19.8% | 18.3–21.3% | 17.9–21.7% | 17.6–22.1% | 16.9–22.9% |
+| [21–22 September 2023](2023-09-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 19.2% | 17.7–20.9% | 17.2–21.4% | 16.9–21.8% | 16.2–22.6% |
+| [17–21 September 2023](2023-09-21-Lab2101.html) | Lab2101 <br> Affari Italiani | 19.7% | 18.2–21.4% | 17.7–21.9% | 17.3–22.3% | 16.6–23.1% |
+| [18–20 September 2023](2023-09-20-TermometroPolitico.html) | Termometro Politico <br> La7 | 18.8% | 18.0–19.6% | 17.8–19.8% | 17.6–20.0% | 17.2–20.4% |
+| [19–20 September 2023](2023-09-20-EMG.html) | EMG <br> Rai 3 | 20.0% | 18.6–21.5% | 18.2–21.9% | 17.9–22.3% | 17.3–23.0% |
+| [18–20 September 2023](2023-09-20-DemosPi.html) | Demos & Pi <br> La Repubblica | 20.4% | 18.8–22.1% | 18.4–22.6% | 18.0–23.0% | 17.3–23.8% |
 | [19 September 2023](2023-09-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 18.7% | 17.2–20.4% | 16.8–20.8% | 16.4–21.2% | 15.7–22.1% |
+| [19 September 2023](2023-09-19-Euromedia.html) | Euromedia | 19.2% | 17.7–20.9% | 17.2–21.4% | 16.9–21.8% | 16.2–22.6% |
 | [13–18 September 2023](2023-09-18-SWG.html) | SWG <br> La7 | 19.8% | 18.4–21.4% | 18.0–21.8% | 17.7–22.2% | 17.0–23.0% |
 | [13–18 September 2023](2023-09-18-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 19.1% | 17.4–21.0% | 16.9–21.5% | 16.5–21.9% | 15.7–22.9% |
 | [14–15 September 2023](2023-09-15-Tecné.html) | Tecné <br> Agenzia Dire | 19.8% | 18.2–21.5% | 17.8–21.9% | 17.4–22.3% | 16.7–23.2% |
@@ -1440,12 +1447,12 @@ The following table shows the probability mass function per percentage block of 
 | 14.5–15.5% | 0.1% | 100% |  |
 | 15.5–16.5% | 0.9% | 99.9% |  |
 | 16.5–17.5% | 4% | 99.0% |  |
-| 17.5–18.5% | 13% | 95% |  |
-| 18.5–19.5% | 27% | 81% |  |
-| 19.5–20.5% | 28% | 55% | Median |
-| 20.5–21.5% | 17% | 27% |  |
-| 21.5–22.5% | 7% | 10% |  |
-| 22.5–23.5% | 2% | 3% |  |
+| 17.5–18.5% | 15% | 95% |  |
+| 18.5–19.5% | 27% | 79% |  |
+| 19.5–20.5% | 26% | 52% | Median |
+| 20.5–21.5% | 17% | 26% |  |
+| 21.5–22.5% | 7% | 9% |  |
+| 22.5–23.5% | 2% | 2% |  |
 | 23.5–24.5% | 0.4% | 0.5% |  |
 | 24.5–25.5% | 0.1% | 0.1% |  |
 | 25.5–26.5% | 0% | 0% |  |
@@ -1474,8 +1481,15 @@ Last result: **31** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 16–19 | 15–20 | 15–20 | 14–21 |
+| N/A | [Poll Average](average.html) | 17 | 15–19 | 15–20 | 14–20 | 14–21 |
+| [20–25 September 2023](2023-09-25-SWG.html) | SWG <br> La7 | 18 | 17–19 | 16–19 | 16–20 | 15–21 |
+| [21–22 September 2023](2023-09-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 16 | 15–17 | 14–18 | 14–18 | 13–19 |
+| [17–21 September 2023](2023-09-21-Lab2101.html) | Lab2101 <br> Affari Italiani | 16 | 16–18 | 15–19 | 15–20 | 14–20 |
+| [18–20 September 2023](2023-09-20-TermometroPolitico.html) | Termometro Politico <br> La7 | 15 | 14–15 | 14–16 | 14–16 | 13–16 |
+| [19–20 September 2023](2023-09-20-EMG.html) | EMG <br> Rai 3 | 18 | 17–19 | 16–20 | 16–20 | 15–21 |
+| [18–20 September 2023](2023-09-20-DemosPi.html) | Demos & Pi <br> La Repubblica | 17 | 16–18 | 15–19 | 15–19 | 14–20 |
 | [19 September 2023](2023-09-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 16 | 15–18 | 15–18 | 14–19 | 14–19 |
+| [19 September 2023](2023-09-19-Euromedia.html) | Euromedia | 16 | 15–18 | 15–19 | 15–19 | 14–20 |
 | [13–18 September 2023](2023-09-18-SWG.html) | SWG <br> La7 | 18 | 16–19 | 16–20 | 16–20 | 15–21 |
 | [13–18 September 2023](2023-09-18-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 17 | 15–19 | 14–19 | 14–19 | 13–20 |
 | [14–15 September 2023](2023-09-15-Tecné.html) | Tecné <br> Agenzia Dire | 16 | 15–18 | 15–18 | 15–19 | 14–20 |
@@ -2902,16 +2916,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 13 | 0.2% | 100% |  |
-| 14 | 2% | 99.8% |  |
-| 15 | 7% | 98% |  |
-| 16 | 18% | 91% |  |
-| 17 | 28% | 73% | Median |
-| 18 | 24% | 45% |  |
-| 19 | 15% | 21% |  |
-| 20 | 5% | 6% |  |
-| 21 | 1.5% | 2% |  |
-| 22 | 0.2% | 0.2% |  |
+| 13 | 0.3% | 100% |  |
+| 14 | 4% | 99.7% |  |
+| 15 | 14% | 95% |  |
+| 16 | 21% | 81% |  |
+| 17 | 22% | 59% | Median |
+| 18 | 19% | 38% |  |
+| 19 | 14% | 19% |  |
+| 20 | 4% | 5% |  |
+| 21 | 1.3% | 1.5% |  |
+| 22 | 0.1% | 0.1% |  |
 | 23 | 0% | 0% |  |
 | 24 | 0% | 0% |  |
 | 25 | 0% | 0% |  |
