@@ -10,9 +10,21 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.6% | 2.6–4.7% | 2.4–5.1% | 2.2–5.4% | 1.9–6.0% |
+| N/A | [Poll Average](average.html) | 3.5% | 2.7–4.5% | 2.4–4.9% | 2.3–5.2% | 1.9–5.9% |
+| [3 October 2023](2023-10-03-Winpoll.html) | Winpoll <br> La Repubblica | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.9–5.3% | 2.6–5.8% |
+| [3 October 2023](2023-10-03-Ixè.html) | Ixè | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
+| [2 October 2023](2023-10-02-SWG.html) | SWG <br> La7 | 3.4% | 2.8–4.2% | 2.7–4.4% | 2.5–4.6% | 2.3–5.0% |
+| [2 October 2023](2023-10-02-Euromedia.html) | Euromedia <br> Rai 1 | 3.0% | 2.3–3.9% | 2.2–4.2% | 2.0–4.4% | 1.8–4.9% |
+| [27–29 September 2023](2023-09-29-TermometroPolitico.html) | Termometro Politico <br> La7 | 3.0% | 2.7–3.4% | 2.6–3.5% | 2.5–3.6% | 2.4–3.8% |
+| [28–29 September 2023](2023-09-29-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.3–4.6% | 2.1–5.0% |
+| [25–28 September 2023](2023-09-28-Lab2101.html) | Lab2101 <br> Affari Italiani | 3.8% | 3.1–4.7% | 2.9–5.0% | 2.8–5.2% | 2.5–5.6% |
+| [26–27 September 2023](2023-09-27-Eumetra.html) | Eumetra <br> La7 | 3.4% | 2.7–4.3% | 2.5–4.6% | 2.3–4.9% | 2.0–5.4% |
+| [25–26 September 2023](2023-09-26-Piepoli.html) | Piepoli <br> RaiNews24 | 3.9% | 3.0–5.3% | 2.8–5.7% | 2.6–6.0% | 2.2–6.7% |
+| [24–25 September 2023](2023-09-25-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.5% | N/A | N/A | N/A | N/A |
 | [20–25 September 2023](2023-09-25-SWG.html) | SWG <br> La7 | 3.6% | 3.0–4.4% | 2.8–4.6% | 2.7–4.8% | 2.4–5.2% |
 | [21–22 September 2023](2023-09-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
+| [19–21 September 2023](2023-09-21-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 4.4% | 3.6–5.4% | 3.3–5.7% | 3.2–6.0% | 2.8–6.6% |
+| [21 September 2023](2023-09-21-Piepoli.html) | Piepoli | 3.4% | N/A | N/A | N/A | N/A |
 | [17–21 September 2023](2023-09-21-Lab2101.html) | Lab2101 <br> Affari Italiani | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.9–5.3% | 2.6–5.8% |
 | [18–20 September 2023](2023-09-20-TermometroPolitico.html) | Termometro Politico <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [19–20 September 2023](2023-09-20-EMG.html) | EMG <br> Rai 3 | 2.6% | 2.1–3.3% | 2.0–3.5% | 1.8–3.6% | 1.6–4.0% |
@@ -20,19 +32,24 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [19 September 2023](2023-09-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [19 September 2023](2023-09-19-Euromedia.html) | Euromedia | 2.8% | 2.2–3.6% | 2.1–3.8% | 1.9–4.0% | 1.7–4.4% |
 | [13–18 September 2023](2023-09-18-SWG.html) | SWG <br> La7 | 3.4% | 2.8–4.2% | 2.7–4.4% | 2.5–4.6% | 2.3–5.0% |
-| [13–18 September 2023](2023-09-18-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 4.5% | 3.7–5.6% | 3.4–5.9% | 3.3–6.2% | 2.9–6.7% |
 | [14–15 September 2023](2023-09-15-Tecné.html) | Tecné <br> Agenzia Dire | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
-| [14–15 September 2023](2023-09-15-EMG.html) | EMG <br> Rai 3 | 2.6% | 2.1–3.4% | 1.9–3.6% | 1.8–3.8% | 1.5–4.2% |
+| [12–14 September 2023](2023-09-14-TermometroPolitico.html) | Termometro Politico | 2.9% | N/A | N/A | N/A | N/A |
 | [14 September 2023](2023-09-14-Ixè.html) | Ixè | 4.4% | 3.7–5.3% | 3.5–5.6% | 3.3–5.9% | 3.0–6.4% |
+| [12–13 September 2023](2023-09-13-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 4.5% | N/A | N/A | N/A | N/A |
 | [11–13 September 2023](2023-09-13-Lab2101.html) | Lab2101 <br> Affari Italiani | 3.8% | 3.1–4.7% | 2.9–5.0% | 2.8–5.2% | 2.5–5.6% |
-| [6–12 September 2023](2023-09-12-Euromedia.html) | Euromedia <br> Rai 1 | 2.7% | 2.1–3.5% | 2.0–3.7% | 1.9–3.9% | 1.6–4.3% |
+| [12–13 September 2023](2023-09-13-EMG.html) | EMG <br> Rai 3 | 2.6% | N/A | N/A | N/A | N/A |
+| [11 September 2023](2023-09-11-Tecné.html) | Tecné <br> RTI | 3.6% | N/A | N/A | N/A | N/A |
 | [6–11 September 2023](2023-09-11-SWG.html) | SWG <br> La7 | 3.3% | N/A | N/A | N/A | N/A |
 | [7–11 September 2023](2023-09-11-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 4.1% | N/A | N/A | N/A | N/A |
-| [9 September 2023](2023-09-09-Ipsos.html) | Ipsos <br> Corriere della Sera | 3.7% | 3.0–4.6% | 2.9–4.8% | 2.7–5.1% | 2.4–5.5% |
+| [11 September 2023](2023-09-11-Euromedia.html) | Euromedia <br> Rai 1 | 2.8% | N/A | N/A | N/A | N/A |
 | [8 September 2023](2023-09-08-TermometroPolitico.html) | Termometro Politico | 3.0% | 2.6–3.4% | 2.5–3.6% | 2.5–3.7% | 2.3–3.9% |
 | [7–8 September 2023](2023-09-08-Tecné.html) | Tecné <br> Agenzia Dire | 3.6% | N/A | N/A | N/A | N/A |
-| [8 September 2023](2023-09-08-Piepoli.html) | Piepoli | 3.6% | 2.7–4.9% | 2.5–5.3% | 2.3–5.6% | 1.9–6.3% |
+| [8 September 2023](2023-09-08-Piepoli.html) | Piepoli | 3.4% | 2.7–4.9% | 2.5–5.3% | 2.3–5.6% | 1.9–6.3% |
+| [5–7 September 2023](2023-09-07-TermometroPolitico.html) | Termometro Politico | 3.0% | N/A | N/A | N/A | N/A |
+| [6–7 September 2023](2023-09-07-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 4.1% | N/A | N/A | N/A | N/A |
 | [2–7 September 2023](2023-09-07-Lab2101.html) | Lab2101 <br> Affari Italiani | 3.7% | N/A | N/A | N/A | N/A |
+| [5–7 September 2023](2023-09-07-Ipsos.html) | Ipsos <br> Corriere della Sera | 3.7% | 3.0–4.6% | 2.9–4.8% | 2.7–5.1% | 2.4–5.5% |
+| [3–4 September 2023](2023-09-04-Tecné.html) | Tecné <br> Agenzia Dire | 3.5% | N/A | N/A | N/A | N/A |
 | [4 September 2023](2023-09-04-SWG.html) | SWG <br> La7 | 3.3% | N/A | N/A | N/A | N/A |
 | [1 September 2023](2023-09-01-Tecné.html) | Tecné <br> Agenzia Dire | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–4.9% | 2.3–5.4% |
 | [1 September 2023](2023-09-01-Lab2101.html) | Lab2101 <br> Affari Italiani | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
@@ -43,7 +60,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [1–20 August 2023](2023-08-20-Lab2101.html) | Lab2101 <br> Affari Italiani | 3.7% | 3.2–4.3% | 3.1–4.5% | 3.0–4.6% | 2.7–4.9% |
 | [10–17 August 2023](2023-08-17-Lab2101.html) | Lab2101 <br> Affari Italiani | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
 | [8–9 August 2023](2023-08-09-Lab2101.html) | Lab2101 <br> Affari Italiani | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
-| [5 August 2023](2023-08-05-Piepoli.html) | Piepoli | 3.6% | 2.7–4.9% | 2.5–5.3% | 2.3–5.6% | 1.9–6.3% |
+| [5 August 2023](2023-08-05-Piepoli.html) | Piepoli | 3.4% | 2.7–4.9% | 2.5–5.3% | 2.3–5.6% | 1.9–6.3% |
 | [1–2 August 2023](2023-08-02-Demopolis.html) | Demopolis | 3.3% | 2.8–4.0% | 2.7–4.2% | 2.5–4.4% | 2.3–4.7% |
 | [26–31 July 2023](2023-07-31-SWG.html) | SWG <br> La7 | 3.0% | 2.5–3.7% | 2.3–3.9% | 2.2–4.1% | 1.9–4.5% |
 | [27–28 July 2023](2023-07-28-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.5–4.7% | 2.2–5.2% |
@@ -62,7 +79,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [19 July 2023](2023-07-19-Euromedia.html) | Euromedia <br> La Stampa | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
 | [12–17 July 2023](2023-07-17-SWG.html) | SWG <br> La7 | 3.1% | 2.5–3.8% | 2.4–4.0% | 2.2–4.2% | 2.0–4.6% |
 | [13–14 July 2023](2023-07-14-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.2% | 2.6–4.1% | 2.4–4.3% | 2.3–4.5% | 2.0–4.9% |
-| [14 July 2023](2023-07-14-Piepoli.html) | Piepoli | 3.0% | 2.2–4.2% | 2.0–4.6% | 1.8–4.9% | 1.5–5.5% |
+| [14 July 2023](2023-07-14-Piepoli.html) | Piepoli | 3.1% | 2.2–4.2% | 2.0–4.6% | 1.8–4.9% | 1.5–5.5% |
 | [11–14 July 2023](2023-07-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
 | [11–13 July 2023](2023-07-13-TermometroPolitico.html) | Termometro Politico | 2.8% | 2.5–3.2% | 2.4–3.3% | 2.3–3.4% | 2.2–3.6% |
 | [11–13 July 2023](2023-07-13-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 4.0% | 3.2–5.0% | 3.0–5.3% | 2.8–5.6% | 2.5–6.1% |
@@ -71,7 +88,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [6–7 July 2023](2023-07-07-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.1% | N/A | N/A | N/A | N/A |
 | [5–6 July 2023](2023-07-06-TermometroPolitico.html) | Termometro Politico | 2.8% | N/A | N/A | N/A | N/A |
 | [4–6 July 2023](2023-07-06-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 3.7% | N/A | N/A | N/A | N/A |
-| [6 July 2023](2023-07-06-Piepoli.html) | Piepoli | 3.0% | 2.2–4.2% | 2.0–4.6% | 1.8–4.9% | 1.5–5.5% |
+| [6 July 2023](2023-07-06-Piepoli.html) | Piepoli | 3.1% | 2.2–4.2% | 2.0–4.6% | 1.8–4.9% | 1.5–5.5% |
 | [1–5 July 2023](2023-07-05-Lab2101.html) | Lab2101 <br> Affari Italiani | 3.4% | N/A | N/A | N/A | N/A |
 | [3 July 2023](2023-07-03-SWG.html) | SWG <br> La7 | 3.3% | 2.8–4.1% | 2.6–4.3% | 2.5–4.5% | 2.2–4.9% |
 | [28–30 June 2023](2023-06-30-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.0% | 2.5–3.6% | 2.4–3.7% | 2.3–3.9% | 2.1–4.2% |
@@ -88,13 +105,14 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [22–23 June 2023](2023-06-23-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.1% | N/A | N/A | N/A | N/A |
 | [21–22 June 2023](2023-06-22-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 3.2% | N/A | N/A | N/A | N/A |
 | [15–22 June 2023](2023-06-22-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 2.4% | 1.9–3.2% | 1.7–3.4% | 1.6–3.6% | 1.4–3.9% |
+| [18–19 June 2023](2023-06-19-Tecné.html) | Tecné <br> Agenzia Dire | 3.0% | N/A | N/A | N/A | N/A |
 | [14–19 June 2023](2023-06-19-SWG.html) | SWG <br> La7 | 3.2% | 2.6–3.9% | 2.4–4.1% | 2.3–4.3% | 2.1–4.7% |
 | [15–19 June 2023](2023-06-19-Ixè.html) | Ixè | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–6.0% |
 | [13–17 June 2023](2023-06-17-Lab2101.html) | Lab2101 <br> Affari Italiani | 3.4% | N/A | N/A | N/A | N/A |
 | [15–16 June 2023](2023-06-16-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [15–16 June 2023](2023-06-16-EMG.html) | EMG <br> Rai 3 | 2.4% | 1.9–3.1% | 1.8–3.3% | 1.7–3.4% | 1.5–3.8% |
 | [12–15 June 2023](2023-06-15-TermometroPolitico.html) | Termometro Politico | 2.6% | 2.3–2.9% | 2.2–3.0% | 2.2–3.1% | 2.1–3.2% |
-| [15 June 2023](2023-06-15-Piepoli.html) | Piepoli | 3.0% | 2.2–4.2% | 2.0–4.6% | 1.8–4.9% | 1.5–5.5% |
+| [15 June 2023](2023-06-15-Piepoli.html) | Piepoli | 3.1% | 2.2–4.2% | 2.0–4.6% | 1.8–4.9% | 1.5–5.5% |
 | [14 June 2023](2023-06-14-Euromedia.html) | Euromedia | 2.4% | 1.9–3.2% | 1.7–3.4% | 1.6–3.6% | 1.4–3.9% |
 | [13 June 2023](2023-06-13-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 3.6% | 2.7–4.9% | 2.5–5.3% | 2.3–5.6% | 1.9–6.3% |
 | [13 June 2023](2023-06-13-NotoSondaggi.html) | Noto Sondaggi | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
@@ -105,6 +123,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [8 June 2023](2023-06-08-EMG.html) | EMG <br> Rai 3 | 2.3% | N/A | N/A | N/A | N/A |
 | [6 June 2023](2023-06-06-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 3.5% | N/A | N/A | N/A | N/A |
 | [6 June 2023](2023-06-06-Euromedia.html) | Euromedia | 2.5% | 1.9–3.4% | 1.8–3.6% | 1.6–3.8% | 1.4–4.3% |
+| [4–5 June 2023](2023-06-05-Tecné.html) | Tecné <br> Agenzia Dire | 3.2% | N/A | N/A | N/A | N/A |
 | [5 June 2023](2023-06-05-SWG.html) | SWG <br> La7 | 3.6% | 3.0–4.4% | 2.8–4.6% | 2.7–4.8% | 2.4–5.2% |
 | [3 June 2023](2023-06-03-BiDiMedia.html) | BiDiMedia | 3.0% | 2.5–3.8% | 2.3–4.0% | 2.2–4.2% | 1.9–4.6% |
 | [1 June 2023](2023-06-01-TermometroPolitico.html) | Termometro Politico | 2.4% | N/A | N/A | N/A | N/A |
@@ -112,7 +131,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [1 June 2023](2023-06-01-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 3.5% | 2.8–4.5% | 2.6–4.8% | 2.4–5.0% | 2.1–5.5% |
 | [1 June 2023](2023-06-01-Lab2101.html) | Lab2101 <br> Affari Italiani | 3.2% | 2.6–4.0% | 2.4–4.3% | 2.3–4.5% | 2.0–4.9% |
 | [1 June 2023](2023-06-01-EMG.html) | EMG <br> Rai 3 | 2.4% | 1.9–3.0% | 1.8–3.2% | 1.7–3.3% | 1.5–3.7% |
-| [30 May 2023](2023-05-30-Piepoli.html) | Piepoli | 3.0% | 2.2–4.2% | 2.0–4.6% | 1.8–4.9% | 1.5–5.5% |
+| [30 May 2023](2023-05-30-Piepoli.html) | Piepoli | 3.1% | 2.2–4.2% | 2.0–4.6% | 1.8–4.9% | 1.5–5.5% |
 | [24–29 May 2023](2023-05-29-SWG.html) | SWG <br> La7 | 3.4% | 2.8–4.2% | 2.7–4.4% | 2.5–4.6% | 2.3–5.0% |
 | [25–26 May 2023](2023-05-26-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.0–4.1% | 1.8–4.6% |
 | [23–25 May 2023](2023-05-25-TermometroPolitico.html) | Termometro Politico | 2.5% | 2.2–2.9% | 2.1–3.0% | 2.1–3.1% | 1.9–3.2% |
@@ -120,14 +139,14 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [22–25 May 2023](2023-05-25-Lab2101.html) | Lab2101 <br> Affari Italiani | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
 | [23–25 May 2023](2023-05-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
 | [25 May 2023](2023-05-25-EMG.html) | EMG <br> Rai 3 | 2.1% | 1.7–2.7% | 1.6–2.8% | 1.5–3.0% | 1.3–3.3% |
-| [23 May 2023](2023-05-23-Piepoli.html) | Piepoli | 2.6% | N/A | N/A | N/A | N/A |
+| [23 May 2023](2023-05-23-Piepoli.html) | Piepoli | 2.5% | N/A | N/A | N/A | N/A |
 | [17–22 May 2023](2023-05-22-SWG.html) | SWG <br> La7 | 3.5% | 2.9–4.3% | 2.7–4.5% | 2.6–4.7% | 2.3–5.1% |
 | [18–19 May 2023](2023-05-19-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [15–19 May 2023](2023-05-19-Lab2101.html) | Lab2101 <br> Affari Italiani | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
 | [19 May 2023](2023-05-19-Euromedia.html) | Euromedia <br> La Stampa | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
 | [16–18 May 2023](2023-05-18-TermometroPolitico.html) | Termometro Politico | 2.5% | 2.2–2.9% | 2.1–2.9% | 2.1–3.0% | 1.9–3.2% |
 | [17–18 May 2023](2023-05-18-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 3.1% | 2.5–4.1% | 2.3–4.3% | 2.1–4.6% | 1.8–5.1% |
-| [17 May 2023](2023-05-17-Piepoli.html) | Piepoli | 2.6% | 1.9–3.8% | 1.7–4.1% | 1.5–4.4% | 1.2–5.0% |
+| [17 May 2023](2023-05-17-Piepoli.html) | Piepoli | 2.5% | 1.9–3.8% | 1.7–4.1% | 1.5–4.4% | 1.2–5.0% |
 | [16–17 May 2023](2023-05-17-NotoSondaggi.html) | Noto Sondaggi <br> La Repubblica | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [10–15 May 2023](2023-05-15-SWG.html) | SWG <br> La7 | 3.4% | 2.8–4.2% | 2.7–4.4% | 2.5–4.6% | 2.3–5.0% |
 | [11–12 May 2023](2023-05-12-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.0–4.1% | 1.8–4.6% |
@@ -140,7 +159,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [4–5 May 2023](2023-05-05-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.1% | N/A | N/A | N/A | N/A |
 | [2–4 May 2023](2023-05-04-TermometroPolitico.html) | Termometro Politico | 2.4% | N/A | N/A | N/A | N/A |
 | [3–4 May 2023](2023-05-04-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 3.0% | 2.3–3.9% | 2.2–4.2% | 2.0–4.4% | 1.7–4.9% |
-| [4 May 2023](2023-05-04-Piepoli.html) | Piepoli | 2.6% | 1.9–3.8% | 1.7–4.1% | 1.5–4.4% | 1.2–5.0% |
+| [4 May 2023](2023-05-04-Piepoli.html) | Piepoli | 2.5% | 1.9–3.8% | 1.7–4.1% | 1.5–4.4% | 1.2–5.0% |
 | [2–4 May 2023](2023-05-04-Lab2101.html) | Lab2101 <br> Affari Italiani | 3.4% | N/A | N/A | N/A | N/A |
 | [4 May 2023](2023-05-04-EMG.html) | EMG <br> Rai 3 | 2.7% | N/A | N/A | N/A | N/A |
 | [3 May 2023](2023-05-03-IndexResearch.html) | Index Research <br> La7 | 3.1% | N/A | N/A | N/A | N/A |
@@ -154,7 +173,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [26 April 2023](2023-04-26-Euromedia.html) | Euromedia <br> Rai 1 | 1.9% | 1.4–2.7% | 1.2–2.9% | 1.1–3.1% | 0.9–3.5% |
 | [19–24 April 2023](2023-04-24-SWG.html) | SWG <br> La7 | 3.0% | N/A | N/A | N/A | N/A |
 | [20–21 April 2023](2023-04-21-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.1% | N/A | N/A | N/A | N/A |
-| [21 April 2023](2023-04-21-Piepoli.html) | Piepoli | 2.4% | 1.7–3.5% | 1.5–3.9% | 1.4–4.2% | 1.1–4.8% |
+| [21 April 2023](2023-04-21-Piepoli.html) | Piepoli | 2.5% | 1.7–3.5% | 1.5–3.9% | 1.4–4.2% | 1.1–4.8% |
 | [18–21 April 2023](2023-04-21-Lab2101.html) | Lab2101 <br> Affari Italiani | 3.2% | N/A | N/A | N/A | N/A |
 | [18–20 April 2023](2023-04-20-TermometroPolitico.html) | Termometro Politico | 2.5% | 2.2–2.9% | 2.1–3.0% | 2.1–3.0% | 1.9–3.2% |
 | [18–20 April 2023](2023-04-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 2.6% | N/A | N/A | N/A | N/A |
@@ -164,9 +183,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [19 April 2023](2023-04-19-IndexResearch.html) | Index Research <br> La7 | 2.5% | 1.9–3.4% | 1.8–3.6% | 1.6–3.8% | 1.4–4.3% |
 | [18–19 April 2023](2023-04-19-Demopolis.html) | Demopolis | 2.0% | 1.6–2.5% | 1.6–2.6% | 1.5–2.7% | 1.3–3.0% |
 | [12–17 April 2023](2023-04-17-SWG.html) | SWG <br> La7 | 2.6% | 2.1–3.3% | 1.9–3.5% | 1.8–3.7% | 1.6–4.0% |
-| [15 April 2023](2023-04-15-Piepoli.html) | Piepoli | 3.0% | 2.2–4.2% | 2.0–4.6% | 1.8–4.9% | 1.5–5.5% |
+| [15 April 2023](2023-04-15-Piepoli.html) | Piepoli | 3.1% | 2.2–4.2% | 2.0–4.6% | 1.8–4.9% | 1.5–5.5% |
 | [13–14 April 2023](2023-04-14-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
-| [13–14 April 2023](2023-04-14-BiDiMedia.html) | BiDiMedia | 2.5% | 2.0–3.4% | 1.8–3.6% | 1.7–3.8% | 1.4–4.2% |
+| [13–14 April 2023](2023-04-14-BiDiMedia.html) | BiDiMedia | 2.6% | 2.0–3.4% | 1.8–3.6% | 1.7–3.8% | 1.4–4.2% |
 | [11–13 April 2023](2023-04-13-TermometroPolitico.html) | Termometro Politico | 2.3% | 2.0–2.6% | 2.0–2.7% | 1.9–2.8% | 1.8–3.0% |
 | [12–13 April 2023](2023-04-13-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 3.0% | 2.3–3.9% | 2.2–4.2% | 2.0–4.4% | 1.8–4.9% |
 | [7–13 April 2023](2023-04-13-Lab2101.html) | Lab2101 <br> Affari Italiani | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
@@ -175,7 +194,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [12 April 2023](2023-04-12-Euromedia.html) | Euromedia <br> La Stampa | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
 | [5–10 April 2023](2023-04-10-SWG.html) | SWG <br> La7 | 3.2% | N/A | N/A | N/A | N/A |
 | [5–7 April 2023](2023-04-07-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.1% | N/A | N/A | N/A | N/A |
-| [7 April 2023](2023-04-07-Piepoli.html) | Piepoli | 3.0% | N/A | N/A | N/A | N/A |
+| [7 April 2023](2023-04-07-Piepoli.html) | Piepoli | 3.1% | N/A | N/A | N/A | N/A |
 | [4–6 April 2023](2023-04-06-TermometroPolitico.html) | Termometro Politico | 2.1% | N/A | N/A | N/A | N/A |
 | [1–6 April 2023](2023-04-06-Lab2101.html) | Lab2101 <br> Affari Italiani | 3.7% | N/A | N/A | N/A | N/A |
 | [6 April 2023](2023-04-06-EMG.html) | EMG <br> Rai 3 | 2.7% | N/A | N/A | N/A | N/A |
@@ -189,9 +208,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [30 March 2023](2023-03-30-EMG.html) | EMG <br> Rai 3 | 2.7% | 2.2–3.4% | 2.1–3.6% | 2.0–3.7% | 1.7–4.1% |
 | [29 March 2023](2023-03-29-IndexResearch.html) | Index Research <br> La7 | 3.1% | 2.5–4.1% | 2.3–4.3% | 2.1–4.6% | 1.8–5.1% |
 | [29 March 2023](2023-03-29-Euromedia.html) | Euromedia | 2.8% | 2.2–3.6% | 2.1–3.8% | 1.9–4.0% | 1.7–4.4% |
+| [26–27 March 2023](2023-03-27-Tecné.html) | Tecné <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [22–27 March 2023](2023-03-27-SWG.html) | SWG <br> La7 | 3.4% | 2.8–4.2% | 2.7–4.4% | 2.5–4.6% | 2.3–5.0% |
 | [23–24 March 2023](2023-03-24-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.1% | N/A | N/A | N/A | N/A |
-| [24 March 2023](2023-03-24-Piepoli.html) | Piepoli | 3.0% | 2.2–4.2% | 2.0–4.6% | 1.8–4.9% | 1.5–5.5% |
+| [24 March 2023](2023-03-24-Piepoli.html) | Piepoli | 3.1% | 2.2–4.2% | 2.0–4.6% | 1.8–4.9% | 1.5–5.5% |
 | [22–23 March 2023](2023-03-23-TermometroPolitico.html) | Termometro Politico | 2.2% | 1.9–2.5% | 1.8–2.6% | 1.8–2.7% | 1.7–2.9% |
 | [21–23 March 2023](2023-03-23-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 2.9% | N/A | N/A | N/A | N/A |
 | [23 March 2023](2023-03-23-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
@@ -207,7 +227,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [14–16 March 2023](2023-03-16-Ipsos.html) | Ipsos <br> Corriere della Sera | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
 | [16 March 2023](2023-03-16-EMG.html) | EMG <br> Rai 3 | 2.9% | 2.4–3.6% | 2.3–3.8% | 2.1–4.0% | 1.9–4.3% |
 | [15 March 2023](2023-03-15-IndexResearch.html) | Index Research <br> La7 | 3.1% | 2.5–4.1% | 2.3–4.3% | 2.1–4.6% | 1.8–5.1% |
-| [14 March 2023](2023-03-14-Piepoli.html) | Piepoli | 2.6% | N/A | N/A | N/A | N/A |
+| [14 March 2023](2023-03-14-Piepoli.html) | Piepoli | 2.5% | N/A | N/A | N/A | N/A |
 | [8–13 March 2023](2023-03-13-SWG.html) | SWG <br> La7 | 3.2% | N/A | N/A | N/A | N/A |
 | [13 March 2023](2023-03-13-Euromedia.html) | Euromedia <br> Rai 1 | 2.6% | 2.0–3.5% | 1.9–3.8% | 1.7–4.0% | 1.5–4.5% |
 | [10–11 March 2023](2023-03-11-BiDiMedia.html) | BiDiMedia | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.0–4.1% | 1.8–4.5% |
@@ -257,7 +277,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [30 January 2023](2023-01-30-EMG.html) | EMG <br> Rai 3 | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
 | [25–26 January 2023](2023-01-26-TermometroPolitico.html) | Termometro Politico | 2.8% | 2.5–3.2% | 2.3–3.3% | 2.3–3.4% | 2.1–3.6% |
 | [23–26 January 2023](2023-01-26-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 3.5% | 3.0–4.2% | 2.8–4.4% | 2.7–4.5% | 2.5–4.9% |
-| [23–26 January 2023](2023-01-26-Piepoli.html) | Piepoli | 4.0% | 3.1–5.4% | 2.8–5.8% | 2.6–6.1% | 2.2–6.8% |
+| [23–26 January 2023](2023-01-26-Piepoli.html) | Piepoli | 3.9% | 3.1–5.4% | 2.8–5.8% | 2.6–6.1% | 2.2–6.8% |
 | [19–26 January 2023](2023-01-26-Lab2101.html) | Lab2101 <br> Affari Italiani | 3.8% | N/A | N/A | N/A | N/A |
 | [25 January 2023](2023-01-25-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [25 January 2023](2023-01-25-IndexResearch.html) | Index Research <br> La7 | 4.0% | 3.2–5.0% | 3.0–5.3% | 2.9–5.6% | 2.5–6.1% |
@@ -277,6 +297,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [6–12 January 2023](2023-01-12-Lab2101.html) | Lab2101 <br> Affari Italiani | 4.0% | N/A | N/A | N/A | N/A |
 | [12 January 2023](2023-01-12-EMG.html) | EMG <br> Rai 3 | 3.5% | N/A | N/A | N/A | N/A |
 | [10–11 January 2023](2023-01-11-Euromedia.html) | Euromedia | 1.9% | N/A | N/A | N/A | N/A |
+| [10 January 2023](2023-01-10-Piepoli.html) | Piepoli | 3.4% | N/A | N/A | N/A | N/A |
 | [4–9 January 2023](2023-01-09-SWG.html) | SWG <br> La7 | 3.7% | N/A | N/A | N/A | N/A |
 | [2–5 January 2023](2023-01-05-Lab2101.html) | Lab2101 <br> Affari Italiani | 3.9% | N/A | N/A | N/A | N/A |
 | [4 January 2023](2023-01-04-EMG.html) | EMG <br> Rai 3 | 3.5% | 2.9–4.2% | 2.8–4.4% | 2.7–4.6% | 2.4–4.9% |
@@ -288,7 +309,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [20–22 December 2022](2022-12-22-Ipsos.html) | Ipsos <br> Corriere della Sera | 3.8% | 3.1–4.7% | 2.9–5.0% | 2.8–5.2% | 2.5–5.6% |
 | [19–21 December 2022](2022-12-21-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
 | [19–21 December 2022](2022-12-21-Ixè.html) | Ixè | 4.3% | 3.6–5.2% | 3.4–5.5% | 3.2–5.7% | 2.9–6.2% |
-| [20 December 2022](2022-12-20-Piepoli.html) | Piepoli <br> RaiNews24 | 4.0% | 3.1–5.4% | 2.8–5.8% | 2.6–6.1% | 2.2–6.8% |
+| [20 December 2022](2022-12-20-Piepoli.html) | Piepoli <br> RaiNews24 | 3.9% | 3.1–5.4% | 2.8–5.8% | 2.6–6.1% | 2.2–6.8% |
 | [14–19 December 2022](2022-12-19-SWG.html) | SWG <br> La7 | 4.0% | 3.4–4.8% | 3.2–5.1% | 3.0–5.3% | 2.7–5.7% |
 | [19 December 2022](2022-12-19-EMG.html) | EMG <br> Rai 3 | 3.2% | N/A | N/A | N/A | N/A |
 | [17–19 December 2022](2022-12-19-BiDiMedia.html) | BiDiMedia | 3.7% | 3.0–4.5% | 2.9–4.8% | 2.7–5.0% | 2.5–5.4% |
@@ -361,12 +382,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [28 September 2022](2022-09-28-Euromedia.html) | Euromedia <br> Rai 1 | 3.5% | N/A | N/A | N/A | N/A |
 | [6–9 September 2022](2022-09-09-SWG.html) | SWG <br> La7 | 4.0% | 3.4–4.8% | 3.2–5.1% | 3.0–5.3% | 2.7–5.7% |
 | [7–9 September 2022](2022-09-09-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
-| [9 September 2022](2022-09-09-Piepoli.html) | Piepoli | 4.0% | 3.1–5.4% | 2.8–5.8% | 2.6–6.1% | 2.2–6.8% |
+| [9 September 2022](2022-09-09-Piepoli.html) | Piepoli | 3.9% | 3.1–5.4% | 2.8–5.8% | 2.6–6.1% | 2.2–6.8% |
 | [6–9 September 2022](2022-09-09-Lab2101.html) | Lab2101 <br> Affari Italiani | 2.6% | 2.1–3.4% | 1.9–3.6% | 1.8–3.8% | 1.6–4.2% |
 | [8–9 September 2022](2022-09-09-BiDiMedia.html) | BiDiMedia | 4.0% | 3.6–4.5% | 3.5–4.6% | 3.4–4.8% | 3.2–5.0% |
 | [6–8 September 2022](2022-09-08-TermometroPolitico.html) | Termometro Politico | 2.6% | 2.3–2.9% | 2.2–3.0% | 2.2–3.1% | 2.1–3.3% |
 | [6–8 September 2022](2022-09-08-Tecnè.html) | Tecnè <br> Canale 5 | 3.2% | 2.7–3.8% | 2.6–3.9% | 2.5–4.1% | 2.3–4.4% |
 | [7–8 September 2022](2022-09-08-IZI.html) | IZI | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.1–5.6% | 2.8–6.1% |
+| [8 September 2022](2022-09-08-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 3.7% | N/A | N/A | N/A | N/A |
 | [6–7 September 2022](2022-09-07-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 2.7% | 2.1–3.5% | 2.0–3.7% | 1.9–3.9% | 1.6–4.3% |
 | [6–7 September 2022](2022-09-07-IndexResearch.html) | Index Research | 4.0% | 3.2–5.0% | 3.0–5.3% | 2.9–5.6% | 2.5–6.1% |
 | [3–7 September 2022](2022-09-07-Hokuto.html) | Hokuto | 3.5% | 3.0–4.2% | 2.8–4.4% | 2.7–4.6% | 2.5–5.0% |
@@ -391,7 +413,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [31 August–1 September 2022](2022-09-01-TermometroPolitico.html) | Termometro Politico | 2.7% | N/A | N/A | N/A | N/A |
 | [30–31 August 2022](2022-08-31-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [30–31 August 2022](2022-08-31-IZI.html) | IZI | 4.5% | 3.8–5.5% | 3.6–5.7% | 3.4–6.0% | 3.1–6.5% |
-| [30 August 2022](2022-08-30-Piepoli.html) | Piepoli | 4.6% | 3.6–6.0% | 3.3–6.4% | 3.1–6.8% | 2.7–7.6% |
+| [30 August 2022](2022-08-30-Piepoli.html) | Piepoli | 4.5% | 3.6–6.0% | 3.3–6.4% | 3.1–6.8% | 2.7–7.6% |
 | [29–30 August 2022](2022-08-30-Ipsos.html) | Ipsos <br> Corriere della Sera | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–6.0% |
 | [29–30 August 2022](2022-08-30-Euromedia.html) | Euromedia <br> Rai 1 | 3.1% | 2.5–4.1% | 2.3–4.3% | 2.1–4.6% | 1.8–5.1% |
 | [29–30 August 2022](2022-08-30-BiDiMedia.html) | BiDiMedia | 3.8% | 3.2–4.6% | 3.0–4.8% | 2.9–5.0% | 2.6–5.5% |
@@ -401,20 +423,21 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [25–28 August 2022](2022-08-28-GDC.html) | GDC | 3.3% | 2.7–4.1% | 2.5–4.3% | 2.4–4.5% | 2.1–4.9% |
 | [24–27 August 2022](2022-08-27-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 3.2% | 2.6–4.0% | 2.4–4.3% | 2.3–4.5% | 2.0–4.9% |
 | [24–25 August 2022](2022-08-25-TermometroPolitico.html) | Termometro Politico | 2.5% | 2.2–2.8% | 2.2–2.9% | 2.1–3.0% | 2.0–3.1% |
-| [25 August 2022](2022-08-25-Piepoli.html) | Piepoli <br> RaiNews24 | 3.0% | 2.2–4.2% | 2.0–4.6% | 1.8–4.9% | 1.5–5.5% |
+| [25 August 2022](2022-08-25-Piepoli.html) | Piepoli <br> RaiNews24 | 3.1% | 2.2–4.2% | 2.0–4.6% | 1.8–4.9% | 1.5–5.5% |
 | [25 August 2022](2022-08-25-BiDiMedia.html) | BiDiMedia | 3.9% | N/A | N/A | N/A | N/A |
 | [23–24 August 2022](2022-08-24-Tecnè.html) | Tecnè | 3.3% | N/A | N/A | N/A | N/A |
 | [22–24 August 2022](2022-08-24-Demopolis.html) | Demopolis | 3.7% | 3.1–4.4% | 3.0–4.6% | 2.8–4.8% | 2.6–5.2% |
 | [10–23 August 2022](2022-08-23-Lab2101.html) | Lab2101 <br> Affari Italiani | 3.0% | 2.5–3.7% | 2.4–3.8% | 2.2–4.0% | 2.0–4.3% |
 | [20 August 2022](2022-08-20-NotoSondaggi.html) | Noto Sondaggi | 2.7% | N/A | N/A | N/A | N/A |
 | [13–20 August 2022](2022-08-20-Lab2101.html) | Lab2101 <br> Affari Italiani | 3.3% | N/A | N/A | N/A | N/A |
-| [19 August 2022](2022-08-19-Piepoli.html) | Piepoli | 3.6% | N/A | N/A | N/A | N/A |
+| [19 August 2022](2022-08-19-Piepoli.html) | Piepoli | 3.4% | N/A | N/A | N/A | N/A |
 | [16–18 August 2022](2022-08-18-TermometroPolitico.html) | Termometro Politico | 2.6% | N/A | N/A | N/A | N/A |
 | [17–18 August 2022](2022-08-18-Tecnè.html) | Tecnè | 3.7% | N/A | N/A | N/A | N/A |
 | [17–18 August 2022](2022-08-18-BiDiMedia.html) | BiDiMedia | 3.9% | N/A | N/A | N/A | N/A |
 | [17 August 2022](2022-08-17-NotoSondaggi.html) | Noto Sondaggi | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
 | [11–14 August 2022](2022-08-14-GDC.html) | GDC | 3.4% | N/A | N/A | N/A | N/A |
 | [6–12 August 2022](2022-08-12-Lab2101.html) | Lab2101 <br> Affari Italiani | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
+| [12 August 2022](2022-08-12-EnzoRisso.html) | Enzo Risso | 3.1% | N/A | N/A | N/A | N/A |
 | [8–11 August 2022](2022-08-11-Tecnè.html) | Tecnè <br> Rete 4 | 3.8% | N/A | N/A | N/A | N/A |
 | [10–11 August 2022](2022-08-11-Demopolis.html) | Demopolis | 4.1% | 3.4–4.9% | 3.2–5.1% | 3.1–5.3% | 2.8–5.8% |
 | [8–9 August 2022](2022-08-09-EMG.html) | EMG | 3.0% | N/A | N/A | N/A | N/A |
@@ -927,7 +950,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [1 December 2020](2020-12-01-EMG.html) | EMG <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
 | [25–30 November 2020](2020-11-30-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [27 November 2020](2020-11-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
-| [26–27 November 2020](2020-11-27-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
+| [25–27 November 2020](2020-11-27-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.0% | N/A | N/A | N/A | N/A |
 | [24–26 November 2020](2020-11-26-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
 | [25–26 November 2020](2020-11-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.0% | N/A | N/A | N/A | N/A |
 | [22–25 November 2020](2020-11-25-BiDiMedia.html) | BiDiMedia | 0.0% | N/A | N/A | N/A | N/A |
@@ -1402,7 +1425,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [17–18 July 2019](2019-07-18-Tecnè.html) | Tecnè <br> Rete 4 | 0.0% | N/A | N/A | N/A | N/A |
 | [16–18 July 2019](2019-07-18-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.0% | N/A | N/A | N/A | N/A |
 | [15–18 July 2019](2019-07-18-GPF.html) | GPF <br> La Notizia | 0.0% | N/A | N/A | N/A | N/A |
-| [10–15 July 2019](2019-07-15-SWG.html) | SWG <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
+| [10–15 July 2019](2019-07-15-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [15 July 2019](2019-07-15-Piepoli.html) | Piepoli <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
 | [9–12 July 2019](2019-07-12-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
 | [10–11 July 2019](2019-07-11-Tecnè.html) | Tecnè <br> Rete 4 | 0.0% | N/A | N/A | N/A | N/A |
@@ -1411,6 +1434,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [7–8 July 2019](2019-07-08-Tecnè.html) | Tecnè <br> Rete 4 | 0.0% | N/A | N/A | N/A | N/A |
 | [3–8 July 2019](2019-07-08-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [5 July 2019](2019-07-05-NotoSondaggi.html) | Noto Sondaggi <br> Quotidiano Nazionale | 0.0% | N/A | N/A | N/A | N/A |
+| [1–5 July 2019](2019-07-05-Eumetra.html) | Eumetra <br> Affari Italiani | 0.0% | N/A | N/A | N/A | N/A |
 | [1–4 July 2019](2019-07-04-TermometroPolitico.html) | Termometro Politico <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [29 June–4 July 2019](2019-07-04-BiDiMedia.html) | BiDiMedia | 0.0% | N/A | N/A | N/A | N/A |
 | [26 June–1 July 2019](2019-07-01-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
@@ -1422,17 +1446,18 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [19–20 June 2019](2019-06-20-Demopolis.html) | Demopolis <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [1–18 June 2019](2019-06-18-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
 | [18 June 2019](2019-06-18-EMG.html) | EMG <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
-| [12–17 June 2019](2019-06-17-SWG.html) | SWG <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
-| [13 June 2019](2019-06-13-IndexResearch.html) | Index Research <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
+| [12–17 June 2019](2019-06-17-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [13 June 2019](2019-06-13-IndexResearch.html) | Index Research <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [11 June 2019](2019-06-11-EMG.html) | EMG <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
 | [9–10 June 2019](2019-06-10-Tecnè.html) | Tecnè <br> Rete 4 | 0.0% | N/A | N/A | N/A | N/A |
 | [5–10 June 2019](2019-06-10-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [10 June 2019](2019-06-10-Piepoli.html) | Piepoli <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
 | [1–10 June 2019](2019-06-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
 | [10 June 2019](2019-06-10-Euromedia.html) | Euromedia <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
+| [1–9 June 2019](2019-06-09-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
 | [1–7 June 2019](2019-06-07-IndexResearch.html) | Index Research <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [2–3 June 2019](2019-06-03-Tecnè.html) | Tecnè <br> Rete 4 | 0.0% | N/A | N/A | N/A | N/A |
-| [29 May–3 June 2019](2019-06-03-SWG.html) | SWG <br> LA7 | 0.0% | N/A | N/A | N/A | N/A |
+| [29 May–3 June 2019](2019-06-03-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [1 June 2019](2019-06-01-EMG.html) | EMG <br> Affari Internazionali | 0.0% | N/A | N/A | N/A | N/A |
 | [30 May 2019](2019-05-30-Piepoli.html) | Piepoli <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
 | [28–29 May 2019](2019-05-29-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll | 0.0% | N/A | N/A | N/A | N/A |
@@ -1445,11 +1470,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 8% | 100% |  |
-| 2.5–3.5% | 41% | 92% |  |
-| 3.5–4.5% | 37% | 50% | Median |
-| 4.5–5.5% | 11% | 13% |  |
-| 5.5–6.5% | 2% | 2% |  |
+| 1.5–2.5% | 7% | 100% |  |
+| 2.5–3.5% | 46% | 93% | Median |
+| 3.5–4.5% | 37% | 47% |  |
+| 4.5–5.5% | 9% | 10% |  |
+| 5.5–6.5% | 1.1% | 1.1% |  |
 | 6.5–7.5% | 0.1% | 0.1% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
@@ -1462,9 +1487,21 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
+| N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
+| [3 October 2023](2023-10-03-Winpoll.html) | Winpoll <br> La Repubblica | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [3 October 2023](2023-10-03-Ixè.html) | Ixè | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [2 October 2023](2023-10-02-SWG.html) | SWG <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [2 October 2023](2023-10-02-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [27–29 September 2023](2023-09-29-TermometroPolitico.html) | Termometro Politico <br> La7 | 0 | 0 | 0 | 0 | 0–4 |
+| [28–29 September 2023](2023-09-29-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [25–28 September 2023](2023-09-28-Lab2101.html) | Lab2101 <br> Affari Italiani | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [26–27 September 2023](2023-09-27-Eumetra.html) | Eumetra <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [25–26 September 2023](2023-09-26-Piepoli.html) | Piepoli <br> RaiNews24 | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
+| [24–25 September 2023](2023-09-25-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [20–25 September 2023](2023-09-25-SWG.html) | SWG <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [21–22 September 2023](2023-09-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [19–21 September 2023](2023-09-21-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
+| [21 September 2023](2023-09-21-Piepoli.html) | Piepoli |  |  |  |  |  |
 | [17–21 September 2023](2023-09-21-Lab2101.html) | Lab2101 <br> Affari Italiani | 4 | 0–4 | 0–5 | 0–5 | 0–6 |
 | [18–20 September 2023](2023-09-20-TermometroPolitico.html) | Termometro Politico <br> La7 |  |  |  |  |  |
 | [19–20 September 2023](2023-09-20-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
@@ -1472,19 +1509,24 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [19 September 2023](2023-09-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0 | 0–4 |
 | [19 September 2023](2023-09-19-Euromedia.html) | Euromedia | 0 | 0 | 0 | 0–3 | 0–4 |
 | [13–18 September 2023](2023-09-18-SWG.html) | SWG <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
-| [13–18 September 2023](2023-09-18-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [14–15 September 2023](2023-09-15-Tecné.html) | Tecné <br> Agenzia Dire | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
-| [14–15 September 2023](2023-09-15-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0–4 |
+| [12–14 September 2023](2023-09-14-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [14 September 2023](2023-09-14-Ixè.html) | Ixè | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
+| [12–13 September 2023](2023-09-13-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
 | [11–13 September 2023](2023-09-13-Lab2101.html) | Lab2101 <br> Affari Italiani | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
-| [6–12 September 2023](2023-09-12-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0 | 0–4 |
+| [12–13 September 2023](2023-09-13-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
+| [11 September 2023](2023-09-11-Tecné.html) | Tecné <br> RTI |  |  |  |  |  |
 | [6–11 September 2023](2023-09-11-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [7–11 September 2023](2023-09-11-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
-| [9 September 2023](2023-09-09-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
+| [11 September 2023](2023-09-11-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
 | [8 September 2023](2023-09-08-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [7–8 September 2023](2023-09-08-Tecné.html) | Tecné <br> Agenzia Dire |  |  |  |  |  |
 | [8 September 2023](2023-09-08-Piepoli.html) | Piepoli | 4 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [5–7 September 2023](2023-09-07-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [6–7 September 2023](2023-09-07-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
 | [2–7 September 2023](2023-09-07-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
+| [5–7 September 2023](2023-09-07-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
+| [3–4 September 2023](2023-09-04-Tecné.html) | Tecné <br> Agenzia Dire |  |  |  |  |  |
 | [4 September 2023](2023-09-04-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [1 September 2023](2023-09-01-Tecné.html) | Tecné <br> Agenzia Dire | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [1 September 2023](2023-09-01-Lab2101.html) | Lab2101 <br> Affari Italiani | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
@@ -1540,6 +1582,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [22–23 June 2023](2023-06-23-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [21–22 June 2023](2023-06-22-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
 | [15–22 June 2023](2023-06-22-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
+| [18–19 June 2023](2023-06-19-Tecné.html) | Tecné <br> Agenzia Dire |  |  |  |  |  |
 | [14–19 June 2023](2023-06-19-SWG.html) | SWG <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [15–19 June 2023](2023-06-19-Ixè.html) | Ixè | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
 | [13–17 June 2023](2023-06-17-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
@@ -1557,6 +1600,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [8 June 2023](2023-06-08-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [6 June 2023](2023-06-06-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
 | [6 June 2023](2023-06-06-Euromedia.html) | Euromedia | 0 | 0 | 0 | 0 | 0–4 |
+| [4–5 June 2023](2023-06-05-Tecné.html) | Tecné <br> Agenzia Dire |  |  |  |  |  |
 | [5 June 2023](2023-06-05-SWG.html) | SWG <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [3 June 2023](2023-06-03-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0–4 | 0–4 |
 | [1 June 2023](2023-06-01-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
@@ -1641,6 +1685,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [30 March 2023](2023-03-30-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [29 March 2023](2023-03-29-IndexResearch.html) | Index Research <br> La7 | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [29 March 2023](2023-03-29-Euromedia.html) | Euromedia | 0 | 0 | 0 | 0 | 0–4 |
+| [26–27 March 2023](2023-03-27-Tecné.html) | Tecné <br> Agenzia Dire |  |  |  |  |  |
 | [22–27 March 2023](2023-03-27-SWG.html) | SWG <br> La7 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [23–24 March 2023](2023-03-24-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [24 March 2023](2023-03-24-Piepoli.html) | Piepoli | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
@@ -1729,6 +1774,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [6–12 January 2023](2023-01-12-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
 | [12 January 2023](2023-01-12-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [10–11 January 2023](2023-01-11-Euromedia.html) | Euromedia |  |  |  |  |  |
+| [10 January 2023](2023-01-10-Piepoli.html) | Piepoli |  |  |  |  |  |
 | [4–9 January 2023](2023-01-09-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [2–5 January 2023](2023-01-05-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
 | [4 January 2023](2023-01-04-EMG.html) | EMG <br> Rai 3 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
@@ -1819,6 +1865,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [6–8 September 2022](2022-09-08-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [6–8 September 2022](2022-09-08-Tecnè.html) | Tecnè <br> Canale 5 | 0 | 0 | 0 | 0–3 | 0–4 |
 | [7–8 September 2022](2022-09-08-IZI.html) | IZI | 4 | 0–4 | 0–4 | 0–5 | 0–5 |
+| [8 September 2022](2022-09-08-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano |  |  |  |  |  |
 | [6–7 September 2022](2022-09-07-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0 | 0–4 |
 | [6–7 September 2022](2022-09-07-IndexResearch.html) | Index Research | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [3–7 September 2022](2022-09-07-Hokuto.html) | Hokuto | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
@@ -1867,6 +1914,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [17 August 2022](2022-08-17-NotoSondaggi.html) | Noto Sondaggi | 0 | 0 | 0 | 0 | 0 |
 | [11–14 August 2022](2022-08-14-GDC.html) | GDC |  |  |  |  |  |
 | [6–12 August 2022](2022-08-12-Lab2101.html) | Lab2101 <br> Affari Italiani | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [12 August 2022](2022-08-12-EnzoRisso.html) | Enzo Risso |  |  |  |  |  |
 | [8–11 August 2022](2022-08-11-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
 | [10–11 August 2022](2022-08-11-Demopolis.html) | Demopolis | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [8–9 August 2022](2022-08-09-EMG.html) | EMG |  |  |  |  |  |
@@ -2379,7 +2427,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [1 December 2020](2020-12-01-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [25–30 November 2020](2020-11-30-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [27 November 2020](2020-11-27-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
-| [26–27 November 2020](2020-11-27-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 |  |  |  |  |  |
+| [25–27 November 2020](2020-11-27-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
 | [24–26 November 2020](2020-11-26-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [25–26 November 2020](2020-11-26-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
 | [22–25 November 2020](2020-11-25-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
@@ -2854,7 +2902,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [17–18 July 2019](2019-07-18-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
 | [16–18 July 2019](2019-07-18-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
 | [15–18 July 2019](2019-07-18-GPF.html) | GPF <br> La Notizia |  |  |  |  |  |
-| [10–15 July 2019](2019-07-15-SWG.html) | SWG <br> LA7 |  |  |  |  |  |
+| [10–15 July 2019](2019-07-15-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [15 July 2019](2019-07-15-Piepoli.html) | Piepoli <br> Rai 1 |  |  |  |  |  |
 | [9–12 July 2019](2019-07-12-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [10–11 July 2019](2019-07-11-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
@@ -2863,6 +2911,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [7–8 July 2019](2019-07-08-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
 | [3–8 July 2019](2019-07-08-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [5 July 2019](2019-07-05-NotoSondaggi.html) | Noto Sondaggi <br> Quotidiano Nazionale |  |  |  |  |  |
+| [1–5 July 2019](2019-07-05-Eumetra.html) | Eumetra <br> Affari Italiani |  |  |  |  |  |
 | [1–4 July 2019](2019-07-04-TermometroPolitico.html) | Termometro Politico <br> La7 |  |  |  |  |  |
 | [29 June–4 July 2019](2019-07-04-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
 | [26 June–1 July 2019](2019-07-01-SWG.html) | SWG <br> La7 |  |  |  |  |  |
@@ -2874,17 +2923,18 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [19–20 June 2019](2019-06-20-Demopolis.html) | Demopolis <br> La7 |  |  |  |  |  |
 | [1–18 June 2019](2019-06-18-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 |  |  |  |  |  |
 | [18 June 2019](2019-06-18-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
-| [12–17 June 2019](2019-06-17-SWG.html) | SWG <br> LA7 |  |  |  |  |  |
-| [13 June 2019](2019-06-13-IndexResearch.html) | Index Research <br> LA7 |  |  |  |  |  |
+| [12–17 June 2019](2019-06-17-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [13 June 2019](2019-06-13-IndexResearch.html) | Index Research <br> La7 |  |  |  |  |  |
 | [11 June 2019](2019-06-11-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [9–10 June 2019](2019-06-10-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
 | [5–10 June 2019](2019-06-10-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [10 June 2019](2019-06-10-Piepoli.html) | Piepoli <br> Rai 1 |  |  |  |  |  |
 | [1–10 June 2019](2019-06-10-NotoSondaggi.html) | Noto Sondaggi <br> Rai 3 |  |  |  |  |  |
 | [10 June 2019](2019-06-10-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
+| [1–9 June 2019](2019-06-09-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [1–7 June 2019](2019-06-07-IndexResearch.html) | Index Research <br> La7 |  |  |  |  |  |
 | [2–3 June 2019](2019-06-03-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
-| [29 May–3 June 2019](2019-06-03-SWG.html) | SWG <br> LA7 |  |  |  |  |  |
+| [29 May–3 June 2019](2019-06-03-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [1 June 2019](2019-06-01-EMG.html) | EMG <br> Affari Internazionali |  |  |  |  |  |
 | [30 May 2019](2019-05-30-Piepoli.html) | Piepoli <br> Rai 1 |  |  |  |  |  |
 | [28–29 May 2019](2019-05-29-ScenariPolitici–Winpoll.html) | Scenari Politici–Winpoll |  |  |  |  |  |
@@ -2897,13 +2947,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 65% | 100% | Last Result, Median |
-| 1 | 0% | 35% |  |
-| 2 | 0% | 35% |  |
-| 3 | 5% | 35% |  |
-| 4 | 25% | 31% |  |
-| 5 | 5% | 5% |  |
-| 6 | 0.2% | 0.2% |  |
+| 0 | 72% | 100% | Last Result, Median |
+| 1 | 0% | 28% |  |
+| 2 | 0% | 28% |  |
+| 3 | 5% | 28% |  |
+| 4 | 20% | 23% |  |
+| 5 | 3% | 3% |  |
+| 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
 
 
