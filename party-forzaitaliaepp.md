@@ -1528,14 +1528,14 @@ Last result: **13** seats (General Election of 26 May 2019)
 | [21 September 2023](2023-09-21-Piepoli.html) | Piepoli |  |  |  |  |  |
 | [17–21 September 2023](2023-09-21-Lab2101.html) | Lab2101 <br> Affari Italiani | 5 | 4–5 | 3–6 | 3–6 | 3–7 |
 | [18–20 September 2023](2023-09-20-TermometroPolitico.html) | Termometro Politico <br> La7 | 4 | 4 | 3–5 | 3–5 | 3–5 |
-| [19–20 September 2023](2023-09-20-EMG.html) | EMG <br> Rai 3 | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
-| [18–20 September 2023](2023-09-20-DemosPi.html) | Demos & Pi <br> La Repubblica | 5 | 4–6 | 3–6 | 3–6 | 3–6 |
-| [19 September 2023](2023-09-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
-| [19 September 2023](2023-09-19-Euromedia.html) | Euromedia | 5 | 4–6 | 4–6 | 4–7 | 3–8 |
+| [19–20 September 2023](2023-09-20-EMG.html) | EMG <br> Rai 3 | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
+| [18–20 September 2023](2023-09-20-DemosPi.html) | Demos & Pi <br> La Repubblica | 4 | 4–5 | 3–6 | 3–6 | 3–6 |
+| [19 September 2023](2023-09-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
+| [19 September 2023](2023-09-19-Euromedia.html) | Euromedia | 5 | 5–6 | 4–6 | 4–6 | 3–6 |
 | [13–18 September 2023](2023-09-18-SWG.html) | SWG <br> La7 | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
-| [14–15 September 2023](2023-09-15-Tecné.html) | Tecné <br> Agenzia Dire | 8 | 7–8 | 6–9 | 6–9 | 5–10 |
+| [14–15 September 2023](2023-09-15-Tecné.html) | Tecné <br> Agenzia Dire | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
 | [12–14 September 2023](2023-09-14-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [14 September 2023](2023-09-14-Ixè.html) | Ixè | 4 | 3–6 | 3–6 | 3–6 | 2–6 |
+| [14 September 2023](2023-09-14-Ixè.html) | Ixè | 4 | 3–5 | 3–6 | 3–6 | 3–6 |
 | [12–13 September 2023](2023-09-13-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
 | [11–13 September 2023](2023-09-13-Lab2101.html) | Lab2101 <br> Affari Italiani | 5 | 4–6 | 4–7 | 4–7 | 3–7 |
 | [12–13 September 2023](2023-09-13-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
@@ -1549,7 +1549,7 @@ Last result: **13** seats (General Election of 26 May 2019)
 | [5–7 September 2023](2023-09-07-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [6–7 September 2023](2023-09-07-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
 | [2–7 September 2023](2023-09-07-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
-| [5–7 September 2023](2023-09-07-Ipsos.html) | Ipsos <br> Corriere della Sera | 5 | 4–6 | 4–7 | 4–7 | 3–7 |
+| [5–7 September 2023](2023-09-07-Ipsos.html) | Ipsos <br> Corriere della Sera | 4 | 4–5 | 4–5 | 4–6 | 3–6 |
 | [3–4 September 2023](2023-09-04-Tecné.html) | Tecné <br> Agenzia Dire |  |  |  |  |  |
 | [4 September 2023](2023-09-04-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [1 September 2023](2023-09-01-Tecné.html) | Tecné <br> Agenzia Dire | 8 | 7–9 | 7–10 | 6–10 | 6–10 |
@@ -2976,12 +2976,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0.1% | 99.9% |  |
 | 3 | 3% | 99.8% |  |
 | 4 | 30% | 96% |  |
-| 5 | 36% | 66% | Median |
-| 6 | 14% | 30% |  |
-| 7 | 11% | 16% |  |
-| 8 | 4% | 5% |  |
-| 9 | 0.7% | 0.8% |  |
-| 10 | 0.1% | 0.1% |  |
+| 5 | 38% | 66% | Median |
+| 6 | 14% | 29% |  |
+| 7 | 12% | 15% |  |
+| 8 | 3% | 3% |  |
+| 9 | 0.6% | 0.6% |  |
+| 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |
 | 13 | 0% | 0% | Last Result |

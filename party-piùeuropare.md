@@ -1523,7 +1523,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [19–20 September 2023](2023-09-20-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [18–20 September 2023](2023-09-20-DemosPi.html) | Demos & Pi <br> La Repubblica | 0 | 0 | 0 | 0 | 0–3 |
 | [19 September 2023](2023-09-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
-| [19 September 2023](2023-09-19-Euromedia.html) | Euromedia | 0 | 0 | 0 | 0 | 0–3 |
+| [19 September 2023](2023-09-19-Euromedia.html) | Euromedia | 0 | 0 | 0 | 0 | 0 |
 | [13–18 September 2023](2023-09-18-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [14–15 September 2023](2023-09-15-Tecné.html) | Tecné <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
 | [12–14 September 2023](2023-09-14-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
@@ -2967,7 +2967,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 0.5% |  |
 | 2 | 0% | 0.5% |  |
 | 3 | 0.2% | 0.5% |  |
-| 4 | 0.2% | 0.3% |  |
+| 4 | 0.2% | 0.2% |  |
 | 5 | 0% | 0% |  |
 
 

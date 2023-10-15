@@ -1520,7 +1520,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25 | 22–27 | 22–28 | 21–28 | 21–29 |
+| N/A | [Poll Average](average.html) | 25 | 22–27 | 21–28 | 21–28 | 20–29 |
 | [12–13 October 2023](2023-10-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 25 | 22–25 | 21–26 | 21–26 | 20–27 |
 | [7–11 October 2023](2023-10-11-Lab2101.html) | Lab2101 <br> Affari Italiani | 25 | 23–26 | 23–26 | 23–28 | 22–28 |
 | [4–9 October 2023](2023-10-09-SWG.html) | SWG <br> La7 | 26 | 23–28 | 23–28 | 22–28 | 22–28 |
@@ -1546,14 +1546,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [21 September 2023](2023-09-21-Piepoli.html) | Piepoli |  |  |  |  |  |
 | [17–21 September 2023](2023-09-21-Lab2101.html) | Lab2101 <br> Affari Italiani | 24 | 24–26 | 23–27 | 23–28 | 22–29 |
 | [18–20 September 2023](2023-09-20-TermometroPolitico.html) | Termometro Politico <br> La7 | 22 | 21–23 | 21–23 | 21–24 | 21–24 |
-| [19–20 September 2023](2023-09-20-EMG.html) | EMG <br> Rai 3 | 24 | 23–28 | 22–28 | 22–28 | 21–28 |
-| [18–20 September 2023](2023-09-20-DemosPi.html) | Demos & Pi <br> La Repubblica | 24 | 22–25 | 22–26 | 21–27 | 20–27 |
-| [19 September 2023](2023-09-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 24 | 23–26 | 22–26 | 22–26 | 21–27 |
-| [19 September 2023](2023-09-19-Euromedia.html) | Euromedia | 24 | 22–26 | 22–26 | 21–27 | 20–29 |
+| [19–20 September 2023](2023-09-20-EMG.html) | EMG <br> Rai 3 | 22 | 21–24 | 21–25 | 21–26 | 21–27 |
+| [18–20 September 2023](2023-09-20-DemosPi.html) | Demos & Pi <br> La Repubblica | 23 | 22–25 | 21–26 | 21–26 | 20–26 |
+| [19 September 2023](2023-09-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 23 | 21–24 | 21–25 | 21–25 | 20–26 |
+| [19 September 2023](2023-09-19-Euromedia.html) | Euromedia | 25 | 22–25 | 22–25 | 22–25 | 21–26 |
 | [13–18 September 2023](2023-09-18-SWG.html) | SWG <br> La7 | 26 | 24–28 | 23–28 | 23–28 | 22–30 |
-| [14–15 September 2023](2023-09-15-Tecné.html) | Tecné <br> Agenzia Dire | 24 | 22–25 | 21–26 | 21–26 | 20–27 |
+| [14–15 September 2023](2023-09-15-Tecné.html) | Tecné <br> Agenzia Dire | 24 | 22–25 | 21–25 | 21–26 | 20–27 |
 | [12–14 September 2023](2023-09-14-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [14 September 2023](2023-09-14-Ixè.html) | Ixè | 26 | 25–28 | 24–29 | 24–29 | 23–30 |
+| [14 September 2023](2023-09-14-Ixè.html) | Ixè | 26 | 24–28 | 23–29 | 23–29 | 23–30 |
 | [12–13 September 2023](2023-09-13-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
 | [11–13 September 2023](2023-09-13-Lab2101.html) | Lab2101 <br> Affari Italiani | 25 | 23–27 | 22–28 | 22–28 | 22–29 |
 | [12–13 September 2023](2023-09-13-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
@@ -1567,7 +1567,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [5–7 September 2023](2023-09-07-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [6–7 September 2023](2023-09-07-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
 | [2–7 September 2023](2023-09-07-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
-| [5–7 September 2023](2023-09-07-Ipsos.html) | Ipsos <br> Corriere della Sera | 27 | 25–29 | 25–31 | 24–31 | 23–32 |
+| [5–7 September 2023](2023-09-07-Ipsos.html) | Ipsos <br> Corriere della Sera | 30 | 24–30 | 24–30 | 24–30 | 23–30 |
 | [3–4 September 2023](2023-09-04-Tecné.html) | Tecné <br> Agenzia Dire |  |  |  |  |  |
 | [4 September 2023](2023-09-04-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [1 September 2023](2023-09-01-Tecné.html) | Tecné <br> Agenzia Dire | 25 | 23–27 | 23–27 | 22–28 | 21–29 |
@@ -3008,16 +3008,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
 | 18 | 0% | 100% |  |
-| 19 | 0% | 100% |  |
-| 20 | 0.3% | 100% |  |
-| 21 | 3% | 99.6% |  |
-| 22 | 7% | 96% |  |
-| 23 | 14% | 89% |  |
-| 24 | 18% | 75% |  |
-| 25 | 29% | 56% | Median |
-| 26 | 9% | 27% |  |
-| 27 | 9% | 18% |  |
-| 28 | 8% | 9% |  |
+| 19 | 0.1% | 100% |  |
+| 20 | 0.5% | 99.9% |  |
+| 21 | 5% | 99.4% |  |
+| 22 | 11% | 94% |  |
+| 23 | 15% | 83% |  |
+| 24 | 17% | 68% |  |
+| 25 | 27% | 51% | Median |
+| 26 | 8% | 24% |  |
+| 27 | 9% | 16% |  |
+| 28 | 6% | 8% |  |
 | 29 | 1.2% | 1.4% |  |
 | 30 | 0.2% | 0.2% |  |
 | 31 | 0% | 0% |  |
