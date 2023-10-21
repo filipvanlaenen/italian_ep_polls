@@ -11,11 +11,14 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.3% | 0.9–1.9% | 0.8–2.1% | 0.7–2.3% | 0.5–2.7% |
+| [17–18 October 2023](2023-10-18-Eumetra.html) | Eumetra <br> La7 | 1.5% | 1.1–2.2% | 1.0–2.4% | 0.9–2.6% | 0.7–3.0% |
+| [17 October 2023](2023-10-17-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 1.1% | 0.8–1.7% | 0.7–1.8% | 0.6–2.0% | 0.5–2.3% |
 | [11–16 October 2023](2023-10-16-SWG.html) | SWG <br> La7 | 1.3% | 1.0–1.9% | 0.9–2.0% | 0.8–2.2% | 0.7–2.5% |
 | [12–13 October 2023](2023-10-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 1.2% | 0.9–1.8% | 0.8–1.9% | 0.7–2.1% | 0.5–2.4% |
 | [10–12 October 2023](2023-10-12-TermometroPolitico.html) | Termometro Politico | 1.1% | 0.9–1.3% | 0.8–1.4% | 0.8–1.4% | 0.7–1.6% |
 | [11–12 October 2023](2023-10-12-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 1.4% | 1.0–2.1% | 0.9–2.3% | 0.8–2.4% | 0.6–2.8% |
 | [7–11 October 2023](2023-10-11-Lab2101.html) | Lab2101 <br> Affari Italiani | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.3% | 0.7–2.7% |
+| [10–11 October 2023](2023-10-11-Eumetra.html) | Eumetra <br> La7 | 1.2% | N/A | N/A | N/A | N/A |
 | [4–9 October 2023](2023-10-09-SWG.html) | SWG <br> La7 | 1.2% | 0.9–1.7% | 0.8–1.8% | 0.7–2.0% | 0.6–2.2% |
 | [5–6 October 2023](2023-10-06-Tecnè.html) | Tecnè <br> Agenzia Dire | 1.2% | 0.9–1.8% | 0.8–1.9% | 0.7–2.1% | 0.5–2.4% |
 | [4–5 October 2023](2023-10-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 1.5% | 1.1–2.2% | 1.0–2.4% | 0.9–2.6% | 0.7–3.0% |
@@ -962,7 +965,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [1 December 2020](2020-12-01-EMG.html) | EMG <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
 | [25–30 November 2020](2020-11-30-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [27 November 2020](2020-11-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
-| [25–27 November 2020](2020-11-27-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.0% | N/A | N/A | N/A | N/A |
+| [26–27 November 2020](2020-11-27-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
 | [24–26 November 2020](2020-11-26-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
 | [25–26 November 2020](2020-11-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.0% | N/A | N/A | N/A | N/A |
 | [22–25 November 2020](2020-11-25-BiDiMedia.html) | BiDiMedia | 0.0% | N/A | N/A | N/A | N/A |
@@ -1481,9 +1484,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0.5% | 100% | Last Result |
-| 0.5–1.5% | 72% | 99.5% | Median |
-| 1.5–2.5% | 27% | 28% |  |
-| 2.5–3.5% | 0.9% | 0.9% |  |
+| 0.5–1.5% | 70% | 99.5% | Median |
+| 1.5–2.5% | 28% | 29% |  |
+| 2.5–3.5% | 1.0% | 1.0% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -1496,11 +1499,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 0–2 | 0–2 | 0–3 |
+| [17–18 October 2023](2023-10-18-Eumetra.html) | Eumetra <br> La7 | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
+| [17 October 2023](2023-10-17-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [11–16 October 2023](2023-10-16-SWG.html) | SWG <br> La7 | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | [12–13 October 2023](2023-10-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | [10–12 October 2023](2023-10-12-TermometroPolitico.html) | Termometro Politico | 1 | 1 | 1 | 1 | 1 |
 | [11–12 October 2023](2023-10-12-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | [7–11 October 2023](2023-10-11-Lab2101.html) | Lab2101 <br> Affari Italiani | 1 | 1 | 1 | 1–2 | 0–3 |
+| [10–11 October 2023](2023-10-11-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [4–9 October 2023](2023-10-09-SWG.html) | SWG <br> La7 | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | [5–6 October 2023](2023-10-06-Tecnè.html) | Tecnè <br> Agenzia Dire | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | [4–5 October 2023](2023-10-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -2447,7 +2453,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [1 December 2020](2020-12-01-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [25–30 November 2020](2020-11-30-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [27 November 2020](2020-11-27-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
-| [25–27 November 2020](2020-11-27-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
+| [26–27 November 2020](2020-11-27-Quorum–YouTrend.html) | Quorum – YouTrend <br> Rai 3 |  |  |  |  |  |
 | [24–26 November 2020](2020-11-26-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [25–26 November 2020](2020-11-26-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
 | [22–25 November 2020](2020-11-25-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
@@ -2967,10 +2973,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 6% | 100% | Last Result |
-| 1 | 78% | 94% | Median |
-| 2 | 16% | 16% |  |
-| 3 | 0.5% | 0.5% |  |
+| 0 | 5% | 100% | Last Result |
+| 1 | 77% | 95% | Median |
+| 2 | 17% | 18% |  |
+| 3 | 0.6% | 0.6% |  |
 | 4 | 0% | 0% |  |
 
 
