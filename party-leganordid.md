@@ -10,8 +10,11 @@ Last result: **6.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.5% | 8.1–11.2% | 7.6–11.7% | 7.3–12.1% | 6.6–12.9% |
+| N/A | [Poll Average](average.html) | 9.6% | 8.1–11.2% | 7.6–11.7% | 7.3–12.1% | 6.6–12.9% |
+| [11–16 October 2023](2023-10-16-SWG.html) | SWG <br> La7 | 10.2% | 9.1–11.4% | 8.8–11.7% | 8.6–12.0% | 8.1–12.6% |
 | [12–13 October 2023](2023-10-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 9.2% | 8.1–10.5% | 7.8–10.8% | 7.6–11.2% | 7.1–11.8% |
+| [10–12 October 2023](2023-10-12-TermometroPolitico.html) | Termometro Politico | 9.6% | 9.0–10.3% | 8.8–10.4% | 8.7–10.6% | 8.4–10.9% |
+| [11–12 October 2023](2023-10-12-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 9.4% | 8.2–10.8% | 7.8–11.2% | 7.5–11.6% | 7.0–12.3% |
 | [7–11 October 2023](2023-10-11-Lab2101.html) | Lab2101 <br> Affari Italiani | 11.1% | 9.9–12.5% | 9.6–12.9% | 9.3–13.2% | 8.7–13.9% |
 | [4–9 October 2023](2023-10-09-SWG.html) | SWG <br> La7 | 10.3% | 9.3–11.6% | 9.0–11.9% | 8.7–12.2% | 8.2–12.8% |
 | [5–6 October 2023](2023-10-06-Tecnè.html) | Tecnè <br> Agenzia Dire | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
@@ -479,7 +482,7 @@ Last result: **6.2%** (General Election of 26 May 2019)
 | [15–16 July 2022](2022-07-16-Euromedia.html) | Euromedia <br> La Stampa | 14.6% | 13.2–16.1% | 12.9–16.6% | 12.5–16.9% | 11.9–17.7% |
 | [15 July 2022](2022-07-15-Tecnè.html) | Tecnè <br> Agenzia Dire | 14.5% | N/A | N/A | N/A | N/A |
 | [13–14 July 2022](2022-07-14-TermometroPolitico.html) | Termometro Politico | 16.0% | 15.2–16.8% | 15.0–17.1% | 14.8–17.3% | 14.4–17.7% |
-| [11–14 July 2022](2022-07-14-BiDiMedia.html) | BiDiMedia | 14.3% | 13.3–15.3% | 13.0–15.6% | 12.8–15.9% | 12.3–16.4% |
+| [11–14 July 2022](2022-07-14-BiDiMedia.html) | BiDiMedia | 14.2% | 13.3–15.3% | 13.0–15.6% | 12.8–15.9% | 12.3–16.4% |
 | [6–11 July 2022](2022-07-11-SWG.html) | SWG <br> La7 | 14.5% | 13.3–15.9% | 12.9–16.3% | 12.6–16.6% | 12.0–17.3% |
 | [8 July 2022](2022-07-08-Tecnè.html) | Tecnè <br> Agenzia Dire | 14.1% | 12.8–15.6% | 12.4–16.0% | 12.1–16.4% | 11.5–17.1% |
 | [6–7 July 2022](2022-07-07-TermometroPolitico.html) | Termometro Politico | 16.3% | N/A | N/A | N/A | N/A |
@@ -1480,12 +1483,12 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0.4% | 100% | Last Result |
 | 6.5–7.5% | 4% | 99.6% |  |
-| 7.5–8.5% | 15% | 96% |  |
-| 8.5–9.5% | 31% | 81% |  |
-| 9.5–10.5% | 29% | 50% | Median |
+| 7.5–8.5% | 14% | 96% |  |
+| 8.5–9.5% | 30% | 81% |  |
+| 9.5–10.5% | 30% | 51% | Median |
 | 10.5–11.5% | 15% | 21% |  |
 | 11.5–12.5% | 5% | 6% |  |
-| 12.5–13.5% | 0.9% | 1.0% |  |
+| 12.5–13.5% | 1.0% | 1.1% |  |
 | 13.5–14.5% | 0.1% | 0.1% |  |
 | 14.5–15.5% | 0% | 0% |  |
 
@@ -1499,7 +1502,10 @@ Last result: **5** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 7–9 | 6–10 | 6–10 | 5–11 |
+| [11–16 October 2023](2023-10-16-SWG.html) | SWG <br> La7 | 9 | 8–10 | 8–10 | 7–10 | 7–11 |
 | [12–13 October 2023](2023-10-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 8 | 7–8 | 6–9 | 6–9 | 6–10 |
+| [10–12 October 2023](2023-10-12-TermometroPolitico.html) | Termometro Politico | 9 | 8–9 | 8–10 | 8–10 | 8–10 |
+| [11–12 October 2023](2023-10-12-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 9 | 8–9 | 8–9 | 6–10 | 6–10 |
 | [7–11 October 2023](2023-10-11-Lab2101.html) | Lab2101 <br> Affari Italiani | 9 | 9–10 | 8–10 | 8–11 | 8–12 |
 | [4–9 October 2023](2023-10-09-SWG.html) | SWG <br> La7 | 8 | 8–9 | 8–10 | 8–11 | 7–12 |
 | [5–6 October 2023](2023-10-06-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 6–9 | 6–9 | 6–9 | 6–10 |
@@ -2969,12 +2975,12 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.9% | 100% | Last Result |
 | 6 | 8% | 99.1% |  |
-| 7 | 24% | 91% |  |
-| 8 | 37% | 67% | Median |
-| 9 | 24% | 30% |  |
-| 10 | 5% | 6% |  |
-| 11 | 0.7% | 0.9% |  |
-| 12 | 0.2% | 0.2% |  |
+| 7 | 22% | 91% |  |
+| 8 | 30% | 69% | Median |
+| 9 | 33% | 40% |  |
+| 10 | 6% | 7% |  |
+| 11 | 0.7% | 0.8% |  |
+| 12 | 0.1% | 0.1% |  |
 | 13 | 0% | 0% |  |
 
 
