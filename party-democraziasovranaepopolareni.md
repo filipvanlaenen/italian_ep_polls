@@ -11,7 +11,16 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.3% | 0.7–1.7% | 0.6–1.8% | 0.5–1.9% | 0.4–2.1% |
+| [18–23 October 2023](2023-10-23-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [23 October 2023](2023-10-23-Euromedia.html) | Euromedia <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
+| [19–20 October 2023](2023-10-20-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
+| [18–20 October 2023](2023-10-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.0% | N/A | N/A | N/A | N/A |
+| [15–19 October 2023](2023-10-19-Lab2101.html) | Lab2101 <br> Affari Italiani | 0.0% | N/A | N/A | N/A | N/A |
+| [18–19 October 2023](2023-10-19-IndexResearch.html) | Index Research <br> Giornale Radio | 0.0% | N/A | N/A | N/A | N/A |
+| [19 October 2023](2023-10-19-Euromedia.html) | Euromedia <br> La Stampa | 0.0% | N/A | N/A | N/A | N/A |
 | [17–18 October 2023](2023-10-18-Eumetra.html) | Eumetra <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [17–18 October 2023](2023-10-18-Demopolis.html) | Demopolis | 0.0% | N/A | N/A | N/A | N/A |
+| [13–17 October 2023](2023-10-17-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.0% | N/A | N/A | N/A | N/A |
 | [17 October 2023](2023-10-17-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
 | [11–16 October 2023](2023-10-16-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [12–13 October 2023](2023-10-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
@@ -1498,7 +1507,16 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [18–23 October 2023](2023-10-23-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [23 October 2023](2023-10-23-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
+| [19–20 October 2023](2023-10-20-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [18–20 October 2023](2023-10-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
+| [15–19 October 2023](2023-10-19-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
+| [18–19 October 2023](2023-10-19-IndexResearch.html) | Index Research <br> Giornale Radio |  |  |  |  |  |
+| [19 October 2023](2023-10-19-Euromedia.html) | Euromedia <br> La Stampa |  |  |  |  |  |
 | [17–18 October 2023](2023-10-18-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
+| [17–18 October 2023](2023-10-18-Demopolis.html) | Demopolis |  |  |  |  |  |
+| [13–17 October 2023](2023-10-17-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
 | [17 October 2023](2023-10-17-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
 | [11–16 October 2023](2023-10-16-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [12–13 October 2023](2023-10-13-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
