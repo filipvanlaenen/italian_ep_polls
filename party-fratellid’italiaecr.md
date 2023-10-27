@@ -10,9 +10,10 @@ Last result: **3.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.3% | 26.9–31.4% | 26.3–32.0% | 25.7–32.5% | 24.7–33.5% |
+| N/A | [Poll Average](average.html) | 29.2% | 26.9–31.4% | 26.2–32.0% | 25.7–32.6% | 24.5–33.7% |
 | [18–23 October 2023](2023-10-23-SWG.html) | SWG <br> La7 | 28.7% | 27.0–30.4% | 26.6–30.9% | 26.2–31.3% | 25.4–32.1% |
 | [23 October 2023](2023-10-23-Euromedia.html) | Euromedia <br> Rai 1 | 29.0% | 27.0–31.1% | 26.4–31.7% | 26.0–32.3% | 25.0–33.3% |
+| [18–20 October 2023](2023-10-20-TermometroPolitico.html) | Termometro Politico | 29.7% | 28.8–30.7% | 28.5–30.9% | 28.3–31.1% | 27.9–31.6% |
 | [19–20 October 2023](2023-10-20-Tecnè.html) | Tecnè <br> Agenzia Dire | 29.0% | 27.2–30.9% | 26.7–31.4% | 26.3–31.9% | 25.4–32.8% |
 | [18–20 October 2023](2023-10-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 29.8% | 27.7–31.9% | 27.2–32.5% | 26.7–33.0% | 25.7–34.0% |
 | [15–19 October 2023](2023-10-19-Lab2101.html) | Lab2101 <br> Affari Italiani | 29.3% | 27.5–31.2% | 27.0–31.7% | 26.6–32.2% | 25.7–33.1% |
@@ -21,6 +22,7 @@ Last result: **3.7%** (General Election of 26 May 2019)
 | [17–18 October 2023](2023-10-18-Eumetra.html) | Eumetra <br> La7 | 28.0% | 26.0–30.1% | 25.5–30.7% | 25.0–31.2% | 24.1–32.3% |
 | [17–18 October 2023](2023-10-18-Demopolis.html) | Demopolis | 31.1% | 29.7–32.5% | 29.3–32.9% | 29.0–33.2% | 28.4–33.9% |
 | [13–17 October 2023](2023-10-17-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 30.0% | N/A | N/A | N/A | N/A |
+| [17 October 2023](2023-10-17-Piepoli.html) | Piepoli | 28.9% | 26.0–32.2% | 25.2–33.1% | 24.5–33.9% | 23.1–35.4% |
 | [17 October 2023](2023-10-17-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 28.0% | 26.2–29.9% | 25.7–30.4% | 25.3–30.9% | 24.5–31.8% |
 | [11–16 October 2023](2023-10-16-SWG.html) | SWG <br> La7 | 28.4% | 26.8–30.1% | 26.3–30.6% | 25.9–31.0% | 25.2–31.9% |
 | [12–13 October 2023](2023-10-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 28.8% | 27.0–30.7% | 26.5–31.2% | 26.1–31.7% | 25.2–32.6% |
@@ -30,6 +32,7 @@ Last result: **3.7%** (General Election of 26 May 2019)
 | [10–11 October 2023](2023-10-11-Eumetra.html) | Eumetra <br> La7 | 28.4% | N/A | N/A | N/A | N/A |
 | [4–9 October 2023](2023-10-09-SWG.html) | SWG <br> La7 | 28.7% | 27.0–30.4% | 26.6–30.9% | 26.2–31.3% | 25.4–32.1% |
 | [5–6 October 2023](2023-10-06-Tecnè.html) | Tecnè <br> Agenzia Dire | 28.7% | 26.9–30.6% | 26.4–31.1% | 26.0–31.6% | 25.1–32.5% |
+| [6 October 2023](2023-10-06-Piepoli.html) | Piepoli | 28.4% | N/A | N/A | N/A | N/A |
 | [4–5 October 2023](2023-10-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 29.9% | 27.9–32.1% | 27.3–32.6% | 26.8–33.2% | 25.9–34.2% |
 | [5 October 2023](2023-10-05-Lab2101.html) | Lab2101 <br> Affari Italiani | 29.1% | N/A | N/A | N/A | N/A |
 | [3–5 October 2023](2023-10-05-Ipsos.html) | Ipsos <br> Corriere della Sera | 29.8% | 28.0–31.7% | 27.5–32.3% | 27.0–32.7% | 26.2–33.6% |
@@ -1511,18 +1514,18 @@ The following table shows the probability mass function per percentage block of 
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0% | 100% |  |
 | 21.5–22.5% | 0% | 100% |  |
-| 22.5–23.5% | 0% | 100% |  |
-| 23.5–24.5% | 0.3% | 99.9% |  |
-| 24.5–25.5% | 2% | 99.6% |  |
+| 22.5–23.5% | 0.1% | 100% |  |
+| 23.5–24.5% | 0.4% | 99.9% |  |
+| 24.5–25.5% | 2% | 99.5% |  |
 | 25.5–26.5% | 5% | 98% |  |
 | 26.5–27.5% | 11% | 93% |  |
 | 27.5–28.5% | 17% | 82% |  |
 | 28.5–29.5% | 22% | 65% | Median |
 | 29.5–30.5% | 21% | 43% |  |
 | 30.5–31.5% | 13% | 22% |  |
-| 31.5–32.5% | 6% | 8% |  |
-| 32.5–33.5% | 2% | 2% |  |
-| 33.5–34.5% | 0.4% | 0.5% |  |
+| 31.5–32.5% | 6% | 9% |  |
+| 32.5–33.5% | 2% | 3% |  |
+| 33.5–34.5% | 0.5% | 0.6% |  |
 | 34.5–35.5% | 0.1% | 0.1% |  |
 | 35.5–36.5% | 0% | 0% |  |
 
@@ -1535,9 +1538,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24 | 22–27 | 22–27 | 21–28 | 20–29 |
+| N/A | [Poll Average](average.html) | 24 | 22–27 | 21–27 | 21–28 | 20–29 |
 | [18–23 October 2023](2023-10-23-SWG.html) | SWG <br> La7 | 25 | 22–27 | 22–27 | 22–27 | 22–29 |
 | [23 October 2023](2023-10-23-Euromedia.html) | Euromedia <br> Rai 1 | 25 | 23–27 | 23–27 | 22–28 | 21–30 |
+| [18–20 October 2023](2023-10-20-TermometroPolitico.html) | Termometro Politico | 26 | 25–27 | 25–27 | 25–28 | 25–28 |
 | [19–20 October 2023](2023-10-20-Tecnè.html) | Tecnè <br> Agenzia Dire | 24 | 22–26 | 22–26 | 21–27 | 20–27 |
 | [18–20 October 2023](2023-10-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 23 | 23–26 | 23–27 | 23–28 | 21–29 |
 | [15–19 October 2023](2023-10-19-Lab2101.html) | Lab2101 <br> Affari Italiani | 25 | 22–27 | 22–27 | 22–28 | 22–28 |
@@ -1546,6 +1550,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [17–18 October 2023](2023-10-18-Eumetra.html) | Eumetra <br> La7 | 25 | 22–26 | 21–27 | 21–27 | 20–29 |
 | [17–18 October 2023](2023-10-18-Demopolis.html) | Demopolis | 24 | 23–26 | 22–26 | 22–26 | 22–26 |
 | [13–17 October 2023](2023-10-17-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
+| [17 October 2023](2023-10-17-Piepoli.html) | Piepoli | 25 | 24–26 | 22–26 | 21–27 | 20–28 |
 | [17 October 2023](2023-10-17-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 22 | 21–26 | 21–26 | 20–27 | 20–28 |
 | [11–16 October 2023](2023-10-16-SWG.html) | SWG <br> La7 | 25 | 22–26 | 22–26 | 22–27 | 21–27 |
 | [12–13 October 2023](2023-10-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 25 | 22–25 | 21–26 | 21–26 | 20–27 |
@@ -1555,6 +1560,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [10–11 October 2023](2023-10-11-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [4–9 October 2023](2023-10-09-SWG.html) | SWG <br> La7 | 26 | 23–28 | 23–28 | 22–28 | 22–28 |
 | [5–6 October 2023](2023-10-06-Tecnè.html) | Tecnè <br> Agenzia Dire | 24 | 22–26 | 21–26 | 21–26 | 20–27 |
+| [6 October 2023](2023-10-06-Piepoli.html) | Piepoli |  |  |  |  |  |
 | [4–5 October 2023](2023-10-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 25 | 23–26 | 23–27 | 23–28 | 21–29 |
 | [5 October 2023](2023-10-05-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
 | [3–5 October 2023](2023-10-05-Ipsos.html) | Ipsos <br> Corriere della Sera | 26 | 24–27 | 24–27 | 24–27 | 23–28 |
@@ -3039,16 +3045,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 0% | 100% |  |
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
-| 20 | 0.6% | 100% |  |
-| 21 | 4% | 99.4% |  |
+| 20 | 0.6% | 99.9% |  |
+| 21 | 5% | 99.4% |  |
 | 22 | 9% | 95% |  |
-| 23 | 18% | 86% |  |
+| 23 | 17% | 85% |  |
 | 24 | 18% | 68% | Median |
-| 25 | 22% | 49% |  |
-| 26 | 12% | 28% |  |
-| 27 | 13% | 16% |  |
-| 28 | 1.5% | 3% |  |
-| 29 | 2% | 2% |  |
+| 25 | 21% | 50% |  |
+| 26 | 18% | 29% |  |
+| 27 | 8% | 11% |  |
+| 28 | 1.2% | 3% |  |
+| 29 | 1.5% | 2% |  |
 | 30 | 0.1% | 0.1% |  |
 | 31 | 0% | 0% |  |
 
