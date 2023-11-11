@@ -24,8 +24,8 @@ Last result: **6.2%** (General Election of 26 May 2019)
 | [27 October 2023](2023-10-27-IndexResearch.html) | Index Research <br> Giornale Radio | 10.0% | 8.7–11.5% | 8.4–11.9% | 8.1–12.3% | 7.5–13.0% |
 | [27 October 2023](2023-10-27-EMG.html) | EMG <br> Rai 3 | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
 | [24–26 October 2023](2023-10-26-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 9.2% | 8.0–10.7% | 7.7–11.1% | 7.4–11.4% | 6.9–12.2% |
-| [26 October 2023](2023-10-26-Euromedia.html) | Euromedia <br> Italpress | 8.0% | N/A | N/A | N/A | N/A |
-| [20–25 October 2023](2023-10-25-Lab2101.html) | Lab2101 <br> Affari Italiani | 11.1% | N/A | N/A | N/A | N/A |
+| [26 October 2023](2023-10-26-Euromedia.html) | Euromedia <br> Italpress | 8.0% | 6.9–9.4% | 6.6–9.8% | 6.3–10.1% | 5.8–10.8% |
+| [20–25 October 2023](2023-10-25-Lab2101.html) | Lab2101 <br> Affari Italiani | 11.1% | 9.9–12.5% | 9.6–12.9% | 9.3–13.2% | 8.7–13.9% |
 | [24–25 October 2023](2023-10-25-Eumetra.html) | Eumetra <br> La7 | 9.6% | 8.4–11.1% | 8.1–11.5% | 7.8–11.9% | 7.2–12.6% |
 | [18–23 October 2023](2023-10-23-SWG.html) | SWG <br> La7 | 10.2% | 9.1–11.4% | 8.8–11.7% | 8.6–12.0% | 8.1–12.6% |
 | [23 October 2023](2023-10-23-Euromedia.html) | Euromedia <br> Rai 1 | 8.5% | 7.3–9.9% | 7.0–10.3% | 6.8–10.6% | 6.2–11.4% |
@@ -1550,8 +1550,8 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [27 October 2023](2023-10-27-IndexResearch.html) | Index Research <br> Giornale Radio | 9 | 8–10 | 7–10 | 7–10 | 6–11 |
 | [27 October 2023](2023-10-27-EMG.html) | EMG <br> Rai 3 | 6 | 6–9 | 6–9 | 6–9 | 6–10 |
 | [24–26 October 2023](2023-10-26-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 8 | 7–9 | 7–9 | 6–10 | 5–10 |
-| [26 October 2023](2023-10-26-Euromedia.html) | Euromedia <br> Italpress |  |  |  |  |  |
-| [20–25 October 2023](2023-10-25-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
+| [26 October 2023](2023-10-26-Euromedia.html) | Euromedia <br> Italpress | 6 | 6–8 | 6–8 | 5–8 | 5–9 |
+| [20–25 October 2023](2023-10-25-Lab2101.html) | Lab2101 <br> Affari Italiani | 9 | 9–11 | 9–11 | 8–12 | 8–12 |
 | [24–25 October 2023](2023-10-25-Eumetra.html) | Eumetra <br> La7 | 8 | 7–9 | 7–9 | 7–10 | 6–11 |
 | [18–23 October 2023](2023-10-23-SWG.html) | SWG <br> La7 | 9 | 7–10 | 7–10 | 7–10 | 7–11 |
 | [23 October 2023](2023-10-23-Euromedia.html) | Euromedia <br> Rai 1 | 8 | 6–9 | 6–9 | 6–9 | 5–10 |
