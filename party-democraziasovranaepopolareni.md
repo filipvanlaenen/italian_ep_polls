@@ -10,14 +10,22 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.4% | 0.7–1.8% | 0.6–1.9% | 0.5–2.0% | 0.4–2.1% |
+| N/A | [Poll Average](average.html) | 1.4% | 0.8–1.8% | 0.7–1.9% | 0.6–2.0% | 0.5–2.2% |
+| [6 November 2023](2023-11-06-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [6 November 2023](2023-11-06-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.0% | N/A | N/A | N/A | N/A |
+| [2–4 November 2023](2023-11-04-BiDiMedia.html) | BiDiMedia | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [2–3 November 2023](2023-11-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [3 November 2023](2023-11-03-Ixè.html) | Ixè | 0.0% | N/A | N/A | N/A | N/A |
+| [2 November 2023](2023-11-02-Lab2101.html) | Lab2101 <br> Affari Italiani | 0.0% | N/A | N/A | N/A | N/A |
+| [2 November 2023](2023-11-02-Euromedia.html) | Euromedia <br> La Stampa | 0.0% | N/A | N/A | N/A | N/A |
+| [1 November 2023](2023-11-01-Eumetra.html) | Eumetra <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [25–30 October 2023](2023-10-30-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [26–27 October 2023](2023-10-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [27 October 2023](2023-10-27-IndexResearch.html) | Index Research <br> Giornale Radio | 0.0% | N/A | N/A | N/A | N/A |
 | [27 October 2023](2023-10-27-EMG.html) | EMG <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
 | [24–26 October 2023](2023-10-26-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.0% | N/A | N/A | N/A | N/A |
+| [26 October 2023](2023-10-26-Euromedia.html) | Euromedia <br> Italpress | 0.0% | N/A | N/A | N/A | N/A |
+| [20–25 October 2023](2023-10-25-Lab2101.html) | Lab2101 <br> Affari Italiani | 0.0% | N/A | N/A | N/A | N/A |
 | [24–25 October 2023](2023-10-25-Eumetra.html) | Eumetra <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [18–23 October 2023](2023-10-23-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [23 October 2023](2023-10-23-Euromedia.html) | Euromedia <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
@@ -1506,9 +1514,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 3% | 100% | Last Result |
-| 0.5–1.5% | 64% | 97% | Median |
-| 1.5–2.5% | 34% | 34% |  |
+| 0.0–0.5% | 1.2% | 100% | Last Result |
+| 0.5–1.5% | 63% | 98.8% | Median |
+| 1.5–2.5% | 36% | 36% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -1521,13 +1529,21 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [6 November 2023](2023-11-06-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [6 November 2023](2023-11-06-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
+| [2–4 November 2023](2023-11-04-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
 | [2–3 November 2023](2023-11-03-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [3 November 2023](2023-11-03-Ixè.html) | Ixè |  |  |  |  |  |
+| [2 November 2023](2023-11-02-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
+| [2 November 2023](2023-11-02-Euromedia.html) | Euromedia <br> La Stampa |  |  |  |  |  |
+| [1 November 2023](2023-11-01-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [25–30 October 2023](2023-10-30-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [26–27 October 2023](2023-10-27-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [27 October 2023](2023-10-27-IndexResearch.html) | Index Research <br> Giornale Radio |  |  |  |  |  |
 | [27 October 2023](2023-10-27-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [24–26 October 2023](2023-10-26-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
+| [26 October 2023](2023-10-26-Euromedia.html) | Euromedia <br> Italpress |  |  |  |  |  |
+| [20–25 October 2023](2023-10-25-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
 | [24–25 October 2023](2023-10-25-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [18–23 October 2023](2023-10-23-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [23 October 2023](2023-10-23-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
