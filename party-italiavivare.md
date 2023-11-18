@@ -10,12 +10,22 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.0% | 2.2–4.1% | 2.1–4.4% | 1.9–4.8% | 1.6–5.5% |
+| N/A | [Poll Average](average.html) | 3.0% | 2.3–4.1% | 2.1–4.5% | 1.9–4.8% | 1.6–5.5% |
+| [14–15 November 2023](2023-11-15-Eumetra.html) | Eumetra <br> La7 | 3.1% | 2.5–4.1% | 2.3–4.3% | 2.1–4.6% | 1.8–5.1% |
+| [8–13 November 2023](2023-11-13-SWG.html) | SWG <br> La7 | 3.0% | 2.5–3.7% | 2.3–3.9% | 2.2–4.1% | 1.9–4.5% |
+| [9–10 November 2023](2023-11-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
+| [7–9 November 2023](2023-11-09-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 2.5% | 1.9–3.4% | 1.8–3.6% | 1.6–3.8% | 1.4–4.3% |
+| [7–9 November 2023](2023-11-09-Ipsos.html) | Ipsos <br> Corriere della Sera | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
+| [6–9 November 2023](2023-11-09-DemosPi.html) | Demos & Pi <br> La Repubblica | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.2% | 1.8–4.6% |
+| [3–8 November 2023](2023-11-08-Lab2101.html) | Lab2101 <br> Affari Italiani | 3.5% | N/A | N/A | N/A | N/A |
+| [8 November 2023](2023-11-08-Eumetra.html) | Eumetra <br> La7 | 2.9% | N/A | N/A | N/A | N/A |
+| [7 November 2023](2023-11-07-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 3.0% | N/A | N/A | N/A | N/A |
 | [6 November 2023](2023-11-06-SWG.html) | SWG <br> La7 | 2.8% | 2.3–3.6% | 2.1–3.8% | 2.0–3.9% | 1.8–4.3% |
 | [6 November 2023](2023-11-06-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 2.6% | 2.0–3.5% | 1.9–3.7% | 1.7–4.0% | 1.5–4.4% |
 | [2–4 November 2023](2023-11-04-BiDiMedia.html) | BiDiMedia | 2.7% | 2.1–3.5% | 2.0–3.7% | 1.9–3.9% | 1.6–4.3% |
 | [2–3 November 2023](2023-11-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.8% | 2.2–3.6% | 2.1–3.8% | 1.9–4.0% | 1.7–4.4% |
 | [3 November 2023](2023-11-03-Ixè.html) | Ixè | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
+| [2 November 2023](2023-11-02-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 2.6% | N/A | N/A | N/A | N/A |
 | [2 November 2023](2023-11-02-Lab2101.html) | Lab2101 <br> Affari Italiani | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
 | [2 November 2023](2023-11-02-Euromedia.html) | Euromedia <br> La Stampa | 3.2% | 2.6–4.2% | 2.4–4.5% | 2.2–4.7% | 1.9–5.2% |
 | [1 November 2023](2023-11-01-Eumetra.html) | Eumetra <br> La7 | 2.9% | 2.2–3.8% | 2.1–4.1% | 1.9–4.3% | 1.7–4.8% |
@@ -1516,10 +1526,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0.3% | 100% |  |
-| 1.5–2.5% | 25% | 99.7% |  |
-| 2.5–3.5% | 52% | 75% | Median |
-| 3.5–4.5% | 19% | 23% |  |
-| 4.5–5.5% | 3% | 4% |  |
+| 1.5–2.5% | 23% | 99.7% |  |
+| 2.5–3.5% | 51% | 77% | Median |
+| 3.5–4.5% | 21% | 25% |  |
+| 4.5–5.5% | 4% | 4% |  |
 | 5.5–6.5% | 0.4% | 0.4% |  |
 | 6.5–7.5% | 0% | 0% |  |
 | 7.5–8.5% | 0% | 0% |  |
@@ -1533,12 +1543,22 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0–4 | 0–4 | 0–5 |
+| N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [14–15 November 2023](2023-11-15-Eumetra.html) | Eumetra <br> La7 | 0 | 0 | 0–4 | 0–4 | 0–5 |
+| [8–13 November 2023](2023-11-13-SWG.html) | SWG <br> La7 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [9–10 November 2023](2023-11-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
+| [7–9 November 2023](2023-11-09-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0–3 | 0–3 | 0–4 |
+| [7–9 November 2023](2023-11-09-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [6–9 November 2023](2023-11-09-DemosPi.html) | Demos & Pi <br> La Repubblica | 0 | 0 | 0 | 0–3 | 0–4 |
+| [3–8 November 2023](2023-11-08-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
+| [8 November 2023](2023-11-08-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
+| [7 November 2023](2023-11-07-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
 | [6 November 2023](2023-11-06-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [6 November 2023](2023-11-06-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0 | 0 | 0 |
 | [2–4 November 2023](2023-11-04-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0–4 |
 | [2–3 November 2023](2023-11-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0–3 |
 | [3 November 2023](2023-11-03-Ixè.html) | Ixè | 0 | 0 | 0 | 0 | 0 |
+| [2 November 2023](2023-11-02-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
 | [2 November 2023](2023-11-02-Lab2101.html) | Lab2101 <br> Affari Italiani | 0 | 0 | 0 | 0–3 | 0–4 |
 | [2 November 2023](2023-11-02-Euromedia.html) | Euromedia <br> La Stampa | 0 | 0 | 0 | 0–4 | 0–4 |
 | [1 November 2023](2023-11-01-Eumetra.html) | Eumetra <br> La7 | 0 | 0 | 0 | 0–4 | 0–4 |
@@ -3039,12 +3059,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 91% | 100% | Last Result, Median |
-| 1 | 0% | 9% |  |
-| 2 | 0% | 9% |  |
-| 3 | 0.9% | 9% |  |
-| 4 | 7% | 8% |  |
-| 5 | 0.5% | 0.6% |  |
+| 0 | 86% | 100% | Last Result, Median |
+| 1 | 0% | 14% |  |
+| 2 | 0% | 14% |  |
+| 3 | 3% | 14% |  |
+| 4 | 10% | 11% |  |
+| 5 | 0.6% | 0.7% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
 
