@@ -10,16 +10,16 @@ Last result: **16.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.0% | 5.6–9.0% | 5.1–9.8% | 4.8–10.5% | 4.1–11.5% |
+| N/A | [Poll Average](average.html) | 6.9% | 5.5–8.8% | 5.1–9.6% | 4.7–10.4% | 4.1–11.5% |
 | [14–15 November 2023](2023-11-15-Eumetra.html) | Eumetra <br> La7 | 7.2% | 6.2–8.6% | 5.9–8.9% | 5.6–9.3% | 5.2–9.9% |
 | [8–13 November 2023](2023-11-13-SWG.html) | SWG <br> La7 | 6.7% | 5.8–7.7% | 5.6–8.0% | 5.4–8.2% | 5.0–8.7% |
 | [9–10 November 2023](2023-11-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
 | [7–9 November 2023](2023-11-09-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 5.5% | 4.6–6.6% | 4.3–7.0% | 4.1–7.3% | 3.7–7.9% |
 | [7–9 November 2023](2023-11-09-Ipsos.html) | Ipsos <br> Corriere della Sera | 7.8% | 6.8–9.0% | 6.5–9.3% | 6.3–9.6% | 5.8–10.2% |
 | [6–9 November 2023](2023-11-09-DemosPi.html) | Demos & Pi <br> La Repubblica | 7.2% | 6.2–8.3% | 5.9–8.6% | 5.7–8.9% | 5.3–9.5% |
-| [3–8 November 2023](2023-11-08-Lab2101.html) | Lab2101 <br> Affari Italiani | 5.7% | N/A | N/A | N/A | N/A |
+| [3–8 November 2023](2023-11-08-Lab2101.html) | Lab2101 <br> Affari Italiani | 5.7% | 4.9–6.8% | 4.6–7.1% | 4.4–7.3% | 4.1–7.9% |
 | [8 November 2023](2023-11-08-Eumetra.html) | Eumetra <br> La7 | 6.9% | N/A | N/A | N/A | N/A |
-| [7 November 2023](2023-11-07-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 7.0% | N/A | N/A | N/A | N/A |
+| [7 November 2023](2023-11-07-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.3% |
 | [6 November 2023](2023-11-06-SWG.html) | SWG <br> La7 | 6.4% | 5.6–7.4% | 5.3–7.7% | 5.2–8.0% | 4.8–8.5% |
 | [6 November 2023](2023-11-06-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 6.0% | 5.0–7.2% | 4.8–7.5% | 4.5–7.8% | 4.1–8.5% |
 | [2–4 November 2023](2023-11-04-BiDiMedia.html) | BiDiMedia | 6.3% | 5.4–7.4% | 5.2–7.7% | 5.0–8.0% | 4.6–8.6% |
@@ -1526,16 +1526,16 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0.1% | 100% |  |
-| 3.5–4.5% | 1.5% | 99.9% |  |
-| 4.5–5.5% | 8% | 98% |  |
-| 5.5–6.5% | 27% | 90% |  |
-| 6.5–7.5% | 30% | 64% | Median |
-| 7.5–8.5% | 19% | 33% |  |
-| 8.5–9.5% | 8% | 14% |  |
-| 9.5–10.5% | 4% | 6% |  |
+| 3.5–4.5% | 2% | 99.9% |  |
+| 4.5–5.5% | 9% | 98% |  |
+| 5.5–6.5% | 28% | 89% |  |
+| 6.5–7.5% | 30% | 61% | Median |
+| 7.5–8.5% | 18% | 31% |  |
+| 8.5–9.5% | 7% | 13% |  |
+| 9.5–10.5% | 3% | 5% |  |
 | 10.5–11.5% | 2% | 2% |  |
-| 11.5–12.5% | 0.4% | 0.5% |  |
-| 12.5–13.5% | 0% | 0.1% |  |
+| 11.5–12.5% | 0.4% | 0.4% |  |
+| 12.5–13.5% | 0% | 0% |  |
 | 13.5–14.5% | 0% | 0% |  |
 | 14.5–15.5% | 0% | 0% |  |
 | 15.5–16.5% | 0% | 0% |  |
@@ -1550,16 +1550,16 @@ Last result: **13** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–7 | 3–7 | 3–7 | 2–8 |
+| N/A | [Poll Average](average.html) | 5 | 4–6 | 3–7 | 3–7 | 2–8 |
 | [14–15 November 2023](2023-11-15-Eumetra.html) | Eumetra <br> La7 | 5 | 4–7 | 4–7 | 4–7 | 3–8 |
 | [8–13 November 2023](2023-11-13-SWG.html) | SWG <br> La7 | 5 | 4–5 | 3–6 | 3–7 | 3–7 |
 | [9–10 November 2023](2023-11-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | [7–9 November 2023](2023-11-09-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 4 | 3–5 | 2–6 | 2–6 | 0–6 |
 | [7–9 November 2023](2023-11-09-Ipsos.html) | Ipsos <br> Corriere della Sera | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
 | [6–9 November 2023](2023-11-09-DemosPi.html) | Demos & Pi <br> La Repubblica | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
-| [3–8 November 2023](2023-11-08-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
+| [3–8 November 2023](2023-11-08-Lab2101.html) | Lab2101 <br> Affari Italiani | 4 | 3–5 | 3–5 | 3–5 | 0–6 |
 | [8 November 2023](2023-11-08-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
-| [7 November 2023](2023-11-07-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
+| [7 November 2023](2023-11-07-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [6 November 2023](2023-11-06-SWG.html) | SWG <br> La7 | 5 | 5 | 4–5 | 4–5 | 4–6 |
 | [6 November 2023](2023-11-06-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 4 | 4 | 4–5 | 3–5 | 3–6 |
 | [2–4 November 2023](2023-11-04-BiDiMedia.html) | BiDiMedia | 5 | 4–6 | 3–6 | 3–6 | 3–6 |
@@ -3069,13 +3069,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0.2% | 100% |  |
 | 1 | 0% | 99.8% |  |
 | 2 | 0.5% | 99.8% |  |
-| 3 | 7% | 99.3% |  |
-| 4 | 29% | 93% |  |
-| 5 | 29% | 63% | Median |
-| 6 | 24% | 34% |  |
-| 7 | 8% | 10% |  |
-| 8 | 2% | 2% |  |
-| 9 | 0.3% | 0.4% |  |
+| 3 | 9% | 99.3% |  |
+| 4 | 30% | 90% |  |
+| 5 | 30% | 60% | Median |
+| 6 | 22% | 31% |  |
+| 7 | 7% | 9% |  |
+| 8 | 1.4% | 2% |  |
+| 9 | 0.3% | 0.3% |  |
 | 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |

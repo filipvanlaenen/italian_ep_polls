@@ -17,9 +17,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [7–9 November 2023](2023-11-09-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.2% | 0.1–0.7% | 0.1–0.8% | 0.1–0.9% | 0.0–1.2% |
 | [7–9 November 2023](2023-11-09-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
 | [6–9 November 2023](2023-11-09-DemosPi.html) | Demos & Pi <br> La Repubblica | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
-| [3–8 November 2023](2023-11-08-Lab2101.html) | Lab2101 <br> Affari Italiani | 0.4% | N/A | N/A | N/A | N/A |
+| [3–8 November 2023](2023-11-08-Lab2101.html) | Lab2101 <br> Affari Italiani | 0.4% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.3% |
 | [8 November 2023](2023-11-08-Eumetra.html) | Eumetra <br> La7 | 0.2% | N/A | N/A | N/A | N/A |
-| [7 November 2023](2023-11-07-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0.3% | N/A | N/A | N/A | N/A |
+| [7 November 2023](2023-11-07-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
 | [6 November 2023](2023-11-06-SWG.html) | SWG <br> La7 | 0.3% | 0.2–0.7% | 0.2–0.8% | 0.1–0.9% | 0.1–1.1% |
 | [6 November 2023](2023-11-06-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.2% | 0.1–0.7% | 0.1–0.8% | 0.1–0.9% | 0.0–1.2% |
 | [2–4 November 2023](2023-11-04-BiDiMedia.html) | BiDiMedia | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
@@ -1524,8 +1524,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 77% | 100% | Last Result, Median |
-| 0.5–1.5% | 23% | 23% |  |
+| 0.0–0.5% | 76% | 100% | Last Result, Median |
+| 0.5–1.5% | 23% | 24% |  |
 | 1.5–2.5% | 0.2% | 0.2% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
@@ -1545,9 +1545,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [7–9 November 2023](2023-11-09-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0 | 0–1 | 0–1 |
 | [7–9 November 2023](2023-11-09-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0–1 |
 | [6–9 November 2023](2023-11-09-DemosPi.html) | Demos & Pi <br> La Repubblica | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [3–8 November 2023](2023-11-08-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
+| [3–8 November 2023](2023-11-08-Lab2101.html) | Lab2101 <br> Affari Italiani | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [8 November 2023](2023-11-08-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
-| [7 November 2023](2023-11-07-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
+| [7 November 2023](2023-11-07-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0 | 0–1 |
 | [6 November 2023](2023-11-06-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [6 November 2023](2023-11-06-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0 | 0 | 0–1 |
 | [2–4 November 2023](2023-11-04-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0–1 |
