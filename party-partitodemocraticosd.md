@@ -10,7 +10,8 @@ Last result: **40.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.5% | 17.8–21.2% | 17.3–21.8% | 16.8–22.2% | 16.0–23.1% |
+| N/A | [Poll Average](average.html) | 19.5% | 17.8–21.2% | 17.2–21.8% | 16.8–22.2% | 16.0–23.1% |
+| [21–22 November 2023](2023-11-22-Eumetra.html) | Eumetra <br> La7 | 19.1% | 17.4–21.0% | 16.9–21.5% | 16.5–22.0% | 15.8–22.9% |
 | [15–20 November 2023](2023-11-20-SWG.html) | SWG <br> La7 | 19.4% | 18.0–20.9% | 17.6–21.4% | 17.3–21.8% | 16.6–22.5% |
 | [16–17 November 2023](2023-11-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 19.8% | 18.2–21.5% | 17.8–21.9% | 17.4–22.4% | 16.7–23.2% |
 | [14–16 November 2023](2023-11-16-TermometroPolitico.html) | Termometro Politico | 19.5% | 18.7–20.3% | 18.5–20.6% | 18.3–20.8% | 17.9–21.2% |
@@ -1533,9 +1534,9 @@ The following table shows the probability mass function per percentage block of 
 | 14.5–15.5% | 0.2% | 100% |  |
 | 15.5–16.5% | 1.4% | 99.8% |  |
 | 16.5–17.5% | 6% | 98% |  |
-| 17.5–18.5% | 16% | 93% |  |
-| 18.5–19.5% | 28% | 77% |  |
-| 19.5–20.5% | 27% | 48% | Median |
+| 17.5–18.5% | 16% | 92% |  |
+| 18.5–19.5% | 28% | 76% | Median |
+| 19.5–20.5% | 27% | 48% |  |
 | 20.5–21.5% | 15% | 21% |  |
 | 21.5–22.5% | 5% | 7% |  |
 | 22.5–23.5% | 1.2% | 1.4% |  |
@@ -1568,6 +1569,7 @@ Last result: **31** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17 | 15–18 | 14–19 | 13–19 | 13–20 |
+| [21–22 November 2023](2023-11-22-Eumetra.html) | Eumetra <br> La7 | 16 | 15–18 | 14–18 | 14–18 | 13–20 |
 | [15–20 November 2023](2023-11-20-SWG.html) | SWG <br> La7 | 17 | 16–17 | 16–18 | 15–18 | 15–20 |
 | [16–17 November 2023](2023-11-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 16 | 15–18 | 14–18 | 14–19 | 14–19 |
 | [14–16 November 2023](2023-11-16-TermometroPolitico.html) | Termometro Politico | 17 | 17–18 | 17–18 | 17–18 | 16–19 |
@@ -3091,11 +3093,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 3% | 100% |  |
 | 14 | 3% | 97% |  |
 | 15 | 15% | 95% |  |
-| 16 | 21% | 80% |  |
-| 17 | 39% | 59% | Median |
-| 18 | 12% | 19% |  |
-| 19 | 6% | 7% |  |
-| 20 | 0.9% | 1.2% |  |
+| 16 | 24% | 80% |  |
+| 17 | 38% | 56% | Median |
+| 18 | 13% | 18% |  |
+| 19 | 4% | 5% |  |
+| 20 | 0.8% | 1.1% |  |
 | 21 | 0.3% | 0.3% |  |
 | 22 | 0% | 0% |  |
 | 23 | 0% | 0% |  |

@@ -11,6 +11,7 @@ Last result: **16.8%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7.0% | 5.6–8.9% | 5.2–9.7% | 4.9–10.4% | 4.3–11.4% |
+| [21–22 November 2023](2023-11-22-Eumetra.html) | Eumetra <br> La7 | 7.2% | 6.2–8.6% | 5.9–8.9% | 5.6–9.3% | 5.2–9.9% |
 | [15–20 November 2023](2023-11-20-SWG.html) | SWG <br> La7 | 6.9% | 6.1–8.0% | 5.8–8.2% | 5.6–8.5% | 5.2–9.0% |
 | [16–17 November 2023](2023-11-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 9.9% | 8.8–11.2% | 8.5–11.6% | 8.2–11.9% | 7.7–12.6% |
 | [14–16 November 2023](2023-11-16-TermometroPolitico.html) | Termometro Politico | 6.6% | 6.1–7.1% | 6.0–7.3% | 5.9–7.4% | 5.6–7.7% |
@@ -1555,6 +1556,7 @@ Last result: **13** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–7 | 3–7 | 3–7 | 2–8 |
+| [21–22 November 2023](2023-11-22-Eumetra.html) | Eumetra <br> La7 | 6 | 4–6 | 4–7 | 4–7 | 4–8 |
 | [15–20 November 2023](2023-11-20-SWG.html) | SWG <br> La7 | 6 | 4–7 | 4–7 | 4–7 | 4–7 |
 | [16–17 November 2023](2023-11-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [14–16 November 2023](2023-11-16-TermometroPolitico.html) | Termometro Politico | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
@@ -3079,9 +3081,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 99.8% |  |
 | 2 | 0.5% | 99.8% |  |
 | 3 | 6% | 99.3% |  |
-| 4 | 26% | 93% |  |
-| 5 | 28% | 68% | Median |
-| 6 | 27% | 40% |  |
+| 4 | 25% | 94% |  |
+| 5 | 27% | 68% | Median |
+| 6 | 29% | 41% |  |
 | 7 | 10% | 12% |  |
 | 8 | 2% | 2% |  |
 | 9 | 0.1% | 0.1% |  |

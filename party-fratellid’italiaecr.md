@@ -11,6 +11,7 @@ Last result: **3.7%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 28.9% | 27.0–30.9% | 26.4–31.5% | 25.9–32.1% | 25.0–33.2% |
+| [21–22 November 2023](2023-11-22-Eumetra.html) | Eumetra <br> La7 | 28.6% | 26.6–30.7% | 26.1–31.3% | 25.6–31.9% | 24.7–32.9% |
 | [15–20 November 2023](2023-11-20-SWG.html) | SWG <br> La7 | 29.0% | 27.4–30.7% | 26.9–31.2% | 26.5–31.6% | 25.7–32.5% |
 | [16–17 November 2023](2023-11-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 28.5% | 26.7–30.4% | 26.2–30.9% | 25.8–31.4% | 24.9–32.3% |
 | [14–16 November 2023](2023-11-16-TermometroPolitico.html) | Termometro Politico | 29.2% | 28.3–30.2% | 28.0–30.4% | 27.8–30.7% | 27.4–31.1% |
@@ -1571,7 +1572,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25 | 22–27 | 22–27 | 21–28 | 21–28 |
+| N/A | [Poll Average](average.html) | 25 | 22–27 | 22–28 | 21–28 | 21–28 |
+| [21–22 November 2023](2023-11-22-Eumetra.html) | Eumetra <br> La7 | 25 | 22–28 | 22–28 | 22–28 | 21–28 |
 | [15–20 November 2023](2023-11-20-SWG.html) | SWG <br> La7 | 25 | 24–27 | 24–27 | 24–28 | 22–29 |
 | [16–17 November 2023](2023-11-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 23 | 21–25 | 21–25 | 21–25 | 20–26 |
 | [14–16 November 2023](2023-11-16-TermometroPolitico.html) | Termometro Politico | 26 | 25–28 | 25–28 | 25–28 | 25–28 |
@@ -3112,16 +3114,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 0% | 100% |  |
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
-| 20 | 0.5% | 100% |  |
-| 21 | 2% | 99.5% |  |
+| 20 | 0.4% | 100% |  |
+| 21 | 2% | 99.6% |  |
 | 22 | 12% | 97% |  |
-| 23 | 14% | 86% |  |
-| 24 | 20% | 72% |  |
-| 25 | 24% | 52% | Median |
+| 23 | 14% | 85% |  |
+| 24 | 20% | 71% |  |
+| 25 | 23% | 51% | Median |
 | 26 | 13% | 28% |  |
-| 27 | 11% | 15% |  |
-| 28 | 4% | 4% |  |
-| 29 | 0.4% | 0.5% |  |
+| 27 | 9% | 15% |  |
+| 28 | 6% | 6% |  |
+| 29 | 0.4% | 0.4% |  |
 | 30 | 0% | 0% |  |
 
 
