@@ -10,7 +10,12 @@ Last result: **16.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.9% | 5.5–8.8% | 5.1–9.6% | 4.7–10.4% | 4.1–11.5% |
+| N/A | [Poll Average](average.html) | 7.0% | 5.6–8.9% | 5.2–9.7% | 4.9–10.4% | 4.3–11.4% |
+| [15–20 November 2023](2023-11-20-SWG.html) | SWG <br> La7 | 6.9% | 6.1–8.0% | 5.8–8.2% | 5.6–8.5% | 5.2–9.0% |
+| [16–17 November 2023](2023-11-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 9.9% | 8.8–11.2% | 8.5–11.6% | 8.2–11.9% | 7.7–12.6% |
+| [14–16 November 2023](2023-11-16-TermometroPolitico.html) | Termometro Politico | 6.6% | 6.1–7.1% | 6.0–7.3% | 5.9–7.4% | 5.6–7.7% |
+| [16 November 2023](2023-11-16-IndexResearch.html) | Index Research <br> Giornale Radio | 6.1% | 5.2–7.4% | 4.9–7.7% | 4.7–8.0% | 4.2–8.6% |
+| [16 November 2023](2023-11-16-Euromedia.html) | Euromedia <br> La Stampa | 7.8% | 6.7–9.1% | 6.3–9.5% | 6.1–9.8% | 5.6–10.5% |
 | [14–15 November 2023](2023-11-15-Eumetra.html) | Eumetra <br> La7 | 7.2% | 6.2–8.6% | 5.9–8.9% | 5.6–9.3% | 5.2–9.9% |
 | [8–13 November 2023](2023-11-13-SWG.html) | SWG <br> La7 | 6.7% | 5.8–7.7% | 5.6–8.0% | 5.4–8.2% | 5.0–8.7% |
 | [9–10 November 2023](2023-11-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
@@ -1524,17 +1529,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.1% | 100% |  |
-| 3.5–4.5% | 2% | 99.9% |  |
-| 4.5–5.5% | 9% | 98% |  |
-| 5.5–6.5% | 28% | 89% |  |
-| 6.5–7.5% | 30% | 61% | Median |
-| 7.5–8.5% | 18% | 31% |  |
-| 8.5–9.5% | 7% | 13% |  |
-| 9.5–10.5% | 3% | 5% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 1.1% | 100% |  |
+| 4.5–5.5% | 8% | 98.9% |  |
+| 5.5–6.5% | 25% | 90% |  |
+| 6.5–7.5% | 32% | 66% | Median |
+| 7.5–8.5% | 20% | 34% |  |
+| 8.5–9.5% | 8% | 14% |  |
+| 9.5–10.5% | 4% | 6% |  |
 | 10.5–11.5% | 2% | 2% |  |
-| 11.5–12.5% | 0.4% | 0.4% |  |
+| 11.5–12.5% | 0.3% | 0.4% |  |
 | 12.5–13.5% | 0% | 0% |  |
 | 13.5–14.5% | 0% | 0% |  |
 | 14.5–15.5% | 0% | 0% |  |
@@ -1550,7 +1554,12 @@ Last result: **13** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–6 | 3–7 | 3–7 | 2–8 |
+| N/A | [Poll Average](average.html) | 5 | 4–7 | 3–7 | 3–7 | 2–8 |
+| [15–20 November 2023](2023-11-20-SWG.html) | SWG <br> La7 | 6 | 4–7 | 4–7 | 4–7 | 4–7 |
+| [16–17 November 2023](2023-11-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
+| [14–16 November 2023](2023-11-16-TermometroPolitico.html) | Termometro Politico | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| [16 November 2023](2023-11-16-IndexResearch.html) | Index Research <br> Giornale Radio | 4 | 4–6 | 3–6 | 3–6 | 3–6 |
+| [16 November 2023](2023-11-16-Euromedia.html) | Euromedia <br> La Stampa | 6 | 5–6 | 4–7 | 4–7 | 4–8 |
 | [14–15 November 2023](2023-11-15-Eumetra.html) | Eumetra <br> La7 | 5 | 4–7 | 4–7 | 4–7 | 3–8 |
 | [8–13 November 2023](2023-11-13-SWG.html) | SWG <br> La7 | 5 | 4–5 | 3–6 | 3–7 | 3–7 |
 | [9–10 November 2023](2023-11-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
@@ -3069,13 +3078,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0.2% | 100% |  |
 | 1 | 0% | 99.8% |  |
 | 2 | 0.5% | 99.8% |  |
-| 3 | 9% | 99.3% |  |
-| 4 | 30% | 90% |  |
-| 5 | 30% | 60% | Median |
-| 6 | 22% | 31% |  |
-| 7 | 7% | 9% |  |
-| 8 | 1.4% | 2% |  |
-| 9 | 0.3% | 0.3% |  |
+| 3 | 6% | 99.3% |  |
+| 4 | 26% | 93% |  |
+| 5 | 28% | 68% | Median |
+| 6 | 27% | 40% |  |
+| 7 | 10% | 12% |  |
+| 8 | 2% | 2% |  |
+| 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |

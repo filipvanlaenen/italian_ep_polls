@@ -10,7 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.2% | 0.5–2.0% | 0.4–2.3% | 0.3–2.5% | 0.2–3.1% |
+| N/A | [Poll Average](average.html) | 1.1% | 0.5–1.9% | 0.4–2.2% | 0.3–2.4% | 0.2–2.9% |
+| [15–20 November 2023](2023-11-20-SWG.html) | SWG <br> La7 | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.6–1.8% | 0.5–2.0% |
+| [16–17 November 2023](2023-11-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
+| [14–16 November 2023](2023-11-16-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
+| [16 November 2023](2023-11-16-IndexResearch.html) | Index Research <br> Giornale Radio | 0.0% | N/A | N/A | N/A | N/A |
+| [16 November 2023](2023-11-16-Euromedia.html) | Euromedia <br> La Stampa | 0.6% | 0.4–1.2% | 0.3–1.3% | 0.3–1.5% | 0.2–1.8% |
 | [14–15 November 2023](2023-11-15-Eumetra.html) | Eumetra <br> La7 | 1.1% | 0.8–1.8% | 0.7–2.0% | 0.6–2.1% | 0.5–2.5% |
 | [8–13 November 2023](2023-11-13-SWG.html) | SWG <br> La7 | 1.1% | 0.8–1.6% | 0.7–1.7% | 0.6–1.8% | 0.5–2.1% |
 | [9–10 November 2023](2023-11-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
@@ -1524,12 +1529,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 12% | 100% | Last Result |
-| 0.5–1.5% | 64% | 88% | Median |
-| 1.5–2.5% | 22% | 25% |  |
+| 0.0–0.5% | 11% | 100% | Last Result |
+| 0.5–1.5% | 67% | 89% | Median |
+| 1.5–2.5% | 20% | 21% |  |
 | 2.5–3.5% | 2% | 2% |  |
-| 3.5–4.5% | 0.1% | 0.1% |  |
-| 4.5–5.5% | 0% | 0% |  |
+| 3.5–4.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -1541,6 +1545,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [15–20 November 2023](2023-11-20-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
+| [16–17 November 2023](2023-11-17-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [14–16 November 2023](2023-11-16-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [16 November 2023](2023-11-16-IndexResearch.html) | Index Research <br> Giornale Radio |  |  |  |  |  |
+| [16 November 2023](2023-11-16-Euromedia.html) | Euromedia <br> La Stampa | 0 | 0 | 0 | 0 | 0 |
 | [14–15 November 2023](2023-11-15-Eumetra.html) | Eumetra <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [8–13 November 2023](2023-11-13-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [9–10 November 2023](2023-11-10-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
