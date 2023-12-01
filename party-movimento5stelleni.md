@@ -1568,10 +1568,10 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [6–9 November 2023](2023-11-09-DemosPi.html) | Demos & Pi <br> La Repubblica | 14 | 13–16 | 13–16 | 12–16 | 11–17 |
 | [3–8 November 2023](2023-11-08-Lab2101.html) | Lab2101 <br> Affari Italiani | 14 | 12–16 | 12–16 | 12–17 | 11–19 |
 | [8 November 2023](2023-11-08-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
-| [7 November 2023](2023-11-07-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 16 | 13–17 | 13–17 | 13–17 | 13–18 |
+| [7 November 2023](2023-11-07-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 15 | 13–17 | 13–18 | 13–18 | 13–18 |
 | [6 November 2023](2023-11-06-SWG.html) | SWG <br> La7 | 15 | 15 | 14–15 | 14–15 | 13–16 |
 | [6 November 2023](2023-11-06-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 11 | 11–12 | 11–13 | 11–14 | 10–15 |
-| [2–4 November 2023](2023-11-04-BiDiMedia.html) | BiDiMedia | 14 | 13–16 | 13–16 | 12–16 | 11–16 |
+| [2–4 November 2023](2023-11-04-BiDiMedia.html) | BiDiMedia | 14 | 13–16 | 13–16 | 12–16 | 12–16 |
 | [2–3 November 2023](2023-11-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 13 | 12–14 | 11–15 | 11–16 | 11–16 |
 | [3 November 2023](2023-11-03-Ixè.html) | Ixè | 14 | 13–16 | 13–16 | 13–16 | 12–17 |
 | [2 November 2023](2023-11-02-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
@@ -3077,13 +3077,13 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 9 | 0.5% | 100% |  |
 | 10 | 0.8% | 99.5% |  |
-| 11 | 1.3% | 98.7% |  |
+| 11 | 1.2% | 98.7% |  |
 | 12 | 10% | 97% |  |
-| 13 | 19% | 88% |  |
-| 14 | 24% | 69% | Median |
-| 15 | 25% | 46% |  |
-| 16 | 13% | 20% |  |
-| 17 | 5% | 7% | Last Result |
+| 13 | 20% | 88% |  |
+| 14 | 23% | 68% | Median |
+| 15 | 25% | 45% |  |
+| 16 | 14% | 20% |  |
+| 17 | 4% | 6% | Last Result |
 | 18 | 2% | 2% |  |
 | 19 | 0.1% | 0.1% |  |
 | 20 | 0% | 0% |  |

@@ -1565,7 +1565,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [7 November 2023](2023-11-07-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
 | [6 November 2023](2023-11-06-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [6 November 2023](2023-11-06-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0 | 0 | 0–4 |
-| [2–4 November 2023](2023-11-04-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
+| [2–4 November 2023](2023-11-04-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0–4 |
 | [2–3 November 2023](2023-11-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
 | [3 November 2023](2023-11-03-Ixè.html) | Ixè | 0 | 0 | 0 | 0 | 0 |
 | [2 November 2023](2023-11-02-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |

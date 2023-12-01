@@ -1546,7 +1546,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
+| N/A | [Poll Average](average.html) | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [21–22 November 2023](2023-11-22-Eumetra.html) | Eumetra <br> La7 | 2 | 0–2 | 0–2 | 0–3 | 0–3 |
 | [15–20 November 2023](2023-11-20-SWG.html) | SWG <br> La7 | 0 | 0–2 | 0–2 | 0–3 | 0–3 |
 | [16–17 November 2023](2023-11-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–2 | 0–2 | 0–3 | 0–3 |
@@ -1561,10 +1561,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [6–9 November 2023](2023-11-09-DemosPi.html) | Demos & Pi <br> La Repubblica | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [3–8 November 2023](2023-11-08-Lab2101.html) | Lab2101 <br> Affari Italiani | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [8 November 2023](2023-11-08-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
-| [7 November 2023](2023-11-07-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
+| [7 November 2023](2023-11-07-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [6 November 2023](2023-11-06-SWG.html) | SWG <br> La7 | 3 | 3 | 2–3 | 2–3 | 1–3 |
 | [6 November 2023](2023-11-06-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 2 | 2 | 1–2 | 1–3 | 1–3 |
-| [2–4 November 2023](2023-11-04-BiDiMedia.html) | BiDiMedia | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| [2–4 November 2023](2023-11-04-BiDiMedia.html) | BiDiMedia | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [2–3 November 2023](2023-11-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [3 November 2023](2023-11-03-Ixè.html) | Ixè | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [2 November 2023](2023-11-02-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
@@ -3068,10 +3068,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 47% | 100% | Last Result |
-| 1 | 2% | 53% |  |
-| 2 | 36% | 50% | Median |
-| 3 | 14% | 15% |  |
+| 0 | 52% | 100% | Last Result, Median |
+| 1 | 2% | 48% |  |
+| 2 | 28% | 46% |  |
+| 3 | 17% | 18% |  |
 | 4 | 0.6% | 0.6% |  |
 | 5 | 0% | 0% |  |
 
