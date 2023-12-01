@@ -1584,10 +1584,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [9–10 November 2023](2023-11-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 23 | 22–25 | 21–26 | 21–26 | 20–27 |
 | [7–9 November 2023](2023-11-09-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 25 | 23–28 | 22–28 | 22–28 | 21–29 |
 | [7–9 November 2023](2023-11-09-Ipsos.html) | Ipsos <br> Corriere della Sera | 26 | 23–28 | 22–28 | 22–28 | 22–29 |
-| [6–9 November 2023](2023-11-09-DemosPi.html) | Demos & Pi <br> La Repubblica | 23 | 22–25 | 21–25 | 21–26 | 20–27 |
-| [3–8 November 2023](2023-11-08-Lab2101.html) | Lab2101 <br> Affari Italiani | 24 | 23–26 | 23–27 | 22–28 | 21–28 |
+| [6–9 November 2023](2023-11-09-DemosPi.html) | Demos & Pi <br> La Repubblica | 24 | 22–26 | 21–26 | 21–27 | 21–28 |
+| [3–8 November 2023](2023-11-08-Lab2101.html) | Lab2101 <br> Affari Italiani | 25 | 23–27 | 23–28 | 22–28 | 21–29 |
 | [8 November 2023](2023-11-08-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
-| [7 November 2023](2023-11-07-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 25 | 23–25 | 22–26 | 21–26 | 21–27 |
+| [7 November 2023](2023-11-07-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 24 | 22–25 | 22–27 | 22–27 | 21–28 |
 | [6 November 2023](2023-11-06-SWG.html) | SWG <br> La7 | 25 | 25 | 24–26 | 24–27 | 23–29 |
 | [6 November 2023](2023-11-06-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 25 | 24–25 | 23–26 | 23–26 | 21–28 |
 | [2–4 November 2023](2023-11-04-BiDiMedia.html) | BiDiMedia | 24 | 23–28 | 23–28 | 23–28 | 21–29 |
@@ -3115,16 +3115,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0.1% | 100% |  |
-| 21 | 1.4% | 99.8% |  |
-| 22 | 8% | 98% |  |
-| 23 | 16% | 90% |  |
-| 24 | 18% | 74% |  |
-| 25 | 15% | 55% | Median |
-| 26 | 19% | 40% |  |
-| 27 | 9% | 21% |  |
+| 21 | 1.4% | 99.9% |  |
+| 22 | 9% | 98% |  |
+| 23 | 18% | 89% |  |
+| 24 | 18% | 71% |  |
+| 25 | 12% | 53% | Median |
+| 26 | 19% | 41% |  |
+| 27 | 10% | 22% |  |
 | 28 | 11% | 12% |  |
-| 29 | 0.7% | 1.0% |  |
-| 30 | 0.2% | 0.3% |  |
+| 29 | 0.8% | 1.1% |  |
+| 30 | 0.3% | 0.3% |  |
 | 31 | 0% | 0% |  |
 
 

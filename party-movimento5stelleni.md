@@ -1565,10 +1565,10 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [9–10 November 2023](2023-11-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 13 | 12–15 | 12–16 | 12–16 | 11–17 |
 | [7–9 November 2023](2023-11-09-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 12 | 10–13 | 9–14 | 9–14 | 9–15 |
 | [7–9 November 2023](2023-11-09-Ipsos.html) | Ipsos <br> Corriere della Sera | 15 | 13–17 | 13–18 | 13–18 | 13–18 |
-| [6–9 November 2023](2023-11-09-DemosPi.html) | Demos & Pi <br> La Repubblica | 14 | 12–15 | 12–15 | 12–16 | 11–16 |
-| [3–8 November 2023](2023-11-08-Lab2101.html) | Lab2101 <br> Affari Italiani | 14 | 12–15 | 12–16 | 12–17 | 11–18 |
+| [6–9 November 2023](2023-11-09-DemosPi.html) | Demos & Pi <br> La Repubblica | 14 | 13–16 | 13–16 | 12–16 | 11–17 |
+| [3–8 November 2023](2023-11-08-Lab2101.html) | Lab2101 <br> Affari Italiani | 14 | 12–16 | 12–16 | 12–17 | 11–19 |
 | [8 November 2023](2023-11-08-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
-| [7 November 2023](2023-11-07-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 15 | 12–17 | 12–17 | 12–17 | 12–17 |
+| [7 November 2023](2023-11-07-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 16 | 13–17 | 13–17 | 13–17 | 13–18 |
 | [6 November 2023](2023-11-06-SWG.html) | SWG <br> La7 | 15 | 15 | 14–15 | 14–15 | 13–16 |
 | [6 November 2023](2023-11-06-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 11 | 11–12 | 11–13 | 11–14 | 10–15 |
 | [2–4 November 2023](2023-11-04-BiDiMedia.html) | BiDiMedia | 14 | 13–16 | 13–16 | 12–16 | 11–16 |
@@ -3078,13 +3078,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0.5% | 100% |  |
 | 10 | 0.8% | 99.5% |  |
 | 11 | 1.3% | 98.7% |  |
-| 12 | 11% | 97% |  |
-| 13 | 19% | 86% |  |
-| 14 | 24% | 68% | Median |
-| 15 | 25% | 43% |  |
-| 16 | 13% | 18% |  |
-| 17 | 4% | 5% | Last Result |
-| 18 | 1.4% | 2% |  |
+| 12 | 10% | 97% |  |
+| 13 | 19% | 88% |  |
+| 14 | 24% | 69% | Median |
+| 15 | 25% | 46% |  |
+| 16 | 13% | 20% |  |
+| 17 | 5% | 7% | Last Result |
+| 18 | 2% | 2% |  |
 | 19 | 0.1% | 0.1% |  |
 | 20 | 0% | 0% |  |
 

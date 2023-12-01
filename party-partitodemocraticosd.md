@@ -1568,7 +1568,7 @@ Last result: **31** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 15–18 | 15–19 | 14–19 | 13–20 |
+| N/A | [Poll Average](average.html) | 17 | 15–19 | 15–19 | 14–19 | 13–20 |
 | [21–22 November 2023](2023-11-22-Eumetra.html) | Eumetra <br> La7 | 16 | 16–18 | 15–19 | 15–19 | 14–21 |
 | [15–20 November 2023](2023-11-20-SWG.html) | SWG <br> La7 | 18 | 16–18 | 16–18 | 16–19 | 15–20 |
 | [16–17 November 2023](2023-11-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 16 | 15–18 | 14–19 | 14–20 | 14–20 |
@@ -1580,10 +1580,10 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [9–10 November 2023](2023-11-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 16 | 15–17 | 14–18 | 14–19 | 13–19 |
 | [7–9 November 2023](2023-11-09-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 16 | 15–18 | 15–19 | 14–20 | 14–22 |
 | [7–9 November 2023](2023-11-09-Ipsos.html) | Ipsos <br> Corriere della Sera | 16 | 13–18 | 13–18 | 13–18 | 13–20 |
-| [6–9 November 2023](2023-11-09-DemosPi.html) | Demos & Pi <br> La Repubblica | 17 | 15–18 | 15–19 | 14–19 | 14–20 |
-| [3–8 November 2023](2023-11-08-Lab2101.html) | Lab2101 <br> Affari Italiani | 17 | 15–18 | 14–19 | 13–19 | 13–21 |
+| [6–9 November 2023](2023-11-09-DemosPi.html) | Demos & Pi <br> La Repubblica | 17 | 16–19 | 15–19 | 15–19 | 14–20 |
+| [3–8 November 2023](2023-11-08-Lab2101.html) | Lab2101 <br> Affari Italiani | 17 | 15–18 | 14–20 | 14–20 | 14–22 |
 | [8 November 2023](2023-11-08-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
-| [7 November 2023](2023-11-07-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 17 | 16–18 | 15–18 | 15–19 | 14–21 |
+| [7 November 2023](2023-11-07-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 18 | 16–19 | 16–19 | 16–19 | 15–20 |
 | [6 November 2023](2023-11-06-SWG.html) | SWG <br> La7 | 17 | 17 | 17–18 | 16–19 | 15–20 |
 | [6 November 2023](2023-11-06-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 16 | 16 | 15–18 | 14–19 | 14–19 |
 | [2–4 November 2023](2023-11-04-BiDiMedia.html) | BiDiMedia | 17 | 16–18 | 16–19 | 15–19 | 14–21 |
@@ -3092,13 +3092,13 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 13 | 2% | 100% |  |
 | 14 | 2% | 98% |  |
-| 15 | 11% | 96% |  |
-| 16 | 23% | 85% |  |
-| 17 | 32% | 62% | Median |
-| 18 | 22% | 30% |  |
-| 19 | 6% | 8% |  |
+| 15 | 10% | 96% |  |
+| 16 | 24% | 86% |  |
+| 17 | 30% | 62% | Median |
+| 18 | 21% | 32% |  |
+| 19 | 9% | 12% |  |
 | 20 | 2% | 2% |  |
-| 21 | 0.3% | 0.4% |  |
+| 21 | 0.3% | 0.5% |  |
 | 22 | 0.1% | 0.1% |  |
 | 23 | 0% | 0% |  |
 | 24 | 0% | 0% |  |

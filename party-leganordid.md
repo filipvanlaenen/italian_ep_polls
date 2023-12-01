@@ -1562,10 +1562,10 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [9–10 November 2023](2023-11-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
 | [7–9 November 2023](2023-11-09-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 8 | 7–9 | 7–9 | 6–10 | 6–10 |
 | [7–9 November 2023](2023-11-09-Ipsos.html) | Ipsos <br> Corriere della Sera | 8 | 8–10 | 7–10 | 7–10 | 7–10 |
-| [6–9 November 2023](2023-11-09-DemosPi.html) | Demos & Pi <br> La Repubblica | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
+| [6–9 November 2023](2023-11-09-DemosPi.html) | Demos & Pi <br> La Repubblica | 6 | 5–8 | 5–8 | 5–8 | 5–8 |
 | [3–8 November 2023](2023-11-08-Lab2101.html) | Lab2101 <br> Affari Italiani | 9 | 8–10 | 8–11 | 8–11 | 7–12 |
 | [8 November 2023](2023-11-08-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
-| [7 November 2023](2023-11-07-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 7 | 7–9 | 7–9 | 6–10 | 6–10 |
+| [7 November 2023](2023-11-07-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 7 | 7–9 | 7–9 | 7–10 | 6–10 |
 | [6 November 2023](2023-11-06-SWG.html) | SWG <br> La7 | 9 | 9 | 9 | 8–10 | 7–11 |
 | [6 November 2023](2023-11-06-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 9 | 8–9 | 7–9 | 6–9 | 6–10 |
 | [2–4 November 2023](2023-11-04-BiDiMedia.html) | BiDiMedia | 9 | 7–9 | 7–9 | 7–10 | 6–12 |
@@ -3073,13 +3073,13 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 2% | 100% | Last Result |
-| 6 | 12% | 98% |  |
-| 7 | 30% | 87% |  |
-| 8 | 23% | 57% | Median |
-| 9 | 27% | 34% |  |
+| 6 | 11% | 98% |  |
+| 7 | 28% | 88% |  |
+| 8 | 24% | 60% | Median |
+| 9 | 29% | 36% |  |
 | 10 | 6% | 7% |  |
 | 11 | 0.6% | 0.8% |  |
-| 12 | 0.2% | 0.2% |  |
+| 12 | 0.1% | 0.2% |  |
 | 13 | 0% | 0% |  |
 
 
