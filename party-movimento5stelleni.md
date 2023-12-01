@@ -1571,9 +1571,9 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [7 November 2023](2023-11-07-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 15 | 13–17 | 13–18 | 13–18 | 13–18 |
 | [6 November 2023](2023-11-06-SWG.html) | SWG <br> La7 | 15 | 15 | 14–15 | 14–15 | 13–16 |
 | [6 November 2023](2023-11-06-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 11 | 11–12 | 11–13 | 11–14 | 10–15 |
-| [2–4 November 2023](2023-11-04-BiDiMedia.html) | BiDiMedia | 14 | 13–16 | 13–16 | 12–16 | 12–16 |
+| [2–4 November 2023](2023-11-04-BiDiMedia.html) | BiDiMedia | 14 | 13–17 | 13–17 | 13–17 | 11–17 |
 | [2–3 November 2023](2023-11-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 13 | 12–14 | 11–15 | 11–16 | 11–16 |
-| [3 November 2023](2023-11-03-Ixè.html) | Ixè | 14 | 13–16 | 13–16 | 13–16 | 12–17 |
+| [3 November 2023](2023-11-03-Ixè.html) | Ixè | 14 | 13–16 | 13–16 | 13–17 | 12–18 |
 | [2 November 2023](2023-11-02-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
 | [2 November 2023](2023-11-02-Lab2101.html) | Lab2101 <br> Affari Italiani | 14 | 13–16 | 13–16 | 13–16 | 12–16 |
 | [2 November 2023](2023-11-02-Euromedia.html) | Euromedia <br> La Stampa | 14 | 13–17 | 13–17 | 12–17 | 11–18 |
@@ -1581,7 +1581,7 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [25–30 October 2023](2023-10-30-SWG.html) | SWG <br> La7 | 15 | 13–15 | 13–15 | 12–16 | 12–17 |
 | [26–27 October 2023](2023-10-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 13 | 12–15 | 12–15 | 11–15 | 11–16 |
 | [27 October 2023](2023-10-27-IndexResearch.html) | Index Research <br> Giornale Radio | 14 | 13–16 | 12–16 | 12–16 | 11–17 |
-| [27 October 2023](2023-10-27-EMG.html) | EMG <br> Rai 3 | 15 | 13–15 | 12–16 | 12–16 | 12–17 |
+| [27 October 2023](2023-10-27-EMG.html) | EMG <br> Rai 3 | 16 | 13–16 | 13–17 | 12–17 | 12–17 |
 | [24–26 October 2023](2023-10-26-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 12 | 10–13 | 9–13 | 9–14 | 9–15 |
 | [26 October 2023](2023-10-26-Euromedia.html) | Euromedia <br> Italpress | 13 | 13–15 | 13–16 | 12–16 | 12–17 |
 | [20–25 October 2023](2023-10-25-Lab2101.html) | Lab2101 <br> Affari Italiani | 14 | 13–15 | 13–16 | 12–16 | 12–17 |
@@ -1596,9 +1596,9 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [19 October 2023](2023-10-19-Euromedia.html) | Euromedia <br> La Stampa |  |  |  |  |  |
 | [17–18 October 2023](2023-10-18-Eumetra.html) | Eumetra <br> La7 | 14 | 12–15 | 12–15 | 11–16 | 11–17 |
 | [17–18 October 2023](2023-10-18-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
-| [17–18 October 2023](2023-10-18-Demopolis.html) | Demopolis | 13 | 13–14 | 12–14 | 12–15 | 12–15 |
+| [17–18 October 2023](2023-10-18-Demopolis.html) | Demopolis | 14 | 13–15 | 13–15 | 12–15 | 12–16 |
 | [13–17 October 2023](2023-10-17-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
-| [17 October 2023](2023-10-17-Piepoli.html) | Piepoli | 13 | 13 | 12–14 | 12–16 | 10–18 |
+| [17 October 2023](2023-10-17-Piepoli.html) | Piepoli | 12 | 12–16 | 12–18 | 11–21 | 9–21 |
 | [17 October 2023](2023-10-17-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 15 | 14–16 | 13–17 | 12–18 | 12–18 |
 | [11–16 October 2023](2023-10-16-SWG.html) | SWG <br> La7 | 14 | 12–15 | 12–15 | 12–16 | 11–16 |
 | [12–13 October 2023](2023-10-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 13 | 12–14 | 12–14 | 12–15 | 11–16 |
@@ -3077,13 +3077,13 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 9 | 0.5% | 100% |  |
 | 10 | 0.8% | 99.5% |  |
-| 11 | 1.2% | 98.7% |  |
-| 12 | 10% | 97% |  |
-| 13 | 20% | 88% |  |
-| 14 | 23% | 68% | Median |
-| 15 | 25% | 45% |  |
-| 16 | 14% | 20% |  |
-| 17 | 4% | 6% | Last Result |
+| 11 | 1.3% | 98.7% |  |
+| 12 | 9% | 97% |  |
+| 13 | 19% | 88% |  |
+| 14 | 25% | 69% | Median |
+| 15 | 20% | 44% |  |
+| 16 | 17% | 25% |  |
+| 17 | 5% | 7% | Last Result |
 | 18 | 2% | 2% |  |
 | 19 | 0.1% | 0.1% |  |
 | 20 | 0% | 0% |  |

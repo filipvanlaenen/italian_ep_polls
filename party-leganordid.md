@@ -1550,7 +1550,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 6–9 | 6–10 | 6–10 | 5–11 |
+| N/A | [Poll Average](average.html) | 8 | 7–9 | 6–10 | 6–10 | 5–11 |
 | [21–22 November 2023](2023-11-22-Eumetra.html) | Eumetra <br> La7 | 8 | 7–9 | 7–10 | 7–10 | 6–10 |
 | [15–20 November 2023](2023-11-20-SWG.html) | SWG <br> La7 | 9 | 8–10 | 7–10 | 7–10 | 6–10 |
 | [16–17 November 2023](2023-11-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 6–8 | 6–8 | 6–9 | 5–10 |
@@ -1568,9 +1568,9 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [7 November 2023](2023-11-07-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 8 | 7–9 | 7–9 | 7–10 | 6–10 |
 | [6 November 2023](2023-11-06-SWG.html) | SWG <br> La7 | 9 | 9 | 9 | 8–10 | 7–11 |
 | [6 November 2023](2023-11-06-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 9 | 8–9 | 7–9 | 6–9 | 6–10 |
-| [2–4 November 2023](2023-11-04-BiDiMedia.html) | BiDiMedia | 9 | 7–9 | 7–9 | 7–10 | 6–10 |
+| [2–4 November 2023](2023-11-04-BiDiMedia.html) | BiDiMedia | 9 | 7–9 | 7–10 | 7–10 | 6–12 |
 | [2–3 November 2023](2023-11-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 6–8 | 6–9 | 6–9 | 6–10 |
-| [3 November 2023](2023-11-03-Ixè.html) | Ixè | 7 | 6–7 | 6–8 | 6–9 | 5–9 |
+| [3 November 2023](2023-11-03-Ixè.html) | Ixè | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | [2 November 2023](2023-11-02-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
 | [2 November 2023](2023-11-02-Lab2101.html) | Lab2101 <br> Affari Italiani | 10 | 9–11 | 8–11 | 8–11 | 7–11 |
 | [2 November 2023](2023-11-02-Euromedia.html) | Euromedia <br> La Stampa | 7 | 7–8 | 6–9 | 6–9 | 5–10 |
@@ -1578,7 +1578,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [25–30 October 2023](2023-10-30-SWG.html) | SWG <br> La7 | 8 | 8–9 | 8–10 | 8–10 | 7–10 |
 | [26–27 October 2023](2023-10-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 6–9 | 6–9 | 6–9 | 6–10 |
 | [27 October 2023](2023-10-27-IndexResearch.html) | Index Research <br> Giornale Radio | 9 | 8–10 | 7–10 | 7–10 | 6–11 |
-| [27 October 2023](2023-10-27-EMG.html) | EMG <br> Rai 3 | 6 | 6–9 | 6–9 | 6–9 | 6–10 |
+| [27 October 2023](2023-10-27-EMG.html) | EMG <br> Rai 3 | 7 | 7–9 | 7–10 | 6–10 | 6–11 |
 | [24–26 October 2023](2023-10-26-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 8 | 7–9 | 7–9 | 6–10 | 5–10 |
 | [26 October 2023](2023-10-26-Euromedia.html) | Euromedia <br> Italpress | 6 | 6–8 | 6–8 | 5–8 | 5–9 |
 | [20–25 October 2023](2023-10-25-Lab2101.html) | Lab2101 <br> Affari Italiani | 9 | 9–11 | 9–11 | 8–12 | 8–12 |
@@ -1593,9 +1593,9 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [19 October 2023](2023-10-19-Euromedia.html) | Euromedia <br> La Stampa |  |  |  |  |  |
 | [17–18 October 2023](2023-10-18-Eumetra.html) | Eumetra <br> La7 | 8 | 7–10 | 7–10 | 7–11 | 7–11 |
 | [17–18 October 2023](2023-10-18-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
-| [17–18 October 2023](2023-10-18-Demopolis.html) | Demopolis | 8 | 8–9 | 7–9 | 7–9 | 7–10 |
+| [17–18 October 2023](2023-10-18-Demopolis.html) | Demopolis | 8 | 8–9 | 7–9 | 7–10 | 7–10 |
 | [13–17 October 2023](2023-10-17-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
-| [17 October 2023](2023-10-17-Piepoli.html) | Piepoli | 8 | 6–9 | 6–9 | 6–9 | 5–9 |
+| [17 October 2023](2023-10-17-Piepoli.html) | Piepoli | 6 | 5–7 | 5–8 | 5–9 | 4–10 |
 | [17 October 2023](2023-10-17-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 9 | 8–10 | 7–10 | 7–11 | 7–11 |
 | [11–16 October 2023](2023-10-16-SWG.html) | SWG <br> La7 | 9 | 8–10 | 8–10 | 7–10 | 7–11 |
 | [12–13 October 2023](2023-10-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 8 | 7–8 | 6–9 | 6–9 | 6–10 |
@@ -3073,13 +3073,13 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 2% | 100% | Last Result |
-| 6 | 11% | 98% |  |
-| 7 | 30% | 88% |  |
-| 8 | 23% | 57% | Median |
-| 9 | 27% | 34% |  |
-| 10 | 6% | 7% |  |
-| 11 | 0.6% | 0.7% |  |
-| 12 | 0.1% | 0.1% |  |
+| 6 | 7% | 98% |  |
+| 7 | 34% | 92% |  |
+| 8 | 24% | 58% | Median |
+| 9 | 26% | 34% |  |
+| 10 | 7% | 8% |  |
+| 11 | 0.7% | 0.9% |  |
+| 12 | 0.1% | 0.2% |  |
 | 13 | 0% | 0% |  |
 
 
