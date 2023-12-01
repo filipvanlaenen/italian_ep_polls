@@ -1553,18 +1553,18 @@ Last result: **17** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–16 | 12–16 | 11–17 | 9–17 |
-| [21–22 November 2023](2023-11-22-Eumetra.html) | Eumetra <br> La7 | 14 | 13–16 | 13–17 | 12–17 | 12–17 |
-| [15–20 November 2023](2023-11-20-SWG.html) | SWG <br> La7 | 14 | 14–16 | 13–16 | 13–16 | 12–17 |
-| [16–17 November 2023](2023-11-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 13 | 12–14 | 12–15 | 12–16 | 11–16 |
-| [14–16 November 2023](2023-11-16-TermometroPolitico.html) | Termometro Politico | 15 | 13–15 | 13–15 | 13–15 | 13–15 |
-| [16 November 2023](2023-11-16-IndexResearch.html) | Index Research <br> Giornale Radio | 12 | 12–16 | 12–16 | 11–17 | 11–17 |
-| [16 November 2023](2023-11-16-Euromedia.html) | Euromedia <br> La Stampa | 14 | 13–16 | 13–16 | 12–16 | 11–17 |
+| N/A | [Poll Average](average.html) | 14 | 12–16 | 12–17 | 11–17 | 10–18 |
+| [21–22 November 2023](2023-11-22-Eumetra.html) | Eumetra <br> La7 | 14 | 13–16 | 13–18 | 12–18 | 12–18 |
+| [15–20 November 2023](2023-11-20-SWG.html) | SWG <br> La7 | 15 | 15–17 | 14–17 | 13–17 | 12–17 |
+| [16–17 November 2023](2023-11-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 13 | 12–15 | 12–16 | 12–16 | 11–16 |
+| [14–16 November 2023](2023-11-16-TermometroPolitico.html) | Termometro Politico | 16 | 14–16 | 14–16 | 14–16 | 14–16 |
+| [16 November 2023](2023-11-16-IndexResearch.html) | Index Research <br> Giornale Radio | 12 | 12–16 | 12–16 | 12–18 | 11–18 |
+| [16 November 2023](2023-11-16-Euromedia.html) | Euromedia <br> La Stampa | 14 | 13–16 | 13–17 | 13–17 | 12–18 |
 | [14–15 November 2023](2023-11-15-Eumetra.html) | Eumetra <br> La7 | 14 | 13–16 | 12–17 | 12–17 | 12–18 |
 | [8–13 November 2023](2023-11-13-SWG.html) | SWG <br> La7 | 15 | 13–15 | 13–15 | 12–16 | 12–17 |
 | [9–10 November 2023](2023-11-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 13 | 12–15 | 12–16 | 12–16 | 11–17 |
-| [7–9 November 2023](2023-11-09-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 12 | 9–13 | 9–13 | 9–14 | 9–14 |
-| [7–9 November 2023](2023-11-09-Ipsos.html) | Ipsos <br> Corriere della Sera | 15 | 13–17 | 13–17 | 13–17 | 13–18 |
+| [7–9 November 2023](2023-11-09-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 12 | 10–13 | 9–14 | 9–14 | 9–15 |
+| [7–9 November 2023](2023-11-09-Ipsos.html) | Ipsos <br> Corriere della Sera | 15 | 13–17 | 13–18 | 13–18 | 13–18 |
 | [6–9 November 2023](2023-11-09-DemosPi.html) | Demos & Pi <br> La Repubblica | 14 | 12–15 | 12–15 | 12–16 | 11–16 |
 | [3–8 November 2023](2023-11-08-Lab2101.html) | Lab2101 <br> Affari Italiani | 14 | 12–15 | 12–16 | 12–17 | 11–18 |
 | [8 November 2023](2023-11-08-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
@@ -3075,16 +3075,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 0.9% | 100% |  |
-| 10 | 0.5% | 99.1% |  |
-| 11 | 2% | 98.6% |  |
-| 12 | 11% | 96% |  |
-| 13 | 20% | 85% |  |
-| 14 | 28% | 65% | Median |
-| 15 | 25% | 37% |  |
-| 16 | 9% | 13% |  |
-| 17 | 3% | 4% | Last Result |
-| 18 | 0.1% | 0.2% |  |
-| 19 | 0% | 0% |  |
+| 9 | 0.5% | 100% |  |
+| 10 | 0.8% | 99.5% |  |
+| 11 | 1.3% | 98.7% |  |
+| 12 | 11% | 97% |  |
+| 13 | 19% | 86% |  |
+| 14 | 24% | 68% | Median |
+| 15 | 25% | 43% |  |
+| 16 | 13% | 18% |  |
+| 17 | 4% | 5% | Last Result |
+| 18 | 1.4% | 2% |  |
+| 19 | 0.1% | 0.1% |  |
+| 20 | 0% | 0% |  |
 
 

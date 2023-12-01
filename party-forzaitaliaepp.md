@@ -1555,10 +1555,10 @@ Last result: **13** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–7 | 3–7 | 3–7 | 2–8 |
+| N/A | [Poll Average](average.html) | 5 | 4–7 | 3–7 | 3–8 | 3–8 |
 | [21–22 November 2023](2023-11-22-Eumetra.html) | Eumetra <br> La7 | 6 | 4–6 | 4–7 | 4–7 | 4–8 |
-| [15–20 November 2023](2023-11-20-SWG.html) | SWG <br> La7 | 6 | 4–7 | 4–7 | 4–7 | 4–7 |
-| [16–17 November 2023](2023-11-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
+| [15–20 November 2023](2023-11-20-SWG.html) | SWG <br> La7 | 6 | 5–7 | 4–7 | 4–7 | 4–7 |
+| [16–17 November 2023](2023-11-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 8 | 7–8 | 7–8 | 6–9 | 6–9 |
 | [14–16 November 2023](2023-11-16-TermometroPolitico.html) | Termometro Politico | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [16 November 2023](2023-11-16-IndexResearch.html) | Index Research <br> Giornale Radio | 4 | 4–6 | 3–6 | 3–6 | 3–6 |
 | [16 November 2023](2023-11-16-Euromedia.html) | Euromedia <br> La Stampa | 6 | 5–6 | 4–7 | 4–7 | 4–8 |
@@ -1566,7 +1566,7 @@ Last result: **13** seats (General Election of 26 May 2019)
 | [8–13 November 2023](2023-11-13-SWG.html) | SWG <br> La7 | 5 | 4–5 | 3–6 | 3–7 | 3–7 |
 | [9–10 November 2023](2023-11-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | [7–9 November 2023](2023-11-09-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 4 | 3–5 | 2–6 | 2–6 | 0–6 |
-| [7–9 November 2023](2023-11-09-Ipsos.html) | Ipsos <br> Corriere della Sera | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
+| [7–9 November 2023](2023-11-09-Ipsos.html) | Ipsos <br> Corriere della Sera | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
 | [6–9 November 2023](2023-11-09-DemosPi.html) | Demos & Pi <br> La Repubblica | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
 | [3–8 November 2023](2023-11-08-Lab2101.html) | Lab2101 <br> Affari Italiani | 4 | 3–5 | 3–5 | 3–5 | 0–6 |
 | [8 November 2023](2023-11-08-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
@@ -3079,14 +3079,14 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.2% | 100% |  |
 | 1 | 0% | 99.8% |  |
-| 2 | 0.5% | 99.8% |  |
-| 3 | 6% | 99.3% |  |
-| 4 | 25% | 94% |  |
-| 5 | 27% | 68% | Median |
-| 6 | 29% | 41% |  |
-| 7 | 10% | 12% |  |
-| 8 | 2% | 2% |  |
-| 9 | 0.1% | 0.1% |  |
+| 2 | 0.3% | 99.8% |  |
+| 3 | 6% | 99.5% |  |
+| 4 | 24% | 94% |  |
+| 5 | 27% | 70% | Median |
+| 6 | 28% | 43% |  |
+| 7 | 10% | 15% |  |
+| 8 | 5% | 5% |  |
+| 9 | 0.3% | 0.3% |  |
 | 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |

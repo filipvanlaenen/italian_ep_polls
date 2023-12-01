@@ -1544,16 +1544,16 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–1 |
-| [21–22 November 2023](2023-11-22-Eumetra.html) | Eumetra <br> La7 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [15–20 November 2023](2023-11-20-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0–1 |
-| [16–17 November 2023](2023-11-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0–1 | 0–1 |
+| [21–22 November 2023](2023-11-22-Eumetra.html) | Eumetra <br> La7 | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [15–20 November 2023](2023-11-20-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
+| [16–17 November 2023](2023-11-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0–1 |
 | [14–16 November 2023](2023-11-16-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [16 November 2023](2023-11-16-IndexResearch.html) | Index Research <br> Giornale Radio | 0 | 0 | 0 | 0–1 | 0–1 |
-| [16 November 2023](2023-11-16-Euromedia.html) | Euromedia <br> La Stampa | 0 | 0 | 0 | 0–1 | 0–1 |
+| [16 November 2023](2023-11-16-Euromedia.html) | Euromedia <br> La Stampa | 0 | 0 | 0 | 0 | 0–1 |
 | [14–15 November 2023](2023-11-15-Eumetra.html) | Eumetra <br> La7 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [8–13 November 2023](2023-11-13-SWG.html) | SWG <br> La7 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [9–10 November 2023](2023-11-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0–1 | 0–1 |
-| [7–9 November 2023](2023-11-09-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0 | 0–1 | 0–1 |
+| [7–9 November 2023](2023-11-09-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0 | 0 | 0–1 |
 | [7–9 November 2023](2023-11-09-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0–1 |
 | [6–9 November 2023](2023-11-09-DemosPi.html) | Demos & Pi <br> La Repubblica | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [3–8 November 2023](2023-11-08-Lab2101.html) | Lab2101 <br> Affari Italiani | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -3065,8 +3065,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 96% | 100% | Last Result, Median |
-| 1 | 4% | 4% |  |
+| 0 | 97% | 100% | Last Result, Median |
+| 1 | 3% | 3% |  |
 | 2 | 0% | 0% |  |
 
 
