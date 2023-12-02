@@ -1613,7 +1613,7 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [17–18 October 2023](2023-10-18-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [17–18 October 2023](2023-10-18-Demopolis.html) | Demopolis | 17 | 16–18 | 16–19 | 15–19 | 15–20 |
 | [13–17 October 2023](2023-10-17-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
-| [17 October 2023](2023-10-17-Piepoli.html) | Piepoli | 17 | 15–21 | 14–21 | 13–21 | 12–22 |
+| [17 October 2023](2023-10-17-Piepoli.html) | Piepoli | 17 | 15–19 | 15–19 | 15–19 | 13–21 |
 | [17 October 2023](2023-10-17-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 16 | 15–18 | 14–18 | 14–18 | 14–19 |
 | [11–16 October 2023](2023-10-16-SWG.html) | SWG <br> La7 | 17 | 17–19 | 16–19 | 16–19 | 15–20 |
 | [12–13 October 2023](2023-10-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 16 | 15–18 | 15–19 | 14–19 | 14–20 |
@@ -1629,7 +1629,7 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [3–5 October 2023](2023-10-05-Ipsos.html) | Ipsos <br> Corriere della Sera | 15 | 15–18 | 15–18 | 15–18 | 14–18 |
 | [4 October 2023](2023-10-04-IndexResearch.html) | Index Research <br> Giornale Radio | 18 | 15–19 | 15–19 | 14–19 | 14–20 |
 | [3–4 October 2023](2023-10-04-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
-| [3 October 2023](2023-10-03-Winpoll.html) | Winpoll <br> La Repubblica | 17 | 15–18 | 15–20 | 15–20 | 14–20 |
+| [3 October 2023](2023-10-03-Winpoll.html) | Winpoll <br> La Repubblica | 17 | 15–19 | 15–20 | 15–20 | 15–21 |
 | [3 October 2023](2023-10-03-Ixè.html) | Ixè | 18 | 16–19 | 16–19 | 15–20 | 15–21 |
 | [1–2 October 2023](2023-10-02-Tecnè.html) | Tecnè |  |  |  |  |  |
 | [2 October 2023](2023-10-02-SWG.html) | SWG <br> La7 | 17 | 16–19 | 16–19 | 15–19 | 15–20 |

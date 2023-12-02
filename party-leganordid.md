@@ -1595,7 +1595,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [17–18 October 2023](2023-10-18-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [17–18 October 2023](2023-10-18-Demopolis.html) | Demopolis | 8 | 8–9 | 7–9 | 7–10 | 7–10 |
 | [13–17 October 2023](2023-10-17-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
-| [17 October 2023](2023-10-17-Piepoli.html) | Piepoli | 6 | 5–7 | 5–8 | 5–9 | 4–10 |
+| [17 October 2023](2023-10-17-Piepoli.html) | Piepoli | 8 | 6–9 | 6–9 | 6–9 | 5–10 |
 | [17 October 2023](2023-10-17-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 9 | 8–10 | 7–10 | 7–11 | 7–11 |
 | [11–16 October 2023](2023-10-16-SWG.html) | SWG <br> La7 | 9 | 8–10 | 8–10 | 7–10 | 7–11 |
 | [12–13 October 2023](2023-10-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 8 | 7–8 | 6–9 | 6–9 | 6–10 |
