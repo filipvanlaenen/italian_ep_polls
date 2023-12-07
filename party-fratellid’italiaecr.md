@@ -1586,7 +1586,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25 | 23–27 | 22–28 | 22–30 | 21–30 |
+| N/A | [Poll Average](average.html) | 25 | 23–28 | 22–28 | 22–30 | 21–30 |
 | [4 December 2023](2023-12-04-SWG.html) | SWG <br> La7 | 25 | 25–26 | 24–27 | 22–27 | 22–28 |
 | [2 December 2023](2023-12-02-IndexResearch.html) | Index Research <br> Giornale Radio | 25 | 23–28 | 22–28 | 22–28 | 21–29 |
 | [1 December 2023](2023-12-01-Tecnè.html) | Tecnè <br> Agenzia Dire | 23 | 23–26 | 23–26 | 22–26 | 21–27 |
@@ -3146,11 +3146,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 21 | 1.2% | 99.8% |  |
 | 22 | 6% | 98.6% |  |
 | 23 | 13% | 93% |  |
-| 24 | 17% | 80% |  |
-| 25 | 20% | 63% | Median |
-| 26 | 16% | 43% |  |
-| 27 | 17% | 27% |  |
-| 28 | 5% | 10% |  |
+| 24 | 14% | 80% |  |
+| 25 | 19% | 66% | Median |
+| 26 | 18% | 46% |  |
+| 27 | 17% | 28% |  |
+| 28 | 6% | 11% |  |
 | 29 | 2% | 5% |  |
 | 30 | 3% | 3% |  |
 | 31 | 0% | 0% |  |
