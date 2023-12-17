@@ -10,7 +10,7 @@ Last result: **3.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28.7% | 26.7–30.5% | 26.2–31.1% | 25.7–31.6% | 24.8–32.6% |
+| N/A | [Poll Average](average.html) | 28.8% | 26.8–30.6% | 26.2–31.2% | 25.7–31.7% | 24.8–32.8% |
 | [11–15 December 2023](2023-12-15-Ixè.html) | Ixè | 29.3% | 27.5–31.2% | 27.0–31.7% | 26.6–32.2% | 25.7–33.1% |
 | [10–11 December 2023](2023-12-11-Tecnè.html) | Tecnè | 28.5% | 26.7–30.3% | 26.2–30.9% | 25.7–31.3% | 24.9–32.3% |
 | [7–8 December 2023](2023-12-08-EMG.html) | EMG <br> Il Tirreno | 27.5% | 25.7–29.4% | 25.2–29.9% | 24.8–30.4% | 24.0–31.3% |
@@ -25,7 +25,7 @@ Last result: **3.7%** (General Election of 26 May 2019)
 | [29–30 November 2023](2023-11-30-TermometroPolitico.html) | Termometro Politico | 29.6% | 28.7–30.5% | 28.4–30.8% | 28.2–31.0% | 27.8–31.5% |
 | [29–30 November 2023](2023-11-30-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 29.1% | 27.1–31.3% | 26.6–31.9% | 26.1–32.4% | 25.2–33.4% |
 | [26–30 November 2023](2023-11-30-Lab2101.html) | Lab2101 <br> Affari Italiani | 29.2% | 27.4–31.1% | 26.9–31.6% | 26.5–32.1% | 25.6–33.0% |
-| [30 November 2023](2023-11-30-IndexResearch.html) | Index Research <br> Giornale Radio | 29.4% | N/A | N/A | N/A | N/A |
+| [30 November 2023](2023-11-30-IndexResearch.html) | Index Research <br> Giornale Radio | 29.4% | 27.4–31.5% | 26.8–32.1% | 26.3–32.6% | 25.4–33.7% |
 | [28–29 November 2023](2023-11-29-Eumetra.html) | Eumetra <br> La7 | 28.5% | 26.5–30.6% | 26.0–31.2% | 25.5–31.7% | 24.5–32.8% |
 | [22–27 November 2023](2023-11-27-SWG.html) | SWG <br> La7 | 28.6% | 26.9–30.3% | 26.5–30.8% | 26.1–31.2% | 25.3–32.1% |
 | [23–24 November 2023](2023-11-24-Tecnè.html) | Tecnè <br> Agenzia Dire | 28.6% | 26.8–30.5% | 26.3–31.0% | 25.8–31.5% | 25.0–32.4% |
@@ -1577,13 +1577,13 @@ The following table shows the probability mass function per percentage block of 
 | 23.5–24.5% | 0.3% | 100% |  |
 | 24.5–25.5% | 2% | 99.7% |  |
 | 25.5–26.5% | 6% | 98% |  |
-| 26.5–27.5% | 15% | 92% |  |
-| 27.5–28.5% | 23% | 77% |  |
-| 28.5–29.5% | 26% | 54% | Median |
-| 29.5–30.5% | 18% | 28% |  |
-| 30.5–31.5% | 7% | 10% |  |
+| 26.5–27.5% | 14% | 92% |  |
+| 27.5–28.5% | 23% | 78% |  |
+| 28.5–29.5% | 26% | 55% | Median |
+| 29.5–30.5% | 18% | 29% |  |
+| 30.5–31.5% | 8% | 11% |  |
 | 31.5–32.5% | 2% | 3% |  |
-| 32.5–33.5% | 0.4% | 0.5% |  |
+| 32.5–33.5% | 0.6% | 0.7% |  |
 | 33.5–34.5% | 0.1% | 0.1% |  |
 | 34.5–35.5% | 0% | 0% |  |
 
@@ -1611,7 +1611,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [29–30 November 2023](2023-11-30-TermometroPolitico.html) | Termometro Politico | 27 | 26–29 | 26–29 | 25–29 | 25–29 |
 | [29–30 November 2023](2023-11-30-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 27 | 23–27 | 23–28 | 22–30 | 21–30 |
 | [26–30 November 2023](2023-11-30-Lab2101.html) | Lab2101 <br> Affari Italiani | 25 | 24–26 | 23–27 | 22–28 | 22–29 |
-| [30 November 2023](2023-11-30-IndexResearch.html) | Index Research <br> Giornale Radio |  |  |  |  |  |
+| [30 November 2023](2023-11-30-IndexResearch.html) | Index Research <br> Giornale Radio | 25 | 23–28 | 22–28 | 22–28 | 21–29 |
 | [28–29 November 2023](2023-11-29-Eumetra.html) | Eumetra <br> La7 | 26 | 23–30 | 22–30 | 22–30 | 20–30 |
 | [22–27 November 2023](2023-11-27-SWG.html) | SWG <br> La7 | 25 | 23–29 | 23–29 | 23–29 | 22–29 |
 | [23–24 November 2023](2023-11-24-Tecnè.html) | Tecnè <br> Agenzia Dire | 24 | 22–26 | 22–27 | 21–27 | 20–28 |
@@ -3163,15 +3163,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0.3% | 100% |  |
-| 21 | 5% | 99.7% |  |
-| 22 | 10% | 95% |  |
-| 23 | 12% | 85% |  |
-| 24 | 19% | 74% |  |
+| 21 | 4% | 99.7% |  |
+| 22 | 9% | 95% |  |
+| 23 | 12% | 86% |  |
+| 24 | 20% | 75% |  |
 | 25 | 19% | 55% | Median |
 | 26 | 14% | 36% |  |
 | 27 | 12% | 22% |  |
-| 28 | 6% | 10% |  |
-| 29 | 3% | 4% |  |
+| 28 | 7% | 10% |  |
+| 29 | 3% | 3% |  |
 | 30 | 0.2% | 0.2% |  |
 | 31 | 0% | 0% |  |
 
