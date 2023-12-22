@@ -10,9 +10,18 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.5% | 1.1–2.0% | 1.0–2.1% | 0.9–2.3% | 0.8–2.6% |
+| N/A | [Poll Average](average.html) | 1.5% | 1.1–2.0% | 1.0–2.1% | 0.9–2.3% | 0.7–2.6% |
+| [13–18 December 2023](2023-12-18-SWG.html) | SWG <br> La7 | 1.4% | 1.1–2.0% | 1.0–2.1% | 0.9–2.3% | 0.7–2.6% |
+| [14–15 December 2023](2023-12-15-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [11–15 December 2023](2023-12-15-Ixè.html) | Ixè | 0.0% | N/A | N/A | N/A | N/A |
+| [13–14 December 2023](2023-12-14-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.0% | N/A | N/A | N/A | N/A |
+| [8–14 December 2023](2023-12-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 0.0% | N/A | N/A | N/A | N/A |
+| [12–14 December 2023](2023-12-14-Ipsos.html) | Ipsos <br> Corriere della Sera | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.3% | 0.7–2.7% |
+| [13 December 2023](2023-12-13-Euromedia.html) | Euromedia <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
+| [12–13 December 2023](2023-12-13-Eumetra.html) | Eumetra <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [12–13 December 2023](2023-12-13-BiDiMedia.html) | BiDiMedia | 1.3% | 0.9–1.9% | 0.8–2.1% | 0.8–2.2% | 0.6–2.5% |
 | [10–11 December 2023](2023-12-11-Tecnè.html) | Tecnè | 0.0% | N/A | N/A | N/A | N/A |
+| [5–11 December 2023](2023-12-11-SWG.html) | SWG <br> La7 | 1.6% | N/A | N/A | N/A | N/A |
 | [7–8 December 2023](2023-12-08-EMG.html) | EMG <br> Il Tirreno | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
 | [6–7 December 2023](2023-12-07-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [6–7 December 2023](2023-12-07-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.0% | N/A | N/A | N/A | N/A |
@@ -1554,9 +1563,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 53% | 100% |  |
-| 1.5–2.5% | 47% | 47% | Median |
+| 0.0–0.5% | 0.1% | 100% | Last Result |
+| 0.5–1.5% | 55% | 99.9% |  |
+| 1.5–2.5% | 44% | 45% | Median |
 | 2.5–3.5% | 0.7% | 0.7% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
@@ -1570,8 +1579,17 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [13–18 December 2023](2023-12-18-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
+| [14–15 December 2023](2023-12-15-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [11–15 December 2023](2023-12-15-Ixè.html) | Ixè |  |  |  |  |  |
+| [13–14 December 2023](2023-12-14-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
+| [8–14 December 2023](2023-12-14-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
+| [12–14 December 2023](2023-12-14-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
+| [13 December 2023](2023-12-13-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
+| [12–13 December 2023](2023-12-13-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
+| [12–13 December 2023](2023-12-13-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
 | [10–11 December 2023](2023-12-11-Tecnè.html) | Tecnè |  |  |  |  |  |
+| [5–11 December 2023](2023-12-11-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [7–8 December 2023](2023-12-08-EMG.html) | EMG <br> Il Tirreno | 0 | 0 | 0 | 0 | 0 |
 | [6–7 December 2023](2023-12-07-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [6–7 December 2023](2023-12-07-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
