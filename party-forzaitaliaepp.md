@@ -10,10 +10,14 @@ Last result: **16.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.0% | 5.7–9.1% | 5.3–9.8% | 5.0–10.4% | 4.4–11.4% |
+| N/A | [Poll Average](average.html) | 7.0% | 5.7–9.0% | 5.3–9.8% | 5.0–10.4% | 4.5–11.4% |
+| [27 December 2023](2023-12-27-Euromedia.html) | Euromedia | 7.5% | 6.4–8.8% | 6.1–9.2% | 5.9–9.5% | 5.4–10.2% |
+| [18–23 December 2023](2023-12-23-Lab2101.html) | Lab2101 <br> Affari Italiani | 5.7% | 4.9–6.8% | 4.6–7.1% | 4.4–7.3% | 4.1–7.9% |
+| [20–21 December 2023](2023-12-21-TermometroPolitico.html) | Termometro Politico | 6.1% | 5.6–6.6% | 5.5–6.8% | 5.4–6.9% | 5.2–7.2% |
 | [13–18 December 2023](2023-12-18-SWG.html) | SWG <br> La7 | 7.2% | 6.3–8.2% | 6.0–8.5% | 5.8–8.8% | 5.4–9.3% |
 | [14–15 December 2023](2023-12-15-Tecnè.html) | Tecnè <br> Agenzia Dire | 9.8% | 8.7–11.1% | 8.4–11.5% | 8.1–11.8% | 7.6–12.5% |
 | [11–15 December 2023](2023-12-15-Ixè.html) | Ixè | 6.8% | 5.9–7.9% | 5.6–8.3% | 5.4–8.5% | 5.0–9.1% |
+| [13–14 December 2023](2023-12-14-TermometroPolitico.html) | Termometro Politico | 6.3% | N/A | N/A | N/A | N/A |
 | [13–14 December 2023](2023-12-14-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 5.8% | 4.9–7.0% | 4.6–7.4% | 4.4–7.7% | 4.0–8.3% |
 | [8–14 December 2023](2023-12-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 5.6% | 4.8–6.6% | 4.5–7.0% | 4.3–7.2% | 4.0–7.7% |
 | [12–14 December 2023](2023-12-14-Ipsos.html) | Ipsos <br> Corriere della Sera | 6.8% | 5.9–7.9% | 5.6–8.3% | 5.4–8.5% | 5.0–9.1% |
@@ -1564,12 +1568,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.7% | 100% |  |
-| 4.5–5.5% | 7% | 99.3% |  |
-| 5.5–6.5% | 26% | 92% |  |
-| 6.5–7.5% | 32% | 66% | Median |
-| 7.5–8.5% | 19% | 35% |  |
-| 8.5–9.5% | 9% | 15% |  |
+| 3.5–4.5% | 0.6% | 100% |  |
+| 4.5–5.5% | 7% | 99.4% |  |
+| 5.5–6.5% | 27% | 92% |  |
+| 6.5–7.5% | 31% | 65% | Median |
+| 7.5–8.5% | 19% | 34% |  |
+| 8.5–9.5% | 8% | 15% |  |
 | 9.5–10.5% | 4% | 6% |  |
 | 10.5–11.5% | 2% | 2% |  |
 | 11.5–12.5% | 0.3% | 0.4% |  |
@@ -1588,10 +1592,14 @@ Last result: **13** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–7 | 3–7 | 3–8 | 3–9 |
+| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–7 | 3–8 | 3–9 |
+| [27 December 2023](2023-12-27-Euromedia.html) | Euromedia | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
+| [18–23 December 2023](2023-12-23-Lab2101.html) | Lab2101 <br> Affari Italiani | 4 | 4 | 4 | 4–5 | 3–6 |
+| [20–21 December 2023](2023-12-21-TermometroPolitico.html) | Termometro Politico | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [13–18 December 2023](2023-12-18-SWG.html) | SWG <br> La7 | 6 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [14–15 December 2023](2023-12-15-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 6–9 | 6–9 | 6–9 | 5–9 |
 | [11–15 December 2023](2023-12-15-Ixè.html) | Ixè | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
+| [13–14 December 2023](2023-12-14-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [13–14 December 2023](2023-12-14-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
 | [8–14 December 2023](2023-12-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 4 | 3–5 | 3–5 | 3–5 | 2–6 |
 | [12–14 December 2023](2023-12-14-Ipsos.html) | Ipsos <br> Corriere della Sera | 6 | 5–6 | 4–6 | 4–6 | 3–7 |
@@ -3143,12 +3151,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0% | 100% |  |
-| 3 | 6% | 99.9% |  |
-| 4 | 16% | 94% |  |
-| 5 | 38% | 78% | Median |
-| 6 | 30% | 41% |  |
-| 7 | 6% | 11% |  |
+| 3 | 3% | 100% |  |
+| 4 | 23% | 97% |  |
+| 5 | 34% | 74% | Median |
+| 6 | 30% | 40% |  |
+| 7 | 5% | 9% |  |
 | 8 | 3% | 4% |  |
 | 9 | 1.2% | 1.2% |  |
 | 10 | 0% | 0% |  |

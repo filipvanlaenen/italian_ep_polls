@@ -10,10 +10,14 @@ Last result: **3.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28.8% | 26.8–30.7% | 26.3–31.3% | 25.8–31.8% | 24.8–32.8% |
+| N/A | [Poll Average](average.html) | 28.8% | 26.8–30.7% | 26.3–31.3% | 25.8–31.8% | 24.9–32.8% |
+| [27 December 2023](2023-12-27-Euromedia.html) | Euromedia | 28.5% | 26.5–30.6% | 26.0–31.2% | 25.5–31.7% | 24.5–32.8% |
+| [18–23 December 2023](2023-12-23-Lab2101.html) | Lab2101 <br> Affari Italiani | 29.5% | 27.7–31.4% | 27.2–31.9% | 26.7–32.4% | 25.9–33.3% |
+| [20–21 December 2023](2023-12-21-TermometroPolitico.html) | Termometro Politico | 29.3% | 28.3–30.3% | 28.1–30.5% | 27.9–30.8% | 27.4–31.2% |
 | [13–18 December 2023](2023-12-18-SWG.html) | SWG <br> La7 | 28.5% | 26.9–30.2% | 26.4–30.7% | 26.0–31.1% | 25.2–32.0% |
 | [14–15 December 2023](2023-12-15-Tecnè.html) | Tecnè <br> Agenzia Dire | 28.5% | 26.7–30.4% | 26.2–30.9% | 25.8–31.4% | 24.9–32.3% |
 | [11–15 December 2023](2023-12-15-Ixè.html) | Ixè | 29.3% | 27.5–31.2% | 27.0–31.7% | 26.6–32.2% | 25.7–33.1% |
+| [13–14 December 2023](2023-12-14-TermometroPolitico.html) | Termometro Politico | 29.6% | N/A | N/A | N/A | N/A |
 | [13–14 December 2023](2023-12-14-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 28.4% | 26.5–30.6% | 25.9–31.2% | 25.4–31.7% | 24.5–32.7% |
 | [8–14 December 2023](2023-12-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 29.3% | 27.5–31.2% | 27.0–31.7% | 26.6–32.2% | 25.7–33.1% |
 | [12–14 December 2023](2023-12-14-Ipsos.html) | Ipsos <br> Corriere della Sera | 29.3% | 27.5–31.2% | 27.0–31.7% | 26.6–32.2% | 25.7–33.1% |
@@ -1584,15 +1588,15 @@ The following table shows the probability mass function per percentage block of 
 | 21.5–22.5% | 0% | 100% |  |
 | 22.5–23.5% | 0% | 100% |  |
 | 23.5–24.5% | 0.3% | 100% |  |
-| 24.5–25.5% | 1.5% | 99.7% |  |
-| 25.5–26.5% | 6% | 98% |  |
-| 26.5–27.5% | 14% | 93% |  |
-| 27.5–28.5% | 22% | 79% |  |
-| 28.5–29.5% | 26% | 57% | Median |
+| 24.5–25.5% | 1.4% | 99.7% |  |
+| 25.5–26.5% | 5% | 98% |  |
+| 26.5–27.5% | 13% | 93% |  |
+| 27.5–28.5% | 22% | 80% |  |
+| 28.5–29.5% | 27% | 57% | Median |
 | 29.5–30.5% | 19% | 31% |  |
 | 30.5–31.5% | 8% | 12% |  |
-| 31.5–32.5% | 3% | 3% |  |
-| 32.5–33.5% | 0.6% | 0.7% |  |
+| 31.5–32.5% | 3% | 4% |  |
+| 32.5–33.5% | 0.7% | 0.8% |  |
 | 33.5–34.5% | 0.1% | 0.1% |  |
 | 34.5–35.5% | 0% | 0% |  |
 
@@ -1606,9 +1610,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 25 | 23–27 | 22–28 | 22–29 | 21–30 |
+| [27 December 2023](2023-12-27-Euromedia.html) | Euromedia | 24 | 23–26 | 23–27 | 22–27 | 21–28 |
+| [18–23 December 2023](2023-12-23-Lab2101.html) | Lab2101 <br> Affari Italiani | 25 | 25–27 | 25–28 | 24–29 | 23–29 |
+| [20–21 December 2023](2023-12-21-TermometroPolitico.html) | Termometro Politico | 27 | 26–29 | 26–29 | 26–29 | 25–29 |
 | [13–18 December 2023](2023-12-18-SWG.html) | SWG <br> La7 | 25 | 24–27 | 24–27 | 23–28 | 22–29 |
 | [14–15 December 2023](2023-12-15-Tecnè.html) | Tecnè <br> Agenzia Dire | 24 | 22–26 | 21–28 | 21–28 | 20–28 |
 | [11–15 December 2023](2023-12-15-Ixè.html) | Ixè | 26 | 24–28 | 24–28 | 23–29 | 22–29 |
+| [13–14 December 2023](2023-12-14-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [13–14 December 2023](2023-12-14-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 25 | 22–26 | 22–26 | 22–27 | 22–28 |
 | [8–14 December 2023](2023-12-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 26 | 24–27 | 24–28 | 23–30 | 23–30 |
 | [12–14 December 2023](2023-12-14-Ipsos.html) | Ipsos <br> Corriere della Sera | 24 | 24–29 | 24–30 | 23–30 | 22–30 |
@@ -3180,17 +3188,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 0% | 100% |  |
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
-| 20 | 0.3% | 100% |  |
-| 21 | 1.5% | 99.7% |  |
-| 22 | 8% | 98% |  |
-| 23 | 10% | 91% |  |
-| 24 | 22% | 81% |  |
-| 25 | 12% | 58% | Median |
-| 26 | 22% | 46% |  |
-| 27 | 15% | 24% |  |
+| 20 | 0.2% | 100% |  |
+| 21 | 1.2% | 99.7% |  |
+| 22 | 6% | 98.5% |  |
+| 23 | 10% | 93% |  |
+| 24 | 22% | 83% |  |
+| 25 | 17% | 60% | Median |
+| 26 | 20% | 43% |  |
+| 27 | 14% | 23% |  |
 | 28 | 5% | 9% |  |
-| 29 | 3% | 4% |  |
-| 30 | 1.0% | 1.0% |  |
+| 29 | 4% | 5% |  |
+| 30 | 0.7% | 0.7% |  |
 | 31 | 0% | 0% |  |
 
 
