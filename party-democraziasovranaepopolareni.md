@@ -11,9 +11,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.3% | 0.9–1.7% | 0.7–1.9% | 0.6–2.0% | 0.5–2.3% |
-| [27 December 2023](2023-12-27-Euromedia.html) | Euromedia | 0.0% | N/A | N/A | N/A | N/A |
+| [28–29 December 2023](2023-12-29-TermometroPolitico.html) | Termometro Politico | 1.4% | 1.2–1.7% | 1.1–1.8% | 1.1–1.8% | 0.9–2.0% |
 | [18–23 December 2023](2023-12-23-Lab2101.html) | Lab2101 <br> Affari Italiani | 0.0% | N/A | N/A | N/A | N/A |
 | [20–21 December 2023](2023-12-21-TermometroPolitico.html) | Termometro Politico | 1.4% | 1.2–1.7% | 1.1–1.8% | 1.1–1.8% | 1.0–2.0% |
+| [20 December 2023](2023-12-20-Euromedia.html) | Euromedia | 0.0% | N/A | N/A | N/A | N/A |
 | [13–18 December 2023](2023-12-18-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [14–15 December 2023](2023-12-15-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [11–15 December 2023](2023-12-15-Ixè.html) | Ixè | 0.0% | N/A | N/A | N/A | N/A |
@@ -1583,9 +1584,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [27 December 2023](2023-12-27-Euromedia.html) | Euromedia |  |  |  |  |  |
+| [28–29 December 2023](2023-12-29-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [18–23 December 2023](2023-12-23-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
 | [20–21 December 2023](2023-12-21-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
+| [20 December 2023](2023-12-20-Euromedia.html) | Euromedia |  |  |  |  |  |
 | [13–18 December 2023](2023-12-18-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [14–15 December 2023](2023-12-15-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [11–15 December 2023](2023-12-15-Ixè.html) | Ixè |  |  |  |  |  |
