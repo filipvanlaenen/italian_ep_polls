@@ -10,35 +10,9 @@ Last result: **21.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.3% | 14.2–18.1% | 13.3–18.7% | 12.6–19.2% | 11.6–20.1% |
-| [3–8 January 2024](2024-01-08-SWG.html) | SWG <br> La7 | 16.4% | 15.1–17.9% | 14.7–18.3% | 14.4–18.6% | 13.8–19.3% |
-| [4 January 2024](2024-01-04-Lab2101.html) | Lab2101 <br> Affari Italiani | 16.2% | 14.8–17.8% | 14.4–18.2% | 14.0–18.6% | 13.4–19.4% |
-| [2 January 2024](2024-01-02-Tecnè.html) | Tecnè <br> Rete 4 | 16.6% | 15.0–18.4% | 14.5–18.9% | 14.1–19.3% | 13.4–20.2% |
-| [28–29 December 2023](2023-12-29-TermometroPolitico.html) | Termometro Politico | 16.1% | 15.3–16.9% | 15.1–17.2% | 14.9–17.4% | 14.6–17.8% |
-| [18–23 December 2023](2023-12-23-Lab2101.html) | Lab2101 <br> Affari Italiani | 16.1% | 14.7–17.7% | 14.3–18.1% | 13.9–18.5% | 13.3–19.3% |
-| [20–21 December 2023](2023-12-21-TermometroPolitico.html) | Termometro Politico | 16.3% | 15.5–17.1% | 15.3–17.3% | 15.1–17.5% | 14.8–17.9% |
-| [20 December 2023](2023-12-20-Euromedia.html) | Euromedia | 16.5% | 15.1–18.1% | 14.7–18.5% | 14.3–18.9% | 13.7–19.7% |
-| [13–18 December 2023](2023-12-18-SWG.html) | SWG <br> La7 | 16.8% | 15.5–18.3% | 15.1–18.7% | 14.8–19.1% | 14.2–19.8% |
-| [14–15 December 2023](2023-12-15-Tecnè.html) | Tecnè <br> Agenzia Dire | 16.0% | 14.6–17.6% | 14.2–18.1% | 13.9–18.5% | 13.2–19.3% |
-| [11–15 December 2023](2023-12-15-Ixè.html) | Ixè | 17.6% | 16.1–19.2% | 15.7–19.7% | 15.4–20.1% | 14.7–20.9% |
-| [13–14 December 2023](2023-12-14-TermometroPolitico.html) | Termometro Politico | 16.0% | N/A | N/A | N/A | N/A |
-| [13–14 December 2023](2023-12-14-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 13.4% | 12.0–15.1% | 11.6–15.5% | 11.2–16.0% | 10.6–16.8% |
-| [8–14 December 2023](2023-12-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 16.3% | 14.9–17.9% | 14.5–18.3% | 14.1–18.7% | 13.5–19.5% |
-| [12–14 December 2023](2023-12-14-Ipsos.html) | Ipsos <br> Corriere della Sera | 17.2% | 15.7–18.8% | 15.3–19.3% | 15.0–19.7% | 14.3–20.5% |
-| [13 December 2023](2023-12-13-Euromedia.html) | Euromedia <br> Rai 1 | 16.8% | 15.2–18.5% | 14.7–19.1% | 14.3–19.5% | 13.6–20.4% |
-| [12–13 December 2023](2023-12-13-Eumetra.html) | Eumetra <br> La7 | 16.1% | 14.6–17.9% | 14.1–18.4% | 13.7–18.8% | 13.0–19.7% |
-| [12–13 December 2023](2023-12-13-BiDiMedia.html) | BiDiMedia | 15.3% | 13.9–16.9% | 13.5–17.3% | 13.2–17.7% | 12.6–18.4% |
-| [10–11 December 2023](2023-12-11-Tecnè.html) | Tecnè | 16.0% | 14.6–17.6% | 14.2–18.1% | 13.9–18.4% | 13.2–19.2% |
-| [5–11 December 2023](2023-12-11-SWG.html) | SWG <br> La7 | 16.4% | N/A | N/A | N/A | N/A |
-| [7–8 December 2023](2023-12-08-EMG.html) | EMG <br> Il Tirreno | 17.0% | 15.5–18.6% | 15.1–19.1% | 14.8–19.5% | 14.1–20.3% |
-| [6–7 December 2023](2023-12-07-Tecnè.html) | Tecnè <br> Agenzia Dire | 15.9% | N/A | N/A | N/A | N/A |
-| [6–7 December 2023](2023-12-07-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 13.5% | 12.1–15.2% | 11.7–15.7% | 11.3–16.1% | 10.7–16.9% |
-| [1–7 December 2023](2023-12-07-Lab2101.html) | Lab2101 <br> Affari Italiani | 16.2% | 14.8–17.8% | 14.4–18.2% | 14.0–18.6% | 13.4–19.4% |
-| [6–7 December 2023](2023-12-07-Demopolis.html) | Demopolis | 16.0% | 14.8–17.3% | 14.5–17.6% | 14.2–18.0% | 13.7–18.6% |
-| [6 December 2023](2023-12-06-Tecnè.html) | Tecnè | 16.1% | N/A | N/A | N/A | N/A |
-| [5–6 December 2023](2023-12-06-Eumetra.html) | Eumetra <br> La7 | 16.0% | 14.4–17.8% | 14.0–18.3% | 13.6–18.7% | 12.9–19.6% |
-| [4 December 2023](2023-12-04-SWG.html) | SWG <br> La7 | 16.7% | 15.3–18.1% | 15.0–18.5% | 14.7–18.9% | 14.1–19.6% |
-| [1 December 2023](2023-12-01-Tecnè.html) | Tecnè <br> Agenzia Dire | 16.1% | 14.7–17.7% | 14.3–18.1% | 13.9–18.5% | 13.3–19.3% |
+| N/A | [Poll Average](average.html) | 16.7% | 15.1–18.3% | 14.7–18.7% | 14.3–19.1% | 13.6–19.9% |
+| [30 December 2023–4 January 2024](2024-01-04-Lab2101.html) | Lab2101 <br> Affari Italiani | 16.2% | 14.8–17.8% | 14.4–18.2% | 14.0–18.6% | 13.4–19.4% |
+| [4 January 2024](2024-01-04-IZI.html) | IZI <br> Europa Today | 17.0% | 15.6–18.6% | 15.2–19.0% | 14.9–19.4% | 14.3–20.2% |
 | [29–30 November 2023](2023-11-30-TermometroPolitico.html) | Termometro Politico | 16.2% | 15.5–17.0% | 15.3–17.2% | 15.1–17.4% | 14.7–17.8% |
 | [29–30 November 2023](2023-11-30-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 13.8% | 12.4–15.5% | 11.9–16.0% | 11.6–16.4% | 10.9–17.2% |
 | [26–30 November 2023](2023-11-30-Lab2101.html) | Lab2101 <br> Affari Italiani | 16.1% | 14.7–17.7% | 14.3–18.1% | 13.9–18.5% | 13.3–19.3% |
@@ -1571,18 +1545,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 9.5–10.5% | 0% | 100% |  |
-| 10.5–11.5% | 0.4% | 100% |  |
-| 11.5–12.5% | 2% | 99.5% |  |
-| 12.5–13.5% | 4% | 98% |  |
-| 13.5–14.5% | 7% | 94% |  |
-| 14.5–15.5% | 16% | 86% |  |
-| 15.5–16.5% | 28% | 70% | Median |
-| 16.5–17.5% | 23% | 42% |  |
-| 17.5–18.5% | 13% | 19% |  |
-| 18.5–19.5% | 5% | 6% |  |
-| 19.5–20.5% | 1.1% | 1.3% |  |
-| 20.5–21.5% | 0.2% | 0.2% | Last Result |
+| 11.5–12.5% | 0% | 100% |  |
+| 12.5–13.5% | 0.4% | 100% |  |
+| 13.5–14.5% | 4% | 99.6% |  |
+| 14.5–15.5% | 14% | 96% |  |
+| 15.5–16.5% | 28% | 82% |  |
+| 16.5–17.5% | 30% | 54% | Median |
+| 17.5–18.5% | 17% | 24% |  |
+| 18.5–19.5% | 6% | 7% |  |
+| 19.5–20.5% | 1.0% | 1.1% |  |
+| 20.5–21.5% | 0.1% | 0.1% | Last Result |
 | 21.5–22.5% | 0% | 0% |  |
 
 
@@ -1594,35 +1566,9 @@ Last result: **17** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 13–16 | 11–17 | 11–17 | 11–18 |
-| [3–8 January 2024](2024-01-08-SWG.html) | SWG <br> La7 | 15 | 14–15 | 14–16 | 14–17 | 13–17 |
-| [4 January 2024](2024-01-04-Lab2101.html) | Lab2101 <br> Affari Italiani | 15 | 13–16 | 12–16 | 12–16 | 12–16 |
-| [2 January 2024](2024-01-02-Tecnè.html) | Tecnè <br> Rete 4 | 14 | 12–15 | 12–15 | 12–16 | 11–16 |
-| [28–29 December 2023](2023-12-29-TermometroPolitico.html) | Termometro Politico | 16 | 16 | 15–16 | 14–16 | 14–16 |
-| [18–23 December 2023](2023-12-23-Lab2101.html) | Lab2101 <br> Affari Italiani | 15 | 14–15 | 12–16 | 11–16 | 11–16 |
-| [20–21 December 2023](2023-12-21-TermometroPolitico.html) | Termometro Politico | 15 | 14–16 | 14–16 | 14–16 | 14–16 |
-| [20 December 2023](2023-12-20-Euromedia.html) | Euromedia | 14 | 13–16 | 12–16 | 11–16 | 11–18 |
-| [13–18 December 2023](2023-12-18-SWG.html) | SWG <br> La7 | 16 | 14–16 | 12–16 | 12–16 | 12–18 |
-| [14–15 December 2023](2023-12-15-Tecnè.html) | Tecnè <br> Agenzia Dire | 13 | 12–15 | 12–15 | 11–16 | 11–16 |
-| [11–15 December 2023](2023-12-15-Ixè.html) | Ixè | 15 | 14–17 | 13–17 | 13–17 | 13–19 |
-| [13–14 December 2023](2023-12-14-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [13–14 December 2023](2023-12-14-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 12 | 11–14 | 11–14 | 11–14 | 9–14 |
-| [8–14 December 2023](2023-12-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 13 | 13–15 | 13–15 | 13–17 | 12–17 |
-| [12–14 December 2023](2023-12-14-Ipsos.html) | Ipsos <br> Corriere della Sera | 13 | 13–16 | 13–17 | 13–17 | 12–18 |
-| [13 December 2023](2023-12-13-Euromedia.html) | Euromedia <br> Rai 1 | 14 | 13–16 | 11–17 | 11–17 | 11–18 |
-| [12–13 December 2023](2023-12-13-Eumetra.html) | Eumetra <br> La7 | 13 | 13–17 | 13–17 | 12–17 | 11–17 |
-| [12–13 December 2023](2023-12-13-BiDiMedia.html) | BiDiMedia | 14 | 13–15 | 11–16 | 11–16 | 11–16 |
-| [10–11 December 2023](2023-12-11-Tecnè.html) | Tecnè | 14 | 12–15 | 12–15 | 11–15 | 11–16 |
-| [5–11 December 2023](2023-12-11-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [7–8 December 2023](2023-12-08-EMG.html) | EMG <br> Il Tirreno | 14 | 13–19 | 13–19 | 13–19 | 12–19 |
-| [6–7 December 2023](2023-12-07-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
-| [6–7 December 2023](2023-12-07-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 12 | 10–12 | 10–13 | 10–14 | 9–14 |
-| [1–7 December 2023](2023-12-07-Lab2101.html) | Lab2101 <br> Affari Italiani | 14 | 13–16 | 12–16 | 12–16 | 12–18 |
-| [6–7 December 2023](2023-12-07-Demopolis.html) | Demopolis | 13 | 12–14 | 12–15 | 12–15 | 11–16 |
-| [6 December 2023](2023-12-06-Tecnè.html) | Tecnè |  |  |  |  |  |
-| [5–6 December 2023](2023-12-06-Eumetra.html) | Eumetra <br> La7 | 14 | 13–16 | 12–16 | 12–16 | 10–17 |
-| [4 December 2023](2023-12-04-SWG.html) | SWG <br> La7 | 14 | 14–15 | 14–16 | 14–16 | 13–17 |
-| [1 December 2023](2023-12-01-Tecnè.html) | Tecnè <br> Agenzia Dire | 13 | 12–14 | 12–15 | 12–16 | 11–16 |
+| N/A | [Poll Average](average.html) | 14 | 13–15 | 12–16 | 12–17 | 12–17 |
+| [30 December 2023–4 January 2024](2024-01-04-Lab2101.html) | Lab2101 <br> Affari Italiani | 14 | 13–15 | 12–16 | 12–16 | 11–17 |
+| [4 January 2024](2024-01-04-IZI.html) | IZI <br> Europa Today | 14 | 13–15 | 12–16 | 12–17 | 12–17 |
 | [29–30 November 2023](2023-11-30-TermometroPolitico.html) | Termometro Politico | 15 | 13–16 | 13–16 | 13–16 | 13–16 |
 | [29–30 November 2023](2023-11-30-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 11 | 11–13 | 10–13 | 10–14 | 9–14 |
 | [26–30 November 2023](2023-11-30-Lab2101.html) | Lab2101 <br> Affari Italiani | 14 | 12–16 | 12–16 | 12–16 | 11–16 |
@@ -3157,17 +3103,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 0% | 100% |  |
-| 10 | 0.2% | 99.9% |  |
-| 11 | 6% | 99.8% |  |
-| 12 | 3% | 94% |  |
-| 13 | 22% | 91% |  |
-| 14 | 24% | 68% | Median |
-| 15 | 20% | 44% |  |
-| 16 | 18% | 24% |  |
-| 17 | 5% | 6% | Last Result |
-| 18 | 0.4% | 0.5% |  |
-| 19 | 0.1% | 0.1% |  |
-| 20 | 0% | 0% |  |
+| 11 | 0.4% | 100% |  |
+| 12 | 7% | 99.6% |  |
+| 13 | 20% | 92% |  |
+| 14 | 36% | 72% | Median |
+| 15 | 30% | 37% |  |
+| 16 | 4% | 7% |  |
+| 17 | 3% | 3% | Last Result |
+| 18 | 0.1% | 0.1% |  |
+| 19 | 0% | 0% |  |
 
 

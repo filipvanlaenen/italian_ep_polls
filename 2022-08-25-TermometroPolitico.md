@@ -17,11 +17,13 @@
 | Forza Italia (EPP) | 16.8% | 7.2% | 6.8–7.7% |6.6–7.8% |6.5–7.9% |6.3–8.2% |
 | Azione–Italia Viva (RE) | 0.0% | 4.8% | 4.4–5.2% |4.3–5.3% |4.2–5.4% |4.1–5.6% |
 | Italexit–Per l’Italia con Paragone (*) | 0.0% | 2.5% | 2.2–2.8% |2.2–2.9% |2.1–3.0% |2.0–3.1% |
-| Alleanza Verdi e Sinistra (Greens/EFA) | 0.0% | 2.5% | 2.2–2.8% |2.2–2.9% |2.1–3.0% |2.0–3.1% |
 | Più Europa (RE) | 0.0% | 1.9% | 1.7–2.2% |1.6–2.3% |1.6–2.3% |1.5–2.5% |
 | Unione Popolare (GUE/NGL) | 0.0% | 1.5% | 1.3–1.8% |1.2–1.8% |1.2–1.9% |1.1–2.0% |
+| Europa Verde (Greens/EFA) | 0.0% | 1.4% | N/A |N/A |N/A |N/A |
 | Noi Moderati (EPP) | 0.0% | 1.2% | 1.0–1.4% |1.0–1.5% |0.9–1.5% |0.9–1.7% |
+| Sinistra Italiana (GUE/NGL) | 0.0% | 0.9% | N/A |N/A |N/A |N/A |
 | Impegno Civico (NI) | 0.0% | 0.8% | 0.7–1.0% |0.6–1.0% |0.6–1.1% |0.5–1.2% |
+| Partito Progressista (*) | 0.0% | 0.2% | N/A |N/A |N/A |N/A |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -42,11 +44,13 @@
 | <a href="#forza-italia-(epp)">Forza Italia (EPP)</a> | 13 | 6 | 6–7 |5–7 |5–7 |5–7 |
 | <a href="#azione–italia-viva-(re)">Azione–Italia Viva (RE)</a> | 0 | 4 | 4–5 |4–5 |4–5 |4–5 |
 | <a href="#italexit–per-l’italia-con-paragone-(*)">Italexit–Per l’Italia con Paragone (*)</a> | 0 | 0 | 0 |0 |0 |0 |
-| <a href="#alleanza-verdi-e-sinistra-(greens/efa)">Alleanza Verdi e Sinistra (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#più-europa-(re)">Più Europa (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#unione-popolare-(gue/ngl)">Unione Popolare (GUE/NGL)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#europa-verde-(greens/efa)">Europa Verde (Greens/EFA)</a> | 0 | N/A | N/A |N/A |N/A |N/A |
 | <a href="#noi-moderati-(epp)">Noi Moderati (EPP)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#sinistra-italiana-(gue/ngl)">Sinistra Italiana (GUE/NGL)</a> | 0 | N/A | N/A |N/A |N/A |N/A |
 | <a href="#impegno-civico-(ni)">Impegno Civico (NI)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#partito-progressista-(*)">Partito Progressista (*)</a> | 0 | N/A | N/A |N/A |N/A |N/A |
 
 ### Fratelli d’Italia (ECR)
 
@@ -189,16 +193,6 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Last Result, Median |
 
-### Alleanza Verdi e Sinistra (Greens/EFA)
-
-*For a full overview of the results for this party, see the [Alleanza Verdi e Sinistra (Greens/EFA)](party-alleanzaverdiesinistragreensefa.html) page.*
-
-![Graph with seats probability mass function not yet produced](2022-08-25-TermometroPolitico-seats-pmf-alleanzaverdiesinistragreensefa.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
-
 ### Più Europa (RE)
 
 *For a full overview of the results for this party, see the [Più Europa (RE)](party-piùeuropare.html) page.*
@@ -219,6 +213,12 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Last Result, Median |
 
+### Europa Verde (Greens/EFA)
+
+*For a full overview of the results for this party, see the [Europa Verde (Greens/EFA)](party-europaverdegreensefa.html) page.*
+
+![Graph with seats probability mass function not yet produced](2022-08-25-TermometroPolitico-seats-pmf-europaverdegreensefa.png "Seats Probability Mass Function")
+
 ### Noi Moderati (EPP)
 
 *For a full overview of the results for this party, see the [Noi Moderati (EPP)](party-noimoderatiepp.html) page.*
@@ -229,6 +229,12 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Last Result, Median |
 
+### Sinistra Italiana (GUE/NGL)
+
+*For a full overview of the results for this party, see the [Sinistra Italiana (GUE/NGL)](party-sinistraitalianaguengl.html) page.*
+
+![Graph with seats probability mass function not yet produced](2022-08-25-TermometroPolitico-seats-pmf-sinistraitalianaguengl.png "Seats Probability Mass Function")
+
 ### Impegno Civico (NI)
 
 *For a full overview of the results for this party, see the [Impegno Civico (NI)](party-impegnociviconi.html) page.*
@@ -238,6 +244,12 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Last Result, Median |
+
+### Partito Progressista (*)
+
+*For a full overview of the results for this party, see the [Partito Progressista (*)](party-partitoprogressista.html) page.*
+
+![Graph with seats probability mass function not yet produced](2022-08-25-TermometroPolitico-seats-pmf-partitoprogressista.png "Seats Probability Mass Function")
 
 
 ## Coalitions
