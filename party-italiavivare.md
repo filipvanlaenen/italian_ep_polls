@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.0% | 2.3–3.7% | 2.2–3.9% | 2.0–4.1% | 1.8–4.5% |
+| N/A | [Poll Average](average.html) | 2.9% | 2.3–3.6% | 2.1–3.9% | 2.0–4.1% | 1.8–4.5% |
+| [30–31 January 2024](2024-01-31-Demopolis.html) | Demopolis | 2.7% | 2.3–3.2% | 2.2–3.4% | 2.1–3.5% | 1.9–3.8% |
+| [25–26 January 2024](2024-01-26-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 2.9% | 2.2–3.8% | 2.1–4.0% | 1.9–4.3% | 1.6–4.8% |
 | [30 December 2023–4 January 2024](2024-01-04-Lab2101.html) | Lab2101 <br> Affari Italiani | 2.8% | 2.2–3.6% | 2.1–3.8% | 1.9–4.0% | 1.7–4.4% |
 | [4 January 2024](2024-01-04-IZI.html) | IZI <br> Europa Today | 3.0% | 2.4–3.8% | 2.3–4.0% | 2.1–4.2% | 1.9–4.6% |
 | [29–30 November 2023](2023-11-30-TermometroPolitico.html) | Termometro Politico | 2.7% | 2.4–3.1% | 2.3–3.2% | 2.2–3.3% | 2.1–3.4% |
@@ -1547,9 +1549,9 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0.1% | 100% |  |
-| 1.5–2.5% | 21% | 99.9% |  |
-| 2.5–3.5% | 64% | 79% | Median |
-| 3.5–4.5% | 14% | 15% |  |
+| 1.5–2.5% | 24% | 99.9% |  |
+| 2.5–3.5% | 64% | 76% | Median |
+| 3.5–4.5% | 12% | 12% |  |
 | 4.5–5.5% | 0.5% | 0.5% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
@@ -1562,7 +1564,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–3 | 0–4 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–4 |
+| [30–31 January 2024](2024-01-31-Demopolis.html) | Demopolis | 0 | 0 | 0 | 0 | 0 |
+| [25–26 January 2024](2024-01-26-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0 | 0–3 | 0–4 |
 | [30 December 2023–4 January 2024](2024-01-04-Lab2101.html) | Lab2101 <br> Affari Italiani | 0 | 0 | 0 | 0–4 | 0–4 |
 | [4 January 2024](2024-01-04-IZI.html) | IZI <br> Europa Today | 0 | 0 | 0 | 0–3 | 0–4 |
 | [29–30 November 2023](2023-11-30-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
@@ -3099,11 +3103,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 97% | 100% | Last Result, Median |
-| 1 | 0% | 3% |  |
-| 2 | 0% | 3% |  |
-| 3 | 1.3% | 3% |  |
-| 4 | 2% | 2% |  |
+| 0 | 98% | 100% | Last Result, Median |
+| 1 | 0% | 2% |  |
+| 2 | 0% | 2% |  |
+| 3 | 0.9% | 2% |  |
+| 4 | 1.4% | 1.5% |  |
 | 5 | 0% | 0% |  |
 
 

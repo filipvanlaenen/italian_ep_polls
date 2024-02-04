@@ -10,7 +10,9 @@ Last result: **16.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.7% | 5.3–8.1% | 5.0–8.5% | 4.7–8.8% | 4.3–9.5% |
+| N/A | [Poll Average](average.html) | 6.9% | 5.5–8.0% | 5.1–8.3% | 4.9–8.6% | 4.4–9.3% |
+| [30–31 January 2024](2024-01-31-Demopolis.html) | Demopolis | 7.2% | 6.5–8.0% | 6.3–8.2% | 6.1–8.4% | 5.8–8.8% |
+| [25–26 January 2024](2024-01-26-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 6.5% | 5.5–7.7% | 5.2–8.1% | 5.0–8.4% | 4.5–9.0% |
 | [30 December 2023–4 January 2024](2024-01-04-Lab2101.html) | Lab2101 <br> Affari Italiani | 5.8% | 5.0–6.9% | 4.7–7.2% | 4.5–7.4% | 4.1–8.0% |
 | [4 January 2024](2024-01-04-IZI.html) | IZI <br> Europa Today | 7.4% | 6.5–8.5% | 6.2–8.9% | 6.0–9.1% | 5.5–9.7% |
 | [29–30 November 2023](2023-11-30-TermometroPolitico.html) | Termometro Politico | 6.3% | 5.8–6.8% | 5.7–7.0% | 5.6–7.1% | 5.4–7.4% |
@@ -1546,13 +1548,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 1.4% | 100% |  |
-| 4.5–5.5% | 16% | 98.5% |  |
-| 5.5–6.5% | 30% | 83% |  |
-| 6.5–7.5% | 29% | 53% | Median |
-| 7.5–8.5% | 19% | 24% |  |
-| 8.5–9.5% | 4% | 5% |  |
-| 9.5–10.5% | 0.4% | 0.4% |  |
+| 3.5–4.5% | 0.9% | 100% |  |
+| 4.5–5.5% | 10% | 99.1% |  |
+| 5.5–6.5% | 28% | 89% |  |
+| 6.5–7.5% | 38% | 61% | Median |
+| 7.5–8.5% | 19% | 23% |  |
+| 8.5–9.5% | 3% | 3% |  |
+| 9.5–10.5% | 0.2% | 0.2% |  |
 | 10.5–11.5% | 0% | 0% |  |
 | 11.5–12.5% | 0% | 0% |  |
 | 12.5–13.5% | 0% | 0% |  |
@@ -1570,7 +1572,9 @@ Last result: **13** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–6 | 3–6 | 3–6 | 3–7 |
+| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 3–6 | 3–7 |
+| [30–31 January 2024](2024-01-31-Demopolis.html) | Demopolis | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| [25–26 January 2024](2024-01-26-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 4 | 4–6 | 3–6 | 3–6 | 3–7 |
 | [30 December 2023–4 January 2024](2024-01-04-Lab2101.html) | Lab2101 <br> Affari Italiani | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
 | [4 January 2024](2024-01-04-IZI.html) | IZI <br> Europa Today | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
 | [29–30 November 2023](2023-11-30-TermometroPolitico.html) | Termometro Politico | 5 | 5 | 4–5 | 4–5 | 4–6 |
@@ -3107,14 +3111,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% |  |
-| 1 | 0% | 99.9% |  |
-| 2 | 0% | 99.9% |  |
-| 3 | 5% | 99.9% |  |
-| 4 | 36% | 94% |  |
-| 5 | 38% | 59% | Median |
-| 6 | 20% | 21% |  |
-| 7 | 0.9% | 0.9% |  |
+| 0 | 0.2% | 100% |  |
+| 1 | 0% | 99.8% |  |
+| 2 | 0% | 99.8% |  |
+| 3 | 5% | 99.8% |  |
+| 4 | 40% | 95% |  |
+| 5 | 36% | 55% | Median |
+| 6 | 18% | 19% |  |
+| 7 | 0.7% | 0.7% |  |
 | 8 | 0% | 0% |  |
 | 9 | 0% | 0% |  |
 | 10 | 0% | 0% |  |

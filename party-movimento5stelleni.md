@@ -10,7 +10,9 @@ Last result: **21.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.7% | 15.1–18.3% | 14.7–18.7% | 14.3–19.1% | 13.6–19.9% |
+| N/A | [Poll Average](average.html) | 15.8% | 13.3–17.7% | 12.6–18.3% | 12.1–18.7% | 11.3–19.6% |
+| [30–31 January 2024](2024-01-31-Demopolis.html) | Demopolis | 15.8% | 14.7–16.8% | 14.4–17.1% | 14.2–17.4% | 13.7–18.0% |
+| [25–26 January 2024](2024-01-26-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 13.6% | 12.1–15.2% | 11.7–15.7% | 11.4–16.1% | 10.7–16.9% |
 | [30 December 2023–4 January 2024](2024-01-04-Lab2101.html) | Lab2101 <br> Affari Italiani | 16.2% | 14.8–17.8% | 14.4–18.2% | 14.0–18.6% | 13.4–19.4% |
 | [4 January 2024](2024-01-04-IZI.html) | IZI <br> Europa Today | 17.0% | 15.6–18.6% | 15.2–19.0% | 14.9–19.4% | 14.3–20.2% |
 | [29–30 November 2023](2023-11-30-TermometroPolitico.html) | Termometro Politico | 16.2% | 15.5–17.0% | 15.3–17.2% | 15.1–17.4% | 14.7–17.8% |
@@ -1545,15 +1547,18 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 0.4% | 100% |  |
-| 13.5–14.5% | 4% | 99.6% |  |
-| 14.5–15.5% | 14% | 96% |  |
-| 15.5–16.5% | 28% | 82% |  |
-| 16.5–17.5% | 30% | 54% | Median |
-| 17.5–18.5% | 17% | 24% |  |
-| 18.5–19.5% | 6% | 7% |  |
-| 19.5–20.5% | 1.0% | 1.1% |  |
+| 8.5–9.5% | 0% | 100% |  |
+| 9.5–10.5% | 0.1% | 100% |  |
+| 10.5–11.5% | 0.8% | 99.9% |  |
+| 11.5–12.5% | 4% | 99.1% |  |
+| 12.5–13.5% | 8% | 96% |  |
+| 13.5–14.5% | 11% | 88% |  |
+| 14.5–15.5% | 19% | 77% |  |
+| 15.5–16.5% | 26% | 58% | Median |
+| 16.5–17.5% | 19% | 31% |  |
+| 17.5–18.5% | 9% | 13% |  |
+| 18.5–19.5% | 3% | 3% |  |
+| 19.5–20.5% | 0.5% | 0.6% |  |
 | 20.5–21.5% | 0.1% | 0.1% | Last Result |
 | 21.5–22.5% | 0% | 0% |  |
 
@@ -1566,7 +1571,9 @@ Last result: **17** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 13–15 | 12–16 | 12–17 | 12–17 |
+| N/A | [Poll Average](average.html) | 14 | 10–15 | 10–15 | 10–16 | 10–17 |
+| [30–31 January 2024](2024-01-31-Demopolis.html) | Demopolis | 14 | 12–15 | 12–15 | 12–15 | 12–15 |
+| [25–26 January 2024](2024-01-26-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 11 | 10–13 | 10–14 | 10–14 | 9–15 |
 | [30 December 2023–4 January 2024](2024-01-04-Lab2101.html) | Lab2101 <br> Affari Italiani | 14 | 13–15 | 12–16 | 12–16 | 11–17 |
 | [4 January 2024](2024-01-04-IZI.html) | IZI <br> Europa Today | 14 | 13–15 | 12–16 | 12–17 | 12–17 |
 | [29–30 November 2023](2023-11-30-TermometroPolitico.html) | Termometro Politico | 15 | 13–16 | 13–16 | 13–16 | 13–16 |
@@ -3103,13 +3110,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 0.4% | 100% |  |
-| 12 | 7% | 99.6% |  |
-| 13 | 20% | 92% |  |
-| 14 | 36% | 72% | Median |
-| 15 | 30% | 37% |  |
-| 16 | 4% | 7% |  |
-| 17 | 3% | 3% | Last Result |
+| 9 | 0.3% | 100% |  |
+| 10 | 11% | 99.7% |  |
+| 11 | 5% | 89% |  |
+| 12 | 12% | 84% |  |
+| 13 | 20% | 72% |  |
+| 14 | 29% | 51% | Median |
+| 15 | 19% | 23% |  |
+| 16 | 2% | 4% |  |
+| 17 | 1.4% | 1.5% | Last Result |
 | 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
 

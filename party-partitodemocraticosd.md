@@ -10,7 +10,9 @@ Last result: **40.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.7% | 18.1–21.3% | 17.7–21.8% | 17.3–22.2% | 16.6–23.0% |
+| N/A | [Poll Average](average.html) | 19.7% | 18.1–21.2% | 17.6–21.7% | 17.2–22.1% | 16.3–22.9% |
+| [30–31 January 2024](2024-01-31-Demopolis.html) | Demopolis | 20.0% | 18.8–21.1% | 18.5–21.5% | 18.2–21.8% | 17.7–22.3% |
+| [25–26 January 2024](2024-01-26-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 19.2% | 17.5–21.1% | 17.0–21.6% | 16.6–22.1% | 15.8–23.0% |
 | [30 December 2023–4 January 2024](2024-01-04-Lab2101.html) | Lab2101 <br> Affari Italiani | 19.8% | 18.2–21.5% | 17.8–22.0% | 17.4–22.4% | 16.7–23.2% |
 | [4 January 2024](2024-01-04-IZI.html) | IZI <br> Europa Today | 19.5% | 18.0–21.1% | 17.6–21.6% | 17.2–22.0% | 16.5–22.8% |
 | [29–30 November 2023](2023-11-30-TermometroPolitico.html) | Termometro Politico | 19.3% | 18.5–20.1% | 18.3–20.4% | 18.1–20.6% | 17.7–21.0% |
@@ -1545,16 +1547,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0.4% | 100% |  |
-| 16.5–17.5% | 3% | 99.6% |  |
-| 17.5–18.5% | 14% | 96% |  |
+| 13.5–14.5% | 0% | 100% |  |
+| 14.5–15.5% | 0.1% | 100% |  |
+| 15.5–16.5% | 0.7% | 99.9% |  |
+| 16.5–17.5% | 4% | 99.2% |  |
+| 17.5–18.5% | 13% | 95% |  |
 | 18.5–19.5% | 28% | 82% |  |
-| 19.5–20.5% | 29% | 54% | Median |
-| 20.5–21.5% | 17% | 24% |  |
-| 21.5–22.5% | 6% | 7% |  |
-| 22.5–23.5% | 1.1% | 1.3% |  |
-| 23.5–24.5% | 0.1% | 0.2% |  |
+| 19.5–20.5% | 31% | 54% | Median |
+| 20.5–21.5% | 17% | 23% |  |
+| 21.5–22.5% | 5% | 6% |  |
+| 22.5–23.5% | 0.9% | 1.0% |  |
+| 23.5–24.5% | 0.1% | 0.1% |  |
 | 24.5–25.5% | 0% | 0% |  |
 | 25.5–26.5% | 0% | 0% |  |
 | 26.5–27.5% | 0% | 0% |  |
@@ -1582,7 +1585,9 @@ Last result: **31** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 15–18 | 14–19 | 14–19 | 14–20 |
+| N/A | [Poll Average](average.html) | 16 | 15–18 | 14–18 | 14–19 | 13–19 |
+| [30–31 January 2024](2024-01-31-Demopolis.html) | Demopolis | 16 | 16–18 | 15–18 | 15–18 | 15–19 |
+| [25–26 January 2024](2024-01-26-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 16 | 14–17 | 14–18 | 14–18 | 13–19 |
 | [30 December 2023–4 January 2024](2024-01-04-Lab2101.html) | Lab2101 <br> Affari Italiani | 17 | 14–18 | 14–19 | 14–19 | 14–20 |
 | [4 January 2024](2024-01-04-IZI.html) | IZI <br> Europa Today | 16 | 15–18 | 14–18 | 14–19 | 14–19 |
 | [29–30 November 2023](2023-11-30-TermometroPolitico.html) | Termometro Politico | 18 | 17–20 | 17–20 | 17–20 | 16–20 |
@@ -3119,16 +3124,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 13 | 0.1% | 100% |  |
-| 14 | 10% | 99.9% |  |
-| 15 | 13% | 90% |  |
-| 16 | 23% | 77% |  |
-| 17 | 31% | 54% | Median |
-| 18 | 17% | 23% |  |
-| 19 | 5% | 6% |  |
-| 20 | 0.5% | 0.6% |  |
+| 13 | 0.5% | 100% |  |
+| 14 | 8% | 99.5% |  |
+| 15 | 10% | 92% |  |
+| 16 | 39% | 82% | Median |
+| 17 | 25% | 42% |  |
+| 18 | 14% | 18% |  |
+| 19 | 3% | 4% |  |
+| 20 | 0.4% | 0.4% |  |
 | 21 | 0.1% | 0.1% |  |
-| 22 | 0% | 0.1% |  |
+| 22 | 0% | 0% |  |
 | 23 | 0% | 0% |  |
 | 24 | 0% | 0% |  |
 | 25 | 0% | 0% |  |
