@@ -10,13 +10,13 @@ Last result: **3.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28.4% | 26.3–30.6% | 25.7–31.3% | 25.1–31.9% | 24.1–33.0% |
+| N/A | [Poll Average](average.html) | 28.7% | 26.4–31.7% | 25.8–32.6% | 25.2–33.4% | 24.2–34.7% |
 | [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 28.1% | 25.6–30.8% | 24.9–31.5% | 24.3–32.2% | 23.2–33.5% |
 | [30–31 January 2024](2024-01-31-Demopolis.html) | Demopolis | 28.0% | 26.7–29.3% | 26.3–29.6% | 26.0–30.0% | 25.4–30.6% |
 | [25–26 January 2024](2024-01-26-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 28.4% | 26.4–30.5% | 25.8–31.1% | 25.4–31.6% | 24.4–32.6% |
 | [12–22 January 2024](2024-01-22-Euromedia.html) | Euromedia <br> Rai 1 | 28.5% | 26.5–30.6% | 26.0–31.2% | 25.5–31.7% | 24.5–32.8% |
 | [15–16 January 2024](2024-01-16-Tecnè.html) | Tecnè | 29.2% | 27.3–31.4% | 26.7–32.0% | 26.2–32.5% | 25.3–33.5% |
-| [16 January 2024](2024-01-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 32.0% | N/A | N/A | N/A | N/A |
+| [16 January 2024](2024-01-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 32.0% | 30.1–33.9% | 29.6–34.5% | 29.2–35.0% | 28.3–35.9% |
 | [30 December 2023–4 January 2024](2024-01-04-Lab2101.html) | Lab2101 <br> Affari Italiani | 29.4% | 27.6–31.3% | 27.1–31.8% | 26.7–32.3% | 25.8–33.2% |
 | [4 January 2024](2024-01-04-IZI.html) | IZI <br> Europa Today | 27.1% | 25.4–28.9% | 24.9–29.4% | 24.5–29.8% | 23.7–30.7% |
 | [29–30 November 2023](2023-11-30-TermometroPolitico.html) | Termometro Politico | 29.6% | 28.7–30.5% | 28.4–30.8% | 28.2–31.0% | 27.8–31.5% |
@@ -1570,19 +1570,21 @@ The following table shows the probability mass function per percentage block of 
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0% | 100% |  |
 | 21.5–22.5% | 0% | 100% |  |
-| 22.5–23.5% | 0.2% | 100% |  |
-| 23.5–24.5% | 0.9% | 99.8% |  |
-| 24.5–25.5% | 3% | 98.9% |  |
-| 25.5–26.5% | 9% | 96% |  |
-| 26.5–27.5% | 18% | 87% |  |
-| 27.5–28.5% | 23% | 69% | Median |
-| 28.5–29.5% | 21% | 46% |  |
-| 29.5–30.5% | 14% | 25% |  |
-| 30.5–31.5% | 7% | 11% |  |
-| 31.5–32.5% | 3% | 4% |  |
-| 32.5–33.5% | 0.8% | 1.0% |  |
-| 33.5–34.5% | 0.2% | 0.2% |  |
-| 34.5–35.5% | 0% | 0% |  |
+| 22.5–23.5% | 0.1% | 100% |  |
+| 23.5–24.5% | 0.8% | 99.8% |  |
+| 24.5–25.5% | 3% | 99.1% |  |
+| 25.5–26.5% | 8% | 96% |  |
+| 26.5–27.5% | 15% | 89% |  |
+| 27.5–28.5% | 20% | 73% |  |
+| 28.5–29.5% | 19% | 53% | Median |
+| 29.5–30.5% | 14% | 34% |  |
+| 30.5–31.5% | 9% | 20% |  |
+| 31.5–32.5% | 6% | 11% |  |
+| 32.5–33.5% | 3% | 5% |  |
+| 33.5–34.5% | 1.5% | 2% |  |
+| 34.5–35.5% | 0.5% | 0.6% |  |
+| 35.5–36.5% | 0.1% | 0.1% |  |
+| 36.5–37.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -1593,13 +1595,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23 | 21–26 | 21–27 | 21–28 | 20–29 |
+| N/A | [Poll Average](average.html) | 24 | 22–27 | 21–29 | 21–30 | 20–30 |
 | [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 23 | 22–26 | 21–26 | 20–27 | 19–29 |
 | [30–31 January 2024](2024-01-31-Demopolis.html) | Demopolis | 23 | 22–24 | 22–25 | 21–25 | 21–26 |
 | [25–26 January 2024](2024-01-26-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 23 | 23–26 | 22–28 | 21–29 | 21–29 |
 | [12–22 January 2024](2024-01-22-Euromedia.html) | Euromedia <br> Rai 1 | 25 | 23–28 | 22–29 | 22–29 | 21–29 |
 | [15–16 January 2024](2024-01-16-Tecnè.html) | Tecnè | 23 | 21–25 | 21–25 | 21–26 | 20–27 |
-| [16 January 2024](2024-01-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
+| [16 January 2024](2024-01-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 28 | 25–30 | 24–30 | 24–30 | 23–31 |
 | [30 December 2023–4 January 2024](2024-01-04-Lab2101.html) | Lab2101 <br> Affari Italiani | 25 | 23–26 | 23–27 | 23–27 | 22–28 |
 | [4 January 2024](2024-01-04-IZI.html) | IZI <br> Europa Today | 22 | 21–24 | 20–25 | 20–25 | 19–26 |
 | [29–30 November 2023](2023-11-30-TermometroPolitico.html) | Termometro Politico | 27 | 26–29 | 26–29 | 25–29 | 25–29 |
@@ -3156,17 +3158,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 0% | 100% |  |
 | 18 | 0% | 100% |  |
 | 19 | 0.3% | 100% |  |
-| 20 | 2% | 99.7% |  |
-| 21 | 8% | 98% |  |
-| 22 | 11% | 90% |  |
-| 23 | 30% | 79% | Median |
-| 24 | 16% | 48% |  |
-| 25 | 18% | 32% |  |
-| 26 | 7% | 14% |  |
-| 27 | 3% | 7% |  |
-| 28 | 2% | 4% |  |
-| 29 | 2% | 2% |  |
-| 30 | 0.1% | 0.1% |  |
-| 31 | 0% | 0% |  |
+| 20 | 1.5% | 99.7% |  |
+| 21 | 7% | 98% |  |
+| 22 | 10% | 91% |  |
+| 23 | 27% | 81% |  |
+| 24 | 14% | 55% | Median |
+| 25 | 17% | 40% |  |
+| 26 | 7% | 23% |  |
+| 27 | 5% | 15% |  |
+| 28 | 4% | 10% |  |
+| 29 | 3% | 6% |  |
+| 30 | 3% | 3% |  |
+| 31 | 0% | 0.1% |  |
+| 32 | 0% | 0% |  |
 
 
