@@ -10,9 +10,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.3% | 1.7–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
+| N/A | [Poll Average](average.html) | 2.1% | 1.5–2.9% | 1.3–3.1% | 1.1–3.3% | 0.8–3.8% |
+| [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 1.6% | 1.1–2.6% | 0.9–2.9% | 0.8–3.1% | 0.6–3.7% |
 | [30–31 January 2024](2024-01-31-Demopolis.html) | Demopolis | 2.0% | 1.6–2.5% | 1.6–2.6% | 1.5–2.7% | 1.3–3.0% |
 | [25–26 January 2024](2024-01-26-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 2.4% | 1.8–3.2% | 1.6–3.5% | 1.5–3.7% | 1.3–4.1% |
+| [12–22 January 2024](2024-01-22-Euromedia.html) | Euromedia <br> Rai 1 | 1.9% | 1.4–2.7% | 1.2–2.9% | 1.1–3.1% | 0.9–3.5% |
+| [15–16 January 2024](2024-01-16-Tecnè.html) | Tecnè | 0.0% | N/A | N/A | N/A | N/A |
+| [16 January 2024](2024-01-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 2.2% | N/A | N/A | N/A | N/A |
 | [30 December 2023–4 January 2024](2024-01-04-Lab2101.html) | Lab2101 <br> Affari Italiani | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
 | [4 January 2024](2024-01-04-IZI.html) | IZI <br> Europa Today | 2.3% | 1.8–3.1% | 1.7–3.3% | 1.6–3.4% | 1.4–3.8% |
 | [29–30 November 2023](2023-11-30-TermometroPolitico.html) | Termometro Politico | 1.6% | 1.4–2.0% | 1.3–2.0% | 1.3–2.1% | 1.2–2.3% |
@@ -1548,10 +1552,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 4% | 100% |  |
-| 1.5–2.5% | 68% | 96% | Median |
-| 2.5–3.5% | 27% | 29% |  |
-| 3.5–4.5% | 1.5% | 2% |  |
+| 0.5–1.5% | 12% | 100% |  |
+| 1.5–2.5% | 65% | 88% | Median |
+| 2.5–3.5% | 22% | 23% |  |
+| 3.5–4.5% | 1.2% | 1.2% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -1564,8 +1568,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
+| [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 0 | 0–2 | 0–2 | 0–3 | 0–4 |
 | [30–31 January 2024](2024-01-31-Demopolis.html) | Demopolis | 0 | 0–2 | 0–3 | 0–3 | 0–3 |
 | [25–26 January 2024](2024-01-26-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
+| [12–22 January 2024](2024-01-22-Euromedia.html) | Euromedia <br> Rai 1 | 2 | 0–3 | 0–3 | 0–4 | 0–4 |
+| [15–16 January 2024](2024-01-16-Tecnè.html) | Tecnè |  |  |  |  |  |
+| [16 January 2024](2024-01-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
 | [30 December 2023–4 January 2024](2024-01-04-Lab2101.html) | Lab2101 <br> Affari Italiani | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [4 January 2024](2024-01-04-IZI.html) | IZI <br> Europa Today | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [29–30 November 2023](2023-11-30-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
@@ -3102,11 +3110,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 28% | 100% | Last Result |
-| 1 | 1.1% | 72% |  |
-| 2 | 40% | 71% | Median |
-| 3 | 30% | 31% |  |
-| 4 | 1.3% | 1.3% |  |
+| 0 | 41% | 100% | Last Result |
+| 1 | 1.0% | 59% |  |
+| 2 | 33% | 58% | Median |
+| 3 | 23% | 25% |  |
+| 4 | 1.5% | 1.5% |  |
 | 5 | 0% | 0% |  |
 
 
