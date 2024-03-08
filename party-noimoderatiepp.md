@@ -10,13 +10,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.8% | 0.3–1.7% | 0.3–1.9% | 0.2–2.2% | 0.1–2.6% |
+| N/A | [Poll Average](average.html) | 1.0% | 0.4–2.1% | 0.3–2.4% | 0.3–2.6% | 0.2–3.0% |
 | [1 March 2024](2024-03-01-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.7% | 0.5–1.3% | 0.4–1.5% | 0.4–1.6% | 0.2–2.0% |
 | [28 February 2024](2024-02-28-Euromedia.html) | Euromedia | 1.4% | 1.0–2.1% | 0.9–2.3% | 0.8–2.5% | 0.6–2.8% |
 | [25–28 February 2024](2024-02-28-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 0.4% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.2% |
-| [26–28 February 2024](2024-02-28-Bidimedia.html) | Bidimedia | 0.8% | N/A | N/A | N/A | N/A |
-| [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 0.8% | N/A | N/A | N/A | N/A |
-| [21 February 2024](2024-02-21-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 2.0% | N/A | N/A | N/A | N/A |
+| [26–28 February 2024](2024-02-28-Bidimedia.html) | Bidimedia | 0.8% | 0.5–1.3% | 0.5–1.4% | 0.4–1.6% | 0.3–1.9% |
+| [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 0.8% | 0.6–1.4% | 0.5–1.5% | 0.4–1.7% | 0.3–2.0% |
+| [21 February 2024](2024-02-21-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 0.0% | N/A | N/A | N/A | N/A |
 | [30–31 January 2024](2024-01-31-Demopolis.html) | Demopolis | 0.0% | N/A | N/A | N/A | N/A |
 | [25–26 January 2024](2024-01-26-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 1.6% | 1.2–2.4% | 1.1–2.6% | 0.9–2.8% | 0.8–3.2% |
@@ -1557,11 +1557,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 27% | 100% | Last Result |
-| 0.5–1.5% | 58% | 73% | Median |
-| 1.5–2.5% | 14% | 15% |  |
-| 2.5–3.5% | 0.6% | 0.6% |  |
-| 3.5–4.5% | 0% | 0% |  |
+| 0.0–0.5% | 17% | 100% | Last Result |
+| 0.5–1.5% | 60% | 83% | Median |
+| 1.5–2.5% | 21% | 23% |  |
+| 2.5–3.5% | 3% | 3% |  |
+| 3.5–4.5% | 0.1% | 0.1% |  |
+| 4.5–5.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -1576,9 +1577,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [1 March 2024](2024-03-01-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0 | 0 | 0 |
 | [28 February 2024](2024-02-28-Euromedia.html) | Euromedia | 0 | 0 | 0 | 0 | 0 |
 | [25–28 February 2024](2024-02-28-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 0 | 0 | 0 | 0 | 0 |
-| [26–28 February 2024](2024-02-28-Bidimedia.html) | Bidimedia |  |  |  |  |  |
-| [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy |  |  |  |  |  |
-| [21 February 2024](2024-02-21-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
+| [26–28 February 2024](2024-02-28-Bidimedia.html) | Bidimedia | 0 | 0 | 0 | 0 | 0 |
+| [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 0 | 0 | 0 | 0 | 0 |
+| [21 February 2024](2024-02-21-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
 | [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications |  |  |  |  |  |
 | [30–31 January 2024](2024-01-31-Demopolis.html) | Demopolis |  |  |  |  |  |
 | [25–26 January 2024](2024-01-26-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0 | 0 | 0 |
