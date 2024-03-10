@@ -15,8 +15,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [28 February 2024](2024-02-28-Euromedia.html) | Euromedia | 0.0% | N/A | N/A | N/A | N/A |
 | [25–28 February 2024](2024-02-28-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 1.9% | 1.4–2.5% | 1.3–2.7% | 1.2–2.9% | 1.0–3.2% |
 | [26–28 February 2024](2024-02-28-Bidimedia.html) | Bidimedia | 1.3% | 0.9–1.9% | 0.8–2.1% | 0.8–2.2% | 0.6–2.5% |
+| [26–27 February 2024](2024-02-27-Piepoli.html) | Piepoli | 0.0% | N/A | N/A | N/A | N/A |
 | [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 1.7% | 1.3–2.4% | 1.1–2.6% | 1.0–2.7% | 0.9–3.1% |
 | [21 February 2024](2024-02-21-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
+| [12 February 2024](2024-02-12-Piepoli.html) | Piepoli | 0.0% | N/A | N/A | N/A | N/A |
 | [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 1.0% | 0.6–1.8% | 0.5–2.1% | 0.4–2.3% | 0.3–2.8% |
 | [30–31 January 2024](2024-01-31-Demopolis.html) | Demopolis | 0.0% | N/A | N/A | N/A | N/A |
 | [25–26 January 2024](2024-01-26-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 1.5% | 1.1–2.2% | 0.9–2.4% | 0.9–2.6% | 0.7–3.0% |
@@ -1578,8 +1580,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [28 February 2024](2024-02-28-Euromedia.html) | Euromedia |  |  |  |  |  |
 | [25–28 February 2024](2024-02-28-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 0 | 0 | 0 | 0 | 0 |
 | [26–28 February 2024](2024-02-28-Bidimedia.html) | Bidimedia | 0 | 0 | 0 | 0 | 0 |
+| [26–27 February 2024](2024-02-27-Piepoli.html) | Piepoli |  |  |  |  |  |
 | [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 0 | 0 | 0 | 0 | 0 |
 | [21 February 2024](2024-02-21-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
+| [12 February 2024](2024-02-12-Piepoli.html) | Piepoli |  |  |  |  |  |
 | [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 0 | 0 | 0 | 0 | 0 |
 | [30–31 January 2024](2024-01-31-Demopolis.html) | Demopolis |  |  |  |  |  |
 | [25–26 January 2024](2024-01-26-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0 | 0 | 0 |

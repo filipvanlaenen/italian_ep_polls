@@ -10,13 +10,15 @@ Last result: **16.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.3% | 6.0–8.6% | 5.7–9.0% | 5.4–9.3% | 4.9–10.0% |
+| N/A | [Poll Average](average.html) | 7.3% | 6.0–8.7% | 5.7–9.1% | 5.4–9.5% | 4.9–10.2% |
 | [1 March 2024](2024-03-01-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 6.6% | 5.6–7.9% | 5.3–8.2% | 5.1–8.5% | 4.6–9.2% |
 | [28 February 2024](2024-02-28-Euromedia.html) | Euromedia | 7.9% | 6.8–9.2% | 6.5–9.6% | 6.2–10.0% | 5.7–10.6% |
 | [25–28 February 2024](2024-02-28-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 7.6% | 6.7–8.8% | 6.4–9.1% | 6.2–9.4% | 5.7–10.0% |
 | [26–28 February 2024](2024-02-28-Bidimedia.html) | Bidimedia | 7.5% | 6.5–8.7% | 6.2–9.0% | 6.0–9.3% | 5.6–9.9% |
+| [26–27 February 2024](2024-02-27-Piepoli.html) | Piepoli | 7.5% | 6.1–9.2% | 5.8–9.6% | 5.5–10.1% | 4.9–10.9% |
 | [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 6.6% | 5.6–7.7% | 5.4–8.0% | 5.2–8.3% | 4.7–8.9% |
 | [21 February 2024](2024-02-21-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.3% |
+| [12 February 2024](2024-02-12-Piepoli.html) | Piepoli | 6.9% | N/A | N/A | N/A | N/A |
 | [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 10.0% | 8.4–11.9% | 8.0–12.4% | 7.6–12.9% | 7.0–13.9% |
 | [30–31 January 2024](2024-01-31-Demopolis.html) | Demopolis | 7.2% | 6.5–8.0% | 6.3–8.2% | 6.1–8.4% | 5.8–8.8% |
 | [25–26 January 2024](2024-01-26-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 6.5% | 5.5–7.7% | 5.2–8.1% | 5.0–8.4% | 4.5–9.0% |
@@ -1561,11 +1563,11 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0.1% | 100% |  |
 | 4.5–5.5% | 3% | 99.9% |  |
 | 5.5–6.5% | 20% | 97% |  |
-| 6.5–7.5% | 38% | 76% | Median |
-| 7.5–8.5% | 28% | 39% |  |
-| 8.5–9.5% | 9% | 11% |  |
-| 9.5–10.5% | 1.4% | 2% |  |
-| 10.5–11.5% | 0.1% | 0.1% |  |
+| 6.5–7.5% | 37% | 77% | Median |
+| 7.5–8.5% | 28% | 40% |  |
+| 8.5–9.5% | 10% | 12% |  |
+| 9.5–10.5% | 2% | 2% |  |
+| 10.5–11.5% | 0.2% | 0.3% |  |
 | 11.5–12.5% | 0% | 0% |  |
 | 12.5–13.5% | 0% | 0% |  |
 | 13.5–14.5% | 0% | 0% |  |
@@ -1587,8 +1589,10 @@ Last result: **13** seats (General Election of 26 May 2019)
 | [28 February 2024](2024-02-28-Euromedia.html) | Euromedia | 6 | 5–7 | 4–8 | 4–8 | 4–8 |
 | [25–28 February 2024](2024-02-28-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 6 | 6–7 | 5–7 | 5–7 | 4–8 |
 | [26–28 February 2024](2024-02-28-Bidimedia.html) | Bidimedia | 7 | 6–7 | 5–7 | 4–7 | 4–8 |
+| [26–27 February 2024](2024-02-27-Piepoli.html) | Piepoli | 5 | 4–6 | 4–7 | 3–8 | 3–8 |
 | [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
 | [21 February 2024](2024-02-21-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 5 | 4–7 | 4–7 | 4–7 | 3–7 |
+| [12 February 2024](2024-02-12-Piepoli.html) | Piepoli |  |  |  |  |  |
 | [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 8 | 7–10 | 7–10 | 6–10 | 5–11 |
 | [30–31 January 2024](2024-01-31-Demopolis.html) | Demopolis | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [25–26 January 2024](2024-01-26-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 4 | 4–6 | 3–6 | 3–6 | 3–7 |
@@ -3133,10 +3137,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 2% | 100% |  |
 | 4 | 17% | 98% |  |
-| 5 | 25% | 82% |  |
-| 6 | 33% | 57% | Median |
-| 7 | 23% | 24% |  |
-| 8 | 1.3% | 1.3% |  |
+| 5 | 27% | 81% |  |
+| 6 | 32% | 54% | Median |
+| 7 | 20% | 22% |  |
+| 8 | 1.5% | 2% |  |
 | 9 | 0% | 0% |  |
 | 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |

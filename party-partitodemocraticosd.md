@@ -10,13 +10,15 @@ Last result: **40.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.8% | 18.2–21.5% | 17.7–22.1% | 17.3–22.5% | 16.5–23.4% |
+| N/A | [Poll Average](average.html) | 19.8% | 18.0–21.6% | 17.5–22.1% | 17.1–22.6% | 16.2–23.6% |
 | [1 March 2024](2024-03-01-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 19.9% | 18.2–21.8% | 17.7–22.4% | 17.3–22.8% | 16.5–23.8% |
 | [28 February 2024](2024-02-28-Euromedia.html) | Euromedia | 19.6% | 17.9–21.5% | 17.4–22.1% | 17.0–22.5% | 16.2–23.5% |
 | [25–28 February 2024](2024-02-28-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 19.7% | 18.1–21.3% | 17.7–21.8% | 17.3–22.2% | 16.6–23.0% |
 | [26–28 February 2024](2024-02-28-Bidimedia.html) | Bidimedia | 20.0% | 18.4–21.7% | 18.0–22.2% | 17.6–22.6% | 16.9–23.4% |
+| [26–27 February 2024](2024-02-27-Piepoli.html) | Piepoli | 19.4% | 17.3–21.8% | 16.7–22.5% | 16.2–23.1% | 15.2–24.3% |
 | [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 19.9% | 18.3–21.7% | 17.9–22.2% | 17.5–22.6% | 16.8–23.4% |
 | [21 February 2024](2024-02-21-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 19.5% | 18.0–21.2% | 17.5–21.7% | 17.2–22.1% | 16.4–22.9% |
+| [12 February 2024](2024-02-12-Piepoli.html) | Piepoli | 19.4% | N/A | N/A | N/A | N/A |
 | [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 20.9% | 18.7–23.4% | 18.1–24.1% | 17.6–24.7% | 16.6–25.9% |
 | [30–31 January 2024](2024-01-31-Demopolis.html) | Demopolis | 20.0% | 18.8–21.1% | 18.5–21.5% | 18.2–21.8% | 17.7–22.3% |
 | [25–26 January 2024](2024-01-26-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 19.2% | 17.5–21.1% | 17.0–21.6% | 16.6–22.1% | 15.8–23.0% |
@@ -1557,17 +1559,18 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0.5% | 100% |  |
-| 16.5–17.5% | 3% | 99.5% |  |
-| 17.5–18.5% | 13% | 96% |  |
-| 18.5–19.5% | 26% | 83% |  |
-| 19.5–20.5% | 29% | 58% | Median |
+| 13.5–14.5% | 0% | 100% |  |
+| 14.5–15.5% | 0.1% | 100% |  |
+| 15.5–16.5% | 0.9% | 99.8% |  |
+| 16.5–17.5% | 4% | 99.0% |  |
+| 17.5–18.5% | 13% | 95% |  |
+| 18.5–19.5% | 25% | 82% |  |
+| 19.5–20.5% | 28% | 56% | Median |
 | 20.5–21.5% | 19% | 29% |  |
 | 21.5–22.5% | 8% | 10% |  |
-| 22.5–23.5% | 2% | 2% |  |
-| 23.5–24.5% | 0.3% | 0.4% |  |
-| 24.5–25.5% | 0% | 0% |  |
+| 22.5–23.5% | 2% | 3% |  |
+| 23.5–24.5% | 0.4% | 0.5% |  |
+| 24.5–25.5% | 0.1% | 0.1% |  |
 | 25.5–26.5% | 0% | 0% |  |
 | 26.5–27.5% | 0% | 0% |  |
 | 27.5–28.5% | 0% | 0% |  |
@@ -1594,13 +1597,15 @@ Last result: **31** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 16–18 | 15–19 | 15–19 | 14–21 |
+| N/A | [Poll Average](average.html) | 17 | 15–18 | 14–19 | 14–19 | 13–21 |
 | [1 March 2024](2024-03-01-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 16 | 15–19 | 15–19 | 14–21 | 14–21 |
 | [28 February 2024](2024-02-28-Euromedia.html) | Euromedia | 17 | 15–18 | 15–18 | 14–19 | 13–21 |
 | [25–28 February 2024](2024-02-28-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 18 | 17–18 | 16–18 | 15–19 | 15–20 |
 | [26–28 February 2024](2024-02-28-Bidimedia.html) | Bidimedia | 17 | 16–17 | 16–17 | 16–17 | 15–20 |
+| [26–27 February 2024](2024-02-27-Piepoli.html) | Piepoli | 15 | 14–17 | 14–19 | 13–19 | 13–21 |
 | [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 17 | 15–19 | 15–19 | 15–20 | 14–21 |
 | [21 February 2024](2024-02-21-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 17 | 15–18 | 15–18 | 15–19 | 14–22 |
+| [12 February 2024](2024-02-12-Piepoli.html) | Piepoli |  |  |  |  |  |
 | [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 19 | 16–21 | 16–23 | 15–23 | 14–23 |
 | [30–31 January 2024](2024-01-31-Demopolis.html) | Demopolis | 16 | 16–18 | 15–18 | 15–18 | 15–19 |
 | [25–26 January 2024](2024-01-26-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 16 | 14–17 | 14–18 | 14–18 | 13–19 |
@@ -3143,12 +3148,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 13 | 0.2% | 100% |  |
-| 14 | 1.4% | 99.7% |  |
-| 15 | 8% | 98% |  |
-| 16 | 23% | 90% |  |
-| 17 | 37% | 67% | Median |
-| 18 | 22% | 30% |  |
+| 12 | 0.1% | 100% |  |
+| 13 | 0.8% | 99.9% |  |
+| 14 | 5% | 99.2% |  |
+| 15 | 12% | 95% |  |
+| 16 | 21% | 83% |  |
+| 17 | 35% | 62% | Median |
+| 18 | 19% | 27% |  |
 | 19 | 6% | 8% |  |
 | 20 | 0.9% | 2% |  |
 | 21 | 0.9% | 1.1% |  |

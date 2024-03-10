@@ -10,13 +10,15 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.9% | 3.0–4.9% | 2.8–5.2% | 2.6–5.5% | 2.3–6.0% |
+| N/A | [Poll Average](average.html) | 4.0% | 3.1–5.1% | 2.8–5.5% | 2.6–5.8% | 2.3–6.6% |
 | [1 March 2024](2024-03-01-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 3.7% | 3.0–4.8% | 2.8–5.0% | 2.6–5.3% | 2.3–5.8% |
 | [28 February 2024](2024-02-28-Euromedia.html) | Euromedia | 4.2% | 3.5–5.3% | 3.2–5.6% | 3.0–5.9% | 2.7–6.4% |
 | [25–28 February 2024](2024-02-28-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 4.0% | 3.3–4.9% | 3.1–5.2% | 3.0–5.4% | 2.7–5.9% |
 | [26–28 February 2024](2024-02-28-Bidimedia.html) | Bidimedia | 4.3% | 3.6–5.2% | 3.4–5.5% | 3.2–5.7% | 2.9–6.2% |
+| [26–27 February 2024](2024-02-27-Piepoli.html) | Piepoli | 4.5% | 3.5–5.9% | 3.2–6.3% | 3.0–6.7% | 2.6–7.4% |
 | [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 3.3% | 2.7–4.2% | 2.5–4.4% | 2.3–4.6% | 2.0–5.1% |
 | [21 February 2024](2024-02-21-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
+| [12 February 2024](2024-02-12-Piepoli.html) | Piepoli | 4.6% | N/A | N/A | N/A | N/A |
 | [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 2.0% | 1.4–3.0% | 1.2–3.4% | 1.1–3.6% | 0.9–4.2% |
 | [30–31 January 2024](2024-01-31-Demopolis.html) | Demopolis | 3.8% | 3.3–4.4% | 3.2–4.6% | 3.0–4.7% | 2.8–5.0% |
 | [25–26 January 2024](2024-01-26-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 3.7% | 3.0–4.8% | 2.8–5.0% | 2.6–5.3% | 2.3–5.8% |
@@ -1560,12 +1562,13 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 29% | 98% |  |
-| 3.5–4.5% | 48% | 69% | Median |
-| 4.5–5.5% | 18% | 20% |  |
-| 5.5–6.5% | 2% | 2% |  |
-| 6.5–7.5% | 0.1% | 0.1% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 2.5–3.5% | 27% | 98% |  |
+| 3.5–4.5% | 47% | 72% | Median |
+| 4.5–5.5% | 21% | 25% |  |
+| 5.5–6.5% | 4% | 4% |  |
+| 6.5–7.5% | 0.5% | 0.5% |  |
+| 7.5–8.5% | 0.1% | 0.1% |  |
+| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -1581,8 +1584,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [28 February 2024](2024-02-28-Euromedia.html) | Euromedia | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [25–28 February 2024](2024-02-28-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
 | [26–28 February 2024](2024-02-28-Bidimedia.html) | Bidimedia | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
+| [26–27 February 2024](2024-02-27-Piepoli.html) | Piepoli | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [21 February 2024](2024-02-21-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0–4 | 0–4 | 0–5 |
+| [12 February 2024](2024-02-12-Piepoli.html) | Piepoli |  |  |  |  |  |
 | [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 0 | 0 | 0 | 0 | 0 |
 | [30–31 January 2024](2024-01-31-Demopolis.html) | Demopolis | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [25–26 January 2024](2024-01-26-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
@@ -3125,13 +3130,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 67% | 100% | Last Result, Median |
-| 1 | 0% | 33% |  |
-| 2 | 0% | 33% |  |
-| 3 | 3% | 33% |  |
-| 4 | 21% | 29% |  |
-| 5 | 8% | 8% |  |
-| 6 | 0.2% | 0.2% |  |
+| 0 | 62% | 100% | Last Result, Median |
+| 1 | 0% | 38% |  |
+| 2 | 0% | 38% |  |
+| 3 | 4% | 38% |  |
+| 4 | 25% | 34% |  |
+| 5 | 9% | 10% |  |
+| 6 | 0.5% | 0.5% |  |
 | 7 | 0% | 0% |  |
 
 
