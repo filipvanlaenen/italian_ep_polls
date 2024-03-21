@@ -10,7 +10,9 @@ Last result: **21.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.3% | 14.5–18.4% | 14.0–19.0% | 13.6–19.6% | 12.8–20.6% |
+| N/A | [Poll Average](average.html) | 16.3% | 14.5–18.4% | 14.0–19.1% | 13.6–19.6% | 12.8–20.6% |
+| [11 March 2024](2024-03-11-Euromedia.html) | Euromedia <br> Rai 1 | 17.0% | 15.4–18.9% | 15.0–19.4% | 14.6–19.8% | 13.8–20.7% |
+| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 17.4% | N/A | N/A | N/A | N/A |
 | [1 March 2024](2024-03-01-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 15.9% | 14.4–17.7% | 13.9–18.2% | 13.6–18.6% | 12.8–19.5% |
 | [28 February 2024](2024-02-28-Euromedia.html) | Euromedia | 17.0% | 15.4–18.8% | 14.9–19.3% | 14.6–19.8% | 13.8–20.7% |
 | [25–28 February 2024](2024-02-28-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 15.9% | 14.6–17.5% | 14.2–17.9% | 13.8–18.3% | 13.2–19.1% |
@@ -1564,12 +1566,12 @@ The following table shows the probability mass function per percentage block of 
 | 12.5–13.5% | 2% | 99.7% |  |
 | 13.5–14.5% | 9% | 98% |  |
 | 14.5–15.5% | 20% | 89% |  |
-| 15.5–16.5% | 26% | 68% | Median |
+| 15.5–16.5% | 26% | 69% | Median |
 | 16.5–17.5% | 21% | 43% |  |
 | 17.5–18.5% | 13% | 22% |  |
 | 18.5–19.5% | 6% | 9% |  |
 | 19.5–20.5% | 2% | 3% |  |
-| 20.5–21.5% | 0.4% | 0.5% | Last Result |
+| 20.5–21.5% | 0.5% | 0.5% | Last Result |
 | 21.5–22.5% | 0.1% | 0.1% |  |
 | 22.5–23.5% | 0% | 0% |  |
 
@@ -1582,7 +1584,9 @@ Last result: **17** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–16 | 12–16 | 11–17 | 10–19 |
+| N/A | [Poll Average](average.html) | 13 | 12–16 | 12–16 | 11–17 | 10–19 |
+| [11 March 2024](2024-03-11-Euromedia.html) | Euromedia <br> Rai 1 | 13 | 12–14 | 12–14 | 12–16 | 12–17 |
+| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews |  |  |  |  |  |
 | [1 March 2024](2024-03-01-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 13 | 11–14 | 11–15 | 11–16 | 11–16 |
 | [28 February 2024](2024-02-28-Euromedia.html) | Euromedia | 14 | 13–16 | 13–16 | 12–17 | 11–18 |
 | [25–28 February 2024](2024-02-28-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 13 | 13–14 | 13–15 | 13–16 | 12–17 |
@@ -3136,13 +3140,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0.1% | 100% |  |
 | 10 | 0.6% | 99.9% |  |
 | 11 | 3% | 99.3% |  |
-| 12 | 13% | 96% |  |
-| 13 | 32% | 84% |  |
-| 14 | 27% | 51% | Median |
-| 15 | 12% | 24% |  |
-| 16 | 8% | 13% |  |
+| 12 | 19% | 96% |  |
+| 13 | 34% | 78% | Median |
+| 14 | 23% | 44% |  |
+| 15 | 10% | 21% |  |
+| 16 | 6% | 11% |  |
 | 17 | 3% | 5% | Last Result |
-| 18 | 0.9% | 2% |  |
+| 18 | 0.8% | 2% |  |
 | 19 | 0.9% | 0.9% |  |
 | 20 | 0% | 0% |  |
 
