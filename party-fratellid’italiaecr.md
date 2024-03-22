@@ -10,9 +10,9 @@ Last result: **3.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.8% | 25.7–30.1% | 25.2–30.8% | 24.7–31.4% | 23.8–32.7% |
+| N/A | [Poll Average](average.html) | 27.7% | 25.7–29.9% | 25.2–30.7% | 24.7–31.3% | 23.8–32.6% |
 | [11 March 2024](2024-03-11-Euromedia.html) | Euromedia <br> Rai 1 | 29.0% | 27.0–31.2% | 26.5–31.8% | 26.0–32.3% | 25.0–33.3% |
-| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 27.0% | N/A | N/A | N/A | N/A |
+| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 27.0% | 25.6–28.5% | 25.2–28.9% | 24.8–29.3% | 24.1–30.1% |
 | [1 March 2024](2024-03-01-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 27.1% | 25.2–29.2% | 24.6–29.8% | 24.2–30.3% | 23.3–31.4% |
 | [28 February 2024](2024-02-28-Euromedia.html) | Euromedia | 27.6% | 25.7–29.7% | 25.1–30.3% | 24.6–30.8% | 23.7–31.9% |
 | [25–28 February 2024](2024-02-28-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 27.3% | 25.6–29.1% | 25.1–29.7% | 24.6–30.1% | 23.8–31.0% |
@@ -1583,15 +1583,15 @@ The following table shows the probability mass function per percentage block of 
 | 22.5–23.5% | 0.3% | 100% |  |
 | 23.5–24.5% | 2% | 99.7% |  |
 | 24.5–25.5% | 6% | 98% |  |
-| 25.5–26.5% | 14% | 92% |  |
-| 26.5–27.5% | 22% | 78% |  |
-| 27.5–28.5% | 23% | 56% | Median |
-| 28.5–29.5% | 17% | 33% |  |
-| 29.5–30.5% | 9% | 16% |  |
+| 25.5–26.5% | 16% | 92% |  |
+| 26.5–27.5% | 24% | 76% |  |
+| 27.5–28.5% | 23% | 53% | Median |
+| 28.5–29.5% | 16% | 30% |  |
+| 29.5–30.5% | 8% | 14% |  |
 | 30.5–31.5% | 4% | 6% |  |
-| 31.5–32.5% | 2% | 2% |  |
-| 32.5–33.5% | 0.5% | 0.6% |  |
-| 33.5–34.5% | 0.1% | 0.2% |  |
+| 31.5–32.5% | 1.3% | 2% |  |
+| 32.5–33.5% | 0.4% | 0.5% |  |
+| 33.5–34.5% | 0.1% | 0.1% |  |
 | 34.5–35.5% | 0% | 0% |  |
 
 
@@ -1603,9 +1603,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23 | 22–25 | 21–26 | 20–27 | 19–28 |
+| N/A | [Poll Average](average.html) | 23 | 21–25 | 21–26 | 20–27 | 19–28 |
 | [11 March 2024](2024-03-11-Euromedia.html) | Euromedia <br> Rai 1 | 23 | 22–26 | 21–26 | 21–26 | 21–27 |
-| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews |  |  |  |  |  |
+| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 23 | 21–24 | 20–25 | 20–25 | 20–25 |
 | [1 March 2024](2024-03-01-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 22 | 21–25 | 20–25 | 20–25 | 19–26 |
 | [28 February 2024](2024-02-28-Euromedia.html) | Euromedia | 23 | 21–26 | 21–26 | 20–26 | 20–27 |
 | [25–28 February 2024](2024-02-28-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 23 | 23–25 | 22–25 | 22–26 | 21–29 |
@@ -3175,18 +3175,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
 | 18 | 0.1% | 100% |  |
-| 19 | 0.9% | 99.9% |  |
-| 20 | 2% | 99.0% |  |
-| 21 | 6% | 97% |  |
-| 22 | 21% | 91% |  |
-| 23 | 21% | 71% | Median |
-| 24 | 13% | 49% |  |
-| 25 | 28% | 36% |  |
-| 26 | 5% | 8% |  |
-| 27 | 3% | 3% |  |
-| 28 | 0.3% | 0.8% |  |
-| 29 | 0.3% | 0.5% |  |
-| 30 | 0.2% | 0.2% |  |
+| 19 | 0.8% | 99.9% |  |
+| 20 | 2% | 99.1% |  |
+| 21 | 7% | 97% |  |
+| 22 | 21% | 90% |  |
+| 23 | 22% | 68% | Median |
+| 24 | 14% | 46% |  |
+| 25 | 26% | 33% |  |
+| 26 | 4% | 7% |  |
+| 27 | 2% | 3% |  |
+| 28 | 0.3% | 0.7% |  |
+| 29 | 0.3% | 0.4% |  |
+| 30 | 0.1% | 0.2% |  |
 | 31 | 0% | 0% |  |
 
 
