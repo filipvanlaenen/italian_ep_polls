@@ -1580,7 +1580,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | [19–25 March 2024](2024-03-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0–1 | 0–2 |
-| [11 March 2024](2024-03-11-Euromedia.html) | Euromedia <br> Rai 1 | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| [11 March 2024](2024-03-11-Euromedia.html) | Euromedia <br> Rai 1 | 1 | 0–1 | 0–2 | 0–2 | 0–3 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [1 March 2024](2024-03-01-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 2 | 1–2 | 0–2 | 0–2 | 0–3 |
 | [28 February 2024](2024-02-28-Euromedia.html) | Euromedia | 2 | 0–2 | 0–2 | 0–3 | 0–3 |
@@ -3132,10 +3132,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 36% | 100% | Last Result |
-| 1 | 25% | 64% | Median |
-| 2 | 38% | 40% |  |
-| 3 | 1.2% | 1.3% |  |
+| 0 | 37% | 100% | Last Result |
+| 1 | 23% | 63% | Median |
+| 2 | 39% | 40% |  |
+| 3 | 1.3% | 1.3% |  |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 
