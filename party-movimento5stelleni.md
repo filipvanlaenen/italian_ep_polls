@@ -1584,11 +1584,11 @@ Last result: **17** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 12–16 | 12–16 | 11–16 | 10–17 |
+| N/A | [Poll Average](average.html) | 14 | 12–16 | 12–16 | 11–16 | 10–17 |
 | [19–25 March 2024](2024-03-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 15 | 14–16 | 14–16 | 13–16 | 12–16 |
 | [11 March 2024](2024-03-11-Euromedia.html) | Euromedia <br> Rai 1 | 13 | 12–16 | 12–16 | 12–17 | 11–18 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 15 | 13–16 | 13–16 | 13–16 | 12–17 |
-| [1 March 2024](2024-03-01-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 13 | 11–14 | 11–15 | 11–16 | 11–16 |
+| [1 March 2024](2024-03-01-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 14 | 12–15 | 11–16 | 11–16 | 11–16 |
 | [28 February 2024](2024-02-28-Euromedia.html) | Euromedia | 14 | 13–16 | 13–16 | 12–17 | 11–18 |
 | [25–28 February 2024](2024-02-28-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 13 | 13–14 | 13–15 | 13–16 | 12–17 |
 | [26–28 February 2024](2024-02-28-Bidimedia.html) | Bidimedia | 14 | 13–14 | 13–14 | 13–15 | 12–16 |
@@ -3140,12 +3140,12 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 9 | 0.1% | 100% |  |
 | 10 | 0.7% | 99.9% |  |
-| 11 | 3% | 99.2% |  |
-| 12 | 15% | 96% |  |
-| 13 | 32% | 81% | Median |
-| 14 | 24% | 50% |  |
-| 15 | 12% | 26% |  |
-| 16 | 13% | 15% |  |
+| 11 | 2% | 99.2% |  |
+| 12 | 13% | 97% |  |
+| 13 | 30% | 84% |  |
+| 14 | 27% | 54% | Median |
+| 15 | 12% | 27% |  |
+| 16 | 14% | 15% |  |
 | 17 | 1.1% | 1.3% | Last Result |
 | 18 | 0.2% | 0.2% |  |
 | 19 | 0% | 0% |  |
