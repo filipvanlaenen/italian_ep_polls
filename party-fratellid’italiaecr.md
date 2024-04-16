@@ -1613,8 +1613,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [25–28 February 2024](2024-02-28-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 23 | 22–25 | 22–25 | 22–25 | 21–27 |
 | [26–28 February 2024](2024-02-28-Bidimedia.html) | Bidimedia | 25 | 24–26 | 23–27 | 23–27 | 23–30 |
 | [26–27 February 2024](2024-02-27-Piepoli.html) | Piepoli | 23 | 21–26 | 21–27 | 19–27 | 19–28 |
-| [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 22 | 22–25 | 21–25 | 21–26 | 21–28 |
-| [21 February 2024](2024-02-21-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 24 | 22–25 | 21–25 | 21–26 | 20–28 |
+| [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 22 | 22–24 | 22–25 | 22–25 | 21–27 |
+| [21 February 2024](2024-02-21-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 25 | 22–26 | 22–26 | 21–26 | 20–27 |
 | [12 February 2024](2024-02-12-Piepoli.html) | Piepoli |  |  |  |  |  |
 | [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 23 | 22–26 | 21–26 | 20–27 | 19–29 |
 | [30–31 January 2024](2024-01-31-Demopolis.html) | Demopolis | 23 | 22–24 | 22–25 | 21–25 | 21–26 |
