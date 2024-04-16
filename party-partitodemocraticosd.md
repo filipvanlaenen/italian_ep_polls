@@ -1606,9 +1606,9 @@ Last result: **31** seats (General Election of 26 May 2019)
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 16 | 15–17 | 14–18 | 14–18 | 14–18 |
 | [1 March 2024](2024-03-01-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 17 | 15–18 | 15–19 | 14–19 | 14–21 |
 | [28 February 2024](2024-02-28-Euromedia.html) | Euromedia | 17 | 15–18 | 15–18 | 14–19 | 13–21 |
-| [25–28 February 2024](2024-02-28-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 18 | 17–18 | 16–18 | 15–19 | 15–20 |
-| [26–28 February 2024](2024-02-28-Bidimedia.html) | Bidimedia | 17 | 16–17 | 16–17 | 16–17 | 15–20 |
-| [26–27 February 2024](2024-02-27-Piepoli.html) | Piepoli | 15 | 14–17 | 14–19 | 13–19 | 13–21 |
+| [25–28 February 2024](2024-02-28-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 18 | 16–18 | 16–18 | 15–20 | 15–20 |
+| [26–28 February 2024](2024-02-28-Bidimedia.html) | Bidimedia | 17 | 16–17 | 16–18 | 15–19 | 15–20 |
+| [26–27 February 2024](2024-02-27-Piepoli.html) | Piepoli | 16 | 14–18 | 13–19 | 13–19 | 13–21 |
 | [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 17 | 15–19 | 15–19 | 15–20 | 14–21 |
 | [21 February 2024](2024-02-21-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 17 | 15–18 | 15–18 | 15–19 | 14–22 |
 | [12 February 2024](2024-02-12-Piepoli.html) | Piepoli |  |  |  |  |  |
@@ -3155,14 +3155,14 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 12 | 0.1% | 100% |  |
-| 13 | 0.7% | 99.9% |  |
-| 14 | 6% | 99.2% |  |
-| 15 | 14% | 93% |  |
-| 16 | 13% | 80% |  |
-| 17 | 32% | 67% | Median |
-| 18 | 21% | 35% |  |
-| 19 | 11% | 14% |  |
-| 20 | 1.3% | 3% |  |
+| 13 | 1.5% | 99.9% |  |
+| 14 | 4% | 98% |  |
+| 15 | 13% | 95% |  |
+| 16 | 20% | 82% |  |
+| 17 | 26% | 62% | Median |
+| 18 | 21% | 36% |  |
+| 19 | 12% | 15% |  |
+| 20 | 2% | 4% |  |
 | 21 | 2% | 2% |  |
 | 22 | 0.2% | 0.2% |  |
 | 23 | 0% | 0% |  |

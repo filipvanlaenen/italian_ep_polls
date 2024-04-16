@@ -1604,15 +1604,15 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25 | 22–26 | 21–26 | 20–27 | 19–29 |
+| N/A | [Poll Average](average.html) | 24 | 22–26 | 21–26 | 21–27 | 19–28 |
 | [19–25 March 2024](2024-03-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 26 | 24–26 | 23–26 | 23–27 | 22–27 |
 | [11 March 2024](2024-03-11-Euromedia.html) | Euromedia <br> Rai 1 | 23 | 22–26 | 21–27 | 21–28 | 21–28 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 23 | 21–24 | 20–25 | 20–25 | 20–25 |
 | [1 March 2024](2024-03-01-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 22 | 21–24 | 20–25 | 20–25 | 19–26 |
 | [28 February 2024](2024-02-28-Euromedia.html) | Euromedia | 23 | 21–26 | 21–26 | 20–26 | 20–27 |
-| [25–28 February 2024](2024-02-28-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 23 | 23–25 | 22–25 | 22–26 | 21–29 |
-| [26–28 February 2024](2024-02-28-Bidimedia.html) | Bidimedia | 25 | 25 | 24–25 | 24–26 | 23–30 |
-| [26–27 February 2024](2024-02-27-Piepoli.html) | Piepoli | 23 | 21–27 | 19–27 | 19–27 | 19–29 |
+| [25–28 February 2024](2024-02-28-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 23 | 22–25 | 22–25 | 22–25 | 21–27 |
+| [26–28 February 2024](2024-02-28-Bidimedia.html) | Bidimedia | 25 | 24–26 | 23–27 | 23–27 | 23–30 |
+| [26–27 February 2024](2024-02-27-Piepoli.html) | Piepoli | 23 | 21–26 | 21–27 | 19–27 | 19–28 |
 | [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 22 | 22–25 | 21–25 | 21–26 | 21–28 |
 | [21 February 2024](2024-02-21-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 24 | 22–25 | 21–25 | 21–26 | 20–28 |
 | [12 February 2024](2024-02-12-Piepoli.html) | Piepoli |  |  |  |  |  |
@@ -3177,17 +3177,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
 | 18 | 0.1% | 100% |  |
-| 19 | 0.9% | 99.9% |  |
-| 20 | 2% | 99.0% |  |
-| 21 | 5% | 97% |  |
-| 22 | 14% | 92% |  |
-| 23 | 20% | 79% |  |
-| 24 | 8% | 59% |  |
-| 25 | 29% | 50% | Median |
-| 26 | 16% | 21% |  |
-| 27 | 4% | 5% |  |
-| 28 | 0.8% | 1.3% |  |
-| 29 | 0.3% | 0.5% |  |
+| 19 | 0.5% | 99.9% |  |
+| 20 | 2% | 99.4% |  |
+| 21 | 7% | 98% |  |
+| 22 | 16% | 91% |  |
+| 23 | 18% | 75% |  |
+| 24 | 9% | 57% | Median |
+| 25 | 27% | 48% |  |
+| 26 | 17% | 22% |  |
+| 27 | 3% | 4% |  |
+| 28 | 0.8% | 1.2% |  |
+| 29 | 0.2% | 0.4% |  |
 | 30 | 0.2% | 0.2% |  |
 | 31 | 0% | 0% |  |
 

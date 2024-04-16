@@ -1590,9 +1590,9 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 15 | 13–16 | 13–16 | 13–16 | 12–17 |
 | [1 March 2024](2024-03-01-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 14 | 12–15 | 11–16 | 11–16 | 11–16 |
 | [28 February 2024](2024-02-28-Euromedia.html) | Euromedia | 14 | 13–16 | 13–16 | 12–17 | 11–18 |
-| [25–28 February 2024](2024-02-28-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 13 | 13–14 | 13–15 | 13–16 | 12–17 |
-| [26–28 February 2024](2024-02-28-Bidimedia.html) | Bidimedia | 14 | 13–14 | 13–14 | 13–15 | 12–16 |
-| [26–27 February 2024](2024-02-27-Piepoli.html) | Piepoli | 13 | 12–16 | 11–16 | 10–17 | 10–17 |
+| [25–28 February 2024](2024-02-28-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 13 | 13–16 | 12–16 | 12–16 | 12–17 |
+| [26–28 February 2024](2024-02-28-Bidimedia.html) | Bidimedia | 14 | 13–14 | 13–15 | 12–16 | 11–16 |
+| [26–27 February 2024](2024-02-27-Piepoli.html) | Piepoli | 13 | 11–16 | 11–16 | 10–16 | 10–17 |
 | [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 13 | 12–15 | 12–17 | 11–17 | 11–17 |
 | [21 February 2024](2024-02-21-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 15 | 14–18 | 14–19 | 13–19 | 13–19 |
 | [12 February 2024](2024-02-12-Piepoli.html) | Piepoli |  |  |  |  |  |
@@ -3138,15 +3138,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 0.1% | 100% |  |
-| 10 | 0.7% | 99.9% |  |
-| 11 | 2% | 99.2% |  |
-| 12 | 13% | 97% |  |
-| 13 | 30% | 84% |  |
-| 14 | 27% | 54% | Median |
-| 15 | 12% | 27% |  |
-| 16 | 14% | 15% |  |
-| 17 | 1.1% | 1.3% | Last Result |
+| 10 | 0.5% | 100% |  |
+| 11 | 3% | 99.4% |  |
+| 12 | 14% | 96% |  |
+| 13 | 25% | 82% |  |
+| 14 | 28% | 57% | Median |
+| 15 | 12% | 29% |  |
+| 16 | 16% | 17% |  |
+| 17 | 0.9% | 1.1% | Last Result |
 | 18 | 0.2% | 0.2% |  |
 | 19 | 0% | 0% |  |
 

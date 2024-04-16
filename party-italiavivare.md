@@ -1587,9 +1587,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [1 March 2024](2024-03-01-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [28 February 2024](2024-02-28-Euromedia.html) | Euromedia | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
-| [25–28 February 2024](2024-02-28-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 0 | 0 | 0 | 0 | 0–4 |
-| [26–28 February 2024](2024-02-28-Bidimedia.html) | Bidimedia | 0 | 0 | 0 | 0 | 0–4 |
-| [26–27 February 2024](2024-02-27-Piepoli.html) | Piepoli | 3 | 0–4 | 0–4 | 0–5 | 0–6 |
+| [25–28 February 2024](2024-02-28-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 0 | 0 | 0–3 | 0–3 | 0–4 |
+| [26–28 February 2024](2024-02-28-Bidimedia.html) | Bidimedia | 0 | 0 | 0–3 | 0–4 | 0–4 |
+| [26–27 February 2024](2024-02-27-Piepoli.html) | Piepoli | 4 | 0–4 | 0–4 | 0–5 | 0–6 |
 | [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 5 | 4–5 | 0–5 | 0–5 | 0–7 |
 | [21 February 2024](2024-02-21-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | [12 February 2024](2024-02-12-Piepoli.html) | Piepoli |  |  |  |  |  |
@@ -3135,11 +3135,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 75% | 100% | Last Result, Median |
-| 1 | 0% | 25% |  |
-| 2 | 0% | 25% |  |
-| 3 | 4% | 25% |  |
-| 4 | 20% | 21% |  |
+| 0 | 73% | 100% | Last Result, Median |
+| 1 | 0% | 27% |  |
+| 2 | 0% | 27% |  |
+| 3 | 5% | 27% |  |
+| 4 | 21% | 22% |  |
 | 5 | 0.9% | 1.0% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |

@@ -1584,7 +1584,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [28 February 2024](2024-02-28-Euromedia.html) | Euromedia | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [25–28 February 2024](2024-02-28-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [26–28 February 2024](2024-02-28-Bidimedia.html) | Bidimedia | 0 | 0 | 0 | 0 | 0–1 |
-| [26–27 February 2024](2024-02-27-Piepoli.html) | Piepoli | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [26–27 February 2024](2024-02-27-Piepoli.html) | Piepoli | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 0 | 0 | 0 | 0–1 | 0–1 |
 | [21 February 2024](2024-02-21-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0–1 | 0–1 |
 | [12 February 2024](2024-02-12-Piepoli.html) | Piepoli |  |  |  |  |  |
@@ -3130,8 +3130,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 88% | 100% | Last Result, Median |
-| 1 | 12% | 12% |  |
+| 0 | 87% | 100% | Last Result, Median |
+| 1 | 13% | 13% |  |
 | 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
