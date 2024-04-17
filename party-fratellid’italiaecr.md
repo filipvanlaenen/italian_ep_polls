@@ -1616,7 +1616,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 22 | 22–24 | 22–25 | 22–25 | 21–27 |
 | [21 February 2024](2024-02-21-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 25 | 22–26 | 22–26 | 21–26 | 20–27 |
 | [12 February 2024](2024-02-12-Piepoli.html) | Piepoli |  |  |  |  |  |
-| [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 23 | 22–26 | 21–26 | 20–27 | 19–29 |
+| [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 23 | 22–27 | 21–27 | 21–28 | 19–29 |
 | [30–31 January 2024](2024-01-31-Demopolis.html) | Demopolis | 23 | 22–24 | 22–25 | 21–25 | 21–26 |
 | [25–26 January 2024](2024-01-26-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 23 | 23–26 | 22–28 | 21–29 | 21–29 |
 | [12–22 January 2024](2024-01-22-Euromedia.html) | Euromedia <br> Rai 1 | 25 | 23–28 | 22–29 | 22–29 | 21–29 |
