@@ -10,9 +10,18 @@ Last result: **3.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.9% | 25.8–30.2% | 25.3–30.9% | 24.8–31.5% | 23.8–32.8% |
+| N/A | [Poll Average](average.html) | 27.4% | 25.5–29.4% | 25.0–29.9% | 24.5–30.4% | 23.6–31.5% |
+| [13 April 2024](2024-04-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 27.3% | 25.3–29.4% | 24.8–30.0% | 24.3–30.5% | 23.4–31.6% |
+| [8–12 April 2024](2024-04-12-Ixè.html) | Ixè | 26.6% | 24.9–28.5% | 24.4–29.0% | 23.9–29.4% | 23.1–30.3% |
+| [8–9 April 2024](2024-04-09-Demopolis.html) | Demopolis | 27.6% | 26.4–29.0% | 26.0–29.3% | 25.7–29.7% | 25.1–30.3% |
+| [8 April 2024](2024-04-08-Euromedia.html) | Euromedia <br> Rai 1 | 26.9% | 24.9–29.0% | 24.4–29.6% | 23.9–30.1% | 23.0–31.1% |
+| [4–5 April 2024](2024-04-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 28.0% | 26.0–30.1% | 25.5–30.7% | 25.0–31.3% | 24.1–32.3% |
+| [2–4 April 2024](2024-04-04-EMG.html) | EMG | 27.2% | 25.4–29.1% | 25.0–29.6% | 24.5–30.1% | 23.7–31.0% |
+| [27 March 2024](2024-03-27-Euromedia.html) | Euromedia <br> Rai 1 | 27.5% | 25.5–29.6% | 25.0–30.2% | 24.5–30.7% | 23.6–31.7% |
 | [19–25 March 2024](2024-03-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 27.5% | 25.7–29.4% | 25.2–29.9% | 24.8–30.4% | 24.0–31.3% |
+| [19 March 2024](2024-03-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 28.0% | 26.2–29.9% | 25.7–30.4% | 25.3–30.9% | 24.5–31.8% |
 | [11 March 2024](2024-03-11-Euromedia.html) | Euromedia <br> Rai 1 | 29.0% | 27.0–31.2% | 26.5–31.8% | 26.0–32.3% | 25.0–33.3% |
+| [7 March 2024](2024-03-07-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 27.0% | N/A | N/A | N/A | N/A |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 27.0% | 25.6–28.5% | 25.2–28.9% | 24.8–29.3% | 24.1–30.1% |
 | [1 March 2024](2024-03-01-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 27.1% | 25.2–29.2% | 24.6–29.8% | 24.2–30.3% | 23.3–31.4% |
 | [28 February 2024](2024-02-28-Euromedia.html) | Euromedia | 27.6% | 25.7–29.7% | 25.1–30.3% | 24.6–30.8% | 23.7–31.9% |
@@ -1580,20 +1589,19 @@ The following table shows the probability mass function per percentage block of 
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0% | 100% |  |
-| 21.5–22.5% | 0% | 100% |  |
-| 22.5–23.5% | 0.3% | 100% |  |
-| 23.5–24.5% | 1.5% | 99.7% |  |
-| 24.5–25.5% | 5% | 98% |  |
-| 25.5–26.5% | 13% | 93% |  |
-| 26.5–27.5% | 21% | 80% |  |
-| 27.5–28.5% | 23% | 58% | Median |
-| 28.5–29.5% | 18% | 35% |  |
-| 29.5–30.5% | 10% | 17% |  |
-| 30.5–31.5% | 5% | 7% |  |
-| 31.5–32.5% | 2% | 2% |  |
-| 32.5–33.5% | 0.5% | 0.7% |  |
-| 33.5–34.5% | 0.1% | 0.2% |  |
-| 34.5–35.5% | 0% | 0% |  |
+| 21.5–22.5% | 0.1% | 100% |  |
+| 22.5–23.5% | 0.4% | 99.9% |  |
+| 23.5–24.5% | 2% | 99.5% |  |
+| 24.5–25.5% | 8% | 97% |  |
+| 25.5–26.5% | 17% | 90% |  |
+| 26.5–27.5% | 26% | 73% | Median |
+| 27.5–28.5% | 24% | 47% |  |
+| 28.5–29.5% | 15% | 23% |  |
+| 29.5–30.5% | 6% | 8% |  |
+| 30.5–31.5% | 2% | 2% |  |
+| 31.5–32.5% | 0.4% | 0.4% |  |
+| 32.5–33.5% | 0.1% | 0.1% |  |
+| 33.5–34.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -1604,16 +1612,25 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24 | 22–26 | 21–26 | 21–27 | 19–28 |
-| [19–25 March 2024](2024-03-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 26 | 24–26 | 23–26 | 23–27 | 22–27 |
-| [11 March 2024](2024-03-11-Euromedia.html) | Euromedia <br> Rai 1 | 23 | 22–26 | 21–27 | 21–28 | 21–28 |
+| N/A | [Poll Average](average.html) | 23 | 21–25 | 20–26 | 20–27 | 19–28 |
+| [13 April 2024](2024-04-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 23 | 23–25 | 22–26 | 21–26 | 20–26 |
+| [8–12 April 2024](2024-04-12-Ixè.html) | Ixè | 21 | 20–24 | 20–24 | 19–24 | 18–24 |
+| [8–9 April 2024](2024-04-09-Demopolis.html) | Demopolis | 24 | 22–25 | 22–25 | 22–26 | 21–26 |
+| [8 April 2024](2024-04-08-Euromedia.html) | Euromedia <br> Rai 1 | 23 | 20–25 | 19–27 | 19–27 | 18–28 |
+| [4–5 April 2024](2024-04-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 24 | 21–26 | 21–27 | 21–27 | 19–27 |
+| [2–4 April 2024](2024-04-04-EMG.html) | EMG | 23 | 21–24 | 20–24 | 20–25 | 20–26 |
+| [27 March 2024](2024-03-27-Euromedia.html) | Euromedia <br> Rai 1 | 23 | 20–26 | 20–27 | 20–27 | 20–27 |
+| [19–25 March 2024](2024-03-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 24 | 23–26 | 23–27 | 23–27 | 22–28 |
+| [19 March 2024](2024-03-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 24 | 22–25 | 22–26 | 21–27 | 21–28 |
+| [11 March 2024](2024-03-11-Euromedia.html) | Euromedia <br> Rai 1 | 23 | 22–26 | 21–26 | 21–26 | 21–27 |
+| [7 March 2024](2024-03-07-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 23 | 21–24 | 20–25 | 20–25 | 20–25 |
-| [1 March 2024](2024-03-01-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 22 | 21–24 | 20–25 | 20–25 | 19–26 |
+| [1 March 2024](2024-03-01-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 22 | 21–25 | 20–25 | 20–25 | 19–26 |
 | [28 February 2024](2024-02-28-Euromedia.html) | Euromedia | 23 | 21–26 | 21–26 | 20–26 | 20–27 |
-| [25–28 February 2024](2024-02-28-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 23 | 22–25 | 22–25 | 22–25 | 21–27 |
-| [26–28 February 2024](2024-02-28-Bidimedia.html) | Bidimedia | 25 | 24–26 | 23–27 | 23–27 | 23–30 |
-| [26–27 February 2024](2024-02-27-Piepoli.html) | Piepoli | 23 | 21–26 | 21–27 | 19–27 | 19–28 |
-| [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 22 | 22–24 | 22–25 | 22–25 | 21–27 |
+| [25–28 February 2024](2024-02-28-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 23 | 23–25 | 22–25 | 22–26 | 21–29 |
+| [26–28 February 2024](2024-02-28-Bidimedia.html) | Bidimedia | 25 | 25 | 24–25 | 24–26 | 23–30 |
+| [26–27 February 2024](2024-02-27-Piepoli.html) | Piepoli | 23 | 21–27 | 19–27 | 19–27 | 19–29 |
+| [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 22 | 21–24 | 21–25 | 21–27 | 20–28 |
 | [21 February 2024](2024-02-21-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 25 | 22–26 | 22–26 | 21–26 | 20–27 |
 | [12 February 2024](2024-02-12-Piepoli.html) | Piepoli |  |  |  |  |  |
 | [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 23 | 22–27 | 21–27 | 21–28 | 19–29 |
@@ -3176,19 +3193,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
-| 18 | 0.1% | 100% |  |
-| 19 | 0.5% | 99.9% |  |
-| 20 | 2% | 99.4% |  |
-| 21 | 7% | 98% |  |
-| 22 | 16% | 91% |  |
-| 23 | 18% | 75% |  |
-| 24 | 9% | 57% | Median |
-| 25 | 27% | 48% |  |
-| 26 | 17% | 22% |  |
-| 27 | 3% | 4% |  |
-| 28 | 0.8% | 1.2% |  |
-| 29 | 0.2% | 0.4% |  |
-| 30 | 0.2% | 0.2% |  |
-| 31 | 0% | 0% |  |
+| 18 | 0.3% | 100% |  |
+| 19 | 1.3% | 99.7% |  |
+| 20 | 7% | 98% |  |
+| 21 | 8% | 92% |  |
+| 22 | 9% | 84% |  |
+| 23 | 27% | 75% | Median |
+| 24 | 29% | 48% |  |
+| 25 | 12% | 19% |  |
+| 26 | 4% | 7% |  |
+| 27 | 2% | 3% |  |
+| 28 | 0.6% | 0.7% |  |
+| 29 | 0.1% | 0.1% |  |
+| 30 | 0% | 0% |  |
 
 
