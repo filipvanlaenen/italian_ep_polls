@@ -1602,8 +1602,8 @@ Last result: **17** seats (General Election of 26 May 2019)
 | [12–22 January 2024](2024-01-22-Euromedia.html) | Euromedia <br> Rai 1 | 16 | 14–17 | 14–17 | 13–18 | 13–18 |
 | [15–16 January 2024](2024-01-16-Tecnè.html) | Tecnè | 12 | 11–14 | 11–14 | 10–15 | 10–15 |
 | [16 January 2024](2024-01-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 14 | 13–15 | 12–15 | 12–16 | 12–17 |
-| [30 December 2023–4 January 2024](2024-01-04-Lab2101.html) | Lab2101 <br> Affari Italiani | 14 | 13–15 | 12–16 | 12–16 | 11–17 |
-| [4 January 2024](2024-01-04-IZI.html) | IZI <br> Europa Today | 14 | 13–15 | 12–16 | 12–17 | 12–17 |
+| [30 December 2023–4 January 2024](2024-01-04-Lab2101.html) | Lab2101 <br> Affari Italiani | 15 | 13–15 | 12–16 | 12–17 | 11–17 |
+| [4 January 2024](2024-01-04-IZI.html) | IZI <br> Europa Today | 14 | 13–15 | 13–16 | 12–16 | 12–17 |
 | [29–30 November 2023](2023-11-30-TermometroPolitico.html) | Termometro Politico | 15 | 13–16 | 13–16 | 13–16 | 13–16 |
 | [29–30 November 2023](2023-11-30-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 11 | 11–13 | 10–13 | 10–14 | 9–14 |
 | [26–30 November 2023](2023-11-30-Lab2101.html) | Lab2101 <br> Affari Italiani | 14 | 12–16 | 12–16 | 12–16 | 11–16 |

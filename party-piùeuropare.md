@@ -1599,7 +1599,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [15–16 January 2024](2024-01-16-Tecnè.html) | Tecnè |  |  |  |  |  |
 | [16 January 2024](2024-01-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
 | [30 December 2023–4 January 2024](2024-01-04-Lab2101.html) | Lab2101 <br> Affari Italiani | 0 | 0 | 0 | 0 | 0 |
-| [4 January 2024](2024-01-04-IZI.html) | IZI <br> Europa Today | 0 | 0 | 0–3 | 0–4 | 0–4 |
+| [4 January 2024](2024-01-04-IZI.html) | IZI <br> Europa Today | 0 | 0 | 0 | 0–3 | 0–4 |
 | [29–30 November 2023](2023-11-30-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [29–30 November 2023](2023-11-30-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0 | 0 | 0–3 |
 | [26–30 November 2023](2023-11-30-Lab2101.html) | Lab2101 <br> Affari Italiani | 0 | 0 | 0 | 0 | 0 |
