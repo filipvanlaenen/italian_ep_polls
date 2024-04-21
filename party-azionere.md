@@ -1597,7 +1597,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [4–5 April 2024](2024-04-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | [2–4 April 2024](2024-04-04-EMG.html) | EMG | 0 | 0 | 0 | 0–3 | 0–4 |
 | [27 March 2024](2024-03-27-Euromedia.html) | Euromedia <br> Rai 1 | 4 | 0–4 | 0–4 | 0–5 | 0–5 |
-| [19–25 March 2024](2024-03-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0–4 | 0–4 |
+| [19–25 March 2024](2024-03-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0–4 |
 | [19 March 2024](2024-03-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [11 March 2024](2024-03-11-Euromedia.html) | Euromedia <br> Rai 1 | 4 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [7 March 2024](2024-03-07-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
@@ -1605,9 +1605,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [1 March 2024](2024-03-01-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [28 February 2024](2024-02-28-Euromedia.html) | Euromedia | 0 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [25–28 February 2024](2024-02-28-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
-| [26–28 February 2024](2024-02-28-Bidimedia.html) | Bidimedia | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
+| [26–28 February 2024](2024-02-28-Bidimedia.html) | Bidimedia | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [26–27 February 2024](2024-02-27-Piepoli.html) | Piepoli | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
-| [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | [21 February 2024](2024-02-21-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [12 February 2024](2024-02-12-Piepoli.html) | Piepoli |  |  |  |  |  |
 | [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 0 | 0 | 0 | 0 | 0–4 |
@@ -3152,11 +3152,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 73% | 100% | Last Result, Median |
-| 1 | 0% | 27% |  |
-| 2 | 0% | 27% |  |
-| 3 | 8% | 27% |  |
-| 4 | 19% | 19% |  |
+| 0 | 75% | 100% | Last Result, Median |
+| 1 | 0% | 25% |  |
+| 2 | 0% | 25% |  |
+| 3 | 8% | 25% |  |
+| 4 | 17% | 18% |  |
 | 5 | 0.3% | 0.3% |  |
 | 6 | 0% | 0% |  |
 

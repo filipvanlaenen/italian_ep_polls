@@ -1601,18 +1601,18 @@ Last result: **13** seats (General Election of 26 May 2019)
 | [8 April 2024](2024-04-08-Euromedia.html) | Euromedia <br> Rai 1 | 6 | 4–7 | 4–7 | 4–8 | 4–9 |
 | [4–5 April 2024](2024-04-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 5 | 4–7 | 4–7 | 4–7 | 4–8 |
 | [2–4 April 2024](2024-04-04-EMG.html) | EMG | 7 | 6–8 | 5–8 | 5–8 | 5–8 |
-| [27 March 2024](2024-03-27-Euromedia.html) | Euromedia <br> Rai 1 | 6 | 5–7 | 4–7 | 4–8 | 4–9 |
-| [19–25 March 2024](2024-03-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 8 | 6–8 | 5–8 | 5–9 | 5–10 |
-| [19 March 2024](2024-03-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
+| [27 March 2024](2024-03-27-Euromedia.html) | Euromedia <br> Rai 1 | 6 | 4–7 | 4–7 | 4–9 | 4–9 |
+| [19–25 March 2024](2024-03-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
+| [19 March 2024](2024-03-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
 | [11 March 2024](2024-03-11-Euromedia.html) | Euromedia <br> Rai 1 | 6 | 5–7 | 5–8 | 5–8 | 4–9 |
 | [7 March 2024](2024-03-07-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
-| [1 March 2024](2024-03-01-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 5 | 4–6 | 3–6 | 3–7 | 3–7 |
+| [1 March 2024](2024-03-01-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 4 | 4–6 | 4–6 | 3–7 | 3–7 |
 | [28 February 2024](2024-02-28-Euromedia.html) | Euromedia | 6 | 5–7 | 4–8 | 4–8 | 4–8 |
-| [25–28 February 2024](2024-02-28-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 6 | 6–7 | 5–7 | 5–7 | 4–8 |
+| [25–28 February 2024](2024-02-28-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 6 | 4–7 | 4–7 | 4–7 | 4–7 |
 | [26–28 February 2024](2024-02-28-Bidimedia.html) | Bidimedia | 7 | 6–7 | 5–7 | 4–7 | 4–8 |
-| [26–27 February 2024](2024-02-27-Piepoli.html) | Piepoli | 5 | 4–6 | 4–7 | 3–8 | 3–8 |
-| [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 5 | 4–6 | 4–6 | 3–6 | 3–7 |
+| [26–27 February 2024](2024-02-27-Piepoli.html) | Piepoli | 5 | 4–6 | 4–7 | 3–7 | 3–8 |
+| [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 5 | 5–8 | 4–8 | 4–8 | 3–8 |
 | [21 February 2024](2024-02-21-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 5 | 4–7 | 4–7 | 4–7 | 3–7 |
 | [12 February 2024](2024-02-12-Piepoli.html) | Piepoli |  |  |  |  |  |
 | [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 8 | 7–11 | 6–11 | 6–11 | 5–11 |
@@ -3158,12 +3158,12 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 3% | 100% |  |
-| 5 | 22% | 97% |  |
-| 6 | 27% | 75% | Median |
-| 7 | 25% | 48% |  |
-| 8 | 20% | 22% |  |
+| 5 | 20% | 96% |  |
+| 6 | 27% | 77% | Median |
+| 7 | 33% | 49% |  |
+| 8 | 14% | 16% |  |
 | 9 | 2% | 2% |  |
-| 10 | 0.3% | 0.3% |  |
+| 10 | 0.2% | 0.2% |  |
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |
 | 13 | 0% | 0% | Last Result |

@@ -1592,8 +1592,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [8 April 2024](2024-04-08-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [4–5 April 2024](2024-04-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [2–4 April 2024](2024-04-04-EMG.html) | EMG | 0 | 0 | 0 | 0 | 0–1 |
-| [27 March 2024](2024-03-27-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [19–25 March 2024](2024-03-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0–1 |
+| [27 March 2024](2024-03-27-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [19–25 March 2024](2024-03-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
 | [19 March 2024](2024-03-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0 | 0–1 |
 | [11 March 2024](2024-03-11-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0 | 0–1 |
 | [7 March 2024](2024-03-07-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
@@ -1602,8 +1602,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [28 February 2024](2024-02-28-Euromedia.html) | Euromedia | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [25–28 February 2024](2024-02-28-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [26–28 February 2024](2024-02-28-Bidimedia.html) | Bidimedia | 0 | 0 | 0 | 0 | 0–1 |
-| [26–27 February 2024](2024-02-27-Piepoli.html) | Piepoli | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
-| [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 0 | 0 | 0 | 0–1 | 0–1 |
+| [26–27 February 2024](2024-02-27-Piepoli.html) | Piepoli | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 0 | 0 | 0 | 0 | 0–1 |
 | [21 February 2024](2024-02-21-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0–1 | 0–1 |
 | [12 February 2024](2024-02-12-Piepoli.html) | Piepoli |  |  |  |  |  |
 | [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 0 | 0 | 0 | 0–1 | 0–1 |

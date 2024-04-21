@@ -1612,25 +1612,25 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23 | 21–25 | 20–26 | 20–26 | 19–28 |
+| N/A | [Poll Average](average.html) | 23 | 21–26 | 20–26 | 20–26 | 19–27 |
 | [13 April 2024](2024-04-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 23 | 22–26 | 21–26 | 20–26 | 19–27 |
 | [8–12 April 2024](2024-04-12-Ixè.html) | Ixè | 21 | 20–24 | 20–24 | 19–24 | 18–24 |
 | [8–9 April 2024](2024-04-09-Demopolis.html) | Demopolis | 24 | 22–25 | 21–26 | 21–26 | 21–26 |
 | [8 April 2024](2024-04-08-Euromedia.html) | Euromedia <br> Rai 1 | 22 | 20–25 | 20–26 | 19–27 | 18–27 |
 | [4–5 April 2024](2024-04-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 23 | 22–25 | 21–26 | 21–27 | 20–27 |
 | [2–4 April 2024](2024-04-04-EMG.html) | EMG | 23 | 22–24 | 21–25 | 20–25 | 20–26 |
-| [27 March 2024](2024-03-27-Euromedia.html) | Euromedia <br> Rai 1 | 23 | 20–26 | 20–27 | 20–27 | 20–27 |
-| [19–25 March 2024](2024-03-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 24 | 23–26 | 23–27 | 23–27 | 22–28 |
-| [19 March 2024](2024-03-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 24 | 22–25 | 22–26 | 21–27 | 21–28 |
+| [27 March 2024](2024-03-27-Euromedia.html) | Euromedia <br> Rai 1 | 23 | 20–25 | 20–26 | 20–27 | 19–28 |
+| [19–25 March 2024](2024-03-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 26 | 24–26 | 23–26 | 23–27 | 22–27 |
+| [19 March 2024](2024-03-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 24 | 23–25 | 22–25 | 21–27 | 21–28 |
 | [11 March 2024](2024-03-11-Euromedia.html) | Euromedia <br> Rai 1 | 23 | 22–26 | 21–26 | 21–26 | 21–27 |
 | [7 March 2024](2024-03-07-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 23 | 21–24 | 20–25 | 20–25 | 20–25 |
-| [1 March 2024](2024-03-01-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 22 | 21–25 | 20–25 | 20–25 | 19–26 |
+| [1 March 2024](2024-03-01-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 22 | 21–24 | 20–25 | 20–25 | 19–26 |
 | [28 February 2024](2024-02-28-Euromedia.html) | Euromedia | 23 | 21–26 | 21–26 | 20–26 | 20–27 |
-| [25–28 February 2024](2024-02-28-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 23 | 23–25 | 22–25 | 22–26 | 21–29 |
-| [26–28 February 2024](2024-02-28-Bidimedia.html) | Bidimedia | 25 | 25 | 24–25 | 24–26 | 23–30 |
-| [26–27 February 2024](2024-02-27-Piepoli.html) | Piepoli | 23 | 21–27 | 19–27 | 19–27 | 19–29 |
-| [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 22 | 21–24 | 21–25 | 21–27 | 20–28 |
+| [25–28 February 2024](2024-02-28-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 23 | 22–25 | 22–25 | 22–25 | 21–27 |
+| [26–28 February 2024](2024-02-28-Bidimedia.html) | Bidimedia | 25 | 24–26 | 23–27 | 23–27 | 23–30 |
+| [26–27 February 2024](2024-02-27-Piepoli.html) | Piepoli | 23 | 21–26 | 21–27 | 19–27 | 19–28 |
+| [17–22 February 2024](2024-02-22-StackDataStrategy.html) | Stack Data Strategy | 22 | 22–25 | 21–25 | 21–25 | 21–27 |
 | [21 February 2024](2024-02-21-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 25 | 22–26 | 22–26 | 21–26 | 20–27 |
 | [12 February 2024](2024-02-12-Piepoli.html) | Piepoli |  |  |  |  |  |
 | [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 23 | 22–27 | 21–27 | 21–28 | 19–29 |
@@ -3196,15 +3196,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 0.2% | 100% |  |
 | 19 | 1.0% | 99.8% |  |
 | 20 | 5% | 98.8% |  |
-| 21 | 9% | 93% |  |
+| 21 | 8% | 93% |  |
 | 22 | 13% | 85% |  |
-| 23 | 32% | 72% | Median |
-| 24 | 23% | 40% |  |
-| 25 | 11% | 17% |  |
-| 26 | 4% | 6% |  |
-| 27 | 2% | 2% |  |
-| 28 | 0.5% | 0.6% |  |
-| 29 | 0.1% | 0.1% |  |
-| 30 | 0% | 0% |  |
+| 23 | 27% | 72% | Median |
+| 24 | 24% | 46% |  |
+| 25 | 8% | 22% |  |
+| 26 | 12% | 14% |  |
+| 27 | 1.4% | 2% |  |
+| 28 | 0.3% | 0.3% |  |
+| 29 | 0% | 0% |  |
 
 
