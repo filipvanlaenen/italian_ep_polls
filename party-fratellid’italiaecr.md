@@ -1612,13 +1612,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23 | 21–25 | 20–26 | 20–27 | 19–28 |
-| [13 April 2024](2024-04-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 23 | 23–25 | 22–26 | 21–26 | 20–26 |
+| N/A | [Poll Average](average.html) | 23 | 21–25 | 20–26 | 20–26 | 19–28 |
+| [13 April 2024](2024-04-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 23 | 22–26 | 21–26 | 20–26 | 19–27 |
 | [8–12 April 2024](2024-04-12-Ixè.html) | Ixè | 21 | 20–24 | 20–24 | 19–24 | 18–24 |
-| [8–9 April 2024](2024-04-09-Demopolis.html) | Demopolis | 24 | 22–25 | 22–25 | 22–26 | 21–26 |
-| [8 April 2024](2024-04-08-Euromedia.html) | Euromedia <br> Rai 1 | 23 | 20–25 | 19–27 | 19–27 | 18–28 |
-| [4–5 April 2024](2024-04-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 24 | 21–26 | 21–27 | 21–27 | 19–27 |
-| [2–4 April 2024](2024-04-04-EMG.html) | EMG | 23 | 21–24 | 20–24 | 20–25 | 20–26 |
+| [8–9 April 2024](2024-04-09-Demopolis.html) | Demopolis | 24 | 22–25 | 21–26 | 21–26 | 21–26 |
+| [8 April 2024](2024-04-08-Euromedia.html) | Euromedia <br> Rai 1 | 22 | 20–25 | 20–26 | 19–27 | 18–27 |
+| [4–5 April 2024](2024-04-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 23 | 22–25 | 21–26 | 21–27 | 20–27 |
+| [2–4 April 2024](2024-04-04-EMG.html) | EMG | 23 | 22–24 | 21–25 | 20–25 | 20–26 |
 | [27 March 2024](2024-03-27-Euromedia.html) | Euromedia <br> Rai 1 | 23 | 20–26 | 20–27 | 20–27 | 20–27 |
 | [19–25 March 2024](2024-03-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 24 | 23–26 | 23–27 | 23–27 | 22–28 |
 | [19 March 2024](2024-03-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 24 | 22–25 | 22–26 | 21–27 | 21–28 |
@@ -3193,17 +3193,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
-| 18 | 0.3% | 100% |  |
-| 19 | 1.3% | 99.7% |  |
-| 20 | 7% | 98% |  |
-| 21 | 8% | 92% |  |
-| 22 | 9% | 84% |  |
-| 23 | 27% | 75% | Median |
-| 24 | 29% | 48% |  |
-| 25 | 12% | 19% |  |
-| 26 | 4% | 7% |  |
-| 27 | 2% | 3% |  |
-| 28 | 0.6% | 0.7% |  |
+| 18 | 0.2% | 100% |  |
+| 19 | 1.0% | 99.8% |  |
+| 20 | 5% | 98.8% |  |
+| 21 | 9% | 93% |  |
+| 22 | 13% | 85% |  |
+| 23 | 32% | 72% | Median |
+| 24 | 23% | 40% |  |
+| 25 | 11% | 17% |  |
+| 26 | 4% | 6% |  |
+| 27 | 2% | 2% |  |
+| 28 | 0.5% | 0.6% |  |
 | 29 | 0.1% | 0.1% |  |
 | 30 | 0% | 0% |  |
 

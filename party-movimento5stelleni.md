@@ -1592,13 +1592,13 @@ Last result: **17** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 13–16 | 12–16 | 12–17 | 11–18 |
-| [13 April 2024](2024-04-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 14 | 12–14 | 11–15 | 11–16 | 11–16 |
-| [8–12 April 2024](2024-04-12-Ixè.html) | Ixè | 14 | 13–15 | 13–15 | 12–15 | 11–16 |
-| [8–9 April 2024](2024-04-09-Demopolis.html) | Demopolis | 14 | 13–14 | 13–15 | 12–15 | 12–16 |
-| [8 April 2024](2024-04-08-Euromedia.html) | Euromedia <br> Rai 1 | 15 | 12–17 | 12–18 | 12–18 | 12–18 |
-| [4–5 April 2024](2024-04-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 13 | 12–15 | 12–15 | 11–15 | 10–16 |
-| [2–4 April 2024](2024-04-04-EMG.html) | EMG | 14 | 13–15 | 12–15 | 12–15 | 12–17 |
+| N/A | [Poll Average](average.html) | 14 | 13–16 | 12–16 | 12–16 | 11–18 |
+| [13 April 2024](2024-04-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 14 | 12–15 | 11–16 | 11–16 | 11–17 |
+| [8–12 April 2024](2024-04-12-Ixè.html) | Ixè | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
+| [8–9 April 2024](2024-04-09-Demopolis.html) | Demopolis | 14 | 13–15 | 13–15 | 12–15 | 12–16 |
+| [8 April 2024](2024-04-08-Euromedia.html) | Euromedia <br> Rai 1 | 14 | 13–16 | 12–17 | 12–18 | 11–18 |
+| [4–5 April 2024](2024-04-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 14 | 12–14 | 12–15 | 11–16 | 11–17 |
+| [2–4 April 2024](2024-04-04-EMG.html) | EMG | 14 | 13–15 | 12–15 | 12–16 | 11–17 |
 | [27 March 2024](2024-03-27-Euromedia.html) | Euromedia <br> Rai 1 | 15 | 13–17 | 13–17 | 13–17 | 12–18 |
 | [19–25 March 2024](2024-03-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 15 | 13–16 | 12–16 | 12–16 | 12–17 |
 | [19 March 2024](2024-03-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 14 | 13–16 | 13–16 | 12–17 | 12–18 |
@@ -3155,15 +3155,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.2% | 100% |  |
-| 11 | 2% | 99.8% |  |
-| 12 | 7% | 98% |  |
-| 13 | 20% | 91% |  |
-| 14 | 37% | 72% | Median |
-| 15 | 22% | 35% |  |
+| 10 | 0.1% | 100% |  |
+| 11 | 2% | 99.9% |  |
+| 12 | 8% | 98% |  |
+| 13 | 20% | 90% |  |
+| 14 | 38% | 71% | Median |
+| 15 | 20% | 32% |  |
 | 16 | 10% | 12% |  |
-| 17 | 2% | 3% | Last Result |
-| 18 | 1.0% | 1.0% |  |
+| 17 | 2% | 2% | Last Result |
+| 18 | 0.7% | 0.7% |  |
 | 19 | 0% | 0% |  |
 
 

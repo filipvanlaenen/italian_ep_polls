@@ -1592,12 +1592,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 0–5 | 0–5 | 0–6 | 0–6 |
-| [13 April 2024](2024-04-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 4 | 4–5 | 4–5 | 4–6 | 4–7 |
+| N/A | [Poll Average](average.html) | 4 | 0–5 | 0–6 | 0–6 | 0–6 |
+| [13 April 2024](2024-04-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 4 | 4–5 | 4–6 | 0–6 | 0–7 |
 | [8–12 April 2024](2024-04-12-Ixè.html) | Ixè | 4 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [8–9 April 2024](2024-04-09-Demopolis.html) | Demopolis | 4 | 3–5 | 3–5 | 3–5 | 0–5 |
+| [8–9 April 2024](2024-04-09-Demopolis.html) | Demopolis | 4 | 3–5 | 3–5 | 0–5 | 0–5 |
 | [8 April 2024](2024-04-08-Euromedia.html) | Euromedia <br> Rai 1 | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
-| [4–5 April 2024](2024-04-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 4 | 0–5 | 0–6 | 0–6 | 0–6 |
+| [4–5 April 2024](2024-04-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [2–4 April 2024](2024-04-04-EMG.html) | EMG | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [27 March 2024](2024-03-27-Euromedia.html) | Euromedia <br> Rai 1 | 4 | 3–5 | 0–5 | 0–5 | 0–6 |
 | [19–25 March 2024](2024-03-25-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
@@ -3155,14 +3155,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 13% | 100% | Last Result |
-| 1 | 0% | 87% |  |
-| 2 | 0% | 87% |  |
-| 3 | 12% | 87% |  |
-| 4 | 45% | 74% | Median |
-| 5 | 24% | 29% |  |
-| 6 | 4% | 5% |  |
-| 7 | 0.5% | 0.5% |  |
+| 0 | 15% | 100% | Last Result |
+| 1 | 0% | 85% |  |
+| 2 | 0% | 85% |  |
+| 3 | 7% | 85% |  |
+| 4 | 48% | 78% | Median |
+| 5 | 21% | 30% |  |
+| 6 | 8% | 8% |  |
+| 7 | 0.4% | 0.4% |  |
 | 8 | 0% | 0% |  |
 
 
