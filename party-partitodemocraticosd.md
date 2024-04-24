@@ -10,13 +10,14 @@ Last result: **40.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.0% | 18.3–21.8% | 17.8–22.2% | 17.4–22.7% | 16.5–23.6% |
+| N/A | [Poll Average](average.html) | 20.1% | 18.4–21.7% | 17.9–22.2% | 17.5–22.6% | 16.7–23.5% |
+| [17–18 April 2024](2024-04-18-Demos.html) | Demos | 20.2% | 18.6–21.9% | 18.2–22.4% | 17.8–22.8% | 17.1–23.6% |
 | [13 April 2024](2024-04-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 19.8% | 18.1–21.8% | 17.6–22.3% | 17.2–22.8% | 16.4–23.7% |
 | [8–12 April 2024](2024-04-12-Ixè.html) | Ixè | 19.9% | 18.4–21.6% | 17.9–22.1% | 17.5–22.5% | 16.8–23.3% |
 | [8–9 April 2024](2024-04-09-Demopolis.html) | Demopolis | 20.5% | 19.3–21.7% | 19.0–22.0% | 18.7–22.3% | 18.2–22.9% |
 | [8 April 2024](2024-04-08-Euromedia.html) | Euromedia <br> Rai 1 | 19.8% | 18.0–21.7% | 17.5–22.2% | 17.1–22.7% | 16.3–23.6% |
-| [4–5 April 2024](2024-04-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 20.1% | 18.3–22.0% | 17.8–22.5% | 17.4–23.0% | 16.6–24.0% |
-| [2–4 April 2024](2024-04-04-EMG.html) | EMG | 20.2% | 18.6–21.9% | 18.2–22.4% | 17.8–22.8% | 17.1–23.6% |
+| [4–5 April 2024](2024-04-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 20.1% | N/A | N/A | N/A | N/A |
+| [2–4 April 2024](2024-04-04-EMG.html) | EMG | 20.2% | N/A | N/A | N/A | N/A |
 | [27 March 2024](2024-03-27-Euromedia.html) | Euromedia <br> Rai 1 | 19.2% | 17.5–21.1% | 17.1–21.7% | 16.7–22.1% | 15.9–23.1% |
 | [19–25 March 2024](2024-03-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 20.5% | 18.9–22.2% | 18.5–22.7% | 18.1–23.1% | 17.4–24.0% |
 | [19 March 2024](2024-03-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 19.0% | 17.5–20.7% | 17.1–21.1% | 16.7–21.6% | 16.0–22.4% |
@@ -1572,16 +1573,16 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0.5% | 100% |  |
-| 16.5–17.5% | 3% | 99.5% |  |
-| 17.5–18.5% | 10% | 97% |  |
-| 18.5–19.5% | 22% | 86% |  |
-| 19.5–20.5% | 29% | 64% | Median |
-| 20.5–21.5% | 22% | 35% |  |
-| 21.5–22.5% | 10% | 13% |  |
-| 22.5–23.5% | 3% | 3% |  |
-| 23.5–24.5% | 0.5% | 0.5% |  |
-| 24.5–25.5% | 0.1% | 0.1% |  |
+| 15.5–16.5% | 0.3% | 100% |  |
+| 16.5–17.5% | 2% | 99.6% |  |
+| 17.5–18.5% | 9% | 97% |  |
+| 18.5–19.5% | 22% | 88% |  |
+| 19.5–20.5% | 30% | 67% | Median |
+| 20.5–21.5% | 24% | 36% |  |
+| 21.5–22.5% | 10% | 12% |  |
+| 22.5–23.5% | 2% | 3% |  |
+| 23.5–24.5% | 0.4% | 0.4% |  |
+| 24.5–25.5% | 0% | 0% |  |
 | 25.5–26.5% | 0% | 0% |  |
 | 26.5–27.5% | 0% | 0% |  |
 | 27.5–28.5% | 0% | 0% |  |
@@ -1608,13 +1609,14 @@ Last result: **31** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 15–19 | 15–19 | 14–20 | 13–21 |
-| [13 April 2024](2024-04-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 15 | 15–19 | 15–19 | 14–19 | 13–20 |
-| [8–12 April 2024](2024-04-12-Ixè.html) | Ixè | 16 | 16–18 | 15–18 | 14–19 | 13–20 |
-| [8–9 April 2024](2024-04-09-Demopolis.html) | Demopolis | 17 | 16–19 | 16–19 | 16–20 | 15–20 |
-| [8 April 2024](2024-04-08-Euromedia.html) | Euromedia <br> Rai 1 | 17 | 15–18 | 14–19 | 14–20 | 13–20 |
-| [4–5 April 2024](2024-04-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 16 | 15–19 | 15–19 | 14–19 | 14–21 |
-| [2–4 April 2024](2024-04-04-EMG.html) | EMG | 18 | 16–19 | 15–19 | 15–19 | 15–20 |
+| N/A | [Poll Average](average.html) | 16 | 15–18 | 14–19 | 14–19 | 13–20 |
+| [17–18 April 2024](2024-04-18-Demos.html) | Demos | 16 | 14–17 | 14–18 | 14–18 | 13–19 |
+| [13 April 2024](2024-04-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 15 | 15–17 | 15–18 | 15–19 | 14–20 |
+| [8–12 April 2024](2024-04-12-Ixè.html) | Ixè | 16 | 15–18 | 14–19 | 14–19 | 13–19 |
+| [8–9 April 2024](2024-04-09-Demopolis.html) | Demopolis | 17 | 16–19 | 16–20 | 15–20 | 15–20 |
+| [8 April 2024](2024-04-08-Euromedia.html) | Euromedia <br> Rai 1 | 16 | 14–18 | 14–19 | 13–19 | 13–20 |
+| [4–5 April 2024](2024-04-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
+| [2–4 April 2024](2024-04-04-EMG.html) | EMG |  |  |  |  |  |
 | [27 March 2024](2024-03-27-Euromedia.html) | Euromedia <br> Rai 1 | 17 | 14–19 | 13–19 | 13–19 | 13–20 |
 | [19–25 March 2024](2024-03-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 19 | 18–20 | 18–21 | 17–21 | 16–22 |
 | [19 March 2024](2024-03-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 17 | 15–18 | 14–19 | 14–19 | 13–19 |
@@ -3171,16 +3173,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 13 | 0.6% | 100% |  |
-| 14 | 2% | 99.4% |  |
-| 15 | 13% | 97% |  |
-| 16 | 26% | 84% |  |
-| 17 | 23% | 58% | Median |
-| 18 | 17% | 35% |  |
-| 19 | 14% | 17% |  |
-| 20 | 2% | 3% |  |
-| 21 | 1.2% | 1.3% |  |
-| 22 | 0.1% | 0.1% |  |
+| 13 | 1.1% | 100% |  |
+| 14 | 7% | 98.9% |  |
+| 15 | 29% | 92% |  |
+| 16 | 30% | 63% | Median |
+| 17 | 19% | 33% |  |
+| 18 | 8% | 14% |  |
+| 19 | 5% | 6% |  |
+| 20 | 2% | 2% |  |
+| 21 | 0% | 0% |  |
+| 22 | 0% | 0% |  |
 | 23 | 0% | 0% |  |
 | 24 | 0% | 0% |  |
 | 25 | 0% | 0% |  |
