@@ -10,14 +10,14 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.8% | 3.0–4.6% | 2.8–4.9% | 2.7–5.2% | 2.4–5.7% |
+| N/A | [Poll Average](average.html) | 3.6% | 2.8–4.5% | 2.6–4.8% | 2.4–5.1% | 2.1–5.6% |
 | [17–18 April 2024](2024-04-18-Demos.html) | Demos | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.6–5.9% |
 | [13 April 2024](2024-04-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.5% | 2.8–4.5% | 2.6–4.8% | 2.5–5.1% | 2.1–5.6% |
 | [8–12 April 2024](2024-04-12-Ixè.html) | Ixè | 3.7% | 3.0–4.6% | 2.9–4.8% | 2.7–5.1% | 2.4–5.5% |
 | [8–9 April 2024](2024-04-09-Demopolis.html) | Demopolis | 3.6% | 3.1–4.2% | 3.0–4.4% | 2.8–4.5% | 2.6–4.8% |
 | [8 April 2024](2024-04-08-Euromedia.html) | Euromedia <br> Rai 1 | 3.8% | 3.0–4.8% | 2.8–5.1% | 2.6–5.3% | 2.3–5.8% |
-| [4–5 April 2024](2024-04-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 3.2% | N/A | N/A | N/A | N/A |
-| [2–4 April 2024](2024-04-04-EMG.html) | EMG | 3.2% | N/A | N/A | N/A | N/A |
+| [4–5 April 2024](2024-04-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 3.2% | 2.5–4.1% | 2.3–4.4% | 2.1–4.6% | 1.9–5.1% |
+| [2–4 April 2024](2024-04-04-EMG.html) | EMG | 3.2% | 2.6–4.0% | 2.4–4.3% | 2.3–4.5% | 2.0–4.9% |
 | [27 March 2024](2024-03-27-Euromedia.html) | Euromedia <br> Rai 1 | 4.0% | 3.2–5.0% | 3.0–5.3% | 2.9–5.6% | 2.5–6.1% |
 | [19–25 March 2024](2024-03-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
 | [19 March 2024](2024-03-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
@@ -1574,11 +1574,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 1.3% | 100% |  |
-| 2.5–3.5% | 35% | 98.7% |  |
-| 3.5–4.5% | 52% | 64% | Median |
-| 4.5–5.5% | 11% | 12% |  |
-| 5.5–6.5% | 0.7% | 0.7% |  |
+| 1.5–2.5% | 4% | 100% |  |
+| 2.5–3.5% | 42% | 96% |  |
+| 3.5–4.5% | 45% | 55% | Median |
+| 4.5–5.5% | 9% | 9% |  |
+| 5.5–6.5% | 0.5% | 0.5% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -1596,8 +1596,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [8–12 April 2024](2024-04-12-Ixè.html) | Ixè | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [8–9 April 2024](2024-04-09-Demopolis.html) | Demopolis | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [8 April 2024](2024-04-08-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
-| [4–5 April 2024](2024-04-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
-| [2–4 April 2024](2024-04-04-EMG.html) | EMG |  |  |  |  |  |
+| [4–5 April 2024](2024-04-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0–3 | 0–4 | 0–4 |
+| [2–4 April 2024](2024-04-04-EMG.html) | EMG | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [27 March 2024](2024-03-27-Euromedia.html) | Euromedia <br> Rai 1 | 4 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [19–25 March 2024](2024-03-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0–4 |
 | [19 March 2024](2024-03-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
@@ -3154,12 +3154,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 51% | 100% | Last Result, Median |
-| 1 | 0% | 49% |  |
-| 2 | 0% | 49% |  |
-| 3 | 13% | 49% |  |
-| 4 | 34% | 35% |  |
-| 5 | 0.8% | 0.8% |  |
+| 0 | 62% | 100% | Last Result, Median |
+| 1 | 0% | 38% |  |
+| 2 | 0% | 38% |  |
+| 3 | 12% | 38% |  |
+| 4 | 26% | 26% |  |
+| 5 | 0.6% | 0.6% |  |
 | 6 | 0% | 0% |  |
 
 
