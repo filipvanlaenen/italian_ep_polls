@@ -1589,10 +1589,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–2 | 0–2 | 0–2 | 0–3 |
 | [17–18 April 2024](2024-04-18-Demos.html) | Demos | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
-| [13 April 2024](2024-04-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–1 | 0–2 | 0–3 | 0–3 |
+| [13 April 2024](2024-04-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–2 | 0–2 | 0–2 | 0–3 |
 | [8–12 April 2024](2024-04-12-Ixè.html) | Ixè | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
-| [8–9 April 2024](2024-04-09-Demopolis.html) | Demopolis | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| [8 April 2024](2024-04-08-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0–2 | 0–2 | 0–3 | 0–3 |
+| [8–9 April 2024](2024-04-09-Demopolis.html) | Demopolis | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
+| [8 April 2024](2024-04-08-Euromedia.html) | Euromedia <br> Rai 1 | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | [4–5 April 2024](2024-04-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | [2–4 April 2024](2024-04-04-EMG.html) | EMG | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
 | [27 March 2024](2024-03-27-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0–2 | 0–2 | 0–2 | 0–3 |
@@ -3151,10 +3151,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 53% | 100% | Last Result, Median |
-| 1 | 25% | 47% |  |
-| 2 | 21% | 22% |  |
-| 3 | 1.3% | 1.3% |  |
+| 0 | 52% | 100% | Last Result, Median |
+| 1 | 29% | 48% |  |
+| 2 | 19% | 20% |  |
+| 3 | 1.1% | 1.1% |  |
 | 4 | 0% | 0% |  |
 
 

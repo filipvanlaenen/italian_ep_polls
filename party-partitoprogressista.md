@@ -1588,10 +1588,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [17–18 April 2024](2024-04-18-Demos.html) | Demos | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [13 April 2024](2024-04-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0–1 |
+| [13 April 2024](2024-04-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0–1 | 0–1 |
 | [8–12 April 2024](2024-04-12-Ixè.html) | Ixè | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [8–9 April 2024](2024-04-09-Demopolis.html) | Demopolis | 0 | 0 | 0 | 0 | 0–1 |
-| [8 April 2024](2024-04-08-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [8 April 2024](2024-04-08-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [4–5 April 2024](2024-04-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [2–4 April 2024](2024-04-04-EMG.html) | EMG | 0 | 0 | 0 | 0 | 0 |
 | [27 March 2024](2024-03-27-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
