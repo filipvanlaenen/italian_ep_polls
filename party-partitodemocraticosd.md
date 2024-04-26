@@ -1610,7 +1610,7 @@ Last result: **31** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16 | 15–18 | 14–19 | 14–19 | 13–20 |
-| [17–18 April 2024](2024-04-18-Demos.html) | Demos | 16 | 14–17 | 14–18 | 14–18 | 13–19 |
+| [17–18 April 2024](2024-04-18-Demos.html) | Demos | 16 | 14–18 | 14–18 | 14–18 | 13–19 |
 | [13 April 2024](2024-04-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 15 | 15–17 | 15–18 | 15–19 | 14–20 |
 | [8–12 April 2024](2024-04-12-Ixè.html) | Ixè | 16 | 15–18 | 14–19 | 14–19 | 13–19 |
 | [8–9 April 2024](2024-04-09-Demopolis.html) | Demopolis | 17 | 16–19 | 16–20 | 15–20 | 15–20 |
@@ -3174,10 +3174,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 13 | 0.9% | 100% |  |
-| 14 | 6% | 99.1% |  |
-| 15 | 26% | 93% |  |
-| 16 | 28% | 68% | Median |
-| 17 | 22% | 40% |  |
+| 14 | 5% | 99.0% |  |
+| 15 | 25% | 94% |  |
+| 16 | 27% | 68% | Median |
+| 17 | 22% | 41% |  |
 | 18 | 10% | 18% |  |
 | 19 | 6% | 8% |  |
 | 20 | 2% | 2% |  |
