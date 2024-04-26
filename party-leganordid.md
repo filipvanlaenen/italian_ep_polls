@@ -1598,8 +1598,8 @@ Last result: **5** seats (General Election of 26 May 2019)
 | [8–12 April 2024](2024-04-12-Ixè.html) | Ixè | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
 | [8–9 April 2024](2024-04-09-Demopolis.html) | Demopolis | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [8 April 2024](2024-04-08-Euromedia.html) | Euromedia <br> Rai 1 | 8 | 6–8 | 6–9 | 6–9 | 5–10 |
-| [4–5 April 2024](2024-04-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
-| [2–4 April 2024](2024-04-04-EMG.html) | EMG | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
+| [4–5 April 2024](2024-04-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 6 | 5–7 | 5–7 | 5–8 | 4–9 |
+| [2–4 April 2024](2024-04-04-EMG.html) | EMG | 6 | 5–7 | 5–8 | 5–8 | 5–9 |
 | [27 March 2024](2024-03-27-Euromedia.html) | Euromedia <br> Rai 1 | 7 | 6–8 | 6–9 | 5–10 | 5–10 |
 | [19–25 March 2024](2024-03-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 8 | 8–9 | 6–10 | 6–10 | 6–10 |
 | [19 March 2024](2024-03-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
@@ -3156,8 +3156,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.1% | 100% |  |
-| 5 | 6% | 99.9% | Last Result |
+| 4 | 0.3% | 100% |  |
+| 5 | 6% | 99.7% | Last Result |
 | 6 | 33% | 94% |  |
 | 7 | 41% | 61% | Median |
 | 8 | 18% | 20% |  |

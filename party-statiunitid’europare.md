@@ -1599,7 +1599,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [8–12 April 2024](2024-04-12-Ixè.html) | Ixè | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [8–9 April 2024](2024-04-09-Demopolis.html) | Demopolis | 4 | 3–5 | 3–5 | 0–5 | 0–5 |
 | [8 April 2024](2024-04-08-Euromedia.html) | Euromedia <br> Rai 1 | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
-| [4–5 April 2024](2024-04-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 4 | 0–5 | 0–6 | 0–6 | 0–6 |
+| [4–5 April 2024](2024-04-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [2–4 April 2024](2024-04-04-EMG.html) | EMG | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [27 March 2024](2024-03-27-Euromedia.html) | Euromedia <br> Rai 1 | 4 | 3–5 | 0–5 | 0–5 | 0–6 |
 | [19–25 March 2024](2024-03-25-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
@@ -3157,13 +3157,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 22% | 100% | Last Result |
-| 1 | 0% | 78% |  |
-| 2 | 0% | 78% |  |
-| 3 | 12% | 78% |  |
-| 4 | 42% | 66% | Median |
+| 0 | 23% | 100% | Last Result |
+| 1 | 0% | 77% |  |
+| 2 | 0% | 77% |  |
+| 3 | 11% | 77% |  |
+| 4 | 43% | 67% | Median |
 | 5 | 18% | 24% |  |
-| 6 | 5% | 6% |  |
+| 6 | 6% | 6% |  |
 | 7 | 0.3% | 0.3% |  |
 | 8 | 0% | 0% |  |
 
