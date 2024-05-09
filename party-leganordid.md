@@ -10,7 +10,11 @@ Last result: **6.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.1% | 7.0–9.4% | 6.7–9.8% | 6.4–10.2% | 5.8–10.9% |
+| N/A | [Poll Average](average.html) | 8.3% | 7.2–9.4% | 6.8–9.8% | 6.5–10.1% | 6.0–10.8% |
+| [1–2 May 2024](2024-05-02-Euromedia.html) | Euromedia <br> Rai 1 | 8.4% | 7.9–8.9% | 7.7–9.1% | 7.6–9.2% | 7.4–9.5% |
+| [30 April 2024](2024-04-30-Eumetra.html) | Eumetra <br> La7 | 8.4% | 7.2–9.8% | 6.9–10.2% | 6.6–10.5% | 6.1–11.2% |
+| [24 April 2024](2024-04-24-Euromedia.html) | Euromedia | 8.5% | 7.3–9.9% | 7.0–10.3% | 6.8–10.6% | 6.2–11.4% |
+| [24 April 2024](2024-04-24-Eumetra.html) | Eumetra <br> La7 | 8.2% | N/A | N/A | N/A | N/A |
 | [17–18 April 2024](2024-04-18-Demos.html) | Demos | 8.5% | 7.4–9.7% | 7.1–10.0% | 6.9–10.3% | 6.4–11.0% |
 | [13 April 2024](2024-04-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 7.8% | 6.7–9.2% | 6.4–9.6% | 6.2–9.9% | 5.7–10.6% |
 | [8–12 April 2024](2024-04-12-Ixè.html) | Ixè | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
@@ -1573,13 +1577,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.2% | 100% |  |
-| 5.5–6.5% | 4% | 99.8% | Last Result |
-| 6.5–7.5% | 21% | 96% |  |
-| 7.5–8.5% | 41% | 75% | Median |
-| 8.5–9.5% | 25% | 33% |  |
-| 9.5–10.5% | 7% | 8% |  |
-| 10.5–11.5% | 1.0% | 1.2% |  |
+| 4.5–5.5% | 0.1% | 100% |  |
+| 5.5–6.5% | 2% | 99.9% | Last Result |
+| 6.5–7.5% | 16% | 97% |  |
+| 7.5–8.5% | 44% | 81% | Median |
+| 8.5–9.5% | 29% | 37% |  |
+| 9.5–10.5% | 6% | 7% |  |
+| 10.5–11.5% | 0.9% | 1.0% |  |
 | 11.5–12.5% | 0.1% | 0.1% |  |
 | 12.5–13.5% | 0% | 0% |  |
 
@@ -1592,7 +1596,11 @@ Last result: **5** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
+| N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
+| [1–2 May 2024](2024-05-02-Euromedia.html) | Euromedia <br> Rai 1 | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
+| [30 April 2024](2024-04-30-Eumetra.html) | Eumetra <br> La7 | 7 | 6–8 | 5–8 | 5–9 | 5–9 |
+| [24 April 2024](2024-04-24-Euromedia.html) | Euromedia | 7 | 6–8 | 6–8 | 6–9 | 5–10 |
+| [24 April 2024](2024-04-24-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [17–18 April 2024](2024-04-18-Demos.html) | Demos | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
 | [13 April 2024](2024-04-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 6–8 | 6–8 | 5–9 | 5–9 |
 | [8–12 April 2024](2024-04-12-Ixè.html) | Ixè | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
@@ -3156,13 +3164,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.3% | 100% |  |
-| 5 | 6% | 99.7% | Last Result |
-| 6 | 33% | 94% |  |
-| 7 | 41% | 61% | Median |
-| 8 | 18% | 20% |  |
+| 4 | 0.1% | 100% |  |
+| 5 | 5% | 99.9% | Last Result |
+| 6 | 22% | 95% |  |
+| 7 | 57% | 73% | Median |
+| 8 | 14% | 16% |  |
 | 9 | 2% | 2% |  |
-| 10 | 0.2% | 0.2% |  |
+| 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |
 
 
