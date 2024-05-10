@@ -1590,9 +1590,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–1 |
 | [1–2 May 2024](2024-05-02-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
-| [30 April 2024](2024-04-30-Eumetra.html) | Eumetra <br> La7 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [30 April 2024](2024-04-30-Eumetra.html) | Eumetra <br> La7 | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [24 April 2024](2024-04-24-Euromedia.html) | Euromedia | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [24 April 2024](2024-04-24-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [17–18 April 2024](2024-04-18-Demos.html) | Demos | 0 | 0 | 0–1 | 0–1 | 0–1 |

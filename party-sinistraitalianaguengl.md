@@ -1593,7 +1593,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | [1–2 May 2024](2024-05-02-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0–1 | 0–2 | 0–2 | 0–2 |
-| [30 April 2024](2024-04-30-Eumetra.html) | Eumetra <br> La7 | 1 | 0–2 | 0–2 | 0–3 | 0–3 |
+| [30 April 2024](2024-04-30-Eumetra.html) | Eumetra <br> La7 | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
 | [24 April 2024](2024-04-24-Euromedia.html) | Euromedia | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | [24 April 2024](2024-04-24-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [17–18 April 2024](2024-04-18-Demos.html) | Demos | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
@@ -3159,10 +3159,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 49% | 100% | Last Result |
-| 1 | 34% | 51% | Median |
-| 2 | 16% | 17% |  |
-| 3 | 1.4% | 1.5% |  |
+| 0 | 48% | 100% | Last Result |
+| 1 | 28% | 52% | Median |
+| 2 | 23% | 24% |  |
+| 3 | 1.2% | 1.2% |  |
 | 4 | 0% | 0% |  |
 
 
