@@ -1599,7 +1599,7 @@ Last result: **5** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
 | [1–2 May 2024](2024-05-02-Euromedia.html) | Euromedia <br> Rai 1 | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
 | [30 April 2024](2024-04-30-Eumetra.html) | Eumetra <br> La7 | 8 | 6–8 | 6–8 | 5–8 | 5–9 |
-| [24 April 2024](2024-04-24-Euromedia.html) | Euromedia | 7 | 6–8 | 6–8 | 6–9 | 5–10 |
+| [24 April 2024](2024-04-24-Euromedia.html) | Euromedia | 7 | 6–8 | 6–9 | 6–9 | 5–10 |
 | [24 April 2024](2024-04-24-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [17–18 April 2024](2024-04-18-Demos.html) | Demos | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
 | [13 April 2024](2024-04-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 6–8 | 6–8 | 5–9 | 5–9 |
