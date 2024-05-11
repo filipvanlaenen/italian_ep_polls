@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.8% | 3.1–4.7% | 2.9–5.0% | 2.7–5.3% | 2.4–5.8% |
+| N/A | [Poll Average](average.html) | 3.7% | 2.9–4.5% | 2.7–4.8% | 2.5–5.1% | 2.1–5.6% |
 | [1–2 May 2024](2024-05-02-Euromedia.html) | Euromedia <br> Rai 1 | 3.7% | 3.4–4.1% | 3.3–4.2% | 3.2–4.3% | 3.0–4.5% |
 | [30 April 2024](2024-04-30-Eumetra.html) | Eumetra <br> La7 | 4.0% | 3.2–5.0% | 3.0–5.3% | 2.9–5.6% | 2.5–6.1% |
 | [24 April 2024](2024-04-24-Euromedia.html) | Euromedia | 3.8% | 3.0–4.8% | 2.8–5.1% | 2.6–5.3% | 2.3–5.8% |
@@ -1578,11 +1578,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 1.1% | 100% |  |
-| 2.5–3.5% | 29% | 98.9% |  |
-| 3.5–4.5% | 56% | 70% | Median |
-| 4.5–5.5% | 12% | 13% |  |
-| 5.5–6.5% | 1.0% | 1.1% |  |
+| 1.5–2.5% | 3% | 100% |  |
+| 2.5–3.5% | 39% | 97% |  |
+| 3.5–4.5% | 49% | 58% | Median |
+| 4.5–5.5% | 9% | 9% |  |
+| 5.5–6.5% | 0.7% | 0.7% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -3162,12 +3162,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 52% | 100% | Last Result, Median |
-| 1 | 0% | 48% |  |
-| 2 | 0% | 48% |  |
-| 3 | 15% | 48% |  |
-| 4 | 32% | 33% |  |
-| 5 | 0.8% | 0.8% |  |
+| 0 | 64% | 100% | Last Result, Median |
+| 1 | 0% | 36% |  |
+| 2 | 0% | 36% |  |
+| 3 | 13% | 36% |  |
+| 4 | 22% | 23% |  |
+| 5 | 0.5% | 0.5% |  |
 | 6 | 0% | 0% |  |
 
 

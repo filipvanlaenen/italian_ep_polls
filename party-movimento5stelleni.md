@@ -10,7 +10,7 @@ Last result: **21.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.5% | 14.9–17.9% | 14.4–18.3% | 14.0–18.7% | 13.3–19.5% |
+| N/A | [Poll Average](average.html) | 16.5% | 14.9–17.9% | 14.5–18.3% | 14.1–18.7% | 13.3–19.6% |
 | [1–2 May 2024](2024-05-02-Euromedia.html) | Euromedia <br> Rai 1 | 17.0% | 16.3–17.7% | 16.1–17.9% | 15.9–18.1% | 15.6–18.5% |
 | [30 April 2024](2024-04-30-Eumetra.html) | Eumetra <br> La7 | 16.0% | 14.4–17.8% | 14.0–18.3% | 13.6–18.7% | 12.9–19.6% |
 | [24 April 2024](2024-04-24-Euromedia.html) | Euromedia | 16.8% | 15.2–18.5% | 14.7–19.1% | 14.3–19.5% | 13.6–20.4% |
@@ -1576,17 +1576,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0.1% | 100% |  |
-| 12.5–13.5% | 0.9% | 99.9% |  |
-| 13.5–14.5% | 5% | 99.1% |  |
-| 14.5–15.5% | 15% | 94% |  |
-| 15.5–16.5% | 29% | 78% |  |
-| 16.5–17.5% | 33% | 50% | Median |
-| 17.5–18.5% | 13% | 17% |  |
+| 12.5–13.5% | 0.7% | 99.9% |  |
+| 13.5–14.5% | 5% | 99.2% |  |
+| 14.5–15.5% | 16% | 94% |  |
+| 15.5–16.5% | 31% | 78% | Median |
+| 16.5–17.5% | 31% | 47% |  |
+| 17.5–18.5% | 13% | 16% |  |
 | 18.5–19.5% | 3% | 3% |  |
-| 19.5–20.5% | 0.4% | 0.5% |  |
-| 20.5–21.5% | 0% | 0.1% | Last Result |
+| 19.5–20.5% | 0.5% | 0.5% |  |
+| 20.5–21.5% | 0.1% | 0.1% | Last Result |
 | 21.5–22.5% | 0% | 0% |  |
 
 
@@ -1598,7 +1597,7 @@ Last result: **17** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–16 | 12–16 | 11–16 | 11–17 |
+| N/A | [Poll Average](average.html) | 14 | 12–15 | 12–16 | 11–16 | 11–17 |
 | [1–2 May 2024](2024-05-02-Euromedia.html) | Euromedia <br> Rai 1 | 14 | 14–16 | 14–16 | 14–16 | 13–16 |
 | [30 April 2024](2024-04-30-Eumetra.html) | Eumetra <br> La7 | 13 | 12–14 | 12–15 | 11–16 | 11–17 |
 | [24 April 2024](2024-04-24-Euromedia.html) | Euromedia | 14 | 12–16 | 12–16 | 11–17 | 11–17 |
@@ -3168,12 +3167,12 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.2% | 100% |  |
 | 11 | 3% | 99.8% |  |
-| 12 | 14% | 96% |  |
-| 13 | 26% | 82% |  |
-| 14 | 38% | 56% | Median |
-| 15 | 7% | 18% |  |
-| 16 | 10% | 12% |  |
-| 17 | 2% | 2% | Last Result |
+| 12 | 13% | 97% |  |
+| 13 | 27% | 84% |  |
+| 14 | 38% | 58% | Median |
+| 15 | 11% | 19% |  |
+| 16 | 7% | 8% |  |
+| 17 | 1.4% | 1.5% | Last Result |
 | 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
 
