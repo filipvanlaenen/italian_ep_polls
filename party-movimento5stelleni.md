@@ -10,7 +10,11 @@ Last result: **21.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.5% | 14.9–17.9% | 14.5–18.3% | 14.1–18.7% | 13.3–19.6% |
+| N/A | [Poll Average](average.html) | 16.2% | 14.5–18.1% | 14.0–18.6% | 13.6–19.1% | 12.8–20.1% |
+| [15 May 2024](2024-05-15-Euromedia.html) | Euromedia <br> Rai 1 | 16.8% | 15.2–18.5% | 14.7–19.1% | 14.3–19.5% | 13.6–20.4% |
+| [14 May 2024](2024-05-14-Bidimedia.html) | Bidimedia | 15.5% | 14.1–17.1% | 13.7–17.5% | 13.4–17.9% | 12.7–18.7% |
+| [12 May 2024](2024-05-12-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 16.2% | 14.3–18.5% | 13.7–19.1% | 13.2–19.7% | 12.3–20.8% |
+| [4–5 May 2024](2024-05-05-Bidimedia.html) | Bidimedia | 15.7% | N/A | N/A | N/A | N/A |
 | [1–2 May 2024](2024-05-02-Euromedia.html) | Euromedia <br> Rai 1 | 17.0% | 16.3–17.7% | 16.1–17.9% | 15.9–18.1% | 15.6–18.5% |
 | [30 April 2024](2024-04-30-Eumetra.html) | Eumetra <br> La7 | 16.0% | 14.4–17.8% | 14.0–18.3% | 13.6–18.7% | 12.9–19.6% |
 | [24 April 2024](2024-04-24-Euromedia.html) | Euromedia | 16.8% | 15.2–18.5% | 14.7–19.1% | 14.3–19.5% | 13.6–20.4% |
@@ -1576,16 +1580,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 11.5–12.5% | 0.1% | 100% |  |
-| 12.5–13.5% | 0.7% | 99.9% |  |
-| 13.5–14.5% | 5% | 99.2% |  |
-| 14.5–15.5% | 16% | 94% |  |
-| 15.5–16.5% | 31% | 78% | Median |
-| 16.5–17.5% | 31% | 47% |  |
-| 17.5–18.5% | 13% | 16% |  |
-| 18.5–19.5% | 3% | 3% |  |
-| 19.5–20.5% | 0.5% | 0.5% |  |
-| 20.5–21.5% | 0.1% | 0.1% | Last Result |
+| 10.5–11.5% | 0% | 100% |  |
+| 11.5–12.5% | 0.2% | 100% |  |
+| 12.5–13.5% | 2% | 99.8% |  |
+| 13.5–14.5% | 8% | 98% |  |
+| 14.5–15.5% | 20% | 89% |  |
+| 15.5–16.5% | 28% | 69% | Median |
+| 16.5–17.5% | 23% | 41% |  |
+| 17.5–18.5% | 12% | 18% |  |
+| 18.5–19.5% | 4% | 5% |  |
+| 19.5–20.5% | 1.0% | 1.3% |  |
+| 20.5–21.5% | 0.2% | 0.2% | Last Result |
 | 21.5–22.5% | 0% | 0% |  |
 
 
@@ -1597,7 +1602,11 @@ Last result: **17** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–15 | 12–16 | 11–16 | 11–17 |
+| N/A | [Poll Average](average.html) | 13 | 12–15 | 12–15 | 11–16 | 10–17 |
+| [15 May 2024](2024-05-15-Euromedia.html) | Euromedia <br> Rai 1 | 13 | 12–15 | 12–16 | 11–16 | 11–17 |
+| [14 May 2024](2024-05-14-Bidimedia.html) | Bidimedia | 14 | 12–14 | 11–14 | 11–15 | 10–16 |
+| [12 May 2024](2024-05-12-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 12 | 12–14 | 11–15 | 11–16 | 10–17 |
+| [4–5 May 2024](2024-05-05-Bidimedia.html) | Bidimedia |  |  |  |  |  |
 | [1–2 May 2024](2024-05-02-Euromedia.html) | Euromedia <br> Rai 1 | 14 | 14–16 | 14–16 | 14–16 | 13–16 |
 | [30 April 2024](2024-04-30-Eumetra.html) | Eumetra <br> La7 | 13 | 12–14 | 12–15 | 11–16 | 11–17 |
 | [24 April 2024](2024-04-24-Euromedia.html) | Euromedia | 14 | 12–16 | 12–16 | 11–17 | 11–17 |
@@ -3165,15 +3174,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.2% | 100% |  |
-| 11 | 3% | 99.8% |  |
-| 12 | 13% | 97% |  |
-| 13 | 27% | 84% |  |
-| 14 | 38% | 58% | Median |
-| 15 | 11% | 19% |  |
-| 16 | 7% | 8% |  |
-| 17 | 1.4% | 1.5% | Last Result |
-| 18 | 0.1% | 0.1% |  |
+| 10 | 0.7% | 100% |  |
+| 11 | 4% | 99.3% |  |
+| 12 | 28% | 95% |  |
+| 13 | 33% | 67% | Median |
+| 14 | 25% | 35% |  |
+| 15 | 6% | 10% |  |
+| 16 | 3% | 4% |  |
+| 17 | 0.9% | 1.2% | Last Result |
+| 18 | 0.3% | 0.3% |  |
 | 19 | 0% | 0% |  |
 
 

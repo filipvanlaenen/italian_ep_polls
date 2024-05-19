@@ -10,7 +10,11 @@ Last result: **6.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.2% | 7.0–9.2% | 6.7–9.6% | 6.4–10.0% | 5.9–10.7% |
+| N/A | [Poll Average](average.html) | 8.7% | 7.4–10.1% | 7.0–10.5% | 6.7–10.9% | 6.1–11.8% |
+| [15 May 2024](2024-05-15-Euromedia.html) | Euromedia <br> Rai 1 | 9.2% | 8.0–10.7% | 7.7–11.1% | 7.4–11.5% | 6.9–12.2% |
+| [14 May 2024](2024-05-14-Bidimedia.html) | Bidimedia | 8.6% | 7.6–9.8% | 7.3–10.2% | 7.0–10.5% | 6.5–11.1% |
+| [12 May 2024](2024-05-12-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 8.4% | 7.0–10.2% | 6.6–10.7% | 6.3–11.2% | 5.7–12.1% |
+| [4–5 May 2024](2024-05-05-Bidimedia.html) | Bidimedia | 8.8% | N/A | N/A | N/A | N/A |
 | [1–2 May 2024](2024-05-02-Euromedia.html) | Euromedia <br> Rai 1 | 8.4% | 7.9–8.9% | 7.7–9.1% | 7.6–9.2% | 7.4–9.5% |
 | [30 April 2024](2024-04-30-Eumetra.html) | Eumetra <br> La7 | 8.4% | 7.2–9.8% | 6.9–10.2% | 6.6–10.5% | 6.1–11.2% |
 | [24 April 2024](2024-04-24-Euromedia.html) | Euromedia | 8.5% | 7.3–9.9% | 7.0–10.3% | 6.8–10.6% | 6.2–11.4% |
@@ -1577,15 +1581,16 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.2% | 100% |  |
-| 5.5–6.5% | 4% | 99.8% | Last Result |
-| 6.5–7.5% | 20% | 96% |  |
-| 7.5–8.5% | 45% | 76% | Median |
-| 8.5–9.5% | 26% | 32% |  |
-| 9.5–10.5% | 5% | 6% |  |
-| 10.5–11.5% | 0.6% | 0.7% |  |
-| 11.5–12.5% | 0% | 0% |  |
-| 12.5–13.5% | 0% | 0% |  |
+| 4.5–5.5% | 0.1% | 100% |  |
+| 5.5–6.5% | 1.5% | 99.9% | Last Result |
+| 6.5–7.5% | 11% | 98% |  |
+| 7.5–8.5% | 32% | 87% |  |
+| 8.5–9.5% | 34% | 55% | Median |
+| 9.5–10.5% | 16% | 21% |  |
+| 10.5–11.5% | 4% | 5% |  |
+| 11.5–12.5% | 0.7% | 0.8% |  |
+| 12.5–13.5% | 0.1% | 0.1% |  |
+| 13.5–14.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -1596,7 +1601,11 @@ Last result: **5** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
+| N/A | [Poll Average](average.html) | 7 | 6–8 | 6–9 | 5–9 | 5–10 |
+| [15 May 2024](2024-05-15-Euromedia.html) | Euromedia <br> Rai 1 | 8 | 7–9 | 7–9 | 6–10 | 5–11 |
+| [14 May 2024](2024-05-14-Bidimedia.html) | Bidimedia | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
+| [12 May 2024](2024-05-12-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 7 | 6–8 | 6–8 | 5–9 | 5–10 |
+| [4–5 May 2024](2024-05-05-Bidimedia.html) | Bidimedia |  |  |  |  |  |
 | [1–2 May 2024](2024-05-02-Euromedia.html) | Euromedia <br> Rai 1 | 7 | 7–8 | 7–8 | 6–8 | 6–8 |
 | [30 April 2024](2024-04-30-Eumetra.html) | Eumetra <br> La7 | 8 | 6–8 | 6–8 | 5–8 | 5–9 |
 | [24 April 2024](2024-04-24-Euromedia.html) | Euromedia | 7 | 6–8 | 6–9 | 6–9 | 5–10 |
@@ -3164,12 +3173,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.3% | 100% |  |
-| 5 | 6% | 99.7% | Last Result |
-| 6 | 29% | 94% |  |
-| 7 | 45% | 65% | Median |
-| 8 | 19% | 20% |  |
-| 9 | 1.1% | 1.2% |  |
-| 10 | 0% | 0% |  |
+| 4 | 0.1% | 100% |  |
+| 5 | 3% | 99.9% | Last Result |
+| 6 | 17% | 97% |  |
+| 7 | 37% | 80% | Median |
+| 8 | 36% | 42% |  |
+| 9 | 5% | 6% |  |
+| 10 | 0.9% | 1.1% |  |
+| 11 | 0.2% | 0.2% |  |
+| 12 | 0% | 0% |  |
 
 

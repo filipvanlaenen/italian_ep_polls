@@ -10,7 +10,11 @@ Last result: **16.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.0% | 7.6–10.6% | 7.1–11.1% | 6.8–11.5% | 6.2–12.4% |
+| N/A | [Poll Average](average.html) | 8.3% | 7.1–9.7% | 6.7–10.1% | 6.4–10.5% | 5.8–11.3% |
+| [15 May 2024](2024-05-15-Euromedia.html) | Euromedia <br> Rai 1 | 8.5% | 7.3–9.9% | 7.0–10.3% | 6.8–10.6% | 6.2–11.4% |
+| [14 May 2024](2024-05-14-Bidimedia.html) | Bidimedia | 8.2% | 7.2–9.4% | 6.9–9.8% | 6.6–10.1% | 6.2–10.7% |
+| [12 May 2024](2024-05-12-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 8.0% | 6.6–9.8% | 6.2–10.3% | 5.9–10.7% | 5.3–11.6% |
+| [4–5 May 2024](2024-05-05-Bidimedia.html) | Bidimedia | 8.1% | N/A | N/A | N/A | N/A |
 | [1–2 May 2024](2024-05-02-Euromedia.html) | Euromedia <br> Rai 1 | 8.8% | 8.3–9.4% | 8.1–9.5% | 8.0–9.7% | 7.8–9.9% |
 | [30 April 2024](2024-04-30-Eumetra.html) | Eumetra <br> La7 | 8.6% | 7.5–10.0% | 7.1–10.4% | 6.9–10.8% | 6.4–11.5% |
 | [24 April 2024](2024-04-24-Euromedia.html) | Euromedia | 8.8% | 7.6–10.2% | 7.3–10.6% | 7.0–10.9% | 6.5–11.6% |
@@ -1576,15 +1580,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 1.4% | 100% |  |
-| 6.5–7.5% | 8% | 98.6% |  |
-| 7.5–8.5% | 24% | 90% |  |
-| 8.5–9.5% | 36% | 66% | Median |
-| 9.5–10.5% | 19% | 30% |  |
-| 10.5–11.5% | 8% | 11% |  |
-| 11.5–12.5% | 2% | 2% |  |
-| 12.5–13.5% | 0.3% | 0.3% |  |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 0.2% | 100% |  |
+| 5.5–6.5% | 3% | 99.8% |  |
+| 6.5–7.5% | 18% | 97% |  |
+| 7.5–8.5% | 38% | 79% | Median |
+| 8.5–9.5% | 29% | 41% |  |
+| 9.5–10.5% | 10% | 12% |  |
+| 10.5–11.5% | 2% | 2% |  |
+| 11.5–12.5% | 0.2% | 0.3% |  |
+| 12.5–13.5% | 0% | 0% |  |
 | 13.5–14.5% | 0% | 0% |  |
 | 14.5–15.5% | 0% | 0% |  |
 | 15.5–16.5% | 0% | 0% |  |
@@ -1599,7 +1604,11 @@ Last result: **13** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 5–8 | 5–8 | 4–9 | 4–9 |
+| N/A | [Poll Average](average.html) | 6 | 5–7 | 4–7 | 4–8 | 4–8 |
+| [15 May 2024](2024-05-15-Euromedia.html) | Euromedia <br> Rai 1 | 6 | 5–7 | 5–8 | 4–8 | 4–9 |
+| [14 May 2024](2024-05-14-Bidimedia.html) | Bidimedia | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
+| [12 May 2024](2024-05-12-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 6 | 5–6 | 4–7 | 4–7 | 3–8 |
+| [4–5 May 2024](2024-05-05-Bidimedia.html) | Bidimedia |  |  |  |  |  |
 | [1–2 May 2024](2024-05-02-Euromedia.html) | Euromedia <br> Rai 1 | 7 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [30 April 2024](2024-04-30-Eumetra.html) | Eumetra <br> La7 | 6 | 6–7 | 5–8 | 5–8 | 4–9 |
 | [24 April 2024](2024-04-24-Euromedia.html) | Euromedia | 6 | 5–7 | 5–7 | 5–8 | 4–9 |
@@ -3167,14 +3176,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.1% | 100% |  |
-| 4 | 3% | 99.9% |  |
-| 5 | 14% | 97% |  |
-| 6 | 31% | 82% |  |
-| 7 | 30% | 51% | Median |
-| 8 | 18% | 22% |  |
-| 9 | 3% | 4% |  |
-| 10 | 0.2% | 0.2% |  |
+| 3 | 0.3% | 100% |  |
+| 4 | 5% | 99.7% |  |
+| 5 | 20% | 94% |  |
+| 6 | 58% | 74% | Median |
+| 7 | 11% | 16% |  |
+| 8 | 4% | 4% |  |
+| 9 | 0.3% | 0.3% |  |
+| 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |
 | 13 | 0% | 0% | Last Result |

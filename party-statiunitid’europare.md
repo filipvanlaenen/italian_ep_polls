@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.7% | 3.8–6.2% | 3.5–6.7% | 3.3–7.1% | 2.9–7.8% |
+| N/A | [Poll Average](average.html) | 4.6% | 3.7–5.7% | 3.4–6.0% | 3.2–6.4% | 2.9–7.1% |
+| [15 May 2024](2024-05-15-Euromedia.html) | Euromedia <br> Rai 1 | 4.5% | 3.7–5.6% | 3.5–5.9% | 3.3–6.2% | 2.9–6.7% |
+| [14 May 2024](2024-05-14-Bidimedia.html) | Bidimedia | 4.7% | 3.9–5.7% | 3.7–6.0% | 3.6–6.2% | 3.2–6.7% |
+| [12 May 2024](2024-05-12-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 4.8% | 3.8–6.3% | 3.5–6.7% | 3.2–7.1% | 2.8–7.8% |
+| [4–5 May 2024](2024-05-05-Bidimedia.html) | Bidimedia | 4.9% | N/A | N/A | N/A | N/A |
 | [1–2 May 2024](2024-05-02-Euromedia.html) | Euromedia <br> Rai 1 | 4.5% | 4.1–4.9% | 4.0–5.0% | 3.9–5.2% | 3.8–5.3% |
 | [30 April 2024](2024-04-30-Eumetra.html) | Eumetra <br> La7 | 4.5% | 3.7–5.6% | 3.5–5.9% | 3.3–6.2% | 2.9–6.7% |
 | [24 April 2024](2024-04-24-Euromedia.html) | Euromedia | 4.4% | 3.6–5.5% | 3.4–5.8% | 3.2–6.0% | 2.8–6.6% |
@@ -1579,14 +1583,13 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0.1% | 100% |  |
-| 2.5–3.5% | 6% | 99.9% |  |
-| 3.5–4.5% | 37% | 94% |  |
-| 4.5–5.5% | 36% | 57% | Median |
-| 5.5–6.5% | 15% | 22% |  |
-| 6.5–7.5% | 6% | 6% |  |
-| 7.5–8.5% | 0.9% | 0.9% |  |
-| 8.5–9.5% | 0.1% | 0.1% |  |
-| 9.5–10.5% | 0% | 0% |  |
+| 2.5–3.5% | 7% | 99.9% |  |
+| 3.5–4.5% | 41% | 92% |  |
+| 4.5–5.5% | 38% | 51% | Median |
+| 5.5–6.5% | 11% | 13% |  |
+| 6.5–7.5% | 2% | 2% |  |
+| 7.5–8.5% | 0.2% | 0.2% |  |
+| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -1597,7 +1600,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 0–5 | 0–6 | 0–6 | 0–6 |
+| N/A | [Poll Average](average.html) | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
+| [15 May 2024](2024-05-15-Euromedia.html) | Euromedia <br> Rai 1 | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
+| [14 May 2024](2024-05-14-Bidimedia.html) | Bidimedia | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
+| [12 May 2024](2024-05-12-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 4 | 3–5 | 0–6 | 0–6 | 0–6 |
+| [4–5 May 2024](2024-05-05-Bidimedia.html) | Bidimedia |  |  |  |  |  |
 | [1–2 May 2024](2024-05-02-Euromedia.html) | Euromedia <br> Rai 1 | 4 | 3–4 | 3–4 | 3–4 | 0–4 |
 | [30 April 2024](2024-04-30-Eumetra.html) | Eumetra <br> La7 | 4 | 3–5 | 0–5 | 0–5 | 0–6 |
 | [24 April 2024](2024-04-24-Euromedia.html) | Euromedia | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
@@ -3165,14 +3172,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 17% | 100% | Last Result |
-| 1 | 0% | 83% |  |
-| 2 | 0% | 83% |  |
-| 3 | 10% | 83% |  |
-| 4 | 52% | 73% | Median |
-| 5 | 16% | 21% |  |
-| 6 | 5% | 5% |  |
-| 7 | 0.3% | 0.3% |  |
-| 8 | 0% | 0% |  |
+| 0 | 23% | 100% | Last Result |
+| 1 | 0% | 77% |  |
+| 2 | 0% | 77% |  |
+| 3 | 14% | 77% |  |
+| 4 | 51% | 63% | Median |
+| 5 | 11% | 13% |  |
+| 6 | 1.3% | 1.3% |  |
+| 7 | 0% | 0% |  |
 
 
