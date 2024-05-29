@@ -10,10 +10,20 @@ Last result: **40.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.5% | 18.7–22.5% | 18.2–23.1% | 17.7–23.6% | 16.9–24.8% |
+| N/A | [Poll Average](average.html) | 20.5% | 19.0–22.8% | 18.6–23.4% | 18.3–23.9% | 17.4–24.9% |
+| [22–23 May 2024](2024-05-23-TermometroPolitico.html) | Termometro Politico | 19.6% | 18.8–20.4% | 18.6–20.7% | 18.4–20.9% | 18.0–21.3% |
+| [20–23 May 2024](2024-05-23-Ixè.html) | Ixè | 20.9% | 19.3–22.6% | 18.9–23.1% | 18.5–23.5% | 17.8–24.4% |
+| [22–23 May 2024](2024-05-23-Demopolis.html) | Demopolis | 22.0% | 20.4–23.7% | 19.9–24.2% | 19.5–24.7% | 18.8–25.5% |
+| [22–23 May 2024](2024-05-23-Bidimedia.html) | Bidimedia | 21.4% | N/A | N/A | N/A | N/A |
+| [21–22 May 2024](2024-05-22-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 20.3% | N/A | N/A | N/A | N/A |
+| [21 May 2024](2024-05-21-Ipsos.html) | Ipsos <br> Corriere della Sera | 22.3% | N/A | N/A | N/A | N/A |
+| [19–21 May 2024](2024-05-21-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 21.0% | N/A | N/A | N/A | N/A |
+| [19–20 May 2024](2024-05-20-Bidimedia.html) | Bidimedia | 21.2% | N/A | N/A | N/A | N/A |
+| [19 May 2024](2024-05-19-Lab2101.html) | Lab2101 <br> Affari Italiani | 19.4% | N/A | N/A | N/A | N/A |
+| [16 May 2024](2024-05-16-Ipsos.html) | Ipsos | 22.3% | N/A | N/A | N/A | N/A |
 | [15 May 2024](2024-05-15-Euromedia.html) | Euromedia <br> Rai 1 | 20.2% | 18.5–22.2% | 18.0–22.7% | 17.6–23.2% | 16.8–24.1% |
 | [14 May 2024](2024-05-14-Bidimedia.html) | Bidimedia | 21.0% | 19.4–22.7% | 19.0–23.2% | 18.6–23.6% | 17.8–24.5% |
-| [12 May 2024](2024-05-12-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 20.8% | 18.6–23.3% | 18.0–24.0% | 17.5–24.6% | 16.5–25.8% |
+| [12 May 2024](2024-05-12-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 20.6% | 18.6–23.3% | 18.0–24.0% | 17.5–24.6% | 16.5–25.8% |
 | [4–5 May 2024](2024-05-05-Bidimedia.html) | Bidimedia | 20.8% | N/A | N/A | N/A | N/A |
 | [1–2 May 2024](2024-05-02-Euromedia.html) | Euromedia <br> Rai 1 | 20.5% | 19.7–21.3% | 19.5–21.5% | 19.4–21.7% | 19.0–22.1% |
 | [30 April 2024](2024-04-30-Eumetra.html) | Eumetra <br> La7 | 20.2% | 18.5–22.2% | 18.0–22.7% | 17.6–23.2% | 16.8–24.1% |
@@ -1581,17 +1591,17 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0.2% | 100% |  |
-| 16.5–17.5% | 2% | 99.8% |  |
-| 17.5–18.5% | 6% | 98% |  |
-| 18.5–19.5% | 17% | 92% |  |
-| 19.5–20.5% | 25% | 75% |  |
-| 20.5–21.5% | 25% | 50% | Median |
-| 21.5–22.5% | 16% | 25% |  |
-| 22.5–23.5% | 6% | 9% |  |
-| 23.5–24.5% | 2% | 3% |  |
-| 24.5–25.5% | 0.5% | 0.7% |  |
-| 25.5–26.5% | 0.1% | 0.2% |  |
+| 15.5–16.5% | 0.1% | 100% |  |
+| 16.5–17.5% | 0.6% | 99.9% |  |
+| 17.5–18.5% | 4% | 99.4% |  |
+| 18.5–19.5% | 19% | 95% |  |
+| 19.5–20.5% | 27% | 77% |  |
+| 20.5–21.5% | 21% | 50% | Median |
+| 21.5–22.5% | 16% | 29% |  |
+| 22.5–23.5% | 9% | 13% |  |
+| 23.5–24.5% | 3% | 4% |  |
+| 24.5–25.5% | 0.8% | 0.9% |  |
+| 25.5–26.5% | 0.1% | 0.1% |  |
 | 26.5–27.5% | 0% | 0% |  |
 | 27.5–28.5% | 0% | 0% |  |
 | 28.5–29.5% | 0% | 0% |  |
@@ -1617,7 +1627,17 @@ Last result: **31** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 15–19 | 15–19 | 14–20 | 13–21 |
+| N/A | [Poll Average](average.html) | 17 | 16–19 | 15–19 | 15–20 | 14–21 |
+| [22–23 May 2024](2024-05-23-TermometroPolitico.html) | Termometro Politico | 17 | 16–18 | 16–18 | 15–18 | 15–19 |
+| [20–23 May 2024](2024-05-23-Ixè.html) | Ixè | 17 | 16–19 | 16–19 | 16–20 | 15–21 |
+| [22–23 May 2024](2024-05-23-Demopolis.html) | Demopolis | 17 | 17–19 | 17–20 | 17–21 | 16–23 |
+| [22–23 May 2024](2024-05-23-Bidimedia.html) | Bidimedia |  |  |  |  |  |
+| [21–22 May 2024](2024-05-22-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
+| [21 May 2024](2024-05-21-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
+| [19–21 May 2024](2024-05-21-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano |  |  |  |  |  |
+| [19–20 May 2024](2024-05-20-Bidimedia.html) | Bidimedia |  |  |  |  |  |
+| [19 May 2024](2024-05-19-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
+| [16 May 2024](2024-05-16-Ipsos.html) | Ipsos |  |  |  |  |  |
 | [15 May 2024](2024-05-15-Euromedia.html) | Euromedia <br> Rai 1 | 17 | 15–19 | 15–19 | 14–20 | 13–20 |
 | [14 May 2024](2024-05-14-Bidimedia.html) | Bidimedia | 18 | 16–19 | 16–19 | 15–20 | 15–21 |
 | [12 May 2024](2024-05-12-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 17 | 15–19 | 15–20 | 14–20 | 14–22 |
@@ -3189,17 +3209,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 13 | 0.5% | 100% |  |
-| 14 | 4% | 99.5% |  |
-| 15 | 11% | 96% |  |
-| 16 | 29% | 84% |  |
-| 17 | 27% | 56% | Median |
-| 18 | 13% | 29% |  |
-| 19 | 13% | 16% |  |
-| 20 | 3% | 3% |  |
-| 21 | 0.7% | 0.9% |  |
-| 22 | 0.2% | 0.2% |  |
-| 23 | 0% | 0% |  |
+| 13 | 0.2% | 100% |  |
+| 14 | 0.8% | 99.8% |  |
+| 15 | 5% | 99.0% |  |
+| 16 | 17% | 94% |  |
+| 17 | 53% | 77% | Median |
+| 18 | 12% | 24% |  |
+| 19 | 8% | 12% |  |
+| 20 | 3% | 4% |  |
+| 21 | 0.6% | 1.0% |  |
+| 22 | 0.3% | 0.5% |  |
+| 23 | 0.2% | 0.2% |  |
 | 24 | 0% | 0% |  |
 | 25 | 0% | 0% |  |
 | 26 | 0% | 0% |  |

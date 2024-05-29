@@ -10,7 +10,17 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.6% | 1.1–2.2% | 1.0–2.5% | 0.9–2.7% | 0.7–3.2% |
+| N/A | [Poll Average](average.html) | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.4% | 0.8–2.8% |
+| [22–23 May 2024](2024-05-23-TermometroPolitico.html) | Termometro Politico | 1.4% | 1.2–1.7% | 1.2–1.8% | 1.1–1.9% | 1.0–2.0% |
+| [20–23 May 2024](2024-05-23-Ixè.html) | Ixè | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
+| [22–23 May 2024](2024-05-23-Demopolis.html) | Demopolis | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
+| [22–23 May 2024](2024-05-23-Bidimedia.html) | Bidimedia | 1.6% | N/A | N/A | N/A | N/A |
+| [21–22 May 2024](2024-05-22-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 1.7% | N/A | N/A | N/A | N/A |
+| [21 May 2024](2024-05-21-Ipsos.html) | Ipsos <br> Corriere della Sera | 1.6% | N/A | N/A | N/A | N/A |
+| [19–21 May 2024](2024-05-21-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 1.5% | N/A | N/A | N/A | N/A |
+| [19–20 May 2024](2024-05-20-Bidimedia.html) | Bidimedia | 1.6% | N/A | N/A | N/A | N/A |
+| [19 May 2024](2024-05-19-Lab2101.html) | Lab2101 <br> Affari Italiani | 1.5% | N/A | N/A | N/A | N/A |
+| [16 May 2024](2024-05-16-Ipsos.html) | Ipsos | 1.7% | N/A | N/A | N/A | N/A |
 | [15 May 2024](2024-05-15-Euromedia.html) | Euromedia <br> Rai 1 | 1.5% | 1.1–2.2% | 1.0–2.4% | 0.9–2.6% | 0.7–3.0% |
 | [14 May 2024](2024-05-14-Bidimedia.html) | Bidimedia | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
 | [12 May 2024](2024-05-12-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 1.6% | 1.1–2.6% | 0.9–2.9% | 0.8–3.1% | 0.6–3.7% |
@@ -1580,12 +1590,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.1% | 100% | Last Result |
-| 0.5–1.5% | 46% | 99.9% |  |
-| 1.5–2.5% | 50% | 54% | Median |
-| 2.5–3.5% | 4% | 4% |  |
-| 3.5–4.5% | 0.2% | 0.2% |  |
-| 4.5–5.5% | 0% | 0% |  |
+| 0.0–0.5% | 0% | 100% | Last Result |
+| 0.5–1.5% | 54% | 100% |  |
+| 1.5–2.5% | 45% | 46% | Median |
+| 2.5–3.5% | 2% | 2% |  |
+| 3.5–4.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -1597,6 +1606,16 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
+| [22–23 May 2024](2024-05-23-TermometroPolitico.html) | Termometro Politico | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
+| [20–23 May 2024](2024-05-23-Ixè.html) | Ixè | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
+| [22–23 May 2024](2024-05-23-Demopolis.html) | Demopolis | 2 | 0–2 | 0–2 | 0–2 | 0–2 |
+| [22–23 May 2024](2024-05-23-Bidimedia.html) | Bidimedia |  |  |  |  |  |
+| [21–22 May 2024](2024-05-22-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
+| [21 May 2024](2024-05-21-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
+| [19–21 May 2024](2024-05-21-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano |  |  |  |  |  |
+| [19–20 May 2024](2024-05-20-Bidimedia.html) | Bidimedia |  |  |  |  |  |
+| [19 May 2024](2024-05-19-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
+| [16 May 2024](2024-05-16-Ipsos.html) | Ipsos |  |  |  |  |  |
 | [15 May 2024](2024-05-15-Euromedia.html) | Euromedia <br> Rai 1 | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | [14 May 2024](2024-05-14-Bidimedia.html) | Bidimedia | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | [12 May 2024](2024-05-12-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 1 | 1–2 | 0–3 | 0–3 | 0–3 |
@@ -3168,11 +3187,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 18% | 100% | Last Result |
-| 1 | 48% | 82% | Median |
-| 2 | 31% | 34% |  |
-| 3 | 2% | 2% |  |
-| 4 | 0% | 0.1% |  |
-| 5 | 0% | 0% |  |
+| 0 | 26% | 100% | Last Result |
+| 1 | 31% | 74% | Median |
+| 2 | 42% | 43% |  |
+| 3 | 0.7% | 0.7% |  |
+| 4 | 0% | 0% |  |
 
 
