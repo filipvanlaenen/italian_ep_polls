@@ -1615,15 +1615,15 @@ Last result: **13** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–8 | 5–8 | 5–8 | 4–8 |
-| [22–23 May 2024](2024-05-23-TermometroPolitico.html) | Termometro Politico | 7 | 6–7 | 6–7 | 6–7 | 5–7 |
+| [22–23 May 2024](2024-05-23-TermometroPolitico.html) | Termometro Politico | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
 | [20–23 May 2024](2024-05-23-Ixè.html) | Ixè | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
-| [22–23 May 2024](2024-05-23-Demopolis.html) | Demopolis | 7 | 6–8 | 5–8 | 5–8 | 5–8 |
-| [22–23 May 2024](2024-05-23-Bidimedia.html) | Bidimedia | 6 | 5–8 | 5–8 | 4–8 | 4–8 |
-| [21–22 May 2024](2024-05-22-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
+| [22–23 May 2024](2024-05-23-Demopolis.html) | Demopolis | 7 | 6–8 | 5–8 | 5–8 | 4–8 |
+| [22–23 May 2024](2024-05-23-Bidimedia.html) | Bidimedia | 6 | 5–7 | 5–8 | 4–8 | 4–8 |
+| [21–22 May 2024](2024-05-22-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [21 May 2024](2024-05-21-Ipsos.html) | Ipsos <br> Corriere della Sera | 7 | 6–8 | 5–8 | 5–8 | 4–9 |
-| [19–21 May 2024](2024-05-21-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 6 | 6 | 5–6 | 5–7 | 4–8 |
+| [19–21 May 2024](2024-05-21-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 6 | 6–7 | 5–7 | 5–7 | 4–8 |
 | [19–20 May 2024](2024-05-20-Bidimedia.html) | Bidimedia |  |  |  |  |  |
-| [19 May 2024](2024-05-19-Lab2101.html) | Lab2101 <br> Affari Italiani | 5 | 5–6 | 4–7 | 4–7 | 3–8 |
+| [19 May 2024](2024-05-19-Lab2101.html) | Lab2101 <br> Affari Italiani | 5 | 4–6 | 4–7 | 4–8 | 3–8 |
 | [16 May 2024](2024-05-16-Ipsos.html) | Ipsos |  |  |  |  |  |
 | [15 May 2024](2024-05-15-Euromedia.html) | Euromedia <br> Rai 1 | 6 | 5–7 | 5–8 | 4–8 | 4–9 |
 | [14 May 2024](2024-05-14-Bidimedia.html) | Bidimedia | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
@@ -3199,10 +3199,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0.1% | 100% |  |
 | 4 | 2% | 99.9% |  |
 | 5 | 14% | 98% |  |
-| 6 | 45% | 84% | Median |
-| 7 | 26% | 39% |  |
-| 8 | 13% | 13% |  |
-| 9 | 0.3% | 0.3% |  |
+| 6 | 48% | 83% | Median |
+| 7 | 24% | 35% |  |
+| 8 | 10% | 11% |  |
+| 9 | 0.3% | 0.4% |  |
 | 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |

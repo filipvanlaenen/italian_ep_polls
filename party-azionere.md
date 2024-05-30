@@ -1610,15 +1610,15 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
-| [22–23 May 2024](2024-05-23-TermometroPolitico.html) | Termometro Politico | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [22–23 May 2024](2024-05-23-TermometroPolitico.html) | Termometro Politico | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [20–23 May 2024](2024-05-23-Ixè.html) | Ixè | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [22–23 May 2024](2024-05-23-Demopolis.html) | Demopolis | 0 | 0–3 | 0–4 | 0–4 | 0–5 |
-| [22–23 May 2024](2024-05-23-Bidimedia.html) | Bidimedia | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
+| [22–23 May 2024](2024-05-23-Bidimedia.html) | Bidimedia | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [21–22 May 2024](2024-05-22-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 4 | 0–4 | 0–4 | 0–4 | 0–4 |
-| [21 May 2024](2024-05-21-Ipsos.html) | Ipsos <br> Corriere della Sera | 3 | 0–5 | 0–5 | 0–5 | 0–5 |
-| [19–21 May 2024](2024-05-21-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
+| [21 May 2024](2024-05-21-Ipsos.html) | Ipsos <br> Corriere della Sera | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
+| [19–21 May 2024](2024-05-21-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [19–20 May 2024](2024-05-20-Bidimedia.html) | Bidimedia |  |  |  |  |  |
-| [19 May 2024](2024-05-19-Lab2101.html) | Lab2101 <br> Affari Italiani | 4 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [19 May 2024](2024-05-19-Lab2101.html) | Lab2101 <br> Affari Italiani | 4 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [16 May 2024](2024-05-16-Ipsos.html) | Ipsos |  |  |  |  |  |
 | [15 May 2024](2024-05-15-Euromedia.html) | Euromedia <br> Rai 1 | 3 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [14 May 2024](2024-05-14-Bidimedia.html) | Bidimedia | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
@@ -3194,8 +3194,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 46% | 100% | Last Result |
 | 1 | 0% | 54% |  |
 | 2 | 0% | 54% |  |
-| 3 | 18% | 54% | Median |
-| 4 | 33% | 36% |  |
+| 3 | 20% | 54% | Median |
+| 4 | 32% | 35% |  |
 | 5 | 3% | 3% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |

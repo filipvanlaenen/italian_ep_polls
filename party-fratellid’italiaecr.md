@@ -1633,14 +1633,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 22 | 21–24 | 20–25 | 20–26 | 19–27 |
 | [22–23 May 2024](2024-05-23-TermometroPolitico.html) | Termometro Politico | 23 | 22–24 | 22–24 | 21–25 | 20–25 |
-| [20–23 May 2024](2024-05-23-Ixè.html) | Ixè | 22 | 21–24 | 20–24 | 20–25 | 19–26 |
-| [22–23 May 2024](2024-05-23-Demopolis.html) | Demopolis | 22 | 22–24 | 22–25 | 22–25 | 20–27 |
-| [22–23 May 2024](2024-05-23-Bidimedia.html) | Bidimedia | 22 | 21–24 | 20–26 | 19–26 | 19–28 |
-| [21–22 May 2024](2024-05-22-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 23 | 22–24 | 21–25 | 21–26 | 20–26 |
-| [21 May 2024](2024-05-21-Ipsos.html) | Ipsos <br> Corriere della Sera | 21 | 20–24 | 20–24 | 20–24 | 19–25 |
-| [19–21 May 2024](2024-05-21-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 23 | 21–23 | 21–24 | 21–25 | 20–26 |
+| [20–23 May 2024](2024-05-23-Ixè.html) | Ixè | 22 | 20–24 | 20–24 | 20–25 | 19–26 |
+| [22–23 May 2024](2024-05-23-Demopolis.html) | Demopolis | 22 | 22–25 | 22–26 | 21–26 | 20–27 |
+| [22–23 May 2024](2024-05-23-Bidimedia.html) | Bidimedia | 22 | 20–24 | 20–25 | 20–25 | 18–26 |
+| [21–22 May 2024](2024-05-22-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 23 | 21–25 | 21–25 | 21–26 | 20–26 |
+| [21 May 2024](2024-05-21-Ipsos.html) | Ipsos <br> Corriere della Sera | 22 | 20–24 | 20–24 | 19–25 | 19–25 |
+| [19–21 May 2024](2024-05-21-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 22 | 21–24 | 21–26 | 21–26 | 19–27 |
 | [19–20 May 2024](2024-05-20-Bidimedia.html) | Bidimedia |  |  |  |  |  |
-| [19 May 2024](2024-05-19-Lab2101.html) | Lab2101 <br> Affari Italiani | 22 | 21–24 | 20–25 | 20–27 | 18–27 |
+| [19 May 2024](2024-05-19-Lab2101.html) | Lab2101 <br> Affari Italiani | 22 | 20–24 | 20–25 | 19–26 | 18–27 |
 | [16 May 2024](2024-05-16-Ipsos.html) | Ipsos |  |  |  |  |  |
 | [15 May 2024](2024-05-15-Euromedia.html) | Euromedia <br> Rai 1 | 22 | 21–25 | 20–25 | 20–27 | 19–27 |
 | [14 May 2024](2024-05-14-Bidimedia.html) | Bidimedia | 23 | 22–24 | 21–24 | 21–25 | 20–27 |
@@ -3232,15 +3232,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
 | 18 | 0.2% | 100% |  |
-| 19 | 1.2% | 99.8% |  |
-| 20 | 5% | 98.6% |  |
-| 21 | 19% | 94% |  |
-| 22 | 30% | 75% | Median |
-| 23 | 28% | 45% |  |
-| 24 | 10% | 17% |  |
-| 25 | 4% | 7% |  |
+| 19 | 1.3% | 99.8% |  |
+| 20 | 6% | 98% |  |
+| 21 | 18% | 92% |  |
+| 22 | 33% | 75% | Median |
+| 23 | 23% | 42% |  |
+| 24 | 11% | 19% |  |
+| 25 | 5% | 8% |  |
 | 26 | 2% | 3% |  |
-| 27 | 0.9% | 1.0% |  |
+| 27 | 0.8% | 0.9% |  |
 | 28 | 0.1% | 0.1% |  |
 | 29 | 0% | 0% |  |
 

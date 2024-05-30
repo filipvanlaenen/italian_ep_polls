@@ -1610,14 +1610,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
-| [22–23 May 2024](2024-05-23-TermometroPolitico.html) | Termometro Politico | 4 | 4 | 3–5 | 0–5 | 0–5 |
-| [20–23 May 2024](2024-05-23-Ixè.html) | Ixè | 4 | 0–4 | 0–4 | 0–4 | 0–5 |
+| N/A | [Poll Average](average.html) | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
+| [22–23 May 2024](2024-05-23-TermometroPolitico.html) | Termometro Politico | 4 | 3–4 | 0–4 | 0–5 | 0–5 |
+| [20–23 May 2024](2024-05-23-Ixè.html) | Ixè | 4 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [22–23 May 2024](2024-05-23-Demopolis.html) | Demopolis | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
-| [22–23 May 2024](2024-05-23-Bidimedia.html) | Bidimedia | 3 | 0–5 | 0–6 | 0–6 | 0–6 |
+| [22–23 May 2024](2024-05-23-Bidimedia.html) | Bidimedia | 4 | 0–4 | 0–5 | 0–5 | 0–6 |
 | [21–22 May 2024](2024-05-22-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [21 May 2024](2024-05-21-Ipsos.html) | Ipsos <br> Corriere della Sera | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [19–21 May 2024](2024-05-21-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 4 | 4–5 | 3–5 | 0–5 | 0–5 |
+| [21 May 2024](2024-05-21-Ipsos.html) | Ipsos <br> Corriere della Sera | 4 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [19–21 May 2024](2024-05-21-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 4 | 4–5 | 0–5 | 0–5 | 0–5 |
 | [19–20 May 2024](2024-05-20-Bidimedia.html) | Bidimedia |  |  |  |  |  |
 | [19 May 2024](2024-05-19-Lab2101.html) | Lab2101 <br> Affari Italiani | 4 | 3–5 | 0–5 | 0–5 | 0–6 |
 | [16 May 2024](2024-05-16-Ipsos.html) | Ipsos |  |  |  |  |  |
@@ -3192,13 +3192,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 27% | 100% | Last Result |
-| 1 | 0% | 73% |  |
-| 2 | 0% | 73% |  |
-| 3 | 14% | 73% |  |
-| 4 | 48% | 60% | Median |
-| 5 | 11% | 12% |  |
-| 6 | 0.8% | 0.9% |  |
+| 0 | 24% | 100% | Last Result |
+| 1 | 0% | 76% |  |
+| 2 | 0% | 76% |  |
+| 3 | 13% | 76% |  |
+| 4 | 52% | 63% | Median |
+| 5 | 11% | 11% |  |
+| 6 | 0.5% | 0.5% |  |
 | 7 | 0% | 0% |  |
 
 

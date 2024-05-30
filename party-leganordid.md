@@ -1610,14 +1610,14 @@ Last result: **5** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 7–8 | 6–9 | 6–9 | 6–10 |
+| N/A | [Poll Average](average.html) | 7 | 6–8 | 6–9 | 6–9 | 5–10 |
 | [22–23 May 2024](2024-05-23-TermometroPolitico.html) | Termometro Politico | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
 | [20–23 May 2024](2024-05-23-Ixè.html) | Ixè | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
-| [22–23 May 2024](2024-05-23-Demopolis.html) | Demopolis | 7 | 7–8 | 7–9 | 7–9 | 6–9 |
-| [22–23 May 2024](2024-05-23-Bidimedia.html) | Bidimedia | 8 | 7–9 | 7–10 | 6–10 | 5–11 |
-| [21–22 May 2024](2024-05-22-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
-| [21 May 2024](2024-05-21-Ipsos.html) | Ipsos <br> Corriere della Sera | 7 | 6–7 | 6–8 | 6–8 | 5–9 |
-| [19–21 May 2024](2024-05-21-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 7 | 7 | 7–8 | 6–8 | 6–9 |
+| [22–23 May 2024](2024-05-23-Demopolis.html) | Demopolis | 7 | 7–8 | 7–9 | 6–9 | 6–9 |
+| [22–23 May 2024](2024-05-23-Bidimedia.html) | Bidimedia | 8 | 7–9 | 6–10 | 6–10 | 6–10 |
+| [21–22 May 2024](2024-05-22-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 7 | 6–8 | 6–8 | 6–9 | 6–10 |
+| [21 May 2024](2024-05-21-Ipsos.html) | Ipsos <br> Corriere della Sera | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
+| [19–21 May 2024](2024-05-21-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [19–20 May 2024](2024-05-20-Bidimedia.html) | Bidimedia |  |  |  |  |  |
 | [19 May 2024](2024-05-19-Lab2101.html) | Lab2101 <br> Affari Italiani | 8 | 7–9 | 6–9 | 6–10 | 5–11 |
 | [16 May 2024](2024-05-16-Ipsos.html) | Ipsos |  |  |  |  |  |
@@ -3192,13 +3192,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 0.4% | 100% | Last Result |
-| 6 | 10% | 99.6% |  |
-| 7 | 51% | 90% | Median |
-| 8 | 30% | 39% |  |
-| 9 | 7% | 9% |  |
-| 10 | 1.3% | 2% |  |
-| 11 | 0.5% | 0.5% |  |
+| 5 | 0.6% | 100% | Last Result |
+| 6 | 10% | 99.4% |  |
+| 7 | 47% | 89% | Median |
+| 8 | 35% | 43% |  |
+| 9 | 6% | 8% |  |
+| 10 | 2% | 2% |  |
+| 11 | 0.3% | 0.3% |  |
 | 12 | 0% | 0% |  |
 
 
