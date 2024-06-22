@@ -11,6 +11,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.1% | 0.8–1.6% | 0.7–1.7% | 0.6–1.9% | 0.5–2.2% |
+| [25 May 2024](2024-05-25-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
+| [20–24 May 2024](2024-05-24-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [22–23 May 2024](2024-05-23-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
 | [20–23 May 2024](2024-05-23-Ixè.html) | Ixè | 0.0% | N/A | N/A | N/A | N/A |
 | [22–23 May 2024](2024-05-23-Demopolis.html) | Demopolis | 0.0% | N/A | N/A | N/A | N/A |
@@ -1606,6 +1608,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [25 May 2024](2024-05-25-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
+| [20–24 May 2024](2024-05-24-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [22–23 May 2024](2024-05-23-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [20–23 May 2024](2024-05-23-Ixè.html) | Ixè |  |  |  |  |  |
 | [22–23 May 2024](2024-05-23-Demopolis.html) | Demopolis |  |  |  |  |  |
