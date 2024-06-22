@@ -1634,8 +1634,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 22 | 21–25 | 20–26 | 20–26 | 19–27 |
-| [25 May 2024](2024-05-25-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 25 | 22–26 | 22–26 | 21–27 | 20–27 |
-| [20–24 May 2024](2024-05-24-SWG.html) | SWG <br> La7 | 23 | 22–24 | 21–25 | 21–26 | 21–26 |
+| [25 May 2024](2024-05-25-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 25 | 22–26 | 21–27 | 21–27 | 20–27 |
+| [20–24 May 2024](2024-05-24-SWG.html) | SWG <br> La7 | 23 | 22–24 | 21–25 | 21–25 | 20–26 |
 | [22–23 May 2024](2024-05-23-TermometroPolitico.html) | Termometro Politico | 23 | 22–24 | 22–24 | 21–25 | 20–25 |
 | [20–23 May 2024](2024-05-23-Ixè.html) | Ixè | 22 | 20–24 | 20–24 | 20–25 | 19–26 |
 | [22–23 May 2024](2024-05-23-Demopolis.html) | Demopolis | 22 | 22–25 | 22–26 | 21–26 | 20–27 |
@@ -3238,13 +3238,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 0.2% | 100% |  |
 | 19 | 1.1% | 99.8% |  |
 | 20 | 5% | 98.7% |  |
-| 21 | 16% | 94% |  |
+| 21 | 16% | 93% |  |
 | 22 | 30% | 78% | Median |
 | 23 | 24% | 48% |  |
-| 24 | 11% | 25% |  |
+| 24 | 11% | 24% |  |
 | 25 | 7% | 13% |  |
-| 26 | 5% | 6% |  |
-| 27 | 1.0% | 1.1% |  |
+| 26 | 4% | 5% |  |
+| 27 | 1.4% | 1.5% |  |
 | 28 | 0.1% | 0.1% |  |
 | 29 | 0% | 0% |  |
 

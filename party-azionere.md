@@ -1613,7 +1613,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [25 May 2024](2024-05-25-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [20–24 May 2024](2024-05-24-SWG.html) | SWG <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [20–24 May 2024](2024-05-24-SWG.html) | SWG <br> La7 | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [22–23 May 2024](2024-05-23-TermometroPolitico.html) | Termometro Politico | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [20–23 May 2024](2024-05-23-Ixè.html) | Ixè | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [22–23 May 2024](2024-05-23-Demopolis.html) | Demopolis | 0 | 0–3 | 0–4 | 0–4 | 0–5 |
@@ -3195,11 +3195,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 47% | 100% | Last Result |
-| 1 | 0% | 53% |  |
-| 2 | 0% | 53% |  |
-| 3 | 20% | 53% | Median |
-| 4 | 31% | 34% |  |
+| 0 | 46% | 100% | Last Result |
+| 1 | 0% | 54% |  |
+| 2 | 0% | 54% |  |
+| 3 | 21% | 54% | Median |
+| 4 | 31% | 33% |  |
 | 5 | 3% | 3% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |

@@ -1617,7 +1617,7 @@ Last result: **13** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–8 | 5–8 | 5–8 | 4–8 |
-| [25 May 2024](2024-05-25-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
+| [25 May 2024](2024-05-25-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
 | [20–24 May 2024](2024-05-24-SWG.html) | SWG <br> La7 | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [22–23 May 2024](2024-05-23-TermometroPolitico.html) | Termometro Politico | 6 | 6–7 | 6–7 | 5–7 | 5–7 |
 | [20–23 May 2024](2024-05-23-Ixè.html) | Ixè | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
@@ -3202,11 +3202,11 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0.1% | 100% |  |
 | 4 | 2% | 99.9% |  |
-| 5 | 13% | 98% |  |
-| 6 | 48% | 85% | Median |
-| 7 | 27% | 37% |  |
-| 8 | 10% | 10% |  |
-| 9 | 0.4% | 0.4% |  |
+| 5 | 15% | 98% |  |
+| 6 | 47% | 83% | Median |
+| 7 | 26% | 36% |  |
+| 8 | 10% | 11% |  |
+| 9 | 0.4% | 0.5% |  |
 | 10 | 0% | 0% |  |
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% |  |
