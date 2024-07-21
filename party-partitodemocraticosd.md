@@ -10,7 +10,23 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.4% | 23.5–25.4% | 23.2–25.6% | 23.0–25.9% | 22.6–26.3% |
+| N/A | [Poll Average](average.html) | 24.0% | 22.1–25.8% | 21.5–26.3% | 21.1–26.7% | 20.2–27.6% |
+| [10–15 July 2024](2024-07-15-SWG.html) | SWG <br> La7 | 23.0% | 21.5–24.6% | 21.1–25.1% | 20.7–25.5% | 20.0–26.3% |
+| [11–12 July 2024](2024-07-12-Tecnè.html) | Tecnè <br> Agenzia Dire | 24.5% | 22.8–26.3% | 22.3–26.8% | 21.9–27.2% | 21.1–28.1% |
+| [9–11 July 2024](2024-07-11-TermometroPolitico.html) | Termometro Politico | 24.3% | 23.3–25.3% | 23.0–25.6% | 22.8–25.9% | 22.3–26.4% |
+| [3–8 July 2024](2024-07-08-SWG.html) | SWG <br> La7 | 23.3% | N/A | N/A | N/A | N/A |
+| [4–5 July 2024](2024-07-05-Tecnè.html) | Tecnè <br> Agenzia Dire | 24.6% | N/A | N/A | N/A | N/A |
+| [3–4 July 2024](2024-07-04-TermometroPolitico.html) | Termometro Politico | 24.2% | N/A | N/A | N/A | N/A |
+| [1 July 2024](2024-07-01-SWG.html) | SWG <br> La7 | 23.6% | N/A | N/A | N/A | N/A |
+| [27–28 June 2024](2024-06-28-Tecnè.html) | Tecnè <br> Agenzia Dire | 24.5% | 22.8–26.3% | 22.3–26.8% | 21.9–27.3% | 21.1–28.2% |
+| [26–27 June 2024](2024-06-27-TermometroPolitico.html) | Termometro Politico | 24.2% | 23.2–25.2% | 23.0–25.5% | 22.7–25.7% | 22.3–26.2% |
+| [25–27 June 2024](2024-06-27-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 24.0% | 22.1–26.0% | 21.6–26.6% | 21.2–27.1% | 20.3–28.0% |
+| [25–27 June 2024](2024-06-27-Ipsos.html) | Ipsos | 22.8% | 21.2–24.6% | 20.7–25.1% | 20.3–25.5% | 19.5–26.4% |
+| [26 June 2024](2024-06-26-Euromedia.html) | Euromedia <br> La Stampa | 24.0% | 22.3–25.8% | 21.9–26.3% | 21.4–26.7% | 20.7–27.6% |
+| [24–25 June 2024](2024-06-25-Demopolis.html) | Demopolis <br> La7 | 25.0% | 23.8–26.3% | 23.4–26.6% | 23.2–26.9% | 22.6–27.6% |
+| [19–24 June 2024](2024-06-24-SWG.html) | SWG <br> La7 | 23.8% | 22.3–25.5% | 21.9–26.0% | 21.5–26.4% | 20.8–27.2% |
+| [20–21 June 2024](2024-06-21-Tecnè.html) | Tecnè <br> Agenzia Dire | 24.3% | N/A | N/A | N/A | N/A |
+| [12–17 June 2024](2024-06-17-SWG.html) | SWG <br> La7 | 23.8% | N/A | N/A | N/A | N/A |
 | [12–13 June 2024](2024-06-13-TermometroPolitico.html) | Termometro Politico | 24.4% | 23.5–25.4% | 23.2–25.6% | 23.0–25.9% | 22.6–26.3% |
 
 ### Probability Mass Function
@@ -38,16 +54,18 @@ The following table shows the probability mass function per percentage block of 
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0% | 100% |  |
 | 17.5–18.5% | 0% | 100% |  |
-| 18.5–19.5% | 0% | 100% |  |
-| 19.5–20.5% | 0% | 100% |  |
-| 20.5–21.5% | 0% | 100% |  |
-| 21.5–22.5% | 0.5% | 100% |  |
-| 22.5–23.5% | 11% | 99.5% |  |
-| 23.5–24.5% | 46% | 88% | Median |
-| 24.5–25.5% | 36% | 42% |  |
-| 25.5–26.5% | 6% | 6% |  |
-| 26.5–27.5% | 0.2% | 0.2% |  |
-| 27.5–28.5% | 0% | 0% |  |
+| 18.5–19.5% | 0.1% | 100% |  |
+| 19.5–20.5% | 0.9% | 99.9% |  |
+| 20.5–21.5% | 4% | 99.0% |  |
+| 21.5–22.5% | 11% | 95% |  |
+| 22.5–23.5% | 20% | 84% |  |
+| 23.5–24.5% | 28% | 63% | Median |
+| 24.5–25.5% | 22% | 35% |  |
+| 25.5–26.5% | 10% | 13% |  |
+| 26.5–27.5% | 3% | 3% |  |
+| 27.5–28.5% | 0.5% | 0.5% |  |
+| 28.5–29.5% | 0.1% | 0.1% |  |
+| 29.5–30.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -58,7 +76,23 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22 | 21–23 | 21–24 | 20–24 | 20–24 |
+| N/A | [Poll Average](average.html) | 22 | 20–24 | 19–24 | 18–24 | 16–25 |
+| [10–15 July 2024](2024-07-15-SWG.html) | SWG <br> La7 | 21 | 19–23 | 19–24 | 19–24 | 18–24 |
+| [11–12 July 2024](2024-07-12-Tecnè.html) | Tecnè <br> Agenzia Dire | 23 | 21–24 | 20–24 | 19–24 | 18–25 |
+| [9–11 July 2024](2024-07-11-TermometroPolitico.html) | Termometro Politico | 22 | 21–24 | 21–24 | 21–25 | 20–25 |
+| [3–8 July 2024](2024-07-08-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [4–5 July 2024](2024-07-05-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [3–4 July 2024](2024-07-04-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [1 July 2024](2024-07-01-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [27–28 June 2024](2024-06-28-Tecnè.html) | Tecnè <br> Agenzia Dire | 24 | 21–25 | 20–25 | 20–25 | 19–26 |
+| [26–27 June 2024](2024-06-27-TermometroPolitico.html) | Termometro Politico | 22 | 21–24 | 20–24 | 20–24 | 20–24 |
+| [25–27 June 2024](2024-06-27-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 24 | 20–24 | 20–24 | 20–24 | 19–26 |
+| [25–27 June 2024](2024-06-27-Ipsos.html) | Ipsos | 20 | 18–21 | 17–22 | 16–22 | 16–23 |
+| [26 June 2024](2024-06-26-Euromedia.html) | Euromedia <br> La Stampa | 22 | 20–23 | 20–24 | 19–24 | 18–25 |
+| [24–25 June 2024](2024-06-25-Demopolis.html) | Demopolis <br> La7 | 21 | 20–22 | 20–23 | 20–23 | 19–24 |
+| [19–24 June 2024](2024-06-24-SWG.html) | SWG <br> La7 | 21 | 20–24 | 19–24 | 19–25 | 18–26 |
+| [20–21 June 2024](2024-06-21-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [12–17 June 2024](2024-06-17-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [12–13 June 2024](2024-06-13-TermometroPolitico.html) | Termometro Politico | 22 | 21–23 | 21–24 | 20–24 | 20–24 |
 
 ### Probability Mass Function
@@ -85,16 +119,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
-| 16 | 0% | 100% |  |
-| 17 | 0% | 100% |  |
-| 18 | 0% | 100% |  |
-| 19 | 0% | 100% |  |
-| 20 | 4% | 100% |  |
-| 21 | 30% | 96% |  |
-| 22 | 37% | 66% | Median |
-| 23 | 18% | 28% |  |
-| 24 | 10% | 10% |  |
-| 25 | 0.1% | 0.1% |  |
-| 26 | 0% | 0% |  |
+| 16 | 0.6% | 100% |  |
+| 17 | 0.3% | 99.4% |  |
+| 18 | 2% | 99.1% |  |
+| 19 | 7% | 97% |  |
+| 20 | 13% | 90% |  |
+| 21 | 24% | 77% |  |
+| 22 | 23% | 53% | Median |
+| 23 | 15% | 30% |  |
+| 24 | 14% | 15% |  |
+| 25 | 1.1% | 1.3% |  |
+| 26 | 0.2% | 0.2% |  |
+| 27 | 0% | 0% |  |
 
 
