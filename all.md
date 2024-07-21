@@ -1,0 +1,51 @@
+# All Registered Polls
+
+The table below lists all polls registered and analyzed so far.
+
+| Period     | Polling firm/Commissioner(s) | M5S | PaP | SI | UP | EV | AVS | PD | LeU | A1 | CP | +E | A | IV | +E–Az | A–IV | SUE | NM | FI | SVP | FdI | NcI | C! | CI | LN | CPI | IpF | IC | ISP | DSP | I | Italexit | PP | Lib |
+|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [12–13 June 2024](2024-06-13-TermometroPolitico.html) | Termometro Politico | 9–11% <br> 8–10 | N/A <br> N/A | 2–3% <br> 0 | 2–3% <br> 0 | 3–5% <br> 0–4 | N/A <br> N/A | 23–26% <br> 20–24 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | 3–4% <br> 0 | 2–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 9–11% <br> 7–9 | N/A <br> N/A | 28–31% <br> 25–28 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 8–10% <br> 7–9 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | 1% <br> 0 |
+| 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+
+Only polls for which at least the sample size has been published are included in the table above.
+
+**Legend:**
++ **Top half of each row:** Voting intentions (95% confidence interval)
++ **Bottom half of each row:** Seat projections for the European Parliament (95% confidence interval)
++ **M5S:** Movimento 5 Stelle (GUE/NGL)
++ **PaP:** Potere al Popolo (GUE/NGL)
++ **SI:** Sinistra Italiana (GUE/NGL)
++ **UP:** Pace Terra Dignità (GUE/NGL)
++ **EV:** Europa Verde (Greens/EFA)
++ **AVS:** Alleanza Verdi e Sinistra (Greens/EFA)
++ **PD:** Partito Democratico (S&D)
++ **LeU:** Liberi e Uguali (S&D)
++ **A1:** Articolo Uno (S&D)
++ **CP:** Civica Popolare (RE)
++ **+E:** Più Europa (RE)
++ **A:** Azione (RE)
++ **IV:** Italia Viva (RE)
++ **+E–Az:** Più Europa–Azione (RE)
++ **A–IV:** Azione–Italia Viva (RE)
++ **SUE:** Stati Uniti d’Europa (RE)
++ **NM:** Noi Moderati (EPP)
++ **FI:** Forza Italia (EPP)
++ **SVP:** Südtiroler Volkspartei (EPP)
++ **FdI:** Fratelli d’Italia (ECR)
++ **NcI:** Noi con l’Italia (ECR)
++ **C!:** Cambiamo! (ECR)
++ **CI:** Coraggio Italia (ECR)
++ **LN:** Lega Nord (PfE)
++ **CPI:** CasaPound Italia (NI)
++ **IpF:** Insieme per il Futuro (NI)
++ **IC:** Impegno Civico (NI)
++ **ISP:** Italia Sovrana e Popolare (NI)
++ **DSP:** Democrazia Sovrana e Popolare (NI)
++ **I:** Insieme (*)
++ **Italexit:** Italexit–Per l’Italia con Paragone (*)
++ **PP:** Partito Progressista (*)
++ **Lib:** Libertà (*)
++ **N/A (single party):** Party not included the published results
++ **N/A (entire row):** Calculation for this opinion poll not started yet
+
