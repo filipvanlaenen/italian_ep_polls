@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>All Registered Polls for the European Parliament</title>
+    <link>null</link>
+    <description>All Registered Polls for the European Parliament</description>
+    <pubDate>Sun, 21 Jul 2024 15:49:56 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Termometro Politico, 12–13 June 2024 – Seating Plan Projection</title>
+      <link>null/2024-06-13-TermometroPolitico.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>39 seats needed for a majority<br/>Opinion poll by Termometro Politico, 12–13 June 2024<br/>Details on null/2024-06-13-TermometroPolitico.html<br/><img src="null/2024-06-13-TermometroPolitico-seating-plan.png"/>]]></description>
+      <enclosure url="null/2024-06-13-TermometroPolitico-seating-plan.png" length="424738" type="image/png"/>
+      <pubDate>Sun, 21 Jul 2024 16:38:53 +0200</pubDate>
+      <dc:date>2024-07-21T16:38:53.818873269+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Termometro Politico, 12–13 June 2024 – Seat Projections</title>
+      <link>null/2024-06-13-TermometroPolitico.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>39 seats needed for a majority<br/>Opinion poll by Termometro Politico, 12–13 June 2024<br/>Details on null/2024-06-13-TermometroPolitico.html<br/><img src="null/2024-06-13-TermometroPolitico-seats.png"/>]]></description>
+      <enclosure url="null/2024-06-13-TermometroPolitico-seats.png" length="259851" type="image/png"/>
+      <pubDate>Sun, 21 Jul 2024 16:38:53 +0200</pubDate>
+      <dc:date>2024-07-21T16:38:53.818873269+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Termometro Politico, 12–13 June 2024 – Voting Intentions</title>
+      <link>null/2024-06-13-TermometroPolitico.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Termometro Politico, 12–13 June 2024<br/>Details on null/2024-06-13-TermometroPolitico.html<br/><img src="null/2024-06-13-TermometroPolitico.png"/>]]></description>
+      <enclosure url="null/2024-06-13-TermometroPolitico.png" length="322897" type="image/png"/>
+      <pubDate>Sun, 21 Jul 2024 16:38:53 +0200</pubDate>
+      <dc:date>2024-07-21T16:38:53.818873269+02:00</dc:date>
+    </item>
+  </channel>
+</rss>
