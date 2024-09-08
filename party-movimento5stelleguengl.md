@@ -10,8 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.9% | 9.4–13.2% | 9.0–13.8% | 8.7–14.3% | 8.1–15.2% |
+| N/A | [Poll Average](average.html) | 10.9% | 9.6–12.4% | 9.3–12.8% | 9.0–13.1% | 8.6–13.8% |
+| [2 September 2024](2024-09-02-SWG.html) | SWG <br> La7 | 11.6% | 10.5–12.8% | 10.2–13.2% | 9.9–13.5% | 9.4–14.2% |
+| [31 August 2024](2024-08-31-Tecnè.html) | Tecnè <br> Agenzia Dire | 10.7% | 9.4–12.3% | 9.1–12.7% | 8.8–13.1% | 8.2–13.9% |
 | [28–29 August 2024](2024-08-29-TermometroPolitico.html) | Termometro Politico | 9.9% | 9.2–10.7% | 9.0–10.9% | 8.9–11.1% | 8.5–11.4% |
+| [28–29 August 2024](2024-08-29-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 11.1% | 10.0–12.4% | 9.7–12.7% | 9.5–13.0% | 9.0–13.6% |
 | [21–22 August 2024](2024-08-22-TermometroPolitico.html) | Termometro Politico | 10.1% | N/A | N/A | N/A | N/A |
 | [5–16 August 2024](2024-08-16-Lab2101.html) | Lab2101 <br> Affari Italiani | 11.0% | 9.8–12.4% | 9.5–12.8% | 9.2–13.1% | 8.7–13.8% |
 | [3 August 2024](2024-08-03-Lab2101.html) | Lab2101 <br> Affari Italiani | 10.9% | N/A | N/A | N/A | N/A |
@@ -57,17 +60,16 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.1% | 100% |  |
-| 7.5–8.5% | 2% | 99.9% |  |
-| 8.5–9.5% | 12% | 98% |  |
-| 9.5–10.5% | 28% | 86% |  |
-| 10.5–11.5% | 23% | 58% | Median |
-| 11.5–12.5% | 17% | 35% |  |
-| 12.5–13.5% | 11% | 18% |  |
-| 13.5–14.5% | 5% | 7% |  |
-| 14.5–15.5% | 1.5% | 2% |  |
-| 15.5–16.5% | 0.2% | 0.3% |  |
-| 16.5–17.5% | 0% | 0% |  |
+| 6.5–7.5% | 0% | 100% |  |
+| 7.5–8.5% | 0.5% | 100% |  |
+| 8.5–9.5% | 9% | 99.5% |  |
+| 9.5–10.5% | 29% | 91% |  |
+| 10.5–11.5% | 33% | 61% | Median |
+| 11.5–12.5% | 21% | 29% |  |
+| 12.5–13.5% | 7% | 8% |  |
+| 13.5–14.5% | 0.9% | 1.0% |  |
+| 14.5–15.5% | 0.1% | 0.1% |  |
+| 15.5–16.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -78,8 +80,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 8–11 | 8–12 | 7–12 | 7–13 |
+| N/A | [Poll Average](average.html) | 10 | 8–11 | 8–12 | 8–12 | 7–13 |
+| [2 September 2024](2024-09-02-SWG.html) | SWG <br> La7 | 11 | 9–12 | 9–13 | 9–13 | 8–13 |
+| [31 August 2024](2024-08-31-Tecnè.html) | Tecnè <br> Agenzia Dire | 10 | 8–10 | 8–11 | 8–11 | 7–12 |
 | [28–29 August 2024](2024-08-29-TermometroPolitico.html) | Termometro Politico | 9 | 8–10 | 8–11 | 8–11 | 8–11 |
+| [28–29 August 2024](2024-08-29-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 10 | 9–11 | 9–11 | 9–12 | 8–12 |
 | [21–22 August 2024](2024-08-22-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [5–16 August 2024](2024-08-16-Lab2101.html) | Lab2101 <br> Affari Italiani | 9 | 9–11 | 8–11 | 8–11 | 7–12 |
 | [3 August 2024](2024-08-03-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
@@ -127,14 +132,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 3% | 100% |  |
-| 8 | 14% | 97% |  |
-| 9 | 31% | 83% |  |
-| 10 | 20% | 51% | Median |
-| 11 | 26% | 31% |  |
-| 12 | 5% | 6% |  |
-| 13 | 0.5% | 0.6% |  |
-| 14 | 0.1% | 0.1% |  |
-| 15 | 0% | 0% |  |
+| 7 | 0.5% | 100% |  |
+| 8 | 10% | 99.4% |  |
+| 9 | 32% | 89% |  |
+| 10 | 36% | 58% | Median |
+| 11 | 16% | 22% |  |
+| 12 | 4% | 5% |  |
+| 13 | 1.2% | 1.2% |  |
+| 14 | 0% | 0% |  |
 
 

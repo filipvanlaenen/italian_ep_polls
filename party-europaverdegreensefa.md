@@ -10,8 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.6% | 2.8–4.4% | 2.6–4.6% | 2.4–4.8% | 2.1–5.3% |
+| N/A | [Poll Average](average.html) | 3.7% | 2.8–4.4% | 2.6–4.7% | 2.4–4.9% | 2.1–5.3% |
+| [2 September 2024](2024-09-02-SWG.html) | SWG <br> La7 | 3.8% | 3.2–4.6% | 3.0–4.9% | 2.9–5.1% | 2.6–5.5% |
+| [31 August 2024](2024-08-31-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.4% | 2.7–4.4% | 2.5–4.7% | 2.3–4.9% | 2.1–5.4% |
 | [28–29 August 2024](2024-08-29-TermometroPolitico.html) | Termometro Politico | 3.9% | 3.4–4.4% | 3.3–4.5% | 3.2–4.6% | 3.0–4.9% |
+| [28–29 August 2024](2024-08-29-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 3.8% | 3.2–4.6% | 3.0–4.9% | 2.9–5.1% | 2.6–5.5% |
 | [21–22 August 2024](2024-08-22-TermometroPolitico.html) | Termometro Politico | 3.8% | N/A | N/A | N/A | N/A |
 | [5–16 August 2024](2024-08-16-Lab2101.html) | Lab2101 <br> Affari Italiani | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [3 August 2024](2024-08-03-Lab2101.html) | Lab2101 <br> Affari Italiani | 3.0% | N/A | N/A | N/A | N/A |
@@ -53,9 +56,9 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 4% | 100% |  |
-| 2.5–3.5% | 40% | 96% |  |
-| 3.5–4.5% | 50% | 56% | Median |
-| 4.5–5.5% | 6% | 6% |  |
+| 2.5–3.5% | 37% | 96% |  |
+| 3.5–4.5% | 52% | 59% | Median |
+| 4.5–5.5% | 7% | 7% |  |
 | 5.5–6.5% | 0.2% | 0.2% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
@@ -69,7 +72,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [2 September 2024](2024-09-02-SWG.html) | SWG <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [31 August 2024](2024-08-31-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [28–29 August 2024](2024-08-29-TermometroPolitico.html) | Termometro Politico | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [28–29 August 2024](2024-08-29-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 4 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [21–22 August 2024](2024-08-22-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [5–16 August 2024](2024-08-16-Lab2101.html) | Lab2101 <br> Affari Italiani | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | [3 August 2024](2024-08-03-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
@@ -110,11 +116,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 74% | 100% | Last Result, Median |
-| 1 | 0% | 26% |  |
-| 2 | 0% | 26% |  |
-| 3 | 9% | 26% |  |
-| 4 | 17% | 17% |  |
+| 0 | 69% | 100% | Last Result, Median |
+| 1 | 0% | 31% |  |
+| 2 | 0% | 31% |  |
+| 3 | 1.1% | 31% |  |
+| 4 | 29% | 30% |  |
 | 5 | 0.8% | 0.8% |  |
 | 6 | 0% | 0% |  |
 
