@@ -11,8 +11,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.2% | 1.7–2.9% | 1.6–3.2% | 1.4–3.4% | 1.2–3.8% |
+| [5–6 September 2024](2024-09-06-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.0% | 1.5–2.8% | 1.4–3.1% | 1.2–3.3% | 1.0–3.7% |
 | [2 September 2024](2024-09-02-SWG.html) | SWG <br> La7 | 2.3% | 1.9–3.0% | 1.7–3.2% | 1.6–3.4% | 1.4–3.7% |
-| [31 August 2024](2024-08-31-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.0% | 1.5–2.8% | 1.4–3.1% | 1.2–3.3% | 1.0–3.7% |
+| [29–30 August 2024](2024-08-30-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.0% | 1.5–2.8% | 1.4–3.1% | 1.2–3.3% | 1.0–3.7% |
 | [28–29 August 2024](2024-08-29-TermometroPolitico.html) | Termometro Politico | 2.1% | 1.8–2.5% | 1.7–2.6% | 1.6–2.7% | 1.5–2.9% |
 | [28–29 August 2024](2024-08-29-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 2.0% | 1.6–2.6% | 1.4–2.8% | 1.3–3.0% | 1.2–3.3% |
 | [21–22 August 2024](2024-08-22-TermometroPolitico.html) | Termometro Politico | 2.1% | N/A | N/A | N/A | N/A |
@@ -70,8 +71,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [5–6 September 2024](2024-09-06-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
 | [2 September 2024](2024-09-02-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
-| [31 August 2024](2024-08-31-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
+| [29–30 August 2024](2024-08-30-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
 | [28–29 August 2024](2024-08-29-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [28–29 August 2024](2024-08-29-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0 | 0 | 0 |
 | [21–22 August 2024](2024-08-22-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
@@ -118,7 +120,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 0.2% |  |
 | 2 | 0% | 0.2% |  |
 | 3 | 0% | 0.2% |  |
-| 4 | 0.1% | 0.1% |  |
+| 4 | 0.2% | 0.2% |  |
 | 5 | 0% | 0% |  |
 
 
