@@ -88,11 +88,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–9 | 6–9 | 5–10 | 5–11 |
-| [11–16 September 2024](2024-09-16-SWG.html) | SWG <br> La7 | 6 | 5–8 | 5–8 | 5–8 | 5–9 |
-| [12–13 September 2024](2024-09-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 9 | 7–10 | 7–11 | 7–11 | 6–11 |
-| [11–12 September 2024](2024-09-12-TermometroPolitico.html) | Termometro Politico | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
-| [9–11 September 2024](2024-09-11-Ixè.html) | Ixè | 7 | 6–9 | 6–9 | 6–9 | 6–10 |
-| [10 September 2024](2024-09-10-Euromedia.html) | Euromedia <br> Rai 1 | 7 | 6–8 | 6–8 | 6–8 | 5–10 |
+| [11–16 September 2024](2024-09-16-SWG.html) | SWG <br> La7 | 7 | 5–8 | 5–8 | 5–8 | 5–9 |
+| [12–13 September 2024](2024-09-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 9 | 7–10 | 7–10 | 7–11 | 6–11 |
+| [11–12 September 2024](2024-09-12-TermometroPolitico.html) | Termometro Politico | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
+| [9–11 September 2024](2024-09-11-Ixè.html) | Ixè | 8 | 6–9 | 6–9 | 6–9 | 6–10 |
+| [10 September 2024](2024-09-10-Euromedia.html) | Euromedia <br> Rai 1 | 7 | 6–9 | 6–9 | 5–9 | 5–10 |
 | [4–9 September 2024](2024-09-09-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [5–7 September 2024](2024-09-07-BiDiMedia.html) | BiDiMedia | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
 | [5–6 September 2024](2024-09-06-Tecnè.html) | Tecnè <br> Agenzia Dire | 8 | 7–10 | 7–10 | 6–11 | 6–11 |
@@ -146,13 +146,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0.1% | 100% |  |
 | 5 | 3% | 99.9% |  |
-| 6 | 20% | 97% |  |
-| 7 | 34% | 77% | Median |
-| 8 | 30% | 43% |  |
-| 9 | 9% | 14% |  |
-| 10 | 4% | 4% |  |
-| 11 | 0.8% | 0.8% |  |
-| 12 | 0% | 0.1% |  |
-| 13 | 0% | 0% |  |
+| 6 | 16% | 97% |  |
+| 7 | 32% | 81% | Median |
+| 8 | 35% | 49% |  |
+| 9 | 10% | 14% |  |
+| 10 | 3% | 4% |  |
+| 11 | 0.6% | 0.7% |  |
+| 12 | 0% | 0% |  |
 
 

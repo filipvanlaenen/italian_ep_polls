@@ -80,12 +80,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–3 |
 | [11–16 September 2024](2024-09-16-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
-| [12–13 September 2024](2024-09-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
+| [12–13 September 2024](2024-09-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0–4 |
 | [11–12 September 2024](2024-09-12-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [9–11 September 2024](2024-09-11-Ixè.html) | Ixè | 0 | 0 | 0 | 0–3 | 0–4 |
 | [10 September 2024](2024-09-10-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
 | [4–9 September 2024](2024-09-09-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [5–7 September 2024](2024-09-07-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0–4 |
+| [5–7 September 2024](2024-09-07-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
 | [5–6 September 2024](2024-09-06-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
 | [2 September 2024](2024-09-02-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [29–30 August 2024](2024-08-30-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0–3 |
@@ -131,10 +131,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.2% | 100% | Last Result, Median |
-| 1 | 0% | 0.8% |  |
-| 2 | 0% | 0.8% |  |
-| 3 | 0.4% | 0.8% |  |
+| 0 | 99.3% | 100% | Last Result, Median |
+| 1 | 0% | 0.7% |  |
+| 2 | 0% | 0.7% |  |
+| 3 | 0.3% | 0.7% |  |
 | 4 | 0.4% | 0.4% |  |
 | 5 | 0% | 0% |  |
 

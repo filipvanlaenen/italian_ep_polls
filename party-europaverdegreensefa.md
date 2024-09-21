@@ -80,13 +80,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
-| [11–16 September 2024](2024-09-16-SWG.html) | SWG <br> La7 | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
+| [11–16 September 2024](2024-09-16-SWG.html) | SWG <br> La7 | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [12–13 September 2024](2024-09-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [11–12 September 2024](2024-09-12-TermometroPolitico.html) | Termometro Politico | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
-| [9–11 September 2024](2024-09-11-Ixè.html) | Ixè | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
+| [9–11 September 2024](2024-09-11-Ixè.html) | Ixè | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
 | [10 September 2024](2024-09-10-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [4–9 September 2024](2024-09-09-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [5–7 September 2024](2024-09-07-BiDiMedia.html) | BiDiMedia | 4 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [5–7 September 2024](2024-09-07-BiDiMedia.html) | BiDiMedia | 4 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [5–6 September 2024](2024-09-06-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [2 September 2024](2024-09-02-SWG.html) | SWG <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [29–30 August 2024](2024-08-30-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
@@ -132,13 +132,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 55% | 100% | Last Result, Median |
-| 1 | 0% | 45% |  |
-| 2 | 0% | 45% |  |
-| 3 | 3% | 45% |  |
-| 4 | 39% | 42% |  |
+| 0 | 58% | 100% | Last Result, Median |
+| 1 | 0% | 42% |  |
+| 2 | 0% | 42% |  |
+| 3 | 4% | 42% |  |
+| 4 | 34% | 37% |  |
 | 5 | 3% | 3% |  |
-| 6 | 0.1% | 0.1% |  |
-| 7 | 0% | 0% |  |
+| 6 | 0% | 0% |  |
 
 

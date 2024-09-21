@@ -107,14 +107,14 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26 | 24–28 | 23–28 | 23–29 | 22–30 |
-| [11–16 September 2024](2024-09-16-SWG.html) | SWG <br> La7 | 27 | 25–28 | 24–29 | 24–30 | 24–31 |
-| [12–13 September 2024](2024-09-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 25 | 23–27 | 23–29 | 22–29 | 21–30 |
-| [11–12 September 2024](2024-09-12-TermometroPolitico.html) | Termometro Politico | 27 | 26–28 | 26–28 | 25–29 | 25–29 |
-| [9–11 September 2024](2024-09-11-Ixè.html) | Ixè | 25 | 23–26 | 22–26 | 22–27 | 21–28 |
-| [10 September 2024](2024-09-10-Euromedia.html) | Euromedia <br> Rai 1 | 25 | 24–28 | 24–29 | 24–30 | 23–31 |
+| N/A | [Poll Average](average.html) | 26 | 24–28 | 23–29 | 23–29 | 22–31 |
+| [11–16 September 2024](2024-09-16-SWG.html) | SWG <br> La7 | 26 | 25–29 | 24–30 | 24–30 | 24–31 |
+| [12–13 September 2024](2024-09-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 25 | 23–28 | 23–28 | 22–29 | 21–30 |
+| [11–12 September 2024](2024-09-12-TermometroPolitico.html) | Termometro Politico | 27 | 26–28 | 26–28 | 25–28 | 25–29 |
+| [9–11 September 2024](2024-09-11-Ixè.html) | Ixè | 24 | 22–26 | 22–26 | 22–27 | 21–29 |
+| [10 September 2024](2024-09-10-Euromedia.html) | Euromedia <br> Rai 1 | 27 | 24–29 | 24–29 | 24–29 | 22–31 |
 | [4–9 September 2024](2024-09-09-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [5–7 September 2024](2024-09-07-BiDiMedia.html) | BiDiMedia | 27 | 24–28 | 23–28 | 23–29 | 23–30 |
+| [5–7 September 2024](2024-09-07-BiDiMedia.html) | BiDiMedia | 27 | 24–28 | 23–29 | 23–29 | 22–31 |
 | [5–6 September 2024](2024-09-06-Tecnè.html) | Tecnè <br> Agenzia Dire | 25 | 23–27 | 22–28 | 22–28 | 21–30 |
 | [2 September 2024](2024-09-02-SWG.html) | SWG <br> La7 | 28 | 26–29 | 26–29 | 25–29 | 23–31 |
 | [29–30 August 2024](2024-08-30-Tecnè.html) | Tecnè <br> Agenzia Dire | 25 | 23–28 | 22–28 | 22–29 | 22–30 |
@@ -181,17 +181,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
-| 21 | 0.3% | 100% |  |
-| 22 | 1.5% | 99.7% |  |
-| 23 | 5% | 98% |  |
-| 24 | 17% | 93% |  |
+| 21 | 0.4% | 100% |  |
+| 22 | 2% | 99.6% |  |
+| 23 | 7% | 98% |  |
+| 24 | 15% | 91% |  |
 | 25 | 14% | 76% |  |
-| 26 | 22% | 62% | Median |
-| 27 | 22% | 40% |  |
-| 28 | 13% | 18% |  |
-| 29 | 3% | 4% |  |
-| 30 | 0.8% | 1.2% |  |
-| 31 | 0.4% | 0.5% |  |
+| 26 | 22% | 63% | Median |
+| 27 | 17% | 40% |  |
+| 28 | 15% | 23% |  |
+| 29 | 6% | 8% |  |
+| 30 | 1.3% | 2% |  |
+| 31 | 0.5% | 0.6% |  |
 | 32 | 0% | 0% |  |
 
 

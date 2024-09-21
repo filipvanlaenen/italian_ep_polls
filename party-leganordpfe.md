@@ -87,9 +87,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 7–9 | 6–9 | 6–10 | 5–10 |
 | [11–16 September 2024](2024-09-16-SWG.html) | SWG <br> La7 | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
-| [12–13 September 2024](2024-09-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 6–9 | 5–9 | 5–9 | 5–10 |
-| [11–12 September 2024](2024-09-12-TermometroPolitico.html) | Termometro Politico | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
-| [9–11 September 2024](2024-09-11-Ixè.html) | Ixè | 8 | 7–9 | 7–10 | 6–10 | 6–11 |
+| [12–13 September 2024](2024-09-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 6–9 | 6–9 | 5–9 | 5–10 |
+| [11–12 September 2024](2024-09-12-TermometroPolitico.html) | Termometro Politico | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
+| [9–11 September 2024](2024-09-11-Ixè.html) | Ixè | 8 | 7–9 | 7–10 | 7–10 | 6–11 |
 | [10 September 2024](2024-09-10-Euromedia.html) | Euromedia <br> Rai 1 | 8 | 7–9 | 7–10 | 7–10 | 6–11 |
 | [4–9 September 2024](2024-09-09-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [5–7 September 2024](2024-09-07-BiDiMedia.html) | BiDiMedia | 8 | 7–9 | 6–9 | 6–10 | 6–10 |
@@ -143,13 +143,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 1.0% | 100% |  |
-| 6 | 7% | 99.0% |  |
-| 7 | 32% | 92% |  |
-| 8 | 45% | 60% | Median |
-| 9 | 12% | 15% |  |
-| 10 | 2% | 3% |  |
-| 11 | 0.4% | 0.4% |  |
+| 5 | 0.8% | 100% |  |
+| 6 | 7% | 99.2% |  |
+| 7 | 34% | 92% |  |
+| 8 | 40% | 58% | Median |
+| 9 | 15% | 18% |  |
+| 10 | 3% | 4% |  |
+| 11 | 0.3% | 0.3% |  |
 | 12 | 0% | 0% |  |
 
 

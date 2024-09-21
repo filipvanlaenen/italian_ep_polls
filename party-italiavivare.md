@@ -82,7 +82,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [12–13 September 2024](2024-09-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
 | [11–12 September 2024](2024-09-12-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [9–11 September 2024](2024-09-11-Ixè.html) | Ixè | 0 | 0 | 0 | 0 | 0 |
-| [10 September 2024](2024-09-10-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
+| [10 September 2024](2024-09-10-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0 | 0–4 |
 | [4–9 September 2024](2024-09-09-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [5–7 September 2024](2024-09-07-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
 | [5–6 September 2024](2024-09-06-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
@@ -134,7 +134,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 0.2% |  |
 | 2 | 0% | 0.2% |  |
 | 3 | 0% | 0.2% |  |
-| 4 | 0.1% | 0.1% |  |
+| 4 | 0.2% | 0.2% |  |
 | 5 | 0% | 0% |  |
 
 
