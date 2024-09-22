@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.1% | 27.2–31.1% | 26.6–31.7% | 26.1–32.2% | 25.2–33.2% |
+| N/A | [Poll Average](average.html) | 29.2% | 27.3–31.3% | 26.7–31.9% | 26.2–32.4% | 25.2–33.5% |
+| [17–18 September 2024](2024-09-18-Eumetra.html) | Eumetra <br> La7 | 30.0% | 28.0–32.1% | 27.4–32.8% | 26.9–33.3% | 26.0–34.3% |
 | [11–16 September 2024](2024-09-16-SWG.html) | SWG <br> La7 | 30.3% | 28.7–32.1% | 28.2–32.6% | 27.8–33.0% | 27.0–33.9% |
 | [12–13 September 2024](2024-09-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 29.0% | 26.9–31.1% | 26.4–31.7% | 25.9–32.2% | 25.0–33.3% |
 | [11–12 September 2024](2024-09-12-TermometroPolitico.html) | Termometro Politico | 29.2% | 28.2–30.3% | 27.9–30.6% | 27.6–30.8% | 27.1–31.3% |
@@ -86,17 +87,18 @@ The following table shows the probability mass function per percentage block of 
 | 21.5–22.5% | 0% | 100% |  |
 | 22.5–23.5% | 0% | 100% |  |
 | 23.5–24.5% | 0.1% | 100% |  |
-| 24.5–25.5% | 0.8% | 99.9% |  |
-| 25.5–26.5% | 4% | 99.1% |  |
-| 26.5–27.5% | 10% | 96% |  |
-| 27.5–28.5% | 20% | 86% |  |
-| 28.5–29.5% | 27% | 66% | Median |
-| 29.5–30.5% | 22% | 39% |  |
-| 30.5–31.5% | 11% | 17% |  |
-| 31.5–32.5% | 4% | 6% |  |
-| 32.5–33.5% | 1.2% | 1.5% |  |
-| 33.5–34.5% | 0.2% | 0.3% |  |
-| 34.5–35.5% | 0% | 0% |  |
+| 24.5–25.5% | 0.7% | 99.9% |  |
+| 25.5–26.5% | 3% | 99.1% |  |
+| 26.5–27.5% | 9% | 96% |  |
+| 27.5–28.5% | 19% | 87% |  |
+| 28.5–29.5% | 26% | 68% | Median |
+| 29.5–30.5% | 22% | 42% |  |
+| 30.5–31.5% | 12% | 20% |  |
+| 31.5–32.5% | 5% | 7% |  |
+| 32.5–33.5% | 2% | 2% |  |
+| 33.5–34.5% | 0.4% | 0.4% |  |
+| 34.5–35.5% | 0.1% | 0.1% |  |
+| 35.5–36.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -107,7 +109,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26 | 24–28 | 23–29 | 23–29 | 22–31 |
+| N/A | [Poll Average](average.html) | 26 | 24–28 | 23–29 | 23–30 | 22–31 |
+| [17–18 September 2024](2024-09-18-Eumetra.html) | Eumetra <br> La7 | 28 | 25–29 | 24–30 | 23–30 | 22–31 |
 | [11–16 September 2024](2024-09-16-SWG.html) | SWG <br> La7 | 26 | 25–29 | 24–30 | 24–30 | 24–31 |
 | [12–13 September 2024](2024-09-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 25 | 23–28 | 23–28 | 22–29 | 21–30 |
 | [11–12 September 2024](2024-09-12-TermometroPolitico.html) | Termometro Politico | 27 | 26–28 | 26–28 | 25–28 | 25–29 |
@@ -117,16 +120,16 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [5–7 September 2024](2024-09-07-BiDiMedia.html) | BiDiMedia | 27 | 24–28 | 23–29 | 23–29 | 22–31 |
 | [5–6 September 2024](2024-09-06-Tecnè.html) | Tecnè <br> Agenzia Dire | 25 | 23–27 | 22–28 | 22–28 | 21–30 |
 | [2 September 2024](2024-09-02-SWG.html) | SWG <br> La7 | 28 | 26–29 | 26–29 | 25–29 | 23–31 |
-| [29–30 August 2024](2024-08-30-Tecnè.html) | Tecnè <br> Agenzia Dire | 25 | 23–28 | 22–28 | 22–29 | 22–30 |
-| [28–29 August 2024](2024-08-29-TermometroPolitico.html) | Termometro Politico | 27 | 26–28 | 26–28 | 26–29 | 25–29 |
-| [28–29 August 2024](2024-08-29-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 26 | 25–28 | 24–28 | 23–28 | 23–28 |
+| [29–30 August 2024](2024-08-30-Tecnè.html) | Tecnè <br> Agenzia Dire | 25 | 23–27 | 23–27 | 22–28 | 22–29 |
+| [28–29 August 2024](2024-08-29-TermometroPolitico.html) | Termometro Politico | 28 | 26–28 | 26–29 | 25–29 | 25–30 |
+| [28–29 August 2024](2024-08-29-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 26 | 24–27 | 24–28 | 23–28 | 22–29 |
 | [21–22 August 2024](2024-08-22-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [5–16 August 2024](2024-08-16-Lab2101.html) | Lab2101 <br> Affari Italiani | 25 | 23–27 | 23–27 | 22–27 | 22–28 |
+| [5–16 August 2024](2024-08-16-Lab2101.html) | Lab2101 <br> Affari Italiani | 25 | 23–27 | 23–27 | 22–28 | 22–29 |
 | [3 August 2024](2024-08-03-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
-| [24–29 July 2024](2024-07-29-SWG.html) | SWG <br> La7 | 26 | 24–29 | 24–29 | 24–30 | 24–31 |
+| [24–29 July 2024](2024-07-29-SWG.html) | SWG <br> La7 | 28 | 24–29 | 24–29 | 24–30 | 24–31 |
 | [25–26 July 2024](2024-07-26-Tecnè.html) | Tecnè <br> Agenzia Dire | 25 | 23–27 | 23–27 | 23–28 | 22–29 |
 | [24–25 July 2024](2024-07-25-TermometroPolitico.html) | Termometro Politico | 26 | 26–29 | 26–29 | 25–29 | 25–29 |
-| [23–25 July 2024](2024-07-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 24 | 24–25 | 23–26 | 23–26 | 21–27 |
+| [23–25 July 2024](2024-07-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 24 | 23–25 | 22–26 | 22–26 | 21–27 |
 | [25 July 2024](2024-07-25-Euromedia.html) | Euromedia | 25 | 23–27 | 21–29 | 21–30 | 21–30 |
 | [22–24 July 2024](2024-07-24-Piepoli.html) | Piepoli | 25 | 22–28 | 21–29 | 21–30 | 20–31 |
 | [17–22 July 2024](2024-07-22-SWG.html) | SWG <br> La7 | 27 | 27–29 | 26–29 | 25–30 | 24–30 |
@@ -181,17 +184,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
-| 21 | 0.4% | 100% |  |
+| 21 | 0.3% | 100% |  |
 | 22 | 2% | 99.6% |  |
-| 23 | 7% | 98% |  |
-| 24 | 15% | 91% |  |
-| 25 | 14% | 76% |  |
-| 26 | 22% | 63% | Median |
-| 27 | 17% | 40% |  |
-| 28 | 15% | 23% |  |
-| 29 | 6% | 8% |  |
-| 30 | 1.3% | 2% |  |
-| 31 | 0.5% | 0.6% |  |
+| 23 | 6% | 98% |  |
+| 24 | 14% | 92% |  |
+| 25 | 13% | 78% |  |
+| 26 | 21% | 65% | Median |
+| 27 | 16% | 44% |  |
+| 28 | 18% | 28% |  |
+| 29 | 7% | 9% |  |
+| 30 | 2% | 3% |  |
+| 31 | 0.7% | 0.7% |  |
 | 32 | 0% | 0% |  |
 
 

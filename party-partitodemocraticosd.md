@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23.4% | 21.8–25.1% | 21.3–25.7% | 20.9–26.1% | 20.1–27.1% |
+| N/A | [Poll Average](average.html) | 23.4% | 21.7–25.1% | 21.2–25.6% | 20.8–26.1% | 20.0–27.1% |
+| [17–18 September 2024](2024-09-18-Eumetra.html) | Eumetra <br> La7 | 23.0% | 21.2–25.0% | 20.7–25.6% | 20.3–26.1% | 19.4–27.1% |
 | [11–16 September 2024](2024-09-16-SWG.html) | SWG <br> La7 | 22.8% | 21.3–24.4% | 20.9–24.9% | 20.5–25.3% | 19.8–26.1% |
 | [12–13 September 2024](2024-09-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 23.6% | 21.8–25.7% | 21.3–26.2% | 20.8–26.7% | 19.9–27.7% |
 | [11–12 September 2024](2024-09-12-TermometroPolitico.html) | Termometro Politico | 23.5% | 22.5–24.5% | 22.3–24.8% | 22.0–25.0% | 21.6–25.5% |
@@ -80,14 +81,14 @@ The following table shows the probability mass function per percentage block of 
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0% | 100% |  |
 | 17.5–18.5% | 0% | 100% |  |
-| 18.5–19.5% | 0.1% | 100% |  |
-| 19.5–20.5% | 1.1% | 99.9% |  |
-| 20.5–21.5% | 6% | 98.8% |  |
-| 21.5–22.5% | 17% | 93% |  |
-| 22.5–23.5% | 30% | 76% | Median |
-| 23.5–24.5% | 27% | 46% |  |
+| 18.5–19.5% | 0.2% | 100% |  |
+| 19.5–20.5% | 1.4% | 99.8% |  |
+| 20.5–21.5% | 6% | 98% |  |
+| 21.5–22.5% | 18% | 92% |  |
+| 22.5–23.5% | 29% | 75% | Median |
+| 23.5–24.5% | 27% | 45% |  |
 | 24.5–25.5% | 13% | 19% |  |
-| 25.5–26.5% | 5% | 6% |  |
+| 25.5–26.5% | 4% | 6% |  |
 | 26.5–27.5% | 1.1% | 1.3% |  |
 | 27.5–28.5% | 0.2% | 0.2% |  |
 | 28.5–29.5% | 0% | 0% |  |
@@ -102,6 +103,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 21 | 19–23 | 18–24 | 18–24 | 17–25 |
+| [17–18 September 2024](2024-09-18-Eumetra.html) | Eumetra <br> La7 | 21 | 19–22 | 18–23 | 18–23 | 17–24 |
 | [11–16 September 2024](2024-09-16-SWG.html) | SWG <br> La7 | 20 | 18–23 | 18–23 | 17–24 | 17–24 |
 | [12–13 September 2024](2024-09-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 20 | 18–23 | 18–24 | 18–24 | 17–24 |
 | [11–12 September 2024](2024-09-12-TermometroPolitico.html) | Termometro Politico | 22 | 21–24 | 20–24 | 20–24 | 20–24 |
@@ -111,16 +113,16 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [5–7 September 2024](2024-09-07-BiDiMedia.html) | BiDiMedia | 21 | 19–23 | 19–24 | 18–24 | 17–25 |
 | [5–6 September 2024](2024-09-06-Tecnè.html) | Tecnè <br> Agenzia Dire | 21 | 19–22 | 18–23 | 18–23 | 16–25 |
 | [2 September 2024](2024-09-02-SWG.html) | SWG <br> La7 | 20 | 19–21 | 19–22 | 18–22 | 17–23 |
-| [29–30 August 2024](2024-08-30-Tecnè.html) | Tecnè <br> Agenzia Dire | 21 | 19–22 | 19–23 | 18–23 | 17–25 |
-| [28–29 August 2024](2024-08-29-TermometroPolitico.html) | Termometro Politico | 22 | 21–24 | 20–24 | 20–24 | 20–24 |
-| [28–29 August 2024](2024-08-29-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 20 | 20–22 | 19–23 | 19–24 | 18–24 |
+| [29–30 August 2024](2024-08-30-Tecnè.html) | Tecnè <br> Agenzia Dire | 20 | 19–22 | 19–23 | 18–23 | 17–25 |
+| [28–29 August 2024](2024-08-29-TermometroPolitico.html) | Termometro Politico | 21 | 21–24 | 21–24 | 20–24 | 20–24 |
+| [28–29 August 2024](2024-08-29-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 20 | 20–22 | 19–23 | 19–24 | 18–25 |
 | [21–22 August 2024](2024-08-22-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [5–16 August 2024](2024-08-16-Lab2101.html) | Lab2101 <br> Affari Italiani | 20 | 18–21 | 18–21 | 17–22 | 17–24 |
+| [5–16 August 2024](2024-08-16-Lab2101.html) | Lab2101 <br> Affari Italiani | 20 | 18–21 | 18–22 | 17–22 | 17–23 |
 | [3 August 2024](2024-08-03-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
-| [24–29 July 2024](2024-07-29-SWG.html) | SWG <br> La7 | 20 | 19–22 | 18–22 | 18–23 | 18–24 |
+| [24–29 July 2024](2024-07-29-SWG.html) | SWG <br> La7 | 21 | 18–22 | 18–22 | 17–22 | 17–23 |
 | [25–26 July 2024](2024-07-26-Tecnè.html) | Tecnè <br> Agenzia Dire | 21 | 20–23 | 20–23 | 19–23 | 18–24 |
 | [24–25 July 2024](2024-07-25-TermometroPolitico.html) | Termometro Politico | 23 | 22–24 | 21–24 | 21–24 | 20–24 |
-| [23–25 July 2024](2024-07-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 21 | 19–21 | 18–22 | 18–22 | 17–23 |
+| [23–25 July 2024](2024-07-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 21 | 18–21 | 18–22 | 18–22 | 17–23 |
 | [25 July 2024](2024-07-25-Euromedia.html) | Euromedia | 21 | 18–23 | 18–24 | 18–24 | 18–25 |
 | [22–24 July 2024](2024-07-24-Piepoli.html) | Piepoli | 19 | 18–22 | 17–22 | 17–23 | 16–24 |
 | [17–22 July 2024](2024-07-22-SWG.html) | SWG <br> La7 | 20 | 20–22 | 19–22 | 18–22 | 18–23 |
@@ -171,15 +173,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
 | 16 | 0.1% | 100% |  |
-| 17 | 0.9% | 99.9% |  |
-| 18 | 6% | 99.0% |  |
-| 19 | 10% | 93% |  |
-| 20 | 27% | 83% |  |
-| 21 | 24% | 57% | Median |
-| 22 | 17% | 33% |  |
-| 23 | 9% | 16% |  |
-| 24 | 6% | 6% |  |
-| 25 | 0.6% | 0.7% |  |
+| 17 | 1.0% | 99.9% |  |
+| 18 | 5% | 98.9% |  |
+| 19 | 12% | 93% |  |
+| 20 | 24% | 82% |  |
+| 21 | 26% | 58% | Median |
+| 22 | 18% | 32% |  |
+| 23 | 9% | 14% |  |
+| 24 | 5% | 6% |  |
+| 25 | 0.7% | 0.8% |  |
 | 26 | 0.1% | 0.1% |  |
 | 27 | 0% | 0% |  |
 
