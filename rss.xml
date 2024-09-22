@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 19 Sep 2024 21:03:50 +0200</pubDate>
+    <pubDate>Sat, 21 Sep 2024 19:47:18 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Eumetra for La7, 17–18 September 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2024-09-18-Eumetra.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Lega Nord (PfE): 6–9 seats&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 0–4 seats&lt;/li&gt;&lt;li&gt;Sinistra Italiana (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Partito Progressista (*): 0 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 18–23 seats&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0 seats&lt;/li&gt;&lt;li&gt;Azione (RE): 0–4 seats&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 0 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6–9 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 23–30 seats&lt;/li&gt;&lt;li&gt;Movimento 5 Stelle (GUE/NGL): 9–12 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2024-09-18-Eumetra-seats.png"
+        length="251174"
+        type="image/png"/>
+      <pubDate>Sat, 21 Sep 2024 19:47:18 +0200</pubDate>
+      <dc:date>2024-09-21T19:47:18.441014+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Eumetra for La7, 17–18 September 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2024-09-18-Eumetra.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2024-09-18-Eumetra-coalitions-seats.png"
+        length="221226"
+        type="image/png"/>
+      <pubDate>Sat, 21 Sep 2024 19:47:18 +0200</pubDate>
+      <dc:date>2024-09-21T19:47:18.441014+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Eumetra for La7, 17–18 September 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2024-09-18-Eumetra.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Lega Nord (PfE): 6.7–10.6%&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 2.5–5.2%&lt;/li&gt;&lt;li&gt;Sinistra Italiana (GUE/NGL): 1.5–3.7%&lt;/li&gt;&lt;li&gt;Partito Progressista (*): 0.3–1.4%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 20.3–26.1%&lt;/li&gt;&lt;li&gt;Più Europa (RE): 1.0–2.9%&lt;/li&gt;&lt;li&gt;Azione (RE): 2.0–4.4%&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 1.5–3.7%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 7.3–11.3%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 26.9–33.3%&lt;/li&gt;&lt;li&gt;Movimento 5 Stelle (GUE/NGL): 9.8–14.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2024-09-18-Eumetra.png"
+        length="323979"
+        type="image/png"/>
+      <pubDate>Sat, 21 Sep 2024 19:47:18 +0200</pubDate>
+      <dc:date>2024-09-21T19:47:18.441014+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by SWG for La7, 11–16 September 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2024-09-16-SWG.html#seats</link>
@@ -252,22 +282,22 @@
     <item>
       <title>Opinion Poll by Tecnè for Agenzia Dire, 29–30 August 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2024-08-30-Tecnè.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Lega Nord (PfE): 6–10 seats&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 0–4 seats&lt;/li&gt;&lt;li&gt;Sinistra Italiana (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Partito Progressista (*): 0 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 18–23 seats&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0 seats&lt;/li&gt;&lt;li&gt;Azione (RE): 0–4 seats&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 0 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 7–10 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 22–29 seats&lt;/li&gt;&lt;li&gt;Movimento 5 Stelle (GUE/NGL): 8–11 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Lega Nord (PfE): 6–9 seats&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 0–4 seats&lt;/li&gt;&lt;li&gt;Sinistra Italiana (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Partito Progressista (*): 0 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 18–23 seats&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0 seats&lt;/li&gt;&lt;li&gt;Azione (RE): 0–4 seats&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 0 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6–10 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 22–28 seats&lt;/li&gt;&lt;li&gt;Movimento 5 Stelle (GUE/NGL): 8–11 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2024-08-30-Tecnè-seats.png"
-        length="252546"
+        length="247405"
         type="image/png"/>
-      <pubDate>Sat, 14 Sep 2024 21:17:48 +0200</pubDate>
-      <dc:date>2024-09-14T21:17:48.447546+02:00</dc:date>
+      <pubDate>Sat, 21 Sep 2024 10:25:39 +0200</pubDate>
+      <dc:date>2024-09-21T10:25:39.011153+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Tecnè for Agenzia Dire, 29–30 August 2024 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2024-08-30-Tecnè.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2024-08-30-Tecnè-coalitions-seats.png"
-        length="227032"
+        length="222404"
         type="image/png"/>
-      <pubDate>Sat, 14 Sep 2024 21:17:48 +0200</pubDate>
-      <dc:date>2024-09-14T21:17:48.447546+02:00</dc:date>
+      <pubDate>Sat, 21 Sep 2024 10:25:39 +0200</pubDate>
+      <dc:date>2024-09-21T10:25:39.011153+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Tecnè for Agenzia Dire, 29–30 August 2024 – Voting Intentions</title>
@@ -276,28 +306,28 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2024-08-30-Tecnè.png"
         length="329478"
         type="image/png"/>
-      <pubDate>Sat, 14 Sep 2024 21:17:48 +0200</pubDate>
-      <dc:date>2024-09-14T21:17:48.447546+02:00</dc:date>
+      <pubDate>Sat, 21 Sep 2024 10:25:39 +0200</pubDate>
+      <dc:date>2024-09-21T10:25:39.011153+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Termometro Politico, 28–29 August 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2024-08-29-TermometroPolitico.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Lega Nord (PfE): 7–9 seats&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 0–4 seats&lt;/li&gt;&lt;li&gt;Sinistra Italiana (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Partito Progressista (*): 0 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 20–24 seats&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0 seats&lt;/li&gt;&lt;li&gt;Azione (RE): 0 seats&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 0 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 7–8 seats&lt;/li&gt;&lt;li&gt;Libertà (*): 0 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 26–29 seats&lt;/li&gt;&lt;li&gt;Movimento 5 Stelle (GUE/NGL): 8–11 seats&lt;/li&gt;&lt;li&gt;Pace Terra Dignità (GUE/NGL): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Lega Nord (PfE): 7–9 seats&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 0–4 seats&lt;/li&gt;&lt;li&gt;Sinistra Italiana (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Partito Progressista (*): 0 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 20–24 seats&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0 seats&lt;/li&gt;&lt;li&gt;Azione (RE): 0 seats&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 0 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 7–8 seats&lt;/li&gt;&lt;li&gt;Libertà (*): 0 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 25–29 seats&lt;/li&gt;&lt;li&gt;Movimento 5 Stelle (GUE/NGL): 8–10 seats&lt;/li&gt;&lt;li&gt;Pace Terra Dignità (GUE/NGL): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2024-08-29-TermometroPolitico-seats.png"
-        length="249472"
+        length="256447"
         type="image/png"/>
-      <pubDate>Sat, 31 Aug 2024 19:31:34 +0200</pubDate>
-      <dc:date>2024-08-31T19:31:34.204421+02:00</dc:date>
+      <pubDate>Sat, 21 Sep 2024 11:02:19 +0200</pubDate>
+      <dc:date>2024-09-21T11:02:19.512328+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Termometro Politico, 28–29 August 2024 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2024-08-29-TermometroPolitico.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2024-08-29-TermometroPolitico-coalitions-seats.png"
-        length="192226"
+        length="196044"
         type="image/png"/>
-      <pubDate>Sat, 31 Aug 2024 19:31:34 +0200</pubDate>
-      <dc:date>2024-08-31T19:31:34.204421+02:00</dc:date>
+      <pubDate>Sat, 21 Sep 2024 11:02:19 +0200</pubDate>
+      <dc:date>2024-09-21T11:02:19.512328+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Termometro Politico, 28–29 August 2024 – Voting Intentions</title>
@@ -306,28 +336,28 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2024-08-29-TermometroPolitico.png"
         length="329035"
         type="image/png"/>
-      <pubDate>Sat, 31 Aug 2024 19:31:34 +0200</pubDate>
-      <dc:date>2024-08-31T19:31:34.204421+02:00</dc:date>
+      <pubDate>Sat, 21 Sep 2024 11:02:19 +0200</pubDate>
+      <dc:date>2024-09-21T11:02:19.512328+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Quorum – YouTrend for Sky TG24, 28–29 August 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2024-08-29-Quorum–YouTrend.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Lega Nord (PfE): 6–9 seats&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 0–4 seats&lt;/li&gt;&lt;li&gt;Sinistra Italiana (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Partito Progressista (*): 0 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 19–24 seats&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0 seats&lt;/li&gt;&lt;li&gt;Azione (RE): 0–4 seats&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 0 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6–9 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 23–28 seats&lt;/li&gt;&lt;li&gt;Movimento 5 Stelle (GUE/NGL): 9–12 seats&lt;/li&gt;&lt;li&gt;Pace Terra Dignità (GUE/NGL): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Lega Nord (PfE): 6–9 seats&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 0–4 seats&lt;/li&gt;&lt;li&gt;Sinistra Italiana (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Partito Progressista (*): 0 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 19–24 seats&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0 seats&lt;/li&gt;&lt;li&gt;Azione (RE): 0–4 seats&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 0 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6–9 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 23–28 seats&lt;/li&gt;&lt;li&gt;Movimento 5 Stelle (GUE/NGL): 8–12 seats&lt;/li&gt;&lt;li&gt;Pace Terra Dignità (GUE/NGL): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2024-08-29-Quorum–YouTrend-seats.png"
-        length="273493"
+        length="258716"
         type="image/png"/>
-      <pubDate>Sun, 08 Sep 2024 11:02:32 +0200</pubDate>
-      <dc:date>2024-09-08T11:02:32.062367+02:00</dc:date>
+      <pubDate>Sat, 21 Sep 2024 11:26:51 +0200</pubDate>
+      <dc:date>2024-09-21T11:26:51.65047+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Quorum – YouTrend for Sky TG24, 28–29 August 2024 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2024-08-29-Quorum–YouTrend.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2024-08-29-Quorum–YouTrend-coalitions-seats.png"
-        length="228901"
+        length="220086"
         type="image/png"/>
-      <pubDate>Sun, 08 Sep 2024 11:02:32 +0200</pubDate>
-      <dc:date>2024-09-08T11:02:32.062367+02:00</dc:date>
+      <pubDate>Sat, 21 Sep 2024 11:26:51 +0200</pubDate>
+      <dc:date>2024-09-21T11:26:51.65047+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Quorum – YouTrend for Sky TG24, 28–29 August 2024 – Voting Intentions</title>
@@ -336,28 +366,28 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2024-08-29-Quorum–YouTrend.png"
         length="339943"
         type="image/png"/>
-      <pubDate>Sun, 08 Sep 2024 11:02:32 +0200</pubDate>
-      <dc:date>2024-09-08T11:02:32.062367+02:00</dc:date>
+      <pubDate>Sat, 21 Sep 2024 11:26:51 +0200</pubDate>
+      <dc:date>2024-09-21T11:26:51.65047+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Lab2101 for Affari Italiani, 5–16 August 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2024-08-16-Lab2101.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Lega Nord (PfE): 7–10 seats&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 0–4 seats&lt;/li&gt;&lt;li&gt;Sinistra Italiana (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Partito Progressista (*): 0 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 17–22 seats&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0 seats&lt;/li&gt;&lt;li&gt;Azione (RE): 0–4 seats&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 0 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6–9 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 22–27 seats&lt;/li&gt;&lt;li&gt;Movimento 5 Stelle (GUE/NGL): 8–11 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Lega Nord (PfE): 6–10 seats&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 0–4 seats&lt;/li&gt;&lt;li&gt;Sinistra Italiana (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Partito Progressista (*): 0 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 17–22 seats&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0 seats&lt;/li&gt;&lt;li&gt;Azione (RE): 0–4 seats&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 0 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6–9 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 22–28 seats&lt;/li&gt;&lt;li&gt;Movimento 5 Stelle (GUE/NGL): 8–12 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2024-08-16-Lab2101-seats.png"
-        length="244573"
+        length="249749"
         type="image/png"/>
-      <pubDate>Sat, 31 Aug 2024 21:05:13 +0200</pubDate>
-      <dc:date>2024-08-31T21:05:13.629616+02:00</dc:date>
+      <pubDate>Sat, 21 Sep 2024 13:03:33 +0200</pubDate>
+      <dc:date>2024-09-21T13:03:33.519488+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Lab2101 for Affari Italiani, 5–16 August 2024 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2024-08-16-Lab2101.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2024-08-16-Lab2101-coalitions-seats.png"
-        length="217407"
+        length="225730"
         type="image/png"/>
-      <pubDate>Sat, 31 Aug 2024 21:05:13 +0200</pubDate>
-      <dc:date>2024-08-31T21:05:13.629616+02:00</dc:date>
+      <pubDate>Sat, 21 Sep 2024 13:03:33 +0200</pubDate>
+      <dc:date>2024-09-21T13:03:33.519488+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Lab2101 for Affari Italiani, 5–16 August 2024 – Voting Intentions</title>
@@ -366,28 +396,28 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2024-08-16-Lab2101.png"
         length="319588"
         type="image/png"/>
-      <pubDate>Sat, 31 Aug 2024 21:05:13 +0200</pubDate>
-      <dc:date>2024-08-31T21:05:13.629616+02:00</dc:date>
+      <pubDate>Sat, 21 Sep 2024 13:03:33 +0200</pubDate>
+      <dc:date>2024-09-21T13:03:33.519488+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SWG for La7, 24–29 July 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2024-07-29-SWG.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 18–23 seats&lt;/li&gt;&lt;li&gt;Pace Terra Dignità (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 5–8 seats&lt;/li&gt;&lt;li&gt;Azione (RE): 0–4 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 24–30 seats&lt;/li&gt;&lt;li&gt;Movimento 5 Stelle (GUE/NGL): 9–12 seats&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0 seats&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 0–4 seats&lt;/li&gt;&lt;li&gt;Sinistra Italiana (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Partito Progressista (*): 0 seats&lt;/li&gt;&lt;li&gt;Lega Nord (PfE): 6–9 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 17–22 seats&lt;/li&gt;&lt;li&gt;Pace Terra Dignità (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 5–9 seats&lt;/li&gt;&lt;li&gt;Azione (RE): 0–4 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 24–30 seats&lt;/li&gt;&lt;li&gt;Movimento 5 Stelle (GUE/NGL): 9–12 seats&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0 seats&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 0–4 seats&lt;/li&gt;&lt;li&gt;Sinistra Italiana (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Partito Progressista (*): 0 seats&lt;/li&gt;&lt;li&gt;Lega Nord (PfE): 6–9 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2024-07-29-SWG-seats.png"
-        length="250517"
+        length="267017"
         type="image/png"/>
-      <pubDate>Tue, 06 Aug 2024 23:09:45 +0200</pubDate>
-      <dc:date>2024-08-06T23:09:45.912565+02:00</dc:date>
+      <pubDate>Sat, 21 Sep 2024 18:22:24 +0200</pubDate>
+      <dc:date>2024-09-21T18:22:24.571249+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SWG for La7, 24–29 July 2024 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2024-07-29-SWG.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2024-07-29-SWG-coalitions-seats.png"
-        length="212115"
+        length="222857"
         type="image/png"/>
-      <pubDate>Tue, 06 Aug 2024 23:09:45 +0200</pubDate>
-      <dc:date>2024-08-06T23:09:45.912565+02:00</dc:date>
+      <pubDate>Sat, 21 Sep 2024 18:22:24 +0200</pubDate>
+      <dc:date>2024-09-21T18:22:24.571249+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SWG for La7, 24–29 July 2024 – Voting Intentions</title>
@@ -396,8 +426,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2024-07-29-SWG.png"
         length="333534"
         type="image/png"/>
-      <pubDate>Tue, 06 Aug 2024 23:09:45 +0200</pubDate>
-      <dc:date>2024-08-06T23:09:45.912565+02:00</dc:date>
+      <pubDate>Sat, 21 Sep 2024 18:22:24 +0200</pubDate>
+      <dc:date>2024-09-21T18:22:24.571249+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Tecnè for Agenzia Dire, 25–26 July 2024 – Seat Projections for the Parties</title>
@@ -462,22 +492,22 @@
     <item>
       <title>Opinion Poll by Ipsos for Corriere della Sera, 23–25 July 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2024-07-25-Ipsos.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 18–22 seats&lt;/li&gt;&lt;li&gt;Pace Terra Dignità (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 5–8 seats&lt;/li&gt;&lt;li&gt;Azione (RE): 0–4 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 23–26 seats&lt;/li&gt;&lt;li&gt;Movimento 5 Stelle (GUE/NGL): 10–13 seats&lt;/li&gt;&lt;li&gt;Libertà (*): 0 seats&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 0 seats&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 0–4 seats&lt;/li&gt;&lt;li&gt;Sinistra Italiana (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Partito Progressista (*): 0 seats&lt;/li&gt;&lt;li&gt;Lega Nord (PfE): 6–8 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 18–22 seats&lt;/li&gt;&lt;li&gt;Pace Terra Dignità (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 5–8 seats&lt;/li&gt;&lt;li&gt;Azione (RE): 0–4 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 22–26 seats&lt;/li&gt;&lt;li&gt;Movimento 5 Stelle (GUE/NGL): 10–13 seats&lt;/li&gt;&lt;li&gt;Libertà (*): 0 seats&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 0 seats&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 0–4 seats&lt;/li&gt;&lt;li&gt;Sinistra Italiana (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Partito Progressista (*): 0 seats&lt;/li&gt;&lt;li&gt;Lega Nord (PfE): 6–9 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2024-07-25-Ipsos-seats.png"
-        length="258078"
+        length="262701"
         type="image/png"/>
-      <pubDate>Tue, 06 Aug 2024 23:29:03 +0200</pubDate>
-      <dc:date>2024-08-06T23:29:03.090051+02:00</dc:date>
+      <pubDate>Sat, 21 Sep 2024 19:23:40 +0200</pubDate>
+      <dc:date>2024-09-21T19:23:40.155531+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Corriere della Sera, 23–25 July 2024 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2024-07-25-Ipsos.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2024-07-25-Ipsos-coalitions-seats.png"
-        length="218557"
+        length="223188"
         type="image/png"/>
-      <pubDate>Tue, 06 Aug 2024 23:29:03 +0200</pubDate>
-      <dc:date>2024-08-06T23:29:03.090051+02:00</dc:date>
+      <pubDate>Sat, 21 Sep 2024 19:23:40 +0200</pubDate>
+      <dc:date>2024-09-21T19:23:40.155531+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Corriere della Sera, 23–25 July 2024 – Voting Intentions</title>
@@ -486,8 +516,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2024-07-25-Ipsos.png"
         length="342695"
         type="image/png"/>
-      <pubDate>Tue, 06 Aug 2024 23:29:03 +0200</pubDate>
-      <dc:date>2024-08-06T23:29:03.090051+02:00</dc:date>
+      <pubDate>Sat, 21 Sep 2024 19:23:40 +0200</pubDate>
+      <dc:date>2024-09-21T19:23:40.155531+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Euromedia, 25 July 2024 – Seat Projections for the Parties</title>
@@ -1029,6 +1059,6 @@
       <pubDate>Sun, 21 Jul 2024 16:38:53 +0200</pubDate>
       <dc:date>2024-07-21T16:38:53.818873+02:00</dc:date>
     </item>
-    <dc:date>2024-09-19T21:03:50.663368+02:00</dc:date>
+    <dc:date>2024-09-21T19:47:18.441014+02:00</dc:date>
   </channel>
 </rss>
