@@ -80,7 +80,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–4 | 0–4 | 0–4 |
-| [17–18 September 2024](2024-09-18-Eumetra.html) | Eumetra <br> La7 | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
+| [17–18 September 2024](2024-09-18-Eumetra.html) | Eumetra <br> La7 | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | [11–16 September 2024](2024-09-16-SWG.html) | SWG <br> La7 | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | [12–13 September 2024](2024-09-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | [11–12 September 2024](2024-09-12-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
