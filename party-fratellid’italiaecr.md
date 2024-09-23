@@ -130,8 +130,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [25–26 July 2024](2024-07-26-Tecnè.html) | Tecnè <br> Agenzia Dire | 25 | 23–27 | 23–27 | 23–28 | 22–29 |
 | [24–25 July 2024](2024-07-25-TermometroPolitico.html) | Termometro Politico | 26 | 26–29 | 26–29 | 25–29 | 25–29 |
 | [23–25 July 2024](2024-07-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 24 | 23–25 | 22–26 | 22–26 | 21–27 |
-| [25 July 2024](2024-07-25-Euromedia.html) | Euromedia | 25 | 23–27 | 21–29 | 21–30 | 21–30 |
-| [22–24 July 2024](2024-07-24-Piepoli.html) | Piepoli | 25 | 22–28 | 21–29 | 21–30 | 20–31 |
+| [25 July 2024](2024-07-25-Euromedia.html) | Euromedia | 25 | 23–28 | 22–29 | 21–29 | 21–30 |
+| [22–24 July 2024](2024-07-24-Piepoli.html) | Piepoli | 25 | 23–28 | 22–30 | 21–30 | 20–31 |
 | [17–22 July 2024](2024-07-22-SWG.html) | SWG <br> La7 | 27 | 27–29 | 26–29 | 25–30 | 24–30 |
 | [21 July 2024](2024-07-21-Lab2101.html) | Lab2101 <br> Affari Italiani | 24 | 23–27 | 22–27 | 22–27 | 21–28 |
 | [18–19 July 2024](2024-07-19-Tecnè.html) | Tecnè <br> Agenzia Dire | 26 | 24–28 | 23–29 | 22–29 | 22–29 |
