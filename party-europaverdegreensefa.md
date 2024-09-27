@@ -124,7 +124,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [25–27 June 2024](2024-06-27-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
 | [25–27 June 2024](2024-06-27-Ipsos.html) | Ipsos | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [26 June 2024](2024-06-26-Euromedia.html) | Euromedia <br> La Stampa | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [24–25 June 2024](2024-06-25-Demopolis.html) | Demopolis <br> La7 | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
+| [24–25 June 2024](2024-06-25-Demopolis.html) | Demopolis <br> La7 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [19–24 June 2024](2024-06-24-SWG.html) | SWG <br> La7 | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [20–21 June 2024](2024-06-21-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [12–17 June 2024](2024-06-17-SWG.html) | SWG <br> La7 |  |  |  |  |  |
