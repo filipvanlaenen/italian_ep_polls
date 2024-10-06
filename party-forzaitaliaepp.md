@@ -10,14 +10,19 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.3% | 8.0–10.8% | 7.6–11.4% | 7.4–11.9% | 6.8–12.9% |
+| N/A | [Poll Average](average.html) | 9.3% | 7.9–11.0% | 7.6–11.6% | 7.3–12.1% | 6.8–13.1% |
+| [25–30 September 2024](2024-09-30-SWG.html) | SWG <br> La7 | 8.3% | 7.4–9.4% | 7.1–9.8% | 6.9–10.0% | 6.5–10.6% |
+| [24–25 September 2024](2024-09-25-Eumetra.html) | Eumetra <br> La7 | 9.1% | N/A | N/A | N/A | N/A |
 | [18–23 September 2024](2024-09-23-SWG.html) | SWG <br> La7 | 8.5% | 7.5–9.6% | 7.3–9.9% | 7.0–10.2% | 6.6–10.8% |
+| [19 September 2024](2024-09-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 9.0% | N/A | N/A | N/A | N/A |
 | [17–18 September 2024](2024-09-18-Eumetra.html) | Eumetra <br> La7 | 9.1% | 7.9–10.5% | 7.6–10.9% | 7.3–11.3% | 6.8–12.0% |
 | [11–16 September 2024](2024-09-16-SWG.html) | SWG <br> La7 | 8.4% | 7.5–9.5% | 7.2–9.8% | 7.0–10.1% | 6.5–10.7% |
 | [12–13 September 2024](2024-09-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 10.9% | 9.6–12.4% | 9.2–12.9% | 8.9–13.2% | 8.3–14.0% |
 | [11–12 September 2024](2024-09-12-TermometroPolitico.html) | Termometro Politico | 9.5% | 8.8–10.2% | 8.7–10.4% | 8.5–10.6% | 8.2–10.9% |
 | [10–12 September 2024](2024-09-12-Ipsos.html) | Ipsos <br> Corriere della Sera | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
+| [9–11 September 2024](2024-09-11-Piepoli.html) | Piepoli | 8.8% | N/A | N/A | N/A | N/A |
 | [9–11 September 2024](2024-09-11-Ixè.html) | Ixè | 9.9% | 8.8–11.2% | 8.5–11.6% | 8.2–11.9% | 7.7–12.6% |
+| [10–11 September 2024](2024-09-11-Eumetra.html) | Eumetra <br> La7 | 9.5% | N/A | N/A | N/A | N/A |
 | [10 September 2024](2024-09-10-Euromedia.html) | Euromedia <br> Rai 1 | 8.8% | 7.7–10.1% | 7.4–10.4% | 7.2–10.7% | 6.7–11.4% |
 | [4–9 September 2024](2024-09-09-SWG.html) | SWG <br> La7 | 8.5% | N/A | N/A | N/A | N/A |
 | [5–7 September 2024](2024-09-07-BiDiMedia.html) | BiDiMedia | 8.6% | 7.6–9.8% | 7.3–10.2% | 7.0–10.5% | 6.5–11.1% |
@@ -71,14 +76,14 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0.2% | 100% |  |
-| 6.5–7.5% | 4% | 99.8% |  |
-| 7.5–8.5% | 20% | 96% |  |
-| 8.5–9.5% | 37% | 76% | Median |
-| 9.5–10.5% | 26% | 39% |  |
-| 10.5–11.5% | 9% | 14% |  |
-| 11.5–12.5% | 3% | 4% |  |
-| 12.5–13.5% | 0.8% | 1.0% |  |
-| 13.5–14.5% | 0.1% | 0.2% |  |
+| 6.5–7.5% | 5% | 99.8% |  |
+| 7.5–8.5% | 21% | 95% |  |
+| 8.5–9.5% | 35% | 74% | Median |
+| 9.5–10.5% | 25% | 40% |  |
+| 10.5–11.5% | 10% | 15% |  |
+| 11.5–12.5% | 4% | 5% |  |
+| 12.5–13.5% | 1.1% | 1.3% |  |
+| 13.5–14.5% | 0.2% | 0.2% |  |
 | 14.5–15.5% | 0% | 0% |  |
 
 
@@ -90,14 +95,19 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–9 | 6–9 | 6–10 | 5–11 |
+| N/A | [Poll Average](average.html) | 7 | 6–9 | 5–9 | 5–10 | 5–11 |
+| [25–30 September 2024](2024-09-30-SWG.html) | SWG <br> La7 | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
+| [24–25 September 2024](2024-09-25-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [18–23 September 2024](2024-09-23-SWG.html) | SWG <br> La7 | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
+| [19 September 2024](2024-09-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
 | [17–18 September 2024](2024-09-18-Eumetra.html) | Eumetra <br> La7 | 7 | 6–8 | 6–9 | 5–9 | 5–10 |
 | [11–16 September 2024](2024-09-16-SWG.html) | SWG <br> La7 | 7 | 5–8 | 5–8 | 5–8 | 5–9 |
 | [12–13 September 2024](2024-09-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 9 | 7–10 | 7–10 | 7–11 | 6–11 |
 | [11–12 September 2024](2024-09-12-TermometroPolitico.html) | Termometro Politico | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
 | [10–12 September 2024](2024-09-12-Ipsos.html) | Ipsos <br> Corriere della Sera | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
+| [9–11 September 2024](2024-09-11-Piepoli.html) | Piepoli |  |  |  |  |  |
 | [9–11 September 2024](2024-09-11-Ixè.html) | Ixè | 8 | 6–9 | 6–9 | 6–9 | 6–10 |
+| [10–11 September 2024](2024-09-11-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [10 September 2024](2024-09-10-Euromedia.html) | Euromedia <br> Rai 1 | 7 | 6–9 | 6–9 | 5–9 | 5–10 |
 | [4–9 September 2024](2024-09-09-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [5–7 September 2024](2024-09-07-BiDiMedia.html) | BiDiMedia | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
@@ -151,13 +161,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 2% | 100% |  |
-| 6 | 20% | 98% |  |
-| 7 | 35% | 78% | Median |
-| 8 | 31% | 43% |  |
-| 9 | 9% | 12% |  |
-| 10 | 3% | 3% |  |
-| 11 | 0.5% | 0.5% |  |
+| 5 | 6% | 100% |  |
+| 6 | 22% | 94% |  |
+| 7 | 29% | 72% | Median |
+| 8 | 29% | 43% |  |
+| 9 | 10% | 14% |  |
+| 10 | 3% | 4% |  |
+| 11 | 0.6% | 0.7% |  |
 | 12 | 0% | 0% |  |
 
 
