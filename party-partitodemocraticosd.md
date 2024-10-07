@@ -10,17 +10,17 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23.2% | 21.2–25.0% | 20.7–25.6% | 20.2–26.1% | 19.3–27.1% |
+| N/A | [Poll Average](average.html) | 23.0% | 21.0–25.0% | 20.5–25.6% | 20.0–26.1% | 19.1–27.2% |
 | [25–30 September 2024](2024-09-30-SWG.html) | SWG <br> La7 | 22.4% | 20.9–24.0% | 20.5–24.5% | 20.1–24.9% | 19.4–25.7% |
-| [24–25 September 2024](2024-09-25-Eumetra.html) | Eumetra <br> La7 | 22.9% | N/A | N/A | N/A | N/A |
+| [24–25 September 2024](2024-09-25-Eumetra.html) | Eumetra <br> La7 | 22.9% | 21.0–24.9% | 20.5–25.4% | 20.1–25.9% | 19.3–26.9% |
 | [18–23 September 2024](2024-09-23-SWG.html) | SWG <br> La7 | 22.6% | 21.1–24.2% | 20.7–24.6% | 20.3–25.0% | 19.6–25.8% |
-| [19 September 2024](2024-09-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 22.0% | N/A | N/A | N/A | N/A |
+| [19 September 2024](2024-09-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 22.0% | 20.4–23.7% | 19.9–24.2% | 19.5–24.7% | 18.8–25.5% |
 | [17–18 September 2024](2024-09-18-Eumetra.html) | Eumetra <br> La7 | 23.0% | 21.2–25.0% | 20.7–25.6% | 20.3–26.1% | 19.4–27.1% |
 | [11–16 September 2024](2024-09-16-SWG.html) | SWG <br> La7 | 22.8% | 21.3–24.4% | 20.9–24.9% | 20.5–25.3% | 19.8–26.1% |
 | [12–13 September 2024](2024-09-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 23.6% | 21.8–25.7% | 21.3–26.2% | 20.8–26.7% | 19.9–27.7% |
 | [11–12 September 2024](2024-09-12-TermometroPolitico.html) | Termometro Politico | 23.5% | 22.5–24.5% | 22.3–24.8% | 22.0–25.0% | 21.6–25.5% |
 | [10–12 September 2024](2024-09-12-Ipsos.html) | Ipsos <br> Corriere della Sera | 21.6% | 20.0–23.4% | 19.5–23.8% | 19.2–24.3% | 18.4–25.1% |
-| [9–11 September 2024](2024-09-11-Piepoli.html) | Piepoli | 23.1% | N/A | N/A | N/A | N/A |
+| [9–11 September 2024](2024-09-11-Piepoli.html) | Piepoli | 23.1% | 20.7–25.6% | 20.1–26.4% | 19.5–27.0% | 18.5–28.3% |
 | [9–11 September 2024](2024-09-11-Ixè.html) | Ixè | 23.2% | 21.6–25.0% | 21.1–25.5% | 20.7–25.9% | 19.9–26.8% |
 | [10–11 September 2024](2024-09-11-Eumetra.html) | Eumetra <br> La7 | 23.1% | N/A | N/A | N/A | N/A |
 | [10 September 2024](2024-09-10-Euromedia.html) | Euromedia <br> Rai 1 | 23.9% | 22.2–25.7% | 21.8–26.2% | 21.4–26.6% | 20.6–27.5% |
@@ -87,18 +87,19 @@ The following table shows the probability mass function per percentage block of 
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0% | 100% |  |
-| 17.5–18.5% | 0.1% | 100% |  |
-| 18.5–19.5% | 0.8% | 99.9% |  |
-| 19.5–20.5% | 3% | 99.1% |  |
-| 20.5–21.5% | 10% | 96% |  |
-| 21.5–22.5% | 19% | 86% |  |
-| 22.5–23.5% | 27% | 67% | Median |
-| 23.5–24.5% | 23% | 40% |  |
-| 24.5–25.5% | 11% | 16% |  |
+| 17.5–18.5% | 0.2% | 100% |  |
+| 18.5–19.5% | 1.1% | 99.8% |  |
+| 19.5–20.5% | 4% | 98.8% |  |
+| 20.5–21.5% | 12% | 94% |  |
+| 21.5–22.5% | 20% | 83% |  |
+| 22.5–23.5% | 26% | 63% | Median |
+| 23.5–24.5% | 21% | 37% |  |
+| 24.5–25.5% | 10% | 15% |  |
 | 25.5–26.5% | 4% | 5% |  |
-| 26.5–27.5% | 1.0% | 1.2% |  |
-| 27.5–28.5% | 0.2% | 0.2% |  |
-| 28.5–29.5% | 0% | 0% |  |
+| 26.5–27.5% | 1.1% | 1.3% |  |
+| 27.5–28.5% | 0.2% | 0.3% |  |
+| 28.5–29.5% | 0% | 0.1% |  |
+| 29.5–30.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -109,17 +110,17 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21 | 18–23 | 18–24 | 17–24 | 17–25 |
+| N/A | [Poll Average](average.html) | 20 | 18–22 | 18–23 | 17–24 | 17–25 |
 | [25–30 September 2024](2024-09-30-SWG.html) | SWG <br> La7 | 20 | 19–22 | 18–22 | 17–22 | 17–23 |
-| [24–25 September 2024](2024-09-25-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
+| [24–25 September 2024](2024-09-25-Eumetra.html) | Eumetra <br> La7 | 20 | 18–21 | 18–22 | 17–22 | 16–23 |
 | [18–23 September 2024](2024-09-23-SWG.html) | SWG <br> La7 | 20 | 18–22 | 18–22 | 17–23 | 17–24 |
-| [19 September 2024](2024-09-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
+| [19 September 2024](2024-09-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 20 | 18–21 | 17–22 | 17–23 | 17–23 |
 | [17–18 September 2024](2024-09-18-Eumetra.html) | Eumetra <br> La7 | 20 | 19–22 | 18–23 | 18–23 | 17–24 |
 | [11–16 September 2024](2024-09-16-SWG.html) | SWG <br> La7 | 20 | 18–23 | 18–23 | 17–24 | 17–24 |
 | [12–13 September 2024](2024-09-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 20 | 18–23 | 18–24 | 18–24 | 17–24 |
 | [11–12 September 2024](2024-09-12-TermometroPolitico.html) | Termometro Politico | 22 | 21–24 | 20–24 | 20–24 | 20–24 |
 | [10–12 September 2024](2024-09-12-Ipsos.html) | Ipsos <br> Corriere della Sera | 19 | 17–20 | 17–20 | 17–21 | 16–22 |
-| [9–11 September 2024](2024-09-11-Piepoli.html) | Piepoli |  |  |  |  |  |
+| [9–11 September 2024](2024-09-11-Piepoli.html) | Piepoli | 20 | 17–22 | 17–23 | 17–23 | 16–25 |
 | [9–11 September 2024](2024-09-11-Ixè.html) | Ixè | 20 | 18–22 | 18–23 | 18–23 | 17–24 |
 | [10–11 September 2024](2024-09-11-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [10 September 2024](2024-09-10-Euromedia.html) | Euromedia <br> Rai 1 | 21 | 20–23 | 19–24 | 19–25 | 18–25 |
@@ -186,16 +187,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
-| 16 | 0.2% | 100% |  |
-| 17 | 4% | 99.8% |  |
-| 18 | 7% | 96% |  |
-| 19 | 16% | 89% |  |
-| 20 | 21% | 73% |  |
-| 21 | 22% | 52% | Median |
-| 22 | 17% | 30% |  |
-| 23 | 7% | 13% |  |
-| 24 | 5% | 5% |  |
-| 25 | 0.7% | 0.7% |  |
+| 16 | 0.4% | 99.9% |  |
+| 17 | 5% | 99.5% |  |
+| 18 | 9% | 95% |  |
+| 19 | 16% | 86% |  |
+| 20 | 24% | 71% | Median |
+| 21 | 23% | 47% |  |
+| 22 | 14% | 24% |  |
+| 23 | 6% | 10% |  |
+| 24 | 3% | 4% |  |
+| 25 | 0.5% | 0.6% |  |
 | 26 | 0.1% | 0.1% |  |
 | 27 | 0% | 0% |  |
 
