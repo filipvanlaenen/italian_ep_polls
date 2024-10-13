@@ -10,58 +10,58 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.7% | 0.4–1.1% | 0.3–1.2% | 0.3–1.4% | 0.2–1.7% |
+| N/A | [Poll Average](average.html) | 0.7% | 0.4–1.1% | 0.4–1.2% | 0.3–1.3% | 0.2–1.6% |
 | [25–30 September 2024](2024-09-30-SWG.html) | SWG <br> La7 | 0.7% | 0.4–1.1% | 0.4–1.2% | 0.3–1.3% | 0.3–1.6% |
 | [24–25 September 2024](2024-09-25-Eumetra.html) | Eumetra <br> La7 | 0.6% | 0.4–1.2% | 0.3–1.3% | 0.3–1.5% | 0.2–1.8% |
-| [18–23 September 2024](2024-09-23-SWG.html) | SWG <br> La7 | 0.7% | 0.4–1.1% | 0.4–1.2% | 0.3–1.3% | 0.3–1.6% |
+| [18–23 September 2024](2024-09-23-SWG.html) | SWG <br> La7 | 0.7% | N/A | N/A | N/A | N/A |
 | [19 September 2024](2024-09-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
-| [17–18 September 2024](2024-09-18-Eumetra.html) | Eumetra <br> La7 | 0.6% | 0.4–1.2% | 0.3–1.3% | 0.3–1.4% | 0.2–1.8% |
-| [11–16 September 2024](2024-09-16-SWG.html) | SWG <br> La7 | 0.7% | 0.4–1.1% | 0.4–1.2% | 0.3–1.3% | 0.3–1.6% |
+| [17–18 September 2024](2024-09-18-Eumetra.html) | Eumetra <br> La7 | 0.6% | N/A | N/A | N/A | N/A |
+| [11–16 September 2024](2024-09-16-SWG.html) | SWG <br> La7 | 0.7% | N/A | N/A | N/A | N/A |
 | [12–13 September 2024](2024-09-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.6% | 0.4–1.2% | 0.3–1.3% | 0.3–1.5% | 0.2–1.8% |
 | [11–12 September 2024](2024-09-12-TermometroPolitico.html) | Termometro Politico | 0.6% | 0.5–0.8% | 0.4–0.9% | 0.4–1.0% | 0.3–1.1% |
-| [10–12 September 2024](2024-09-12-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.5% | 0.3–0.9% | 0.3–1.1% | 0.2–1.2% | 0.2–1.4% |
-| [9–11 September 2024](2024-09-11-Piepoli.html) | Piepoli | 0.6% | 0.4–1.4% | 0.3–1.6% | 0.2–1.8% | 0.1–2.2% |
-| [9–11 September 2024](2024-09-11-Ixè.html) | Ixè | 0.7% | 0.5–1.2% | 0.4–1.3% | 0.3–1.4% | 0.2–1.7% |
+| [10–12 September 2024](2024-09-12-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.5% | N/A | N/A | N/A | N/A |
+| [9–11 September 2024](2024-09-11-Piepoli.html) | Piepoli | 0.6% | N/A | N/A | N/A | N/A |
+| [9–11 September 2024](2024-09-11-Ixè.html) | Ixè | 0.7% | N/A | N/A | N/A | N/A |
 | [10–11 September 2024](2024-09-11-Eumetra.html) | Eumetra <br> La7 | 0.6% | N/A | N/A | N/A | N/A |
-| [10 September 2024](2024-09-10-Euromedia.html) | Euromedia <br> Rai 1 | 0.5% | 0.3–0.9% | 0.3–1.1% | 0.2–1.2% | 0.2–1.4% |
+| [10 September 2024](2024-09-10-Euromedia.html) | Euromedia <br> Rai 1 | 0.5% | N/A | N/A | N/A | N/A |
 | [4–9 September 2024](2024-09-09-SWG.html) | SWG <br> La7 | 0.7% | N/A | N/A | N/A | N/A |
-| [5–7 September 2024](2024-09-07-BiDiMedia.html) | BiDiMedia | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
-| [5–6 September 2024](2024-09-06-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.6% | 0.4–1.2% | 0.3–1.3% | 0.3–1.5% | 0.2–1.8% |
-| [2 September 2024](2024-09-02-SWG.html) | SWG <br> La7 | 0.6% | 0.4–1.0% | 0.3–1.1% | 0.3–1.2% | 0.2–1.4% |
-| [29–30 August 2024](2024-08-30-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.5% | 0.3–1.0% | 0.2–1.2% | 0.2–1.3% | 0.1–1.6% |
-| [28–29 August 2024](2024-08-29-TermometroPolitico.html) | Termometro Politico | 0.6% | 0.5–0.9% | 0.4–0.9% | 0.4–1.0% | 0.3–1.1% |
-| [28–29 August 2024](2024-08-29-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.7% | 0.4–1.1% | 0.4–1.2% | 0.3–1.3% | 0.3–1.5% |
+| [5–7 September 2024](2024-09-07-BiDiMedia.html) | BiDiMedia | 0.6% | N/A | N/A | N/A | N/A |
+| [5–6 September 2024](2024-09-06-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.6% | N/A | N/A | N/A | N/A |
+| [2 September 2024](2024-09-02-SWG.html) | SWG <br> La7 | 0.6% | N/A | N/A | N/A | N/A |
+| [29–30 August 2024](2024-08-30-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.5% | N/A | N/A | N/A | N/A |
+| [28–29 August 2024](2024-08-29-TermometroPolitico.html) | Termometro Politico | 0.6% | N/A | N/A | N/A | N/A |
+| [28–29 August 2024](2024-08-29-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.7% | N/A | N/A | N/A | N/A |
 | [21–22 August 2024](2024-08-22-TermometroPolitico.html) | Termometro Politico | 0.6% | N/A | N/A | N/A | N/A |
-| [5–16 August 2024](2024-08-16-Lab2101.html) | Lab2101 <br> Affari Italiani | 0.5% | 0.3–0.9% | 0.3–1.1% | 0.2–1.2% | 0.2–1.4% |
+| [5–16 August 2024](2024-08-16-Lab2101.html) | Lab2101 <br> Affari Italiani | 0.5% | N/A | N/A | N/A | N/A |
 | [3 August 2024](2024-08-03-Lab2101.html) | Lab2101 <br> Affari Italiani | 0.5% | N/A | N/A | N/A | N/A |
-| [24–29 July 2024](2024-07-29-SWG.html) | SWG <br> La7 | 0.6% | 0.4–1.0% | 0.3–1.1% | 0.3–1.2% | 0.2–1.4% |
-| [25–26 July 2024](2024-07-26-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
-| [24–25 July 2024](2024-07-25-TermometroPolitico.html) | Termometro Politico | 0.6% | 0.5–0.9% | 0.4–0.9% | 0.4–1.0% | 0.3–1.1% |
-| [23–25 July 2024](2024-07-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
-| [25 July 2024](2024-07-25-Euromedia.html) | Euromedia | 0.5% | 0.3–1.0% | 0.2–1.1% | 0.2–1.3% | 0.1–1.6% |
-| [22–24 July 2024](2024-07-24-Piepoli.html) | Piepoli | 0.6% | 0.3–1.3% | 0.3–1.6% | 0.2–1.8% | 0.1–2.2% |
-| [17–22 July 2024](2024-07-22-SWG.html) | SWG <br> La7 | 0.6% | 0.4–1.0% | 0.3–1.1% | 0.3–1.2% | 0.2–1.4% |
-| [21 July 2024](2024-07-21-Lab2101.html) | Lab2101 <br> Affari Italiani | 0.5% | 0.3–0.9% | 0.3–1.1% | 0.2–1.2% | 0.2–1.4% |
-| [18–19 July 2024](2024-07-19-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
-| [16–18 July 2024](2024-07-18-TermometroPolitico.html) | Termometro Politico | 0.6% | 0.5–0.9% | 0.4–0.9% | 0.4–1.0% | 0.3–1.1% |
-| [17–18 July 2024](2024-07-18-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.6% | 0.4–1.0% | 0.3–1.1% | 0.3–1.2% | 0.2–1.4% |
-| [10–15 July 2024](2024-07-15-SWG.html) | SWG <br> La7 | 0.7% | 0.4–1.1% | 0.4–1.2% | 0.3–1.3% | 0.3–1.6% |
-| [11–12 July 2024](2024-07-12-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
-| [9–11 July 2024](2024-07-11-TermometroPolitico.html) | Termometro Politico | 0.6% | 0.5–0.9% | 0.4–0.9% | 0.4–1.0% | 0.3–1.1% |
+| [24–29 July 2024](2024-07-29-SWG.html) | SWG <br> La7 | 0.6% | N/A | N/A | N/A | N/A |
+| [25–26 July 2024](2024-07-26-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.6% | N/A | N/A | N/A | N/A |
+| [24–25 July 2024](2024-07-25-TermometroPolitico.html) | Termometro Politico | 0.6% | N/A | N/A | N/A | N/A |
+| [23–25 July 2024](2024-07-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.6% | N/A | N/A | N/A | N/A |
+| [25 July 2024](2024-07-25-Euromedia.html) | Euromedia | 0.5% | N/A | N/A | N/A | N/A |
+| [22–24 July 2024](2024-07-24-Piepoli.html) | Piepoli | 0.6% | N/A | N/A | N/A | N/A |
+| [17–22 July 2024](2024-07-22-SWG.html) | SWG <br> La7 | 0.6% | N/A | N/A | N/A | N/A |
+| [21 July 2024](2024-07-21-Lab2101.html) | Lab2101 <br> Affari Italiani | 0.5% | N/A | N/A | N/A | N/A |
+| [18–19 July 2024](2024-07-19-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.6% | N/A | N/A | N/A | N/A |
+| [16–18 July 2024](2024-07-18-TermometroPolitico.html) | Termometro Politico | 0.6% | N/A | N/A | N/A | N/A |
+| [17–18 July 2024](2024-07-18-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.6% | N/A | N/A | N/A | N/A |
+| [10–15 July 2024](2024-07-15-SWG.html) | SWG <br> La7 | 0.7% | N/A | N/A | N/A | N/A |
+| [11–12 July 2024](2024-07-12-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.6% | N/A | N/A | N/A | N/A |
+| [9–11 July 2024](2024-07-11-TermometroPolitico.html) | Termometro Politico | 0.6% | N/A | N/A | N/A | N/A |
 | [3–8 July 2024](2024-07-08-SWG.html) | SWG <br> La7 | 0.7% | N/A | N/A | N/A | N/A |
 | [4–5 July 2024](2024-07-05-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.6% | N/A | N/A | N/A | N/A |
 | [3–4 July 2024](2024-07-04-TermometroPolitico.html) | Termometro Politico | 0.6% | N/A | N/A | N/A | N/A |
 | [1 July 2024](2024-07-01-SWG.html) | SWG <br> La7 | 0.7% | N/A | N/A | N/A | N/A |
-| [27–28 June 2024](2024-06-28-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
-| [26–27 June 2024](2024-06-27-TermometroPolitico.html) | Termometro Politico | 0.7% | 0.5–0.9% | 0.5–0.9% | 0.4–1.0% | 0.4–1.1% |
-| [25–27 June 2024](2024-06-27-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.6% | 0.4–1.2% | 0.3–1.3% | 0.3–1.4% | 0.2–1.8% |
-| [25–27 June 2024](2024-06-27-Ipsos.html) | Ipsos | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
-| [26 June 2024](2024-06-26-Euromedia.html) | Euromedia <br> La Stampa | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
-| [24–25 June 2024](2024-06-25-Demopolis.html) | Demopolis <br> La7 | 0.6% | 0.4–0.9% | 0.4–1.0% | 0.3–1.1% | 0.3–1.2% |
-| [19–24 June 2024](2024-06-24-SWG.html) | SWG <br> La7 | 0.7% | 0.5–1.1% | 0.4–1.2% | 0.3–1.3% | 0.3–1.6% |
+| [27–28 June 2024](2024-06-28-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.6% | N/A | N/A | N/A | N/A |
+| [26–27 June 2024](2024-06-27-TermometroPolitico.html) | Termometro Politico | 0.7% | N/A | N/A | N/A | N/A |
+| [25–27 June 2024](2024-06-27-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.6% | N/A | N/A | N/A | N/A |
+| [25–27 June 2024](2024-06-27-Ipsos.html) | Ipsos | 0.6% | N/A | N/A | N/A | N/A |
+| [26 June 2024](2024-06-26-Euromedia.html) | Euromedia <br> La Stampa | 0.6% | N/A | N/A | N/A | N/A |
+| [24–25 June 2024](2024-06-25-Demopolis.html) | Demopolis <br> La7 | 0.6% | N/A | N/A | N/A | N/A |
+| [19–24 June 2024](2024-06-24-SWG.html) | SWG <br> La7 | 0.7% | N/A | N/A | N/A | N/A |
 | [20–21 June 2024](2024-06-21-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.6% | N/A | N/A | N/A | N/A |
 | [12–17 June 2024](2024-06-17-SWG.html) | SWG <br> La7 | 0.6% | N/A | N/A | N/A | N/A |
-| [12–13 June 2024](2024-06-13-TermometroPolitico.html) | Termometro Politico | 0.6% | 0.5–0.8% | 0.4–0.9% | 0.4–1.0% | 0.4–1.1% |
+| [12–13 June 2024](2024-06-13-TermometroPolitico.html) | Termometro Politico | 0.6% | N/A | N/A | N/A | N/A |
 
 ### Probability Mass Function
 
@@ -69,9 +69,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 31% | 100% | Last Result |
-| 0.5–1.5% | 68% | 69% | Median |
-| 1.5–2.5% | 1.1% | 1.1% |  |
+| 0.0–0.5% | 27% | 100% | Last Result |
+| 0.5–1.5% | 72% | 73% | Median |
+| 1.5–2.5% | 0.8% | 0.8% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -86,55 +86,55 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [25–30 September 2024](2024-09-30-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [24–25 September 2024](2024-09-25-Eumetra.html) | Eumetra <br> La7 | 0 | 0 | 0 | 0 | 0 |
-| [18–23 September 2024](2024-09-23-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
+| [18–23 September 2024](2024-09-23-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [19 September 2024](2024-09-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
-| [17–18 September 2024](2024-09-18-Eumetra.html) | Eumetra <br> La7 | 0 | 0 | 0 | 0 | 0 |
-| [11–16 September 2024](2024-09-16-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
+| [17–18 September 2024](2024-09-18-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
+| [11–16 September 2024](2024-09-16-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [12–13 September 2024](2024-09-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
 | [11–12 September 2024](2024-09-12-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
-| [10–12 September 2024](2024-09-12-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
-| [9–11 September 2024](2024-09-11-Piepoli.html) | Piepoli | 0 | 0 | 0 | 0 | 0 |
-| [9–11 September 2024](2024-09-11-Ixè.html) | Ixè | 0 | 0 | 0 | 0 | 0 |
+| [10–12 September 2024](2024-09-12-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
+| [9–11 September 2024](2024-09-11-Piepoli.html) | Piepoli |  |  |  |  |  |
+| [9–11 September 2024](2024-09-11-Ixè.html) | Ixè |  |  |  |  |  |
 | [10–11 September 2024](2024-09-11-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
-| [10 September 2024](2024-09-10-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
+| [10 September 2024](2024-09-10-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
 | [4–9 September 2024](2024-09-09-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [5–7 September 2024](2024-09-07-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
-| [5–6 September 2024](2024-09-06-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
-| [2 September 2024](2024-09-02-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
-| [29–30 August 2024](2024-08-30-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
-| [28–29 August 2024](2024-08-29-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
-| [28–29 August 2024](2024-08-29-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0 | 0 | 0 |
+| [5–7 September 2024](2024-09-07-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
+| [5–6 September 2024](2024-09-06-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [2 September 2024](2024-09-02-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [29–30 August 2024](2024-08-30-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [28–29 August 2024](2024-08-29-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [28–29 August 2024](2024-08-29-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
 | [21–22 August 2024](2024-08-22-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [5–16 August 2024](2024-08-16-Lab2101.html) | Lab2101 <br> Affari Italiani | 0 | 0 | 0 | 0 | 0 |
+| [5–16 August 2024](2024-08-16-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
 | [3 August 2024](2024-08-03-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
-| [24–29 July 2024](2024-07-29-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
-| [25–26 July 2024](2024-07-26-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
-| [24–25 July 2024](2024-07-25-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
-| [23–25 July 2024](2024-07-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
-| [25 July 2024](2024-07-25-Euromedia.html) | Euromedia | 0 | 0 | 0 | 0 | 0 |
-| [22–24 July 2024](2024-07-24-Piepoli.html) | Piepoli | 0 | 0 | 0 | 0 | 0 |
-| [17–22 July 2024](2024-07-22-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
-| [21 July 2024](2024-07-21-Lab2101.html) | Lab2101 <br> Affari Italiani | 0 | 0 | 0 | 0 | 0 |
-| [18–19 July 2024](2024-07-19-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
-| [16–18 July 2024](2024-07-18-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
-| [17–18 July 2024](2024-07-18-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0 | 0 | 0 |
-| [10–15 July 2024](2024-07-15-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
-| [11–12 July 2024](2024-07-12-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
-| [9–11 July 2024](2024-07-11-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
+| [24–29 July 2024](2024-07-29-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [25–26 July 2024](2024-07-26-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [24–25 July 2024](2024-07-25-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [23–25 July 2024](2024-07-25-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
+| [25 July 2024](2024-07-25-Euromedia.html) | Euromedia |  |  |  |  |  |
+| [22–24 July 2024](2024-07-24-Piepoli.html) | Piepoli |  |  |  |  |  |
+| [17–22 July 2024](2024-07-22-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [21 July 2024](2024-07-21-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
+| [18–19 July 2024](2024-07-19-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [16–18 July 2024](2024-07-18-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [17–18 July 2024](2024-07-18-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
+| [10–15 July 2024](2024-07-15-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [11–12 July 2024](2024-07-12-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [9–11 July 2024](2024-07-11-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [3–8 July 2024](2024-07-08-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [4–5 July 2024](2024-07-05-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [3–4 July 2024](2024-07-04-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [1 July 2024](2024-07-01-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [27–28 June 2024](2024-06-28-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
-| [26–27 June 2024](2024-06-27-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
-| [25–27 June 2024](2024-06-27-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0 | 0 | 0 |
-| [25–27 June 2024](2024-06-27-Ipsos.html) | Ipsos | 0 | 0 | 0 | 0 | 0 |
-| [26 June 2024](2024-06-26-Euromedia.html) | Euromedia <br> La Stampa | 0 | 0 | 0 | 0 | 0 |
-| [24–25 June 2024](2024-06-25-Demopolis.html) | Demopolis <br> La7 | 0 | 0 | 0 | 0 | 0 |
-| [19–24 June 2024](2024-06-24-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
+| [27–28 June 2024](2024-06-28-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [26–27 June 2024](2024-06-27-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [25–27 June 2024](2024-06-27-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
+| [25–27 June 2024](2024-06-27-Ipsos.html) | Ipsos |  |  |  |  |  |
+| [26 June 2024](2024-06-26-Euromedia.html) | Euromedia <br> La Stampa |  |  |  |  |  |
+| [24–25 June 2024](2024-06-25-Demopolis.html) | Demopolis <br> La7 |  |  |  |  |  |
+| [19–24 June 2024](2024-06-24-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [20–21 June 2024](2024-06-21-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [12–17 June 2024](2024-06-17-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [12–13 June 2024](2024-06-13-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
+| [12–13 June 2024](2024-06-13-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 
 ### Probability Mass Function
 
