@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.8% | 1.5–2.2% | 1.5–2.2% | 1.4–2.3% | 1.3–2.5% |
+| N/A | [Poll Average](average.html) | 1.5% | 0.9–2.0% | 0.8–2.2% | 0.7–2.3% | 0.5–2.5% |
 | [25–30 September 2024](2024-09-30-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [24–25 September 2024](2024-09-25-Eumetra.html) | Eumetra <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [18–23 September 2024](2024-09-23-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
@@ -23,14 +23,14 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [9–11 September 2024](2024-09-11-Piepoli.html) | Piepoli | 0.0% | N/A | N/A | N/A | N/A |
 | [9–11 September 2024](2024-09-11-Ixè.html) | Ixè | 0.0% | N/A | N/A | N/A | N/A |
 | [10–11 September 2024](2024-09-11-Eumetra.html) | Eumetra <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
-| [10 September 2024](2024-09-10-Euromedia.html) | Euromedia <br> Rai 1 | 1.0% | N/A | N/A | N/A | N/A |
+| [10 September 2024](2024-09-10-Euromedia.html) | Euromedia <br> Rai 1 | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [4–9 September 2024](2024-09-09-SWG.html) | SWG <br> La7 | 1.1% | N/A | N/A | N/A | N/A |
-| [5–7 September 2024](2024-09-07-BiDiMedia.html) | BiDiMedia | 1.4% | N/A | N/A | N/A | N/A |
+| [5–7 September 2024](2024-09-07-BiDiMedia.html) | BiDiMedia | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.3% | 0.7–2.7% |
 | [5–6 September 2024](2024-09-06-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [2 September 2024](2024-09-02-SWG.html) | SWG <br> La7 | 1.3% | N/A | N/A | N/A | N/A |
 | [29–30 August 2024](2024-08-30-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [28–29 August 2024](2024-08-29-TermometroPolitico.html) | Termometro Politico | 1.9% | N/A | N/A | N/A | N/A |
-| [28–29 August 2024](2024-08-29-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 1.0% | N/A | N/A | N/A | N/A |
+| [28–29 August 2024](2024-08-29-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.6–1.7% | 0.5–2.0% |
 | [21–22 August 2024](2024-08-22-TermometroPolitico.html) | Termometro Politico | 1.8% | N/A | N/A | N/A | N/A |
 | [5–16 August 2024](2024-08-16-Lab2101.html) | Lab2101 <br> Affari Italiani | 0.0% | N/A | N/A | N/A | N/A |
 | [3 August 2024](2024-08-03-Lab2101.html) | Lab2101 <br> Affari Italiani | 0.0% | N/A | N/A | N/A | N/A |
@@ -69,9 +69,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 12% | 100% |  |
-| 1.5–2.5% | 88% | 88% | Median |
+| 0.0–0.5% | 0.8% | 100% | Last Result |
+| 0.5–1.5% | 53% | 99.2% |  |
+| 1.5–2.5% | 46% | 46% | Median |
 | 2.5–3.5% | 0.4% | 0.4% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
@@ -97,14 +97,14 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [9–11 September 2024](2024-09-11-Piepoli.html) | Piepoli |  |  |  |  |  |
 | [9–11 September 2024](2024-09-11-Ixè.html) | Ixè |  |  |  |  |  |
 | [10–11 September 2024](2024-09-11-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
-| [10 September 2024](2024-09-10-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
+| [10 September 2024](2024-09-10-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
 | [4–9 September 2024](2024-09-09-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [5–7 September 2024](2024-09-07-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
+| [5–7 September 2024](2024-09-07-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
 | [5–6 September 2024](2024-09-06-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [2 September 2024](2024-09-02-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [29–30 August 2024](2024-08-30-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [28–29 August 2024](2024-08-29-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [28–29 August 2024](2024-08-29-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
+| [28–29 August 2024](2024-08-29-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0 | 0 | 0 |
 | [21–22 August 2024](2024-08-22-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [5–16 August 2024](2024-08-16-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
 | [3 August 2024](2024-08-03-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
