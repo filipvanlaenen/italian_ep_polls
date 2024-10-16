@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.5% | 9.8–13.7% | 9.4–14.3% | 9.1–14.9% | 8.5–15.9% |
+| N/A | [Poll Average](average.html) | 11.5% | 9.8–13.6% | 9.4–14.3% | 9.1–14.9% | 8.5–15.9% |
+| [8–9 October 2024](2024-10-09-Eumetra.html) | Eumetra <br> La7 | 11.0% | 9.7–12.5% | 9.3–13.0% | 9.0–13.4% | 8.4–14.1% |
+| [8–9 October 2024](2024-10-09-EMG.html) | EMG <br> Rai 3 | 12.0% | 11.0–13.2% | 10.7–13.5% | 10.5–13.7% | 10.0–14.3% |
+| [2–7 October 2024](2024-10-07-SWG.html) | SWG <br> La7 | 11.4% | 10.3–12.7% | 10.0–13.0% | 9.7–13.4% | 9.2–14.0% |
+| [3–4 October 2024](2024-10-04-Tecnè.html) | Tecnè | 10.5% | 9.3–11.8% | 9.0–12.2% | 8.7–12.6% | 8.2–13.2% |
 | [25–30 September 2024](2024-09-30-SWG.html) | SWG <br> La7 | 11.8% | 10.7–13.1% | 10.4–13.5% | 10.1–13.8% | 9.6–14.4% |
 | [24–25 September 2024](2024-09-25-Eumetra.html) | Eumetra <br> La7 | 11.8% | 10.4–13.3% | 10.0–13.8% | 9.7–14.2% | 9.1–15.0% |
 | [18–23 September 2024](2024-09-23-SWG.html) | SWG <br> La7 | 11.7% | N/A | N/A | N/A | N/A |
@@ -80,10 +84,10 @@ The following table shows the probability mass function per percentage block of 
 | 7.5–8.5% | 0.5% | 100% |  |
 | 8.5–9.5% | 6% | 99.5% |  |
 | 9.5–10.5% | 20% | 93% |  |
-| 10.5–11.5% | 24% | 74% |  |
-| 11.5–12.5% | 23% | 49% | Median |
-| 12.5–13.5% | 15% | 27% |  |
-| 13.5–14.5% | 8% | 12% |  |
+| 10.5–11.5% | 25% | 73% | Median |
+| 11.5–12.5% | 23% | 49% |  |
+| 12.5–13.5% | 15% | 26% |  |
+| 13.5–14.5% | 7% | 11% |  |
 | 14.5–15.5% | 3% | 4% |  |
 | 15.5–16.5% | 0.8% | 0.9% |  |
 | 16.5–17.5% | 0.1% | 0.1% |  |
@@ -99,6 +103,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11 | 9–12 | 8–12 | 8–13 | 7–14 |
+| [8–9 October 2024](2024-10-09-Eumetra.html) | Eumetra <br> La7 | 10 | 9–11 | 8–11 | 8–11 | 7–13 |
+| [8–9 October 2024](2024-10-09-EMG.html) | EMG <br> Rai 3 | 11 | 10–11 | 10–12 | 9–12 | 9–13 |
+| [2–7 October 2024](2024-10-07-SWG.html) | SWG <br> La7 | 11 | 9–12 | 9–12 | 9–12 | 9–13 |
+| [3–4 October 2024](2024-10-04-Tecnè.html) | Tecnè | 9 | 8–10 | 7–10 | 7–11 | 7–11 |
 | [25–30 September 2024](2024-09-30-SWG.html) | SWG <br> La7 | 11 | 11 | 10–12 | 10–12 | 9–13 |
 | [24–25 September 2024](2024-09-25-Eumetra.html) | Eumetra <br> La7 | 11 | 9–12 | 9–12 | 9–13 | 8–13 |
 | [18–23 September 2024](2024-09-23-SWG.html) | SWG <br> La7 |  |  |  |  |  |
@@ -166,12 +174,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0.5% | 100% |  |
-| 8 | 6% | 99.5% |  |
-| 9 | 17% | 94% |  |
-| 10 | 19% | 77% |  |
-| 11 | 39% | 58% | Median |
-| 12 | 14% | 19% |  |
+| 7 | 1.0% | 100% |  |
+| 8 | 8% | 99.0% |  |
+| 9 | 20% | 91% |  |
+| 10 | 19% | 70% |  |
+| 11 | 29% | 51% | Median |
+| 12 | 17% | 22% |  |
 | 13 | 3% | 5% |  |
 | 14 | 1.2% | 1.5% |  |
 | 15 | 0.2% | 0.3% |  |

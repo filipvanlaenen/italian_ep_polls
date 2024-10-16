@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.7% | 0.4–1.1% | 0.3–1.2% | 0.3–1.4% | 0.2–1.7% |
+| N/A | [Poll Average](average.html) | 0.7% | 0.4–1.0% | 0.3–1.2% | 0.3–1.3% | 0.2–1.7% |
+| [8–9 October 2024](2024-10-09-Eumetra.html) | Eumetra <br> La7 | 0.6% | 0.4–1.2% | 0.3–1.3% | 0.3–1.5% | 0.2–1.8% |
+| [8–9 October 2024](2024-10-09-EMG.html) | EMG <br> Rai 3 | 0.7% | 0.5–1.0% | 0.4–1.1% | 0.4–1.2% | 0.3–1.4% |
+| [2–7 October 2024](2024-10-07-SWG.html) | SWG <br> La7 | 0.6% | 0.4–1.0% | 0.3–1.1% | 0.3–1.2% | 0.2–1.4% |
+| [3–4 October 2024](2024-10-04-Tecnè.html) | Tecnè | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
 | [25–30 September 2024](2024-09-30-SWG.html) | SWG <br> La7 | 0.7% | 0.4–1.1% | 0.4–1.2% | 0.3–1.3% | 0.3–1.6% |
 | [24–25 September 2024](2024-09-25-Eumetra.html) | Eumetra <br> La7 | 0.6% | 0.4–1.2% | 0.3–1.3% | 0.3–1.5% | 0.2–1.8% |
 | [18–23 September 2024](2024-09-23-SWG.html) | SWG <br> La7 | 0.7% | N/A | N/A | N/A | N/A |
@@ -69,9 +73,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 31% | 100% | Last Result |
-| 0.5–1.5% | 68% | 69% | Median |
-| 1.5–2.5% | 1.1% | 1.1% |  |
+| 0.0–0.5% | 32% | 100% | Last Result |
+| 0.5–1.5% | 68% | 68% | Median |
+| 1.5–2.5% | 0.9% | 0.9% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -84,6 +88,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [8–9 October 2024](2024-10-09-Eumetra.html) | Eumetra <br> La7 | 0 | 0 | 0 | 0 | 0 |
+| [8–9 October 2024](2024-10-09-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
+| [2–7 October 2024](2024-10-07-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
+| [3–4 October 2024](2024-10-04-Tecnè.html) | Tecnè | 0 | 0 | 0 | 0 | 0 |
 | [25–30 September 2024](2024-09-30-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [24–25 September 2024](2024-09-25-Eumetra.html) | Eumetra <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [18–23 September 2024](2024-09-23-SWG.html) | SWG <br> La7 |  |  |  |  |  |
