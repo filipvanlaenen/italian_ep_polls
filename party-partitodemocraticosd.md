@@ -10,14 +10,28 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.9% | 20.9–24.8% | 20.4–25.4% | 19.9–25.9% | 18.9–26.9% |
+| N/A | [Poll Average](average.html) | 22.7% | 21.1–24.4% | 20.6–25.0% | 20.2–25.5% | 19.4–26.4% |
+| [17–18 October 2024](2024-10-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 23.4% | 21.7–25.2% | 21.3–25.7% | 20.9–26.1% | 20.1–27.0% |
+| [16–17 October 2024](2024-10-17-TermometroPolitico.html) | Termometro Politico | 22.9% | 21.9–23.9% | 21.7–24.2% | 21.4–24.4% | 21.0–24.9% |
+| [15–16 October 2024](2024-10-16-Eumetra.html) | Eumetra | 22.8% | 20.9–24.7% | 20.4–25.3% | 20.0–25.8% | 19.1–26.8% |
+| [9–14 October 2024](2024-10-14-SWG.html) | SWG <br> La7 | 22.3% | 20.8–23.9% | 20.4–24.4% | 20.1–24.8% | 19.4–25.6% |
+| [14 October 2024](2024-10-14-Euromedia.html) | Euromedia | 23.2% | 21.6–25.0% | 21.1–25.5% | 20.7–25.9% | 19.9–26.8% |
+| [10–11 October 2024](2024-10-11-Tecnè.html) | Tecnè <br> Agenzia Dire | 23.6% | N/A | N/A | N/A | N/A |
+| [9–10 October 2024](2024-10-10-TermometroPolitico.html) | Termometro Politico | 23.1% | N/A | N/A | N/A | N/A |
 | [8–9 October 2024](2024-10-09-Eumetra.html) | Eumetra <br> La7 | 23.1% | 21.3–25.1% | 20.8–25.7% | 20.3–26.2% | 19.5–27.2% |
 | [8–9 October 2024](2024-10-09-EMG.html) | EMG <br> Rai 3 | 22.2% | 20.9–23.6% | 20.5–24.0% | 20.2–24.4% | 19.6–25.0% |
 | [2–7 October 2024](2024-10-07-SWG.html) | SWG <br> La7 | 22.7% | 21.2–24.3% | 20.7–24.7% | 20.4–25.1% | 19.7–25.9% |
 | [3–4 October 2024](2024-10-04-Tecnè.html) | Tecnè | 23.7% | 22.0–25.5% | 21.6–26.0% | 21.2–26.4% | 20.4–27.3% |
+| [2–3 October 2024](2024-10-03-TermometroPolitico.html) | Termometro Politico | 22.8% | N/A | N/A | N/A | N/A |
+| [1–2 October 2024](2024-10-02-Eumetra.html) | Eumetra | 23.0% | N/A | N/A | N/A | N/A |
 | [25–30 September 2024](2024-09-30-SWG.html) | SWG <br> La7 | 22.4% | 20.9–24.0% | 20.5–24.5% | 20.1–24.9% | 19.4–25.7% |
+| [26–27 September 2024](2024-09-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 23.8% | 22.1–25.6% | 21.7–26.1% | 21.3–26.6% | 20.5–27.4% |
+| [25–26 September 2024](2024-09-26-TermometroPolitico.html) | Termometro Politico | 22.9% | 22.0–23.9% | 21.7–24.2% | 21.5–24.4% | 21.0–24.9% |
+| [25 September 2024](2024-09-25-Euromedia.html) | Euromedia <br> Rai 1 | 23.4% | 21.5–25.4% | 21.0–25.9% | 20.6–26.4% | 19.7–27.4% |
 | [24–25 September 2024](2024-09-25-Eumetra.html) | Eumetra <br> La7 | 22.9% | 21.0–24.9% | 20.5–25.4% | 20.1–25.9% | 19.3–26.9% |
 | [18–23 September 2024](2024-09-23-SWG.html) | SWG <br> La7 | 22.6% | N/A | N/A | N/A | N/A |
+| [19–20 September 2024](2024-09-20-Tecnè.html) | Tecnè <br> Agenzia Dire | 23.6% | N/A | N/A | N/A | N/A |
+| [18–19 September 2024](2024-09-19-TermometroPolitico.html) | Termometro Politico | 23.2% | N/A | N/A | N/A | N/A |
 | [19 September 2024](2024-09-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 22.0% | 20.4–23.7% | 19.9–24.2% | 19.5–24.7% | 18.8–25.5% |
 | [17–18 September 2024](2024-09-18-Eumetra.html) | Eumetra <br> La7 | 23.0% | N/A | N/A | N/A | N/A |
 | [11–16 September 2024](2024-09-16-SWG.html) | SWG <br> La7 | 22.8% | N/A | N/A | N/A | N/A |
@@ -91,17 +105,17 @@ The following table shows the probability mass function per percentage block of 
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0% | 100% |  |
-| 17.5–18.5% | 0.2% | 100% |  |
-| 18.5–19.5% | 1.2% | 99.8% |  |
-| 19.5–20.5% | 5% | 98.5% |  |
-| 20.5–21.5% | 13% | 94% |  |
-| 21.5–22.5% | 22% | 81% |  |
-| 22.5–23.5% | 26% | 59% | Median |
-| 23.5–24.5% | 20% | 33% |  |
-| 24.5–25.5% | 9% | 13% |  |
-| 25.5–26.5% | 3% | 4% |  |
-| 26.5–27.5% | 0.8% | 0.9% |  |
-| 27.5–28.5% | 0.1% | 0.2% |  |
+| 17.5–18.5% | 0.1% | 100% |  |
+| 18.5–19.5% | 0.7% | 99.9% |  |
+| 19.5–20.5% | 4% | 99.2% |  |
+| 20.5–21.5% | 13% | 95% |  |
+| 21.5–22.5% | 27% | 82% |  |
+| 22.5–23.5% | 29% | 55% | Median |
+| 23.5–24.5% | 17% | 26% |  |
+| 24.5–25.5% | 6% | 8% |  |
+| 25.5–26.5% | 2% | 2% |  |
+| 26.5–27.5% | 0.3% | 0.4% |  |
+| 27.5–28.5% | 0% | 0.1% |  |
 | 28.5–29.5% | 0% | 0% |  |
 
 
@@ -113,14 +127,28 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 18–22 | 18–23 | 17–23 | 17–24 |
+| N/A | [Poll Average](average.html) | 20 | 18–22 | 18–23 | 17–24 | 17–24 |
+| [17–18 October 2024](2024-10-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 20 | 19–22 | 18–22 | 17–23 | 17–24 |
+| [16–17 October 2024](2024-10-17-TermometroPolitico.html) | Termometro Politico | 21 | 20–23 | 20–24 | 20–24 | 19–24 |
+| [15–16 October 2024](2024-10-16-Eumetra.html) | Eumetra | 20 | 18–22 | 18–23 | 18–23 | 17–24 |
+| [9–14 October 2024](2024-10-14-SWG.html) | SWG <br> La7 | 21 | 19–23 | 19–23 | 19–23 | 18–23 |
+| [14 October 2024](2024-10-14-Euromedia.html) | Euromedia | 21 | 19–24 | 18–24 | 18–24 | 17–24 |
+| [10–11 October 2024](2024-10-11-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [9–10 October 2024](2024-10-10-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [8–9 October 2024](2024-10-09-Eumetra.html) | Eumetra <br> La7 | 20 | 18–22 | 18–22 | 18–23 | 17–25 |
 | [8–9 October 2024](2024-10-09-EMG.html) | EMG <br> Rai 3 | 20 | 17–21 | 17–21 | 17–22 | 17–23 |
 | [2–7 October 2024](2024-10-07-SWG.html) | SWG <br> La7 | 21 | 20–23 | 20–23 | 19–23 | 18–23 |
 | [3–4 October 2024](2024-10-04-Tecnè.html) | Tecnè | 20 | 18–21 | 18–22 | 18–23 | 17–23 |
+| [2–3 October 2024](2024-10-03-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [1–2 October 2024](2024-10-02-Eumetra.html) | Eumetra |  |  |  |  |  |
 | [25–30 September 2024](2024-09-30-SWG.html) | SWG <br> La7 | 19 | 19–22 | 19–22 | 19–24 | 18–24 |
+| [26–27 September 2024](2024-09-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 20 | 20–23 | 19–23 | 18–24 | 18–24 |
+| [25–26 September 2024](2024-09-26-TermometroPolitico.html) | Termometro Politico | 21 | 21–22 | 20–22 | 20–23 | 19–23 |
+| [25 September 2024](2024-09-25-Euromedia.html) | Euromedia <br> Rai 1 | 21 | 18–24 | 17–24 | 17–24 | 17–25 |
 | [24–25 September 2024](2024-09-25-Eumetra.html) | Eumetra <br> La7 | 22 | 20–22 | 18–22 | 18–23 | 18–25 |
 | [18–23 September 2024](2024-09-23-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [19–20 September 2024](2024-09-20-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [18–19 September 2024](2024-09-19-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [19 September 2024](2024-09-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 20 | 18–21 | 17–22 | 17–23 | 17–23 |
 | [17–18 September 2024](2024-09-18-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [11–16 September 2024](2024-09-16-SWG.html) | SWG <br> La7 |  |  |  |  |  |
@@ -193,17 +221,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 0.1% | 100% |  |
-| 16 | 0.3% | 99.9% |  |
-| 17 | 4% | 99.6% |  |
-| 18 | 8% | 95% |  |
-| 19 | 15% | 88% |  |
-| 20 | 27% | 72% | Median |
-| 21 | 21% | 46% |  |
-| 22 | 17% | 25% |  |
-| 23 | 6% | 7% |  |
-| 24 | 0.6% | 0.9% |  |
-| 25 | 0.2% | 0.2% |  |
+| 15 | 0% | 100% |  |
+| 16 | 0.1% | 100% |  |
+| 17 | 3% | 99.9% |  |
+| 18 | 8% | 96% |  |
+| 19 | 16% | 88% |  |
+| 20 | 26% | 72% | Median |
+| 21 | 24% | 46% |  |
+| 22 | 14% | 22% |  |
+| 23 | 5% | 8% |  |
+| 24 | 3% | 3% |  |
+| 25 | 0.1% | 0.1% |  |
 | 26 | 0% | 0% |  |
 
 
