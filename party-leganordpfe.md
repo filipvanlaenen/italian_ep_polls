@@ -111,12 +111,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 7–9 | 6–9 | 6–10 | 6–10 |
+| N/A | [Poll Average](average.html) | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
 | [17–18 October 2024](2024-10-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
-| [16–17 October 2024](2024-10-17-TermometroPolitico.html) | Termometro Politico | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
-| [15–16 October 2024](2024-10-16-Eumetra.html) | Eumetra | 8 | 6–9 | 6–10 | 6–10 | 6–10 |
-| [9–14 October 2024](2024-10-14-SWG.html) | SWG <br> La7 | 8 | 8–9 | 8–10 | 7–10 | 6–10 |
-| [14 October 2024](2024-10-14-Euromedia.html) | Euromedia | 8 | 7–10 | 7–10 | 6–10 | 6–10 |
+| [16–17 October 2024](2024-10-17-TermometroPolitico.html) | Termometro Politico | 8 | 8–9 | 7–9 | 7–9 | 7–9 |
+| [15–16 October 2024](2024-10-16-Eumetra.html) | Eumetra | 8 | 6–9 | 6–9 | 6–10 | 6–10 |
+| [9–14 October 2024](2024-10-14-SWG.html) | SWG <br> La7 | 8 | 8–9 | 8–9 | 7–10 | 6–10 |
+| [14 October 2024](2024-10-14-Euromedia.html) | Euromedia | 8 | 7–9 | 7–10 | 7–10 | 6–11 |
 | [10–11 October 2024](2024-10-11-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [9–10 October 2024](2024-10-10-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [8–9 October 2024](2024-10-09-Eumetra.html) | Eumetra <br> La7 | 7 | 6–9 | 6–10 | 6–10 | 5–10 |
@@ -197,11 +197,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0.3% | 100% |  |
 | 6 | 8% | 99.7% |  |
-| 7 | 33% | 92% |  |
-| 8 | 37% | 59% | Median |
-| 9 | 18% | 22% |  |
-| 10 | 4% | 4% |  |
-| 11 | 0.1% | 0.1% |  |
+| 7 | 28% | 91% |  |
+| 8 | 45% | 64% | Median |
+| 9 | 16% | 19% |  |
+| 10 | 2% | 2% |  |
+| 11 | 0.3% | 0.3% |  |
 | 12 | 0% | 0% |  |
 
 

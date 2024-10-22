@@ -134,12 +134,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27 | 24–29 | 24–29 | 23–29 | 23–30 |
-| [17–18 October 2024](2024-10-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 26 | 24–28 | 24–28 | 23–28 | 22–30 |
-| [16–17 October 2024](2024-10-17-TermometroPolitico.html) | Termometro Politico | 28 | 26–29 | 26–30 | 25–30 | 24–30 |
-| [15–16 October 2024](2024-10-16-Eumetra.html) | Eumetra | 26 | 23–29 | 23–29 | 23–30 | 22–31 |
-| [9–14 October 2024](2024-10-14-SWG.html) | SWG <br> La7 | 27 | 26–28 | 25–29 | 25–29 | 24–29 |
-| [14 October 2024](2024-10-14-Euromedia.html) | Euromedia | 28 | 24–28 | 24–29 | 24–29 | 24–31 |
+| N/A | [Poll Average](average.html) | 27 | 24–28 | 24–29 | 23–29 | 23–32 |
+| [17–18 October 2024](2024-10-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 26 | 24–28 | 23–29 | 23–29 | 22–30 |
+| [16–17 October 2024](2024-10-17-TermometroPolitico.html) | Termometro Politico | 27 | 26–28 | 26–28 | 26–29 | 25–30 |
+| [15–16 October 2024](2024-10-16-Eumetra.html) | Eumetra | 26 | 23–29 | 23–30 | 23–32 | 22–32 |
+| [9–14 October 2024](2024-10-14-SWG.html) | SWG <br> La7 | 27 | 26–29 | 25–29 | 25–29 | 24–30 |
+| [14 October 2024](2024-10-14-Euromedia.html) | Euromedia | 26 | 25–28 | 24–28 | 23–29 | 23–30 |
 | [10–11 October 2024](2024-10-11-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [9–10 October 2024](2024-10-10-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [8–9 October 2024](2024-10-09-Eumetra.html) | Eumetra <br> La7 | 26 | 23–28 | 23–28 | 23–29 | 22–29 |
@@ -236,15 +236,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 20 | 0% | 100% |  |
 | 21 | 0% | 100% |  |
 | 22 | 0.4% | 100% |  |
-| 23 | 3% | 99.6% |  |
-| 24 | 9% | 97% |  |
-| 25 | 12% | 87% |  |
-| 26 | 23% | 76% |  |
-| 27 | 18% | 53% | Median |
-| 28 | 23% | 35% |  |
-| 29 | 9% | 12% |  |
-| 30 | 2% | 2% |  |
-| 31 | 0.3% | 0.3% |  |
-| 32 | 0% | 0% |  |
+| 23 | 4% | 99.5% |  |
+| 24 | 7% | 96% |  |
+| 25 | 13% | 89% |  |
+| 26 | 22% | 75% |  |
+| 27 | 22% | 53% | Median |
+| 28 | 22% | 31% |  |
+| 29 | 8% | 10% |  |
+| 30 | 1.2% | 2% |  |
+| 31 | 0.2% | 0.7% |  |
+| 32 | 0.5% | 0.5% |  |
+| 33 | 0% | 0% |  |
 
 

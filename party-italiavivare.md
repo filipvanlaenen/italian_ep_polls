@@ -104,12 +104,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–3 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–4 |
 | [17–18 October 2024](2024-10-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
 | [16–17 October 2024](2024-10-17-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
-| [15–16 October 2024](2024-10-16-Eumetra.html) | Eumetra | 0 | 0 | 0 | 0 | 0 |
+| [15–16 October 2024](2024-10-16-Eumetra.html) | Eumetra | 0 | 0 | 0 | 0 | 0–4 |
 | [9–14 October 2024](2024-10-14-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
-| [14 October 2024](2024-10-14-Euromedia.html) | Euromedia | 0 | 0 | 0 | 0 | 0–4 |
+| [14 October 2024](2024-10-14-Euromedia.html) | Euromedia | 0 | 0 | 0 | 0 | 0–3 |
 | [10–11 October 2024](2024-10-11-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [9–10 October 2024](2024-10-10-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [8–9 October 2024](2024-10-09-Eumetra.html) | Eumetra <br> La7 | 0 | 0 | 0 | 0 | 0 |
@@ -186,8 +186,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 99.4% | 100% | Last Result, Median |
 | 1 | 0% | 0.6% |  |
 | 2 | 0% | 0.6% |  |
-| 3 | 0.2% | 0.6% |  |
-| 4 | 0.4% | 0.5% |  |
+| 3 | 0.1% | 0.6% |  |
+| 4 | 0.5% | 0.5% |  |
 | 5 | 0% | 0% |  |
 
 
