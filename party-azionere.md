@@ -104,7 +104,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–4 | 0–4 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–4 |
 | [17–18 October 2024](2024-10-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0–3 | 0–4 |
 | [16–17 October 2024](2024-10-17-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [15–16 October 2024](2024-10-16-Eumetra.html) | Eumetra | 0 | 0 | 0 | 0–3 | 0–4 |
@@ -113,7 +113,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [10–11 October 2024](2024-10-11-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [9–10 October 2024](2024-10-10-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [8–9 October 2024](2024-10-09-Eumetra.html) | Eumetra <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
-| [8–9 October 2024](2024-10-09-EMG.html) | EMG <br> Rai 3 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [8–9 October 2024](2024-10-09-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | [2–7 October 2024](2024-10-07-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [3–4 October 2024](2024-10-04-Tecnè.html) | Tecnè | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | [2–3 October 2024](2024-10-03-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
@@ -183,11 +183,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 97% | 100% | Last Result, Median |
-| 1 | 0% | 3% |  |
-| 2 | 0% | 3% |  |
-| 3 | 0.3% | 3% |  |
-| 4 | 3% | 3% |  |
+| 0 | 98% | 100% | Last Result, Median |
+| 1 | 0% | 2% |  |
+| 2 | 0% | 2% |  |
+| 3 | 0.3% | 2% |  |
+| 4 | 2% | 2% |  |
 | 5 | 0% | 0% |  |
 
 

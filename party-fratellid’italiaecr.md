@@ -143,7 +143,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [10–11 October 2024](2024-10-11-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [9–10 October 2024](2024-10-10-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [8–9 October 2024](2024-10-09-Eumetra.html) | Eumetra <br> La7 | 26 | 23–28 | 23–28 | 23–29 | 22–29 |
-| [8–9 October 2024](2024-10-09-EMG.html) | EMG <br> Rai 3 | 26 | 24–27 | 24–28 | 24–29 | 23–30 |
+| [8–9 October 2024](2024-10-09-EMG.html) | EMG <br> Rai 3 | 26 | 24–28 | 24–28 | 24–29 | 23–30 |
 | [2–7 October 2024](2024-10-07-SWG.html) | SWG <br> La7 | 28 | 27–29 | 26–29 | 26–29 | 25–31 |
 | [3–4 October 2024](2024-10-04-Tecnè.html) | Tecnè | 24 | 23–27 | 22–27 | 22–27 | 21–28 |
 | [2–3 October 2024](2024-10-03-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
@@ -237,11 +237,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 21 | 0% | 100% |  |
 | 22 | 0.4% | 100% |  |
 | 23 | 4% | 99.5% |  |
-| 24 | 7% | 96% |  |
-| 25 | 13% | 89% |  |
-| 26 | 22% | 75% |  |
+| 24 | 6% | 96% |  |
+| 25 | 14% | 90% |  |
+| 26 | 22% | 76% |  |
 | 27 | 22% | 53% | Median |
-| 28 | 22% | 31% |  |
+| 28 | 22% | 32% |  |
 | 29 | 8% | 10% |  |
 | 30 | 1.2% | 2% |  |
 | 31 | 0.2% | 0.7% |  |
