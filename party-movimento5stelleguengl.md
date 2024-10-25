@@ -129,10 +129,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [3–4 October 2024](2024-10-04-Tecnè.html) | Tecnè | 9 | 8–10 | 7–10 | 7–11 | 7–11 |
 | [2–3 October 2024](2024-10-03-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [1–2 October 2024](2024-10-02-Eumetra.html) | Eumetra |  |  |  |  |  |
-| [25–30 September 2024](2024-09-30-SWG.html) | SWG <br> La7 | 11 | 11 | 10–12 | 10–12 | 9–13 |
+| [25–30 September 2024](2024-09-30-SWG.html) | SWG <br> La7 | 11 | 10–11 | 10–12 | 10–12 | 9–13 |
 | [26–27 September 2024](2024-09-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 9 | 8–11 | 8–11 | 8–11 | 7–12 |
-| [25–26 September 2024](2024-09-26-TermometroPolitico.html) | Termometro Politico | 9 | 9–10 | 9–10 | 9–11 | 8–11 |
-| [25 September 2024](2024-09-25-Euromedia.html) | Euromedia <br> Rai 1 | 10 | 9–11 | 8–11 | 8–11 | 7–12 |
+| [25–26 September 2024](2024-09-26-TermometroPolitico.html) | Termometro Politico | 9 | 9–10 | 9–10 | 9–10 | 8–11 |
+| [25 September 2024](2024-09-25-Euromedia.html) | Euromedia <br> Rai 1 | 9 | 9–10 | 9–11 | 8–11 | 7–12 |
 | [24–25 September 2024](2024-09-25-Eumetra.html) | Eumetra <br> La7 | 11 | 9–12 | 9–12 | 9–13 | 8–13 |
 | [18–23 September 2024](2024-09-23-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [19–20 September 2024](2024-09-20-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
