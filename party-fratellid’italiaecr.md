@@ -134,7 +134,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27 | 24–28 | 24–29 | 23–29 | 23–32 |
+| N/A | [Poll Average](average.html) | 27 | 24–29 | 24–29 | 23–29 | 23–32 |
 | [17–18 October 2024](2024-10-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 26 | 24–28 | 23–29 | 23–29 | 22–30 |
 | [16–17 October 2024](2024-10-17-TermometroPolitico.html) | Termometro Politico | 27 | 26–28 | 26–28 | 26–29 | 25–30 |
 | [15–16 October 2024](2024-10-16-Eumetra.html) | Eumetra | 26 | 23–29 | 23–30 | 23–32 | 22–32 |
@@ -156,25 +156,25 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [18–23 September 2024](2024-09-23-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [19–20 September 2024](2024-09-20-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [18–19 September 2024](2024-09-19-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [19 September 2024](2024-09-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 27 | 25–28 | 25–29 | 24–29 | 23–30 |
+| [19 September 2024](2024-09-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 27 | 25–28 | 25–29 | 24–30 | 23–30 |
 | [17–18 September 2024](2024-09-18-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [11–16 September 2024](2024-09-16-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [12–13 September 2024](2024-09-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 25 | 23–27 | 23–29 | 22–29 | 21–30 |
 | [11–12 September 2024](2024-09-12-TermometroPolitico.html) | Termometro Politico | 27 | 26–28 | 26–28 | 25–28 | 25–30 |
-| [10–12 September 2024](2024-09-12-Ipsos.html) | Ipsos <br> Corriere della Sera | 24 | 22–25 | 22–26 | 22–27 | 21–27 |
-| [9–11 September 2024](2024-09-11-Piepoli.html) | Piepoli | 24 | 22–27 | 22–27 | 21–29 | 21–30 |
-| [9–11 September 2024](2024-09-11-Ixè.html) | Ixè | 25 | 23–26 | 22–26 | 22–27 | 21–28 |
+| [10–12 September 2024](2024-09-12-Ipsos.html) | Ipsos <br> Corriere della Sera | 24 | 22–26 | 22–26 | 21–27 | 21–27 |
+| [9–11 September 2024](2024-09-11-Piepoli.html) | Piepoli | 24 | 22–27 | 22–27 | 21–28 | 21–30 |
+| [9–11 September 2024](2024-09-11-Ixè.html) | Ixè | 24 | 22–26 | 22–26 | 22–27 | 21–29 |
 | [10–11 September 2024](2024-09-11-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [10 September 2024](2024-09-10-Euromedia.html) | Euromedia <br> Rai 1 | 28 | 27–28 | 26–28 | 25–28 | 24–31 |
 | [4–9 September 2024](2024-09-09-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [5–7 September 2024](2024-09-07-BiDiMedia.html) | BiDiMedia | 25 | 25–27 | 25–29 | 24–30 | 23–31 |
+| [5–7 September 2024](2024-09-07-BiDiMedia.html) | BiDiMedia | 25 | 24–29 | 24–30 | 24–30 | 23–31 |
 | [5–6 September 2024](2024-09-06-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [2 September 2024](2024-09-02-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [29–30 August 2024](2024-08-30-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [28–29 August 2024](2024-08-29-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [28–29 August 2024](2024-08-29-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 26 | 25–28 | 24–28 | 23–28 | 23–28 |
+| [28–29 August 2024](2024-08-29-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 26 | 24–27 | 24–28 | 23–28 | 22–29 |
 | [21–22 August 2024](2024-08-22-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [5–16 August 2024](2024-08-16-Lab2101.html) | Lab2101 <br> Affari Italiani | 27 | 25–27 | 25–28 | 24–30 | 23–30 |
+| [5–16 August 2024](2024-08-16-Lab2101.html) | Lab2101 <br> Affari Italiani | 27 | 24–28 | 24–29 | 24–30 | 23–30 |
 | [3 August 2024](2024-08-03-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
 | [24–29 July 2024](2024-07-29-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [25–26 July 2024](2024-07-26-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
@@ -238,12 +238,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 22 | 0.4% | 100% |  |
 | 23 | 4% | 99.5% |  |
 | 24 | 6% | 96% |  |
-| 25 | 14% | 90% |  |
-| 26 | 22% | 76% |  |
-| 27 | 22% | 53% | Median |
+| 25 | 14% | 89% |  |
+| 26 | 22% | 75% |  |
+| 27 | 21% | 54% | Median |
 | 28 | 22% | 32% |  |
 | 29 | 8% | 10% |  |
-| 30 | 1.2% | 2% |  |
+| 30 | 2% | 2% |  |
 | 31 | 0.2% | 0.7% |  |
 | 32 | 0.5% | 0.5% |  |
 | 33 | 0% | 0% |  |

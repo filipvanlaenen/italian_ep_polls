@@ -133,7 +133,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [11–12 September 2024](2024-09-12-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [10–12 September 2024](2024-09-12-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
 | [9–11 September 2024](2024-09-11-Piepoli.html) | Piepoli | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [9–11 September 2024](2024-09-11-Ixè.html) | Ixè | 0 | 0 | 0–4 | 0–4 | 0–4 |
+| [9–11 September 2024](2024-09-11-Ixè.html) | Ixè | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [10–11 September 2024](2024-09-11-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [10 September 2024](2024-09-10-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0–4 | 0–4 |
 | [4–9 September 2024](2024-09-09-SWG.html) | SWG <br> La7 |  |  |  |  |  |
@@ -142,9 +142,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [2 September 2024](2024-09-02-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [29–30 August 2024](2024-08-30-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [28–29 August 2024](2024-08-29-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [28–29 August 2024](2024-08-29-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0–3 | 0–4 | 0–4 |
+| [28–29 August 2024](2024-08-29-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | [21–22 August 2024](2024-08-22-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [5–16 August 2024](2024-08-16-Lab2101.html) | Lab2101 <br> Affari Italiani | 0 | 0 | 0 | 0–4 | 0–4 |
+| [5–16 August 2024](2024-08-16-Lab2101.html) | Lab2101 <br> Affari Italiani | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [3 August 2024](2024-08-03-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
 | [24–29 July 2024](2024-07-29-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [25–26 July 2024](2024-07-26-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
@@ -186,7 +186,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 98% | 100% | Last Result, Median |
 | 1 | 0% | 2% |  |
 | 2 | 0% | 2% |  |
-| 3 | 0.3% | 2% |  |
+| 3 | 0.4% | 2% |  |
 | 4 | 2% | 2% |  |
 | 5 | 0% | 0% |  |
 

@@ -126,13 +126,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [18–23 September 2024](2024-09-23-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [19–20 September 2024](2024-09-20-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [18–19 September 2024](2024-09-19-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [19 September 2024](2024-09-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0–3 | 0–4 |
+| [19 September 2024](2024-09-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0–4 | 0–4 |
 | [17–18 September 2024](2024-09-18-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [11–16 September 2024](2024-09-16-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [12–13 September 2024](2024-09-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
 | [11–12 September 2024](2024-09-12-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [10–12 September 2024](2024-09-12-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
-| [9–11 September 2024](2024-09-11-Piepoli.html) | Piepoli | 0 | 0 | 0 | 0 | 0 |
+| [9–11 September 2024](2024-09-11-Piepoli.html) | Piepoli | 0 | 0 | 0 | 0 | 0–4 |
 | [9–11 September 2024](2024-09-11-Ixè.html) | Ixè | 0 | 0 | 0 | 0 | 0 |
 | [10–11 September 2024](2024-09-11-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [10 September 2024](2024-09-10-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
@@ -144,7 +144,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [28–29 August 2024](2024-08-29-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [28–29 August 2024](2024-08-29-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0 | 0 | 0 |
 | [21–22 August 2024](2024-08-22-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [5–16 August 2024](2024-08-16-Lab2101.html) | Lab2101 <br> Affari Italiani | 0 | 0 | 0 | 0 | 0 |
+| [5–16 August 2024](2024-08-16-Lab2101.html) | Lab2101 <br> Affari Italiani | 0 | 0 | 0 | 0 | 0–4 |
 | [3 August 2024](2024-08-03-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
 | [24–29 July 2024](2024-07-29-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [25–26 July 2024](2024-07-26-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
@@ -183,11 +183,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.4% | 100% | Last Result, Median |
-| 1 | 0% | 0.6% |  |
-| 2 | 0% | 0.6% |  |
-| 3 | 0.1% | 0.6% |  |
-| 4 | 0.5% | 0.5% |  |
+| 0 | 99.3% | 100% | Last Result, Median |
+| 1 | 0% | 0.7% |  |
+| 2 | 0% | 0.7% |  |
+| 3 | 0.1% | 0.7% |  |
+| 4 | 0.6% | 0.6% |  |
 | 5 | 0% | 0% |  |
 
 

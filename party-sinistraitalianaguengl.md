@@ -131,7 +131,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [12–13 September 2024](2024-09-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
 | [11–12 September 2024](2024-09-12-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [10–12 September 2024](2024-09-12-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
-| [9–11 September 2024](2024-09-11-Piepoli.html) | Piepoli | 0 | 0 | 0 | 0–4 | 0–4 |
+| [9–11 September 2024](2024-09-11-Piepoli.html) | Piepoli | 0 | 0 | 0 | 0 | 0–4 |
 | [9–11 September 2024](2024-09-11-Ixè.html) | Ixè | 0 | 0 | 0 | 0–3 | 0–4 |
 | [10–11 September 2024](2024-09-11-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [10 September 2024](2024-09-10-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
