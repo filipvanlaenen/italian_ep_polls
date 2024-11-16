@@ -31,7 +31,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [24–25 September 2024](2024-09-25-Eumetra.html) | Eumetra <br> La7 | 3.6% | 2.9–4.6% | 2.7–4.9% | 2.5–5.2% | 2.2–5.7% |
 | [18–23 September 2024](2024-09-23-SWG.html) | SWG <br> La7 | 3.9% | N/A | N/A | N/A | N/A |
 | [19–20 September 2024](2024-09-20-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.6% | N/A | N/A | N/A | N/A |
-| [18–19 September 2024](2024-09-19-TermometroPolitico.html) | Termometro Politico | 3.9% | N/A | N/A | N/A | N/A |
+| [18–19 September 2024](2024-09-19-TermometroPolitico.html) | Termometro Politico | 3.8% | N/A | N/A | N/A | N/A |
 | [19 September 2024](2024-09-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.9–5.3% | 2.6–5.8% |
 | [17–18 September 2024](2024-09-18-Eumetra.html) | Eumetra <br> La7 | 3.6% | N/A | N/A | N/A | N/A |
 | [11–16 September 2024](2024-09-16-SWG.html) | SWG <br> La7 | 3.8% | N/A | N/A | N/A | N/A |
