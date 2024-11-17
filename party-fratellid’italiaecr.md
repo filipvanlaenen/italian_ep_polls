@@ -142,8 +142,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 26 | 24–28 | 24–29 | 23–29 | 22–30 |
 | [6–11 November 2024](2024-11-11-SWG.html) | SWG <br> La7 | 27 | 25–29 | 25–29 | 24–30 | 24–30 |
 | [4 November 2024](2024-11-04-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [1–4 November 2024](2024-11-04-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 25 | 24–27 | 23–27 | 22–27 | 22–28 |
-| [23–28 October 2024](2024-10-28-SWG.html) | SWG <br> La7 | 27 | 26–29 | 25–29 | 25–29 | 24–30 |
+| [1–4 November 2024](2024-11-04-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 25 | 24–27 | 23–27 | 23–27 | 21–28 |
+| [23–28 October 2024](2024-10-28-SWG.html) | SWG <br> La7 | 30 | 26–30 | 26–30 | 25–30 | 24–31 |
 | [22–23 October 2024](2024-10-23-Eumetra.html) | Eumetra <br> La7 | 27 | 24–28 | 24–29 | 23–30 | 22–31 |
 | [17–18 October 2024](2024-10-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 26 | 24–28 | 23–29 | 23–29 | 22–30 |
 | [16–17 October 2024](2024-10-17-TermometroPolitico.html) | Termometro Politico | 27 | 26–28 | 26–28 | 26–29 | 25–30 |
@@ -245,12 +245,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
 | 21 | 0.1% | 100% |  |
-| 22 | 0.9% | 99.9% |  |
-| 23 | 3% | 99.0% |  |
-| 24 | 8% | 96% |  |
-| 25 | 18% | 88% |  |
-| 26 | 20% | 70% | Median |
-| 27 | 27% | 50% |  |
+| 22 | 0.7% | 99.9% |  |
+| 23 | 3% | 99.1% |  |
+| 24 | 9% | 96% |  |
+| 25 | 18% | 87% |  |
+| 26 | 20% | 69% | Median |
+| 27 | 27% | 49% |  |
 | 28 | 16% | 22% |  |
 | 29 | 4% | 6% |  |
 | 30 | 1.0% | 1.4% |  |

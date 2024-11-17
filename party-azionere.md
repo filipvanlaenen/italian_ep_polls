@@ -113,7 +113,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [6–11 November 2024](2024-11-11-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [4 November 2024](2024-11-04-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [1–4 November 2024](2024-11-04-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0 | 0 | 0 |
-| [23–28 October 2024](2024-10-28-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
+| [23–28 October 2024](2024-10-28-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0–4 |
 | [22–23 October 2024](2024-10-23-Eumetra.html) | Eumetra <br> La7 | 0 | 0 | 0 | 0 | 0–3 |
 | [17–18 October 2024](2024-10-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0–3 | 0–4 |
 | [16–17 October 2024](2024-10-17-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
