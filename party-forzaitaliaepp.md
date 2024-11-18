@@ -123,7 +123,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [4 November 2024](2024-11-04-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [1–4 November 2024](2024-11-04-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | [23–28 October 2024](2024-10-28-SWG.html) | SWG <br> La7 | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
-| [22–23 October 2024](2024-10-23-Eumetra.html) | Eumetra <br> La7 | 8 | 6–9 | 6–9 | 6–9 | 5–9 |
+| [22–23 October 2024](2024-10-23-Eumetra.html) | Eumetra <br> La7 | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
 | [17–18 October 2024](2024-10-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 9 | 8–10 | 7–10 | 7–11 | 7–11 |
 | [16–17 October 2024](2024-10-17-TermometroPolitico.html) | Termometro Politico | 7 | 6–7 | 6–7 | 6–8 | 5–8 |
 | [15–16 October 2024](2024-10-16-Eumetra.html) | Eumetra | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
@@ -207,11 +207,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 1.2% | 100% |  |
-| 6 | 25% | 98.8% |  |
-| 7 | 29% | 74% | Median |
-| 8 | 26% | 44% |  |
-| 9 | 14% | 18% |  |
+| 5 | 1.4% | 100% |  |
+| 6 | 27% | 98.6% |  |
+| 7 | 30% | 71% | Median |
+| 8 | 26% | 41% |  |
+| 9 | 11% | 15% |  |
 | 10 | 4% | 4% |  |
 | 11 | 0.4% | 0.5% |  |
 | 12 | 0.1% | 0.1% |  |
