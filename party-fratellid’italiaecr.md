@@ -142,7 +142,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27 | 24–28 | 24–28 | 23–29 | 22–30 |
+| N/A | [Poll Average](average.html) | 26 | 24–28 | 23–28 | 23–29 | 22–30 |
 | [13–19 November 2024](2024-11-19-SWG.html) | SWG <br> La7 | 27 | 27–28 | 27–28 | 26–28 | 24–30 |
 | [13–15 November 2024](2024-11-15-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 25 | 23–26 | 23–26 | 22–27 | 21–28 |
 | [11–12 November 2024](2024-11-12-Demopolis.html) | Demopolis | 27 | 25–28 | 25–28 | 25–29 | 24–30 |
@@ -251,12 +251,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
 | 21 | 0.2% | 100% |  |
-| 22 | 1.1% | 99.7% |  |
-| 23 | 4% | 98.7% |  |
-| 24 | 9% | 95% |  |
-| 25 | 17% | 86% |  |
-| 26 | 19% | 69% |  |
-| 27 | 33% | 50% | Median |
+| 22 | 1.1% | 99.8% |  |
+| 23 | 6% | 98.7% |  |
+| 24 | 9% | 92% |  |
+| 25 | 15% | 84% |  |
+| 26 | 19% | 68% | Median |
+| 27 | 33% | 50% |  |
 | 28 | 13% | 17% |  |
 | 29 | 3% | 4% |  |
 | 30 | 0.7% | 1.0% |  |

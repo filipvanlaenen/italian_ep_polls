@@ -123,7 +123,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–9 | 6–10 | 6–10 | 5–11 |
 | [13–19 November 2024](2024-11-19-SWG.html) | SWG <br> La7 | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
-| [13–15 November 2024](2024-11-15-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 6 | 6–8 | 6–8 | 5–8 | 5–9 |
+| [13–15 November 2024](2024-11-15-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
 | [11–12 November 2024](2024-11-12-Demopolis.html) | Demopolis | 8 | 7–8 | 6–9 | 6–9 | 6–9 |
 | [6–11 November 2024](2024-11-11-SWG.html) | SWG <br> La7 | 8 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [4 November 2024](2024-11-04-SWG.html) | SWG <br> La7 |  |  |  |  |  |
@@ -213,10 +213,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 1.0% | 100% |  |
-| 6 | 19% | 99.0% |  |
-| 7 | 35% | 80% | Median |
-| 8 | 27% | 45% |  |
+| 5 | 1.1% | 100% |  |
+| 6 | 18% | 98.8% |  |
+| 7 | 35% | 81% | Median |
+| 8 | 28% | 46% |  |
 | 9 | 13% | 18% |  |
 | 10 | 5% | 5% |  |
 | 11 | 0.5% | 0.6% |  |
