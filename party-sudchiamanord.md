@@ -12,6 +12,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.1% | 0.7–1.5% | 0.6–1.6% | 0.6–1.7% | 0.5–2.0% |
 | [13–19 November 2024](2024-11-19-SWG.html) | SWG <br> La7 | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.6–1.8% | 0.5–2.0% |
+| [13–15 November 2024](2024-11-15-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.0% | N/A | N/A | N/A | N/A |
 | [11–12 November 2024](2024-11-12-Demopolis.html) | Demopolis | 0.0% | N/A | N/A | N/A | N/A |
 | [6–11 November 2024](2024-11-11-SWG.html) | SWG <br> La7 | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.6–1.8% | 0.5–2.0% |
 | [4 November 2024](2024-11-04-SWG.html) | SWG <br> La7 | 1.1% | N/A | N/A | N/A | N/A |
@@ -110,6 +111,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [13–19 November 2024](2024-11-19-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
+| [13–15 November 2024](2024-11-15-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
 | [11–12 November 2024](2024-11-12-Demopolis.html) | Demopolis |  |  |  |  |  |
 | [6–11 November 2024](2024-11-11-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [4 November 2024](2024-11-04-SWG.html) | SWG <br> La7 |  |  |  |  |  |

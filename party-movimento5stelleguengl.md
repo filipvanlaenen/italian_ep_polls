@@ -10,8 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.4% | 10.0–12.7% | 9.5–13.1% | 9.2–13.5% | 8.6–14.1% |
+| N/A | [Poll Average](average.html) | 11.4% | 10.0–12.8% | 9.5–13.1% | 9.2–13.5% | 8.6–14.2% |
 | [13–19 November 2024](2024-11-19-SWG.html) | SWG <br> La7 | 11.2% | 10.1–12.4% | 9.8–12.8% | 9.5–13.1% | 9.0–13.7% |
+| [13–15 November 2024](2024-11-15-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 11.9% | 10.8–13.2% | 10.5–13.5% | 10.2–13.9% | 9.7–14.5% |
 | [11–12 November 2024](2024-11-12-Demopolis.html) | Demopolis | 11.9% | 11.0–12.9% | 10.7–13.2% | 10.5–13.4% | 10.1–13.9% |
 | [6–11 November 2024](2024-11-11-SWG.html) | SWG <br> La7 | 11.3% | 10.2–12.6% | 9.9–13.0% | 9.7–13.3% | 9.1–13.9% |
 | [4 November 2024](2024-11-04-SWG.html) | SWG <br> La7 | 11.6% | N/A | N/A | N/A | N/A |
@@ -123,6 +124,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10 | 9–11 | 8–11 | 8–12 | 7–12 |
 | [13–19 November 2024](2024-11-19-SWG.html) | SWG <br> La7 | 9 | 9–10 | 9–11 | 9–11 | 9–12 |
+| [13–15 November 2024](2024-11-15-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 11 | 9–11 | 9–12 | 9–12 | 8–12 |
 | [11–12 November 2024](2024-11-12-Demopolis.html) | Demopolis | 10 | 10–11 | 9–12 | 9–12 | 9–13 |
 | [6–11 November 2024](2024-11-11-SWG.html) | SWG <br> La7 | 11 | 10–11 | 10–12 | 9–12 | 8–12 |
 | [4 November 2024](2024-11-04-SWG.html) | SWG <br> La7 |  |  |  |  |  |
@@ -216,11 +218,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0.6% | 100% |  |
 | 8 | 5% | 99.4% |  |
-| 9 | 37% | 95% |  |
-| 10 | 35% | 58% | Median |
-| 11 | 18% | 23% |  |
-| 12 | 4% | 5% |  |
-| 13 | 0.5% | 0.5% |  |
+| 9 | 35% | 94% |  |
+| 10 | 32% | 60% | Median |
+| 11 | 23% | 28% |  |
+| 12 | 4% | 4% |  |
+| 13 | 0.4% | 0.4% |  |
 | 14 | 0% | 0% |  |
 
 
