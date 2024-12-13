@@ -123,7 +123,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [4–9 December 2024](2024-12-09-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [5–6 December 2024](2024-12-06-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0 | 0 | 0 |
-| [3–4 December 2024](2024-12-04-Eumetra.html) | Eumetra <br> La7 | 0 | 0 | 0 | 0 | 0–3 |
+| [3–4 December 2024](2024-12-04-Eumetra.html) | Eumetra <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [2 December 2024](2024-12-02-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [28–29 November 2024](2024-11-29-Tecnè.html) | Tecnè | 0 | 0 | 0 | 0 | 0 |
 | [21–28 November 2024](2024-11-28-Winpoll.html) | Winpoll | 0 | 0 | 0 | 0 | 0 |

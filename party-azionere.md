@@ -121,16 +121,16 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–4 |
-| [4–9 December 2024](2024-12-09-SWG.html) | SWG <br> La7 | 0 | 0 | 0–4 | 0–4 | 0–4 |
-| [5–6 December 2024](2024-12-06-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0–3 | 0–3 | 0–4 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–4 | 0–4 |
+| [4–9 December 2024](2024-12-09-SWG.html) | SWG <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [5–6 December 2024](2024-12-06-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [3–4 December 2024](2024-12-04-Eumetra.html) | Eumetra <br> La7 | 0 | 0 | 0 | 0 | 0–4 |
 | [2 December 2024](2024-12-02-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [28–29 November 2024](2024-11-29-Tecnè.html) | Tecnè | 0 | 0 | 0 | 0 | 0 |
 | [21–28 November 2024](2024-11-28-Winpoll.html) | Winpoll | 0 | 0 | 0 | 0 | 0 |
 | [28 November 2024](2024-11-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
-| [20–25 November 2024](2024-11-25-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
-| [25 November 2024](2024-11-25-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0 | 0–4 |
+| [20–25 November 2024](2024-11-25-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0–4 | 0–4 |
+| [25 November 2024](2024-11-25-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0 | 0–3 |
 | [13–19 November 2024](2024-11-19-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [13–15 November 2024](2024-11-15-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0 | 0–3 | 0–4 |
 | [11–12 November 2024](2024-11-12-Demopolis.html) | Demopolis | 0 | 0 | 0 | 0 | 0 |
@@ -217,11 +217,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98% | 100% | Last Result, Median |
-| 1 | 0% | 2% |  |
-| 2 | 0% | 2% |  |
-| 3 | 0.7% | 2% |  |
-| 4 | 2% | 2% |  |
+| 0 | 97% | 100% | Last Result, Median |
+| 1 | 0% | 3% |  |
+| 2 | 0% | 3% |  |
+| 3 | 0.7% | 3% |  |
+| 4 | 3% | 3% |  |
 | 5 | 0% | 0% |  |
 
 

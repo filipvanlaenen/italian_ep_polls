@@ -130,16 +130,16 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–9 | 5–9 | 5–10 | 4–10 |
-| [4–9 December 2024](2024-12-09-SWG.html) | SWG <br> La7 | 7 | 7–8 | 7–9 | 6–9 | 5–10 |
-| [5–6 December 2024](2024-12-06-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 6 | 5–6 | 5–6 | 4–6 | 4–7 |
-| [3–4 December 2024](2024-12-04-Eumetra.html) | Eumetra <br> La7 | 6 | 6–8 | 6–8 | 6–9 | 5–9 |
+| N/A | [Poll Average](average.html) | 7 | 6–9 | 5–9 | 5–10 | 4–11 |
+| [4–9 December 2024](2024-12-09-SWG.html) | SWG <br> La7 | 7 | 7–8 | 7–9 | 6–9 | 6–9 |
+| [5–6 December 2024](2024-12-06-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
+| [3–4 December 2024](2024-12-04-Eumetra.html) | Eumetra <br> La7 | 7 | 6–8 | 5–8 | 5–9 | 5–9 |
 | [2 December 2024](2024-12-02-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [28–29 November 2024](2024-11-29-Tecnè.html) | Tecnè | 9 | 8–10 | 8–10 | 8–11 | 7–11 |
-| [21–28 November 2024](2024-11-28-Winpoll.html) | Winpoll | 8 | 7–9 | 6–9 | 6–9 | 6–9 |
-| [28 November 2024](2024-11-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 7 | 4–7 | 4–7 | 4–7 | 4–8 |
-| [20–25 November 2024](2024-11-25-SWG.html) | SWG <br> La7 | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
-| [25 November 2024](2024-11-25-Euromedia.html) | Euromedia <br> Rai 1 | 6 | 6–8 | 6–8 | 5–8 | 5–9 |
+| [28–29 November 2024](2024-11-29-Tecnè.html) | Tecnè | 9 | 8–10 | 8–10 | 7–11 | 7–11 |
+| [21–28 November 2024](2024-11-28-Winpoll.html) | Winpoll | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
+| [28 November 2024](2024-11-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 7 | 5–7 | 4–7 | 4–7 | 4–8 |
+| [20–25 November 2024](2024-11-25-SWG.html) | SWG <br> La7 | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
+| [25 November 2024](2024-11-25-Euromedia.html) | Euromedia <br> Rai 1 | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
 | [13–19 November 2024](2024-11-19-SWG.html) | SWG <br> La7 | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
 | [13–15 November 2024](2024-11-15-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
 | [11–12 November 2024](2024-11-12-Demopolis.html) | Demopolis | 8 | 7–8 | 6–9 | 6–9 | 6–9 |
@@ -230,13 +230,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 2% | 100% |  |
-| 5 | 4% | 98% |  |
-| 6 | 30% | 94% |  |
-| 7 | 29% | 64% | Median |
-| 8 | 19% | 35% |  |
-| 9 | 12% | 15% |  |
-| 10 | 2% | 3% |  |
+| 4 | 1.2% | 100% |  |
+| 5 | 4% | 98.8% |  |
+| 6 | 24% | 95% |  |
+| 7 | 36% | 71% | Median |
+| 8 | 20% | 34% |  |
+| 9 | 11% | 14% |  |
+| 10 | 3% | 3% |  |
 | 11 | 0.5% | 0.5% |  |
 | 12 | 0% | 0% |  |
 
