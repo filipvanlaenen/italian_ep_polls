@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.6% | 10.1–13.2% | 9.7–13.7% | 9.4–14.2% | 8.8–15.1% |
+| N/A | [Poll Average](average.html) | 11.5% | 10.1–13.1% | 9.7–13.7% | 9.4–14.1% | 8.8–15.0% |
+| [18 December 2024](2024-12-18-BiDiMedia.html) | BiDiMedia | 11.1% | 9.7–12.6% | 9.3–13.1% | 9.0–13.5% | 8.4–14.3% |
+| [11–16 December 2024](2024-12-16-SWG.html) | SWG <br> La7 | 11.2% | 10.1–12.4% | 9.8–12.8% | 9.5–13.1% | 9.0–13.7% |
+| [12–13 December 2024](2024-12-13-Demopolis.html) | Demopolis | 11.8% | 10.9–12.8% | 10.7–13.0% | 10.5–13.3% | 10.0–13.8% |
+| [6–11 December 2024](2024-12-11-Ixè.html) | Ixè | 12.1% | 10.9–13.5% | 10.5–13.9% | 10.2–14.3% | 9.6–15.0% |
 | [4–9 December 2024](2024-12-09-SWG.html) | SWG <br> La7 | 11.5% | 10.4–12.8% | 10.1–13.1% | 9.8–13.4% | 9.3–14.1% |
 | [5–6 December 2024](2024-12-06-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 11.6% | 10.5–12.8% | 10.1–13.2% | 9.9–13.5% | 9.4–14.1% |
 | [3–4 December 2024](2024-12-04-Eumetra.html) | Eumetra <br> La7 | 11.8% | 10.4–13.3% | 10.0–13.8% | 9.7–14.2% | 9.1–15.0% |
@@ -113,14 +117,14 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0.2% | 100% |  |
-| 8.5–9.5% | 3% | 99.8% |  |
+| 8.5–9.5% | 4% | 99.8% |  |
 | 9.5–10.5% | 16% | 96% |  |
-| 10.5–11.5% | 30% | 81% |  |
-| 11.5–12.5% | 29% | 50% | Median |
-| 12.5–13.5% | 15% | 21% |  |
+| 10.5–11.5% | 31% | 80% |  |
+| 11.5–12.5% | 29% | 49% | Median |
+| 12.5–13.5% | 14% | 20% |  |
 | 13.5–14.5% | 5% | 6% |  |
-| 14.5–15.5% | 1.1% | 1.3% |  |
-| 15.5–16.5% | 0.2% | 0.2% |  |
+| 14.5–15.5% | 1.0% | 1.2% |  |
+| 15.5–16.5% | 0.1% | 0.2% |  |
 | 16.5–17.5% | 0% | 0% |  |
 
 
@@ -132,7 +136,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 9–12 | 9–12 | 8–12 | 8–13 |
+| N/A | [Poll Average](average.html) | 10 | 9–11 | 9–12 | 8–12 | 8–13 |
+| [18 December 2024](2024-12-18-BiDiMedia.html) | BiDiMedia | 10 | 9–11 | 9–12 | 8–12 | 7–13 |
+| [11–16 December 2024](2024-12-16-SWG.html) | SWG <br> La7 | 11 | 10–11 | 10–11 | 9–11 | 9–12 |
+| [12–13 December 2024](2024-12-13-Demopolis.html) | Demopolis | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
+| [6–11 December 2024](2024-12-11-Ixè.html) | Ixè | 10 | 9–12 | 9–12 | 9–12 | 8–13 |
 | [4–9 December 2024](2024-12-09-SWG.html) | SWG <br> La7 | 10 | 10–12 | 10–12 | 9–12 | 8–13 |
 | [5–6 December 2024](2024-12-06-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 10 | 9–10 | 9–11 | 9–11 | 8–12 |
 | [3–4 December 2024](2024-12-04-Eumetra.html) | Eumetra <br> La7 | 10 | 9–12 | 9–12 | 9–13 | 8–13 |
@@ -236,12 +244,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0.2% | 100% |  |
-| 8 | 5% | 99.8% |  |
-| 9 | 17% | 95% |  |
-| 10 | 43% | 78% | Median |
-| 11 | 24% | 35% |  |
-| 12 | 9% | 11% |  |
-| 13 | 2% | 2% |  |
+| 8 | 4% | 99.8% |  |
+| 9 | 18% | 95% |  |
+| 10 | 39% | 78% | Median |
+| 11 | 30% | 39% |  |
+| 12 | 7% | 9% |  |
+| 13 | 1.4% | 2% |  |
 | 14 | 0.3% | 0.3% |  |
 | 15 | 0% | 0% |  |
 
