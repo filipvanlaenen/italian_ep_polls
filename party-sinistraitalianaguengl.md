@@ -127,7 +127,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [12–20 December 2024](2024-12-20-Winpoll.html) | Winpoll | 0 | 0 | 0 | 0 | 0–4 |
+| [12–20 December 2024](2024-12-20-Winpoll.html) | Winpoll | 0 | 0 | 0 | 0 | 0–3 |
 | [11–16 December 2024](2024-12-16-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [12–13 December 2024](2024-12-13-Demopolis.html) | Demopolis | 0 | 0 | 0 | 0 | 0 |
 | [6–11 December 2024](2024-12-11-Ixè.html) | Ixè | 0 | 0 | 0 | 0 | 0 |
@@ -228,10 +228,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.9% | 100% | Last Result, Median |
-| 1 | 0% | 0.1% |  |
-| 2 | 0% | 0.1% |  |
-| 3 | 0% | 0.1% |  |
+| 0 | 99.8% | 100% | Last Result, Median |
+| 1 | 0% | 0.2% |  |
+| 2 | 0% | 0.2% |  |
+| 3 | 0.1% | 0.2% |  |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 

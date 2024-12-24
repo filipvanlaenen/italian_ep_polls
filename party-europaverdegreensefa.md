@@ -129,14 +129,14 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [12–20 December 2024](2024-12-20-Winpoll.html) | Winpoll | 4 | 0–4 | 0–4 | 0–5 | 0–5 |
+| [12–20 December 2024](2024-12-20-Winpoll.html) | Winpoll | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [11–16 December 2024](2024-12-16-SWG.html) | SWG <br> La7 | 4 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [12–13 December 2024](2024-12-13-Demopolis.html) | Demopolis | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [6–11 December 2024](2024-12-11-Ixè.html) | Ixè | 4 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [10–11 December 2024](2024-12-11-Eumetra.html) | Eumetra <br> La7 | 0 | 0–3 | 0–4 | 0–4 | 0–5 |
+| [10–11 December 2024](2024-12-11-Eumetra.html) | Eumetra <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [4–9 December 2024](2024-12-09-SWG.html) | SWG <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [5–6 December 2024](2024-12-06-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0–3 | 0–4 | 0–4 |
-| [3–5 December 2024](2024-12-05-BiDiMedia.html) | BiDiMedia | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [3–5 December 2024](2024-12-05-BiDiMedia.html) | BiDiMedia | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [3–4 December 2024](2024-12-04-Eumetra.html) | Eumetra <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [2 December 2024](2024-12-02-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [28–29 November 2024](2024-11-29-Tecnè.html) | Tecnè | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
@@ -230,12 +230,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 74% | 100% | Last Result, Median |
-| 1 | 0% | 26% |  |
-| 2 | 0% | 26% |  |
-| 3 | 3% | 26% |  |
-| 4 | 22% | 23% |  |
-| 5 | 0.8% | 0.8% |  |
+| 0 | 72% | 100% | Last Result, Median |
+| 1 | 0% | 28% |  |
+| 2 | 0% | 28% |  |
+| 3 | 3% | 28% |  |
+| 4 | 24% | 25% |  |
+| 5 | 1.4% | 1.4% |  |
 | 6 | 0% | 0% |  |
 
 

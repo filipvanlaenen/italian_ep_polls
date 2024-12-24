@@ -141,10 +141,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [11–16 December 2024](2024-12-16-SWG.html) | SWG <br> La7 | 7 | 7–8 | 7–9 | 7–9 | 5–9 |
 | [12–13 December 2024](2024-12-13-Demopolis.html) | Demopolis | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
 | [6–11 December 2024](2024-12-11-Ixè.html) | Ixè | 7 | 7–9 | 6–9 | 6–9 | 6–10 |
-| [10–11 December 2024](2024-12-11-Eumetra.html) | Eumetra <br> La7 | 7 | 6–8 | 6–8 | 5–9 | 5–9 |
+| [10–11 December 2024](2024-12-11-Eumetra.html) | Eumetra <br> La7 | 7 | 6–8 | 6–8 | 5–9 | 5–10 |
 | [4–9 December 2024](2024-12-09-SWG.html) | SWG <br> La7 | 7 | 7–8 | 7–9 | 6–9 | 6–9 |
 | [5–6 December 2024](2024-12-06-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
-| [3–5 December 2024](2024-12-05-BiDiMedia.html) | BiDiMedia | 7 | 7–8 | 6–8 | 6–9 | 5–9 |
+| [3–5 December 2024](2024-12-05-BiDiMedia.html) | BiDiMedia | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | [3–4 December 2024](2024-12-04-Eumetra.html) | Eumetra <br> La7 | 7 | 6–8 | 5–8 | 5–9 | 5–9 |
 | [2 December 2024](2024-12-02-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [28–29 November 2024](2024-11-29-Tecnè.html) | Tecnè | 9 | 8–10 | 8–10 | 7–11 | 7–11 |
@@ -244,9 +244,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 1.0% | 100% |  |
 | 5 | 7% | 99.0% |  |
-| 6 | 26% | 92% |  |
-| 7 | 44% | 66% | Median |
-| 8 | 11% | 23% |  |
+| 6 | 28% | 92% |  |
+| 7 | 41% | 65% | Median |
+| 8 | 12% | 23% |  |
 | 9 | 9% | 11% |  |
 | 10 | 2% | 3% |  |
 | 11 | 0.4% | 0.4% |  |
