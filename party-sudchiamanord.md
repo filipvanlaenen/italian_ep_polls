@@ -10,8 +10,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.0% | 0.6–1.4% | 0.5–1.6% | 0.4–1.7% | 0.3–2.0% |
+| N/A | [Poll Average](average.html) | 1.1% | 0.7–1.5% | 0.6–1.7% | 0.6–1.8% | 0.4–2.1% |
+| [7–8 January 2025](2025-01-08-Eumetra.html) | Eumetra | 0.0% | N/A | N/A | N/A | N/A |
+| [2–6 January 2025](2025-01-06-SWG.html) | SWG <br> La7 | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.6–1.8% | 0.5–2.0% |
+| [18–23 December 2024](2024-12-23-SWG.html) | SWG <br> La7 | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.6–1.8% | 0.5–2.0% |
 | [12–20 December 2024](2024-12-20-Winpoll.html) | Winpoll | 0.0% | N/A | N/A | N/A | N/A |
+| [18–20 December 2024](2024-12-20-Ipsos.html) | Ipsos <br> Corriere della Sera | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [11–16 December 2024](2024-12-16-SWG.html) | SWG <br> La7 | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.6–1.8% | 0.5–2.0% |
 | [12–13 December 2024](2024-12-13-Demopolis.html) | Demopolis | 0.0% | N/A | N/A | N/A | N/A |
 | [6–11 December 2024](2024-12-11-Ixè.html) | Ixè | 0.0% | N/A | N/A | N/A | N/A |
@@ -110,9 +114,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 8% | 100% | Last Result |
-| 0.5–1.5% | 87% | 92% | Median |
-| 1.5–2.5% | 6% | 6% |  |
+| 0.0–0.5% | 2% | 100% | Last Result |
+| 0.5–1.5% | 90% | 98% | Median |
+| 1.5–2.5% | 8% | 8% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -125,7 +129,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [7–8 January 2025](2025-01-08-Eumetra.html) | Eumetra |  |  |  |  |  |
+| [2–6 January 2025](2025-01-06-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
+| [18–23 December 2024](2024-12-23-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [12–20 December 2024](2024-12-20-Winpoll.html) | Winpoll |  |  |  |  |  |
+| [18–20 December 2024](2024-12-20-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
 | [11–16 December 2024](2024-12-16-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [12–13 December 2024](2024-12-13-Demopolis.html) | Demopolis |  |  |  |  |  |
 | [6–11 December 2024](2024-12-11-Ixè.html) | Ixè |  |  |  |  |  |

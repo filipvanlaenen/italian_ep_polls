@@ -10,8 +10,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.7% | 2.0–3.6% | 1.9–3.8% | 1.7–4.1% | 1.5–4.6% |
+| N/A | [Poll Average](average.html) | 2.6% | 1.9–3.5% | 1.7–3.8% | 1.6–4.1% | 1.3–4.5% |
+| [7–8 January 2025](2025-01-08-Eumetra.html) | Eumetra | 2.8% | 2.1–3.7% | 2.0–3.9% | 1.8–4.1% | 1.6–4.6% |
+| [2–6 January 2025](2025-01-06-SWG.html) | SWG <br> La7 | 3.3% | 2.8–4.1% | 2.6–4.3% | 2.5–4.5% | 2.2–4.9% |
+| [18–23 December 2024](2024-12-23-SWG.html) | SWG <br> La7 | 3.2% | 2.6–3.9% | 2.4–4.1% | 2.3–4.3% | 2.1–4.7% |
 | [12–20 December 2024](2024-12-20-Winpoll.html) | Winpoll | 2.7% | 2.3–3.4% | 2.1–3.5% | 2.0–3.7% | 1.8–4.0% |
+| [18–20 December 2024](2024-12-20-Ipsos.html) | Ipsos <br> Corriere della Sera | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [11–16 December 2024](2024-12-16-SWG.html) | SWG <br> La7 | 3.1% | 2.5–3.8% | 2.4–4.0% | 2.2–4.2% | 2.0–4.6% |
 | [12–13 December 2024](2024-12-13-Demopolis.html) | Demopolis | 2.4% | 2.0–2.9% | 1.9–3.0% | 1.8–3.2% | 1.6–3.4% |
 | [6–11 December 2024](2024-12-11-Ixè.html) | Ixè | 2.4% | 1.9–3.2% | 1.7–3.4% | 1.6–3.6% | 1.4–3.9% |
@@ -111,11 +115,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.9% | 100% |  |
-| 1.5–2.5% | 40% | 99.1% |  |
-| 2.5–3.5% | 49% | 59% | Median |
-| 3.5–4.5% | 10% | 10% |  |
-| 4.5–5.5% | 0.5% | 0.5% |  |
+| 0.5–1.5% | 2% | 100% |  |
+| 1.5–2.5% | 42% | 98% |  |
+| 2.5–3.5% | 46% | 55% | Median |
+| 3.5–4.5% | 9% | 10% |  |
+| 4.5–5.5% | 0.4% | 0.5% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -128,7 +132,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–4 |
+| [7–8 January 2025](2025-01-08-Eumetra.html) | Eumetra | 0 | 0 | 0 | 0 | 0–4 |
+| [2–6 January 2025](2025-01-06-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0–4 | 0–4 |
+| [18–23 December 2024](2024-12-23-SWG.html) | SWG <br> La7 | 0 | 0 | 0–4 | 0–4 | 0–5 |
 | [12–20 December 2024](2024-12-20-Winpoll.html) | Winpoll | 0 | 0 | 0 | 0 | 0 |
+| [18–20 December 2024](2024-12-20-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
 | [11–16 December 2024](2024-12-16-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0–4 |
 | [12–13 December 2024](2024-12-13-Demopolis.html) | Demopolis | 0 | 0 | 0 | 0 | 0 |
 | [6–11 December 2024](2024-12-11-Ixè.html) | Ixè | 0 | 0 | 0 | 0 | 0–3 |
@@ -229,11 +237,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98% | 100% | Last Result, Median |
-| 1 | 0% | 2% |  |
-| 2 | 0% | 2% |  |
-| 3 | 0.8% | 2% |  |
-| 4 | 1.1% | 1.2% |  |
+| 0 | 98.9% | 100% | Last Result, Median |
+| 1 | 0% | 1.1% |  |
+| 2 | 0% | 1.1% |  |
+| 3 | 0.1% | 1.1% |  |
+| 4 | 1.0% | 1.0% |  |
 | 5 | 0% | 0% |  |
 
 
