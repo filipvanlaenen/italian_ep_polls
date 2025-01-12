@@ -132,8 +132,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–4 |
-| [7–8 January 2025](2025-01-08-Eumetra.html) | Eumetra | 0 | 0 | 0 | 0 | 0–4 |
-| [2–6 January 2025](2025-01-06-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0–4 | 0–4 |
+| [7–8 January 2025](2025-01-08-Eumetra.html) | Eumetra | 0 | 0 | 0 | 0–3 | 0–4 |
+| [2–6 January 2025](2025-01-06-SWG.html) | SWG <br> La7 | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | [18–23 December 2024](2024-12-23-SWG.html) | SWG <br> La7 | 0 | 0 | 0–4 | 0–4 | 0–5 |
 | [12–20 December 2024](2024-12-20-Winpoll.html) | Winpoll | 0 | 0 | 0 | 0 | 0 |
 | [18–20 December 2024](2024-12-20-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
@@ -237,11 +237,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98.9% | 100% | Last Result, Median |
-| 1 | 0% | 1.1% |  |
-| 2 | 0% | 1.1% |  |
-| 3 | 0.1% | 1.1% |  |
-| 4 | 1.0% | 1.0% |  |
+| 0 | 98% | 100% | Last Result, Median |
+| 1 | 0% | 2% |  |
+| 2 | 0% | 2% |  |
+| 3 | 0.1% | 2% |  |
+| 4 | 1.5% | 2% |  |
 | 5 | 0% | 0% |  |
 
 

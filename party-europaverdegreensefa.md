@@ -132,8 +132,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
-| [7–8 January 2025](2025-01-08-Eumetra.html) | Eumetra | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
+| N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [7–8 January 2025](2025-01-08-Eumetra.html) | Eumetra | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [2–6 January 2025](2025-01-06-SWG.html) | SWG <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [18–23 December 2024](2024-12-23-SWG.html) | SWG <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [12–20 December 2024](2024-12-20-Winpoll.html) | Winpoll | 4 | 0–4 | 0–5 | 0–5 | 0–5 |
@@ -238,12 +238,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 61% | 100% | Last Result, Median |
-| 1 | 0% | 39% |  |
-| 2 | 0% | 39% |  |
-| 3 | 4% | 39% |  |
-| 4 | 32% | 35% |  |
-| 5 | 3% | 3% |  |
+| 0 | 66% | 100% | Last Result, Median |
+| 1 | 0% | 34% |  |
+| 2 | 0% | 34% |  |
+| 3 | 4% | 34% |  |
+| 4 | 28% | 30% |  |
+| 5 | 2% | 2% |  |
 | 6 | 0% | 0% |  |
 
 

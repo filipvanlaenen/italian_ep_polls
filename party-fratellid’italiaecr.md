@@ -159,9 +159,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25 | 22–27 | 22–28 | 22–29 | 21–30 |
-| [7–8 January 2025](2025-01-08-Eumetra.html) | Eumetra | 25 | 22–28 | 22–29 | 22–29 | 21–29 |
-| [2–6 January 2025](2025-01-06-SWG.html) | SWG <br> La7 | 26 | 25–30 | 24–30 | 24–30 | 24–30 |
+| N/A | [Poll Average](average.html) | 25 | 23–27 | 22–28 | 22–28 | 21–30 |
+| [7–8 January 2025](2025-01-08-Eumetra.html) | Eumetra | 25 | 23–27 | 22–28 | 22–29 | 21–29 |
+| [2–6 January 2025](2025-01-06-SWG.html) | SWG <br> La7 | 27 | 25–28 | 24–29 | 24–30 | 24–30 |
 | [18–23 December 2024](2024-12-23-SWG.html) | SWG <br> La7 | 27 | 25–28 | 25–29 | 24–30 | 24–30 |
 | [12–20 December 2024](2024-12-20-Winpoll.html) | Winpoll | 25 | 24–27 | 24–28 | 23–29 | 23–29 |
 | [18–20 December 2024](2024-12-20-Ipsos.html) | Ipsos <br> Corriere della Sera | 24 | 22–25 | 22–26 | 22–26 | 21–27 |
@@ -286,16 +286,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0.2% | 100% |  |
-| 21 | 1.2% | 99.7% |  |
-| 22 | 9% | 98.5% |  |
-| 23 | 12% | 89% |  |
-| 24 | 19% | 78% |  |
-| 25 | 23% | 59% | Median |
-| 26 | 21% | 36% |  |
-| 27 | 8% | 15% |  |
-| 28 | 3% | 7% |  |
-| 29 | 2% | 4% |  |
-| 30 | 2% | 2% |  |
+| 21 | 1.2% | 99.8% |  |
+| 22 | 9% | 98.6% |  |
+| 23 | 10% | 90% |  |
+| 24 | 19% | 80% |  |
+| 25 | 29% | 62% | Median |
+| 26 | 17% | 33% |  |
+| 27 | 10% | 17% |  |
+| 28 | 5% | 7% |  |
+| 29 | 1.3% | 2% |  |
+| 30 | 0.8% | 0.8% |  |
 | 31 | 0% | 0% |  |
 
 
