@@ -147,7 +147,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [2–6 January 2025](2025-01-06-SWG.html) | SWG <br> La7 | 11 | 10–12 | 10–12 | 10–12 | 9–13 |
 | [18–23 December 2024](2024-12-23-SWG.html) | SWG <br> La7 | 11 | 9–12 | 9–12 | 9–12 | 9–13 |
 | [12–20 December 2024](2024-12-20-Winpoll.html) | Winpoll | 10 | 9–10 | 8–11 | 8–11 | 8–12 |
-| [18–20 December 2024](2024-12-20-Ipsos.html) | Ipsos <br> Corriere della Sera | 12 | 11–13 | 11–13 | 10–14 | 9–14 |
+| [18–20 December 2024](2024-12-20-Ipsos.html) | Ipsos <br> Corriere della Sera | 13 | 11–13 | 11–13 | 10–14 | 9–14 |
 | [11–16 December 2024](2024-12-16-SWG.html) | SWG <br> La7 | 11 | 10–11 | 10–11 | 9–11 | 9–12 |
 | [12–13 December 2024](2024-12-13-Demopolis.html) | Demopolis | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
 | [6–11 December 2024](2024-12-11-Ixè.html) | Ixè | 10 | 9–12 | 9–12 | 9–12 | 8–13 |
@@ -261,8 +261,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 45% | 87% | Median |
 | 11 | 22% | 42% |  |
 | 12 | 11% | 20% |  |
-| 13 | 8% | 9% |  |
-| 14 | 0.7% | 0.7% |  |
+| 13 | 9% | 9% |  |
+| 14 | 0.5% | 0.6% |  |
 | 15 | 0.1% | 0.1% |  |
 | 16 | 0% | 0% |  |
 

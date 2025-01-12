@@ -133,7 +133,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [7–8 January 2025](2025-01-08-Eumetra.html) | Eumetra | 0 | 0 | 0 | 0 | 0–4 |
 | [2–6 January 2025](2025-01-06-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
-| [18–23 December 2024](2024-12-23-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0–4 |
+| [18–23 December 2024](2024-12-23-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [12–20 December 2024](2024-12-20-Winpoll.html) | Winpoll | 0 | 0 | 0 | 0 | 0 |
 | [18–20 December 2024](2024-12-20-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
 | [11–16 December 2024](2024-12-16-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |

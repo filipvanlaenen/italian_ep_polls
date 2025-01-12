@@ -142,9 +142,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 7 | 5–8 | 5–9 | 5–9 | 5–9 |
 | [7–8 January 2025](2025-01-08-Eumetra.html) | Eumetra | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
 | [2–6 January 2025](2025-01-06-SWG.html) | SWG <br> La7 | 7 | 7–8 | 7–9 | 6–9 | 6–9 |
-| [18–23 December 2024](2024-12-23-SWG.html) | SWG <br> La7 | 8 | 6–9 | 6–10 | 6–11 | 5–11 |
+| [18–23 December 2024](2024-12-23-SWG.html) | SWG <br> La7 | 8 | 6–9 | 6–9 | 6–9 | 5–11 |
 | [12–20 December 2024](2024-12-20-Winpoll.html) | Winpoll | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
-| [18–20 December 2024](2024-12-20-Ipsos.html) | Ipsos <br> Corriere della Sera | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
+| [18–20 December 2024](2024-12-20-Ipsos.html) | Ipsos <br> Corriere della Sera | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
 | [11–16 December 2024](2024-12-16-SWG.html) | SWG <br> La7 | 7 | 7–8 | 7–9 | 7–9 | 5–9 |
 | [12–13 December 2024](2024-12-13-Demopolis.html) | Demopolis | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
 | [6–11 December 2024](2024-12-11-Ixè.html) | Ixè | 7 | 7–9 | 6–9 | 6–9 | 6–10 |
@@ -250,10 +250,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0.2% | 100% |  |
-| 5 | 14% | 99.8% |  |
-| 6 | 25% | 86% |  |
-| 7 | 41% | 61% | Median |
-| 8 | 14% | 20% |  |
+| 5 | 12% | 99.8% |  |
+| 6 | 25% | 88% |  |
+| 7 | 42% | 63% | Median |
+| 8 | 14% | 21% |  |
 | 9 | 6% | 6% |  |
 | 10 | 0.4% | 0.4% |  |
 | 11 | 0% | 0% |  |

@@ -158,7 +158,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 21 | 19–22 | 18–23 | 18–24 | 17–25 |
 | [7–8 January 2025](2025-01-08-Eumetra.html) | Eumetra | 21 | 19–22 | 18–23 | 18–23 | 17–24 |
 | [2–6 January 2025](2025-01-06-SWG.html) | SWG <br> La7 | 21 | 20–22 | 20–23 | 19–23 | 18–23 |
-| [18–23 December 2024](2024-12-23-SWG.html) | SWG <br> La7 | 20 | 19–23 | 18–24 | 17–24 | 17–24 |
+| [18–23 December 2024](2024-12-23-SWG.html) | SWG <br> La7 | 20 | 18–22 | 18–23 | 18–24 | 17–24 |
 | [12–20 December 2024](2024-12-20-Winpoll.html) | Winpoll | 22 | 21–24 | 20–25 | 20–25 | 20–26 |
 | [18–20 December 2024](2024-12-20-Ipsos.html) | Ipsos <br> Corriere della Sera | 20 | 18–21 | 18–22 | 18–22 | 17–23 |
 | [11–16 December 2024](2024-12-16-SWG.html) | SWG <br> La7 | 19 | 19–22 | 19–22 | 18–22 | 18–22 |
@@ -278,12 +278,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
 | 16 | 0.1% | 100% |  |
-| 17 | 1.1% | 99.9% |  |
-| 18 | 9% | 98.8% |  |
-| 19 | 14% | 90% |  |
-| 20 | 20% | 76% |  |
-| 21 | 28% | 56% | Median |
-| 22 | 19% | 29% |  |
+| 17 | 1.0% | 99.9% |  |
+| 18 | 7% | 98.9% |  |
+| 19 | 15% | 92% |  |
+| 20 | 22% | 77% |  |
+| 21 | 27% | 55% | Median |
+| 22 | 19% | 28% |  |
 | 23 | 6% | 9% |  |
 | 24 | 2% | 3% |  |
 | 25 | 0.9% | 1.0% |  |
