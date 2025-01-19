@@ -177,10 +177,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 21 | 19–23 | 18–23 | 18–24 | 17–25 |
-| [8–13 January 2025](2025-01-13-SWG.html) | SWG <br> La7 | 20 | 19–21 | 18–23 | 18–23 | 17–23 |
-| [9–10 January 2025](2025-01-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 20 | 19–23 | 18–23 | 18–23 | 17–23 |
+| [8–13 January 2025](2025-01-13-SWG.html) | SWG <br> La7 | 20 | 19–22 | 18–22 | 18–23 | 17–23 |
+| [9–10 January 2025](2025-01-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 20 | 19–23 | 18–23 | 18–23 | 17–24 |
 | [9–10 January 2025](2025-01-10-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 21 | 19–22 | 19–22 | 18–23 | 18–23 |
-| [8–9 January 2025](2025-01-09-TermometroPolitico.html) | Termometro Politico | 21 | 20–22 | 20–22 | 20–22 | 18–24 |
+| [8–9 January 2025](2025-01-09-TermometroPolitico.html) | Termometro Politico | 22 | 21–22 | 20–23 | 19–23 | 19–23 |
 | [7–8 January 2025](2025-01-08-Eumetra.html) | Eumetra | 21 | 19–22 | 18–23 | 18–23 | 17–24 |
 | [2–6 January 2025](2025-01-06-SWG.html) | SWG <br> La7 | 21 | 20–22 | 20–23 | 19–23 | 18–23 |
 | [18–23 December 2024](2024-12-23-SWG.html) | SWG <br> La7 | 20 | 18–22 | 18–23 | 18–24 | 17–24 |
@@ -320,12 +320,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
 | 16 | 0.1% | 100% |  |
-| 17 | 0.9% | 99.9% |  |
-| 18 | 6% | 99.0% |  |
-| 19 | 10% | 94% |  |
-| 20 | 24% | 84% |  |
-| 21 | 33% | 60% | Median |
-| 22 | 16% | 27% |  |
+| 17 | 0.7% | 99.9% |  |
+| 18 | 6% | 99.2% |  |
+| 19 | 12% | 93% |  |
+| 20 | 21% | 81% |  |
+| 21 | 29% | 60% | Median |
+| 22 | 19% | 31% |  |
 | 23 | 8% | 11% |  |
 | 24 | 2% | 3% |  |
 | 25 | 0.8% | 0.9% |  |

@@ -161,11 +161,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 5–9 | 5–10 | 5–10 | 5–10 |
-| [8–13 January 2025](2025-01-13-SWG.html) | SWG <br> La7 | 7 | 6–9 | 6–9 | 5–9 | 5–9 |
-| [9–10 January 2025](2025-01-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
-| [9–10 January 2025](2025-01-10-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 8 | 6–8 | 6–9 | 6–9 | 5–9 |
-| [8–9 January 2025](2025-01-09-TermometroPolitico.html) | Termometro Politico | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
+| N/A | [Poll Average](average.html) | 7 | 5–9 | 5–10 | 5–10 | 5–11 |
+| [8–13 January 2025](2025-01-13-SWG.html) | SWG <br> La7 | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
+| [9–10 January 2025](2025-01-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 9 | 8–10 | 8–10 | 7–11 | 7–11 |
+| [9–10 January 2025](2025-01-10-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
+| [8–9 January 2025](2025-01-09-TermometroPolitico.html) | Termometro Politico | 6 | 6–8 | 5–8 | 5–8 | 5–8 |
 | [7–8 January 2025](2025-01-08-Eumetra.html) | Eumetra | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
 | [2–6 January 2025](2025-01-06-SWG.html) | SWG <br> La7 | 7 | 7–8 | 7–9 | 6–9 | 6–9 |
 | [18–23 December 2024](2024-12-23-SWG.html) | SWG <br> La7 | 8 | 6–9 | 6–9 | 6–9 | 5–11 |
@@ -294,12 +294,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0.2% | 100% |  |
 | 5 | 11% | 99.8% |  |
-| 6 | 28% | 89% |  |
-| 7 | 23% | 61% | Median |
-| 8 | 22% | 38% |  |
-| 9 | 9% | 16% |  |
+| 6 | 30% | 88% |  |
+| 7 | 25% | 59% | Median |
+| 8 | 18% | 33% |  |
+| 9 | 9% | 15% |  |
 | 10 | 6% | 7% |  |
-| 11 | 0.3% | 0.4% |  |
-| 12 | 0% | 0% |  |
+| 11 | 0.5% | 0.5% |  |
+| 12 | 0.1% | 0.1% |  |
+| 13 | 0% | 0% |  |
 
 
