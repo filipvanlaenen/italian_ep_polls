@@ -172,9 +172,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [2–6 January 2025](2025-01-06-SWG.html) | SWG <br> La7 | 11 | 10–12 | 10–12 | 10–12 | 9–13 |
 | [18–23 December 2024](2024-12-23-SWG.html) | SWG <br> La7 | 11 | 9–12 | 9–12 | 9–12 | 9–13 |
 | [12–20 December 2024](2024-12-20-Winpoll.html) | Winpoll | 10 | 9–10 | 8–11 | 8–11 | 8–12 |
-| [19–20 December 2024](2024-12-20-Tecnè.html) | Tecnè | 10 | 8–11 | 8–11 | 8–11 | 7–12 |
+| [19–20 December 2024](2024-12-20-Tecnè.html) | Tecnè | 9 | 8–11 | 8–11 | 8–11 | 7–12 |
 | [18–20 December 2024](2024-12-20-Ipsos.html) | Ipsos <br> Corriere della Sera | 13 | 11–13 | 11–13 | 10–14 | 9–14 |
-| [18–19 December 2024](2024-12-19-TermometroPolitico.html) | Termometro Politico | 9 | 9–10 | 9–10 | 9–10 | 9–11 |
+| [18–19 December 2024](2024-12-19-TermometroPolitico.html) | Termometro Politico | 10 | 9–11 | 9–11 | 9–11 | 9–11 |
 | [11–16 December 2024](2024-12-16-SWG.html) | SWG <br> La7 | 11 | 10–11 | 10–11 | 9–11 | 9–12 |
 | [12–13 December 2024](2024-12-13-Tecnè.html) | Tecnè |  |  |  |  |  |
 | [12–13 December 2024](2024-12-13-Demopolis.html) | Demopolis | 10 | 9–11 | 9–11 | 9–11 | 8–12 |

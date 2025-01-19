@@ -190,7 +190,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [2–6 January 2025](2025-01-06-SWG.html) | SWG <br> La7 | 27 | 25–28 | 24–29 | 24–30 | 24–30 |
 | [18–23 December 2024](2024-12-23-SWG.html) | SWG <br> La7 | 27 | 25–29 | 25–30 | 25–30 | 24–31 |
 | [12–20 December 2024](2024-12-20-Winpoll.html) | Winpoll | 25 | 24–27 | 24–28 | 23–29 | 23–29 |
-| [19–20 December 2024](2024-12-20-Tecnè.html) | Tecnè | 25 | 23–27 | 23–27 | 22–28 | 22–29 |
+| [19–20 December 2024](2024-12-20-Tecnè.html) | Tecnè | 25 | 23–27 | 23–27 | 22–28 | 22–28 |
 | [18–20 December 2024](2024-12-20-Ipsos.html) | Ipsos <br> Corriere della Sera | 24 | 22–25 | 22–26 | 22–26 | 21–28 |
 | [18–19 December 2024](2024-12-19-TermometroPolitico.html) | Termometro Politico | 28 | 28–29 | 26–29 | 26–29 | 26–29 |
 | [11–16 December 2024](2024-12-16-SWG.html) | SWG <br> La7 | 26 | 26–28 | 26–28 | 25–29 | 24–31 |
