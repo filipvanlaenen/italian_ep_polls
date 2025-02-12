@@ -10,7 +10,14 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.3–3.2% | 1.1–3.6% |
+| N/A | [Poll Average](average.html) | 1.9% | 1.5–2.6% | 1.3–2.8% | 1.2–2.9% | 1.1–3.3% |
+| [3 February 2025](2025-02-03-SWG.html) | SWG <br> La7 | 2.1% | 1.6–2.7% | 1.5–2.9% | 1.4–3.1% | 1.2–3.4% |
+| [28–29 January 2025](2025-01-29-Eumetra.html) | Eumetra <br> La7 | 1.9% | 1.4–2.7% | 1.2–2.9% | 1.1–3.1% | 0.9–3.5% |
+| [27–28 January 2025](2025-01-28-Demopolis.html) | Demopolis | 1.6% | 1.3–2.0% | 1.2–2.1% | 1.1–2.3% | 1.0–2.5% |
+| [22–27 January 2025](2025-01-27-SWG.html) | SWG <br> La7 | 2.0% | 1.6–2.6% | 1.4–2.8% | 1.3–3.0% | 1.2–3.3% |
+| [23–24 January 2025](2025-01-24-Tecnè.html) | Tecnè | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
+| [21–22 January 2025](2025-01-22-EMG.html) | EMG | 1.7% | N/A | N/A | N/A | N/A |
+| [14–15 January 2025](2025-01-15-EMG.html) | EMG | 1.7% | N/A | N/A | N/A | N/A |
 | [8–13 January 2025](2025-01-13-SWG.html) | SWG <br> La7 | 2.0% | 1.6–2.6% | 1.4–2.8% | 1.3–3.0% | 1.2–3.3% |
 | [9–10 January 2025](2025-01-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 1.8% | 1.4–2.5% | 1.2–2.7% | 1.1–2.8% | 1.0–3.2% |
 | [9–10 January 2025](2025-01-10-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 2.0% | 1.6–2.6% | 1.4–2.8% | 1.3–3.0% | 1.2–3.3% |
@@ -136,10 +143,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 9% | 100% |  |
-| 1.5–2.5% | 71% | 91% | Median |
-| 2.5–3.5% | 20% | 21% |  |
-| 3.5–4.5% | 0.7% | 0.7% |  |
+| 0.5–1.5% | 16% | 100% |  |
+| 1.5–2.5% | 74% | 84% | Median |
+| 2.5–3.5% | 10% | 10% |  |
+| 3.5–4.5% | 0.2% | 0.2% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -152,6 +159,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [3 February 2025](2025-02-03-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
+| [28–29 January 2025](2025-01-29-Eumetra.html) | Eumetra <br> La7 | 0 | 0 | 0 | 0 | 0 |
+| [27–28 January 2025](2025-01-28-Demopolis.html) | Demopolis | 0 | 0 | 0 | 0 | 0 |
+| [22–27 January 2025](2025-01-27-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
+| [23–24 January 2025](2025-01-24-Tecnè.html) | Tecnè | 0 | 0 | 0 | 0 | 0 |
+| [21–22 January 2025](2025-01-22-EMG.html) | EMG |  |  |  |  |  |
+| [14–15 January 2025](2025-01-15-EMG.html) | EMG |  |  |  |  |  |
 | [8–13 January 2025](2025-01-13-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [9–10 January 2025](2025-01-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
 | [9–10 January 2025](2025-01-10-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0 | 0 | 0 |

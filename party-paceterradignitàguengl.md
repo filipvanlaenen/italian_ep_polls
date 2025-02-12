@@ -10,7 +10,14 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.5% | 1.2–2.0% | 1.1–2.1% | 1.0–2.2% | 0.9–2.5% |
+| N/A | [Poll Average](average.html) | 1.4% | 1.1–1.7% | 1.1–1.8% | 1.0–1.9% | 0.9–2.1% |
+| [3 February 2025](2025-02-03-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [28–29 January 2025](2025-01-29-Eumetra.html) | Eumetra <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [27–28 January 2025](2025-01-28-Demopolis.html) | Demopolis | 0.0% | N/A | N/A | N/A | N/A |
+| [22–27 January 2025](2025-01-27-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [23–24 January 2025](2025-01-24-Tecnè.html) | Tecnè | 0.0% | N/A | N/A | N/A | N/A |
+| [21–22 January 2025](2025-01-22-EMG.html) | EMG | 0.0% | N/A | N/A | N/A | N/A |
+| [14–15 January 2025](2025-01-15-EMG.html) | EMG | 0.0% | N/A | N/A | N/A | N/A |
 | [8–13 January 2025](2025-01-13-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [9–10 January 2025](2025-01-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [9–10 January 2025](2025-01-10-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.0% | N/A | N/A | N/A | N/A |
@@ -136,10 +143,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 56% | 100% |  |
-| 1.5–2.5% | 44% | 44% | Median |
-| 2.5–3.5% | 0.4% | 0.4% |  |
-| 3.5–4.5% | 0% | 0% |  |
+| 0.5–1.5% | 73% | 100% | Median |
+| 1.5–2.5% | 27% | 27% |  |
+| 2.5–3.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -151,6 +157,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [3 February 2025](2025-02-03-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [28–29 January 2025](2025-01-29-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
+| [27–28 January 2025](2025-01-28-Demopolis.html) | Demopolis |  |  |  |  |  |
+| [22–27 January 2025](2025-01-27-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [23–24 January 2025](2025-01-24-Tecnè.html) | Tecnè |  |  |  |  |  |
+| [21–22 January 2025](2025-01-22-EMG.html) | EMG |  |  |  |  |  |
+| [14–15 January 2025](2025-01-15-EMG.html) | EMG |  |  |  |  |  |
 | [8–13 January 2025](2025-01-13-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [9–10 January 2025](2025-01-10-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [9–10 January 2025](2025-01-10-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
