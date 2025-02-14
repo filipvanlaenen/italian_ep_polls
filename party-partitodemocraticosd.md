@@ -182,13 +182,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21 | 19–23 | 19–23 | 19–23 | 18–24 |
+| N/A | [Poll Average](average.html) | 21 | 19–23 | 19–23 | 19–24 | 18–25 |
 | [3 February 2025](2025-02-03-SWG.html) | SWG <br> La7 | 20 | 20–22 | 19–22 | 19–23 | 18–23 |
 | [28–29 January 2025](2025-01-29-Eumetra.html) | Eumetra <br> La7 | 21 | 19–23 | 19–23 | 18–23 | 17–24 |
-| [27–28 January 2025](2025-01-28-Demopolis.html) | Demopolis | 20 | 20–23 | 20–23 | 20–23 | 18–24 |
-| [22–27 January 2025](2025-01-27-SWG.html) | SWG <br> La7 | 20 | 19–22 | 19–23 | 18–24 | 18–24 |
-| [23–24 January 2025](2025-01-24-Tecnè.html) | Tecnè | 20 | 19–22 | 18–22 | 18–23 | 17–23 |
-| [21–22 January 2025](2025-01-22-EMG.html) | EMG | 21 | 21–23 | 19–24 | 19–24 | 19–26 |
+| [27–28 January 2025](2025-01-28-Demopolis.html) | Demopolis | 20 | 20–22 | 20–23 | 19–23 | 19–24 |
+| [22–27 January 2025](2025-01-27-SWG.html) | SWG <br> La7 | 21 | 20–23 | 19–23 | 19–23 | 18–24 |
+| [23–24 January 2025](2025-01-24-Tecnè.html) | Tecnè | 20 | 19–22 | 18–22 | 18–23 | 17–24 |
+| [21–22 January 2025](2025-01-22-EMG.html) | EMG | 22 | 20–24 | 19–25 | 19–25 | 18–26 |
 | [14–15 January 2025](2025-01-15-EMG.html) | EMG |  |  |  |  |  |
 | [8–13 January 2025](2025-01-13-SWG.html) | SWG <br> La7 | 20 | 19–22 | 18–22 | 18–23 | 17–23 |
 | [9–10 January 2025](2025-01-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 20 | 19–23 | 18–23 | 18–23 | 17–24 |
@@ -336,13 +336,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 0.3% | 99.9% |  |
 | 18 | 2% | 99.7% |  |
 | 19 | 8% | 98% |  |
-| 20 | 27% | 89% |  |
-| 21 | 34% | 62% | Median |
-| 22 | 17% | 29% |  |
-| 23 | 10% | 12% |  |
-| 24 | 1.2% | 2% |  |
-| 25 | 0.1% | 0.3% |  |
-| 26 | 0.2% | 0.2% |  |
+| 20 | 30% | 90% |  |
+| 21 | 28% | 60% | Median |
+| 22 | 19% | 32% |  |
+| 23 | 9% | 12% |  |
+| 24 | 2% | 3% |  |
+| 25 | 1.1% | 1.2% |  |
+| 26 | 0.1% | 0.1% |  |
 | 27 | 0% | 0% |  |
 
 

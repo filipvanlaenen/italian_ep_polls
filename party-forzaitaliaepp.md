@@ -171,10 +171,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 7 | 6–9 | 6–9 | 6–10 | 5–11 |
 | [3 February 2025](2025-02-03-SWG.html) | SWG <br> La7 | 8 | 7–9 | 6–9 | 6–9 | 5–9 |
 | [28–29 January 2025](2025-01-29-Eumetra.html) | Eumetra <br> La7 | 7 | 6–8 | 6–9 | 6–9 | 5–10 |
-| [27–28 January 2025](2025-01-28-Demopolis.html) | Demopolis | 8 | 7–8 | 6–8 | 6–8 | 6–9 |
-| [22–27 January 2025](2025-01-27-SWG.html) | SWG <br> La7 | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
+| [27–28 January 2025](2025-01-28-Demopolis.html) | Demopolis | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
+| [22–27 January 2025](2025-01-27-SWG.html) | SWG <br> La7 | 7 | 7–8 | 6–9 | 6–9 | 6–9 |
 | [23–24 January 2025](2025-01-24-Tecnè.html) | Tecnè | 9 | 8–10 | 8–10 | 7–11 | 7–12 |
-| [21–22 January 2025](2025-01-22-EMG.html) | EMG | 6 | 6–7 | 6–8 | 5–8 | 5–9 |
+| [21–22 January 2025](2025-01-22-EMG.html) | EMG | 6 | 6–8 | 5–8 | 5–8 | 5–9 |
 | [14–15 January 2025](2025-01-15-EMG.html) | EMG |  |  |  |  |  |
 | [8–13 January 2025](2025-01-13-SWG.html) | SWG <br> La7 | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
 | [9–10 January 2025](2025-01-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 9 | 8–10 | 8–10 | 7–11 | 7–11 |
@@ -309,12 +309,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 2% | 100% |  |
 | 6 | 22% | 98% |  |
-| 7 | 28% | 76% | Median |
-| 8 | 32% | 48% |  |
-| 9 | 12% | 16% |  |
-| 10 | 3% | 4% |  |
-| 11 | 0.5% | 0.6% |  |
-| 12 | 0.1% | 0.1% |  |
+| 7 | 31% | 76% | Median |
+| 8 | 29% | 45% |  |
+| 9 | 13% | 16% |  |
+| 10 | 2% | 3% |  |
+| 11 | 0.4% | 0.5% |  |
+| 12 | 0.2% | 0.2% |  |
 | 13 | 0% | 0% |  |
 
 
