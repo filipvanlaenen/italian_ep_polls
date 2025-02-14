@@ -160,7 +160,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [3 February 2025](2025-02-03-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
-| [28–29 January 2025](2025-01-29-Eumetra.html) | Eumetra <br> La7 | 0 | 0 | 0 | 0 | 0–3 |
+| [28–29 January 2025](2025-01-29-Eumetra.html) | Eumetra <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [27–28 January 2025](2025-01-28-Demopolis.html) | Demopolis | 0 | 0 | 0 | 0 | 0 |
 | [22–27 January 2025](2025-01-27-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [23–24 January 2025](2025-01-24-Tecnè.html) | Tecnè | 0 | 0 | 0 | 0 | 0 |

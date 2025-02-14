@@ -182,9 +182,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21 | 19–22 | 19–23 | 18–23 | 17–24 |
-| [3 February 2025](2025-02-03-SWG.html) | SWG <br> La7 | 21 | 19–22 | 19–22 | 18–23 | 18–23 |
-| [28–29 January 2025](2025-01-29-Eumetra.html) | Eumetra <br> La7 | 21 | 19–23 | 18–23 | 18–23 | 16–24 |
+| N/A | [Poll Average](average.html) | 21 | 19–23 | 19–23 | 19–23 | 18–24 |
+| [3 February 2025](2025-02-03-SWG.html) | SWG <br> La7 | 20 | 20–22 | 19–22 | 19–23 | 18–23 |
+| [28–29 January 2025](2025-01-29-Eumetra.html) | Eumetra <br> La7 | 21 | 19–23 | 19–23 | 18–23 | 17–24 |
 | [27–28 January 2025](2025-01-28-Demopolis.html) | Demopolis | 20 | 20–23 | 20–23 | 20–23 | 18–24 |
 | [22–27 January 2025](2025-01-27-SWG.html) | SWG <br> La7 | 20 | 19–22 | 19–23 | 18–24 | 18–24 |
 | [23–24 January 2025](2025-01-24-Tecnè.html) | Tecnè | 20 | 19–22 | 18–22 | 18–23 | 17–23 |
@@ -333,15 +333,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
 | 16 | 0.1% | 100% |  |
-| 17 | 0.4% | 99.9% |  |
-| 18 | 2% | 99.5% |  |
-| 19 | 9% | 97% |  |
-| 20 | 25% | 88% |  |
-| 21 | 32% | 63% | Median |
-| 22 | 21% | 31% |  |
-| 23 | 8% | 10% |  |
-| 24 | 1.3% | 2% |  |
-| 25 | 0.2% | 0.3% |  |
+| 17 | 0.3% | 99.9% |  |
+| 18 | 2% | 99.7% |  |
+| 19 | 8% | 98% |  |
+| 20 | 27% | 89% |  |
+| 21 | 34% | 62% | Median |
+| 22 | 17% | 29% |  |
+| 23 | 10% | 12% |  |
+| 24 | 1.2% | 2% |  |
+| 25 | 0.1% | 0.3% |  |
 | 26 | 0.2% | 0.2% |  |
 | 27 | 0% | 0% |  |
 
