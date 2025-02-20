@@ -184,9 +184,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21 | 19–22 | 19–23 | 18–24 | 17–25 |
-| [6–7 February 2025](2025-02-07-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 20 | 18–22 | 18–22 | 17–22 | 17–23 |
-| [4–5 February 2025](2025-02-05-Eumetra.html) | Eumetra <br> La7 | 20 | 19–22 | 18–22 | 17–23 | 17–24 |
+| N/A | [Poll Average](average.html) | 21 | 19–23 | 19–23 | 18–24 | 17–25 |
+| [6–7 February 2025](2025-02-07-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 20 | 18–22 | 18–22 | 17–23 | 17–23 |
+| [4–5 February 2025](2025-02-05-Eumetra.html) | Eumetra <br> La7 | 20 | 19–22 | 18–23 | 17–23 | 17–24 |
 | [3 February 2025](2025-02-03-SWG.html) | SWG <br> La7 | 20 | 20–22 | 19–22 | 19–23 | 18–23 |
 | [28–29 January 2025](2025-01-29-Eumetra.html) | Eumetra <br> La7 | 21 | 19–23 | 19–23 | 18–23 | 17–24 |
 | [27–28 January 2025](2025-01-28-Demopolis.html) | Demopolis | 20 | 20–22 | 20–23 | 19–23 | 19–24 |
@@ -337,13 +337,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
 | 16 | 0.1% | 100% |  |
-| 17 | 1.2% | 99.9% |  |
-| 18 | 3% | 98.8% |  |
-| 19 | 11% | 96% |  |
-| 20 | 33% | 85% |  |
-| 21 | 22% | 52% | Median |
-| 22 | 21% | 31% |  |
-| 23 | 6% | 9% |  |
+| 17 | 1.0% | 99.9% |  |
+| 18 | 3% | 98.9% |  |
+| 19 | 10% | 96% |  |
+| 20 | 33% | 86% |  |
+| 21 | 24% | 54% | Median |
+| 22 | 20% | 30% |  |
+| 23 | 7% | 10% |  |
 | 24 | 2% | 3% |  |
 | 25 | 1.1% | 1.2% |  |
 | 26 | 0.1% | 0.1% |  |
