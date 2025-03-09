@@ -29,7 +29,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [3 February 2025](2025-02-03-SWG.html) | SWG <br> La7 | 8.3% | 7.4–9.4% | 7.1–9.8% | 6.9–10.0% | 6.5–10.6% |
 | [2–3 February 2025](2025-02-03-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 8.5% | 7.5–9.7% | 7.2–10.1% | 6.9–10.4% | 6.4–11.0% |
 | [29–31 January 2025](2025-01-31-Lab2101.html) | Lab2101 <br> Affari Italiani | 8.7% | 7.7–10.0% | 7.3–10.3% | 7.1–10.6% | 6.6–11.2% |
-| [28–30 January 2025](2025-01-30-Ipsos.html) | Ipsos | 8.5% | N/A | N/A | N/A | N/A |
+| [28–30 January 2025](2025-01-30-Ipsos.html) | Ipsos | 8.5% | 7.5–9.7% | 7.2–10.1% | 6.9–10.4% | 6.4–11.0% |
 | [28–29 January 2025](2025-01-29-Eumetra.html) | Eumetra <br> La7 | 8.5% | 7.3–9.9% | 7.0–10.3% | 6.8–10.6% | 6.2–11.4% |
 | [27–28 January 2025](2025-01-28-Demopolis.html) | Demopolis | 8.7% | 7.9–9.6% | 7.7–9.8% | 7.5–10.0% | 7.2–10.5% |
 | [22–27 January 2025](2025-01-27-SWG.html) | SWG <br> La7 | 8.4% | 7.5–9.5% | 7.2–9.8% | 7.0–10.1% | 6.5–10.7% |
@@ -169,7 +169,7 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 1.1% | 100% |  |
 | 6.5–7.5% | 10% | 98.9% |  |
 | 7.5–8.5% | 36% | 88% |  |
-| 8.5–9.5% | 38% | 52% | Median |
+| 8.5–9.5% | 37% | 52% | Median |
 | 9.5–10.5% | 12% | 15% |  |
 | 10.5–11.5% | 2% | 2% |  |
 | 11.5–12.5% | 0.2% | 0.3% |  |
@@ -203,7 +203,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [3 February 2025](2025-02-03-SWG.html) | SWG <br> La7 | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
 | [2–3 February 2025](2025-02-03-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 7 | 7–8 | 6–8 | 6–9 | 6–10 |
 | [29–31 January 2025](2025-01-31-Lab2101.html) | Lab2101 <br> Affari Italiani | 8 | 7–10 | 7–10 | 6–10 | 6–11 |
-| [28–30 January 2025](2025-01-30-Ipsos.html) | Ipsos |  |  |  |  |  |
+| [28–30 January 2025](2025-01-30-Ipsos.html) | Ipsos | 8 | 6–10 | 5–10 | 5–10 | 5–10 |
 | [28–29 January 2025](2025-01-29-Eumetra.html) | Eumetra <br> La7 | 7 | 6–9 | 6–10 | 6–10 | 6–10 |
 | [27–28 January 2025](2025-01-28-Demopolis.html) | Demopolis | 7 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [22–27 January 2025](2025-01-27-SWG.html) | SWG <br> La7 | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
@@ -341,11 +341,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0.6% | 100% |  |
-| 6 | 8% | 99.4% |  |
-| 7 | 40% | 92% |  |
-| 8 | 36% | 51% | Median |
-| 9 | 13% | 15% |  |
+| 5 | 0.9% | 100% |  |
+| 6 | 8% | 99.1% |  |
+| 7 | 40% | 91% |  |
+| 8 | 35% | 51% | Median |
+| 9 | 14% | 17% |  |
 | 10 | 2% | 2% |  |
 | 11 | 0.2% | 0.2% |  |
 | 12 | 0% | 0% |  |

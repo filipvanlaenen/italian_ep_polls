@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.4% | 0.8–2.1% | 0.6–2.3% | 0.5–2.5% | 0.4–2.9% |
+| N/A | [Poll Average](average.html) | 1.3% | 0.7–2.0% | 0.6–2.2% | 0.5–2.4% | 0.4–2.8% |
 | [18–19 February 2025](2025-02-19-Eumetra.html) | Eumetra <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [12–17 February 2025](2025-02-17-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [14–16 February 2025](2025-02-16-Euromedia.html) | Euromedia <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
@@ -29,7 +29,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [3 February 2025](2025-02-03-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [2–3 February 2025](2025-02-03-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
 | [29–31 January 2025](2025-01-31-Lab2101.html) | Lab2101 <br> Affari Italiani | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
-| [28–30 January 2025](2025-01-30-Ipsos.html) | Ipsos | 1.0% | N/A | N/A | N/A | N/A |
+| [28–30 January 2025](2025-01-30-Ipsos.html) | Ipsos | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [28–29 January 2025](2025-01-29-Eumetra.html) | Eumetra <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [27–28 January 2025](2025-01-28-Demopolis.html) | Demopolis | 0.0% | N/A | N/A | N/A | N/A |
 | [22–27 January 2025](2025-01-27-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
@@ -161,9 +161,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 3% | 100% | Last Result |
-| 0.5–1.5% | 56% | 97% | Median |
-| 1.5–2.5% | 39% | 41% |  |
-| 2.5–3.5% | 2% | 2% |  |
+| 0.5–1.5% | 67% | 97% | Median |
+| 1.5–2.5% | 29% | 30% |  |
+| 2.5–3.5% | 1.4% | 1.4% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -194,7 +194,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [3 February 2025](2025-02-03-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [2–3 February 2025](2025-02-03-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
 | [29–31 January 2025](2025-01-31-Lab2101.html) | Lab2101 <br> Affari Italiani | 0 | 0 | 0 | 0 | 0 |
-| [28–30 January 2025](2025-01-30-Ipsos.html) | Ipsos |  |  |  |  |  |
+| [28–30 January 2025](2025-01-30-Ipsos.html) | Ipsos | 0 | 0 | 0 | 0 | 0 |
 | [28–29 January 2025](2025-01-29-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [27–28 January 2025](2025-01-28-Demopolis.html) | Demopolis |  |  |  |  |  |
 | [22–27 January 2025](2025-01-27-SWG.html) | SWG <br> La7 |  |  |  |  |  |

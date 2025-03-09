@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.4% | 10.2–12.8% | 9.8–13.3% | 9.5–13.7% | 8.8–14.5% |
+| N/A | [Poll Average](average.html) | 11.5% | 10.2–13.0% | 9.8–13.4% | 9.5–13.9% | 8.9–14.7% |
 | [18–19 February 2025](2025-02-19-Eumetra.html) | Eumetra <br> La7 | 11.5% | 10.2–13.1% | 9.8–13.5% | 9.5–13.9% | 8.9–14.7% |
 | [12–17 February 2025](2025-02-17-SWG.html) | SWG <br> La7 | 11.9% | 10.8–13.2% | 10.5–13.6% | 10.2–13.9% | 9.7–14.5% |
 | [14–16 February 2025](2025-02-16-Euromedia.html) | Euromedia <br> Rai 1 | 11.5% | 10.3–12.9% | 10.0–13.3% | 9.7–13.6% | 9.1–14.3% |
@@ -29,7 +29,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [3 February 2025](2025-02-03-SWG.html) | SWG <br> La7 | 11.8% | 10.7–13.1% | 10.4–13.5% | 10.1–13.8% | 9.6–14.4% |
 | [2–3 February 2025](2025-02-03-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 11.5% | 10.3–12.9% | 10.0–13.3% | 9.7–13.6% | 9.1–14.3% |
 | [29–31 January 2025](2025-01-31-Lab2101.html) | Lab2101 <br> Affari Italiani | 10.7% | 9.5–12.1% | 9.2–12.4% | 8.9–12.8% | 8.4–13.5% |
-| [28–30 January 2025](2025-01-30-Ipsos.html) | Ipsos | 12.5% | N/A | N/A | N/A | N/A |
+| [28–30 January 2025](2025-01-30-Ipsos.html) | Ipsos | 12.5% | 11.2–13.9% | 10.9–14.3% | 10.6–14.7% | 10.0–15.4% |
 | [28–29 January 2025](2025-01-29-Eumetra.html) | Eumetra <br> La7 | 11.2% | 9.9–12.8% | 9.6–13.2% | 9.2–13.6% | 8.6–14.4% |
 | [27–28 January 2025](2025-01-28-Demopolis.html) | Demopolis | 11.2% | 10.3–12.2% | 10.1–12.4% | 9.9–12.7% | 9.5–13.1% |
 | [22–27 January 2025](2025-01-27-SWG.html) | SWG <br> La7 | 11.4% | 10.3–12.7% | 10.0–13.0% | 9.7–13.4% | 9.2–14.0% |
@@ -170,12 +170,12 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0.2% | 100% |  |
 | 8.5–9.5% | 3% | 99.8% |  |
-| 9.5–10.5% | 16% | 97% |  |
-| 10.5–11.5% | 37% | 81% | Median |
-| 11.5–12.5% | 30% | 45% |  |
-| 12.5–13.5% | 12% | 15% |  |
-| 13.5–14.5% | 3% | 3% |  |
-| 14.5–15.5% | 0.4% | 0.5% |  |
+| 9.5–10.5% | 15% | 97% |  |
+| 10.5–11.5% | 35% | 83% | Median |
+| 11.5–12.5% | 30% | 48% |  |
+| 12.5–13.5% | 13% | 17% |  |
+| 13.5–14.5% | 3% | 4% |  |
+| 14.5–15.5% | 0.6% | 0.7% |  |
 | 15.5–16.5% | 0.1% | 0.1% |  |
 | 16.5–17.5% | 0% | 0% |  |
 
@@ -188,7 +188,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 9–12 | 9–12 | 8–12 | 8–13 |
+| N/A | [Poll Average](average.html) | 10 | 9–12 | 9–12 | 8–13 | 8–13 |
 | [18–19 February 2025](2025-02-19-Eumetra.html) | Eumetra <br> La7 | 10 | 9–12 | 9–12 | 9–13 | 8–14 |
 | [12–17 February 2025](2025-02-17-SWG.html) | SWG <br> La7 | 10 | 10–12 | 10–12 | 9–12 | 8–13 |
 | [14–16 February 2025](2025-02-16-Euromedia.html) | Euromedia <br> Rai 1 | 11 | 9–11 | 9–12 | 9–12 | 8–13 |
@@ -207,7 +207,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [3 February 2025](2025-02-03-SWG.html) | SWG <br> La7 | 10 | 10–12 | 10–12 | 9–13 | 9–13 |
 | [2–3 February 2025](2025-02-03-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 11 | 9–12 | 9–12 | 9–13 | 8–13 |
 | [29–31 January 2025](2025-01-31-Lab2101.html) | Lab2101 <br> Affari Italiani | 9 | 9–11 | 9–12 | 8–12 | 8–12 |
-| [28–30 January 2025](2025-01-30-Ipsos.html) | Ipsos |  |  |  |  |  |
+| [28–30 January 2025](2025-01-30-Ipsos.html) | Ipsos | 11 | 10–12 | 9–12 | 8–13 | 8–13 |
 | [28–29 January 2025](2025-01-29-Eumetra.html) | Eumetra <br> La7 | 10 | 9–11 | 9–12 | 8–12 | 8–13 |
 | [27–28 January 2025](2025-01-28-Demopolis.html) | Demopolis | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
 | [22–27 January 2025](2025-01-27-SWG.html) | SWG <br> La7 | 10 | 10–11 | 10–12 | 9–12 | 9–13 |
@@ -347,13 +347,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0.2% | 100% |  |
+| 7 | 0.1% | 100% |  |
 | 8 | 3% | 99.8% |  |
-| 9 | 17% | 97% |  |
-| 10 | 45% | 80% | Median |
-| 11 | 23% | 35% |  |
-| 12 | 9% | 12% |  |
-| 13 | 2% | 2% |  |
+| 9 | 16% | 97% |  |
+| 10 | 44% | 81% | Median |
+| 11 | 24% | 37% |  |
+| 12 | 10% | 13% |  |
+| 13 | 2% | 3% |  |
 | 14 | 0.3% | 0.3% |  |
 | 15 | 0% | 0% |  |
 
