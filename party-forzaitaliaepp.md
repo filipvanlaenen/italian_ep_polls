@@ -186,16 +186,16 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–9 | 5–9 | 5–10 | 5–11 |
-| [18–19 February 2025](2025-02-19-Eumetra.html) | Eumetra <br> La7 | 7 | 6–9 | 6–10 | 5–10 | 5–10 |
+| N/A | [Poll Average](average.html) | 7 | 6–9 | 6–9 | 5–10 | 5–11 |
+| [18–19 February 2025](2025-02-19-Eumetra.html) | Eumetra <br> La7 | 7 | 6–9 | 5–9 | 5–10 | 5–10 |
 | [12–17 February 2025](2025-02-17-SWG.html) | SWG <br> La7 | 8 | 6–9 | 6–9 | 6–9 | 6–10 |
-| [14–16 February 2025](2025-02-16-Euromedia.html) | Euromedia <br> Rai 1 | 8 | 7–8 | 6–9 | 6–9 | 6–10 |
-| [13–14 February 2025](2025-02-14-Tecnè.html) | Tecnè <br> Agenzia Dire | 9 | 8–11 | 7–11 | 7–11 | 7–11 |
-| [12–14 February 2025](2025-02-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 6 | 5–8 | 5–8 | 5–9 | 5–9 |
+| [14–16 February 2025](2025-02-16-Euromedia.html) | Euromedia <br> Rai 1 | 8 | 6–8 | 6–9 | 6–9 | 6–10 |
+| [13–14 February 2025](2025-02-14-Tecnè.html) | Tecnè <br> Agenzia Dire | 9 | 8–11 | 7–11 | 7–11 | 7–12 |
+| [12–14 February 2025](2025-02-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 7 | 5–8 | 5–8 | 5–9 | 5–9 |
 | [10–14 February 2025](2025-02-14-Demos.html) | Demos <br> La Repubblica | 7 | 6–8 | 6–8 | 5–9 | 5–9 |
-| [12–13 February 2025](2025-02-13-TermometroPolitico.html) | Termometro Politico | 7 | 6–7 | 6–7 | 6–7 | 6–8 |
-| [12–13 February 2025](2025-02-13-EMG.html) | EMG | 7 | 6–8 | 6–9 | 5–9 | 5–9 |
-| [9–12 February 2025](2025-02-12-Piepoli.html) | Piepoli | 7 | 5–8 | 5–9 | 5–10 | 5–10 |
+| [12–13 February 2025](2025-02-13-TermometroPolitico.html) | Termometro Politico | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
+| [12–13 February 2025](2025-02-13-EMG.html) | EMG | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
+| [9–12 February 2025](2025-02-12-Piepoli.html) | Piepoli | 7 | 5–9 | 5–9 | 5–10 | 5–10 |
 | [5–10 February 2025](2025-02-10-SWG.html) | SWG |  |  |  |  |  |
 | [6–7 February 2025](2025-02-07-Tecnè.html) | Tecnè |  |  |  |  |  |
 | [6–7 February 2025](2025-02-07-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 7 | 5–8 | 5–8 | 5–8 | 5–9 |
@@ -343,13 +343,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0.1% | 100% |  |
-| 5 | 5% | 99.9% |  |
-| 6 | 19% | 95% |  |
-| 7 | 40% | 76% | Median |
-| 8 | 23% | 36% |  |
-| 9 | 9% | 14% |  |
-| 10 | 2% | 4% |  |
-| 11 | 2% | 2% |  |
-| 12 | 0% | 0% |  |
+| 5 | 4% | 99.9% |  |
+| 6 | 17% | 96% |  |
+| 7 | 41% | 79% | Median |
+| 8 | 26% | 38% |  |
+| 9 | 9% | 12% |  |
+| 10 | 2% | 3% |  |
+| 11 | 1.0% | 1.0% |  |
+| 12 | 0.1% | 0.1% |  |
+| 13 | 0% | 0% |  |
 
 

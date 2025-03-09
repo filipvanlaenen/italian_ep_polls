@@ -177,7 +177,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–4 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–3 |
 | [18–19 February 2025](2025-02-19-Eumetra.html) | Eumetra <br> La7 | 0 | 0 | 0 | 0 | 0–4 |
 | [12–17 February 2025](2025-02-17-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [14–16 February 2025](2025-02-16-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
@@ -186,7 +186,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [10–14 February 2025](2025-02-14-Demos.html) | Demos <br> La Repubblica | 0 | 0 | 0 | 0 | 0 |
 | [12–13 February 2025](2025-02-13-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [12–13 February 2025](2025-02-13-EMG.html) | EMG | 0 | 0 | 0 | 0 | 0 |
-| [9–12 February 2025](2025-02-12-Piepoli.html) | Piepoli | 0 | 0 | 0–4 | 0–4 | 0–4 |
+| [9–12 February 2025](2025-02-12-Piepoli.html) | Piepoli | 0 | 0 | 0 | 0–4 | 0–4 |
 | [5–10 February 2025](2025-02-10-SWG.html) | SWG |  |  |  |  |  |
 | [6–7 February 2025](2025-02-07-Tecnè.html) | Tecnè |  |  |  |  |  |
 | [6–7 February 2025](2025-02-07-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0 | 0 | 0 |
@@ -329,11 +329,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.1% | 100% | Last Result, Median |
-| 1 | 0% | 0.9% |  |
-| 2 | 0% | 0.9% |  |
-| 3 | 0.3% | 0.9% |  |
-| 4 | 0.6% | 0.6% |  |
+| 0 | 99.4% | 100% | Last Result, Median |
+| 1 | 0% | 0.6% |  |
+| 2 | 0% | 0.6% |  |
+| 3 | 0.1% | 0.6% |  |
+| 4 | 0.4% | 0.4% |  |
 | 5 | 0% | 0% |  |
 
 

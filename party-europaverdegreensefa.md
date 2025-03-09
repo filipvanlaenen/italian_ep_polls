@@ -179,15 +179,15 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [18–19 February 2025](2025-02-19-Eumetra.html) | Eumetra <br> La7 | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
-| [12–17 February 2025](2025-02-17-SWG.html) | SWG <br> La7 | 4 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [14–16 February 2025](2025-02-16-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0 | 0–4 |
+| [18–19 February 2025](2025-02-19-Eumetra.html) | Eumetra <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [12–17 February 2025](2025-02-17-SWG.html) | SWG <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [14–16 February 2025](2025-02-16-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0–4 | 0–4 |
 | [13–14 February 2025](2025-02-14-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
-| [12–14 February 2025](2025-02-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 0 | 0 | 0 | 0–4 | 0–5 |
+| [12–14 February 2025](2025-02-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 0 | 0 | 0 | 0–3 | 0–4 |
 | [10–14 February 2025](2025-02-14-Demos.html) | Demos <br> La Repubblica | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
-| [12–13 February 2025](2025-02-13-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0–3 | 0–4 |
-| [12–13 February 2025](2025-02-13-EMG.html) | EMG | 0 | 0 | 0–4 | 0–4 | 0–4 |
-| [9–12 February 2025](2025-02-12-Piepoli.html) | Piepoli | 0 | 0–4 | 0–5 | 0–5 | 0–6 |
+| [12–13 February 2025](2025-02-13-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0–4 | 0–4 |
+| [12–13 February 2025](2025-02-13-EMG.html) | EMG | 0 | 0 | 0 | 0–4 | 0–4 |
+| [9–12 February 2025](2025-02-12-Piepoli.html) | Piepoli | 0 | 0–4 | 0–4 | 0–5 | 0–6 |
 | [5–10 February 2025](2025-02-10-SWG.html) | SWG |  |  |  |  |  |
 | [6–7 February 2025](2025-02-07-Tecnè.html) | Tecnè |  |  |  |  |  |
 | [6–7 February 2025](2025-02-07-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
@@ -333,9 +333,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 85% | 100% | Last Result, Median |
 | 1 | 0% | 15% |  |
 | 2 | 0% | 15% |  |
-| 3 | 1.2% | 15% |  |
+| 3 | 2% | 15% |  |
 | 4 | 13% | 14% |  |
-| 5 | 1.0% | 1.1% |  |
+| 5 | 0.7% | 0.8% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
 
