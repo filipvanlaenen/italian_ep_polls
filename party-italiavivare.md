@@ -10,11 +10,26 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.5% | 1.9–3.3% | 1.8–3.6% | 1.6–3.8% | 1.4–4.3% |
+| N/A | [Poll Average](average.html) | 2.7% | 2.0–3.5% | 1.9–3.7% | 1.7–3.9% | 1.4–4.4% |
+| [18–19 February 2025](2025-02-19-Eumetra.html) | Eumetra <br> La7 | 2.8% | 2.1–3.7% | 2.0–3.9% | 1.8–4.1% | 1.6–4.6% |
+| [12–17 February 2025](2025-02-17-SWG.html) | SWG <br> La7 | 3.0% | 2.5–3.7% | 2.3–3.9% | 2.2–4.1% | 1.9–4.5% |
+| [14–16 February 2025](2025-02-16-Euromedia.html) | Euromedia <br> Rai 1 | 2.8% | 2.2–3.6% | 2.1–3.8% | 1.9–4.0% | 1.7–4.4% |
+| [13–14 February 2025](2025-02-14-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
+| [12–14 February 2025](2025-02-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.0–4.1% | 1.8–4.6% |
+| [10–14 February 2025](2025-02-14-Demos.html) | Demos <br> La Repubblica | 2.6% | 2.0–3.4% | 1.9–3.6% | 1.8–3.8% | 1.5–4.2% |
+| [12–13 February 2025](2025-02-13-TermometroPolitico.html) | Termometro Politico | 2.5% | 2.2–3.0% | 2.1–3.1% | 2.0–3.2% | 1.8–3.4% |
+| [12–13 February 2025](2025-02-13-EMG.html) | EMG | 2.7% | 2.1–3.4% | 2.0–3.6% | 1.9–3.8% | 1.6–4.2% |
+| [9–12 February 2025](2025-02-12-Piepoli.html) | Piepoli | 2.6% | 1.9–3.8% | 1.7–4.1% | 1.5–4.4% | 1.2–5.0% |
+| [5–10 February 2025](2025-02-10-SWG.html) | SWG | 2.9% | N/A | N/A | N/A | N/A |
+| [6–7 February 2025](2025-02-07-Tecnè.html) | Tecnè | 2.4% | N/A | N/A | N/A | N/A |
 | [6–7 February 2025](2025-02-07-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 2.2% | 1.7–3.1% | 1.5–3.3% | 1.4–3.5% | 1.2–4.0% |
+| [4–6 February 2025](2025-02-06-TermometroPolitico.html) | Termometro Politico | 2.3% | N/A | N/A | N/A | N/A |
 | [4–5 February 2025](2025-02-05-Eumetra.html) | Eumetra <br> La7 | 2.6% | 2.0–3.5% | 1.9–3.8% | 1.7–4.0% | 1.5–4.5% |
+| [4–5 February 2025](2025-02-05-EMG.html) | EMG | 2.7% | N/A | N/A | N/A | N/A |
 | [3 February 2025](2025-02-03-SWG.html) | SWG <br> La7 | 2.9% | 2.4–3.6% | 2.2–3.9% | 2.1–4.0% | 1.9–4.4% |
+| [2–3 February 2025](2025-02-03-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
 | [29–31 January 2025](2025-01-31-Lab2101.html) | Lab2101 <br> Affari Italiani | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.0–4.1% | 1.8–4.6% |
+| [28–30 January 2025](2025-01-30-Ipsos.html) | Ipsos | 2.5% | N/A | N/A | N/A | N/A |
 | [28–29 January 2025](2025-01-29-Eumetra.html) | Eumetra <br> La7 | 2.5% | 1.9–3.4% | 1.8–3.6% | 1.6–3.8% | 1.4–4.3% |
 | [27–28 January 2025](2025-01-28-Demopolis.html) | Demopolis | 2.2% | 1.8–2.7% | 1.7–2.8% | 1.6–2.9% | 1.5–3.2% |
 | [22–27 January 2025](2025-01-27-SWG.html) | SWG <br> La7 | 2.8% | 2.3–3.6% | 2.1–3.8% | 2.0–3.9% | 1.8–4.3% |
@@ -146,11 +161,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 2% | 100% |  |
-| 1.5–2.5% | 51% | 98% |  |
-| 2.5–3.5% | 42% | 48% | Median |
-| 3.5–4.5% | 5% | 6% |  |
-| 4.5–5.5% | 0.1% | 0.1% |  |
+| 0.5–1.5% | 1.0% | 100% |  |
+| 1.5–2.5% | 41% | 99.0% |  |
+| 2.5–3.5% | 50% | 58% | Median |
+| 3.5–4.5% | 7% | 8% |  |
+| 4.5–5.5% | 0.3% | 0.3% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -162,11 +177,26 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–4 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–4 | 0–4 |
+| [18–19 February 2025](2025-02-19-Eumetra.html) | Eumetra <br> La7 | 0 | 0 | 0–4 | 0–4 | 0–4 |
+| [12–17 February 2025](2025-02-17-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0–4 | 0–4 |
+| [14–16 February 2025](2025-02-16-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
+| [13–14 February 2025](2025-02-14-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
+| [12–14 February 2025](2025-02-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 0 | 0 | 0 | 0–4 | 0–4 |
+| [10–14 February 2025](2025-02-14-Demos.html) | Demos <br> La Repubblica | 0 | 0 | 0 | 0 | 0–4 |
+| [12–13 February 2025](2025-02-13-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
+| [12–13 February 2025](2025-02-13-EMG.html) | EMG | 0 | 0 | 0 | 0–4 | 0–4 |
+| [9–12 February 2025](2025-02-12-Piepoli.html) | Piepoli | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [5–10 February 2025](2025-02-10-SWG.html) | SWG |  |  |  |  |  |
+| [6–7 February 2025](2025-02-07-Tecnè.html) | Tecnè |  |  |  |  |  |
 | [6–7 February 2025](2025-02-07-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0 | 0 | 0 |
+| [4–6 February 2025](2025-02-06-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [4–5 February 2025](2025-02-05-Eumetra.html) | Eumetra <br> La7 | 0 | 0 | 0 | 0 | 0–4 |
+| [4–5 February 2025](2025-02-05-EMG.html) | EMG |  |  |  |  |  |
 | [3 February 2025](2025-02-03-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0–4 | 0–4 |
+| [2–3 February 2025](2025-02-03-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0 | 0 |
 | [29–31 January 2025](2025-01-31-Lab2101.html) | Lab2101 <br> Affari Italiani | 0 | 0 | 0 | 0 | 0–4 |
+| [28–30 January 2025](2025-01-30-Ipsos.html) | Ipsos |  |  |  |  |  |
 | [28–29 January 2025](2025-01-29-Eumetra.html) | Eumetra <br> La7 | 0 | 0 | 0 | 0 | 0–4 |
 | [27–28 January 2025](2025-01-28-Demopolis.html) | Demopolis | 0 | 0 | 0 | 0 | 0 |
 | [22–27 January 2025](2025-01-27-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0–4 |
@@ -299,11 +329,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98.9% | 100% | Last Result, Median |
-| 1 | 0% | 1.1% |  |
-| 2 | 0% | 1.1% |  |
-| 3 | 0.1% | 1.1% |  |
-| 4 | 1.0% | 1.0% |  |
+| 0 | 96% | 100% | Last Result, Median |
+| 1 | 0% | 4% |  |
+| 2 | 0% | 4% |  |
+| 3 | 0.1% | 4% |  |
+| 4 | 4% | 4% |  |
 | 5 | 0% | 0% |  |
 
 

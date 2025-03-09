@@ -10,11 +10,26 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23.1% | 21.1–24.9% | 20.5–25.5% | 20.0–25.9% | 19.1–26.9% |
+| N/A | [Poll Average](average.html) | 23.0% | 21.1–25.0% | 20.6–25.6% | 20.1–26.1% | 19.2–27.2% |
+| [18–19 February 2025](2025-02-19-Eumetra.html) | Eumetra <br> La7 | 22.9% | 21.0–24.9% | 20.5–25.4% | 20.1–25.9% | 19.3–26.9% |
+| [12–17 February 2025](2025-02-17-SWG.html) | SWG <br> La7 | 22.0% | 20.5–23.6% | 20.1–24.1% | 19.7–24.4% | 19.1–25.2% |
+| [14–16 February 2025](2025-02-16-Euromedia.html) | Euromedia <br> Rai 1 | 23.5% | 21.8–25.3% | 21.4–25.8% | 21.0–26.2% | 20.2–27.1% |
+| [13–14 February 2025](2025-02-14-Tecnè.html) | Tecnè <br> Agenzia Dire | 22.7% | 21.0–24.4% | 20.6–24.9% | 20.2–25.4% | 19.4–26.2% |
+| [12–14 February 2025](2025-02-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 21.6% | 20.0–23.4% | 19.5–23.8% | 19.2–24.3% | 18.4–25.1% |
+| [10–14 February 2025](2025-02-14-Demos.html) | Demos <br> La Repubblica | 22.8% | 21.2–24.6% | 20.7–25.1% | 20.3–25.5% | 19.6–26.4% |
+| [12–13 February 2025](2025-02-13-TermometroPolitico.html) | Termometro Politico | 22.4% | 21.4–23.5% | 21.1–23.8% | 20.9–24.0% | 20.4–24.5% |
+| [12–13 February 2025](2025-02-13-EMG.html) | EMG | 23.6% | 22.1–25.3% | 21.6–25.8% | 21.2–26.2% | 20.5–27.0% |
+| [9–12 February 2025](2025-02-12-Piepoli.html) | Piepoli | 23.6% | 21.3–26.2% | 20.6–26.9% | 20.1–27.5% | 19.0–28.8% |
+| [5–10 February 2025](2025-02-10-SWG.html) | SWG | 22.3% | N/A | N/A | N/A | N/A |
+| [6–7 February 2025](2025-02-07-Tecnè.html) | Tecnè | 22.9% | N/A | N/A | N/A | N/A |
 | [6–7 February 2025](2025-02-07-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 22.8% | 20.9–24.7% | 20.4–25.3% | 20.0–25.8% | 19.1–26.8% |
+| [4–6 February 2025](2025-02-06-TermometroPolitico.html) | Termometro Politico | 22.5% | N/A | N/A | N/A | N/A |
 | [4–5 February 2025](2025-02-05-Eumetra.html) | Eumetra <br> La7 | 23.2% | 21.4–25.3% | 20.9–25.8% | 20.5–26.3% | 19.6–27.3% |
+| [4–5 February 2025](2025-02-05-EMG.html) | EMG | 24.0% | N/A | N/A | N/A | N/A |
 | [3 February 2025](2025-02-03-SWG.html) | SWG <br> La7 | 22.6% | 21.1–24.2% | 20.7–24.6% | 20.3–25.0% | 19.6–25.8% |
+| [2–3 February 2025](2025-02-03-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 24.0% | 22.3–25.8% | 21.9–26.3% | 21.4–26.7% | 20.7–27.6% |
 | [29–31 January 2025](2025-01-31-Lab2101.html) | Lab2101 <br> Affari Italiani | 21.4% | 19.8–23.1% | 19.4–23.6% | 19.0–24.1% | 18.2–24.9% |
+| [28–30 January 2025](2025-01-30-Ipsos.html) | Ipsos | 22.8% | N/A | N/A | N/A | N/A |
 | [28–29 January 2025](2025-01-29-Eumetra.html) | Eumetra <br> La7 | 23.0% | 21.2–25.0% | 20.7–25.6% | 20.2–26.0% | 19.4–27.0% |
 | [27–28 January 2025](2025-01-28-Demopolis.html) | Demopolis | 24.0% | 22.8–25.3% | 22.5–25.6% | 22.2–25.9% | 21.6–26.5% |
 | [22–27 January 2025](2025-01-27-SWG.html) | SWG <br> La7 | 22.8% | 21.3–24.4% | 20.9–24.9% | 20.5–25.3% | 19.8–26.1% |
@@ -164,17 +179,18 @@ The following table shows the probability mass function per percentage block of 
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0% | 100% |  |
 | 17.5–18.5% | 0.1% | 100% |  |
-| 18.5–19.5% | 1.0% | 99.8% |  |
-| 19.5–20.5% | 4% | 98.8% |  |
-| 20.5–21.5% | 10% | 95% |  |
-| 21.5–22.5% | 20% | 85% |  |
-| 22.5–23.5% | 27% | 65% | Median |
-| 23.5–24.5% | 22% | 38% |  |
-| 24.5–25.5% | 11% | 15% |  |
-| 25.5–26.5% | 4% | 4% |  |
-| 26.5–27.5% | 0.8% | 0.9% |  |
-| 27.5–28.5% | 0.1% | 0.1% |  |
-| 28.5–29.5% | 0% | 0% |  |
+| 18.5–19.5% | 0.8% | 99.9% |  |
+| 19.5–20.5% | 4% | 99.1% |  |
+| 20.5–21.5% | 11% | 95% |  |
+| 21.5–22.5% | 22% | 84% |  |
+| 22.5–23.5% | 25% | 62% | Median |
+| 23.5–24.5% | 20% | 36% |  |
+| 24.5–25.5% | 11% | 16% |  |
+| 25.5–26.5% | 4% | 5% |  |
+| 26.5–27.5% | 1.0% | 1.3% |  |
+| 27.5–28.5% | 0.2% | 0.3% |  |
+| 28.5–29.5% | 0.1% | 0.1% |  |
+| 29.5–30.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -185,11 +201,26 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21 | 19–22 | 19–23 | 18–24 | 17–25 |
+| N/A | [Poll Average](average.html) | 20 | 19–23 | 18–23 | 18–24 | 17–25 |
+| [18–19 February 2025](2025-02-19-Eumetra.html) | Eumetra <br> La7 | 21 | 18–23 | 18–23 | 18–24 | 16–25 |
+| [12–17 February 2025](2025-02-17-SWG.html) | SWG <br> La7 | 20 | 19–22 | 18–22 | 18–22 | 17–23 |
+| [14–16 February 2025](2025-02-16-Euromedia.html) | Euromedia <br> Rai 1 | 21 | 19–23 | 19–24 | 19–24 | 18–24 |
+| [13–14 February 2025](2025-02-14-Tecnè.html) | Tecnè <br> Agenzia Dire | 20 | 18–21 | 18–22 | 18–22 | 17–23 |
+| [12–14 February 2025](2025-02-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 19 | 18–21 | 17–22 | 17–22 | 17–22 |
+| [10–14 February 2025](2025-02-14-Demos.html) | Demos <br> La Repubblica | 21 | 19–23 | 18–23 | 18–23 | 17–24 |
+| [12–13 February 2025](2025-02-13-TermometroPolitico.html) | Termometro Politico | 20 | 20 | 19–21 | 19–21 | 18–22 |
+| [12–13 February 2025](2025-02-13-EMG.html) | EMG | 22 | 20–23 | 19–23 | 19–23 | 18–25 |
+| [9–12 February 2025](2025-02-12-Piepoli.html) | Piepoli | 21 | 19–23 | 19–25 | 18–25 | 17–26 |
+| [5–10 February 2025](2025-02-10-SWG.html) | SWG |  |  |  |  |  |
+| [6–7 February 2025](2025-02-07-Tecnè.html) | Tecnè |  |  |  |  |  |
 | [6–7 February 2025](2025-02-07-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 20 | 18–22 | 18–22 | 17–23 | 17–23 |
+| [4–6 February 2025](2025-02-06-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [4–5 February 2025](2025-02-05-Eumetra.html) | Eumetra <br> La7 | 20 | 19–22 | 18–23 | 17–23 | 17–24 |
+| [4–5 February 2025](2025-02-05-EMG.html) | EMG |  |  |  |  |  |
 | [3 February 2025](2025-02-03-SWG.html) | SWG <br> La7 | 20 | 20–22 | 19–22 | 19–23 | 18–23 |
+| [2–3 February 2025](2025-02-03-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 21 | 20–24 | 20–24 | 19–24 | 19–25 |
 | [29–31 January 2025](2025-01-31-Lab2101.html) | Lab2101 <br> Affari Italiani | 20 | 19–22 | 18–22 | 18–22 | 16–23 |
+| [28–30 January 2025](2025-01-30-Ipsos.html) | Ipsos |  |  |  |  |  |
 | [28–29 January 2025](2025-01-29-Eumetra.html) | Eumetra <br> La7 | 21 | 19–23 | 19–23 | 18–23 | 17–24 |
 | [27–28 January 2025](2025-01-28-Demopolis.html) | Demopolis | 20 | 20–22 | 20–23 | 19–23 | 19–24 |
 | [22–27 January 2025](2025-01-27-SWG.html) | SWG <br> La7 | 21 | 20–23 | 19–23 | 19–23 | 18–24 |
@@ -339,15 +370,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
 | 16 | 0.2% | 100% |  |
-| 17 | 1.1% | 99.8% |  |
-| 18 | 4% | 98.8% |  |
-| 19 | 12% | 95% |  |
-| 20 | 32% | 83% |  |
-| 21 | 21% | 50% | Median |
-| 22 | 20% | 29% |  |
-| 23 | 6% | 9% |  |
+| 17 | 1.3% | 99.8% |  |
+| 18 | 6% | 98.5% |  |
+| 19 | 16% | 92% |  |
+| 20 | 29% | 76% | Median |
+| 21 | 22% | 47% |  |
+| 22 | 15% | 25% |  |
+| 23 | 7% | 10% |  |
 | 24 | 2% | 3% |  |
-| 25 | 1.0% | 1.0% |  |
+| 25 | 0.6% | 0.7% |  |
 | 26 | 0.1% | 0.1% |  |
 | 27 | 0% | 0% |  |
 
