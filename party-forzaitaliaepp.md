@@ -186,7 +186,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–9 | 6–9 | 5–10 | 5–11 |
+| N/A | [Poll Average](average.html) | 7 | 6–9 | 5–9 | 5–10 | 5–11 |
 | [18–19 February 2025](2025-02-19-Eumetra.html) | Eumetra <br> La7 | 7 | 6–9 | 5–9 | 5–10 | 5–10 |
 | [12–17 February 2025](2025-02-17-SWG.html) | SWG <br> La7 | 8 | 6–9 | 6–9 | 6–9 | 6–10 |
 | [14–16 February 2025](2025-02-16-Euromedia.html) | Euromedia <br> Rai 1 | 8 | 6–8 | 6–9 | 6–9 | 6–10 |
@@ -203,9 +203,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [4–5 February 2025](2025-02-05-Eumetra.html) | Eumetra <br> La7 | 7 | 6–9 | 6–9 | 5–9 | 5–10 |
 | [4–5 February 2025](2025-02-05-EMG.html) | EMG |  |  |  |  |  |
 | [3 February 2025](2025-02-03-SWG.html) | SWG <br> La7 | 8 | 7–9 | 6–9 | 6–9 | 5–9 |
-| [2–3 February 2025](2025-02-03-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
+| [2–3 February 2025](2025-02-03-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
 | [29–31 January 2025](2025-01-31-Lab2101.html) | Lab2101 <br> Affari Italiani | 6 | 6–8 | 6–8 | 5–8 | 5–9 |
-| [28–30 January 2025](2025-01-30-Ipsos.html) | Ipsos | 7 | 6–7 | 5–8 | 5–8 | 5–9 |
+| [28–30 January 2025](2025-01-30-Ipsos.html) | Ipsos | 6 | 5–8 | 5–8 | 5–8 | 4–9 |
 | [28–29 January 2025](2025-01-29-Eumetra.html) | Eumetra <br> La7 | 7 | 6–8 | 6–9 | 6–9 | 5–10 |
 | [27–28 January 2025](2025-01-28-Demopolis.html) | Demopolis | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
 | [22–27 January 2025](2025-01-27-SWG.html) | SWG <br> La7 | 7 | 7–8 | 6–9 | 6–9 | 6–9 |
@@ -342,10 +342,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 0.1% | 100% |  |
-| 5 | 4% | 99.9% |  |
-| 6 | 19% | 95% |  |
-| 7 | 41% | 77% | Median |
+| 4 | 0.2% | 100% |  |
+| 5 | 5% | 99.8% |  |
+| 6 | 20% | 95% |  |
+| 7 | 38% | 75% | Median |
 | 8 | 25% | 36% |  |
 | 9 | 8% | 11% |  |
 | 10 | 2% | 3% |  |

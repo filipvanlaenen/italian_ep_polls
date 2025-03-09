@@ -201,7 +201,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 19–23 | 18–23 | 18–24 | 17–24 |
+| N/A | [Poll Average](average.html) | 20 | 19–22 | 18–23 | 18–23 | 17–24 |
 | [18–19 February 2025](2025-02-19-Eumetra.html) | Eumetra <br> La7 | 20 | 19–23 | 18–23 | 18–23 | 17–24 |
 | [12–17 February 2025](2025-02-17-SWG.html) | SWG <br> La7 | 20 | 19–22 | 18–22 | 18–22 | 17–23 |
 | [14–16 February 2025](2025-02-16-Euromedia.html) | Euromedia <br> Rai 1 | 21 | 19–23 | 19–23 | 19–24 | 18–24 |
@@ -218,9 +218,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [4–5 February 2025](2025-02-05-Eumetra.html) | Eumetra <br> La7 | 20 | 19–22 | 18–23 | 17–23 | 17–24 |
 | [4–5 February 2025](2025-02-05-EMG.html) | EMG |  |  |  |  |  |
 | [3 February 2025](2025-02-03-SWG.html) | SWG <br> La7 | 20 | 20–22 | 19–22 | 19–23 | 18–23 |
-| [2–3 February 2025](2025-02-03-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 21 | 20–24 | 20–24 | 19–24 | 19–25 |
+| [2–3 February 2025](2025-02-03-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 21 | 20–23 | 20–24 | 19–24 | 19–25 |
 | [29–31 January 2025](2025-01-31-Lab2101.html) | Lab2101 <br> Affari Italiani | 20 | 19–22 | 18–22 | 18–22 | 16–23 |
-| [28–30 January 2025](2025-01-30-Ipsos.html) | Ipsos | 20 | 18–22 | 18–23 | 18–23 | 17–24 |
+| [28–30 January 2025](2025-01-30-Ipsos.html) | Ipsos | 20 | 18–22 | 18–22 | 18–23 | 17–23 |
 | [28–29 January 2025](2025-01-29-Eumetra.html) | Eumetra <br> La7 | 21 | 19–23 | 19–23 | 18–23 | 17–24 |
 | [27–28 January 2025](2025-01-28-Demopolis.html) | Demopolis | 20 | 20–22 | 20–23 | 19–23 | 19–24 |
 | [22–27 January 2025](2025-01-27-SWG.html) | SWG <br> La7 | 21 | 20–23 | 19–23 | 19–23 | 18–24 |
@@ -372,13 +372,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 0.1% | 100% |  |
 | 17 | 1.2% | 99.9% |  |
 | 18 | 6% | 98.6% |  |
-| 19 | 17% | 92% |  |
-| 20 | 28% | 76% | Median |
-| 21 | 24% | 48% |  |
-| 22 | 14% | 25% |  |
+| 19 | 16% | 92% |  |
+| 20 | 28% | 77% | Median |
+| 21 | 25% | 48% |  |
+| 22 | 13% | 23% |  |
 | 23 | 8% | 10% |  |
-| 24 | 2% | 3% |  |
-| 25 | 0.4% | 0.4% |  |
+| 24 | 2% | 2% |  |
+| 25 | 0.4% | 0.5% |  |
 | 26 | 0.1% | 0.1% |  |
 | 27 | 0% | 0% |  |
 

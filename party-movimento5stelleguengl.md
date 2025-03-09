@@ -205,9 +205,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [4–5 February 2025](2025-02-05-Eumetra.html) | Eumetra <br> La7 | 10 | 9–11 | 9–12 | 8–12 | 7–13 |
 | [4–5 February 2025](2025-02-05-EMG.html) | EMG |  |  |  |  |  |
 | [3 February 2025](2025-02-03-SWG.html) | SWG <br> La7 | 10 | 10–12 | 10–12 | 9–13 | 9–13 |
-| [2–3 February 2025](2025-02-03-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 11 | 9–12 | 9–12 | 9–13 | 8–13 |
+| [2–3 February 2025](2025-02-03-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 10 | 9–12 | 9–12 | 9–13 | 8–13 |
 | [29–31 January 2025](2025-01-31-Lab2101.html) | Lab2101 <br> Affari Italiani | 9 | 9–11 | 9–12 | 8–12 | 8–12 |
-| [28–30 January 2025](2025-01-30-Ipsos.html) | Ipsos | 11 | 10–12 | 9–12 | 8–13 | 8–13 |
+| [28–30 January 2025](2025-01-30-Ipsos.html) | Ipsos | 11 | 10–12 | 9–12 | 9–13 | 8–14 |
 | [28–29 January 2025](2025-01-29-Eumetra.html) | Eumetra <br> La7 | 10 | 9–11 | 9–12 | 8–12 | 8–13 |
 | [27–28 January 2025](2025-01-28-Demopolis.html) | Demopolis | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
 | [22–27 January 2025](2025-01-27-SWG.html) | SWG <br> La7 | 10 | 10–11 | 10–12 | 9–12 | 9–13 |
@@ -351,10 +351,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 3% | 99.8% |  |
 | 9 | 16% | 97% |  |
 | 10 | 44% | 81% | Median |
-| 11 | 24% | 37% |  |
+| 11 | 25% | 37% |  |
 | 12 | 10% | 13% |  |
 | 13 | 2% | 3% |  |
-| 14 | 0.3% | 0.3% |  |
+| 14 | 0.3% | 0.4% |  |
 | 15 | 0% | 0% |  |
 
 
