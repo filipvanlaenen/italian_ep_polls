@@ -10,10 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.9% | 1.4–2.7% | 1.3–2.9% | 1.2–3.1% | 1.0–3.6% |
+| N/A | [Poll Average](average.html) | 2.0% | 1.5–2.8% | 1.3–3.0% | 1.2–3.2% | 1.0–3.7% |
 | [6–7 February 2025](2025-02-07-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 2.4% | 1.8–3.2% | 1.6–3.4% | 1.5–3.7% | 1.3–4.1% |
 | [4–5 February 2025](2025-02-05-Eumetra.html) | Eumetra <br> La7 | 1.9% | 1.4–2.7% | 1.2–2.9% | 1.1–3.1% | 0.9–3.5% |
 | [3 February 2025](2025-02-03-SWG.html) | SWG <br> La7 | 2.1% | 1.6–2.7% | 1.5–2.9% | 1.4–3.1% | 1.2–3.4% |
+| [29–31 January 2025](2025-01-31-Lab2101.html) | Lab2101 <br> Affari Italiani | 2.4% | 1.9–3.2% | 1.7–3.4% | 1.6–3.6% | 1.4–3.9% |
 | [28–29 January 2025](2025-01-29-Eumetra.html) | Eumetra <br> La7 | 1.9% | 1.4–2.7% | 1.2–2.9% | 1.1–3.1% | 0.9–3.5% |
 | [27–28 January 2025](2025-01-28-Demopolis.html) | Demopolis | 1.6% | 1.3–2.0% | 1.2–2.1% | 1.1–2.3% | 1.0–2.5% |
 | [22–27 January 2025](2025-01-27-SWG.html) | SWG <br> La7 | 2.0% | 1.6–2.6% | 1.4–2.8% | 1.3–3.0% | 1.2–3.3% |
@@ -145,10 +146,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 18% | 100% |  |
-| 1.5–2.5% | 69% | 82% | Median |
-| 2.5–3.5% | 13% | 14% |  |
-| 3.5–4.5% | 0.6% | 0.6% |  |
+| 0.5–1.5% | 16% | 100% |  |
+| 1.5–2.5% | 67% | 84% | Median |
+| 2.5–3.5% | 16% | 17% |  |
+| 3.5–4.5% | 0.9% | 0.9% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -164,6 +165,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [6–7 February 2025](2025-02-07-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0 | 0 | 0 |
 | [4–5 February 2025](2025-02-05-Eumetra.html) | Eumetra <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [3 February 2025](2025-02-03-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
+| [29–31 January 2025](2025-01-31-Lab2101.html) | Lab2101 <br> Affari Italiani | 0 | 0 | 0 | 0 | 0 |
 | [28–29 January 2025](2025-01-29-Eumetra.html) | Eumetra <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [27–28 January 2025](2025-01-28-Demopolis.html) | Demopolis | 0 | 0 | 0 | 0 | 0 |
 | [22–27 January 2025](2025-01-27-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
