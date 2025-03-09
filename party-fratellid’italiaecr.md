@@ -192,11 +192,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27 | 25–30 | 24–30 | 24–31 | 22–32 |
+| N/A | [Poll Average](average.html) | 27 | 25–29 | 24–30 | 24–30 | 22–32 |
 | [6–7 February 2025](2025-02-07-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 25 | 24–28 | 23–28 | 22–29 | 22–30 |
 | [4–5 February 2025](2025-02-05-Eumetra.html) | Eumetra <br> La7 | 27 | 25–28 | 24–29 | 23–29 | 22–30 |
 | [3 February 2025](2025-02-03-SWG.html) | SWG <br> La7 | 28 | 26–29 | 25–29 | 24–29 | 24–30 |
-| [29–31 January 2025](2025-01-31-Lab2101.html) | Lab2101 <br> Affari Italiani | 30 | 27–32 | 26–32 | 25–32 | 25–32 |
+| [29–31 January 2025](2025-01-31-Lab2101.html) | Lab2101 <br> Affari Italiani | 30 | 26–32 | 26–32 | 25–32 | 25–32 |
 | [28–29 January 2025](2025-01-29-Eumetra.html) | Eumetra <br> La7 | 26 | 24–28 | 24–28 | 23–29 | 22–30 |
 | [27–28 January 2025](2025-01-28-Demopolis.html) | Demopolis | 27 | 26–28 | 25–28 | 24–28 | 24–29 |
 | [22–27 January 2025](2025-01-27-SWG.html) | SWG <br> La7 | 27 | 25–28 | 25–29 | 25–30 | 24–31 |
@@ -356,12 +356,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 24 | 5% | 98% |  |
 | 25 | 11% | 92% |  |
 | 26 | 21% | 81% |  |
-| 27 | 23% | 61% | Median |
-| 28 | 16% | 38% |  |
-| 29 | 11% | 22% |  |
-| 30 | 8% | 11% |  |
-| 31 | 0.6% | 3% |  |
-| 32 | 2% | 2% |  |
+| 27 | 23% | 60% | Median |
+| 28 | 17% | 37% |  |
+| 29 | 11% | 20% |  |
+| 30 | 7% | 9% |  |
+| 31 | 0.7% | 2% |  |
+| 32 | 1.4% | 1.4% |  |
 | 33 | 0% | 0% |  |
 
 
