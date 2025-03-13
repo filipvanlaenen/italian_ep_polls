@@ -188,13 +188,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0–4 | 0–4 | 0–4 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | [26–27 February 2025](2025-02-27-Tecnè.html) | Tecnè | 0 | 0 | 0 | 0–4 | 0–4 |
-| [21–27 February 2025](2025-02-27-Ixè.html) | Ixè | 0 | 0 | 0–4 | 0–4 | 0–4 |
-| [25–27 February 2025](2025-02-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0–3 |
+| [21–27 February 2025](2025-02-27-Ixè.html) | Ixè | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [25–27 February 2025](2025-02-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
 | [17–26 February 2025](2025-02-26-Winpoll.html) | Winpoll | 0 | 0 | 0 | 0 | 0 |
-| [25–26 February 2025](2025-02-26-Euromedia.html) | Euromedia <br> La7 | 0 | 0 | 0–4 | 0–4 | 0–4 |
-| [19–24 February 2025](2025-02-24-SWG.html) | SWG <br> La7 | 0 | 0 | 0–4 | 0–4 | 0–4 |
+| [25–26 February 2025](2025-02-26-Euromedia.html) | Euromedia <br> La7 | 0 | 0 | 0 | 0–4 | 0–4 |
+| [19–24 February 2025](2025-02-24-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0–4 | 0–4 |
 | [22–24 February 2025](2025-02-24-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
 | [18–20 February 2025](2025-02-20-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [19–20 February 2025](2025-02-20-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
@@ -351,10 +351,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 94% | 100% | Last Result, Median |
-| 1 | 0% | 6% |  |
-| 2 | 0% | 6% |  |
-| 3 | 0.6% | 6% |  |
+| 0 | 95% | 100% | Last Result, Median |
+| 1 | 0% | 5% |  |
+| 2 | 0% | 5% |  |
+| 3 | 0.6% | 5% |  |
 | 4 | 5% | 5% |  |
 | 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% |  |

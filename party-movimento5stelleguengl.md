@@ -200,18 +200,18 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10 | 9–12 | 9–12 | 8–13 | 8–13 |
-| [26–27 February 2025](2025-02-27-Tecnè.html) | Tecnè | 10 | 9–11 | 8–12 | 8–12 | 8–13 |
-| [21–27 February 2025](2025-02-27-Ixè.html) | Ixè | 11 | 10–12 | 10–12 | 10–13 | 9–13 |
-| [25–27 February 2025](2025-02-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 11 | 10–13 | 10–13 | 10–14 | 9–14 |
+| [26–27 February 2025](2025-02-27-Tecnè.html) | Tecnè | 10 | 9–11 | 8–11 | 8–12 | 8–13 |
+| [21–27 February 2025](2025-02-27-Ixè.html) | Ixè | 11 | 10–12 | 10–12 | 9–13 | 9–13 |
+| [25–27 February 2025](2025-02-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 12 | 10–13 | 10–13 | 9–13 | 9–14 |
 | [17–26 February 2025](2025-02-26-Winpoll.html) | Winpoll | 9 | 8–10 | 8–11 | 8–11 | 8–11 |
-| [25–26 February 2025](2025-02-26-Euromedia.html) | Euromedia <br> La7 | 10 | 9–11 | 9–12 | 9–13 | 8–13 |
-| [19–24 February 2025](2025-02-24-SWG.html) | SWG <br> La7 | 11 | 10–13 | 10–13 | 9–13 | 9–13 |
-| [22–24 February 2025](2025-02-24-BiDiMedia.html) | BiDiMedia | 10 | 9–12 | 9–13 | 9–13 | 9–13 |
+| [25–26 February 2025](2025-02-26-Euromedia.html) | Euromedia <br> La7 | 11 | 9–12 | 9–12 | 9–13 | 8–13 |
+| [19–24 February 2025](2025-02-24-SWG.html) | SWG <br> La7 | 11 | 10–13 | 10–13 | 10–13 | 9–13 |
+| [22–24 February 2025](2025-02-24-BiDiMedia.html) | BiDiMedia | 11 | 10–12 | 9–12 | 9–12 | 9–13 |
 | [18–20 February 2025](2025-02-20-TermometroPolitico.html) | Termometro Politico | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
 | [19–20 February 2025](2025-02-20-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [17–20 February 2025](2025-02-20-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
 | [18–19 February 2025](2025-02-19-Eumetra.html) | Eumetra <br> La7 | 10 | 9–12 | 9–12 | 9–13 | 8–14 |
-| [18–19 February 2025](2025-02-19-EMG.html) | EMG <br> Rai 3 | 10 | 9–12 | 9–12 | 8–13 | 8–13 |
+| [18–19 February 2025](2025-02-19-EMG.html) | EMG <br> Rai 3 | 10 | 9–12 | 9–12 | 9–13 | 8–13 |
 | [12–17 February 2025](2025-02-17-SWG.html) | SWG <br> La7 | 10 | 10–12 | 10–12 | 9–12 | 8–13 |
 | [14–16 February 2025](2025-02-16-Euromedia.html) | Euromedia <br> Rai 1 | 11 | 9–11 | 9–12 | 9–12 | 8–13 |
 | [13–14 February 2025](2025-02-14-Tecnè.html) | Tecnè <br> Agenzia Dire | 10 | 9–11 | 8–11 | 8–12 | 7–12 |
@@ -371,12 +371,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0.1% | 100% |  |
 | 8 | 3% | 99.9% |  |
-| 9 | 18% | 97% |  |
-| 10 | 39% | 79% | Median |
-| 11 | 25% | 40% |  |
-| 12 | 10% | 15% |  |
+| 9 | 17% | 97% |  |
+| 10 | 37% | 80% | Median |
+| 11 | 27% | 43% |  |
+| 12 | 11% | 16% |  |
 | 13 | 4% | 5% |  |
-| 14 | 0.4% | 0.5% |  |
+| 14 | 0.4% | 0.4% |  |
 | 15 | 0% | 0% |  |
 
 

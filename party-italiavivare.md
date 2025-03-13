@@ -189,18 +189,18 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–4 |
-| [26–27 February 2025](2025-02-27-Tecnè.html) | Tecnè | 0 | 0 | 0 | 0 | 0–3 |
+| [26–27 February 2025](2025-02-27-Tecnè.html) | Tecnè | 0 | 0 | 0 | 0 | 0 |
 | [21–27 February 2025](2025-02-27-Ixè.html) | Ixè | 0 | 0 | 0 | 0 | 0 |
 | [25–27 February 2025](2025-02-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
 | [17–26 February 2025](2025-02-26-Winpoll.html) | Winpoll | 0 | 0 | 0 | 0 | 0 |
-| [25–26 February 2025](2025-02-26-Euromedia.html) | Euromedia <br> La7 | 0 | 0 | 0 | 0–4 | 0–4 |
+| [25–26 February 2025](2025-02-26-Euromedia.html) | Euromedia <br> La7 | 0 | 0 | 0 | 0 | 0–4 |
 | [19–24 February 2025](2025-02-24-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0–4 |
 | [22–24 February 2025](2025-02-24-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
 | [18–20 February 2025](2025-02-20-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [19–20 February 2025](2025-02-20-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [17–20 February 2025](2025-02-20-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
 | [18–19 February 2025](2025-02-19-Eumetra.html) | Eumetra <br> La7 | 0 | 0 | 0 | 0–4 | 0–4 |
-| [18–19 February 2025](2025-02-19-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0–3 |
+| [18–19 February 2025](2025-02-19-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0–4 |
 | [12–17 February 2025](2025-02-17-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0–4 | 0–4 |
 | [14–16 February 2025](2025-02-16-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0 | 0–4 |
 | [13–14 February 2025](2025-02-14-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |

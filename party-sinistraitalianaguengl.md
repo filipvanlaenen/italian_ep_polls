@@ -190,7 +190,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [26–27 February 2025](2025-02-27-Tecnè.html) | Tecnè | 0 | 0 | 0 | 0 | 0 |
-| [21–27 February 2025](2025-02-27-Ixè.html) | Ixè | 0 | 0 | 0 | 0 | 0 |
+| [21–27 February 2025](2025-02-27-Ixè.html) | Ixè | 0 | 0 | 0 | 0 | 0–4 |
 | [25–27 February 2025](2025-02-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
 | [17–26 February 2025](2025-02-26-Winpoll.html) | Winpoll | 0 | 0 | 0 | 0 | 0 |
 | [25–26 February 2025](2025-02-26-Euromedia.html) | Euromedia <br> La7 | 0 | 0 | 0 | 0 | 0 |
