@@ -206,8 +206,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [12–17 March 2025](2025-03-17-SWG.html) | SWG <br> La7 | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
 | [12–13 March 2025](2025-03-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 6–8 | 6–8 | 5–9 | 5–10 |
 | [5–10 March 2025](2025-03-10-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [6–7 March 2025](2025-03-07-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 7 | 7–8 | 6–9 | 6–9 | 5–9 |
-| [4–6 March 2025](2025-03-06-TermometroPolitico.html) | Termometro Politico | 8 | 7–8 | 7–8 | 7–9 | 7–9 |
+| [6–7 March 2025](2025-03-07-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
+| [4–6 March 2025](2025-03-06-TermometroPolitico.html) | Termometro Politico | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
 | [5–6 March 2025](2025-03-06-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [26 February–3 March 2025](2025-03-03-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [26–27 February 2025](2025-02-27-Tecnè.html) | Tecnè | 7 | 6–8 | 6–9 | 6–9 | 5–9 |
@@ -378,9 +378,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0.6% | 100% |  |
-| 6 | 17% | 99.4% |  |
+| 6 | 18% | 99.4% |  |
 | 7 | 36% | 82% | Median |
-| 8 | 35% | 46% |  |
+| 8 | 34% | 45% |  |
 | 9 | 9% | 11% |  |
 | 10 | 2% | 2% |  |
 | 11 | 0% | 0% |  |
