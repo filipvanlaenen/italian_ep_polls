@@ -205,8 +205,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–9 | 6–9 | 5–10 | 5–11 |
-| [12–17 March 2025](2025-03-17-SWG.html) | SWG <br> La7 | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
-| [12–13 March 2025](2025-03-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 9 | 8–10 | 8–11 | 7–12 | 7–12 |
+| [12–17 March 2025](2025-03-17-SWG.html) | SWG <br> La7 | 7 | 7–8 | 6–9 | 6–9 | 5–9 |
+| [12–13 March 2025](2025-03-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 9 | 8–10 | 8–11 | 8–11 | 7–12 |
 | [5–10 March 2025](2025-03-10-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [6–7 March 2025](2025-03-07-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 7 | 6–9 | 6–9 | 5–9 | 5–10 |
 | [4–6 March 2025](2025-03-06-TermometroPolitico.html) | Termometro Politico | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
@@ -381,12 +381,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0.1% | 100% |  |
 | 5 | 3% | 99.9% |  |
 | 6 | 24% | 96% |  |
-| 7 | 41% | 73% | Median |
-| 8 | 13% | 31% |  |
-| 9 | 15% | 19% |  |
-| 10 | 2% | 3% |  |
-| 11 | 0.5% | 0.8% |  |
-| 12 | 0.3% | 0.3% |  |
+| 7 | 40% | 73% | Median |
+| 8 | 15% | 33% |  |
+| 9 | 15% | 18% |  |
+| 10 | 3% | 3% |  |
+| 11 | 0.7% | 0.9% |  |
+| 12 | 0.2% | 0.2% |  |
 | 13 | 0% | 0% |  |
 
 
