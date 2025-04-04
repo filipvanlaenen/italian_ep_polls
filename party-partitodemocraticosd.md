@@ -10,8 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.8% | 20.9–24.9% | 20.4–25.4% | 20.0–25.9% | 19.2–26.8% |
-| [26–27 March 2025](2025-03-27-TermometroPolitico.html) | Termometro Politico | 22.2% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 22.7% | 21.0–24.8% | 20.5–25.3% | 20.1–25.8% | 19.3–26.7% |
+| [26–27 March 2025](2025-03-27-TermometroPolitico.html) | Termometro Politico | 22.2% | 21.2–23.2% | 21.0–23.5% | 20.7–23.8% | 20.3–24.2% |
 | [12–17 March 2025](2025-03-17-SWG.html) | SWG <br> La7 | 22.7% | 21.2–24.3% | 20.7–24.7% | 20.4–25.1% | 19.7–25.9% |
 | [12–13 March 2025](2025-03-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 22.2% | 20.6–24.0% | 20.1–24.4% | 19.7–24.9% | 19.0–25.7% |
 | [5–10 March 2025](2025-03-10-SWG.html) | SWG <br> La7 | 22.4% | N/A | N/A | N/A | N/A |
@@ -198,15 +198,15 @@ The following table shows the probability mass function per percentage block of 
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0% | 100% |  |
 | 17.5–18.5% | 0.1% | 100% |  |
-| 18.5–19.5% | 1.0% | 99.9% |  |
-| 19.5–20.5% | 5% | 98.9% |  |
-| 20.5–21.5% | 14% | 94% |  |
-| 21.5–22.5% | 23% | 80% |  |
-| 22.5–23.5% | 25% | 57% | Median |
-| 23.5–24.5% | 19% | 33% |  |
-| 24.5–25.5% | 10% | 14% |  |
+| 18.5–19.5% | 0.8% | 99.9% |  |
+| 19.5–20.5% | 4% | 99.1% |  |
+| 20.5–21.5% | 14% | 95% |  |
+| 21.5–22.5% | 26% | 81% |  |
+| 22.5–23.5% | 25% | 54% | Median |
+| 23.5–24.5% | 17% | 29% |  |
+| 24.5–25.5% | 9% | 12% |  |
 | 25.5–26.5% | 3% | 4% |  |
-| 26.5–27.5% | 0.7% | 0.8% |  |
+| 26.5–27.5% | 0.6% | 0.7% |  |
 | 27.5–28.5% | 0.1% | 0.1% |  |
 | 28.5–29.5% | 0% | 0% |  |
 
@@ -219,8 +219,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 19–22 | 18–23 | 18–23 | 17–24 |
-| [26–27 March 2025](2025-03-27-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 20 | 19–22 | 18–22 | 18–23 | 17–24 |
+| [26–27 March 2025](2025-03-27-TermometroPolitico.html) | Termometro Politico | 21 | 20–21 | 19–22 | 19–22 | 19–23 |
 | [12–17 March 2025](2025-03-17-SWG.html) | SWG <br> La7 | 21 | 19–22 | 19–22 | 18–22 | 18–23 |
 | [12–13 March 2025](2025-03-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 20 | 18–22 | 17–22 | 17–22 | 17–23 |
 | [5–10 March 2025](2025-03-10-SWG.html) | SWG <br> La7 |  |  |  |  |  |
@@ -406,15 +406,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
-| 16 | 0.4% | 100% |  |
-| 17 | 2% | 99.6% |  |
-| 18 | 7% | 98% |  |
-| 19 | 17% | 91% |  |
-| 20 | 30% | 75% | Median |
-| 21 | 27% | 44% |  |
-| 22 | 13% | 18% |  |
+| 16 | 0.3% | 100% |  |
+| 17 | 1.4% | 99.7% |  |
+| 18 | 6% | 98% |  |
+| 19 | 16% | 92% |  |
+| 20 | 30% | 77% | Median |
+| 21 | 30% | 47% |  |
+| 22 | 12% | 17% |  |
 | 23 | 4% | 5% |  |
-| 24 | 0.7% | 0.7% |  |
+| 24 | 0.6% | 0.6% |  |
 | 25 | 0% | 0% |  |
 
 
