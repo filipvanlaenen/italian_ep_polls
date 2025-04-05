@@ -204,7 +204,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
-| [26–27 March 2025](2025-03-27-TermometroPolitico.html) | Termometro Politico | 9 | 8–9 | 7–9 | 7–9 | 7–9 |
+| [26–27 March 2025](2025-03-27-TermometroPolitico.html) | Termometro Politico | 8 | 7–9 | 7–9 | 7–9 | 7–9 |
 | [12–17 March 2025](2025-03-17-SWG.html) | SWG <br> La7 | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
 | [12–13 March 2025](2025-03-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 6–8 | 6–8 | 5–9 | 5–10 |
 | [5–10 March 2025](2025-03-10-SWG.html) | SWG <br> La7 |  |  |  |  |  |
@@ -381,9 +381,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0.8% | 100% |  |
 | 6 | 22% | 99.2% |  |
-| 7 | 36% | 78% | Median |
-| 8 | 27% | 41% |  |
-| 9 | 13% | 14% |  |
+| 7 | 37% | 78% | Median |
+| 8 | 28% | 41% |  |
+| 9 | 12% | 13% |  |
 | 10 | 0.5% | 0.5% |  |
 | 11 | 0% | 0% |  |
 
