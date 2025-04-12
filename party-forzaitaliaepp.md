@@ -10,11 +10,14 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.1% | 7.9–11.2% | 7.6–12.0% | 7.3–12.5% | 6.8–13.5% |
+| N/A | [Poll Average](average.html) | 9.0% | 7.8–11.0% | 7.5–11.9% | 7.3–12.4% | 6.8–13.4% |
+| [2–7 April 2025](2025-04-07-SWG.html) | SWG <br> La7 | 8.9% | 7.9–10.1% | 7.7–10.4% | 7.4–10.7% | 7.0–11.2% |
+| [2–4 April 2025](2025-04-04-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 9.2% | 8.0–10.6% | 7.7–11.0% | 7.4–11.4% | 6.8–12.1% |
 | [1–2 April 2025](2025-04-02-Eumetra.html) | Eumetra <br> La7 | 9.0% | 7.8–10.4% | 7.5–10.8% | 7.2–11.2% | 6.7–11.9% |
 | [26–31 March 2025](2025-03-31-SWG.html) | SWG <br> La7 | 9.1% | 8.1–10.2% | 7.8–10.6% | 7.6–10.9% | 7.1–11.4% |
 | [26–27 March 2025](2025-03-27-TermometroPolitico.html) | Termometro Politico | 8.7% | 8.0–9.4% | 7.9–9.6% | 7.7–9.8% | 7.4–10.1% |
 | [25–27 March 2025](2025-03-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 8.4% | 7.4–9.6% | 7.1–10.0% | 6.8–10.3% | 6.4–10.9% |
+| [17–26 March 2025](2025-03-26-Winpoll.html) | Winpoll <br> Scenari Politici | 8.3% | 7.5–9.3% | 7.3–9.5% | 7.1–9.8% | 6.7–10.2% |
 | [25–26 March 2025](2025-03-26-Demopolis.html) | Demopolis <br> La7 | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
 | [19–24 March 2025](2025-03-24-SWG.html) | SWG <br> La7 | 9.3% | N/A | N/A | N/A | N/A |
 | [19–20 March 2025](2025-03-20-TermometroPolitico.html) | Termometro Politico | 8.7% | N/A | N/A | N/A | N/A |
@@ -193,14 +196,14 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0.2% | 100% |  |
-| 6.5–7.5% | 4% | 99.8% |  |
-| 7.5–8.5% | 24% | 96% |  |
-| 8.5–9.5% | 39% | 71% | Median |
-| 9.5–10.5% | 17% | 33% |  |
-| 10.5–11.5% | 8% | 15% |  |
-| 11.5–12.5% | 5% | 7% |  |
+| 6.5–7.5% | 5% | 99.8% |  |
+| 7.5–8.5% | 28% | 95% |  |
+| 8.5–9.5% | 38% | 67% | Median |
+| 9.5–10.5% | 16% | 29% |  |
+| 10.5–11.5% | 7% | 14% |  |
+| 11.5–12.5% | 4% | 7% |  |
 | 12.5–13.5% | 2% | 2% |  |
-| 13.5–14.5% | 0.4% | 0.4% |  |
+| 13.5–14.5% | 0.3% | 0.4% |  |
 | 14.5–15.5% | 0% | 0% |  |
 
 
@@ -213,10 +216,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–9 | 6–9 | 5–10 | 5–11 |
+| [2–7 April 2025](2025-04-07-SWG.html) | SWG <br> La7 | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
+| [2–4 April 2025](2025-04-04-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 7 | 6–8 | 6–9 | 5–9 | 5–9 |
 | [1–2 April 2025](2025-04-02-Eumetra.html) | Eumetra <br> La7 | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
 | [26–31 March 2025](2025-03-31-SWG.html) | SWG <br> La7 | 7 | 6–8 | 5–8 | 5–9 | 5–9 |
 | [26–27 March 2025](2025-03-27-TermometroPolitico.html) | Termometro Politico | 7 | 7–8 | 6–8 | 6–9 | 6–9 |
 | [25–27 March 2025](2025-03-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 6 | 6–7 | 5–8 | 5–9 | 5–9 |
+| [17–26 March 2025](2025-03-26-Winpoll.html) | Winpoll <br> Scenari Politici | 7 | 6–8 | 5–8 | 5–8 | 5–8 |
 | [25–26 March 2025](2025-03-26-Demopolis.html) | Demopolis <br> La7 | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | [19–24 March 2025](2025-03-24-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [19–20 March 2025](2025-03-20-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
@@ -397,11 +403,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0.1% | 100% |  |
 | 5 | 3% | 99.9% |  |
 | 6 | 25% | 97% |  |
-| 7 | 33% | 71% | Median |
-| 8 | 23% | 39% |  |
-| 9 | 11% | 16% |  |
-| 10 | 3% | 5% |  |
-| 11 | 1.0% | 1.4% |  |
+| 7 | 36% | 72% | Median |
+| 8 | 25% | 37% |  |
+| 9 | 8% | 12% |  |
+| 10 | 3% | 4% |  |
+| 11 | 0.9% | 1.2% |  |
 | 12 | 0.3% | 0.3% |  |
 | 13 | 0% | 0% |  |
 

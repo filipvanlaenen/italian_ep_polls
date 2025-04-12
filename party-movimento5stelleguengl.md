@@ -10,11 +10,14 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.9% | 10.6–13.8% | 10.3–14.5% | 10.0–15.0% | 9.4–15.9% |
+| N/A | [Poll Average](average.html) | 11.9% | 10.6–13.8% | 10.2–14.4% | 10.0–14.9% | 9.4–15.9% |
+| [2–7 April 2025](2025-04-07-SWG.html) | SWG <br> La7 | 12.2% | 11.0–13.5% | 10.7–13.8% | 10.4–14.1% | 9.9–14.8% |
+| [2–4 April 2025](2025-04-04-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 12.0% | 10.7–13.6% | 10.3–14.1% | 10.0–14.5% | 9.3–15.3% |
 | [1–2 April 2025](2025-04-02-Eumetra.html) | Eumetra <br> La7 | 12.2% | 10.9–13.9% | 10.5–14.3% | 10.2–14.7% | 9.5–15.5% |
 | [26–31 March 2025](2025-03-31-SWG.html) | SWG <br> La7 | 11.9% | 10.8–13.2% | 10.5–13.6% | 10.2–13.9% | 9.7–14.5% |
 | [26–27 March 2025](2025-03-27-TermometroPolitico.html) | Termometro Politico | 11.7% | 10.9–12.5% | 10.7–12.7% | 10.6–12.9% | 10.2–13.3% |
 | [25–27 March 2025](2025-03-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 13.8% | 12.5–15.3% | 12.1–15.7% | 11.8–16.1% | 11.2–16.8% |
+| [17–26 March 2025](2025-03-26-Winpoll.html) | Winpoll <br> Scenari Politici | 11.0% | 10.0–12.1% | 9.8–12.4% | 9.6–12.6% | 9.1–13.2% |
 | [25–26 March 2025](2025-03-26-Demopolis.html) | Demopolis <br> La7 | 11.4% | 10.5–12.4% | 10.3–12.6% | 10.1–12.9% | 9.7–13.4% |
 | [19–24 March 2025](2025-03-24-SWG.html) | SWG <br> La7 | 12.2% | N/A | N/A | N/A | N/A |
 | [19–20 March 2025](2025-03-20-TermometroPolitico.html) | Termometro Politico | 11.9% | N/A | N/A | N/A | N/A |
@@ -196,13 +199,13 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0.8% | 100% |  |
-| 9.5–10.5% | 7% | 99.1% |  |
-| 10.5–11.5% | 29% | 92% |  |
-| 11.5–12.5% | 33% | 63% | Median |
-| 12.5–13.5% | 17% | 30% |  |
-| 13.5–14.5% | 8% | 13% |  |
+| 9.5–10.5% | 8% | 99.2% |  |
+| 10.5–11.5% | 29% | 91% |  |
+| 11.5–12.5% | 32% | 62% | Median |
+| 12.5–13.5% | 17% | 29% |  |
+| 13.5–14.5% | 8% | 12% |  |
 | 14.5–15.5% | 3% | 4% |  |
-| 15.5–16.5% | 0.9% | 1.0% |  |
+| 15.5–16.5% | 0.8% | 0.9% |  |
 | 16.5–17.5% | 0.1% | 0.1% |  |
 | 17.5–18.5% | 0% | 0% |  |
 
@@ -216,10 +219,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11 | 9–12 | 9–13 | 9–14 | 8–14 |
+| [2–7 April 2025](2025-04-07-SWG.html) | SWG <br> La7 | 11 | 10–11 | 10–12 | 9–12 | 9–13 |
+| [2–4 April 2025](2025-04-04-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 11 | 9–12 | 9–12 | 9–13 | 8–13 |
 | [1–2 April 2025](2025-04-02-Eumetra.html) | Eumetra <br> La7 | 11 | 10–13 | 9–13 | 9–13 | 8–14 |
 | [26–31 March 2025](2025-03-31-SWG.html) | SWG <br> La7 | 11 | 10–12 | 10–12 | 9–12 | 8–13 |
 | [26–27 March 2025](2025-03-27-TermometroPolitico.html) | Termometro Politico | 11 | 10–12 | 10–12 | 10–12 | 10–13 |
 | [25–27 March 2025](2025-03-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 12 | 11–14 | 11–14 | 10–14 | 10–15 |
+| [17–26 March 2025](2025-03-26-Winpoll.html) | Winpoll <br> Scenari Politici | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
 | [25–26 March 2025](2025-03-26-Demopolis.html) | Demopolis <br> La7 | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
 | [19–24 March 2025](2025-03-24-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [19–20 March 2025](2025-03-20-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
@@ -401,14 +407,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 1.4% | 100% |  |
-| 9 | 12% | 98.5% |  |
-| 10 | 28% | 86% |  |
-| 11 | 35% | 58% | Median |
-| 12 | 14% | 23% |  |
-| 13 | 5% | 9% |  |
-| 14 | 4% | 4% |  |
-| 15 | 0.2% | 0.2% |  |
+| 8 | 1.2% | 100% |  |
+| 9 | 12% | 98.7% |  |
+| 10 | 31% | 86% |  |
+| 11 | 35% | 55% | Median |
+| 12 | 12% | 21% |  |
+| 13 | 5% | 8% |  |
+| 14 | 3% | 3% |  |
+| 15 | 0.1% | 0.1% |  |
 | 16 | 0% | 0% |  |
 
 
