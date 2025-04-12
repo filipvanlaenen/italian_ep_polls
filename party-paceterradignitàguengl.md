@@ -18,22 +18,37 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [26–27 March 2025](2025-03-27-TermometroPolitico.html) | Termometro Politico | 1.1% | 0.9–1.4% | 0.8–1.5% | 0.8–1.6% | 0.7–1.7% |
 | [25–27 March 2025](2025-03-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.0% | N/A | N/A | N/A | N/A |
 | [17–26 March 2025](2025-03-26-Winpoll.html) | Winpoll <br> Scenari Politici | 1.5% | 1.2–2.0% | 1.1–2.1% | 1.0–2.2% | 0.9–2.5% |
+| [13–26 March 2025](2025-03-26-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.0% | N/A | N/A | N/A | N/A |
 | [25–26 March 2025](2025-03-26-Demopolis.html) | Demopolis <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [24–25 March 2025](2025-03-25-Piepoli.html) | Piepoli | 0.0% | N/A | N/A | N/A | N/A |
 | [19–24 March 2025](2025-03-24-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [23 March 2025](2025-03-23-Lab2101.html) | Lab2101 <br> Affari Italiani | 0.0% | N/A | N/A | N/A | N/A |
+| [22 March 2025](2025-03-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [19–20 March 2025](2025-03-20-TermometroPolitico.html) | Termometro Politico | 1.2% | N/A | N/A | N/A | N/A |
+| [17–19 March 2025](2025-03-19-Piepoli.html) | Piepoli | 0.0% | N/A | N/A | N/A | N/A |
 | [18–19 March 2025](2025-03-19-Eumetra.html) | Eumetra <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [18 March 2025](2025-03-18-Euromedia.html) | Euromedia <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
 | [12–17 March 2025](2025-03-17-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [15 March 2025](2025-03-15-Lab2101.html) | Lab2101 <br> Affari Italiani | 0.0% | N/A | N/A | N/A | N/A |
+| [12–13 March 2025](2025-03-13-TermometroPolitico.html) | Termometro Politico | 1.3% | N/A | N/A | N/A | N/A |
 | [12–13 March 2025](2025-03-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
+| [11 March 2025](2025-03-11-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
 | [5–10 March 2025](2025-03-10-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [8 March 2025](2025-03-08-Lab2101.html) | Lab2101 <br> Affari Italiani | 0.0% | N/A | N/A | N/A | N/A |
+| [7 March 2025](2025-03-07-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [6–7 March 2025](2025-03-07-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.0% | N/A | N/A | N/A | N/A |
 | [4–6 March 2025](2025-03-06-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
 | [5–6 March 2025](2025-03-06-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
+| [6 March 2025](2025-03-06-Euromedia.html) | Euromedia <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
+| [5 March 2025](2025-03-05-Eumetra.html) | Eumetra <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [26 February–3 March 2025](2025-03-03-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [1 March 2025](2025-03-01-Winpoll.html) | Winpoll | 1.7% | N/A | N/A | N/A | N/A |
 | [26–27 February 2025](2025-02-27-Tecnè.html) | Tecnè | 0.0% | N/A | N/A | N/A | N/A |
 | [21–27 February 2025](2025-02-27-Ixè.html) | Ixè | 0.0% | N/A | N/A | N/A | N/A |
 | [25–27 February 2025](2025-02-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.0% | N/A | N/A | N/A | N/A |
 | [17–26 February 2025](2025-02-26-Winpoll.html) | Winpoll | 0.0% | N/A | N/A | N/A | N/A |
 | [25–26 February 2025](2025-02-26-Euromedia.html) | Euromedia <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [24–25 February 2025](2025-02-25-Piepoli.html) | Piepoli | 0.0% | N/A | N/A | N/A | N/A |
 | [19–24 February 2025](2025-02-24-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [22–24 February 2025](2025-02-24-BiDiMedia.html) | BiDiMedia | 1.5% | 1.1–2.1% | 1.0–2.2% | 0.9–2.4% | 0.8–2.7% |
 | [18–20 February 2025](2025-02-20-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
@@ -212,22 +227,37 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [26–27 March 2025](2025-03-27-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [25–27 March 2025](2025-03-27-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
 | [17–26 March 2025](2025-03-26-Winpoll.html) | Winpoll <br> Scenari Politici | 0 | 0 | 0 | 0 | 0 |
+| [13–26 March 2025](2025-03-26-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
 | [25–26 March 2025](2025-03-26-Demopolis.html) | Demopolis <br> La7 |  |  |  |  |  |
+| [24–25 March 2025](2025-03-25-Piepoli.html) | Piepoli |  |  |  |  |  |
 | [19–24 March 2025](2025-03-24-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [23 March 2025](2025-03-23-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
+| [22 March 2025](2025-03-22-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [19–20 March 2025](2025-03-20-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [17–19 March 2025](2025-03-19-Piepoli.html) | Piepoli |  |  |  |  |  |
 | [18–19 March 2025](2025-03-19-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
+| [18 March 2025](2025-03-18-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
 | [12–17 March 2025](2025-03-17-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [15 March 2025](2025-03-15-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
+| [12–13 March 2025](2025-03-13-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [12–13 March 2025](2025-03-13-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [11 March 2025](2025-03-11-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
 | [5–10 March 2025](2025-03-10-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [8 March 2025](2025-03-08-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
+| [7 March 2025](2025-03-07-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [6–7 March 2025](2025-03-07-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
 | [4–6 March 2025](2025-03-06-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [5–6 March 2025](2025-03-06-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [6 March 2025](2025-03-06-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
+| [5 March 2025](2025-03-05-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [26 February–3 March 2025](2025-03-03-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [1 March 2025](2025-03-01-Winpoll.html) | Winpoll |  |  |  |  |  |
 | [26–27 February 2025](2025-02-27-Tecnè.html) | Tecnè |  |  |  |  |  |
 | [21–27 February 2025](2025-02-27-Ixè.html) | Ixè |  |  |  |  |  |
 | [25–27 February 2025](2025-02-27-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
 | [17–26 February 2025](2025-02-26-Winpoll.html) | Winpoll |  |  |  |  |  |
 | [25–26 February 2025](2025-02-26-Euromedia.html) | Euromedia <br> La7 |  |  |  |  |  |
+| [24–25 February 2025](2025-02-25-Piepoli.html) | Piepoli |  |  |  |  |  |
 | [19–24 February 2025](2025-02-24-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [22–24 February 2025](2025-02-24-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
 | [18–20 February 2025](2025-02-20-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |

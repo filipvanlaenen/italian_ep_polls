@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.6% | 20.8–24.6% | 20.3–25.2% | 19.8–25.8% | 19.0–26.7% |
+| N/A | [Poll Average](average.html) | 22.6% | 20.6–24.7% | 20.0–25.2% | 19.5–25.8% | 18.6–26.7% |
 | [2–7 April 2025](2025-04-07-SWG.html) | SWG <br> La7 | 22.3% | 20.8–23.9% | 20.4–24.4% | 20.1–24.8% | 19.4–25.6% |
 | [2–4 April 2025](2025-04-04-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 22.5% | 20.7–24.4% | 20.1–25.0% | 19.7–25.5% | 18.9–26.4% |
 | [1–2 April 2025](2025-04-02-Eumetra.html) | Eumetra <br> La7 | 22.4% | 20.6–24.4% | 20.1–24.9% | 19.6–25.4% | 18.8–26.4% |
@@ -18,22 +18,37 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [26–27 March 2025](2025-03-27-TermometroPolitico.html) | Termometro Politico | 22.2% | 21.2–23.2% | 21.0–23.5% | 20.7–23.8% | 20.3–24.2% |
 | [25–27 March 2025](2025-03-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 21.5% | 19.9–23.2% | 19.4–23.7% | 19.1–24.2% | 18.3–25.0% |
 | [17–26 March 2025](2025-03-26-Winpoll.html) | Winpoll <br> Scenari Politici | 24.6% | 23.3–26.0% | 22.9–26.5% | 22.6–26.8% | 21.9–27.5% |
+| [13–26 March 2025](2025-03-26-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 23.1% | 21.4–24.9% | 21.0–25.4% | 20.6–25.8% | 19.8–26.7% |
 | [25–26 March 2025](2025-03-26-Demopolis.html) | Demopolis <br> La7 | 23.2% | 22.0–24.4% | 21.7–24.8% | 21.4–25.1% | 20.8–25.7% |
+| [24–25 March 2025](2025-03-25-Piepoli.html) | Piepoli | 22.0% | 19.8–24.5% | 19.1–25.2% | 18.6–25.8% | 17.6–27.1% |
 | [19–24 March 2025](2025-03-24-SWG.html) | SWG <br> La7 | 22.4% | N/A | N/A | N/A | N/A |
+| [23 March 2025](2025-03-23-Lab2101.html) | Lab2101 <br> Affari Italiani | 21.1% | 19.5–22.8% | 19.1–23.3% | 18.7–23.7% | 17.9–24.6% |
+| [22 March 2025](2025-03-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 22.5% | 20.9–24.3% | 20.4–24.8% | 20.0–25.2% | 19.3–26.1% |
 | [19–20 March 2025](2025-03-20-TermometroPolitico.html) | Termometro Politico | 22.1% | N/A | N/A | N/A | N/A |
+| [17–19 March 2025](2025-03-19-Piepoli.html) | Piepoli | 22.6% | N/A | N/A | N/A | N/A |
 | [18–19 March 2025](2025-03-19-Eumetra.html) | Eumetra <br> La7 | 22.8% | 20.9–24.7% | 20.4–25.3% | 20.0–25.8% | 19.1–26.8% |
+| [18 March 2025](2025-03-18-Euromedia.html) | Euromedia <br> Rai 1 | 23.4% | 21.7–25.2% | 21.3–25.7% | 20.9–26.1% | 20.1–27.0% |
 | [12–17 March 2025](2025-03-17-SWG.html) | SWG <br> La7 | 22.7% | 21.2–24.3% | 20.7–24.7% | 20.4–25.1% | 19.7–25.9% |
+| [15 March 2025](2025-03-15-Lab2101.html) | Lab2101 <br> Affari Italiani | 21.3% | N/A | N/A | N/A | N/A |
+| [12–13 March 2025](2025-03-13-TermometroPolitico.html) | Termometro Politico | 22.1% | N/A | N/A | N/A | N/A |
 | [12–13 March 2025](2025-03-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 22.2% | 20.6–24.0% | 20.1–24.4% | 19.7–24.9% | 19.0–25.7% |
+| [11 March 2025](2025-03-11-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 23.0% | 21.4–24.8% | 20.9–25.3% | 20.5–25.7% | 19.7–26.6% |
 | [5–10 March 2025](2025-03-10-SWG.html) | SWG <br> La7 | 22.4% | N/A | N/A | N/A | N/A |
+| [8 March 2025](2025-03-08-Lab2101.html) | Lab2101 <br> Affari Italiani | 21.2% | N/A | N/A | N/A | N/A |
+| [7 March 2025](2025-03-07-Tecnè.html) | Tecnè <br> Agenzia Dire | 22.4% | N/A | N/A | N/A | N/A |
 | [6–7 March 2025](2025-03-07-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 23.1% | 21.3–25.1% | 20.8–25.7% | 20.3–26.2% | 19.5–27.2% |
 | [4–6 March 2025](2025-03-06-TermometroPolitico.html) | Termometro Politico | 22.3% | 21.3–23.3% | 21.1–23.6% | 20.8–23.9% | 20.4–24.4% |
 | [5–6 March 2025](2025-03-06-Tecnè.html) | Tecnè <br> Agenzia Dire | 22.4% | N/A | N/A | N/A | N/A |
+| [6 March 2025](2025-03-06-Euromedia.html) | Euromedia <br> Rai 1 | 23.0% | N/A | N/A | N/A | N/A |
+| [5 March 2025](2025-03-05-Eumetra.html) | Eumetra <br> La7 | 22.8% | N/A | N/A | N/A | N/A |
 | [26 February–3 March 2025](2025-03-03-SWG.html) | SWG <br> La7 | 22.5% | N/A | N/A | N/A | N/A |
+| [1 March 2025](2025-03-01-Winpoll.html) | Winpoll | 24.4% | N/A | N/A | N/A | N/A |
 | [26–27 February 2025](2025-02-27-Tecnè.html) | Tecnè | 22.3% | 20.7–24.0% | 20.2–24.5% | 19.8–25.0% | 19.1–25.8% |
 | [21–27 February 2025](2025-02-27-Ixè.html) | Ixè | 21.9% | 20.3–23.7% | 19.8–24.1% | 19.4–24.6% | 18.7–25.4% |
 | [25–27 February 2025](2025-02-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 22.6% | 21.0–24.4% | 20.5–24.9% | 20.1–25.3% | 19.3–26.2% |
 | [17–26 February 2025](2025-02-26-Winpoll.html) | Winpoll | 24.4% | 23.0–25.9% | 22.6–26.3% | 22.3–26.6% | 21.6–27.4% |
 | [25–26 February 2025](2025-02-26-Euromedia.html) | Euromedia <br> La7 | 22.9% | 21.0–24.9% | 20.5–25.4% | 20.1–25.9% | 19.3–26.9% |
+| [24–25 February 2025](2025-02-25-Piepoli.html) | Piepoli | 22.8% | N/A | N/A | N/A | N/A |
 | [19–24 February 2025](2025-02-24-SWG.html) | SWG <br> La7 | 22.2% | 20.7–23.8% | 20.3–24.2% | 19.9–24.6% | 19.2–25.4% |
 | [22–24 February 2025](2025-02-24-BiDiMedia.html) | BiDiMedia | 23.8% | 22.2–25.4% | 21.8–25.8% | 21.4–26.2% | 20.7–27.0% |
 | [18–20 February 2025](2025-02-20-TermometroPolitico.html) | Termometro Politico | 22.3% | 21.3–23.3% | 21.0–23.6% | 20.8–23.9% | 20.3–24.4% |
@@ -206,17 +221,17 @@ The following table shows the probability mass function per percentage block of 
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0% | 100% |  |
-| 17.5–18.5% | 0.2% | 100% |  |
-| 18.5–19.5% | 1.4% | 99.8% |  |
-| 19.5–20.5% | 6% | 98% |  |
-| 20.5–21.5% | 15% | 93% |  |
-| 21.5–22.5% | 26% | 77% |  |
+| 16.5–17.5% | 0.1% | 100% |  |
+| 17.5–18.5% | 0.4% | 99.9% |  |
+| 18.5–19.5% | 2% | 99.5% |  |
+| 19.5–20.5% | 7% | 97% |  |
+| 20.5–21.5% | 15% | 91% |  |
+| 21.5–22.5% | 25% | 75% |  |
 | 22.5–23.5% | 24% | 51% | Median |
-| 23.5–24.5% | 16% | 26% |  |
+| 23.5–24.5% | 16% | 27% |  |
 | 24.5–25.5% | 8% | 11% |  |
 | 25.5–26.5% | 3% | 3% |  |
-| 26.5–27.5% | 0.6% | 0.6% |  |
+| 26.5–27.5% | 0.6% | 0.7% |  |
 | 27.5–28.5% | 0.1% | 0.1% |  |
 | 28.5–29.5% | 0% | 0% |  |
 
@@ -237,22 +252,37 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [26–27 March 2025](2025-03-27-TermometroPolitico.html) | Termometro Politico | 21 | 20–22 | 19–22 | 19–22 | 19–23 |
 | [25–27 March 2025](2025-03-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 19 | 17–20 | 17–21 | 17–21 | 16–22 |
 | [17–26 March 2025](2025-03-26-Winpoll.html) | Winpoll <br> Scenari Politici | 22 | 21–24 | 20–25 | 20–26 | 19–26 |
+| [13–26 March 2025](2025-03-26-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 20 | 18–22 | 18–22 | 18–22 | 17–24 |
 | [25–26 March 2025](2025-03-26-Demopolis.html) | Demopolis <br> La7 | 20 | 19–21 | 19–22 | 18–22 | 18–23 |
+| [24–25 March 2025](2025-03-25-Piepoli.html) | Piepoli | 19 | 18–22 | 17–22 | 16–23 | 15–24 |
 | [19–24 March 2025](2025-03-24-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [23 March 2025](2025-03-23-Lab2101.html) | Lab2101 <br> Affari Italiani | 19 | 18–20 | 17–22 | 16–22 | 16–22 |
+| [22 March 2025](2025-03-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 20 | 19–21 | 18–22 | 17–22 | 17–23 |
 | [19–20 March 2025](2025-03-20-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [17–19 March 2025](2025-03-19-Piepoli.html) | Piepoli |  |  |  |  |  |
 | [18–19 March 2025](2025-03-19-Eumetra.html) | Eumetra <br> La7 | 20 | 20–22 | 19–22 | 19–23 | 17–23 |
+| [18 March 2025](2025-03-18-Euromedia.html) | Euromedia <br> Rai 1 | 21 | 19–22 | 19–23 | 19–24 | 18–24 |
 | [12–17 March 2025](2025-03-17-SWG.html) | SWG <br> La7 | 21 | 19–22 | 19–22 | 18–22 | 18–23 |
+| [15 March 2025](2025-03-15-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
+| [12–13 March 2025](2025-03-13-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [12–13 March 2025](2025-03-13-Tecnè.html) | Tecnè <br> Agenzia Dire | 20 | 18–22 | 17–22 | 17–22 | 17–23 |
+| [11 March 2025](2025-03-11-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 21 | 19–22 | 19–23 | 18–24 | 18–24 |
 | [5–10 March 2025](2025-03-10-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [8 March 2025](2025-03-08-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
+| [7 March 2025](2025-03-07-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [6–7 March 2025](2025-03-07-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 20 | 19–22 | 18–22 | 18–22 | 17–23 |
 | [4–6 March 2025](2025-03-06-TermometroPolitico.html) | Termometro Politico | 20 | 19–21 | 18–21 | 18–22 | 18–22 |
 | [5–6 March 2025](2025-03-06-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [6 March 2025](2025-03-06-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
+| [5 March 2025](2025-03-05-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [26 February–3 March 2025](2025-03-03-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [1 March 2025](2025-03-01-Winpoll.html) | Winpoll |  |  |  |  |  |
 | [26–27 February 2025](2025-02-27-Tecnè.html) | Tecnè | 19 | 18–21 | 18–22 | 18–22 | 17–24 |
 | [21–27 February 2025](2025-02-27-Ixè.html) | Ixè | 20 | 19–21 | 18–21 | 17–22 | 16–23 |
 | [25–27 February 2025](2025-02-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 20 | 18–22 | 18–22 | 17–22 | 17–23 |
 | [17–26 February 2025](2025-02-26-Winpoll.html) | Winpoll | 21 | 20–23 | 20–23 | 19–23 | 19–24 |
 | [25–26 February 2025](2025-02-26-Euromedia.html) | Euromedia <br> La7 | 21 | 19–22 | 19–22 | 18–23 | 17–24 |
+| [24–25 February 2025](2025-02-25-Piepoli.html) | Piepoli |  |  |  |  |  |
 | [19–24 February 2025](2025-02-24-SWG.html) | SWG <br> La7 | 20 | 19–21 | 18–22 | 18–23 | 18–24 |
 | [22–24 February 2025](2025-02-24-BiDiMedia.html) | BiDiMedia | 20 | 20–23 | 20–24 | 20–25 | 19–25 |
 | [18–20 February 2025](2025-02-20-TermometroPolitico.html) | Termometro Politico | 20 | 19–21 | 18–21 | 18–21 | 18–22 |
@@ -426,17 +456,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0.1% | 100% |  |
-| 16 | 0.6% | 99.9% |  |
-| 17 | 3% | 99.3% |  |
-| 18 | 10% | 97% |  |
-| 19 | 17% | 86% |  |
-| 20 | 26% | 70% | Median |
-| 21 | 24% | 44% |  |
-| 22 | 12% | 20% |  |
-| 23 | 6% | 8% |  |
-| 24 | 1.0% | 2% |  |
-| 25 | 0.5% | 0.8% |  |
-| 26 | 0.4% | 0.4% |  |
+| 16 | 1.0% | 99.9% |  |
+| 17 | 2% | 98.9% |  |
+| 18 | 9% | 96% |  |
+| 19 | 19% | 87% |  |
+| 20 | 27% | 68% | Median |
+| 21 | 20% | 40% |  |
+| 22 | 13% | 20% |  |
+| 23 | 5% | 7% |  |
+| 24 | 1.2% | 2% |  |
+| 25 | 0.4% | 0.6% |  |
+| 26 | 0.3% | 0.3% |  |
 | 27 | 0% | 0% |  |
 
 
