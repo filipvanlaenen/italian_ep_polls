@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8.9% | 7.8–10.7% | 7.4–11.4% | 7.1–12.1% | 6.6–13.1% |
+| [8–9 April 2025](2025-04-09-Eumetra.html) | Eumetra <br> La7 | 9.0% | 7.8–10.4% | 7.5–10.8% | 7.2–11.2% | 6.7–11.9% |
 | [2–7 April 2025](2025-04-07-SWG.html) | SWG <br> La7 | 8.9% | 7.9–10.1% | 7.7–10.4% | 7.4–10.7% | 7.0–11.2% |
 | [2–4 April 2025](2025-04-04-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 9.2% | 8.0–10.6% | 7.7–11.0% | 7.4–11.4% | 6.8–12.1% |
 | [1–2 April 2025](2025-04-02-Eumetra.html) | Eumetra <br> La7 | 9.0% | 7.8–10.4% | 7.5–10.8% | 7.2–11.2% | 6.7–11.9% |
@@ -231,6 +232,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–9 | 6–9 | 5–10 | 5–10 |
+| [8–9 April 2025](2025-04-09-Eumetra.html) | Eumetra <br> La7 | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
 | [2–7 April 2025](2025-04-07-SWG.html) | SWG <br> La7 | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [2–4 April 2025](2025-04-04-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 7 | 6–8 | 6–9 | 5–9 | 5–9 |
 | [1–2 April 2025](2025-04-02-Eumetra.html) | Eumetra <br> La7 | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
@@ -432,10 +434,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0.1% | 100% |  |
 | 5 | 3% | 99.9% |  |
-| 6 | 24% | 97% |  |
-| 7 | 38% | 73% | Median |
+| 6 | 23% | 97% |  |
+| 7 | 39% | 74% | Median |
 | 8 | 22% | 35% |  |
-| 9 | 9% | 13% |  |
+| 9 | 8% | 12% |  |
 | 10 | 4% | 4% |  |
 | 11 | 0.3% | 0.3% |  |
 | 12 | 0% | 0% |  |

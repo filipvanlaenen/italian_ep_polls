@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.6% | 0.4–1.0% | 0.3–1.1% | 0.2–1.3% | 0.2–1.6% |
+| [8–9 April 2025](2025-04-09-Eumetra.html) | Eumetra <br> La7 | 0.5% | 0.3–1.0% | 0.2–1.1% | 0.2–1.3% | 0.1–1.6% |
 | [2–7 April 2025](2025-04-07-SWG.html) | SWG <br> La7 | 0.6% | 0.4–1.0% | 0.3–1.1% | 0.3–1.2% | 0.2–1.4% |
 | [2–4 April 2025](2025-04-04-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.5% | 0.3–1.0% | 0.2–1.1% | 0.2–1.3% | 0.1–1.6% |
 | [1–2 April 2025](2025-04-02-Eumetra.html) | Eumetra <br> La7 | 0.5% | 0.3–1.0% | 0.2–1.1% | 0.2–1.3% | 0.1–1.6% |
@@ -219,6 +220,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [8–9 April 2025](2025-04-09-Eumetra.html) | Eumetra <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [2–7 April 2025](2025-04-07-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [2–4 April 2025](2025-04-04-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0 | 0 | 0 |
 | [1–2 April 2025](2025-04-02-Eumetra.html) | Eumetra <br> La7 | 0 | 0 | 0 | 0 | 0 |
