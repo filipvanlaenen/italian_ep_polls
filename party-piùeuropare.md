@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.0% | 1.5–2.7% | 1.3–3.0% | 1.2–3.2% | 1.0–3.7% |
+| [9–14 April 2025](2025-04-14-SWG.html) | SWG <br> La7 | 1.9% | 1.5–2.5% | 1.4–2.7% | 1.3–2.9% | 1.1–3.2% |
 | [8–9 April 2025](2025-04-09-Eumetra.html) | Eumetra <br> La7 | 1.8% | 1.3–2.5% | 1.1–2.7% | 1.1–2.9% | 0.9–3.3% |
 | [2–7 April 2025](2025-04-07-SWG.html) | SWG <br> La7 | 1.8% | 1.4–2.4% | 1.3–2.6% | 1.2–2.8% | 1.0–3.1% |
 | [2–4 April 2025](2025-04-04-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 2.2% | 1.7–3.1% | 1.5–3.3% | 1.4–3.5% | 1.2–3.9% |
@@ -206,10 +207,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 15% | 100% |  |
-| 1.5–2.5% | 70% | 85% | Median |
+| 0.5–1.5% | 14% | 100% |  |
+| 1.5–2.5% | 69% | 86% | Median |
 | 2.5–3.5% | 15% | 16% |  |
-| 3.5–4.5% | 0.8% | 0.8% |  |
+| 3.5–4.5% | 0.9% | 0.9% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -222,6 +223,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [9–14 April 2025](2025-04-14-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [8–9 April 2025](2025-04-09-Eumetra.html) | Eumetra <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [2–7 April 2025](2025-04-07-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [2–4 April 2025](2025-04-04-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0 | 0 | 0–3 |
@@ -422,7 +424,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 0.3% |  |
 | 2 | 0% | 0.3% |  |
 | 3 | 0% | 0.3% |  |
-| 4 | 0.2% | 0.2% |  |
+| 4 | 0.2% | 0.3% |  |
 | 5 | 0% | 0% |  |
 
 
