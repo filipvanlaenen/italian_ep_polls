@@ -10,8 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.3% | 1.7–3.0% | 1.6–3.2% | 1.5–3.4% | 1.2–4.0% |
+| N/A | [Poll Average](average.html) | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.5% | 1.2–4.0% |
+| [17–23 April 2025](2025-04-23-Ixè.html) | Ixè | 2.4% | 1.9–3.2% | 1.7–3.4% | 1.6–3.6% | 1.4–3.9% |
+| [16–17 April 2025](2025-04-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [9–14 April 2025](2025-04-14-SWG.html) | SWG <br> La7 | 2.3% | 1.9–3.0% | 1.7–3.2% | 1.6–3.4% | 1.4–3.7% |
+| [9–10 April 2025](2025-04-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.1% | N/A | N/A | N/A | N/A |
 | [8–9 April 2025](2025-04-09-Eumetra.html) | Eumetra <br> La7 | 2.2% | 1.7–3.1% | 1.6–3.3% | 1.4–3.5% | 1.2–4.0% |
 | [2–7 April 2025](2025-04-07-SWG.html) | SWG <br> La7 | 2.2% | 1.8–2.9% | 1.7–3.1% | 1.6–3.3% | 1.4–3.6% |
 | [2–4 April 2025](2025-04-04-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 2.1% | 1.6–2.9% | 1.4–3.2% | 1.3–3.4% | 1.1–3.8% |
@@ -21,7 +24,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [25–27 March 2025](2025-03-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
 | [17–26 March 2025](2025-03-26-Winpoll.html) | Winpoll <br> Scenari Politici | 2.5% | 2.1–3.1% | 1.9–3.2% | 1.8–3.4% | 1.6–3.7% |
 | [13–26 March 2025](2025-03-26-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
-| [25–26 March 2025](2025-03-26-Demopolis.html) | Demopolis <br> La7 | 2.3% | 1.9–2.8% | 1.8–2.9% | 1.7–3.1% | 1.6–3.3% |
+| [25–26 March 2025](2025-03-26-Demopolis.html) | Demopolis <br> La7 | 2.4% | 1.9–2.8% | 1.8–2.9% | 1.7–3.1% | 1.6–3.3% |
 | [24–25 March 2025](2025-03-25-Piepoli.html) | Piepoli | 2.4% | 1.7–3.5% | 1.5–3.9% | 1.4–4.2% | 1.1–4.8% |
 | [19–24 March 2025](2025-03-24-SWG.html) | SWG <br> La7 | 2.2% | N/A | N/A | N/A | N/A |
 | [23 March 2025](2025-03-23-Lab2101.html) | Lab2101 <br> Affari Italiani | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
@@ -208,8 +211,8 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 4% | 100% |  |
-| 1.5–2.5% | 65% | 96% | Median |
-| 2.5–3.5% | 29% | 31% |  |
+| 1.5–2.5% | 63% | 96% | Median |
+| 2.5–3.5% | 31% | 33% |  |
 | 3.5–4.5% | 2% | 2% |  |
 | 4.5–5.5% | 0.1% | 0.1% |  |
 | 5.5–6.5% | 0% | 0% |  |
@@ -223,8 +226,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–3 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–4 |
+| [17–23 April 2025](2025-04-23-Ixè.html) | Ixè | 0 | 0 | 0 | 0 | 0 |
+| [16–17 April 2025](2025-04-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
 | [9–14 April 2025](2025-04-14-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
+| [9–10 April 2025](2025-04-10-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [8–9 April 2025](2025-04-09-Eumetra.html) | Eumetra <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [2–7 April 2025](2025-04-07-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [2–4 April 2025](2025-04-04-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0 | 0 | 0 |
@@ -421,10 +427,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.5% | 100% | Last Result, Median |
-| 1 | 0% | 0.5% |  |
-| 2 | 0% | 0.5% |  |
-| 3 | 0% | 0.5% |  |
+| 0 | 99.4% | 100% | Last Result, Median |
+| 1 | 0% | 0.6% |  |
+| 2 | 0% | 0.6% |  |
+| 3 | 0% | 0.6% |  |
 | 4 | 0.5% | 0.5% |  |
 | 5 | 0% | 0% |  |
 

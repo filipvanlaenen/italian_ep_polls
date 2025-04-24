@@ -11,7 +11,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.4% | 1.2–1.7% | 1.1–1.8% | 1.0–1.9% | 0.9–2.1% |
+| [17–23 April 2025](2025-04-23-Ixè.html) | Ixè | 0.0% | N/A | N/A | N/A | N/A |
+| [16–17 April 2025](2025-04-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [9–14 April 2025](2025-04-14-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [9–10 April 2025](2025-04-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [8–9 April 2025](2025-04-09-Eumetra.html) | Eumetra <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [2–7 April 2025](2025-04-07-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [2–4 April 2025](2025-04-04-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.0% | N/A | N/A | N/A | N/A |
@@ -221,7 +224,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [17–23 April 2025](2025-04-23-Ixè.html) | Ixè |  |  |  |  |  |
+| [16–17 April 2025](2025-04-17-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [9–14 April 2025](2025-04-14-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [9–10 April 2025](2025-04-10-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [8–9 April 2025](2025-04-09-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [2–7 April 2025](2025-04-07-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [2–4 April 2025](2025-04-04-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
