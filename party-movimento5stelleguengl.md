@@ -242,12 +242,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 10–13 | 9–14 | 9–14 | 9–15 |
+| N/A | [Poll Average](average.html) | 11 | 10–13 | 9–13 | 9–14 | 9–15 |
 | [23–28 April 2025](2025-04-28-SWG.html) | SWG <br> La7 | 11 | 10–12 | 10–12 | 10–13 | 9–14 |
 | [22–24 April 2025](2025-04-24-Tecnè.html) | Tecnè <br> Agenzia Dire | 10 | 10–12 | 9–12 | 9–13 | 8–13 |
-| [22–24 April 2025](2025-04-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 13 | 11–14 | 11–15 | 10–15 | 9–15 |
+| [22–24 April 2025](2025-04-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 13 | 11–14 | 11–15 | 10–15 | 10–15 |
 | [17–23 April 2025](2025-04-23-Ixè.html) | Ixè | 11 | 10–13 | 10–14 | 10–14 | 9–15 |
-| [22–23 April 2025](2025-04-23-Eumetra.html) | Eumetra <br> La7 | 12 | 11–13 | 10–13 | 10–14 | 8–14 |
+| [22–23 April 2025](2025-04-23-Eumetra.html) | Eumetra <br> La7 | 12 | 10–13 | 10–13 | 9–13 | 9–14 |
 | [16–17 April 2025](2025-04-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 10 | 9–12 | 9–12 | 9–12 | 8–13 |
 | [9–14 April 2025](2025-04-14-SWG.html) | SWG <br> La7 | 11 | 10–13 | 10–13 | 10–13 | 9–14 |
 | [9–10 April 2025](2025-04-10-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
@@ -456,13 +456,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0.4% | 100% |  |
-| 9 | 6% | 99.5% |  |
-| 10 | 23% | 94% |  |
-| 11 | 34% | 71% | Median |
-| 12 | 14% | 37% |  |
-| 13 | 17% | 22% |  |
+| 9 | 6% | 99.6% |  |
+| 10 | 22% | 93% |  |
+| 11 | 34% | 72% | Median |
+| 12 | 18% | 38% |  |
+| 13 | 15% | 20% |  |
 | 14 | 4% | 5% |  |
-| 15 | 1.5% | 1.5% |  |
+| 15 | 1.2% | 1.2% |  |
 | 16 | 0% | 0% |  |
 
 

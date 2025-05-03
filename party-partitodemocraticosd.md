@@ -252,12 +252,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 17–21 | 17–22 | 17–22 | 16–23 |
-| [23–28 April 2025](2025-04-28-SWG.html) | SWG <br> La7 | 18 | 18–21 | 18–22 | 18–22 | 17–23 |
-| [22–24 April 2025](2025-04-24-Tecnè.html) | Tecnè <br> Agenzia Dire | 18 | 18–20 | 18–21 | 17–21 | 16–22 |
-| [22–24 April 2025](2025-04-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 18 | 17–20 | 16–20 | 16–21 | 16–21 |
+| N/A | [Poll Average](average.html) | 19 | 17–21 | 17–22 | 16–22 | 16–23 |
+| [23–28 April 2025](2025-04-28-SWG.html) | SWG <br> La7 | 19 | 18–21 | 18–21 | 18–22 | 17–23 |
+| [22–24 April 2025](2025-04-24-Tecnè.html) | Tecnè <br> Agenzia Dire | 18 | 18–21 | 17–21 | 17–21 | 16–23 |
+| [22–24 April 2025](2025-04-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 17 | 16–20 | 16–21 | 16–22 | 15–22 |
 | [17–23 April 2025](2025-04-23-Ixè.html) | Ixè | 19 | 18–22 | 18–22 | 17–22 | 16–23 |
-| [22–23 April 2025](2025-04-23-Eumetra.html) | Eumetra <br> La7 | 21 | 19–21 | 19–21 | 18–23 | 17–24 |
+| [22–23 April 2025](2025-04-23-Eumetra.html) | Eumetra <br> La7 | 20 | 19–21 | 18–22 | 17–23 | 16–24 |
 | [16–17 April 2025](2025-04-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 20 | 18–21 | 17–22 | 17–22 | 16–22 |
 | [9–14 April 2025](2025-04-14-SWG.html) | SWG <br> La7 | 20 | 18–22 | 18–22 | 17–22 | 16–22 |
 | [9–10 April 2025](2025-04-10-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
@@ -473,15 +473,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0.1% | 100% |  |
-| 16 | 2% | 99.9% |  |
-| 17 | 8% | 98% |  |
-| 18 | 32% | 90% |  |
-| 19 | 22% | 57% | Median |
-| 20 | 13% | 35% |  |
-| 21 | 16% | 22% |  |
-| 22 | 4% | 5% |  |
-| 23 | 1.0% | 1.3% |  |
-| 24 | 0.3% | 0.3% |  |
+| 16 | 4% | 99.9% |  |
+| 17 | 8% | 96% |  |
+| 18 | 25% | 88% |  |
+| 19 | 20% | 63% | Median |
+| 20 | 19% | 42% |  |
+| 21 | 17% | 23% |  |
+| 22 | 5% | 6% |  |
+| 23 | 1.1% | 1.3% |  |
+| 24 | 0.2% | 0.2% |  |
 | 25 | 0% | 0% |  |
 
 

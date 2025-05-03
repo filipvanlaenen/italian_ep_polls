@@ -233,10 +233,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [23–28 April 2025](2025-04-28-SWG.html) | SWG <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
-| [22–24 April 2025](2025-04-24-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0–4 | 0–4 | 0–4 |
-| [22–24 April 2025](2025-04-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0–4 | 0–4 |
+| [22–24 April 2025](2025-04-24-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [22–24 April 2025](2025-04-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | [17–23 April 2025](2025-04-23-Ixè.html) | Ixè | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
-| [22–23 April 2025](2025-04-23-Eumetra.html) | Eumetra <br> La7 | 0 | 0 | 0 | 0–4 | 0–5 |
+| [22–23 April 2025](2025-04-23-Eumetra.html) | Eumetra <br> La7 | 0 | 0 | 0–4 | 0–4 | 0–5 |
 | [16–17 April 2025](2025-04-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [9–14 April 2025](2025-04-14-SWG.html) | SWG <br> La7 | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [9–10 April 2025](2025-04-10-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
@@ -436,12 +436,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 81% | 100% | Last Result, Median |
-| 1 | 0% | 19% |  |
-| 2 | 0% | 19% |  |
-| 3 | 1.1% | 19% |  |
-| 4 | 17% | 18% |  |
-| 5 | 0.5% | 0.5% |  |
+| 0 | 78% | 100% | Last Result, Median |
+| 1 | 0% | 22% |  |
+| 2 | 0% | 22% |  |
+| 3 | 3% | 22% |  |
+| 4 | 18% | 18% |  |
+| 5 | 0.6% | 0.6% |  |
 | 6 | 0% | 0% |  |
 
 

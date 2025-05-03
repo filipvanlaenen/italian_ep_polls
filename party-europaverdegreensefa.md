@@ -232,11 +232,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [23–28 April 2025](2025-04-28-SWG.html) | SWG <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
-| [22–24 April 2025](2025-04-24-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0–3 | 0–4 | 0–4 |
-| [22–24 April 2025](2025-04-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [23–28 April 2025](2025-04-28-SWG.html) | SWG <br> La7 | 0 | 0 | 0–4 | 0–4 | 0–4 |
+| [22–24 April 2025](2025-04-24-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0–4 | 0–4 | 0–4 |
+| [22–24 April 2025](2025-04-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [17–23 April 2025](2025-04-23-Ixè.html) | Ixè | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
-| [22–23 April 2025](2025-04-23-Eumetra.html) | Eumetra <br> La7 | 0 | 0 | 0–4 | 0–4 | 0–5 |
+| [22–23 April 2025](2025-04-23-Eumetra.html) | Eumetra <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [16–17 April 2025](2025-04-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | [9–14 April 2025](2025-04-14-SWG.html) | SWG <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [9–10 April 2025](2025-04-10-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
@@ -436,12 +436,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 85% | 100% | Last Result, Median |
-| 1 | 0% | 15% |  |
-| 2 | 0% | 15% |  |
-| 3 | 2% | 15% |  |
-| 4 | 11% | 12% |  |
-| 5 | 0.8% | 0.8% |  |
+| 0 | 84% | 100% | Last Result, Median |
+| 1 | 0% | 16% |  |
+| 2 | 0% | 16% |  |
+| 3 | 2% | 16% |  |
+| 4 | 13% | 13% |  |
+| 5 | 0.9% | 0.9% |  |
 | 6 | 0% | 0% |  |
 
 

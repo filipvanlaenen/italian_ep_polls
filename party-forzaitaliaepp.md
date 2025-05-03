@@ -240,12 +240,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–10 | 5–10 | 5–10 | 5–11 |
-| [23–28 April 2025](2025-04-28-SWG.html) | SWG <br> La7 | 7 | 6–7 | 5–8 | 5–8 | 5–9 |
-| [22–24 April 2025](2025-04-24-Tecnè.html) | Tecnè <br> Agenzia Dire | 10 | 8–10 | 8–10 | 8–11 | 7–12 |
+| N/A | [Poll Average](average.html) | 7 | 6–9 | 5–10 | 5–10 | 5–11 |
+| [23–28 April 2025](2025-04-28-SWG.html) | SWG <br> La7 | 7 | 6–7 | 6–8 | 5–8 | 5–9 |
+| [22–24 April 2025](2025-04-24-Tecnè.html) | Tecnè <br> Agenzia Dire | 10 | 8–10 | 8–11 | 8–11 | 7–12 |
 | [22–24 April 2025](2025-04-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 6 | 5–7 | 5–8 | 5–8 | 4–8 |
 | [17–23 April 2025](2025-04-23-Ixè.html) | Ixè | 8 | 6–8 | 6–9 | 6–9 | 5–9 |
-| [22–23 April 2025](2025-04-23-Eumetra.html) | Eumetra <br> La7 | 8 | 6–8 | 6–8 | 6–8 | 5–9 |
+| [22–23 April 2025](2025-04-23-Eumetra.html) | Eumetra <br> La7 | 7 | 6–8 | 6–9 | 6–9 | 5–10 |
 | [16–17 April 2025](2025-04-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 9 | 8–11 | 8–11 | 7–11 | 7–12 |
 | [9–14 April 2025](2025-04-14-SWG.html) | SWG <br> La7 | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
 | [9–10 April 2025](2025-04-10-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
@@ -449,14 +449,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 0.2% | 100% |  |
-| 5 | 7% | 99.8% |  |
+| 4 | 0.4% | 100% |  |
+| 5 | 8% | 99.6% |  |
 | 6 | 18% | 92% |  |
-| 7 | 32% | 75% | Median |
-| 8 | 25% | 42% |  |
-| 9 | 6% | 18% |  |
-| 10 | 12% | 12% |  |
-| 11 | 0.5% | 0.6% |  |
+| 7 | 31% | 73% | Median |
+| 8 | 24% | 42% |  |
+| 9 | 8% | 18% |  |
+| 10 | 9% | 10% |  |
+| 11 | 0.8% | 0.9% |  |
 | 12 | 0.1% | 0.1% |  |
 | 13 | 0% | 0% |  |
 
