@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 09 May 2025 17:07:09 +0200</pubDate>
+    <pubDate>Wed, 14 May 2025 19:04:03 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Tecnè for Agenzia Dire, 7–8 May 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2025-05-08-Tecnè.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 17–21 seats&lt;/li&gt;&lt;li&gt;Movimento 5 Stelle (GUE/NGL): 9–13 seats&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 7–11 seats&lt;/li&gt;&lt;li&gt;Azione (RE): 0–4 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 23–28 seats&lt;/li&gt;&lt;li&gt;Lega Nord (PfE): 6–9 seats&lt;/li&gt;&lt;li&gt;Sinistra Italiana (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 0–4 seats&lt;/li&gt;&lt;li&gt;Partito Progressista (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2025-05-08-Tecnè-seats.png"
+        length="251817"
+        type="image/png"/>
+      <pubDate>Wed, 14 May 2025 19:04:03 +0200</pubDate>
+      <dc:date>2025-05-14T19:04:03.063501+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Tecnè for Agenzia Dire, 7–8 May 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2025-05-08-Tecnè.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2025-05-08-Tecnè-coalitions-seats.png"
+        length="225950"
+        type="image/png"/>
+      <pubDate>Wed, 14 May 2025 19:04:03 +0200</pubDate>
+      <dc:date>2025-05-14T19:04:03.063501+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Tecnè for Agenzia Dire, 7–8 May 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2025-05-08-Tecnè.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 19.2–24.3%&lt;/li&gt;&lt;li&gt;Movimento 5 Stelle (GUE/NGL): 10.1–14.1%&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 1.3–3.1%&lt;/li&gt;&lt;li&gt;Più Europa (RE): 1.1–2.7%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 9.4–13.4%&lt;/li&gt;&lt;li&gt;Azione (RE): 2.4–4.7%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 27.1–32.7%&lt;/li&gt;&lt;li&gt;Lega Nord (PfE): 6.7–10.2%&lt;/li&gt;&lt;li&gt;Sinistra Italiana (GUE/NGL): 1.4–3.3%&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 2.3–4.6%&lt;/li&gt;&lt;li&gt;Partito Progressista (*): 0.2–1.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2025-05-08-Tecnè.png"
+        length="319532"
+        type="image/png"/>
+      <pubDate>Wed, 14 May 2025 19:04:03 +0200</pubDate>
+      <dc:date>2025-05-14T19:04:03.063501+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by SWG for La7, 30 April–5 May 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2025-05-05-SWG.html#seats</link>
@@ -3429,6 +3459,6 @@
       <pubDate>Fri, 25 Oct 2024 22:11:04 +0200</pubDate>
       <dc:date>2024-10-25T22:11:04.062695+02:00</dc:date>
     </item>
-    <dc:date>2025-05-09T17:07:09.400593+02:00</dc:date>
+    <dc:date>2025-05-14T19:04:03.063501+02:00</dc:date>
   </channel>
 </rss>
