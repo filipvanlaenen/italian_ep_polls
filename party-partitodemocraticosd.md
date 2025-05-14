@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.8% | 20.1–23.6% | 19.6–24.1% | 19.2–24.6% | 18.4–25.5% |
+| N/A | [Poll Average](average.html) | 21.8% | 20.0–23.6% | 19.5–24.1% | 19.1–24.6% | 18.3–25.4% |
+| [7–8 May 2025](2025-05-08-Tecnè.html) | Tecnè <br> Agenzia Dire | 21.6% | 20.0–23.4% | 19.6–23.9% | 19.2–24.3% | 18.4–25.1% |
 | [30 April–5 May 2025](2025-05-05-SWG.html) | SWG <br> La7 | 22.5% | 21.0–24.1% | 20.6–24.6% | 20.2–25.0% | 19.5–25.7% |
 | [29–30 April 2025](2025-04-30-Eumetra.html) | Eumetra <br> La7 | 21.8% | 20.0–23.7% | 19.4–24.3% | 19.0–24.8% | 18.2–25.7% |
 | [28–29 April 2025](2025-04-29-Tecnè.html) | Tecnè <br> Agenzia Dire | 21.8% | 20.2–23.5% | 19.7–24.0% | 19.3–24.5% | 18.6–25.3% |
@@ -237,8 +238,8 @@ The following table shows the probability mass function per percentage block of 
 | 17.5–18.5% | 0.7% | 99.9% |  |
 | 18.5–19.5% | 4% | 99.2% |  |
 | 19.5–20.5% | 13% | 95% |  |
-| 20.5–21.5% | 24% | 82% |  |
-| 21.5–22.5% | 28% | 58% | Median |
+| 20.5–21.5% | 25% | 82% |  |
+| 21.5–22.5% | 28% | 57% | Median |
 | 22.5–23.5% | 19% | 30% |  |
 | 23.5–24.5% | 8% | 11% |  |
 | 24.5–25.5% | 2% | 3% |  |
@@ -254,7 +255,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 17–21 | 16–22 | 16–22 | 16–23 |
+| N/A | [Poll Average](average.html) | 20 | 17–21 | 17–22 | 16–22 | 16–23 |
+| [7–8 May 2025](2025-05-08-Tecnè.html) | Tecnè <br> Agenzia Dire | 19 | 18–20 | 17–21 | 17–21 | 16–22 |
 | [30 April–5 May 2025](2025-05-05-SWG.html) | SWG <br> La7 | 21 | 19–22 | 18–23 | 18–23 | 18–23 |
 | [29–30 April 2025](2025-04-30-Eumetra.html) | Eumetra <br> La7 | 20 | 18–21 | 17–21 | 17–23 | 16–23 |
 | [28–29 April 2025](2025-04-29-Tecnè.html) | Tecnè <br> Agenzia Dire | 20 | 18–21 | 17–22 | 16–22 | 16–22 |
@@ -478,13 +480,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0.2% | 100% |  |
-| 16 | 5% | 99.8% |  |
+| 16 | 4% | 99.8% |  |
 | 17 | 9% | 95% |  |
-| 18 | 15% | 86% |  |
-| 19 | 18% | 71% |  |
-| 20 | 30% | 53% | Median |
-| 21 | 14% | 23% |  |
-| 22 | 6% | 9% |  |
+| 18 | 15% | 87% |  |
+| 19 | 21% | 72% |  |
+| 20 | 29% | 51% | Median |
+| 21 | 14% | 22% |  |
+| 22 | 5% | 7% |  |
 | 23 | 2% | 2% |  |
 | 24 | 0.2% | 0.2% |  |
 | 25 | 0% | 0% |  |
