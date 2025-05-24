@@ -10,11 +10,15 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.7% | 11.2–14.5% | 10.8–15.0% | 10.5–15.4% | 9.9–16.3% |
+| N/A | [Poll Average](average.html) | 12.6% | 11.0–14.3% | 10.6–14.8% | 10.3–15.2% | 9.7–16.1% |
+| [14–19 May 2025](2025-05-19-SWG.html) | SWG <br> La7 | 12.4% | 11.3–13.7% | 10.9–14.1% | 10.7–14.4% | 10.1–15.1% |
+| [14–15 May 2025](2025-05-15-DemosPi.html) | Demos & Pi <br> La Repubblica | 12.5% | 11.2–13.9% | 10.9–14.3% | 10.6–14.7% | 10.0–15.4% |
+| [13–14 May 2025](2025-05-14-Eumetra.html) | Eumetra <br> La7 | 12.4% | 11.0–14.0% | 10.6–14.4% | 10.3–14.8% | 9.6–15.7% |
 | [7–12 May 2025](2025-05-12-SWG.html) | SWG <br> La7 | 12.0% | 10.9–13.3% | 10.5–13.7% | 10.3–14.0% | 9.8–14.6% |
 | [7–8 May 2025](2025-05-08-Tecnè.html) | Tecnè <br> Agenzia Dire | 12.0% | 10.7–13.4% | 10.4–13.8% | 10.1–14.1% | 9.5–14.8% |
 | [30 April–5 May 2025](2025-05-05-SWG.html) | SWG <br> La7 | 12.2% | 11.0–13.5% | 10.7–13.8% | 10.4–14.1% | 9.9–14.8% |
 | [29–30 April 2025](2025-04-30-Eumetra.html) | Eumetra <br> La7 | 12.6% | 11.2–14.3% | 10.8–14.7% | 10.5–15.1% | 9.9–15.9% |
+| [30 April 2025](2025-04-30-Demopolis.html) | Demopolis | 11.6% | 10.4–13.0% | 10.0–13.4% | 9.8–13.7% | 9.2–14.4% |
 | [28–29 April 2025](2025-04-29-Tecnè.html) | Tecnè <br> Agenzia Dire | 12.1% | 10.9–13.5% | 10.5–13.9% | 10.2–14.3% | 9.6–15.0% |
 | [23–28 April 2025](2025-04-28-SWG.html) | SWG <br> La7 | 12.4% | 11.3–13.7% | 10.9–14.1% | 10.7–14.4% | 10.1–15.1% |
 | [22–24 April 2025](2025-04-24-Tecnè.html) | Tecnè <br> Agenzia Dire | 12.0% | 10.8–13.4% | 10.4–13.8% | 10.1–14.2% | 9.6–14.9% |
@@ -22,6 +26,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [17–23 April 2025](2025-04-23-Ixè.html) | Ixè | 13.1% | 11.8–14.6% | 11.4–15.0% | 11.1–15.3% | 10.6–16.1% |
 | [22–23 April 2025](2025-04-23-Eumetra.html) | Eumetra <br> La7 | 12.4% | 11.0–14.0% | 10.6–14.4% | 10.3–14.8% | 9.6–15.7% |
 | [16–17 April 2025](2025-04-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 11.8% | 10.6–13.2% | 10.2–13.6% | 9.9–13.9% | 9.4–14.6% |
+| [16 April 2025](2025-04-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 13.0% | 11.7–14.5% | 11.4–14.9% | 11.1–15.2% | 10.5–16.0% |
 | [9–14 April 2025](2025-04-14-SWG.html) | SWG <br> La7 | 12.5% | 11.3–13.8% | 11.0–14.2% | 10.7–14.5% | 10.2–15.2% |
 | [9–10 April 2025](2025-04-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 11.6% | N/A | N/A | N/A | N/A |
 | [8–9 April 2025](2025-04-09-Eumetra.html) | Eumetra <br> La7 | 12.2% | 10.9–13.9% | 10.5–14.3% | 10.2–14.7% | 9.5–15.5% |
@@ -33,8 +38,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [25–27 March 2025](2025-03-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 13.8% | 12.5–15.3% | 12.1–15.7% | 11.8–16.1% | 11.2–16.8% |
 | [17–26 March 2025](2025-03-26-Winpoll.html) | Winpoll <br> Scenari Politici | 11.0% | 10.0–12.1% | 9.8–12.4% | 9.6–12.6% | 9.1–13.2% |
 | [13–26 March 2025](2025-03-26-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 11.6% | 10.4–13.0% | 10.0–13.4% | 9.8–13.7% | 9.2–14.4% |
-| [25–26 March 2025](2025-03-26-Demopolis.html) | Demopolis <br> La7 | 11.8% | 10.5–12.4% | 10.3–12.6% | 10.1–12.9% | 9.7–13.4% |
-| [24–25 March 2025](2025-03-25-Piepoli.html) | Piepoli | 12.6% | 10.9–14.7% | 10.4–15.3% | 10.0–15.8% | 9.2–16.9% |
+| [25–26 March 2025](2025-03-26-Demopolis.html) | Demopolis <br> La7 | 11.4% | 10.5–12.4% | 10.3–12.6% | 10.1–12.9% | 9.7–13.4% |
+| [24–25 March 2025](2025-03-25-Piepoli.html) | Piepoli | 12.4% | 10.9–14.7% | 10.4–15.3% | 10.0–15.8% | 9.2–16.9% |
 | [19–24 March 2025](2025-03-24-SWG.html) | SWG <br> La7 | 12.2% | N/A | N/A | N/A | N/A |
 | [23 March 2025](2025-03-23-Lab2101.html) | Lab2101 <br> Affari Italiani | 11.2% | 10.0–12.6% | 9.7–13.0% | 9.4–13.3% | 8.8–14.0% |
 | [22 March 2025](2025-03-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 11.3% | 10.1–12.7% | 9.8–13.1% | 9.5–13.4% | 8.9–14.1% |
@@ -74,6 +79,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [14–16 February 2025](2025-02-16-Euromedia.html) | Euromedia <br> Rai 1 | 11.5% | 10.3–12.9% | 10.0–13.3% | 9.7–13.6% | 9.1–14.3% |
 | [13–14 February 2025](2025-02-14-Tecnè.html) | Tecnè <br> Agenzia Dire | 11.0% | 9.8–12.3% | 9.5–12.7% | 9.2–13.1% | 8.6–13.7% |
 | [12–14 February 2025](2025-02-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 10.7% | 9.5–12.1% | 9.2–12.4% | 8.9–12.8% | 8.4–13.5% |
+| [10–14 February 2025](2025-02-14-DemosPi.html) | Demos & Pi <br> La Repubblica | 11.4% | 10.2–12.7% | 9.8–13.1% | 9.5–13.5% | 9.0–14.2% |
 | [10–14 February 2025](2025-02-14-Demos.html) | Demos <br> La Repubblica | 11.4% | 10.2–12.7% | 9.8–13.1% | 9.5–13.5% | 9.0–14.2% |
 | [12–13 February 2025](2025-02-13-TermometroPolitico.html) | Termometro Politico | 11.3% | 10.5–12.1% | 10.3–12.3% | 10.2–12.6% | 9.8–13.0% |
 | [12–13 February 2025](2025-02-13-EMG.html) | EMG | 11.6% | 10.4–12.9% | 10.1–13.3% | 9.8–13.6% | 9.3–14.3% |
@@ -227,15 +233,15 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0.2% | 100% |  |
-| 9.5–10.5% | 3% | 99.8% |  |
-| 10.5–11.5% | 14% | 97% |  |
-| 11.5–12.5% | 27% | 83% |  |
-| 12.5–13.5% | 28% | 56% | Median |
-| 13.5–14.5% | 18% | 27% |  |
-| 14.5–15.5% | 7% | 9% |  |
-| 15.5–16.5% | 2% | 2% |  |
-| 16.5–17.5% | 0.3% | 0.3% |  |
+| 8.5–9.5% | 0.3% | 100% |  |
+| 9.5–10.5% | 4% | 99.6% |  |
+| 10.5–11.5% | 16% | 96% |  |
+| 11.5–12.5% | 29% | 80% |  |
+| 12.5–13.5% | 28% | 51% | Median |
+| 13.5–14.5% | 16% | 23% |  |
+| 14.5–15.5% | 6% | 7% |  |
+| 15.5–16.5% | 1.3% | 2% |  |
+| 16.5–17.5% | 0.2% | 0.2% |  |
 | 17.5–18.5% | 0% | 0% |  |
 
 
@@ -247,11 +253,15 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 10–13 | 10–14 | 9–14 | 9–15 |
+| N/A | [Poll Average](average.html) | 11 | 9–13 | 9–13 | 9–14 | 8–15 |
+| [14–19 May 2025](2025-05-19-SWG.html) | SWG <br> La7 | 11 | 10–12 | 10–12 | 9–13 | 9–14 |
+| [14–15 May 2025](2025-05-15-DemosPi.html) | Demos & Pi <br> La Repubblica | 11 | 10–12 | 9–12 | 9–13 | 9–13 |
+| [13–14 May 2025](2025-05-14-Eumetra.html) | Eumetra <br> La7 | 12 | 10–13 | 9–13 | 9–13 | 8–14 |
 | [7–12 May 2025](2025-05-12-SWG.html) | SWG <br> La7 | 10 | 10–12 | 9–12 | 9–13 | 9–13 |
 | [7–8 May 2025](2025-05-08-Tecnè.html) | Tecnè <br> Agenzia Dire | 11 | 10–11 | 9–12 | 9–13 | 8–13 |
 | [30 April–5 May 2025](2025-05-05-SWG.html) | SWG <br> La7 | 11 | 10–12 | 9–13 | 9–13 | 9–14 |
 | [29–30 April 2025](2025-04-30-Eumetra.html) | Eumetra <br> La7 | 11 | 10–12 | 10–13 | 9–14 | 9–14 |
+| [30 April 2025](2025-04-30-Demopolis.html) | Demopolis | 9 | 8–10 | 8–11 | 8–11 | 7–12 |
 | [28–29 April 2025](2025-04-29-Tecnè.html) | Tecnè <br> Agenzia Dire | 11 | 9–12 | 9–12 | 9–13 | 8–13 |
 | [23–28 April 2025](2025-04-28-SWG.html) | SWG <br> La7 | 11 | 10–12 | 10–12 | 10–13 | 9–14 |
 | [22–24 April 2025](2025-04-24-Tecnè.html) | Tecnè <br> Agenzia Dire | 10 | 10–12 | 9–12 | 9–13 | 8–13 |
@@ -259,6 +269,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [17–23 April 2025](2025-04-23-Ixè.html) | Ixè | 11 | 10–13 | 10–14 | 10–14 | 9–15 |
 | [22–23 April 2025](2025-04-23-Eumetra.html) | Eumetra <br> La7 | 12 | 10–13 | 10–13 | 9–13 | 9–14 |
 | [16–17 April 2025](2025-04-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 10 | 9–12 | 9–12 | 9–12 | 8–13 |
+| [16 April 2025](2025-04-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 12 | 11–14 | 10–14 | 9–14 | 9–14 |
 | [9–14 April 2025](2025-04-14-SWG.html) | SWG <br> La7 | 11 | 10–13 | 10–13 | 10–13 | 9–14 |
 | [9–10 April 2025](2025-04-10-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [8–9 April 2025](2025-04-09-Eumetra.html) | Eumetra <br> La7 | 11 | 10–12 | 9–13 | 9–13 | 8–14 |
@@ -311,6 +322,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [14–16 February 2025](2025-02-16-Euromedia.html) | Euromedia <br> Rai 1 | 11 | 9–11 | 9–12 | 9–12 | 8–13 |
 | [13–14 February 2025](2025-02-14-Tecnè.html) | Tecnè <br> Agenzia Dire | 10 | 9–11 | 8–11 | 8–12 | 7–12 |
 | [12–14 February 2025](2025-02-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 10 | 9–11 | 8–11 | 8–11 | 8–12 |
+| [10–14 February 2025](2025-02-14-DemosPi.html) | Demos & Pi <br> La Repubblica | 10 | 9–12 | 9–12 | 8–13 | 8–13 |
 | [10–14 February 2025](2025-02-14-Demos.html) | Demos <br> La Repubblica | 10 | 9–12 | 8–12 | 8–13 | 8–13 |
 | [12–13 February 2025](2025-02-13-TermometroPolitico.html) | Termometro Politico | 10 | 9–10 | 9–11 | 9–11 | 9–12 |
 | [12–13 February 2025](2025-02-13-EMG.html) | EMG | 11 | 10–12 | 9–12 | 9–13 | 9–13 |
@@ -464,15 +476,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0% | 100% |  |
-| 8 | 0.3% | 100% |  |
-| 9 | 3% | 99.7% |  |
-| 10 | 26% | 96% |  |
-| 11 | 38% | 70% | Median |
-| 12 | 14% | 32% |  |
-| 13 | 12% | 18% |  |
-| 14 | 5% | 6% |  |
-| 15 | 2% | 2% |  |
+| 7 | 0.2% | 100% |  |
+| 8 | 2% | 99.8% |  |
+| 9 | 10% | 98% |  |
+| 10 | 21% | 88% |  |
+| 11 | 29% | 67% | Median |
+| 12 | 22% | 38% |  |
+| 13 | 11% | 16% |  |
+| 14 | 3% | 4% |  |
+| 15 | 1.1% | 1.1% |  |
 | 16 | 0% | 0% |  |
 
 
