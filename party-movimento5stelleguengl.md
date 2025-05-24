@@ -322,7 +322,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [14–16 February 2025](2025-02-16-Euromedia.html) | Euromedia <br> Rai 1 | 11 | 9–11 | 9–12 | 9–12 | 8–13 |
 | [13–14 February 2025](2025-02-14-Tecnè.html) | Tecnè <br> Agenzia Dire | 10 | 9–11 | 8–11 | 8–12 | 7–12 |
 | [12–14 February 2025](2025-02-14-Lab2101.html) | Lab2101 <br> Affari Italiani | 10 | 9–11 | 8–11 | 8–11 | 8–12 |
-| [10–14 February 2025](2025-02-14-DemosPi.html) | Demos & Pi <br> La Repubblica | 10 | 9–12 | 9–12 | 8–13 | 8–13 |
+| [10–14 February 2025](2025-02-14-DemosPi.html) | Demos & Pi <br> La Repubblica | 10 | 9–12 | 8–12 | 8–13 | 8–13 |
 | [10–14 February 2025](2025-02-14-Demos.html) | Demos <br> La Repubblica | 10 | 9–12 | 8–12 | 8–13 | 8–13 |
 | [12–13 February 2025](2025-02-13-TermometroPolitico.html) | Termometro Politico | 10 | 9–10 | 9–11 | 9–11 | 9–12 |
 | [12–13 February 2025](2025-02-13-EMG.html) | EMG | 11 | 10–12 | 9–12 | 9–13 | 9–13 |
