@@ -258,7 +258,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [7–8 May 2025](2025-05-08-Tecnè.html) | Tecnè <br> Agenzia Dire | 9 | 8–10 | 8–10 | 7–11 | 7–11 |
 | [30 April–5 May 2025](2025-05-05-SWG.html) | SWG <br> La7 | 7 | 6–7 | 5–7 | 5–8 | 5–9 |
 | [29–30 April 2025](2025-04-30-Eumetra.html) | Eumetra <br> La7 | 8 | 6–8 | 6–8 | 6–9 | 5–9 |
-| [30 April 2025](2025-04-30-Demopolis.html) | Demopolis | 6 | 5–7 | 5–8 | 5–8 | 5–8 |
+| [30 April 2025](2025-04-30-Demopolis.html) | Demopolis | 6 | 5–7 | 5–8 | 5–8 | 4–8 |
 | [28–29 April 2025](2025-04-29-Tecnè.html) | Tecnè <br> Agenzia Dire | 10 | 8–10 | 8–10 | 7–11 | 7–11 |
 | [23–28 April 2025](2025-04-28-SWG.html) | SWG <br> La7 | 7 | 6–7 | 6–8 | 5–8 | 5–9 |
 | [22–24 April 2025](2025-04-24-Tecnè.html) | Tecnè <br> Agenzia Dire | 10 | 8–10 | 8–11 | 8–11 | 7–12 |
@@ -470,8 +470,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 0.4% | 100% |  |
-| 5 | 10% | 99.6% |  |
+| 4 | 0.5% | 100% |  |
+| 5 | 10% | 99.5% |  |
 | 6 | 26% | 90% |  |
 | 7 | 31% | 64% | Median |
 | 8 | 19% | 33% |  |

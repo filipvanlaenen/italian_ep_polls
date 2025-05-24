@@ -253,7 +253,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 9–13 | 9–13 | 9–14 | 8–15 |
+| N/A | [Poll Average](average.html) | 11 | 9–13 | 9–13 | 8–14 | 8–15 |
 | [14–19 May 2025](2025-05-19-SWG.html) | SWG <br> La7 | 11 | 10–12 | 10–12 | 9–13 | 9–14 |
 | [14–15 May 2025](2025-05-15-DemosPi.html) | Demos & Pi <br> La Repubblica | 11 | 10–12 | 9–12 | 9–13 | 9–13 |
 | [13–14 May 2025](2025-05-14-Eumetra.html) | Eumetra <br> La7 | 12 | 10–13 | 9–13 | 9–13 | 8–14 |
@@ -269,7 +269,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [17–23 April 2025](2025-04-23-Ixè.html) | Ixè | 11 | 10–13 | 10–14 | 10–14 | 9–15 |
 | [22–23 April 2025](2025-04-23-Eumetra.html) | Eumetra <br> La7 | 12 | 10–13 | 10–13 | 9–13 | 9–14 |
 | [16–17 April 2025](2025-04-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 10 | 9–12 | 9–12 | 9–12 | 8–13 |
-| [16 April 2025](2025-04-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 12 | 11–14 | 10–14 | 9–14 | 9–14 |
+| [16 April 2025](2025-04-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 12 | 11–13 | 10–14 | 10–14 | 9–14 |
 | [9–14 April 2025](2025-04-14-SWG.html) | SWG <br> La7 | 11 | 10–13 | 10–13 | 10–13 | 9–14 |
 | [9–10 April 2025](2025-04-10-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [8–9 April 2025](2025-04-09-Eumetra.html) | Eumetra <br> La7 | 11 | 10–12 | 9–13 | 9–13 | 8–14 |
@@ -477,8 +477,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0.2% | 100% |  |
-| 8 | 2% | 99.8% |  |
-| 9 | 10% | 98% |  |
+| 8 | 3% | 99.8% |  |
+| 9 | 9% | 97% |  |
 | 10 | 21% | 88% |  |
 | 11 | 29% | 67% | Median |
 | 12 | 22% | 38% |  |

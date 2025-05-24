@@ -264,7 +264,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [17–23 April 2025](2025-04-23-Ixè.html) | Ixè | 8 | 7–9 | 7–9 | 7–10 | 6–10 |
 | [22–23 April 2025](2025-04-23-Eumetra.html) | Eumetra <br> La7 | 8 | 6–10 | 6–10 | 6–10 | 6–11 |
 | [16–17 April 2025](2025-04-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 6–8 | 6–9 | 6–9 | 6–9 |
-| [16 April 2025](2025-04-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 8 | 7–9 | 7–10 | 6–10 | 6–11 |
+| [16 April 2025](2025-04-16-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 8 | 7–9 | 7–10 | 7–10 | 6–10 |
 | [9–14 April 2025](2025-04-14-SWG.html) | SWG <br> La7 | 8 | 7–10 | 7–10 | 6–10 | 6–10 |
 | [9–10 April 2025](2025-04-10-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [8–9 April 2025](2025-04-09-Eumetra.html) | Eumetra <br> La7 | 8 | 7–9 | 6–10 | 6–10 | 6–10 |
@@ -471,7 +471,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0.5% | 100% |  |
 | 6 | 9% | 99.5% |  |
-| 7 | 33% | 91% |  |
+| 7 | 32% | 91% |  |
 | 8 | 47% | 58% | Median |
 | 9 | 10% | 11% |  |
 | 10 | 1.4% | 2% |  |
