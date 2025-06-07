@@ -266,9 +266,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 18–21 | 17–22 | 17–22 | 16–23 |
+| N/A | [Poll Average](average.html) | 19 | 18–21 | 17–22 | 17–22 | 16–23 |
 | [27–29 May 2025](2025-05-29-Ipsos.html) | Ipsos <br> Corriere della Sera | 19 | 18–21 | 17–22 | 17–22 | 16–23 |
-| [21–26 May 2025](2025-05-26-SWG.html) | SWG <br> La7 | 21 | 19–22 | 19–23 | 18–23 | 17–24 |
+| [21–26 May 2025](2025-05-26-SWG.html) | SWG <br> La7 | 20 | 19–22 | 19–22 | 18–23 | 17–24 |
 | [21–22 May 2025](2025-05-22-TermometroPolitico.html) | Termometro Politico | 20 | 19–21 | 19–21 | 19–23 | 18–23 |
 | [14–19 May 2025](2025-05-19-SWG.html) | SWG <br> La7 | 21 | 19–22 | 18–22 | 18–22 | 17–23 |
 | [14–15 May 2025](2025-05-15-DemosPi.html) | Demos & Pi <br> La Repubblica | 20 | 17–21 | 17–21 | 17–22 | 16–23 |
@@ -501,15 +501,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0.2% | 100% |  |
-| 16 | 1.2% | 99.8% |  |
+| 16 | 1.1% | 99.8% |  |
 | 17 | 6% | 98.7% |  |
-| 18 | 17% | 93% |  |
-| 19 | 25% | 75% |  |
-| 20 | 31% | 50% | Median |
-| 21 | 13% | 19% |  |
-| 22 | 5% | 6% |  |
-| 23 | 1.5% | 2% |  |
-| 24 | 0.3% | 0.4% |  |
+| 18 | 18% | 93% |  |
+| 19 | 26% | 75% | Median |
+| 20 | 32% | 49% |  |
+| 21 | 12% | 18% |  |
+| 22 | 4% | 5% |  |
+| 23 | 1.3% | 2% |  |
+| 24 | 0.2% | 0.2% |  |
 | 25 | 0% | 0% |  |
 
 

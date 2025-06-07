@@ -247,7 +247,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [27–29 May 2025](2025-05-29-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0–3 | 0–4 | 0–4 |
-| [21–26 May 2025](2025-05-26-SWG.html) | SWG <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [21–26 May 2025](2025-05-26-SWG.html) | SWG <br> La7 | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | [21–22 May 2025](2025-05-22-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [14–19 May 2025](2025-05-19-SWG.html) | SWG <br> La7 | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | [14–15 May 2025](2025-05-15-DemosPi.html) | Demos & Pi <br> La Repubblica | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
@@ -464,11 +464,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 84% | 100% | Last Result, Median |
-| 1 | 0% | 16% |  |
-| 2 | 0% | 16% |  |
-| 3 | 1.2% | 16% |  |
-| 4 | 14% | 15% |  |
+| 0 | 85% | 100% | Last Result, Median |
+| 1 | 0% | 15% |  |
+| 2 | 0% | 15% |  |
+| 3 | 1.3% | 15% |  |
+| 4 | 13% | 14% |  |
 | 5 | 0.5% | 0.5% |  |
 | 6 | 0% | 0% |  |
 
