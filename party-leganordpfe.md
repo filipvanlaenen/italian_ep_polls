@@ -10,8 +10,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.5% | 7.4–9.8% | 7.1–10.2% | 6.8–10.5% | 6.3–11.2% |
+| N/A | [Poll Average](average.html) | 8.3% | 7.2–9.5% | 6.9–9.8% | 6.6–10.2% | 6.1–10.9% |
+| [4–9 June 2025](2025-06-09-SWG.html) | SWG <br> La7 | 7.9% | 7.0–9.0% | 6.7–9.3% | 6.5–9.6% | 6.1–10.1% |
+| [3–4 June 2025](2025-06-04-Eumetra.html) | Eumetra <br> La7 | 8.4% | 7.2–9.8% | 6.9–10.2% | 6.6–10.5% | 6.1–11.2% |
+| [28 May–2 June 2025](2025-06-02-SWG.html) | SWG <br> La7 | 8.2% | N/A | N/A | N/A | N/A |
 | [27–29 May 2025](2025-05-29-Ipsos.html) | Ipsos <br> Corriere della Sera | 7.8% | 6.8–9.0% | 6.5–9.3% | 6.3–9.6% | 5.8–10.2% |
+| [27–28 May 2025](2025-05-28-Eumetra.html) | Eumetra <br> La7 | 8.5% | N/A | N/A | N/A | N/A |
 | [21–26 May 2025](2025-05-26-SWG.html) | SWG <br> La7 | 8.4% | 7.5–9.5% | 7.2–9.8% | 7.0–10.1% | 6.5–10.7% |
 | [21–22 May 2025](2025-05-22-TermometroPolitico.html) | Termometro Politico | 8.5% | 7.9–9.3% | 7.7–9.5% | 7.5–9.6% | 7.2–10.0% |
 | [14–19 May 2025](2025-05-19-SWG.html) | SWG <br> La7 | 8.4% | 7.5–9.5% | 7.2–9.8% | 7.0–10.1% | 6.5–10.7% |
@@ -233,13 +237,13 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 1.1% | 100% |  |
-| 6.5–7.5% | 11% | 98.8% |  |
-| 7.5–8.5% | 38% | 88% |  |
-| 8.5–9.5% | 36% | 50% | Median |
-| 9.5–10.5% | 12% | 14% |  |
-| 10.5–11.5% | 2% | 2% |  |
-| 11.5–12.5% | 0.2% | 0.2% |  |
+| 5.5–6.5% | 2% | 100% |  |
+| 6.5–7.5% | 16% | 98% |  |
+| 7.5–8.5% | 42% | 82% | Median |
+| 8.5–9.5% | 31% | 40% |  |
+| 9.5–10.5% | 7% | 8% |  |
+| 10.5–11.5% | 1.0% | 1.1% |  |
+| 11.5–12.5% | 0.1% | 0.1% |  |
 | 12.5–13.5% | 0% | 0% |  |
 
 
@@ -251,8 +255,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 6–9 | 6–9 | 6–9 | 5–10 |
+| N/A | [Poll Average](average.html) | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
+| [4–9 June 2025](2025-06-09-SWG.html) | SWG <br> La7 | 7 | 6–9 | 6–9 | 6–9 | 5–9 |
+| [3–4 June 2025](2025-06-04-Eumetra.html) | Eumetra <br> La7 | 8 | 6–9 | 6–9 | 6–10 | 5–10 |
+| [28 May–2 June 2025](2025-06-02-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [27–29 May 2025](2025-05-29-Ipsos.html) | Ipsos <br> Corriere della Sera | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
+| [27–28 May 2025](2025-05-28-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [21–26 May 2025](2025-05-26-SWG.html) | SWG <br> La7 | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
 | [21–22 May 2025](2025-05-22-TermometroPolitico.html) | Termometro Politico | 8 | 7–9 | 7–9 | 6–9 | 6–9 |
 | [14–19 May 2025](2025-05-19-SWG.html) | SWG <br> La7 | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
@@ -475,13 +483,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0.6% | 100% |  |
-| 6 | 11% | 99.4% |  |
-| 7 | 33% | 88% |  |
-| 8 | 41% | 55% | Median |
-| 9 | 13% | 14% |  |
-| 10 | 0.9% | 1.0% |  |
-| 11 | 0.1% | 0.1% |  |
-| 12 | 0% | 0% |  |
+| 5 | 0.8% | 100% |  |
+| 6 | 14% | 99.2% |  |
+| 7 | 36% | 85% | Median |
+| 8 | 33% | 50% |  |
+| 9 | 16% | 17% |  |
+| 10 | 0.9% | 0.9% |  |
+| 11 | 0% | 0% |  |
 
 

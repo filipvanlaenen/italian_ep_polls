@@ -11,7 +11,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.0% | 0.8–1.3% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% |
+| [4–9 June 2025](2025-06-09-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [3–4 June 2025](2025-06-04-Eumetra.html) | Eumetra <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [28 May–2 June 2025](2025-06-02-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [27–29 May 2025](2025-05-29-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.0% | N/A | N/A | N/A | N/A |
+| [27–28 May 2025](2025-05-28-Eumetra.html) | Eumetra <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [21–26 May 2025](2025-05-26-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [21–22 May 2025](2025-05-22-TermometroPolitico.html) | Termometro Politico | 1.0% | 0.8–1.3% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% |
 | [14–19 May 2025](2025-05-19-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
@@ -242,7 +246,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [4–9 June 2025](2025-06-09-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [3–4 June 2025](2025-06-04-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
+| [28 May–2 June 2025](2025-06-02-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [27–29 May 2025](2025-05-29-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
+| [27–28 May 2025](2025-05-28-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [21–26 May 2025](2025-05-26-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [21–22 May 2025](2025-05-22-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [14–19 May 2025](2025-05-19-SWG.html) | SWG <br> La7 |  |  |  |  |  |
