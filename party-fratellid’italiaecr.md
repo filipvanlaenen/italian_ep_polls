@@ -15,7 +15,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [3–4 June 2025](2025-06-04-Eumetra.html) | Eumetra <br> La7 | 30.0% | 28.0–32.1% | 27.4–32.8% | 26.9–33.3% | 26.0–34.3% |
 | [28 May–2 June 2025](2025-06-02-SWG.html) | SWG <br> La7 | 30.5% | N/A | N/A | N/A | N/A |
 | [27–29 May 2025](2025-05-29-Ipsos.html) | Ipsos <br> Corriere della Sera | 27.3% | 25.5–29.2% | 25.0–29.7% | 24.6–30.1% | 23.8–31.1% |
-| [27–28 May 2025](2025-05-28-Eumetra.html) | Eumetra <br> La7 | 30.2% | N/A | N/A | N/A | N/A |
+| [27–28 May 2025](2025-05-28-Eumetra.html) | Eumetra <br> La7 | 30.2% | 28.2–32.4% | 27.6–33.0% | 27.2–33.5% | 26.2–34.6% |
 | [21–26 May 2025](2025-05-26-SWG.html) | SWG <br> La7 | 30.5% | 28.8–32.3% | 28.4–32.7% | 28.0–33.2% | 27.2–34.0% |
 | [21–22 May 2025](2025-05-22-TermometroPolitico.html) | Termometro Politico | 30.0% | 28.9–31.2% | 28.6–31.5% | 28.3–31.8% | 27.8–32.3% |
 | [14–19 May 2025](2025-05-19-SWG.html) | SWG <br> La7 | 30.3% | 28.7–32.1% | 28.2–32.6% | 27.8–33.0% | 27.0–33.9% |
@@ -278,12 +278,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26 | 23–29 | 23–30 | 22–30 | 21–31 |
+| N/A | [Poll Average](average.html) | 26 | 23–29 | 23–29 | 22–30 | 21–31 |
 | [4–9 June 2025](2025-06-09-SWG.html) | SWG <br> La7 | 27 | 26–29 | 25–29 | 24–30 | 24–32 |
-| [3–4 June 2025](2025-06-04-Eumetra.html) | Eumetra <br> La7 | 28 | 25–30 | 24–30 | 24–30 | 22–31 |
+| [3–4 June 2025](2025-06-04-Eumetra.html) | Eumetra <br> La7 | 27 | 25–30 | 24–30 | 24–30 | 23–31 |
 | [28 May–2 June 2025](2025-06-02-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [27–29 May 2025](2025-05-29-Ipsos.html) | Ipsos <br> Corriere della Sera | 24 | 22–25 | 22–26 | 21–26 | 20–27 |
-| [27–28 May 2025](2025-05-28-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
+| [27–28 May 2025](2025-05-28-Eumetra.html) | Eumetra <br> La7 | 27 | 24–29 | 24–29 | 24–30 | 23–32 |
 | [21–26 May 2025](2025-05-26-SWG.html) | SWG <br> La7 | 27 | 26–30 | 25–30 | 25–30 | 24–31 |
 | [21–22 May 2025](2025-05-22-TermometroPolitico.html) | Termometro Politico | 28 | 27–29 | 26–29 | 26–30 | 26–30 |
 | [14–19 May 2025](2025-05-19-SWG.html) | SWG <br> La7 | 27 | 26–29 | 25–30 | 24–30 | 24–31 |
@@ -523,16 +523,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 0% | 100% |  |
 | 20 | 0.1% | 100% |  |
 | 21 | 0.8% | 99.9% |  |
-| 22 | 2% | 99.0% |  |
+| 22 | 2% | 99.1% |  |
 | 23 | 8% | 97% |  |
 | 24 | 11% | 89% |  |
 | 25 | 13% | 78% |  |
-| 26 | 16% | 65% | Median |
-| 27 | 19% | 49% |  |
-| 28 | 14% | 30% |  |
-| 29 | 10% | 16% |  |
-| 30 | 5% | 6% |  |
-| 31 | 0.3% | 0.6% |  |
+| 26 | 19% | 66% | Median |
+| 27 | 19% | 47% |  |
+| 28 | 15% | 28% |  |
+| 29 | 8% | 13% |  |
+| 30 | 4% | 5% |  |
+| 31 | 0.5% | 0.8% |  |
 | 32 | 0.3% | 0.3% |  |
 | 33 | 0% | 0% |  |
 

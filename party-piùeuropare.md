@@ -15,7 +15,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [3–4 June 2025](2025-06-04-Eumetra.html) | Eumetra <br> La7 | 1.8% | 1.3–2.5% | 1.1–2.7% | 1.1–2.9% | 0.9–3.3% |
 | [28 May–2 June 2025](2025-06-02-SWG.html) | SWG <br> La7 | 1.5% | N/A | N/A | N/A | N/A |
 | [27–29 May 2025](2025-05-29-Ipsos.html) | Ipsos <br> Corriere della Sera | 1.8% | 1.4–2.5% | 1.2–2.7% | 1.1–2.8% | 1.0–3.2% |
-| [27–28 May 2025](2025-05-28-Eumetra.html) | Eumetra <br> La7 | 1.8% | N/A | N/A | N/A | N/A |
+| [27–28 May 2025](2025-05-28-Eumetra.html) | Eumetra <br> La7 | 1.8% | 1.3–2.5% | 1.1–2.7% | 1.1–2.9% | 0.9–3.3% |
 | [21–26 May 2025](2025-05-26-SWG.html) | SWG <br> La7 | 1.7% | 1.3–2.3% | 1.2–2.4% | 1.1–2.6% | 0.9–2.9% |
 | [21–22 May 2025](2025-05-22-TermometroPolitico.html) | Termometro Politico | 1.8% | 1.5–2.2% | 1.4–2.3% | 1.4–2.4% | 1.2–2.6% |
 | [14–19 May 2025](2025-05-19-SWG.html) | SWG <br> La7 | 1.6% | 1.2–2.2% | 1.1–2.3% | 1.0–2.5% | 0.9–2.8% |
@@ -252,7 +252,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [3–4 June 2025](2025-06-04-Eumetra.html) | Eumetra <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [28 May–2 June 2025](2025-06-02-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [27–29 May 2025](2025-05-29-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
-| [27–28 May 2025](2025-05-28-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
+| [27–28 May 2025](2025-05-28-Eumetra.html) | Eumetra <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [21–26 May 2025](2025-05-26-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [21–22 May 2025](2025-05-22-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [14–19 May 2025](2025-05-19-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
