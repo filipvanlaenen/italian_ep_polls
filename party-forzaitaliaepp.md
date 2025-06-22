@@ -275,13 +275,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–8 | 5–9 | 5–9 | 4–9 |
+| N/A | [Poll Average](average.html) | 7 | 6–8 | 5–8 | 5–9 | 4–9 |
 | [11–16 June 2025](2025-06-16-SWG.html) | SWG <br> La7 | 6 | 6–7 | 5–8 | 5–8 | 5–8 |
 | [12–13 June 2025](2025-06-13-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 7 | 6–7 | 6–8 | 5–9 | 5–9 |
-| [10–12 June 2025](2025-06-12-TermometroPolitico.html) | Termometro Politico | 8 | 7–8 | 7–8 | 6–8 | 6–8 |
-| [10–11 June 2025](2025-06-11-Eumetra.html) | Eumetra <br> La7 | 7 | 6–8 | 5–8 | 5–8 | 4–9 |
+| [10–12 June 2025](2025-06-12-TermometroPolitico.html) | Termometro Politico | 7 | 7–8 | 6–8 | 6–8 | 6–8 |
+| [10–11 June 2025](2025-06-11-Eumetra.html) | Eumetra <br> La7 | 7 | 5–8 | 5–8 | 5–8 | 4–9 |
 | [4–9 June 2025](2025-06-09-SWG.html) | SWG <br> La7 | 6 | 6–7 | 5–8 | 5–8 | 5–8 |
-| [1–5 June 2025](2025-06-05-BiDiMedia.html) | BiDiMedia | 7 | 6–9 | 5–9 | 5–9 | 5–9 |
+| [1–5 June 2025](2025-06-05-BiDiMedia.html) | BiDiMedia | 7 | 5–9 | 5–9 | 5–9 | 5–9 |
 | [3–4 June 2025](2025-06-04-Eumetra.html) | Eumetra <br> La7 | 7 | 5–8 | 5–8 | 5–8 | 4–9 |
 | [28 May–2 June 2025](2025-06-02-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [27–29 May 2025](2025-05-29-Ipsos.html) | Ipsos <br> Corriere della Sera | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
@@ -522,12 +522,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 0.7% | 100% |  |
-| 5 | 6% | 99.3% |  |
-| 6 | 28% | 93% |  |
-| 7 | 41% | 65% | Median |
-| 8 | 17% | 23% |  |
-| 9 | 6% | 6% |  |
+| 4 | 0.8% | 100% |  |
+| 5 | 7% | 99.2% |  |
+| 6 | 27% | 92% |  |
+| 7 | 45% | 65% | Median |
+| 8 | 14% | 19% |  |
+| 9 | 5% | 5% |  |
 | 10 | 0.2% | 0.2% |  |
 | 11 | 0% | 0% |  |
 

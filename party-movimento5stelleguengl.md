@@ -281,11 +281,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 10–13 | 9–14 | 9–14 | 8–15 |
+| N/A | [Poll Average](average.html) | 11 | 10–13 | 9–14 | 9–14 | 9–15 |
 | [11–16 June 2025](2025-06-16-SWG.html) | SWG <br> La7 | 11 | 10–12 | 10–13 | 9–13 | 9–14 |
 | [12–13 June 2025](2025-06-13-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 10 | 9–11 | 9–12 | 8–12 | 8–13 |
-| [10–12 June 2025](2025-06-12-TermometroPolitico.html) | Termometro Politico | 11 | 11–12 | 10–12 | 10–12 | 10–12 |
-| [10–11 June 2025](2025-06-11-Eumetra.html) | Eumetra <br> La7 | 12 | 10–13 | 10–14 | 10–14 | 9–14 |
+| [10–12 June 2025](2025-06-12-TermometroPolitico.html) | Termometro Politico | 12 | 11–13 | 10–13 | 10–13 | 10–13 |
+| [10–11 June 2025](2025-06-11-Eumetra.html) | Eumetra <br> La7 | 12 | 10–13 | 10–13 | 10–14 | 9–14 |
 | [4–9 June 2025](2025-06-09-SWG.html) | SWG <br> La7 | 11 | 10–12 | 10–14 | 10–14 | 9–14 |
 | [1–5 June 2025](2025-06-05-BiDiMedia.html) | BiDiMedia | 10 | 10–13 | 10–13 | 10–14 | 9–14 |
 | [3–4 June 2025](2025-06-04-Eumetra.html) | Eumetra <br> La7 | 11 | 10–12 | 9–13 | 9–14 | 9–15 |
@@ -533,13 +533,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0.5% | 100% |  |
-| 9 | 5% | 99.4% |  |
-| 10 | 23% | 95% |  |
-| 11 | 35% | 72% | Median |
-| 12 | 20% | 37% |  |
-| 13 | 12% | 17% |  |
+| 9 | 5% | 99.5% |  |
+| 10 | 22% | 95% |  |
+| 11 | 32% | 73% | Median |
+| 12 | 22% | 41% |  |
+| 13 | 14% | 19% |  |
 | 14 | 5% | 6% |  |
-| 15 | 0.7% | 0.7% |  |
+| 15 | 0.7% | 0.8% |  |
 | 16 | 0.1% | 0.1% |  |
 | 17 | 0% | 0% |  |
 

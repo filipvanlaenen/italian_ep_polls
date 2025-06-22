@@ -277,11 +277,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 7–9 | 6–9 | 6–10 | 5–10 |
 | [11–16 June 2025](2025-06-16-SWG.html) | SWG <br> La7 | 8 | 7–9 | 6–9 | 6–9 | 6–9 |
-| [12–13 June 2025](2025-06-13-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
+| [12–13 June 2025](2025-06-13-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [10–12 June 2025](2025-06-12-TermometroPolitico.html) | Termometro Politico | 8 | 7–8 | 7–9 | 7–9 | 7–9 |
-| [10–11 June 2025](2025-06-11-Eumetra.html) | Eumetra <br> La7 | 8 | 6–9 | 6–10 | 6–10 | 5–10 |
+| [10–11 June 2025](2025-06-11-Eumetra.html) | Eumetra <br> La7 | 8 | 7–9 | 6–10 | 6–10 | 5–10 |
 | [4–9 June 2025](2025-06-09-SWG.html) | SWG <br> La7 | 7 | 6–9 | 6–9 | 6–9 | 5–9 |
-| [1–5 June 2025](2025-06-05-BiDiMedia.html) | BiDiMedia | 7 | 7–10 | 7–10 | 7–10 | 6–10 |
+| [1–5 June 2025](2025-06-05-BiDiMedia.html) | BiDiMedia | 8 | 7–10 | 7–10 | 7–10 | 6–10 |
 | [3–4 June 2025](2025-06-04-Eumetra.html) | Eumetra <br> La7 | 8 | 6–9 | 6–9 | 6–9 | 6–10 |
 | [28 May–2 June 2025](2025-06-02-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [27–29 May 2025](2025-05-29-Ipsos.html) | Ipsos <br> Corriere della Sera | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
@@ -525,10 +525,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0.5% | 100% |  |
 | 6 | 9% | 99.5% |  |
-| 7 | 39% | 90% |  |
-| 8 | 38% | 52% | Median |
-| 9 | 10% | 14% |  |
-| 10 | 3% | 4% |  |
+| 7 | 35% | 91% |  |
+| 8 | 38% | 56% | Median |
+| 9 | 14% | 18% |  |
+| 10 | 3% | 3% |  |
 | 11 | 0.2% | 0.2% |  |
 | 12 | 0% | 0% |  |
 

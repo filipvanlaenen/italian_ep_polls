@@ -269,7 +269,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [11–16 June 2025](2025-06-16-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
-| [12–13 June 2025](2025-06-13-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0 | 0 | 0–4 |
+| [12–13 June 2025](2025-06-13-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0 | 0 | 0–3 |
 | [10–12 June 2025](2025-06-12-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [10–11 June 2025](2025-06-11-Eumetra.html) | Eumetra <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [4–9 June 2025](2025-06-09-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
@@ -514,7 +514,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 0.2% |  |
 | 2 | 0% | 0.2% |  |
 | 3 | 0% | 0.2% |  |
-| 4 | 0.2% | 0.2% |  |
+| 4 | 0.1% | 0.2% |  |
 | 5 | 0% | 0% |  |
 
 
