@@ -286,13 +286,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [28 May–2 June 2025](2025-06-02-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [27–29 May 2025](2025-05-29-Ipsos.html) | Ipsos <br> Corriere della Sera | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
 | [27–28 May 2025](2025-05-28-Eumetra.html) | Eumetra <br> La7 | 7 | 6–8 | 6–8 | 5–9 | 5–9 |
-| [27 May 2025](2025-05-27-Euromedia.html) | Euromedia <br> Rai 1 | 7 | 6–8 | 6–9 | 6–9 | 5–10 |
+| [27 May 2025](2025-05-27-Euromedia.html) | Euromedia <br> Rai 1 | 7 | 6–8 | 6–8 | 5–9 | 5–10 |
 | [21–26 May 2025](2025-05-26-SWG.html) | SWG <br> La7 | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
 | [21–22 May 2025](2025-05-22-TermometroPolitico.html) | Termometro Politico | 7 | 7 | 6–8 | 6–8 | 6–9 |
-| [22 May 2025](2025-05-22-Demopolis.html) | Demopolis | 7 | 7–8 | 7–8 | 6–8 | 5–9 |
+| [22 May 2025](2025-05-22-Demopolis.html) | Demopolis | 7 | 7–8 | 6–8 | 6–8 | 5–9 |
 | [20–21 May 2025](2025-05-21-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [14–19 May 2025](2025-05-19-SWG.html) | SWG <br> La7 | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
-| [14–15 May 2025](2025-05-15-Tecnè.html) | Tecnè <br> Agenzia Dire | 9 | 7–10 | 7–11 | 7–11 | 6–12 |
+| [14–15 May 2025](2025-05-15-Tecnè.html) | Tecnè <br> Agenzia Dire | 9 | 7–11 | 7–11 | 7–12 | 6–12 |
 | [14–15 May 2025](2025-05-15-DemosPi.html) | Demos & Pi <br> La Repubblica | 7 | 6–7 | 6–8 | 5–8 | 5–9 |
 | [13–14 May 2025](2025-05-14-Eumetra.html) | Eumetra <br> La7 | 7 | 6–8 | 6–9 | 5–9 | 5–10 |
 | [13 May 2025](2025-05-13-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 7 | 6–8 | 6–8 | 6–9 | 5–10 |
@@ -523,12 +523,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0.8% | 100% |  |
-| 5 | 7% | 99.2% |  |
-| 6 | 27% | 92% |  |
-| 7 | 45% | 65% | Median |
-| 8 | 14% | 19% |  |
-| 9 | 5% | 5% |  |
-| 10 | 0.2% | 0.2% |  |
+| 5 | 8% | 99.2% |  |
+| 6 | 28% | 91% |  |
+| 7 | 44% | 64% | Median |
+| 8 | 15% | 20% |  |
+| 9 | 4% | 4% |  |
+| 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |
 
 

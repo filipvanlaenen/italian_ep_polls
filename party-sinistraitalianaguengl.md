@@ -287,7 +287,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [14–15 May 2025](2025-05-15-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
 | [14–15 May 2025](2025-05-15-DemosPi.html) | Demos & Pi <br> La Repubblica | 0 | 0 | 0 | 0 | 0 |
 | [13–14 May 2025](2025-05-14-Eumetra.html) | Eumetra <br> La7 | 0 | 0 | 0 | 0 | 0 |
-| [13 May 2025](2025-05-13-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0 | 0–3 |
+| [13 May 2025](2025-05-13-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0 | 0–4 |
 | [7–12 May 2025](2025-05-12-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [7–8 May 2025](2025-05-08-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
 | [30 April–5 May 2025](2025-05-05-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
@@ -514,7 +514,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 0.2% |  |
 | 2 | 0% | 0.2% |  |
 | 3 | 0% | 0.2% |  |
-| 4 | 0.1% | 0.2% |  |
+| 4 | 0.2% | 0.2% |  |
 | 5 | 0% | 0% |  |
 
 

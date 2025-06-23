@@ -302,16 +302,16 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [28 May–2 June 2025](2025-06-02-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [27–29 May 2025](2025-05-29-Ipsos.html) | Ipsos <br> Corriere della Sera | 19 | 18–21 | 17–22 | 17–22 | 16–23 |
 | [27–28 May 2025](2025-05-28-Eumetra.html) | Eumetra <br> La7 | 19 | 19–22 | 18–23 | 18–24 | 17–24 |
-| [27 May 2025](2025-05-27-Euromedia.html) | Euromedia <br> Rai 1 | 21 | 18–21 | 18–22 | 17–22 | 17–24 |
+| [27 May 2025](2025-05-27-Euromedia.html) | Euromedia <br> Rai 1 | 21 | 18–22 | 18–22 | 18–22 | 16–24 |
 | [21–26 May 2025](2025-05-26-SWG.html) | SWG <br> La7 | 20 | 19–22 | 19–22 | 18–23 | 17–24 |
 | [21–22 May 2025](2025-05-22-TermometroPolitico.html) | Termometro Politico | 20 | 20–22 | 19–22 | 19–22 | 19–23 |
-| [22 May 2025](2025-05-22-Demopolis.html) | Demopolis | 22 | 20–22 | 19–22 | 19–22 | 18–23 |
+| [22 May 2025](2025-05-22-Demopolis.html) | Demopolis | 22 | 20–22 | 19–22 | 19–23 | 18–24 |
 | [20–21 May 2025](2025-05-21-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [14–19 May 2025](2025-05-19-SWG.html) | SWG <br> La7 | 21 | 19–22 | 18–22 | 18–22 | 17–23 |
-| [14–15 May 2025](2025-05-15-Tecnè.html) | Tecnè <br> Agenzia Dire | 18 | 17–22 | 16–23 | 16–23 | 15–23 |
+| [14–15 May 2025](2025-05-15-Tecnè.html) | Tecnè <br> Agenzia Dire | 19 | 17–21 | 16–22 | 16–23 | 15–23 |
 | [14–15 May 2025](2025-05-15-DemosPi.html) | Demos & Pi <br> La Repubblica | 20 | 17–21 | 17–21 | 17–22 | 16–23 |
 | [13–14 May 2025](2025-05-14-Eumetra.html) | Eumetra <br> La7 | 19 | 18–21 | 17–22 | 17–22 | 16–24 |
-| [13 May 2025](2025-05-13-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 19 | 18–21 | 17–22 | 17–22 | 16–22 |
+| [13 May 2025](2025-05-13-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 19 | 18–21 | 17–21 | 17–22 | 16–23 |
 | [7–12 May 2025](2025-05-12-SWG.html) | SWG <br> La7 | 21 | 19–22 | 19–23 | 18–23 | 17–23 |
 | [7–8 May 2025](2025-05-08-Tecnè.html) | Tecnè <br> Agenzia Dire | 19 | 18–20 | 17–21 | 17–21 | 16–22 |
 | [30 April–5 May 2025](2025-05-05-SWG.html) | SWG <br> La7 | 21 | 19–22 | 18–23 | 18–23 | 18–23 |
@@ -551,15 +551,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
 | 16 | 0.4% | 100% |  |
-| 17 | 2% | 99.6% |  |
+| 17 | 1.5% | 99.5% |  |
 | 18 | 9% | 98% |  |
 | 19 | 17% | 89% |  |
 | 20 | 17% | 72% |  |
-| 21 | 30% | 55% | Median |
-| 22 | 22% | 25% |  |
+| 21 | 31% | 55% | Median |
+| 22 | 20% | 24% |  |
 | 23 | 3% | 4% |  |
-| 24 | 0.4% | 0.7% |  |
-| 25 | 0.2% | 0.3% |  |
+| 24 | 0.6% | 0.9% |  |
+| 25 | 0.3% | 0.3% |  |
 | 26 | 0.1% | 0.1% |  |
 | 27 | 0% | 0% |  |
 

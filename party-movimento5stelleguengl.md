@@ -292,10 +292,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [28 May–2 June 2025](2025-06-02-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [27–29 May 2025](2025-05-29-Ipsos.html) | Ipsos <br> Corriere della Sera | 13 | 11–14 | 11–15 | 10–15 | 10–15 |
 | [27–28 May 2025](2025-05-28-Eumetra.html) | Eumetra <br> La7 | 11 | 10–12 | 9–13 | 9–13 | 9–14 |
-| [27 May 2025](2025-05-27-Euromedia.html) | Euromedia <br> Rai 1 | 11 | 9–13 | 9–13 | 9–13 | 8–13 |
+| [27 May 2025](2025-05-27-Euromedia.html) | Euromedia <br> Rai 1 | 10 | 9–13 | 9–13 | 9–13 | 9–13 |
 | [21–26 May 2025](2025-05-26-SWG.html) | SWG <br> La7 | 11 | 10–13 | 10–13 | 10–14 | 9–14 |
 | [21–22 May 2025](2025-05-22-TermometroPolitico.html) | Termometro Politico | 12 | 10–12 | 10–12 | 10–12 | 10–12 |
-| [22 May 2025](2025-05-22-Demopolis.html) | Demopolis | 11 | 11–12 | 10–12 | 10–12 | 9–14 |
+| [22 May 2025](2025-05-22-Demopolis.html) | Demopolis | 11 | 10–12 | 10–12 | 9–12 | 9–14 |
 | [20–21 May 2025](2025-05-21-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [14–19 May 2025](2025-05-19-SWG.html) | SWG <br> La7 | 11 | 10–12 | 10–12 | 9–13 | 9–14 |
 | [14–15 May 2025](2025-05-15-Tecnè.html) | Tecnè <br> Agenzia Dire | 11 | 9–12 | 9–12 | 9–13 | 8–14 |
@@ -534,10 +534,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0.5% | 100% |  |
 | 9 | 5% | 99.5% |  |
-| 10 | 22% | 95% |  |
-| 11 | 32% | 73% | Median |
-| 12 | 22% | 41% |  |
-| 13 | 14% | 19% |  |
+| 10 | 26% | 95% |  |
+| 11 | 29% | 69% | Median |
+| 12 | 21% | 40% |  |
+| 13 | 13% | 19% |  |
 | 14 | 5% | 6% |  |
 | 15 | 0.7% | 0.8% |  |
 | 16 | 0.1% | 0.1% |  |

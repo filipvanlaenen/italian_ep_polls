@@ -268,7 +268,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–4 |
 | [11–16 June 2025](2025-06-16-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [12–13 June 2025](2025-06-13-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0 | 0 | 0 |
 | [10–12 June 2025](2025-06-12-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
@@ -279,7 +279,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [28 May–2 June 2025](2025-06-02-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [27–29 May 2025](2025-05-29-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
 | [27–28 May 2025](2025-05-28-Eumetra.html) | Eumetra <br> La7 | 0 | 0 | 0 | 0 | 0–4 |
-| [27 May 2025](2025-05-27-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0–3 | 0–4 |
+| [27 May 2025](2025-05-27-Euromedia.html) | Euromedia <br> Rai 1 | 0 | 0 | 0 | 0–4 | 0–4 |
 | [21–26 May 2025](2025-05-26-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [21–22 May 2025](2025-05-22-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [22 May 2025](2025-05-22-Demopolis.html) | Demopolis | 0 | 0 | 0 | 0 | 0 |
@@ -288,7 +288,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [14–15 May 2025](2025-05-15-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
 | [14–15 May 2025](2025-05-15-DemosPi.html) | Demos & Pi <br> La Repubblica | 0 | 0 | 0 | 0 | 0 |
 | [13–14 May 2025](2025-05-14-Eumetra.html) | Eumetra <br> La7 | 0 | 0 | 0 | 0–4 | 0–4 |
-| [13 May 2025](2025-05-13-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0 | 0–4 |
+| [13 May 2025](2025-05-13-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0 | 0 | 0 | 0 | 0–3 |
 | [7–12 May 2025](2025-05-12-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0–3 | 0–4 |
 | [7–8 May 2025](2025-05-08-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
 | [30 April–5 May 2025](2025-05-05-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0–4 |
@@ -511,11 +511,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.5% | 100% | Last Result, Median |
-| 1 | 0% | 0.5% |  |
-| 2 | 0% | 0.5% |  |
-| 3 | 0.1% | 0.5% |  |
-| 4 | 0.4% | 0.4% |  |
+| 0 | 99.4% | 100% | Last Result, Median |
+| 1 | 0% | 0.6% |  |
+| 2 | 0% | 0.6% |  |
+| 3 | 0% | 0.6% |  |
+| 4 | 0.6% | 0.6% |  |
 | 5 | 0% | 0% |  |
 
 
