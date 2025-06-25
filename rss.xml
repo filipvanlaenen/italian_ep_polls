@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 23 Jun 2025 10:19:26 +0200</pubDate>
+    <pubDate>Tue, 24 Jun 2025 22:42:51 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by SWG for La7, 18–23 June 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2025-06-23-SWG.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Noi Moderati (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 25–29 seats&lt;/li&gt;&lt;li&gt;Partito Progressista (*): 0 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 18–22 seats&lt;/li&gt;&lt;li&gt;Movimento 5 Stelle (GUE/NGL): 9–13 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 5–8 seats&lt;/li&gt;&lt;li&gt;Azione (RE): 0–4 seats&lt;/li&gt;&lt;li&gt;Sinistra Italiana (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Lega Nord (PfE): 7–8 seats&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 0–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2025-06-23-SWG-seats.png"
+        length="246354"
+        type="image/png"/>
+      <pubDate>Tue, 24 Jun 2025 22:42:51 +0200</pubDate>
+      <dc:date>2025-06-24T22:42:51.130529+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SWG for La7, 18–23 June 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2025-06-23-SWG.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2025-06-23-SWG-coalitions-seats.png"
+        length="211001"
+        type="image/png"/>
+      <pubDate>Tue, 24 Jun 2025 22:42:51 +0200</pubDate>
+      <dc:date>2025-06-24T22:42:51.130529+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SWG for La7, 18–23 June 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2025-06-23-SWG.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Noi Moderati (EPP): 0.6–1.8%&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 1.4–3.1%&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0.9–2.4%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 28.0–33.3%&lt;/li&gt;&lt;li&gt;Partito Progressista (*): 0.3–1.2%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 20.7–25.5%&lt;/li&gt;&lt;li&gt;Movimento 5 Stelle (GUE/NGL): 10.7–14.4%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6.7–9.8%&lt;/li&gt;&lt;li&gt;Azione (RE): 2.7–4.8%&lt;/li&gt;&lt;li&gt;Sinistra Italiana (GUE/NGL): 1.6–3.4%&lt;/li&gt;&lt;li&gt;Lega Nord (PfE): 6.7–9.9%&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 2.7–4.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2025-06-23-SWG.png"
+        length="326838"
+        type="image/png"/>
+      <pubDate>Tue, 24 Jun 2025 22:42:51 +0200</pubDate>
+      <dc:date>2025-06-24T22:42:51.130529+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by SWG for La7, 11–16 June 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2025-06-16-SWG.html#seats</link>
@@ -4119,6 +4149,6 @@
       <pubDate>Fri, 25 Oct 2024 22:11:04 +0200</pubDate>
       <dc:date>2024-10-25T22:11:04.062695+02:00</dc:date>
     </item>
-    <dc:date>2025-06-23T10:19:26.760447+02:00</dc:date>
+    <dc:date>2025-06-24T22:42:51.130529+02:00</dc:date>
   </channel>
 </rss>
