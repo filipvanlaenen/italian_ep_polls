@@ -285,7 +285,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11 | 10–13 | 9–14 | 9–14 | 9–15 |
 | [18–23 June 2025](2025-06-23-SWG.html) | SWG <br> La7 | 11 | 10–12 | 10–12 | 9–13 | 9–14 |
-| [17–19 June 2025](2025-06-19-TermometroPolitico.html) | Termometro Politico | 11 | 11–12 | 11–12 | 10–12 | 10–12 |
+| [17–19 June 2025](2025-06-19-TermometroPolitico.html) | Termometro Politico | 11 | 11–12 | 10–12 | 10–12 | 10–13 |
 | [11–16 June 2025](2025-06-16-SWG.html) | SWG <br> La7 | 11 | 10–12 | 10–13 | 9–13 | 9–14 |
 | [12–13 June 2025](2025-06-13-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 10 | 9–11 | 9–12 | 8–12 | 8–13 |
 | [10–12 June 2025](2025-06-12-TermometroPolitico.html) | Termometro Politico | 12 | 11–13 | 10–13 | 10–13 | 10–13 |

@@ -295,7 +295,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20 | 18–22 | 18–22 | 18–23 | 16–24 |
 | [18–23 June 2025](2025-06-23-SWG.html) | SWG <br> La7 | 20 | 18–21 | 18–22 | 18–23 | 17–23 |
-| [17–19 June 2025](2025-06-19-TermometroPolitico.html) | Termometro Politico | 20 | 20 | 20–21 | 19–22 | 19–23 |
+| [17–19 June 2025](2025-06-19-TermometroPolitico.html) | Termometro Politico | 20 | 19–21 | 19–22 | 19–23 | 19–23 |
 | [11–16 June 2025](2025-06-16-SWG.html) | SWG <br> La7 | 21 | 20–23 | 19–23 | 18–23 | 18–24 |
 | [12–13 June 2025](2025-06-13-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 19 | 18–22 | 17–22 | 17–22 | 16–23 |
 | [10–12 June 2025](2025-06-12-TermometroPolitico.html) | Termometro Politico | 21 | 20–22 | 20–22 | 19–22 | 19–22 |
@@ -557,9 +557,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 0.5% | 100% |  |
 | 17 | 2% | 99.5% |  |
 | 18 | 11% | 98% |  |
-| 19 | 20% | 87% |  |
-| 20 | 29% | 67% | Median |
-| 21 | 25% | 38% |  |
+| 19 | 22% | 87% |  |
+| 20 | 26% | 65% | Median |
+| 21 | 26% | 39% |  |
 | 22 | 10% | 13% |  |
 | 23 | 2% | 3% |  |
 | 24 | 0.5% | 0.8% |  |
