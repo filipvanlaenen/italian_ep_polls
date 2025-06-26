@@ -10,8 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.5% | 27.0–31.6% | 26.3–32.2% | 25.7–32.8% | 24.7–33.9% |
+| N/A | [Poll Average](average.html) | 29.4% | 27.0–31.6% | 26.3–32.2% | 25.7–32.8% | 24.7–33.9% |
 | [18–23 June 2025](2025-06-23-SWG.html) | SWG <br> La7 | 30.6% | 28.9–32.3% | 28.4–32.8% | 28.0–33.3% | 27.3–34.1% |
+| [17–19 June 2025](2025-06-19-TermometroPolitico.html) | Termometro Politico | 29.7% | 28.6–30.8% | 28.3–31.1% | 28.0–31.4% | 27.5–31.9% |
 | [11–16 June 2025](2025-06-16-SWG.html) | SWG <br> La7 | 30.4% | 28.7–32.2% | 28.3–32.7% | 27.9–33.1% | 27.1–33.9% |
 | [12–13 June 2025](2025-06-13-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 28.4% | 26.4–30.5% | 25.9–31.1% | 25.4–31.7% | 24.5–32.7% |
 | [10–12 June 2025](2025-06-12-TermometroPolitico.html) | Termometro Politico | 29.8% | 28.8–30.8% | 28.5–31.1% | 28.3–31.4% | 27.8–31.8% |
@@ -280,9 +281,9 @@ The following table shows the probability mass function per percentage block of 
 | 24.5–25.5% | 2% | 99.6% |  |
 | 25.5–26.5% | 5% | 98% |  |
 | 26.5–27.5% | 9% | 93% |  |
-| 27.5–28.5% | 14% | 84% |  |
-| 28.5–29.5% | 21% | 70% | Median |
-| 29.5–30.5% | 23% | 48% |  |
+| 27.5–28.5% | 15% | 84% |  |
+| 28.5–29.5% | 22% | 69% | Median |
+| 29.5–30.5% | 22% | 47% |  |
 | 30.5–31.5% | 15% | 25% |  |
 | 31.5–32.5% | 7% | 11% |  |
 | 32.5–33.5% | 3% | 3% |  |
@@ -299,8 +300,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26 | 23–28 | 23–29 | 22–29 | 21–31 |
-| [18–23 June 2025](2025-06-23-SWG.html) | SWG <br> La7 | 26 | 25–27 | 25–28 | 25–29 | 24–30 |
+| N/A | [Poll Average](average.html) | 26 | 23–30 | 23–30 | 22–30 | 21–31 |
+| [18–23 June 2025](2025-06-23-SWG.html) | SWG <br> La7 | 26 | 25–29 | 24–30 | 24–30 | 24–30 |
+| [17–19 June 2025](2025-06-19-TermometroPolitico.html) | Termometro Politico | 30 | 28–30 | 27–30 | 26–30 | 26–30 |
 | [11–16 June 2025](2025-06-16-SWG.html) | SWG <br> La7 | 28 | 26–29 | 25–29 | 24–30 | 23–31 |
 | [12–13 June 2025](2025-06-13-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 25 | 23–26 | 23–26 | 22–27 | 21–28 |
 | [10–12 June 2025](2025-06-12-TermometroPolitico.html) | Termometro Politico | 27 | 27–28 | 26–29 | 26–29 | 26–29 |
@@ -567,14 +569,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 21 | 0.6% | 99.9% |  |
 | 22 | 2% | 99.2% |  |
 | 23 | 7% | 97% |  |
-| 24 | 10% | 90% |  |
-| 25 | 11% | 80% |  |
-| 26 | 26% | 69% | Median |
-| 27 | 23% | 43% |  |
-| 28 | 10% | 19% |  |
-| 29 | 7% | 9% |  |
-| 30 | 2% | 2% |  |
-| 31 | 0.3% | 0.5% |  |
+| 24 | 11% | 90% |  |
+| 25 | 11% | 79% |  |
+| 26 | 24% | 68% | Median |
+| 27 | 13% | 44% |  |
+| 28 | 13% | 31% |  |
+| 29 | 7% | 19% |  |
+| 30 | 11% | 12% |  |
+| 31 | 0.4% | 0.5% |  |
 | 32 | 0.1% | 0.2% |  |
 | 33 | 0% | 0% |  |
 
