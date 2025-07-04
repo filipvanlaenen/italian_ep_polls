@@ -10,7 +10,13 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.5% | 2.8–4.4% | 2.6–4.6% | 2.5–4.9% | 2.2–5.4% |
+| N/A | [Poll Average](average.html) | 3.6% | 2.9–4.3% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
+| [25–30 June 2025](2025-06-30-SWG.html) | SWG <br> La7 | 3.7% | 3.0–4.5% | 2.9–4.7% | 2.7–4.9% | 2.5–5.3% |
+| [24–27 June 2025](2025-06-27-TermometroPolitico.html) | Termometro Politico | 3.6% | 3.2–4.1% | 3.0–4.2% | 2.9–4.3% | 2.8–4.6% |
+| [25–26 June 2025](2025-06-26-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.3–4.6% | 2.1–5.0% |
+| [20–26 June 2025](2025-06-26-Ixè.html) | Ixè | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
+| [24–26 June 2025](2025-06-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
+| [25–26 June 2025](2025-06-26-Demopolis.html) | Demopolis <br> La7 | 3.6% | 3.1–4.2% | 3.0–4.4% | 2.9–4.5% | 2.7–4.8% |
 | [18–23 June 2025](2025-06-23-SWG.html) | SWG <br> La7 | 3.6% | 3.0–4.4% | 2.8–4.6% | 2.7–4.8% | 2.4–5.2% |
 | [17–19 June 2025](2025-06-19-TermometroPolitico.html) | Termometro Politico | 3.4% | 3.0–3.9% | 2.9–4.1% | 2.8–4.2% | 2.7–4.4% |
 | [11–16 June 2025](2025-06-16-SWG.html) | SWG <br> La7 | 3.7% | 3.0–4.5% | 2.9–4.7% | 2.7–4.9% | 2.5–5.3% |
@@ -256,10 +262,10 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 3% | 100% |  |
-| 2.5–3.5% | 48% | 97% |  |
-| 3.5–4.5% | 42% | 49% | Median |
-| 4.5–5.5% | 6% | 6% |  |
-| 5.5–6.5% | 0.3% | 0.3% |  |
+| 2.5–3.5% | 45% | 97% |  |
+| 3.5–4.5% | 46% | 52% | Median |
+| 4.5–5.5% | 5% | 6% |  |
+| 5.5–6.5% | 0.2% | 0.3% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -272,6 +278,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [25–30 June 2025](2025-06-30-SWG.html) | SWG <br> La7 | 0 | 0–3 | 0–4 | 0–4 | 0–5 |
+| [24–27 June 2025](2025-06-27-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0–4 | 0–4 |
+| [25–26 June 2025](2025-06-26-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [20–26 June 2025](2025-06-26-Ixè.html) | Ixè | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [24–26 June 2025](2025-06-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [25–26 June 2025](2025-06-26-Demopolis.html) | Demopolis <br> La7 | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [18–23 June 2025](2025-06-23-SWG.html) | SWG <br> La7 | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [17–19 June 2025](2025-06-19-TermometroPolitico.html) | Termometro Politico | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [11–16 June 2025](2025-06-16-SWG.html) | SWG <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
@@ -516,12 +528,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 75% | 100% | Last Result, Median |
-| 1 | 0% | 25% |  |
-| 2 | 0% | 25% |  |
-| 3 | 2% | 25% |  |
-| 4 | 22% | 23% |  |
-| 5 | 1.2% | 1.2% |  |
+| 0 | 78% | 100% | Last Result, Median |
+| 1 | 0% | 22% |  |
+| 2 | 0% | 22% |  |
+| 3 | 3% | 22% |  |
+| 4 | 18% | 19% |  |
+| 5 | 0.9% | 0.9% |  |
 | 6 | 0% | 0% |  |
 
 
