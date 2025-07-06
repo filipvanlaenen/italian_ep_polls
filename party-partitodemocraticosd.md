@@ -298,12 +298,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 18–22 | 18–22 | 17–22 | 16–24 |
+| N/A | [Poll Average](average.html) | 19 | 18–21 | 17–22 | 17–22 | 16–24 |
 | [25–30 June 2025](2025-06-30-SWG.html) | SWG <br> La7 | 21 | 19–22 | 19–23 | 18–23 | 17–24 |
-| [24–27 June 2025](2025-06-27-TermometroPolitico.html) | Termometro Politico | 21 | 20–21 | 20–22 | 19–22 | 19–22 |
-| [25–26 June 2025](2025-06-26-Tecnè.html) | Tecnè <br> Agenzia Dire | 19 | 18–21 | 17–22 | 17–22 | 16–23 |
-| [20–26 June 2025](2025-06-26-Ixè.html) | Ixè | 19 | 18–20 | 17–21 | 17–21 | 17–22 |
-| [24–26 June 2025](2025-06-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 19 | 17–19 | 17–20 | 17–20 | 16–21 |
+| [24–27 June 2025](2025-06-27-TermometroPolitico.html) | Termometro Politico | 20 | 19–20 | 19–21 | 19–21 | 19–22 |
+| [25–26 June 2025](2025-06-26-Tecnè.html) | Tecnè <br> Agenzia Dire | 19 | 17–20 | 17–21 | 17–22 | 16–23 |
+| [20–26 June 2025](2025-06-26-Ixè.html) | Ixè | 19 | 17–20 | 17–21 | 17–21 | 16–22 |
+| [24–26 June 2025](2025-06-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 19 | 18–20 | 17–20 | 17–21 | 16–21 |
 | [25–26 June 2025](2025-06-26-Demopolis.html) | Demopolis <br> La7 | 19 | 18–20 | 18–20 | 17–21 | 17–21 |
 | [18–23 June 2025](2025-06-23-SWG.html) | SWG <br> La7 | 20 | 18–21 | 18–22 | 18–23 | 17–23 |
 | [17–19 June 2025](2025-06-19-TermometroPolitico.html) | Termometro Politico | 20 | 19–21 | 19–22 | 19–23 | 19–23 |
@@ -566,12 +566,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 100% |  |
 | 15 | 0.1% | 100% |  |
 | 16 | 0.6% | 99.9% |  |
-| 17 | 4% | 99.4% |  |
-| 18 | 13% | 95% |  |
-| 19 | 33% | 82% | Median |
-| 20 | 14% | 50% |  |
-| 21 | 26% | 36% |  |
-| 22 | 8% | 10% |  |
+| 17 | 6% | 99.3% |  |
+| 18 | 13% | 93% |  |
+| 19 | 33% | 81% | Median |
+| 20 | 21% | 48% |  |
+| 21 | 18% | 27% |  |
+| 22 | 7% | 9% |  |
 | 23 | 2% | 2% |  |
 | 24 | 0.3% | 0.6% |  |
 | 25 | 0.2% | 0.3% |  |
