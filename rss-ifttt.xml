@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Sun, 21 Jul 2024 15:49:56 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Tecnè for Agenzia Dire, 9–10 July 2025 – Seating Plan Projection</title>
+      <link>null/2025-07-10-Tecnè.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>39 seats needed for a majority<br/>Opinion poll by Tecnè for Agenzia Dire, 9–10 July 2025<br/>Details on null/2025-07-10-Tecnè.html<br/><img src="null/2025-07-10-Tecnè-seating-plan.png"/>]]></description>
+      <enclosure url="null/2025-07-10-Tecnè-seating-plan.png" length="422990" type="image/png"/>
+      <pubDate>Mon, 14 Jul 2025 22:19:42 +0200</pubDate>
+      <dc:date>2025-07-14T22:19:42.06117748+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Tecnè for Agenzia Dire, 9–10 July 2025 – Seat Projections</title>
+      <link>null/2025-07-10-Tecnè.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>39 seats needed for a majority<br/>Opinion poll by Tecnè for Agenzia Dire, 9–10 July 2025<br/>Details on null/2025-07-10-Tecnè.html<br/><img src="null/2025-07-10-Tecnè-seats.png"/>]]></description>
+      <enclosure url="null/2025-07-10-Tecnè-seats.png" length="251621" type="image/png"/>
+      <pubDate>Mon, 14 Jul 2025 22:19:42 +0200</pubDate>
+      <dc:date>2025-07-14T22:19:42.06117748+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Tecnè for Agenzia Dire, 9–10 July 2025 – Voting Intentions</title>
+      <link>null/2025-07-10-Tecnè.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Tecnè for Agenzia Dire, 9–10 July 2025<br/>Details on null/2025-07-10-Tecnè.html<br/><img src="null/2025-07-10-Tecnè.png"/>]]></description>
+      <enclosure url="null/2025-07-10-Tecnè.png" length="318168" type="image/png"/>
+      <pubDate>Mon, 14 Jul 2025 22:19:42 +0200</pubDate>
+      <dc:date>2025-07-14T22:19:42.06117748+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by SWG for La7, 2–7 July 2025 – Seating Plan Projection</title>
       <link>null/2025-07-07-SWG.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>39 seats needed for a majority<br/>Opinion poll by SWG for La7, 2–7 July 2025<br/>Details on null/2025-07-07-SWG.html<br/><img src="null/2025-07-07-SWG-seating-plan.png"/>]]></description>
@@ -364,30 +388,6 @@
       <enclosure url="null/2025-06-11-Eumetra.png" length="339244" type="image/png"/>
       <pubDate>Sun, 22 Jun 2025 21:39:19 +0200</pubDate>
       <dc:date>2025-06-22T21:39:19.385554111+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by SWG for La7, 4–9 June 2025 – Seating Plan Projection</title>
-      <link>null/2025-06-09-SWG.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>39 seats needed for a majority<br/>Opinion poll by SWG for La7, 4–9 June 2025<br/>Details on null/2025-06-09-SWG.html<br/><img src="null/2025-06-09-SWG-seating-plan.png"/>]]></description>
-      <enclosure url="null/2025-06-09-SWG-seating-plan.png" length="422965" type="image/png"/>
-      <pubDate>Fri, 20 Jun 2025 19:15:57 +0200</pubDate>
-      <dc:date>2025-06-20T19:15:57.977444596+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by SWG for La7, 4–9 June 2025 – Seat Projections</title>
-      <link>null/2025-06-09-SWG.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>39 seats needed for a majority<br/>Opinion poll by SWG for La7, 4–9 June 2025<br/>Details on null/2025-06-09-SWG.html<br/><img src="null/2025-06-09-SWG-seats.png"/>]]></description>
-      <enclosure url="null/2025-06-09-SWG-seats.png" length="244434" type="image/png"/>
-      <pubDate>Fri, 20 Jun 2025 19:15:57 +0200</pubDate>
-      <dc:date>2025-06-20T19:15:57.977444596+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by SWG for La7, 4–9 June 2025 – Voting Intentions</title>
-      <link>null/2025-06-09-SWG.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by SWG for La7, 4–9 June 2025<br/>Details on null/2025-06-09-SWG.html<br/><img src="null/2025-06-09-SWG.png"/>]]></description>
-      <enclosure url="null/2025-06-09-SWG.png" length="325970" type="image/png"/>
-      <pubDate>Fri, 20 Jun 2025 19:15:57 +0200</pubDate>
-      <dc:date>2025-06-20T19:15:57.977444596+02:00</dc:date>
     </item>
   </channel>
 </rss>
