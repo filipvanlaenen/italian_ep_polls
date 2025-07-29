@@ -10,7 +10,13 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.4% | 2.7–4.3% | 2.5–4.5% | 2.3–4.8% | 2.0–5.3% |
+| N/A | [Poll Average](average.html) | 3.4% | 2.7–4.3% | 2.5–4.6% | 2.4–4.9% | 2.1–5.4% |
+| [16–21 July 2025](2025-07-21-SWG.html) | SWG <br> La7 | 3.5% | 2.9–4.3% | 2.7–4.5% | 2.6–4.7% | 2.3–5.1% |
+| [15–17 July 2025](2025-07-17-TermometroPolitico.html) | Termometro Politico | 3.0% | 2.6–3.5% | 2.5–3.6% | 2.4–3.7% | 2.2–4.0% |
+| [16–17 July 2025](2025-07-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
+| [9–14 July 2025](2025-07-14-SWG.html) | SWG <br> La7 | 3.5% | N/A | N/A | N/A | N/A |
+| [11–14 July 2025](2025-07-14-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 3.6% | 2.9–4.6% | 2.7–4.9% | 2.5–5.2% | 2.2–5.7% |
+| [8–10 July 2025](2025-07-10-TermometroPolitico.html) | Termometro Politico | 2.9% | N/A | N/A | N/A | N/A |
 | [9–10 July 2025](2025-07-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.3–4.6% | 2.1–5.0% |
 | [2–7 July 2025](2025-07-07-SWG.html) | SWG <br> La7 | 3.7% | 3.0–4.5% | 2.9–4.7% | 2.7–4.9% | 2.5–5.3% |
 | [1–3 July 2025](2025-07-03-TermometroPolitico.html) | Termometro Politico | 3.0% | 2.6–3.5% | 2.5–3.6% | 2.4–3.7% | 2.2–4.0% |
@@ -265,11 +271,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 6% | 100% |  |
-| 2.5–3.5% | 54% | 94% | Median |
-| 3.5–4.5% | 34% | 39% |  |
-| 4.5–5.5% | 5% | 5% |  |
-| 5.5–6.5% | 0.2% | 0.2% |  |
+| 1.5–2.5% | 5% | 100% |  |
+| 2.5–3.5% | 53% | 95% | Median |
+| 3.5–4.5% | 36% | 41% |  |
+| 4.5–5.5% | 5% | 6% |  |
+| 5.5–6.5% | 0.3% | 0.3% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -281,7 +287,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [16–21 July 2025](2025-07-21-SWG.html) | SWG <br> La7 | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
+| [15–17 July 2025](2025-07-17-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0–4 | 0–4 |
+| [16–17 July 2025](2025-07-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [9–14 July 2025](2025-07-14-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [11–14 July 2025](2025-07-14-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 4 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [8–10 July 2025](2025-07-10-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [9–10 July 2025](2025-07-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | [2–7 July 2025](2025-07-07-SWG.html) | SWG <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [1–3 July 2025](2025-07-03-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0–4 |
@@ -536,12 +548,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 81% | 100% | Last Result, Median |
-| 1 | 0% | 19% |  |
-| 2 | 0% | 19% |  |
-| 3 | 3% | 19% |  |
-| 4 | 16% | 16% |  |
-| 5 | 0.4% | 0.4% |  |
+| 0 | 75% | 100% | Last Result, Median |
+| 1 | 0% | 25% |  |
+| 2 | 0% | 25% |  |
+| 3 | 2% | 25% |  |
+| 4 | 21% | 23% |  |
+| 5 | 1.2% | 1.3% |  |
 | 6 | 0% | 0% |  |
 
 
