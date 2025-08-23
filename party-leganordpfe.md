@@ -10,17 +10,17 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.7% | 7.7–9.7% | 7.2–10.1% | 6.8–10.5% | 6.1–11.5% |
+| N/A | [Poll Average](average.html) | 8.6% | 7.6–9.7% | 7.2–10.0% | 6.9–10.4% | 6.3–11.1% |
 | [30–31 July 2025](2025-07-31-TermometroPolitico.html) | Termometro Politico | 8.7% | 8.0–9.5% | 7.8–9.7% | 7.7–9.9% | 7.3–10.3% |
 | [31 July 2025](2025-07-31-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 8.4% | 7.0–10.2% | 6.6–10.7% | 6.3–11.2% | 5.7–12.1% |
-| [28–30 July 2025](2025-07-30-Demopolis.html) | Demopolis | 8.8% | 8.0–9.7% | 7.8–9.9% | 7.6–10.2% | 7.3–10.6% |
-| [21–29 July 2025](2025-07-29-Winpoll.html) | Winpoll | 8.7% | N/A | N/A | N/A | N/A |
-| [23–28 July 2025](2025-07-28-SWG.html) | SWG <br> La7 | 8.4% | N/A | N/A | N/A | N/A |
+| [28–30 July 2025](2025-07-30-Demopolis.html) | Demopolis | 8.8% | 8.0–9.7% | 7.8–9.9% | 7.6–10.1% | 7.3–10.6% |
+| [21–29 July 2025](2025-07-29-Winpoll.html) | Winpoll | 8.7% | 7.8–9.7% | 7.5–10.0% | 7.3–10.2% | 7.0–10.7% |
+| [23–28 July 2025](2025-07-28-SWG.html) | SWG <br> La7 | 8.4% | 7.5–9.5% | 7.2–9.8% | 7.0–10.1% | 6.5–10.7% |
 | [22–24 July 2025](2025-07-24-TermometroPolitico.html) | Termometro Politico | 8.7% | N/A | N/A | N/A | N/A |
-| [21–24 July 2025](2025-07-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 8.5% | N/A | N/A | N/A | N/A |
+| [21–24 July 2025](2025-07-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 8.5% | 7.5–9.7% | 7.2–10.1% | 6.9–10.4% | 6.4–11.0% |
 | [16–21 July 2025](2025-07-21-SWG.html) | SWG <br> La7 | 8.4% | N/A | N/A | N/A | N/A |
 | [15–17 July 2025](2025-07-17-TermometroPolitico.html) | Termometro Politico | 8.4% | N/A | N/A | N/A | N/A |
-| [16–17 July 2025](2025-07-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 8.4% | N/A | N/A | N/A | N/A |
+| [16–17 July 2025](2025-07-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 8.4% | 7.4–9.6% | 7.1–10.0% | 6.8–10.3% | 6.4–10.9% |
 | [15–17 July 2025](2025-07-17-SWG.html) | SWG | 8.4% | N/A | N/A | N/A | N/A |
 | [9–14 July 2025](2025-07-14-SWG.html) | SWG <br> La7 | 8.3% | N/A | N/A | N/A | N/A |
 | [11–14 July 2025](2025-07-14-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 8.2% | N/A | N/A | N/A | N/A |
@@ -33,7 +33,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [25–30 June 2025](2025-06-30-SWG.html) | SWG <br> La7 | 8.2% | N/A | N/A | N/A | N/A |
 | [24–27 June 2025](2025-06-27-TermometroPolitico.html) | Termometro Politico | 8.6% | N/A | N/A | N/A | N/A |
 | [25–26 June 2025](2025-06-26-Tecnè.html) | Tecnè <br> Agenzia Dire | 8.6% | N/A | N/A | N/A | N/A |
-| [20–26 June 2025](2025-06-26-Ixè.html) | Ixè | 8.6% | N/A | N/A | N/A | N/A |
+| [20–26 June 2025](2025-06-26-Ixè.html) | Ixè | 8.6% | 7.6–9.8% | 7.3–10.2% | 7.0–10.5% | 6.5–11.1% |
 | [24–26 June 2025](2025-06-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 8.8% | N/A | N/A | N/A | N/A |
 | [25–26 June 2025](2025-06-26-Demopolis.html) | Demopolis <br> La7 | 8.6% | N/A | N/A | N/A | N/A |
 | [18–23 June 2025](2025-06-23-SWG.html) | SWG <br> La7 | 8.2% | N/A | N/A | N/A | N/A |
@@ -41,24 +41,24 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [11–16 June 2025](2025-06-16-SWG.html) | SWG <br> La7 | 8.1% | N/A | N/A | N/A | N/A |
 | [12–13 June 2025](2025-06-13-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 8.4% | N/A | N/A | N/A | N/A |
 | [10–12 June 2025](2025-06-12-TermometroPolitico.html) | Termometro Politico | 8.6% | N/A | N/A | N/A | N/A |
-| [10–11 June 2025](2025-06-11-Eumetra.html) | Eumetra <br> La7 | 8.1% | N/A | N/A | N/A | N/A |
+| [10–11 June 2025](2025-06-11-Eumetra.html) | Eumetra <br> La7 | 8.1% | 7.0–9.5% | 6.7–9.9% | 6.4–10.2% | 5.9–10.9% |
 | [4–9 June 2025](2025-06-09-SWG.html) | SWG <br> La7 | 7.9% | N/A | N/A | N/A | N/A |
-| [6 June 2025](2025-06-06-EMG.html) | EMG <br> Rai 3 | 8.2% | N/A | N/A | N/A | N/A |
-| [1–5 June 2025](2025-06-05-BiDiMedia.html) | BiDiMedia | 8.9% | N/A | N/A | N/A | N/A |
+| [6 June 2025](2025-06-06-EMG.html) | EMG <br> Rai 3 | 8.2% | 7.2–9.4% | 6.9–9.8% | 6.6–10.1% | 6.2–10.7% |
+| [1–5 June 2025](2025-06-05-BiDiMedia.html) | BiDiMedia | 8.9% | 7.8–10.2% | 7.5–10.5% | 7.3–10.8% | 6.8–11.5% |
 | [3–4 June 2025](2025-06-04-Eumetra.html) | Eumetra <br> La7 | 8.4% | N/A | N/A | N/A | N/A |
-| [3 June 2025](2025-06-03-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 8.5% | N/A | N/A | N/A | N/A |
+| [3 June 2025](2025-06-03-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 8.5% | 7.5–9.7% | 7.2–10.1% | 6.9–10.4% | 6.4–11.0% |
 | [28 May–2 June 2025](2025-06-02-SWG.html) | SWG <br> La7 | 8.2% | N/A | N/A | N/A | N/A |
 | [30 May 2025](2025-05-30-EMG.html) | EMG <br> Rai 3 | 8.4% | N/A | N/A | N/A | N/A |
 | [27–29 May 2025](2025-05-29-Ipsos.html) | Ipsos <br> Corriere della Sera | 7.8% | N/A | N/A | N/A | N/A |
 | [27–28 May 2025](2025-05-28-Eumetra.html) | Eumetra <br> La7 | 8.5% | N/A | N/A | N/A | N/A |
-| [27 May 2025](2025-05-27-Euromedia.html) | Euromedia <br> Rai 1 | 8.9% | N/A | N/A | N/A | N/A |
+| [27 May 2025](2025-05-27-Euromedia.html) | Euromedia <br> Rai 1 | 8.9% | 7.7–10.3% | 7.4–10.7% | 7.1–11.1% | 6.6–11.8% |
 | [21–26 May 2025](2025-05-26-SWG.html) | SWG <br> La7 | 8.4% | N/A | N/A | N/A | N/A |
 | [21–22 May 2025](2025-05-22-TermometroPolitico.html) | Termometro Politico | 8.5% | N/A | N/A | N/A | N/A |
 | [22 May 2025](2025-05-22-Demopolis.html) | Demopolis | 8.6% | N/A | N/A | N/A | N/A |
 | [20–21 May 2025](2025-05-21-Eumetra.html) | Eumetra <br> La7 | 8.6% | N/A | N/A | N/A | N/A |
 | [14–19 May 2025](2025-05-19-SWG.html) | SWG <br> La7 | 8.4% | N/A | N/A | N/A | N/A |
 | [14–15 May 2025](2025-05-15-Tecnè.html) | Tecnè <br> Agenzia Dire | 8.2% | N/A | N/A | N/A | N/A |
-| [14–15 May 2025](2025-05-15-DemosPi.html) | Demos & Pi <br> La Repubblica | 8.7% | N/A | N/A | N/A | N/A |
+| [14–15 May 2025](2025-05-15-DemosPi.html) | Demos & Pi <br> La Repubblica | 8.7% | 7.7–10.0% | 7.4–10.3% | 7.1–10.6% | 6.7–11.2% |
 | [13–14 May 2025](2025-05-14-Eumetra.html) | Eumetra <br> La7 | 8.9% | N/A | N/A | N/A | N/A |
 | [13 May 2025](2025-05-13-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 8.5% | N/A | N/A | N/A | N/A |
 | [7–12 May 2025](2025-05-12-SWG.html) | SWG <br> La7 | 8.6% | N/A | N/A | N/A | N/A |
@@ -287,15 +287,14 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0.1% | 100% |  |
-| 5.5–6.5% | 1.4% | 99.9% |  |
-| 6.5–7.5% | 7% | 98.5% |  |
-| 7.5–8.5% | 32% | 92% |  |
-| 8.5–9.5% | 46% | 60% | Median |
-| 9.5–10.5% | 12% | 14% |  |
-| 10.5–11.5% | 2% | 2% |  |
-| 11.5–12.5% | 0.4% | 0.4% |  |
-| 12.5–13.5% | 0.1% | 0.1% |  |
-| 13.5–14.5% | 0% | 0% |  |
+| 5.5–6.5% | 0.9% | 99.9% |  |
+| 6.5–7.5% | 9% | 99.0% |  |
+| 7.5–8.5% | 36% | 90% |  |
+| 8.5–9.5% | 41% | 54% | Median |
+| 9.5–10.5% | 11% | 13% |  |
+| 10.5–11.5% | 1.4% | 2% |  |
+| 11.5–12.5% | 0.2% | 0.2% |  |
+| 12.5–13.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -306,17 +305,17 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 6–10 | 5–10 |
+| N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 6–9 | 5–10 |
 | [30–31 July 2025](2025-07-31-TermometroPolitico.html) | Termometro Politico | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
 | [31 July 2025](2025-07-31-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 7 | 6–8 | 6–10 | 5–10 | 5–10 |
-| [28–30 July 2025](2025-07-30-Demopolis.html) | Demopolis |  |  |  |  |  |
-| [21–29 July 2025](2025-07-29-Winpoll.html) | Winpoll |  |  |  |  |  |
-| [23–28 July 2025](2025-07-28-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [28–30 July 2025](2025-07-30-Demopolis.html) | Demopolis | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
+| [21–29 July 2025](2025-07-29-Winpoll.html) | Winpoll | 8 | 6–8 | 6–8 | 6–8 | 6–9 |
+| [23–28 July 2025](2025-07-28-SWG.html) | SWG <br> La7 | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
 | [22–24 July 2025](2025-07-24-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [21–24 July 2025](2025-07-24-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
+| [21–24 July 2025](2025-07-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | [16–21 July 2025](2025-07-21-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [15–17 July 2025](2025-07-17-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [16–17 July 2025](2025-07-17-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [16–17 July 2025](2025-07-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | [15–17 July 2025](2025-07-17-SWG.html) | SWG |  |  |  |  |  |
 | [9–14 July 2025](2025-07-14-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [11–14 July 2025](2025-07-14-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
@@ -329,7 +328,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [25–30 June 2025](2025-06-30-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [24–27 June 2025](2025-06-27-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [25–26 June 2025](2025-06-26-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
-| [20–26 June 2025](2025-06-26-Ixè.html) | Ixè |  |  |  |  |  |
+| [20–26 June 2025](2025-06-26-Ixè.html) | Ixè | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [24–26 June 2025](2025-06-26-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
 | [25–26 June 2025](2025-06-26-Demopolis.html) | Demopolis <br> La7 |  |  |  |  |  |
 | [18–23 June 2025](2025-06-23-SWG.html) | SWG <br> La7 |  |  |  |  |  |
@@ -337,24 +336,24 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [11–16 June 2025](2025-06-16-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [12–13 June 2025](2025-06-13-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
 | [10–12 June 2025](2025-06-12-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [10–11 June 2025](2025-06-11-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
+| [10–11 June 2025](2025-06-11-Eumetra.html) | Eumetra <br> La7 | 8 | 6–9 | 5–9 | 5–9 | 5–9 |
 | [4–9 June 2025](2025-06-09-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [6 June 2025](2025-06-06-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
-| [1–5 June 2025](2025-06-05-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
+| [6 June 2025](2025-06-06-EMG.html) | EMG <br> Rai 3 | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
+| [1–5 June 2025](2025-06-05-BiDiMedia.html) | BiDiMedia | 7 | 6–9 | 6–9 | 6–9 | 6–10 |
 | [3–4 June 2025](2025-06-04-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
-| [3 June 2025](2025-06-03-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
+| [3 June 2025](2025-06-03-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 7 | 7–8 | 6–8 | 6–9 | 5–9 |
 | [28 May–2 June 2025](2025-06-02-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [30 May 2025](2025-05-30-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [27–29 May 2025](2025-05-29-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
 | [27–28 May 2025](2025-05-28-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
-| [27 May 2025](2025-05-27-Euromedia.html) | Euromedia <br> Rai 1 |  |  |  |  |  |
+| [27 May 2025](2025-05-27-Euromedia.html) | Euromedia <br> Rai 1 | 8 | 7–9 | 6–9 | 6–9 | 6–10 |
 | [21–26 May 2025](2025-05-26-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [21–22 May 2025](2025-05-22-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [22 May 2025](2025-05-22-Demopolis.html) | Demopolis |  |  |  |  |  |
 | [20–21 May 2025](2025-05-21-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [14–19 May 2025](2025-05-19-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [14–15 May 2025](2025-05-15-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
-| [14–15 May 2025](2025-05-15-DemosPi.html) | Demos & Pi <br> La Repubblica |  |  |  |  |  |
+| [14–15 May 2025](2025-05-15-DemosPi.html) | Demos & Pi <br> La Repubblica | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | [13–14 May 2025](2025-05-14-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [13 May 2025](2025-05-13-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
 | [7–12 May 2025](2025-05-12-SWG.html) | SWG <br> La7 |  |  |  |  |  |
@@ -584,13 +583,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 1.3% | 100% |  |
-| 6 | 18% | 98.6% |  |
-| 7 | 47% | 80% | Median |
-| 8 | 29% | 34% |  |
-| 9 | 2% | 4% |  |
-| 10 | 2% | 3% |  |
-| 11 | 0.2% | 0.2% |  |
+| 5 | 0.9% | 100% |  |
+| 6 | 19% | 99.0% |  |
+| 7 | 54% | 80% | Median |
+| 8 | 23% | 26% |  |
+| 9 | 2% | 3% |  |
+| 10 | 0.7% | 0.8% |  |
+| 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0% |  |
 
 
