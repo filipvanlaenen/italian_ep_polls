@@ -328,12 +328,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24 | 22–26 | 21–27 | 21–27 | 20–28 |
-| [30–31 July 2025](2025-07-31-TermometroPolitico.html) | Termometro Politico | 24 | 22–25 | 22–25 | 22–26 | 22–26 |
-| [31 July 2025](2025-07-31-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 23 | 21–27 | 20–27 | 20–28 | 19–30 |
-| [28–30 July 2025](2025-07-30-Demopolis.html) | Demopolis | 23 | 22–24 | 21–24 | 21–24 | 21–25 |
-| [21–29 July 2025](2025-07-29-Winpoll.html) | Winpoll | 22 | 22–24 | 21–24 | 21–25 | 21–25 |
-| [23–28 July 2025](2025-07-28-SWG.html) | SWG <br> La7 | 26 | 24–27 | 23–28 | 23–28 | 22–28 |
+| N/A | [Poll Average](average.html) | 23 | 22–26 | 21–26 | 21–27 | 20–28 |
+| [30–31 July 2025](2025-07-31-TermometroPolitico.html) | Termometro Politico | 23 | 23–25 | 23–25 | 22–26 | 22–26 |
+| [31 July 2025](2025-07-31-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 23 | 21–26 | 20–27 | 20–27 | 19–30 |
+| [28–30 July 2025](2025-07-30-Demopolis.html) | Demopolis | 23 | 22–24 | 22–24 | 21–24 | 21–25 |
+| [21–29 July 2025](2025-07-29-Winpoll.html) | Winpoll | 23 | 22–24 | 21–25 | 21–25 | 21–26 |
+| [23–28 July 2025](2025-07-28-SWG.html) | SWG <br> La7 | 25 | 24–27 | 23–27 | 23–28 | 22–28 |
 | [22–24 July 2025](2025-07-24-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [21–24 July 2025](2025-07-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 23 | 21–24 | 21–25 | 21–26 | 20–27 |
 | [16–21 July 2025](2025-07-21-SWG.html) | SWG <br> La7 |  |  |  |  |  |
@@ -620,18 +620,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
 | 18 | 0% | 100% |  |
-| 19 | 0.3% | 100% |  |
-| 20 | 1.2% | 99.7% |  |
-| 21 | 5% | 98.5% |  |
-| 22 | 17% | 93% |  |
-| 23 | 25% | 77% |  |
-| 24 | 20% | 52% | Median |
-| 25 | 11% | 32% |  |
-| 26 | 13% | 21% |  |
-| 27 | 6% | 8% |  |
-| 28 | 1.3% | 2% |  |
-| 29 | 0.1% | 0.4% |  |
-| 30 | 0.3% | 0.3% |  |
+| 19 | 0.2% | 100% |  |
+| 20 | 1.0% | 99.8% |  |
+| 21 | 5% | 98.8% |  |
+| 22 | 14% | 94% |  |
+| 23 | 30% | 80% | Median |
+| 24 | 18% | 49% |  |
+| 25 | 17% | 32% |  |
+| 26 | 10% | 14% |  |
+| 27 | 3% | 4% |  |
+| 28 | 0.7% | 1.0% |  |
+| 29 | 0.1% | 0.3% |  |
+| 30 | 0.2% | 0.2% |  |
 | 31 | 0% | 0% |  |
 
 

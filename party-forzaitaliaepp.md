@@ -308,11 +308,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–8 | 5–8 | 5–9 | 4–9 |
-| [30–31 July 2025](2025-07-31-TermometroPolitico.html) | Termometro Politico | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
-| [31 July 2025](2025-07-31-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 6 | 5–7 | 5–7 | 4–8 | 4–9 |
+| [30–31 July 2025](2025-07-31-TermometroPolitico.html) | Termometro Politico | 7 | 5–7 | 5–7 | 5–7 | 5–7 |
+| [31 July 2025](2025-07-31-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 6 | 5–7 | 4–8 | 4–8 | 4–9 |
 | [28–30 July 2025](2025-07-30-Demopolis.html) | Demopolis | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
-| [21–29 July 2025](2025-07-29-Winpoll.html) | Winpoll | 6 | 6–7 | 6–7 | 5–8 | 5–8 |
-| [23–28 July 2025](2025-07-28-SWG.html) | SWG <br> La7 | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
+| [21–29 July 2025](2025-07-29-Winpoll.html) | Winpoll | 7 | 6–7 | 6–8 | 5–8 | 5–8 |
+| [23–28 July 2025](2025-07-28-SWG.html) | SWG <br> La7 | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
 | [22–24 July 2025](2025-07-24-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [21–24 July 2025](2025-07-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 6 | 5–6 | 5–7 | 5–7 | 4–8 |
 | [16–21 July 2025](2025-07-21-SWG.html) | SWG <br> La7 |  |  |  |  |  |
@@ -583,13 +583,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0% | 100% |  |
-| 4 | 1.1% | 100% |  |
-| 5 | 21% | 98.9% |  |
-| 6 | 51% | 78% | Median |
-| 7 | 14% | 27% |  |
+| 3 | 0.1% | 100% |  |
+| 4 | 2% | 99.9% |  |
+| 5 | 18% | 98% |  |
+| 6 | 44% | 81% | Median |
+| 7 | 23% | 37% |  |
 | 8 | 9% | 13% |  |
-| 9 | 3% | 4% |  |
+| 9 | 4% | 4% |  |
 | 10 | 0.4% | 0.5% |  |
 | 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0% |  |

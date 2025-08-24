@@ -306,11 +306,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 6–9 | 5–10 |
-| [30–31 July 2025](2025-07-31-TermometroPolitico.html) | Termometro Politico | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
-| [31 July 2025](2025-07-31-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 7 | 6–8 | 6–10 | 5–10 | 5–10 |
-| [28–30 July 2025](2025-07-30-Demopolis.html) | Demopolis | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
-| [21–29 July 2025](2025-07-29-Winpoll.html) | Winpoll | 8 | 6–8 | 6–8 | 6–8 | 6–9 |
-| [23–28 July 2025](2025-07-28-SWG.html) | SWG <br> La7 | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
+| [30–31 July 2025](2025-07-31-TermometroPolitico.html) | Termometro Politico | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
+| [31 July 2025](2025-07-31-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 7 | 6–8 | 6–9 | 5–10 | 5–10 |
+| [28–30 July 2025](2025-07-30-Demopolis.html) | Demopolis | 7 | 6–7 | 6–8 | 6–8 | 6–8 |
+| [21–29 July 2025](2025-07-29-Winpoll.html) | Winpoll | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
+| [23–28 July 2025](2025-07-28-SWG.html) | SWG <br> La7 | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
 | [22–24 July 2025](2025-07-24-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [21–24 July 2025](2025-07-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | [16–21 July 2025](2025-07-21-SWG.html) | SWG <br> La7 |  |  |  |  |  |
@@ -583,13 +583,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0.9% | 100% |  |
-| 6 | 19% | 99.0% |  |
-| 7 | 54% | 80% | Median |
-| 8 | 23% | 26% |  |
+| 5 | 1.0% | 100% |  |
+| 6 | 18% | 99.0% |  |
+| 7 | 59% | 81% | Median |
+| 8 | 19% | 21% |  |
 | 9 | 2% | 3% |  |
-| 10 | 0.7% | 0.8% |  |
-| 11 | 0.1% | 0.1% |  |
-| 12 | 0% | 0% |  |
+| 10 | 0.7% | 0.7% |  |
+| 11 | 0% | 0% |  |
 
 

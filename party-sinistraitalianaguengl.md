@@ -298,12 +298,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
-| [30–31 July 2025](2025-07-31-TermometroPolitico.html) | Termometro Politico | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
-| [31 July 2025](2025-07-31-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
+| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
+| [30–31 July 2025](2025-07-31-TermometroPolitico.html) | Termometro Politico | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| [31 July 2025](2025-07-31-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 2 | 1–3 | 1–3 | 1–4 | 1–4 |
 | [28–30 July 2025](2025-07-30-Demopolis.html) | Demopolis | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [21–29 July 2025](2025-07-29-Winpoll.html) | Winpoll | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
-| [23–28 July 2025](2025-07-28-SWG.html) | SWG <br> La7 | 3 | 2–3 | 1–3 | 1–3 | 1–4 |
+| [23–28 July 2025](2025-07-28-SWG.html) | SWG <br> La7 | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | [22–24 July 2025](2025-07-24-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [21–24 July 2025](2025-07-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 2 | 1–2 | 1–3 | 0–3 | 0–3 |
 | [16–21 July 2025](2025-07-21-SWG.html) | SWG <br> La7 |  |  |  |  |  |
@@ -572,10 +572,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.4% | 100% | Last Result |
-| 1 | 20% | 99.6% |  |
-| 2 | 59% | 79% | Median |
-| 3 | 20% | 20% |  |
-| 4 | 0.4% | 0.4% |  |
+| 1 | 18% | 99.6% |  |
+| 2 | 64% | 82% | Median |
+| 3 | 18% | 18% |  |
+| 4 | 0.5% | 0.6% |  |
 | 5 | 0% | 0% |  |
 
 
