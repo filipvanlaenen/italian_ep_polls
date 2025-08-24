@@ -335,10 +335,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [21–29 July 2025](2025-07-29-Winpoll.html) | Winpoll | 23 | 22–24 | 21–25 | 21–25 | 21–26 |
 | [23–28 July 2025](2025-07-28-SWG.html) | SWG <br> La7 | 25 | 24–27 | 23–27 | 23–28 | 22–28 |
 | [22–24 July 2025](2025-07-24-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [21–24 July 2025](2025-07-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 23 | 21–24 | 21–25 | 21–26 | 20–27 |
+| [21–24 July 2025](2025-07-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 23 | 22–24 | 21–25 | 21–25 | 20–27 |
 | [16–21 July 2025](2025-07-21-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [15–17 July 2025](2025-07-17-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [16–17 July 2025](2025-07-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 26 | 23–26 | 23–27 | 22–27 | 22–29 |
+| [16–17 July 2025](2025-07-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 25 | 23–26 | 23–27 | 22–27 | 22–28 |
 | [15–17 July 2025](2025-07-17-SWG.html) | SWG |  |  |  |  |  |
 | [9–14 July 2025](2025-07-14-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [11–14 July 2025](2025-07-14-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
@@ -351,7 +351,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [25–30 June 2025](2025-06-30-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [24–27 June 2025](2025-06-27-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [25–26 June 2025](2025-06-26-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
-| [20–26 June 2025](2025-06-26-Ixè.html) | Ixè | 24 | 21–25 | 21–26 | 21–27 | 21–27 |
+| [20–26 June 2025](2025-06-26-Ixè.html) | Ixè | 24 | 21–25 | 21–25 | 21–26 | 20–27 |
 | [24–26 June 2025](2025-06-26-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
 | [25–26 June 2025](2025-06-26-Demopolis.html) | Demopolis <br> La7 |  |  |  |  |  |
 | [18–23 June 2025](2025-06-23-SWG.html) | SWG <br> La7 |  |  |  |  |  |
@@ -621,16 +621,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 0% | 100% |  |
 | 18 | 0% | 100% |  |
 | 19 | 0.2% | 100% |  |
-| 20 | 1.0% | 99.8% |  |
-| 21 | 5% | 98.8% |  |
-| 22 | 14% | 94% |  |
-| 23 | 30% | 80% | Median |
+| 20 | 0.9% | 99.8% |  |
+| 21 | 4% | 98.9% |  |
+| 22 | 16% | 94% |  |
+| 23 | 30% | 79% | Median |
 | 24 | 18% | 49% |  |
-| 25 | 17% | 32% |  |
-| 26 | 10% | 14% |  |
+| 25 | 18% | 31% |  |
+| 26 | 8% | 13% |  |
 | 27 | 3% | 4% |  |
-| 28 | 0.7% | 1.0% |  |
-| 29 | 0.1% | 0.3% |  |
+| 28 | 0.8% | 1.1% |  |
+| 29 | 0.1% | 0.2% |  |
 | 30 | 0.2% | 0.2% |  |
 | 31 | 0% | 0% |  |
 

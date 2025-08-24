@@ -323,7 +323,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [25–30 June 2025](2025-06-30-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [24–27 June 2025](2025-06-27-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [25–26 June 2025](2025-06-26-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
-| [20–26 June 2025](2025-06-26-Ixè.html) | Ixè | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [20–26 June 2025](2025-06-26-Ixè.html) | Ixè | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [24–26 June 2025](2025-06-26-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
 | [25–26 June 2025](2025-06-26-Demopolis.html) | Demopolis <br> La7 |  |  |  |  |  |
 | [18–23 June 2025](2025-06-23-SWG.html) | SWG <br> La7 |  |  |  |  |  |

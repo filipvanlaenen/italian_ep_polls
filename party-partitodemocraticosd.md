@@ -321,17 +321,17 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 16–20 | 16–20 | 16–21 | 15–22 |
+| N/A | [Poll Average](average.html) | 18 | 17–20 | 16–20 | 16–21 | 15–22 |
 | [30–31 July 2025](2025-07-31-TermometroPolitico.html) | Termometro Politico | 18 | 17–19 | 17–20 | 17–20 | 16–21 |
 | [31 July 2025](2025-07-31-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 18 | 16–20 | 16–21 | 15–21 | 15–23 |
 | [28–30 July 2025](2025-07-30-Demopolis.html) | Demopolis | 17 | 16–18 | 16–18 | 16–18 | 15–19 |
 | [21–29 July 2025](2025-07-29-Winpoll.html) | Winpoll | 20 | 18–21 | 18–21 | 18–21 | 17–22 |
 | [23–28 July 2025](2025-07-28-SWG.html) | SWG <br> La7 | 20 | 18–20 | 17–21 | 17–21 | 16–22 |
 | [22–24 July 2025](2025-07-24-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [21–24 July 2025](2025-07-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 17 | 16–19 | 16–19 | 15–19 | 14–20 |
+| [21–24 July 2025](2025-07-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 17 | 16–19 | 16–19 | 16–20 | 15–20 |
 | [16–21 July 2025](2025-07-21-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [15–17 July 2025](2025-07-17-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [16–17 July 2025](2025-07-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 18 | 16–20 | 16–20 | 15–20 | 15–20 |
+| [16–17 July 2025](2025-07-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 18 | 16–19 | 16–20 | 15–20 | 15–21 |
 | [15–17 July 2025](2025-07-17-SWG.html) | SWG |  |  |  |  |  |
 | [9–14 July 2025](2025-07-14-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [11–14 July 2025](2025-07-14-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
@@ -344,7 +344,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [25–30 June 2025](2025-06-30-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [24–27 June 2025](2025-06-27-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [25–26 June 2025](2025-06-26-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
-| [20–26 June 2025](2025-06-26-Ixè.html) | Ixè | 18 | 16–19 | 16–19 | 16–20 | 16–21 |
+| [20–26 June 2025](2025-06-26-Ixè.html) | Ixè | 18 | 16–19 | 16–19 | 16–20 | 15–20 |
 | [24–26 June 2025](2025-06-26-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
 | [25–26 June 2025](2025-06-26-Demopolis.html) | Demopolis <br> La7 |  |  |  |  |  |
 | [18–23 June 2025](2025-06-23-SWG.html) | SWG <br> La7 |  |  |  |  |  |
@@ -608,12 +608,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
-| 14 | 0.2% | 100% |  |
-| 15 | 1.3% | 99.8% |  |
-| 16 | 9% | 98.5% |  |
-| 17 | 21% | 89% |  |
-| 18 | 30% | 69% | Median |
-| 19 | 16% | 38% |  |
+| 14 | 0.1% | 100% |  |
+| 15 | 1.2% | 99.8% |  |
+| 16 | 9% | 98.7% |  |
+| 17 | 21% | 90% |  |
+| 18 | 29% | 69% | Median |
+| 19 | 18% | 40% |  |
 | 20 | 19% | 23% |  |
 | 21 | 3% | 4% |  |
 | 22 | 0.5% | 0.7% |  |

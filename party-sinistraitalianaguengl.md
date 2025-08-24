@@ -305,10 +305,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [21–29 July 2025](2025-07-29-Winpoll.html) | Winpoll | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [23–28 July 2025](2025-07-28-SWG.html) | SWG <br> La7 | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | [22–24 July 2025](2025-07-24-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [21–24 July 2025](2025-07-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 2 | 1–2 | 1–3 | 0–3 | 0–3 |
+| [21–24 July 2025](2025-07-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 2 | 1–2 | 1–3 | 1–3 | 0–3 |
 | [16–21 July 2025](2025-07-21-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [15–17 July 2025](2025-07-17-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [16–17 July 2025](2025-07-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| [16–17 July 2025](2025-07-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | [15–17 July 2025](2025-07-17-SWG.html) | SWG |  |  |  |  |  |
 | [9–14 July 2025](2025-07-14-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [11–14 July 2025](2025-07-14-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
@@ -321,7 +321,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [25–30 June 2025](2025-06-30-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [24–27 June 2025](2025-06-27-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [25–26 June 2025](2025-06-26-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
-| [20–26 June 2025](2025-06-26-Ixè.html) | Ixè | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| [20–26 June 2025](2025-06-26-Ixè.html) | Ixè | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [24–26 June 2025](2025-06-26-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
 | [25–26 June 2025](2025-06-26-Demopolis.html) | Demopolis <br> La7 |  |  |  |  |  |
 | [18–23 June 2025](2025-06-23-SWG.html) | SWG <br> La7 |  |  |  |  |  |
@@ -571,11 +571,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.4% | 100% | Last Result |
-| 1 | 18% | 99.6% |  |
-| 2 | 64% | 82% | Median |
-| 3 | 18% | 18% |  |
-| 4 | 0.5% | 0.6% |  |
+| 0 | 0.2% | 100% | Last Result |
+| 1 | 16% | 99.8% |  |
+| 2 | 64% | 83% | Median |
+| 3 | 19% | 20% |  |
+| 4 | 0.7% | 0.7% |  |
 | 5 | 0% | 0% |  |
 
 

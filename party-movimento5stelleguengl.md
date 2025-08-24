@@ -318,7 +318,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [21–29 July 2025](2025-07-29-Winpoll.html) | Winpoll | 9 | 8–10 | 8–10 | 8–11 | 7–11 |
 | [23–28 July 2025](2025-07-28-SWG.html) | SWG <br> La7 | 11 | 11–12 | 10–13 | 10–13 | 9–13 |
 | [22–24 July 2025](2025-07-24-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [21–24 July 2025](2025-07-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 12 | 11–13 | 10–14 | 10–14 | 10–14 |
+| [21–24 July 2025](2025-07-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 12 | 10–13 | 10–13 | 10–14 | 10–14 |
 | [16–21 July 2025](2025-07-21-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [15–17 July 2025](2025-07-17-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [16–17 July 2025](2025-07-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 10 | 9–11 | 9–12 | 9–12 | 8–13 |
@@ -334,7 +334,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [25–30 June 2025](2025-06-30-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [24–27 June 2025](2025-06-27-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [25–26 June 2025](2025-06-26-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
-| [20–26 June 2025](2025-06-26-Ixè.html) | Ixè | 12 | 10–13 | 10–13 | 10–13 | 9–14 |
+| [20–26 June 2025](2025-06-26-Ixè.html) | Ixè | 11 | 10–13 | 10–13 | 10–13 | 9–14 |
 | [24–26 June 2025](2025-06-26-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
 | [25–26 June 2025](2025-06-26-Demopolis.html) | Demopolis <br> La7 |  |  |  |  |  |
 | [18–23 June 2025](2025-06-23-SWG.html) | SWG <br> La7 |  |  |  |  |  |
@@ -594,11 +594,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0.2% | 100% |  |
 | 8 | 4% | 99.8% |  |
 | 9 | 22% | 96% |  |
-| 10 | 26% | 74% | Median |
-| 11 | 25% | 48% |  |
-| 12 | 17% | 23% |  |
-| 13 | 4% | 6% |  |
-| 14 | 2% | 2% |  |
+| 10 | 29% | 74% | Median |
+| 11 | 24% | 44% |  |
+| 12 | 15% | 21% |  |
+| 13 | 4% | 5% |  |
+| 14 | 0.9% | 1.0% |  |
 | 15 | 0% | 0.1% |  |
 | 16 | 0% | 0% |  |
 

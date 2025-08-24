@@ -300,17 +300,17 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–4 | 2–4 | 2–5 | 2–5 |
+| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
 | [30–31 July 2025](2025-07-31-TermometroPolitico.html) | Termometro Politico | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | [31 July 2025](2025-07-31-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 4 | 3–5 | 2–5 | 2–5 | 2–6 |
 | [28–30 July 2025](2025-07-30-Demopolis.html) | Demopolis | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [21–29 July 2025](2025-07-29-Winpoll.html) | Winpoll | 3 | 3–4 | 3–4 | 2–4 | 2–5 |
 | [23–28 July 2025](2025-07-28-SWG.html) | SWG <br> La7 | 3 | 3–5 | 3–5 | 2–5 | 2–5 |
 | [22–24 July 2025](2025-07-24-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [21–24 July 2025](2025-07-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 3 | 2–4 | 2–4 | 0–4 | 0–5 |
+| [21–24 July 2025](2025-07-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 3 | 2–4 | 2–4 | 2–4 | 0–4 |
 | [16–21 July 2025](2025-07-21-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [15–17 July 2025](2025-07-17-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [16–17 July 2025](2025-07-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
+| [16–17 July 2025](2025-07-17-Tecnè.html) | Tecnè <br> Agenzia Dire | 3 | 2–4 | 2–4 | 2–5 | 2–5 |
 | [15–17 July 2025](2025-07-17-SWG.html) | SWG |  |  |  |  |  |
 | [9–14 July 2025](2025-07-14-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [11–14 July 2025](2025-07-14-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
@@ -573,11 +573,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.4% | 100% | Last Result |
-| 1 | 0% | 99.6% |  |
-| 2 | 9% | 99.6% |  |
-| 3 | 60% | 90% | Median |
-| 4 | 25% | 30% |  |
+| 0 | 0.2% | 100% | Last Result |
+| 1 | 0% | 99.8% |  |
+| 2 | 10% | 99.8% |  |
+| 3 | 61% | 90% | Median |
+| 4 | 24% | 29% |  |
 | 5 | 5% | 5% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
