@@ -341,14 +341,14 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [10–11 June 2025](2025-06-11-Eumetra.html) | Eumetra <br> La7 | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | [4–9 June 2025](2025-06-09-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [6 June 2025](2025-06-06-EMG.html) | EMG <br> Rai 3 | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
-| [1–5 June 2025](2025-06-05-BiDiMedia.html) | BiDiMedia | 7 | 5–8 | 5–8 | 5–8 | 5–8 |
+| [1–5 June 2025](2025-06-05-BiDiMedia.html) | BiDiMedia | 6 | 5–8 | 5–8 | 5–8 | 5–8 |
 | [3–4 June 2025](2025-06-04-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
-| [3 June 2025](2025-06-03-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 6 | 6–7 | 5–8 | 5–8 | 5–8 |
+| [3 June 2025](2025-06-03-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 6 | 6–7 | 5–8 | 5–8 | 5–9 |
 | [28 May–2 June 2025](2025-06-02-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [30 May 2025](2025-05-30-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [27–29 May 2025](2025-05-29-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
 | [27–28 May 2025](2025-05-28-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
-| [27 May 2025](2025-05-27-Euromedia.html) | Euromedia <br> Rai 1 | 7 | 6–8 | 6–8 | 5–8 | 5–9 |
+| [27 May 2025](2025-05-27-Euromedia.html) | Euromedia <br> Rai 1 | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
 | [21–26 May 2025](2025-05-26-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [21–22 May 2025](2025-05-22-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [22 May 2025](2025-05-22-Demopolis.html) | Demopolis |  |  |  |  |  |

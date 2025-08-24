@@ -344,8 +344,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [10–12 June 2025](2025-06-12-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [10–11 June 2025](2025-06-11-Eumetra.html) | Eumetra <br> La7 | 11 | 9–12 | 9–13 | 9–13 | 8–14 |
 | [4–9 June 2025](2025-06-09-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [6 June 2025](2025-06-06-EMG.html) | EMG <br> Rai 3 | 10 | 9–12 | 9–12 | 9–12 | 8–12 |
-| [1–5 June 2025](2025-06-05-BiDiMedia.html) | BiDiMedia | 10 | 10–13 | 9–13 | 9–14 | 8–14 |
+| [6 June 2025](2025-06-06-EMG.html) | EMG <br> Rai 3 | 10 | 9–12 | 9–12 | 9–12 | 8–13 |
+| [1–5 June 2025](2025-06-05-BiDiMedia.html) | BiDiMedia | 10 | 9–13 | 9–13 | 9–13 | 8–14 |
 | [3–4 June 2025](2025-06-04-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [3 June 2025](2025-06-03-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 11 | 9–12 | 9–12 | 9–12 | 9–13 |
 | [28 May–2 June 2025](2025-06-02-SWG.html) | SWG <br> La7 |  |  |  |  |  |
@@ -359,7 +359,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [20–21 May 2025](2025-05-21-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [14–19 May 2025](2025-05-19-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [14–15 May 2025](2025-05-15-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
-| [14–15 May 2025](2025-05-15-DemosPi.html) | Demos & Pi <br> La Repubblica | 10 | 9–11 | 9–12 | 9–12 | 8–12 |
+| [14–15 May 2025](2025-05-15-DemosPi.html) | Demos & Pi <br> La Repubblica | 11 | 9–11 | 9–12 | 9–12 | 8–12 |
 | [13–14 May 2025](2025-05-14-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [13 May 2025](2025-05-13-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
 | [7–12 May 2025](2025-05-12-SWG.html) | SWG <br> La7 |  |  |  |  |  |
