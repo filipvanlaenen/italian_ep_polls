@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.4% | 1.8–3.2% | 1.6–3.4% | 1.4–3.7% | 1.2–4.2% |
+| N/A | [Poll Average](average.html) | 2.3% | 1.4–3.1% | 1.2–3.3% | 1.1–3.6% | 0.9–4.3% |
+| [27 August–1 September 2025](2025-09-01-SWG.html) | SWG <br> La7 | 2.5% | 2.0–3.2% | 1.9–3.4% | 1.8–3.6% | 1.5–3.9% |
+| [23–25 August 2025](2025-08-25-BiDiMedia.html) | BiDiMedia | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
+| [5–7 August 2025](2025-08-07-TermometroPolitico.html) | Termometro Politico | 2.4% | 2.1–2.8% | 2.0–2.9% | 1.9–3.0% | 1.7–3.2% |
 | [30–31 July 2025](2025-07-31-TermometroPolitico.html) | Termometro Politico | 2.3% | 2.0–2.8% | 1.9–2.9% | 1.8–3.0% | 1.6–3.2% |
 | [31 July 2025](2025-07-31-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 2.4% | 1.7–3.5% | 1.5–3.9% | 1.4–4.2% | 1.1–4.8% |
 | [28–30 July 2025](2025-07-30-Demopolis.html) | Demopolis | 0.0% | N/A | N/A | N/A | N/A |
@@ -282,11 +285,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 4% | 100% |  |
-| 1.5–2.5% | 54% | 96% | Median |
-| 2.5–3.5% | 38% | 41% |  |
+| 0.5–1.5% | 14% | 100% |  |
+| 1.5–2.5% | 53% | 86% | Median |
+| 2.5–3.5% | 31% | 34% |  |
 | 3.5–4.5% | 3% | 3% |  |
-| 4.5–5.5% | 0.1% | 0.2% |  |
+| 4.5–5.5% | 0.2% | 0.2% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -298,7 +301,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–3 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–4 |
+| [27 August–1 September 2025](2025-09-01-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0–3 |
+| [23–25 August 2025](2025-08-25-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
+| [5–7 August 2025](2025-08-07-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [30–31 July 2025](2025-07-31-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [31 July 2025](2025-07-31-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0 | 0–3 | 0–4 |
 | [28–30 July 2025](2025-07-30-Demopolis.html) | Demopolis |  |  |  |  |  |
@@ -571,11 +577,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.3% | 100% | Last Result, Median |
-| 1 | 0% | 0.7% |  |
-| 2 | 0% | 0.7% |  |
-| 3 | 0.3% | 0.7% |  |
-| 4 | 0.4% | 0.4% |  |
+| 0 | 99.1% | 100% | Last Result, Median |
+| 1 | 0% | 0.9% |  |
+| 2 | 0% | 0.9% |  |
+| 3 | 0.3% | 0.9% |  |
+| 4 | 0.6% | 0.6% |  |
 | 5 | 0% | 0% |  |
 
 
