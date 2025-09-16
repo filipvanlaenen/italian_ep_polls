@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Sun, 21 Jul 2024 15:49:56 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Termometro Politico, 9–11 September 2025 – Seating Plan Projection</title>
+      <link>null/2025-09-11-TermometroPolitico.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>39 seats needed for a majority<br/>Opinion poll by Termometro Politico, 9–11 September 2025<br/>Details on null/2025-09-11-TermometroPolitico.html<br/><img src="null/2025-09-11-TermometroPolitico-seating-plan.png"/>]]></description>
+      <enclosure url="null/2025-09-11-TermometroPolitico-seating-plan.png" length="430616" type="image/png"/>
+      <pubDate>Mon, 15 Sep 2025 22:42:47 +0200</pubDate>
+      <dc:date>2025-09-15T22:42:47.258967143+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Termometro Politico, 9–11 September 2025 – Seat Projections</title>
+      <link>null/2025-09-11-TermometroPolitico.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>39 seats needed for a majority<br/>Opinion poll by Termometro Politico, 9–11 September 2025<br/>Details on null/2025-09-11-TermometroPolitico.html<br/><img src="null/2025-09-11-TermometroPolitico-seats.png"/>]]></description>
+      <enclosure url="null/2025-09-11-TermometroPolitico-seats.png" length="268532" type="image/png"/>
+      <pubDate>Mon, 15 Sep 2025 22:42:47 +0200</pubDate>
+      <dc:date>2025-09-15T22:42:47.258967143+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Termometro Politico, 9–11 September 2025 – Voting Intentions</title>
+      <link>null/2025-09-11-TermometroPolitico.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Termometro Politico, 9–11 September 2025<br/>Details on null/2025-09-11-TermometroPolitico.html<br/><img src="null/2025-09-11-TermometroPolitico.png"/>]]></description>
+      <enclosure url="null/2025-09-11-TermometroPolitico.png" length="348799" type="image/png"/>
+      <pubDate>Mon, 15 Sep 2025 22:42:47 +0200</pubDate>
+      <dc:date>2025-09-15T22:42:47.258967143+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by SWG for La7, 3–8 September 2025 – Seating Plan Projection</title>
       <link>null/2025-09-08-SWG.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>39 seats needed for a majority<br/>Opinion poll by SWG for La7, 3–8 September 2025<br/>Details on null/2025-09-08-SWG.html<br/><img src="null/2025-09-08-SWG-seating-plan.png"/>]]></description>
@@ -220,30 +244,6 @@
       <enclosure url="null/2025-07-30-Demopolis.png" length="245209" type="image/png"/>
       <pubDate>Sun, 24 Aug 2025 13:28:02 +0200</pubDate>
       <dc:date>2025-08-24T13:28:02.827383428+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Winpoll, 21–29 July 2025 – Seating Plan Projection</title>
-      <link>null/2025-07-29-Winpoll.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>39 seats needed for a majority<br/>Opinion poll by Winpoll, 21–29 July 2025<br/>Details on null/2025-07-29-Winpoll.html<br/><img src="null/2025-07-29-Winpoll-seating-plan.png"/>]]></description>
-      <enclosure url="null/2025-07-29-Winpoll-seating-plan.png" length="452291" type="image/png"/>
-      <pubDate>Sun, 24 Aug 2025 13:40:05 +0200</pubDate>
-      <dc:date>2025-08-24T13:40:05.544760565+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Winpoll, 21–29 July 2025 – Seat Projections</title>
-      <link>null/2025-07-29-Winpoll.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>39 seats needed for a majority<br/>Opinion poll by Winpoll, 21–29 July 2025<br/>Details on null/2025-07-29-Winpoll.html<br/><img src="null/2025-07-29-Winpoll-seats.png"/>]]></description>
-      <enclosure url="null/2025-07-29-Winpoll-seats.png" length="258494" type="image/png"/>
-      <pubDate>Sun, 24 Aug 2025 13:40:05 +0200</pubDate>
-      <dc:date>2025-08-24T13:40:05.544760565+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Winpoll, 21–29 July 2025 – Voting Intentions</title>
-      <link>null/2025-07-29-Winpoll.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Winpoll, 21–29 July 2025<br/>Details on null/2025-07-29-Winpoll.html<br/><img src="null/2025-07-29-Winpoll.png"/>]]></description>
-      <enclosure url="null/2025-07-29-Winpoll.png" length="325330" type="image/png"/>
-      <pubDate>Sun, 24 Aug 2025 13:40:05 +0200</pubDate>
-      <dc:date>2025-08-24T13:40:05.544760565+02:00</dc:date>
     </item>
   </channel>
 </rss>
