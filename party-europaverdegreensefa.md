@@ -10,11 +10,15 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.7% | 3.1–4.6% | 3.0–4.9% | 2.8–5.2% | 2.6–5.8% |
+| N/A | [Poll Average](average.html) | 3.8% | 3.1–4.7% | 2.9–5.0% | 2.8–5.3% | 2.5–5.8% |
+| [10–15 September 2025](2025-09-15-SWG.html) | SWG <br> La7 | 3.7% | 3.0–4.5% | 2.9–4.7% | 2.7–4.9% | 2.5–5.3% |
 | [9–11 September 2025](2025-09-11-TermometroPolitico.html) | Termometro Politico | 3.5% | 3.1–4.0% | 3.0–4.2% | 2.9–4.3% | 2.7–4.5% |
+| [10–11 September 2025](2025-09-11-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
+| [9–10 September 2025](2025-09-10-Eumetra.html) | Eumetra <br> La7 | 3.8% | 3.0–4.8% | 2.8–5.1% | 2.6–5.3% | 2.3–5.8% |
 | [3–8 September 2025](2025-09-08-SWG.html) | SWG <br> La7 | 3.8% | 3.1–4.6% | 3.0–4.8% | 2.8–5.0% | 2.5–5.4% |
 | [3–5 September 2025](2025-09-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 4.1% | 3.3–5.2% | 3.1–5.4% | 2.9–5.7% | 2.6–6.2% |
 | [2–4 September 2025](2025-09-04-TermometroPolitico.html) | Termometro Politico | 3.6% | 3.2–4.0% | 3.1–4.2% | 3.0–4.3% | 2.8–4.5% |
+| [3–4 September 2025](2025-09-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.5% | N/A | N/A | N/A | N/A |
 | [27 August–1 September 2025](2025-09-01-SWG.html) | SWG <br> La7 | 3.7% | 3.0–4.5% | 2.9–4.7% | 2.7–4.9% | 2.5–5.3% |
 | [23–25 August 2025](2025-08-25-BiDiMedia.html) | BiDiMedia | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.9–5.3% | 2.6–5.8% |
 | [5–7 August 2025](2025-08-07-TermometroPolitico.html) | Termometro Politico | 3.6% | 3.2–4.1% | 3.1–4.3% | 3.0–4.4% | 2.8–4.7% |
@@ -290,11 +294,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.4% | 100% |  |
-| 2.5–3.5% | 36% | 99.6% |  |
-| 3.5–4.5% | 52% | 64% | Median |
-| 4.5–5.5% | 11% | 12% |  |
-| 5.5–6.5% | 1.0% | 1.0% |  |
+| 1.5–2.5% | 0.8% | 100% |  |
+| 2.5–3.5% | 34% | 99.2% |  |
+| 3.5–4.5% | 52% | 65% | Median |
+| 4.5–5.5% | 12% | 13% |  |
+| 5.5–6.5% | 1.0% | 1.1% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -307,10 +311,14 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–4 | 3–5 | 2–5 | 2–5 |
+| [10–15 September 2025](2025-09-15-SWG.html) | SWG <br> La7 | 4 | 3–4 | 3–5 | 2–5 | 2–5 |
 | [9–11 September 2025](2025-09-11-TermometroPolitico.html) | Termometro Politico | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [10–11 September 2025](2025-09-11-Tecnè.html) | Tecnè <br> Agenzia Dire | 4 | 3–4 | 2–5 | 2–5 | 2–5 |
+| [9–10 September 2025](2025-09-10-Eumetra.html) | Eumetra <br> La7 | 4 | 3–5 | 3–5 | 2–5 | 2–5 |
 | [3–8 September 2025](2025-09-08-SWG.html) | SWG <br> La7 | 4 | 3–4 | 2–4 | 2–5 | 2–5 |
 | [3–5 September 2025](2025-09-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 4 | 3–4 | 3–5 | 3–5 | 2–5 |
 | [2–4 September 2025](2025-09-04-TermometroPolitico.html) | Termometro Politico | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [3–4 September 2025](2025-09-04-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [27 August–1 September 2025](2025-09-01-SWG.html) | SWG <br> La7 | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | [23–25 August 2025](2025-08-25-BiDiMedia.html) | BiDiMedia | 4 | 3–5 | 3–5 | 3–5 | 2–5 |
 | [5–7 August 2025](2025-08-07-TermometroPolitico.html) | Termometro Politico | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
@@ -588,11 +596,11 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 4% | 100% |  |
-| 3 | 42% | 96% |  |
-| 4 | 48% | 54% | Median |
-| 5 | 5% | 6% |  |
-| 6 | 0.1% | 0.1% |  |
+| 2 | 3% | 100% |  |
+| 3 | 36% | 97% |  |
+| 4 | 52% | 61% | Median |
+| 5 | 9% | 9% |  |
+| 6 | 0.2% | 0.2% |  |
 | 7 | 0% | 0% |  |
 
 

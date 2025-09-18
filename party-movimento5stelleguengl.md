@@ -10,11 +10,15 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.8% | 11.5–14.5% | 11.2–15.0% | 11.0–15.4% | 10.5–16.3% |
+| N/A | [Poll Average](average.html) | 13.0% | 11.7–14.6% | 11.3–15.1% | 11.0–15.5% | 10.4–16.4% |
+| [10–15 September 2025](2025-09-15-SWG.html) | SWG <br> La7 | 13.3% | 12.1–14.7% | 11.8–15.1% | 11.5–15.4% | 11.0–16.0% |
 | [9–11 September 2025](2025-09-11-TermometroPolitico.html) | Termometro Politico | 12.3% | 11.5–13.2% | 11.3–13.4% | 11.1–13.6% | 10.7–14.0% |
+| [10–11 September 2025](2025-09-11-Tecnè.html) | Tecnè <br> Agenzia Dire | 12.4% | 11.1–13.8% | 10.8–14.2% | 10.5–14.6% | 9.9–15.3% |
+| [9–10 September 2025](2025-09-10-Eumetra.html) | Eumetra <br> La7 | 13.5% | 12.1–15.2% | 11.6–15.6% | 11.3–16.0% | 10.6–16.9% |
 | [3–8 September 2025](2025-09-08-SWG.html) | SWG <br> La7 | 13.6% | 12.4–14.9% | 12.0–15.3% | 11.8–15.7% | 11.2–16.3% |
 | [3–5 September 2025](2025-09-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 13.5% | 12.1–15.2% | 11.7–15.7% | 11.3–16.1% | 10.7–16.9% |
 | [2–4 September 2025](2025-09-04-TermometroPolitico.html) | Termometro Politico | 12.6% | 11.9–13.4% | 11.7–13.6% | 11.5–13.8% | 11.1–14.2% |
+| [3–4 September 2025](2025-09-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 12.6% | N/A | N/A | N/A | N/A |
 | [27 August–1 September 2025](2025-09-01-SWG.html) | SWG <br> La7 | 13.3% | 12.1–14.7% | 11.8–15.1% | 11.5–15.4% | 11.0–16.0% |
 | [23–25 August 2025](2025-08-25-BiDiMedia.html) | BiDiMedia | 12.9% | 11.6–14.4% | 11.3–14.8% | 11.0–15.1% | 10.4–15.9% |
 | [5–7 August 2025](2025-08-07-TermometroPolitico.html) | Termometro Politico | 12.3% | 11.5–13.1% | 11.3–13.4% | 11.1–13.6% | 10.8–14.0% |
@@ -298,14 +302,14 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0.6% | 100% |  |
-| 10.5–11.5% | 9% | 99.4% |  |
-| 11.5–12.5% | 31% | 90% |  |
-| 12.5–13.5% | 31% | 59% | Median |
-| 13.5–14.5% | 18% | 28% |  |
-| 14.5–15.5% | 7% | 9% |  |
+| 9.5–10.5% | 0.7% | 100% |  |
+| 10.5–11.5% | 7% | 99.2% |  |
+| 11.5–12.5% | 27% | 92% |  |
+| 12.5–13.5% | 33% | 65% | Median |
+| 13.5–14.5% | 21% | 32% |  |
+| 14.5–15.5% | 8% | 11% |  |
 | 15.5–16.5% | 2% | 2% |  |
-| 16.5–17.5% | 0.2% | 0.3% |  |
+| 16.5–17.5% | 0.3% | 0.4% |  |
 | 17.5–18.5% | 0% | 0% |  |
 
 
@@ -317,11 +321,15 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 9–12 | 9–13 | 8–13 | 8–14 |
+| N/A | [Poll Average](average.html) | 11 | 10–12 | 9–13 | 9–13 | 9–14 |
+| [10–15 September 2025](2025-09-15-SWG.html) | SWG <br> La7 | 11 | 10–12 | 10–13 | 10–13 | 9–13 |
 | [9–11 September 2025](2025-09-11-TermometroPolitico.html) | Termometro Politico | 10 | 10–11 | 10–11 | 10–12 | 9–12 |
+| [10–11 September 2025](2025-09-11-Tecnè.html) | Tecnè <br> Agenzia Dire | 10 | 9–11 | 9–12 | 9–12 | 8–13 |
+| [9–10 September 2025](2025-09-10-Eumetra.html) | Eumetra <br> La7 | 11 | 10–13 | 10–13 | 9–13 | 9–14 |
 | [3–8 September 2025](2025-09-08-SWG.html) | SWG <br> La7 | 11 | 11–13 | 10–14 | 10–14 | 9–14 |
 | [3–5 September 2025](2025-09-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 11 | 9–12 | 9–13 | 9–13 | 9–14 |
 | [2–4 September 2025](2025-09-04-TermometroPolitico.html) | Termometro Politico | 10 | 10–11 | 10–11 | 10–12 | 10–12 |
+| [3–4 September 2025](2025-09-04-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [27 August–1 September 2025](2025-09-01-SWG.html) | SWG <br> La7 | 11 | 10–12 | 10–12 | 10–12 | 9–13 |
 | [23–25 August 2025](2025-08-25-BiDiMedia.html) | BiDiMedia | 11 | 10–12 | 9–13 | 9–13 | 8–13 |
 | [5–7 August 2025](2025-08-07-TermometroPolitico.html) | Termometro Politico | 10 | 10–12 | 10–12 | 10–12 | 9–12 |
@@ -605,13 +613,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 3% | 100% |  |
-| 9 | 16% | 97% |  |
-| 10 | 28% | 81% |  |
-| 11 | 34% | 52% | Median |
-| 12 | 13% | 19% |  |
-| 13 | 3% | 5% |  |
-| 14 | 2% | 2% |  |
+| 8 | 0.4% | 100% |  |
+| 9 | 9% | 99.5% |  |
+| 10 | 33% | 91% |  |
+| 11 | 34% | 58% | Median |
+| 12 | 18% | 24% |  |
+| 13 | 5% | 5% |  |
+| 14 | 0.5% | 0.6% |  |
 | 15 | 0% | 0% |  |
 
 
