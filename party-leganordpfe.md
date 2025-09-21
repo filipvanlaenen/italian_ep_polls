@@ -10,8 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.6% | 7.5–9.7% | 7.2–10.1% | 6.9–10.4% | 6.4–11.0% |
+| N/A | [Poll Average](average.html) | 8.6% | 7.5–9.7% | 7.2–10.1% | 6.9–10.4% | 6.4–11.1% |
+| [16–18 September 2025](2025-09-18-TermometroPolitico.html) | Termometro Politico | 8.5% | 7.8–9.2% | 7.7–9.4% | 7.5–9.6% | 7.2–10.0% |
+| [17–18 September 2025](2025-09-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 8.6% | 7.6–9.8% | 7.3–10.2% | 7.0–10.5% | 6.5–11.1% |
 | [10–15 September 2025](2025-09-15-SWG.html) | SWG <br> La7 | 8.7% | 7.7–9.8% | 7.4–10.1% | 7.2–10.4% | 6.8–11.0% |
+| [10–15 September 2025](2025-09-15-BiDiMedia.html) | BiDiMedia | 8.7% | 7.7–10.0% | 7.3–10.3% | 7.1–10.6% | 6.6–11.2% |
 | [9–11 September 2025](2025-09-11-TermometroPolitico.html) | Termometro Politico | 8.6% | 7.9–9.3% | 7.7–9.5% | 7.6–9.7% | 7.3–10.1% |
 | [10–11 September 2025](2025-09-11-Tecnè.html) | Tecnè <br> Agenzia Dire | 8.5% | 7.5–9.7% | 7.2–10.1% | 6.9–10.4% | 6.4–11.0% |
 | [9–10 September 2025](2025-09-10-Eumetra.html) | Eumetra <br> La7 | 8.4% | 7.2–9.8% | 6.9–10.2% | 6.6–10.5% | 6.1–11.2% |
@@ -298,11 +301,11 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.9% | 100% |  |
-| 6.5–7.5% | 10% | 99.1% |  |
-| 7.5–8.5% | 38% | 89% |  |
+| 5.5–6.5% | 0.8% | 100% |  |
+| 6.5–7.5% | 10% | 99.2% |  |
+| 7.5–8.5% | 38% | 90% |  |
 | 8.5–9.5% | 38% | 51% | Median |
-| 9.5–10.5% | 11% | 13% |  |
+| 9.5–10.5% | 12% | 13% |  |
 | 10.5–11.5% | 2% | 2% |  |
 | 11.5–12.5% | 0.1% | 0.1% |  |
 | 12.5–13.5% | 0% | 0% |  |
@@ -316,8 +319,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
+| N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 5–9 | 5–9 |
+| [16–18 September 2025](2025-09-18-TermometroPolitico.html) | Termometro Politico | 8 | 7–8 | 7–8 | 7–8 | 6–9 |
+| [17–18 September 2025](2025-09-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | [10–15 September 2025](2025-09-15-SWG.html) | SWG <br> La7 | 7 | 6–8 | 6–9 | 6–9 | 6–9 |
+| [10–15 September 2025](2025-09-15-BiDiMedia.html) | BiDiMedia | 8 | 6–8 | 6–8 | 6–9 | 5–9 |
 | [9–11 September 2025](2025-09-11-TermometroPolitico.html) | Termometro Politico | 7 | 7–8 | 7–8 | 7–8 | 6–9 |
 | [10–11 September 2025](2025-09-11-Tecnè.html) | Tecnè <br> Agenzia Dire | 7 | 6–8 | 6–8 | 6–9 | 5–9 |
 | [9–10 September 2025](2025-09-10-Eumetra.html) | Eumetra <br> La7 | 7 | 6–8 | 5–9 | 5–9 | 5–9 |
@@ -605,10 +611,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 2% | 100% |  |
-| 6 | 18% | 98% |  |
-| 7 | 52% | 80% | Median |
-| 8 | 24% | 28% |  |
+| 5 | 3% | 100% |  |
+| 6 | 18% | 97% |  |
+| 7 | 40% | 80% | Median |
+| 8 | 36% | 40% |  |
 | 9 | 4% | 4% |  |
 | 10 | 0.2% | 0.2% |  |
 | 11 | 0% | 0% |  |
