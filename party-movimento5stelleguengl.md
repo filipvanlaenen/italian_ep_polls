@@ -10,8 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.9% | 11.6–14.5% | 11.3–15.0% | 11.0–15.4% | 10.3–16.3% |
-| [17–22 September 2025](2025-09-22-SWG.html) | SWG <br> La7 | 13.5% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 13.0% | 11.7–14.6% | 11.3–15.1% | 11.0–15.5% | 10.4–16.3% |
+| [17–22 September 2025](2025-09-22-SWG.html) | SWG <br> La7 | 13.5% | 12.3–14.8% | 12.0–15.2% | 11.7–15.6% | 11.1–16.2% |
 | [16–18 September 2025](2025-09-18-TermometroPolitico.html) | Termometro Politico | 12.4% | 11.6–13.2% | 11.4–13.5% | 11.2–13.7% | 10.9–14.1% |
 | [17–18 September 2025](2025-09-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 12.5% | 11.2–13.9% | 10.9–14.3% | 10.6–14.7% | 10.0–15.4% |
 | [15–18 September 2025](2025-09-18-DemosPi.html) | Demos & Pi <br> La Repubblica | 13.2% | 11.9–14.7% | 11.6–15.1% | 11.3–15.5% | 10.7–16.2% |
@@ -308,12 +308,12 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0.9% | 100% |  |
-| 10.5–11.5% | 8% | 99.1% |  |
-| 11.5–12.5% | 28% | 91% |  |
-| 12.5–13.5% | 34% | 63% | Median |
-| 13.5–14.5% | 20% | 29% |  |
-| 14.5–15.5% | 7% | 9% |  |
+| 9.5–10.5% | 0.7% | 100% |  |
+| 10.5–11.5% | 7% | 99.2% |  |
+| 11.5–12.5% | 26% | 92% |  |
+| 12.5–13.5% | 34% | 66% | Median |
+| 13.5–14.5% | 22% | 32% |  |
+| 14.5–15.5% | 8% | 10% |  |
 | 15.5–16.5% | 2% | 2% |  |
 | 16.5–17.5% | 0.3% | 0.3% |  |
 | 17.5–18.5% | 0% | 0% |  |
@@ -327,8 +327,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 9–12 | 9–12 | 9–13 | 8–14 |
-| [17–22 September 2025](2025-09-22-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 11 | 10–12 | 9–12 | 9–13 | 8–14 |
+| [17–22 September 2025](2025-09-22-SWG.html) | SWG <br> La7 | 11 | 11–12 | 10–13 | 10–13 | 9–14 |
 | [16–18 September 2025](2025-09-18-TermometroPolitico.html) | Termometro Politico | 11 | 10–11 | 9–12 | 9–12 | 9–12 |
 | [17–18 September 2025](2025-09-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 11 | 9–11 | 9–12 | 9–12 | 8–13 |
 | [15–18 September 2025](2025-09-18-DemosPi.html) | Demos & Pi <br> La Repubblica | 11 | 10–12 | 9–12 | 9–13 | 9–13 |
@@ -625,13 +625,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 0.9% | 100% |  |
-| 9 | 10% | 99.1% |  |
-| 10 | 22% | 89% |  |
-| 11 | 51% | 67% | Median |
-| 12 | 12% | 16% |  |
-| 13 | 3% | 4% |  |
-| 14 | 0.6% | 0.7% |  |
+| 8 | 0.8% | 100% |  |
+| 9 | 9% | 99.2% |  |
+| 10 | 20% | 91% |  |
+| 11 | 51% | 70% | Median |
+| 12 | 15% | 20% |  |
+| 13 | 4% | 5% |  |
+| 14 | 0.7% | 0.7% |  |
 | 15 | 0% | 0% |  |
 
 
