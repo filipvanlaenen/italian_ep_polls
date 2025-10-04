@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Sun, 21 Jul 2024 15:49:56 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Ixè, 22–26 September 2025 – Seating Plan Projection</title>
+      <link>null/2025-09-26-Ixè.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>39 seats needed for a majority<br/>Opinion poll by Ixè, 22–26 September 2025<br/>Details on null/2025-09-26-Ixè.html<br/><img src="null/2025-09-26-Ixè-seating-plan.png"/>]]></description>
+      <enclosure url="null/2025-09-26-Ixè-seating-plan.png" length="443933" type="image/png"/>
+      <pubDate>Sat, 4 Oct 2025 19:34:41 +0200</pubDate>
+      <dc:date>2025-10-04T19:34:41.902108851+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ixè, 22–26 September 2025 – Seat Projections</title>
+      <link>null/2025-09-26-Ixè.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>39 seats needed for a majority<br/>Opinion poll by Ixè, 22–26 September 2025<br/>Details on null/2025-09-26-Ixè.html<br/><img src="null/2025-09-26-Ixè-seats.png"/>]]></description>
+      <enclosure url="null/2025-09-26-Ixè-seats.png" length="267904" type="image/png"/>
+      <pubDate>Sat, 4 Oct 2025 19:34:41 +0200</pubDate>
+      <dc:date>2025-10-04T19:34:41.902108851+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ixè, 22–26 September 2025 – Voting Intentions</title>
+      <link>null/2025-09-26-Ixè.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Ixè, 22–26 September 2025<br/>Details on null/2025-09-26-Ixè.html<br/><img src="null/2025-09-26-Ixè.png"/>]]></description>
+      <enclosure url="null/2025-09-26-Ixè.png" length="336239" type="image/png"/>
+      <pubDate>Sat, 4 Oct 2025 19:34:41 +0200</pubDate>
+      <dc:date>2025-10-04T19:34:41.902108851+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by SWG for La7, 17–22 September 2025 – Seating Plan Projection</title>
       <link>null/2025-09-22-SWG.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>39 seats needed for a majority<br/>Opinion poll by SWG for La7, 17–22 September 2025<br/>Details on null/2025-09-22-SWG.html<br/><img src="null/2025-09-22-SWG-seating-plan.png"/>]]></description>
@@ -340,30 +364,6 @@
       <enclosure url="null/2025-09-01-SWG.png" length="333474" type="image/png"/>
       <pubDate>Fri, 5 Sep 2025 16:50:52 +0200</pubDate>
       <dc:date>2025-09-05T16:50:52.512268984+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by BiDiMedia, 23–25 August 2025 – Seating Plan Projection</title>
-      <link>null/2025-08-25-BiDiMedia.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>39 seats needed for a majority<br/>Opinion poll by BiDiMedia, 23–25 August 2025<br/>Details on null/2025-08-25-BiDiMedia.html<br/><img src="null/2025-08-25-BiDiMedia-seating-plan.png"/>]]></description>
-      <enclosure url="null/2025-08-25-BiDiMedia-seating-plan.png" length="446524" type="image/png"/>
-      <pubDate>Fri, 5 Sep 2025 19:43:15 +0200</pubDate>
-      <dc:date>2025-09-05T19:43:15.076086874+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by BiDiMedia, 23–25 August 2025 – Seat Projections</title>
-      <link>null/2025-08-25-BiDiMedia.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>39 seats needed for a majority<br/>Opinion poll by BiDiMedia, 23–25 August 2025<br/>Details on null/2025-08-25-BiDiMedia.html<br/><img src="null/2025-08-25-BiDiMedia-seats.png"/>]]></description>
-      <enclosure url="null/2025-08-25-BiDiMedia-seats.png" length="293368" type="image/png"/>
-      <pubDate>Fri, 5 Sep 2025 19:43:15 +0200</pubDate>
-      <dc:date>2025-09-05T19:43:15.076086874+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by BiDiMedia, 23–25 August 2025 – Voting Intentions</title>
-      <link>null/2025-08-25-BiDiMedia.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by BiDiMedia, 23–25 August 2025<br/>Details on null/2025-08-25-BiDiMedia.html<br/><img src="null/2025-08-25-BiDiMedia.png"/>]]></description>
-      <enclosure url="null/2025-08-25-BiDiMedia.png" length="371284" type="image/png"/>
-      <pubDate>Fri, 5 Sep 2025 19:43:15 +0200</pubDate>
-      <dc:date>2025-09-05T19:43:15.076086874+02:00</dc:date>
     </item>
   </channel>
 </rss>
