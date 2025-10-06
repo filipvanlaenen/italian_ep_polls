@@ -13,6 +13,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 21.9% | 20.2–23.5% | 19.7–24.0% | 19.2–24.5% | 18.4–25.4% |
 | [22–26 September 2025](2025-09-26-Ixè.html) | Ixè | 22.0% | 20.4–23.7% | 19.9–24.2% | 19.5–24.7% | 18.8–25.5% |
 | [17–22 September 2025](2025-09-22-SWG.html) | SWG <br> La7 | 21.9% | 20.4–23.5% | 20.0–24.0% | 19.7–24.4% | 19.0–25.1% |
+| [18–22 September 2025](2025-09-22-BiDiMedia.html) | BiDiMedia | 22.3% | 20.7–24.1% | 20.2–24.6% | 19.8–25.0% | 19.1–25.8% |
 | [16–18 September 2025](2025-09-18-TermometroPolitico.html) | Termometro Politico | 22.1% | 21.1–23.1% | 20.8–23.4% | 20.6–23.7% | 20.1–24.2% |
 | [17–18 September 2025](2025-09-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 21.5% | 19.9–23.2% | 19.4–23.7% | 19.1–24.2% | 18.3–25.0% |
 | [15–18 September 2025](2025-09-18-DemosPi.html) | Demos & Pi <br> La Repubblica | 21.7% | 20.1–23.4% | 19.7–23.9% | 19.3–24.3% | 18.5–25.2% |
@@ -337,9 +338,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 16–20 | 16–20 | 15–21 | 15–22 |
+| N/A | [Poll Average](average.html) | 18 | 16–20 | 16–20 | 15–21 | 15–21 |
 | [22–26 September 2025](2025-09-26-Ixè.html) | Ixè | 19 | 18–20 | 17–21 | 17–21 | 16–22 |
 | [17–22 September 2025](2025-09-22-SWG.html) | SWG <br> La7 | 18 | 17–19 | 17–20 | 16–20 | 16–21 |
+| [18–22 September 2025](2025-09-22-BiDiMedia.html) | BiDiMedia | 18 | 18–20 | 18–21 | 17–21 | 16–22 |
 | [16–18 September 2025](2025-09-18-TermometroPolitico.html) | Termometro Politico | 19 | 19–20 | 18–21 | 18–21 | 18–21 |
 | [17–18 September 2025](2025-09-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 18 | 17–19 | 16–20 | 16–20 | 15–21 |
 | [15–18 September 2025](2025-09-18-DemosPi.html) | Demos & Pi <br> La Repubblica | 18 | 17–19 | 16–20 | 16–20 | 15–20 |
@@ -645,13 +647,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0.2% | 100% |  |
 | 15 | 3% | 99.7% |  |
 | 16 | 8% | 97% |  |
-| 17 | 14% | 89% |  |
-| 18 | 34% | 76% | Median |
-| 19 | 28% | 41% |  |
-| 20 | 8% | 13% |  |
-| 21 | 4% | 5% |  |
-| 22 | 0.9% | 1.0% |  |
-| 23 | 0.1% | 0.1% |  |
-| 24 | 0% | 0% |  |
+| 17 | 13% | 89% |  |
+| 18 | 35% | 76% | Median |
+| 19 | 29% | 41% |  |
+| 20 | 9% | 13% |  |
+| 21 | 3% | 3% |  |
+| 22 | 0.4% | 0.5% |  |
+| 23 | 0% | 0% |  |
 
 

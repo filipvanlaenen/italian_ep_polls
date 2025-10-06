@@ -13,6 +13,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 2.4% | 1.9–3.1% | 1.7–3.4% | 1.6–3.6% | 1.4–4.1% |
 | [22–26 September 2025](2025-09-26-Ixè.html) | Ixè | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
 | [17–22 September 2025](2025-09-22-SWG.html) | SWG <br> La7 | 2.4% | 1.9–3.1% | 1.8–3.3% | 1.7–3.5% | 1.5–3.8% |
+| [18–22 September 2025](2025-09-22-BiDiMedia.html) | BiDiMedia | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
 | [16–18 September 2025](2025-09-18-TermometroPolitico.html) | Termometro Politico | 2.4% | 2.0–2.8% | 1.9–2.9% | 1.8–3.0% | 1.7–3.2% |
 | [17–18 September 2025](2025-09-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
 | [15–18 September 2025](2025-09-18-DemosPi.html) | Demos & Pi <br> La Repubblica | 2.2% | 1.7–3.0% | 1.6–3.2% | 1.5–3.3% | 1.3–3.7% |
@@ -319,6 +320,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | [22–26 September 2025](2025-09-26-Ixè.html) | Ixè | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | [17–22 September 2025](2025-09-22-SWG.html) | SWG <br> La7 | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| [18–22 September 2025](2025-09-22-BiDiMedia.html) | BiDiMedia | 2 | 1–3 | 1–3 | 1–4 | 1–4 |
 | [16–18 September 2025](2025-09-18-TermometroPolitico.html) | Termometro Politico | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | [17–18 September 2025](2025-09-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | [15–18 September 2025](2025-09-18-DemosPi.html) | Demos & Pi <br> La Repubblica | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
@@ -609,10 +611,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 8% | 100% |  |
-| 2 | 64% | 92% | Median |
-| 3 | 27% | 28% |  |
-| 4 | 1.2% | 1.2% |  |
-| 5 | 0.1% | 0.1% |  |
-| 6 | 0% | 0% |  |
+| 2 | 66% | 92% | Median |
+| 3 | 25% | 26% |  |
+| 4 | 1.4% | 1.4% |  |
+| 5 | 0% | 0% |  |
 
 
