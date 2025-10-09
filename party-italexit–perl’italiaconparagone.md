@@ -11,7 +11,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.6% | 0.3–0.9% | 0.3–1.0% | 0.2–1.2% | 0.2–1.4% |
+| [2–3 October 2025](2025-10-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
+| [17 September–1 October 2025](2025-10-01-EMG.html) | EMG | 0.0% | N/A | N/A | N/A | N/A |
+| [24–29 September 2025](2025-09-29-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [22–26 September 2025](2025-09-26-Ixè.html) | Ixè | 0.0% | N/A | N/A | N/A | N/A |
+| [23–25 September 2025](2025-09-25-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
+| [24–25 September 2025](2025-09-25-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [17–22 September 2025](2025-09-22-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [18–22 September 2025](2025-09-22-BiDiMedia.html) | BiDiMedia | 0.5% | 0.3–0.9% | 0.3–1.1% | 0.2–1.2% | 0.2–1.4% |
 | [16–18 September 2025](2025-09-18-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
@@ -315,7 +320,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [2–3 October 2025](2025-10-03-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [17 September–1 October 2025](2025-10-01-EMG.html) | EMG |  |  |  |  |  |
+| [24–29 September 2025](2025-09-29-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [22–26 September 2025](2025-09-26-Ixè.html) | Ixè |  |  |  |  |  |
+| [23–25 September 2025](2025-09-25-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [24–25 September 2025](2025-09-25-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [17–22 September 2025](2025-09-22-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [18–22 September 2025](2025-09-22-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
 | [16–18 September 2025](2025-09-18-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
