@@ -10,9 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.2% | 20.7–23.8% | 20.2–24.3% | 19.8–24.7% | 19.0–25.5% |
-| [22–23 October 2025](2025-10-23-Tecnè.html) | Tecnè <br> Agenzia Dire | 21.7% | N/A | N/A | N/A | N/A |
-| [21–22 October 2025](2025-10-22-Eumetra.html) | Eumetra <br> La7 | 22.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 22.1% | 20.5–23.8% | 20.1–24.3% | 19.6–24.7% | 18.8–25.6% |
+| [22–23 October 2025](2025-10-23-Tecnè.html) | Tecnè <br> Agenzia Dire | 21.7% | 20.1–23.4% | 19.6–23.9% | 19.3–24.4% | 18.5–25.2% |
+| [21–22 October 2025](2025-10-22-Eumetra.html) | Eumetra <br> La7 | 22.0% | 20.2–24.0% | 19.7–24.5% | 19.3–25.0% | 18.4–26.0% |
 | [15–20 October 2025](2025-10-20-SWG.html) | SWG <br> La7 | 22.1% | 20.6–23.7% | 20.2–24.1% | 19.8–24.5% | 19.1–25.3% |
 | [15–19 October 2025](2025-10-19-BiDiMedia.html) | BiDiMedia | 22.2% | 20.6–24.0% | 20.1–24.4% | 19.7–24.9% | 19.0–25.7% |
 | [14–16 October 2025](2025-10-16-TermometroPolitico.html) | Termometro Politico | 22.0% | 21.0–23.0% | 20.8–23.3% | 20.5–23.5% | 20.1–24.0% |
@@ -336,16 +336,17 @@ The following table shows the probability mass function per percentage block of 
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0% | 100% |  |
-| 17.5–18.5% | 0.1% | 100% |  |
-| 18.5–19.5% | 1.3% | 99.9% |  |
-| 19.5–20.5% | 7% | 98.5% |  |
-| 20.5–21.5% | 20% | 92% |  |
-| 21.5–22.5% | 33% | 72% | Median |
-| 22.5–23.5% | 25% | 39% |  |
-| 23.5–24.5% | 11% | 14% |  |
+| 17.5–18.5% | 0.2% | 100% |  |
+| 18.5–19.5% | 2% | 99.7% |  |
+| 19.5–20.5% | 8% | 98% |  |
+| 20.5–21.5% | 21% | 90% |  |
+| 21.5–22.5% | 32% | 69% | Median |
+| 22.5–23.5% | 23% | 37% |  |
+| 23.5–24.5% | 10% | 14% |  |
 | 24.5–25.5% | 3% | 3% |  |
-| 25.5–26.5% | 0.4% | 0.5% |  |
-| 26.5–27.5% | 0% | 0% |  |
+| 25.5–26.5% | 0.5% | 0.5% |  |
+| 26.5–27.5% | 0.1% | 0.1% |  |
+| 27.5–28.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -356,9 +357,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 18–20 | 17–20 | 17–21 | 16–21 |
-| [22–23 October 2025](2025-10-23-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
-| [21–22 October 2025](2025-10-22-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 19 | 17–20 | 17–20 | 16–21 | 15–22 |
+| [22–23 October 2025](2025-10-23-Tecnè.html) | Tecnè <br> Agenzia Dire | 18 | 16–20 | 16–20 | 16–20 | 15–21 |
+| [21–22 October 2025](2025-10-22-Eumetra.html) | Eumetra <br> La7 | 19 | 16–20 | 15–21 | 15–21 | 15–22 |
 | [15–20 October 2025](2025-10-20-SWG.html) | SWG <br> La7 | 19 | 18–20 | 17–20 | 17–21 | 16–21 |
 | [15–19 October 2025](2025-10-19-BiDiMedia.html) | BiDiMedia | 19 | 17–20 | 17–21 | 17–21 | 16–22 |
 | [14–16 October 2025](2025-10-16-TermometroPolitico.html) | Termometro Politico | 20 | 18–20 | 18–20 | 18–20 | 18–20 |
@@ -681,14 +682,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 0.1% | 100% |  |
-| 16 | 0.9% | 99.9% |  |
-| 17 | 8% | 99.0% |  |
-| 18 | 22% | 91% |  |
-| 19 | 44% | 68% | Median |
-| 20 | 21% | 24% |  |
-| 21 | 3% | 4% |  |
-| 22 | 0.4% | 0.5% |  |
-| 23 | 0% | 0% |  |
+| 15 | 0.9% | 100% |  |
+| 16 | 3% | 99.1% |  |
+| 17 | 11% | 96% |  |
+| 18 | 22% | 85% |  |
+| 19 | 40% | 63% | Median |
+| 20 | 20% | 24% |  |
+| 21 | 3% | 3% |  |
+| 22 | 0.5% | 0.6% |  |
+| 23 | 0.1% | 0.1% |  |
+| 24 | 0% | 0% |  |
 
 
