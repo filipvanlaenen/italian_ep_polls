@@ -348,13 +348,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11 | 9–12 | 9–13 | 9–13 | 8–14 |
-| [22–23 October 2025](2025-10-23-Tecnè.html) | Tecnè <br> Agenzia Dire | 10 | 9–11 | 9–12 | 8–12 | 8–12 |
-| [21–22 October 2025](2025-10-22-Eumetra.html) | Eumetra <br> La7 | 11 | 9–13 | 9–13 | 9–13 | 8–14 |
+| [22–23 October 2025](2025-10-23-Tecnè.html) | Tecnè <br> Agenzia Dire | 10 | 9–11 | 8–12 | 8–12 | 8–12 |
+| [21–22 October 2025](2025-10-22-Eumetra.html) | Eumetra <br> La7 | 11 | 10–12 | 9–12 | 9–13 | 8–13 |
 | [15–20 October 2025](2025-10-20-SWG.html) | SWG <br> La7 | 11 | 11–12 | 10–13 | 10–13 | 9–13 |
-| [15–19 October 2025](2025-10-19-BiDiMedia.html) | BiDiMedia | 11 | 10–12 | 9–12 | 8–13 | 7–14 |
+| [15–19 October 2025](2025-10-19-BiDiMedia.html) | BiDiMedia | 11 | 9–13 | 9–13 | 9–13 | 8–14 |
 | [14–16 October 2025](2025-10-16-TermometroPolitico.html) | Termometro Politico | 10 | 10–11 | 10–11 | 10–11 | 9–12 |
 | [14–15 October 2025](2025-10-15-Eumetra.html) | Eumetra <br> La7 | 11 | 10–12 | 9–13 | 9–13 | 8–14 |
-| [1–15 October 2025](2025-10-15-EMG.html) | EMG | 12 | 11–12 | 11–12 | 10–12 | 10–13 |
+| [1–15 October 2025](2025-10-15-EMG.html) | EMG | 12 | 11–13 | 10–13 | 10–13 | 10–14 |
 | [13–14 October 2025](2025-10-14-Demopolis.html) | Demopolis <br> La7 | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
 | [8–13 October 2025](2025-10-13-SWG.html) | SWG <br> La7 | 11 | 10–12 | 10–12 | 10–13 | 9–13 |
 | [7–9 October 2025](2025-10-09-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
@@ -665,12 +665,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0.1% | 100% |  |
-| 8 | 1.2% | 99.9% |  |
-| 9 | 11% | 98.7% |  |
-| 10 | 30% | 87% |  |
-| 11 | 25% | 58% | Median |
-| 12 | 25% | 32% |  |
-| 13 | 7% | 8% |  |
+| 8 | 1.3% | 99.9% |  |
+| 9 | 12% | 98.6% |  |
+| 10 | 26% | 87% |  |
+| 11 | 28% | 61% | Median |
+| 12 | 24% | 33% |  |
+| 13 | 8% | 9% |  |
 | 14 | 0.8% | 0.9% |  |
 | 15 | 0% | 0% |  |
 

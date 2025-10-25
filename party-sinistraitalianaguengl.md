@@ -334,11 +334,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | [22–23 October 2025](2025-10-23-Tecnè.html) | Tecnè <br> Agenzia Dire | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
-| [21–22 October 2025](2025-10-22-Eumetra.html) | Eumetra <br> La7 | 2 | 1–3 | 1–3 | 1–4 | 1–4 |
+| [21–22 October 2025](2025-10-22-Eumetra.html) | Eumetra <br> La7 | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | [15–20 October 2025](2025-10-20-SWG.html) | SWG <br> La7 | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
-| [15–19 October 2025](2025-10-19-BiDiMedia.html) | BiDiMedia | 2 | 2–3 | 1–3 | 1–4 | 1–4 |
+| [15–19 October 2025](2025-10-19-BiDiMedia.html) | BiDiMedia | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | [14–16 October 2025](2025-10-16-TermometroPolitico.html) | Termometro Politico | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | [14–15 October 2025](2025-10-15-Eumetra.html) | Eumetra <br> La7 | 3 | 2–3 | 1–3 | 1–4 | 1–4 |
 | [1–15 October 2025](2025-10-15-EMG.html) | EMG | 2 | 2 | 1–2 | 1–3 | 1–3 |
@@ -645,10 +645,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 11% | 100% |  |
-| 2 | 66% | 89% | Median |
-| 3 | 22% | 23% |  |
-| 4 | 0.8% | 0.8% |  |
+| 1 | 10% | 100% |  |
+| 2 | 66% | 90% | Median |
+| 3 | 23% | 24% |  |
+| 4 | 0.5% | 0.5% |  |
 | 5 | 0% | 0% |  |
 
 

@@ -338,9 +338,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | [22–23 October 2025](2025-10-23-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
-| [21–22 October 2025](2025-10-22-Eumetra.html) | Eumetra <br> La7 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [21–22 October 2025](2025-10-22-Eumetra.html) | Eumetra <br> La7 | 0 | 0 | 0–3 | 0–4 | 0–4 |
 | [15–20 October 2025](2025-10-20-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0–4 |
-| [15–19 October 2025](2025-10-19-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0–3 | 0–4 | 0–4 |
+| [15–19 October 2025](2025-10-19-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0–3 | 0–4 |
 | [14–16 October 2025](2025-10-16-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [14–15 October 2025](2025-10-15-Eumetra.html) | Eumetra <br> La7 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [1–15 October 2025](2025-10-15-EMG.html) | EMG | 0 | 0 | 0 | 0 | 0–4 |
@@ -646,11 +646,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 92% | 100% | Last Result, Median |
-| 1 | 0% | 8% |  |
-| 2 | 0% | 8% |  |
-| 3 | 4% | 8% |  |
-| 4 | 4% | 4% |  |
+| 0 | 94% | 100% | Last Result, Median |
+| 1 | 0% | 6% |  |
+| 2 | 0% | 6% |  |
+| 3 | 3% | 6% |  |
+| 4 | 3% | 3% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 

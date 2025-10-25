@@ -365,14 +365,14 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25 | 23–27 | 23–28 | 22–28 | 21–30 |
-| [22–23 October 2025](2025-10-23-Tecnè.html) | Tecnè <br> Agenzia Dire | 25 | 24–27 | 23–27 | 23–27 | 22–29 |
-| [21–22 October 2025](2025-10-22-Eumetra.html) | Eumetra <br> La7 | 26 | 24–28 | 23–30 | 22–30 | 22–30 |
+| N/A | [Poll Average](average.html) | 25 | 23–27 | 23–27 | 22–28 | 21–29 |
+| [22–23 October 2025](2025-10-23-Tecnè.html) | Tecnè <br> Agenzia Dire | 25 | 24–27 | 23–27 | 23–28 | 22–29 |
+| [21–22 October 2025](2025-10-22-Eumetra.html) | Eumetra <br> La7 | 26 | 24–28 | 24–29 | 23–29 | 22–30 |
 | [15–20 October 2025](2025-10-20-SWG.html) | SWG <br> La7 | 27 | 25–27 | 24–28 | 24–28 | 23–29 |
-| [15–19 October 2025](2025-10-19-BiDiMedia.html) | BiDiMedia | 24 | 22–27 | 21–27 | 21–27 | 21–30 |
+| [15–19 October 2025](2025-10-19-BiDiMedia.html) | BiDiMedia | 25 | 22–27 | 21–27 | 21–27 | 21–30 |
 | [14–16 October 2025](2025-10-16-TermometroPolitico.html) | Termometro Politico | 25 | 25–27 | 25–27 | 25–27 | 24–27 |
 | [14–15 October 2025](2025-10-15-Eumetra.html) | Eumetra <br> La7 | 25 | 23–27 | 23–28 | 23–28 | 22–29 |
-| [1–15 October 2025](2025-10-15-EMG.html) | EMG | 26 | 24–26 | 23–26 | 23–26 | 22–28 |
+| [1–15 October 2025](2025-10-15-EMG.html) | EMG | 26 | 23–26 | 23–26 | 23–27 | 22–28 |
 | [13–14 October 2025](2025-10-14-Demopolis.html) | Demopolis <br> La7 | 24 | 23–25 | 23–25 | 23–26 | 22–27 |
 | [8–13 October 2025](2025-10-13-SWG.html) | SWG <br> La7 | 26 | 24–27 | 24–27 | 24–28 | 23–29 |
 | [7–9 October 2025](2025-10-09-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
@@ -696,16 +696,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
-| 21 | 1.1% | 100% |  |
+| 21 | 1.0% | 100% |  |
 | 22 | 2% | 98.9% |  |
 | 23 | 9% | 97% |  |
 | 24 | 20% | 88% |  |
-| 25 | 27% | 67% | Median |
-| 26 | 23% | 41% |  |
-| 27 | 13% | 18% |  |
-| 28 | 4% | 5% |  |
-| 29 | 0.3% | 1.1% |  |
-| 30 | 0.8% | 0.8% |  |
+| 25 | 30% | 68% | Median |
+| 26 | 23% | 38% |  |
+| 27 | 12% | 16% |  |
+| 28 | 2% | 3% |  |
+| 29 | 0.7% | 1.0% |  |
+| 30 | 0.3% | 0.3% |  |
 | 31 | 0% | 0% |  |
 
 
