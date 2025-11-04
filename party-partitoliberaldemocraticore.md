@@ -1,4 +1,4 @@
-# Italexit–Per l’Italia con Paragone (*)
+# Partito Liberaldemocratico (RE)
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a></p>
 
@@ -10,20 +10,20 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.6% | 0.3–0.9% | 0.3–1.0% | 0.2–1.2% | 0.2–1.4% |
+| N/A | [Poll Average](average.html) | 0.7% | 0.4–1.0% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
 | [29–30 October 2025](2025-10-30-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [27–30 October 2025](2025-10-30-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.0% | N/A | N/A | N/A | N/A |
 | [22–27 October 2025](2025-10-27-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
-| [22–26 October 2025](2025-10-26-BiDiMedia.html) | BiDiMedia | 0.5% | 0.3–0.9% | 0.3–1.1% | 0.2–1.2% | 0.2–1.4% |
+| [22–26 October 2025](2025-10-26-BiDiMedia.html) | BiDiMedia | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
 | [21–23 October 2025](2025-10-23-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
 | [22–23 October 2025](2025-10-23-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [21–22 October 2025](2025-10-22-Eumetra.html) | Eumetra <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [15–20 October 2025](2025-10-20-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
-| [15–19 October 2025](2025-10-19-EMG.html) | EMG | 0.0% | N/A | N/A | N/A | N/A |
-| [15–19 October 2025](2025-10-19-BiDiMedia.html) | BiDiMedia | 0.0% | N/A | N/A | N/A | N/A |
+| [15–19 October 2025](2025-10-19-EMG.html) | EMG | 1.3% | N/A | N/A | N/A | N/A |
+| [15–19 October 2025](2025-10-19-BiDiMedia.html) | BiDiMedia | 0.7% | N/A | N/A | N/A | N/A |
 | [14–16 October 2025](2025-10-16-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
 | [14–15 October 2025](2025-10-15-Eumetra.html) | Eumetra <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
-| [1–15 October 2025](2025-10-15-EMG.html) | EMG | 0.0% | N/A | N/A | N/A | N/A |
+| [1–15 October 2025](2025-10-15-EMG.html) | EMG | 1.2% | N/A | N/A | N/A | N/A |
 | [13–14 October 2025](2025-10-14-Demopolis.html) | Demopolis <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [8–13 October 2025](2025-10-13-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [7–9 October 2025](2025-10-09-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
@@ -31,13 +31,13 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [1–6 October 2025](2025-10-06-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [2–5 October 2025](2025-10-05-BiDiMedia.html) | BiDiMedia | 0.0% | N/A | N/A | N/A | N/A |
 | [2–3 October 2025](2025-10-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
-| [17 September–1 October 2025](2025-10-01-EMG.html) | EMG | 0.0% | N/A | N/A | N/A | N/A |
+| [17 September–1 October 2025](2025-10-01-EMG.html) | EMG | 1.1% | N/A | N/A | N/A | N/A |
 | [24–29 September 2025](2025-09-29-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [22–26 September 2025](2025-09-26-Ixè.html) | Ixè | 0.0% | N/A | N/A | N/A | N/A |
 | [23–25 September 2025](2025-09-25-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
 | [24–25 September 2025](2025-09-25-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [17–22 September 2025](2025-09-22-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
-| [18–22 September 2025](2025-09-22-BiDiMedia.html) | BiDiMedia | 0.5% | N/A | N/A | N/A | N/A |
+| [18–22 September 2025](2025-09-22-BiDiMedia.html) | BiDiMedia | 0.0% | N/A | N/A | N/A | N/A |
 | [16–18 September 2025](2025-09-18-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
 | [17–18 September 2025](2025-09-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [15–18 September 2025](2025-09-18-DemosPi.html) | Demos & Pi <br> La Repubblica | 0.0% | N/A | N/A | N/A | N/A |
@@ -87,7 +87,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [10–11 June 2025](2025-06-11-Eumetra.html) | Eumetra <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [4–9 June 2025](2025-06-09-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [6 June 2025](2025-06-06-EMG.html) | EMG <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
-| [1–5 June 2025](2025-06-05-BiDiMedia.html) | BiDiMedia | 0.5% | N/A | N/A | N/A | N/A |
+| [1–5 June 2025](2025-06-05-BiDiMedia.html) | BiDiMedia | 0.0% | N/A | N/A | N/A | N/A |
 | [3–4 June 2025](2025-06-04-Eumetra.html) | Eumetra <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [3 June 2025](2025-06-03-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
 | [28 May–2 June 2025](2025-06-02-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
@@ -169,7 +169,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [24–25 February 2025](2025-02-25-Piepoli.html) | Piepoli | 0.0% | N/A | N/A | N/A | N/A |
 | [25 February 2025](2025-02-25-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 0.0% | N/A | N/A | N/A | N/A |
 | [19–24 February 2025](2025-02-24-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
-| [22–24 February 2025](2025-02-24-BiDiMedia.html) | BiDiMedia | 0.7% | N/A | N/A | N/A | N/A |
+| [22–24 February 2025](2025-02-24-BiDiMedia.html) | BiDiMedia | 0.0% | N/A | N/A | N/A | N/A |
 | [18–20 February 2025](2025-02-20-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
 | [19–20 February 2025](2025-02-20-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [17–20 February 2025](2025-02-20-BiDiMedia.html) | BiDiMedia | 0.0% | N/A | N/A | N/A | N/A |
@@ -320,13 +320,13 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 ### Probability Mass Function
 
-The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Italexit–Per l’Italia con Paragone (*).
+The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Partito Liberaldemocratico (RE).
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 47% | 100% | Last Result |
-| 0.5–1.5% | 53% | 53% | Median |
-| 1.5–2.5% | 0.2% | 0.2% |  |
+| 0.0–0.5% | 31% | 100% | Last Result |
+| 0.5–1.5% | 68% | 69% | Median |
+| 1.5–2.5% | 0.5% | 0.5% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -648,9 +648,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-italexit–perl’italiaconparagone.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-partitoliberaldemocraticore.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average.html) for Italexit–Per l’Italia con Paragone (*).
+The following table shows the probability mass function per seat for the [poll average](average.html) for Partito Liberaldemocratico (RE).
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
