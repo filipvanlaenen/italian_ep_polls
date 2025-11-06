@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.9% | 27.7–32.1% | 27.1–32.7% | 26.5–33.2% | 25.4–34.3% |
+| N/A | [Poll Average](average.html) | 29.9% | 27.7–32.1% | 27.0–32.7% | 26.5–33.3% | 25.4–34.3% |
+| [29 October–3 November 2025](2025-11-03-SWG.html) | SWG <br> La7 | 31.4% | 29.7–33.2% | 29.2–33.7% | 28.9–34.1% | 28.1–35.0% |
+| [30–31 October 2025](2025-10-31-YouTrend.html) | YouTrend <br> Sky TG24 | 29.4% | 27.4–31.5% | 26.8–32.1% | 26.3–32.6% | 25.4–33.7% |
+| [28–30 October 2025](2025-10-30-TermometroPolitico.html) | Termometro Politico | 30.0% | 29.0–31.1% | 28.7–31.4% | 28.4–31.6% | 27.9–32.2% |
 | [29–30 October 2025](2025-10-30-Tecnè.html) | Tecnè <br> Agenzia Dire | 31.0% | 29.2–32.9% | 28.7–33.5% | 28.2–33.9% | 27.3–34.9% |
 | [27–30 October 2025](2025-10-30-Ipsos.html) | Ipsos <br> Corriere della Sera | 28.0% | 26.2–29.9% | 25.7–30.4% | 25.3–30.9% | 24.5–31.8% |
 | [22–27 October 2025](2025-10-27-SWG.html) | SWG <br> La7 | 31.2% | 29.5–32.9% | 29.0–33.4% | 28.6–33.9% | 27.8–34.7% |
@@ -352,13 +355,13 @@ The following table shows the probability mass function per percentage block of 
 | 24.5–25.5% | 0.5% | 99.9% |  |
 | 25.5–26.5% | 2% | 99.4% |  |
 | 26.5–27.5% | 6% | 97% |  |
-| 27.5–28.5% | 12% | 92% |  |
-| 28.5–29.5% | 20% | 80% |  |
-| 29.5–30.5% | 24% | 60% | Median |
+| 27.5–28.5% | 12% | 91% |  |
+| 28.5–29.5% | 20% | 79% |  |
+| 29.5–30.5% | 24% | 59% | Median |
 | 30.5–31.5% | 19% | 35% |  |
-| 31.5–32.5% | 10% | 16% |  |
+| 31.5–32.5% | 10% | 17% |  |
 | 32.5–33.5% | 4% | 6% |  |
-| 33.5–34.5% | 1.3% | 2% |  |
+| 33.5–34.5% | 1.4% | 2% |  |
 | 34.5–35.5% | 0.3% | 0.3% |  |
 | 35.5–36.5% | 0% | 0% |  |
 | 36.5–37.5% | 0% | 0% |  |
@@ -373,9 +376,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 25 | 23–27 | 23–28 | 22–28 | 21–30 |
-| [29–30 October 2025](2025-10-30-Tecnè.html) | Tecnè <br> Agenzia Dire | 26 | 24–27 | 23–28 | 23–28 | 22–29 |
-| [27–30 October 2025](2025-10-30-Ipsos.html) | Ipsos <br> Corriere della Sera | 23 | 22–26 | 21–26 | 21–26 | 20–26 |
-| [22–27 October 2025](2025-10-27-SWG.html) | SWG <br> La7 | 27 | 25–28 | 25–28 | 24–28 | 24–29 |
+| [29 October–3 November 2025](2025-11-03-SWG.html) | SWG <br> La7 | 26 | 25–28 | 25–29 | 24–30 | 24–30 |
+| [30–31 October 2025](2025-10-31-YouTrend.html) | YouTrend <br> Sky TG24 | 24 | 22–26 | 22–26 | 21–27 | 20–29 |
+| [28–30 October 2025](2025-10-30-TermometroPolitico.html) | Termometro Politico | 26 | 25–27 | 25–27 | 24–28 | 24–28 |
+| [29–30 October 2025](2025-10-30-Tecnè.html) | Tecnè <br> Agenzia Dire | 26 | 24–27 | 23–28 | 23–28 | 22–30 |
+| [27–30 October 2025](2025-10-30-Ipsos.html) | Ipsos <br> Corriere della Sera | 23 | 22–25 | 22–26 | 21–26 | 20–26 |
+| [22–27 October 2025](2025-10-27-SWG.html) | SWG <br> La7 | 27 | 25–28 | 24–28 | 24–29 | 23–29 |
 | [22–26 October 2025](2025-10-26-BiDiMedia.html) | BiDiMedia | 27 | 24–27 | 24–27 | 24–27 | 23–27 |
 | [21–23 October 2025](2025-10-23-TermometroPolitico.html) | Termometro Politico | 25 | 25–26 | 25–27 | 25–27 | 24–27 |
 | [22–23 October 2025](2025-10-23-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
@@ -708,17 +714,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 0% | 100% |  |
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
-| 20 | 0.2% | 100% |  |
-| 21 | 0.5% | 99.8% |  |
-| 22 | 3% | 99.2% |  |
-| 23 | 10% | 96% |  |
-| 24 | 17% | 86% |  |
-| 25 | 30% | 69% | Median |
-| 26 | 14% | 40% |  |
-| 27 | 18% | 25% |  |
-| 28 | 6% | 7% |  |
-| 29 | 0.4% | 1.1% |  |
-| 30 | 0.7% | 0.8% |  |
+| 20 | 0.3% | 100% |  |
+| 21 | 0.7% | 99.7% |  |
+| 22 | 3% | 99.1% |  |
+| 23 | 11% | 96% |  |
+| 24 | 21% | 85% |  |
+| 25 | 25% | 64% | Median |
+| 26 | 15% | 39% |  |
+| 27 | 17% | 25% |  |
+| 28 | 6% | 8% |  |
+| 29 | 0.8% | 2% |  |
+| 30 | 1.0% | 1.0% |  |
 | 31 | 0% | 0% |  |
 
 
