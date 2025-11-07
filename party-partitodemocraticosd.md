@@ -366,24 +366,24 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 16–20 | 16–20 | 15–20 | 15–22 |
+| N/A | [Poll Average](average.html) | 18 | 16–20 | 16–20 | 15–21 | 15–21 |
 | [29 October–3 November 2025](2025-11-03-SWG.html) | SWG <br> La7 | 18 | 17–20 | 17–20 | 17–21 | 16–21 |
 | [30–31 October 2025](2025-10-31-YouTrend.html) | YouTrend <br> Sky TG24 | 17 | 15–18 | 15–19 | 15–19 | 14–20 |
 | [28–30 October 2025](2025-10-30-TermometroPolitico.html) | Termometro Politico | 19 | 19–20 | 18–20 | 18–20 | 17–21 |
 | [29–30 October 2025](2025-10-30-Tecnè.html) | Tecnè <br> Agenzia Dire | 18 | 16–19 | 16–20 | 16–20 | 15–21 |
 | [27–30 October 2025](2025-10-30-Ipsos.html) | Ipsos <br> Corriere della Sera | 17 | 16–19 | 15–19 | 15–19 | 15–20 |
 | [22–27 October 2025](2025-10-27-SWG.html) | SWG <br> La7 | 18 | 17–20 | 17–20 | 17–21 | 16–22 |
-| [22–26 October 2025](2025-10-26-BiDiMedia.html) | BiDiMedia | 17 | 17–19 | 17–20 | 17–21 | 16–21 |
+| [22–26 October 2025](2025-10-26-BiDiMedia.html) | BiDiMedia | 19 | 17–20 | 17–21 | 17–21 | 17–21 |
 | [21–23 October 2025](2025-10-23-TermometroPolitico.html) | Termometro Politico | 20 | 18–20 | 18–20 | 18–20 | 18–20 |
 | [22–23 October 2025](2025-10-23-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
-| [21–22 October 2025](2025-10-22-Eumetra.html) | Eumetra <br> La7 | 19 | 16–20 | 15–21 | 15–21 | 15–22 |
+| [21–22 October 2025](2025-10-22-Eumetra.html) | Eumetra <br> La7 | 19 | 17–20 | 16–20 | 16–21 | 15–22 |
 | [15–20 October 2025](2025-10-20-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [15–19 October 2025](2025-10-19-EMG.html) | EMG | 19 | 17–19 | 16–19 | 16–21 | 16–22 |
+| [15–19 October 2025](2025-10-19-EMG.html) | EMG | 19 | 17–19 | 16–21 | 16–21 | 16–22 |
 | [15–19 October 2025](2025-10-19-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
 | [14–16 October 2025](2025-10-16-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [14–15 October 2025](2025-10-15-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [1–15 October 2025](2025-10-15-EMG.html) | EMG |  |  |  |  |  |
-| [13–14 October 2025](2025-10-14-Demopolis.html) | Demopolis <br> La7 | 19 | 18–20 | 17–20 | 17–20 | 16–21 |
+| [13–14 October 2025](2025-10-14-Demopolis.html) | Demopolis <br> La7 | 19 | 18–19 | 17–20 | 17–20 | 16–21 |
 | [8–13 October 2025](2025-10-13-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [7–9 October 2025](2025-10-09-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [7–8 October 2025](2025-10-08-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
@@ -702,12 +702,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0.2% | 100% |  |
 | 15 | 3% | 99.8% |  |
 | 16 | 8% | 97% |  |
-| 17 | 27% | 89% |  |
-| 18 | 22% | 62% | Median |
-| 19 | 29% | 41% |  |
-| 20 | 10% | 12% |  |
-| 21 | 1.5% | 2% |  |
-| 22 | 0.5% | 0.5% |  |
+| 17 | 20% | 90% |  |
+| 18 | 20% | 69% | Median |
+| 19 | 35% | 49% |  |
+| 20 | 11% | 14% |  |
+| 21 | 2% | 3% |  |
+| 22 | 0.3% | 0.4% |  |
 | 23 | 0.1% | 0.1% |  |
 | 24 | 0% | 0% |  |
 

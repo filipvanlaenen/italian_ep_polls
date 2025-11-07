@@ -352,12 +352,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [29–30 October 2025](2025-10-30-Tecnè.html) | Tecnè <br> Agenzia Dire | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
 | [27–30 October 2025](2025-10-30-Ipsos.html) | Ipsos <br> Corriere della Sera | 3 | 3–4 | 3–4 | 2–4 | 2–5 |
 | [22–27 October 2025](2025-10-27-SWG.html) | SWG <br> La7 | 4 | 3–5 | 3–5 | 3–5 | 2–5 |
-| [22–26 October 2025](2025-10-26-BiDiMedia.html) | BiDiMedia | 4 | 3–4 | 3–5 | 3–6 | 2–6 |
+| [22–26 October 2025](2025-10-26-BiDiMedia.html) | BiDiMedia | 3 | 2–4 | 2–4 | 2–5 | 2–6 |
 | [21–23 October 2025](2025-10-23-TermometroPolitico.html) | Termometro Politico | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
 | [22–23 October 2025](2025-10-23-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [21–22 October 2025](2025-10-22-Eumetra.html) | Eumetra <br> La7 | 3 | 3–4 | 3–5 | 2–5 | 2–5 |
 | [15–20 October 2025](2025-10-20-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [15–19 October 2025](2025-10-19-EMG.html) | EMG | 2 | 2–3 | 2–4 | 2–4 | 2–5 |
+| [15–19 October 2025](2025-10-19-EMG.html) | EMG | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | [15–19 October 2025](2025-10-19-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
 | [14–16 October 2025](2025-10-16-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [14–15 October 2025](2025-10-15-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
@@ -667,10 +667,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 11% | 100% |  |
-| 3 | 45% | 89% | Median |
-| 4 | 40% | 44% |  |
-| 5 | 3% | 4% |  |
-| 6 | 0.5% | 0.5% |  |
+| 3 | 49% | 89% | Median |
+| 4 | 37% | 40% |  |
+| 5 | 3% | 3% |  |
+| 6 | 0.2% | 0.2% |  |
 | 7 | 0% | 0% |  |
 
 

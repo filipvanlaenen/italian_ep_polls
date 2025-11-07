@@ -382,12 +382,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [29–30 October 2025](2025-10-30-Tecnè.html) | Tecnè <br> Agenzia Dire | 26 | 24–27 | 23–28 | 23–28 | 22–30 |
 | [27–30 October 2025](2025-10-30-Ipsos.html) | Ipsos <br> Corriere della Sera | 23 | 22–25 | 22–26 | 21–26 | 20–26 |
 | [22–27 October 2025](2025-10-27-SWG.html) | SWG <br> La7 | 27 | 25–28 | 24–28 | 24–29 | 23–29 |
-| [22–26 October 2025](2025-10-26-BiDiMedia.html) | BiDiMedia | 27 | 24–27 | 24–27 | 24–27 | 23–27 |
+| [22–26 October 2025](2025-10-26-BiDiMedia.html) | BiDiMedia | 27 | 24–27 | 23–27 | 23–27 | 22–27 |
 | [21–23 October 2025](2025-10-23-TermometroPolitico.html) | Termometro Politico | 25 | 25–26 | 25–27 | 25–27 | 24–27 |
 | [22–23 October 2025](2025-10-23-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
-| [21–22 October 2025](2025-10-22-Eumetra.html) | Eumetra <br> La7 | 26 | 24–28 | 23–30 | 22–30 | 22–30 |
+| [21–22 October 2025](2025-10-22-Eumetra.html) | Eumetra <br> La7 | 26 | 24–28 | 24–29 | 23–29 | 22–30 |
 | [15–20 October 2025](2025-10-20-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [15–19 October 2025](2025-10-19-EMG.html) | EMG | 25 | 24–26 | 24–26 | 24–27 | 23–28 |
+| [15–19 October 2025](2025-10-19-EMG.html) | EMG | 25 | 24–27 | 23–27 | 23–27 | 21–28 |
 | [15–19 October 2025](2025-10-19-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
 | [14–16 October 2025](2025-10-16-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [14–15 October 2025](2025-10-15-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
@@ -715,16 +715,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0.3% | 100% |  |
-| 21 | 0.7% | 99.7% |  |
-| 22 | 3% | 99.1% |  |
-| 23 | 11% | 96% |  |
-| 24 | 21% | 85% |  |
-| 25 | 25% | 64% | Median |
-| 26 | 15% | 39% |  |
-| 27 | 17% | 25% |  |
-| 28 | 6% | 8% |  |
-| 29 | 0.8% | 2% |  |
-| 30 | 1.0% | 1.0% |  |
+| 21 | 0.8% | 99.7% |  |
+| 22 | 3% | 98.9% |  |
+| 23 | 12% | 96% |  |
+| 24 | 18% | 83% |  |
+| 25 | 26% | 65% | Median |
+| 26 | 15% | 40% |  |
+| 27 | 18% | 24% |  |
+| 28 | 4% | 6% |  |
+| 29 | 1.1% | 2% |  |
+| 30 | 0.5% | 0.5% |  |
 | 31 | 0% | 0% |  |
 
 
