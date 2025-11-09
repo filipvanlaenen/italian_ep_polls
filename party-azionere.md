@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.2% | 2.5–4.3% | 2.3–4.8% | 2.2–5.2% | 1.9–5.9% |
+| N/A | [Poll Average](average.html) | 3.2% | 2.5–4.4% | 2.3–4.8% | 2.2–5.2% | 1.9–5.9% |
+| [4–6 November 2025](2025-11-06-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
 | [29 October–3 November 2025](2025-11-03-SWG.html) | SWG <br> La7 | 3.1% | 2.5–3.8% | 2.4–4.0% | 2.2–4.2% | 2.0–4.6% |
 | [30–31 October 2025](2025-10-31-YouTrend.html) | YouTrend <br> Sky TG24 | 4.5% | 3.7–5.6% | 3.5–5.9% | 3.3–6.2% | 2.9–6.7% |
 | [28–30 October 2025](2025-10-30-TermometroPolitico.html) | Termometro Politico | 3.2% | 2.8–3.6% | 2.7–3.8% | 2.6–3.9% | 2.5–4.1% |
@@ -330,8 +331,8 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 11% | 100% |  |
-| 2.5–3.5% | 58% | 89% | Median |
-| 3.5–4.5% | 24% | 31% |  |
+| 2.5–3.5% | 57% | 89% | Median |
+| 3.5–4.5% | 25% | 32% |  |
 | 4.5–5.5% | 6% | 7% |  |
 | 5.5–6.5% | 1.1% | 1.2% |  |
 | 6.5–7.5% | 0.1% | 0.1% |  |
@@ -346,7 +347,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–3 | 0–4 | 0–4 | 0–5 |
+| N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [4–6 November 2025](2025-11-06-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [29 October–3 November 2025](2025-11-03-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0–4 | 0–4 |
 | [30–31 October 2025](2025-10-31-YouTrend.html) | YouTrend <br> Sky TG24 | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
 | [28–30 October 2025](2025-10-30-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0–4 |
