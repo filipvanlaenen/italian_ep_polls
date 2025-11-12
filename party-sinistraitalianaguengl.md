@@ -10,13 +10,18 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.4% | 1.8–3.0% | 1.7–3.2% | 1.5–3.4% | 1.3–3.9% |
+| N/A | [Poll Average](average.html) | 2.4% | 1.8–3.0% | 1.7–3.3% | 1.5–3.5% | 1.3–3.9% |
+| [5–10 November 2025](2025-11-10-SWG.html) | SWG <br> La7 | 2.4% | 1.9–3.1% | 1.8–3.3% | 1.7–3.5% | 1.5–3.8% |
+| [4–6 November 2025](2025-11-06-TermometroPolitico.html) | Termometro Politico | 2.4% | 2.0–2.8% | 1.9–3.0% | 1.8–3.1% | 1.7–3.3% |
 | [4–6 November 2025](2025-11-06-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
+| [4–5 November 2025](2025-11-05-Eumetra.html) | Eumetra <br> La7 | 2.4% | 1.8–3.2% | 1.6–3.5% | 1.5–3.7% | 1.3–4.1% |
 | [29 October–3 November 2025](2025-11-03-SWG.html) | SWG <br> La7 | 2.4% | 1.9–3.1% | 1.8–3.3% | 1.7–3.5% | 1.5–3.8% |
+| [30 October–2 November 2025](2025-11-02-BiDiMedia.html) | BiDiMedia | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
 | [30–31 October 2025](2025-10-31-YouTrend.html) | YouTrend <br> Sky TG24 | 2.4% | 1.8–3.2% | 1.6–3.5% | 1.5–3.7% | 1.3–4.1% |
 | [28–30 October 2025](2025-10-30-TermometroPolitico.html) | Termometro Politico | 2.4% | 2.0–2.7% | 2.0–2.9% | 1.9–3.0% | 1.7–3.2% |
 | [29–30 October 2025](2025-10-30-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
 | [27–30 October 2025](2025-10-30-Ipsos.html) | Ipsos <br> Corriere della Sera | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
+| [28–29 October 2025](2025-10-29-Eumetra.html) | Eumetra <br> La7 | 2.4% | 1.8–3.2% | 1.6–3.5% | 1.5–3.7% | 1.3–4.1% |
 | [22–27 October 2025](2025-10-27-SWG.html) | SWG <br> La7 | 2.4% | 1.9–3.1% | 1.8–3.3% | 1.7–3.5% | 1.5–3.8% |
 | [22–26 October 2025](2025-10-26-BiDiMedia.html) | BiDiMedia | 2.4% | 1.9–3.2% | 1.7–3.4% | 1.6–3.6% | 1.4–3.9% |
 | [21–23 October 2025](2025-10-23-TermometroPolitico.html) | Termometro Politico | 2.3% | 2.0–2.7% | 1.9–2.8% | 1.8–2.9% | 1.7–3.1% |
@@ -330,8 +335,8 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 3% | 100% |  |
-| 1.5–2.5% | 61% | 97% | Median |
-| 2.5–3.5% | 34% | 36% |  |
+| 1.5–2.5% | 60% | 97% | Median |
+| 2.5–3.5% | 35% | 37% |  |
 | 3.5–4.5% | 2% | 2% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
@@ -344,13 +349,18 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
+| [5–10 November 2025](2025-11-10-SWG.html) | SWG <br> La7 | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
+| [4–6 November 2025](2025-11-06-TermometroPolitico.html) | Termometro Politico | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [4–6 November 2025](2025-11-06-Tecnè.html) | Tecnè <br> Agenzia Dire | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| [4–5 November 2025](2025-11-05-Eumetra.html) | Eumetra <br> La7 | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | [29 October–3 November 2025](2025-11-03-SWG.html) | SWG <br> La7 | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
+| [30 October–2 November 2025](2025-11-02-BiDiMedia.html) | BiDiMedia | 2 | 2–3 | 1–3 | 1–4 | 1–4 |
 | [30–31 October 2025](2025-10-31-YouTrend.html) | YouTrend <br> Sky TG24 | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | [28–30 October 2025](2025-10-30-TermometroPolitico.html) | Termometro Politico | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | [29–30 October 2025](2025-10-30-Tecnè.html) | Tecnè <br> Agenzia Dire | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [27–30 October 2025](2025-10-30-Ipsos.html) | Ipsos <br> Corriere della Sera | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| [28–29 October 2025](2025-10-29-Eumetra.html) | Eumetra <br> La7 | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | [22–27 October 2025](2025-10-27-SWG.html) | SWG <br> La7 | 2 | 2–3 | 2–3 | 1–3 | 1–4 |
 | [22–26 October 2025](2025-10-26-BiDiMedia.html) | BiDiMedia | 3 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [21–23 October 2025](2025-10-23-TermometroPolitico.html) | Termometro Politico | 3 | 2–3 | 2–3 | 1–3 | 1–3 |
@@ -665,10 +675,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 10% | 100% |  |
-| 2 | 59% | 90% | Median |
-| 3 | 30% | 30% |  |
-| 4 | 0.4% | 0.4% |  |
+| 1 | 11% | 100% |  |
+| 2 | 65% | 89% | Median |
+| 3 | 23% | 24% |  |
+| 4 | 0.8% | 0.8% |  |
 | 5 | 0% | 0% |  |
 
 
