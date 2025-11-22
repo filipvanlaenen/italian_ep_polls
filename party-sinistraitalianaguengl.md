@@ -355,7 +355,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | [12–17 November 2025](2025-11-17-SWG.html) | SWG <br> La7 | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
-| [11–13 November 2025](2025-11-13-TermometroPolitico.html) | Termometro Politico | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [11–13 November 2025](2025-11-13-TermometroPolitico.html) | Termometro Politico | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [29 October–13 November 2025](2025-11-13-EMG.html) | EMG | 2 | 2–3 | 2–3 | 1–3 | 1–4 |
 | [11–12 November 2025](2025-11-12-Eumetra.html) | Eumetra <br> La7 | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | [5–10 November 2025](2025-11-10-SWG.html) | SWG <br> La7 | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
@@ -683,10 +683,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 10% | 100% |  |
-| 2 | 65% | 90% | Median |
+| 1 | 9% | 100% |  |
+| 2 | 66% | 91% | Median |
 | 3 | 24% | 25% |  |
-| 4 | 1.1% | 1.1% |  |
+| 4 | 0.9% | 1.0% |  |
 | 5 | 0% | 0% |  |
 
 

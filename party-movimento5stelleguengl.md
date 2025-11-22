@@ -366,10 +366,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 9–13 | 9–13 | 9–13 | 8–14 |
-| [12–17 November 2025](2025-11-17-SWG.html) | SWG <br> La7 | 11 | 10–12 | 10–12 | 9–13 | 9–14 |
+| N/A | [Poll Average](average.html) | 11 | 9–12 | 9–13 | 9–13 | 8–14 |
+| [12–17 November 2025](2025-11-17-SWG.html) | SWG <br> La7 | 11 | 10–12 | 9–12 | 9–12 | 9–13 |
 | [11–13 November 2025](2025-11-13-TermometroPolitico.html) | Termometro Politico | 10 | 10–11 | 9–11 | 9–12 | 9–12 |
-| [29 October–13 November 2025](2025-11-13-EMG.html) | EMG | 13 | 10–13 | 10–13 | 10–13 | 10–14 |
+| [29 October–13 November 2025](2025-11-13-EMG.html) | EMG | 12 | 11–13 | 10–13 | 10–13 | 10–14 |
 | [11–12 November 2025](2025-11-12-Eumetra.html) | Eumetra <br> La7 | 11 | 10–12 | 9–12 | 9–13 | 8–13 |
 | [5–10 November 2025](2025-11-10-SWG.html) | SWG <br> La7 | 11 | 10–12 | 10–13 | 10–13 | 9–13 |
 | [4–6 November 2025](2025-11-06-TermometroPolitico.html) | Termometro Politico | 10 | 10–12 | 9–12 | 9–12 | 9–12 |
@@ -705,11 +705,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0.1% | 100% |  |
 | 8 | 2% | 99.9% |  |
 | 9 | 10% | 98% |  |
-| 10 | 31% | 89% |  |
-| 11 | 32% | 58% | Median |
-| 12 | 14% | 25% |  |
-| 13 | 10% | 11% |  |
-| 14 | 0.7% | 0.7% |  |
+| 10 | 28% | 89% |  |
+| 11 | 34% | 60% | Median |
+| 12 | 19% | 26% |  |
+| 13 | 7% | 7% |  |
+| 14 | 0.6% | 0.6% |  |
 | 15 | 0% | 0% |  |
 
 
