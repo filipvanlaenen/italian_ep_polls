@@ -10,7 +10,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.8% | 11.3–14.5% | 10.9–15.0% | 10.5–15.4% | 9.8–16.3% |
+| N/A | [Poll Average](average.html) | 13.0% | 11.3–14.6% | 10.8–15.1% | 10.5–15.5% | 9.7–16.3% |
+| [26–27 November 2025](2025-11-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 11.5% | 10.3–12.9% | 10.0–13.3% | 9.7–13.6% | 9.1–14.3% |
+| [20–27 November 2025](2025-11-27-Ixè.html) | Ixè | 13.0% | 11.7–14.5% | 11.4–14.9% | 11.1–15.2% | 10.5–16.0% |
+| [24–27 November 2025](2025-11-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 13.5% | 12.2–15.0% | 11.8–15.4% | 11.5–15.8% | 10.9–16.5% |
+| [19–24 November 2025](2025-11-24-SWG.html) | SWG <br> La7 | 12.5% | N/A | N/A | N/A | N/A |
+| [18–20 November 2025](2025-11-20-TermometroPolitico.html) | Termometro Politico | 12.3% | N/A | N/A | N/A | N/A |
 | [12–17 November 2025](2025-11-17-SWG.html) | SWG <br> La7 | 12.8% | 11.7–14.2% | 11.3–14.5% | 11.1–14.9% | 10.5–15.5% |
 | [11–13 November 2025](2025-11-13-TermometroPolitico.html) | Termometro Politico | 12.0% | 11.2–12.9% | 11.0–13.1% | 10.8–13.3% | 10.4–13.7% |
 | [29 October–13 November 2025](2025-11-13-EMG.html) | EMG | 13.3% | 12.0–14.8% | 11.6–15.2% | 11.3–15.6% | 10.7–16.3% |
@@ -44,6 +49,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [1–6 October 2025](2025-10-06-SWG.html) | SWG <br> La7 | 13.6% | N/A | N/A | N/A | N/A |
 | [2–5 October 2025](2025-10-05-BiDiMedia.html) | BiDiMedia | 13.0% | N/A | N/A | N/A | N/A |
 | [2–3 October 2025](2025-10-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 12.8% | N/A | N/A | N/A | N/A |
+| [2 October 2025](2025-10-02-TermometroPolitico.html) | Termometro Politico | 12.5% | N/A | N/A | N/A | N/A |
 | [17 September–1 October 2025](2025-10-01-EMG.html) | EMG | 13.1% | N/A | N/A | N/A | N/A |
 | [24–29 September 2025](2025-09-29-SWG.html) | SWG <br> La7 | 13.7% | N/A | N/A | N/A | N/A |
 | [22–26 September 2025](2025-09-26-Ixè.html) | Ixè | 14.1% | 12.8–15.6% | 12.4–16.0% | 12.1–16.4% | 11.5–17.1% |
@@ -347,14 +353,14 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0.3% | 100% |  |
-| 9.5–10.5% | 2% | 99.7% |  |
-| 10.5–11.5% | 12% | 97% |  |
-| 11.5–12.5% | 28% | 85% |  |
-| 12.5–13.5% | 29% | 57% | Median |
-| 13.5–14.5% | 19% | 28% |  |
-| 14.5–15.5% | 7% | 9% |  |
+| 9.5–10.5% | 3% | 99.7% |  |
+| 10.5–11.5% | 11% | 97% |  |
+| 11.5–12.5% | 23% | 86% |  |
+| 12.5–13.5% | 30% | 63% | Median |
+| 13.5–14.5% | 22% | 33% |  |
+| 14.5–15.5% | 9% | 11% |  |
 | 15.5–16.5% | 2% | 2% |  |
-| 16.5–17.5% | 0.2% | 0.3% |  |
+| 16.5–17.5% | 0.3% | 0.3% |  |
 | 17.5–18.5% | 0% | 0% |  |
 
 
@@ -367,6 +373,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11 | 9–12 | 9–13 | 9–13 | 8–14 |
+| [26–27 November 2025](2025-11-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 10 | 8–11 | 8–11 | 8–11 | 8–12 |
+| [20–27 November 2025](2025-11-27-Ixè.html) | Ixè | 11 | 10–12 | 10–12 | 9–13 | 9–14 |
+| [24–27 November 2025](2025-11-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 11 | 10–12 | 9–13 | 9–13 | 9–14 |
+| [19–24 November 2025](2025-11-24-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [18–20 November 2025](2025-11-20-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [12–17 November 2025](2025-11-17-SWG.html) | SWG <br> La7 | 11 | 10–12 | 9–12 | 9–12 | 9–13 |
 | [11–13 November 2025](2025-11-13-TermometroPolitico.html) | Termometro Politico | 10 | 10–11 | 9–11 | 9–12 | 9–12 |
 | [29 October–13 November 2025](2025-11-13-EMG.html) | EMG | 12 | 11–13 | 10–13 | 10–13 | 10–14 |
@@ -400,6 +411,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [1–6 October 2025](2025-10-06-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [2–5 October 2025](2025-10-05-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
 | [2–3 October 2025](2025-10-03-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [2 October 2025](2025-10-02-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [17 September–1 October 2025](2025-10-01-EMG.html) | EMG |  |  |  |  |  |
 | [24–29 September 2025](2025-09-29-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [22–26 September 2025](2025-09-26-Ixè.html) | Ixè | 12 | 10–13 | 10–13 | 10–14 | 10–14 |
@@ -704,11 +716,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0.1% | 100% |  |
 | 8 | 2% | 99.9% |  |
-| 9 | 10% | 98% |  |
-| 10 | 28% | 89% |  |
-| 11 | 34% | 60% | Median |
-| 12 | 19% | 26% |  |
-| 13 | 7% | 7% |  |
+| 9 | 9% | 98% |  |
+| 10 | 27% | 89% |  |
+| 11 | 29% | 62% | Median |
+| 12 | 24% | 33% |  |
+| 13 | 9% | 9% |  |
 | 14 | 0.6% | 0.6% |  |
 | 15 | 0% | 0% |  |
 
