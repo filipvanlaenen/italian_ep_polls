@@ -12,6 +12,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3.7% | 2.9–4.5% | 2.8–4.8% | 2.6–5.0% | 2.3–5.5% |
 | [26 November–1 December 2025](2025-12-01-SWG.html) | SWG <br> La7 | 3.8% | 3.2–4.6% | 3.0–4.9% | 2.9–5.1% | 2.6–5.5% |
+| [25–27 November 2025](2025-11-27-TermometroPolitico.html) | Termometro Politico | 3.5% | 3.0–4.1% | 2.9–4.2% | 2.8–4.4% | 2.6–4.6% |
 | [26–27 November 2025](2025-11-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
 | [20–27 November 2025](2025-11-27-Ixè.html) | Ixè | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.9–5.3% | 2.6–5.8% |
 | [24–27 November 2025](2025-11-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
@@ -348,8 +349,8 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 41% | 98% |  |
-| 3.5–4.5% | 48% | 57% | Median |
+| 2.5–3.5% | 40% | 98% |  |
+| 3.5–4.5% | 49% | 58% | Median |
 | 4.5–5.5% | 9% | 9% |  |
 | 5.5–6.5% | 0.5% | 0.5% |  |
 | 6.5–7.5% | 0% | 0% |  |
@@ -365,12 +366,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3–4 | 3–5 | 2–5 | 2–5 |
 | [26 November–1 December 2025](2025-12-01-SWG.html) | SWG <br> La7 | 4 | 3–5 | 3–5 | 3–5 | 2–6 |
+| [25–27 November 2025](2025-11-27-TermometroPolitico.html) | Termometro Politico | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | [26–27 November 2025](2025-11-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | [20–27 November 2025](2025-11-27-Ixè.html) | Ixè | 4 | 3–4 | 3–5 | 2–5 | 2–5 |
 | [24–27 November 2025](2025-11-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
 | [25–26 November 2025](2025-11-26-Eumetra.html) | Eumetra <br> La7 | 4 | 3–4 | 2–5 | 2–5 | 2–5 |
-| [19–24 November 2025](2025-11-24-SWG.html) | SWG <br> La7 | 4 | 3–4 | 3–5 | 2–5 | 2–6 |
-| [18–20 November 2025](2025-11-20-TermometroPolitico.html) | Termometro Politico | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [19–24 November 2025](2025-11-24-SWG.html) | SWG <br> La7 | 4 | 3–4 | 3–4 | 2–5 | 2–5 |
+| [18–20 November 2025](2025-11-20-TermometroPolitico.html) | Termometro Politico | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [12–17 November 2025](2025-11-17-SWG.html) | SWG <br> La7 | 4 | 3–5 | 3–5 | 3–5 | 2–5 |
 | [11–13 November 2025](2025-11-13-TermometroPolitico.html) | Termometro Politico | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [29 October–13 November 2025](2025-11-13-EMG.html) | EMG | 3 | 3–4 | 3–5 | 3–5 | 2–5 |
@@ -703,8 +705,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 4% | 100% |  |
-| 3 | 54% | 95% | Median |
-| 4 | 36% | 42% |  |
+| 3 | 55% | 96% | Median |
+| 4 | 34% | 40% |  |
 | 5 | 5% | 6% |  |
 | 6 | 0.2% | 0.2% |  |
 | 7 | 0% | 0% |  |
