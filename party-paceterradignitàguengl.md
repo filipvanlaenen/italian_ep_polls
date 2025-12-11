@@ -11,6 +11,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.1% | 0.9–1.4% | 0.8–1.5% | 0.7–1.6% | 0.6–1.8% |
+| [3–8 December 2025](2025-12-08-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [2–3 December 2025](2025-12-03-Eumetra.html) | Eumetra <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [26 November–1 December 2025](2025-12-01-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [25–27 November 2025](2025-11-27-TermometroPolitico.html) | Termometro Politico | 1.1% | 0.9–1.4% | 0.8–1.5% | 0.7–1.6% | 0.6–1.8% |
 | [26–27 November 2025](2025-11-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
@@ -361,6 +363,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [3–8 December 2025](2025-12-08-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [2–3 December 2025](2025-12-03-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [26 November–1 December 2025](2025-12-01-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [25–27 November 2025](2025-11-27-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [26–27 November 2025](2025-11-27-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |

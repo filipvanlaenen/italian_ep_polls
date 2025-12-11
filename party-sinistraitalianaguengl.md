@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.4% | 1.9–3.1% | 1.7–3.4% | 1.6–3.6% | 1.4–4.0% |
+| N/A | [Poll Average](average.html) | 2.4% | 1.8–3.1% | 1.7–3.3% | 1.6–3.5% | 1.3–3.9% |
+| [3–8 December 2025](2025-12-08-SWG.html) | SWG <br> La7 | 2.4% | 1.9–3.1% | 1.8–3.3% | 1.7–3.5% | 1.5–3.8% |
+| [2–3 December 2025](2025-12-03-Eumetra.html) | Eumetra <br> La7 | 2.4% | 1.8–3.2% | 1.6–3.5% | 1.5–3.7% | 1.3–4.1% |
 | [26 November–1 December 2025](2025-12-01-SWG.html) | SWG <br> La7 | 2.5% | 2.0–3.2% | 1.9–3.4% | 1.8–3.6% | 1.5–3.9% |
 | [25–27 November 2025](2025-11-27-TermometroPolitico.html) | Termometro Politico | 2.3% | 2.0–2.8% | 1.8–2.9% | 1.8–3.0% | 1.6–3.3% |
 | [26–27 November 2025](2025-11-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
@@ -348,11 +350,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 2% | 100% |  |
-| 1.5–2.5% | 56% | 98% | Median |
-| 2.5–3.5% | 39% | 42% |  |
-| 3.5–4.5% | 3% | 3% |  |
+| 1.5–2.5% | 60% | 98% | Median |
+| 2.5–3.5% | 36% | 38% |  |
+| 3.5–4.5% | 2% | 2% |  |
 | 4.5–5.5% | 0% | 0% |  |
-| 5.5–6.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -363,7 +364,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
+| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
+| [3–8 December 2025](2025-12-08-SWG.html) | SWG <br> La7 | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
+| [2–3 December 2025](2025-12-03-Eumetra.html) | Eumetra <br> La7 | 2 | 1–3 | 1–4 | 1–4 | 1–4 |
 | [26 November–1 December 2025](2025-12-01-SWG.html) | SWG <br> La7 | 2 | 1–3 | 1–3 | 1–4 | 1–4 |
 | [25–27 November 2025](2025-11-27-TermometroPolitico.html) | Termometro Politico | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [26–27 November 2025](2025-11-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
@@ -702,9 +705,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 10% | 100% |  |
-| 2 | 64% | 90% | Median |
-| 3 | 25% | 26% |  |
+| 1 | 11% | 100% |  |
+| 2 | 67% | 89% | Median |
+| 3 | 21% | 22% |  |
 | 4 | 1.3% | 1.3% |  |
 | 5 | 0% | 0% |  |
 
