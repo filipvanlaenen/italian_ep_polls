@@ -12,13 +12,16 @@ Last result: **0.0%** (General Election of 9 June 2024)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.1% | 0.9–1.4% | 0.8–1.5% | 0.7–1.6% | 0.6–1.8% |
 | [3–8 December 2025](2025-12-08-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [4–5 December 2025](2025-12-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.0% | N/A | N/A | N/A | N/A |
 | [2–3 December 2025](2025-12-03-Eumetra.html) | Eumetra <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [1–2 December 2025](2025-12-02-EMG.html) | EMG | 0.0% | N/A | N/A | N/A | N/A |
 | [26 November–1 December 2025](2025-12-01-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [25–27 November 2025](2025-11-27-TermometroPolitico.html) | Termometro Politico | 1.1% | 0.9–1.4% | 0.8–1.5% | 0.7–1.6% | 0.6–1.8% |
 | [26–27 November 2025](2025-11-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [20–27 November 2025](2025-11-27-Ixè.html) | Ixè | 0.0% | N/A | N/A | N/A | N/A |
 | [24–27 November 2025](2025-11-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.0% | N/A | N/A | N/A | N/A |
 | [25–26 November 2025](2025-11-26-Eumetra.html) | Eumetra <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [12–26 November 2025](2025-11-26-EMG.html) | EMG | 0.0% | N/A | N/A | N/A | N/A |
 | [19–24 November 2025](2025-11-24-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [18–20 November 2025](2025-11-20-TermometroPolitico.html) | Termometro Politico | 1.0% | 0.8–1.3% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% |
 | [12–17 November 2025](2025-11-17-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
@@ -364,13 +367,16 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [3–8 December 2025](2025-12-08-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [4–5 December 2025](2025-12-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
 | [2–3 December 2025](2025-12-03-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
+| [1–2 December 2025](2025-12-02-EMG.html) | EMG |  |  |  |  |  |
 | [26 November–1 December 2025](2025-12-01-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [25–27 November 2025](2025-11-27-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [26–27 November 2025](2025-11-27-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [20–27 November 2025](2025-11-27-Ixè.html) | Ixè |  |  |  |  |  |
 | [24–27 November 2025](2025-11-27-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
 | [25–26 November 2025](2025-11-26-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
+| [12–26 November 2025](2025-11-26-EMG.html) | EMG |  |  |  |  |  |
 | [19–24 November 2025](2025-11-24-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [18–20 November 2025](2025-11-20-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [12–17 November 2025](2025-11-17-SWG.html) | SWG <br> La7 |  |  |  |  |  |
