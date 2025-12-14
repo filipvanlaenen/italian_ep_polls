@@ -371,7 +371,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [4–5 December 2025](2025-12-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [2–3 December 2025](2025-12-03-Eumetra.html) | Eumetra <br> La7 | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [1–2 December 2025](2025-12-02-EMG.html) | EMG | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [1–2 December 2025](2025-12-02-Demopolis.html) | Demopolis <br> La7 | 0 | 0 | 0 | 0–1 | 0–1 |
+| [1–2 December 2025](2025-12-02-Demopolis.html) | Demopolis <br> La7 | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [26 November–1 December 2025](2025-12-01-SWG.html) | SWG <br> La7 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [25–27 November 2025](2025-11-27-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0–1 |
 | [26–27 November 2025](2025-11-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
