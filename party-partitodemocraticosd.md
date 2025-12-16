@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.0% | 20.3–23.7% | 19.8–24.2% | 19.3–24.6% | 18.5–25.5% |
+| N/A | [Poll Average](average.html) | 22.0% | 20.3–23.7% | 19.8–24.2% | 19.4–24.6% | 18.6–25.5% |
+| [10–11 December 2025](2025-12-11-Tecné.html) | Tecné <br> Agenzia Dire | 21.7% | 20.1–23.4% | 19.6–23.9% | 19.3–24.4% | 18.5–25.2% |
+| [26 November–10 December 2025](2025-12-10-EMG.html) | EMG | 21.2% | 19.6–22.9% | 19.2–23.4% | 18.8–23.9% | 18.0–24.7% |
 | [3–8 December 2025](2025-12-08-SWG.html) | SWG <br> La7 | 22.0% | 20.5–23.6% | 20.1–24.1% | 19.7–24.4% | 19.1–25.2% |
 | [4–5 December 2025](2025-12-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 22.1% | 20.3–24.1% | 19.8–24.6% | 19.4–25.1% | 18.5–26.1% |
 | [2–3 December 2025](2025-12-03-Eumetra.html) | Eumetra <br> La7 | 22.0% | 20.2–24.0% | 19.7–24.5% | 19.3–25.0% | 18.4–26.0% |
@@ -370,11 +372,11 @@ The following table shows the probability mass function per percentage block of 
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0% | 100% |  |
-| 17.5–18.5% | 0.5% | 100% |  |
-| 18.5–19.5% | 3% | 99.4% |  |
-| 19.5–20.5% | 11% | 96% |  |
-| 20.5–21.5% | 23% | 86% |  |
-| 21.5–22.5% | 29% | 63% | Median |
+| 17.5–18.5% | 0.4% | 100% |  |
+| 18.5–19.5% | 3% | 99.5% |  |
+| 19.5–20.5% | 11% | 97% |  |
+| 20.5–21.5% | 24% | 86% |  |
+| 21.5–22.5% | 30% | 62% | Median |
 | 22.5–23.5% | 21% | 33% |  |
 | 23.5–24.5% | 9% | 12% |  |
 | 24.5–25.5% | 2% | 3% |  |
@@ -391,7 +393,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 17–20 | 16–20 | 16–20 | 15–21 |
+| N/A | [Poll Average](average.html) | 19 | 17–20 | 16–20 | 16–21 | 15–21 |
+| [10–11 December 2025](2025-12-11-Tecné.html) | Tecné <br> Agenzia Dire | 18 | 16–20 | 16–20 | 16–20 | 15–21 |
+| [26 November–10 December 2025](2025-12-10-EMG.html) | EMG | 18 | 18 | 17–19 | 17–21 | 16–21 |
 | [3–8 December 2025](2025-12-08-SWG.html) | SWG <br> La7 | 19 | 17–20 | 17–21 | 17–21 | 16–21 |
 | [4–5 December 2025](2025-12-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 19 | 17–20 | 16–20 | 16–20 | 15–21 |
 | [2–3 December 2025](2025-12-03-Eumetra.html) | Eumetra <br> La7 | 19 | 18–20 | 17–20 | 16–21 | 15–21 |
@@ -750,14 +754,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 0.6% | 100% |  |
+| 15 | 0.5% | 100% |  |
 | 16 | 5% | 99.4% |  |
-| 17 | 11% | 94% |  |
-| 18 | 26% | 83% |  |
-| 19 | 39% | 57% | Median |
-| 20 | 15% | 18% |  |
-| 21 | 2% | 2% |  |
-| 22 | 0.1% | 0.2% |  |
+| 17 | 12% | 95% |  |
+| 18 | 30% | 82% |  |
+| 19 | 35% | 52% | Median |
+| 20 | 15% | 17% |  |
+| 21 | 2% | 3% |  |
+| 22 | 0.1% | 0.1% |  |
 | 23 | 0% | 0% |  |
 
 
