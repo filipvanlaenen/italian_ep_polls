@@ -10,8 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.0% | 20.3–23.8% | 19.8–24.3% | 19.4–24.7% | 18.6–25.6% |
-| [10–15 December 2025](2025-12-15-SWG.html) | SWG <br> La7 | 22.3% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 22.0% | 20.2–23.8% | 19.6–24.3% | 19.1–24.7% | 18.1–25.6% |
+| [10–15 December 2025](2025-12-15-SWG.html) | SWG <br> La7 | 22.3% | 20.8–23.9% | 20.4–24.4% | 20.1–24.8% | 19.4–25.6% |
 | [10–11 December 2025](2025-12-11-Tecné.html) | Tecné <br> Agenzia Dire | 21.7% | 20.1–23.4% | 19.6–23.9% | 19.3–24.4% | 18.5–25.2% |
 | [9–11 December 2025](2025-12-11-BiDiMedia.html) | BiDiMedia | 22.6% | 21.0–24.4% | 20.5–24.9% | 20.1–25.3% | 19.3–26.2% |
 | [26 November–10 December 2025](2025-12-10-EMG.html) | EMG | 21.2% | 19.6–22.9% | 19.2–23.4% | 18.8–23.9% | 18.0–24.7% |
@@ -28,9 +28,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [25–26 November 2025](2025-11-26-Eumetra.html) | Eumetra <br> La7 | 22.2% | 20.4–24.2% | 19.9–24.8% | 19.5–25.3% | 18.7–26.2% |
 | [12–26 November 2025](2025-11-26-EMG.html) | EMG | 21.0% | 19.4–22.7% | 19.0–23.2% | 18.6–23.6% | 17.8–24.5% |
 | [19–24 November 2025](2025-11-24-SWG.html) | SWG <br> La7 | 22.3% | 20.8–23.9% | 20.4–24.4% | 20.1–24.8% | 19.4–25.6% |
-| [21–23 November 2025](2025-11-23-BiDiMedia.html) | BiDiMedia | 22.3% | N/A | N/A | N/A | N/A |
+| [21–23 November 2025](2025-11-23-BiDiMedia.html) | BiDiMedia | 22.3% | 20.7–24.1% | 20.2–24.6% | 19.8–25.0% | 19.1–25.8% |
 | [18–20 November 2025](2025-11-20-TermometroPolitico.html) | Termometro Politico | 22.0% | 21.0–23.1% | 20.7–23.4% | 20.4–23.6% | 20.0–24.2% |
-| [17–18 November 2025](2025-11-18-Piepoli.html) | Piepoli | 20.9% | N/A | N/A | N/A | N/A |
+| [17–18 November 2025](2025-11-18-Piepoli.html) | Piepoli | 20.9% | 18.7–23.4% | 18.1–24.1% | 17.6–24.7% | 16.6–25.9% |
 | [12–17 November 2025](2025-11-17-SWG.html) | SWG <br> La7 | 22.0% | 20.5–23.6% | 20.1–24.1% | 19.7–24.4% | 19.1–25.2% |
 | [11–13 November 2025](2025-11-13-TermometroPolitico.html) | Termometro Politico | 21.8% | 20.8–22.9% | 20.5–23.2% | 20.3–23.4% | 19.8–24.0% |
 | [29 October–13 November 2025](2025-11-13-EMG.html) | EMG | 20.8% | 19.2–22.5% | 18.8–23.0% | 18.4–23.4% | 17.7–24.3% |
@@ -379,16 +379,16 @@ The following table shows the probability mass function per percentage block of 
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0% | 100% |  |
-| 17.5–18.5% | 0.4% | 100% |  |
-| 18.5–19.5% | 3% | 99.6% |  |
-| 19.5–20.5% | 10% | 97% |  |
-| 20.5–21.5% | 23% | 87% |  |
-| 21.5–22.5% | 29% | 64% | Median |
-| 22.5–23.5% | 22% | 35% |  |
+| 16.5–17.5% | 0.2% | 100% |  |
+| 17.5–18.5% | 0.9% | 99.8% |  |
+| 18.5–19.5% | 4% | 98.9% |  |
+| 19.5–20.5% | 11% | 95% |  |
+| 20.5–21.5% | 22% | 85% |  |
+| 21.5–22.5% | 28% | 63% | Median |
+| 22.5–23.5% | 21% | 34% |  |
 | 23.5–24.5% | 10% | 13% |  |
 | 24.5–25.5% | 3% | 3% |  |
-| 25.5–26.5% | 0.5% | 0.5% |  |
+| 25.5–26.5% | 0.5% | 0.6% |  |
 | 26.5–27.5% | 0.1% | 0.1% |  |
 | 27.5–28.5% | 0% | 0% |  |
 
@@ -401,8 +401,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 17–20 | 17–20 | 16–21 | 15–22 |
-| [10–15 December 2025](2025-12-15-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 19 | 17–20 | 16–20 | 16–21 | 15–22 |
+| [10–15 December 2025](2025-12-15-SWG.html) | SWG <br> La7 | 20 | 18–20 | 17–21 | 17–21 | 17–21 |
 | [10–11 December 2025](2025-12-11-Tecné.html) | Tecné <br> Agenzia Dire | 18 | 16–20 | 16–20 | 16–20 | 15–21 |
 | [9–11 December 2025](2025-12-11-BiDiMedia.html) | BiDiMedia | 19 | 19–22 | 19–22 | 18–22 | 17–23 |
 | [26 November–10 December 2025](2025-12-10-EMG.html) | EMG | 18 | 18 | 17–19 | 17–21 | 16–21 |
@@ -419,9 +419,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [25–26 November 2025](2025-11-26-Eumetra.html) | Eumetra <br> La7 | 19 | 17–20 | 17–21 | 17–21 | 16–22 |
 | [12–26 November 2025](2025-11-26-EMG.html) | EMG | 17 | 17–19 | 17–20 | 17–20 | 16–21 |
 | [19–24 November 2025](2025-11-24-SWG.html) | SWG <br> La7 | 18 | 17–20 | 17–20 | 16–21 | 16–22 |
-| [21–23 November 2025](2025-11-23-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
+| [21–23 November 2025](2025-11-23-BiDiMedia.html) | BiDiMedia | 18 | 17–20 | 17–20 | 16–20 | 16–21 |
 | [18–20 November 2025](2025-11-20-TermometroPolitico.html) | Termometro Politico | 19 | 18–20 | 17–20 | 17–20 | 17–21 |
-| [17–18 November 2025](2025-11-18-Piepoli.html) | Piepoli |  |  |  |  |  |
+| [17–18 November 2025](2025-11-18-Piepoli.html) | Piepoli | 18 | 16–20 | 15–21 | 15–21 | 14–22 |
 | [12–17 November 2025](2025-11-17-SWG.html) | SWG <br> La7 | 19 | 17–20 | 17–21 | 16–21 | 16–21 |
 | [11–13 November 2025](2025-11-13-TermometroPolitico.html) | Termometro Politico | 19 | 18–20 | 18–20 | 18–20 | 17–21 |
 | [29 October–13 November 2025](2025-11-13-EMG.html) | EMG | 18 | 17–19 | 17–20 | 16–20 | 14–21 |
@@ -769,15 +769,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
-| 14 | 0% | 100% |  |
-| 15 | 0.5% | 100% |  |
-| 16 | 4% | 99.5% |  |
-| 17 | 11% | 95% |  |
-| 18 | 28% | 84% |  |
-| 19 | 38% | 56% | Median |
-| 20 | 14% | 18% |  |
+| 14 | 0.2% | 100% |  |
+| 15 | 1.0% | 99.8% |  |
+| 16 | 5% | 98.8% |  |
+| 17 | 12% | 94% |  |
+| 18 | 27% | 82% |  |
+| 19 | 35% | 55% | Median |
+| 20 | 16% | 20% |  |
 | 21 | 3% | 4% |  |
-| 22 | 1.2% | 1.3% |  |
+| 22 | 1.1% | 1.3% |  |
 | 23 | 0.1% | 0.2% |  |
 | 24 | 0% | 0% |  |
 
