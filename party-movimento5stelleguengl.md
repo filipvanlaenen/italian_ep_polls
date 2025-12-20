@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12.6% | 11.0–14.3% | 10.5–14.8% | 10.1–15.2% | 9.1–16.1% |
+| [16–18 December 2025](2025-12-18-TermometroPolitico.html) | Termometro Politico | 12.0% | 11.2–12.9% | 11.0–13.1% | 10.8–13.3% | 10.4–13.7% |
 | [17–18 December 2025](2025-12-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 11.9% | 10.7–13.3% | 10.3–13.7% | 10.0–14.1% | 9.5–14.8% |
 | [10–15 December 2025](2025-12-15-SWG.html) | SWG <br> La7 | 12.8% | 11.7–14.2% | 11.3–14.5% | 11.1–14.9% | 10.5–15.5% |
 | [10–11 December 2025](2025-12-11-Tecné.html) | Tecné <br> Agenzia Dire | 11.8% | 10.6–13.2% | 10.2–13.6% | 9.9–14.0% | 9.4–14.7% |
@@ -375,8 +376,8 @@ The following table shows the probability mass function per percentage block of 
 | 8.5–9.5% | 1.0% | 99.8% |  |
 | 9.5–10.5% | 4% | 98.9% |  |
 | 10.5–11.5% | 14% | 95% |  |
-| 11.5–12.5% | 29% | 81% |  |
-| 12.5–13.5% | 29% | 52% | Median |
+| 11.5–12.5% | 30% | 81% |  |
+| 12.5–13.5% | 28% | 51% | Median |
 | 13.5–14.5% | 16% | 23% |  |
 | 14.5–15.5% | 6% | 7% |  |
 | 15.5–16.5% | 1.2% | 1.4% |  |
@@ -393,6 +394,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11 | 9–12 | 9–13 | 8–13 | 7–14 |
+| [16–18 December 2025](2025-12-18-TermometroPolitico.html) | Termometro Politico | 10 | 10–11 | 9–11 | 9–11 | 9–12 |
 | [17–18 December 2025](2025-12-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 10 | 9–11 | 8–11 | 8–11 | 8–12 |
 | [10–15 December 2025](2025-12-15-SWG.html) | SWG <br> La7 | 11 | 10–12 | 10–12 | 9–12 | 9–13 |
 | [10–11 December 2025](2025-12-11-Tecné.html) | Tecné <br> Agenzia Dire | 10 | 9–11 | 9–11 | 8–11 | 8–12 |
@@ -757,9 +759,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0.6% | 100% |  |
 | 8 | 2% | 99.4% |  |
 | 9 | 15% | 97% |  |
-| 10 | 31% | 82% |  |
-| 11 | 32% | 51% | Median |
-| 12 | 9% | 19% |  |
+| 10 | 30% | 82% |  |
+| 11 | 34% | 52% | Median |
+| 12 | 8% | 18% |  |
 | 13 | 9% | 9% |  |
 | 14 | 0.5% | 0.6% |  |
 | 15 | 0% | 0% |  |
