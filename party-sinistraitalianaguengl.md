@@ -10,9 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.4% | 1.8–3.1% | 1.7–3.4% | 1.5–3.6% | 1.3–4.1% |
+| N/A | [Poll Average](average.html) | 2.4% | 1.8–3.1% | 1.6–3.4% | 1.5–3.6% | 1.2–4.1% |
 | [16–18 December 2025](2025-12-18-TermometroPolitico.html) | Termometro Politico | 2.3% | 2.0–2.8% | 1.9–2.9% | 1.8–3.0% | 1.7–3.2% |
 | [17–18 December 2025](2025-12-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
+| [15–16 December 2025](2025-12-16-EMG.html) | EMG | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–3.0% | 1.0–3.3% |
 | [10–15 December 2025](2025-12-15-SWG.html) | SWG <br> La7 | 2.4% | 1.9–3.1% | 1.8–3.3% | 1.7–3.5% | 1.5–3.8% |
 | [10–11 December 2025](2025-12-11-Tecné.html) | Tecné <br> Agenzia Dire | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
 | [9–11 December 2025](2025-12-11-BiDiMedia.html) | BiDiMedia | 2.6% | 2.1–3.4% | 1.9–3.6% | 1.8–3.8% | 1.6–4.2% |
@@ -384,6 +385,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | [16–18 December 2025](2025-12-18-TermometroPolitico.html) | Termometro Politico | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [17–18 December 2025](2025-12-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| [15–16 December 2025](2025-12-16-EMG.html) | EMG | 2 | 1–3 | 0–3 | 0–3 | 0–3 |
 | [10–15 December 2025](2025-12-15-SWG.html) | SWG <br> La7 | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | [10–11 December 2025](2025-12-11-Tecné.html) | Tecné <br> Agenzia Dire | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [9–11 December 2025](2025-12-11-BiDiMedia.html) | BiDiMedia | 3 | 1–3 | 1–3 | 1–3 | 1–3 |
@@ -737,10 +739,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% | Last Result |
-| 1 | 16% | 99.9% |  |
-| 2 | 63% | 84% | Median |
-| 3 | 21% | 21% |  |
+| 0 | 0.5% | 100% | Last Result |
+| 1 | 10% | 99.5% |  |
+| 2 | 67% | 89% | Median |
+| 3 | 22% | 22% |  |
 | 4 | 0.6% | 0.6% |  |
 | 5 | 0% | 0% |  |
 

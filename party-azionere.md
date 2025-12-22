@@ -13,6 +13,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 3.2% | 2.5–4.1% | 2.3–4.4% | 2.2–4.7% | 1.9–5.3% |
 | [16–18 December 2025](2025-12-18-TermometroPolitico.html) | Termometro Politico | 3.0% | 2.6–3.5% | 2.5–3.6% | 2.4–3.7% | 2.2–4.0% |
 | [17–18 December 2025](2025-12-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.2% | 2.6–4.0% | 2.4–4.3% | 2.3–4.5% | 2.0–4.9% |
+| [15–16 December 2025](2025-12-16-EMG.html) | EMG | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
 | [10–15 December 2025](2025-12-15-SWG.html) | SWG <br> La7 | 3.0% | 2.5–3.7% | 2.3–3.9% | 2.2–4.1% | 1.9–4.5% |
 | [10–11 December 2025](2025-12-11-Tecné.html) | Tecné <br> Agenzia Dire | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
 | [9–11 December 2025](2025-12-11-BiDiMedia.html) | BiDiMedia | 3.2% | 2.6–4.0% | 2.4–4.3% | 2.3–4.5% | 2.0–4.9% |
@@ -385,6 +386,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | [16–18 December 2025](2025-12-18-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [17–18 December 2025](2025-12-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0–3 | 0–4 | 0–4 |
+| [15–16 December 2025](2025-12-16-EMG.html) | EMG | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [10–15 December 2025](2025-12-15-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0–4 |
 | [10–11 December 2025](2025-12-11-Tecné.html) | Tecné <br> Agenzia Dire | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [9–11 December 2025](2025-12-11-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0–4 |
@@ -738,10 +740,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 93% | 100% | Last Result, Median |
-| 1 | 0% | 7% |  |
-| 2 | 0% | 7% |  |
-| 3 | 2% | 7% |  |
+| 0 | 91% | 100% | Last Result, Median |
+| 1 | 0% | 9% |  |
+| 2 | 0% | 9% |  |
+| 3 | 4% | 9% |  |
 | 4 | 5% | 5% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
