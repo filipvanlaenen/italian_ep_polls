@@ -14,6 +14,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [17–22 December 2025](2025-12-22-SWG.html) | SWG <br> La7 | 3.8% | 3.1–4.6% | 3.0–4.8% | 2.8–5.0% | 2.5–5.4% |
 | [16–18 December 2025](2025-12-18-TermometroPolitico.html) | Termometro Politico | 3.6% | 3.1–4.1% | 3.0–4.2% | 2.9–4.4% | 2.7–4.6% |
 | [17–18 December 2025](2025-12-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
+| [15–18 December 2025](2025-12-18-Ipsos.html) | Ipsos <br> Corriere della Sera | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
+| [16–18 December 2025](2025-12-18-Demopolis.html) | Demopolis <br> La7 | 3.6% | 3.1–4.2% | 3.0–4.4% | 2.9–4.5% | 2.7–4.8% |
 | [15–16 December 2025](2025-12-16-EMG.html) | EMG | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [10–15 December 2025](2025-12-15-SWG.html) | SWG <br> La7 | 3.8% | 3.1–4.6% | 3.0–4.8% | 2.8–5.0% | 2.5–5.4% |
 | [10–11 December 2025](2025-12-11-Tecné.html) | Tecné <br> Agenzia Dire | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
@@ -388,6 +390,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [17–22 December 2025](2025-12-22-SWG.html) | SWG <br> La7 | 4 | 3–4 | 3–4 | 2–5 | 2–5 |
 | [16–18 December 2025](2025-12-18-TermometroPolitico.html) | Termometro Politico | 4 | 3–4 | 3–4 | 2–4 | 2–4 |
 | [17–18 December 2025](2025-12-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
+| [15–18 December 2025](2025-12-18-Ipsos.html) | Ipsos <br> Corriere della Sera | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
+| [16–18 December 2025](2025-12-18-Demopolis.html) | Demopolis <br> La7 | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [15–16 December 2025](2025-12-16-EMG.html) | EMG | 3 | 2–3 | 0–4 | 0–4 | 0–4 |
 | [10–15 December 2025](2025-12-15-SWG.html) | SWG <br> La7 | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | [10–11 December 2025](2025-12-11-Tecné.html) | Tecné <br> Agenzia Dire | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
@@ -745,8 +749,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0.5% | 100% | Last Result |
 | 1 | 0% | 99.5% |  |
 | 2 | 6% | 99.5% |  |
-| 3 | 46% | 94% | Median |
-| 4 | 43% | 48% |  |
+| 3 | 47% | 94% | Median |
+| 4 | 42% | 47% |  |
 | 5 | 4% | 5% |  |
 | 6 | 0.2% | 0.2% |  |
 | 7 | 0% | 0% |  |

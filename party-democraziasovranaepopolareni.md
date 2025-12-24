@@ -14,6 +14,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [17–22 December 2025](2025-12-22-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [16–18 December 2025](2025-12-18-TermometroPolitico.html) | Termometro Politico | 1.3% | 1.1–1.6% | 1.0–1.7% | 0.9–1.8% | 0.8–2.0% |
 | [17–18 December 2025](2025-12-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
+| [15–18 December 2025](2025-12-18-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.0% | N/A | N/A | N/A | N/A |
+| [16–18 December 2025](2025-12-18-Demopolis.html) | Demopolis <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [15–16 December 2025](2025-12-16-EMG.html) | EMG | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.3% | 0.7–2.7% |
 | [10–15 December 2025](2025-12-15-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [10–11 December 2025](2025-12-11-Tecné.html) | Tecné <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
@@ -385,6 +387,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [17–22 December 2025](2025-12-22-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [16–18 December 2025](2025-12-18-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [17–18 December 2025](2025-12-18-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [15–18 December 2025](2025-12-18-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
+| [16–18 December 2025](2025-12-18-Demopolis.html) | Demopolis <br> La7 |  |  |  |  |  |
 | [15–16 December 2025](2025-12-16-EMG.html) | EMG | 0 | 0 | 0 | 0 | 0 |
 | [10–15 December 2025](2025-12-15-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [10–11 December 2025](2025-12-11-Tecné.html) | Tecné <br> Agenzia Dire |  |  |  |  |  |
