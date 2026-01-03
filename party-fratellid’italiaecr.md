@@ -417,9 +417,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25 | 23–27 | 23–28 | 22–28 | 21–29 |
+| N/A | [Poll Average](average.html) | 25 | 23–27 | 22–28 | 22–28 | 21–29 |
 | [17–22 December 2025](2025-12-22-SWG.html) | SWG <br> La7 | 27 | 25–28 | 25–28 | 24–28 | 23–29 |
-| [18–19 December 2025](2025-12-19-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 24 | 23–25 | 22–25 | 21–25 | 21–26 |
+| [18–19 December 2025](2025-12-19-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 24 | 22–25 | 22–25 | 21–26 | 21–26 |
 | [16–18 December 2025](2025-12-18-TermometroPolitico.html) | Termometro Politico | 26 | 25–28 | 24–28 | 24–28 | 24–28 |
 | [17–18 December 2025](2025-12-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 26 | 24–27 | 24–28 | 23–28 | 23–29 |
 | [15–18 December 2025](2025-12-18-Ipsos.html) | Ipsos <br> Corriere della Sera | 23 | 22–24 | 21–25 | 21–25 | 20–27 |
@@ -800,10 +800,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 0% | 100% |  |
 | 20 | 0.1% | 100% |  |
 | 21 | 0.6% | 99.9% |  |
-| 22 | 4% | 99.2% |  |
-| 23 | 9% | 95% |  |
-| 24 | 23% | 86% |  |
-| 25 | 15% | 63% | Median |
+| 22 | 5% | 99.2% |  |
+| 23 | 10% | 95% |  |
+| 24 | 21% | 85% |  |
+| 25 | 15% | 64% | Median |
 | 26 | 31% | 49% |  |
 | 27 | 11% | 18% |  |
 | 28 | 7% | 7% |  |
