@@ -10,8 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.6% | 11.3–14.3% | 10.9–14.8% | 10.5–15.2% | 9.9–16.1% |
+| N/A | [Poll Average](average.html) | 12.6% | 11.2–14.2% | 10.9–14.6% | 10.5–15.1% | 9.9–15.9% |
 | [17–22 December 2025](2025-12-22-SWG.html) | SWG <br> La7 | 12.7% | 11.5–14.0% | 11.2–14.4% | 10.9–14.7% | 10.4–15.3% |
+| [18–19 December 2025](2025-12-19-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 12.7% | 11.6–14.1% | 11.2–14.4% | 11.0–14.8% | 10.4–15.4% |
 | [16–18 December 2025](2025-12-18-TermometroPolitico.html) | Termometro Politico | 12.0% | 11.2–12.9% | 11.0–13.1% | 10.8–13.3% | 10.4–13.7% |
 | [17–18 December 2025](2025-12-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 11.9% | 10.7–13.3% | 10.3–13.7% | 10.0–14.1% | 9.5–14.8% |
 | [15–18 December 2025](2025-12-18-Ipsos.html) | Ipsos <br> Corriere della Sera | 13.5% | 12.2–15.0% | 11.8–15.4% | 11.5–15.8% | 10.9–16.5% |
@@ -380,12 +381,12 @@ The following table shows the probability mass function per percentage block of 
 | 8.5–9.5% | 0.2% | 100% |  |
 | 9.5–10.5% | 2% | 99.8% |  |
 | 10.5–11.5% | 14% | 97% |  |
-| 11.5–12.5% | 31% | 84% |  |
-| 12.5–13.5% | 30% | 53% | Median |
-| 13.5–14.5% | 16% | 23% |  |
-| 14.5–15.5% | 6% | 7% |  |
-| 15.5–16.5% | 1.2% | 1.4% |  |
-| 16.5–17.5% | 0.2% | 0.2% |  |
+| 11.5–12.5% | 32% | 83% |  |
+| 12.5–13.5% | 30% | 51% | Median |
+| 13.5–14.5% | 15% | 21% |  |
+| 14.5–15.5% | 5% | 6% |  |
+| 15.5–16.5% | 0.9% | 1.0% |  |
+| 16.5–17.5% | 0.1% | 0.1% |  |
 | 17.5–18.5% | 0% | 0% |  |
 
 
@@ -397,8 +398,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 9–12 | 9–12 | 9–13 | 8–14 |
+| N/A | [Poll Average](average.html) | 10 | 9–12 | 9–12 | 9–13 | 8–13 |
 | [17–22 December 2025](2025-12-22-SWG.html) | SWG <br> La7 | 10 | 10–12 | 9–12 | 9–12 | 9–13 |
+| [18–19 December 2025](2025-12-19-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 10 | 9–11 | 9–11 | 9–11 | 9–12 |
 | [16–18 December 2025](2025-12-18-TermometroPolitico.html) | Termometro Politico | 10 | 10–11 | 9–11 | 9–11 | 9–12 |
 | [17–18 December 2025](2025-12-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 10 | 9–11 | 8–11 | 8–11 | 8–12 |
 | [15–18 December 2025](2025-12-18-Ipsos.html) | Ipsos <br> Corriere della Sera | 11 | 10–12 | 10–12 | 9–13 | 9–14 |
@@ -766,11 +768,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 1.0% | 100% |  |
-| 9 | 16% | 99.0% |  |
-| 10 | 32% | 83% |  |
-| 11 | 37% | 51% | Median |
-| 12 | 9% | 14% |  |
-| 13 | 4% | 5% |  |
+| 9 | 17% | 99.0% |  |
+| 10 | 38% | 82% | Median |
+| 11 | 33% | 45% |  |
+| 12 | 8% | 12% |  |
+| 13 | 3% | 4% |  |
 | 14 | 0.5% | 0.5% |  |
 | 15 | 0% | 0% |  |
 
