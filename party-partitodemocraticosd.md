@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.1% | 20.4–23.8% | 19.9–24.3% | 19.5–24.7% | 18.6–25.6% |
+| N/A | [Poll Average](average.html) | 22.1% | 20.3–23.8% | 19.8–24.3% | 19.3–24.7% | 18.3–25.7% |
 | [17–22 December 2025](2025-12-22-SWG.html) | SWG <br> La7 | 22.1% | 20.6–23.7% | 20.2–24.1% | 19.8–24.5% | 19.1–25.3% |
 | [18–19 December 2025](2025-12-19-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 22.8% | 21.3–24.4% | 20.9–24.9% | 20.5–25.3% | 19.8–26.1% |
 | [16–18 December 2025](2025-12-18-TermometroPolitico.html) | Termometro Politico | 22.1% | 21.1–23.2% | 20.8–23.5% | 20.6–23.8% | 20.1–24.3% |
@@ -18,12 +18,19 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [15–18 December 2025](2025-12-18-Ipsos.html) | Ipsos <br> Corriere della Sera | 21.3% | 19.7–23.0% | 19.3–23.5% | 18.9–24.0% | 18.1–24.8% |
 | [16–18 December 2025](2025-12-18-Demopolis.html) | Demopolis <br> La7 | 22.8% | 21.6–24.0% | 21.3–24.4% | 21.0–24.7% | 20.5–25.3% |
 | [15–16 December 2025](2025-12-16-EMG.html) | EMG | 21.4% | 19.8–23.1% | 19.4–23.6% | 19.0–24.1% | 18.2–24.9% |
+| [15–16 December 2025](2025-12-16-BiDiMedia.html) | BiDiMedia | 22.4% | 20.8–24.2% | 20.3–24.7% | 19.9–25.1% | 19.2–26.0% |
 | [10–15 December 2025](2025-12-15-SWG.html) | SWG <br> La7 | 22.3% | 20.8–23.9% | 20.4–24.4% | 20.1–24.8% | 19.4–25.6% |
-| [10–11 December 2025](2025-12-11-Tecné.html) | Tecné <br> Agenzia Dire | 21.7% | 20.1–23.4% | 19.6–23.9% | 19.3–24.4% | 18.5–25.2% |
+| [15 December 2025](2025-12-15-Piepoli.html) | Piepoli | 21.6% | 19.4–24.1% | 18.7–24.8% | 18.2–25.4% | 17.2–26.7% |
+| [15 December 2025](2025-12-15-Ipsos.html) | Ipsos | 21.2% | N/A | N/A | N/A | N/A |
+| [1–12 December 2025](2025-12-12-EMG.html) | EMG | 21.4% | N/A | N/A | N/A | N/A |
+| [9–11 December 2025](2025-12-11-TermometroPolitico.html) | Termometro Politico | 22.1% | N/A | N/A | N/A | N/A |
+| [10–11 December 2025](2025-12-11-Tecnè.html) | Tecnè <br> Agenzia Dire | 21.7% | N/A | N/A | N/A | N/A |
 | [9–11 December 2025](2025-12-11-BiDiMedia.html) | BiDiMedia | 22.6% | 21.0–24.4% | 20.5–24.9% | 20.1–25.3% | 19.3–26.2% |
 | [26 November–10 December 2025](2025-12-10-EMG.html) | EMG | 21.2% | 19.6–22.9% | 19.2–23.4% | 18.8–23.9% | 18.0–24.7% |
 | [3–8 December 2025](2025-12-08-SWG.html) | SWG <br> La7 | 22.0% | 20.5–23.6% | 20.1–24.1% | 19.7–24.4% | 19.1–25.2% |
 | [4–5 December 2025](2025-12-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 22.1% | 20.3–24.1% | 19.8–24.6% | 19.4–25.1% | 18.5–26.1% |
+| [2–4 December 2025](2025-12-04-TermometroPolitico.html) | Termometro Politico | 21.8% | N/A | N/A | N/A | N/A |
+| [3–4 December 2025](2025-12-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 21.8% | N/A | N/A | N/A | N/A |
 | [2–3 December 2025](2025-12-03-Eumetra.html) | Eumetra <br> La7 | 22.0% | 20.2–24.0% | 19.7–24.5% | 19.3–25.0% | 18.4–26.0% |
 | [1–2 December 2025](2025-12-02-EMG.html) | EMG | 21.0% | 19.4–22.7% | 19.0–23.2% | 18.6–23.6% | 17.8–24.5% |
 | [1–2 December 2025](2025-12-02-Demopolis.html) | Demopolis <br> La7 | 23.0% | 21.8–24.2% | 21.5–24.6% | 21.2–24.9% | 20.7–25.5% |
@@ -386,16 +393,16 @@ The following table shows the probability mass function per percentage block of 
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0% | 100% |  |
-| 17.5–18.5% | 0.4% | 100% |  |
-| 18.5–19.5% | 3% | 99.6% |  |
-| 19.5–20.5% | 9% | 97% |  |
-| 20.5–21.5% | 22% | 88% |  |
-| 21.5–22.5% | 30% | 66% | Median |
+| 16.5–17.5% | 0.1% | 100% |  |
+| 17.5–18.5% | 0.6% | 99.9% |  |
+| 18.5–19.5% | 3% | 99.3% |  |
+| 19.5–20.5% | 10% | 96% |  |
+| 20.5–21.5% | 21% | 87% |  |
+| 21.5–22.5% | 29% | 65% | Median |
 | 22.5–23.5% | 23% | 36% |  |
 | 23.5–24.5% | 10% | 13% |  |
 | 24.5–25.5% | 3% | 3% |  |
-| 25.5–26.5% | 0.5% | 0.5% |  |
+| 25.5–26.5% | 0.5% | 0.6% |  |
 | 26.5–27.5% | 0.1% | 0.1% |  |
 | 27.5–28.5% | 0% | 0% |  |
 
@@ -408,7 +415,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 17–20 | 17–20 | 16–21 | 15–22 |
+| N/A | [Poll Average](average.html) | 19 | 17–20 | 17–20 | 16–21 | 15–21 |
 | [17–22 December 2025](2025-12-22-SWG.html) | SWG <br> La7 | 18 | 18–20 | 17–20 | 17–20 | 16–21 |
 | [18–19 December 2025](2025-12-19-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 18 | 18–20 | 17–20 | 17–21 | 16–22 |
 | [16–18 December 2025](2025-12-18-TermometroPolitico.html) | Termometro Politico | 19 | 18–20 | 18–20 | 18–20 | 17–21 |
@@ -416,12 +423,19 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [15–18 December 2025](2025-12-18-Ipsos.html) | Ipsos <br> Corriere della Sera | 18 | 16–19 | 16–19 | 15–20 | 15–20 |
 | [16–18 December 2025](2025-12-18-Demopolis.html) | Demopolis <br> La7 | 18 | 17–20 | 17–20 | 17–20 | 16–20 |
 | [15–16 December 2025](2025-12-16-EMG.html) | EMG | 19 | 18–21 | 18–21 | 17–21 | 16–22 |
+| [15–16 December 2025](2025-12-16-BiDiMedia.html) | BiDiMedia | 19 | 17–19 | 17–20 | 16–20 | 16–21 |
 | [10–15 December 2025](2025-12-15-SWG.html) | SWG <br> La7 | 20 | 18–20 | 17–21 | 17–21 | 17–21 |
-| [10–11 December 2025](2025-12-11-Tecné.html) | Tecné <br> Agenzia Dire | 18 | 16–20 | 16–20 | 16–20 | 15–21 |
+| [15 December 2025](2025-12-15-Piepoli.html) | Piepoli | 18 | 17–19 | 16–20 | 15–20 | 14–22 |
+| [15 December 2025](2025-12-15-Ipsos.html) | Ipsos |  |  |  |  |  |
+| [1–12 December 2025](2025-12-12-EMG.html) | EMG |  |  |  |  |  |
+| [9–11 December 2025](2025-12-11-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [10–11 December 2025](2025-12-11-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [9–11 December 2025](2025-12-11-BiDiMedia.html) | BiDiMedia | 19 | 19–22 | 19–22 | 18–22 | 17–23 |
 | [26 November–10 December 2025](2025-12-10-EMG.html) | EMG | 18 | 18 | 17–19 | 17–21 | 16–21 |
 | [3–8 December 2025](2025-12-08-SWG.html) | SWG <br> La7 | 19 | 17–20 | 17–21 | 17–21 | 16–21 |
 | [4–5 December 2025](2025-12-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 19 | 17–20 | 16–20 | 16–20 | 15–21 |
+| [2–4 December 2025](2025-12-04-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [3–4 December 2025](2025-12-04-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [2–3 December 2025](2025-12-03-Eumetra.html) | Eumetra <br> La7 | 19 | 18–20 | 17–20 | 16–21 | 15–21 |
 | [1–2 December 2025](2025-12-02-EMG.html) | EMG | 18 | 17–19 | 16–20 | 16–20 | 15–21 |
 | [1–2 December 2025](2025-12-02-Demopolis.html) | Demopolis <br> La7 | 18 | 17–19 | 17–20 | 17–20 | 16–20 |
@@ -783,16 +797,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
-| 14 | 0% | 100% |  |
-| 15 | 0.6% | 100% |  |
-| 16 | 3% | 99.3% |  |
+| 14 | 0.1% | 100% |  |
+| 15 | 0.8% | 99.9% |  |
+| 16 | 3% | 99.1% |  |
 | 17 | 10% | 97% |  |
-| 18 | 32% | 87% |  |
-| 19 | 39% | 55% | Median |
-| 20 | 11% | 16% |  |
-| 21 | 3% | 4% |  |
-| 22 | 1.3% | 1.5% |  |
-| 23 | 0.1% | 0.2% |  |
+| 18 | 35% | 86% |  |
+| 19 | 38% | 51% | Median |
+| 20 | 10% | 13% |  |
+| 21 | 3% | 3% |  |
+| 22 | 0.3% | 0.4% |  |
+| 23 | 0% | 0.1% |  |
 | 24 | 0% | 0% |  |
 
 

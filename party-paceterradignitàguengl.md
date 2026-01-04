@@ -18,12 +18,19 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [15–18 December 2025](2025-12-18-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.0% | N/A | N/A | N/A | N/A |
 | [16–18 December 2025](2025-12-18-Demopolis.html) | Demopolis <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [15–16 December 2025](2025-12-16-EMG.html) | EMG | 0.0% | N/A | N/A | N/A | N/A |
+| [15–16 December 2025](2025-12-16-BiDiMedia.html) | BiDiMedia | 0.0% | N/A | N/A | N/A | N/A |
 | [10–15 December 2025](2025-12-15-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
-| [10–11 December 2025](2025-12-11-Tecné.html) | Tecné <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
+| [15 December 2025](2025-12-15-Piepoli.html) | Piepoli | 0.0% | N/A | N/A | N/A | N/A |
+| [15 December 2025](2025-12-15-Ipsos.html) | Ipsos | 0.0% | N/A | N/A | N/A | N/A |
+| [1–12 December 2025](2025-12-12-EMG.html) | EMG | 0.0% | N/A | N/A | N/A | N/A |
+| [9–11 December 2025](2025-12-11-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
+| [10–11 December 2025](2025-12-11-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [9–11 December 2025](2025-12-11-BiDiMedia.html) | BiDiMedia | 0.0% | N/A | N/A | N/A | N/A |
 | [26 November–10 December 2025](2025-12-10-EMG.html) | EMG | 0.0% | N/A | N/A | N/A | N/A |
 | [3–8 December 2025](2025-12-08-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [4–5 December 2025](2025-12-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.0% | N/A | N/A | N/A | N/A |
+| [2–4 December 2025](2025-12-04-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
+| [3–4 December 2025](2025-12-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [2–3 December 2025](2025-12-03-Eumetra.html) | Eumetra <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [1–2 December 2025](2025-12-02-EMG.html) | EMG | 0.0% | N/A | N/A | N/A | N/A |
 | [1–2 December 2025](2025-12-02-Demopolis.html) | Demopolis <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
@@ -391,12 +398,19 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [15–18 December 2025](2025-12-18-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
 | [16–18 December 2025](2025-12-18-Demopolis.html) | Demopolis <br> La7 |  |  |  |  |  |
 | [15–16 December 2025](2025-12-16-EMG.html) | EMG |  |  |  |  |  |
+| [15–16 December 2025](2025-12-16-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
 | [10–15 December 2025](2025-12-15-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [10–11 December 2025](2025-12-11-Tecné.html) | Tecné <br> Agenzia Dire |  |  |  |  |  |
+| [15 December 2025](2025-12-15-Piepoli.html) | Piepoli |  |  |  |  |  |
+| [15 December 2025](2025-12-15-Ipsos.html) | Ipsos |  |  |  |  |  |
+| [1–12 December 2025](2025-12-12-EMG.html) | EMG |  |  |  |  |  |
+| [9–11 December 2025](2025-12-11-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [10–11 December 2025](2025-12-11-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [9–11 December 2025](2025-12-11-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
 | [26 November–10 December 2025](2025-12-10-EMG.html) | EMG |  |  |  |  |  |
 | [3–8 December 2025](2025-12-08-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [4–5 December 2025](2025-12-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
+| [2–4 December 2025](2025-12-04-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [3–4 December 2025](2025-12-04-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [2–3 December 2025](2025-12-03-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [1–2 December 2025](2025-12-02-EMG.html) | EMG |  |  |  |  |  |
 | [1–2 December 2025](2025-12-02-Demopolis.html) | Demopolis <br> La7 |  |  |  |  |  |
