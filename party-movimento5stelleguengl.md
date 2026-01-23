@@ -10,8 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.5% | 11.3–13.9% | 10.9–14.3% | 10.6–14.7% | 10.0–15.5% |
+| N/A | [Poll Average](average.html) | 12.5% | 11.3–13.9% | 11.0–14.4% | 10.6–14.8% | 10.0–15.6% |
 | [14–19 January 2026](2026-01-19-SWG.html) | SWG <br> La7 | 12.4% | 11.3–13.7% | 10.9–14.1% | 10.7–14.4% | 10.1–15.1% |
+| [14–16 January 2026](2026-01-16-BiDiMedia.html) | BiDiMedia | 12.8% | 11.5–14.3% | 11.2–14.7% | 10.9–15.0% | 10.3–15.7% |
 | [13–15 January 2026](2026-01-15-TermometroPolitico.html) | Termometro Politico | 12.3% | 11.5–13.1% | 11.3–13.4% | 11.1–13.6% | 10.8–14.0% |
 | [14–15 January 2026](2026-01-15-Tecnè.html) | Tecnè <br> Agenzia Dire | 12.0% | 10.8–13.4% | 10.4–13.8% | 10.2–14.2% | 9.6–14.9% |
 | [13–14 January 2026](2026-01-14-Eumetra.html) | Eumetra <br> La7 | 12.8% | 11.3–14.4% | 10.9–14.8% | 10.6–15.3% | 10.0–16.1% |
@@ -396,12 +397,12 @@ The following table shows the probability mass function per percentage block of 
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0.1% | 100% |  |
 | 9.5–10.5% | 2% | 99.9% |  |
-| 10.5–11.5% | 14% | 98% |  |
-| 11.5–12.5% | 37% | 84% | Median |
-| 12.5–13.5% | 32% | 47% |  |
-| 13.5–14.5% | 12% | 15% |  |
-| 14.5–15.5% | 3% | 3% |  |
-| 15.5–16.5% | 0.4% | 0.5% |  |
+| 10.5–11.5% | 13% | 98% |  |
+| 11.5–12.5% | 35% | 85% |  |
+| 12.5–13.5% | 32% | 49% | Median |
+| 13.5–14.5% | 13% | 17% |  |
+| 14.5–15.5% | 3% | 4% |  |
+| 15.5–16.5% | 0.5% | 0.5% |  |
 | 16.5–17.5% | 0% | 0% |  |
 | 17.5–18.5% | 0% | 0% |  |
 
@@ -414,8 +415,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 9–12 | 9–12 | 9–13 | 8–14 |
+| N/A | [Poll Average](average.html) | 11 | 10–12 | 9–13 | 9–13 | 8–14 |
 | [14–19 January 2026](2026-01-19-SWG.html) | SWG <br> La7 | 11 | 10–11 | 9–11 | 9–12 | 8–12 |
+| [14–16 January 2026](2026-01-16-BiDiMedia.html) | BiDiMedia | 10 | 10–13 | 10–13 | 9–13 | 9–13 |
 | [13–15 January 2026](2026-01-15-TermometroPolitico.html) | Termometro Politico | 11 | 9–11 | 9–12 | 9–12 | 9–12 |
 | [14–15 January 2026](2026-01-15-Tecnè.html) | Tecnè <br> Agenzia Dire | 10 | 9–11 | 9–12 | 9–12 | 8–12 |
 | [13–14 January 2026](2026-01-14-Eumetra.html) | Eumetra <br> La7 | 10 | 10–12 | 9–13 | 9–13 | 9–14 |
@@ -799,12 +801,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 0.6% | 100% |  |
-| 9 | 10% | 99.3% |  |
-| 10 | 28% | 89% |  |
-| 11 | 39% | 61% | Median |
-| 12 | 17% | 21% |  |
-| 13 | 3% | 5% |  |
+| 8 | 0.5% | 100% |  |
+| 9 | 9% | 99.4% |  |
+| 10 | 31% | 90% |  |
+| 11 | 35% | 59% | Median |
+| 12 | 19% | 24% |  |
+| 13 | 4% | 6% |  |
 | 14 | 2% | 2% |  |
 | 15 | 0% | 0% |  |
 
