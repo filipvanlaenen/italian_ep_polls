@@ -10,7 +10,14 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.4% | 1.8–3.1% | 1.6–3.3% | 1.5–3.5% | 1.2–3.9% |
+| N/A | [Poll Average](average.html) | 2.4% | 1.8–3.0% | 1.7–3.2% | 1.5–3.4% | 1.3–3.8% |
+| [14–19 January 2026](2026-01-19-SWG.html) | SWG <br> La7 | 2.3% | 1.9–3.0% | 1.7–3.2% | 1.6–3.4% | 1.4–3.7% |
+| [13–15 January 2026](2026-01-15-TermometroPolitico.html) | Termometro Politico | 2.4% | 2.1–2.8% | 2.0–2.9% | 1.9–3.0% | 1.7–3.2% |
+| [14–15 January 2026](2026-01-15-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.3% | 1.8–3.0% | 1.7–3.2% | 1.5–3.4% | 1.3–3.8% |
+| [13–14 January 2026](2026-01-14-Eumetra.html) | Eumetra <br> La7 | 2.4% | 1.8–3.2% | 1.6–3.5% | 1.5–3.7% | 1.3–4.1% |
+| [12–13 January 2026](2026-01-13-EMG.html) | EMG | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
+| [7–12 January 2026](2026-01-12-SWG.html) | SWG <br> La7 | 2.3% | N/A | N/A | N/A | N/A |
+| [7–8 January 2026](2026-01-08-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.3% | N/A | N/A | N/A | N/A |
 | [7 January 2026](2026-01-07-Eumetra.html) | Eumetra <br> La7 | 2.4% | 1.8–3.2% | 1.6–3.5% | 1.5–3.7% | 1.3–4.1% |
 | [31 December 2025–7 January 2026](2026-01-07-EMG.html) | EMG | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
 | [17–22 December 2025](2025-12-22-SWG.html) | SWG <br> La7 | 2.4% | 1.9–3.1% | 1.8–3.3% | 1.7–3.5% | 1.5–3.8% |
@@ -258,7 +265,6 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [9–10 January 2025](2025-01-10-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.2% | N/A | N/A | N/A | N/A |
 | [9–10 January 2025](2025-01-10-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 2.2% | N/A | N/A | N/A | N/A |
 | [8–9 January 2025](2025-01-09-TermometroPolitico.html) | Termometro Politico | 2.3% | N/A | N/A | N/A | N/A |
-| [7–8 January 2025](2025-01-08-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.3% | N/A | N/A | N/A | N/A |
 | [7–8 January 2025](2025-01-08-Eumetra.html) | Eumetra | 2.2% | N/A | N/A | N/A | N/A |
 | [2–6 January 2025](2025-01-06-SWG.html) | SWG <br> La7 | 2.3% | N/A | N/A | N/A | N/A |
 | [18–23 December 2024](2024-12-23-SWG.html) | SWG <br> La7 | 2.4% | N/A | N/A | N/A | N/A |
@@ -380,12 +386,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 4% | 100% |  |
-| 1.5–2.5% | 59% | 96% | Median |
-| 2.5–3.5% | 35% | 38% |  |
-| 3.5–4.5% | 2% | 2% |  |
+| 0.5–1.5% | 3% | 100% |  |
+| 1.5–2.5% | 63% | 97% | Median |
+| 2.5–3.5% | 33% | 34% |  |
+| 3.5–4.5% | 1.4% | 1.4% |  |
 | 4.5–5.5% | 0% | 0% |  |
-| 5.5–6.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -396,7 +401,14 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| [14–19 January 2026](2026-01-19-SWG.html) | SWG <br> La7 | 2 | 2 | 2–3 | 1–3 | 1–3 |
+| [13–15 January 2026](2026-01-15-TermometroPolitico.html) | Termometro Politico | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
+| [14–15 January 2026](2026-01-15-Tecnè.html) | Tecnè <br> Agenzia Dire | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| [13–14 January 2026](2026-01-14-Eumetra.html) | Eumetra <br> La7 | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
+| [12–13 January 2026](2026-01-13-EMG.html) | EMG | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| [7–12 January 2026](2026-01-12-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [7–8 January 2026](2026-01-08-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [7 January 2026](2026-01-07-Eumetra.html) | Eumetra <br> La7 | 2 | 1–3 | 1–4 | 1–4 | 1–4 |
 | [31 December 2025–7 January 2026](2026-01-07-EMG.html) | EMG | 2 | 2–3 | 1–3 | 0–3 | 0–4 |
 | [17–22 December 2025](2025-12-22-SWG.html) | SWG <br> La7 | 2 | 2–3 | 2–3 | 1–3 | 1–4 |
@@ -644,7 +656,6 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [9–10 January 2025](2025-01-10-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [9–10 January 2025](2025-01-10-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
 | [8–9 January 2025](2025-01-09-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [7–8 January 2025](2025-01-08-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [7–8 January 2025](2025-01-08-Eumetra.html) | Eumetra |  |  |  |  |  |
 | [2–6 January 2025](2025-01-06-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [18–23 December 2024](2024-12-23-SWG.html) | SWG <br> La7 |  |  |  |  |  |
@@ -767,11 +778,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.5% | 100% | Last Result |
-| 1 | 10% | 99.5% |  |
-| 2 | 69% | 89% | Median |
-| 3 | 19% | 20% |  |
-| 4 | 0.8% | 0.8% |  |
+| 0 | 0% | 100% | Last Result |
+| 1 | 9% | 100% |  |
+| 2 | 68% | 91% | Median |
+| 3 | 23% | 23% |  |
+| 4 | 0.4% | 0.4% |  |
 | 5 | 0% | 0% |  |
 
 
