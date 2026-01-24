@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Sun, 21 Jul 2024 15:49:56 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Tecnè for Agenzia Dire, 21–22 January 2026 – Seating Plan Projection</title>
+      <link>null/2026-01-22-Tecnè.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>39 seats needed for a majority<br/>Opinion poll by Tecnè for Agenzia Dire, 21–22 January 2026<br/>Details on null/2026-01-22-Tecnè.html<br/><img src="null/2026-01-22-Tecnè-seating-plan.png"/>]]></description>
+      <enclosure url="null/2026-01-22-Tecnè-seating-plan.png" length="443150" type="image/png"/>
+      <pubDate>Sat, 24 Jan 2026 18:55:23 +0100</pubDate>
+      <dc:date>2026-01-24T18:55:23.566883562+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Tecnè for Agenzia Dire, 21–22 January 2026 – Seat Projections</title>
+      <link>null/2026-01-22-Tecnè.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>39 seats needed for a majority<br/>Opinion poll by Tecnè for Agenzia Dire, 21–22 January 2026<br/>Details on null/2026-01-22-Tecnè.html<br/><img src="null/2026-01-22-Tecnè-seats.png"/>]]></description>
+      <enclosure url="null/2026-01-22-Tecnè-seats.png" length="254501" type="image/png"/>
+      <pubDate>Sat, 24 Jan 2026 18:55:23 +0100</pubDate>
+      <dc:date>2026-01-24T18:55:23.566883562+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Tecnè for Agenzia Dire, 21–22 January 2026 – Voting Intentions</title>
+      <link>null/2026-01-22-Tecnè.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Tecnè for Agenzia Dire, 21–22 January 2026<br/>Details on null/2026-01-22-Tecnè.html<br/><img src="null/2026-01-22-Tecnè.png"/>]]></description>
+      <enclosure url="null/2026-01-22-Tecnè.png" length="319529" type="image/png"/>
+      <pubDate>Sat, 24 Jan 2026 18:55:23 +0100</pubDate>
+      <dc:date>2026-01-24T18:55:23.566883562+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by SWG for La7, 14–19 January 2026 – Seating Plan Projection</title>
       <link>null/2026-01-19-SWG.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>39 seats needed for a majority<br/>Opinion poll by SWG for La7, 14–19 January 2026<br/>Details on null/2026-01-19-SWG.html<br/><img src="null/2026-01-19-SWG-seating-plan.png"/>]]></description>
@@ -196,30 +220,6 @@
       <enclosure url="null/2026-01-07-EMG.png" length="377095" type="image/png"/>
       <pubDate>Tue, 13 Jan 2026 19:36:10 +0100</pubDate>
       <dc:date>2026-01-13T19:36:10.695495021+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by SWG for La7, 17–22 December 2025 – Seating Plan Projection</title>
-      <link>null/2025-12-22-SWG.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>39 seats needed for a majority<br/>Opinion poll by SWG for La7, 17–22 December 2025<br/>Details on null/2025-12-22-SWG.html<br/><img src="null/2025-12-22-SWG-seating-plan.png"/>]]></description>
-      <enclosure url="null/2025-12-22-SWG-seating-plan.png" length="440177" type="image/png"/>
-      <pubDate>Tue, 23 Dec 2025 18:20:53 +0100</pubDate>
-      <dc:date>2025-12-23T18:20:53.314665568+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by SWG for La7, 17–22 December 2025 – Seat Projections</title>
-      <link>null/2025-12-22-SWG.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>39 seats needed for a majority<br/>Opinion poll by SWG for La7, 17–22 December 2025<br/>Details on null/2025-12-22-SWG.html<br/><img src="null/2025-12-22-SWG-seats.png"/>]]></description>
-      <enclosure url="null/2025-12-22-SWG-seats.png" length="259735" type="image/png"/>
-      <pubDate>Tue, 23 Dec 2025 18:20:53 +0100</pubDate>
-      <dc:date>2025-12-23T18:20:53.314665568+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by SWG for La7, 17–22 December 2025 – Voting Intentions</title>
-      <link>null/2025-12-22-SWG.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by SWG for La7, 17–22 December 2025<br/>Details on null/2025-12-22-SWG.html<br/><img src="null/2025-12-22-SWG.png"/>]]></description>
-      <enclosure url="null/2025-12-22-SWG.png" length="326286" type="image/png"/>
-      <pubDate>Tue, 23 Dec 2025 18:20:53 +0100</pubDate>
-      <dc:date>2025-12-23T18:20:53.314665568+01:00</dc:date>
     </item>
   </channel>
 </rss>
