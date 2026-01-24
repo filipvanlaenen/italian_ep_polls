@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 30.2% | 27.9–32.2% | 27.3–32.8% | 26.8–33.3% | 25.8–34.3% |
+| N/A | [Poll Average](average.html) | 30.2% | 27.9–32.2% | 27.3–32.7% | 26.8–33.3% | 25.8–34.3% |
+| [21–22 January 2026](2026-01-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 30.9% | 29.1–32.8% | 28.6–33.4% | 28.1–33.9% | 27.3–34.8% |
 | [14–19 January 2026](2026-01-19-SWG.html) | SWG <br> La7 | 31.1% | 29.4–32.8% | 28.9–33.3% | 28.5–33.8% | 27.7–34.6% |
 | [14–16 January 2026](2026-01-16-BiDiMedia.html) | BiDiMedia | 29.2% | 27.4–31.1% | 26.9–31.6% | 26.5–32.1% | 25.6–33.0% |
 | [13–15 January 2026](2026-01-15-TermometroPolitico.html) | Termometro Politico | 30.4% | 29.3–31.5% | 29.0–31.9% | 28.7–32.1% | 28.2–32.7% |
@@ -418,8 +419,8 @@ The following table shows the probability mass function per percentage block of 
 | 28.5–29.5% | 18% | 83% |  |
 | 29.5–30.5% | 25% | 65% | Median |
 | 30.5–31.5% | 22% | 40% |  |
-| 31.5–32.5% | 12% | 19% |  |
-| 32.5–33.5% | 5% | 7% |  |
+| 31.5–32.5% | 12% | 18% |  |
+| 32.5–33.5% | 5% | 6% |  |
 | 33.5–34.5% | 1.4% | 2% |  |
 | 34.5–35.5% | 0.3% | 0.3% |  |
 | 35.5–36.5% | 0% | 0% |  |
@@ -433,7 +434,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26 | 24–27 | 24–28 | 23–28 | 22–29 |
+| N/A | [Poll Average](average.html) | 26 | 24–27 | 23–28 | 23–28 | 22–29 |
+| [21–22 January 2026](2026-01-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 26 | 24–27 | 23–28 | 23–28 | 23–29 |
 | [14–19 January 2026](2026-01-19-SWG.html) | SWG <br> La7 | 26 | 25–27 | 24–28 | 24–28 | 23–29 |
 | [14–16 January 2026](2026-01-16-BiDiMedia.html) | BiDiMedia | 24 | 24–27 | 23–27 | 22–27 | 22–28 |
 | [13–15 January 2026](2026-01-15-TermometroPolitico.html) | Termometro Politico | 27 | 25–27 | 25–28 | 25–28 | 24–28 |
@@ -833,14 +835,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
 | 21 | 0.1% | 100% |  |
-| 22 | 1.3% | 99.9% |  |
-| 23 | 4% | 98.7% |  |
-| 24 | 24% | 95% |  |
-| 25 | 20% | 71% |  |
-| 26 | 24% | 52% | Median |
-| 27 | 21% | 28% |  |
-| 28 | 6% | 7% |  |
-| 29 | 0.8% | 0.9% |  |
+| 22 | 1.1% | 99.9% |  |
+| 23 | 4% | 98.8% |  |
+| 24 | 22% | 95% |  |
+| 25 | 20% | 72% |  |
+| 26 | 28% | 52% | Median |
+| 27 | 20% | 25% |  |
+| 28 | 5% | 5% |  |
+| 29 | 0.5% | 0.6% |  |
 | 30 | 0.1% | 0.1% |  |
 | 31 | 0% | 0% |  |
 
