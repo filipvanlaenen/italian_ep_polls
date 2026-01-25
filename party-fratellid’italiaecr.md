@@ -435,7 +435,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 26 | 24–27 | 23–28 | 23–28 | 22–29 |
-| [21–22 January 2026](2026-01-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 26 | 24–27 | 23–28 | 23–28 | 23–29 |
+| [21–22 January 2026](2026-01-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 26 | 24–27 | 24–28 | 23–28 | 23–29 |
 | [14–19 January 2026](2026-01-19-SWG.html) | SWG <br> La7 | 26 | 25–27 | 24–28 | 24–28 | 23–29 |
 | [14–16 January 2026](2026-01-16-BiDiMedia.html) | BiDiMedia | 24 | 24–27 | 23–27 | 22–27 | 22–28 |
 | [13–15 January 2026](2026-01-15-TermometroPolitico.html) | Termometro Politico | 27 | 25–27 | 25–28 | 25–28 | 24–28 |
@@ -837,12 +837,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 21 | 0.1% | 100% |  |
 | 22 | 1.1% | 99.9% |  |
 | 23 | 4% | 98.8% |  |
-| 24 | 22% | 95% |  |
+| 24 | 23% | 95% |  |
 | 25 | 20% | 72% |  |
-| 26 | 28% | 52% | Median |
+| 26 | 27% | 52% | Median |
 | 27 | 20% | 25% |  |
-| 28 | 5% | 5% |  |
-| 29 | 0.5% | 0.6% |  |
+| 28 | 4% | 5% |  |
+| 29 | 0.5% | 0.7% |  |
 | 30 | 0.1% | 0.1% |  |
 | 31 | 0% | 0% |  |
 
