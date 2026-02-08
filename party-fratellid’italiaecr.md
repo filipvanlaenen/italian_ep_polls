@@ -10,12 +10,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 30.0% | 27.7–32.1% | 27.0–32.7% | 26.5–33.3% | 25.4–34.3% |
+| N/A | [Poll Average](average.html) | 29.9% | 27.7–32.0% | 27.0–32.7% | 26.5–33.2% | 25.5–34.2% |
 | [22 January–4 February 2026](2026-02-04-EMG.html) | EMG | 28.0% | 26.2–29.9% | 25.7–30.4% | 25.3–30.9% | 24.5–31.8% |
 | [28 January–3 February 2026](2026-02-03-YouTrend.html) | YouTrend <br> Sky TG24 | 30.3% | 28.5–32.2% | 28.0–32.8% | 27.5–33.2% | 26.7–34.2% |
 | [28 January–2 February 2026](2026-02-02-SWG.html) | SWG <br> La7 | 31.3% | 29.6–33.1% | 29.2–33.6% | 28.8–34.0% | 28.0–34.9% |
 | [27–29 January 2026](2026-01-29-TermometroPolitico.html) | Termometro Politico | 30.3% | 29.2–31.5% | 28.9–31.8% | 28.6–32.1% | 28.1–32.6% |
-| [26–29 January 2026](2026-01-29-Ipsos.html) | Ipsos <br> Corriere della Sera | 29.4% | N/A | N/A | N/A | N/A |
+| [26–29 January 2026](2026-01-29-Ipsos.html) | Ipsos <br> Corriere della Sera | 29.4% | 27.6–31.3% | 27.1–31.8% | 26.7–32.3% | 25.8–33.2% |
 | [20–27 January 2026](2026-01-27-Ixè.html) | Ixè | 29.1% | 27.3–31.0% | 26.8–31.5% | 26.4–32.0% | 25.5–32.9% |
 | [21–26 January 2026](2026-01-26-SWG.html) | SWG <br> La7 | 31.2% | 29.5–32.9% | 29.0–33.4% | 28.6–33.9% | 27.8–34.7% |
 | [20–22 January 2026](2026-01-22-TermometroPolitico.html) | Termometro Politico | 30.0% | 28.9–31.2% | 28.5–31.5% | 28.3–31.8% | 27.7–32.4% |
@@ -426,14 +426,14 @@ The following table shows the probability mass function per percentage block of 
 | 24.5–25.5% | 0.5% | 99.9% |  |
 | 25.5–26.5% | 2% | 99.4% |  |
 | 26.5–27.5% | 6% | 97% |  |
-| 27.5–28.5% | 12% | 91% |  |
-| 28.5–29.5% | 19% | 79% |  |
-| 29.5–30.5% | 23% | 60% | Median |
-| 30.5–31.5% | 20% | 37% |  |
-| 31.5–32.5% | 11% | 17% |  |
+| 27.5–28.5% | 13% | 91% |  |
+| 28.5–29.5% | 20% | 78% |  |
+| 29.5–30.5% | 23% | 58% | Median |
+| 30.5–31.5% | 19% | 35% |  |
+| 31.5–32.5% | 10% | 16% |  |
 | 32.5–33.5% | 4% | 6% |  |
-| 33.5–34.5% | 1.3% | 2% |  |
-| 34.5–35.5% | 0.3% | 0.3% |  |
+| 33.5–34.5% | 1.2% | 2% |  |
+| 34.5–35.5% | 0.2% | 0.3% |  |
 | 35.5–36.5% | 0% | 0% |  |
 
 
@@ -450,12 +450,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [28 January–3 February 2026](2026-02-03-YouTrend.html) | YouTrend <br> Sky TG24 | 25 | 23–27 | 23–27 | 23–27 | 22–28 |
 | [28 January–2 February 2026](2026-02-02-SWG.html) | SWG <br> La7 | 26 | 24–28 | 24–29 | 24–29 | 23–30 |
 | [27–29 January 2026](2026-01-29-TermometroPolitico.html) | Termometro Politico | 26 | 25–27 | 25–27 | 24–27 | 24–27 |
-| [26–29 January 2026](2026-01-29-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
-| [20–27 January 2026](2026-01-27-Ixè.html) | Ixè | 25 | 23–26 | 22–26 | 22–27 | 21–28 |
-| [21–26 January 2026](2026-01-26-SWG.html) | SWG <br> La7 | 26 | 25–28 | 24–28 | 23–28 | 23–28 |
+| [26–29 January 2026](2026-01-29-Ipsos.html) | Ipsos <br> Corriere della Sera | 24 | 23–25 | 22–26 | 22–26 | 21–27 |
+| [20–27 January 2026](2026-01-27-Ixè.html) | Ixè | 25 | 23–26 | 22–26 | 22–28 | 21–28 |
+| [21–26 January 2026](2026-01-26-SWG.html) | SWG <br> La7 | 26 | 24–28 | 24–28 | 23–29 | 23–29 |
 | [20–22 January 2026](2026-01-22-TermometroPolitico.html) | Termometro Politico | 25 | 25–27 | 25–27 | 25–27 | 23–28 |
 | [21–22 January 2026](2026-01-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 26 | 24–27 | 24–28 | 23–28 | 23–29 |
-| [20–21 January 2026](2026-01-21-Eumetra.html) | Eumetra <br> La7 | 26 | 24–28 | 23–28 | 22–28 | 22–29 |
+| [20–21 January 2026](2026-01-21-Eumetra.html) | Eumetra <br> La7 | 26 | 24–28 | 23–28 | 23–28 | 22–30 |
 | [8–21 January 2026](2026-01-21-EMG.html) | EMG | 25 | 23–27 | 23–27 | 23–27 | 21–27 |
 | [19–20 January 2026](2026-01-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 24 | 22–26 | 22–27 | 21–27 | 20–28 |
 | [14–19 January 2026](2026-01-19-SWG.html) | SWG <br> La7 | 26 | 25–27 | 24–28 | 24–28 | 23–29 |
@@ -856,16 +856,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0.1% | 100% |  |
-| 21 | 0.4% | 99.9% |  |
+| 21 | 0.5% | 99.9% |  |
 | 22 | 4% | 99.4% |  |
-| 23 | 8% | 96% |  |
-| 24 | 23% | 88% |  |
-| 25 | 24% | 65% | Median |
-| 26 | 22% | 40% |  |
-| 27 | 11% | 18% |  |
+| 23 | 11% | 95% |  |
+| 24 | 24% | 85% |  |
+| 25 | 24% | 61% | Median |
+| 26 | 20% | 37% |  |
+| 27 | 10% | 16% |  |
 | 28 | 6% | 7% |  |
-| 29 | 0.9% | 1.0% |  |
-| 30 | 0.1% | 0.1% |  |
+| 29 | 0.8% | 1.0% |  |
+| 30 | 0.2% | 0.2% |  |
 | 31 | 0% | 0% |  |
 
 
