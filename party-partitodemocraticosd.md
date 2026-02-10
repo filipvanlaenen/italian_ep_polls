@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 22.1% | 20.3–23.9% | 19.8–24.4% | 19.3–24.9% | 18.5–25.8% |
+| [4–5 February 2026](2026-02-05-Tecnè.html) | Tecnè <br> Agenzia Dire | 21.9% | 20.3–23.7% | 19.9–24.2% | 19.5–24.6% | 18.7–25.5% |
 | [22 January–4 February 2026](2026-02-04-EMG.html) | EMG | 22.8% | 21.2–24.6% | 20.7–25.1% | 20.3–25.5% | 19.5–26.4% |
 | [28 January–3 February 2026](2026-02-03-YouTrend.html) | YouTrend <br> Sky TG24 | 21.0% | 19.4–22.7% | 19.0–23.2% | 18.6–23.6% | 17.8–24.5% |
 | [28 January–2 February 2026](2026-02-02-SWG.html) | SWG <br> La7 | 22.5% | 21.0–24.1% | 20.6–24.6% | 20.2–25.0% | 19.5–25.7% |
@@ -438,6 +439,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 19 | 17–20 | 16–21 | 16–21 | 15–22 |
+| [4–5 February 2026](2026-02-05-Tecnè.html) | Tecnè <br> Agenzia Dire | 18 | 16–19 | 16–20 | 16–20 | 15–21 |
 | [22 January–4 February 2026](2026-02-04-EMG.html) | EMG | 20 | 19–21 | 18–22 | 18–22 | 17–23 |
 | [28 January–3 February 2026](2026-02-03-YouTrend.html) | YouTrend <br> Sky TG24 | 17 | 16–18 | 16–19 | 15–20 | 15–20 |
 | [28 January–2 February 2026](2026-02-02-SWG.html) | SWG <br> La7 | 19 | 18–20 | 17–21 | 17–21 | 16–21 |
@@ -842,12 +844,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0.1% | 100% |  |
-| 15 | 1.2% | 99.8% |  |
-| 16 | 6% | 98.7% |  |
-| 17 | 16% | 93% |  |
-| 18 | 22% | 76% |  |
-| 19 | 24% | 54% | Median |
-| 20 | 21% | 30% |  |
+| 15 | 1.3% | 99.8% |  |
+| 16 | 6% | 98.5% |  |
+| 17 | 17% | 92% |  |
+| 18 | 23% | 75% |  |
+| 19 | 23% | 53% | Median |
+| 20 | 20% | 29% |  |
 | 21 | 7% | 9% |  |
 | 22 | 2% | 2% |  |
 | 23 | 0.2% | 0.2% |  |
