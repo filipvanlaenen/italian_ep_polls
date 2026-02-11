@@ -447,7 +447,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 25 | 23–27 | 23–28 | 22–28 | 21–29 |
-| [4–5 February 2026](2026-02-05-Tecnè.html) | Tecnè <br> Agenzia Dire | 25 | 24–27 | 24–28 | 23–28 | 22–29 |
+| [4–5 February 2026](2026-02-05-Tecnè.html) | Tecnè <br> Agenzia Dire | 25 | 24–27 | 23–27 | 23–28 | 22–29 |
 | [22 January–4 February 2026](2026-02-04-EMG.html) | EMG | 24 | 23–26 | 22–26 | 22–27 | 22–28 |
 | [28 January–3 February 2026](2026-02-03-YouTrend.html) | YouTrend <br> Sky TG24 | 25 | 23–27 | 23–27 | 23–27 | 22–28 |
 | [28 January–2 February 2026](2026-02-02-SWG.html) | SWG <br> La7 | 26 | 24–28 | 24–29 | 24–29 | 23–30 |
@@ -861,9 +861,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 21 | 0.5% | 99.9% |  |
 | 22 | 4% | 99.4% |  |
 | 23 | 11% | 95% |  |
-| 24 | 26% | 84% |  |
-| 25 | 23% | 58% | Median |
-| 26 | 18% | 35% |  |
+| 24 | 25% | 84% |  |
+| 25 | 24% | 59% | Median |
+| 26 | 19% | 35% |  |
 | 27 | 11% | 17% |  |
 | 28 | 5% | 6% |  |
 | 29 | 0.7% | 0.9% |  |
