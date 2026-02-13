@@ -10,95 +10,98 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.6% | 0.4–1.0% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
+| N/A | [Poll Average](average.html) | 0.6% | 0.4–1.0% | 0.3–1.1% | 0.3–1.3% | 0.2–1.5% |
+| [6–9 February 2026](2026-02-09-YouTrend.html) | YouTrend <br> Sky TG 24 | 0.6% | 0.4–1.1% | 0.3–1.3% | 0.3–1.4% | 0.2–1.7% |
+| [4–9 February 2026](2026-02-09-SWG.html) | SWG <br> La7 | 0.6% | 0.4–1.0% | 0.3–1.1% | 0.3–1.2% | 0.2–1.4% |
+| [3–5 February 2026](2026-02-05-TermometroPolitico.html) | Termometro Politico | 0.6% | 0.4–0.8% | 0.4–0.9% | 0.4–0.9% | 0.3–1.1% |
 | [4–5 February 2026](2026-02-05-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
 | [22 January–4 February 2026](2026-02-04-EMG.html) | EMG | 0.5% | 0.3–0.9% | 0.3–1.1% | 0.2–1.2% | 0.2–1.4% |
-| [28 January–3 February 2026](2026-02-03-YouTrend.html) | YouTrend <br> Sky TG24 | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
-| [28 January–2 February 2026](2026-02-02-SWG.html) | SWG <br> La7 | 0.6% | 0.4–1.0% | 0.3–1.1% | 0.3–1.2% | 0.2–1.4% |
+| [28 January–3 February 2026](2026-02-03-YouTrend.html) | YouTrend <br> Sky TG24 | 0.6% | N/A | N/A | N/A | N/A |
+| [28 January–2 February 2026](2026-02-02-SWG.html) | SWG <br> La7 | 0.6% | N/A | N/A | N/A | N/A |
 | [27–29 January 2026](2026-01-29-TermometroPolitico.html) | Termometro Politico | 0.6% | 0.4–0.8% | 0.4–0.9% | 0.4–1.0% | 0.3–1.1% |
 | [26–29 January 2026](2026-01-29-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
 | [20–27 January 2026](2026-01-27-Ixè.html) | Ixè | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
 | [21–26 January 2026](2026-01-26-SWG.html) | SWG <br> La7 | 0.6% | 0.4–1.0% | 0.3–1.1% | 0.3–1.2% | 0.2–1.4% |
-| [20–22 January 2026](2026-01-22-TermometroPolitico.html) | Termometro Politico | 0.6% | 0.5–0.9% | 0.4–0.9% | 0.4–1.0% | 0.3–1.1% |
+| [20–22 January 2026](2026-01-22-TermometroPolitico.html) | Termometro Politico | 0.6% | N/A | N/A | N/A | N/A |
 | [21–22 January 2026](2026-01-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
-| [20–21 January 2026](2026-01-21-Eumetra.html) | Eumetra <br> La7 | 0.6% | 0.4–1.2% | 0.3–1.3% | 0.3–1.5% | 0.2–1.8% |
-| [8–21 January 2026](2026-01-21-EMG.html) | EMG | 0.5% | 0.3–0.9% | 0.3–1.1% | 0.2–1.2% | 0.2–1.4% |
-| [19–20 January 2026](2026-01-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.6% | 0.4–1.2% | 0.3–1.3% | 0.3–1.4% | 0.2–1.8% |
-| [14–19 January 2026](2026-01-19-SWG.html) | SWG <br> La7 | 0.6% | 0.4–1.0% | 0.3–1.1% | 0.3–1.2% | 0.2–1.4% |
-| [14–16 January 2026](2026-01-16-BiDiMedia.html) | BiDiMedia | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
-| [13–15 January 2026](2026-01-15-TermometroPolitico.html) | Termometro Politico | 0.6% | 0.5–0.9% | 0.4–0.9% | 0.4–1.0% | 0.3–1.1% |
-| [14–15 January 2026](2026-01-15-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
-| [13–14 January 2026](2026-01-14-Eumetra.html) | Eumetra <br> La7 | 0.6% | 0.4–1.2% | 0.3–1.3% | 0.3–1.5% | 0.2–1.8% |
-| [12–13 January 2026](2026-01-13-EMG.html) | EMG | 0.5% | 0.3–0.9% | 0.3–1.1% | 0.2–1.2% | 0.2–1.4% |
+| [20–21 January 2026](2026-01-21-Eumetra.html) | Eumetra <br> La7 | 0.6% | N/A | N/A | N/A | N/A |
+| [8–21 January 2026](2026-01-21-EMG.html) | EMG | 0.5% | N/A | N/A | N/A | N/A |
+| [19–20 January 2026](2026-01-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.6% | N/A | N/A | N/A | N/A |
+| [14–19 January 2026](2026-01-19-SWG.html) | SWG <br> La7 | 0.6% | N/A | N/A | N/A | N/A |
+| [14–16 January 2026](2026-01-16-BiDiMedia.html) | BiDiMedia | 0.6% | N/A | N/A | N/A | N/A |
+| [13–15 January 2026](2026-01-15-TermometroPolitico.html) | Termometro Politico | 0.6% | N/A | N/A | N/A | N/A |
+| [14–15 January 2026](2026-01-15-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.6% | N/A | N/A | N/A | N/A |
+| [13–14 January 2026](2026-01-14-Eumetra.html) | Eumetra <br> La7 | 0.6% | N/A | N/A | N/A | N/A |
+| [12–13 January 2026](2026-01-13-EMG.html) | EMG | 0.5% | N/A | N/A | N/A | N/A |
 | [7–12 January 2026](2026-01-12-SWG.html) | SWG <br> La7 | 0.6% | N/A | N/A | N/A | N/A |
 | [7–8 January 2026](2026-01-08-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.6% | N/A | N/A | N/A | N/A |
-| [7 January 2026](2026-01-07-Eumetra.html) | Eumetra <br> La7 | 0.6% | 0.4–1.2% | 0.3–1.3% | 0.3–1.5% | 0.2–1.8% |
-| [31 December 2025–7 January 2026](2026-01-07-EMG.html) | EMG | 0.5% | 0.3–0.9% | 0.3–1.1% | 0.2–1.2% | 0.2–1.4% |
-| [17–22 December 2025](2025-12-22-SWG.html) | SWG <br> La7 | 0.6% | 0.4–1.0% | 0.3–1.1% | 0.3–1.2% | 0.2–1.4% |
-| [18–19 December 2025](2025-12-19-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.7% | 0.4–1.1% | 0.4–1.2% | 0.3–1.3% | 0.3–1.5% |
-| [16–18 December 2025](2025-12-18-TermometroPolitico.html) | Termometro Politico | 0.6% | 0.4–0.8% | 0.4–0.9% | 0.4–1.0% | 0.3–1.1% |
-| [17–18 December 2025](2025-12-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
-| [15–18 December 2025](2025-12-18-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.5% | 0.3–0.9% | 0.3–1.1% | 0.2–1.2% | 0.2–1.4% |
-| [16–18 December 2025](2025-12-18-Demopolis.html) | Demopolis <br> La7 | 0.6% | 0.4–0.9% | 0.4–1.0% | 0.3–1.1% | 0.3–1.2% |
-| [15–16 December 2025](2025-12-16-EMG.html) | EMG | 0.5% | 0.3–0.9% | 0.3–1.1% | 0.2–1.2% | 0.2–1.4% |
-| [15–16 December 2025](2025-12-16-BiDiMedia.html) | BiDiMedia | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
-| [10–15 December 2025](2025-12-15-SWG.html) | SWG <br> La7 | 0.6% | 0.4–1.0% | 0.3–1.1% | 0.3–1.2% | 0.2–1.4% |
-| [15 December 2025](2025-12-15-Piepoli.html) | Piepoli | 0.4% | 0.2–1.1% | 0.2–1.3% | 0.1–1.4% | 0.1–1.8% |
+| [7 January 2026](2026-01-07-Eumetra.html) | Eumetra <br> La7 | 0.6% | N/A | N/A | N/A | N/A |
+| [31 December 2025–7 January 2026](2026-01-07-EMG.html) | EMG | 0.5% | N/A | N/A | N/A | N/A |
+| [17–22 December 2025](2025-12-22-SWG.html) | SWG <br> La7 | 0.6% | N/A | N/A | N/A | N/A |
+| [18–19 December 2025](2025-12-19-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.7% | N/A | N/A | N/A | N/A |
+| [16–18 December 2025](2025-12-18-TermometroPolitico.html) | Termometro Politico | 0.6% | N/A | N/A | N/A | N/A |
+| [17–18 December 2025](2025-12-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.6% | N/A | N/A | N/A | N/A |
+| [15–18 December 2025](2025-12-18-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.5% | N/A | N/A | N/A | N/A |
+| [16–18 December 2025](2025-12-18-Demopolis.html) | Demopolis <br> La7 | 0.6% | N/A | N/A | N/A | N/A |
+| [15–16 December 2025](2025-12-16-EMG.html) | EMG | 0.5% | N/A | N/A | N/A | N/A |
+| [15–16 December 2025](2025-12-16-BiDiMedia.html) | BiDiMedia | 0.6% | N/A | N/A | N/A | N/A |
+| [10–15 December 2025](2025-12-15-SWG.html) | SWG <br> La7 | 0.6% | N/A | N/A | N/A | N/A |
+| [15 December 2025](2025-12-15-Piepoli.html) | Piepoli | 0.4% | N/A | N/A | N/A | N/A |
 | [15 December 2025](2025-12-15-Ipsos.html) | Ipsos | 0.6% | N/A | N/A | N/A | N/A |
 | [1–12 December 2025](2025-12-12-EMG.html) | EMG | 0.5% | N/A | N/A | N/A | N/A |
 | [9–11 December 2025](2025-12-11-TermometroPolitico.html) | Termometro Politico | 0.6% | N/A | N/A | N/A | N/A |
 | [10–11 December 2025](2025-12-11-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.6% | N/A | N/A | N/A | N/A |
-| [9–11 December 2025](2025-12-11-BiDiMedia.html) | BiDiMedia | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
-| [26 November–10 December 2025](2025-12-10-EMG.html) | EMG | 0.5% | 0.3–0.9% | 0.3–1.1% | 0.2–1.2% | 0.2–1.4% |
-| [3–8 December 2025](2025-12-08-SWG.html) | SWG <br> La7 | 0.6% | 0.4–1.0% | 0.3–1.1% | 0.3–1.2% | 0.2–1.4% |
-| [4–5 December 2025](2025-12-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.7% | 0.5–1.3% | 0.4–1.5% | 0.3–1.6% | 0.2–1.9% |
+| [9–11 December 2025](2025-12-11-BiDiMedia.html) | BiDiMedia | 0.6% | N/A | N/A | N/A | N/A |
+| [26 November–10 December 2025](2025-12-10-EMG.html) | EMG | 0.5% | N/A | N/A | N/A | N/A |
+| [3–8 December 2025](2025-12-08-SWG.html) | SWG <br> La7 | 0.6% | N/A | N/A | N/A | N/A |
+| [4–5 December 2025](2025-12-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.7% | N/A | N/A | N/A | N/A |
 | [2–4 December 2025](2025-12-04-TermometroPolitico.html) | Termometro Politico | 0.6% | N/A | N/A | N/A | N/A |
 | [3–4 December 2025](2025-12-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.5% | N/A | N/A | N/A | N/A |
-| [2–3 December 2025](2025-12-03-Eumetra.html) | Eumetra <br> La7 | 0.6% | 0.4–1.2% | 0.3–1.3% | 0.3–1.5% | 0.2–1.8% |
-| [1–2 December 2025](2025-12-02-EMG.html) | EMG | 0.5% | 0.3–0.9% | 0.3–1.1% | 0.2–1.2% | 0.2–1.4% |
-| [1–2 December 2025](2025-12-02-Demopolis.html) | Demopolis <br> La7 | 0.6% | 0.4–0.9% | 0.4–1.0% | 0.3–1.1% | 0.3–1.2% |
-| [26 November–1 December 2025](2025-12-01-SWG.html) | SWG <br> La7 | 0.6% | 0.4–1.0% | 0.3–1.1% | 0.3–1.2% | 0.2–1.4% |
-| [25–27 November 2025](2025-11-27-TermometroPolitico.html) | Termometro Politico | 0.6% | 0.4–0.9% | 0.4–0.9% | 0.3–1.0% | 0.3–1.2% |
-| [26–27 November 2025](2025-11-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
-| [20–27 November 2025](2025-11-27-Ixè.html) | Ixè | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
-| [24–27 November 2025](2025-11-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
-| [25–26 November 2025](2025-11-26-Eumetra.html) | Eumetra <br> La7 | 0.6% | 0.4–1.2% | 0.3–1.3% | 0.3–1.5% | 0.2–1.8% |
-| [12–26 November 2025](2025-11-26-EMG.html) | EMG | 0.5% | 0.3–0.9% | 0.3–1.1% | 0.2–1.2% | 0.2–1.4% |
-| [19–24 November 2025](2025-11-24-SWG.html) | SWG <br> La7 | 0.7% | 0.4–1.1% | 0.4–1.2% | 0.3–1.3% | 0.3–1.6% |
-| [21–23 November 2025](2025-11-23-BiDiMedia.html) | BiDiMedia | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
-| [18–20 November 2025](2025-11-20-TermometroPolitico.html) | Termometro Politico | 0.6% | 0.4–0.8% | 0.4–0.9% | 0.4–1.0% | 0.3–1.1% |
-| [17–18 November 2025](2025-11-18-Piepoli.html) | Piepoli | 0.6% | 0.3–1.3% | 0.3–1.5% | 0.2–1.7% | 0.1–2.1% |
-| [12–17 November 2025](2025-11-17-SWG.html) | SWG <br> La7 | 0.6% | 0.4–1.0% | 0.3–1.1% | 0.3–1.2% | 0.2–1.4% |
-| [11–13 November 2025](2025-11-13-TermometroPolitico.html) | Termometro Politico | 0.6% | 0.4–0.8% | 0.4–0.9% | 0.4–1.0% | 0.3–1.1% |
-| [29 October–13 November 2025](2025-11-13-EMG.html) | EMG | 0.5% | 0.3–0.9% | 0.3–1.1% | 0.2–1.2% | 0.2–1.4% |
-| [11–12 November 2025](2025-11-12-Eumetra.html) | Eumetra <br> La7 | 0.6% | 0.4–1.2% | 0.3–1.3% | 0.3–1.5% | 0.2–1.8% |
+| [2–3 December 2025](2025-12-03-Eumetra.html) | Eumetra <br> La7 | 0.6% | N/A | N/A | N/A | N/A |
+| [1–2 December 2025](2025-12-02-EMG.html) | EMG | 0.5% | N/A | N/A | N/A | N/A |
+| [1–2 December 2025](2025-12-02-Demopolis.html) | Demopolis <br> La7 | 0.6% | N/A | N/A | N/A | N/A |
+| [26 November–1 December 2025](2025-12-01-SWG.html) | SWG <br> La7 | 0.6% | N/A | N/A | N/A | N/A |
+| [25–27 November 2025](2025-11-27-TermometroPolitico.html) | Termometro Politico | 0.6% | N/A | N/A | N/A | N/A |
+| [26–27 November 2025](2025-11-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.6% | N/A | N/A | N/A | N/A |
+| [20–27 November 2025](2025-11-27-Ixè.html) | Ixè | 0.6% | N/A | N/A | N/A | N/A |
+| [24–27 November 2025](2025-11-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.6% | N/A | N/A | N/A | N/A |
+| [25–26 November 2025](2025-11-26-Eumetra.html) | Eumetra <br> La7 | 0.6% | N/A | N/A | N/A | N/A |
+| [12–26 November 2025](2025-11-26-EMG.html) | EMG | 0.5% | N/A | N/A | N/A | N/A |
+| [19–24 November 2025](2025-11-24-SWG.html) | SWG <br> La7 | 0.7% | N/A | N/A | N/A | N/A |
+| [21–23 November 2025](2025-11-23-BiDiMedia.html) | BiDiMedia | 0.6% | N/A | N/A | N/A | N/A |
+| [18–20 November 2025](2025-11-20-TermometroPolitico.html) | Termometro Politico | 0.6% | N/A | N/A | N/A | N/A |
+| [17–18 November 2025](2025-11-18-Piepoli.html) | Piepoli | 0.6% | N/A | N/A | N/A | N/A |
+| [12–17 November 2025](2025-11-17-SWG.html) | SWG <br> La7 | 0.6% | N/A | N/A | N/A | N/A |
+| [11–13 November 2025](2025-11-13-TermometroPolitico.html) | Termometro Politico | 0.6% | N/A | N/A | N/A | N/A |
+| [29 October–13 November 2025](2025-11-13-EMG.html) | EMG | 0.5% | N/A | N/A | N/A | N/A |
+| [11–12 November 2025](2025-11-12-Eumetra.html) | Eumetra <br> La7 | 0.6% | N/A | N/A | N/A | N/A |
 | [10–11 November 2025](2025-11-11-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.6% | N/A | N/A | N/A | N/A |
-| [5–10 November 2025](2025-11-10-SWG.html) | SWG <br> La7 | 0.6% | 0.4–1.0% | 0.3–1.1% | 0.3–1.2% | 0.2–1.4% |
-| [4–6 November 2025](2025-11-06-TermometroPolitico.html) | Termometro Politico | 0.6% | 0.4–0.8% | 0.4–0.9% | 0.3–1.0% | 0.3–1.1% |
-| [4–6 November 2025](2025-11-06-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.5% | 0.3–0.9% | 0.3–1.1% | 0.2–1.2% | 0.2–1.4% |
+| [5–10 November 2025](2025-11-10-SWG.html) | SWG <br> La7 | 0.6% | N/A | N/A | N/A | N/A |
+| [4–6 November 2025](2025-11-06-TermometroPolitico.html) | Termometro Politico | 0.6% | N/A | N/A | N/A | N/A |
+| [4–6 November 2025](2025-11-06-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.5% | N/A | N/A | N/A | N/A |
 | [6 November 2025](2025-11-06-BiDiMedia.html) | BiDiMedia | 0.6% | N/A | N/A | N/A | N/A |
-| [4–5 November 2025](2025-11-05-Eumetra.html) | Eumetra <br> La7 | 0.6% | 0.4–1.2% | 0.3–1.3% | 0.3–1.5% | 0.2–1.8% |
-| [29 October–3 November 2025](2025-11-03-SWG.html) | SWG <br> La7 | 0.6% | 0.4–1.0% | 0.3–1.1% | 0.3–1.2% | 0.2–1.4% |
-| [30 October–2 November 2025](2025-11-02-BiDiMedia.html) | BiDiMedia | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
+| [4–5 November 2025](2025-11-05-Eumetra.html) | Eumetra <br> La7 | 0.6% | N/A | N/A | N/A | N/A |
+| [29 October–3 November 2025](2025-11-03-SWG.html) | SWG <br> La7 | 0.6% | N/A | N/A | N/A | N/A |
+| [30 October–2 November 2025](2025-11-02-BiDiMedia.html) | BiDiMedia | 0.6% | N/A | N/A | N/A | N/A |
 | [1 November 2025](2025-11-01-SWG.html) | SWG <br> La7 | 0.6% | N/A | N/A | N/A | N/A |
-| [30–31 October 2025](2025-10-31-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.6% | 0.4–1.2% | 0.3–1.3% | 0.3–1.5% | 0.2–1.8% |
-| [28–30 October 2025](2025-10-30-TermometroPolitico.html) | Termometro Politico | 0.6% | 0.4–0.8% | 0.4–0.9% | 0.4–0.9% | 0.3–1.0% |
-| [29–30 October 2025](2025-10-30-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.5% | 0.3–0.9% | 0.3–1.1% | 0.2–1.2% | 0.2–1.4% |
-| [27–30 October 2025](2025-10-30-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
-| [28–29 October 2025](2025-10-29-Eumetra.html) | Eumetra <br> La7 | 0.6% | 0.4–1.2% | 0.3–1.3% | 0.3–1.5% | 0.2–1.8% |
+| [30–31 October 2025](2025-10-31-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.6% | N/A | N/A | N/A | N/A |
+| [28–30 October 2025](2025-10-30-TermometroPolitico.html) | Termometro Politico | 0.6% | N/A | N/A | N/A | N/A |
+| [29–30 October 2025](2025-10-30-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.5% | N/A | N/A | N/A | N/A |
+| [27–30 October 2025](2025-10-30-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.6% | N/A | N/A | N/A | N/A |
+| [28–29 October 2025](2025-10-29-Eumetra.html) | Eumetra <br> La7 | 0.6% | N/A | N/A | N/A | N/A |
 | [15–29 October 2025](2025-10-29-EMG.html) | EMG | 0.5% | N/A | N/A | N/A | N/A |
-| [22–27 October 2025](2025-10-27-SWG.html) | SWG <br> La7 | 0.6% | 0.4–1.0% | 0.3–1.1% | 0.3–1.2% | 0.2–1.4% |
-| [22–26 October 2025](2025-10-26-BiDiMedia.html) | BiDiMedia | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
-| [21–23 October 2025](2025-10-23-TermometroPolitico.html) | Termometro Politico | 0.6% | 0.4–0.8% | 0.4–0.9% | 0.4–0.9% | 0.3–1.0% |
+| [22–27 October 2025](2025-10-27-SWG.html) | SWG <br> La7 | 0.6% | N/A | N/A | N/A | N/A |
+| [22–26 October 2025](2025-10-26-BiDiMedia.html) | BiDiMedia | 0.6% | N/A | N/A | N/A | N/A |
+| [21–23 October 2025](2025-10-23-TermometroPolitico.html) | Termometro Politico | 0.6% | N/A | N/A | N/A | N/A |
 | [22–23 October 2025](2025-10-23-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.5% | N/A | N/A | N/A | N/A |
-| [21–22 October 2025](2025-10-22-Eumetra.html) | Eumetra <br> La7 | 0.6% | 0.4–1.2% | 0.3–1.3% | 0.3–1.5% | 0.2–1.8% |
+| [21–22 October 2025](2025-10-22-Eumetra.html) | Eumetra <br> La7 | 0.6% | N/A | N/A | N/A | N/A |
 | [15–20 October 2025](2025-10-20-SWG.html) | SWG <br> La7 | 0.6% | N/A | N/A | N/A | N/A |
-| [15–19 October 2025](2025-10-19-EMG.html) | EMG | 0.5% | 0.3–0.9% | 0.3–1.1% | 0.2–1.2% | 0.2–1.4% |
+| [15–19 October 2025](2025-10-19-EMG.html) | EMG | 0.5% | N/A | N/A | N/A | N/A |
 | [15–19 October 2025](2025-10-19-BiDiMedia.html) | BiDiMedia | 0.6% | N/A | N/A | N/A | N/A |
 | [14–16 October 2025](2025-10-16-TermometroPolitico.html) | Termometro Politico | 0.6% | N/A | N/A | N/A | N/A |
 | [14–15 October 2025](2025-10-15-Eumetra.html) | Eumetra <br> La7 | 0.6% | N/A | N/A | N/A | N/A |
 | [1–15 October 2025](2025-10-15-EMG.html) | EMG | 0.5% | N/A | N/A | N/A | N/A |
-| [13–14 October 2025](2025-10-14-Demopolis.html) | Demopolis <br> La7 | 0.6% | 0.4–0.9% | 0.4–1.0% | 0.3–1.1% | 0.2–1.3% |
+| [13–14 October 2025](2025-10-14-Demopolis.html) | Demopolis <br> La7 | 0.6% | N/A | N/A | N/A | N/A |
 | [8–13 October 2025](2025-10-13-SWG.html) | SWG <br> La7 | 0.6% | N/A | N/A | N/A | N/A |
 | [7–9 October 2025](2025-10-09-TermometroPolitico.html) | Termometro Politico | 0.6% | N/A | N/A | N/A | N/A |
 | [7–8 October 2025](2025-10-08-Eumetra.html) | Eumetra <br> La7 | 0.6% | N/A | N/A | N/A | N/A |
@@ -108,14 +111,14 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [2 October 2025](2025-10-02-TermometroPolitico.html) | Termometro Politico | 0.6% | N/A | N/A | N/A | N/A |
 | [17 September–1 October 2025](2025-10-01-EMG.html) | EMG | 0.5% | N/A | N/A | N/A | N/A |
 | [24–29 September 2025](2025-09-29-SWG.html) | SWG <br> La7 | 0.6% | N/A | N/A | N/A | N/A |
-| [22–26 September 2025](2025-09-26-Ixè.html) | Ixè | 0.5% | 0.3–0.9% | 0.3–1.1% | 0.2–1.2% | 0.2–1.4% |
+| [22–26 September 2025](2025-09-26-Ixè.html) | Ixè | 0.5% | N/A | N/A | N/A | N/A |
 | [23–25 September 2025](2025-09-25-TermometroPolitico.html) | Termometro Politico | 0.6% | N/A | N/A | N/A | N/A |
 | [24–25 September 2025](2025-09-25-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.6% | N/A | N/A | N/A | N/A |
 | [17–22 September 2025](2025-09-22-SWG.html) | SWG <br> La7 | 0.6% | N/A | N/A | N/A | N/A |
 | [18–22 September 2025](2025-09-22-BiDiMedia.html) | BiDiMedia | 0.6% | N/A | N/A | N/A | N/A |
 | [16–18 September 2025](2025-09-18-TermometroPolitico.html) | Termometro Politico | 0.6% | N/A | N/A | N/A | N/A |
 | [17–18 September 2025](2025-09-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.6% | N/A | N/A | N/A | N/A |
-| [15–18 September 2025](2025-09-18-DemosPi.html) | Demos & Pi <br> La Repubblica | 0.6% | 0.4–1.0% | 0.3–1.2% | 0.3–1.3% | 0.2–1.5% |
+| [15–18 September 2025](2025-09-18-DemosPi.html) | Demos & Pi <br> La Repubblica | 0.6% | N/A | N/A | N/A | N/A |
 | [16–17 September 2025](2025-09-17-Eumetra.html) | Eumetra <br> La7 | 0.6% | N/A | N/A | N/A | N/A |
 | [10–15 September 2025](2025-09-15-SWG.html) | SWG <br> La7 | 0.6% | N/A | N/A | N/A | N/A |
 | [10–15 September 2025](2025-09-15-BiDiMedia.html) | BiDiMedia | 0.6% | N/A | N/A | N/A | N/A |
@@ -123,7 +126,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [10–11 September 2025](2025-09-11-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.6% | N/A | N/A | N/A | N/A |
 | [9–10 September 2025](2025-09-10-Eumetra.html) | Eumetra <br> La7 | 0.6% | N/A | N/A | N/A | N/A |
 | [3–8 September 2025](2025-09-08-SWG.html) | SWG <br> La7 | 0.6% | N/A | N/A | N/A | N/A |
-| [3–5 September 2025](2025-09-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.6% | 0.4–1.2% | 0.3–1.3% | 0.3–1.4% | 0.2–1.8% |
+| [3–5 September 2025](2025-09-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.6% | N/A | N/A | N/A | N/A |
 | [2–4 September 2025](2025-09-04-TermometroPolitico.html) | Termometro Politico | 0.6% | N/A | N/A | N/A | N/A |
 | [3–4 September 2025](2025-09-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.6% | N/A | N/A | N/A | N/A |
 | [27 August–1 September 2025](2025-09-01-SWG.html) | SWG <br> La7 | 0.6% | N/A | N/A | N/A | N/A |
@@ -399,9 +402,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 33% | 100% | Last Result |
-| 0.5–1.5% | 67% | 67% | Median |
-| 1.5–2.5% | 0.6% | 0.6% |  |
+| 0.0–0.5% | 34% | 100% | Last Result |
+| 0.5–1.5% | 66% | 66% | Median |
+| 1.5–2.5% | 0.4% | 0.4% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -414,94 +417,97 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [6–9 February 2026](2026-02-09-YouTrend.html) | YouTrend <br> Sky TG 24 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [4–9 February 2026](2026-02-09-SWG.html) | SWG <br> La7 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [3–5 February 2026](2026-02-05-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [4–5 February 2026](2026-02-05-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [22 January–4 February 2026](2026-02-04-EMG.html) | EMG | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [28 January–3 February 2026](2026-02-03-YouTrend.html) | YouTrend <br> Sky TG24 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [28 January–2 February 2026](2026-02-02-SWG.html) | SWG <br> La7 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [22 January–4 February 2026](2026-02-04-EMG.html) | EMG | 0 | 0 | 0 | 0–1 | 0–1 |
+| [28 January–3 February 2026](2026-02-03-YouTrend.html) | YouTrend <br> Sky TG24 |  |  |  |  |  |
+| [28 January–2 February 2026](2026-02-02-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [27–29 January 2026](2026-01-29-TermometroPolitico.html) | Termometro Politico | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [26–29 January 2026](2026-01-29-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [20–27 January 2026](2026-01-27-Ixè.html) | Ixè | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [21–26 January 2026](2026-01-26-SWG.html) | SWG <br> La7 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [20–22 January 2026](2026-01-22-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0–1 |
+| [21–26 January 2026](2026-01-26-SWG.html) | SWG <br> La7 | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [20–22 January 2026](2026-01-22-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [21–22 January 2026](2026-01-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [20–21 January 2026](2026-01-21-Eumetra.html) | Eumetra <br> La7 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [8–21 January 2026](2026-01-21-EMG.html) | EMG | 0 | 0 | 0 | 0–1 | 0–1 |
-| [19–20 January 2026](2026-01-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [14–19 January 2026](2026-01-19-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0–1 | 0–1 |
-| [14–16 January 2026](2026-01-16-BiDiMedia.html) | BiDiMedia | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [13–15 January 2026](2026-01-15-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [14–15 January 2026](2026-01-15-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [13–14 January 2026](2026-01-14-Eumetra.html) | Eumetra <br> La7 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [12–13 January 2026](2026-01-13-EMG.html) | EMG | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [20–21 January 2026](2026-01-21-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
+| [8–21 January 2026](2026-01-21-EMG.html) | EMG |  |  |  |  |  |
+| [19–20 January 2026](2026-01-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
+| [14–19 January 2026](2026-01-19-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [14–16 January 2026](2026-01-16-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
+| [13–15 January 2026](2026-01-15-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [14–15 January 2026](2026-01-15-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [13–14 January 2026](2026-01-14-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
+| [12–13 January 2026](2026-01-13-EMG.html) | EMG |  |  |  |  |  |
 | [7–12 January 2026](2026-01-12-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [7–8 January 2026](2026-01-08-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
-| [7 January 2026](2026-01-07-Eumetra.html) | Eumetra <br> La7 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [31 December 2025–7 January 2026](2026-01-07-EMG.html) | EMG | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [17–22 December 2025](2025-12-22-SWG.html) | SWG <br> La7 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [18–19 December 2025](2025-12-19-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [16–18 December 2025](2025-12-18-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [17–18 December 2025](2025-12-18-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [15–18 December 2025](2025-12-18-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [16–18 December 2025](2025-12-18-Demopolis.html) | Demopolis <br> La7 | 0 | 0 | 0 | 0–1 | 0–1 |
-| [15–16 December 2025](2025-12-16-EMG.html) | EMG | 0 | 0 | 0 | 0 | 0–1 |
-| [15–16 December 2025](2025-12-16-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [10–15 December 2025](2025-12-15-SWG.html) | SWG <br> La7 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [15 December 2025](2025-12-15-Piepoli.html) | Piepoli | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [7 January 2026](2026-01-07-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
+| [31 December 2025–7 January 2026](2026-01-07-EMG.html) | EMG |  |  |  |  |  |
+| [17–22 December 2025](2025-12-22-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [18–19 December 2025](2025-12-19-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
+| [16–18 December 2025](2025-12-18-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [17–18 December 2025](2025-12-18-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [15–18 December 2025](2025-12-18-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
+| [16–18 December 2025](2025-12-18-Demopolis.html) | Demopolis <br> La7 |  |  |  |  |  |
+| [15–16 December 2025](2025-12-16-EMG.html) | EMG |  |  |  |  |  |
+| [15–16 December 2025](2025-12-16-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
+| [10–15 December 2025](2025-12-15-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [15 December 2025](2025-12-15-Piepoli.html) | Piepoli |  |  |  |  |  |
 | [15 December 2025](2025-12-15-Ipsos.html) | Ipsos |  |  |  |  |  |
 | [1–12 December 2025](2025-12-12-EMG.html) | EMG |  |  |  |  |  |
 | [9–11 December 2025](2025-12-11-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [10–11 December 2025](2025-12-11-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
-| [9–11 December 2025](2025-12-11-BiDiMedia.html) | BiDiMedia | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [26 November–10 December 2025](2025-12-10-EMG.html) | EMG | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [3–8 December 2025](2025-12-08-SWG.html) | SWG <br> La7 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [4–5 December 2025](2025-12-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [9–11 December 2025](2025-12-11-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
+| [26 November–10 December 2025](2025-12-10-EMG.html) | EMG |  |  |  |  |  |
+| [3–8 December 2025](2025-12-08-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [4–5 December 2025](2025-12-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
 | [2–4 December 2025](2025-12-04-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [3–4 December 2025](2025-12-04-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
-| [2–3 December 2025](2025-12-03-Eumetra.html) | Eumetra <br> La7 | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [1–2 December 2025](2025-12-02-EMG.html) | EMG | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [1–2 December 2025](2025-12-02-Demopolis.html) | Demopolis <br> La7 | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [26 November–1 December 2025](2025-12-01-SWG.html) | SWG <br> La7 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [25–27 November 2025](2025-11-27-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0–1 |
-| [26–27 November 2025](2025-11-27-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [20–27 November 2025](2025-11-27-Ixè.html) | Ixè | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [24–27 November 2025](2025-11-27-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [25–26 November 2025](2025-11-26-Eumetra.html) | Eumetra <br> La7 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [12–26 November 2025](2025-11-26-EMG.html) | EMG | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [19–24 November 2025](2025-11-24-SWG.html) | SWG <br> La7 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [21–23 November 2025](2025-11-23-BiDiMedia.html) | BiDiMedia | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [18–20 November 2025](2025-11-20-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0–1 | 0–1 |
-| [17–18 November 2025](2025-11-18-Piepoli.html) | Piepoli | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
-| [12–17 November 2025](2025-11-17-SWG.html) | SWG <br> La7 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [11–13 November 2025](2025-11-13-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0–1 | 0–1 |
-| [29 October–13 November 2025](2025-11-13-EMG.html) | EMG | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [11–12 November 2025](2025-11-12-Eumetra.html) | Eumetra <br> La7 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [2–3 December 2025](2025-12-03-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
+| [1–2 December 2025](2025-12-02-EMG.html) | EMG |  |  |  |  |  |
+| [1–2 December 2025](2025-12-02-Demopolis.html) | Demopolis <br> La7 |  |  |  |  |  |
+| [26 November–1 December 2025](2025-12-01-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [25–27 November 2025](2025-11-27-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [26–27 November 2025](2025-11-27-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [20–27 November 2025](2025-11-27-Ixè.html) | Ixè |  |  |  |  |  |
+| [24–27 November 2025](2025-11-27-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
+| [25–26 November 2025](2025-11-26-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
+| [12–26 November 2025](2025-11-26-EMG.html) | EMG |  |  |  |  |  |
+| [19–24 November 2025](2025-11-24-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [21–23 November 2025](2025-11-23-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
+| [18–20 November 2025](2025-11-20-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [17–18 November 2025](2025-11-18-Piepoli.html) | Piepoli |  |  |  |  |  |
+| [12–17 November 2025](2025-11-17-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [11–13 November 2025](2025-11-13-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [29 October–13 November 2025](2025-11-13-EMG.html) | EMG |  |  |  |  |  |
+| [11–12 November 2025](2025-11-12-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [10–11 November 2025](2025-11-11-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
-| [5–10 November 2025](2025-11-10-SWG.html) | SWG <br> La7 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [4–6 November 2025](2025-11-06-TermometroPolitico.html) | Termometro Politico | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [4–6 November 2025](2025-11-06-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [5–10 November 2025](2025-11-10-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [4–6 November 2025](2025-11-06-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [4–6 November 2025](2025-11-06-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [6 November 2025](2025-11-06-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
-| [4–5 November 2025](2025-11-05-Eumetra.html) | Eumetra <br> La7 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [29 October–3 November 2025](2025-11-03-SWG.html) | SWG <br> La7 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [30 October–2 November 2025](2025-11-02-BiDiMedia.html) | BiDiMedia | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [4–5 November 2025](2025-11-05-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
+| [29 October–3 November 2025](2025-11-03-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [30 October–2 November 2025](2025-11-02-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
 | [1 November 2025](2025-11-01-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [30–31 October 2025](2025-10-31-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [28–30 October 2025](2025-10-30-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0–1 |
-| [29–30 October 2025](2025-10-30-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [27–30 October 2025](2025-10-30-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [28–29 October 2025](2025-10-29-Eumetra.html) | Eumetra <br> La7 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [30–31 October 2025](2025-10-31-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
+| [28–30 October 2025](2025-10-30-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [29–30 October 2025](2025-10-30-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [27–30 October 2025](2025-10-30-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
+| [28–29 October 2025](2025-10-29-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [15–29 October 2025](2025-10-29-EMG.html) | EMG |  |  |  |  |  |
-| [22–27 October 2025](2025-10-27-SWG.html) | SWG <br> La7 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [22–26 October 2025](2025-10-26-BiDiMedia.html) | BiDiMedia | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [21–23 October 2025](2025-10-23-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
+| [22–27 October 2025](2025-10-27-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [22–26 October 2025](2025-10-26-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
+| [21–23 October 2025](2025-10-23-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [22–23 October 2025](2025-10-23-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
-| [21–22 October 2025](2025-10-22-Eumetra.html) | Eumetra <br> La7 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [21–22 October 2025](2025-10-22-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [15–20 October 2025](2025-10-20-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [15–19 October 2025](2025-10-19-EMG.html) | EMG | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [15–19 October 2025](2025-10-19-EMG.html) | EMG |  |  |  |  |  |
 | [15–19 October 2025](2025-10-19-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
 | [14–16 October 2025](2025-10-16-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [14–15 October 2025](2025-10-15-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [1–15 October 2025](2025-10-15-EMG.html) | EMG |  |  |  |  |  |
-| [13–14 October 2025](2025-10-14-Demopolis.html) | Demopolis <br> La7 | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [13–14 October 2025](2025-10-14-Demopolis.html) | Demopolis <br> La7 |  |  |  |  |  |
 | [8–13 October 2025](2025-10-13-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [7–9 October 2025](2025-10-09-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [7–8 October 2025](2025-10-08-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
@@ -511,14 +517,14 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [2 October 2025](2025-10-02-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [17 September–1 October 2025](2025-10-01-EMG.html) | EMG |  |  |  |  |  |
 | [24–29 September 2025](2025-09-29-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [22–26 September 2025](2025-09-26-Ixè.html) | Ixè | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [22–26 September 2025](2025-09-26-Ixè.html) | Ixè |  |  |  |  |  |
 | [23–25 September 2025](2025-09-25-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [24–25 September 2025](2025-09-25-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [17–22 September 2025](2025-09-22-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [18–22 September 2025](2025-09-22-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
 | [16–18 September 2025](2025-09-18-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [17–18 September 2025](2025-09-18-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
-| [15–18 September 2025](2025-09-18-DemosPi.html) | Demos & Pi <br> La Repubblica | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [15–18 September 2025](2025-09-18-DemosPi.html) | Demos & Pi <br> La Repubblica |  |  |  |  |  |
 | [16–17 September 2025](2025-09-17-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [10–15 September 2025](2025-09-15-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [10–15 September 2025](2025-09-15-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
@@ -526,7 +532,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [10–11 September 2025](2025-09-11-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [9–10 September 2025](2025-09-10-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [3–8 September 2025](2025-09-08-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [3–5 September 2025](2025-09-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [3–5 September 2025](2025-09-05-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
 | [2–4 September 2025](2025-09-04-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [3–4 September 2025](2025-09-04-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [27 August–1 September 2025](2025-09-01-SWG.html) | SWG <br> La7 |  |  |  |  |  |
@@ -804,8 +810,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 80% | 100% | Last Result, Median |
-| 1 | 20% | 20% |  |
+| 0 | 88% | 100% | Last Result, Median |
+| 1 | 12% | 12% |  |
 | 2 | 0% | 0% |  |
 
 
