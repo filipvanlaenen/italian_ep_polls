@@ -433,7 +433,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [20–22 January 2026](2026-01-22-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [21–22 January 2026](2026-01-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
 | [20–21 January 2026](2026-01-21-Eumetra.html) | Eumetra <br> La7 | 0 | 0 | 0 | 0 | 0 |
-| [8–21 January 2026](2026-01-21-EMG.html) | EMG | 0 | 0 | 0 | 0 | 0–3 |
+| [8–21 January 2026](2026-01-21-EMG.html) | EMG | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | [19–20 January 2026](2026-01-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0 | 0 | 0 |
 | [14–19 January 2026](2026-01-19-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [14–16 January 2026](2026-01-16-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
@@ -454,7 +454,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [15–16 December 2025](2025-12-16-EMG.html) | EMG |  |  |  |  |  |
 | [15–16 December 2025](2025-12-16-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
 | [10–15 December 2025](2025-12-15-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [15 December 2025](2025-12-15-Piepoli.html) | Piepoli | 0 | 0–5 | 0–5 | 0–5 | 0–5 |
+| [15 December 2025](2025-12-15-Piepoli.html) | Piepoli | 0 | 0 | 0 | 0–4 | 0–5 |
 | [15 December 2025](2025-12-15-Ipsos.html) | Ipsos |  |  |  |  |  |
 | [1–12 December 2025](2025-12-12-EMG.html) | EMG |  |  |  |  |  |
 | [9–11 December 2025](2025-12-11-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
@@ -816,7 +816,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 0.2% |  |
 | 2 | 0% | 0.2% |  |
 | 3 | 0.1% | 0.2% |  |
-| 4 | 0.2% | 0.2% |  |
+| 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 
 

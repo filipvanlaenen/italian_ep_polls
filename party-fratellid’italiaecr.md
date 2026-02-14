@@ -462,12 +462,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [20–27 January 2026](2026-01-27-Ixè.html) | Ixè | 25 | 23–26 | 22–26 | 22–28 | 21–28 |
 | [21–26 January 2026](2026-01-26-SWG.html) | SWG <br> La7 | 26 | 24–28 | 24–28 | 23–29 | 23–29 |
 | [20–22 January 2026](2026-01-22-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [21–22 January 2026](2026-01-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 26 | 24–27 | 23–28 | 23–28 | 23–29 |
-| [20–21 January 2026](2026-01-21-Eumetra.html) | Eumetra <br> La7 | 26 | 24–28 | 23–28 | 22–28 | 22–29 |
-| [8–21 January 2026](2026-01-21-EMG.html) | EMG | 25 | 23–25 | 23–26 | 22–26 | 21–27 |
-| [19–20 January 2026](2026-01-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 24 | 22–25 | 22–26 | 21–27 | 21–28 |
+| [21–22 January 2026](2026-01-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 26 | 24–27 | 24–28 | 23–28 | 23–29 |
+| [20–21 January 2026](2026-01-21-Eumetra.html) | Eumetra <br> La7 | 26 | 24–28 | 23–28 | 23–28 | 22–30 |
+| [8–21 January 2026](2026-01-21-EMG.html) | EMG | 25 | 23–27 | 23–27 | 23–27 | 21–27 |
+| [19–20 January 2026](2026-01-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 24 | 22–26 | 22–27 | 21–27 | 20–28 |
 | [14–19 January 2026](2026-01-19-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [14–16 January 2026](2026-01-16-BiDiMedia.html) | BiDiMedia | 24 | 23–26 | 23–26 | 22–27 | 22–28 |
+| [14–16 January 2026](2026-01-16-BiDiMedia.html) | BiDiMedia | 24 | 24–27 | 23–27 | 22–27 | 22–28 |
 | [13–15 January 2026](2026-01-15-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [14–15 January 2026](2026-01-15-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [13–14 January 2026](2026-01-14-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
@@ -485,7 +485,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [15–16 December 2025](2025-12-16-EMG.html) | EMG |  |  |  |  |  |
 | [15–16 December 2025](2025-12-16-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
 | [10–15 December 2025](2025-12-15-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [15 December 2025](2025-12-15-Piepoli.html) | Piepoli | 26 | 24–31 | 24–31 | 24–31 | 24–31 |
+| [15 December 2025](2025-12-15-Piepoli.html) | Piepoli | 25 | 25–28 | 24–29 | 23–29 | 22–31 |
 | [15 December 2025](2025-12-15-Ipsos.html) | Ipsos |  |  |  |  |  |
 | [1–12 December 2025](2025-12-12-EMG.html) | EMG |  |  |  |  |  |
 | [9–11 December 2025](2025-12-11-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
@@ -865,15 +865,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 0% | 100% |  |
 | 20 | 0.1% | 100% |  |
 | 21 | 1.4% | 99.9% |  |
-| 22 | 5% | 98.6% |  |
-| 23 | 11% | 94% |  |
-| 24 | 22% | 82% |  |
-| 25 | 19% | 60% | Median |
-| 26 | 27% | 41% |  |
-| 27 | 6% | 14% |  |
+| 22 | 5% | 98.5% |  |
+| 23 | 10% | 94% |  |
+| 24 | 25% | 83% |  |
+| 25 | 17% | 58% | Median |
+| 26 | 26% | 41% |  |
+| 27 | 7% | 15% |  |
 | 28 | 5% | 7% |  |
 | 29 | 3% | 3% |  |
-| 30 | 0.1% | 0.1% |  |
+| 30 | 0.2% | 0.2% |  |
 | 31 | 0% | 0% |  |
 
 

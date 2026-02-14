@@ -434,11 +434,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [21–26 January 2026](2026-01-26-SWG.html) | SWG <br> La7 | 3 | 3–4 | 2–4 | 2–5 | 2–5 |
 | [20–22 January 2026](2026-01-22-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [21–22 January 2026](2026-01-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
-| [20–21 January 2026](2026-01-21-Eumetra.html) | Eumetra <br> La7 | 3 | 3–4 | 3–4 | 2–5 | 2–5 |
-| [8–21 January 2026](2026-01-21-EMG.html) | EMG | 4 | 3–4 | 3–5 | 2–5 | 2–5 |
+| [20–21 January 2026](2026-01-21-Eumetra.html) | Eumetra <br> La7 | 3 | 3–4 | 2–4 | 2–5 | 2–5 |
+| [8–21 January 2026](2026-01-21-EMG.html) | EMG | 3 | 3–4 | 3–4 | 2–5 | 2–5 |
 | [19–20 January 2026](2026-01-20-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 3 | 3–4 | 3–5 | 2–5 | 2–5 |
 | [14–19 January 2026](2026-01-19-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [14–16 January 2026](2026-01-16-BiDiMedia.html) | BiDiMedia | 4 | 3–5 | 3–5 | 3–5 | 2–5 |
+| [14–16 January 2026](2026-01-16-BiDiMedia.html) | BiDiMedia | 3 | 3–5 | 3–5 | 3–5 | 2–5 |
 | [13–15 January 2026](2026-01-15-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [14–15 January 2026](2026-01-15-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [13–14 January 2026](2026-01-14-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
@@ -456,7 +456,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [15–16 December 2025](2025-12-16-EMG.html) | EMG |  |  |  |  |  |
 | [15–16 December 2025](2025-12-16-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
 | [10–15 December 2025](2025-12-15-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [15 December 2025](2025-12-15-Piepoli.html) | Piepoli | 3 | 3–4 | 3–4 | 2–4 | 0–4 |
+| [15 December 2025](2025-12-15-Piepoli.html) | Piepoli | 3 | 2–4 | 2–5 | 2–5 | 1–5 |
 | [15 December 2025](2025-12-15-Ipsos.html) | Ipsos |  |  |  |  |  |
 | [1–12 December 2025](2025-12-12-EMG.html) | EMG |  |  |  |  |  |
 | [9–11 December 2025](2025-12-11-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
@@ -817,10 +817,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 5% | 100% |  |
-| 3 | 53% | 95% | Median |
-| 4 | 32% | 42% |  |
+| 3 | 54% | 95% | Median |
+| 4 | 30% | 40% |  |
 | 5 | 10% | 10% |  |
-| 6 | 0.1% | 0.1% |  |
+| 6 | 0.1% | 0.2% |  |
 | 7 | 0% | 0% |  |
 
 
