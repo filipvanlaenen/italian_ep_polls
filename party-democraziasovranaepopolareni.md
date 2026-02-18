@@ -10,8 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.3% | 1.0–2.0% | 0.9–2.2% | 0.8–2.4% | 0.7–2.8% |
+| N/A | [Poll Average](average.html) | 1.7% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
 | [11–16 February 2026](2026-02-16-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [10–12 February 2026](2026-02-12-TermometroPolitico.html) | Termometro Politico | 1.1% | N/A | N/A | N/A | N/A |
 | [11–12 February 2026](2026-02-12-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [10–11 February 2026](2026-02-11-Eumetra.html) | Eumetra <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [9–10 February 2026](2026-02-10-EMG.html) | EMG | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
@@ -408,9 +409,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 68% | 100% | Median |
-| 1.5–2.5% | 30% | 32% |  |
-| 2.5–3.5% | 1.5% | 1.5% |  |
+| 0.5–1.5% | 39% | 100% |  |
+| 1.5–2.5% | 58% | 61% | Median |
+| 2.5–3.5% | 3% | 3% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -424,6 +425,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [11–16 February 2026](2026-02-16-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [10–12 February 2026](2026-02-12-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [11–12 February 2026](2026-02-12-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [10–11 February 2026](2026-02-11-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [9–10 February 2026](2026-02-10-EMG.html) | EMG | 0 | 0 | 0 | 0 | 0 |
