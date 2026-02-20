@@ -37,16 +37,16 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#fratelli-d’italia-(ecr)">Fratelli d’Italia (ECR)</a> | 0 | 27 | 25–27 |25–27 |25–27 |24–27 |
-| <a href="#partito-democratico-(s&d)">Partito Democratico (S&D)</a> | 0 | 19 | 19–20 |19–20 |18–20 |18–21 |
-| <a href="#movimento-5-stelle-(gue/ngl)">Movimento 5 Stelle (GUE/NGL)</a> | 0 | 11 | 10–11 |10–11 |10–11 |9–11 |
+| <a href="#fratelli-d’italia-(ecr)">Fratelli d’Italia (ECR)</a> | 0 | 27 | 25–27 |25–27 |24–27 |24–28 |
+| <a href="#partito-democratico-(s&d)">Partito Democratico (S&D)</a> | 0 | 19 | 18–20 |18–20 |18–20 |18–21 |
+| <a href="#movimento-5-stelle-(gue/ngl)">Movimento 5 Stelle (GUE/NGL)</a> | 0 | 11 | 10–11 |9–11 |9–12 |9–12 |
 | <a href="#forza-italia-(epp)">Forza Italia (EPP)</a> | 0 | 6 | 6–7 |6–7 |6–7 |5–7 |
 | <a href="#lega-nord-(pfe)">Lega Nord (PfE)</a> | 0 | 6 | 6–7 |6–7 |6–7 |6–8 |
-| <a href="#futuro-nazionale-(ni)">Futuro Nazionale (NI)</a> | 0 | 0 | 0 |0 |0 |0–4 |
-| <a href="#europa-verde-(greens/efa)">Europa Verde (Greens/EFA)</a> | 0 | 4 | 4 |4 |3–4 |3–4 |
+| <a href="#futuro-nazionale-(ni)">Futuro Nazionale (NI)</a> | 0 | 0 | 0 |0–3 |0–4 |0–4 |
+| <a href="#europa-verde-(greens/efa)">Europa Verde (Greens/EFA)</a> | 0 | 4 | 3–4 |3–5 |3–5 |3–5 |
 | <a href="#azione-(re)">Azione (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#italia-viva-(re)">Italia Viva (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
-| <a href="#sinistra-italiana-(gue/ngl)">Sinistra Italiana (GUE/NGL)</a> | 0 | 2 | 2 |2 |2–3 |2–3 |
+| <a href="#sinistra-italiana-(gue/ngl)">Sinistra Italiana (GUE/NGL)</a> | 0 | 2 | 2 |2–3 |2–3 |2–3 |
 | <a href="#più-europa-(re)">Più Europa (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#democrazia-sovrana-e-popolare-(ni)">Democrazia Sovrana e Popolare (NI)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#noi-moderati-(epp)">Noi Moderati (EPP)</a> | 0 | 0 | 0 |0 |0 |0 |
@@ -83,12 +83,12 @@
 | 20 | 0% | 100% |  |
 | 21 | 0% | 100% |  |
 | 22 | 0% | 100% |  |
-| 23 | 0% | 100% |  |
-| 24 | 0.9% | 100% |  |
-| 25 | 17% | 99.1% |  |
-| 26 | 2% | 82% |  |
-| 27 | 79% | 80% | Median |
-| 28 | 0.2% | 0.2% |  |
+| 23 | 0.3% | 100% |  |
+| 24 | 5% | 99.7% |  |
+| 25 | 18% | 95% |  |
+| 26 | 9% | 77% |  |
+| 27 | 68% | 68% | Median |
+| 28 | 0.5% | 0.6% |  |
 | 29 | 0% | 0% |  |
 
 ### Partito Democratico (S&D)
@@ -117,11 +117,12 @@
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
 | 17 | 0.4% | 100% |  |
-| 18 | 2% | 99.6% |  |
-| 19 | 80% | 97% | Median |
-| 20 | 17% | 18% |  |
-| 21 | 0.5% | 0.5% |  |
-| 22 | 0% | 0% |  |
+| 18 | 10% | 99.6% |  |
+| 19 | 67% | 89% | Median |
+| 20 | 21% | 22% |  |
+| 21 | 0.7% | 0.8% |  |
+| 22 | 0.1% | 0.1% |  |
+| 23 | 0% | 0% |  |
 
 ### Movimento 5 Stelle (GUE/NGL)
 
@@ -140,10 +141,10 @@
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 1.3% | 100% |  |
-| 10 | 13% | 98.7% |  |
-| 11 | 86% | 86% | Median |
-| 12 | 0.2% | 0.2% |  |
+| 9 | 7% | 100% |  |
+| 10 | 13% | 93% |  |
+| 11 | 77% | 81% | Median |
+| 12 | 3% | 3% |  |
 | 13 | 0% | 0% |  |
 
 ### Forza Italia (EPP)
@@ -159,9 +160,9 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0.8% | 100% |  |
-| 6 | 88% | 99.2% | Median |
-| 7 | 11% | 11% |  |
+| 5 | 2% | 100% |  |
+| 6 | 85% | 98% | Median |
+| 7 | 12% | 12% |  |
 | 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |
 
@@ -178,11 +179,12 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0% | 100% |  |
-| 6 | 80% | 100% | Median |
-| 7 | 19% | 20% |  |
-| 8 | 1.3% | 1.3% |  |
-| 9 | 0% | 0% |  |
+| 5 | 0.1% | 100% |  |
+| 6 | 67% | 99.9% | Median |
+| 7 | 30% | 33% |  |
+| 8 | 2% | 2% |  |
+| 9 | 0.1% | 0.1% |  |
+| 10 | 0% | 0% |  |
 
 ### Futuro Nazionale (NI)
 
@@ -192,11 +194,11 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98% | 100% | Last Result, Median |
-| 1 | 0% | 2% |  |
-| 2 | 0% | 2% |  |
-| 3 | 1.0% | 2% |  |
-| 4 | 1.0% | 1.0% |  |
+| 0 | 95% | 100% | Last Result, Median |
+| 1 | 0% | 5% |  |
+| 2 | 0% | 5% |  |
+| 3 | 1.0% | 5% |  |
+| 4 | 4% | 4% |  |
 | 5 | 0% | 0% |  |
 
 ### Europa Verde (Greens/EFA)
@@ -210,9 +212,9 @@
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 4% | 100% |  |
-| 4 | 96% | 96% | Median |
-| 5 | 0.1% | 0.1% |  |
+| 3 | 12% | 100% |  |
+| 4 | 83% | 88% | Median |
+| 5 | 5% | 5% |  |
 | 6 | 0% | 0% |  |
 
 ### Azione (RE)
@@ -223,7 +225,11 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 99.9% | 100% | Last Result, Median |
+| 1 | 0% | 0.1% |  |
+| 2 | 0% | 0.1% |  |
+| 3 | 0.1% | 0.1% |  |
+| 4 | 0% | 0% |  |
 
 ### Italia Viva (RE)
 
@@ -244,9 +250,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.1% | 100% |  |
-| 2 | 96% | 99.9% | Median |
-| 3 | 3% | 3% |  |
+| 1 | 0.3% | 100% |  |
+| 2 | 90% | 99.7% | Median |
+| 3 | 10% | 10% |  |
 | 4 | 0% | 0% |  |
 
 ### Più Europa (RE)
@@ -287,8 +293,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.2% | 100% | Last Result, Median |
-| 1 | 0.8% | 0.8% |  |
+| 0 | 98% | 100% | Last Result, Median |
+| 1 | 2% | 2% |  |
 | 2 | 0% | 0% |  |
 
 
@@ -313,11 +319,12 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0% | 100% |  |
-| 6 | 80% | 100% | Median |
-| 7 | 19% | 20% |  |
-| 8 | 1.3% | 1.3% |  |
-| 9 | 0% | 0% |  |
+| 5 | 0.1% | 100% |  |
+| 6 | 67% | 99.9% | Median |
+| 7 | 30% | 33% |  |
+| 8 | 2% | 2% |  |
+| 9 | 0.1% | 0.1% |  |
+| 10 | 0% | 0% |  |
 
 
 ## Technical Information
@@ -331,6 +338,6 @@
 ### Calculations
 
 + **Sample size:** 2500
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 1.25%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 1.62%
 
