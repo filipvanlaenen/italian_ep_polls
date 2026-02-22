@@ -13,6 +13,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 0.7% | 0.5–1.0% | 0.5–1.1% | 0.4–1.2% | 0.3–1.3% |
 | [17–18 February 2026](2026-02-18-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.0% | N/A | N/A | N/A | N/A |
 | [17–18 February 2026](2026-02-18-Eumetra.html) | Eumetra | 0.0% | N/A | N/A | N/A | N/A |
+| [5–18 February 2026](2026-02-18-EMG.html) | EMG | 0.0% | N/A | N/A | N/A | N/A |
 | [11–16 February 2026](2026-02-16-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [11–14 February 2026](2026-02-14-BiDiMedia.html) | BiDiMedia | 0.7% | 0.5–1.0% | 0.5–1.1% | 0.4–1.2% | 0.3–1.3% |
 | [10–12 February 2026](2026-02-12-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
@@ -430,6 +431,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [17–18 February 2026](2026-02-18-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
 | [17–18 February 2026](2026-02-18-Eumetra.html) | Eumetra |  |  |  |  |  |
+| [5–18 February 2026](2026-02-18-EMG.html) | EMG |  |  |  |  |  |
 | [11–16 February 2026](2026-02-16-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [11–14 February 2026](2026-02-14-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
 | [10–12 February 2026](2026-02-12-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |

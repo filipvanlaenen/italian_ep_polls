@@ -13,6 +13,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 2.4% | 1.9–3.1% | 1.7–3.3% | 1.6–3.5% | 1.3–4.0% |
 | [17–18 February 2026](2026-02-18-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 2.6% | 2.0–3.5% | 1.8–3.7% | 1.7–3.9% | 1.4–4.4% |
 | [17–18 February 2026](2026-02-18-Eumetra.html) | Eumetra | 2.4% | 1.8–3.2% | 1.6–3.5% | 1.5–3.7% | 1.3–4.1% |
+| [5–18 February 2026](2026-02-18-EMG.html) | EMG | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
 | [11–16 February 2026](2026-02-16-SWG.html) | SWG <br> La7 | 2.4% | 1.9–3.1% | 1.8–3.3% | 1.7–3.5% | 1.5–3.8% |
 | [11–14 February 2026](2026-02-14-BiDiMedia.html) | BiDiMedia | 2.5% | 2.1–3.0% | 2.0–3.2% | 1.9–3.3% | 1.7–3.6% |
 | [10–12 February 2026](2026-02-12-TermometroPolitico.html) | Termometro Politico | 2.4% | 2.0–2.8% | 1.9–2.9% | 1.8–3.0% | 1.7–3.3% |
@@ -415,10 +416,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 2% | 100% |  |
-| 1.5–2.5% | 57% | 98% | Median |
-| 2.5–3.5% | 38% | 41% |  |
+| 1.5–2.5% | 58% | 98% | Median |
+| 2.5–3.5% | 38% | 40% |  |
 | 3.5–4.5% | 2% | 2% |  |
-| 4.5–5.5% | 0.1% | 0.1% |  |
+| 4.5–5.5% | 0% | 0.1% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -433,6 +434,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | [17–18 February 2026](2026-02-18-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 3 | 2–3 | 2–4 | 2–4 | 1–4 |
 | [17–18 February 2026](2026-02-18-Eumetra.html) | Eumetra | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
+| [5–18 February 2026](2026-02-18-EMG.html) | EMG | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | [11–16 February 2026](2026-02-16-SWG.html) | SWG <br> La7 | 3 | 2–3 | 2–3 | 1–3 | 1–4 |
 | [11–14 February 2026](2026-02-14-BiDiMedia.html) | BiDiMedia | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [10–12 February 2026](2026-02-12-TermometroPolitico.html) | Termometro Politico | 2 | 2 | 2–3 | 2–3 | 2–3 |
@@ -837,9 +839,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 7% | 100% |  |
-| 2 | 54% | 92% | Median |
-| 3 | 37% | 38% |  |
-| 4 | 1.2% | 1.2% |  |
+| 2 | 54% | 93% | Median |
+| 3 | 39% | 40% |  |
+| 4 | 1.0% | 1.1% |  |
 | 5 | 0% | 0% |  |
 
 
