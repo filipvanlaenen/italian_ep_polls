@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.1% | 20.4–23.7% | 20.0–24.2% | 19.5–24.7% | 18.7–25.6% |
+| N/A | [Poll Average](average.html) | 22.1% | 20.5–23.7% | 20.0–24.2% | 19.5–24.7% | 18.7–25.6% |
+| [17–23 February 2026](2026-02-23-Ixè.html) | Ixè | 22.9% | 21.4–24.5% | 21.0–25.0% | 20.6–25.4% | 19.9–26.2% |
 | [17–18 February 2026](2026-02-18-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 21.5% | 19.8–23.5% | 19.3–24.0% | 18.8–24.5% | 18.0–25.4% |
 | [17–18 February 2026](2026-02-18-Eumetra.html) | Eumetra | 22.1% | 20.3–24.1% | 19.8–24.6% | 19.4–25.1% | 18.5–26.1% |
 | [5–18 February 2026](2026-02-18-EMG.html) | EMG | 21.7% | 20.1–23.4% | 19.6–23.9% | 19.3–24.4% | 18.5–25.2% |
@@ -59,7 +60,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [15–16 December 2025](2025-12-16-BiDiMedia.html) | BiDiMedia | 22.4% | N/A | N/A | N/A | N/A |
 | [10–15 December 2025](2025-12-15-SWG.html) | SWG <br> La7 | 22.3% | N/A | N/A | N/A | N/A |
 | [15 December 2025](2025-12-15-Piepoli.html) | Piepoli | 21.6% | 19.4–24.1% | 18.7–24.8% | 18.2–25.4% | 17.2–26.7% |
-| [15 December 2025](2025-12-15-Ipsos.html) | Ipsos | 21.0% | N/A | N/A | N/A | N/A |
+| [15 December 2025](2025-12-15-Ipsos.html) | Ipsos | 21.2% | N/A | N/A | N/A | N/A |
 | [1–12 December 2025](2025-12-12-EMG.html) | EMG | 21.4% | N/A | N/A | N/A | N/A |
 | [9–11 December 2025](2025-12-11-TermometroPolitico.html) | Termometro Politico | 22.1% | N/A | N/A | N/A | N/A |
 | [10–11 December 2025](2025-12-11-Tecnè.html) | Tecnè <br> Agenzia Dire | 21.7% | N/A | N/A | N/A | N/A |
@@ -434,13 +435,13 @@ The following table shows the probability mass function per percentage block of 
 | 16.5–17.5% | 0% | 100% |  |
 | 17.5–18.5% | 0.3% | 100% |  |
 | 18.5–19.5% | 2% | 99.6% |  |
-| 19.5–20.5% | 9% | 97% |  |
+| 19.5–20.5% | 8% | 97% |  |
 | 20.5–21.5% | 22% | 89% |  |
-| 21.5–22.5% | 32% | 66% | Median |
-| 22.5–23.5% | 22% | 34% |  |
-| 23.5–24.5% | 9% | 12% |  |
-| 24.5–25.5% | 2% | 3% |  |
-| 25.5–26.5% | 0.5% | 0.5% |  |
+| 21.5–22.5% | 32% | 67% | Median |
+| 22.5–23.5% | 23% | 35% |  |
+| 23.5–24.5% | 10% | 13% |  |
+| 24.5–25.5% | 3% | 3% |  |
+| 25.5–26.5% | 0.5% | 0.6% |  |
 | 26.5–27.5% | 0.1% | 0.1% |  |
 | 27.5–28.5% | 0% | 0% |  |
 
@@ -453,7 +454,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 17–20 | 17–21 | 16–21 | 15–22 |
+| N/A | [Poll Average](average.html) | 19 | 17–20 | 17–21 | 16–21 | 16–22 |
+| [17–23 February 2026](2026-02-23-Ixè.html) | Ixè | 20 | 19–21 | 18–22 | 18–22 | 17–22 |
 | [17–18 February 2026](2026-02-18-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 18 | 17–20 | 16–20 | 16–21 | 15–21 |
 | [17–18 February 2026](2026-02-18-Eumetra.html) | Eumetra | 18 | 17–21 | 17–22 | 16–22 | 15–23 |
 | [5–18 February 2026](2026-02-18-EMG.html) | EMG | 20 | 18–20 | 18–21 | 18–21 | 17–21 |
@@ -876,11 +878,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 100% |  |
 | 15 | 0.5% | 100% |  |
 | 16 | 3% | 99.5% |  |
-| 17 | 13% | 97% |  |
-| 18 | 22% | 84% |  |
-| 19 | 31% | 62% | Median |
-| 20 | 24% | 31% |  |
-| 21 | 6% | 7% |  |
+| 17 | 12% | 97% |  |
+| 18 | 20% | 85% |  |
+| 19 | 29% | 65% | Median |
+| 20 | 29% | 36% |  |
+| 21 | 5% | 7% |  |
 | 22 | 2% | 2% |  |
 | 23 | 0.3% | 0.3% |  |
 | 24 | 0% | 0% |  |

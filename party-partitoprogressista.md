@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.6% | 0.4–1.0% | 0.3–1.1% | 0.3–1.3% | 0.2–1.5% |
+| [17–23 February 2026](2026-02-23-Ixè.html) | Ixè | 0.7% | 0.4–1.1% | 0.4–1.2% | 0.3–1.3% | 0.3–1.6% |
 | [17–18 February 2026](2026-02-18-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.6% | 0.4–1.1% | 0.3–1.3% | 0.3–1.4% | 0.2–1.7% |
 | [17–18 February 2026](2026-02-18-Eumetra.html) | Eumetra | 0.6% | 0.4–1.2% | 0.3–1.3% | 0.3–1.5% | 0.2–1.8% |
 | [5–18 February 2026](2026-02-18-EMG.html) | EMG | 0.5% | 0.3–0.9% | 0.3–1.1% | 0.2–1.2% | 0.2–1.4% |
@@ -414,8 +415,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 33% | 100% | Last Result |
-| 0.5–1.5% | 66% | 67% | Median |
+| 0.0–0.5% | 32% | 100% | Last Result |
+| 0.5–1.5% | 67% | 68% | Median |
 | 1.5–2.5% | 0.5% | 0.5% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
@@ -429,6 +430,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [17–23 February 2026](2026-02-23-Ixè.html) | Ixè | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [17–18 February 2026](2026-02-18-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [17–18 February 2026](2026-02-18-Eumetra.html) | Eumetra | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [5–18 February 2026](2026-02-18-EMG.html) | EMG | 0 | 0 | 0 | 0 | 0–1 |
