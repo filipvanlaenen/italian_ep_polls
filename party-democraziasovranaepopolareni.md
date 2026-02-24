@@ -11,7 +11,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.1% | 0.7–1.8% | 0.6–2.0% | 0.6–2.2% | 0.5–2.6% |
+| [18–23 February 2026](2026-02-23-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [17–23 February 2026](2026-02-23-Ixè.html) | Ixè | 0.0% | N/A | N/A | N/A | N/A |
+| [17–19 February 2026](2026-02-19-TermometroPolitico.html) | Termometro Politico | 1.1% | 0.9–1.4% | 0.8–1.5% | 0.8–1.6% | 0.7–1.7% |
 | [17–18 February 2026](2026-02-18-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.0% | N/A | N/A | N/A | N/A |
 | [17–18 February 2026](2026-02-18-Eumetra.html) | Eumetra | 0.0% | N/A | N/A | N/A | N/A |
 | [5–18 February 2026](2026-02-18-EMG.html) | EMG | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
@@ -417,7 +419,7 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 2% | 100% | Last Result |
 | 0.5–1.5% | 80% | 98% | Median |
-| 1.5–2.5% | 18% | 18% |  |
+| 1.5–2.5% | 17% | 18% |  |
 | 2.5–3.5% | 0.6% | 0.6% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
@@ -431,7 +433,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [18–23 February 2026](2026-02-23-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [17–23 February 2026](2026-02-23-Ixè.html) | Ixè |  |  |  |  |  |
+| [17–19 February 2026](2026-02-19-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [17–18 February 2026](2026-02-18-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
 | [17–18 February 2026](2026-02-18-Eumetra.html) | Eumetra |  |  |  |  |  |
 | [5–18 February 2026](2026-02-18-EMG.html) | EMG | 0 | 0 | 0 | 0 | 0 |
