@@ -445,7 +445,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [23–26 February 2026](2026-02-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | [24–25 February 2026](2026-02-25-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 2 | 2–3 | 1–3 | 1–4 | 1–4 |
 | [24–25 February 2026](2026-02-25-Eumetra.html) | Eumetra <br> La7 | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
-| [23–24 February 2026](2026-02-24-EMG.html) | EMG | 3 | 2–3 | 1–3 | 1–3 | 1–3 |
+| [23–24 February 2026](2026-02-24-EMG.html) | EMG | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [18–23 February 2026](2026-02-23-SWG.html) | SWG <br> La7 | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | [17–23 February 2026](2026-02-23-Ixè.html) | Ixè | 2 | 2–3 | 2–3 | 1–4 | 1–4 |
 | [17–19 February 2026](2026-02-19-TermometroPolitico.html) | Termometro Politico | 2 | 2 | 2–3 | 2–3 | 1–3 |

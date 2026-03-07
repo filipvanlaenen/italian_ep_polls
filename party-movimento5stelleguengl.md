@@ -458,7 +458,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [23–26 February 2026](2026-02-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 11 | 10–13 | 10–13 | 10–13 | 9–14 |
 | [24–25 February 2026](2026-02-25-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 10 | 9–12 | 9–12 | 9–12 | 8–13 |
 | [24–25 February 2026](2026-02-25-Eumetra.html) | Eumetra <br> La7 | 10 | 9–11 | 9–12 | 8–12 | 8–13 |
-| [23–24 February 2026](2026-02-24-EMG.html) | EMG | 10 | 10–11 | 10–11 | 10–12 | 9–13 |
+| [23–24 February 2026](2026-02-24-EMG.html) | EMG | 10 | 10–11 | 10–12 | 9–12 | 9–13 |
 | [18–23 February 2026](2026-02-23-SWG.html) | SWG <br> La7 | 10 | 9–11 | 8–11 | 8–12 | 8–12 |
 | [17–23 February 2026](2026-02-23-Ixè.html) | Ixè | 11 | 10–12 | 10–12 | 10–13 | 9–13 |
 | [17–19 February 2026](2026-02-19-TermometroPolitico.html) | Termometro Politico | 11 | 10–12 | 10–12 | 10–12 | 9–13 |
@@ -877,7 +877,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0.1% | 100% |  |
 | 8 | 1.1% | 99.9% |  |
 | 9 | 8% | 98.8% |  |
-| 10 | 33% | 90% |  |
+| 10 | 32% | 90% |  |
 | 11 | 43% | 58% | Median |
 | 12 | 11% | 15% |  |
 | 13 | 4% | 4% |  |
