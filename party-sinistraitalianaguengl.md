@@ -442,8 +442,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | [25 February–2 March 2026](2026-03-02-SWG.html) | SWG <br> La7 | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | [25–26 February 2026](2026-02-26-TermometroPolitico.html) | Termometro Politico | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
-| [23–26 February 2026](2026-02-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
-| [24–25 February 2026](2026-02-25-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
+| [23–26 February 2026](2026-02-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
+| [24–25 February 2026](2026-02-25-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 2 | 2–3 | 1–3 | 1–4 | 1–4 |
 | [24–25 February 2026](2026-02-25-Eumetra.html) | Eumetra <br> La7 | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | [23–24 February 2026](2026-02-24-EMG.html) | EMG | 3 | 2–3 | 1–3 | 1–3 | 1–3 |
 | [18–23 February 2026](2026-02-23-SWG.html) | SWG <br> La7 | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
@@ -856,9 +856,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 7% | 100% |  |
-| 2 | 57% | 93% | Median |
-| 3 | 35% | 36% |  |
-| 4 | 0.8% | 0.9% |  |
+| 2 | 61% | 93% | Median |
+| 3 | 31% | 32% |  |
+| 4 | 1.1% | 1.1% |  |
 | 5 | 0% | 0% |  |
 
 
