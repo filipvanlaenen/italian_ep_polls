@@ -8,26 +8,26 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 07 Mar 2026 10:30:19 +0100</pubDate>
+    <pubDate>Sat, 07 Mar 2026 13:10:09 +0100</pubDate>
     <item>
       <title>Opinion Poll by SWG for La7, 25 February–2 March 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2026-03-02-SWG.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Noi Moderati (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 22–29 seats&lt;/li&gt;&lt;li&gt;Futuro Nazionale (NI): 0–4 seats&lt;/li&gt;&lt;li&gt;Partito Progressista (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 16–22 seats&lt;/li&gt;&lt;li&gt;Movimento 5 Stelle (GUE/NGL): 8–11 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 5–8 seats&lt;/li&gt;&lt;li&gt;Azione (RE): 0–4 seats&lt;/li&gt;&lt;li&gt;Sinistra Italiana (GUE/NGL): 1–3 seats&lt;/li&gt;&lt;li&gt;Lega Nord (PfE): 5–7 seats&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 3–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Noi Moderati (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 23–28 seats&lt;/li&gt;&lt;li&gt;Futuro Nazionale (NI): 0–4 seats&lt;/li&gt;&lt;li&gt;Partito Progressista (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 17–20 seats&lt;/li&gt;&lt;li&gt;Movimento 5 Stelle (GUE/NGL): 9–11 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 5–8 seats&lt;/li&gt;&lt;li&gt;Azione (RE): 0–3 seats&lt;/li&gt;&lt;li&gt;Sinistra Italiana (GUE/NGL): 2–3 seats&lt;/li&gt;&lt;li&gt;Lega Nord (PfE): 5–6 seats&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 3–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2026-03-02-SWG-seats.png"
-        length="277321"
+        length="277176"
         type="image/png"/>
-      <pubDate>Fri, 06 Mar 2026 20:29:40 +0100</pubDate>
-      <dc:date>2026-03-06T20:29:40.902344+01:00</dc:date>
+      <pubDate>Sat, 07 Mar 2026 13:10:09 +0100</pubDate>
+      <dc:date>2026-03-07T13:10:09.270446+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SWG for La7, 25 February–2 March 2026 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2026-03-02-SWG.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2026-03-02-SWG-coalitions-seats.png"
-        length="221268"
+        length="218654"
         type="image/png"/>
-      <pubDate>Fri, 06 Mar 2026 20:29:40 +0100</pubDate>
-      <dc:date>2026-03-06T20:29:40.902344+01:00</dc:date>
+      <pubDate>Sat, 07 Mar 2026 13:10:09 +0100</pubDate>
+      <dc:date>2026-03-07T13:10:09.270446+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SWG for La7, 25 February–2 March 2026 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2026-03-02-SWG.png"
         length="349901"
         type="image/png"/>
-      <pubDate>Fri, 06 Mar 2026 20:29:40 +0100</pubDate>
-      <dc:date>2026-03-06T20:29:40.902344+01:00</dc:date>
+      <pubDate>Sat, 07 Mar 2026 13:10:09 +0100</pubDate>
+      <dc:date>2026-03-07T13:10:09.270446+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Termometro Politico, 25–26 February 2026 – Seat Projections for the Parties</title>
@@ -1059,6 +1059,6 @@
       <pubDate>Sat, 14 Feb 2026 14:21:31 +0100</pubDate>
       <dc:date>2026-02-14T14:21:31.726654+01:00</dc:date>
     </item>
-    <dc:date>2026-03-07T10:30:19.562934+01:00</dc:date>
+    <dc:date>2026-03-07T13:10:09.270446+01:00</dc:date>
   </channel>
 </rss>
