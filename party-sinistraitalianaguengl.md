@@ -10,9 +10,13 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.4% | 1.8–3.1% | 1.7–3.4% | 1.5–3.6% | 1.3–4.0% |
+| N/A | [Poll Average](average.html) | 2.4% | 1.9–3.1% | 1.7–3.4% | 1.6–3.6% | 1.3–4.0% |
+| [3–4 March 2026](2026-03-04-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 2.3% | 1.8–3.2% | 1.6–3.4% | 1.5–3.6% | 1.3–4.1% |
+| [3–4 March 2026](2026-03-04-Eumetra.html) | Eumetra <br> La7 | 2.4% | 1.8–3.2% | 1.6–3.5% | 1.5–3.7% | 1.3–4.1% |
+| [3–4 March 2026](2026-03-04-BiDiMedia.html) | BiDiMedia | 2.5% | 1.9–3.4% | 1.7–3.6% | 1.6–3.8% | 1.3–4.3% |
 | [25 February–2 March 2026](2026-03-02-SWG.html) | SWG <br> La7 | 2.5% | 2.0–3.2% | 1.9–3.4% | 1.8–3.6% | 1.5–3.9% |
 | [28 February–1 March 2026](2026-03-01-BiDiMedia.html) | BiDiMedia | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
+| [16–26 February 2026](2026-02-26-Winpoll.html) | Winpoll | 2.4% | 2.0–3.0% | 1.8–3.2% | 1.7–3.3% | 1.5–3.6% |
 | [25–26 February 2026](2026-02-26-TermometroPolitico.html) | Termometro Politico | 2.3% | 2.0–2.7% | 1.9–2.9% | 1.8–3.0% | 1.7–3.2% |
 | [23–26 February 2026](2026-02-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 2.4% | 1.9–3.2% | 1.7–3.4% | 1.6–3.6% | 1.4–3.9% |
 | [24–25 February 2026](2026-02-25-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 2.3% | 1.8–3.2% | 1.6–3.4% | 1.5–3.6% | 1.3–4.1% |
@@ -425,11 +429,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 3% | 100% |  |
-| 1.5–2.5% | 57% | 97% | Median |
-| 2.5–3.5% | 38% | 41% |  |
+| 0.5–1.5% | 2% | 100% |  |
+| 1.5–2.5% | 56% | 98% | Median |
+| 2.5–3.5% | 39% | 41% |  |
 | 3.5–4.5% | 3% | 3% |  |
 | 4.5–5.5% | 0% | 0% |  |
+| 5.5–6.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -441,8 +446,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
+| [3–4 March 2026](2026-03-04-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 2 | 1–3 | 1–3 | 1–4 | 1–4 |
+| [3–4 March 2026](2026-03-04-Eumetra.html) | Eumetra <br> La7 | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
+| [3–4 March 2026](2026-03-04-BiDiMedia.html) | BiDiMedia | 2 | 2–3 | 2–3 | 1–3 | 1–4 |
 | [25 February–2 March 2026](2026-03-02-SWG.html) | SWG <br> La7 | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | [28 February–1 March 2026](2026-03-01-BiDiMedia.html) | BiDiMedia | 3 | 2–3 | 2–3 | 1–3 | 1–4 |
+| [16–26 February 2026](2026-02-26-Winpoll.html) | Winpoll | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | [25–26 February 2026](2026-02-26-TermometroPolitico.html) | Termometro Politico | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [23–26 February 2026](2026-02-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | [24–25 February 2026](2026-02-25-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 2 | 2–3 | 1–3 | 1–4 | 1–4 |
@@ -857,10 +866,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 8% | 100% |  |
-| 2 | 63% | 92% | Median |
-| 3 | 28% | 30% |  |
-| 4 | 1.3% | 1.4% |  |
+| 1 | 7% | 100% |  |
+| 2 | 68% | 93% | Median |
+| 3 | 24% | 25% |  |
+| 4 | 1.2% | 1.2% |  |
 | 5 | 0% | 0% |  |
 
 
