@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.2% | 10.8–13.9% | 10.4–14.4% | 10.1–14.8% | 9.5–15.7% |
+| N/A | [Poll Average](average.html) | 12.3% | 10.9–13.9% | 10.5–14.4% | 10.2–14.8% | 9.6–15.7% |
+| [4–9 March 2026](2026-03-09-SWG.html) | SWG <br> La7 | 12.0% | 10.9–13.3% | 10.5–13.7% | 10.3–14.0% | 9.8–14.6% |
 | [3–4 March 2026](2026-03-04-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 12.9% | 11.4–14.5% | 11.1–14.9% | 10.7–15.3% | 10.1–16.1% |
 | [3–4 March 2026](2026-03-04-Eumetra.html) | Eumetra <br> La7 | 11.8% | 10.4–13.3% | 10.0–13.8% | 9.7–14.2% | 9.1–15.0% |
 | [3–4 March 2026](2026-03-04-BiDiMedia.html) | BiDiMedia | 12.6% | 11.2–14.3% | 10.8–14.7% | 10.4–15.2% | 9.8–16.0% |
@@ -439,9 +440,9 @@ The following table shows the probability mass function per percentage block of 
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0.5% | 100% |  |
 | 9.5–10.5% | 5% | 99.5% |  |
-| 10.5–11.5% | 21% | 94% |  |
-| 11.5–12.5% | 33% | 73% | Median |
-| 12.5–13.5% | 25% | 40% |  |
+| 10.5–11.5% | 20% | 94% |  |
+| 11.5–12.5% | 33% | 74% | Median |
+| 12.5–13.5% | 26% | 41% |  |
 | 13.5–14.5% | 11% | 15% |  |
 | 14.5–15.5% | 3% | 4% |  |
 | 15.5–16.5% | 0.6% | 0.7% |  |
@@ -458,6 +459,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11 | 9–13 | 9–13 | 8–13 | 8–14 |
+| [4–9 March 2026](2026-03-09-SWG.html) | SWG <br> La7 | 10 | 9–12 | 9–12 | 9–13 | 8–13 |
 | [3–4 March 2026](2026-03-04-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 11 | 10–13 | 9–13 | 9–13 | 8–14 |
 | [3–4 March 2026](2026-03-04-Eumetra.html) | Eumetra <br> La7 | 9 | 9–11 | 8–12 | 8–12 | 8–13 |
 | [3–4 March 2026](2026-03-04-BiDiMedia.html) | BiDiMedia | 13 | 10–13 | 10–13 | 9–14 | 9–15 |
@@ -886,10 +888,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0.1% | 100% |  |
 | 8 | 3% | 99.9% |  |
-| 9 | 11% | 97% |  |
-| 10 | 32% | 86% |  |
-| 11 | 32% | 54% | Median |
-| 12 | 10% | 22% |  |
+| 9 | 13% | 97% |  |
+| 10 | 32% | 84% |  |
+| 11 | 27% | 52% | Median |
+| 12 | 12% | 24% |  |
 | 13 | 12% | 12% |  |
 | 14 | 0.4% | 0.5% |  |
 | 15 | 0.1% | 0.1% |  |

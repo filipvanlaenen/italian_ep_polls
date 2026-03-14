@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3.3% | 2.5–4.2% | 2.3–4.6% | 2.2–4.9% | 1.9–5.6% |
+| [4–9 March 2026](2026-03-09-SWG.html) | SWG <br> La7 | 3.3% | 2.8–4.1% | 2.6–4.3% | 2.5–4.5% | 2.2–4.9% |
 | [3–4 March 2026](2026-03-04-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 4.3% | 3.5–5.3% | 3.3–5.6% | 3.1–5.9% | 2.8–6.4% |
 | [3–4 March 2026](2026-03-04-Eumetra.html) | Eumetra <br> La7 | 3.2% | 2.6–4.2% | 2.4–4.5% | 2.2–4.7% | 1.9–5.2% |
 | [3–4 March 2026](2026-03-04-BiDiMedia.html) | BiDiMedia | 2.9% | 2.2–3.8% | 2.0–4.1% | 1.9–4.3% | 1.6–4.8% |
@@ -447,6 +448,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [4–9 March 2026](2026-03-09-SWG.html) | SWG <br> La7 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [3–4 March 2026](2026-03-04-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [3–4 March 2026](2026-03-04-Eumetra.html) | Eumetra <br> La7 | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [3–4 March 2026](2026-03-04-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0–4 |
@@ -870,8 +872,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 16% |  |
 | 2 | 0% | 16% |  |
 | 3 | 7% | 16% |  |
-| 4 | 8% | 9% |  |
-| 5 | 0.4% | 0.5% |  |
+| 4 | 9% | 9% |  |
+| 5 | 0.5% | 0.5% |  |
 | 6 | 0% | 0% |  |
 
 
