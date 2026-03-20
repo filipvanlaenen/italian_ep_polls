@@ -455,7 +455,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–7 | 4–7 | 4–8 | 4–8 |
 | [11–16 March 2026](2026-03-16-SWG.html) | SWG <br> La7 | 6 | 5–6 | 5–7 | 5–7 | 4–8 |
-| [10–11 March 2026](2026-03-11-Eumetra.html) | Eumetra <br> La7 | 6 | 5–7 | 5–7 | 4–7 | 4–7 |
+| [10–11 March 2026](2026-03-11-Eumetra.html) | Eumetra <br> La7 | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
 | [4–9 March 2026](2026-03-09-SWG.html) | SWG <br> La7 | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
 | [3–4 March 2026](2026-03-04-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 5 | 4–7 | 4–7 | 4–7 | 4–7 |
 | [3–4 March 2026](2026-03-04-Eumetra.html) | Eumetra <br> La7 | 6 | 4–6 | 4–7 | 4–7 | 4–8 |

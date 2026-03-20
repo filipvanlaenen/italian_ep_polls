@@ -477,9 +477,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25 | 22–27 | 21–27 | 20–28 | 19–28 |
+| N/A | [Poll Average](average.html) | 24 | 22–27 | 21–27 | 20–28 | 19–28 |
 | [11–16 March 2026](2026-03-16-SWG.html) | SWG <br> La7 | 25 | 23–28 | 23–28 | 23–28 | 22–28 |
-| [10–11 March 2026](2026-03-11-Eumetra.html) | Eumetra <br> La7 | 25 | 23–26 | 22–26 | 22–28 | 21–28 |
+| [10–11 March 2026](2026-03-11-Eumetra.html) | Eumetra <br> La7 | 24 | 23–26 | 22–27 | 22–27 | 21–28 |
 | [4–9 March 2026](2026-03-09-SWG.html) | SWG <br> La7 | 26 | 24–27 | 23–28 | 23–29 | 22–29 |
 | [3–4 March 2026](2026-03-04-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 24 | 22–26 | 22–27 | 21–28 | 20–28 |
 | [3–4 March 2026](2026-03-04-Eumetra.html) | Eumetra <br> La7 | 24 | 24–27 | 23–29 | 23–29 | 21–30 |
@@ -924,12 +924,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 21 | 6% | 97% |  |
 | 22 | 9% | 92% |  |
 | 23 | 10% | 83% |  |
-| 24 | 22% | 72% |  |
-| 25 | 21% | 50% | Median |
+| 24 | 23% | 72% | Median |
+| 25 | 19% | 49% |  |
 | 26 | 17% | 30% |  |
-| 27 | 8% | 12% |  |
+| 27 | 9% | 12% |  |
 | 28 | 4% | 4% |  |
-| 29 | 0.2% | 0.3% |  |
+| 29 | 0.2% | 0.2% |  |
 | 30 | 0% | 0% |  |
 
 

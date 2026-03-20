@@ -450,7 +450,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [11–16 March 2026](2026-03-16-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
-| [10–11 March 2026](2026-03-11-Eumetra.html) | Eumetra <br> La7 | 0 | 0 | 0 | 0 | 0–3 |
+| [10–11 March 2026](2026-03-11-Eumetra.html) | Eumetra <br> La7 | 0 | 0 | 0 | 0 | 0–4 |
 | [4–9 March 2026](2026-03-09-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [3–4 March 2026](2026-03-04-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0 | 0 | 0 |
 | [3–4 March 2026](2026-03-04-Eumetra.html) | Eumetra <br> La7 | 0 | 0 | 0 | 0 | 0 |
@@ -874,7 +874,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 99.6% | 100% | Last Result, Median |
 | 1 | 0% | 0.4% |  |
 | 2 | 0% | 0.4% |  |
-| 3 | 0.2% | 0.4% |  |
+| 3 | 0.1% | 0.4% |  |
 | 4 | 0.3% | 0.3% |  |
 | 5 | 0% | 0% |  |
 
