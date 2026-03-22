@@ -10,9 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.4% | 7.3–9.7% | 6.9–10.2% | 6.6–10.5% | 6.1–11.3% |
+| N/A | [Poll Average](average.html) | 8.3% | 7.2–9.5% | 6.9–9.9% | 6.6–10.3% | 6.0–11.0% |
 | [11–16 March 2026](2026-03-16-SWG.html) | SWG <br> La7 | 8.0% | 7.1–9.1% | 6.8–9.4% | 6.6–9.7% | 6.2–10.2% |
 | [10–11 March 2026](2026-03-11-Eumetra.html) | Eumetra <br> La7 | 8.5% | 7.3–9.9% | 7.0–10.3% | 6.8–10.6% | 6.2–11.4% |
+| [10–11 March 2026](2026-03-11-EMG.html) | EMG <br> La7 | 8.5% | 7.3–9.9% | 7.0–10.3% | 6.8–10.6% | 6.2–11.4% |
 | [4–9 March 2026](2026-03-09-SWG.html) | SWG <br> La7 | 8.2% | 7.2–9.3% | 7.0–9.6% | 6.7–9.9% | 6.3–10.4% |
 | [3–4 March 2026](2026-03-04-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 8.1% | 7.0–9.4% | 6.7–9.8% | 6.4–10.2% | 5.9–10.8% |
 | [3–4 March 2026](2026-03-04-Eumetra.html) | Eumetra <br> La7 | 8.5% | 7.3–9.9% | 7.0–10.3% | 6.8–10.6% | 6.2–11.4% |
@@ -193,7 +194,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [10–12 June 2025](2025-06-12-TermometroPolitico.html) | Termometro Politico | 8.7% | N/A | N/A | N/A | N/A |
 | [10–11 June 2025](2025-06-11-Eumetra.html) | Eumetra <br> La7 | 8.2% | N/A | N/A | N/A | N/A |
 | [4–9 June 2025](2025-06-09-SWG.html) | SWG <br> La7 | 8.0% | N/A | N/A | N/A | N/A |
-| [6 June 2025](2025-06-06-EMG.html) | EMG <br> Rai 3 | 9.3% | N/A | N/A | N/A | N/A |
+| [6 June 2025](2025-06-06-EMG.html) | EMG <br> Rai 3 | 9.2% | N/A | N/A | N/A | N/A |
 | [1–5 June 2025](2025-06-05-BiDiMedia.html) | BiDiMedia | 8.3% | N/A | N/A | N/A | N/A |
 | [3–4 June 2025](2025-06-04-Eumetra.html) | Eumetra <br> La7 | 8.2% | N/A | N/A | N/A | N/A |
 | [3 June 2025](2025-06-03-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 9.0% | N/A | N/A | N/A | N/A |
@@ -438,12 +439,12 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0.1% | 100% |  |
 | 5.5–6.5% | 2% | 99.9% |  |
-| 6.5–7.5% | 14% | 98% |  |
-| 7.5–8.5% | 39% | 84% | Median |
-| 8.5–9.5% | 31% | 44% |  |
-| 9.5–10.5% | 11% | 13% |  |
-| 10.5–11.5% | 2% | 2% |  |
-| 11.5–12.5% | 0.2% | 0.2% |  |
+| 6.5–7.5% | 15% | 98% |  |
+| 7.5–8.5% | 42% | 82% | Median |
+| 8.5–9.5% | 31% | 41% |  |
+| 9.5–10.5% | 8% | 10% |  |
+| 10.5–11.5% | 1.2% | 1.3% |  |
+| 11.5–12.5% | 0.1% | 0.1% |  |
 | 12.5–13.5% | 0% | 0% |  |
 
 
@@ -455,9 +456,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–8 | 5–9 | 4–10 |
+| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–8 | 5–8 | 4–9 |
 | [11–16 March 2026](2026-03-16-SWG.html) | SWG <br> La7 | 6 | 5–7 | 5–7 | 4–8 | 4–8 |
 | [10–11 March 2026](2026-03-11-Eumetra.html) | Eumetra <br> La7 | 6 | 6–8 | 5–8 | 5–8 | 4–9 |
+| [10–11 March 2026](2026-03-11-EMG.html) | EMG <br> La7 | 6 | 6–8 | 5–8 | 5–8 | 4–9 |
 | [4–9 March 2026](2026-03-09-SWG.html) | SWG <br> La7 | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
 | [3–4 March 2026](2026-03-04-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
 | [3–4 March 2026](2026-03-04-Eumetra.html) | Eumetra <br> La7 | 6 | 5–8 | 5–8 | 5–8 | 4–10 |
@@ -883,12 +885,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 2% | 100% |  |
-| 5 | 15% | 98% |  |
-| 6 | 38% | 82% | Median |
-| 7 | 36% | 45% |  |
-| 8 | 5% | 8% |  |
-| 9 | 3% | 3% |  |
-| 10 | 0.6% | 0.6% |  |
+| 5 | 16% | 98% |  |
+| 6 | 43% | 82% | Median |
+| 7 | 32% | 39% |  |
+| 8 | 6% | 7% |  |
+| 9 | 0.6% | 0.7% |  |
+| 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |
 
 

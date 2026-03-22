@@ -10,9 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.3% | 0.9–1.9% | 0.8–2.0% | 0.7–2.2% | 0.5–2.6% |
+| N/A | [Poll Average](average.html) | 1.2% | 0.8–1.6% | 0.7–1.7% | 0.6–1.9% | 0.4–2.2% |
 | [11–16 March 2026](2026-03-16-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [10–11 March 2026](2026-03-11-Eumetra.html) | Eumetra <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [10–11 March 2026](2026-03-11-EMG.html) | EMG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [4–9 March 2026](2026-03-09-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [3–4 March 2026](2026-03-04-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.0% | N/A | N/A | N/A | N/A |
 | [3–4 March 2026](2026-03-04-Eumetra.html) | Eumetra <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
@@ -431,10 +432,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 1.0% | 100% | Last Result |
-| 0.5–1.5% | 74% | 99.0% | Median |
-| 1.5–2.5% | 24% | 25% |  |
-| 2.5–3.5% | 0.6% | 0.6% |  |
+| 0.0–0.5% | 1.4% | 100% | Last Result |
+| 0.5–1.5% | 87% | 98.6% | Median |
+| 1.5–2.5% | 12% | 12% |  |
+| 2.5–3.5% | 0.1% | 0.1% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -449,6 +450,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [11–16 March 2026](2026-03-16-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [10–11 March 2026](2026-03-11-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
+| [10–11 March 2026](2026-03-11-EMG.html) | EMG <br> La7 |  |  |  |  |  |
 | [4–9 March 2026](2026-03-09-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [3–4 March 2026](2026-03-04-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
 | [3–4 March 2026](2026-03-04-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
