@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8.3% | 7.2–9.5% | 6.9–9.9% | 6.6–10.3% | 6.0–11.0% |
+| [18–23 March 2026](2026-03-23-SWG.html) | SWG <br> La7 | 7.8% | 6.9–8.9% | 6.7–9.2% | 6.4–9.5% | 6.0–10.0% |
 | [11–16 March 2026](2026-03-16-SWG.html) | SWG <br> La7 | 8.0% | 7.1–9.1% | 6.8–9.4% | 6.6–9.7% | 6.2–10.2% |
 | [10–11 March 2026](2026-03-11-Eumetra.html) | Eumetra <br> La7 | 8.5% | 7.3–9.9% | 7.0–10.3% | 6.8–10.6% | 6.2–11.4% |
 | [10–11 March 2026](2026-03-11-EMG.html) | EMG <br> La7 | 8.5% | 7.3–9.9% | 7.0–10.3% | 6.8–10.6% | 6.2–11.4% |
@@ -439,9 +440,9 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0.1% | 100% |  |
 | 5.5–6.5% | 2% | 99.9% |  |
-| 6.5–7.5% | 15% | 98% |  |
+| 6.5–7.5% | 16% | 98% |  |
 | 7.5–8.5% | 42% | 82% | Median |
-| 8.5–9.5% | 31% | 41% |  |
+| 8.5–9.5% | 30% | 40% |  |
 | 9.5–10.5% | 8% | 10% |  |
 | 10.5–11.5% | 1.2% | 1.3% |  |
 | 11.5–12.5% | 0.1% | 0.1% |  |
@@ -457,6 +458,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–7 | 5–8 | 5–8 | 4–9 |
+| [18–23 March 2026](2026-03-23-SWG.html) | SWG <br> La7 | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
 | [11–16 March 2026](2026-03-16-SWG.html) | SWG <br> La7 | 6 | 5–7 | 5–7 | 4–8 | 4–8 |
 | [10–11 March 2026](2026-03-11-Eumetra.html) | Eumetra <br> La7 | 6 | 6–8 | 5–8 | 5–8 | 4–9 |
 | [10–11 March 2026](2026-03-11-EMG.html) | EMG <br> La7 | 6 | 6–8 | 5–8 | 5–8 | 4–9 |
@@ -885,10 +887,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 2% | 100% |  |
-| 5 | 16% | 98% |  |
-| 6 | 43% | 82% | Median |
-| 7 | 32% | 39% |  |
-| 8 | 6% | 7% |  |
+| 5 | 18% | 98% |  |
+| 6 | 46% | 80% | Median |
+| 7 | 28% | 35% |  |
+| 8 | 6% | 6% |  |
 | 9 | 0.6% | 0.7% |  |
 | 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |
