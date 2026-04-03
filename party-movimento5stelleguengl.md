@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.3% | 10.9–14.0% | 10.5–14.5% | 10.1–14.9% | 9.5–15.7% |
+| N/A | [Poll Average](average.html) | 12.5% | 11.0–14.0% | 10.6–14.5% | 10.3–14.9% | 9.6–15.8% |
+| [25–30 March 2026](2026-03-30-SWG.html) | SWG <br> La7 | 12.3% | 11.2–13.6% | 10.9–14.0% | 10.6–14.3% | 10.1–15.0% |
+| [24–26 March 2026](2026-03-26-TermometroPolitico.html) | Termometro Politico | 12.2% | N/A | N/A | N/A | N/A |
+| [24–26 March 2026](2026-03-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 14.2% | N/A | N/A | N/A | N/A |
+| [12–25 March 2026](2026-03-25-EMG.html) | EMG | 11.5% | N/A | N/A | N/A | N/A |
 | [18–23 March 2026](2026-03-23-SWG.html) | SWG <br> La7 | 12.2% | 11.0–13.5% | 10.7–13.8% | 10.4–14.1% | 9.9–14.8% |
 | [11–16 March 2026](2026-03-16-SWG.html) | SWG <br> La7 | 12.3% | 11.2–13.6% | 10.9–14.0% | 10.6–14.3% | 10.1–15.0% |
 | [10–11 March 2026](2026-03-11-Eumetra.html) | Eumetra <br> La7 | 11.9% | 10.5–13.5% | 10.1–13.9% | 9.8–14.3% | 9.2–15.1% |
@@ -442,14 +446,14 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0.5% | 100% |  |
-| 9.5–10.5% | 5% | 99.4% |  |
-| 10.5–11.5% | 20% | 94% |  |
-| 11.5–12.5% | 33% | 74% | Median |
-| 12.5–13.5% | 25% | 42% |  |
-| 13.5–14.5% | 12% | 16% |  |
-| 14.5–15.5% | 4% | 4% |  |
-| 15.5–16.5% | 0.7% | 0.7% |  |
+| 8.5–9.5% | 0.4% | 100% |  |
+| 9.5–10.5% | 4% | 99.6% |  |
+| 10.5–11.5% | 17% | 96% |  |
+| 11.5–12.5% | 32% | 79% | Median |
+| 12.5–13.5% | 29% | 48% |  |
+| 13.5–14.5% | 14% | 18% |  |
+| 14.5–15.5% | 4% | 5% |  |
+| 15.5–16.5% | 0.7% | 0.8% |  |
 | 16.5–17.5% | 0.1% | 0.1% |  |
 | 17.5–18.5% | 0% | 0% |  |
 
@@ -462,7 +466,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 9–13 | 9–13 | 8–13 | 8–14 |
+| N/A | [Poll Average](average.html) | 11 | 9–13 | 9–13 | 9–13 | 8–14 |
+| [25–30 March 2026](2026-03-30-SWG.html) | SWG <br> La7 | 11 | 10–11 | 9–13 | 9–13 | 9–13 |
+| [24–26 March 2026](2026-03-26-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [24–26 March 2026](2026-03-26-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
+| [12–25 March 2026](2026-03-25-EMG.html) | EMG |  |  |  |  |  |
 | [18–23 March 2026](2026-03-23-SWG.html) | SWG <br> La7 | 11 | 9–12 | 9–12 | 9–12 | 9–12 |
 | [11–16 March 2026](2026-03-16-SWG.html) | SWG <br> La7 | 10 | 9–12 | 9–12 | 9–12 | 9–14 |
 | [10–11 March 2026](2026-03-11-Eumetra.html) | Eumetra <br> La7 | 10 | 9–11 | 8–12 | 8–12 | 7–13 |
@@ -894,15 +902,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0.2% | 100% |  |
-| 8 | 3% | 99.8% |  |
-| 9 | 12% | 97% |  |
-| 10 | 29% | 85% |  |
-| 11 | 29% | 56% | Median |
-| 12 | 14% | 27% |  |
-| 13 | 13% | 13% |  |
-| 14 | 0.4% | 0.5% |  |
-| 15 | 0.1% | 0.1% |  |
+| 7 | 0.1% | 100% |  |
+| 8 | 2% | 99.9% |  |
+| 9 | 11% | 98% |  |
+| 10 | 18% | 87% |  |
+| 11 | 40% | 69% | Median |
+| 12 | 6% | 29% |  |
+| 13 | 22% | 23% |  |
+| 14 | 0.5% | 0.8% |  |
+| 15 | 0.3% | 0.3% |  |
 | 16 | 0% | 0% |  |
 
 
