@@ -10,13 +10,13 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.1% | 0.7–1.7% | 0.6–1.9% | 0.6–2.1% | 0.4–2.5% |
-| [1 April 2026](2026-04-01-Eumetra.html) | Eumetra <br> La7 | 1.1% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 1.1% | 0.7–1.7% | 0.6–1.9% | 0.5–2.1% | 0.4–2.4% |
+| [1 April 2026](2026-04-01-Eumetra.html) | Eumetra <br> La7 | 1.1% | 0.8–1.8% | 0.7–2.0% | 0.6–2.1% | 0.5–2.5% |
 | [25–30 March 2026](2026-03-30-SWG.html) | SWG <br> La7 | 1.1% | 0.8–1.6% | 0.7–1.7% | 0.6–1.8% | 0.5–2.1% |
-| [27–28 March 2026](2026-03-28-BidiMedia.html) | BidiMedia | 0.9% | N/A | N/A | N/A | N/A |
+| [27–28 March 2026](2026-03-28-BidiMedia.html) | BidiMedia | 0.9% | 0.6–1.4% | 0.5–1.6% | 0.5–1.7% | 0.4–2.0% |
 | [24–26 March 2026](2026-03-26-TermometroPolitico.html) | Termometro Politico | 1.0% | 0.8–1.3% | 0.7–1.4% | 0.7–1.4% | 0.6–1.6% |
 | [24–26 March 2026](2026-03-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
-| [24–25 March 2026](2026-03-25-Eumetra.html) | Eumetra <br> La7 | 1.2% | N/A | N/A | N/A | N/A |
+| [24–25 March 2026](2026-03-25-Eumetra.html) | Eumetra <br> La7 | 1.2% | 0.9–1.9% | 0.8–2.1% | 0.7–2.3% | 0.5–2.7% |
 | [12–25 March 2026](2026-03-25-EMG.html) | EMG | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
 | [18–23 March 2026](2026-03-23-SWG.html) | SWG <br> La7 | 1.2% | 0.9–1.7% | 0.8–1.8% | 0.7–2.0% | 0.6–2.2% |
 | [11–16 March 2026](2026-03-16-SWG.html) | SWG <br> La7 | 1.1% | 0.8–1.6% | 0.7–1.7% | 0.6–1.8% | 0.5–2.1% |
@@ -440,9 +440,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 2% | 100% | Last Result |
-| 0.5–1.5% | 82% | 98% | Median |
-| 1.5–2.5% | 15% | 16% |  |
+| 0.0–0.5% | 3% | 100% | Last Result |
+| 0.5–1.5% | 82% | 97% | Median |
+| 1.5–2.5% | 15% | 15% |  |
 | 2.5–3.5% | 0.3% | 0.3% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
@@ -456,12 +456,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [1 April 2026](2026-04-01-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
+| [1 April 2026](2026-04-01-Eumetra.html) | Eumetra <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [25–30 March 2026](2026-03-30-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
-| [27–28 March 2026](2026-03-28-BidiMedia.html) | BidiMedia |  |  |  |  |  |
+| [27–28 March 2026](2026-03-28-BidiMedia.html) | BidiMedia | 0 | 0 | 0 | 0 | 0 |
 | [24–26 March 2026](2026-03-26-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [24–26 March 2026](2026-03-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
-| [24–25 March 2026](2026-03-25-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
+| [24–25 March 2026](2026-03-25-Eumetra.html) | Eumetra <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [12–25 March 2026](2026-03-25-EMG.html) | EMG | 0 | 0 | 0 | 0 | 0 |
 | [18–23 March 2026](2026-03-23-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [11–16 March 2026](2026-03-16-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
