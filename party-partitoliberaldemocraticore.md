@@ -11,9 +11,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.0% | 0.5–1.6% | 0.4–1.8% | 0.3–1.9% | 0.2–2.3% |
+| [1 April 2026](2026-04-01-Eumetra.html) | Eumetra <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [25–30 March 2026](2026-03-30-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [27–28 March 2026](2026-03-28-BidiMedia.html) | BidiMedia | 0.6% | N/A | N/A | N/A | N/A |
 | [24–26 March 2026](2026-03-26-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
 | [24–26 March 2026](2026-03-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.0% | N/A | N/A | N/A | N/A |
+| [24–25 March 2026](2026-03-25-Eumetra.html) | Eumetra <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [12–25 March 2026](2026-03-25-EMG.html) | EMG | 1.2% | 0.9–1.8% | 0.8–1.9% | 0.7–2.1% | 0.5–2.4% |
 | [18–23 March 2026](2026-03-23-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [11–16 March 2026](2026-03-16-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
@@ -453,9 +456,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [1 April 2026](2026-04-01-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [25–30 March 2026](2026-03-30-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [27–28 March 2026](2026-03-28-BidiMedia.html) | BidiMedia |  |  |  |  |  |
 | [24–26 March 2026](2026-03-26-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [24–26 March 2026](2026-03-26-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
+| [24–25 March 2026](2026-03-25-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [12–25 March 2026](2026-03-25-EMG.html) | EMG | 0 | 0 | 0 | 0 | 0 |
 | [18–23 March 2026](2026-03-23-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [11–16 March 2026](2026-03-16-SWG.html) | SWG <br> La7 |  |  |  |  |  |
