@@ -455,7 +455,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
-| [25–30 March 2026](2026-03-30-SWG.html) | SWG <br> La7 | 2 | 2 | 2–3 | 1–3 | 1–3 |
+| [25–30 March 2026](2026-03-30-SWG.html) | SWG <br> La7 | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | [24–26 March 2026](2026-03-26-TermometroPolitico.html) | Termometro Politico | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [24–26 March 2026](2026-03-26-Ipsos.html) | Ipsos <br> Corriere della Sera | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | [12–25 March 2026](2026-03-25-EMG.html) | EMG | 2 | 2–3 | 1–3 | 1–3 | 0–3 |
@@ -885,9 +885,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.2% | 100% | Last Result |
 | 1 | 12% | 99.8% |  |
-| 2 | 66% | 88% | Median |
-| 3 | 21% | 22% |  |
-| 4 | 1.1% | 1.1% |  |
+| 2 | 62% | 88% | Median |
+| 3 | 24% | 25% |  |
+| 4 | 1.1% | 1.2% |  |
 | 5 | 0% | 0% |  |
 
 
