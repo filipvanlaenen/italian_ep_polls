@@ -10,8 +10,16 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.7% | 2.9–4.5% | 2.7–4.8% | 2.6–5.0% | 2.2–5.6% |
-| [1 April 2026](2026-04-01-Eumetra.html) | Eumetra <br> La7 | 3.6% | 2.9–4.6% | 2.7–4.9% | 2.5–5.2% | 2.2–5.7% |
+| N/A | [Poll Average](average.html) | 3.6% | 2.9–4.4% | 2.7–4.6% | 2.5–4.9% | 2.2–5.3% |
+| [8–13 April 2026](2026-04-13-SWG.html) | SWG <br> La7 | 3.7% | 3.0–4.5% | 2.9–4.7% | 2.7–4.9% | 2.5–5.3% |
+| [11–13 April 2026](2026-04-13-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 3.3% | 2.6–4.3% | 2.4–4.5% | 2.3–4.8% | 2.0–5.3% |
+| [7–9 April 2026](2026-04-09-TermometroPolitico.html) | Termometro Politico | 3.6% | 3.1–4.1% | 3.0–4.2% | 2.9–4.4% | 2.7–4.6% |
+| [8–9 April 2026](2026-04-09-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
+| [7–8 April 2026](2026-04-08-Eumetra.html) | Eumetra <br> La7 | 3.5% | 2.8–4.5% | 2.6–4.8% | 2.4–5.0% | 2.1–5.5% |
+| [7–8 April 2026](2026-04-08-Demopolis.html) | Demopolis <br> La7 | 3.6% | 3.2–4.3% | 3.0–4.4% | 2.9–4.6% | 2.7–4.9% |
+| [31 March–2 April 2026](2026-04-02-TermometroPolitico.html) | Termometro Politico | 3.4% | N/A | N/A | N/A | N/A |
+| [31 March–1 April 2026](2026-04-01-Eumetra.html) | Eumetra <br> La7 | 3.6% | N/A | N/A | N/A | N/A |
+| [30–31 March 2026](2026-03-31-EMG.html) | EMG | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
 | [25–30 March 2026](2026-03-30-SWG.html) | SWG <br> La7 | 3.7% | 3.0–4.5% | 2.9–4.7% | 2.7–4.9% | 2.5–5.3% |
 | [27–28 March 2026](2026-03-28-BidiMedia.html) | BidiMedia | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.9–5.3% | 2.6–5.8% |
 | [24–26 March 2026](2026-03-26-TermometroPolitico.html) | Termometro Politico | 3.6% | 3.2–4.1% | 3.0–4.2% | 3.0–4.3% | 2.8–4.5% |
@@ -82,7 +90,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [15–18 December 2025](2025-12-18-Ipsos.html) | Ipsos <br> Corriere della Sera | 3.4% | N/A | N/A | N/A | N/A |
 | [16–18 December 2025](2025-12-18-Demopolis.html) | Demopolis <br> La7 | 3.6% | 3.1–4.2% | 3.0–4.4% | 2.9–4.5% | 2.7–4.8% |
 | [15–16 December 2025](2025-12-16-EMG.html) | EMG | 3.0% | N/A | N/A | N/A | N/A |
-| [15–16 December 2025](2025-12-16-BiDiMedia.html) | BiDiMedia | 3.8% | N/A | N/A | N/A | N/A |
+| [15–16 December 2025](2025-12-16-BiDiMedia.html) | BiDiMedia | 3.9% | N/A | N/A | N/A | N/A |
 | [10–15 December 2025](2025-12-15-SWG.html) | SWG <br> La7 | 3.8% | N/A | N/A | N/A | N/A |
 | [15 December 2025](2025-12-15-Piepoli.html) | Piepoli | 3.0% | 2.2–4.2% | 2.0–4.6% | 1.8–4.9% | 1.5–5.5% |
 | [15 December 2025](2025-12-15-Ipsos.html) | Ipsos | 3.4% | N/A | N/A | N/A | N/A |
@@ -442,11 +450,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 41% | 98% |  |
-| 3.5–4.5% | 48% | 57% | Median |
-| 4.5–5.5% | 8% | 9% |  |
-| 5.5–6.5% | 0.5% | 0.5% |  |
+| 1.5–2.5% | 3% | 100% |  |
+| 2.5–3.5% | 44% | 97% |  |
+| 3.5–4.5% | 47% | 53% | Median |
+| 4.5–5.5% | 6% | 6% |  |
+| 5.5–6.5% | 0.2% | 0.2% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -458,8 +466,16 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–5 | 2–5 | 2–5 | 2–5 |
-| [1 April 2026](2026-04-01-Eumetra.html) | Eumetra <br> La7 | 4 | 2–4 | 2–5 | 2–5 | 2–5 |
+| N/A | [Poll Average](average.html) | 4 | 3–4 | 2–5 | 2–5 | 2–5 |
+| [8–13 April 2026](2026-04-13-SWG.html) | SWG <br> La7 | 4 | 3–4 | 3–5 | 3–5 | 2–5 |
+| [11–13 April 2026](2026-04-13-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 4 | 2–4 | 2–4 | 2–4 | 2–5 |
+| [7–9 April 2026](2026-04-09-TermometroPolitico.html) | Termometro Politico | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
+| [8–9 April 2026](2026-04-09-Tecnè.html) | Tecnè <br> Agenzia Dire | 3 | 3–4 | 3–4 | 2–4 | 2–5 |
+| [7–8 April 2026](2026-04-08-Eumetra.html) | Eumetra <br> La7 | 3 | 2–4 | 2–5 | 2–5 | 2–6 |
+| [7–8 April 2026](2026-04-08-Demopolis.html) | Demopolis <br> La7 | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [31 March–2 April 2026](2026-04-02-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [31 March–1 April 2026](2026-04-01-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
+| [30–31 March 2026](2026-03-31-EMG.html) | EMG | 4 | 3–5 | 3–5 | 3–5 | 2–5 |
 | [25–30 March 2026](2026-03-30-SWG.html) | SWG <br> La7 | 3 | 3–5 | 3–5 | 3–5 | 2–5 |
 | [27–28 March 2026](2026-03-28-BidiMedia.html) | BidiMedia | 4 | 3–5 | 3–5 | 3–5 | 2–5 |
 | [24–26 March 2026](2026-03-26-TermometroPolitico.html) | Termometro Politico | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
@@ -890,13 +906,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% | Last Result |
-| 1 | 0% | 99.9% |  |
-| 2 | 6% | 99.9% |  |
-| 3 | 47% | 94% | Median |
-| 4 | 35% | 47% |  |
-| 5 | 11% | 11% |  |
-| 6 | 0.2% | 0.2% |  |
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 8% | 100% |  |
+| 3 | 40% | 92% |  |
+| 4 | 43% | 52% | Median |
+| 5 | 9% | 9% |  |
+| 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
 
 
