@@ -488,8 +488,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [22–27 April 2026](2026-04-27-SWG.html) | SWG <br> La7 | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
 | [20–27 April 2026](2026-04-27-Ixè.html) | Ixè | 5 | 5–6 | 5–7 | 4–7 | 4–7 |
 | [22–24 April 2026](2026-04-24-Tecnè.html) | Tecnè <br> Agenzia Dire | 6 | 6–8 | 5–8 | 5–8 | 5–8 |
-| [21–23 April 2026](2026-04-23-TermometroPolitico.html) | Termometro Politico | 7 | 6–8 | 6–8 | 6–8 | 6–8 |
-| [21–22 April 2026](2026-04-22-Eumetra.html) | Eumetra <br> La7 | 6 | 5–6 | 5–7 | 5–8 | 4–8 |
+| [21–23 April 2026](2026-04-23-TermometroPolitico.html) | Termometro Politico | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
+| [21–22 April 2026](2026-04-22-Eumetra.html) | Eumetra <br> La7 | 6 | 5–7 | 5–7 | 5–8 | 4–8 |
 | [15–20 April 2026](2026-04-20-SWG.html) | SWG <br> La7 | 7 | 5–7 | 5–7 | 4–7 | 4–7 |
 | [14–16 April 2026](2026-04-16-TermometroPolitico.html) | Termometro Politico | 7 | 6–7 | 6–7 | 6–7 | 5–7 |
 | [13–14 April 2026](2026-04-14-EMG.html) | EMG | 8 | 6–8 | 6–9 | 6–9 | 6–9 |
@@ -942,10 +942,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 1.2% | 100% |  |
-| 5 | 24% | 98.8% |  |
-| 6 | 44% | 75% | Median |
-| 7 | 19% | 31% |  |
-| 8 | 12% | 13% |  |
+| 5 | 25% | 98.8% |  |
+| 6 | 42% | 74% | Median |
+| 7 | 20% | 32% |  |
+| 8 | 11% | 12% |  |
 | 9 | 1.0% | 1.2% |  |
 | 10 | 0.2% | 0.2% |  |
 | 11 | 0% | 0% |  |
