@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.0% | 0.5–1.7% | 0.4–1.8% | 0.4–2.0% | 0.3–2.3% |
+| N/A | [Poll Average](average.html) | 1.5% | 1.0–2.1% | 0.9–2.3% | 0.8–2.4% | 0.7–2.8% |
+| [28 April–4 May 2026](2026-05-04-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [27–28 April 2026](2026-04-28-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 1.4% | 1.0–2.0% | 0.8–2.2% | 0.8–2.4% | 0.6–2.8% |
+| [27–28 April 2026](2026-04-28-EMG.html) | EMG | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
 | [22–27 April 2026](2026-04-27-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [20–27 April 2026](2026-04-27-Ixè.html) | Ixè | 0.0% | N/A | N/A | N/A | N/A |
 | [22–24 April 2026](2026-04-24-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
@@ -461,10 +464,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 11% | 100% | Last Result |
-| 0.5–1.5% | 75% | 89% | Median |
-| 1.5–2.5% | 14% | 14% |  |
-| 2.5–3.5% | 0.2% | 0.2% |  |
+| 0.0–0.5% | 0.1% | 100% | Last Result |
+| 0.5–1.5% | 55% | 99.9% |  |
+| 1.5–2.5% | 43% | 45% | Median |
+| 2.5–3.5% | 2% | 2% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -477,6 +480,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [28 April–4 May 2026](2026-05-04-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [27–28 April 2026](2026-04-28-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0 | 0 | 0 |
+| [27–28 April 2026](2026-04-28-EMG.html) | EMG | 0 | 0 | 0 | 0 | 0 |
 | [22–27 April 2026](2026-04-27-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [20–27 April 2026](2026-04-27-Ixè.html) | Ixè |  |  |  |  |  |
 | [22–24 April 2026](2026-04-24-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
