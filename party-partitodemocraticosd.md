@@ -11,6 +11,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 22.4% | 20.8–24.2% | 20.3–24.7% | 19.8–25.2% | 19.0–26.2% |
+| [6–11 May 2026](2026-05-11-SWG.html) | SWG <br> La7 | 22.0% | 20.5–23.6% | 20.1–24.1% | 19.7–24.4% | 19.1–25.2% |
+| [6–8 May 2026](2026-05-08-TermometroPolitico.html) | Termometro Politico | 22.1% | 21.0–23.2% | 20.7–23.5% | 20.4–23.8% | 19.9–24.4% |
+| [5–7 May 2026](2026-05-07-Tecnè.html) | Tecnè <br> Agenzia Dire | 22.2% | 20.6–24.0% | 20.1–24.4% | 19.7–24.9% | 19.0–25.7% |
+| [5–6 May 2026](2026-05-06-Eumetra.html) | Eumetra <br> La7 | 22.2% | 20.4–24.2% | 19.9–24.8% | 19.5–25.3% | 18.7–26.2% |
+| [4–6 May 2026](2026-05-06-DemosPi.html) | Demos & Pi <br> La Repubblica | 21.5% | 19.9–23.3% | 19.5–23.8% | 19.1–24.2% | 18.3–25.0% |
 | [28 April–4 May 2026](2026-05-04-SWG.html) | SWG <br> La7 | 21.8% | 20.3–23.4% | 19.9–23.9% | 19.6–24.3% | 18.9–25.0% |
 | [27–28 April 2026](2026-04-28-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 22.8% | 20.9–24.7% | 20.4–25.3% | 20.0–25.8% | 19.2–26.7% |
 | [27–28 April 2026](2026-04-28-EMG.html) | EMG | 21.7% | 20.1–23.4% | 19.6–23.9% | 19.3–24.4% | 18.5–25.2% |
@@ -504,6 +509,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 19 | 18–21 | 18–21 | 17–22 | 17–23 |
+| [6–11 May 2026](2026-05-11-SWG.html) | SWG <br> La7 | 19 | 16–21 | 16–21 | 15–22 | 15–22 |
+| [6–8 May 2026](2026-05-08-TermometroPolitico.html) | Termometro Politico | 20 | 18–21 | 18–21 | 17–21 | 17–22 |
+| [5–7 May 2026](2026-05-07-Tecnè.html) | Tecnè <br> Agenzia Dire | 19 | 18–20 | 18–21 | 18–21 | 16–22 |
+| [5–6 May 2026](2026-05-06-Eumetra.html) | Eumetra <br> La7 | 20 | 18–21 | 17–22 | 17–22 | 16–22 |
+| [4–6 May 2026](2026-05-06-DemosPi.html) | Demos & Pi <br> La Repubblica | 18 | 17–20 | 16–20 | 16–21 | 15–22 |
 | [28 April–4 May 2026](2026-05-04-SWG.html) | SWG <br> La7 | 20 | 17–20 | 17–20 | 17–20 | 16–21 |
 | [27–28 April 2026](2026-04-28-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 19 | 18–20 | 17–21 | 17–22 | 17–23 |
 | [27–28 April 2026](2026-04-28-EMG.html) | EMG | 20 | 19–20 | 18–21 | 18–23 | 17–23 |
