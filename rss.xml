@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 15 May 2026 17:51:46 +0200</pubDate>
+    <pubDate>Fri, 15 May 2026 23:47:26 +0200</pubDate>
     <item>
       <title>Opinion Poll by SWG for La7, 6–11 May 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2026-05-11-SWG.html#seats</link>
@@ -188,6 +188,36 @@
         type="image/png"/>
       <pubDate>Wed, 06 May 2026 22:27:23 +0200</pubDate>
       <dc:date>2026-05-06T22:27:23.481412+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by BiDiMedia, 27–29 April 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2026-04-29-BiDiMedia.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partito Liberaldemocratico (RE): 0 seats&lt;/li&gt;&lt;li&gt;Noi Moderati (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0 seats&lt;/li&gt;&lt;li&gt;Democrazia Sovrana e Popolare (NI): 0 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 24–25 seats&lt;/li&gt;&lt;li&gt;Futuro Nazionale (NI): 0–4 seats&lt;/li&gt;&lt;li&gt;Potere al Popolo (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Partito Progressista (*): 0 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 21–25 seats&lt;/li&gt;&lt;li&gt;Movimento 5 Stelle (GUE/NGL): 5–8 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 3 seats&lt;/li&gt;&lt;li&gt;Azione (RE): 0 seats&lt;/li&gt;&lt;li&gt;Sinistra Italiana (GUE/NGL): 3 seats&lt;/li&gt;&lt;li&gt;Lega Nord (PfE): 5–6 seats&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 6–7 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2026-04-29-BiDiMedia-seats.png"
+        length="287665"
+        type="image/png"/>
+      <pubDate>Fri, 15 May 2026 23:47:26 +0200</pubDate>
+      <dc:date>2026-05-15T23:47:26.916413+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by BiDiMedia, 27–29 April 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2026-04-29-BiDiMedia.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2026-04-29-BiDiMedia-coalitions-seats.png"
+        length="178920"
+        type="image/png"/>
+      <pubDate>Fri, 15 May 2026 23:47:26 +0200</pubDate>
+      <dc:date>2026-05-15T23:47:26.916413+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by BiDiMedia, 27–29 April 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2026-04-29-BiDiMedia.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partito Liberaldemocratico (RE): 0.5–2.0%&lt;/li&gt;&lt;li&gt;Noi Moderati (EPP): 1.4–3.5%&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 1.2–3.2%&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0.7–2.3%&lt;/li&gt;&lt;li&gt;Democrazia Sovrana e Popolare (NI): 0.6–2.1%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 23.8–29.9%&lt;/li&gt;&lt;li&gt;Futuro Nazionale (NI): 2.7–5.5%&lt;/li&gt;&lt;li&gt;Potere al Popolo (GUE/NGL): 0.4–1.6%&lt;/li&gt;&lt;li&gt;Partito Progressista (*): 0.4–1.8%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 23.3–29.4%&lt;/li&gt;&lt;li&gt;Movimento 5 Stelle (GUE/NGL): 5.8–9.4%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 3.3–6.2%&lt;/li&gt;&lt;li&gt;Azione (RE): 1.7–4.0%&lt;/li&gt;&lt;li&gt;Sinistra Italiana (GUE/NGL): 2.4–5.0%&lt;/li&gt;&lt;li&gt;Lega Nord (PfE): 4.8–8.2%&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 4.0–7.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2026-04-29-BiDiMedia.png"
+        length="421222"
+        type="image/png"/>
+      <pubDate>Fri, 15 May 2026 23:47:26 +0200</pubDate>
+      <dc:date>2026-05-15T23:47:26.916413+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Quorum – YouTrend for Sky TG24, 27–28 April 2026 – Seat Projections for the Parties</title>
@@ -2319,6 +2349,6 @@
       <pubDate>Sat, 14 Feb 2026 14:21:31 +0100</pubDate>
       <dc:date>2026-02-14T14:21:31.726654+01:00</dc:date>
     </item>
-    <dc:date>2026-05-15T17:51:46.102621+02:00</dc:date>
+    <dc:date>2026-05-15T23:47:26.916413+02:00</dc:date>
   </channel>
 </rss>
