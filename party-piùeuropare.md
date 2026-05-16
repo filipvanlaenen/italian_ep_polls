@@ -10,13 +10,14 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.6% | 1.1–2.2% | 1.0–2.4% | 0.9–2.6% | 0.7–2.9% |
+| N/A | [Poll Average](average.html) | 1.7% | 1.1–2.3% | 1.0–2.5% | 0.8–2.7% | 0.7–3.1% |
 | [6–11 May 2026](2026-05-11-SWG.html) | SWG <br> La7 | 1.5% | 1.1–2.1% | 1.0–2.2% | 0.9–2.4% | 0.8–2.7% |
 | [6–8 May 2026](2026-05-08-TermometroPolitico.html) | Termometro Politico | 1.9% | 1.6–2.3% | 1.5–2.5% | 1.4–2.6% | 1.3–2.8% |
 | [5–7 May 2026](2026-05-07-Tecnè.html) | Tecnè <br> Agenzia Dire | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
 | [5–6 May 2026](2026-05-06-Eumetra.html) | Eumetra <br> La7 | 1.5% | 1.1–2.2% | 1.0–2.4% | 0.9–2.6% | 0.7–3.0% |
 | [4–6 May 2026](2026-05-06-DemosPi.html) | Demos & Pi <br> La Repubblica | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
 | [28 April–4 May 2026](2026-05-04-SWG.html) | SWG <br> La7 | 1.6% | 1.2–2.2% | 1.1–2.3% | 1.0–2.5% | 0.9–2.8% |
+| [27–29 April 2026](2026-04-29-BiDiMedia.html) | BiDiMedia | 1.2% | 0.9–1.9% | 0.8–2.1% | 0.7–2.3% | 0.5–2.7% |
 | [27–28 April 2026](2026-04-28-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 1.2% | 0.9–1.9% | 0.7–2.1% | 0.7–2.3% | 0.5–2.6% |
 | [27–28 April 2026](2026-04-28-EMG.html) | EMG | 1.8% | 1.4–2.5% | 1.2–2.7% | 1.1–2.8% | 1.0–3.2% |
 | [22–27 April 2026](2026-04-27-SWG.html) | SWG <br> La7 | 1.5% | 1.1–2.1% | 1.0–2.2% | 0.9–2.4% | 0.8–2.7% |
@@ -470,10 +471,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0.1% | 100% | Last Result |
-| 0.5–1.5% | 46% | 99.9% |  |
-| 1.5–2.5% | 51% | 54% | Median |
-| 2.5–3.5% | 3% | 3% |  |
-| 3.5–4.5% | 0% | 0% |  |
+| 0.5–1.5% | 41% | 99.9% |  |
+| 1.5–2.5% | 54% | 58% | Median |
+| 2.5–3.5% | 4% | 5% |  |
+| 3.5–4.5% | 0.1% | 0.1% |  |
+| 4.5–5.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -491,6 +493,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [5–6 May 2026](2026-05-06-Eumetra.html) | Eumetra <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [4–6 May 2026](2026-05-06-DemosPi.html) | Demos & Pi <br> La Repubblica | 0 | 0 | 0 | 0 | 0 |
 | [28 April–4 May 2026](2026-05-04-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
+| [27–29 April 2026](2026-04-29-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
 | [27–28 April 2026](2026-04-28-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0 | 0 | 0 |
 | [27–28 April 2026](2026-04-28-EMG.html) | EMG | 0 | 0 | 0 | 0 | 0 |
 | [22–27 April 2026](2026-04-27-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
