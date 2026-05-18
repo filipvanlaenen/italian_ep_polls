@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.3% | 0.6–2.0% | 0.5–2.2% | 0.4–2.4% | 0.3–2.8% |
+| N/A | [Poll Average](average.html) | 1.4% | 0.7–2.2% | 0.6–2.4% | 0.5–2.6% | 0.3–3.1% |
 | [12–14 May 2026](2026-05-14-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
 | [11–12 May 2026](2026-05-12-EMG.html) | EMG <br> Rai 3 | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
 | [6–11 May 2026](2026-05-11-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
@@ -38,7 +38,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [13–20 April 2026](2026-04-20-SigmaConsulting.html) | Sigma Consulting <br> Piave | 0.0% | N/A | N/A | N/A | N/A |
 | [15–20 April 2026](2026-04-20-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [14–16 April 2026](2026-04-16-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
-| [13–15 April 2026](2026-04-15-Piepoli.html) | Piepoli | 1.5% | N/A | N/A | N/A | N/A |
+| [13–15 April 2026](2026-04-15-Piepoli.html) | Piepoli | 1.5% | 1.0–2.5% | 0.9–2.8% | 0.8–3.0% | 0.6–3.5% |
 | [13–14 April 2026](2026-04-14-EMG.html) | EMG | 1.2% | 0.9–1.8% | 0.8–1.9% | 0.7–2.1% | 0.5–2.4% |
 | [13–14 April 2026](2026-04-14-BiDiMedia.html) | BiDiMedia | 0.5% | N/A | N/A | N/A | N/A |
 | [8–13 April 2026](2026-04-13-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
@@ -483,11 +483,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 6% | 100% | Last Result |
-| 0.5–1.5% | 60% | 94% | Median |
-| 1.5–2.5% | 32% | 34% |  |
-| 2.5–3.5% | 1.4% | 1.4% |  |
-| 3.5–4.5% | 0% | 0% |  |
+| 0.0–0.5% | 5% | 100% | Last Result |
+| 0.5–1.5% | 55% | 95% | Median |
+| 1.5–2.5% | 36% | 40% |  |
+| 2.5–3.5% | 3% | 3% |  |
+| 3.5–4.5% | 0.1% | 0.1% |  |
+| 4.5–5.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -526,7 +527,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [13–20 April 2026](2026-04-20-SigmaConsulting.html) | Sigma Consulting <br> Piave |  |  |  |  |  |
 | [15–20 April 2026](2026-04-20-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [14–16 April 2026](2026-04-16-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [13–15 April 2026](2026-04-15-Piepoli.html) | Piepoli |  |  |  |  |  |
+| [13–15 April 2026](2026-04-15-Piepoli.html) | Piepoli | 0 | 0 | 0 | 0 | 0 |
 | [13–14 April 2026](2026-04-14-EMG.html) | EMG | 0 | 0 | 0 | 0 | 0 |
 | [13–14 April 2026](2026-04-14-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
 | [8–13 April 2026](2026-04-13-SWG.html) | SWG <br> La7 |  |  |  |  |  |

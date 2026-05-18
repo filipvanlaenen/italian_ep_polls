@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.4% | 20.7–24.3% | 20.2–24.8% | 19.8–25.3% | 19.0–26.2% |
+| N/A | [Poll Average](average.html) | 22.4% | 20.6–24.2% | 20.1–24.8% | 19.6–25.3% | 18.7–26.3% |
 | [12–14 May 2026](2026-05-14-TermometroPolitico.html) | Termometro Politico | 22.2% | 21.1–23.3% | 20.8–23.6% | 20.6–23.9% | 20.1–24.5% |
 | [11–12 May 2026](2026-05-12-EMG.html) | EMG <br> Rai 3 | 21.7% | 20.1–23.4% | 19.6–23.9% | 19.3–24.4% | 18.5–25.2% |
 | [6–11 May 2026](2026-05-11-SWG.html) | SWG <br> La7 | 22.0% | 20.5–23.6% | 20.1–24.1% | 19.7–24.4% | 19.1–25.2% |
@@ -35,10 +35,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [9–22 April 2026](2026-04-22-EMG.html) | EMG | 21.7% | N/A | N/A | N/A | N/A |
 | [20–21 April 2026](2026-04-21-OnlyNumbers.html) | Only Numbers <br> Rai 1 | 22.5% | N/A | N/A | N/A | N/A |
 | [17–20 April 2026](2026-04-20-Tecnè.html) | Tecnè <br> Rete 4 | 22.4% | N/A | N/A | N/A | N/A |
-| [13–20 April 2026](2026-04-20-SigmaConsulting.html) | Sigma Consulting <br> Piave | 22.0% | N/A | N/A | N/A | N/A |
+| [13–20 April 2026](2026-04-20-SigmaConsulting.html) | Sigma Consulting <br> Piave | 22.0% | 20.2–24.0% | 19.7–24.5% | 19.3–25.0% | 18.4–26.0% |
 | [15–20 April 2026](2026-04-20-SWG.html) | SWG <br> La7 | 21.6% | 20.1–23.2% | 19.7–23.6% | 19.3–24.0% | 18.7–24.8% |
 | [14–16 April 2026](2026-04-16-TermometroPolitico.html) | Termometro Politico | 22.0% | 21.0–23.1% | 20.7–23.4% | 20.5–23.6% | 20.0–24.1% |
-| [13–15 April 2026](2026-04-15-Piepoli.html) | Piepoli | 21.9% | N/A | N/A | N/A | N/A |
+| [13–15 April 2026](2026-04-15-Piepoli.html) | Piepoli | 21.9% | 19.7–24.4% | 19.1–25.1% | 18.6–25.7% | 17.6–26.9% |
 | [13–14 April 2026](2026-04-14-EMG.html) | EMG | 22.1% | 20.5–23.9% | 20.0–24.4% | 19.6–24.8% | 18.9–25.6% |
 | [13–14 April 2026](2026-04-14-BiDiMedia.html) | BiDiMedia | 22.7% | N/A | N/A | N/A | N/A |
 | [8–13 April 2026](2026-04-13-SWG.html) | SWG <br> La7 | 21.9% | 20.4–23.5% | 20.0–24.0% | 19.7–24.4% | 19.0–25.1% |
@@ -501,16 +501,16 @@ The following table shows the probability mass function per percentage block of 
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0% | 100% |  |
-| 17.5–18.5% | 0.2% | 100% |  |
-| 18.5–19.5% | 1.5% | 99.8% |  |
-| 19.5–20.5% | 6% | 98% |  |
-| 20.5–21.5% | 17% | 92% |  |
-| 21.5–22.5% | 28% | 74% | Median |
-| 22.5–23.5% | 25% | 46% |  |
+| 17.5–18.5% | 0.3% | 100% |  |
+| 18.5–19.5% | 2% | 99.6% |  |
+| 19.5–20.5% | 7% | 98% |  |
+| 20.5–21.5% | 18% | 91% |  |
+| 21.5–22.5% | 27% | 73% | Median |
+| 22.5–23.5% | 24% | 45% |  |
 | 23.5–24.5% | 14% | 21% |  |
 | 24.5–25.5% | 5% | 7% |  |
 | 25.5–26.5% | 1.4% | 2% |  |
-| 26.5–27.5% | 0.2% | 0.3% |  |
+| 26.5–27.5% | 0.3% | 0.3% |  |
 | 27.5–28.5% | 0% | 0% |  |
 
 
@@ -522,7 +522,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 18–21 | 17–22 | 16–22 | 15–23 |
+| N/A | [Poll Average](average.html) | 19 | 17–21 | 17–21 | 16–22 | 15–23 |
 | [12–14 May 2026](2026-05-14-TermometroPolitico.html) | Termometro Politico | 19 | 18–21 | 18–21 | 18–21 | 17–22 |
 | [11–12 May 2026](2026-05-12-EMG.html) | EMG <br> Rai 3 | 18 | 16–21 | 16–21 | 16–21 | 16–22 |
 | [6–11 May 2026](2026-05-11-SWG.html) | SWG <br> La7 | 19 | 16–21 | 16–21 | 15–22 | 15–22 |
@@ -547,10 +547,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [9–22 April 2026](2026-04-22-EMG.html) | EMG |  |  |  |  |  |
 | [20–21 April 2026](2026-04-21-OnlyNumbers.html) | Only Numbers <br> Rai 1 |  |  |  |  |  |
 | [17–20 April 2026](2026-04-20-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
-| [13–20 April 2026](2026-04-20-SigmaConsulting.html) | Sigma Consulting <br> Piave |  |  |  |  |  |
+| [13–20 April 2026](2026-04-20-SigmaConsulting.html) | Sigma Consulting <br> Piave | 18 | 17–20 | 17–20 | 17–21 | 16–21 |
 | [15–20 April 2026](2026-04-20-SWG.html) | SWG <br> La7 | 19 | 17–20 | 16–20 | 16–21 | 15–21 |
 | [14–16 April 2026](2026-04-16-TermometroPolitico.html) | Termometro Politico | 21 | 19–21 | 19–21 | 18–21 | 17–21 |
-| [13–15 April 2026](2026-04-15-Piepoli.html) | Piepoli |  |  |  |  |  |
+| [13–15 April 2026](2026-04-15-Piepoli.html) | Piepoli | 19 | 16–21 | 16–21 | 16–21 | 15–23 |
 | [13–14 April 2026](2026-04-14-EMG.html) | EMG | 19 | 17–21 | 17–21 | 17–21 | 17–22 |
 | [13–14 April 2026](2026-04-14-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
 | [8–13 April 2026](2026-04-13-SWG.html) | SWG <br> La7 | 19 | 17–20 | 17–20 | 16–20 | 15–21 |
@@ -1013,14 +1013,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0.7% | 100% |  |
-| 16 | 3% | 99.3% |  |
-| 17 | 6% | 97% |  |
-| 18 | 20% | 91% |  |
-| 19 | 27% | 70% | Median |
-| 20 | 29% | 44% |  |
-| 21 | 9% | 15% |  |
-| 22 | 4% | 6% |  |
-| 23 | 1.5% | 2% |  |
-| 24 | 0% | 0% |  |
+| 16 | 3% | 99.2% |  |
+| 17 | 9% | 96% |  |
+| 18 | 19% | 88% |  |
+| 19 | 28% | 68% | Median |
+| 20 | 26% | 40% |  |
+| 21 | 9% | 14% |  |
+| 22 | 4% | 5% |  |
+| 23 | 1.3% | 1.4% |  |
+| 24 | 0% | 0.1% |  |
+| 25 | 0% | 0% |  |
 
 

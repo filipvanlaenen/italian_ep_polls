@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.4% | 1.8–3.1% | 1.7–3.3% | 1.6–3.5% | 1.3–3.9% |
+| N/A | [Poll Average](average.html) | 2.4% | 1.8–3.1% | 1.7–3.4% | 1.5–3.6% | 1.3–4.0% |
 | [12–14 May 2026](2026-05-14-TermometroPolitico.html) | Termometro Politico | 2.2% | 1.9–2.7% | 1.8–2.8% | 1.7–2.9% | 1.6–3.2% |
 | [11–12 May 2026](2026-05-12-EMG.html) | EMG <br> Rai 3 | 2.4% | 1.9–3.2% | 1.7–3.4% | 1.6–3.6% | 1.4–3.9% |
 | [6–11 May 2026](2026-05-11-SWG.html) | SWG <br> La7 | 2.4% | 1.9–3.1% | 1.8–3.3% | 1.7–3.5% | 1.5–3.8% |
@@ -35,10 +35,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [9–22 April 2026](2026-04-22-EMG.html) | EMG | 2.2% | N/A | N/A | N/A | N/A |
 | [20–21 April 2026](2026-04-21-OnlyNumbers.html) | Only Numbers <br> Rai 1 | 2.3% | N/A | N/A | N/A | N/A |
 | [17–20 April 2026](2026-04-20-Tecnè.html) | Tecnè <br> Rete 4 | 2.2% | N/A | N/A | N/A | N/A |
-| [13–20 April 2026](2026-04-20-SigmaConsulting.html) | Sigma Consulting <br> Piave | 2.2% | N/A | N/A | N/A | N/A |
+| [13–20 April 2026](2026-04-20-SigmaConsulting.html) | Sigma Consulting <br> Piave | 2.2% | 1.7–3.1% | 1.6–3.3% | 1.4–3.5% | 1.2–4.0% |
 | [15–20 April 2026](2026-04-20-SWG.html) | SWG <br> La7 | 2.4% | 1.9–3.1% | 1.8–3.3% | 1.7–3.5% | 1.5–3.8% |
 | [14–16 April 2026](2026-04-16-TermometroPolitico.html) | Termometro Politico | 2.3% | 2.0–2.7% | 1.9–2.8% | 1.8–2.9% | 1.6–3.2% |
-| [13–15 April 2026](2026-04-15-Piepoli.html) | Piepoli | 2.3% | N/A | N/A | N/A | N/A |
+| [13–15 April 2026](2026-04-15-Piepoli.html) | Piepoli | 2.3% | 1.7–3.4% | 1.5–3.7% | 1.3–4.0% | 1.1–4.6% |
 | [13–14 April 2026](2026-04-14-EMG.html) | EMG | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
 | [13–14 April 2026](2026-04-14-BiDiMedia.html) | BiDiMedia | 2.6% | N/A | N/A | N/A | N/A |
 | [8–13 April 2026](2026-04-13-SWG.html) | SWG <br> La7 | 2.4% | 1.9–3.1% | 1.8–3.3% | 1.7–3.5% | 1.5–3.8% |
@@ -484,11 +484,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 2% | 100% |  |
-| 1.5–2.5% | 57% | 98% | Median |
+| 0.5–1.5% | 3% | 100% |  |
+| 1.5–2.5% | 57% | 97% | Median |
 | 2.5–3.5% | 38% | 40% |  |
-| 3.5–4.5% | 2% | 2% |  |
-| 4.5–5.5% | 0% | 0% |  |
+| 3.5–4.5% | 3% | 3% |  |
+| 4.5–5.5% | 0.1% | 0.1% |  |
+| 5.5–6.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -524,10 +525,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [9–22 April 2026](2026-04-22-EMG.html) | EMG |  |  |  |  |  |
 | [20–21 April 2026](2026-04-21-OnlyNumbers.html) | Only Numbers <br> Rai 1 |  |  |  |  |  |
 | [17–20 April 2026](2026-04-20-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |
-| [13–20 April 2026](2026-04-20-SigmaConsulting.html) | Sigma Consulting <br> Piave |  |  |  |  |  |
+| [13–20 April 2026](2026-04-20-SigmaConsulting.html) | Sigma Consulting <br> Piave | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [15–20 April 2026](2026-04-20-SWG.html) | SWG <br> La7 | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | [14–16 April 2026](2026-04-16-TermometroPolitico.html) | Termometro Politico | 2 | 2 | 2 | 2–3 | 1–3 |
-| [13–15 April 2026](2026-04-15-Piepoli.html) | Piepoli |  |  |  |  |  |
+| [13–15 April 2026](2026-04-15-Piepoli.html) | Piepoli | 3 | 1–3 | 1–3 | 1–4 | 1–5 |
 | [13–14 April 2026](2026-04-14-EMG.html) | EMG | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [13–14 April 2026](2026-04-14-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
 | [8–13 April 2026](2026-04-13-SWG.html) | SWG <br> La7 | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
@@ -974,11 +975,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 13% | 100% |  |
-| 2 | 61% | 87% | Median |
-| 3 | 25% | 26% |  |
-| 4 | 1.0% | 1.0% |  |
-| 5 | 0% | 0% |  |
+| 0 | 0.1% | 100% | Last Result |
+| 1 | 13% | 99.9% |  |
+| 2 | 59% | 87% | Median |
+| 3 | 27% | 28% |  |
+| 4 | 1.0% | 1.1% |  |
+| 5 | 0.1% | 0.1% |  |
+| 6 | 0% | 0% |  |
 
 
