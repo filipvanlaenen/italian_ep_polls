@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.8% | 11.3–14.5% | 10.8–15.0% | 10.5–15.4% | 9.8–16.4% |
+| N/A | [Poll Average](average.html) | 12.8% | 11.3–14.5% | 10.8–15.0% | 10.5–15.4% | 9.8–16.3% |
+| [20–25 May 2026](2026-05-25-SWG.html) | SWG <br> La7 | 12.7% | 11.5–14.0% | 11.2–14.4% | 10.9–14.7% | 10.4–15.3% |
+| [21–22 May 2026](2026-05-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 12.7% | 11.4–14.1% | 11.1–14.6% | 10.8–14.9% | 10.2–15.6% |
 | [20–21 May 2026](2026-05-21-TermometroPolitico.html) | Termometro Politico | 12.5% | 11.7–13.4% | 11.4–13.7% | 11.2–13.9% | 10.8–14.3% |
 | [13–18 May 2026](2026-05-18-SWG.html) | SWG <br> La7 | 12.5% | 11.3–13.8% | 11.0–14.2% | 10.7–14.5% | 10.2–15.2% |
 | [13–15 May 2026](2026-05-15-Tecnè.html) | Tecnè <br> Agenzia Dire | 12.9% | 11.6–14.4% | 11.3–14.8% | 11.0–15.1% | 10.4–15.9% |
@@ -518,6 +520,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11 | 9–13 | 9–14 | 9–14 | 9–14 |
+| [20–25 May 2026](2026-05-25-SWG.html) | SWG <br> La7 | 11 | 9–13 | 9–13 | 9–13 | 8–13 |
+| [21–22 May 2026](2026-05-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 11 | 10–12 | 9–13 | 9–13 | 9–14 |
 | [20–21 May 2026](2026-05-21-TermometroPolitico.html) | Termometro Politico | 11 | 11 | 10–11 | 10–12 | 10–12 |
 | [13–18 May 2026](2026-05-18-SWG.html) | SWG <br> La7 | 10 | 10–11 | 9–12 | 9–12 | 9–13 |
 | [13–15 May 2026](2026-05-15-Tecnè.html) | Tecnè <br> Agenzia Dire | 11 | 10–13 | 10–13 | 10–13 | 9–13 |
@@ -1006,11 +1010,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0.3% | 100% |  |
-| 9 | 12% | 99.7% |  |
+| 9 | 13% | 99.7% |  |
 | 10 | 23% | 87% |  |
-| 11 | 37% | 64% | Median |
-| 12 | 16% | 28% |  |
-| 13 | 6% | 12% |  |
+| 11 | 34% | 64% | Median |
+| 12 | 16% | 30% |  |
+| 13 | 7% | 13% |  |
 | 14 | 6% | 6% |  |
 | 15 | 0.1% | 0.1% |  |
 | 16 | 0% | 0% |  |
