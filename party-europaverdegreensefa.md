@@ -14,6 +14,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [20–25 May 2026](2026-05-25-SWG.html) | SWG <br> La7 | 3.7% | 3.0–4.5% | 2.9–4.7% | 2.7–4.9% | 2.5–5.3% |
 | [21–22 May 2026](2026-05-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
 | [20–21 May 2026](2026-05-21-TermometroPolitico.html) | Termometro Politico | 3.4% | 3.0–3.9% | 2.9–4.1% | 2.8–4.2% | 2.6–4.5% |
+| [19–20 May 2026](2026-05-20-Eumetra.html) | Eumetra <br> La7 | 3.6% | 2.9–4.6% | 2.7–4.9% | 2.5–5.2% | 2.2–5.7% |
+| [18–19 May 2026](2026-05-19-OnlyNumbers.html) | Only Numbers | 3.5% | 2.8–4.5% | 2.6–4.8% | 2.4–5.0% | 2.1–5.5% |
+| [6–19 May 2026](2026-05-19-EMG.html) | EMG | 3.7% | 3.0–4.6% | 2.9–4.8% | 2.7–5.1% | 2.4–5.5% |
 | [13–18 May 2026](2026-05-18-SWG.html) | SWG <br> La7 | 3.7% | 3.0–4.5% | 2.9–4.7% | 2.7–4.9% | 2.5–5.3% |
 | [13–15 May 2026](2026-05-15-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
 | [12–14 May 2026](2026-05-14-TermometroPolitico.html) | Termometro Politico | 3.4% | 3.0–3.9% | 2.9–4.1% | 2.8–4.2% | 2.6–4.5% |
@@ -512,6 +515,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [20–25 May 2026](2026-05-25-SWG.html) | SWG <br> La7 | 3 | 3–4 | 3–4 | 3–5 | 2–5 |
 | [21–22 May 2026](2026-05-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 4 | 2–5 | 2–5 | 2–5 | 2–5 |
 | [20–21 May 2026](2026-05-21-TermometroPolitico.html) | Termometro Politico | 3 | 3 | 3 | 2–4 | 2–5 |
+| [19–20 May 2026](2026-05-20-Eumetra.html) | Eumetra <br> La7 | 4 | 4 | 3–4 | 3–4 | 2–5 |
+| [18–19 May 2026](2026-05-19-OnlyNumbers.html) | Only Numbers | 4 | 2–5 | 2–5 | 2–5 | 2–6 |
+| [6–19 May 2026](2026-05-19-EMG.html) | EMG | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | [13–18 May 2026](2026-05-18-SWG.html) | SWG <br> La7 | 4 | 3–5 | 3–5 | 3–5 | 2–5 |
 | [13–15 May 2026](2026-05-15-Tecnè.html) | Tecnè <br> Agenzia Dire | 4 | 3–4 | 3–5 | 3–5 | 2–5 |
 | [12–14 May 2026](2026-05-14-TermometroPolitico.html) | Termometro Politico | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
@@ -993,9 +999,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 5% | 100% |  |
-| 3 | 57% | 95% | Median |
-| 4 | 32% | 38% |  |
-| 5 | 6% | 6% |  |
+| 3 | 54% | 95% | Median |
+| 4 | 35% | 42% |  |
+| 5 | 6% | 7% |  |
 | 6 | 0.2% | 0.2% |  |
 | 7 | 0% | 0% |  |
 
