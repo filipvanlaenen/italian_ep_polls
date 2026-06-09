@@ -1,62 +1,60 @@
-# Opinion Poll by Termometro Politico, 3–4 June 2026
+# Opinion Poll by Demopolis, 3 June 2026
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#coalitions">Coalitions</a> | <a href="#technical-information">Technical Information</a></p>
 
 ## Voting Intentions
 
-![Graph with voting intentions not yet produced](2026-06-04-TermometroPolitico.png "Voting Intentions")
+![Graph with voting intentions not yet produced](2026-06-03-Demopolis.png "Voting Intentions")
 
 ### Confidence Intervals
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Fratelli d’Italia (ECR) | 0.0% | 27.8% | 26.6–29.1% |26.3–29.4% |26.0–29.7% |25.4–30.3% |
-| Partito Democratico (S&D) | 0.0% | 21.8% | 20.7–23.0% |20.4–23.3% |20.1–23.6% |19.6–24.2% |
-| Movimento 5 Stelle (GUE/NGL) | 0.0% | 12.6% | 11.7–13.5% |11.5–13.8% |11.3–14.1% |10.9–14.5% |
-| Forza Italia (EPP) | 0.0% | 7.7% | 7.0–8.5% |6.8–8.7% |6.6–8.9% |6.3–9.3% |
-| Lega Nord (PfE) | 0.0% | 6.9% | 6.2–7.7% |6.1–7.9% |5.9–8.0% |5.6–8.4% |
-| Futuro Nazionale (NI) | 0.0% | 4.5% | 4.0–5.1% |3.8–5.3% |3.7–5.5% |3.5–5.8% |
-| Europa Verde (Greens/EFA) | 0.0% | 3.5% | 3.0–4.0% |2.9–4.2% |2.8–4.3% |2.6–4.6% |
-| Azione (RE) | 0.0% | 2.8% | 2.4–3.3% |2.3–3.5% |2.2–3.6% |2.0–3.9% |
-| Italia Viva (RE) | 0.0% | 2.4% | 2.0–2.9% |1.9–3.0% |1.8–3.1% |1.7–3.4% |
-| Sinistra Italiana (GUE/NGL) | 0.0% | 2.3% | 1.9–2.7% |1.8–2.9% |1.7–3.0% |1.6–3.2% |
-| Più Europa (RE) | 0.0% | 1.7% | 1.4–2.1% |1.3–2.2% |1.2–2.3% |1.1–2.5% |
-| Democrazia Sovrana e Popolare (NI) | 0.0% | 1.2% | 0.9–1.5% |0.9–1.6% |0.8–1.7% |0.7–1.9% |
-| Noi Moderati (EPP) | 0.0% | 1.0% | 0.8–1.3% |0.7–1.4% |0.7–1.5% |0.6–1.7% |
-| Partito Progressista (*) | 0.0% | 0.5% | 0.4–0.8% |0.3–0.9% |0.3–1.0% |0.2–1.1% |
+| Fratelli d’Italia (ECR) | 0.0% | 28.8% | 27.5–30.1% |27.2–30.5% |26.9–30.8% |26.2–31.5% |
+| Partito Democratico (S&D) | 0.0% | 22.4% | 21.2–23.6% |20.9–24.0% |20.6–24.3% |20.1–24.9% |
+| Movimento 5 Stelle (GUE/NGL) | 0.0% | 13.0% | 12.1–14.0% |11.8–14.3% |11.6–14.6% |11.2–15.0% |
+| Forza Italia (EPP) | 0.0% | 8.2% | 7.5–9.0% |7.3–9.3% |7.1–9.5% |6.7–9.9% |
+| Lega Nord (PfE) | 0.0% | 7.3% | 6.6–8.1% |6.4–8.3% |6.2–8.5% |5.9–8.9% |
+| Futuro Nazionale (NI) | 0.0% | 3.9% | 3.4–4.5% |3.2–4.7% |3.1–4.8% |2.9–5.2% |
+| Europa Verde (Greens/EFA) | 0.0% | 3.6% | 3.1–4.2% |3.0–4.4% |2.9–4.5% |2.7–4.8% |
+| Azione (RE) | 0.0% | 2.7% | 2.3–3.2% |2.2–3.4% |2.1–3.5% |1.9–3.8% |
+| Sinistra Italiana (GUE/NGL) | 0.0% | 2.4% | 2.0–2.9% |1.9–3.0% |1.8–3.1% |1.6–3.4% |
+| Italia Viva (RE) | 0.0% | 2.3% | 1.9–2.8% |1.8–2.9% |1.7–3.1% |1.6–3.3% |
+| Più Europa (RE) | 0.0% | 1.3% | 1.0–1.7% |0.9–1.8% |0.9–1.9% |0.8–2.1% |
+| Noi Moderati (EPP) | 0.0% | 1.1% | 0.9–1.5% |0.8–1.6% |0.7–1.7% |0.6–1.9% |
+| Partito Progressista (*) | 0.0% | 0.6% | 0.4–0.9% |0.4–1.0% |0.3–1.1% |0.3–1.2% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
 ## Seats
 
-![Graph with seats not yet produced](2026-06-04-TermometroPolitico-seats.png "Seats")
+![Graph with seats not yet produced](2026-06-03-Demopolis-seats.png "Seats")
 
-![Graph with seating plan not yet produced](2026-06-04-TermometroPolitico-seating-plan.png "Seating Plan")
+![Graph with seating plan not yet produced](2026-06-03-Demopolis-seating-plan.png "Seating Plan")
 
 ### Confidence Intervals
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#fratelli-d’italia-(ecr)">Fratelli d’Italia (ECR)</a> | 0 | 24 | 23–25 |23–25 |23–26 |21–26 |
-| <a href="#partito-democratico-(s&d)">Partito Democratico (S&D)</a> | 0 | 19 | 18–19 |18–19 |18–20 |17–21 |
-| <a href="#movimento-5-stelle-(gue/ngl)">Movimento 5 Stelle (GUE/NGL)</a> | 0 | 11 | 11–12 |10–12 |10–12 |10–12 |
-| <a href="#forza-italia-(epp)">Forza Italia (EPP)</a> | 0 | 6 | 5–7 |5–7 |5–7 |5–7 |
-| <a href="#lega-nord-(pfe)">Lega Nord (PfE)</a> | 0 | 6 | 5–6 |5–6 |5–7 |5–7 |
-| <a href="#futuro-nazionale-(ni)">Futuro Nazionale (NI)</a> | 0 | 4 | 3–4 |3–5 |3–5 |0–5 |
-| <a href="#europa-verde-(greens/efa)">Europa Verde (Greens/EFA)</a> | 0 | 3 | 3–4 |3–4 |3–4 |3–4 |
+| <a href="#fratelli-d’italia-(ecr)">Fratelli d’Italia (ECR)</a> | 0 | 26 | 26 |25–26 |25–27 |24–27 |
+| <a href="#partito-democratico-(s&d)">Partito Democratico (S&D)</a> | 0 | 19 | 19 |19 |19–20 |17–20 |
+| <a href="#movimento-5-stelle-(gue/ngl)">Movimento 5 Stelle (GUE/NGL)</a> | 0 | 11 | 11 |11 |11 |10–12 |
+| <a href="#forza-italia-(epp)">Forza Italia (EPP)</a> | 0 | 7 | 7 |6–7 |6–7 |6–7 |
+| <a href="#lega-nord-(pfe)">Lega Nord (PfE)</a> | 0 | 7 | 7 |6–7 |6–7 |5–7 |
+| <a href="#futuro-nazionale-(ni)">Futuro Nazionale (NI)</a> | 0 | 0 | 0 |0 |0 |0–4 |
+| <a href="#europa-verde-(greens/efa)">Europa Verde (Greens/EFA)</a> | 0 | 3 | 3 |3–4 |3–4 |3–4 |
 | <a href="#azione-(re)">Azione (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#sinistra-italiana-(gue/ngl)">Sinistra Italiana (GUE/NGL)</a> | 0 | 2 | 2 |2 |2–3 |2–3 |
 | <a href="#italia-viva-(re)">Italia Viva (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
-| <a href="#sinistra-italiana-(gue/ngl)">Sinistra Italiana (GUE/NGL)</a> | 0 | 2 | 2 |2 |2–3 |1–3 |
 | <a href="#più-europa-(re)">Più Europa (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
-| <a href="#democrazia-sovrana-e-popolare-(ni)">Democrazia Sovrana e Popolare (NI)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#noi-moderati-(epp)">Noi Moderati (EPP)</a> | 0 | 0 | 0 |0 |0 |0 |
-| <a href="#partito-progressista-(*)">Partito Progressista (*)</a> | 0 | 0 | 0 |0 |0 |0–1 |
+| <a href="#partito-progressista-(*)">Partito Progressista (*)</a> | 0 | 0 | 0 |0 |0 |0 |
 
 ### Fratelli d’Italia (ECR)
 
 *For a full overview of the results for this party, see the [Fratelli d’Italia (ECR)](party-fratellid’italiaecr.html) page.*
 
-![Graph with seats probability mass function not yet produced](2026-06-04-TermometroPolitico-seats-pmf-fratellid’italiaecr.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2026-06-03-Demopolis-seats-pmf-fratellid’italiaecr.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -81,20 +79,21 @@
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
-| 21 | 0.6% | 100% |  |
-| 22 | 1.1% | 99.4% |  |
-| 23 | 39% | 98% |  |
-| 24 | 11% | 59% | Median |
-| 25 | 46% | 49% |  |
-| 26 | 3% | 3% |  |
-| 27 | 0.2% | 0.3% |  |
-| 28 | 0% | 0% |  |
+| 21 | 0% | 100% |  |
+| 22 | 0.1% | 100% |  |
+| 23 | 0.2% | 99.9% |  |
+| 24 | 1.2% | 99.8% |  |
+| 25 | 4% | 98.6% |  |
+| 26 | 90% | 94% | Median |
+| 27 | 4% | 4% |  |
+| 28 | 0.1% | 0.1% |  |
+| 29 | 0% | 0% |  |
 
 ### Partito Democratico (S&D)
 
 *For a full overview of the results for this party, see the [Partito Democratico (S&D)](party-partitodemocraticosd.html) page.*
 
-![Graph with seats probability mass function not yet produced](2026-06-04-TermometroPolitico-seats-pmf-partitodemocraticosd.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2026-06-03-Demopolis-seats-pmf-partitodemocraticosd.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -115,18 +114,18 @@
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
-| 17 | 0.9% | 100% |  |
-| 18 | 19% | 99.1% |  |
-| 19 | 75% | 80% | Median |
-| 20 | 2% | 5% |  |
-| 21 | 2% | 2% |  |
+| 17 | 0.5% | 100% |  |
+| 18 | 0.8% | 99.5% |  |
+| 19 | 94% | 98.7% | Median |
+| 20 | 4% | 4% |  |
+| 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |
 
 ### Movimento 5 Stelle (GUE/NGL)
 
 *For a full overview of the results for this party, see the [Movimento 5 Stelle (GUE/NGL)](party-movimento5stelleguengl.html) page.*
 
-![Graph with seats probability mass function not yet produced](2026-06-04-TermometroPolitico-seats-pmf-movimento5stelleguengl.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2026-06-03-Demopolis-seats-pmf-movimento5stelleguengl.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -140,9 +139,9 @@
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0.1% | 100% |  |
-| 10 | 10% | 99.9% |  |
-| 11 | 50% | 90% | Median |
-| 12 | 40% | 40% |  |
+| 10 | 1.5% | 99.9% |  |
+| 11 | 96% | 98% | Median |
+| 12 | 2% | 2% |  |
 | 13 | 0.1% | 0.1% |  |
 | 14 | 0% | 0% |  |
 
@@ -150,26 +149,7 @@
 
 *For a full overview of the results for this party, see the [Forza Italia (EPP)](party-forzaitaliaepp.html) page.*
 
-![Graph with seats probability mass function not yet produced](2026-06-04-TermometroPolitico-seats-pmf-forzaitaliaepp.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 0% | 100% |  |
-| 3 | 0% | 100% |  |
-| 4 | 0.3% | 100% |  |
-| 5 | 49% | 99.7% |  |
-| 6 | 8% | 50% | Median |
-| 7 | 42% | 42% |  |
-| 8 | 0.1% | 0.1% |  |
-| 9 | 0% | 0% |  |
-
-### Lega Nord (PfE)
-
-*For a full overview of the results for this party, see the [Lega Nord (PfE)](party-leganordpfe.html) page.*
-
-![Graph with seats probability mass function not yet produced](2026-06-04-TermometroPolitico-seats-pmf-leganordpfe.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2026-06-03-Demopolis-seats-pmf-forzaitaliaepp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -178,58 +158,67 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 10% | 100% |  |
-| 6 | 87% | 90% | Median |
-| 7 | 3% | 3% |  |
-| 8 | 0% | 0% |  |
+| 5 | 0.3% | 100% |  |
+| 6 | 9% | 99.7% |  |
+| 7 | 90% | 90% | Median |
+| 8 | 0.1% | 0.1% |  |
+| 9 | 0% | 0% |  |
 
-### Futuro Nazionale (NI)
+### Lega Nord (PfE)
 
-*For a full overview of the results for this party, see the [Futuro Nazionale (NI)](party-futuronazionaleni.html) page.*
+*For a full overview of the results for this party, see the [Lega Nord (PfE)](party-leganordpfe.html) page.*
 
-![Graph with seats probability mass function not yet produced](2026-06-04-TermometroPolitico-seats-pmf-futuronazionaleni.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.3% | 100% | Last Result |
-| 1 | 0% | 98.7% |  |
-| 2 | 0% | 98.7% |  |
-| 3 | 33% | 98.7% |  |
-| 4 | 60% | 66% | Median |
-| 5 | 6% | 6% |  |
-| 6 | 0% | 0% |  |
-
-### Europa Verde (Greens/EFA)
-
-*For a full overview of the results for this party, see the [Europa Verde (Greens/EFA)](party-europaverdegreensefa.html) page.*
-
-![Graph with seats probability mass function not yet produced](2026-06-04-TermometroPolitico-seats-pmf-europaverdegreensefa.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2026-06-03-Demopolis-seats-pmf-leganordpfe.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 0.2% | 100% |  |
-| 3 | 88% | 99.8% | Median |
-| 4 | 12% | 12% |  |
-| 5 | 0.1% | 0.1% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0% | 100% |  |
+| 5 | 1.0% | 100% |  |
+| 6 | 8% | 99.0% |  |
+| 7 | 91% | 91% | Median |
+| 8 | 0.1% | 0.1% |  |
+| 9 | 0% | 0% |  |
+
+### Futuro Nazionale (NI)
+
+*For a full overview of the results for this party, see the [Futuro Nazionale (NI)](party-futuronazionaleni.html) page.*
+
+![Graph with seats probability mass function not yet produced](2026-06-03-Demopolis-seats-pmf-futuronazionaleni.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 98% | 100% | Last Result, Median |
+| 1 | 0% | 2% |  |
+| 2 | 0% | 2% |  |
+| 3 | 0.3% | 2% |  |
+| 4 | 2% | 2% |  |
+| 5 | 0% | 0% |  |
+
+### Europa Verde (Greens/EFA)
+
+*For a full overview of the results for this party, see the [Europa Verde (Greens/EFA)](party-europaverdegreensefa.html) page.*
+
+![Graph with seats probability mass function not yet produced](2026-06-03-Demopolis-seats-pmf-europaverdegreensefa.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0.4% | 100% |  |
+| 3 | 90% | 99.6% | Median |
+| 4 | 9% | 9% |  |
+| 5 | 0.4% | 0.4% |  |
 | 6 | 0% | 0% |  |
 
 ### Azione (RE)
 
 *For a full overview of the results for this party, see the [Azione (RE)](party-azionere.html) page.*
 
-![Graph with seats probability mass function not yet produced](2026-06-04-TermometroPolitico-seats-pmf-azionere.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
-
-### Italia Viva (RE)
-
-*For a full overview of the results for this party, see the [Italia Viva (RE)](party-italiavivare.html) page.*
-
-![Graph with seats probability mass function not yet produced](2026-06-04-TermometroPolitico-seats-pmf-italiavivare.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2026-06-03-Demopolis-seats-pmf-azionere.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -239,31 +228,31 @@
 
 *For a full overview of the results for this party, see the [Sinistra Italiana (GUE/NGL)](party-sinistraitalianaguengl.html) page.*
 
-![Graph with seats probability mass function not yet produced](2026-06-04-TermometroPolitico-seats-pmf-sinistraitalianaguengl.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2026-06-03-Demopolis-seats-pmf-sinistraitalianaguengl.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 2% | 100% |  |
-| 2 | 94% | 98% | Median |
-| 3 | 4% | 4% |  |
+| 1 | 0.2% | 100% |  |
+| 2 | 97% | 99.8% | Median |
+| 3 | 3% | 3% |  |
 | 4 | 0% | 0% |  |
 
-### Più Europa (RE)
+### Italia Viva (RE)
 
-*For a full overview of the results for this party, see the [Più Europa (RE)](party-piùeuropare.html) page.*
+*For a full overview of the results for this party, see the [Italia Viva (RE)](party-italiavivare.html) page.*
 
-![Graph with seats probability mass function not yet produced](2026-06-04-TermometroPolitico-seats-pmf-piùeuropare.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2026-06-03-Demopolis-seats-pmf-italiavivare.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Last Result, Median |
 
-### Democrazia Sovrana e Popolare (NI)
+### Più Europa (RE)
 
-*For a full overview of the results for this party, see the [Democrazia Sovrana e Popolare (NI)](party-democraziasovranaepopolareni.html) page.*
+*For a full overview of the results for this party, see the [Più Europa (RE)](party-piùeuropare.html) page.*
 
-![Graph with seats probability mass function not yet produced](2026-06-04-TermometroPolitico-seats-pmf-democraziasovranaepopolareni.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2026-06-03-Demopolis-seats-pmf-piùeuropare.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -273,7 +262,7 @@
 
 *For a full overview of the results for this party, see the [Noi Moderati (EPP)](party-noimoderatiepp.html) page.*
 
-![Graph with seats probability mass function not yet produced](2026-06-04-TermometroPolitico-seats-pmf-noimoderatiepp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2026-06-03-Demopolis-seats-pmf-noimoderatiepp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -283,28 +272,28 @@
 
 *For a full overview of the results for this party, see the [Partito Progressista (*)](party-partitoprogressista.html) page.*
 
-![Graph with seats probability mass function not yet produced](2026-06-04-TermometroPolitico-seats-pmf-partitoprogressista.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2026-06-03-Demopolis-seats-pmf-partitoprogressista.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98.9% | 100% | Last Result, Median |
-| 1 | 1.1% | 1.1% |  |
+| 0 | 99.5% | 100% | Last Result, Median |
+| 1 | 0.5% | 0.5% |  |
 | 2 | 0% | 0% |  |
 
 
 ## Coalitions
 
-![Graph with coalitions seats not yet produced](2026-06-04-TermometroPolitico-coalitions-seats.png "Coalitions Seats")
+![Graph with coalitions seats not yet produced](2026-06-03-Demopolis-coalitions-seats.png "Coalitions Seats")
 
 ### Confidence Intervals
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Lega Nord (PfE) | 0 | 6 | 0% | 5–6 | 5–6 | 5–7 | 5–7 |
+| Lega Nord (PfE) | 0 | 7 | 0% | 7 | 6–7 | 6–7 | 5–7 |
 
 ### Lega Nord (PfE)
 
-![Graph with seats probability mass function not yet produced](2026-06-04-TermometroPolitico-coalitions-seats-pmf-ln.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2026-06-03-Demopolis-coalitions-seats-pmf-ln.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -313,23 +302,24 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 10% | 100% |  |
-| 6 | 87% | 90% | Median |
-| 7 | 3% | 3% |  |
-| 8 | 0% | 0% |  |
+| 5 | 1.0% | 100% |  |
+| 6 | 8% | 99.0% |  |
+| 7 | 91% | 91% | Median |
+| 8 | 0.1% | 0.1% |  |
+| 9 | 0% | 0% |  |
 
 
 ## Technical Information
 
 ### Opinion Poll
 
-+ **Polling firm:** Termometro Politico
++ **Polling firm:** Demopolis
 + **Commissioner(s):** —
-+ **Fieldwork period:** 3–4 June 2026
++ **Fieldwork period:** 3 June 2026
 
 ### Calculations
 
-+ **Sample size:** 2200
++ **Sample size:** 2000
 + **Simulations done:** 1,048,576
-+ **Error estimate:** 1.68%
++ **Error estimate:** 1.37%
 
