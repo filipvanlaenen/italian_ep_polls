@@ -413,5 +413,29 @@
       <pubDate>Sat, 13 Jun 2026 19:21:39 +0200</pubDate>
       <dc:date>2026-06-13T19:21:39.75008677+02:00</dc:date>
     </item>
+    <item>
+      <title>Opinion Poll by Piepoli, 18 May 2026 – Seating Plan Projection</title>
+      <link>null/2026-05-18-Piepoli.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>39 seats needed for a majority<br/>Opinion poll by Piepoli, 18 May 2026<br/>Details on null/2026-05-18-Piepoli.html<br/><img src="null/2026-05-18-Piepoli-seating-plan.png"/>]]></description>
+      <enclosure url="null/2026-05-18-Piepoli-seating-plan.png" length="459827" type="image/png"/>
+      <pubDate>Sat, 13 Jun 2026 19:53:47 +0200</pubDate>
+      <dc:date>2026-06-13T19:53:47.207386209+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Piepoli, 18 May 2026 – Seat Projections</title>
+      <link>null/2026-05-18-Piepoli.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>39 seats needed for a majority<br/>Opinion poll by Piepoli, 18 May 2026<br/>Details on null/2026-05-18-Piepoli.html<br/><img src="null/2026-05-18-Piepoli-seats.png"/>]]></description>
+      <enclosure url="null/2026-05-18-Piepoli-seats.png" length="320321" type="image/png"/>
+      <pubDate>Sat, 13 Jun 2026 19:53:47 +0200</pubDate>
+      <dc:date>2026-06-13T19:53:47.207386209+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Piepoli, 18 May 2026 – Voting Intentions</title>
+      <link>null/2026-05-18-Piepoli.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Piepoli, 18 May 2026<br/>Details on null/2026-05-18-Piepoli.html<br/><img src="null/2026-05-18-Piepoli.png"/>]]></description>
+      <enclosure url="null/2026-05-18-Piepoli.png" length="402735" type="image/png"/>
+      <pubDate>Sat, 13 Jun 2026 19:53:47 +0200</pubDate>
+      <dc:date>2026-06-13T19:53:47.207386209+02:00</dc:date>
+    </item>
   </channel>
 </rss>
