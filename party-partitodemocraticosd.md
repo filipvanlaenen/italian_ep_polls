@@ -35,7 +35,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [18–19 May 2026](2026-05-19-OnlyNumbers.html) | Only Numbers | 22.2% | N/A | N/A | N/A | N/A |
 | [6–19 May 2026](2026-05-19-EMG.html) | EMG | 21.7% | N/A | N/A | N/A | N/A |
 | [13–18 May 2026](2026-05-18-SWG.html) | SWG <br> La7 | 22.2% | N/A | N/A | N/A | N/A |
-| [18 May 2026](2026-05-18-Piepoli.html) | Piepoli | 21.0% | N/A | N/A | N/A | N/A |
+| [18 May 2026](2026-05-18-Piepoli.html) | Piepoli | 21.0% | 18.8–23.5% | 18.2–24.2% | 17.6–24.8% | 16.6–26.0% |
 | [13–15 May 2026](2026-05-15-Tecnè.html) | Tecnè <br> Agenzia Dire | 22.1% | N/A | N/A | N/A | N/A |
 | [12–14 May 2026](2026-05-14-TermometroPolitico.html) | Termometro Politico | 22.2% | N/A | N/A | N/A | N/A |
 | [11–12 May 2026](2026-05-12-OnlyNumbers.html) | Only Numbers <br> Rete 4 | 22.5% | N/A | N/A | N/A | N/A |
@@ -44,7 +44,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [6–8 May 2026](2026-05-08-TermometroPolitico.html) | Termometro Politico | 22.1% | N/A | N/A | N/A | N/A |
 | [5–7 May 2026](2026-05-07-Tecnè.html) | Tecnè <br> Agenzia Dire | 22.2% | N/A | N/A | N/A | N/A |
 | [5–6 May 2026](2026-05-06-Eumetra.html) | Eumetra <br> La7 | 22.2% | N/A | N/A | N/A | N/A |
-| [4–6 May 2026](2026-05-06-DemosPi.html) | Demos & Pi <br> La Repubblica | 21.5% | N/A | N/A | N/A | N/A |
+| [4–6 May 2026](2026-05-06-DemosPi.html) | Demos & Pi <br> La Repubblica | 21.5% | 19.9–23.3% | 19.5–23.8% | 19.1–24.2% | 18.3–25.0% |
 | [4–5 May 2026](2026-05-05-OnlyNumbers.html) | Only Numbers <br> Rete 4 | 22.4% | N/A | N/A | N/A | N/A |
 | [5 May 2026](2026-05-05-EMG.html) | EMG | 21.5% | N/A | N/A | N/A | N/A |
 | [4–5 May 2026](2026-05-05-BiDiMedia.html) | BiDiMedia | 22.5% | N/A | N/A | N/A | N/A |
@@ -56,7 +56,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [27–28 April 2026](2026-04-28-EMG.html) | EMG | 21.7% | N/A | N/A | N/A | N/A |
 | [20–27 April 2026](2026-04-27-Winpoll.html) | Winpoll | 23.0% | N/A | N/A | N/A | N/A |
 | [22–27 April 2026](2026-04-27-SWG.html) | SWG <br> La7 | 21.6% | N/A | N/A | N/A | N/A |
-| [20–27 April 2026](2026-04-27-Ixè.html) | Ixè | 23.4% | N/A | N/A | N/A | N/A |
+| [20–27 April 2026](2026-04-27-Ixè.html) | Ixè | 23.4% | 21.7–25.2% | 21.3–25.7% | 20.9–26.1% | 20.1–27.0% |
 | [22–24 April 2026](2026-04-24-Tecnè.html) | Tecnè <br> Agenzia Dire | 22.4% | N/A | N/A | N/A | N/A |
 | [21–23 April 2026](2026-04-23-TermometroPolitico.html) | Termometro Politico | 22.0% | N/A | N/A | N/A | N/A |
 | [21–22 April 2026](2026-04-22-Eumetra.html) | Eumetra <br> La7 | 22.2% | N/A | N/A | N/A | N/A |
@@ -75,7 +75,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [8–9 April 2026](2026-04-09-Tecnè.html) | Tecnè <br> Agenzia Dire | 22.3% | N/A | N/A | N/A | N/A |
 | [7–8 April 2026](2026-04-08-Eumetra.html) | Eumetra <br> La7 | 22.5% | N/A | N/A | N/A | N/A |
 | [8 April 2026](2026-04-08-EMG.html) | EMG | 22.4% | N/A | N/A | N/A | N/A |
-| [7–8 April 2026](2026-04-08-Demopolis.html) | Demopolis <br> La7 | 22.6% | N/A | N/A | N/A | N/A |
+| [7–8 April 2026](2026-04-08-Demopolis.html) | Demopolis <br> La7 | 22.6% | 21.4–23.8% | 21.1–24.2% | 20.8–24.5% | 20.3–25.1% |
 | [6–7 April 2026](2026-04-07-OnlyNumbers.html) | Only Numbers | 22.3% | N/A | N/A | N/A | N/A |
 | [3 April 2026](2026-04-03-Winpoll.html) | Winpoll | 22.8% | N/A | N/A | N/A | N/A |
 | [2–3 April 2026](2026-04-03-Tecnè.html) | Tecnè <br> Rete 4 | 22.2% | N/A | N/A | N/A | N/A |
@@ -575,7 +575,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [18–19 May 2026](2026-05-19-OnlyNumbers.html) | Only Numbers |  |  |  |  |  |
 | [6–19 May 2026](2026-05-19-EMG.html) | EMG |  |  |  |  |  |
 | [13–18 May 2026](2026-05-18-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [18 May 2026](2026-05-18-Piepoli.html) | Piepoli |  |  |  |  |  |
+| [18 May 2026](2026-05-18-Piepoli.html) | Piepoli | 17 | 15–20 | 14–23 | 14–24 | 14–24 |
 | [13–15 May 2026](2026-05-15-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [12–14 May 2026](2026-05-14-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [11–12 May 2026](2026-05-12-OnlyNumbers.html) | Only Numbers <br> Rete 4 |  |  |  |  |  |
@@ -584,7 +584,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [6–8 May 2026](2026-05-08-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [5–7 May 2026](2026-05-07-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [5–6 May 2026](2026-05-06-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
-| [4–6 May 2026](2026-05-06-DemosPi.html) | Demos & Pi <br> La Repubblica |  |  |  |  |  |
+| [4–6 May 2026](2026-05-06-DemosPi.html) | Demos & Pi <br> La Repubblica | 18 | 17–20 | 16–20 | 16–21 | 15–22 |
 | [4–5 May 2026](2026-05-05-OnlyNumbers.html) | Only Numbers <br> Rete 4 |  |  |  |  |  |
 | [5 May 2026](2026-05-05-EMG.html) | EMG |  |  |  |  |  |
 | [4–5 May 2026](2026-05-05-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
@@ -596,7 +596,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [27–28 April 2026](2026-04-28-EMG.html) | EMG |  |  |  |  |  |
 | [20–27 April 2026](2026-04-27-Winpoll.html) | Winpoll |  |  |  |  |  |
 | [22–27 April 2026](2026-04-27-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [20–27 April 2026](2026-04-27-Ixè.html) | Ixè |  |  |  |  |  |
+| [20–27 April 2026](2026-04-27-Ixè.html) | Ixè | 21 | 18–23 | 18–23 | 18–23 | 17–23 |
 | [22–24 April 2026](2026-04-24-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [21–23 April 2026](2026-04-23-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [21–22 April 2026](2026-04-22-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
@@ -615,7 +615,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [8–9 April 2026](2026-04-09-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [7–8 April 2026](2026-04-08-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [8 April 2026](2026-04-08-EMG.html) | EMG |  |  |  |  |  |
-| [7–8 April 2026](2026-04-08-Demopolis.html) | Demopolis <br> La7 |  |  |  |  |  |
+| [7–8 April 2026](2026-04-08-Demopolis.html) | Demopolis <br> La7 | 20 | 19–21 | 19–21 | 18–21 | 18–22 |
 | [6–7 April 2026](2026-04-07-OnlyNumbers.html) | Only Numbers |  |  |  |  |  |
 | [3 April 2026](2026-04-03-Winpoll.html) | Winpoll |  |  |  |  |  |
 | [2–3 April 2026](2026-04-03-Tecnè.html) | Tecnè <br> Rete 4 |  |  |  |  |  |

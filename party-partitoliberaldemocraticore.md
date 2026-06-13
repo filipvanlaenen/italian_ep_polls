@@ -35,7 +35,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [18–19 May 2026](2026-05-19-OnlyNumbers.html) | Only Numbers | 0.0% | N/A | N/A | N/A | N/A |
 | [6–19 May 2026](2026-05-19-EMG.html) | EMG | 1.6% | N/A | N/A | N/A | N/A |
 | [13–18 May 2026](2026-05-18-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
-| [18 May 2026](2026-05-18-Piepoli.html) | Piepoli | 1.6% | N/A | N/A | N/A | N/A |
+| [18 May 2026](2026-05-18-Piepoli.html) | Piepoli | 1.6% | 1.1–2.6% | 0.9–2.9% | 0.8–3.1% | 0.6–3.7% |
 | [13–15 May 2026](2026-05-15-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [12–14 May 2026](2026-05-14-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
 | [11–12 May 2026](2026-05-12-OnlyNumbers.html) | Only Numbers <br> Rete 4 | 0.0% | N/A | N/A | N/A | N/A |
@@ -552,7 +552,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [18–19 May 2026](2026-05-19-OnlyNumbers.html) | Only Numbers |  |  |  |  |  |
 | [6–19 May 2026](2026-05-19-EMG.html) | EMG |  |  |  |  |  |
 | [13–18 May 2026](2026-05-18-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [18 May 2026](2026-05-18-Piepoli.html) | Piepoli |  |  |  |  |  |
+| [18 May 2026](2026-05-18-Piepoli.html) | Piepoli | 0 | 0 | 0 | 0 | 0 |
 | [13–15 May 2026](2026-05-15-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [12–14 May 2026](2026-05-14-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [11–12 May 2026](2026-05-12-OnlyNumbers.html) | Only Numbers <br> Rete 4 |  |  |  |  |  |
