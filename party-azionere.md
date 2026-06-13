@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.9% | 2.2–3.8% | 2.0–4.1% | 1.8–4.4% | 1.5–4.9% |
+| N/A | [Poll Average](average.html) | 2.9% | 2.1–3.8% | 1.9–4.1% | 1.8–4.4% | 1.5–4.9% |
 | [3–8 June 2026](2026-06-08-SWG.html) | SWG <br> La7 | 3.6% | 3.0–4.4% | 2.8–4.6% | 2.7–4.8% | 2.4–5.2% |
 | [4–5 June 2026](2026-06-05-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.0–4.1% | 1.8–4.6% |
 | [3–4 June 2026](2026-06-04-TermometroPolitico.html) | Termometro Politico | 2.8% | 2.4–3.3% | 2.3–3.5% | 2.2–3.6% | 2.0–3.9% |
@@ -27,7 +27,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [25–27 May 2026](2026-05-27-BiDiMedia.html) | BiDiMedia | 2.8% | 2.2–3.6% | 2.1–3.8% | 1.9–4.0% | 1.7–4.4% |
 | [25–26 May 2026](2026-05-26-OnlyNumbers.html) | Only Numbers | 3.1% | N/A | N/A | N/A | N/A |
 | [25–26 May 2026](2026-05-26-EMG.html) | EMG | 2.4% | 1.9–3.2% | 1.7–3.4% | 1.6–3.6% | 1.4–3.9% |
-| [18–25 May 2026](2026-05-25-SigmaConsulting.html) | Sigma Consulting | 2.5% | N/A | N/A | N/A | N/A |
+| [18–25 May 2026](2026-05-25-SigmaConsulting.html) | Sigma Consulting | 2.5% | 1.9–3.4% | 1.8–3.6% | 1.6–3.8% | 1.4–4.3% |
 | [20–25 May 2026](2026-05-25-SWG.html) | SWG <br> La7 | 3.5% | 2.9–4.3% | 2.7–4.5% | 2.6–4.7% | 2.3–5.1% |
 | [21–22 May 2026](2026-05-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 2.9% | N/A | N/A | N/A | N/A |
 | [20–21 May 2026](2026-05-21-TermometroPolitico.html) | Termometro Politico | 3.1% | N/A | N/A | N/A | N/A |
@@ -512,13 +512,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.6% | 100% |  |
-| 1.5–2.5% | 26% | 99.4% |  |
-| 2.5–3.5% | 55% | 73% | Median |
-| 3.5–4.5% | 17% | 18% |  |
-| 4.5–5.5% | 1.4% | 1.5% |  |
+| 0.5–1.5% | 0.7% | 100% |  |
+| 1.5–2.5% | 28% | 99.3% |  |
+| 2.5–3.5% | 54% | 72% | Median |
+| 3.5–4.5% | 16% | 17% |  |
+| 4.5–5.5% | 1.3% | 1.4% |  |
 | 5.5–6.5% | 0% | 0% |  |
-| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -541,16 +540,16 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [29–31 May 2026](2026-05-31-OnlyNumbers.html) | Only Numbers | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [28–29 May 2026](2026-05-29-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0–4 |
 | [26–28 May 2026](2026-05-28-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
-| [25–28 May 2026](2026-05-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
-| [26–27 May 2026](2026-05-27-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0 | 0–4 | 0–4 |
-| [25–27 May 2026](2026-05-27-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0–4 | 0–4 |
+| [25–28 May 2026](2026-05-28-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0–3 | 0–3 | 0–4 |
+| [26–27 May 2026](2026-05-27-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0–3 | 0–3 | 0–4 |
+| [25–27 May 2026](2026-05-27-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0–4 |
 | [25–26 May 2026](2026-05-26-OnlyNumbers.html) | Only Numbers |  |  |  |  |  |
 | [25–26 May 2026](2026-05-26-EMG.html) | EMG | 0 | 0 | 0 | 0 | 0 |
-| [18–25 May 2026](2026-05-25-SigmaConsulting.html) | Sigma Consulting |  |  |  |  |  |
+| [18–25 May 2026](2026-05-25-SigmaConsulting.html) | Sigma Consulting | 0 | 0 | 0 | 0 | 0–4 |
 | [20–25 May 2026](2026-05-25-SWG.html) | SWG <br> La7 | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [21–22 May 2026](2026-05-22-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [20–21 May 2026](2026-05-21-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [19–20 May 2026](2026-05-20-Eumetra.html) | Eumetra <br> La7 | 3 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [19–20 May 2026](2026-05-20-Eumetra.html) | Eumetra <br> La7 | 0 | 0 | 0 | 0–3 | 0–4 |
 | [18–19 May 2026](2026-05-19-OnlyNumbers.html) | Only Numbers |  |  |  |  |  |
 | [6–19 May 2026](2026-05-19-EMG.html) | EMG |  |  |  |  |  |
 | [13–18 May 2026](2026-05-18-SWG.html) | SWG <br> La7 |  |  |  |  |  |
@@ -1032,11 +1031,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 92% | 100% | Last Result, Median |
-| 1 | 0% | 8% |  |
-| 2 | 0% | 8% |  |
-| 3 | 2% | 8% |  |
-| 4 | 6% | 6% |  |
+| 0 | 93% | 100% | Last Result, Median |
+| 1 | 0% | 7% |  |
+| 2 | 0% | 7% |  |
+| 3 | 2% | 7% |  |
+| 4 | 5% | 5% |  |
 | 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% |  |
 

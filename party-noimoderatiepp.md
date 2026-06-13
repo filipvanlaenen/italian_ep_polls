@@ -27,7 +27,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [25–27 May 2026](2026-05-27-BiDiMedia.html) | BiDiMedia | 0.7% | 0.5–1.2% | 0.4–1.3% | 0.3–1.4% | 0.2–1.7% |
 | [25–26 May 2026](2026-05-26-OnlyNumbers.html) | Only Numbers | 1.0% | N/A | N/A | N/A | N/A |
 | [25–26 May 2026](2026-05-26-EMG.html) | EMG | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
-| [18–25 May 2026](2026-05-25-SigmaConsulting.html) | Sigma Consulting | 1.0% | N/A | N/A | N/A | N/A |
+| [18–25 May 2026](2026-05-25-SigmaConsulting.html) | Sigma Consulting | 1.0% | 0.7–1.6% | 0.6–1.8% | 0.5–2.0% | 0.4–2.3% |
 | [20–25 May 2026](2026-05-25-SWG.html) | SWG <br> La7 | 1.3% | 1.0–1.9% | 0.9–2.0% | 0.8–2.2% | 0.7–2.5% |
 | [21–22 May 2026](2026-05-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 1.0% | N/A | N/A | N/A | N/A |
 | [20–21 May 2026](2026-05-21-TermometroPolitico.html) | Termometro Politico | 1.0% | N/A | N/A | N/A | N/A |
@@ -514,7 +514,7 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 4% | 100% | Last Result |
 | 0.5–1.5% | 77% | 96% | Median |
 | 1.5–2.5% | 18% | 19% |  |
-| 2.5–3.5% | 1.3% | 1.3% |  |
+| 2.5–3.5% | 1.2% | 1.2% |  |
 | 3.5–4.5% | 0.1% | 0.1% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
@@ -544,7 +544,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [25–27 May 2026](2026-05-27-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
 | [25–26 May 2026](2026-05-26-OnlyNumbers.html) | Only Numbers |  |  |  |  |  |
 | [25–26 May 2026](2026-05-26-EMG.html) | EMG | 0 | 0 | 0 | 0 | 0 |
-| [18–25 May 2026](2026-05-25-SigmaConsulting.html) | Sigma Consulting |  |  |  |  |  |
+| [18–25 May 2026](2026-05-25-SigmaConsulting.html) | Sigma Consulting | 0 | 0 | 0 | 0 | 0 |
 | [20–25 May 2026](2026-05-25-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [21–22 May 2026](2026-05-22-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [20–21 May 2026](2026-05-21-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
