@@ -10,13 +10,24 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.4% | 3.5–5.4% | 3.3–5.7% | 3.1–6.0% | 2.7–6.6% |
+| N/A | [Poll Average](average.html) | 4.8% | 3.8–6.1% | 3.5–6.5% | 3.3–6.8% | 2.9–7.5% |
+| [17–18 June 2026](2026-06-18-TermometroPolitico.html) | Termometro Politico | 4.7% | 4.2–5.3% | 4.0–5.4% | 3.9–5.6% | 3.7–5.9% |
+| [16–17 June 2026](2026-06-17-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 5.9% | 5.0–7.1% | 4.7–7.5% | 4.5–7.8% | 4.1–8.4% |
+| [16–17 June 2026](2026-06-17-Eumetra.html) | Eumetra <br> La7 | 5.0% | 4.1–6.1% | 3.9–6.5% | 3.7–6.8% | 3.3–7.3% |
+| [3–16 June 2026](2026-06-16-EMG.html) | EMG | 5.7% | 4.9–6.8% | 4.6–7.1% | 4.4–7.3% | 4.1–7.9% |
+| [10–15 June 2026](2026-06-15-SWG.html) | SWG <br> La7 | 5.3% | 4.6–6.3% | 4.4–6.5% | 4.2–6.8% | 3.9–7.2% |
+| [11–12 June 2026](2026-06-12-Tecnè.html) | Tecnè <br> Agenzia Dire | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.6–5.9% |
+| [10–11 June 2026](2026-06-11-TermometroPolitico.html) | Termometro Politico | 4.4% | N/A | N/A | N/A | N/A |
+| [9–10 June 2026](2026-06-10-Demopolis.html) | Demopolis <br> La7 | 4.5% | 3.9–5.2% | 3.8–5.3% | 3.7–5.5% | 3.4–5.8% |
+| [8–9 June 2026](2026-06-09-OnlyNumbers.html) | Only Numbers | 4.5% | 3.7–5.6% | 3.5–5.9% | 3.3–6.2% | 2.9–6.7% |
+| [8–9 June 2026](2026-06-09-EMG.html) | EMG | 5.0% | N/A | N/A | N/A | N/A |
 | [3–8 June 2026](2026-06-08-SWG.html) | SWG <br> La7 | 4.8% | 4.1–5.7% | 3.9–6.0% | 3.7–6.2% | 3.4–6.7% |
 | [4–5 June 2026](2026-06-05-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.8% | 3.1–4.7% | 2.9–5.0% | 2.8–5.2% | 2.5–5.6% |
 | [3–4 June 2026](2026-06-04-TermometroPolitico.html) | Termometro Politico | 4.5% | 4.0–5.1% | 3.8–5.3% | 3.7–5.5% | 3.5–5.8% |
 | [3–4 June 2026](2026-06-04-Piepoli.html) | Piepoli | 4.6% | 3.6–6.0% | 3.3–6.4% | 3.1–6.8% | 2.7–7.5% |
 | [3 June 2026](2026-06-03-Eumetra.html) | Eumetra <br> La7 | 4.2% | 3.5–5.3% | 3.2–5.6% | 3.0–5.9% | 2.7–6.4% |
 | [3 June 2026](2026-06-03-Demopolis.html) | Demopolis | 3.9% | 3.4–4.5% | 3.2–4.7% | 3.1–4.8% | 2.9–5.2% |
+| [2 June 2026](2026-06-02-EMG.html) | EMG | 4.2% | N/A | N/A | N/A | N/A |
 | [27 May–1 June 2026](2026-06-01-SWG.html) | SWG <br> La7 | 4.6% | N/A | N/A | N/A | N/A |
 | [22–31 May 2026](2026-05-31-Winpoll.html) | Winpoll | 4.2% | 3.6–5.0% | 3.4–5.2% | 3.3–5.3% | 3.0–5.7% |
 | [29–31 May 2026](2026-05-31-OnlyNumbers.html) | Only Numbers | 4.2% | 3.5–5.3% | 3.2–5.6% | 3.0–5.9% | 2.7–6.4% |
@@ -513,13 +524,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.2% | 100% |  |
-| 2.5–3.5% | 11% | 99.8% |  |
-| 3.5–4.5% | 49% | 88% | Median |
-| 4.5–5.5% | 33% | 40% |  |
-| 5.5–6.5% | 6% | 7% |  |
-| 6.5–7.5% | 0.6% | 0.6% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 1.5–2.5% | 0.1% | 100% |  |
+| 2.5–3.5% | 5% | 99.9% |  |
+| 3.5–4.5% | 35% | 95% |  |
+| 4.5–5.5% | 40% | 60% | Median |
+| 5.5–6.5% | 16% | 21% |  |
+| 6.5–7.5% | 4% | 4% |  |
+| 7.5–8.5% | 0.5% | 0.5% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
 
@@ -531,13 +542,24 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 0–5 | 0–5 | 0–5 | 0–6 |
+| N/A | [Poll Average](average.html) | 4 | 0–5 | 0–5 | 0–6 | 0–7 |
+| [17–18 June 2026](2026-06-18-TermometroPolitico.html) | Termometro Politico | 4 | 4 | 4–5 | 4–5 | 0–5 |
+| [16–17 June 2026](2026-06-17-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 4 | 4–6 | 4–7 | 0–7 | 0–7 |
+| [16–17 June 2026](2026-06-17-Eumetra.html) | Eumetra <br> La7 | 4 | 4 | 3–5 | 0–6 | 0–6 |
+| [3–16 June 2026](2026-06-16-EMG.html) | EMG | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
+| [10–15 June 2026](2026-06-15-SWG.html) | SWG <br> La7 | 5 | 4–6 | 0–6 | 0–6 | 0–6 |
+| [11–12 June 2026](2026-06-12-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
+| [10–11 June 2026](2026-06-11-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [9–10 June 2026](2026-06-10-Demopolis.html) | Demopolis <br> La7 | 4 | 4 | 4 | 3–4 | 0–5 |
+| [8–9 June 2026](2026-06-09-OnlyNumbers.html) | Only Numbers | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
+| [8–9 June 2026](2026-06-09-EMG.html) | EMG |  |  |  |  |  |
 | [3–8 June 2026](2026-06-08-SWG.html) | SWG <br> La7 | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [4–5 June 2026](2026-06-05-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [3–4 June 2026](2026-06-04-TermometroPolitico.html) | Termometro Politico | 4 | 3–5 | 0–5 | 0–5 | 0–5 |
 | [3–4 June 2026](2026-06-04-Piepoli.html) | Piepoli | 5 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [3 June 2026](2026-06-03-Eumetra.html) | Eumetra <br> La7 | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [3 June 2026](2026-06-03-Demopolis.html) | Demopolis | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [2 June 2026](2026-06-02-EMG.html) | EMG |  |  |  |  |  |
 | [27 May–1 June 2026](2026-06-01-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [22–31 May 2026](2026-05-31-Winpoll.html) | Winpoll | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [29–31 May 2026](2026-05-31-OnlyNumbers.html) | Only Numbers | 3 | 0–4 | 0–5 | 0–5 | 0–5 |
@@ -1034,13 +1056,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 42% | 100% | Last Result |
-| 1 | 0% | 58% |  |
-| 2 | 0% | 58% |  |
-| 3 | 9% | 58% | Median |
-| 4 | 37% | 49% |  |
-| 5 | 12% | 12% |  |
-| 6 | 0.5% | 0.6% |  |
-| 7 | 0% | 0% |  |
+| 0 | 16% | 100% | Last Result |
+| 1 | 0% | 84% |  |
+| 2 | 0% | 84% |  |
+| 3 | 5% | 84% |  |
+| 4 | 52% | 78% | Median |
+| 5 | 22% | 26% |  |
+| 6 | 4% | 5% |  |
+| 7 | 0.8% | 0.8% |  |
+| 8 | 0% | 0% |  |
 
 
