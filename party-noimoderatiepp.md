@@ -11,6 +11,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.1% | 0.7–1.8% | 0.6–2.0% | 0.5–2.3% | 0.4–2.8% |
+| [17–22 June 2026](2026-06-22-SWG.html) | SWG <br> La7 | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.6–1.8% | 0.5–2.0% |
+| [18–19 June 2026](2026-06-19-Tecnè.html) | Tecnè <br> Agenzia Dire | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
+| [18–19 June 2026](2026-06-19-BiDiMedia.html) | BiDiMedia | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [17–18 June 2026](2026-06-18-TermometroPolitico.html) | Termometro Politico | 1.0% | 0.8–1.3% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% |
 | [16–17 June 2026](2026-06-17-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.8% | 0.6–1.4% | 0.5–1.6% | 0.4–1.8% | 0.3–2.1% |
 | [16–17 June 2026](2026-06-17-Eumetra.html) | Eumetra <br> La7 | 1.1% | 0.8–1.8% | 0.7–2.0% | 0.6–2.1% | 0.5–2.5% |
@@ -522,8 +525,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 4% | 100% | Last Result |
-| 0.5–1.5% | 78% | 96% | Median |
+| 0.0–0.5% | 3% | 100% | Last Result |
+| 0.5–1.5% | 79% | 97% | Median |
 | 1.5–2.5% | 17% | 18% |  |
 | 2.5–3.5% | 1.2% | 1.2% |  |
 | 3.5–4.5% | 0.1% | 0.1% |  |
@@ -539,6 +542,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [17–22 June 2026](2026-06-22-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
+| [18–19 June 2026](2026-06-19-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
+| [18–19 June 2026](2026-06-19-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
 | [17–18 June 2026](2026-06-18-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [16–17 June 2026](2026-06-17-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0 | 0 | 0 |
 | [16–17 June 2026](2026-06-17-Eumetra.html) | Eumetra <br> La7 | 0 | 0 | 0 | 0 | 0 |

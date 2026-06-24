@@ -11,6 +11,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8.0% | 6.9–9.4% | 6.6–9.8% | 6.3–10.2% | 5.8–11.0% |
+| [17–22 June 2026](2026-06-22-SWG.html) | SWG <br> La7 | 7.4% | 6.5–8.5% | 6.3–8.8% | 6.1–9.1% | 5.7–9.6% |
+| [18–19 June 2026](2026-06-19-Tecnè.html) | Tecnè <br> Agenzia Dire | 8.7% | 7.7–10.0% | 7.4–10.3% | 7.1–10.6% | 6.6–11.3% |
+| [18–19 June 2026](2026-06-19-BiDiMedia.html) | BiDiMedia | 7.3% | 6.3–8.5% | 6.1–8.8% | 5.8–9.1% | 5.4–9.7% |
 | [17–18 June 2026](2026-06-18-TermometroPolitico.html) | Termometro Politico | 7.7% | 7.0–8.4% | 6.8–8.6% | 6.7–8.8% | 6.4–9.2% |
 | [16–17 June 2026](2026-06-17-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 8.2% | 7.1–9.6% | 6.8–10.0% | 6.6–10.3% | 6.1–11.0% |
 | [16–17 June 2026](2026-06-17-Eumetra.html) | Eumetra <br> La7 | 7.8% | 6.7–9.1% | 6.3–9.5% | 6.1–9.8% | 5.6–10.5% |
@@ -528,9 +531,9 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0.2% | 100% |  |
-| 5.5–6.5% | 5% | 99.8% |  |
+| 5.5–6.5% | 4% | 99.8% |  |
 | 6.5–7.5% | 26% | 95% |  |
-| 7.5–8.5% | 41% | 69% | Median |
+| 7.5–8.5% | 41% | 70% | Median |
 | 8.5–9.5% | 21% | 29% |  |
 | 9.5–10.5% | 6% | 7% |  |
 | 10.5–11.5% | 1.1% | 1.3% |  |
@@ -546,7 +549,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–7 | 4–7 | 4–8 | 4–8 |
+| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 4–8 | 4–8 |
+| [17–22 June 2026](2026-06-22-SWG.html) | SWG <br> La7 | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
+| [18–19 June 2026](2026-06-19-Tecnè.html) | Tecnè <br> Agenzia Dire | 6 | 6–8 | 5–8 | 5–8 | 5–8 |
+| [18–19 June 2026](2026-06-19-BiDiMedia.html) | BiDiMedia | 7 | 6–7 | 5–7 | 5–7 | 5–7 |
 | [17–18 June 2026](2026-06-18-TermometroPolitico.html) | Termometro Politico | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [16–17 June 2026](2026-06-17-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 7 | 5–7 | 5–7 | 4–8 | 4–8 |
 | [16–17 June 2026](2026-06-17-Eumetra.html) | Eumetra <br> La7 | 6 | 5–6 | 4–6 | 4–7 | 4–7 |
@@ -1063,13 +1069,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0.1% | 100% |  |
-| 4 | 5% | 99.9% |  |
-| 5 | 25% | 94% |  |
-| 6 | 43% | 69% | Median |
-| 7 | 22% | 26% |  |
-| 8 | 4% | 4% |  |
-| 9 | 0.3% | 0.4% |  |
+| 3 | 0% | 100% |  |
+| 4 | 3% | 100% |  |
+| 5 | 23% | 97% |  |
+| 6 | 44% | 73% | Median |
+| 7 | 27% | 30% |  |
+| 8 | 3% | 3% |  |
+| 9 | 0.3% | 0.3% |  |
 | 10 | 0% | 0% |  |
 
 
