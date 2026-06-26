@@ -545,7 +545,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | [17–22 June 2026](2026-06-22-SWG.html) | SWG <br> La7 | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [18–19 June 2026](2026-06-19-Tecnè.html) | Tecnè <br> Agenzia Dire | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
-| [18–19 June 2026](2026-06-19-BiDiMedia.html) | BiDiMedia | 2 | 2 | 2 | 2–3 | 1–3 |
+| [18–19 June 2026](2026-06-19-BiDiMedia.html) | BiDiMedia | 2 | 2 | 2 | 2–3 | 1–4 |
 | [17–18 June 2026](2026-06-18-TermometroPolitico.html) | Termometro Politico | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | [16–17 June 2026](2026-06-17-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [16–17 June 2026](2026-06-17-Eumetra.html) | Eumetra <br> La7 | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
@@ -1064,7 +1064,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 72% | 87% | Median |
 | 3 | 14% | 15% |  |
 | 4 | 0.9% | 1.0% |  |
-| 5 | 0% | 0.1% |  |
+| 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 
 

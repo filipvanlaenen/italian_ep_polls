@@ -550,7 +550,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 5 | 4–7 | 4–7 | 4–7 | 4–8 |
 | [17–22 June 2026](2026-06-22-SWG.html) | SWG <br> La7 | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [18–19 June 2026](2026-06-19-Tecnè.html) | Tecnè <br> Agenzia Dire | 6 | 5–6 | 5–7 | 4–7 | 4–7 |
-| [18–19 June 2026](2026-06-19-BiDiMedia.html) | BiDiMedia | 5 | 5 | 5 | 4–5 | 4–6 |
+| [18–19 June 2026](2026-06-19-BiDiMedia.html) | BiDiMedia | 5 | 5 | 5 | 4–6 | 4–7 |
 | [17–18 June 2026](2026-06-18-TermometroPolitico.html) | Termometro Politico | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [16–17 June 2026](2026-06-17-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 5 | 4–5 | 4–6 | 4–7 | 4–7 |
 | [16–17 June 2026](2026-06-17-Eumetra.html) | Eumetra <br> La7 | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
