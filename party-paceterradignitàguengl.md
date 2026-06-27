@@ -11,8 +11,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.2% | 0.9–1.6% | 0.8–1.7% | 0.7–1.8% | 0.6–2.0% |
+| [22–23 June 2026](2026-06-23-EMG.html) | EMG <br> Rai 3 | 0.0% | N/A | N/A | N/A | N/A |
 | [17–22 June 2026](2026-06-22-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [18–19 June 2026](2026-06-19-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
+| [15–19 June 2026](2026-06-19-SigmaConsulting.html) | Sigma Consulting | 0.0% | N/A | N/A | N/A | N/A |
 | [18–19 June 2026](2026-06-19-BiDiMedia.html) | BiDiMedia | 0.0% | N/A | N/A | N/A | N/A |
 | [17–18 June 2026](2026-06-18-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
 | [16–17 June 2026](2026-06-17-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.0% | N/A | N/A | N/A | N/A |
@@ -540,8 +542,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [22–23 June 2026](2026-06-23-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [17–22 June 2026](2026-06-22-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [18–19 June 2026](2026-06-19-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
+| [15–19 June 2026](2026-06-19-SigmaConsulting.html) | Sigma Consulting |  |  |  |  |  |
 | [18–19 June 2026](2026-06-19-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
 | [17–18 June 2026](2026-06-18-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [16–17 June 2026](2026-06-17-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |

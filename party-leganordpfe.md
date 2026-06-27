@@ -10,9 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.5% | 5.3–7.9% | 4.9–8.3% | 4.7–8.6% | 4.2–9.4% |
+| N/A | [Poll Average](average.html) | 6.5% | 5.2–7.7% | 4.9–8.0% | 4.6–8.4% | 4.2–9.1% |
+| [22–23 June 2026](2026-06-23-EMG.html) | EMG <br> Rai 3 | 7.4% | 6.4–8.6% | 6.2–8.9% | 5.9–9.2% | 5.5–9.8% |
 | [17–22 June 2026](2026-06-22-SWG.html) | SWG <br> La7 | 5.4% | 4.7–6.4% | 4.5–6.6% | 4.3–6.9% | 3.9–7.3% |
 | [18–19 June 2026](2026-06-19-Tecnè.html) | Tecnè <br> Agenzia Dire | 6.5% | 5.6–7.6% | 5.3–7.9% | 5.1–8.2% | 4.7–8.8% |
+| [15–19 June 2026](2026-06-19-SigmaConsulting.html) | Sigma Consulting | 6.2% | 5.3–7.5% | 5.0–7.8% | 4.8–8.2% | 4.3–8.8% |
 | [18–19 June 2026](2026-06-19-BiDiMedia.html) | BiDiMedia | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
 | [17–18 June 2026](2026-06-18-TermometroPolitico.html) | Termometro Politico | 6.8% | 6.2–7.5% | 6.0–7.7% | 5.9–7.9% | 5.6–8.2% |
 | [16–17 June 2026](2026-06-17-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 5.8% | 4.9–7.0% | 4.6–7.3% | 4.4–7.6% | 4.0–8.2% |
@@ -256,7 +258,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [23–25 August 2025](2025-08-25-BiDiMedia.html) | BiDiMedia | 8.6% | N/A | N/A | N/A | N/A |
 | [5–7 August 2025](2025-08-07-TermometroPolitico.html) | Termometro Politico | 8.5% | N/A | N/A | N/A | N/A |
 | [30–31 July 2025](2025-07-31-TermometroPolitico.html) | Termometro Politico | 8.7% | N/A | N/A | N/A | N/A |
-| [31 July 2025](2025-07-31-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 8.2% | N/A | N/A | N/A | N/A |
+| [31 July 2025](2025-07-31-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 8.4% | N/A | N/A | N/A | N/A |
 | [28–30 July 2025](2025-07-30-Demopolis.html) | Demopolis | 8.8% | N/A | N/A | N/A | N/A |
 | [21–29 July 2025](2025-07-29-Winpoll.html) | Winpoll | 8.7% | N/A | N/A | N/A | N/A |
 | [23–28 July 2025](2025-07-28-SWG.html) | SWG <br> La7 | 8.4% | N/A | N/A | N/A | N/A |
@@ -530,12 +532,12 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 2% | 100% |  |
-| 4.5–5.5% | 15% | 98% |  |
-| 5.5–6.5% | 33% | 83% |  |
-| 6.5–7.5% | 34% | 50% | Median |
-| 7.5–8.5% | 13% | 16% |  |
-| 8.5–9.5% | 3% | 3% |  |
-| 9.5–10.5% | 0.3% | 0.3% |  |
+| 4.5–5.5% | 16% | 98% |  |
+| 5.5–6.5% | 36% | 82% | Median |
+| 6.5–7.5% | 34% | 46% |  |
+| 7.5–8.5% | 11% | 12% |  |
+| 8.5–9.5% | 2% | 2% |  |
+| 9.5–10.5% | 0.1% | 0.2% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -548,8 +550,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–7 | 4–7 | 4–7 | 4–8 |
+| [22–23 June 2026](2026-06-23-EMG.html) | EMG <br> Rai 3 | 7 | 7 | 6–7 | 5–7 | 5–8 |
 | [17–22 June 2026](2026-06-22-SWG.html) | SWG <br> La7 | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [18–19 June 2026](2026-06-19-Tecnè.html) | Tecnè <br> Agenzia Dire | 6 | 5–6 | 5–7 | 4–7 | 4–7 |
+| [15–19 June 2026](2026-06-19-SigmaConsulting.html) | Sigma Consulting | 6 | 5–7 | 4–7 | 4–7 | 4–7 |
 | [18–19 June 2026](2026-06-19-BiDiMedia.html) | BiDiMedia | 5 | 5 | 5 | 4–6 | 4–7 |
 | [17–18 June 2026](2026-06-18-TermometroPolitico.html) | Termometro Politico | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [16–17 June 2026](2026-06-17-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 5 | 4–5 | 4–6 | 4–7 | 4–7 |
@@ -1064,16 +1068,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% | Last Result |
-| 1 | 0% | 99.9% |  |
-| 2 | 0% | 99.9% |  |
-| 3 | 0.1% | 99.9% |  |
-| 4 | 10% | 99.7% |  |
-| 5 | 41% | 89% | Median |
-| 6 | 34% | 49% |  |
-| 7 | 13% | 15% |  |
-| 8 | 1.5% | 2% |  |
-| 9 | 0.2% | 0.2% |  |
-| 10 | 0% | 0% |  |
+| 0 | 0.2% | 100% | Last Result |
+| 1 | 0% | 99.8% |  |
+| 2 | 0% | 99.8% |  |
+| 3 | 0.1% | 99.8% |  |
+| 4 | 11% | 99.7% |  |
+| 5 | 42% | 89% | Median |
+| 6 | 34% | 47% |  |
+| 7 | 12% | 13% |  |
+| 8 | 0.6% | 0.7% |  |
+| 9 | 0% | 0% |  |
 
 

@@ -10,9 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.7% | 19.7–23.5% | 19.1–24.0% | 18.6–24.5% | 17.6–25.5% |
+| N/A | [Poll Average](average.html) | 21.6% | 19.6–23.4% | 19.0–24.0% | 18.5–24.4% | 17.6–25.4% |
+| [22–23 June 2026](2026-06-23-EMG.html) | EMG <br> Rai 3 | 20.5% | 18.9–22.2% | 18.5–22.7% | 18.1–23.1% | 17.4–24.0% |
 | [17–22 June 2026](2026-06-22-SWG.html) | SWG <br> La7 | 21.8% | 20.3–23.4% | 19.9–23.9% | 19.6–24.3% | 18.9–25.0% |
 | [18–19 June 2026](2026-06-19-Tecnè.html) | Tecnè <br> Agenzia Dire | 21.5% | 19.9–23.3% | 19.5–23.8% | 19.1–24.2% | 18.4–25.1% |
+| [15–19 June 2026](2026-06-19-SigmaConsulting.html) | Sigma Consulting | 20.8% | 19.0–22.7% | 18.5–23.2% | 18.1–23.7% | 17.3–24.7% |
 | [18–19 June 2026](2026-06-19-BiDiMedia.html) | BiDiMedia | 22.2% | 20.6–24.0% | 20.1–24.4% | 19.7–24.9% | 19.0–25.7% |
 | [17–18 June 2026](2026-06-18-TermometroPolitico.html) | Termometro Politico | 21.6% | 20.6–22.7% | 20.3–23.0% | 20.0–23.3% | 19.5–23.8% |
 | [16–17 June 2026](2026-06-17-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 22.2% | 20.4–24.1% | 19.9–24.7% | 19.5–25.1% | 18.7–26.1% |
@@ -256,7 +258,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [23–25 August 2025](2025-08-25-BiDiMedia.html) | BiDiMedia | 22.5% | N/A | N/A | N/A | N/A |
 | [5–7 August 2025](2025-08-07-TermometroPolitico.html) | Termometro Politico | 22.1% | N/A | N/A | N/A | N/A |
 | [30–31 July 2025](2025-07-31-TermometroPolitico.html) | Termometro Politico | 22.3% | N/A | N/A | N/A | N/A |
-| [31 July 2025](2025-07-31-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 22.0% | N/A | N/A | N/A | N/A |
+| [31 July 2025](2025-07-31-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 22.2% | N/A | N/A | N/A | N/A |
 | [28–30 July 2025](2025-07-30-Demopolis.html) | Demopolis | 22.5% | N/A | N/A | N/A | N/A |
 | [21–29 July 2025](2025-07-29-Winpoll.html) | Winpoll | 23.6% | N/A | N/A | N/A | N/A |
 | [23–28 July 2025](2025-07-28-SWG.html) | SWG <br> La7 | 22.4% | N/A | N/A | N/A | N/A |
@@ -543,16 +545,16 @@ The following table shows the probability mass function per percentage block of 
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0.1% | 100% |  |
 | 16.5–17.5% | 0.4% | 99.9% |  |
-| 17.5–18.5% | 2% | 99.6% |  |
-| 18.5–19.5% | 6% | 98% |  |
+| 17.5–18.5% | 2% | 99.5% |  |
+| 18.5–19.5% | 7% | 97% |  |
 | 19.5–20.5% | 14% | 91% |  |
-| 20.5–21.5% | 24% | 78% |  |
-| 21.5–22.5% | 27% | 54% | Median |
-| 22.5–23.5% | 18% | 27% |  |
+| 20.5–21.5% | 24% | 77% |  |
+| 21.5–22.5% | 27% | 52% | Median |
+| 22.5–23.5% | 17% | 26% |  |
 | 23.5–24.5% | 7% | 9% |  |
 | 24.5–25.5% | 2% | 2% |  |
-| 25.5–26.5% | 0.4% | 0.4% |  |
-| 26.5–27.5% | 0.1% | 0.1% |  |
+| 25.5–26.5% | 0.3% | 0.4% |  |
+| 26.5–27.5% | 0% | 0.1% |  |
 | 27.5–28.5% | 0% | 0% |  |
 
 
@@ -564,9 +566,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 16–20 | 16–20 | 15–21 | 14–22 |
+| N/A | [Poll Average](average.html) | 18 | 16–20 | 16–20 | 15–20 | 14–22 |
+| [22–23 June 2026](2026-06-23-EMG.html) | EMG <br> Rai 3 | 17 | 17–19 | 16–19 | 16–19 | 15–20 |
 | [17–22 June 2026](2026-06-22-SWG.html) | SWG <br> La7 | 19 | 18–19 | 17–19 | 16–19 | 16–21 |
 | [18–19 June 2026](2026-06-19-Tecnè.html) | Tecnè <br> Agenzia Dire | 17 | 17–20 | 16–20 | 16–20 | 15–21 |
+| [15–19 June 2026](2026-06-19-SigmaConsulting.html) | Sigma Consulting | 17 | 16–19 | 15–19 | 15–19 | 14–20 |
 | [18–19 June 2026](2026-06-19-BiDiMedia.html) | BiDiMedia | 17 | 17–18 | 17–20 | 17–20 | 17–21 |
 | [17–18 June 2026](2026-06-18-TermometroPolitico.html) | Termometro Politico | 19 | 19 | 18–20 | 18–20 | 17–20 |
 | [16–17 June 2026](2026-06-17-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 20 | 18–21 | 17–21 | 16–21 | 16–22 |
@@ -1095,16 +1099,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0.1% | 100% |  |
-| 14 | 0.6% | 99.9% |  |
-| 15 | 4% | 99.3% |  |
-| 16 | 10% | 95% |  |
-| 17 | 18% | 85% |  |
-| 18 | 23% | 67% | Median |
-| 19 | 26% | 45% |  |
-| 20 | 16% | 19% |  |
-| 21 | 2% | 3% |  |
-| 22 | 0.9% | 0.9% |  |
-| 23 | 0% | 0.1% |  |
-| 24 | 0% | 0% |  |
+| 14 | 0.7% | 99.9% |  |
+| 15 | 4% | 99.2% |  |
+| 16 | 11% | 95% |  |
+| 17 | 23% | 85% |  |
+| 18 | 17% | 61% | Median |
+| 19 | 28% | 44% |  |
+| 20 | 14% | 16% |  |
+| 21 | 2% | 2% |  |
+| 22 | 0.5% | 0.5% |  |
+| 23 | 0% | 0% |  |
 
 
