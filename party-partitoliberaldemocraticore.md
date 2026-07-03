@@ -10,18 +10,18 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.2% | 0.8–1.7% | 0.7–1.9% | 0.6–2.1% | 0.5–2.4% |
+| N/A | [Poll Average](average.html) | 1.3% | 0.7–2.0% | 0.6–2.3% | 0.6–2.4% | 0.4–2.8% |
 | [1–2 July 2026](2026-07-02-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
 | [30 June–1 July 2026](2026-07-01-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 1.1% | 0.8–1.8% | 0.7–1.9% | 0.6–2.1% | 0.5–2.5% |
 | [24–29 June 2026](2026-06-29-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [22–25 June 2026](2026-06-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.0% | N/A | N/A | N/A | N/A |
-| [22–23 June 2026](2026-06-23-EMG.html) | EMG <br> Rai 3 | 1.7% | N/A | N/A | N/A | N/A |
+| [22–23 June 2026](2026-06-23-EMG.html) | EMG <br> Rai 3 | 1.7% | 1.3–2.4% | 1.2–2.5% | 1.1–2.7% | 0.9–3.1% |
 | [17–22 June 2026](2026-06-22-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [18–19 June 2026](2026-06-19-Tecnè.html) | Tecnè <br> Agenzia Dire | 0.0% | N/A | N/A | N/A | N/A |
 | [15–19 June 2026](2026-06-19-SigmaConsulting.html) | Sigma Consulting | 0.0% | N/A | N/A | N/A | N/A |
-| [18–19 June 2026](2026-06-19-BiDiMedia.html) | BiDiMedia | 0.9% | N/A | N/A | N/A | N/A |
+| [18–19 June 2026](2026-06-19-BiDiMedia.html) | BiDiMedia | 0.9% | 0.6–1.4% | 0.5–1.6% | 0.5–1.7% | 0.4–2.0% |
 | [17–18 June 2026](2026-06-18-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
-| [16–17 June 2026](2026-06-17-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 1.2% | N/A | N/A | N/A | N/A |
+| [16–17 June 2026](2026-06-17-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 1.2% | 0.8–1.9% | 0.7–2.1% | 0.7–2.2% | 0.5–2.6% |
 | [16–17 June 2026](2026-06-17-Eumetra.html) | Eumetra <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [3–16 June 2026](2026-06-16-EMG.html) | EMG | 1.6% | N/A | N/A | N/A | N/A |
 | [10–15 June 2026](2026-06-15-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
@@ -532,9 +532,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 2% | 100% | Last Result |
-| 0.5–1.5% | 79% | 98% | Median |
-| 1.5–2.5% | 19% | 19% |  |
-| 2.5–3.5% | 0.3% | 0.3% |  |
+| 0.5–1.5% | 66% | 98% | Median |
+| 1.5–2.5% | 30% | 31% |  |
+| 2.5–3.5% | 2% | 2% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -551,13 +551,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [30 June–1 July 2026](2026-07-01-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0 | 0 | 0 |
 | [24–29 June 2026](2026-06-29-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [22–25 June 2026](2026-06-25-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
-| [22–23 June 2026](2026-06-23-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
+| [22–23 June 2026](2026-06-23-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [17–22 June 2026](2026-06-22-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [18–19 June 2026](2026-06-19-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [15–19 June 2026](2026-06-19-SigmaConsulting.html) | Sigma Consulting |  |  |  |  |  |
-| [18–19 June 2026](2026-06-19-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
+| [18–19 June 2026](2026-06-19-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
 | [17–18 June 2026](2026-06-18-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [16–17 June 2026](2026-06-17-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
+| [16–17 June 2026](2026-06-17-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0 | 0 | 0 |
 | [16–17 June 2026](2026-06-17-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [3–16 June 2026](2026-06-16-EMG.html) | EMG |  |  |  |  |  |
 | [10–15 June 2026](2026-06-15-SWG.html) | SWG <br> La7 |  |  |  |  |  |

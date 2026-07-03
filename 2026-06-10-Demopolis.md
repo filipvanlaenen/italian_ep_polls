@@ -15,7 +15,7 @@
 | Movimento 5 Stelle (GUE/NGL) | 0.0% | 13.2% | 12.3–14.2% |12.0–14.5% |11.8–14.8% |11.4–15.3% |
 | Forza Italia (EPP) | 0.0% | 7.8% | 7.1–8.6% |6.9–8.9% |6.7–9.1% |6.4–9.5% |
 | Lega Nord (PfE) | 0.0% | 7.0% | 6.3–7.8% |6.1–8.0% |6.0–8.2% |5.6–8.6% |
-| Futuro Nazionale (NI) | 0.0% | 4.5% | 3.9–5.2% |3.8–5.3% |3.7–5.5% |3.4–5.8% |
+| Futuro Nazionale (ESN) | 0.0% | 4.5% | 3.9–5.2% |3.8–5.3% |3.7–5.5% |3.4–5.8% |
 | Europa Verde (Greens/EFA) | 0.0% | 3.5% | 3.0–4.1% |2.9–4.3% |2.8–4.4% |2.6–4.7% |
 | Azione (RE) | 0.0% | 2.9% | 2.5–3.4% |2.3–3.6% |2.2–3.7% |2.1–4.0% |
 | Italia Viva (RE) | 0.0% | 2.3% | 1.9–2.8% |1.8–2.9% |1.7–3.1% |1.6–3.3% |
@@ -36,16 +36,16 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#fratelli-d’italia-(ecr)">Fratelli d’Italia (ECR)</a> | 0 | 24 | 24–25 |24–25 |23–26 |23–27 |
-| <a href="#partito-democratico-(s&d)">Partito Democratico (S&D)</a> | 0 | 19 | 18–20 |18–20 |18–20 |17–21 |
-| <a href="#movimento-5-stelle-(gue/ngl)">Movimento 5 Stelle (GUE/NGL)</a> | 0 | 11 | 10–11 |10–12 |10–12 |10–12 |
-| <a href="#forza-italia-(epp)">Forza Italia (EPP)</a> | 0 | 6 | 5–6 |5–6 |5–6 |5–7 |
-| <a href="#lega-nord-(pfe)">Lega Nord (PfE)</a> | 0 | 6 | 6 |6 |5–7 |5–7 |
-| <a href="#futuro-nazionale-(ni)">Futuro Nazionale (NI)</a> | 0 | 4 | 4 |4 |3–4 |0–5 |
-| <a href="#europa-verde-(greens/efa)">Europa Verde (Greens/EFA)</a> | 0 | 3 | 3–4 |3–4 |3–4 |3–4 |
+| <a href="#fratelli-d’italia-(ecr)">Fratelli d’Italia (ECR)</a> | 0 | 26 | 23–28 |23–28 |23–28 |22–28 |
+| <a href="#partito-democratico-(s&d)">Partito Democratico (S&D)</a> | 0 | 18 | 18–19 |18–19 |18–19 |17–20 |
+| <a href="#movimento-5-stelle-(gue/ngl)">Movimento 5 Stelle (GUE/NGL)</a> | 0 | 11 | 11–12 |11–12 |11–13 |10–13 |
+| <a href="#forza-italia-(epp)">Forza Italia (EPP)</a> | 0 | 5 | 5–6 |5–6 |5–6 |5–6 |
+| <a href="#lega-nord-(pfe)">Lega Nord (PfE)</a> | 0 | 6 | 5–6 |5–7 |5–7 |5–7 |
+| <a href="#futuro-nazionale-(esn)">Futuro Nazionale (ESN)</a> | 0 | 3 | 0–4 |0–5 |0–5 |0–5 |
+| <a href="#europa-verde-(greens/efa)">Europa Verde (Greens/EFA)</a> | 0 | 4 | 3–4 |3–4 |3–4 |3–4 |
 | <a href="#azione-(re)">Azione (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#italia-viva-(re)">Italia Viva (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
-| <a href="#sinistra-italiana-(gue/ngl)">Sinistra Italiana (GUE/NGL)</a> | 0 | 2 | 2 |2 |2 |1–3 |
+| <a href="#sinistra-italiana-(gue/ngl)">Sinistra Italiana (GUE/NGL)</a> | 0 | 2 | 2–3 |1–3 |1–3 |1–3 |
 | <a href="#più-europa-(re)">Più Europa (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#noi-moderati-(epp)">Noi Moderati (EPP)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#partito-progressista-(*)">Partito Progressista (*)</a> | 0 | 0 | 0 |0 |0 |0–1 |
@@ -80,13 +80,13 @@
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
 | 21 | 0% | 100% |  |
-| 22 | 0.3% | 100% |  |
-| 23 | 4% | 99.6% |  |
-| 24 | 84% | 96% | Median |
-| 25 | 9% | 12% |  |
-| 26 | 3% | 3% |  |
-| 27 | 0.5% | 0.6% |  |
-| 28 | 0.1% | 0.1% |  |
+| 22 | 1.0% | 100% |  |
+| 23 | 23% | 99.0% |  |
+| 24 | 20% | 76% |  |
+| 25 | 0.6% | 55% |  |
+| 26 | 40% | 55% | Median |
+| 27 | 0% | 15% |  |
+| 28 | 15% | 15% |  |
 | 29 | 0% | 0% |  |
 
 ### Partito Democratico (S&D)
@@ -113,12 +113,12 @@
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
-| 16 | 0.4% | 100% |  |
-| 17 | 2% | 99.6% |  |
-| 18 | 10% | 98% |  |
-| 19 | 52% | 88% | Median |
-| 20 | 35% | 36% |  |
-| 21 | 0.7% | 0.8% |  |
+| 16 | 0.1% | 100% |  |
+| 17 | 0.5% | 99.9% |  |
+| 18 | 59% | 99.4% | Median |
+| 19 | 39% | 41% |  |
+| 20 | 1.0% | 1.4% |  |
+| 21 | 0.4% | 0.5% |  |
 | 22 | 0.1% | 0.1% |  |
 | 23 | 0% | 0% |  |
 
@@ -140,10 +140,10 @@
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0.1% | 100% |  |
-| 10 | 35% | 99.9% |  |
-| 11 | 56% | 65% | Median |
-| 12 | 8% | 8% |  |
-| 13 | 0.5% | 0.5% |  |
+| 10 | 2% | 99.9% |  |
+| 11 | 56% | 98% | Median |
+| 12 | 38% | 42% |  |
+| 13 | 4% | 4% |  |
 | 14 | 0% | 0% |  |
 
 ### Forza Italia (EPP)
@@ -158,10 +158,10 @@
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 0.3% | 100% |  |
-| 5 | 44% | 99.7% |  |
-| 6 | 55% | 56% | Median |
-| 7 | 0.6% | 0.7% |  |
+| 4 | 0.5% | 100% |  |
+| 5 | 60% | 99.5% | Median |
+| 6 | 39% | 40% |  |
+| 7 | 0.3% | 0.3% |  |
 | 8 | 0% | 0% |  |
 
 ### Lega Nord (PfE)
@@ -177,26 +177,26 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 4% | 100% |  |
-| 6 | 93% | 96% | Median |
-| 7 | 3% | 3% |  |
+| 5 | 20% | 100% |  |
+| 6 | 74% | 80% | Median |
+| 7 | 7% | 7% |  |
 | 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |
 
-### Futuro Nazionale (NI)
+### Futuro Nazionale (ESN)
 
-*For a full overview of the results for this party, see the [Futuro Nazionale (NI)](party-futuronazionaleni.html) page.*
+*For a full overview of the results for this party, see the [Futuro Nazionale (ESN)](party-futuronazionaleesn.html) page.*
 
-![Graph with seats probability mass function not yet produced](2026-06-10-Demopolis-seats-pmf-futuronazionaleni.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2026-06-10-Demopolis-seats-pmf-futuronazionaleesn.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 2% | 100% | Last Result |
-| 1 | 0% | 98% |  |
-| 2 | 0% | 98% |  |
-| 3 | 0.9% | 98% |  |
-| 4 | 96% | 97% | Median |
-| 5 | 2% | 2% |  |
+| 0 | 16% | 100% | Last Result |
+| 1 | 0% | 84% |  |
+| 2 | 0% | 84% |  |
+| 3 | 39% | 84% | Median |
+| 4 | 40% | 45% |  |
+| 5 | 6% | 6% |  |
 | 6 | 0% | 0% |  |
 
 ### Europa Verde (Greens/EFA)
@@ -210,9 +210,9 @@
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0.4% | 100% |  |
-| 3 | 58% | 99.6% | Median |
-| 4 | 41% | 41% |  |
-| 5 | 0.1% | 0.1% |  |
+| 3 | 40% | 99.5% |  |
+| 4 | 60% | 60% | Median |
+| 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% |  |
 
 ### Azione (RE)
@@ -223,10 +223,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.8% | 100% | Last Result, Median |
-| 1 | 0% | 0.2% |  |
-| 2 | 0% | 0.2% |  |
-| 3 | 0.1% | 0.2% |  |
+| 0 | 99.9% | 100% | Last Result, Median |
+| 1 | 0% | 0.1% |  |
+| 2 | 0% | 0.1% |  |
+| 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
 ### Italia Viva (RE)
@@ -248,9 +248,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 1.1% | 100% |  |
-| 2 | 97% | 98.9% | Median |
-| 3 | 2% | 2% |  |
+| 1 | 9% | 100% |  |
+| 2 | 75% | 91% | Median |
+| 3 | 16% | 16% |  |
 | 4 | 0% | 0% |  |
 
 ### Più Europa (RE)
@@ -281,8 +281,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98% | 100% | Last Result, Median |
-| 1 | 2% | 2% |  |
+| 0 | 98.9% | 100% | Last Result, Median |
+| 1 | 1.1% | 1.1% |  |
 | 2 | 0% | 0% |  |
 
 
@@ -294,7 +294,8 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Lega Nord (PfE) | 0 | 6 | 0% | 6 | 6 | 5–7 | 5–7 |
+| Lega Nord (PfE) | 0 | 6 | 0% | 5–6 | 5–7 | 5–7 | 5–7 |
+| Futuro Nazionale (ESN) | 0 | 3 | 0% | 0–4 | 0–5 | 0–5 | 0–5 |
 
 ### Lega Nord (PfE)
 
@@ -307,11 +308,25 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 4% | 100% |  |
-| 6 | 93% | 96% | Median |
-| 7 | 3% | 3% |  |
+| 5 | 20% | 100% |  |
+| 6 | 74% | 80% | Median |
+| 7 | 7% | 7% |  |
 | 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |
+
+### Futuro Nazionale (ESN)
+
+![Graph with seats probability mass function not yet produced](2026-06-10-Demopolis-coalitions-seats-pmf-fn.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 16% | 100% | Last Result |
+| 1 | 0% | 84% |  |
+| 2 | 0% | 84% |  |
+| 3 | 39% | 84% | Median |
+| 4 | 40% | 45% |  |
+| 5 | 6% | 6% |  |
+| 6 | 0% | 0% |  |
 
 
 ## Technical Information
@@ -325,6 +340,6 @@
 ### Calculations
 
 + **Sample size:** 2000
-+ **Simulations done:** 2,097,152
-+ **Error estimate:** 0.85%
++ **Simulations done:** 65,536
++ **Error estimate:** 1.23%
 
