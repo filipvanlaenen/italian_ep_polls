@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 03 Jul 2026 19:10:06 +0200</pubDate>
+    <pubDate>Sat, 04 Jul 2026 00:13:23 +0200</pubDate>
     <item>
       <title>Opinion Poll by Termometro Politico, 1–2 July 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2026-07-02-TermometroPolitico.html#seats</link>
@@ -99,6 +99,256 @@
       <pubDate>Fri, 03 Jul 2026 19:10:06 +0200</pubDate>
       <dc:date>2026-07-03T19:10:06.603713+02:00</dc:date>
     </item>
-    <dc:date>2026-07-03T19:10:06.603713+02:00</dc:date>
+    <item>
+      <title>Opinion Poll by Ipsos for Corriere della Sera, 22–25 June 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2026-06-25-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Noi Moderati (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 20–24 seats&lt;/li&gt;&lt;li&gt;Partito Progressista (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 14–18 seats&lt;/li&gt;&lt;li&gt;Movimento 5 Stelle (GUE/NGL): 10–13 seats&lt;/li&gt;&lt;li&gt;Futuro Nazionale (ESN): 4–6 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 5–7 seats&lt;/li&gt;&lt;li&gt;Azione (RE): 0–3 seats&lt;/li&gt;&lt;li&gt;Sinistra Italiana (GUE/NGL): 1–3 seats&lt;/li&gt;&lt;li&gt;Lega Nord (PfE): 3–6 seats&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 2–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2026-06-25-Ipsos-seats.png"
+        length="284274"
+        type="image/png"/>
+      <pubDate>Fri, 03 Jul 2026 20:50:55 +0200</pubDate>
+      <dc:date>2026-07-03T20:50:55.821571+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Corriere della Sera, 22–25 June 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2026-06-25-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2026-06-25-Ipsos-coalitions-seats.png"
+        length="227564"
+        type="image/png"/>
+      <pubDate>Fri, 03 Jul 2026 20:50:55 +0200</pubDate>
+      <dc:date>2026-07-03T20:50:55.821571+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Corriere della Sera, 22–25 June 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2026-06-25-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Noi Moderati (EPP): 0.4–1.6%&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 1.3–3.1%&lt;/li&gt;&lt;li&gt;Più Europa (RE): 1.2–3.0%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 24.3–29.8%&lt;/li&gt;&lt;li&gt;Partito Progressista (*): 0.3–1.3%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 17.7–22.7%&lt;/li&gt;&lt;li&gt;Movimento 5 Stelle (GUE/NGL): 12.3–16.6%&lt;/li&gt;&lt;li&gt;Futuro Nazionale (ESN): 4.7–7.7%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6.7–10.2%&lt;/li&gt;&lt;li&gt;Azione (RE): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Sinistra Italiana (GUE/NGL): 1.4–3.3%&lt;/li&gt;&lt;li&gt;Lega Nord (PfE): 4.3–7.2%&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 2.4–4.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2026-06-25-Ipsos.png"
+        length="356983"
+        type="image/png"/>
+      <pubDate>Fri, 03 Jul 2026 20:50:55 +0200</pubDate>
+      <dc:date>2026-07-03T20:50:55.821571+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by EMG for Rai 3, 22–23 June 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2026-06-23-EMG.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partito Liberaldemocratico (RE): 0 seats&lt;/li&gt;&lt;li&gt;Noi Moderati (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 21–23 seats&lt;/li&gt;&lt;li&gt;Partito Progressista (*): 0 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 16–18 seats&lt;/li&gt;&lt;li&gt;Movimento 5 Stelle (GUE/NGL): 10–13 seats&lt;/li&gt;&lt;li&gt;Futuro Nazionale (ESN): 5–7 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 5–7 seats&lt;/li&gt;&lt;li&gt;Azione (RE): 0–4 seats&lt;/li&gt;&lt;li&gt;Sinistra Italiana (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Lega Nord (PfE): 5–7 seats&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 2–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2026-06-23-EMG-seats.png"
+        length="292815"
+        type="image/png"/>
+      <pubDate>Fri, 03 Jul 2026 21:17:39 +0200</pubDate>
+      <dc:date>2026-07-03T21:17:39.914505+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by EMG for Rai 3, 22–23 June 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2026-06-23-EMG.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2026-06-23-EMG-coalitions-seats.png"
+        length="216318"
+        type="image/png"/>
+      <pubDate>Fri, 03 Jul 2026 21:17:39 +0200</pubDate>
+      <dc:date>2026-07-03T21:17:39.914505+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by EMG for Rai 3, 22–23 June 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2026-06-23-EMG.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partito Liberaldemocratico (RE): 1.1–2.7%&lt;/li&gt;&lt;li&gt;Noi Moderati (EPP): 1.0–2.6%&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 1.6–3.6%&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0.9–2.5%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 23.4–28.8%&lt;/li&gt;&lt;li&gt;Partito Progressista (*): 0.2–1.2%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 18.1–23.1%&lt;/li&gt;&lt;li&gt;Movimento 5 Stelle (GUE/NGL): 11.2–15.5%&lt;/li&gt;&lt;li&gt;Futuro Nazionale (ESN): 5.2–8.3%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6.7–10.2%&lt;/li&gt;&lt;li&gt;Azione (RE): 1.9–3.9%&lt;/li&gt;&lt;li&gt;Sinistra Italiana (GUE/NGL): 1.4–3.3%&lt;/li&gt;&lt;li&gt;Lega Nord (PfE): 5.9–9.2%&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 2.4–4.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2026-06-23-EMG.png"
+        length="388701"
+        type="image/png"/>
+      <pubDate>Fri, 03 Jul 2026 21:17:39 +0200</pubDate>
+      <dc:date>2026-07-03T21:17:39.914505+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Tecnè for Agenzia Dire, 18–19 June 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2026-06-19-Tecnè.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Noi Moderati (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 22–28 seats&lt;/li&gt;&lt;li&gt;Partito Progressista (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 16–20 seats&lt;/li&gt;&lt;li&gt;Movimento 5 Stelle (GUE/NGL): 9–13 seats&lt;/li&gt;&lt;li&gt;Futuro Nazionale (ESN): 0–5 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 5–8 seats&lt;/li&gt;&lt;li&gt;Azione (RE): 0–3 seats&lt;/li&gt;&lt;li&gt;Sinistra Italiana (GUE/NGL): 1–3 seats&lt;/li&gt;&lt;li&gt;Lega Nord (PfE): 5–7 seats&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 3–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2026-06-19-Tecnè-seats.png"
+        length="293227"
+        type="image/png"/>
+      <pubDate>Fri, 03 Jul 2026 22:12:58 +0200</pubDate>
+      <dc:date>2026-07-03T22:12:58.255092+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Tecnè for Agenzia Dire, 18–19 June 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2026-06-19-Tecnè.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2026-06-19-Tecnè-coalitions-seats.png"
+        length="228511"
+        type="image/png"/>
+      <pubDate>Fri, 03 Jul 2026 22:12:58 +0200</pubDate>
+      <dc:date>2026-07-03T22:12:58.255092+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Tecnè for Agenzia Dire, 18–19 June 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2026-06-19-Tecnè.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Noi Moderati (EPP): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 1.5–3.4%&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0.9–2.5%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 26.5–32.2%&lt;/li&gt;&lt;li&gt;Partito Progressista (*): 0.3–1.3%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 19.1–24.2%&lt;/li&gt;&lt;li&gt;Movimento 5 Stelle (GUE/NGL): 10.5–14.6%&lt;/li&gt;&lt;li&gt;Futuro Nazionale (ESN): 3.5–6.1%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 7.1–10.6%&lt;/li&gt;&lt;li&gt;Azione (RE): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Sinistra Italiana (GUE/NGL): 1.5–3.4%&lt;/li&gt;&lt;li&gt;Lega Nord (PfE): 5.1–8.2%&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 2.5–4.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2026-06-19-Tecnè.png"
+        length="357507"
+        type="image/png"/>
+      <pubDate>Fri, 03 Jul 2026 22:12:58 +0200</pubDate>
+      <dc:date>2026-07-03T22:12:58.255092+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sigma Consulting, 15–19 June 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2026-06-19-SigmaConsulting.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Noi Moderati (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 19–23 seats&lt;/li&gt;&lt;li&gt;Partito Progressista (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 15–20 seats&lt;/li&gt;&lt;li&gt;Movimento 5 Stelle (GUE/NGL): 9–13 seats&lt;/li&gt;&lt;li&gt;Futuro Nazionale (ESN): 5–7 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 5–8 seats&lt;/li&gt;&lt;li&gt;Azione (RE): 0–4 seats&lt;/li&gt;&lt;li&gt;Sinistra Italiana (GUE/NGL): 1–3 seats&lt;/li&gt;&lt;li&gt;Lega Nord (PfE): 4–7 seats&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 2–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2026-06-19-SigmaConsulting-seats.png"
+        length="289982"
+        type="image/png"/>
+      <pubDate>Fri, 03 Jul 2026 22:28:06 +0200</pubDate>
+      <dc:date>2026-07-03T22:28:06.016619+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sigma Consulting, 15–19 June 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2026-06-19-SigmaConsulting.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2026-06-19-SigmaConsulting-coalitions-seats.png"
+        length="234504"
+        type="image/png"/>
+      <pubDate>Fri, 03 Jul 2026 22:28:06 +0200</pubDate>
+      <dc:date>2026-07-03T22:28:06.016619+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sigma Consulting, 15–19 June 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2026-06-19-SigmaConsulting.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Noi Moderati (EPP): 0.6–2.1%&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 1.3–3.4%&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0.6–2.1%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 23.1–29.2%&lt;/li&gt;&lt;li&gt;Partito Progressista (*): 0.3–1.5%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 18.1–23.7%&lt;/li&gt;&lt;li&gt;Movimento 5 Stelle (GUE/NGL): 10.8–15.5%&lt;/li&gt;&lt;li&gt;Futuro Nazionale (ESN): 5.6–9.3%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6.9–10.8%&lt;/li&gt;&lt;li&gt;Azione (RE): 2.3–4.9%&lt;/li&gt;&lt;li&gt;Sinistra Italiana (GUE/NGL): 1.5–3.7%&lt;/li&gt;&lt;li&gt;Lega Nord (PfE): 4.8–8.2%&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 2.5–5.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2026-06-19-SigmaConsulting.png"
+        length="373309"
+        type="image/png"/>
+      <pubDate>Fri, 03 Jul 2026 22:28:06 +0200</pubDate>
+      <dc:date>2026-07-03T22:28:06.016619+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by BiDiMedia, 18–19 June 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2026-06-19-BiDiMedia.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partito Liberaldemocratico (RE): 0 seats&lt;/li&gt;&lt;li&gt;Ora! (*): 0 seats&lt;/li&gt;&lt;li&gt;Noi Moderati (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0 seats&lt;/li&gt;&lt;li&gt;Democrazia Sovrana e Popolare (NI): 0 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 23–25 seats&lt;/li&gt;&lt;li&gt;Potere al Popolo (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Partito Progressista (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 17–20 seats&lt;/li&gt;&lt;li&gt;Movimento 5 Stelle (GUE/NGL): 9–13 seats&lt;/li&gt;&lt;li&gt;Futuro Nazionale (ESN): 4–6 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 5–7 seats&lt;/li&gt;&lt;li&gt;Azione (RE): 0 seats&lt;/li&gt;&lt;li&gt;Sinistra Italiana (GUE/NGL): 2–3 seats&lt;/li&gt;&lt;li&gt;Lega Nord (PfE): 4–5 seats&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 3–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2026-06-19-BiDiMedia-seats.png"
+        length="317812"
+        type="image/png"/>
+      <pubDate>Fri, 03 Jul 2026 23:10:19 +0200</pubDate>
+      <dc:date>2026-07-03T23:10:19.132439+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by BiDiMedia, 18–19 June 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2026-06-19-BiDiMedia.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2026-06-19-BiDiMedia-coalitions-seats.png"
+        length="202199"
+        type="image/png"/>
+      <pubDate>Fri, 03 Jul 2026 23:10:19 +0200</pubDate>
+      <dc:date>2026-07-03T23:10:19.132439+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by BiDiMedia, 18–19 June 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2026-06-19-BiDiMedia.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partito Liberaldemocratico (RE): 0.5–1.7%&lt;/li&gt;&lt;li&gt;Ora! (*): 0.3–1.4%&lt;/li&gt;&lt;li&gt;Noi Moderati (EPP): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 1.4–3.3%&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Democrazia Sovrana e Popolare (NI): 0.3–1.4%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 24.9–30.5%&lt;/li&gt;&lt;li&gt;Potere al Popolo (GUE/NGL): 0.5–1.7%&lt;/li&gt;&lt;li&gt;Partito Progressista (*): 0.3–1.3%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 19.7–24.9%&lt;/li&gt;&lt;li&gt;Movimento 5 Stelle (GUE/NGL): 10.1–14.2%&lt;/li&gt;&lt;li&gt;Futuro Nazionale (ESN): 4.2–7.0%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 5.8–9.1%&lt;/li&gt;&lt;li&gt;Azione (RE): 2.0–4.1%&lt;/li&gt;&lt;li&gt;Sinistra Italiana (GUE/NGL): 1.6–3.6%&lt;/li&gt;&lt;li&gt;Lega Nord (PfE): 4.7–7.7%&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 2.6–5.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2026-06-19-BiDiMedia.png"
+        length="424931"
+        type="image/png"/>
+      <pubDate>Fri, 03 Jul 2026 23:10:19 +0200</pubDate>
+      <dc:date>2026-07-03T23:10:19.132439+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Termometro Politico, 17–18 June 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2026-06-18-TermometroPolitico.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Noi Moderati (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0 seats&lt;/li&gt;&lt;li&gt;Democrazia Sovrana e Popolare (NI): 0 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 22–26 seats&lt;/li&gt;&lt;li&gt;Partito Progressista (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 17–20 seats&lt;/li&gt;&lt;li&gt;Movimento 5 Stelle (GUE/NGL): 10–12 seats&lt;/li&gt;&lt;li&gt;Futuro Nazionale (ESN): 3–5 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 5–7 seats&lt;/li&gt;&lt;li&gt;Azione (RE): 0 seats&lt;/li&gt;&lt;li&gt;Sinistra Italiana (GUE/NGL): 1–3 seats&lt;/li&gt;&lt;li&gt;Lega Nord (PfE): 5–7 seats&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 3–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2026-06-18-TermometroPolitico-seats.png"
+        length="286263"
+        type="image/png"/>
+      <pubDate>Fri, 03 Jul 2026 23:30:22 +0200</pubDate>
+      <dc:date>2026-07-03T23:30:22.795407+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Termometro Politico, 17–18 June 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2026-06-18-TermometroPolitico.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2026-06-18-TermometroPolitico-coalitions-seats.png"
+        length="204900"
+        type="image/png"/>
+      <pubDate>Fri, 03 Jul 2026 23:30:22 +0200</pubDate>
+      <dc:date>2026-07-03T23:30:22.795407+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Termometro Politico, 17–18 June 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2026-06-18-TermometroPolitico.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Noi Moderati (EPP): 0.7–1.5%&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 1.9–3.2%&lt;/li&gt;&lt;li&gt;Più Europa (RE): 1.2–2.2%&lt;/li&gt;&lt;li&gt;Democrazia Sovrana e Popolare (NI): 0.9–1.8%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 26.3–29.8%&lt;/li&gt;&lt;li&gt;Partito Progressista (*): 0.3–0.9%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 20.0–23.3%&lt;/li&gt;&lt;li&gt;Movimento 5 Stelle (GUE/NGL): 11.2–13.8%&lt;/li&gt;&lt;li&gt;Futuro Nazionale (ESN): 3.9–5.6%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6.7–8.8%&lt;/li&gt;&lt;li&gt;Azione (RE): 2.3–3.6%&lt;/li&gt;&lt;li&gt;Sinistra Italiana (GUE/NGL): 1.7–2.9%&lt;/li&gt;&lt;li&gt;Lega Nord (PfE): 5.9–7.9%&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 2.8–4.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2026-06-18-TermometroPolitico.png"
+        length="349778"
+        type="image/png"/>
+      <pubDate>Fri, 03 Jul 2026 23:30:22 +0200</pubDate>
+      <dc:date>2026-07-03T23:30:22.795407+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Quorum – YouTrend for Sky TG24, 16–17 June 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2026-06-17-Quorum–YouTrend.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partito Liberaldemocratico (RE): 0 seats&lt;/li&gt;&lt;li&gt;Ora! (*): 0 seats&lt;/li&gt;&lt;li&gt;Noi Moderati (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 22–25 seats&lt;/li&gt;&lt;li&gt;Partito Progressista (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 16–21 seats&lt;/li&gt;&lt;li&gt;Movimento 5 Stelle (GUE/NGL): 9–11 seats&lt;/li&gt;&lt;li&gt;Futuro Nazionale (ESN): 0–7 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 4–8 seats&lt;/li&gt;&lt;li&gt;Azione (RE): 0–3 seats&lt;/li&gt;&lt;li&gt;Sinistra Italiana (GUE/NGL): 1–3 seats&lt;/li&gt;&lt;li&gt;Lega Nord (PfE): 4–6 seats&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 3–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2026-06-17-Quorum–YouTrend-seats.png"
+        length="329887"
+        type="image/png"/>
+      <pubDate>Fri, 03 Jul 2026 23:48:36 +0200</pubDate>
+      <dc:date>2026-07-03T23:48:36.522933+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Quorum – YouTrend for Sky TG24, 16–17 June 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2026-06-17-Quorum–YouTrend.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2026-06-17-Quorum–YouTrend-coalitions-seats.png"
+        length="236239"
+        type="image/png"/>
+      <pubDate>Fri, 03 Jul 2026 23:48:36 +0200</pubDate>
+      <dc:date>2026-07-03T23:48:36.522933+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Quorum – YouTrend for Sky TG24, 16–17 June 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2026-06-17-Quorum–YouTrend.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partito Liberaldemocratico (RE): 0.7–2.2%&lt;/li&gt;&lt;li&gt;Ora! (*): 0.6–2.1%&lt;/li&gt;&lt;li&gt;Noi Moderati (EPP): 0.4–1.8%&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 1.3–3.3%&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0.5–1.9%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 24.8–30.9%&lt;/li&gt;&lt;li&gt;Partito Progressista (*): 0.3–1.4%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 19.5–25.1%&lt;/li&gt;&lt;li&gt;Movimento 5 Stelle (GUE/NGL): 10.1–14.5%&lt;/li&gt;&lt;li&gt;Futuro Nazionale (ESN): 4.5–7.8%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6.6–10.3%&lt;/li&gt;&lt;li&gt;Azione (RE): 2.2–4.6%&lt;/li&gt;&lt;li&gt;Sinistra Italiana (GUE/NGL): 1.6–3.7%&lt;/li&gt;&lt;li&gt;Lega Nord (PfE): 4.4–7.6%&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 2.7–5.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2026-06-17-Quorum–YouTrend.png"
+        length="405562"
+        type="image/png"/>
+      <pubDate>Fri, 03 Jul 2026 23:48:36 +0200</pubDate>
+      <dc:date>2026-07-03T23:48:36.522933+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Eumetra for La7, 16–17 June 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2026-06-17-Eumetra.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Noi Moderati (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 21–26 seats&lt;/li&gt;&lt;li&gt;Partito Progressista (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 16–20 seats&lt;/li&gt;&lt;li&gt;Movimento 5 Stelle (GUE/NGL): 9–13 seats&lt;/li&gt;&lt;li&gt;Futuro Nazionale (ESN): 0–6 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 4–7 seats&lt;/li&gt;&lt;li&gt;Azione (RE): 0–4 seats&lt;/li&gt;&lt;li&gt;Sinistra Italiana (GUE/NGL): 1–4 seats&lt;/li&gt;&lt;li&gt;Lega Nord (PfE): 4–7 seats&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 2–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2026-06-17-Eumetra-seats.png"
+        length="310400"
+        type="image/png"/>
+      <pubDate>Sat, 04 Jul 2026 00:08:09 +0200</pubDate>
+      <dc:date>2026-07-04T00:08:09.49383+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Eumetra for La7, 16–17 June 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2026-06-17-Eumetra.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2026-06-17-Eumetra-coalitions-seats.png"
+        length="242981"
+        type="image/png"/>
+      <pubDate>Sat, 04 Jul 2026 00:08:09 +0200</pubDate>
+      <dc:date>2026-07-04T00:08:09.49383+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Eumetra for La7, 16–17 June 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2026-06-17-Eumetra.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Noi Moderati (EPP): 0.6–2.1%&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 1.4–3.5%&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0.7–2.3%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 25.2–31.5%&lt;/li&gt;&lt;li&gt;Partito Progressista (*): 0.3–1.5%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 19.0–24.8%&lt;/li&gt;&lt;li&gt;Movimento 5 Stelle (GUE/NGL): 10.6–15.3%&lt;/li&gt;&lt;li&gt;Futuro Nazionale (ESN): 3.7–6.8%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6.1–9.8%&lt;/li&gt;&lt;li&gt;Azione (RE): 2.1–4.6%&lt;/li&gt;&lt;li&gt;Sinistra Italiana (GUE/NGL): 1.5–3.7%&lt;/li&gt;&lt;li&gt;Lega Nord (PfE): 4.8–8.2%&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 2.5–5.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2026-06-17-Eumetra.png"
+        length="363228"
+        type="image/png"/>
+      <pubDate>Sat, 04 Jul 2026 00:08:09 +0200</pubDate>
+      <dc:date>2026-07-04T00:08:09.49383+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demopolis for La7, 9–10 June 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2026-06-10-Demopolis.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Noi Moderati (EPP): 0.7–1.7%&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 1.7–3.1%&lt;/li&gt;&lt;li&gt;Più Europa (RE): 1.0–2.0%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 26.7–30.6%&lt;/li&gt;&lt;li&gt;Partito Progressista (*): 0.3–1.1%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 20.5–24.2%&lt;/li&gt;&lt;li&gt;Movimento 5 Stelle (GUE/NGL): 11.8–14.8%&lt;/li&gt;&lt;li&gt;Futuro Nazionale (ESN): 3.7–5.5%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6.7–9.1%&lt;/li&gt;&lt;li&gt;Azione (RE): 2.2–3.7%&lt;/li&gt;&lt;li&gt;Sinistra Italiana (GUE/NGL): 1.7–3.1%&lt;/li&gt;&lt;li&gt;Lega Nord (PfE): 6.0–8.2%&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 2.8–4.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2026-06-10-Demopolis.png"
+        length="337476"
+        type="image/png"/>
+      <pubDate>Sat, 04 Jul 2026 00:13:23 +0200</pubDate>
+      <dc:date>2026-07-04T00:13:23.004687+02:00</dc:date>
+    </item>
+    <dc:date>2026-07-04T00:13:23.004687+02:00</dc:date>
   </channel>
 </rss>
