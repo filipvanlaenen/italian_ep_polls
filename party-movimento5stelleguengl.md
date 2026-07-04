@@ -564,14 +564,14 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [1–2 July 2026](2026-07-02-TermometroPolitico.html) | Termometro Politico | 10 | 10–11 | 10–12 | 9–12 | 9–13 |
 | [30 June–1 July 2026](2026-07-01-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 10 | 9–10 | 9–11 | 9–12 | 8–13 |
 | [24–29 June 2026](2026-06-29-SWG.html) | SWG <br> La7 | 12 | 11–12 | 10–13 | 10–13 | 10–13 |
-| [22–25 June 2026](2026-06-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 11 | 11–12 | 10–13 | 10–13 | 9–15 |
-| [22–23 June 2026](2026-06-23-EMG.html) | EMG <br> Rai 3 | 11 | 11 | 10–12 | 10–13 | 10–13 |
+| [22–25 June 2026](2026-06-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 11 | 11–13 | 10–13 | 10–13 | 9–15 |
+| [22–23 June 2026](2026-06-23-EMG.html) | EMG <br> Rai 3 | 11 | 11 | 11–12 | 10–12 | 10–13 |
 | [17–22 June 2026](2026-06-22-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [18–19 June 2026](2026-06-19-Tecnè.html) | Tecnè <br> Agenzia Dire | 10 | 10–12 | 10–13 | 9–13 | 9–13 |
-| [15–19 June 2026](2026-06-19-SigmaConsulting.html) | Sigma Consulting | 10 | 9–12 | 9–13 | 9–13 | 9–14 |
-| [18–19 June 2026](2026-06-19-BiDiMedia.html) | BiDiMedia | 12 | 12 | 9–12 | 9–13 | 9–13 |
-| [17–18 June 2026](2026-06-18-TermometroPolitico.html) | Termometro Politico | 11 | 10–11 | 10–12 | 10–12 | 9–12 |
-| [16–17 June 2026](2026-06-17-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 11 | 10–11 | 9–11 | 9–11 | 9–12 |
+| [18–19 June 2026](2026-06-19-Tecnè.html) | Tecnè <br> Agenzia Dire | 10 | 10–12 | 9–12 | 9–13 | 8–13 |
+| [15–19 June 2026](2026-06-19-SigmaConsulting.html) | Sigma Consulting | 11 | 9–12 | 9–12 | 9–13 | 8–13 |
+| [18–19 June 2026](2026-06-19-BiDiMedia.html) | BiDiMedia | 12 | 11–12 | 9–12 | 9–13 | 9–13 |
+| [17–18 June 2026](2026-06-18-TermometroPolitico.html) | Termometro Politico | 11 | 10–11 | 10–12 | 10–12 | 10–12 |
+| [16–17 June 2026](2026-06-17-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 11 | 9–12 | 9–12 | 9–12 | 8–13 |
 | [16–17 June 2026](2026-06-17-Eumetra.html) | Eumetra <br> La7 | 10 | 9–12 | 9–13 | 9–13 | 8–13 |
 | [3–16 June 2026](2026-06-16-EMG.html) | EMG |  |  |  |  |  |
 | [10–15 June 2026](2026-06-15-SWG.html) | SWG <br> La7 |  |  |  |  |  |
@@ -1091,13 +1091,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 0.3% | 100% |  |
-| 9 | 6% | 99.7% |  |
-| 10 | 41% | 94% |  |
-| 11 | 27% | 53% | Median |
-| 12 | 22% | 26% |  |
-| 13 | 4% | 4% |  |
-| 14 | 0.2% | 0.3% |  |
+| 8 | 0.4% | 100% |  |
+| 9 | 6% | 99.6% |  |
+| 10 | 38% | 94% |  |
+| 11 | 29% | 55% | Median |
+| 12 | 22% | 27% |  |
+| 13 | 4% | 5% |  |
+| 14 | 0.2% | 0.2% |  |
 | 15 | 0.1% | 0.1% |  |
 | 16 | 0% | 0% |  |
 

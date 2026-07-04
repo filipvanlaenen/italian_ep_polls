@@ -569,18 +569,18 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 16–20 | 16–20 | 15–20 | 14–22 |
+| N/A | [Poll Average](average.html) | 18 | 16–20 | 16–20 | 15–21 | 14–22 |
 | [1–2 July 2026](2026-07-02-TermometroPolitico.html) | Termometro Politico | 19 | 17–19 | 17–20 | 17–20 | 16–21 |
 | [30 June–1 July 2026](2026-07-01-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 20 | 19–22 | 18–22 | 17–22 | 16–22 |
 | [24–29 June 2026](2026-06-29-SWG.html) | SWG <br> La7 | 19 | 18–19 | 18–20 | 18–21 | 16–21 |
-| [22–25 June 2026](2026-06-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 16 | 15–18 | 14–18 | 14–18 | 14–19 |
-| [22–23 June 2026](2026-06-23-EMG.html) | EMG <br> Rai 3 | 17 | 17 | 16–17 | 16–18 | 15–19 |
+| [22–25 June 2026](2026-06-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 16 | 15–18 | 14–18 | 14–19 | 14–19 |
+| [22–23 June 2026](2026-06-23-EMG.html) | EMG <br> Rai 3 | 17 | 17–19 | 16–19 | 16–19 | 15–20 |
 | [17–22 June 2026](2026-06-22-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [18–19 June 2026](2026-06-19-Tecnè.html) | Tecnè <br> Agenzia Dire | 17 | 17–19 | 17–20 | 16–20 | 15–21 |
-| [15–19 June 2026](2026-06-19-SigmaConsulting.html) | Sigma Consulting | 17 | 16–19 | 16–19 | 15–20 | 14–20 |
-| [18–19 June 2026](2026-06-19-BiDiMedia.html) | BiDiMedia | 17 | 17–18 | 17–20 | 17–20 | 17–20 |
-| [17–18 June 2026](2026-06-18-TermometroPolitico.html) | Termometro Politico | 19 | 18–19 | 17–20 | 17–20 | 17–21 |
-| [16–17 June 2026](2026-06-17-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 20 | 18–20 | 18–20 | 16–21 | 16–22 |
+| [18–19 June 2026](2026-06-19-Tecnè.html) | Tecnè <br> Agenzia Dire | 17 | 17–20 | 16–20 | 16–20 | 15–21 |
+| [15–19 June 2026](2026-06-19-SigmaConsulting.html) | Sigma Consulting | 17 | 16–19 | 15–19 | 15–19 | 14–20 |
+| [18–19 June 2026](2026-06-19-BiDiMedia.html) | BiDiMedia | 17 | 17–18 | 17–20 | 17–20 | 17–21 |
+| [17–18 June 2026](2026-06-18-TermometroPolitico.html) | Termometro Politico | 19 | 19 | 18–20 | 18–20 | 17–20 |
+| [16–17 June 2026](2026-06-17-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 20 | 18–21 | 17–21 | 16–21 | 16–22 |
 | [16–17 June 2026](2026-06-17-Eumetra.html) | Eumetra <br> La7 | 18 | 16–19 | 16–20 | 16–20 | 15–22 |
 | [3–16 June 2026](2026-06-16-EMG.html) | EMG |  |  |  |  |  |
 | [10–15 June 2026](2026-06-15-SWG.html) | SWG <br> La7 |  |  |  |  |  |
@@ -1106,14 +1106,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
-| 14 | 0.6% | 100% |  |
-| 15 | 4% | 99.4% |  |
+| 14 | 0.7% | 100% |  |
+| 15 | 3% | 99.3% |  |
 | 16 | 7% | 96% |  |
-| 17 | 32% | 89% |  |
-| 18 | 19% | 57% | Median |
-| 19 | 16% | 38% |  |
-| 20 | 20% | 22% |  |
-| 21 | 1.1% | 2% |  |
+| 17 | 28% | 89% |  |
+| 18 | 18% | 61% | Median |
+| 19 | 20% | 43% |  |
+| 20 | 20% | 23% |  |
+| 21 | 1.2% | 3% |  |
 | 22 | 1.4% | 1.4% |  |
 | 23 | 0% | 0% |  |
 

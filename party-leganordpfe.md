@@ -557,14 +557,14 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [1–2 July 2026](2026-07-02-TermometroPolitico.html) | Termometro Politico | 6 | 5–6 | 5–6 | 5–7 | 5–7 |
 | [30 June–1 July 2026](2026-07-01-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 4 | 4–5 | 4–5 | 4–5 | 0–6 |
 | [24–29 June 2026](2026-06-29-SWG.html) | SWG <br> La7 | 5 | 4–5 | 4–5 | 4–5 | 0–6 |
-| [22–25 June 2026](2026-06-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 4 | 3–5 | 3–6 | 3–6 | 3–7 |
-| [22–23 June 2026](2026-06-23-EMG.html) | EMG <br> Rai 3 | 7 | 6–7 | 6–7 | 5–7 | 5–8 |
+| [22–25 June 2026](2026-06-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 4 | 3–6 | 3–6 | 3–6 | 0–7 |
+| [22–23 June 2026](2026-06-23-EMG.html) | EMG <br> Rai 3 | 7 | 7 | 6–7 | 5–7 | 5–8 |
 | [17–22 June 2026](2026-06-22-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [18–19 June 2026](2026-06-19-Tecnè.html) | Tecnè <br> Agenzia Dire | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
+| [18–19 June 2026](2026-06-19-Tecnè.html) | Tecnè <br> Agenzia Dire | 6 | 5–6 | 5–7 | 4–7 | 4–7 |
 | [15–19 June 2026](2026-06-19-SigmaConsulting.html) | Sigma Consulting | 6 | 5–7 | 4–7 | 4–7 | 4–7 |
-| [18–19 June 2026](2026-06-19-BiDiMedia.html) | BiDiMedia | 5 | 5 | 5 | 4–5 | 4–6 |
-| [17–18 June 2026](2026-06-18-TermometroPolitico.html) | Termometro Politico | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
-| [16–17 June 2026](2026-06-17-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 5 | 5 | 4–6 | 4–6 | 4–7 |
+| [18–19 June 2026](2026-06-19-BiDiMedia.html) | BiDiMedia | 5 | 5 | 5 | 4–6 | 4–7 |
+| [17–18 June 2026](2026-06-18-TermometroPolitico.html) | Termometro Politico | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
+| [16–17 June 2026](2026-06-17-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 5 | 4–5 | 4–6 | 4–7 | 4–7 |
 | [16–17 June 2026](2026-06-17-Eumetra.html) | Eumetra <br> La7 | 6 | 4–7 | 4–7 | 4–7 | 4–7 |
 | [3–16 June 2026](2026-06-16-EMG.html) | EMG |  |  |  |  |  |
 | [10–15 June 2026](2026-06-15-SWG.html) | SWG <br> La7 |  |  |  |  |  |
@@ -1079,11 +1079,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0.2% | 100% | Last Result |
 | 1 | 0% | 99.8% |  |
 | 2 | 0% | 99.8% |  |
-| 3 | 2% | 99.8% |  |
-| 4 | 17% | 98% |  |
-| 5 | 34% | 81% | Median |
-| 6 | 35% | 48% |  |
-| 7 | 13% | 13% |  |
+| 3 | 1.4% | 99.8% |  |
+| 4 | 16% | 98% |  |
+| 5 | 35% | 83% | Median |
+| 6 | 34% | 48% |  |
+| 7 | 14% | 14% |  |
 | 8 | 0.3% | 0.3% |  |
 | 9 | 0% | 0% |  |
 

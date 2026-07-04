@@ -556,11 +556,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [22–25 June 2026](2026-06-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 3 | 3–4 | 2–5 | 2–5 | 2–5 |
 | [22–23 June 2026](2026-06-23-EMG.html) | EMG <br> Rai 3 | 3 | 3 | 3 | 2–4 | 2–5 |
 | [17–22 June 2026](2026-06-22-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [18–19 June 2026](2026-06-19-Tecnè.html) | Tecnè <br> Agenzia Dire | 3 | 3–4 | 3–4 | 3–5 | 2–6 |
+| [18–19 June 2026](2026-06-19-Tecnè.html) | Tecnè <br> Agenzia Dire | 3 | 3–4 | 2–4 | 2–5 | 2–5 |
 | [15–19 June 2026](2026-06-19-SigmaConsulting.html) | Sigma Consulting | 3 | 3–4 | 2–5 | 2–5 | 2–6 |
-| [18–19 June 2026](2026-06-19-BiDiMedia.html) | BiDiMedia | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [17–18 June 2026](2026-06-18-TermometroPolitico.html) | Termometro Politico | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [16–17 June 2026](2026-06-17-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 4 | 4 | 3–5 | 3–5 | 2–5 |
+| [18–19 June 2026](2026-06-19-BiDiMedia.html) | BiDiMedia | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [17–18 June 2026](2026-06-18-TermometroPolitico.html) | Termometro Politico | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| [16–17 June 2026](2026-06-17-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 4 | 3–4 | 3–5 | 3–5 | 2–6 |
 | [16–17 June 2026](2026-06-17-Eumetra.html) | Eumetra <br> La7 | 4 | 3–4 | 3–4 | 2–5 | 2–5 |
 | [3–16 June 2026](2026-06-16-EMG.html) | EMG |  |  |  |  |  |
 | [10–15 June 2026](2026-06-15-SWG.html) | SWG <br> La7 |  |  |  |  |  |
@@ -1074,11 +1074,11 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 3% | 100% |  |
-| 3 | 57% | 97% | Median |
-| 4 | 36% | 40% |  |
+| 2 | 4% | 100% |  |
+| 3 | 57% | 96% | Median |
+| 4 | 37% | 39% |  |
 | 5 | 3% | 3% |  |
-| 6 | 0.2% | 0.2% |  |
+| 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
 
 
