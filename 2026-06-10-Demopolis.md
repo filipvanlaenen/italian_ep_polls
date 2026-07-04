@@ -36,16 +36,16 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#fratelli-d’italia-(ecr)">Fratelli d’Italia (ECR)</a> | 0 | 26 | 23–28 |23–28 |23–28 |22–28 |
-| <a href="#partito-democratico-(s&d)">Partito Democratico (S&D)</a> | 0 | 18 | 18–19 |18–19 |18–19 |17–20 |
-| <a href="#movimento-5-stelle-(gue/ngl)">Movimento 5 Stelle (GUE/NGL)</a> | 0 | 11 | 11–12 |11–12 |11–13 |10–13 |
-| <a href="#forza-italia-(epp)">Forza Italia (EPP)</a> | 0 | 5 | 5–6 |5–6 |5–6 |5–6 |
-| <a href="#lega-nord-(pfe)">Lega Nord (PfE)</a> | 0 | 6 | 5–6 |5–7 |5–7 |5–7 |
-| <a href="#futuro-nazionale-(esn)">Futuro Nazionale (ESN)</a> | 0 | 3 | 0–4 |0–5 |0–5 |0–5 |
-| <a href="#europa-verde-(greens/efa)">Europa Verde (Greens/EFA)</a> | 0 | 4 | 3–4 |3–4 |3–4 |3–4 |
+| <a href="#fratelli-d’italia-(ecr)">Fratelli d’Italia (ECR)</a> | 0 | 24 | 24 |24 |24 |23–26 |
+| <a href="#partito-democratico-(s&d)">Partito Democratico (S&D)</a> | 0 | 20 | 20 |20 |19–20 |18–20 |
+| <a href="#movimento-5-stelle-(gue/ngl)">Movimento 5 Stelle (GUE/NGL)</a> | 0 | 10 | 10 |10 |10–11 |10–12 |
+| <a href="#forza-italia-(epp)">Forza Italia (EPP)</a> | 0 | 5 | 5 |5 |5 |5–6 |
+| <a href="#lega-nord-(pfe)">Lega Nord (PfE)</a> | 0 | 6 | 6 |6 |6 |6–7 |
+| <a href="#futuro-nazionale-(esn)">Futuro Nazionale (ESN)</a> | 0 | 4 | 4 |4 |4 |0–4 |
+| <a href="#europa-verde-(greens/efa)">Europa Verde (Greens/EFA)</a> | 0 | 4 | 4 |4 |3–4 |3–4 |
 | <a href="#azione-(re)">Azione (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#italia-viva-(re)">Italia Viva (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
-| <a href="#sinistra-italiana-(gue/ngl)">Sinistra Italiana (GUE/NGL)</a> | 0 | 2 | 2–3 |1–3 |1–3 |1–3 |
+| <a href="#sinistra-italiana-(gue/ngl)">Sinistra Italiana (GUE/NGL)</a> | 0 | 2 | 2 |2 |2 |2–3 |
 | <a href="#più-europa-(re)">Più Europa (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#noi-moderati-(epp)">Noi Moderati (EPP)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#partito-progressista-(*)">Partito Progressista (*)</a> | 0 | 0 | 0 |0 |0 |0–1 |
@@ -80,13 +80,13 @@
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
 | 21 | 0% | 100% |  |
-| 22 | 1.0% | 100% |  |
-| 23 | 23% | 99.0% |  |
-| 24 | 20% | 76% |  |
-| 25 | 0.6% | 55% |  |
-| 26 | 40% | 55% | Median |
-| 27 | 0% | 15% |  |
-| 28 | 15% | 15% |  |
+| 22 | 0.2% | 100% |  |
+| 23 | 2% | 99.8% |  |
+| 24 | 96% | 98% | Median |
+| 25 | 1.2% | 2% |  |
+| 26 | 0.8% | 1.0% |  |
+| 27 | 0% | 0.2% |  |
+| 28 | 0.2% | 0.2% |  |
 | 29 | 0% | 0% |  |
 
 ### Partito Democratico (S&D)
@@ -113,13 +113,13 @@
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
-| 16 | 0.1% | 100% |  |
-| 17 | 0.5% | 99.9% |  |
-| 18 | 59% | 99.4% | Median |
-| 19 | 39% | 41% |  |
-| 20 | 1.0% | 1.4% |  |
-| 21 | 0.4% | 0.5% |  |
-| 22 | 0.1% | 0.1% |  |
+| 16 | 0% | 100% |  |
+| 17 | 0% | 100% |  |
+| 18 | 2% | 99.9% |  |
+| 19 | 0.8% | 98% |  |
+| 20 | 97% | 97% | Median |
+| 21 | 0.1% | 0.4% |  |
+| 22 | 0.3% | 0.3% |  |
 | 23 | 0% | 0% |  |
 
 ### Movimento 5 Stelle (GUE/NGL)
@@ -139,11 +139,11 @@
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 0.1% | 100% |  |
-| 10 | 2% | 99.9% |  |
-| 11 | 56% | 98% | Median |
-| 12 | 38% | 42% |  |
-| 13 | 4% | 4% |  |
+| 9 | 0% | 100% |  |
+| 10 | 97% | 100% | Median |
+| 11 | 1.0% | 3% |  |
+| 12 | 2% | 2% |  |
+| 13 | 0.1% | 0.1% |  |
 | 14 | 0% | 0% |  |
 
 ### Forza Italia (EPP)
@@ -158,10 +158,10 @@
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 0.5% | 100% |  |
-| 5 | 60% | 99.5% | Median |
-| 6 | 39% | 40% |  |
-| 7 | 0.3% | 0.3% |  |
+| 4 | 0% | 100% |  |
+| 5 | 98.7% | 100% | Median |
+| 6 | 1.2% | 1.3% |  |
+| 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |
 
 ### Lega Nord (PfE)
@@ -177,11 +177,10 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 20% | 100% |  |
-| 6 | 74% | 80% | Median |
-| 7 | 7% | 7% |  |
-| 8 | 0.1% | 0.1% |  |
-| 9 | 0% | 0% |  |
+| 5 | 0.3% | 100% |  |
+| 6 | 98% | 99.7% | Median |
+| 7 | 1.5% | 2% |  |
+| 8 | 0% | 0% |  |
 
 ### Futuro Nazionale (ESN)
 
@@ -191,12 +190,12 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 16% | 100% | Last Result |
-| 1 | 0% | 84% |  |
-| 2 | 0% | 84% |  |
-| 3 | 39% | 84% | Median |
-| 4 | 40% | 45% |  |
-| 5 | 6% | 6% |  |
+| 0 | 0.7% | 100% | Last Result |
+| 1 | 0% | 99.3% |  |
+| 2 | 0% | 99.3% |  |
+| 3 | 1.4% | 99.3% |  |
+| 4 | 98% | 98% | Median |
+| 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% |  |
 
 ### Europa Verde (Greens/EFA)
@@ -210,10 +209,9 @@
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0.4% | 100% |  |
-| 3 | 40% | 99.5% |  |
-| 4 | 60% | 60% | Median |
-| 5 | 0.2% | 0.2% |  |
-| 6 | 0% | 0% |  |
+| 3 | 3% | 99.6% |  |
+| 4 | 97% | 97% | Median |
+| 5 | 0% | 0% |  |
 
 ### Azione (RE)
 
@@ -223,11 +221,7 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.9% | 100% | Last Result, Median |
-| 1 | 0% | 0.1% |  |
-| 2 | 0% | 0.1% |  |
-| 3 | 0.1% | 0.1% |  |
-| 4 | 0% | 0% |  |
+| 0 | 100% | 100% | Last Result, Median |
 
 ### Italia Viva (RE)
 
@@ -248,9 +242,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 9% | 100% |  |
-| 2 | 75% | 91% | Median |
-| 3 | 16% | 16% |  |
+| 1 | 0.3% | 100% |  |
+| 2 | 98% | 99.7% | Median |
+| 3 | 1.4% | 1.4% |  |
 | 4 | 0% | 0% |  |
 
 ### Più Europa (RE)
@@ -281,8 +275,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98.9% | 100% | Last Result, Median |
-| 1 | 1.1% | 1.1% |  |
+| 0 | 98.7% | 100% | Last Result, Median |
+| 1 | 1.3% | 1.3% |  |
 | 2 | 0% | 0% |  |
 
 
@@ -294,8 +288,8 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Lega Nord (PfE) | 0 | 6 | 0% | 5–6 | 5–7 | 5–7 | 5–7 |
-| Futuro Nazionale (ESN) | 0 | 3 | 0% | 0–4 | 0–5 | 0–5 | 0–5 |
+| Lega Nord (PfE) | 0 | 6 | 0% | 6 | 6 | 6 | 6–7 |
+| Futuro Nazionale (ESN) | 0 | 4 | 0% | 4 | 4 | 4 | 0–4 |
 
 ### Lega Nord (PfE)
 
@@ -308,11 +302,10 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 20% | 100% |  |
-| 6 | 74% | 80% | Median |
-| 7 | 7% | 7% |  |
-| 8 | 0.1% | 0.1% |  |
-| 9 | 0% | 0% |  |
+| 5 | 0.3% | 100% |  |
+| 6 | 98% | 99.7% | Median |
+| 7 | 1.5% | 2% |  |
+| 8 | 0% | 0% |  |
 
 ### Futuro Nazionale (ESN)
 
@@ -320,12 +313,12 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 16% | 100% | Last Result |
-| 1 | 0% | 84% |  |
-| 2 | 0% | 84% |  |
-| 3 | 39% | 84% | Median |
-| 4 | 40% | 45% |  |
-| 5 | 6% | 6% |  |
+| 0 | 0.7% | 100% | Last Result |
+| 1 | 0% | 99.3% |  |
+| 2 | 0% | 99.3% |  |
+| 3 | 1.4% | 99.3% |  |
+| 4 | 98% | 98% | Median |
+| 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% |  |
 
 
@@ -340,6 +333,6 @@
 ### Calculations
 
 + **Sample size:** 2000
-+ **Simulations done:** 65,536
-+ **Error estimate:** 1.23%
++ **Simulations done:** 262,144
++ **Error estimate:** 1.62%
 

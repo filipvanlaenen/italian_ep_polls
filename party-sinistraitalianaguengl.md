@@ -534,7 +534,7 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 2% | 100% |  |
 | 1.5–2.5% | 61% | 98% | Median |
-| 2.5–3.5% | 34% | 36% |  |
+| 2.5–3.5% | 35% | 36% |  |
 | 3.5–4.5% | 2% | 2% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
@@ -548,9 +548,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
-| [1–2 July 2026](2026-07-02-TermometroPolitico.html) | Termometro Politico | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [30 June–1 July 2026](2026-07-01-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
-| [24–29 June 2026](2026-06-29-SWG.html) | SWG <br> La7 | 2 | 2 | 2–3 | 1–3 | 1–3 |
+| [1–2 July 2026](2026-07-02-TermometroPolitico.html) | Termometro Politico | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| [30 June–1 July 2026](2026-07-01-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 2 | 2 | 2 | 2–3 | 1–3 |
+| [24–29 June 2026](2026-06-29-SWG.html) | SWG <br> La7 | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | [22–25 June 2026](2026-06-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [22–23 June 2026](2026-06-23-EMG.html) | EMG <br> Rai 3 | 2 | 2 | 2 | 1–2 | 1–3 |
 | [17–22 June 2026](2026-06-22-SWG.html) | SWG <br> La7 |  |  |  |  |  |
@@ -564,7 +564,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [10–15 June 2026](2026-06-15-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [11–12 June 2026](2026-06-12-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [10–11 June 2026](2026-06-11-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [9–10 June 2026](2026-06-10-Demopolis.html) | Demopolis <br> La7 | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| [9–10 June 2026](2026-06-10-Demopolis.html) | Demopolis <br> La7 | 2 | 2 | 2 | 2 | 2–3 |
 | [8–9 June 2026](2026-06-09-OnlyNumbers.html) | Only Numbers |  |  |  |  |  |
 | [8–9 June 2026](2026-06-09-EMG.html) | EMG |  |  |  |  |  |
 | [3–8 June 2026](2026-06-08-SWG.html) | SWG <br> La7 |  |  |  |  |  |
@@ -1071,10 +1071,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 10% | 100% |  |
-| 2 | 71% | 90% | Median |
-| 3 | 18% | 20% |  |
-| 4 | 1.0% | 1.1% |  |
+| 1 | 8% | 100% |  |
+| 2 | 74% | 92% | Median |
+| 3 | 16% | 17% |  |
+| 4 | 1.0% | 1.0% |  |
 | 5 | 0% | 0% |  |
 
 

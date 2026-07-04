@@ -576,10 +576,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23 | 21–25 | 21–27 | 20–27 | 19–28 |
-| [1–2 July 2026](2026-07-02-TermometroPolitico.html) | Termometro Politico | 24 | 23–25 | 23–26 | 23–26 | 22–26 |
-| [30 June–1 July 2026](2026-07-01-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 22 | 22–23 | 21–24 | 20–25 | 19–28 |
-| [24–29 June 2026](2026-06-29-SWG.html) | SWG <br> La7 | 23 | 23 | 22–24 | 21–24 | 21–25 |
+| N/A | [Poll Average](average.html) | 24 | 21–25 | 21–27 | 20–27 | 19–28 |
+| [1–2 July 2026](2026-07-02-TermometroPolitico.html) | Termometro Politico | 24 | 23–25 | 23–25 | 23–26 | 22–26 |
+| [30 June–1 July 2026](2026-07-01-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 24 | 22–24 | 22–24 | 21–25 | 20–26 |
+| [24–29 June 2026](2026-06-29-SWG.html) | SWG <br> La7 | 23 | 23–25 | 22–25 | 21–25 | 21–26 |
 | [22–25 June 2026](2026-06-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 22 | 21–23 | 21–24 | 20–24 | 19–25 |
 | [22–23 June 2026](2026-06-23-EMG.html) | EMG <br> Rai 3 | 23 | 23 | 22–23 | 21–23 | 20–25 |
 | [17–22 June 2026](2026-06-22-SWG.html) | SWG <br> La7 |  |  |  |  |  |
@@ -593,7 +593,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [10–15 June 2026](2026-06-15-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [11–12 June 2026](2026-06-12-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [10–11 June 2026](2026-06-11-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [9–10 June 2026](2026-06-10-Demopolis.html) | Demopolis <br> La7 | 26 | 23–28 | 23–28 | 23–28 | 22–28 |
+| [9–10 June 2026](2026-06-10-Demopolis.html) | Demopolis <br> La7 | 24 | 24 | 24 | 24 | 23–26 |
 | [8–9 June 2026](2026-06-09-OnlyNumbers.html) | Only Numbers |  |  |  |  |  |
 | [8–9 June 2026](2026-06-09-EMG.html) | EMG |  |  |  |  |  |
 | [3–8 June 2026](2026-06-08-SWG.html) | SWG <br> La7 |  |  |  |  |  |
@@ -1119,15 +1119,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 0% | 100% |  |
 | 18 | 0.1% | 100% |  |
 | 19 | 0.6% | 99.9% |  |
-| 20 | 4% | 99.2% |  |
-| 21 | 10% | 95% |  |
-| 22 | 16% | 85% |  |
-| 23 | 28% | 70% | Median |
-| 24 | 21% | 42% |  |
-| 25 | 12% | 21% |  |
-| 26 | 1.1% | 9% |  |
-| 27 | 6% | 8% |  |
-| 28 | 1.1% | 1.3% |  |
+| 20 | 3% | 99.3% |  |
+| 21 | 9% | 96% |  |
+| 22 | 9% | 87% |  |
+| 23 | 23% | 78% |  |
+| 24 | 34% | 56% | Median |
+| 25 | 14% | 22% |  |
+| 26 | 0.9% | 8% |  |
+| 27 | 6% | 7% |  |
+| 28 | 0.9% | 1.1% |  |
 | 29 | 0.2% | 0.2% |  |
 | 30 | 0% | 0% |  |
 
