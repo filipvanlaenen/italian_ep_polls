@@ -14,7 +14,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [1–2 July 2026](2026-07-02-TermometroPolitico.html) | Termometro Politico | 27.9% | 26.6–29.2% | 26.3–29.6% | 26.0–29.9% | 25.4–30.6% |
 | [30 June–1 July 2026](2026-07-01-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 26.9% | 25.0–29.0% | 24.4–29.6% | 24.0–30.1% | 23.1–31.1% |
 | [24–29 June 2026](2026-06-29-SWG.html) | SWG <br> La7 | 27.3% | 25.7–29.0% | 25.3–29.5% | 24.9–29.9% | 24.1–30.8% |
-| [24–25 June 2026](2026-06-25-TermometroPolitico.html) | Termometro Politico | 28.2% | N/A | N/A | N/A | N/A |
+| [24–25 June 2026](2026-06-25-TermometroPolitico.html) | Termometro Politico | 28.2% | 27.1–29.4% | 26.7–29.7% | 26.5–30.0% | 25.9–30.6% |
 | [22–25 June 2026](2026-06-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 27.0% | 25.3–28.9% | 24.8–29.4% | 24.3–29.8% | 23.5–30.7% |
 | [22–23 June 2026](2026-06-23-EMG.html) | EMG <br> Rai 3 | 26.0% | 24.3–27.8% | 23.8–28.4% | 23.4–28.8% | 22.6–29.7% |
 | [17–22 June 2026](2026-06-22-SWG.html) | SWG <br> La7 | 27.7% | N/A | N/A | N/A | N/A |
@@ -582,7 +582,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [1–2 July 2026](2026-07-02-TermometroPolitico.html) | Termometro Politico | 24 | 23–25 | 23–25 | 23–26 | 22–26 |
 | [30 June–1 July 2026](2026-07-01-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 24 | 22–24 | 22–24 | 21–25 | 20–26 |
 | [24–29 June 2026](2026-06-29-SWG.html) | SWG <br> La7 | 23 | 23–25 | 22–25 | 21–25 | 21–26 |
-| [24–25 June 2026](2026-06-25-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [24–25 June 2026](2026-06-25-TermometroPolitico.html) | Termometro Politico | 24 | 24–26 | 23–26 | 23–27 | 22–27 |
 | [22–25 June 2026](2026-06-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 22 | 20–24 | 20–24 | 20–24 | 19–25 |
 | [22–23 June 2026](2026-06-23-EMG.html) | EMG <br> Rai 3 | 23 | 22–23 | 21–23 | 21–24 | 20–25 |
 | [17–22 June 2026](2026-06-22-SWG.html) | SWG <br> La7 |  |  |  |  |  |
@@ -596,18 +596,18 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [10–15 June 2026](2026-06-15-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [11–12 June 2026](2026-06-12-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [10–11 June 2026](2026-06-11-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [9–10 June 2026](2026-06-10-Demopolis.html) | Demopolis <br> La7 | 24 | 24 | 24 | 23–25 | 23–26 |
-| [8–9 June 2026](2026-06-09-OnlyNumbers.html) | Only Numbers | 24 | 21–26 | 21–27 | 20–27 | 20–28 |
+| [9–10 June 2026](2026-06-10-Demopolis.html) | Demopolis <br> La7 | 24 | 24–25 | 24–25 | 23–26 | 23–27 |
+| [8–9 June 2026](2026-06-09-OnlyNumbers.html) | Only Numbers | 23 | 21–26 | 21–26 | 20–27 | 20–28 |
 | [8–9 June 2026](2026-06-09-EMG.html) | EMG |  |  |  |  |  |
 | [3–8 June 2026](2026-06-08-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [4–5 June 2026](2026-06-05-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [3–4 June 2026](2026-06-04-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [3–4 June 2026](2026-06-04-Piepoli.html) | Piepoli | 24 | 21–27 | 21–27 | 21–27 | 20–28 |
+| [3–4 June 2026](2026-06-04-Piepoli.html) | Piepoli | 23 | 23–27 | 22–27 | 21–28 | 20–29 |
 | [3 June 2026](2026-06-03-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [3 June 2026](2026-06-03-Demopolis.html) | Demopolis |  |  |  |  |  |
 | [2 June 2026](2026-06-02-EMG.html) | EMG |  |  |  |  |  |
 | [27 May–1 June 2026](2026-06-01-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [22–31 May 2026](2026-05-31-Winpoll.html) | Winpoll | 21 | 20–24 | 20–24 | 20–24 | 20–25 |
+| [22–31 May 2026](2026-05-31-Winpoll.html) | Winpoll | 22 | 20–24 | 20–25 | 20–25 | 20–26 |
 | [29–31 May 2026](2026-05-31-OnlyNumbers.html) | Only Numbers |  |  |  |  |  |
 | [28–29 May 2026](2026-05-29-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [26–28 May 2026](2026-05-28-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
@@ -633,7 +633,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [6–8 May 2026](2026-05-08-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [5–7 May 2026](2026-05-07-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [5–6 May 2026](2026-05-06-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
-| [4–6 May 2026](2026-05-06-DemosPi.html) | Demos & Pi <br> La Repubblica | 24 | 22–26 | 22–27 | 22–27 | 21–28 |
+| [4–6 May 2026](2026-05-06-DemosPi.html) | Demos & Pi <br> La Repubblica | 24 | 23–26 | 22–27 | 22–28 | 21–28 |
 | [4–5 May 2026](2026-05-05-OnlyNumbers.html) | Only Numbers <br> Rete 4 |  |  |  |  |  |
 | [5 May 2026](2026-05-05-EMG.html) | EMG |  |  |  |  |  |
 | [4–5 May 2026](2026-05-05-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
@@ -645,7 +645,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [27–28 April 2026](2026-04-28-EMG.html) | EMG |  |  |  |  |  |
 | [20–27 April 2026](2026-04-27-Winpoll.html) | Winpoll |  |  |  |  |  |
 | [22–27 April 2026](2026-04-27-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [20–27 April 2026](2026-04-27-Ixè.html) | Ixè | 24 | 23–26 | 23–26 | 22–26 | 22–27 |
+| [20–27 April 2026](2026-04-27-Ixè.html) | Ixè | 25 | 23–26 | 23–26 | 22–26 | 21–28 |
 | [22–24 April 2026](2026-04-24-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [21–23 April 2026](2026-04-23-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [21–22 April 2026](2026-04-22-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
@@ -1123,15 +1123,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 0.1% | 100% |  |
 | 19 | 1.4% | 99.9% |  |
 | 20 | 3% | 98% |  |
-| 21 | 8% | 95% |  |
-| 22 | 11% | 87% |  |
-| 23 | 22% | 76% |  |
-| 24 | 32% | 54% | Median |
-| 25 | 11% | 22% |  |
-| 26 | 5% | 11% |  |
-| 27 | 6% | 6% |  |
-| 28 | 0.7% | 0.8% |  |
-| 29 | 0.1% | 0.1% |  |
+| 21 | 7% | 96% |  |
+| 22 | 11% | 89% |  |
+| 23 | 27% | 78% |  |
+| 24 | 30% | 51% | Median |
+| 25 | 11% | 21% |  |
+| 26 | 5% | 10% |  |
+| 27 | 4% | 5% |  |
+| 28 | 0.7% | 1.0% |  |
+| 29 | 0.3% | 0.3% |  |
 | 30 | 0% | 0% |  |
 
 

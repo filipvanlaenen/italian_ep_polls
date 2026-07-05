@@ -14,7 +14,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [1–2 July 2026](2026-07-02-TermometroPolitico.html) | Termometro Politico | 21.5% | 20.3–22.7% | 20.0–23.1% | 19.8–23.4% | 19.2–24.0% |
 | [30 June–1 July 2026](2026-07-01-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 22.0% | 20.2–23.9% | 19.7–24.5% | 19.3–25.0% | 18.4–25.9% |
 | [24–29 June 2026](2026-06-29-SWG.html) | SWG <br> La7 | 21.8% | 20.3–23.4% | 19.9–23.9% | 19.6–24.3% | 18.9–25.0% |
-| [24–25 June 2026](2026-06-25-TermometroPolitico.html) | Termometro Politico | 21.6% | N/A | N/A | N/A | N/A |
+| [24–25 June 2026](2026-06-25-TermometroPolitico.html) | Termometro Politico | 21.6% | 20.6–22.7% | 20.3–23.0% | 20.0–23.3% | 19.5–23.8% |
 | [22–25 June 2026](2026-06-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 20.1% | 18.5–21.8% | 18.1–22.3% | 17.7–22.7% | 17.0–23.5% |
 | [22–23 June 2026](2026-06-23-EMG.html) | EMG <br> Rai 3 | 20.5% | 18.9–22.2% | 18.5–22.7% | 18.1–23.1% | 17.4–24.0% |
 | [17–22 June 2026](2026-06-22-SWG.html) | SWG <br> La7 | 21.8% | N/A | N/A | N/A | N/A |
@@ -575,7 +575,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [1–2 July 2026](2026-07-02-TermometroPolitico.html) | Termometro Politico | 19 | 17–19 | 17–20 | 17–20 | 16–21 |
 | [30 June–1 July 2026](2026-07-01-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 20 | 19–22 | 18–22 | 17–22 | 16–22 |
 | [24–29 June 2026](2026-06-29-SWG.html) | SWG <br> La7 | 19 | 18–19 | 18–20 | 18–21 | 16–21 |
-| [24–25 June 2026](2026-06-25-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [24–25 June 2026](2026-06-25-TermometroPolitico.html) | Termometro Politico | 19 | 17–20 | 17–20 | 17–20 | 17–21 |
 | [22–25 June 2026](2026-06-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 16 | 15–18 | 14–18 | 14–19 | 14–19 |
 | [22–23 June 2026](2026-06-23-EMG.html) | EMG <br> Rai 3 | 17 | 17–19 | 16–19 | 16–19 | 15–20 |
 | [17–22 June 2026](2026-06-22-SWG.html) | SWG <br> La7 |  |  |  |  |  |
@@ -589,13 +589,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [10–15 June 2026](2026-06-15-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [11–12 June 2026](2026-06-12-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [10–11 June 2026](2026-06-11-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [9–10 June 2026](2026-06-10-Demopolis.html) | Demopolis <br> La7 | 19 | 19–20 | 19–20 | 19–20 | 18–20 |
+| [9–10 June 2026](2026-06-10-Demopolis.html) | Demopolis <br> La7 | 19 | 18–20 | 18–20 | 18–20 | 17–21 |
 | [8–9 June 2026](2026-06-09-OnlyNumbers.html) | Only Numbers | 18 | 17–20 | 16–21 | 16–21 | 15–22 |
 | [8–9 June 2026](2026-06-09-EMG.html) | EMG |  |  |  |  |  |
 | [3–8 June 2026](2026-06-08-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [4–5 June 2026](2026-06-05-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [3–4 June 2026](2026-06-04-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [3–4 June 2026](2026-06-04-Piepoli.html) | Piepoli | 17 | 16–22 | 15–22 | 14–22 | 14–22 |
+| [3–4 June 2026](2026-06-04-Piepoli.html) | Piepoli | 18 | 16–19 | 16–20 | 15–21 | 14–22 |
 | [3 June 2026](2026-06-03-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [3 June 2026](2026-06-03-Demopolis.html) | Demopolis |  |  |  |  |  |
 | [2 June 2026](2026-06-02-EMG.html) | EMG |  |  |  |  |  |
@@ -638,7 +638,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [27–28 April 2026](2026-04-28-EMG.html) | EMG |  |  |  |  |  |
 | [20–27 April 2026](2026-04-27-Winpoll.html) | Winpoll |  |  |  |  |  |
 | [22–27 April 2026](2026-04-27-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [20–27 April 2026](2026-04-27-Ixè.html) | Ixè | 21 | 18–23 | 18–23 | 18–23 | 17–23 |
+| [20–27 April 2026](2026-04-27-Ixè.html) | Ixè | 20 | 19–23 | 18–23 | 18–23 | 17–23 |
 | [22–24 April 2026](2026-04-24-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [21–23 April 2026](2026-04-23-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [21–22 April 2026](2026-04-22-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
@@ -1109,16 +1109,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
-| 14 | 0.9% | 100% |  |
-| 15 | 3% | 99.1% |  |
+| 14 | 0.6% | 100% |  |
+| 15 | 3% | 99.3% |  |
 | 16 | 12% | 96% |  |
-| 17 | 27% | 84% |  |
-| 18 | 16% | 57% | Median |
-| 19 | 23% | 42% |  |
-| 20 | 14% | 18% |  |
-| 21 | 2% | 4% |  |
-| 22 | 2% | 2% |  |
-| 23 | 0% | 0.1% |  |
-| 24 | 0% | 0% |  |
+| 17 | 25% | 85% |  |
+| 18 | 20% | 59% | Median |
+| 19 | 23% | 39% |  |
+| 20 | 14% | 17% |  |
+| 21 | 1.4% | 3% |  |
+| 22 | 1.4% | 1.5% |  |
+| 23 | 0% | 0% |  |
 
 
