@@ -13,6 +13,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 1.0% | 0.6–1.4% | 0.5–1.6% | 0.5–1.7% | 0.4–2.0% |
 | [1–2 July 2026](2026-07-02-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
 | [30 June–1 July 2026](2026-07-01-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.0% | N/A | N/A | N/A | N/A |
+| [30 June–1 July 2026](2026-07-01-Piepoli.html) | Piepoli | 0.0% | N/A | N/A | N/A | N/A |
+| [17–30 June 2026](2026-06-30-EMG.html) | EMG | 0.0% | N/A | N/A | N/A | N/A |
 | [24–29 June 2026](2026-06-29-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [24–25 June 2026](2026-06-25-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
 | [22–25 June 2026](2026-06-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.0% | N/A | N/A | N/A | N/A |
@@ -549,6 +551,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [1–2 July 2026](2026-07-02-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [30 June–1 July 2026](2026-07-01-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
+| [30 June–1 July 2026](2026-07-01-Piepoli.html) | Piepoli |  |  |  |  |  |
+| [17–30 June 2026](2026-06-30-EMG.html) | EMG |  |  |  |  |  |
 | [24–29 June 2026](2026-06-29-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [24–25 June 2026](2026-06-25-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [22–25 June 2026](2026-06-25-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
