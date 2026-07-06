@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 05 Jul 2026 11:56:47 +0200</pubDate>
+    <pubDate>Mon, 06 Jul 2026 21:45:06 +0200</pubDate>
     <item>
       <title>Opinion Poll by Termometro Politico, 1–2 July 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2026-07-02-TermometroPolitico.html#seats</link>
@@ -68,6 +68,16 @@
         type="image/png"/>
       <pubDate>Sat, 04 Jul 2026 10:14:06 +0200</pubDate>
       <dc:date>2026-07-04T10:14:06.57412+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Piepoli, 30 June–1 July 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2026-07-01-Piepoli.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partito Liberaldemocratico (RE): 0.8–3.1%&lt;/li&gt;&lt;li&gt;Noi Moderati (EPP): 0.8–3.1%&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 1.8–4.9%&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0.4–2.3%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 24.2–32.1%&lt;/li&gt;&lt;li&gt;Partito Progressista (*): 0.2–1.8%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 17.6–24.8%&lt;/li&gt;&lt;li&gt;Movimento 5 Stelle (GUE/NGL): 10.3–16.2%&lt;/li&gt;&lt;li&gt;Futuro Nazionale (ESN): 3.4–7.3%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 5.9–10.7%&lt;/li&gt;&lt;li&gt;Azione (RE): 1.8–4.9%&lt;/li&gt;&lt;li&gt;Sinistra Italiana (GUE/NGL): 1.2–3.9%&lt;/li&gt;&lt;li&gt;Lega Nord (PfE): 4.2–8.4%&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 2.1–5.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2026-07-01-Piepoli.png"
+        length="406441"
+        type="image/png"/>
+      <pubDate>Mon, 06 Jul 2026 21:45:06 +0200</pubDate>
+      <dc:date>2026-07-06T21:45:06.813571+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SWG for La7, 24–29 June 2026 – Seat Projections for the Parties</title>
@@ -549,6 +559,6 @@
       <pubDate>Sun, 05 Jul 2026 11:56:47 +0200</pubDate>
       <dc:date>2026-07-05T11:56:47.327426+02:00</dc:date>
     </item>
-    <dc:date>2026-07-05T11:56:47.327426+02:00</dc:date>
+    <dc:date>2026-07-06T21:45:06.813571+02:00</dc:date>
   </channel>
 </rss>
