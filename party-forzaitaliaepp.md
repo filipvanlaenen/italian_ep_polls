@@ -10,12 +10,16 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.0% | 6.8–9.4% | 6.5–9.8% | 6.2–10.2% | 5.7–11.0% |
+| N/A | [Poll Average](average.html) | 8.0% | 6.9–9.4% | 6.5–9.8% | 6.3–10.2% | 5.7–10.9% |
+| [30 June–7 July 2026](2026-07-07-Ixè.html) | Ixè | 7.7% | 6.7–8.9% | 6.4–9.2% | 6.2–9.5% | 5.8–10.1% |
+| [1–6 July 2026](2026-07-06-SWG.html) | SWG <br> La7 | 7.4% | 6.5–8.5% | 6.3–8.8% | 6.1–9.1% | 5.7–9.6% |
+| [1–3 July 2026](2026-07-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 8.6% | 7.5–9.8% | 7.3–10.2% | 7.0–10.5% | 6.5–11.1% |
 | [1–2 July 2026](2026-07-02-TermometroPolitico.html) | Termometro Politico | 7.8% | 7.1–8.6% | 6.9–8.9% | 6.7–9.1% | 6.4–9.5% |
 | [30 June–1 July 2026](2026-07-01-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 7.7% | 6.6–9.0% | 6.3–9.4% | 6.0–9.7% | 5.5–10.4% |
 | [30 June–1 July 2026](2026-07-01-Piepoli.html) | Piepoli | 8.0% | 6.6–9.8% | 6.2–10.3% | 5.9–10.7% | 5.3–11.6% |
-| [17–30 June 2026](2026-06-30-EMG.html) | EMG | 8.5% | N/A | N/A | N/A | N/A |
+| [17–30 June 2026](2026-06-30-EMG.html) | EMG | 8.5% | 7.5–9.7% | 7.2–10.1% | 6.9–10.4% | 6.4–11.0% |
 | [24–29 June 2026](2026-06-29-SWG.html) | SWG <br> La7 | 7.2% | 6.3–8.2% | 6.0–8.5% | 5.8–8.8% | 5.4–9.3% |
+| [25–26 June 2026](2026-06-26-Demopolis.html) | Demopolis <br> La7 | 7.8% | 7.1–8.6% | 6.9–8.9% | 6.7–9.1% | 6.4–9.5% |
 | [24–25 June 2026](2026-06-25-TermometroPolitico.html) | Termometro Politico | 8.0% | 7.3–8.7% | 7.1–8.9% | 7.0–9.1% | 6.7–9.5% |
 | [22–25 June 2026](2026-06-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 8.3% | 7.3–9.5% | 7.0–9.9% | 6.7–10.2% | 6.3–10.8% |
 | [22–23 June 2026](2026-06-23-EMG.html) | EMG <br> Rai 3 | 8.3% | 7.3–9.5% | 7.0–9.9% | 6.7–10.2% | 6.3–10.8% |
@@ -539,13 +543,13 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.3% | 100% |  |
-| 5.5–6.5% | 6% | 99.7% |  |
-| 6.5–7.5% | 26% | 94% |  |
-| 7.5–8.5% | 39% | 67% | Median |
-| 8.5–9.5% | 21% | 28% |  |
+| 4.5–5.5% | 0.2% | 100% |  |
+| 5.5–6.5% | 5% | 99.7% |  |
+| 6.5–7.5% | 26% | 95% |  |
+| 7.5–8.5% | 40% | 69% | Median |
+| 8.5–9.5% | 22% | 29% |  |
 | 9.5–10.5% | 6% | 7% |  |
-| 10.5–11.5% | 1.1% | 1.2% |  |
+| 10.5–11.5% | 1.0% | 1.1% |  |
 | 11.5–12.5% | 0.1% | 0.1% |  |
 | 12.5–13.5% | 0% | 0% |  |
 
@@ -558,12 +562,16 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 4–8 | 4–9 |
+| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–7 | 4–8 | 4–8 |
+| [30 June–7 July 2026](2026-07-07-Ixè.html) | Ixè | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
+| [1–6 July 2026](2026-07-06-SWG.html) | SWG <br> La7 | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
+| [1–3 July 2026](2026-07-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 6 | 6–7 | 5–8 | 5–8 | 5–8 |
 | [1–2 July 2026](2026-07-02-TermometroPolitico.html) | Termometro Politico | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [30 June–1 July 2026](2026-07-01-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 6 | 5–6 | 5–6 | 4–6 | 4–7 |
-| [30 June–1 July 2026](2026-07-01-Piepoli.html) | Piepoli | 7 | 7 | 6–7 | 5–7 | 4–9 |
-| [17–30 June 2026](2026-06-30-EMG.html) | EMG |  |  |  |  |  |
+| [30 June–1 July 2026](2026-07-01-Piepoli.html) | Piepoli | 6 | 6–7 | 5–7 | 5–7 | 4–8 |
+| [17–30 June 2026](2026-06-30-EMG.html) | EMG | 6 | 6–7 | 5–8 | 5–8 | 5–8 |
 | [24–29 June 2026](2026-06-29-SWG.html) | SWG <br> La7 | 5 | 5 | 4–6 | 4–6 | 4–7 |
+| [25–26 June 2026](2026-06-26-Demopolis.html) | Demopolis <br> La7 | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [24–25 June 2026](2026-06-25-TermometroPolitico.html) | Termometro Politico | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [22–25 June 2026](2026-06-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | [22–23 June 2026](2026-06-23-EMG.html) | EMG <br> Rai 3 | 6 | 6 | 6–7 | 5–7 | 4–8 |
@@ -1087,14 +1095,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0.2% | 100% |  |
-| 4 | 5% | 99.8% |  |
-| 5 | 25% | 95% |  |
-| 6 | 51% | 70% | Median |
-| 7 | 15% | 19% |  |
-| 8 | 3% | 4% |  |
-| 9 | 0.1% | 0.5% |  |
-| 10 | 0.4% | 0.4% |  |
-| 11 | 0% | 0% |  |
+| 3 | 0.1% | 100% |  |
+| 4 | 3% | 99.9% |  |
+| 5 | 27% | 97% |  |
+| 6 | 47% | 71% | Median |
+| 7 | 20% | 23% |  |
+| 8 | 3% | 3% |  |
+| 9 | 0.1% | 0.1% |  |
+| 10 | 0% | 0% |  |
 
 
