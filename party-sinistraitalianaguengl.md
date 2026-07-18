@@ -559,16 +559,16 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
-| [8–13 July 2026](2026-07-13-SWG.html) | SWG <br> La7 | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
-| [7–9 July 2026](2026-07-09-TermometroPolitico.html) | Termometro Politico | 2 | 2 | 1–2 | 1–3 | 1–3 |
-| [30 June–7 July 2026](2026-07-07-Ixè.html) | Ixè | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
+| [8–13 July 2026](2026-07-13-SWG.html) | SWG <br> La7 | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
+| [7–9 July 2026](2026-07-09-TermometroPolitico.html) | Termometro Politico | 2 | 2 | 1–3 | 1–3 | 1–3 |
+| [30 June–7 July 2026](2026-07-07-Ixè.html) | Ixè | 2 | 2–3 | 2–3 | 1–3 | 1–4 |
 | [6–7 July 2026](2026-07-07-EMG.html) | EMG <br> Rai 3 | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | [1–6 July 2026](2026-07-06-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [1–3 July 2026](2026-07-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 2 | 2 | 1–2 | 1–3 | 1–3 |
+| [1–3 July 2026](2026-07-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | [1–2 July 2026](2026-07-02-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [30 June–1 July 2026](2026-07-01-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
+| [30 June–1 July 2026](2026-07-01-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 2 | 2 | 2 | 2–3 | 1–3 |
 | [30 June–1 July 2026](2026-07-01-Piepoli.html) | Piepoli | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
-| [17–30 June 2026](2026-06-30-EMG.html) | EMG | 2 | 2 | 1–3 | 1–3 | 1–3 |
+| [17–30 June 2026](2026-06-30-EMG.html) | EMG | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | [24–29 June 2026](2026-06-29-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [25–26 June 2026](2026-06-26-Demopolis.html) | Demopolis <br> La7 |  |  |  |  |  |
 | [24–25 June 2026](2026-06-25-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
@@ -1093,9 +1093,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 9% | 100% |  |
-| 2 | 71% | 91% | Median |
-| 3 | 19% | 20% |  |
-| 4 | 0.6% | 0.6% |  |
+| 2 | 75% | 91% | Median |
+| 3 | 15% | 16% |  |
+| 4 | 0.8% | 0.8% |  |
 | 5 | 0% | 0% |  |
 
 

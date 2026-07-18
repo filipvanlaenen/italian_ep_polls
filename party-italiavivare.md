@@ -568,7 +568,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [1–3 July 2026](2026-07-03-Tecnè.html) | Tecnè <br> Agenzia Dire | 0 | 0 | 0 | 0 | 0 |
 | [1–2 July 2026](2026-07-02-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [30 June–1 July 2026](2026-07-01-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0 | 0 | 0 |
-| [30 June–1 July 2026](2026-07-01-Piepoli.html) | Piepoli | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [30 June–1 July 2026](2026-07-01-Piepoli.html) | Piepoli | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [17–30 June 2026](2026-06-30-EMG.html) | EMG | 0 | 0 | 0 | 0 | 0–3 |
 | [24–29 June 2026](2026-06-29-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [25–26 June 2026](2026-06-26-Demopolis.html) | Demopolis <br> La7 |  |  |  |  |  |
@@ -1095,9 +1095,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 98% | 100% | Last Result, Median |
 | 1 | 0% | 2% |  |
 | 2 | 0% | 2% |  |
-| 3 | 0.8% | 2% |  |
-| 4 | 1.5% | 2% |  |
-| 5 | 0.1% | 0.1% |  |
-| 6 | 0% | 0% |  |
+| 3 | 0.2% | 2% |  |
+| 4 | 2% | 2% |  |
+| 5 | 0% | 0% |  |
 
 
