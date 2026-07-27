@@ -575,7 +575,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–6 | 0–7 | 0–8 | 0–8 |
+| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–7 | 0–8 | 0–8 |
 | [22–23 July 2026](2026-07-23-TermometroPolitico.html) | Termometro Politico | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [20–23 July 2026](2026-07-23-Ipsos.html) | Ipsos <br> Corriere della Sera | 4 | 4–5 | 3–5 | 3–6 | 0–6 |
 | [21–22 July 2026](2026-07-22-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 4 | 4–5 | 0–5 | 0–6 | 0–6 |
@@ -586,7 +586,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [14–16 July 2026](2026-07-16-TermometroPolitico.html) | Termometro Politico | 5 | 5 | 5–6 | 4–6 | 4–6 |
 | [3–16 July 2026](2026-07-16-EMG.html) | EMG | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
 | [8–13 July 2026](2026-07-13-SWG.html) | SWG <br> La7 | 5 | 4–5 | 4–6 | 4–6 | 0–7 |
-| [10–12 July 2026](2026-07-12-BiDiMedia.html) | BiDiMedia | 0 | 0–4 | 0–5 | 0–5 | 0–6 |
+| [10–12 July 2026](2026-07-12-BiDiMedia.html) | BiDiMedia | 4 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [7–9 July 2026](2026-07-09-TermometroPolitico.html) | Termometro Politico | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
 | [30 June–7 July 2026](2026-07-07-Ixè.html) | Ixè | 5 | 4–5 | 0–5 | 0–5 | 0–6 |
 | [6–7 July 2026](2026-07-07-EMG.html) | EMG <br> Rai 3 | 7 | 6–8 | 6–8 | 5–8 | 5–8 |
@@ -598,7 +598,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [30 June–1 July 2026](2026-07-01-Piepoli.html) | Piepoli | 5 | 4–6 | 4–6 | 4–7 | 0–7 |
 | [17–30 June 2026](2026-06-30-EMG.html) | EMG | 7 | 6–8 | 6–8 | 5–8 | 5–8 |
 | [24–29 June 2026](2026-06-29-SWG.html) | SWG <br> La7 | 4 | 0–5 | 0–5 | 0–6 | 0–6 |
-| [25–26 June 2026](2026-06-26-Tecnè.html) | Tecnè <br> Agenzia Dire | 6 | 4–7 | 4–7 | 4–7 | 4–7 |
+| [25–26 June 2026](2026-06-26-Tecnè.html) | Tecnè <br> Agenzia Dire | 6 | 4–7 | 4–7 | 4–7 | 4–8 |
 | [25–26 June 2026](2026-06-26-Demopolis.html) | Demopolis <br> La7 | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [24–25 June 2026](2026-06-25-TermometroPolitico.html) | Termometro Politico | 5 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [22–25 June 2026](2026-06-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 4 | 3–6 | 3–6 | 3–6 | 0–7 |
@@ -651,7 +651,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [6–8 May 2026](2026-05-08-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [5–7 May 2026](2026-05-07-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [5–6 May 2026](2026-05-06-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
-| [4–6 May 2026](2026-05-06-DemosPi.html) | Demos & Pi <br> La Repubblica | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
+| [4–6 May 2026](2026-05-06-DemosPi.html) | Demos & Pi <br> La Repubblica | 6 | 6–8 | 6–8 | 5–8 | 5–9 |
 | [4–5 May 2026](2026-05-05-OnlyNumbers.html) | Only Numbers <br> Rete 4 |  |  |  |  |  |
 | [5 May 2026](2026-05-05-EMG.html) | EMG |  |  |  |  |  |
 | [4–5 May 2026](2026-05-05-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
@@ -663,7 +663,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [27–28 April 2026](2026-04-28-EMG.html) | EMG |  |  |  |  |  |
 | [20–27 April 2026](2026-04-27-Winpoll.html) | Winpoll |  |  |  |  |  |
 | [22–27 April 2026](2026-04-27-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [20–27 April 2026](2026-04-27-Ixè.html) | Ixè | 5 | 5–7 | 5–7 | 4–7 | 4–7 |
+| [20–27 April 2026](2026-04-27-Ixè.html) | Ixè | 5 | 5–6 | 5–7 | 4–7 | 4–7 |
 | [22–24 April 2026](2026-04-24-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [21–23 April 2026](2026-04-23-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [21–22 April 2026](2026-04-22-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
@@ -1120,12 +1120,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 8% | 100% | Last Result |
-| 1 | 0% | 92% |  |
-| 2 | 0% | 92% |  |
-| 3 | 0.6% | 92% |  |
-| 4 | 36% | 91% |  |
-| 5 | 33% | 56% | Median |
+| 0 | 3% | 100% | Last Result |
+| 1 | 0% | 97% |  |
+| 2 | 0% | 97% |  |
+| 3 | 0.6% | 97% |  |
+| 4 | 41% | 96% |  |
+| 5 | 33% | 55% | Median |
 | 6 | 13% | 22% |  |
 | 7 | 6% | 10% |  |
 | 8 | 3% | 3% |  |

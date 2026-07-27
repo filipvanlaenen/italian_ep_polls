@@ -594,7 +594,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [14–16 July 2026](2026-07-16-TermometroPolitico.html) | Termometro Politico | 11 | 11 | 10–12 | 10–12 | 10–12 |
 | [3–16 July 2026](2026-07-16-EMG.html) | EMG | 11 | 10–11 | 9–11 | 9–12 | 9–13 |
 | [8–13 July 2026](2026-07-13-SWG.html) | SWG <br> La7 | 11 | 10–13 | 10–13 | 10–13 | 9–13 |
-| [10–12 July 2026](2026-07-12-BiDiMedia.html) | BiDiMedia | 10 | 10–12 | 10–13 | 8–13 | 8–13 |
+| [10–12 July 2026](2026-07-12-BiDiMedia.html) | BiDiMedia | 10 | 10–11 | 9–11 | 9–12 | 8–13 |
 | [7–9 July 2026](2026-07-09-TermometroPolitico.html) | Termometro Politico | 11 | 9–12 | 9–12 | 9–12 | 9–12 |
 | [30 June–7 July 2026](2026-07-07-Ixè.html) | Ixè | 10 | 10–12 | 10–12 | 9–12 | 9–13 |
 | [6–7 July 2026](2026-07-07-EMG.html) | EMG <br> Rai 3 | 10 | 9–11 | 9–12 | 9–13 | 9–13 |
@@ -606,7 +606,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [30 June–1 July 2026](2026-07-01-Piepoli.html) | Piepoli | 10 | 9–12 | 9–12 | 9–13 | 8–14 |
 | [17–30 June 2026](2026-06-30-EMG.html) | EMG | 11 | 10–12 | 9–13 | 9–13 | 9–13 |
 | [24–29 June 2026](2026-06-29-SWG.html) | SWG <br> La7 | 12 | 11–13 | 10–13 | 10–13 | 9–14 |
-| [25–26 June 2026](2026-06-26-Tecnè.html) | Tecnè <br> Agenzia Dire | 11 | 10–11 | 10–12 | 10–13 | 9–13 |
+| [25–26 June 2026](2026-06-26-Tecnè.html) | Tecnè <br> Agenzia Dire | 11 | 10–12 | 9–12 | 9–13 | 9–13 |
 | [25–26 June 2026](2026-06-26-Demopolis.html) | Demopolis <br> La7 | 11 | 10–11 | 10–12 | 10–12 | 9–13 |
 | [24–25 June 2026](2026-06-25-TermometroPolitico.html) | Termometro Politico | 11 | 10–11 | 10–12 | 10–12 | 9–13 |
 | [22–25 June 2026](2026-06-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 11 | 11–13 | 10–13 | 10–13 | 9–15 |
@@ -671,7 +671,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [27–28 April 2026](2026-04-28-EMG.html) | EMG |  |  |  |  |  |
 | [20–27 April 2026](2026-04-27-Winpoll.html) | Winpoll |  |  |  |  |  |
 | [22–27 April 2026](2026-04-27-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [20–27 April 2026](2026-04-27-Ixè.html) | Ixè | 11 | 9–13 | 9–13 | 9–13 | 9–13 |
+| [20–27 April 2026](2026-04-27-Ixè.html) | Ixè | 11 | 10–13 | 9–13 | 9–13 | 9–14 |
 | [22–24 April 2026](2026-04-24-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [21–23 April 2026](2026-04-23-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [21–22 April 2026](2026-04-22-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
@@ -1137,11 +1137,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0.1% | 100% |  |
 | 8 | 2% | 99.9% |  |
-| 9 | 13% | 98% |  |
-| 10 | 28% | 85% |  |
-| 11 | 29% | 57% | Median |
-| 12 | 23% | 28% |  |
-| 13 | 4% | 5% |  |
+| 9 | 14% | 98% |  |
+| 10 | 26% | 85% |  |
+| 11 | 32% | 59% | Median |
+| 12 | 23% | 27% |  |
+| 13 | 3% | 4% |  |
 | 14 | 0.9% | 1.0% |  |
 | 15 | 0.1% | 0.1% |  |
 | 16 | 0% | 0% |  |

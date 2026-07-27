@@ -578,7 +578,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [14–16 July 2026](2026-07-16-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0–1 |
 | [3–16 July 2026](2026-07-16-EMG.html) | EMG | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [8–13 July 2026](2026-07-13-SWG.html) | SWG <br> La7 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [10–12 July 2026](2026-07-12-BiDiMedia.html) | BiDiMedia | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [10–12 July 2026](2026-07-12-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [7–9 July 2026](2026-07-09-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [30 June–7 July 2026](2026-07-07-Ixè.html) | Ixè | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [6–7 July 2026](2026-07-07-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0–1 | 0–1 |
@@ -1112,8 +1112,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 82% | 100% | Last Result, Median |
-| 1 | 18% | 18% |  |
+| 0 | 83% | 100% | Last Result, Median |
+| 1 | 16% | 17% |  |
 | 2 | 0.2% | 0.2% |  |
 | 3 | 0% | 0% |  |
 

@@ -587,7 +587,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [14–16 July 2026](2026-07-16-TermometroPolitico.html) | Termometro Politico | 5 | 5 | 5–6 | 5–6 | 4–6 |
 | [3–16 July 2026](2026-07-16-EMG.html) | EMG | 7 | 5–7 | 5–7 | 5–8 | 5–8 |
 | [8–13 July 2026](2026-07-13-SWG.html) | SWG <br> La7 | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
-| [10–12 July 2026](2026-07-12-BiDiMedia.html) | BiDiMedia | 6 | 5–6 | 5–6 | 5–7 | 5–8 |
+| [10–12 July 2026](2026-07-12-BiDiMedia.html) | BiDiMedia | 6 | 5–6 | 5–7 | 5–7 | 5–8 |
 | [7–9 July 2026](2026-07-09-TermometroPolitico.html) | Termometro Politico | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [30 June–7 July 2026](2026-07-07-Ixè.html) | Ixè | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | [6–7 July 2026](2026-07-07-EMG.html) | EMG <br> Rai 3 | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
@@ -599,7 +599,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [30 June–1 July 2026](2026-07-01-Piepoli.html) | Piepoli | 5 | 4–5 | 3–5 | 0–6 | 0–6 |
 | [17–30 June 2026](2026-06-30-EMG.html) | EMG | 5 | 5–6 | 4–6 | 4–7 | 4–7 |
 | [24–29 June 2026](2026-06-29-SWG.html) | SWG <br> La7 | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
-| [25–26 June 2026](2026-06-26-Tecnè.html) | Tecnè <br> Agenzia Dire | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
+| [25–26 June 2026](2026-06-26-Tecnè.html) | Tecnè <br> Agenzia Dire | 4 | 3–5 | 0–5 | 0–5 | 0–6 |
 | [25–26 June 2026](2026-06-26-Demopolis.html) | Demopolis <br> La7 | 5 | 5 | 5–6 | 4–6 | 4–6 |
 | [24–25 June 2026](2026-06-25-TermometroPolitico.html) | Termometro Politico | 4 | 4 | 4–5 | 4–5 | 0–5 |
 | [22–25 June 2026](2026-06-25-Ipsos.html) | Ipsos <br> Corriere della Sera | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
@@ -652,7 +652,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [6–8 May 2026](2026-05-08-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [5–7 May 2026](2026-05-07-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [5–6 May 2026](2026-05-06-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
-| [4–6 May 2026](2026-05-06-DemosPi.html) | Demos & Pi <br> La Repubblica | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
+| [4–6 May 2026](2026-05-06-DemosPi.html) | Demos & Pi <br> La Repubblica | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [4–5 May 2026](2026-05-05-OnlyNumbers.html) | Only Numbers <br> Rete 4 |  |  |  |  |  |
 | [5 May 2026](2026-05-05-EMG.html) | EMG |  |  |  |  |  |
 | [4–5 May 2026](2026-05-05-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
@@ -1126,9 +1126,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 99.9% |  |
 | 3 | 0% | 99.9% |  |
 | 4 | 5% | 99.8% |  |
-| 5 | 32% | 95% |  |
-| 6 | 39% | 64% | Median |
-| 7 | 20% | 24% |  |
+| 5 | 34% | 95% |  |
+| 6 | 37% | 61% | Median |
+| 7 | 21% | 25% |  |
 | 8 | 4% | 4% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
