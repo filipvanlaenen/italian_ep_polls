@@ -573,10 +573,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
 | [22–23 July 2026](2026-07-23-TermometroPolitico.html) | Termometro Politico | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
-| [20–23 July 2026](2026-07-23-Ipsos.html) | Ipsos <br> Corriere della Sera | 3 | 3–4 | 3–4 | 2–5 | 2–5 |
-| [21–22 July 2026](2026-07-22-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 3 | 3–4 | 2–4 | 2–6 | 2–6 |
-| [21–22 July 2026](2026-07-22-Piepoli.html) | Piepoli | 2 | 2–4 | 2–4 | 2–5 | 1–5 |
-| [20–21 July 2026](2026-07-21-EMG.html) | EMG | 4 | 2–4 | 2–4 | 2–5 | 2–5 |
+| [20–23 July 2026](2026-07-23-Ipsos.html) | Ipsos <br> Corriere della Sera | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
+| [21–22 July 2026](2026-07-22-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 3 | 3–4 | 3–4 | 2–5 | 2–6 |
+| [21–22 July 2026](2026-07-22-Piepoli.html) | Piepoli | 3 | 2–4 | 2–4 | 2–5 | 1–6 |
+| [20–21 July 2026](2026-07-21-EMG.html) | EMG | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | [15–20 July 2026](2026-07-20-SWG.html) | SWG <br> La7 | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [1–17 July 2026](2026-07-17-Lab21.html) | Lab21 | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [14–16 July 2026](2026-07-16-TermometroPolitico.html) | Termometro Politico | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -1118,11 +1118,11 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0.1% | 100% |  |
-| 2 | 9% | 99.9% |  |
-| 3 | 50% | 91% | Median |
-| 4 | 39% | 41% |  |
+| 2 | 6% | 99.9% |  |
+| 3 | 51% | 94% | Median |
+| 4 | 41% | 43% |  |
 | 5 | 2% | 2% |  |
-| 6 | 0.4% | 0.4% |  |
+| 6 | 0.3% | 0.3% |  |
 | 7 | 0% | 0% |  |
 
 

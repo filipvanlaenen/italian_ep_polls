@@ -598,13 +598,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23 | 21–25 | 20–26 | 20–26 | 19–27 |
-| [22–23 July 2026](2026-07-23-TermometroPolitico.html) | Termometro Politico | 24 | 22–26 | 22–26 | 22–26 | 21–26 |
-| [20–23 July 2026](2026-07-23-Ipsos.html) | Ipsos <br> Corriere della Sera | 22 | 20–24 | 20–24 | 19–25 | 19–25 |
-| [21–22 July 2026](2026-07-22-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 24 | 22–24 | 21–24 | 21–25 | 20–25 |
-| [21–22 July 2026](2026-07-22-Piepoli.html) | Piepoli | 25 | 22–25 | 22–25 | 21–25 | 18–27 |
-| [20–21 July 2026](2026-07-21-EMG.html) | EMG | 21 | 19–22 | 19–23 | 18–23 | 18–24 |
-| [15–20 July 2026](2026-07-20-SWG.html) | SWG <br> La7 | 22 | 21–22 | 21–24 | 21–24 | 21–25 |
+| N/A | [Poll Average](average.html) | 23 | 21–25 | 21–26 | 20–26 | 19–27 |
+| [22–23 July 2026](2026-07-23-TermometroPolitico.html) | Termometro Politico | 24 | 23–25 | 22–26 | 22–26 | 21–26 |
+| [20–23 July 2026](2026-07-23-Ipsos.html) | Ipsos <br> Corriere della Sera | 22 | 20–24 | 20–24 | 19–24 | 18–25 |
+| [21–22 July 2026](2026-07-22-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 23 | 21–26 | 20–27 | 20–27 | 19–27 |
+| [21–22 July 2026](2026-07-22-Piepoli.html) | Piepoli | 24 | 22–26 | 22–26 | 21–26 | 19–27 |
+| [20–21 July 2026](2026-07-21-EMG.html) | EMG | 22 | 20–23 | 19–23 | 19–23 | 18–24 |
+| [15–20 July 2026](2026-07-20-SWG.html) | SWG <br> La7 | 22 | 21–23 | 21–24 | 21–24 | 21–25 |
 | [1–17 July 2026](2026-07-17-Lab21.html) | Lab21 | 25 | 25–26 | 24–26 | 24–26 | 24–27 |
 | [14–16 July 2026](2026-07-16-TermometroPolitico.html) | Termometro Politico | 24 | 23–24 | 23–25 | 22–25 | 22–25 |
 | [3–16 July 2026](2026-07-16-EMG.html) | EMG | 22 | 20–22 | 19–22 | 19–23 | 18–23 |
@@ -1161,16 +1161,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
-| 18 | 0.3% | 100% |  |
-| 19 | 2% | 99.7% |  |
-| 20 | 4% | 98% |  |
-| 21 | 9% | 94% |  |
-| 22 | 17% | 85% |  |
-| 23 | 19% | 68% | Median |
-| 24 | 22% | 49% |  |
-| 25 | 21% | 27% |  |
-| 26 | 5% | 6% |  |
-| 27 | 0.2% | 0.6% |  |
+| 18 | 0.2% | 100% |  |
+| 19 | 1.1% | 99.8% |  |
+| 20 | 3% | 98.7% |  |
+| 21 | 9% | 95% |  |
+| 22 | 15% | 87% |  |
+| 23 | 25% | 71% | Median |
+| 24 | 20% | 46% |  |
+| 25 | 19% | 26% |  |
+| 26 | 6% | 7% |  |
+| 27 | 1.1% | 1.5% |  |
 | 28 | 0.3% | 0.3% |  |
 | 29 | 0% | 0% |  |
 

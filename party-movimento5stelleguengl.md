@@ -584,12 +584,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11 | 9–12 | 9–12 | 9–13 | 8–14 |
-| [22–23 July 2026](2026-07-23-TermometroPolitico.html) | Termometro Politico | 10 | 10–12 | 9–12 | 9–12 | 9–12 |
-| [20–23 July 2026](2026-07-23-Ipsos.html) | Ipsos <br> Corriere della Sera | 12 | 11–13 | 10–13 | 10–14 | 10–15 |
-| [21–22 July 2026](2026-07-22-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 9 | 9–11 | 8–12 | 8–12 | 8–13 |
-| [21–22 July 2026](2026-07-22-Piepoli.html) | Piepoli | 9 | 8–12 | 8–13 | 8–13 | 8–14 |
-| [20–21 July 2026](2026-07-21-EMG.html) | EMG | 10 | 10–12 | 9–12 | 9–12 | 9–13 |
-| [15–20 July 2026](2026-07-20-SWG.html) | SWG <br> La7 | 11 | 11 | 11–12 | 10–12 | 10–14 |
+| [22–23 July 2026](2026-07-23-TermometroPolitico.html) | Termometro Politico | 10 | 10–12 | 10–12 | 9–12 | 9–12 |
+| [20–23 July 2026](2026-07-23-Ipsos.html) | Ipsos <br> Corriere della Sera | 12 | 11–13 | 10–14 | 10–14 | 10–15 |
+| [21–22 July 2026](2026-07-22-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 9 | 9–10 | 8–12 | 8–12 | 8–12 |
+| [21–22 July 2026](2026-07-22-Piepoli.html) | Piepoli | 9 | 9–12 | 8–13 | 8–13 | 8–14 |
+| [20–21 July 2026](2026-07-21-EMG.html) | EMG | 11 | 9–12 | 9–12 | 9–12 | 9–13 |
+| [15–20 July 2026](2026-07-20-SWG.html) | SWG <br> La7 | 11 | 11 | 11–12 | 10–12 | 9–14 |
 | [1–17 July 2026](2026-07-17-Lab21.html) | Lab21 | 12 | 11–12 | 11–13 | 11–13 | 11–13 |
 | [14–16 July 2026](2026-07-16-TermometroPolitico.html) | Termometro Politico | 11 | 11 | 10–12 | 10–12 | 10–12 |
 | [3–16 July 2026](2026-07-16-EMG.html) | EMG | 11 | 10–11 | 9–11 | 9–12 | 9–13 |
@@ -1138,11 +1138,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0.1% | 100% |  |
 | 8 | 2% | 99.9% |  |
 | 9 | 13% | 98% |  |
-| 10 | 30% | 85% |  |
-| 11 | 25% | 55% | Median |
-| 12 | 25% | 30% |  |
-| 13 | 4% | 4% |  |
-| 14 | 0.5% | 0.6% |  |
+| 10 | 28% | 85% |  |
+| 11 | 29% | 57% | Median |
+| 12 | 23% | 28% |  |
+| 13 | 4% | 5% |  |
+| 14 | 0.9% | 1.0% |  |
 | 15 | 0.1% | 0.1% |  |
 | 16 | 0% | 0% |  |
 

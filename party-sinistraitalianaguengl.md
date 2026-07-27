@@ -570,14 +570,14 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
-| [22–23 July 2026](2026-07-23-TermometroPolitico.html) | Termometro Politico | 2 | 2 | 2–3 | 1–3 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
+| [22–23 July 2026](2026-07-23-TermometroPolitico.html) | Termometro Politico | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | [20–23 July 2026](2026-07-23-Ipsos.html) | Ipsos <br> Corriere della Sera | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
-| [21–22 July 2026](2026-07-22-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 3 | 2–3 | 2–3 | 2–3 | 1–4 |
-| [21–22 July 2026](2026-07-22-Piepoli.html) | Piepoli | 3 | 2–3 | 2–3 | 1–3 | 1–4 |
+| [21–22 July 2026](2026-07-22-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 2 | 1–3 | 1–3 | 1–4 | 1–4 |
+| [21–22 July 2026](2026-07-22-Piepoli.html) | Piepoli | 3 | 2–3 | 2–3 | 1–4 | 1–6 |
 | [20–21 July 2026](2026-07-21-EMG.html) | EMG | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
-| [15–20 July 2026](2026-07-20-SWG.html) | SWG <br> La7 | 3 | 2–3 | 1–3 | 1–3 | 1–3 |
-| [1–17 July 2026](2026-07-17-Lab21.html) | Lab21 | 2 | 2 | 2 | 1–3 | 1–3 |
+| [15–20 July 2026](2026-07-20-SWG.html) | SWG <br> La7 | 3 | 2–3 | 2–3 | 1–3 | 1–3 |
+| [1–17 July 2026](2026-07-17-Lab21.html) | Lab21 | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | [14–16 July 2026](2026-07-16-TermometroPolitico.html) | Termometro Politico | 2 | 2 | 1–2 | 1–3 | 1–3 |
 | [3–16 July 2026](2026-07-16-EMG.html) | EMG | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | [8–13 July 2026](2026-07-13-SWG.html) | SWG <br> La7 | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
@@ -1116,10 +1116,12 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 10% | 100% |  |
-| 2 | 53% | 90% | Median |
-| 3 | 36% | 37% |  |
-| 4 | 0.5% | 0.5% |  |
-| 5 | 0% | 0% |  |
+| 1 | 9% | 100% |  |
+| 2 | 57% | 91% | Median |
+| 3 | 33% | 34% |  |
+| 4 | 0.7% | 0.8% |  |
+| 5 | 0% | 0.1% |  |
+| 6 | 0.1% | 0.1% |  |
+| 7 | 0% | 0% |  |
 
 
