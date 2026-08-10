@@ -572,7 +572,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
-| [22–27 July 2026](2026-07-27-SWG.html) | SWG <br> La7 | 2 | 1–2 | 1–3 | 1–3 | 1–4 |
+| [22–27 July 2026](2026-07-27-SWG.html) | SWG <br> La7 | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | [22–23 July 2026](2026-07-23-TermometroPolitico.html) | Termometro Politico | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | [20–23 July 2026](2026-07-23-Ipsos.html) | Ipsos <br> Corriere della Sera | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | [21–22 July 2026](2026-07-22-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 2 | 1–3 | 1–3 | 1–4 | 1–4 |
@@ -1118,10 +1118,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 9% | 100% |  |
-| 2 | 69% | 91% | Median |
-| 3 | 21% | 22% |  |
-| 4 | 0.9% | 1.0% |  |
+| 1 | 7% | 100% |  |
+| 2 | 67% | 93% | Median |
+| 3 | 25% | 26% |  |
+| 4 | 0.8% | 1.0% |  |
 | 5 | 0% | 0.2% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
