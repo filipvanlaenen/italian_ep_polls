@@ -8,26 +8,26 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 10 Aug 2026 11:56:01 +0200</pubDate>
+    <pubDate>Mon, 10 Aug 2026 14:42:32 +0200</pubDate>
     <item>
       <title>Opinion Poll by SWG for La7, 22–27 July 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2026-07-27-SWG.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sud chiama Nord (*): 0 seats&lt;/li&gt;&lt;li&gt;Noi Moderati (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Ora! (*): 0 seats&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 21–25 seats&lt;/li&gt;&lt;li&gt;Partito Progressista (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 16–19 seats&lt;/li&gt;&lt;li&gt;Movimento 5 Stelle (GUE/NGL): 10–12 seats&lt;/li&gt;&lt;li&gt;Futuro Nazionale (ESN): 5–7 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 4–7 seats&lt;/li&gt;&lt;li&gt;Azione (RE): 0–4 seats&lt;/li&gt;&lt;li&gt;Lega Nord (PfE): 4–6 seats&lt;/li&gt;&lt;li&gt;Sinistra Italiana (GUE/NGL): 1–3 seats&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 2–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Sud chiama Nord (*): 0 seats&lt;/li&gt;&lt;li&gt;Noi Moderati (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Ora! (*): 0 seats&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 21–25 seats&lt;/li&gt;&lt;li&gt;Partito Progressista (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 16–19 seats&lt;/li&gt;&lt;li&gt;Movimento 5 Stelle (GUE/NGL): 10–12 seats&lt;/li&gt;&lt;li&gt;Futuro Nazionale (ESN): 5–7 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 4–7 seats&lt;/li&gt;&lt;li&gt;Azione (RE): 0–3 seats&lt;/li&gt;&lt;li&gt;Lega Nord (PfE): 4–6 seats&lt;/li&gt;&lt;li&gt;Sinistra Italiana (GUE/NGL): 1–3 seats&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 3–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2026-07-27-SWG-seats.png"
-        length="300885"
+        length="293121"
         type="image/png"/>
-      <pubDate>Mon, 10 Aug 2026 11:56:01 +0200</pubDate>
-      <dc:date>2026-08-10T11:56:01.044298+02:00</dc:date>
+      <pubDate>Mon, 10 Aug 2026 14:42:32 +0200</pubDate>
+      <dc:date>2026-08-10T14:42:32.941335+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SWG for La7, 22–27 July 2026 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2026-07-27-SWG.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2026-07-27-SWG-coalitions-seats.png"
-        length="226538"
+        length="220534"
         type="image/png"/>
-      <pubDate>Mon, 10 Aug 2026 11:56:01 +0200</pubDate>
-      <dc:date>2026-08-10T11:56:01.044298+02:00</dc:date>
+      <pubDate>Mon, 10 Aug 2026 14:42:32 +0200</pubDate>
+      <dc:date>2026-08-10T14:42:32.941335+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SWG for La7, 22–27 July 2026 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2026-07-27-SWG.png"
         length="384982"
         type="image/png"/>
-      <pubDate>Mon, 10 Aug 2026 11:56:01 +0200</pubDate>
-      <dc:date>2026-08-10T11:56:01.044298+02:00</dc:date>
+      <pubDate>Mon, 10 Aug 2026 14:42:32 +0200</pubDate>
+      <dc:date>2026-08-10T14:42:32.941335+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Termometro Politico, 22–23 July 2026 – Seat Projections for the Parties</title>
@@ -1029,6 +1029,6 @@
       <pubDate>Mon, 27 Jul 2026 12:38:49 +0200</pubDate>
       <dc:date>2026-07-27T12:38:49.620952+02:00</dc:date>
     </item>
-    <dc:date>2026-08-10T11:56:01.044298+02:00</dc:date>
+    <dc:date>2026-08-10T14:42:32.941335+02:00</dc:date>
   </channel>
 </rss>
