@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.4% | 0.8–2.0% | 0.7–2.3% | 0.7–2.6% | 0.5–3.2% |
+| N/A | [Poll Average](average.html) | 1.4% | 0.9–2.0% | 0.8–2.3% | 0.7–2.6% | 0.5–3.2% |
+| [2–5 August 2026](2026-08-05-BiDiMedia.html) | BiDiMedia | 1.2% | 0.9–1.8% | 0.8–1.9% | 0.7–2.1% | 0.5–2.4% |
+| [29 July–3 August 2026](2026-08-03-SWG.html) | SWG <br> La7 | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.6–1.8% | 0.5–2.0% |
+| [28–30 July 2026](2026-07-30-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
 | [22–27 July 2026](2026-07-27-SWG.html) | SWG <br> La7 | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.6–1.8% | 0.5–2.0% |
 | [22–23 July 2026](2026-07-23-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
 | [20–23 July 2026](2026-07-23-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.0% | N/A | N/A | N/A | N/A |
@@ -554,9 +557,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.8% | 100% | Last Result |
-| 0.5–1.5% | 62% | 99.2% | Median |
-| 1.5–2.5% | 34% | 37% |  |
+| 0.0–0.5% | 0.6% | 100% | Last Result |
+| 0.5–1.5% | 61% | 99.4% | Median |
+| 1.5–2.5% | 36% | 39% |  |
 | 2.5–3.5% | 3% | 3% |  |
 | 3.5–4.5% | 0.2% | 0.2% |  |
 | 4.5–5.5% | 0% | 0% |  |
@@ -571,6 +574,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [2–5 August 2026](2026-08-05-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
+| [29 July–3 August 2026](2026-08-03-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
+| [28–30 July 2026](2026-07-30-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [22–27 July 2026](2026-07-27-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [22–23 July 2026](2026-07-23-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [20–23 July 2026](2026-07-23-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
