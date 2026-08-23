@@ -10,10 +10,13 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.5% | 1.9–3.1% | 1.7–3.4% | 1.5–3.6% | 1.3–4.2% |
+| N/A | [Poll Average](average.html) | 2.5% | 1.9–3.1% | 1.7–3.3% | 1.6–3.6% | 1.3–4.1% |
 | [2–5 August 2026](2026-08-05-BiDiMedia.html) | BiDiMedia | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
+| [24 July–3 August 2026](2026-08-03-Winpoll.html) | Winpoll | 2.6% | 2.1–3.2% | 2.0–3.4% | 1.9–3.5% | 1.7–3.9% |
 | [29 July–3 August 2026](2026-08-03-SWG.html) | SWG <br> La7 | 2.4% | 1.9–3.1% | 1.8–3.3% | 1.7–3.5% | 1.5–3.8% |
 | [28–30 July 2026](2026-07-30-TermometroPolitico.html) | Termometro Politico | 2.6% | 2.2–3.0% | 2.1–3.2% | 2.0–3.3% | 1.8–3.5% |
+| [28–29 July 2026](2026-07-29-Demopolis.html) | Demopolis | 2.3% | 1.9–2.8% | 1.8–2.9% | 1.7–3.1% | 1.6–3.3% |
+| [14–28 July 2026](2026-07-28-EMG.html) | EMG | 2.6% | 2.1–3.4% | 1.9–3.6% | 1.8–3.8% | 1.6–4.2% |
 | [22–27 July 2026](2026-07-27-SWG.html) | SWG <br> La7 | 2.3% | 1.9–3.0% | 1.7–3.2% | 1.6–3.4% | 1.4–3.7% |
 | [22–23 July 2026](2026-07-23-TermometroPolitico.html) | Termometro Politico | 2.4% | 2.0–2.9% | 1.9–3.0% | 1.8–3.1% | 1.7–3.3% |
 | [20–23 July 2026](2026-07-23-Ipsos.html) | Ipsos <br> Corriere della Sera | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
@@ -558,10 +561,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 3% | 100% |  |
-| 1.5–2.5% | 55% | 97% | Median |
-| 2.5–3.5% | 39% | 42% |  |
-| 3.5–4.5% | 3% | 3% |  |
+| 0.5–1.5% | 2% | 100% |  |
+| 1.5–2.5% | 55% | 98% | Median |
+| 2.5–3.5% | 40% | 43% |  |
+| 3.5–4.5% | 2% | 3% |  |
 | 4.5–5.5% | 0.2% | 0.2% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
@@ -576,8 +579,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–3 |
 | [2–5 August 2026](2026-08-05-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
+| [24 July–3 August 2026](2026-08-03-Winpoll.html) | Winpoll | 0 | 0 | 0 | 0 | 0 |
 | [29 July–3 August 2026](2026-08-03-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [28–30 July 2026](2026-07-30-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
+| [28–29 July 2026](2026-07-29-Demopolis.html) | Demopolis | 0 | 0 | 0 | 0 | 0 |
+| [14–28 July 2026](2026-07-28-EMG.html) | EMG | 0 | 0 | 0 | 0 | 0 |
 | [22–27 July 2026](2026-07-27-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [22–23 July 2026](2026-07-23-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [20–23 July 2026](2026-07-23-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |
@@ -1123,10 +1129,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.1% | 100% | Last Result, Median |
-| 1 | 0% | 0.9% |  |
-| 2 | 0% | 0.9% |  |
-| 3 | 0.5% | 0.9% |  |
+| 0 | 99.3% | 100% | Last Result, Median |
+| 1 | 0% | 0.7% |  |
+| 2 | 0% | 0.7% |  |
+| 3 | 0.4% | 0.7% |  |
 | 4 | 0.3% | 0.3% |  |
 | 5 | 0% | 0% |  |
 
