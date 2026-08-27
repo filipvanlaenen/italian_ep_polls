@@ -598,8 +598,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 16–20 | 15–20 | 15–20 | 15–21 |
-| [22–24 August 2026](2026-08-24-BiDiMedia.html) | BiDiMedia | 17 | 15–20 | 15–20 | 15–21 | 15–21 |
+| N/A | [Poll Average](average.html) | 18 | 17–19 | 16–20 | 15–20 | 15–21 |
+| [22–24 August 2026](2026-08-24-BiDiMedia.html) | BiDiMedia | 19 | 15–20 | 15–21 | 15–21 | 15–21 |
 | [2–5 August 2026](2026-08-05-BiDiMedia.html) | BiDiMedia | 20 | 20 | 20 | 20 | 17–21 |
 | [24 July–3 August 2026](2026-08-03-Winpoll.html) | Winpoll | 18 | 17–20 | 17–20 | 17–20 | 16–20 |
 | [29 July–3 August 2026](2026-08-03-SWG.html) | SWG <br> La7 | 18 | 16–19 | 16–20 | 15–20 | 15–20 |
@@ -1165,14 +1165,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
-| 14 | 0.1% | 100% |  |
-| 15 | 7% | 99.9% |  |
-| 16 | 7% | 93% |  |
-| 17 | 13% | 86% |  |
-| 18 | 37% | 73% | Median |
-| 19 | 24% | 36% |  |
-| 20 | 11% | 12% |  |
-| 21 | 1.3% | 1.3% |  |
+| 14 | 0% | 100% |  |
+| 15 | 3% | 100% |  |
+| 16 | 6% | 97% |  |
+| 17 | 15% | 91% |  |
+| 18 | 37% | 75% | Median |
+| 19 | 29% | 39% |  |
+| 20 | 8% | 10% |  |
+| 21 | 2% | 2% |  |
 | 22 | 0% | 0% |  |
 
 
