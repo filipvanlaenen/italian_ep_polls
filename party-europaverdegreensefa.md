@@ -289,7 +289,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [2–4 September 2025](2025-09-04-TermometroPolitico.html) | Termometro Politico | 3.6% | N/A | N/A | N/A | N/A |
 | [3–4 September 2025](2025-09-04-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.5% | N/A | N/A | N/A | N/A |
 | [27 August–1 September 2025](2025-09-01-SWG.html) | SWG <br> La7 | 3.7% | N/A | N/A | N/A | N/A |
-| [23–25 August 2025](2025-08-25-BiDiMedia.html) | BiDiMedia | 3.8% | N/A | N/A | N/A | N/A |
+| [23–25 August 2025](2025-08-25-BiDiMedia.html) | BiDiMedia | 3.9% | N/A | N/A | N/A | N/A |
 | [5–7 August 2025](2025-08-07-TermometroPolitico.html) | Termometro Politico | 3.6% | N/A | N/A | N/A | N/A |
 | [30–31 July 2025](2025-07-31-TermometroPolitico.html) | Termometro Politico | 3.6% | N/A | N/A | N/A | N/A |
 | [31 July 2025](2025-07-31-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 3.8% | N/A | N/A | N/A | N/A |
@@ -505,7 +505,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [24–25 September 2024](2024-09-25-Eumetra.html) | Eumetra <br> La7 | 3.6% | N/A | N/A | N/A | N/A |
 | [18–23 September 2024](2024-09-23-SWG.html) | SWG <br> La7 | 3.9% | N/A | N/A | N/A | N/A |
 | [19–20 September 2024](2024-09-20-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.6% | N/A | N/A | N/A | N/A |
-| [18–19 September 2024](2024-09-19-TermometroPolitico.html) | Termometro Politico | 3.8% | N/A | N/A | N/A | N/A |
+| [18–19 September 2024](2024-09-19-TermometroPolitico.html) | Termometro Politico | 3.9% | N/A | N/A | N/A | N/A |
 | [19 September 2024](2024-09-19-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 3.9% | N/A | N/A | N/A | N/A |
 | [17–18 September 2024](2024-09-18-Eumetra.html) | Eumetra <br> La7 | 3.6% | N/A | N/A | N/A | N/A |
 | [11–16 September 2024](2024-09-16-SWG.html) | SWG <br> La7 | 3.8% | N/A | N/A | N/A | N/A |
