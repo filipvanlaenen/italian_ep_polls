@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.5% | 19.8–23.0% | 19.3–23.4% | 18.9–23.8% | 18.1–24.6% |
+| N/A | [Poll Average](average.html) | 21.5% | 19.9–23.3% | 19.4–23.8% | 19.0–24.3% | 18.2–25.4% |
+| [31 August–3 September 2026](2026-09-03-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 22.2% | 20.4–24.2% | 19.9–24.8% | 19.5–25.3% | 18.7–26.2% |
+| [26–31 August 2026](2026-08-31-SWG.html) | SWG <br> La7 | 20.7% | 19.2–22.2% | 18.8–22.7% | 18.5–23.1% | 17.8–23.8% |
+| [26–28 August 2026](2026-08-28-TermometroPolitico.html) | Termometro Politico | 21.5% | 20.5–22.6% | 20.2–22.9% | 20.0–23.1% | 19.5–23.6% |
 | [22–24 August 2026](2026-08-24-BiDiMedia.html) | BiDiMedia | 21.0% | 19.4–22.7% | 19.0–23.2% | 18.6–23.6% | 17.8–24.5% |
 | [2–5 August 2026](2026-08-05-BiDiMedia.html) | BiDiMedia | 21.4% | 19.8–23.1% | 19.4–23.6% | 19.0–24.1% | 18.2–24.9% |
 | [24 July–3 August 2026](2026-08-03-Winpoll.html) | Winpoll | 22.2% | 20.9–23.6% | 20.5–24.0% | 20.2–24.4% | 19.5–25.1% |
@@ -292,7 +295,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [23–25 August 2025](2025-08-25-BiDiMedia.html) | BiDiMedia | 22.5% | N/A | N/A | N/A | N/A |
 | [5–7 August 2025](2025-08-07-TermometroPolitico.html) | Termometro Politico | 22.1% | N/A | N/A | N/A | N/A |
 | [30–31 July 2025](2025-07-31-TermometroPolitico.html) | Termometro Politico | 22.3% | N/A | N/A | N/A | N/A |
-| [31 July 2025](2025-07-31-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 22.0% | N/A | N/A | N/A | N/A |
+| [31 July 2025](2025-07-31-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 22.2% | N/A | N/A | N/A | N/A |
 | [28–30 July 2025](2025-07-30-Demopolis.html) | Demopolis | 22.5% | N/A | N/A | N/A | N/A |
 | [21–29 July 2025](2025-07-29-Winpoll.html) | Winpoll | 23.6% | N/A | N/A | N/A | N/A |
 | [23–28 July 2025](2025-07-28-SWG.html) | SWG <br> La7 | 22.4% | N/A | N/A | N/A | N/A |
@@ -579,15 +582,17 @@ The following table shows the probability mass function per percentage block of 
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0.1% | 100% |  |
-| 17.5–18.5% | 1.2% | 99.9% |  |
-| 18.5–19.5% | 6% | 98.7% |  |
-| 19.5–20.5% | 16% | 93% |  |
-| 20.5–21.5% | 30% | 77% | Median |
-| 21.5–22.5% | 29% | 47% |  |
-| 22.5–23.5% | 14% | 18% |  |
-| 23.5–24.5% | 3% | 4% |  |
-| 24.5–25.5% | 0.5% | 0.5% |  |
-| 25.5–26.5% | 0% | 0% |  |
+| 17.5–18.5% | 1.0% | 99.9% |  |
+| 18.5–19.5% | 5% | 98.9% |  |
+| 19.5–20.5% | 15% | 94% |  |
+| 20.5–21.5% | 29% | 78% |  |
+| 21.5–22.5% | 28% | 50% | Median |
+| 22.5–23.5% | 15% | 22% |  |
+| 23.5–24.5% | 5% | 7% |  |
+| 24.5–25.5% | 1.4% | 2% |  |
+| 25.5–26.5% | 0.3% | 0.4% |  |
+| 26.5–27.5% | 0% | 0.1% |  |
+| 27.5–28.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -598,7 +603,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 17–19 | 16–20 | 15–20 | 15–21 |
+| N/A | [Poll Average](average.html) | 19 | 17–21 | 16–21 | 15–21 | 15–22 |
+| [31 August–3 September 2026](2026-09-03-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 21 | 17–21 | 17–21 | 15–22 | 15–23 |
+| [26–31 August 2026](2026-08-31-SWG.html) | SWG <br> La7 | 17 | 16–19 | 16–20 | 15–20 | 14–21 |
+| [26–28 August 2026](2026-08-28-TermometroPolitico.html) | Termometro Politico | 18 | 17–19 | 17–19 | 16–19 | 16–20 |
 | [22–24 August 2026](2026-08-24-BiDiMedia.html) | BiDiMedia | 19 | 15–20 | 15–21 | 15–21 | 15–21 |
 | [2–5 August 2026](2026-08-05-BiDiMedia.html) | BiDiMedia | 20 | 20 | 20 | 20 | 17–21 |
 | [24 July–3 August 2026](2026-08-03-Winpoll.html) | Winpoll | 18 | 17–20 | 17–20 | 17–20 | 16–20 |
@@ -1165,14 +1173,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
-| 14 | 0% | 100% |  |
-| 15 | 3% | 100% |  |
-| 16 | 6% | 97% |  |
-| 17 | 15% | 91% |  |
-| 18 | 37% | 75% | Median |
-| 19 | 29% | 39% |  |
-| 20 | 8% | 10% |  |
-| 21 | 2% | 2% |  |
-| 22 | 0% | 0% |  |
+| 14 | 0.1% | 100% |  |
+| 15 | 4% | 99.9% |  |
+| 16 | 5% | 96% |  |
+| 17 | 26% | 91% |  |
+| 18 | 14% | 65% |  |
+| 19 | 29% | 50% | Median |
+| 20 | 9% | 22% |  |
+| 21 | 12% | 13% |  |
+| 22 | 0.5% | 0.9% |  |
+| 23 | 0.4% | 0.4% |  |
+| 24 | 0% | 0% |  |
 
 

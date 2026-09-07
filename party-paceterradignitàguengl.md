@@ -11,6 +11,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.4% | 1.0–1.8% | 0.9–1.9% | 0.9–2.0% | 0.7–2.3% |
+| [31 August–3 September 2026](2026-09-03-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.0% | N/A | N/A | N/A | N/A |
+| [26–31 August 2026](2026-08-31-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
+| [26–28 August 2026](2026-08-28-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
 | [22–24 August 2026](2026-08-24-BiDiMedia.html) | BiDiMedia | 0.0% | N/A | N/A | N/A | N/A |
 | [2–5 August 2026](2026-08-05-BiDiMedia.html) | BiDiMedia | 0.0% | N/A | N/A | N/A | N/A |
 | [24 July–3 August 2026](2026-08-03-Winpoll.html) | Winpoll | 1.3% | 1.0–1.8% | 0.9–1.9% | 0.9–2.1% | 0.7–2.3% |
@@ -577,6 +580,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [31 August–3 September 2026](2026-09-03-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
+| [26–31 August 2026](2026-08-31-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [26–28 August 2026](2026-08-28-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [22–24 August 2026](2026-08-24-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
 | [2–5 August 2026](2026-08-05-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
 | [24 July–3 August 2026](2026-08-03-Winpoll.html) | Winpoll | 0 | 0 | 0 | 0 | 0 |
