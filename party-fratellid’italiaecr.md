@@ -10,9 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.9% | 25.2–28.5% | 24.8–29.0% | 24.4–29.4% | 23.6–30.2% |
+| N/A | [Poll Average](average.html) | 26.2% | 24.2–28.1% | 23.7–28.6% | 23.2–29.1% | 22.3–29.9% |
 | [2–7 September 2026](2026-09-07-SWG.html) | SWG <br> La7 | 26.8% | 25.2–28.5% | 24.8–29.0% | 24.4–29.4% | 23.6–30.2% |
-| [4–6 September 2026](2026-09-06-BiDiMedia.html) | BiDiMedia | 25.4% | N/A | N/A | N/A | N/A |
+| [4–6 September 2026](2026-09-06-BiDiMedia.html) | BiDiMedia | 25.4% | 23.7–27.2% | 23.2–27.7% | 22.8–28.2% | 22.0–29.1% |
 | [2–3 September 2026](2026-09-03-TermometroPolitico.html) | Termometro Politico | 27.4% | N/A | N/A | N/A | N/A |
 | [31 August–3 September 2026](2026-09-03-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 26.5% | N/A | N/A | N/A | N/A |
 | [26–31 August 2026](2026-08-31-SWG.html) | SWG <br> La7 | 26.8% | N/A | N/A | N/A | N/A |
@@ -588,17 +588,17 @@ The following table shows the probability mass function per percentage block of 
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0% | 100% |  |
-| 20.5–21.5% | 0% | 100% |  |
-| 21.5–22.5% | 0% | 100% |  |
-| 22.5–23.5% | 0.4% | 100% |  |
-| 23.5–24.5% | 3% | 99.6% |  |
-| 24.5–25.5% | 12% | 97% |  |
-| 25.5–26.5% | 26% | 85% |  |
-| 26.5–27.5% | 30% | 60% | Median |
-| 27.5–28.5% | 20% | 29% |  |
-| 28.5–29.5% | 8% | 10% |  |
-| 29.5–30.5% | 2% | 2% |  |
-| 30.5–31.5% | 0.2% | 0.2% |  |
+| 20.5–21.5% | 0.1% | 100% |  |
+| 21.5–22.5% | 0.7% | 99.9% |  |
+| 22.5–23.5% | 3% | 99.2% |  |
+| 23.5–24.5% | 10% | 96% |  |
+| 24.5–25.5% | 19% | 85% |  |
+| 25.5–26.5% | 26% | 66% | Median |
+| 26.5–27.5% | 22% | 40% |  |
+| 27.5–28.5% | 12% | 18% |  |
+| 28.5–29.5% | 4% | 5% |  |
+| 29.5–30.5% | 0.9% | 1.1% |  |
+| 30.5–31.5% | 0.1% | 0.1% |  |
 | 31.5–32.5% | 0% | 0% |  |
 
 
@@ -610,9 +610,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23 | 22–24 | 22–24 | 22–25 | 20–27 |
-| [2–7 September 2026](2026-09-07-SWG.html) | SWG <br> La7 | 23 | 22–24 | 22–24 | 22–25 | 20–27 |
-| [4–6 September 2026](2026-09-06-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 23 | 21–24 | 21–25 | 20–25 | 18–25 |
+| [2–7 September 2026](2026-09-07-SWG.html) | SWG <br> La7 | 23 | 23–24 | 22–24 | 21–24 | 19–25 |
+| [4–6 September 2026](2026-09-06-BiDiMedia.html) | BiDiMedia | 22 | 21–25 | 21–25 | 20–25 | 18–25 |
 | [2–3 September 2026](2026-09-03-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [31 August–3 September 2026](2026-09-03-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
 | [26–31 August 2026](2026-08-31-SWG.html) | SWG <br> La7 |  |  |  |  |  |
@@ -1187,16 +1187,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
-| 18 | 0% | 100% |  |
-| 19 | 0.1% | 100% |  |
-| 20 | 0.8% | 99.9% |  |
-| 21 | 1.5% | 99.1% |  |
-| 22 | 26% | 98% |  |
-| 23 | 35% | 72% | Median |
-| 24 | 34% | 37% |  |
-| 25 | 2% | 3% |  |
-| 26 | 0.1% | 1.0% |  |
-| 27 | 0.9% | 0.9% |  |
+| 18 | 0.9% | 100% |  |
+| 19 | 0.7% | 99.1% |  |
+| 20 | 1.5% | 98% |  |
+| 21 | 16% | 97% |  |
+| 22 | 18% | 81% |  |
+| 23 | 30% | 63% | Median |
+| 24 | 26% | 33% |  |
+| 25 | 7% | 7% |  |
+| 26 | 0.3% | 0.4% |  |
+| 27 | 0.1% | 0.1% |  |
 | 28 | 0% | 0% |  |
 
 

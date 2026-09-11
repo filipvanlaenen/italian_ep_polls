@@ -10,9 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.7% | 4.9–6.6% | 4.7–6.9% | 4.5–7.1% | 4.2–7.6% |
+| N/A | [Poll Average](average.html) | 5.4% | 4.4–6.4% | 4.2–6.7% | 4.0–6.9% | 3.6–7.4% |
 | [2–7 September 2026](2026-09-07-SWG.html) | SWG <br> La7 | 5.7% | 4.9–6.6% | 4.7–6.9% | 4.5–7.1% | 4.1–7.6% |
-| [4–6 September 2026](2026-09-06-BiDiMedia.html) | BiDiMedia | 5.0% | N/A | N/A | N/A | N/A |
+| [4–6 September 2026](2026-09-06-BiDiMedia.html) | BiDiMedia | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.1% |
 | [2–3 September 2026](2026-09-03-TermometroPolitico.html) | Termometro Politico | 5.6% | N/A | N/A | N/A | N/A |
 | [31 August–3 September 2026](2026-09-03-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 4.4% | N/A | N/A | N/A | N/A |
 | [26–31 August 2026](2026-08-31-SWG.html) | SWG <br> La7 | 5.7% | N/A | N/A | N/A | N/A |
@@ -570,12 +570,12 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 3% | 100% |  |
-| 4.5–5.5% | 37% | 97% |  |
-| 5.5–6.5% | 48% | 60% | Median |
-| 6.5–7.5% | 11% | 12% |  |
-| 7.5–8.5% | 0.6% | 0.6% |  |
+| 2.5–3.5% | 0.4% | 100% |  |
+| 3.5–4.5% | 13% | 99.6% |  |
+| 4.5–5.5% | 45% | 87% | Median |
+| 5.5–6.5% | 35% | 42% |  |
+| 6.5–7.5% | 7% | 7% |  |
+| 7.5–8.5% | 0.3% | 0.4% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
 
@@ -587,9 +587,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
-| [2–7 September 2026](2026-09-07-SWG.html) | SWG <br> La7 | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
-| [4–6 September 2026](2026-09-06-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 5 | 4–5 | 0–6 | 0–6 | 0–7 |
+| [2–7 September 2026](2026-09-07-SWG.html) | SWG <br> La7 | 5 | 5 | 4–6 | 4–6 | 4–6 |
+| [4–6 September 2026](2026-09-06-BiDiMedia.html) | BiDiMedia | 5 | 0–5 | 0–6 | 0–6 | 0–7 |
 | [2–3 September 2026](2026-09-03-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [31 August–3 September 2026](2026-09-03-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
 | [26–31 August 2026](2026-08-31-SWG.html) | SWG <br> La7 |  |  |  |  |  |
@@ -1146,14 +1146,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.3% | 100% | Last Result |
-| 1 | 0% | 99.7% |  |
-| 2 | 0% | 99.7% |  |
-| 3 | 0.1% | 99.7% |  |
-| 4 | 11% | 99.6% |  |
-| 5 | 69% | 89% | Median |
-| 6 | 17% | 20% |  |
-| 7 | 2% | 2% |  |
+| 0 | 6% | 100% | Last Result |
+| 1 | 0% | 94% |  |
+| 2 | 0% | 94% |  |
+| 3 | 0.1% | 94% |  |
+| 4 | 20% | 94% |  |
+| 5 | 68% | 74% | Median |
+| 6 | 6% | 6% |  |
+| 7 | 0.5% | 0.5% |  |
 | 8 | 0% | 0% |  |
 
 
