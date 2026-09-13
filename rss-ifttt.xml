@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Sun, 21 Jul 2024 15:49:56 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Ixè, 3–10 September 2026 – Seating Plan Projection</title>
+      <link>null/2026-09-10-Ixè.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>39 seats needed for a majority<br/>Opinion poll by Ixè, 3–10 September 2026<br/>Details on null/2026-09-10-Ixè.html<br/><img src="null/2026-09-10-Ixè-seating-plan.png"/>]]></description>
+      <enclosure url="null/2026-09-10-Ixè-seating-plan.png" length="454159" type="image/png"/>
+      <pubDate>Sun, 13 Sep 2026 10:32:58 +0200</pubDate>
+      <dc:date>2026-09-13T10:32:58.598309832+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ixè, 3–10 September 2026 – Seat Projections</title>
+      <link>null/2026-09-10-Ixè.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>39 seats needed for a majority<br/>Opinion poll by Ixè, 3–10 September 2026<br/>Details on null/2026-09-10-Ixè.html<br/><img src="null/2026-09-10-Ixè-seats.png"/>]]></description>
+      <enclosure url="null/2026-09-10-Ixè-seats.png" length="288497" type="image/png"/>
+      <pubDate>Sun, 13 Sep 2026 10:32:58 +0200</pubDate>
+      <dc:date>2026-09-13T10:32:58.598309832+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ixè, 3–10 September 2026 – Voting Intentions</title>
+      <link>null/2026-09-10-Ixè.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Ixè, 3–10 September 2026<br/>Details on null/2026-09-10-Ixè.html<br/><img src="null/2026-09-10-Ixè.png"/>]]></description>
+      <enclosure url="null/2026-09-10-Ixè.png" length="363541" type="image/png"/>
+      <pubDate>Sun, 13 Sep 2026 10:32:58 +0200</pubDate>
+      <dc:date>2026-09-13T10:32:58.598309832+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by SWG for La7, 2–7 September 2026 – Seating Plan Projection</title>
       <link>null/2026-09-07-SWG.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>39 seats needed for a majority<br/>Opinion poll by SWG for La7, 2–7 September 2026<br/>Details on null/2026-09-07-SWG.html<br/><img src="null/2026-09-07-SWG-seating-plan.png"/>]]></description>
@@ -172,30 +196,6 @@
       <enclosure url="null/2026-08-24-BiDiMedia.png" length="480518" type="image/png"/>
       <pubDate>Sat, 12 Sep 2026 13:18:56 +0200</pubDate>
       <dc:date>2026-09-12T13:18:56.819686469+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Winpoll, 24 July–3 August 2026 – Seating Plan Projection</title>
-      <link>null/2026-08-03-Winpoll.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>39 seats needed for a majority<br/>Opinion poll by Winpoll, 24 July–3 August 2026<br/>Details on null/2026-08-03-Winpoll.html<br/><img src="null/2026-08-03-Winpoll-seating-plan.png"/>]]></description>
-      <enclosure url="null/2026-08-03-Winpoll-seating-plan.png" length="463411" type="image/png"/>
-      <pubDate>Sat, 12 Sep 2026 13:46:33 +0200</pubDate>
-      <dc:date>2026-09-12T13:46:33.70697467+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Winpoll, 24 July–3 August 2026 – Seat Projections</title>
-      <link>null/2026-08-03-Winpoll.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>39 seats needed for a majority<br/>Opinion poll by Winpoll, 24 July–3 August 2026<br/>Details on null/2026-08-03-Winpoll.html<br/><img src="null/2026-08-03-Winpoll-seats.png"/>]]></description>
-      <enclosure url="null/2026-08-03-Winpoll-seats.png" length="280765" type="image/png"/>
-      <pubDate>Sat, 12 Sep 2026 13:46:33 +0200</pubDate>
-      <dc:date>2026-09-12T13:46:33.70697467+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Winpoll, 24 July–3 August 2026 – Voting Intentions</title>
-      <link>null/2026-08-03-Winpoll.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Winpoll, 24 July–3 August 2026<br/>Details on null/2026-08-03-Winpoll.html<br/><img src="null/2026-08-03-Winpoll.png"/>]]></description>
-      <enclosure url="null/2026-08-03-Winpoll.png" length="357272" type="image/png"/>
-      <pubDate>Sat, 12 Sep 2026 13:46:33 +0200</pubDate>
-      <dc:date>2026-09-12T13:46:33.70697467+02:00</dc:date>
     </item>
   </channel>
 </rss>
