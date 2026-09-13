@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/italian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 12 Sep 2026 20:23:36 +0200</pubDate>
+    <pubDate>Sun, 13 Sep 2026 10:32:58 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Ixè, 3–10 September 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2026-09-10-Ixè.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Noi Moderati (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 0 seats&lt;/li&gt;&lt;li&gt;Più Europa (RE): 0 seats&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 20–24 seats&lt;/li&gt;&lt;li&gt;Partito Progressista (*): 0–1 seats&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 17–20 seats&lt;/li&gt;&lt;li&gt;Movimento 5 Stelle (GUE/NGL): 10–12 seats&lt;/li&gt;&lt;li&gt;Futuro Nazionale (ESN): 6–8 seats&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 4–7 seats&lt;/li&gt;&lt;li&gt;Azione (RE): 0 seats&lt;/li&gt;&lt;li&gt;Lega Nord (PfE): 0–4 seats&lt;/li&gt;&lt;li&gt;Sinistra Italiana (GUE/NGL): 2–3 seats&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 3–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2026-09-10-Ixè-seats.png"
+        length="288497"
+        type="image/png"/>
+      <pubDate>Sun, 13 Sep 2026 10:32:58 +0200</pubDate>
+      <dc:date>2026-09-13T10:32:58.598309+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ixè, 3–10 September 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2026-09-10-Ixè.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2026-09-10-Ixè-coalitions-seats.png"
+        length="228001"
+        type="image/png"/>
+      <pubDate>Sun, 13 Sep 2026 10:32:58 +0200</pubDate>
+      <dc:date>2026-09-13T10:32:58.598309+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ixè, 3–10 September 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/italian_ep_polls/2026-09-10-Ixè.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Noi Moderati (EPP): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Italia Viva (RE): 1.6–3.6%&lt;/li&gt;&lt;li&gt;Più Europa (RE): 1.0–2.6%&lt;/li&gt;&lt;li&gt;Fratelli d’Italia (ECR): 23.5–28.9%&lt;/li&gt;&lt;li&gt;Partito Progressista (*): 0.3–1.4%&lt;/li&gt;&lt;li&gt;Partito Democratico (S&amp;amp;D): 19.5–24.7%&lt;/li&gt;&lt;li&gt;Movimento 5 Stelle (GUE/NGL): 11.6–15.9%&lt;/li&gt;&lt;li&gt;Futuro Nazionale (ESN): 6.6–10.0%&lt;/li&gt;&lt;li&gt;Forza Italia (EPP): 6.1–9.4%&lt;/li&gt;&lt;li&gt;Azione (RE): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Lega Nord (PfE): 3.5–6.1%&lt;/li&gt;&lt;li&gt;Sinistra Italiana (GUE/NGL): 1.8–3.8%&lt;/li&gt;&lt;li&gt;Europa Verde (Greens/EFA): 2.9–5.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/italian_ep_polls/2026-09-10-Ixè.png"
+        length="363541"
+        type="image/png"/>
+      <pubDate>Sun, 13 Sep 2026 10:32:58 +0200</pubDate>
+      <dc:date>2026-09-13T10:32:58.598309+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by SWG for La7, 2–7 September 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/italian_ep_polls/2026-09-07-SWG.html#seats</link>
@@ -579,6 +609,6 @@
       <pubDate>Sat, 12 Sep 2026 20:23:36 +0200</pubDate>
       <dc:date>2026-09-12T20:23:36.521604+02:00</dc:date>
     </item>
-    <dc:date>2026-09-12T20:23:36.521604+02:00</dc:date>
+    <dc:date>2026-09-13T10:32:58.598309+02:00</dc:date>
   </channel>
 </rss>
