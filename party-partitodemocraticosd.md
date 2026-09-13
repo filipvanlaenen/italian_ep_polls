@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.6% | 19.9–23.3% | 19.4–23.9% | 19.0–24.3% | 18.2–25.4% |
+| N/A | [Poll Average](average.html) | 21.6% | 19.9–23.3% | 19.4–23.9% | 19.0–24.4% | 18.2–25.5% |
+| [3–10 September 2026](2026-09-10-Ixè.html) | Ixè | 22.0% | 20.4–23.7% | 19.9–24.2% | 19.5–24.7% | 18.8–25.5% |
 | [2–7 September 2026](2026-09-07-SWG.html) | SWG <br> La7 | 20.6% | 19.1–22.1% | 18.7–22.6% | 18.4–23.0% | 17.7–23.7% |
 | [4–6 September 2026](2026-09-06-BiDiMedia.html) | BiDiMedia | 21.2% | 19.6–22.9% | 19.2–23.4% | 18.8–23.9% | 18.0–24.7% |
 | [2–3 September 2026](2026-09-03-TermometroPolitico.html) | Termometro Politico | 21.7% | 20.6–22.8% | 20.3–23.2% | 20.0–23.5% | 19.5–24.0% |
@@ -212,7 +213,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [15–16 December 2025](2025-12-16-BiDiMedia.html) | BiDiMedia | 22.4% | N/A | N/A | N/A | N/A |
 | [10–15 December 2025](2025-12-15-SWG.html) | SWG <br> La7 | 22.3% | N/A | N/A | N/A | N/A |
 | [15 December 2025](2025-12-15-Piepoli.html) | Piepoli | 21.6% | N/A | N/A | N/A | N/A |
-| [15 December 2025](2025-12-15-Ipsos.html) | Ipsos | 21.0% | N/A | N/A | N/A | N/A |
+| [15 December 2025](2025-12-15-Ipsos.html) | Ipsos | 21.2% | N/A | N/A | N/A | N/A |
 | [1–12 December 2025](2025-12-12-EMG.html) | EMG | 21.4% | N/A | N/A | N/A | N/A |
 | [9–11 December 2025](2025-12-11-TermometroPolitico.html) | Termometro Politico | 22.1% | N/A | N/A | N/A | N/A |
 | [10–11 December 2025](2025-12-11-Tecnè.html) | Tecnè <br> Agenzia Dire | 21.7% | N/A | N/A | N/A | N/A |
@@ -587,13 +588,13 @@ The following table shows the probability mass function per percentage block of 
 | 16.5–17.5% | 0.1% | 100% |  |
 | 17.5–18.5% | 1.0% | 99.9% |  |
 | 18.5–19.5% | 5% | 98.9% |  |
-| 19.5–20.5% | 14% | 94% |  |
-| 20.5–21.5% | 27% | 79% |  |
-| 21.5–22.5% | 29% | 52% | Median |
-| 22.5–23.5% | 16% | 24% |  |
+| 19.5–20.5% | 15% | 93% |  |
+| 20.5–21.5% | 28% | 78% |  |
+| 21.5–22.5% | 27% | 51% | Median |
+| 22.5–23.5% | 15% | 23% |  |
 | 23.5–24.5% | 6% | 8% |  |
-| 24.5–25.5% | 1.5% | 2% |  |
-| 25.5–26.5% | 0.3% | 0.4% |  |
+| 24.5–25.5% | 2% | 2% |  |
+| 25.5–26.5% | 0.4% | 0.4% |  |
 | 26.5–27.5% | 0.1% | 0.1% |  |
 | 27.5–28.5% | 0% | 0% |  |
 
@@ -607,6 +608,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18 | 16–21 | 16–21 | 16–21 | 15–22 |
+| [3–10 September 2026](2026-09-10-Ixè.html) | Ixè | 18 | 18–19 | 17–20 | 17–20 | 16–21 |
 | [2–7 September 2026](2026-09-07-SWG.html) | SWG <br> La7 | 17 | 16–18 | 16–19 | 16–20 | 15–20 |
 | [4–6 September 2026](2026-09-06-BiDiMedia.html) | BiDiMedia | 17 | 16–20 | 16–21 | 16–22 | 16–22 |
 | [2–3 September 2026](2026-09-03-TermometroPolitico.html) | Termometro Politico | 19 | 17–19 | 17–20 | 17–20 | 16–20 |
@@ -1182,10 +1184,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 100% |  |
 | 15 | 0.9% | 100% |  |
 | 16 | 12% | 99.0% |  |
-| 17 | 19% | 87% |  |
-| 18 | 20% | 68% | Median |
-| 19 | 27% | 48% |  |
-| 20 | 9% | 22% |  |
+| 17 | 15% | 87% |  |
+| 18 | 29% | 72% | Median |
+| 19 | 23% | 43% |  |
+| 20 | 6% | 19% |  |
 | 21 | 11% | 13% |  |
 | 22 | 1.2% | 2% |  |
 | 23 | 0.4% | 0.4% |  |

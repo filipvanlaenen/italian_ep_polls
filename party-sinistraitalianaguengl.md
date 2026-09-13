@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.4% | 1.9–3.2% | 1.7–3.4% | 1.6–3.6% | 1.3–4.0% |
+| N/A | [Poll Average](average.html) | 2.4% | 1.8–3.1% | 1.7–3.3% | 1.6–3.5% | 1.3–3.9% |
+| [3–10 September 2026](2026-09-10-Ixè.html) | Ixè | 2.6% | 2.1–3.4% | 1.9–3.6% | 1.8–3.8% | 1.6–4.2% |
 | [2–7 September 2026](2026-09-07-SWG.html) | SWG <br> La7 | 2.4% | 1.9–3.1% | 1.8–3.3% | 1.7–3.5% | 1.5–3.8% |
 | [4–6 September 2026](2026-09-06-BiDiMedia.html) | BiDiMedia | 2.4% | 1.9–3.2% | 1.7–3.4% | 1.6–3.6% | 1.4–3.9% |
 | [2–3 September 2026](2026-09-03-TermometroPolitico.html) | Termometro Politico | 2.2% | 1.8–2.6% | 1.7–2.8% | 1.6–2.9% | 1.5–3.1% |
@@ -569,9 +570,9 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 2% | 100% |  |
-| 1.5–2.5% | 55% | 98% | Median |
-| 2.5–3.5% | 39% | 43% |  |
-| 3.5–4.5% | 3% | 3% |  |
+| 1.5–2.5% | 60% | 98% | Median |
+| 2.5–3.5% | 35% | 38% |  |
+| 3.5–4.5% | 2% | 2% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -584,6 +585,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
+| [3–10 September 2026](2026-09-10-Ixè.html) | Ixè | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
 | [2–7 September 2026](2026-09-07-SWG.html) | SWG <br> La7 | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | [4–6 September 2026](2026-09-06-BiDiMedia.html) | BiDiMedia | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
 | [2–3 September 2026](2026-09-03-TermometroPolitico.html) | Termometro Politico | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
@@ -1144,8 +1146,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.3% | 100% | Last Result |
 | 1 | 14% | 99.7% |  |
-| 2 | 54% | 85% | Median |
-| 3 | 31% | 32% |  |
+| 2 | 64% | 85% | Median |
+| 3 | 20% | 21% |  |
 | 4 | 0.9% | 0.9% |  |
 | 5 | 0% | 0% |  |
 
