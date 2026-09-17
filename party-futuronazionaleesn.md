@@ -10,8 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.7% | 6.6–9.0% | 6.4–9.3% | 6.1–9.7% | 5.8–10.3% |
+| N/A | [Poll Average](average.html) | 7.7% | 6.6–8.9% | 6.3–9.3% | 6.1–9.6% | 5.6–10.3% |
+| [9–14 September 2026](2026-09-14-SWG.html) | SWG <br> La7 | 7.9% | 7.0–9.0% | 6.7–9.3% | 6.5–9.6% | 6.1–10.1% |
 | [3–10 September 2026](2026-09-10-Ixè.html) | Ixè | 8.1% | 7.1–9.3% | 6.8–9.7% | 6.6–10.0% | 6.1–10.6% |
+| [7–8 September 2026](2026-09-08-EMG.html) | EMG <br> Rai 3 | 7.2% | 6.2–8.4% | 6.0–8.7% | 5.7–9.0% | 5.3–9.6% |
 | [2–7 September 2026](2026-09-07-SWG.html) | SWG <br> La7 | 7.7% | 6.8–8.7% | 6.5–9.1% | 6.3–9.3% | 5.9–9.9% |
 | [4–6 September 2026](2026-09-06-BiDiMedia.html) | BiDiMedia | 7.8% | 6.8–9.0% | 6.5–9.3% | 6.3–9.6% | 5.8–10.2% |
 | [2–3 September 2026](2026-09-03-TermometroPolitico.html) | Termometro Politico | 6.9% | 6.2–7.7% | 6.1–7.9% | 5.9–8.0% | 5.6–8.4% |
@@ -573,13 +575,13 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.2% | 100% |  |
-| 5.5–6.5% | 8% | 99.8% |  |
-| 6.5–7.5% | 35% | 91% |  |
-| 7.5–8.5% | 37% | 56% | Median |
-| 8.5–9.5% | 16% | 19% |  |
+| 4.5–5.5% | 0.3% | 100% |  |
+| 5.5–6.5% | 10% | 99.7% |  |
+| 6.5–7.5% | 35% | 90% |  |
+| 7.5–8.5% | 36% | 55% | Median |
+| 8.5–9.5% | 15% | 18% |  |
 | 9.5–10.5% | 3% | 3% |  |
-| 10.5–11.5% | 0.3% | 0.3% |  |
+| 10.5–11.5% | 0.2% | 0.2% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
 
@@ -591,8 +593,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–8 | 6–8 | 5–9 | 5–9 |
+| N/A | [Poll Average](average.html) | 7 | 6–8 | 5–8 | 5–9 | 5–9 |
+| [9–14 September 2026](2026-09-14-SWG.html) | SWG <br> La7 | 6 | 6–8 | 6–8 | 5–8 | 5–9 |
 | [3–10 September 2026](2026-09-10-Ixè.html) | Ixè | 7 | 7 | 6–8 | 6–8 | 6–9 |
+| [7–8 September 2026](2026-09-08-EMG.html) | EMG <br> Rai 3 | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [2–7 September 2026](2026-09-07-SWG.html) | SWG <br> La7 | 7 | 6–7 | 6–7 | 5–7 | 5–8 |
 | [4–6 September 2026](2026-09-06-BiDiMedia.html) | BiDiMedia | 7 | 6–8 | 6–9 | 5–9 | 5–10 |
 | [2–3 September 2026](2026-09-03-TermometroPolitico.html) | Termometro Politico | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
@@ -1156,10 +1160,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0.1% | 100% |  |
-| 5 | 4% | 99.9% |  |
-| 6 | 29% | 96% |  |
-| 7 | 46% | 67% | Median |
-| 8 | 19% | 21% |  |
+| 5 | 5% | 99.9% |  |
+| 6 | 38% | 95% |  |
+| 7 | 36% | 57% | Median |
+| 8 | 18% | 21% |  |
 | 9 | 2% | 3% |  |
 | 10 | 0.3% | 0.3% |  |
 | 11 | 0% | 0% |  |

@@ -10,8 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.1% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% | 0.4–2.1% |
+| N/A | [Poll Average](average.html) | 1.1% | 0.7–1.7% | 0.6–1.9% | 0.6–2.2% | 0.4–2.6% |
+| [9–14 September 2026](2026-09-14-SWG.html) | SWG <br> La7 | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.6–1.8% | 0.5–2.0% |
 | [3–10 September 2026](2026-09-10-Ixè.html) | Ixè | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
+| [7–8 September 2026](2026-09-08-EMG.html) | EMG <br> Rai 3 | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
 | [2–7 September 2026](2026-09-07-SWG.html) | SWG <br> La7 | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.6–1.8% | 0.5–2.0% |
 | [4–6 September 2026](2026-09-06-BiDiMedia.html) | BiDiMedia | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [2–3 September 2026](2026-09-03-TermometroPolitico.html) | Termometro Politico | 1.1% | 0.9–1.4% | 0.8–1.5% | 0.7–1.6% | 0.6–1.8% |
@@ -568,10 +570,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 3% | 100% | Last Result |
-| 0.5–1.5% | 90% | 97% | Median |
-| 1.5–2.5% | 7% | 7% |  |
-| 2.5–3.5% | 0% | 0% |  |
+| 0.0–0.5% | 2% | 100% | Last Result |
+| 0.5–1.5% | 81% | 98% | Median |
+| 1.5–2.5% | 16% | 16% |  |
+| 2.5–3.5% | 0.5% | 0.5% |  |
+| 3.5–4.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -583,7 +586,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [9–14 September 2026](2026-09-14-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [3–10 September 2026](2026-09-10-Ixè.html) | Ixè | 0 | 0 | 0 | 0 | 0 |
+| [7–8 September 2026](2026-09-08-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0 | 0 | 0 |
 | [2–7 September 2026](2026-09-07-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [4–6 September 2026](2026-09-06-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0 |
 | [2–3 September 2026](2026-09-03-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
