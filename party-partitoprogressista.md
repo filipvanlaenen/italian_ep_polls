@@ -11,6 +11,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.7% |
+| [30 September–5 October 2026](2026-10-05-SWG.html) | SWG <br> La7 | 0.6% | 0.4–1.0% | 0.3–1.1% | 0.3–1.2% | 0.2–1.4% |
+| [29 September–1 October 2026](2026-10-01-TermometroPolitico.html) | Termometro Politico | 0.6% | 0.4–0.8% | 0.4–0.9% | 0.3–1.0% | 0.3–1.1% |
+| [29–30 September 2026](2026-09-30-Eumetra.html) | Eumetra <br> La7 | 0.6% | 0.4–1.2% | 0.3–1.3% | 0.3–1.5% | 0.2–1.8% |
 | [23–28 September 2026](2026-09-28-SWG.html) | SWG <br> La7 | 0.6% | 0.4–1.0% | 0.3–1.1% | 0.3–1.2% | 0.2–1.4% |
 | [22–24 September 2026](2026-09-24-TermometroPolitico.html) | Termometro Politico | 0.6% | 0.4–0.8% | 0.4–0.9% | 0.3–0.9% | 0.3–1.1% |
 | [21–24 September 2026](2026-09-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
@@ -609,6 +612,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [30 September–5 October 2026](2026-10-05-SWG.html) | SWG <br> La7 | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [29 September–1 October 2026](2026-10-01-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0–1 | 0–1 |
+| [29–30 September 2026](2026-09-30-Eumetra.html) | Eumetra <br> La7 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [23–28 September 2026](2026-09-28-SWG.html) | SWG <br> La7 | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [22–24 September 2026](2026-09-24-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0–1 |
 | [21–24 September 2026](2026-09-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0–1 | 0–1 | 0–1 | 0–1 |

@@ -11,6 +11,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.9% | 0.5–1.3% | 0.4–1.5% | 0.3–1.6% | 0.2–1.9% |
+| [30 September–5 October 2026](2026-10-05-SWG.html) | SWG <br> La7 | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.6–1.8% | 0.5–2.0% |
+| [29 September–1 October 2026](2026-10-01-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
+| [29–30 September 2026](2026-09-30-Eumetra.html) | Eumetra <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [23–28 September 2026](2026-09-28-SWG.html) | SWG <br> La7 | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.6–1.8% | 0.5–2.0% |
 | [22–24 September 2026](2026-09-24-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
 | [21–24 September 2026](2026-09-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 0.0% | N/A | N/A | N/A | N/A |
@@ -609,6 +612,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [30 September–5 October 2026](2026-10-05-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
+| [29 September–1 October 2026](2026-10-01-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [29–30 September 2026](2026-09-30-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [23–28 September 2026](2026-09-28-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [22–24 September 2026](2026-09-24-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [21–24 September 2026](2026-09-24-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
