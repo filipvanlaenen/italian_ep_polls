@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.4% | 4.4–7.2% | 4.1–7.9% | 3.9–8.3% | 3.5–9.2% |
+| N/A | [Poll Average](average.html) | 5.7% | 4.5–7.6% | 4.2–8.2% | 3.9–8.6% | 3.5–9.4% |
+| [7–12 October 2026](2026-10-12-SWG.html) | SWG <br> La7 | 5.4% | 4.7–6.4% | 4.5–6.6% | 4.3–6.9% | 3.9–7.3% |
+| [6–8 October 2026](2026-10-08-TermometroPolitico.html) | Termometro Politico | 5.3% | N/A | N/A | N/A | N/A |
+| [5–6 October 2026](2026-10-06-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 4.8% | 4.0–6.0% | 3.8–6.3% | 3.6–6.6% | 3.2–7.1% |
 | [30 September–5 October 2026](2026-10-05-SWG.html) | SWG <br> La7 | 5.2% | 4.4–6.1% | 4.2–6.3% | 4.0–6.6% | 3.7–7.0% |
 | [29 September–1 October 2026](2026-10-01-TermometroPolitico.html) | Termometro Politico | 5.2% | 4.7–5.9% | 4.5–6.1% | 4.4–6.2% | 4.1–6.5% |
 | [29–30 September 2026](2026-09-30-Eumetra.html) | Eumetra <br> La7 | 5.5% | 4.6–6.7% | 4.3–7.0% | 4.1–7.3% | 3.7–7.9% |
@@ -217,7 +220,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [20–27 January 2026](2026-01-27-Ixè.html) | Ixè | 8.0% | N/A | N/A | N/A | N/A |
 | [26–27 January 2026](2026-01-27-EMG.html) | EMG | 8.4% | N/A | N/A | N/A | N/A |
 | [21–26 January 2026](2026-01-26-SWG.html) | SWG <br> La7 | 8.0% | N/A | N/A | N/A | N/A |
-| [20–22 January 2026](2026-01-22-TermometroPolitico.html) | Termometro Politico | 8.4% | N/A | N/A | N/A | N/A |
+| [19–22 January 2026](2026-01-22-TermometroPolitico.html) | Termometro Politico | 8.4% | N/A | N/A | N/A | N/A |
 | [21–22 January 2026](2026-01-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 8.1% | N/A | N/A | N/A | N/A |
 | [20–21 January 2026](2026-01-21-Eumetra.html) | Eumetra <br> La7 | 8.2% | N/A | N/A | N/A | N/A |
 | [8–21 January 2026](2026-01-21-EMG.html) | EMG | 8.2% | N/A | N/A | N/A | N/A |
@@ -601,13 +604,13 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0.7% | 100% |  |
-| 3.5–4.5% | 14% | 99.3% |  |
-| 4.5–5.5% | 40% | 86% | Median |
-| 5.5–6.5% | 27% | 46% |  |
-| 6.5–7.5% | 11% | 18% |  |
-| 7.5–8.5% | 5% | 7% |  |
-| 8.5–9.5% | 2% | 2% |  |
-| 9.5–10.5% | 0.2% | 0.2% |  |
+| 3.5–4.5% | 12% | 99.3% |  |
+| 4.5–5.5% | 32% | 88% |  |
+| 5.5–6.5% | 29% | 55% | Median |
+| 6.5–7.5% | 16% | 27% |  |
+| 7.5–8.5% | 8% | 11% |  |
+| 8.5–9.5% | 2% | 3% |  |
+| 9.5–10.5% | 0.3% | 0.3% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -619,7 +622,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–6 | 3–7 | 0–7 | 0–8 |
+| N/A | [Poll Average](average.html) | 5 | 4–7 | 3–7 | 0–8 | 0–8 |
+| [7–12 October 2026](2026-10-12-SWG.html) | SWG <br> La7 | 5 | 4–5 | 4–6 | 4–6 | 0–6 |
+| [6–8 October 2026](2026-10-08-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [5–6 October 2026](2026-10-06-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 4 | 4 | 4 | 0–4 | 0–6 |
 | [30 September–5 October 2026](2026-10-05-SWG.html) | SWG <br> La7 | 4 | 4–5 | 4–6 | 4–6 | 0–6 |
 | [29 September–1 October 2026](2026-10-01-TermometroPolitico.html) | Termometro Politico | 4 | 4–5 | 4–5 | 4–5 | 0–6 |
 | [29–30 September 2026](2026-09-30-Eumetra.html) | Eumetra <br> La7 | 5 | 4–6 | 4–6 | 3–6 | 0–6 |
@@ -826,7 +832,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [20–27 January 2026](2026-01-27-Ixè.html) | Ixè |  |  |  |  |  |
 | [26–27 January 2026](2026-01-27-EMG.html) | EMG |  |  |  |  |  |
 | [21–26 January 2026](2026-01-26-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [20–22 January 2026](2026-01-22-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [19–22 January 2026](2026-01-22-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [21–22 January 2026](2026-01-22-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [20–21 January 2026](2026-01-21-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [8–21 January 2026](2026-01-21-EMG.html) | EMG |  |  |  |  |  |
@@ -1211,13 +1217,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 4% | 100% | Last Result |
 | 1 | 0% | 96% |  |
 | 2 | 0% | 96% |  |
-| 3 | 1.4% | 96% |  |
-| 4 | 35% | 94% |  |
-| 5 | 39% | 60% | Median |
-| 6 | 15% | 21% |  |
-| 7 | 5% | 6% |  |
-| 8 | 2% | 2% |  |
-| 9 | 0.1% | 0.2% |  |
+| 3 | 1.3% | 96% |  |
+| 4 | 30% | 95% |  |
+| 5 | 33% | 65% | Median |
+| 6 | 21% | 31% |  |
+| 7 | 7% | 10% |  |
+| 8 | 3% | 3% |  |
+| 9 | 0.2% | 0.3% |  |
 | 10 | 0% | 0% |  |
 
 
