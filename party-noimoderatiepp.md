@@ -10,9 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.2% | 0.7–1.8% | 0.6–2.0% | 0.6–2.2% | 0.4–2.6% |
+| N/A | [Poll Average](average.html) | 1.1% | 0.7–1.8% | 0.6–2.0% | 0.6–2.2% | 0.4–2.6% |
 | [7–12 October 2026](2026-10-12-SWG.html) | SWG <br> La7 | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.6–1.8% | 0.5–2.0% |
-| [6–8 October 2026](2026-10-08-TermometroPolitico.html) | Termometro Politico | 1.0% | N/A | N/A | N/A | N/A |
+| [6–8 October 2026](2026-10-08-TermometroPolitico.html) | Termometro Politico | 1.0% | 0.8–1.3% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% |
 | [5–6 October 2026](2026-10-06-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 1.0% | 0.7–1.6% | 0.6–1.8% | 0.5–2.0% | 0.4–2.3% |
 | [30 September–5 October 2026](2026-10-05-SWG.html) | SWG <br> La7 | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.6–1.8% | 0.5–2.0% |
 | [29 September–1 October 2026](2026-10-01-TermometroPolitico.html) | Termometro Politico | 1.1% | 0.9–1.4% | 0.8–1.5% | 0.7–1.6% | 0.6–1.8% |
@@ -601,9 +601,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 2% | 100% | Last Result |
-| 0.5–1.5% | 77% | 98% | Median |
-| 1.5–2.5% | 20% | 20% |  |
-| 2.5–3.5% | 0.7% | 0.8% |  |
+| 0.5–1.5% | 80% | 98% | Median |
+| 1.5–2.5% | 18% | 18% |  |
+| 2.5–3.5% | 0.7% | 0.7% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -617,7 +617,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [7–12 October 2026](2026-10-12-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
-| [6–8 October 2026](2026-10-08-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [6–8 October 2026](2026-10-08-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [5–6 October 2026](2026-10-06-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0 | 0 | 0 |
 | [30 September–5 October 2026](2026-10-05-SWG.html) | SWG <br> La7 | 0 | 0 | 0 | 0 | 0 |
 | [29 September–1 October 2026](2026-10-01-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
