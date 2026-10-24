@@ -642,11 +642,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 5–6 | 4–7 | 4–7 | 4–8 |
+| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–7 | 4–7 | 4–8 |
 | [20–21 October 2026](2026-10-21-Eumetra.html) | Eumetra <br> La7 | 5 | 4–7 | 4–7 | 4–7 | 3–8 |
-| [19–20 October 2026](2026-10-20-EMG.html) | EMG | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
-| [14–19 October 2026](2026-10-19-SWG.html) | SWG | 5 | 5 | 4–5 | 4–5 | 4–6 |
-| [17–19 October 2026](2026-10-19-BiDiMedia.html) | BiDiMedia | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
+| [19–20 October 2026](2026-10-20-EMG.html) | EMG | 6 | 5–6 | 4–7 | 4–7 | 4–8 |
+| [14–19 October 2026](2026-10-19-SWG.html) | SWG | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
+| [17–19 October 2026](2026-10-19-BiDiMedia.html) | BiDiMedia | 5 | 4–6 | 4–6 | 4–6 | 4–8 |
 | [13–15 October 2026](2026-10-15-TermometroPolitico.html) | Termometro Politico | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
 | [14–15 October 2026](2026-10-15-OnlyNumbers.html) | Only Numbers | 5 | 5–6 | 4–7 | 4–7 | 3–8 |
 | [12–14 October 2026](2026-10-14-Piepoli.html) | Piepoli <br> Agorà | 6 | 6 | 4–6 | 4–6 | 4–7 |
@@ -1257,11 +1257,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0.4% | 100% |  |
-| 4 | 5% | 99.6% |  |
-| 5 | 46% | 95% | Median |
-| 6 | 44% | 49% |  |
-| 7 | 5% | 5% |  |
-| 8 | 0.5% | 0.6% |  |
+| 4 | 12% | 99.6% |  |
+| 5 | 42% | 88% | Median |
+| 6 | 38% | 45% |  |
+| 7 | 6% | 7% |  |
+| 8 | 0.6% | 0.7% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
 

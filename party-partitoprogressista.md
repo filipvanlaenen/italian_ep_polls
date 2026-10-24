@@ -636,8 +636,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [20–21 October 2026](2026-10-21-Eumetra.html) | Eumetra <br> La7 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [19–20 October 2026](2026-10-20-EMG.html) | EMG | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [14–19 October 2026](2026-10-19-SWG.html) | SWG | 0 | 0 | 0 | 0 | 0 |
-| [17–19 October 2026](2026-10-19-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0–1 | 0–1 |
+| [14–19 October 2026](2026-10-19-SWG.html) | SWG | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [17–19 October 2026](2026-10-19-BiDiMedia.html) | BiDiMedia | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [13–15 October 2026](2026-10-15-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [14–15 October 2026](2026-10-15-OnlyNumbers.html) | Only Numbers | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [12–14 October 2026](2026-10-14-Piepoli.html) | Piepoli <br> Agorà | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -1244,8 +1244,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 87% | 100% | Last Result, Median |
-| 1 | 13% | 13% |  |
+| 0 | 82% | 100% | Last Result, Median |
+| 1 | 18% | 18% |  |
 | 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 

@@ -665,11 +665,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23 | 21–25 | 21–26 | 20–26 | 19–26 |
+| N/A | [Poll Average](average.html) | 23 | 21–25 | 21–26 | 20–26 | 19–27 |
 | [20–21 October 2026](2026-10-21-Eumetra.html) | Eumetra <br> La7 | 23 | 20–26 | 20–26 | 20–26 | 20–27 |
-| [19–20 October 2026](2026-10-20-EMG.html) | EMG | 25 | 23–25 | 22–25 | 22–25 | 21–27 |
-| [14–19 October 2026](2026-10-19-SWG.html) | SWG | 24 | 24–25 | 24–28 | 24–28 | 23–28 |
-| [17–19 October 2026](2026-10-19-BiDiMedia.html) | BiDiMedia | 24 | 22–24 | 22–24 | 22–24 | 22–26 |
+| [19–20 October 2026](2026-10-20-EMG.html) | EMG | 25 | 23–27 | 22–27 | 21–27 | 20–27 |
+| [14–19 October 2026](2026-10-19-SWG.html) | SWG | 24 | 22–26 | 22–26 | 22–28 | 21–28 |
+| [17–19 October 2026](2026-10-19-BiDiMedia.html) | BiDiMedia | 24 | 22–24 | 22–24 | 21–25 | 21–25 |
 | [13–15 October 2026](2026-10-15-TermometroPolitico.html) | Termometro Politico | 23 | 22–24 | 22–24 | 21–24 | 21–25 |
 | [14–15 October 2026](2026-10-15-OnlyNumbers.html) | Only Numbers | 25 | 22–26 | 20–26 | 19–26 | 19–27 |
 | [12–14 October 2026](2026-10-14-Piepoli.html) | Piepoli <br> Agorà | 21 | 21 | 21–25 | 21–25 | 20–26 |
@@ -1295,16 +1295,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
 | 18 | 0% | 100% |  |
-| 19 | 0.8% | 99.9% |  |
-| 20 | 3% | 99.2% |  |
-| 21 | 19% | 96% |  |
-| 22 | 9% | 78% |  |
-| 23 | 23% | 69% | Median |
-| 24 | 18% | 46% |  |
-| 25 | 22% | 28% |  |
-| 26 | 6% | 6% |  |
-| 27 | 0.2% | 0.4% |  |
-| 28 | 0.1% | 0.1% |  |
-| 29 | 0% | 0% |  |
+| 19 | 0.7% | 100% |  |
+| 20 | 3% | 99.3% |  |
+| 21 | 17% | 97% |  |
+| 22 | 12% | 80% |  |
+| 23 | 20% | 68% | Median |
+| 24 | 20% | 49% |  |
+| 25 | 20% | 29% |  |
+| 26 | 7% | 9% |  |
+| 27 | 2% | 2% |  |
+| 28 | 0.4% | 0.5% |  |
+| 29 | 0% | 0.1% |  |
+| 30 | 0% | 0% |  |
 
 

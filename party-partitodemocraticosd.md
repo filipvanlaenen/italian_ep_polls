@@ -656,11 +656,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 15–19 | 15–19 | 15–20 | 14–20 |
+| N/A | [Poll Average](average.html) | 17 | 15–19 | 15–19 | 15–20 | 14–21 |
 | [20–21 October 2026](2026-10-21-Eumetra.html) | Eumetra <br> La7 | 17 | 15–19 | 15–19 | 14–20 | 13–21 |
-| [19–20 October 2026](2026-10-20-EMG.html) | EMG | 17 | 17–19 | 17–20 | 17–20 | 14–22 |
-| [14–19 October 2026](2026-10-19-SWG.html) | SWG | 17 | 17 | 17–19 | 17–19 | 17–19 |
-| [17–19 October 2026](2026-10-19-BiDiMedia.html) | BiDiMedia | 19 | 17–19 | 17–19 | 17–19 | 16–20 |
+| [19–20 October 2026](2026-10-20-EMG.html) | EMG | 17 | 16–19 | 16–20 | 16–21 | 15–22 |
+| [14–19 October 2026](2026-10-19-SWG.html) | SWG | 19 | 17–20 | 16–21 | 15–21 | 15–21 |
+| [17–19 October 2026](2026-10-19-BiDiMedia.html) | BiDiMedia | 19 | 17–19 | 17–19 | 16–19 | 15–20 |
 | [13–15 October 2026](2026-10-15-TermometroPolitico.html) | Termometro Politico | 17 | 16–18 | 16–19 | 16–19 | 15–19 |
 | [14–15 October 2026](2026-10-15-OnlyNumbers.html) | Only Numbers | 15 | 15–19 | 15–19 | 15–19 | 14–19 |
 | [12–14 October 2026](2026-10-14-Piepoli.html) | Piepoli <br> Agorà | 15 | 15 | 15 | 15 | 14–19 |
@@ -1281,15 +1281,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0.2% | 100% |  |
-| 14 | 0.9% | 99.8% |  |
-| 15 | 29% | 98.9% |  |
-| 16 | 9% | 70% |  |
-| 17 | 30% | 62% | Median |
-| 18 | 11% | 32% |  |
-| 19 | 19% | 21% |  |
-| 20 | 2% | 3% |  |
-| 21 | 0.2% | 0.4% |  |
-| 22 | 0.2% | 0.2% |  |
+| 14 | 0.8% | 99.8% |  |
+| 15 | 25% | 99.0% |  |
+| 16 | 10% | 74% |  |
+| 17 | 26% | 64% | Median |
+| 18 | 14% | 38% |  |
+| 19 | 21% | 25% |  |
+| 20 | 2% | 4% |  |
+| 21 | 2% | 2% |  |
+| 22 | 0.1% | 0.1% |  |
 | 23 | 0% | 0% |  |
 
 
