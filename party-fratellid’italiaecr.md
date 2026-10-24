@@ -10,14 +10,14 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.3% | 25.3–29.3% | 24.7–29.9% | 24.2–30.4% | 23.2–31.5% |
+| N/A | [Poll Average](average.html) | 27.4% | 25.3–29.5% | 24.7–30.2% | 24.2–30.8% | 23.2–32.1% |
 | [20–21 October 2026](2026-10-21-Eumetra.html) | Eumetra <br> La7 | 27.8% | 25.8–29.9% | 25.2–30.5% | 24.8–31.0% | 23.8–32.0% |
 | [19–20 October 2026](2026-10-20-EMG.html) | EMG | 26.0% | 24.3–27.8% | 23.8–28.4% | 23.4–28.8% | 22.6–29.7% |
 | [14–19 October 2026](2026-10-19-SWG.html) | SWG | 28.1% | 26.5–29.8% | 26.0–30.3% | 25.6–30.7% | 24.8–31.5% |
 | [17–19 October 2026](2026-10-19-BiDiMedia.html) | BiDiMedia | 26.5% | 24.8–28.3% | 24.3–28.9% | 23.9–29.3% | 23.0–30.2% |
 | [13–15 October 2026](2026-10-15-TermometroPolitico.html) | Termometro Politico | 27.5% | 26.4–28.7% | 26.0–29.0% | 25.7–29.3% | 25.2–29.9% |
 | [14–15 October 2026](2026-10-15-OnlyNumbers.html) | Only Numbers | 27.8% | 25.8–29.9% | 25.2–30.5% | 24.8–31.0% | 23.8–32.0% |
-| [12–14 October 2026](2026-10-14-Piepoli.html) | Piepoli <br> Agorà | 28.0% | N/A | N/A | N/A | N/A |
+| [12–14 October 2026](2026-10-14-Piepoli.html) | Piepoli <br> Agorà | 28.0% | 25.5–30.7% | 24.8–31.4% | 24.2–32.1% | 23.1–33.4% |
 | [13–14 October 2026](2026-10-14-Eumetra.html) | Eumetra <br> La7 | 27.5% | N/A | N/A | N/A | N/A |
 | [7–12 October 2026](2026-10-12-SWG.html) | SWG <br> La7 | 27.7% | N/A | N/A | N/A | N/A |
 | [9 October 2026](2026-10-09-Lab2101.html) | Lab2101 <br> Affari Italiani | 28.4% | N/A | N/A | N/A | N/A |
@@ -645,15 +645,16 @@ The following table shows the probability mass function per percentage block of 
 | 22.5–23.5% | 0.8% | 99.9% |  |
 | 23.5–24.5% | 3% | 99.1% |  |
 | 24.5–25.5% | 9% | 96% |  |
-| 25.5–26.5% | 18% | 87% |  |
-| 26.5–27.5% | 25% | 69% | Median |
-| 27.5–28.5% | 23% | 44% |  |
-| 28.5–29.5% | 13% | 21% |  |
-| 29.5–30.5% | 5% | 7% |  |
-| 30.5–31.5% | 2% | 2% |  |
-| 31.5–32.5% | 0.4% | 0.4% |  |
-| 32.5–33.5% | 0.1% | 0.1% |  |
-| 33.5–34.5% | 0% | 0% |  |
+| 25.5–26.5% | 17% | 87% |  |
+| 26.5–27.5% | 24% | 71% | Median |
+| 27.5–28.5% | 23% | 46% |  |
+| 28.5–29.5% | 14% | 24% |  |
+| 29.5–30.5% | 6% | 10% |  |
+| 30.5–31.5% | 2% | 3% |  |
+| 31.5–32.5% | 0.7% | 1.0% |  |
+| 32.5–33.5% | 0.2% | 0.3% |  |
+| 33.5–34.5% | 0.1% | 0.1% |  |
+| 34.5–35.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -664,14 +665,14 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23 | 22–25 | 20–26 | 20–26 | 18–28 |
-| [20–21 October 2026](2026-10-21-Eumetra.html) | Eumetra <br> La7 | 23 | 20–26 | 20–26 | 20–26 | 20–26 |
+| N/A | [Poll Average](average.html) | 23 | 21–25 | 21–26 | 20–26 | 19–26 |
+| [20–21 October 2026](2026-10-21-Eumetra.html) | Eumetra <br> La7 | 23 | 20–26 | 20–26 | 20–26 | 20–27 |
 | [19–20 October 2026](2026-10-20-EMG.html) | EMG | 25 | 23–25 | 22–25 | 22–25 | 21–27 |
-| [14–19 October 2026](2026-10-19-SWG.html) | SWG | 24 | 23–26 | 22–26 | 22–28 | 22–28 |
+| [14–19 October 2026](2026-10-19-SWG.html) | SWG | 24 | 24–25 | 24–28 | 24–28 | 23–28 |
 | [17–19 October 2026](2026-10-19-BiDiMedia.html) | BiDiMedia | 24 | 22–24 | 22–24 | 22–24 | 22–26 |
 | [13–15 October 2026](2026-10-15-TermometroPolitico.html) | Termometro Politico | 23 | 22–24 | 22–24 | 21–24 | 21–25 |
-| [14–15 October 2026](2026-10-15-OnlyNumbers.html) | Only Numbers | 23 | 20–24 | 19–25 | 18–26 | 18–26 |
-| [12–14 October 2026](2026-10-14-Piepoli.html) | Piepoli <br> Agorà |  |  |  |  |  |
+| [14–15 October 2026](2026-10-15-OnlyNumbers.html) | Only Numbers | 25 | 22–26 | 20–26 | 19–26 | 19–27 |
+| [12–14 October 2026](2026-10-14-Piepoli.html) | Piepoli <br> Agorà | 21 | 21 | 21–25 | 21–25 | 20–26 |
 | [13–14 October 2026](2026-10-14-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [7–12 October 2026](2026-10-12-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [9 October 2026](2026-10-09-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
@@ -1293,17 +1294,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
-| 18 | 1.2% | 100% |  |
-| 19 | 0.3% | 98.8% |  |
-| 20 | 6% | 98% |  |
-| 21 | 2% | 93% |  |
-| 22 | 13% | 91% |  |
-| 23 | 33% | 78% | Median |
-| 24 | 22% | 45% |  |
-| 25 | 17% | 24% |  |
-| 26 | 6% | 7% |  |
-| 27 | 0.2% | 0.9% |  |
-| 28 | 0.7% | 0.7% |  |
+| 18 | 0% | 100% |  |
+| 19 | 0.8% | 99.9% |  |
+| 20 | 3% | 99.2% |  |
+| 21 | 19% | 96% |  |
+| 22 | 9% | 78% |  |
+| 23 | 23% | 69% | Median |
+| 24 | 18% | 46% |  |
+| 25 | 22% | 28% |  |
+| 26 | 6% | 6% |  |
+| 27 | 0.2% | 0.4% |  |
+| 28 | 0.1% | 0.1% |  |
 | 29 | 0% | 0% |  |
 
 

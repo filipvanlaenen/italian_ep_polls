@@ -10,14 +10,14 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.5% | 2.8–4.3% | 2.6–4.6% | 2.5–4.9% | 2.2–5.4% |
+| N/A | [Poll Average](average.html) | 3.5% | 2.8–4.4% | 2.6–4.7% | 2.4–5.0% | 2.1–5.6% |
 | [20–21 October 2026](2026-10-21-Eumetra.html) | Eumetra <br> La7 | 3.5% | 2.8–4.5% | 2.6–4.8% | 2.4–5.0% | 2.1–5.5% |
 | [19–20 October 2026](2026-10-20-EMG.html) | EMG | 3.1% | 2.5–3.9% | 2.3–4.2% | 2.2–4.4% | 1.9–4.8% |
 | [14–19 October 2026](2026-10-19-SWG.html) | SWG | 3.5% | 2.9–4.3% | 2.7–4.5% | 2.6–4.7% | 2.3–5.1% |
 | [17–19 October 2026](2026-10-19-BiDiMedia.html) | BiDiMedia | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
 | [13–15 October 2026](2026-10-15-TermometroPolitico.html) | Termometro Politico | 3.5% | 3.0–4.0% | 2.9–4.1% | 2.8–4.3% | 2.6–4.5% |
 | [14–15 October 2026](2026-10-15-OnlyNumbers.html) | Only Numbers | 3.6% | 2.9–4.6% | 2.7–4.9% | 2.5–5.2% | 2.2–5.7% |
-| [12–14 October 2026](2026-10-14-Piepoli.html) | Piepoli <br> Agorà | 3.6% | N/A | N/A | N/A | N/A |
+| [12–14 October 2026](2026-10-14-Piepoli.html) | Piepoli <br> Agorà | 3.6% | 2.7–4.9% | 2.5–5.3% | 2.3–5.6% | 1.9–6.3% |
 | [13–14 October 2026](2026-10-14-Eumetra.html) | Eumetra <br> La7 | 3.6% | N/A | N/A | N/A | N/A |
 | [7–12 October 2026](2026-10-12-SWG.html) | SWG <br> La7 | 3.7% | N/A | N/A | N/A | N/A |
 | [9 October 2026](2026-10-09-Lab2101.html) | Lab2101 <br> Affari Italiani | 3.1% | N/A | N/A | N/A | N/A |
@@ -622,11 +622,12 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 4% | 100% |  |
-| 2.5–3.5% | 49% | 96% |  |
-| 3.5–4.5% | 42% | 48% | Median |
-| 4.5–5.5% | 5% | 6% |  |
-| 5.5–6.5% | 0.3% | 0.3% |  |
+| 2.5–3.5% | 47% | 96% |  |
+| 3.5–4.5% | 42% | 49% | Median |
+| 4.5–5.5% | 7% | 7% |  |
+| 5.5–6.5% | 0.6% | 0.6% |  |
 | 6.5–7.5% | 0% | 0% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -637,14 +638,14 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–4 | 2–4 | 2–5 | 2–5 |
+| N/A | [Poll Average](average.html) | 3 | 3–5 | 3–5 | 2–5 | 2–5 |
 | [20–21 October 2026](2026-10-21-Eumetra.html) | Eumetra <br> La7 | 3 | 2–4 | 2–4 | 2–5 | 2–5 |
 | [19–20 October 2026](2026-10-20-EMG.html) | EMG | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
-| [14–19 October 2026](2026-10-19-SWG.html) | SWG | 4 | 3–4 | 3–5 | 2–5 | 2–5 |
+| [14–19 October 2026](2026-10-19-SWG.html) | SWG | 2 | 2–4 | 2–4 | 2–4 | 2–5 |
 | [17–19 October 2026](2026-10-19-BiDiMedia.html) | BiDiMedia | 3 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [13–15 October 2026](2026-10-15-TermometroPolitico.html) | Termometro Politico | 4 | 3–4 | 3–4 | 3–4 | 2–4 |
-| [14–15 October 2026](2026-10-15-OnlyNumbers.html) | Only Numbers | 3 | 3–4 | 2–5 | 2–6 | 2–6 |
-| [12–14 October 2026](2026-10-14-Piepoli.html) | Piepoli <br> Agorà |  |  |  |  |  |
+| [14–15 October 2026](2026-10-15-OnlyNumbers.html) | Only Numbers | 4 | 3–4 | 2–4 | 2–4 | 2–5 |
+| [12–14 October 2026](2026-10-14-Piepoli.html) | Piepoli <br> Agorà | 5 | 5 | 4–5 | 2–5 | 2–7 |
 | [13–14 October 2026](2026-10-14-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [7–12 October 2026](2026-10-12-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [9 October 2026](2026-10-09-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
@@ -1250,11 +1251,12 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 6% | 100% |  |
-| 3 | 62% | 94% | Median |
-| 4 | 27% | 31% |  |
-| 5 | 5% | 5% |  |
-| 6 | 0.1% | 0.1% |  |
-| 7 | 0% | 0% |  |
+| 2 | 5% | 99.9% |  |
+| 3 | 45% | 95% | Median |
+| 4 | 31% | 50% |  |
+| 5 | 18% | 19% |  |
+| 6 | 0.1% | 0.5% |  |
+| 7 | 0.4% | 0.4% |  |
+| 8 | 0% | 0% |  |
 
 
