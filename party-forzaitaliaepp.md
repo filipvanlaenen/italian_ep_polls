@@ -647,24 +647,24 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 4–7 | 4–7 | 3–8 |
 | [20–22 October 2026](2026-10-22-TermometroPolitico.html) | Termometro Politico | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
-| [21–22 October 2026](2026-10-22-OnlyNumbers.html) | Only Numbers | 5 | 4–7 | 4–7 | 4–7 | 3–7 |
+| [21–22 October 2026](2026-10-22-OnlyNumbers.html) | Only Numbers | 6 | 4–7 | 4–7 | 4–7 | 4–8 |
 | [20–21 October 2026](2026-10-21-Eumetra.html) | Eumetra <br> La7 | 5 | 4–7 | 4–7 | 4–7 | 3–8 |
 | [19–20 October 2026](2026-10-20-EMG.html) | EMG <br> Rai 3 | 6 | 5–6 | 4–7 | 4–7 | 4–8 |
 | [14–19 October 2026](2026-10-19-SWG.html) | SWG | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
-| [19 October 2026](2026-10-19-Piepoli.html) | Piepoli | 4 | 4–6 | 4–7 | 4–7 | 3–8 |
+| [19 October 2026](2026-10-19-Piepoli.html) | Piepoli | 5 | 4–6 | 4–7 | 3–8 | 3–8 |
 | [17–19 October 2026](2026-10-19-BiDiMedia.html) | BiDiMedia | 5 | 4–6 | 4–6 | 4–6 | 4–8 |
 | [13–15 October 2026](2026-10-15-TermometroPolitico.html) | Termometro Politico | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
 | [14–15 October 2026](2026-10-15-OnlyNumbers.html) | Only Numbers | 5 | 5–6 | 4–7 | 4–7 | 3–8 |
 | [12–14 October 2026](2026-10-14-Piepoli.html) | Piepoli <br> Agorà | 6 | 6 | 4–6 | 4–6 | 4–7 |
 | [13–14 October 2026](2026-10-14-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [7–12 October 2026](2026-10-12-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [9 October 2026](2026-10-09-Lab2101.html) | Lab2101 <br> Affari Italiani | 5 | 4–5 | 4–6 | 4–6 | 4–7 |
+| [9 October 2026](2026-10-09-Lab2101.html) | Lab2101 <br> Affari Italiani | 5 | 4–6 | 4–6 | 3–6 | 3–7 |
 | [6–8 October 2026](2026-10-08-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [5–8 October 2026](2026-10-08-SigmaConsulting.html) | Sigma Consulting | 5 | 4–6 | 4–6 | 4–7 | 3–8 |
+| [5–8 October 2026](2026-10-08-SigmaConsulting.html) | Sigma Consulting | 5 | 5–6 | 4–6 | 4–6 | 3–7 |
 | [7–8 October 2026](2026-10-08-OnlyNumbers.html) | Only Numbers |  |  |  |  |  |
 | [7–8 October 2026](2026-10-08-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
-| [5–6 October 2026](2026-10-06-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 6 | 5–7 | 4–8 | 4–8 | 4–8 |
-| [6 October 2026](2026-10-06-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
+| [5–6 October 2026](2026-10-06-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 5 | 5–7 | 4–7 | 4–7 | 3–8 |
+| [6 October 2026](2026-10-06-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 5 | 4–5 | 4–6 | 4–6 | 3–7 |
 | [5–6 October 2026](2026-10-06-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [30 September–5 October 2026](2026-10-05-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [5 October 2026](2026-10-05-Piepoli.html) | Piepoli |  |  |  |  |  |
@@ -672,8 +672,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [30 September–1 October 2026](2026-10-01-OnlyNumbers.html) | Only Numbers |  |  |  |  |  |
 | [29–30 September 2026](2026-09-30-Eumetra.html) | Eumetra <br> La7 | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
 | [23–28 September 2026](2026-09-28-SWG.html) | SWG <br> La7 | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
-| [28 September 2026](2026-09-28-OnlyNumbers.html) | Only Numbers | 6 | 4–6 | 4–6 | 4–7 | 3–7 |
-| [22–24 September 2026](2026-09-24-TermometroPolitico.html) | Termometro Politico | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
+| [28 September 2026](2026-09-28-OnlyNumbers.html) | Only Numbers | 6 | 5–6 | 4–6 | 4–7 | 3–7 |
+| [22–24 September 2026](2026-09-24-TermometroPolitico.html) | Termometro Politico | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [23–24 September 2026](2026-09-24-OnlyNumbers.html) | Only Numbers |  |  |  |  |  |
 | [21–24 September 2026](2026-09-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
 | [21–24 September 2026](2026-09-24-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
@@ -1262,12 +1262,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0.5% | 100% |  |
-| 4 | 22% | 99.4% |  |
-| 5 | 48% | 78% | Median |
-| 6 | 22% | 30% |  |
-| 7 | 7% | 7% |  |
-| 8 | 0.9% | 0.9% |  |
+| 3 | 0.9% | 100% |  |
+| 4 | 19% | 99.1% |  |
+| 5 | 49% | 80% | Median |
+| 6 | 25% | 32% |  |
+| 7 | 5% | 6% |  |
+| 8 | 0.8% | 0.8% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
 
