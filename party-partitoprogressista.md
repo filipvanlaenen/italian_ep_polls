@@ -669,8 +669,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [21–24 September 2026](2026-09-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [21–24 September 2026](2026-09-24-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [22–23 September 2026](2026-09-23-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
-| [18–22 September 2026](2026-09-22-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [21–22 September 2026](2026-09-22-EMG.html) | EMG <br> Rai 3 | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [18–22 September 2026](2026-09-22-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [21–22 September 2026](2026-09-22-EMG.html) | EMG <br> Rai 3 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [16–21 September 2026](2026-09-21-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [14–18 September 2026](2026-09-18-SigmaConsulting.html) | Sigma Consulting | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [15–17 September 2026](2026-09-17-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
@@ -1250,8 +1250,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 75% | 100% | Last Result, Median |
-| 1 | 25% | 25% |  |
+| 0 | 76% | 100% | Last Result, Median |
+| 1 | 24% | 24% |  |
 | 2 | 0.2% | 0.2% |  |
 | 3 | 0% | 0% |  |
 

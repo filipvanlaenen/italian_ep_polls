@@ -698,11 +698,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [28 September 2026](2026-09-28-OnlyNumbers.html) | Only Numbers | 22 | 21–24 | 20–24 | 20–24 | 20–25 |
 | [22–24 September 2026](2026-09-24-TermometroPolitico.html) | Termometro Politico | 25 | 22–25 | 22–25 | 21–25 | 20–25 |
 | [23–24 September 2026](2026-09-24-OnlyNumbers.html) | Only Numbers |  |  |  |  |  |
-| [21–24 September 2026](2026-09-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 22 | 20–25 | 20–25 | 19–26 | 18–26 |
-| [21–24 September 2026](2026-09-24-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 21 | 20–23 | 19–23 | 19–24 | 19–24 |
+| [21–24 September 2026](2026-09-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 22 | 20–24 | 20–25 | 19–25 | 18–26 |
+| [21–24 September 2026](2026-09-24-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 21 | 20–24 | 20–24 | 19–25 | 19–25 |
 | [22–23 September 2026](2026-09-23-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
-| [18–22 September 2026](2026-09-22-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 21 | 21–24 | 21–24 | 21–25 | 19–26 |
-| [21–22 September 2026](2026-09-22-EMG.html) | EMG <br> Rai 3 | 21 | 20–23 | 20–23 | 19–23 | 19–24 |
+| [18–22 September 2026](2026-09-22-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 23 | 21–24 | 21–25 | 21–26 | 19–26 |
+| [21–22 September 2026](2026-09-22-EMG.html) | EMG <br> Rai 3 | 21 | 20–23 | 20–23 | 19–24 | 19–24 |
 | [16–21 September 2026](2026-09-21-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [14–18 September 2026](2026-09-18-SigmaConsulting.html) | Sigma Consulting | 21 | 19–22 | 19–23 | 19–23 | 18–24 |
 | [15–17 September 2026](2026-09-17-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
@@ -1300,12 +1300,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
-| 18 | 0.2% | 100% |  |
-| 19 | 1.2% | 99.8% |  |
-| 20 | 5% | 98.7% |  |
-| 21 | 8% | 93% |  |
+| 18 | 0.1% | 100% |  |
+| 19 | 0.8% | 99.9% |  |
+| 20 | 7% | 99.0% |  |
+| 21 | 7% | 92% |  |
 | 22 | 18% | 85% |  |
-| 23 | 20% | 66% | Median |
+| 23 | 21% | 68% | Median |
 | 24 | 23% | 46% |  |
 | 25 | 15% | 23% |  |
 | 26 | 6% | 8% |  |

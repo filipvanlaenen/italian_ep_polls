@@ -675,10 +675,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [28 September 2026](2026-09-28-OnlyNumbers.html) | Only Numbers | 6 | 5–6 | 4–6 | 4–7 | 3–7 |
 | [22–24 September 2026](2026-09-24-TermometroPolitico.html) | Termometro Politico | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [23–24 September 2026](2026-09-24-OnlyNumbers.html) | Only Numbers |  |  |  |  |  |
-| [21–24 September 2026](2026-09-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
-| [21–24 September 2026](2026-09-24-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
+| [21–24 September 2026](2026-09-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
+| [21–24 September 2026](2026-09-24-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
 | [22–23 September 2026](2026-09-23-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
-| [18–22 September 2026](2026-09-22-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 7 | 4–7 | 4–7 | 4–7 | 3–7 |
+| [18–22 September 2026](2026-09-22-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 6 | 4–7 | 4–7 | 4–7 | 3–8 |
 | [21–22 September 2026](2026-09-22-EMG.html) | EMG <br> Rai 3 | 6 | 5–7 | 5–8 | 5–8 | 4–8 |
 | [16–21 September 2026](2026-09-21-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [14–18 September 2026](2026-09-18-SigmaConsulting.html) | Sigma Consulting | 5 | 4–5 | 4–6 | 4–6 | 3–7 |
@@ -1262,11 +1262,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0.9% | 100% |  |
-| 4 | 19% | 99.1% |  |
-| 5 | 49% | 80% | Median |
+| 3 | 1.0% | 100% |  |
+| 4 | 19% | 99.0% |  |
+| 5 | 48% | 80% | Median |
 | 6 | 25% | 32% |  |
-| 7 | 5% | 6% |  |
+| 7 | 6% | 6% |  |
 | 8 | 0.8% | 0.8% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |

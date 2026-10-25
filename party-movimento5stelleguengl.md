@@ -652,7 +652,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 9–12 | 9–13 | 9–13 | 8–14 |
+| N/A | [Poll Average](average.html) | 11 | 9–12 | 9–13 | 9–13 | 8–15 |
 | [20–22 October 2026](2026-10-22-TermometroPolitico.html) | Termometro Politico | 11 | 10–11 | 10–12 | 10–12 | 9–12 |
 | [21–22 October 2026](2026-10-22-OnlyNumbers.html) | Only Numbers | 9 | 9–10 | 8–11 | 8–11 | 7–12 |
 | [20–21 October 2026](2026-10-21-Eumetra.html) | Eumetra <br> La7 | 11 | 9–12 | 8–12 | 8–12 | 8–13 |
@@ -682,11 +682,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [28 September 2026](2026-09-28-OnlyNumbers.html) | Only Numbers | 10 | 9–11 | 8–11 | 8–12 | 7–12 |
 | [22–24 September 2026](2026-09-24-TermometroPolitico.html) | Termometro Politico | 10 | 10–11 | 9–11 | 9–12 | 9–12 |
 | [23–24 September 2026](2026-09-24-OnlyNumbers.html) | Only Numbers |  |  |  |  |  |
-| [21–24 September 2026](2026-09-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 11 | 11–13 | 11–13 | 10–14 | 10–15 |
-| [21–24 September 2026](2026-09-24-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 12 | 10–13 | 10–13 | 10–13 | 10–14 |
+| [21–24 September 2026](2026-09-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 12 | 11–13 | 11–14 | 10–15 | 10–15 |
+| [21–24 September 2026](2026-09-24-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 11 | 11–13 | 10–13 | 10–13 | 10–14 |
 | [22–23 September 2026](2026-09-23-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
-| [18–22 September 2026](2026-09-22-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 13 | 11–13 | 10–13 | 9–14 | 9–15 |
-| [21–22 September 2026](2026-09-22-EMG.html) | EMG <br> Rai 3 | 10 | 9–11 | 9–11 | 9–11 | 8–13 |
+| [18–22 September 2026](2026-09-22-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 12 | 10–13 | 10–13 | 9–14 | 9–15 |
+| [21–22 September 2026](2026-09-22-EMG.html) | EMG <br> Rai 3 | 10 | 9–11 | 9–12 | 9–12 | 8–13 |
 | [16–21 September 2026](2026-09-21-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [14–18 September 2026](2026-09-18-SigmaConsulting.html) | Sigma Consulting | 10 | 9–11 | 9–12 | 9–12 | 8–13 |
 | [15–17 September 2026](2026-09-17-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
@@ -1277,11 +1277,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 2% | 99.9% |  |
 | 9 | 13% | 98% |  |
 | 10 | 19% | 85% |  |
-| 11 | 36% | 66% | Median |
-| 12 | 22% | 30% |  |
-| 13 | 6% | 8% |  |
-| 14 | 1.5% | 2% |  |
-| 15 | 0.4% | 0.4% |  |
+| 11 | 37% | 66% | Median |
+| 12 | 21% | 29% |  |
+| 13 | 7% | 9% |  |
+| 14 | 1.4% | 2% |  |
+| 15 | 0.6% | 0.6% |  |
 | 16 | 0% | 0% |  |
 
 
