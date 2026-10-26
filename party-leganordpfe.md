@@ -687,15 +687,15 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [15 September 2026](2026-09-15-Tecnè.html) | Tecnè | 5 | 4–6 | 4–6 | 3–7 | 0–7 |
 | [9–14 September 2026](2026-09-14-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [14 September 2026](2026-09-14-OnlyNumbers.html) | Only Numbers |  |  |  |  |  |
-| [2–10 September 2026](2026-09-10-Winpoll.html) | Winpoll | 4 | 4–5 | 4–5 | 4–6 | 3–6 |
+| [2–10 September 2026](2026-09-10-Winpoll.html) | Winpoll | 5 | 4–5 | 4–5 | 4–6 | 0–6 |
 | [8–10 September 2026](2026-09-10-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [9–10 September 2026](2026-09-10-OnlyNumbers.html) | Only Numbers |  |  |  |  |  |
-| [3–10 September 2026](2026-09-10-Ixè.html) | Ixè | 4 | 3–4 | 3–4 | 3–4 | 0–5 |
+| [3–10 September 2026](2026-09-10-Ixè.html) | Ixè | 4 | 3–4 | 3–4 | 0–4 | 0–5 |
 | [9 September 2026](2026-09-09-Tecnè.html) | Tecnè <br> RTI |  |  |  |  |  |
 | [7–8 September 2026](2026-09-08-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [2–7 September 2026](2026-09-07-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [7 September 2026](2026-09-07-Piepoli.html) | Piepoli | 5 | 4–6 | 0–6 | 0–6 | 0–7 |
-| [4–6 September 2026](2026-09-06-BiDiMedia.html) | BiDiMedia | 5 | 0–6 | 0–6 | 0–6 | 0–7 |
+| [7 September 2026](2026-09-07-Piepoli.html) | Piepoli | 5 | 4–5 | 4–6 | 0–6 | 0–8 |
+| [4–6 September 2026](2026-09-06-BiDiMedia.html) | BiDiMedia | 5 | 0–5 | 0–6 | 0–6 | 0–7 |
 | [2–3 September 2026](2026-09-03-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [31 August–3 September 2026](2026-09-03-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
 | [2–3 September 2026](2026-09-03-OnlyNumbers.html) | Only Numbers |  |  |  |  |  |

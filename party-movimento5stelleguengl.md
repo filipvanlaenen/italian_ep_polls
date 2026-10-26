@@ -688,22 +688,22 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [18–22 September 2026](2026-09-22-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 12 | 10–13 | 10–13 | 9–14 | 9–15 |
 | [21–22 September 2026](2026-09-22-EMG.html) | EMG <br> Rai 3 | 10 | 9–11 | 9–12 | 9–12 | 8–13 |
 | [16–21 September 2026](2026-09-21-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [14–18 September 2026](2026-09-18-SigmaConsulting.html) | Sigma Consulting | 10 | 9–11 | 9–12 | 9–12 | 8–13 |
+| [14–18 September 2026](2026-09-18-SigmaConsulting.html) | Sigma Consulting | 10 | 9–12 | 9–13 | 8–13 | 8–13 |
 | [15–17 September 2026](2026-09-17-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [16–17 September 2026](2026-09-17-OnlyNumbers.html) | Only Numbers |  |  |  |  |  |
 | [15–16 September 2026](2026-09-16-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
-| [15 September 2026](2026-09-15-Tecnè.html) | Tecnè | 10 | 9–11 | 8–12 | 8–12 | 8–13 |
+| [15 September 2026](2026-09-15-Tecnè.html) | Tecnè | 10 | 9–11 | 8–12 | 8–13 | 8–13 |
 | [9–14 September 2026](2026-09-14-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [14 September 2026](2026-09-14-OnlyNumbers.html) | Only Numbers |  |  |  |  |  |
-| [2–10 September 2026](2026-09-10-Winpoll.html) | Winpoll | 9 | 8–10 | 8–10 | 8–11 | 8–11 |
+| [2–10 September 2026](2026-09-10-Winpoll.html) | Winpoll | 9 | 9–10 | 8–10 | 8–10 | 8–11 |
 | [8–10 September 2026](2026-09-10-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [9–10 September 2026](2026-09-10-OnlyNumbers.html) | Only Numbers |  |  |  |  |  |
 | [3–10 September 2026](2026-09-10-Ixè.html) | Ixè | 12 | 10–12 | 10–12 | 10–12 | 10–13 |
 | [9 September 2026](2026-09-09-Tecnè.html) | Tecnè <br> RTI |  |  |  |  |  |
 | [7–8 September 2026](2026-09-08-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [2–7 September 2026](2026-09-07-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [7 September 2026](2026-09-07-Piepoli.html) | Piepoli | 12 | 8–12 | 8–12 | 8–13 | 8–14 |
-| [4–6 September 2026](2026-09-06-BiDiMedia.html) | BiDiMedia | 12 | 10–13 | 9–13 | 9–13 | 7–13 |
+| [7 September 2026](2026-09-07-Piepoli.html) | Piepoli | 11 | 9–12 | 8–12 | 8–13 | 8–13 |
+| [4–6 September 2026](2026-09-06-BiDiMedia.html) | BiDiMedia | 11 | 10–12 | 10–12 | 10–13 | 8–14 |
 | [2–3 September 2026](2026-09-03-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [31 August–3 September 2026](2026-09-03-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
 | [2–3 September 2026](2026-09-03-OnlyNumbers.html) | Only Numbers |  |  |  |  |  |
