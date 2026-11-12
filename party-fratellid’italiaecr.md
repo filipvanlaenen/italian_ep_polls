@@ -673,9 +673,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23 | 21–26 | 21–26 | 20–27 | 19–28 |
+| N/A | [Poll Average](average.html) | 24 | 21–26 | 21–26 | 20–27 | 19–28 |
 | [27–30 October 2026](2026-10-30-BiDiMedia.html) | BiDiMedia | 24 | 21–26 | 21–26 | 21–27 | 20–28 |
-| [27–29 October 2026](2026-10-29-TermometroPolitico.html) | Termometro Politico | 22 | 22–24 | 22–24 | 22–25 | 21–26 |
+| [27–29 October 2026](2026-10-29-TermometroPolitico.html) | Termometro Politico | 23 | 22–25 | 22–25 | 22–25 | 22–26 |
 | [26–29 October 2026](2026-10-29-Ipsos.html) | Ipsos <br> Corriere della Sera | 21 | 20–23 | 20–24 | 20–24 | 18–25 |
 | [27–28 October 2026](2026-10-28-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 23 | 21–26 | 21–26 | 21–27 | 20–28 |
 | [21–26 October 2026](2026-10-26-SWG.html) | SWG <br> La7 | 25 | 24–26 | 23–26 | 23–27 | 22–28 |
@@ -1314,10 +1314,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 0.5% | 99.9% |  |
 | 20 | 3% | 99.5% |  |
 | 21 | 8% | 96% |  |
-| 22 | 18% | 88% |  |
-| 23 | 21% | 70% | Median |
-| 24 | 20% | 50% |  |
-| 25 | 17% | 30% |  |
+| 22 | 16% | 88% |  |
+| 23 | 22% | 73% |  |
+| 24 | 20% | 51% | Median |
+| 25 | 18% | 31% |  |
 | 26 | 10% | 13% |  |
 | 27 | 2% | 3% |  |
 | 28 | 0.6% | 0.7% |  |

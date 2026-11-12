@@ -652,7 +652,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 4–7 | 4–7 | 3–8 |
 | [27–30 October 2026](2026-10-30-BiDiMedia.html) | BiDiMedia | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
-| [27–29 October 2026](2026-10-29-TermometroPolitico.html) | Termometro Politico | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
+| [27–29 October 2026](2026-10-29-TermometroPolitico.html) | Termometro Politico | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [26–29 October 2026](2026-10-29-Ipsos.html) | Ipsos <br> Corriere della Sera | 5 | 4–5 | 3–5 | 3–5 | 3–6 |
 | [27–28 October 2026](2026-10-28-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 5 | 4–6 | 4–7 | 4–7 | 3–8 |
 | [21–26 October 2026](2026-10-26-SWG.html) | SWG <br> La7 | 6 | 5–7 | 5–7 | 4–7 | 4–8 |
@@ -1273,9 +1273,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 2% | 100% |  |
-| 4 | 19% | 98% |  |
-| 5 | 44% | 79% | Median |
-| 6 | 27% | 35% |  |
+| 4 | 20% | 98% |  |
+| 5 | 43% | 78% | Median |
+| 6 | 28% | 35% |  |
 | 7 | 7% | 7% |  |
 | 8 | 0.7% | 0.8% |  |
 | 9 | 0.1% | 0.1% |  |
