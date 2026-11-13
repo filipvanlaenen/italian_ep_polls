@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.2% | 6.1–8.4% | 5.8–8.8% | 5.5–9.1% | 5.0–9.8% |
+| N/A | [Poll Average](average.html) | 7.3% | 6.1–8.4% | 5.7–8.8% | 5.4–9.2% | 4.9–9.9% |
+| [4–9 November 2026](2026-11-09-SWG.html) | SWG <br> La7 | 7.3% | 6.4–8.4% | 6.2–8.7% | 6.0–9.0% | 5.6–9.5% |
+| [3–5 November 2026](2026-11-05-TermometroPolitico.html) | Termometro Politico | 7.4% | 6.8–8.2% | 6.6–8.4% | 6.4–8.5% | 6.1–8.9% |
 | [27–30 October 2026](2026-10-30-BiDiMedia.html) | BiDiMedia | 7.2% | 6.2–8.4% | 6.0–8.7% | 5.7–9.0% | 5.3–9.6% |
 | [27–29 October 2026](2026-10-29-TermometroPolitico.html) | Termometro Politico | 7.5% | 6.9–8.2% | 6.7–8.4% | 6.6–8.6% | 6.3–8.9% |
 | [26–29 October 2026](2026-10-29-Ipsos.html) | Ipsos <br> Corriere della Sera | 6.3% | 5.4–7.4% | 5.2–7.7% | 5.0–8.0% | 4.6–8.6% |
@@ -247,7 +249,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [20–27 January 2026](2026-01-27-Ixè.html) | Ixè | 8.4% | N/A | N/A | N/A | N/A |
 | [26–27 January 2026](2026-01-27-EMG.html) | EMG | 8.6% | N/A | N/A | N/A | N/A |
 | [21–26 January 2026](2026-01-26-SWG.html) | SWG <br> La7 | 8.2% | N/A | N/A | N/A | N/A |
-| [19–22 January 2026](2026-01-22-TermometroPolitico.html) | Termometro Politico | 8.6% | N/A | N/A | N/A | N/A |
+| [20–22 January 2026](2026-01-22-TermometroPolitico.html) | Termometro Politico | 8.5% | N/A | N/A | N/A | N/A |
 | [21–22 January 2026](2026-01-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 10.5% | N/A | N/A | N/A | N/A |
 | [20–21 January 2026](2026-01-21-Eumetra.html) | Eumetra <br> La7 | 8.6% | N/A | N/A | N/A | N/A |
 | [8–21 January 2026](2026-01-21-EMG.html) | EMG | 8.6% | N/A | N/A | N/A | N/A |
@@ -651,6 +653,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 4–7 | 4–7 | 3–8 |
+| [4–9 November 2026](2026-11-09-SWG.html) | SWG <br> La7 | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
+| [3–5 November 2026](2026-11-05-TermometroPolitico.html) | Termometro Politico | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [27–30 October 2026](2026-10-30-BiDiMedia.html) | BiDiMedia | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
 | [27–29 October 2026](2026-10-29-TermometroPolitico.html) | Termometro Politico | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [26–29 October 2026](2026-10-29-Ipsos.html) | Ipsos <br> Corriere della Sera | 5 | 4–5 | 3–5 | 3–5 | 3–6 |
@@ -887,7 +891,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [20–27 January 2026](2026-01-27-Ixè.html) | Ixè |  |  |  |  |  |
 | [26–27 January 2026](2026-01-27-EMG.html) | EMG |  |  |  |  |  |
 | [21–26 January 2026](2026-01-26-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [19–22 January 2026](2026-01-22-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [20–22 January 2026](2026-01-22-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [21–22 January 2026](2026-01-22-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [20–21 January 2026](2026-01-21-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [8–21 January 2026](2026-01-21-EMG.html) | EMG |  |  |  |  |  |
@@ -1273,11 +1277,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 2% | 100% |  |
-| 4 | 20% | 98% |  |
-| 5 | 43% | 78% | Median |
-| 6 | 28% | 35% |  |
-| 7 | 7% | 7% |  |
-| 8 | 0.7% | 0.8% |  |
+| 4 | 22% | 98% |  |
+| 5 | 40% | 76% | Median |
+| 6 | 29% | 36% |  |
+| 7 | 6% | 7% |  |
+| 8 | 0.8% | 0.8% |  |
 | 9 | 0.1% | 0.1% |  |
 | 10 | 0% | 0% |  |
 

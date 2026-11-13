@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.4% | 18.6–22.1% | 18.0–22.7% | 17.6–23.2% | 16.8–24.3% |
+| N/A | [Poll Average](average.html) | 20.4% | 18.6–22.1% | 18.1–22.7% | 17.7–23.2% | 16.8–24.2% |
+| [4–9 November 2026](2026-11-09-SWG.html) | SWG <br> La7 | 20.8% | 19.4–22.4% | 19.0–22.8% | 18.6–23.2% | 18.0–24.0% |
+| [3–5 November 2026](2026-11-05-TermometroPolitico.html) | Termometro Politico | 20.7% | 19.7–21.8% | 19.4–22.1% | 19.1–22.4% | 18.6–22.9% |
 | [27–30 October 2026](2026-10-30-BiDiMedia.html) | BiDiMedia | 20.6% | 19.0–22.3% | 18.6–22.8% | 18.2–23.2% | 17.5–24.1% |
 | [27–29 October 2026](2026-10-29-TermometroPolitico.html) | Termometro Politico | 20.8% | 19.8–21.9% | 19.6–22.1% | 19.3–22.4% | 18.9–22.9% |
 | [26–29 October 2026](2026-10-29-Ipsos.html) | Ipsos <br> Corriere della Sera | 19.9% | 18.4–21.6% | 17.9–22.1% | 17.5–22.5% | 16.8–23.3% |
@@ -247,7 +249,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [20–27 January 2026](2026-01-27-Ixè.html) | Ixè | 22.6% | N/A | N/A | N/A | N/A |
 | [26–27 January 2026](2026-01-27-EMG.html) | EMG | 22.7% | N/A | N/A | N/A | N/A |
 | [21–26 January 2026](2026-01-26-SWG.html) | SWG <br> La7 | 22.6% | N/A | N/A | N/A | N/A |
-| [19–22 January 2026](2026-01-22-TermometroPolitico.html) | Termometro Politico | 22.2% | N/A | N/A | N/A | N/A |
+| [20–22 January 2026](2026-01-22-TermometroPolitico.html) | Termometro Politico | 22.1% | N/A | N/A | N/A | N/A |
 | [21–22 January 2026](2026-01-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 21.9% | N/A | N/A | N/A | N/A |
 | [20–21 January 2026](2026-01-21-Eumetra.html) | Eumetra <br> La7 | 22.2% | N/A | N/A | N/A | N/A |
 | [8–21 January 2026](2026-01-21-EMG.html) | EMG | 22.5% | N/A | N/A | N/A | N/A |
@@ -272,7 +274,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [15–16 December 2025](2025-12-16-BiDiMedia.html) | BiDiMedia | 22.4% | N/A | N/A | N/A | N/A |
 | [10–15 December 2025](2025-12-15-SWG.html) | SWG <br> La7 | 22.3% | N/A | N/A | N/A | N/A |
 | [15 December 2025](2025-12-15-Piepoli.html) | Piepoli | 21.6% | N/A | N/A | N/A | N/A |
-| [15 December 2025](2025-12-15-Ipsos.html) | Ipsos | 21.2% | N/A | N/A | N/A | N/A |
+| [15 December 2025](2025-12-15-Ipsos.html) | Ipsos | 21.0% | N/A | N/A | N/A | N/A |
 | [1–12 December 2025](2025-12-12-EMG.html) | EMG | 21.4% | N/A | N/A | N/A | N/A |
 | [9–11 December 2025](2025-12-11-TermometroPolitico.html) | Termometro Politico | 22.1% | N/A | N/A | N/A | N/A |
 | [10–11 December 2025](2025-12-11-Tecnè.html) | Tecnè <br> Agenzia Dire | 21.7% | N/A | N/A | N/A | N/A |
@@ -645,14 +647,14 @@ The following table shows the probability mass function per percentage block of 
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0.3% | 100% |  |
 | 16.5–17.5% | 2% | 99.7% |  |
-| 17.5–18.5% | 8% | 98% |  |
-| 18.5–19.5% | 18% | 90% |  |
-| 19.5–20.5% | 27% | 72% | Median |
-| 20.5–21.5% | 25% | 45% |  |
-| 21.5–22.5% | 13% | 19% |  |
+| 17.5–18.5% | 7% | 98% |  |
+| 18.5–19.5% | 17% | 91% |  |
+| 19.5–20.5% | 28% | 74% | Median |
+| 20.5–21.5% | 27% | 46% |  |
+| 21.5–22.5% | 14% | 20% |  |
 | 22.5–23.5% | 4% | 6% |  |
-| 23.5–24.5% | 1.2% | 2% |  |
-| 24.5–25.5% | 0.3% | 0.3% |  |
+| 23.5–24.5% | 1.1% | 1.4% |  |
+| 24.5–25.5% | 0.2% | 0.3% |  |
 | 25.5–26.5% | 0.1% | 0.1% |  |
 | 26.5–27.5% | 0% | 0% |  |
 
@@ -666,6 +668,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17 | 15–19 | 15–20 | 15–20 | 14–21 |
+| [4–9 November 2026](2026-11-09-SWG.html) | SWG <br> La7 | 18 | 16–19 | 16–19 | 16–20 | 15–21 |
+| [3–5 November 2026](2026-11-05-TermometroPolitico.html) | Termometro Politico | 16 | 16–18 | 16–18 | 16–19 | 15–19 |
 | [27–30 October 2026](2026-10-30-BiDiMedia.html) | BiDiMedia | 17 | 16–20 | 16–21 | 16–21 | 15–22 |
 | [27–29 October 2026](2026-10-29-TermometroPolitico.html) | Termometro Politico | 18 | 17–18 | 17–19 | 16–19 | 16–19 |
 | [26–29 October 2026](2026-10-29-Ipsos.html) | Ipsos <br> Corriere della Sera | 17 | 15–18 | 15–18 | 14–18 | 14–19 |
@@ -902,7 +906,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [20–27 January 2026](2026-01-27-Ixè.html) | Ixè |  |  |  |  |  |
 | [26–27 January 2026](2026-01-27-EMG.html) | EMG |  |  |  |  |  |
 | [21–26 January 2026](2026-01-26-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [19–22 January 2026](2026-01-22-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [20–22 January 2026](2026-01-22-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [21–22 January 2026](2026-01-22-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [20–21 January 2026](2026-01-21-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [8–21 January 2026](2026-01-21-EMG.html) | EMG |  |  |  |  |  |
@@ -1297,16 +1301,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 0.2% | 100% |  |
-| 14 | 1.4% | 99.7% |  |
-| 15 | 10% | 98% |  |
-| 16 | 24% | 88% |  |
-| 17 | 28% | 64% | Median |
-| 18 | 17% | 36% |  |
-| 19 | 13% | 19% |  |
-| 20 | 4% | 6% |  |
-| 21 | 1.2% | 1.4% |  |
-| 22 | 0.2% | 0.2% |  |
+| 13 | 0.3% | 100% |  |
+| 14 | 1.2% | 99.7% |  |
+| 15 | 9% | 98% |  |
+| 16 | 25% | 89% |  |
+| 17 | 28% | 65% | Median |
+| 18 | 15% | 37% |  |
+| 19 | 15% | 22% |  |
+| 20 | 5% | 7% |  |
+| 21 | 2% | 2% |  |
+| 22 | 0.2% | 0.3% |  |
 | 23 | 0% | 0% |  |
 
 
