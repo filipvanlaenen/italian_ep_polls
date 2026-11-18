@@ -10,65 +10,72 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.6% | 2.8–4.4% | 2.6–4.7% | 2.4–5.0% | 2.1–5.6% |
-| [4–9 November 2026](2026-11-09-SWG.html) | SWG <br> La7 | 3.4% | 2.8–4.2% | 2.7–4.4% | 2.5–4.6% | 2.3–5.0% |
-| [3–5 November 2026](2026-11-05-TermometroPolitico.html) | Termometro Politico | 3.6% | 3.1–4.1% | 3.0–4.3% | 2.9–4.4% | 2.7–4.7% |
-| [27–30 October 2026](2026-10-30-BiDiMedia.html) | BiDiMedia | 3.7% | 3.0–4.6% | 2.9–4.8% | 2.7–5.1% | 2.4–5.5% |
-| [27–29 October 2026](2026-10-29-TermometroPolitico.html) | Termometro Politico | 3.5% | 3.1–4.0% | 2.9–4.1% | 2.9–4.3% | 2.7–4.5% |
-| [26–29 October 2026](2026-10-29-Ipsos.html) | Ipsos <br> Corriere della Sera | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
-| [27–28 October 2026](2026-10-28-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 3.6% | 2.9–4.6% | 2.7–4.8% | 2.5–5.1% | 2.2–5.6% |
-| [21–26 October 2026](2026-10-26-SWG.html) | SWG <br> La7 | 3.5% | 2.9–4.3% | 2.7–4.5% | 2.6–4.7% | 2.3–5.1% |
-| [20–22 October 2026](2026-10-22-TermometroPolitico.html) | Termometro Politico | 3.5% | 3.1–4.0% | 2.9–4.2% | 2.8–4.3% | 2.6–4.6% |
-| [21–22 October 2026](2026-10-22-OnlyNumbers.html) | Only Numbers | 3.6% | 2.9–4.6% | 2.7–4.9% | 2.5–5.2% | 2.2–5.7% |
-| [20–21 October 2026](2026-10-21-Eumetra.html) | Eumetra <br> La7 | 3.5% | 2.8–4.5% | 2.6–4.8% | 2.4–5.0% | 2.1–5.5% |
-| [19–20 October 2026](2026-10-20-EMG.html) | EMG <br> Rai 3 | 3.1% | 2.5–3.9% | 2.3–4.2% | 2.2–4.4% | 1.9–4.8% |
-| [14–19 October 2026](2026-10-19-SWG.html) | SWG | 3.5% | 2.9–4.3% | 2.7–4.5% | 2.6–4.7% | 2.3–5.1% |
-| [19 October 2026](2026-10-19-Piepoli.html) | Piepoli | 3.6% | 2.7–4.9% | 2.5–5.3% | 2.3–5.6% | 1.9–6.3% |
-| [17–19 October 2026](2026-10-19-BiDiMedia.html) | BiDiMedia | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
-| [13–15 October 2026](2026-10-15-TermometroPolitico.html) | Termometro Politico | 3.5% | 3.0–4.0% | 2.9–4.1% | 2.8–4.3% | 2.6–4.5% |
-| [14–15 October 2026](2026-10-15-OnlyNumbers.html) | Only Numbers | 3.6% | 2.9–4.6% | 2.7–4.9% | 2.5–5.2% | 2.2–5.7% |
-| [12–14 October 2026](2026-10-14-Piepoli.html) | Piepoli <br> Agorà | 3.6% | 2.7–4.9% | 2.5–5.3% | 2.3–5.6% | 1.9–6.3% |
+| N/A | [Poll Average](average.html) | 3.5% | 2.9–4.3% | 2.7–4.5% | 2.5–4.8% | 2.2–5.3% |
+| [11–16 November 2026](2026-11-16-SWG.html) | SWG <br> La7 | 3.4% | 2.8–4.2% | 2.7–4.4% | 2.5–4.6% | 2.3–5.0% |
+| [14–16 November 2026](2026-11-16-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 3.6% | 2.9–4.6% | 2.7–4.8% | 2.5–5.1% | 2.2–5.6% |
+| [10–12 November 2026](2026-11-12-TermometroPolitico.html) | Termometro Politico | 3.4% | 3.0–3.9% | 2.9–4.0% | 2.8–4.1% | 2.7–4.4% |
+| [11 November 2026](2026-11-11-OnlyNumbers.html) | Only Numbers <br> Rai 1 | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
+| [10–11 November 2026](2026-11-11-BiDiMedia.html) | BiDiMedia | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
+| [4–9 November 2026](2026-11-09-SWG.html) | SWG <br> La7 | 3.4% | N/A | N/A | N/A | N/A |
+| [7–9 November 2026](2026-11-09-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 3.5% | N/A | N/A | N/A | N/A |
+| [2–9 November 2026](2026-11-09-Ixè.html) | Ixè | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
+| [3–5 November 2026](2026-11-05-TermometroPolitico.html) | Termometro Politico | 3.6% | N/A | N/A | N/A | N/A |
+| [27–30 October 2026](2026-10-30-BiDiMedia.html) | BiDiMedia | 3.7% | N/A | N/A | N/A | N/A |
+| [27–29 October 2026](2026-10-29-TermometroPolitico.html) | Termometro Politico | 3.5% | N/A | N/A | N/A | N/A |
+| [26–29 October 2026](2026-10-29-Ipsos.html) | Ipsos <br> Corriere della Sera | 3.5% | N/A | N/A | N/A | N/A |
+| [27–28 October 2026](2026-10-28-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 3.6% | N/A | N/A | N/A | N/A |
+| [21–26 October 2026](2026-10-26-SWG.html) | SWG <br> La7 | 3.5% | N/A | N/A | N/A | N/A |
+| [20–22 October 2026](2026-10-22-TermometroPolitico.html) | Termometro Politico | 3.5% | N/A | N/A | N/A | N/A |
+| [21–22 October 2026](2026-10-22-OnlyNumbers.html) | Only Numbers | 3.6% | N/A | N/A | N/A | N/A |
+| [20–21 October 2026](2026-10-21-Eumetra.html) | Eumetra <br> La7 | 3.5% | N/A | N/A | N/A | N/A |
+| [19–20 October 2026](2026-10-20-EMG.html) | EMG <br> Rai 3 | 3.1% | N/A | N/A | N/A | N/A |
+| [14–19 October 2026](2026-10-19-SWG.html) | SWG | 3.5% | N/A | N/A | N/A | N/A |
+| [19 October 2026](2026-10-19-Piepoli.html) | Piepoli | 3.6% | N/A | N/A | N/A | N/A |
+| [17–19 October 2026](2026-10-19-BiDiMedia.html) | BiDiMedia | 3.6% | N/A | N/A | N/A | N/A |
+| [13–15 October 2026](2026-10-15-TermometroPolitico.html) | Termometro Politico | 3.5% | N/A | N/A | N/A | N/A |
+| [14–15 October 2026](2026-10-15-OnlyNumbers.html) | Only Numbers | 3.6% | N/A | N/A | N/A | N/A |
+| [12–14 October 2026](2026-10-14-Piepoli.html) | Piepoli <br> Agorà | 3.6% | N/A | N/A | N/A | N/A |
 | [13–14 October 2026](2026-10-14-Eumetra.html) | Eumetra <br> La7 | 3.6% | N/A | N/A | N/A | N/A |
 | [7–12 October 2026](2026-10-12-SWG.html) | SWG <br> La7 | 3.7% | N/A | N/A | N/A | N/A |
-| [9 October 2026](2026-10-09-Lab2101.html) | Lab2101 <br> Affari Italiani | 3.1% | 2.4–4.0% | 2.2–4.3% | 2.0–4.5% | 1.8–5.0% |
+| [9 October 2026](2026-10-09-Lab2101.html) | Lab2101 <br> Affari Italiani | 3.1% | N/A | N/A | N/A | N/A |
 | [6–8 October 2026](2026-10-08-TermometroPolitico.html) | Termometro Politico | 3.4% | N/A | N/A | N/A | N/A |
-| [5–8 October 2026](2026-10-08-SigmaConsulting.html) | Sigma Consulting | 3.5% | 2.8–4.5% | 2.6–4.8% | 2.4–5.0% | 2.1–5.5% |
+| [5–8 October 2026](2026-10-08-SigmaConsulting.html) | Sigma Consulting | 3.5% | N/A | N/A | N/A | N/A |
 | [7–8 October 2026](2026-10-08-OnlyNumbers.html) | Only Numbers | 3.8% | N/A | N/A | N/A | N/A |
 | [7–8 October 2026](2026-10-08-Eumetra.html) | Eumetra <br> La7 | 3.6% | N/A | N/A | N/A | N/A |
-| [5–6 October 2026](2026-10-06-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 3.2% | 2.6–4.2% | 2.4–4.5% | 2.2–4.7% | 1.9–5.2% |
-| [6 October 2026](2026-10-06-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
+| [5–6 October 2026](2026-10-06-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 3.2% | N/A | N/A | N/A | N/A |
+| [6 October 2026](2026-10-06-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 3.6% | N/A | N/A | N/A | N/A |
 | [5–6 October 2026](2026-10-06-EMG.html) | EMG <br> Rai 3 | 3.2% | N/A | N/A | N/A | N/A |
 | [30 September–5 October 2026](2026-10-05-SWG.html) | SWG <br> La7 | 3.7% | N/A | N/A | N/A | N/A |
 | [5 October 2026](2026-10-05-Piepoli.html) | Piepoli | 3.8% | N/A | N/A | N/A | N/A |
 | [29 September–1 October 2026](2026-10-01-TermometroPolitico.html) | Termometro Politico | 3.5% | N/A | N/A | N/A | N/A |
 | [30 September–1 October 2026](2026-10-01-OnlyNumbers.html) | Only Numbers | 3.6% | N/A | N/A | N/A | N/A |
-| [29–30 September 2026](2026-09-30-Eumetra.html) | Eumetra <br> La7 | 3.5% | 2.8–4.5% | 2.6–4.8% | 2.4–5.0% | 2.1–5.5% |
-| [23–28 September 2026](2026-09-28-SWG.html) | SWG <br> La7 | 3.7% | 3.0–4.5% | 2.9–4.7% | 2.7–4.9% | 2.5–5.3% |
-| [28 September 2026](2026-09-28-OnlyNumbers.html) | Only Numbers | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
-| [22–24 September 2026](2026-09-24-TermometroPolitico.html) | Termometro Politico | 3.4% | 2.9–3.9% | 2.8–4.0% | 2.7–4.1% | 2.5–4.4% |
+| [29–30 September 2026](2026-09-30-Eumetra.html) | Eumetra <br> La7 | 3.5% | N/A | N/A | N/A | N/A |
+| [23–28 September 2026](2026-09-28-SWG.html) | SWG <br> La7 | 3.7% | N/A | N/A | N/A | N/A |
+| [28 September 2026](2026-09-28-OnlyNumbers.html) | Only Numbers | 3.6% | N/A | N/A | N/A | N/A |
+| [22–24 September 2026](2026-09-24-TermometroPolitico.html) | Termometro Politico | 3.4% | N/A | N/A | N/A | N/A |
 | [23–24 September 2026](2026-09-24-OnlyNumbers.html) | Only Numbers | 3.6% | N/A | N/A | N/A | N/A |
-| [21–24 September 2026](2026-09-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
-| [21–24 September 2026](2026-09-24-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 4.1% | 3.5–4.8% | 3.4–5.0% | 3.2–5.2% | 3.0–5.6% |
+| [21–24 September 2026](2026-09-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 3.5% | N/A | N/A | N/A | N/A |
+| [21–24 September 2026](2026-09-24-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 4.1% | N/A | N/A | N/A | N/A |
 | [22–23 September 2026](2026-09-23-Eumetra.html) | Eumetra <br> La7 | 3.6% | N/A | N/A | N/A | N/A |
-| [18–22 September 2026](2026-09-22-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 3.2% | 2.5–4.2% | 2.3–4.4% | 2.2–4.7% | 1.9–5.2% |
-| [21–22 September 2026](2026-09-22-EMG.html) | EMG <br> Rai 3 | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
+| [18–22 September 2026](2026-09-22-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 3.2% | N/A | N/A | N/A | N/A |
+| [21–22 September 2026](2026-09-22-EMG.html) | EMG <br> Rai 3 | 3.3% | N/A | N/A | N/A | N/A |
 | [16–21 September 2026](2026-09-21-SWG.html) | SWG <br> La7 | 3.6% | N/A | N/A | N/A | N/A |
-| [14–18 September 2026](2026-09-18-SigmaConsulting.html) | Sigma Consulting | 3.4% | 2.7–4.3% | 2.5–4.6% | 2.3–4.9% | 2.0–5.4% |
+| [14–18 September 2026](2026-09-18-SigmaConsulting.html) | Sigma Consulting | 3.4% | N/A | N/A | N/A | N/A |
 | [15–17 September 2026](2026-09-17-TermometroPolitico.html) | Termometro Politico | 3.4% | N/A | N/A | N/A | N/A |
 | [16–17 September 2026](2026-09-17-OnlyNumbers.html) | Only Numbers | 3.6% | N/A | N/A | N/A | N/A |
 | [15–16 September 2026](2026-09-16-Eumetra.html) | Eumetra <br> La7 | 3.5% | N/A | N/A | N/A | N/A |
-| [15 September 2026](2026-09-15-Tecnè.html) | Tecnè | 3.4% | 2.7–4.3% | 2.5–4.6% | 2.3–4.8% | 2.0–5.3% |
+| [15 September 2026](2026-09-15-Tecnè.html) | Tecnè | 3.4% | N/A | N/A | N/A | N/A |
 | [9–14 September 2026](2026-09-14-SWG.html) | SWG <br> La7 | 3.7% | N/A | N/A | N/A | N/A |
 | [14 September 2026](2026-09-14-OnlyNumbers.html) | Only Numbers | 3.6% | N/A | N/A | N/A | N/A |
-| [2–10 September 2026](2026-09-10-Winpoll.html) | Winpoll | 4.0% | 3.4–4.7% | 3.2–4.9% | 3.1–5.1% | 2.9–5.5% |
+| [2–10 September 2026](2026-09-10-Winpoll.html) | Winpoll | 4.0% | N/A | N/A | N/A | N/A |
 | [8–10 September 2026](2026-09-10-TermometroPolitico.html) | Termometro Politico | 3.4% | N/A | N/A | N/A | N/A |
 | [9–10 September 2026](2026-09-10-OnlyNumbers.html) | Only Numbers | 3.6% | N/A | N/A | N/A | N/A |
-| [3–10 September 2026](2026-09-10-Ixè.html) | Ixè | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
+| [3–10 September 2026](2026-09-10-Ixè.html) | Ixè | 4.0% | N/A | N/A | N/A | N/A |
 | [9 September 2026](2026-09-09-Tecnè.html) | Tecnè <br> RTI | 3.2% | N/A | N/A | N/A | N/A |
 | [7–8 September 2026](2026-09-08-EMG.html) | EMG <br> Rai 3 | 3.3% | N/A | N/A | N/A | N/A |
 | [2–7 September 2026](2026-09-07-SWG.html) | SWG <br> La7 | 3.8% | N/A | N/A | N/A | N/A |
-| [7 September 2026](2026-09-07-Piepoli.html) | Piepoli | 3.8% | 2.9–5.1% | 2.6–5.5% | 2.4–5.8% | 2.1–6.6% |
-| [4–6 September 2026](2026-09-06-BiDiMedia.html) | BiDiMedia | 3.7% | 3.0–4.6% | 2.9–4.8% | 2.7–5.1% | 2.4–5.5% |
+| [7 September 2026](2026-09-07-Piepoli.html) | Piepoli | 3.8% | N/A | N/A | N/A | N/A |
+| [4–6 September 2026](2026-09-06-BiDiMedia.html) | BiDiMedia | 3.7% | N/A | N/A | N/A | N/A |
 | [2–3 September 2026](2026-09-03-TermometroPolitico.html) | Termometro Politico | 3.4% | N/A | N/A | N/A | N/A |
 | [31 August–3 September 2026](2026-09-03-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 3.2% | N/A | N/A | N/A | N/A |
 | [2–3 September 2026](2026-09-03-OnlyNumbers.html) | Only Numbers | 3.8% | N/A | N/A | N/A | N/A |
@@ -83,7 +90,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [24 July–3 August 2026](2026-08-03-Winpoll.html) | Winpoll | 4.5% | N/A | N/A | N/A | N/A |
 | [29 July–3 August 2026](2026-08-03-SWG.html) | SWG <br> La7 | 3.6% | N/A | N/A | N/A | N/A |
 | [28–30 July 2026](2026-07-30-TermometroPolitico.html) | Termometro Politico | 3.5% | N/A | N/A | N/A | N/A |
-| [28–29 July 2026](2026-07-29-Demopolis.html) | Demopolis | 3.5% | 3.0–4.1% | 2.9–4.3% | 2.8–4.4% | 2.6–4.7% |
+| [28–29 July 2026](2026-07-29-Demopolis.html) | Demopolis | 3.5% | N/A | N/A | N/A | N/A |
 | [14–28 July 2026](2026-07-28-EMG.html) | EMG | 3.2% | N/A | N/A | N/A | N/A |
 | [22–27 July 2026](2026-07-27-SWG.html) | SWG <br> La7 | 3.6% | N/A | N/A | N/A | N/A |
 | [22–23 July 2026](2026-07-23-TermometroPolitico.html) | Termometro Politico | 3.5% | N/A | N/A | N/A | N/A |
@@ -92,7 +99,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [21–22 July 2026](2026-07-22-Piepoli.html) | Piepoli | 3.6% | N/A | N/A | N/A | N/A |
 | [20–21 July 2026](2026-07-21-EMG.html) | EMG | 3.2% | N/A | N/A | N/A | N/A |
 | [15–20 July 2026](2026-07-20-SWG.html) | SWG <br> La7 | 3.5% | N/A | N/A | N/A | N/A |
-| [1–17 July 2026](2026-07-17-Lab21.html) | Lab21 | 3.2% | 2.9–3.6% | 2.9–3.7% | 2.8–3.8% | 2.7–3.9% |
+| [1–17 July 2026](2026-07-17-Lab21.html) | Lab21 | 3.2% | N/A | N/A | N/A | N/A |
 | [14–16 July 2026](2026-07-16-TermometroPolitico.html) | Termometro Politico | 3.5% | N/A | N/A | N/A | N/A |
 | [3–16 July 2026](2026-07-16-EMG.html) | EMG | 3.3% | N/A | N/A | N/A | N/A |
 | [8–13 July 2026](2026-07-13-SWG.html) | SWG <br> La7 | 3.5% | N/A | N/A | N/A | N/A |
@@ -249,7 +256,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [20–27 January 2026](2026-01-27-Ixè.html) | Ixè | 4.0% | N/A | N/A | N/A | N/A |
 | [26–27 January 2026](2026-01-27-EMG.html) | EMG | 3.4% | N/A | N/A | N/A | N/A |
 | [21–26 January 2026](2026-01-26-SWG.html) | SWG <br> La7 | 3.7% | N/A | N/A | N/A | N/A |
-| [20–22 January 2026](2026-01-22-TermometroPolitico.html) | Termometro Politico | 3.7% | N/A | N/A | N/A | N/A |
+| [19–22 January 2026](2026-01-22-TermometroPolitico.html) | Termometro Politico | 3.6% | N/A | N/A | N/A | N/A |
 | [21–22 January 2026](2026-01-22-Tecnè.html) | Tecnè <br> Agenzia Dire | 3.5% | N/A | N/A | N/A | N/A |
 | [20–21 January 2026](2026-01-21-Eumetra.html) | Eumetra <br> La7 | 3.5% | N/A | N/A | N/A | N/A |
 | [8–21 January 2026](2026-01-21-EMG.html) | EMG | 3.3% | N/A | N/A | N/A | N/A |
@@ -631,11 +638,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 4% | 100% |  |
-| 2.5–3.5% | 45% | 96% |  |
-| 3.5–4.5% | 44% | 52% | Median |
-| 4.5–5.5% | 7% | 8% |  |
-| 5.5–6.5% | 0.6% | 0.6% |  |
+| 1.5–2.5% | 3% | 100% |  |
+| 2.5–3.5% | 50% | 97% |  |
+| 3.5–4.5% | 42% | 47% | Median |
+| 4.5–5.5% | 5% | 5% |  |
+| 5.5–6.5% | 0.2% | 0.2% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -647,65 +654,72 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–5 | 2–5 | 2–6 |
-| [4–9 November 2026](2026-11-09-SWG.html) | SWG <br> La7 | 4 | 3–4 | 2–4 | 2–4 | 2–5 |
-| [3–5 November 2026](2026-11-05-TermometroPolitico.html) | Termometro Politico | 3 | 3–4 | 3–4 | 3–5 | 3–5 |
-| [27–30 October 2026](2026-10-30-BiDiMedia.html) | BiDiMedia | 5 | 3–5 | 3–5 | 3–6 | 2–6 |
-| [27–29 October 2026](2026-10-29-TermometroPolitico.html) | Termometro Politico | 4 | 3–4 | 2–4 | 2–4 | 2–4 |
-| [26–29 October 2026](2026-10-29-Ipsos.html) | Ipsos <br> Corriere della Sera | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
-| [27–28 October 2026](2026-10-28-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 3 | 2–4 | 2–5 | 2–6 | 2–6 |
-| [21–26 October 2026](2026-10-26-SWG.html) | SWG <br> La7 | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
-| [20–22 October 2026](2026-10-22-TermometroPolitico.html) | Termometro Politico | 3 | 3–4 | 3–4 | 2–4 | 2–5 |
-| [21–22 October 2026](2026-10-22-OnlyNumbers.html) | Only Numbers | 4 | 3–4 | 2–5 | 2–5 | 2–6 |
-| [20–21 October 2026](2026-10-21-Eumetra.html) | Eumetra <br> La7 | 3 | 2–4 | 2–4 | 2–5 | 2–5 |
-| [19–20 October 2026](2026-10-20-EMG.html) | EMG <br> Rai 3 | 3 | 2–4 | 2–4 | 2–5 | 2–5 |
-| [14–19 October 2026](2026-10-19-SWG.html) | SWG | 4 | 3–4 | 3–5 | 2–5 | 2–5 |
-| [19 October 2026](2026-10-19-Piepoli.html) | Piepoli | 3 | 2–4 | 2–4 | 2–5 | 2–6 |
-| [17–19 October 2026](2026-10-19-BiDiMedia.html) | BiDiMedia | 3 | 3–5 | 3–5 | 3–6 | 2–6 |
-| [13–15 October 2026](2026-10-15-TermometroPolitico.html) | Termometro Politico | 4 | 3–4 | 3–4 | 3–4 | 2–4 |
-| [14–15 October 2026](2026-10-15-OnlyNumbers.html) | Only Numbers | 4 | 3–4 | 2–4 | 2–4 | 2–5 |
-| [12–14 October 2026](2026-10-14-Piepoli.html) | Piepoli <br> Agorà | 5 | 5 | 4–5 | 2–5 | 2–7 |
+| N/A | [Poll Average](average.html) | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
+| [11–16 November 2026](2026-11-16-SWG.html) | SWG <br> La7 | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
+| [14–16 November 2026](2026-11-16-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 4 | 2–4 | 2–4 | 2–5 | 2–5 |
+| [10–12 November 2026](2026-11-12-TermometroPolitico.html) | Termometro Politico | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| [11 November 2026](2026-11-11-OnlyNumbers.html) | Only Numbers <br> Rai 1 | 4 | 3–4 | 3–4 | 2–4 | 2–6 |
+| [10–11 November 2026](2026-11-11-BiDiMedia.html) | BiDiMedia | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
+| [4–9 November 2026](2026-11-09-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [7–9 November 2026](2026-11-09-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
+| [2–9 November 2026](2026-11-09-Ixè.html) | Ixè | 3 | 3 | 2–4 | 2–4 | 2–4 |
+| [3–5 November 2026](2026-11-05-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [27–30 October 2026](2026-10-30-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
+| [27–29 October 2026](2026-10-29-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [26–29 October 2026](2026-10-29-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
+| [27–28 October 2026](2026-10-28-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
+| [21–26 October 2026](2026-10-26-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [20–22 October 2026](2026-10-22-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [21–22 October 2026](2026-10-22-OnlyNumbers.html) | Only Numbers |  |  |  |  |  |
+| [20–21 October 2026](2026-10-21-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
+| [19–20 October 2026](2026-10-20-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
+| [14–19 October 2026](2026-10-19-SWG.html) | SWG |  |  |  |  |  |
+| [19 October 2026](2026-10-19-Piepoli.html) | Piepoli |  |  |  |  |  |
+| [17–19 October 2026](2026-10-19-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
+| [13–15 October 2026](2026-10-15-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [14–15 October 2026](2026-10-15-OnlyNumbers.html) | Only Numbers |  |  |  |  |  |
+| [12–14 October 2026](2026-10-14-Piepoli.html) | Piepoli <br> Agorà |  |  |  |  |  |
 | [13–14 October 2026](2026-10-14-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [7–12 October 2026](2026-10-12-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [9 October 2026](2026-10-09-Lab2101.html) | Lab2101 <br> Affari Italiani | 4 | 2–4 | 2–4 | 0–4 | 0–5 |
+| [9 October 2026](2026-10-09-Lab2101.html) | Lab2101 <br> Affari Italiani |  |  |  |  |  |
 | [6–8 October 2026](2026-10-08-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [5–8 October 2026](2026-10-08-SigmaConsulting.html) | Sigma Consulting | 3 | 2–4 | 2–4 | 2–5 | 2–5 |
+| [5–8 October 2026](2026-10-08-SigmaConsulting.html) | Sigma Consulting |  |  |  |  |  |
 | [7–8 October 2026](2026-10-08-OnlyNumbers.html) | Only Numbers |  |  |  |  |  |
 | [7–8 October 2026](2026-10-08-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
-| [5–6 October 2026](2026-10-06-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 3 | 2–4 | 2–5 | 2–5 | 1–5 |
-| [6 October 2026](2026-10-06-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 | 4 | 3–5 | 3–5 | 2–5 | 2–5 |
+| [5–6 October 2026](2026-10-06-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
+| [6 October 2026](2026-10-06-NotoSondaggi.html) | Noto Sondaggi <br> Rai 1 |  |  |  |  |  |
 | [5–6 October 2026](2026-10-06-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [30 September–5 October 2026](2026-10-05-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [5 October 2026](2026-10-05-Piepoli.html) | Piepoli |  |  |  |  |  |
 | [29 September–1 October 2026](2026-10-01-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [30 September–1 October 2026](2026-10-01-OnlyNumbers.html) | Only Numbers |  |  |  |  |  |
-| [29–30 September 2026](2026-09-30-Eumetra.html) | Eumetra <br> La7 | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
-| [23–28 September 2026](2026-09-28-SWG.html) | SWG <br> La7 | 4 | 3–4 | 3–4 | 3–5 | 2–5 |
-| [28 September 2026](2026-09-28-OnlyNumbers.html) | Only Numbers | 3 | 3–4 | 3–4 | 2–4 | 2–5 |
-| [22–24 September 2026](2026-09-24-TermometroPolitico.html) | Termometro Politico | 3 | 3 | 3 | 3–4 | 2–4 |
+| [29–30 September 2026](2026-09-30-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
+| [23–28 September 2026](2026-09-28-SWG.html) | SWG <br> La7 |  |  |  |  |  |
+| [28 September 2026](2026-09-28-OnlyNumbers.html) | Only Numbers |  |  |  |  |  |
+| [22–24 September 2026](2026-09-24-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [23–24 September 2026](2026-09-24-OnlyNumbers.html) | Only Numbers |  |  |  |  |  |
-| [21–24 September 2026](2026-09-24-Ipsos.html) | Ipsos <br> Corriere della Sera | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
-| [21–24 September 2026](2026-09-24-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
+| [21–24 September 2026](2026-09-24-Ipsos.html) | Ipsos <br> Corriere della Sera |  |  |  |  |  |
+| [21–24 September 2026](2026-09-24-Cluster17.html) | Cluster17 <br> Il Fatto Quotidiano |  |  |  |  |  |
 | [22–23 September 2026](2026-09-23-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
-| [18–22 September 2026](2026-09-22-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
-| [21–22 September 2026](2026-09-22-EMG.html) | EMG <br> Rai 3 | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
+| [18–22 September 2026](2026-09-22-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
+| [21–22 September 2026](2026-09-22-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [16–21 September 2026](2026-09-21-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [14–18 September 2026](2026-09-18-SigmaConsulting.html) | Sigma Consulting | 3 | 3–4 | 2–4 | 2–5 | 2–5 |
+| [14–18 September 2026](2026-09-18-SigmaConsulting.html) | Sigma Consulting |  |  |  |  |  |
 | [15–17 September 2026](2026-09-17-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [16–17 September 2026](2026-09-17-OnlyNumbers.html) | Only Numbers |  |  |  |  |  |
 | [15–16 September 2026](2026-09-16-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
-| [15 September 2026](2026-09-15-Tecnè.html) | Tecnè | 3 | 2–5 | 2–5 | 2–5 | 2–5 |
+| [15 September 2026](2026-09-15-Tecnè.html) | Tecnè |  |  |  |  |  |
 | [9–14 September 2026](2026-09-14-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [14 September 2026](2026-09-14-OnlyNumbers.html) | Only Numbers |  |  |  |  |  |
-| [2–10 September 2026](2026-09-10-Winpoll.html) | Winpoll | 4 | 3–5 | 3–5 | 3–6 | 2–6 |
+| [2–10 September 2026](2026-09-10-Winpoll.html) | Winpoll |  |  |  |  |  |
 | [8–10 September 2026](2026-09-10-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [9–10 September 2026](2026-09-10-OnlyNumbers.html) | Only Numbers |  |  |  |  |  |
-| [3–10 September 2026](2026-09-10-Ixè.html) | Ixè | 5 | 4–5 | 4–5 | 3–5 | 3–5 |
+| [3–10 September 2026](2026-09-10-Ixè.html) | Ixè |  |  |  |  |  |
 | [9 September 2026](2026-09-09-Tecnè.html) | Tecnè <br> RTI |  |  |  |  |  |
 | [7–8 September 2026](2026-09-08-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [2–7 September 2026](2026-09-07-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [7 September 2026](2026-09-07-Piepoli.html) | Piepoli | 5 | 3–5 | 3–5 | 3–6 | 2–6 |
-| [4–6 September 2026](2026-09-06-BiDiMedia.html) | BiDiMedia | 4 | 2–5 | 2–5 | 2–5 | 2–5 |
+| [7 September 2026](2026-09-07-Piepoli.html) | Piepoli |  |  |  |  |  |
+| [4–6 September 2026](2026-09-06-BiDiMedia.html) | BiDiMedia |  |  |  |  |  |
 | [2–3 September 2026](2026-09-03-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [31 August–3 September 2026](2026-09-03-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
 | [2–3 September 2026](2026-09-03-OnlyNumbers.html) | Only Numbers |  |  |  |  |  |
@@ -720,7 +734,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [24 July–3 August 2026](2026-08-03-Winpoll.html) | Winpoll |  |  |  |  |  |
 | [29 July–3 August 2026](2026-08-03-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [28–30 July 2026](2026-07-30-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
-| [28–29 July 2026](2026-07-29-Demopolis.html) | Demopolis | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| [28–29 July 2026](2026-07-29-Demopolis.html) | Demopolis |  |  |  |  |  |
 | [14–28 July 2026](2026-07-28-EMG.html) | EMG |  |  |  |  |  |
 | [22–27 July 2026](2026-07-27-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [22–23 July 2026](2026-07-23-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
@@ -729,7 +743,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [21–22 July 2026](2026-07-22-Piepoli.html) | Piepoli |  |  |  |  |  |
 | [20–21 July 2026](2026-07-21-EMG.html) | EMG |  |  |  |  |  |
 | [15–20 July 2026](2026-07-20-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [1–17 July 2026](2026-07-17-Lab21.html) | Lab21 | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [1–17 July 2026](2026-07-17-Lab21.html) | Lab21 |  |  |  |  |  |
 | [14–16 July 2026](2026-07-16-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [3–16 July 2026](2026-07-16-EMG.html) | EMG |  |  |  |  |  |
 | [8–13 July 2026](2026-07-13-SWG.html) | SWG <br> La7 |  |  |  |  |  |
@@ -886,7 +900,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [20–27 January 2026](2026-01-27-Ixè.html) | Ixè |  |  |  |  |  |
 | [26–27 January 2026](2026-01-27-EMG.html) | EMG |  |  |  |  |  |
 | [21–26 January 2026](2026-01-26-SWG.html) | SWG <br> La7 |  |  |  |  |  |
-| [20–22 January 2026](2026-01-22-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
+| [19–22 January 2026](2026-01-22-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [21–22 January 2026](2026-01-22-Tecnè.html) | Tecnè <br> Agenzia Dire |  |  |  |  |  |
 | [20–21 January 2026](2026-01-21-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [8–21 January 2026](2026-01-21-EMG.html) | EMG |  |  |  |  |  |
@@ -1269,12 +1283,12 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.1% | 100% |  |
-| 2 | 10% | 99.9% |  |
-| 3 | 45% | 90% | Median |
-| 4 | 35% | 44% |  |
-| 5 | 8% | 9% |  |
-| 6 | 1.3% | 1.3% |  |
+| 1 | 0% | 100% |  |
+| 2 | 6% | 99.9% |  |
+| 3 | 59% | 94% | Median |
+| 4 | 33% | 34% |  |
+| 5 | 0.9% | 1.3% |  |
+| 6 | 0.4% | 0.4% |  |
 | 7 | 0% | 0% |  |
 
 
