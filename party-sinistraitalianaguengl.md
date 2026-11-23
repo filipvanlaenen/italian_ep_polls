@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.3% | 1.7–3.0% | 1.6–3.3% | 1.5–3.5% | 1.2–4.0% |
+| [17–18 November 2026](2026-11-18-Eumetra.html) | Eumetra <br> La7 | 2.2% | 1.7–3.1% | 1.6–3.3% | 1.4–3.5% | 1.2–4.0% |
 | [11–16 November 2026](2026-11-16-SWG.html) | SWG <br> La7 | 2.2% | 1.8–2.9% | 1.7–3.1% | 1.6–3.3% | 1.4–3.6% |
 | [14–16 November 2026](2026-11-16-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 2.3% | 1.8–3.2% | 1.6–3.4% | 1.5–3.6% | 1.3–4.1% |
 | [10–12 November 2026](2026-11-12-TermometroPolitico.html) | Termometro Politico | 2.2% | 1.9–2.6% | 1.8–2.7% | 1.8–2.8% | 1.6–3.0% |
@@ -654,6 +655,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
+| [17–18 November 2026](2026-11-18-Eumetra.html) | Eumetra <br> La7 | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | [11–16 November 2026](2026-11-16-SWG.html) | SWG <br> La7 | 2 | 2 | 2–3 | 1–3 | 1–3 |
 | [14–16 November 2026](2026-11-16-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | [10–12 November 2026](2026-11-12-TermometroPolitico.html) | Termometro Politico | 2 | 2 | 2 | 1–3 | 1–3 |
@@ -1281,11 +1283,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% | Last Result |
-| 1 | 16% | 99.9% |  |
-| 2 | 68% | 84% | Median |
-| 3 | 15% | 16% |  |
-| 4 | 0.8% | 0.8% |  |
+| 0 | 0% | 100% | Last Result |
+| 1 | 14% | 100% |  |
+| 2 | 71% | 86% | Median |
+| 3 | 14% | 15% |  |
+| 4 | 0.7% | 0.7% |  |
 | 5 | 0% | 0% |  |
 
 

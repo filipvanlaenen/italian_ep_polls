@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.6% | 0.3–0.9% | 0.3–1.0% | 0.2–1.2% | 0.2–1.4% |
+| [17–18 November 2026](2026-11-18-Eumetra.html) | Eumetra <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [11–16 November 2026](2026-11-16-SWG.html) | SWG <br> La7 | 0.0% | N/A | N/A | N/A | N/A |
 | [14–16 November 2026](2026-11-16-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0.0% | N/A | N/A | N/A | N/A |
 | [10–12 November 2026](2026-11-12-TermometroPolitico.html) | Termometro Politico | 0.0% | N/A | N/A | N/A | N/A |
@@ -651,6 +652,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [17–18 November 2026](2026-11-18-Eumetra.html) | Eumetra <br> La7 |  |  |  |  |  |
 | [11–16 November 2026](2026-11-16-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [14–16 November 2026](2026-11-16-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 |  |  |  |  |  |
 | [10–12 November 2026](2026-11-12-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
