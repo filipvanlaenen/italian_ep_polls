@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Sun, 21 Jul 2024 15:49:56 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Eumetra for La7, 17–18 November 2026 – Seating Plan Projection</title>
+      <link>null/2026-11-18-Eumetra.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>39 seats needed for a majority<br/>Opinion poll by Eumetra for La7, 17–18 November 2026<br/>Details on null/2026-11-18-Eumetra.html<br/><img src="null/2026-11-18-Eumetra-seating-plan.png"/>]]></description>
+      <enclosure url="null/2026-11-18-Eumetra-seating-plan.png" length="454099" type="image/png"/>
+      <pubDate>Sun, 22 Nov 2026 22:07:31 +0100</pubDate>
+      <dc:date>2026-11-22T22:07:31.537266759+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Eumetra for La7, 17–18 November 2026 – Seat Projections</title>
+      <link>null/2026-11-18-Eumetra.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>39 seats needed for a majority<br/>Opinion poll by Eumetra for La7, 17–18 November 2026<br/>Details on null/2026-11-18-Eumetra.html<br/><img src="null/2026-11-18-Eumetra-seats.png"/>]]></description>
+      <enclosure url="null/2026-11-18-Eumetra-seats.png" length="274914" type="image/png"/>
+      <pubDate>Sun, 22 Nov 2026 22:07:31 +0100</pubDate>
+      <dc:date>2026-11-22T22:07:31.537266759+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Eumetra for La7, 17–18 November 2026 – Voting Intentions</title>
+      <link>null/2026-11-18-Eumetra.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Eumetra for La7, 17–18 November 2026<br/>Details on null/2026-11-18-Eumetra.html<br/><img src="null/2026-11-18-Eumetra.png"/>]]></description>
+      <enclosure url="null/2026-11-18-Eumetra.png" length="380979" type="image/png"/>
+      <pubDate>Sun, 22 Nov 2026 22:07:31 +0100</pubDate>
+      <dc:date>2026-11-22T22:07:31.537266759+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Quorum – YouTrend for Sky TG24, 14–16 November 2026 – Seating Plan Projection</title>
       <link>null/2026-11-16-Quorum–YouTrend.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>39 seats needed for a majority<br/>Opinion poll by Quorum – YouTrend for Sky TG24, 14–16 November 2026<br/>Details on null/2026-11-16-Quorum–YouTrend.html<br/><img src="null/2026-11-16-Quorum–YouTrend-seating-plan.png"/>]]></description>
@@ -340,30 +364,6 @@
       <enclosure url="null/2026-10-20-EMG.png" length="444372" type="image/png"/>
       <pubDate>Thu, 19 Nov 2026 16:37:06 +0100</pubDate>
       <dc:date>2026-11-19T16:37:06.815974619+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Piepoli, 19 October 2026 – Seating Plan Projection</title>
-      <link>null/2026-10-19-Piepoli.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>39 seats needed for a majority<br/>Opinion poll by Piepoli, 19 October 2026<br/>Details on null/2026-10-19-Piepoli.html<br/><img src="null/2026-10-19-Piepoli-seating-plan.png"/>]]></description>
-      <enclosure url="null/2026-10-19-Piepoli-seating-plan.png" length="464895" type="image/png"/>
-      <pubDate>Thu, 19 Nov 2026 17:13:56 +0100</pubDate>
-      <dc:date>2026-11-19T17:13:56.484570395+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Piepoli, 19 October 2026 – Seat Projections</title>
-      <link>null/2026-10-19-Piepoli.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>39 seats needed for a majority<br/>Opinion poll by Piepoli, 19 October 2026<br/>Details on null/2026-10-19-Piepoli.html<br/><img src="null/2026-10-19-Piepoli-seats.png"/>]]></description>
-      <enclosure url="null/2026-10-19-Piepoli-seats.png" length="341037" type="image/png"/>
-      <pubDate>Thu, 19 Nov 2026 17:13:56 +0100</pubDate>
-      <dc:date>2026-11-19T17:13:56.484570395+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Piepoli, 19 October 2026 – Voting Intentions</title>
-      <link>null/2026-10-19-Piepoli.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Piepoli, 19 October 2026<br/>Details on null/2026-10-19-Piepoli.html<br/><img src="null/2026-10-19-Piepoli.png"/>]]></description>
-      <enclosure url="null/2026-10-19-Piepoli.png" length="427811" type="image/png"/>
-      <pubDate>Thu, 19 Nov 2026 17:13:56 +0100</pubDate>
-      <dc:date>2026-11-19T17:13:56.484570395+01:00</dc:date>
     </item>
   </channel>
 </rss>
