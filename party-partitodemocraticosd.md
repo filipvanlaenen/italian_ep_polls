@@ -730,7 +730,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [20–22 October 2026](2026-10-22-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
 | [21–22 October 2026](2026-10-22-OnlyNumbers.html) | Only Numbers | 17 | 15–19 | 15–20 | 15–20 | 14–20 |
 | [5–22 October 2026](2026-10-22-Lab21.html) | Lab21 <br> Affari Italiani |  |  |  |  |  |
-| [16–22 October 2026](2026-10-22-ExcelleraAdvisoryGroup.html) | Excellera Advisory Group | 18 | 16–18 | 15–18 | 14–19 | 14–20 |
+| [16–22 October 2026](2026-10-22-ExcelleraAdvisoryGroup.html) | Excellera Advisory Group | 17 | 16–18 | 15–18 | 15–19 | 14–20 |
 | [20–21 October 2026](2026-10-21-Eumetra.html) | Eumetra <br> La7 | 17 | 15–19 | 15–19 | 14–20 | 13–21 |
 | [19–20 October 2026](2026-10-20-EMG.html) | EMG <br> Rai 3 | 17 | 16–19 | 16–20 | 16–21 | 15–22 |
 | [14–19 October 2026](2026-10-19-SWG.html) | SWG |  |  |  |  |  |
