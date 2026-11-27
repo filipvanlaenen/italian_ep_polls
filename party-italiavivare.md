@@ -698,7 +698,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [2–3 November 2026](2026-11-03-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [28 October–2 November 2026](2026-11-02-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [2 November 2026](2026-11-02-Piepoli.html) | Piepoli |  |  |  |  |  |
-| [26–31 October 2026](2026-10-31-Lab21.html) | Lab21 <br> Il Riformista | 0 | 0 | 0 | 0 | 0 |
+| [26–31 October 2026](2026-10-31-Lab21.html) | Lab21 <br> Il Riformista | 0 | 0 | 0–4 | 0–4 | 0–4 |
 | [27–30 October 2026](2026-10-30-BiDiMedia.html) | BiDiMedia | 0 | 0 | 0 | 0 | 0–4 |
 | [27–29 October 2026](2026-10-29-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0 | 0 | 0 |
 | [26–29 October 2026](2026-10-29-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0 | 0 | 0 | 0 |

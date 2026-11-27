@@ -695,12 +695,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [2–3 November 2026](2026-11-03-EMG.html) | EMG <br> Rai 3 |  |  |  |  |  |
 | [28 October–2 November 2026](2026-11-02-SWG.html) | SWG <br> La7 |  |  |  |  |  |
 | [2 November 2026](2026-11-02-Piepoli.html) | Piepoli |  |  |  |  |  |
-| [26–31 October 2026](2026-10-31-Lab21.html) | Lab21 <br> Il Riformista | 0 | 0 | 0 | 0–1 | 0–1 |
+| [26–31 October 2026](2026-10-31-Lab21.html) | Lab21 <br> Il Riformista | 0 | 0 | 0 | 0 | 0–1 |
 | [27–30 October 2026](2026-10-30-BiDiMedia.html) | BiDiMedia | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [27–29 October 2026](2026-10-29-TermometroPolitico.html) | Termometro Politico | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [26–29 October 2026](2026-10-29-Ipsos.html) | Ipsos <br> Corriere della Sera | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [27–28 October 2026](2026-10-28-Quorum–YouTrend.html) | Quorum – YouTrend <br> Sky TG24 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [27–28 October 2026](2026-10-28-Eumetra.html) | Eumetra | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [27–28 October 2026](2026-10-28-Eumetra.html) | Eumetra | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [21–26 October 2026](2026-10-26-SWG.html) | SWG <br> La7 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [14–26 October 2026](2026-10-26-Ipsos.html) | Ipsos <br> Associazione Primavera |  |  |  |  |  |
 | [20–22 October 2026](2026-10-22-TermometroPolitico.html) | Termometro Politico |  |  |  |  |  |
